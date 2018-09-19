@@ -11,7 +11,7 @@ Publique los textos de su corpus, el enlace de análisis de su corpus con Voyant
 
 Una vez reciba la invitación, entre al repositorio de GitHub repositoriostextosHDIG. Entre a la carpeta "fuentes secundarias", haga clic en "create new file". Cree una carpeta con un nombre que refleje su tema de indagación y un archivo para responder las preguntas de reflexión de la semana. El archivo se debe llamar: reflexion-nombre-apellido.md
 
-A continuación hay un ejemplo de cómo crear la carpeta (en este ejemplo el nombre de indagación es cartografía-digital) y el archivo descriptivo: 
+A continuación hay un ejemplo de cómo crear la carpeta y el archivo de reflexión: (en este ejemplo el nombre de indagación es cartografía-digital) 
 
 /Fuentes secundarias/cartografía-digital/reflexion-mariajose-afanador.md Vaya a la parte inferior y haga clic en "Commit new file" 
 
