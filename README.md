@@ -3,10 +3,3 @@ Colecciones de fuentes secundarias en texto plano para ejercicios de lectura dis
 
 Copie y pegue el siguiente encabezado al comienzo del texto de reflexión sobre el corpus de documentos. 
 
----
-titulo: Nombre el tema de indagación
-fecha: 2018-09-19
-autor:
-- Fulanito de tal 
-etiquetas: incluya al menos tres palabras clave que describan su corpus
----
