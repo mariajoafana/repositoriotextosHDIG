@@ -1,11 +1,9 @@
 ---
 titulo: Cartografía digital
-date: 2018-09-19
-autore:
+fecha: 2018-09-19
+autor:
 - Maria José Afanador-Llach
-actividad: transformar
 etiquetas: GIS, mapas, visualizaciones
-
 ---
 
 
