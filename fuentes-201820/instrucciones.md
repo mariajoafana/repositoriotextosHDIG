@@ -29,4 +29,4 @@ Al final de la reflexión liste el enlace de Voyant Tools y los textos utilizado
 
 02 Prensky 2001 Prensky, Marc. 2001. “Digital Natives, Digital Immigrants Part 1.” On the Horizon 9 (5): 1–6.
 
-Por último haga clic en el nombre de la carpeta de su proyecto y en "Upload Files" suba todos los documentos de su corpus. 
+Por último haga clic en el nombre de la carpeta de su proyecto, luego en "Upload Files" y luego suba todos los documentos de su corpus. 
