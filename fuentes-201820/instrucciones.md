@@ -13,7 +13,7 @@ Una vez reciba la invitación, entre al repositorio de GitHub repositoriostextos
 
 A continuación hay un ejemplo de cómo crear la carpeta (en este ejemplo el nombre de indagación es cartografía-digital) y el archivo descriptivo: 
 
-/Fuentes secundarias/cartografía-digital/reflexión-mariajose-afanador.md Vaya a la parte inferior y haga clic en "Commit new file" 
+/Fuentes secundarias/cartografía-digital/reflexion-mariajose-afanador.md Vaya a la parte inferior y haga clic en "Commit new file" 
 
 Haga clic en el recién creado archivo: reflexion-nombre-apellido.md  . Para editarlo haga clic en el botón de edición
 
@@ -29,4 +29,4 @@ Al final de la reflexión liste el enlace de Voyant Tools y los textos utilizado
 
 02 Prensky 2001 Prensky, Marc. 2001. “Digital Natives, Digital Immigrants Part 1.” On the Horizon 9 (5): 1–6.
 
-Por último haga clic en el nombre de la carpeta de su proyecto, luego en "Upload Files" y luego suba todos los documentos de su corpus. 
+Por último haga clic en el nombre de la carpeta de su proyecto, luego en "Upload Files" y luego suba todos los documentos .txt de su corpus. 
