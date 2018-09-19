@@ -1,0 +1,23 @@
+åCartografiando las Humanidades Digitales
+Publicado el 25 marzo, 2015 por Silvia Gutierrez
+Pareciera que la visibilidad se ha vuelto sinónimo de representatividad. Y como creo que esto no debería ser así, el año pasado me di a la tarea de cartografiar el mundo visible de las Humanidades Digitales para re-abrir la vieja pregunta de qué son las Humanidades Digitales desde la perspectiva de quiénes las están haciendo, o mejor dicho, de quiénes creemos que las estamos haciendo.
+Esta entrada es una traducción al español de un post que había hecho antes, para ahora aumentar y difundir los contenidos en/para la RedHD y continuar la línea de reflexiones que han tocado en este blog (cf. “Auto-representación y geopolítica en las HD” y “Geopolítica del conocimiento y humanidades digitales“). Aunque el título pretencioso que di a este texto pareciera abrir un estudio exhaustivo, no lo es. Tan sólo he elegido distintas instantáneas de las iniciativas que intentan dar cuenta de la extensión del campo, para que la visualización del mundo que representamos nos permita ser críticos con él.
+CenterNet/Quantifying the Digital Humanities
+Una de las primeras iniciativas de ubicar a las Humanidades Digitales en el mapa (ca. 2007) fue CenterNet.
+
+Sin embargo, como Élika Ortega y yo pudimos darnos cuenta, el método “centro-céntrico” ignora otro tipo de formas de organización/prácticas en las HD. En MapaHD (una indagación sobre los Humanistas Digitales en el mundo luso- e hispanoparlante) justo procuramos dar cuenta del perfil diferente que se obtiene al incluir las iniciativas que funcionan como proyectos o investigaciones individuales:
+
+Proyectos de Humanidades Digitales en Alemania
+Un acercamiento a los proyectos muy interesante es el desarrollado utilizando una herramienta creada por la Iniciativa de Infraestructura Digital para las Artes y Humanidades de la Unión Europea (DARIAH): el Geobrowser, con el cual no sólo es posible observar la distribución geográfica de los proyectos sino su desarrollo temporal:
+
+MapaHD
+Justo para MapaHD Élika Orteg y yo utilizamos el GeoBrowser para crear nuestra propia cartografía de los humanistas auto-indentificados como practicantes de las HD en Español y Portugués. Entre otras cosas, nos pudimos dar cuenta de que los Humanistas Digitales no se encuentran únicamente en países hispano/lusohablantes y que el desarrollo de las HD fueron casi a la par del de las Digital Humanities:
+ 
+Eventos/Conferencias
+Otra forma de entender el desarrollo de las HD es observando la distribución geográfica y lingüística de sus conferencias. En este mapa combiné la información proporcionada por Sagrario López y Álvaro Baraibar para crear un mapa de los seminarios/jornadas de HD en España
+
+En ese mismo sentido es interesante revisar la cartografía de las conferencias DH que ha hecho Scott Weingart tomando como referencia la universidad de origen de los participantes
+Por supuesto que esto no da necesariamente una idea de la cobertura de los temas pues, como mencioné arriba, varios HD, por ejemplo, están en Universidades fuera de su círculo lingüístico (es decir en EUA, UK, Alemania, o Italia). Sin embargo, sí da cuenta de la fuerte predominancia de Europa-USA/Canada con los centros universitarios mejor representados en este tipo de conferencias.
+Esto se ve confirmado cuando observamos en un mapa la afiliación de los autores de libros como Defining Digital Humanities coordinado por Melisa Terras, Julianne Nyhan y Edward Vanhoutte.
+
+Por supuesto que el problema no se resolverá añadiendo más puntos al mapa, sino reflexionando en qué podemos hacer al respecto. Por fortuna, grupos como GO:DH; ejercicios de traducción como los realizados durante #DayofDH e iniciativas como la de Élika y Alex de traductores voluntarios en las conferencias de DH ya apuntan a esa apertura.
