@@ -17,7 +17,7 @@ A continuación hay un ejemplo de cómo crear la carpeta y el archivo de reflexi
 
 Haga clic en el recién creado archivo: reflexion-nombre-apellido.md  . Para editarlo haga clic en el botón de edición
 
-Copie y pegue el formato de los datos del encabezado que se encuentran en el archivo Readme.md . Para copiar haga clic en el botón de edición. Una vez los haya llenado (ver ejemplo de cartografía-digital) escriba la reflexión de la semana en este espacio a partir de las siguientes indicaciones. Cuando termine haga clic en "Commit changes". (Para conocer más sobre MarkDown, que es la sintaxis de marcado que se utiliza en GitHub para dar formato al texto puede leer: https://programminghistorian.org/es/lecciones/introduccion-a-markdown )
+Copie y pegue el formato de los datos del encabezado que se encuentran en el archivo Emcanezado.yaml . Para copiar haga clic en el botón de edición. Una vez los haya llenado (ver ejemplo de cartografía-digital) escriba la reflexión de la semana en este espacio a partir de las siguientes indicaciones. Cuando termine haga clic en "Commit changes". (Para conocer más sobre MarkDown, que es la sintaxis de marcado que se utiliza en GitHub para dar formato al texto puede leer: https://programminghistorian.org/es/lecciones/introduccion-a-markdown )
 
 Examine su nube de palabras y revise la sección "Summary" donde podrá ver la lista de palabras distintivas. Analice su nube de palabras y responda las siguientes preguntas (máximo 250 palabras):
 
