@@ -1,0 +1,3293 @@
+Cultura
+en el entorno
+digital
+
+Octavio Kulesz
+
+POLÍTICA E
+INVESTIGACIÓN
+
+La
+
+Evaluar el impacto
+en América Latina
+y en España
+
+Este estudio fue realizado por Octavio Kulesz,
+fundador y director de Editorial Teseo.
+Con más de 15 años de experiencia en el sector editorial,
+trabaja como investigador en temas relacionados
+con libros electronicos, medios sociales y cultura digital
+en economías emergentes.
+Este estudio se centra en España y los siguientes
+países hispanohablantes de América Latina:
+Argentina, Colombia, Ecuador y México.
+
+Publicado en 2017 por la Organización de las Naciones Unidas
+para la Educación, la Ciencia y la Cultura,
+7, place de Fontenoy, 75352 París 07 SP, Francia
+© UNESCO 2017
+CLT-2017/WS/11
+
+Esta publicación está disponible en acceso abierto bajo la licencia AttributionShareAlike 3.0 IGO (CC-BY-SA 3.0 IGO) (http://creativecommons.org/licenses/
+by-sa/3.0/igo/). Al utilizar el contenido de la presente publicación, los usuarios
+aceptan las condiciones de utilización del Repositorio UNESCO de acceso abierto
+(http://fr.unesco.org/open-access/terms-use-ccbysa-fr).
+Los términos empleados en esta publicación y la presentación de los datos
+que en ella aparecen no implican toma alguna de posición de parte de la
+UNESCO en cuanto al estatuto jurídico de los países, territorios, ciudades o
+regiones ni respecto de sus autoridades, fronteras o límites.
+Las ideas y opiniones expresadas en esta obra son las de los autores y no
+reflejan necesariamente el punto de vista de la UNESCO ni comprometen a
+la Organización.
+Diseño grafico: Corinne Hayworth
+Diseño de cubierta: Corinne Hayworth
+Impreso en Francia
+Esta publicacion fue apoyada por el Gobierno de España
+
+Índice
+Prólogo	5
+Resumen ejecutivo	
+Introducción 	
+
+7
+11
+
+1.	 Acceso a la cultura . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Caso de estudio 1.	 Plan Vive Digital (Colombia) 	
+
+21
+
+2.	Creatividad. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Caso de estudio 2.	 Latitud1x1 (Ecuador)	
+
+27
+
+Caso de estudio 3.	 Centro de Cultura Digital (México) 	
+
+31
+
+3.	 Industrias culturales. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Caso de estudio 4.	 Ayudas a las industrias culturales
+		
+y creativas (España)	
+Caso de estudio 5.	 Retina Latina	
+
+38
+39
+
+4.	 Sociedad civil . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Caso de estudio 6.	 Foro de Cultura Digital (Argentina)	
+
+43
+
+Conclusión y recomendaciones	
+
+47
+
+ANEXO 1. Principales expertos consultados	
+
+55
+
+La Cultura en el entorno digital
+
+ANEXO 2. Bibliografía	59
+
+3
+
+Prólogo
+Desde la adopción de la Convención sobre la Protección y
+la Promoción de la Diversidad de las Expresiones Culturales en
+octubre de 2005, se han producido enormes transformaciones
+tecnológicas. La era digital ha cambiado significativamente el
+panorama cultural y ha tenido un gran impacto en los sectores
+creativos de todo el mundo.
+Con la aparición de nuevos actores, la acelerada expansión
+de las redes sociales, la explosión de los macrodatos (big data)
+y de la computación en nube, han surgido nuevos modelos de
+creación, producción, distribución, acceso y participación. Estos
+nuevos modelos han permitido a los artistas y profesionales
+culturales pasar por alto los canales de distribución tradicionales
+e interactuar directamente con el público y las audiencias o
+clientes potenciales.
+Tales cambios pueden ser simultáneamente ventajosos y
+desafiantes, y los sistemas globales de gobierno de la cultura
+deben adaptarse a esta nueva realidad para asegurar que
+la diversidad de las expresiones culturales sea protegida y
+promovida.
+
+Nuevas preguntas requieren nuevas respuestas: ¿Cómo
+modernizar las políticas para la creatividad en el entorno digital?
+¿Cómo considerar el comercio electrónico en los acuerdos
+comerciales? ¿Cómo involucrar a los actores digitales locales
+y proteger la remuneración en línea de los artistas? ¿Cómo
+abordar las fracturas y desigualdades digitales?
+
+La Cultura en el entorno digital
+
+El respeto de los derechos humanos y la libertad artística en el
+entorno digital, en particular los derechos sociales y económicos
+de los artistas, se reconoce ahora como un nuevo desafío para
+el desarrollo sostenible. Esto incluye el empoderamiento de las
+mujeres y las niñas mediante el apoyo a su participación en las
+industrias culturales y creativas como creadoras y productoras
+de expresiones culturales.
+
+5
+
+Las Partes en la Convención de 2005 han reconocido la
+importancia de estas cuestiones y manifestado su compromiso
+político para trabajar en una nueva “agenda digital”. En junio
+de 2017, se incluyeron nuevas orientaciones prácticas sobre
+cuestiones digitales en el texto de la Convención. Las Partes
+también apoyan cada vez más la creatividad digital a través del
+Fondo Internacional para la Diversidad Cultural (FIDC).
+En este contexto, una búsqueda sistémica y continua de datos
+es indispensable para monitorear las principales tendencias en
+la formulación de políticas e identificar los avances intervenidos
+en este ámbito. En este sentido, los datos obtenidos en una
+región y las experiencias de otra pueden ser extremadamente
+valiosos para determinar el impacto de las políticas y medidas.
+Al analizar cómo estos cambios han creado oportunidades y
+desafíos para la cadena creativa en América Latina y en España,
+este estudio ofrece una visión única de una parte del mundo
+que está experimentando cambios rápidos, que se ilustran en la
+adopción de nuevos planes y estrategias digitales.
+La compilación y difusión de estas informaciones son esenciales
+para evaluar los objetivos, resolver cuestiones estratégicas de
+política y mejorar los instrumentos de política existentes.
+Quiero agradecer sinceramente al Reino de España por su
+apoyo financiero y por hacer posible este estudio. Esperamos
+realizar un trabajo comparativo similar en el futuro, con un
+ámbito geográfico más amplio, con el fin de fomentar una mayor
+cooperación y de continuar repensando los principios clave de la
+Convención -acceso, apertura y equilibrio- en la era digital.
+Danielle Cliche
+
+La Cultura en el entorno digital
+
+Secretaria de la Convención sobre la Protección y Promoción
+de la Diversidad de las Expresiones Culturales de 2005,
+Jefa de la Sección de la Diversidad de las Expresiones Culturales
+
+6
+
+Resumen ejecutivo
+En las últimas dos décadas, las tecnologías digitales
+han transformado de raíz la escena cultural. En efecto, las
+nuevas formas de creación, producción, distribución, acceso
+y participación han revolucionado industrias enteras, como
+la edición de libros, la música y el cine, en un proceso que ha
+afectado tanto al Norte como al Sur.
+En el seno de la UNESCO, esta cuestión es actualmente
+objeto de un tratamiento pormenorizado, en el marco de la
+Convención de 2005 sobre la Protección y la Promoción de
+la Diversidad de las Expresiones Culturales (en lo sucesivo la
+Convención 2005). Además de las diferentes investigaciones
+que se han llevado adelante hasta la fecha, las Partes de la
+Convención 2005 están incorporando de manera progresiva la
+problemática digital en sus informes periódicos cuadrienales,
+y en el marco del proceso de aprobación de directivas
+operacionales exclusivamente enfocadas a esta área.
+
+Tal como intentaremos mostrar, el panorama de
+oportunidades, desafíos y políticas asociados con la protección
+y la promoción de la diversidad de las expresiones culturales
+en la era digital en España y América Latina presenta una gran
+complejidad. Del examen parece desprenderse que las nuevas
+tecnologías pueden representar tanto una ventaja como un
+reto, en función de cómo se apliquen en cada contexto: en
+efecto, según el modo en que se empleen, las herramientas
+digitales pueden por ejemplo generar un mercado de industrias
+culturales rico y dinámico, o bien concentrar la oferta en manos
+de muy pocos jugadores. Y las políticas públicas tienen un peso
+decisivo a la hora de definir el resultado en uno u otro sentido.
+
+La Cultura en el entorno digital
+
+En este trabajo, proponemos examinar el impacto de lo
+digital en la diversidad de las expresiones culturales en España
+y en los países hispanohablantes de América Latina (en lo
+sucesivo “América Latina“), prestando particular atención a los
+sectores del libro, la música y el cine. Nos hemos concentrado
+en 5 países: Argentina, Colombia, Ecuador, España y México.
+
+7
+
+Dentro de este marco, cuando se trata de proteger y
+promover la diversidad de las expresiones culturales en el
+nuevo entorno, los avances logrados por unos países pueden
+ser de enorme utilidad para los otros. Por cierto, muchas de
+las iniciativas que hemos estudiado en relación con el acceso,
+la creatividad, las industrias culturales y la participación de
+la sociedad constituyen claros casos de éxito que podrían
+replicarse. Ahora bien, más allá de las acciones que han sido
+llevadas adelante, existen ciertas zonas menos exploradas, sobre
+las que valdría la pena detenerse. Nos referimos principalmente
+a ciertas oportunidades que no están siendo completamente
+aprovechadas, o a determinados desafíos que no están siendo
+suficientemente atendidos.
+En el ámbito del acceso, el sector público ha realizado
+importantes esfuerzos para reducir la brecha digital. Sin
+embargo, estos proyectos suelen formar parte de vastos
+planes nacionales de infraestructura en cuya elaboración e
+implementación intervienen generalmente los Ministerios de
+Tecnología, de Industria, de Comunicaciones, de Educación,
+entre otros, pero no el de Cultura –lo que puede impactar
+negativamente en términos de la diversidad de las expresiones
+culturales. Por otro lado, en un contexto en el cual grandes
+plataformas internacionales ejercen una presión creciente para
+ofrecer soluciones de infraestructura, resulta indispensable
+insistir en que, sin políticas públicas en este ámbito, el acceso
+equitativo y la neutralidad de la web pueden correr riesgos.
+
+La Cultura en el entorno digital
+
+Desde el punto de vista de la creatividad, los países han
+invertido en plataformas y aplicaciones que contribuyen a la
+visibilidad de los artistas locales, en actividades de capacitación
+que ayudan a experimentar y crear con tecnologías digitales,
+y en distintas medidas que protegen el derecho de autor. No
+obstante, a menudo las políticas culturales siguen demasiado
+ancladas en el modelo de creación analógico –en el cual el
+mensaje se comunica unidireccionalmente– y pierden un
+poco de vista el paradigma propio de nuevo entorno, que se
+caracteriza por la interacción y la colaboración.
+
+8
+
+Respecto de las industrias culturales, las ayudas para la
+vinculación profesional, la capacitación y la modernización,
+así como la construcción de plataformas que contribuyen a la
+consolidación de la industria del libro, de la música o del cine son
+iniciativas fundamentales. Con todo, los desafíos relacionados
+con las grandes plataformas globales y su impacto en la cadena
+creativa local no están recibiendo un tratamiento integral: sin
+una estrategia firme en este ámbito, pueden acentuarse los
+problemas a nivel no sólo de las industrias sino también de las
+estadísticas nacionales.
+Finalmente, los países han llevado adelante numerosos
+proyectos de difusión cultural y fomento de la participación
+social, en particular a través de plataformas de divulgación,
+comunicación en redes sociales, consultas ciudadanas,
+conferencias y publicaciones sobre la cultura en la era digital.
+Pero aquí se presenta una oportunidad algo desaprovechada: la
+posibilidad de sensibilizar al público general sobre los objetivos
+y principios de la Convención 2005 y de mantener una discusión
+más explícita sobre cómo impacta lo digital en la diversidad de
+las expresiones culturales.
+
+Al mismo tiempo, también es evidente que existen marcados
+contrastes entre los países, referidos a un buen número de
+particularidades tecnológicas, económicas y sociales. Por
+ejemplo, muchas de las medidas llevadas adelante en España
+tienden a alinearse con los programas de integración europea
+–como ocurre con el Mercado Único Digital–, mientras que las
+agendas digitales de los 4 países latinoamericanos estudiados
+suelen poner el acento en la reducción de asimetrías y en la
+diversificación de una economía demasiado dependiente de las
+exportaciones primarias. En el caso concreto de Colombia, las
+nuevas tecnologías adquieren un sentido aún más específico:
+aparecen directamente asociadas a la construcción de la paz y
+al período del “posconflicto”.
+
+La Cultura en el entorno digital
+
+En cualquier caso, es claro que para la cultura de los países
+hispanohablantes la era digital no representa un futuro posible,
+sino que constituye una realidad presente. A pesar de que falta
+muchísimo por hacer para alcanzar una comprensión profunda
+de estos procesos tanto en términos cuantitativos como
+cualitativos, podríamos postular que el espacio cultural digital
+conformado por España y América Latina no es algo que deba
+construirse desde cero, sino que ya existe y se desarrolla de
+manera muy dinámica.
+
+9
+
+La Cultura en el entorno digital
+
+En futuras investigaciones sobre la relación entre lo digital
+y la diversidad de las expresiones culturales en el mundo
+hispanohablante, será sin duda necesario mantener este doble
+abordaje. Por un lado, habrá que seguir prestando atención al
+aspecto universal/común, conformado por el amplio espectro
+de oportunidades, desafíos y políticas que se repiten a lo largo
+de la región. En segundo término –en la medida en que los
+datos disponibles lo permitan– resultará fundamental examinar
+el componente local/específico, definido por la coyuntura
+y las prioridades de cada país –rasgos originales que podrían
+acentuarse con el paso del tiempo. En cierto sentido, se trata
+de la misma dualidad que hallamos en la idea de una lengua
+común: la región comparte el español, pero existen diferencias
+dialectales que deben ser tenidas en cuenta. Y, a fin de cuentas,
+si el objetivo es consolidar el espacio digital hispanohablante
+de un modo que promueva y proteja la diversidad de las
+expresiones culturales, resultará indispensable fortalecer ambos
+pilares a la vez: las redes de intercambio regional –de datos,
+de experiencias, de contenidos, de expresiones artísticas– y el
+trabajo incesante sobre las necesidades locales concretas.
+
+10
+
+Introducción
+En las últimas dos décadas, las tecnologías digitales
+han transformado de raíz la escena cultural. En efecto, las
+nuevas formas de creación, producción, distribución, acceso
+y participación han revolucionado industrias enteras, como
+la edición de libros, la música y el cine, en un proceso que ha
+afectado tanto al Norte como al Sur.
+En el seno de la UNESCO, esta cuestión es actualmente
+objeto de un tratamiento pormenorizado, en el marco de la
+Convención de 2005 sobre la Protección y la Promoción de
+la Diversidad de las Expresiones Culturales (en lo sucesivo la
+Convención 2005). Por cierto, si bien la Convención 2005 no
+menciona explícitamente la cuestión digital –pues sólo alude,
+de manera más genérica, a las “tecnologías de la información y
+la comunicación” o a las “nuevas tecnologías”–, el principio de
+neutralidad tecnológica enunciado en el artículo 4.1 deja en
+claro que su marco legal debe aplicarse a cualquier entorno –
+incluso el digital.
+Las referencias a la cuestión digital se han multiplicado
+desde que los primeros informes periódicos cuadrienales sobre
+la implementación de la Convención fueron entregados en
+2012.1 El análisis de estos documentos y de otras tendencias
+contemporáneas2 parece indicar que lo digital afecta
+transversalmente los 4 grandes objetivos que subyacen a la
+Convención 2005:3
+◗◗ el nuevo contexto tecnológico ha reconfigurado drásticamente la cadena
+de valor, de un modo que afecta la sostenibilidad de los sistemas de
+gobernanza para la cultura;
+
+1. Los informes, entregados por las Partes cada cuatro años, pueden consultarse desde este enlace: http://www.unesco.org/
+culture/cultural-diversity/2005convention/en/periodicreport/list/. El nuevo formulario para los informes periódicos, revisado en
+junio de 2015, invita a las Partes a ofrecer detalles acerca de las tecnologías digitales y los desafíos que éstas presentan, dentro
+de las secciones tituladas “Contexto de la política cultural” y “Aspectos transversales”. Una versión en PDF de este formulario se
+encuentra disponible aquí: http://en.unesco.org/creativity/sites/creativity/files/qpr_online_form_en_shorten.pdf.
+2. Entre las diferentes investigaciones que se han llevado adelante acerca de la diversidad de las expresiones culturales en la era
+digital, podríamos mencionar Guèvremont et al. (2013), Kulesz (2014) y Lee y Lim (2015).
+3. Cf. UNESCO (2015b: 13).
+
+La Cultura en el entorno digital
+
+◗◗ las disparidades tecnológicas entre Norte y Sur representan un claro desafío
+a la hora de lograr un flujo equilibrado de bienes y servicios culturales;
+
+11
+
+◗◗ si bien las nuevas tecnologías pueden ayudar a consolidar el entramado
+económico y social local, la irrupción de las grandes plataformas de
+Internet en el comercio de bienes y servicios culturales puede constituir un
+reto cuando se trata de integrar la cultura en un marco de desarrollo
+sostenible.
+◗◗ la expansión de la web como espacio de creación, acceso y participación
+social renueva la necesidad de promover la libertad de expresión, el
+derecho a la privacidad y los derechos humanos en general.
+Es dentro de este contexto, caracterizado tanto por
+oportunidades como por desafíos, que los órganos de la
+Convención 2005 están elaborando directivas operacionales
+específicamente orientadas a la temática digital, que están en
+proceso de aprobación.4 El texto servirá de guía para interpretar
+la Convención 2005 en el entorno digital y ofrecerá principios
+claros para implementación de nuevas políticas culturales.
+Al mismo tiempo, el marco de seguimiento propuesto en el
+Reporte Global Re|pensar las políticas culturales de la UNESCO5
+contribuirá a medir potenciales avances en la protección y
+promoción de la diversidad de las expresiones culturales en el
+entorno digital.6
+
+La Cultura en el entorno digital
+
+Otro aspecto a tener en cuenta es que el impacto de las
+tecnologías reviste características globales, pero también
+presenta particularidades locales y regionales, en función de
+variables como la infraestructura, la legislación e incluso la
+lengua. En este último caso, hay que reconocer que aquellos
+países que comparten un mismo idioma conforman una
+suerte de “territorio digital” común, al interior del cual pueden
+detectarse oportunidades y desafíos recurrentes. Ahora bien,
+puesto que casi 470 millones de personas tienen al español
+como lengua materna,7 es claro que estudiar estos fenómenos
+en el mundo hispanohablante puede resultar un ejercicio
+sumamente fecundo, sobre todo a la hora de pensar nuevas
+estrategias culturales.
+
+12
+
+Llegados a este punto, hay que subrayar que lo digital está
+ganando relevancia en las políticas de la región, aunque los
+enfoques son variados.
+
+4. Cf. UNESCO (2015a).
+5. Cf. Anheier (2015: 31 y ss.).
+6. Para un resumen de este marco, ver infra, sección “Seguimiento y evaluación de las variables digitales”.
+7. Cf. Instituto Cervantes (2015: 5).
+
+La Comisión Económica para América Latina y el Caribe de las
+Naciones Unidas (CEPAL),8 por ejemplo, impulsa la adopción de
+una agenda digital –eLAC2018–,9 orientada a distintas áreas de la
+economía, entre ellas al desarrollo de contenidos y aplicaciones.
+Por otro lado, la Comunidad de Estados Latinoamericanos
+y Caribeños (CELAC) promueve el Plan de Acción Cultural
+2015-2020, que subraya la necesidad de garantizar la libre
+manifestación de la diversidad de las expresiones culturales en
+Internet.10 Sin embargo, es tal vez a escala iberoamericana donde
+la intersección entre la diversidad de las expresiones culturales y
+la era digital se expresa de manera más concisa. La Carta Cultural
+Iberoamericana –instrumento creado en 2006 por iniciativa de
+la Organización de Estados Iberoamericanos para la Educación,
+la Ciencia y la Cultura (OEI) para favorecer una mayor articulación
+y una mejor cooperación entre los países de la región–11
+reafirma explícitamente los principios de la Convención 2005
+y menciona en reiteradas ocasiones la cuestión tecnológica.
+En particular, el documento llama a “promover el desarrollo y
+la utilización de las nuevas tecnologías como oportunidades
+de creación, producción, difusión y promoción de bienes y
+servicios culturales, así como su contribución a la formación
+de nuevos públicos y al intercambio cultural entre los países”.
+A diez años de la adopción de la Carta Cultural, estos objetivos
+siguen vigentes y se plasman hoy en el proyecto de Agenda
+Cultural Digital para Iberoamérica impulsado por la Secretaría
+General Iberoamericana (SEGIB), con apoyo de la OEI. Por cierto,
+en el artículo 14 de la Declaración de Veracruz –emitida en
+2014, en el marco de la XXIV Cumbre Iberoamericana, que llevó
+como título “Educación, innovación y cultura en un mundo en
+transformación”– se recomienda:
+
+8. Cabe aclarar que en la exposición haremos referencia a la situación de Iberoamérica y de América Latina, territorios que
+en rigor no coinciden con el que aquí examinamos (puesto que esos conjuntos incluyen también a países lusófonos como
+Portugal y Brasil), pero que de todos modos pueden resultar muy útiles para el análisis de tendencias comunes.
+9. Cf. CEPAL (2015a).
+10. Cf. CELAC (2015).
+11. Cf. “Carta Cultural” (2006).
+
+La Cultura en el entorno digital
+
+“encargar a la SEGIB y a la OEI, en coordinación con los países miembros
+y con el grupo de trabajo permanente adoptado en la XVII Conferencia
+Iberoamericana de Ministros de Cultura, que articule la puesta en marcha
+de la Agenda Digital Cultural para Iberoamérica que contribuirá a
+la consolidación del espacio cultural iberoamericano y su inserción en
+las redes mundiales de información.
+
+13
+
+Dicha Agenda promoverá la digitalización y la participación de la
+sociedad en la cultura digital, en las industrias creativas, en la generación
+de contenidos locales y compartidos, y en la preservación del patrimonio
+cultural, reconociendo las diferencias y asimetrías entre los países, respetando
+los ordenamientos jurídicos nacionales, la diversidad cultural, expandiendo
+el acceso a los contenidos y respetando la propiedad intelectual.” 12
+Esta declaración expresa un programa muy claro. En primer
+lugar, el texto –en sintonía con otros documentos anteriores–
+habla de “consolidar” el espacio cultural iberoamericano, y
+no de “crearlo”, lo que representa una apuesta firme en pos de
+integrar y mejorar lo ya logrado –en lugar de impulsar soluciones
+construidas “desde arriba”.13 Además, el documento define con
+precisión las grandes líneas de acción, en un marco de promoción
+de la diversidad cultural y de respeto de la soberanía de cada país:
+1) la expansión del acceso; 2) la generación de contenidos locales;
+3) el desarrollo de las industrias creativas; 4) la participación de la
+sociedad; 5) la preservación del patrimonio cultural.
+Es dentro de este marco que proponemos examinar el
+impacto de lo digital en la diversidad de las expresiones
+culturales de España y América Latina, prestando particular
+atención a los sectores del libro, la música y el cine.14 Nos
+hemos concentrado en 5 países –Argentina, Colombia, Ecuador,
+España y México–,15 priorizando en cada caso el punto de vista
+nacional, aunque también hemos incluido ciertas referencias a
+la situación provincial/autonómica y municipal.
+12. Cf. “Declaración de Veracruz” (2014).
+
+La Cultura en el entorno digital
+
+13. Cf. por ejemplo SEGIB (2013: 22): “En definitiva, disponemos de numerosos fragmentos de Espacio Cultural Iberoamericano
+ya construidos, y esto es lo que hace que lo correcto sea hablar de afirmación o ‘consolidación’ del Espacio –como hacen la
+Carta Cultural Iberoamericana y la Declaración de la Cumbre Iberoamericana de Cádiz– y no de ‘creación’ del Espacio. Crear es
+generar algo ex novo; consolidar es impulsar algo que ya existe. Y, efectivamente, el espacio en parte ya es”.
+
+14
+
+14. Si bien la era digital ha implicado una transformación de todas las industrias culturales, en el presente trabajo hemos orientado
+el análisis a esos 3 segmentos, ya que hacia allí se dirige el grueso de las políticas públicas de los países hispanohablantes. Esto
+es particularmente evidente en el terreno de la cooperación: la Carta Cultural Iberoamericana, por ejemplo, llama a “establecer
+mecanismos de cooperación que promuevan una distribución de sus bienes y servicios culturales en el espacio iberoamericano y
+en el exterior, con especial atención en el sector cinematográfico y audiovisual, en la música y el libro”. Asimismo, la incorporación
+de estos tres sectores permite realizar una primera aproximación y establecer comparaciones cuantitativas y cualitativas de
+un modo mucho más firme que si tratáramos con otras prácticas que en la región son aún incipientes –como la utilización de
+nuevas tecnologías en artes escénicas– o que han recibido hasta hoy una menor atención por parte de las políticas públicas. No
+obstante, tal como señalaremos en las conclusiones y en las recomendaciones finales, una de las claves para la consolidación de
+las industrias del libro, la música y el cine podría residir en el establecimiento de sinergias con otros sectores creativos, tales como
+la animación o los videojuegos. El impacto de estos últimos en la diversidad de las expresiones culturales deberá ser objeto de
+nuevos estudios en el futuro.
+15. Dicha selección consigue reunir los 4 países de mayor PIB y población –Argentina, Colombia, España y México–, que
+cubren áreas geográficas y contextos culturales muy diversos –Europa, América del Norte, Cono Sur, Región Andina, Caribe,
+Amazonas–, que determinan una rica variedad de políticas públicas; la inclusión de Ecuador –sede de la oficina de la
+UNESCO para Bolivia, Colombia, Ecuador y Venezuela– ha sido especialmente relevante para comprender la realidad andina.
+Inevitablemente, esta elección metodológica deja afuera a muchos países que podrían contribuir con elementos muy
+importantes, y que deberían ser objeto de nuevos estudios en el futuro. Por otro lado, en el presente trabajo no hemos incluido
+referencias a la situación de la comunidad hispanohablante de Estados Unidos, pues nos hemos concentrado únicamente en
+los países que son parte de la Convención 2005.
+
+Por otro lado, dado el carácter cambiante tanto de las
+tecnologías como de las políticas y de los actores involucrados,16
+no sólo hemos consultado fuentes escritas –legislación, informes
+periódicos cuadrienales, estadísticas, investigaciones sectoriales,
+artículos periodísticos, entre otros–17 sino que hemos recurrido
+además al testimonio directo de alrededor de 80 expertos,
+artistas, emprendedores y representantes del sector público
+cuya generosa contribución ha sido vital para comprender la
+situación local.18 A fin de abarcar un universo de tendencias lo
+más rico posible, hemos prestado atención a la digitalización
+de los bienes culturales analógicos, a su distribución y difusión
+en línea e incluso a los fenómenos relacionados con la creación
+digital pura –tal como ocurre con el arte digital.
+Ahora bien, debemos advertir que la presente investigación
+no busca constituirse en un diagnóstico de la cultura digital local
+ni de los progresos tecnológicos de cada país: se trata, más bien,
+de analizar el modo específico en que las nuevas tecnologías
+impactan en la diversidad de las expresiones culturales19 en el
+seno de la región, con un claro énfasis en las oportunidades, los
+desafíos y las medidas implementadas en años recientes.
+Sin embargo, será importante no perder de vista las
+circunstancias locales. En efecto, entre los países seleccionados
+existen numerosas especificidades socio-económicas que
+determinan prioridades y problemáticas diferentes. En términos
+de infraestructura, por ejemplo, España se encuentra alineada
+con los programas de integración europea –en particular con
+el Mercado Único Digital– y lleva una clara ventaja respecto de
+América Latina.20 Al mismo tiempo, la crisis económica iniciada
+en 2008 ha obligado a las industrias culturales españolas a
+buscar nuevos mercados y a ganar competitividad por todos los
+medios posibles.
+
+17. Los informes cuadrienales disponibles a la fecha son los de Argentina (2012 y 2016), Ecuador (2012), España (2012 y 2016)
+y México (2012 y 2016). En cuanto a las estadísticas, no siempre resulta sencillo dar con informaciones actualizadas sobre los
+fenómenos que aquí examinamos, de modo que ha sido necesario recurrir a una pluralidad de fuentes: sector público de
+cada país, gremios profesionales tanto nacionales como internacionales, organismos regionales como el CERLALC y la CEPAL
+(entre otros), empresas de investigación de mercado como eMarketer o Deloitte, así como artículos de prensa. Las fuentes
+específicamente citadas en el trabajo pueden encontrarse detalladas en el Anexo 2.
+18. En el Anexo 1 consignamos la lista de los principales expertos contactados. Las entrevistas fueron llevadas adelante entre
+febrero y abril de 2016 y, en su vasta mayoría, se realizaron cara a cara. Los testimonios que aparecen insertados en el texto sin
+referencia de fuentes han sido extraídos de estas conversaciones.
+19. Es importante señalar que aquí nos referimos a la diversidad de las expresiones culturales –en el sentido estricto que se
+le asigna en la Convención 2005– y no a la diversidad cultural en general. Esto deja de lado cuestiones como el patrimonio
+–material o inmaterial.
+20. A lo largo del trabajo, brindaremos informaciones más detalladas sobre todas estas tendencias.
+
+La Cultura en el entorno digital
+
+16. Este aspecto se ve acentuado por las transformaciones en la coyuntura política de 3 de los países analizados: Argentina
+eligió una nueva administración en diciembre de 2015; España atraviesa actualmente un proceso electoral; y México disolvió
+recientemente la CONACUL TA, para crear la nueva Secretaría de Cultura.
+
+15
+
+Los países latinoamericanos, por su parte, han logrado
+mejoras en cuanto a la conectividad de banda ancha, aunque
+las brechas de acceso siguen siendo considerables y explican en
+buena medida que el comercio electrónico represente aún una
+porción relativamente pequeña de la economía. Por otro lado,
+la actual desaceleración económica y la caída de los precios
+de las materias primas refuerzan en toda la región la urgencia
+de diversificar las fuentes de ingresos. En el caso particular
+de Argentina, existe una enorme asimetría de infraestructura
+que separa a la capital de las otras localidades de ese extenso
+país. En Colombia existen ciudades intermedias –como
+Medellín y Cali– de mayor peso relativo, y el énfasis está puesto
+especialmente en reducir las brechas entre campo y ciudad, así
+como en aprovechar todas las herramientas disponibles a fin
+de consolidar la paz. Las disparidades entre centros urbanos y
+rurales afectan igualmente a Ecuador –un país caracterizado
+por una rica pluralidad de culturas. México –el país más poblado
+de la región hispanohablante– también cuenta con una vasta
+diversidad y un valioso legado histórico; su escala posibilita la
+puesta en marcha de proyectos de gran envergadura.
+A fin de tratar todos estos temas, hemos organizado el informe a partir de 4
+ejes centrales, que se corresponden con artículos clave de la Convención 2005:
+1.	 El acceso a la cultura; 21
+2.	 La creatividad; 22
+3.	 Las industrias culturales; 23
+4.	 La participación de la sociedad civil y la sensibilización del público. 24
+Tal como intentaremos mostrar, la región presenta una amplia
+gama de políticas que, aunque no mencionen explícitamente la
+Convención 2005,25 contribuyen de manera concreta a proteger
+y promover la diversidad de expresiones culturales en la era
+digital. Los casos de éxito y las lecciones aprendidas podrían servir
+de inspiración para promover nuevos proyectos, ya sea a nivel
+nacional o regional.
+
+La Cultura en el entorno digital
+
+21. Artículos 2.7, 4.6 y 7.1.
+
+16
+
+22. Artículos 4.1, 4.3, 6.2, 7.2 y 10.c.
+23. Artículos 4.5, 6.2.c y 10.c. En términos de la cadena de valor cultural, esta sección correspondería a las etapas de producción
+y distribución.
+24. Artículos 10 y 11. Vale la pena aclarar que, en un contexto de reacomodamiento de la cadena creativa, las 4 áreas
+examinadas pueden superponerse: por ejemplo, el ámbito de los artistas se acerca cada vez más al mundo de las industrias
+culturales, en la medida en que los creadores tienen mayores posibilidades de auto-publicarse y auto-distribuirse. Con todo,
+pensamos que, a los fines de la exposición, la distinción entre creatividad –punto de vista de los artistas– e industrias culturales
+–punto de vista de los emprendedores/empresarios– sigue siendo relevante.
+25. Por cierto, las referencias a la Convención 2005 y a la diversidad de las expresiones culturales suelen estar mucho más
+presentes en el ámbito de la cooperación internacional que en las políticas nacionales. Cf. García Leiva (2015).
+
+EJES CENTRALES
+
+1
+Acceso
+a la cultura
+
+17
+
+1. Acceso
+“Nuestros países suelen ser muy centralistas: por las capitales circula
+el grueso de los intercambios. Es cierto que, en algunos casos, las
+ciudades intermedias tienen un peso importante –como ocurre en
+Colombia con Medellín o Cali–, pero todavía hay mucho por hacer
+en toda América Latina, en términos de descentralización. Y para
+las políticas culturales que se aboquen a esta tarea, las nuevas
+tecnologías pueden convertirse en un aliado muy valioso.”
+Ángel Moreno
+
+Subdirector de Prácticas Culturales de la Secretaría de Cultura Recreación
+y Deporte de la alcaldía de Bogotá, Colombia
+
+Es claro que las nuevas tecnologías pueden
+implicar grandes ventajas en términos de
+acceso a la cultura.26 En primer lugar, los
+medios de distribución digital permiten
+–al menos en principio– acercar los libros,
+la música y el cine a cualquier rincón
+de un país, de una manera mucho más
+eficaz que épocas anteriores. Esto resulta
+particularmente útil para las naciones que
+poseen una gran extensión territorial y
+una geografía accidentada: así, para una
+pequeña biblioteca del sur de la Argentina
+u otra del interior de Colombia que buscan
+ofrecer a sus lectores un fondo surtido y
+actualizado, podría resultar más sencillo
+dotarse de libros electrónicos que de libros
+físicos. Además, en un tiempo caracterizado
+por la masificación de teléfonos inteligentes
+cada vez más potentes y asequibles,27
+el acceso digital a los bienes y servicios
+culturales se facilita de manera considerable.
+26. Los beneficios de las nuevas tecnologías con miras al acceso a la
+cultura sobresalen en los informes de Argentina (2012: 4, 9, 15 y 16),
+Ecuador (2012: 13), España (2016: 31 y 66) y México (2016: 3).
+27. Según datos recientes de Deloitte (2015: 2), España posee una
+penetración de teléfonos inteligentes de 88%, lo que la coloca por
+encima del promedio de europeo (78%) y en segundo lugar a nivel
+global, sólo detrás de Singapur (92%). En el caso de América Latina,
+la cifra de smartphones se ha incrementado un 740% en los últimos
+4 años; de persistir esta tendencia, la región se convertirá hacia 2020
+en el segundo mercado móvil mundial (Cf. Granados, 2015).
+
+18
+
+La Cultura en el entorno digital
+
+Es evidente también que la oferta cultural
+propia de la era digital resulta mucho más
+abundante que aquella a la que los usuarios
+estaban acostumbrados en el pasado. Ninguna
+tienda de discos podría competir en catálogo
+con Spotify, Pandora u otras plataformas de
+música por streaming. Por otra parte, gracias a
+que el proceso de copia y descarga tiene un
+costo prácticamente nulo, los usuarios gozan
+de la posibilidad de acceder gratis a miles de
+obras de dominio público.
+Con todo, no hay que perder de vista
+las barreras que actualmente impiden el
+pleno aprovechamiento de estas ventajas.
+Para empezar, la brecha digital –entre los
+diferentes sectores socioeconómicos; entre el
+campo y la ciudad; entre la capital y el resto
+del territorio– que afecta particularmente a
+los países de América Latina repercute de
+modo negativo en el acceso: en efecto, a
+pesar de los grandes progresos realizados
+en la última década,28 siguen existiendo
+en la región marcadas disparidades en
+términos de infraestructura de conexión y
+de equipamiento.29
+28. Cf. CEPAL (2015b: 11).
+29. Para una reseña pormenorizada sobre estas desigualdades –tanto
+al interior de cada país como entre los diferentes países–, cf. CEPAL
+(2015b: 41 y ss.).
+
+Otro de los obstáculos para el acceso reside
+en el déficit de expresiones culturales
+disponibles en línea. Es claro que sin
+una estrategia de contenidos, cualquier
+política de infraestructura puede resultar
+incompleta.
+En este contexto, algunas fundaciones y
+grandes plataformas globales han propuesto
+esquemas gratuitos o de muy bajo costo
+para que habitantes de países en desarrollo
+accedan a Internet. Un ejemplo es FreeBasics30
+–inicialmente bautizado como “Internet.
+org”–, proyecto promovido por Facebook en
+alianza con operadoras de telefonía, que ya ha
+dado sus primeros pasos para brindar acceso
+móvil en Colombia, Perú y Bolivia, entre otros.
+Una propuesta alternativa –que en América
+Latina apenas se halla en estado de prueba–
+es Loon,31 de Google: se trata de una red de
+globos que flotan sobre la estratósfera y llevan
+la conectividad a zonas remotas o rurales. Sin
+embargo, estas iniciativas han sido objeto
+de numerosas críticas, en particular por el
+hecho de que pueden implicar una ventaja
+desproporcionada para los contenidos y las
+aplicaciones distribuidos por las empresas
+participantes. En la “Carta abierta a Mark
+Zuckerberg sobre Internet.org, Neutralidad
+de la Red, Privacidad y Seguridad” (2015),
+organizaciones de la sociedad civil de varios
+países –entre ellos Colombia, Ecuador, España
+y México– alertaron sobre los peligros que
+surgen cuando la provisión de acceso queda
+en manos de grandes plataformas privadas:
+“Los abajo firmantes compartimos una
+gran preocupación por el lanzamiento y
+la expansión de la plataforma Internet.
+org impulsada por Facebook y por sus
+implicaciones para la internet abierta
+en el mundo.
+
+En esa Internet abierta, todos los contenidos,
+aplicaciones y servicios deben ser tratados
+con igualdad, sin discriminaciones. Nos
+perturba particularmente que el acceso
+a Internet para personas sin recursos
+sea usado para justificar violaciones a
+la neutralidad de la red.”32
+El sector público ha puesto en marcha
+un buen número de políticas con miras a
+aprovechar las ventajas y superar los retos
+antes descritos. A continuación detallamos
+algunos de los planes que los países
+seleccionados han implementado en años
+recientes con el objetivo de consolidar la
+infraestructura de acceso:33
+
+Argentina
+◗◗ Plan Nacional de Telecomunicaciones
+Argentina Conectada (2010):34
+estrategia integral de mejora de la
+conectividad en territorio nacional;
+◗◗ Televisión Digital Abierta (2009):35
+proyecto de acceso universal gratuito a
+la TV por aire, que incorpora referencias
+explícitas a la cuestión de la diversidad
+cultural.36
+◗◗ Plan Nacional Igualdad Cultural
+(2012):37 programa que apunta a
+fomentar la igualdad de oportunidades
+en el disfrute de los bienes culturales
+y el acceso a las nuevas formas de
+comunicación, bajo el lema “Inclusión
+en la diversidad”.
+32. Cf. “Carta abierta” (2015).
+33. En la lista no hemos incluido los programas de entrega de
+dispositivos –tales como Conectar Igualdad (Argentina, 2010) o
+Tabletas para educar (Colombia, 2014)– que, aunque impactan en área
+del acceso a la cultura, están más enfocados al ámbito escolar.
+34. www.enacom.gob.ar/multimedia/normativas/2010/Decreto%20
+1552_10.pdf
+35. http://www.tda.gob.ar/
+
+30. https://info.internet.org/en/story/free-basics-from-internet-org/
+
+36. http://www.tda.gob.ar/tda/141/11165/consejo-asesor.html.
+
+31. http://www.google.com.ar/intl/es-419/loon/
+
+37. http://www.cultura.gob.ar/acciones/plan-nacional-igualdad-cultural/
+
+La Cultura en el entorno digital
+
+19
+
+◗◗ Plan Federal de Internet (2016):38
+suministro de banda ancha de calidad
+para 1200 localidades. El proyecto apunta
+a reducir las asimetrías de conectividad
+y será complementado por el plan País
+Digital, de próximo lanzamiento.39
+
+Colombia
+◗◗ Plan Vive Digital (2014):40 esta segunda
+edición del exitoso programa lanzado
+en 2010 abarca un amplísimo abanico
+de áreas; en términos de infraestructura,
+apunta a mejorar de forma decisiva
+el acceso a Internet –en particular en
+zonas rurales–, a instalar puntos con wifi
+gratuito y a ampliar la cobertura de la TV
+digital, entre otras metas.41
+
+Ecuador
+◗◗ Plan Nacional para el Buen Vivir
+(2013):42 plan de vasto alcance, con un
+claro componente de infraestructura,
+acceso y conectividad. Se plantea como
+misión democratizar la prestación de
+servicios públicos de telecomunicaciones
+y de tecnologías de información y
+comunicación, incluyendo la radiodifusión
+y la televisión.
+◗◗ Plan Nacional de Desarrollo de
+Banda Ancha (2011):43 consolidación
+de la infraestructura de banda ancha,
+fundamentalmente entre los sectores
+menos atendidos.
+
+España
+◗◗ Agenda Digital para España (2013):44
+estrategia nacional que coordina todos
+los planes para desarrollar la economía
+y la sociedad digital, con múltiples ejes,
+entre los cuales sobresale el despliegue
+de redes y servicios para garantizar la
+conectividad y mejorar las prestaciones
+de la televisión digital. El plan se articula
+con la Agenda Digital para Europa y con
+el Mercado Único Digital europeo.45
+
+México
+◗◗ Estrategia Digital Nacional (2013):46
+programa integral para la modernización
+del país, con énfasis en la mejora de la
+conectividad, el comercio electrónico,
+la educación, la salud, la seguridad y los
+servicios públicos.
+◗◗ México conectado (2013):47 plan de
+suministro de banda ancha en espacios
+públicos.
+◗◗ Programa Sectorial de
+Comunicaciones y Transportes (2013):48
+proyecto enfocado, entre otros objetivos,
+a optimizar la cobertura, conectividad
+y accesibilidad de las comunicaciones,
+en el ámbito de la televisión, la radio,
+la telefonía y los datos.
+
+38. http://www.argentina.gob.ar/planfederaldeinternet
+39. Cf. “Plan Federal de Internet” (2016).
+40. http://www.vivedigital.gov.co/
+41. La edición 2010-2014 del programa alcanzó y en ocasiones superó
+las metas planteadas inicialmente. En el sitio web del Ministerio de
+Tecnologías de la Información y las Comunicaciones de Colombia pueden
+consultarse todos los avances cuantitativos y cualitativos. Cf. MinTIC (s.f.).
+
+44. http://www.agendadigital.gob.es/
+
+42. http://www.buenvivir.gob.ec/
+
+47. http://www.mexicoconectado.gob.mx/
+
+43. http://www.telecomunicaciones.gob.ec/plan-nacional-de-desarrollode-banda-ancha/
+
+48. http://www.sct.gob.mx/fileadmin/banners/Programa_Sectorial_de_
+Comunicaciones_y_Transportes.pdf
+
+20
+
+La Cultura en el entorno digital
+
+45. http://ec.europa.eu/digital-agenda/
+46. http://www.gob.mx/mexicodigital/
+
+Vale la pena subrayar que,
+Caso de estudio 1
+como complemento
+de los planes de
+infraestructura, los países
+El Ministerio de Tecnologías de la Información y las
+han construido centros
+Comunicaciones (MinTIC) puso en marcha en 2010 su
+comunitarios dotados
+plan Vive Digital, inicialmente para un período de 4 años. El
+de computadoras y
+objetivo del proyecto era consolidar el “ecosistema digital”
+conexión a Internet
+colombiano, conformado por cuatro componentes principales:
+que funcionan como
+servicios, aplicaciones, usuarios e infraestructura. El éxito de
+espacios de inclusión
+este programa derivó en el lanzamiento de una segunda
+social, en particular en
+edición, para el cuadrienio 2014-2018. Entre las múltiples
+áreas desfavorecidas.
+virtudes del plan Vive Digital, vale la pena destacar: una
+En Argentina, sobresalen
+mirada integral de la cuestión digital –con el foco puesto
+no sólo en el acceso sino también en la creatividad y en las
+los Núcleos de Acceso
+49
+industrias de contenidos–, el establecimiento de nuevas
+al Conocimiento (NAC),
+sinergias interministeriales –por ejemplo, entre el MinTic
+que forman parte del
+y el Ministerio de Cultura– y la posibilidad de pensar
+plan Argentina Conectada.
+políticas de Estado de largo plazo, articuladas con
+Colombia, por su lado, ha
+50
+los actores locales, entre otros. El programa ha
+instalado Puntos y Kioscos
+reposicionado a Colombia en el centro de la
+51
+Vive Digital, en el marco del
+escena digital de la región y constituye
+programa de infraestructura homónimo:
+una referencia insoslayable para otros
+estos puestos, localizados en cabeceras
+países hispanohablantes.
+municipales y localidades rurales,
+funcionan como centros de acceso, con
+un claro foco puesto en la integración
+Los países también han llevado adelante
+para la paz.52 España dispone desde
+un buen número de iniciativas destinadas
+2003 de una vasta red de telecentros:53
+a facilitar el acceso de los ciudadanos a
+se trata de puntos de acceso a Internet
+las expresiones culturales en línea, en
+situados en poblaciones rurales, que
+particular desde bibliotecas, museos y
+actualmente son administrados por las
+archivos virtuales.56
+comunidades autónomas. En Ecuador,
+podemos mencionar los Infocentros
+56. En el área de las bibliotecas, los museos y los archivos, reaparece
+en parte la cuestión del patrimonio, que –tal como señalamos en la
+Comunitarios,54 mientras que en
+introducción– no forma parte del presente trabajo. Por ese motivo
+México se destacan los Puntos México
+hemos excluido aquellos proyectos digitales que están específicamente
+relacionados con la conservación. Sin embargo, sí hemos consignado
+Conectado.55
+iniciativas que resultan interesantes para la protección y promoción
+
+Plan Vive Digital (Colombia)
+
+49. http://www.nac.gob.ar/
+50. http://www.mintic.gov.co/portal/vivedigital/612/w3propertyvalue-669.html
+51. http://www.mintic.gov.co/portal/vivedigital/612/w3propertyvalue-7059.html
+52. Tal como ocurre con el programa Puntos de Paz. Cf. Arana, J. (2016).
+53. www.red.es/redes/actuaciones/5/98
+54. http://www.telecomunicaciones.gob.ec/infocentros-comunitarios/
+55. http://www.pmc.gob.mx/
+
+de la diversidad de las expresiones culturales, en la medida en que
+brindan acceso a diferentes contenidos en línea. También es importante
+advertir que algunos de los casos que presentamos en esta sección
+están emparentados con los que exponemos en la sección 3 (Industrias
+culturales), por ejemplo aquellos concernientes al video bajo demanda.
+A los fines de la exposición, hemos incluido en la sección 1 las iniciativas
+cuyo objetivo principal se vincula con garantizar el acceso (i.e., con foco
+en el usuario), mientras que en la sección 3 hemos referido aquellos
+proyectos que –aunque también provean materiales gratuitos– apuntan
+a consolidar o dar visibilidad a un determinado sector (i.e., con foco en
+la industria). Una distinción similar podría establecerse respecto de las
+iniciativas digitales de los museos: si el énfasis está puesto en el acceso,
+pueden incluirse en la unidad 1, mientras que, si se trata de fomentar la
+participación de la sociedad, deberían remitirse a la unidad 4.
+
+La Cultura en el entorno digital
+
+21
+
+En agosto de 2014, la Biblioteca Nacional
+de Argentina presentó Trapalanda,57 una
+plataforma que integra sus colecciones
+digitales y que, además de materiales
+históricos, exhibe numerosas publicaciones
+recientes, de descarga gratuita. En el
+marco del Plan Nacional Igualdad Cultural,
+Argentina inauguró en 2012 el Banco de
+la Música,58 una plataforma que ofrece
+contenidos musicales, también de acceso
+libre –ya sea de dominio público o cedidos
+por sus creadores. Asimismo, Argentina
+cuenta con la plataforma Contenidos
+Digitales Abiertos (CDA)59 y con el Banco
+Audiovisual de Contenidos Universales
+(BACUA),60 que proponen un surtido
+catálogo de recursos en línea.
+En Colombia, la Biblioteca Nacional61
+organiza muestras virtuales sobre temas
+históricos, así como sobre problemáticas
+contemporáneas. Al mismo tiempo, la
+entidad ofrece desde 2015 una selección
+de libros electrónicos para libre lectura
+en línea, como la Antología del Comic
+colombiano.62 El Museo Nacional, por su
+lado, dispone de una sección virtual cuyos
+materiales no sólo refieren a patrimonio,
+sino también a expresiones culturales
+recientes.63
+
+En el caso de Ecuador, la Biblioteca
+Nacional “Eugenio Espejo”64 ha emprendido
+desde 2014 diversas acciones de
+modernización, con el fin de digitalizar
+materiales que serán ofrecidos para
+descarga gratuita.65
+La Biblioteca Nacional de España exhibe
+numerosas colecciones digitales, reunidas
+en la Biblioteca Digital Hispánica.66 Los
+lectores pueden acceder a los materiales
+en línea y, para determinadas obras,
+tienen incluso la posibilidad de adquirir un
+ejemplar impreso a pedido.67 En el área de
+museos, España muestra un elevado índice
+de digitalización, tanto por la variedad y
+calidad de de los materiales multimedia
+disponibles como por la abundancia
+de metadatos asociados.68 En 2009, se
+presentó Hispana,69 un portal de acceso
+a la cultura digital española conformado
+por materiales de instituciones públicas
+y privadas, que actúa como agregador
+nacional para la plataforma Europeana.
+También desarrollado por el Ministerio
+de Educación, Cultura y Deporte (MECD),
+el sitio CER.es70 (“Colecciones en red”)
+permite visualizar y conocer más sobre las
+obras exhibidas en 95 museos de España.
+
+64. http://biblioteca.casadelacultura.gob.ec/
+65. Cf. “Biblioteca Nacional” (2015).
+57. http://trapalanda.bn.gov.ar/
+58. www.bancodelamusica.gob.ar
+59. http://cda.gob.ar/
+60. http://www.bacua.gob.ar/
+61. http://www.bibliotecanacional.gov.co/content/biblioteca-digital
+62. http://www.bibliotecanacional.gov.co/content/antolog%C3%AD-decomic-colombiano-libro-digital
+63. Ver por ejemplo la muestra en línea “Nación Rock”: http://www.
+museonacional.gov.co/sitio/rockvirtual/swf/Menu_principal.html
+
+22
+
+La Cultura en el entorno digital
+
+66. http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/
+Colecciones/
+67. Ver, por ejemplo: http://bdh.bne.es/bnesearch/Search.
+do?destacadas1=Bubok&home=true
+68. Al respecto, puede visitarse por ejemplo la sección multimedia del
+Museo Reina Sofía (http://www.museoreinasofia.es/multimedia) y del
+Museo del Prado (https://www.museodelprado.es/actualidad/videos).
+69. http://hispana.mcu.es. El proyecto es heredero del Directorio y
+Recolector de Recursos Digitales.
+70. http://ceres.mcu.es
+
+En México, la Biblioteca Nacional
+también cuenta con su propio espacio
+digital.71 Asimismo, en mayo 2010,
+cuatro instituciones culturales lanzaron
+la Biblioteca Digital Mexicana:72 este
+portal reúne actualmente los fondos de
+13 bibliotecas y archivos nacionales. Por
+otro lado, en el marco de la Agenda Digital
+de la Secretaría de Cultura,73 el país está
+desarrollando repositorios para distintas
+áreas artísticas, así como acervos sonoros,
+audiovisuales y museísticos, entre otros.74
+
+También debemos resaltar el proyecto
+Señal que nos une:78 este canal de
+televisión satelital iberoamericano –creado
+en 2015, en cumplimiento de los acuerdos
+de la XXIV Cumbre Iberoamericana
+referidos a la Agenda Cultural Digital–
+tiene como objetivo difundir contenidos
+culturales que identifiquen a los 22 países
+de la comunidad regional.
+
+Desde el punto de vista de la cooperación,
+los programas Ibermuseos e Iberbibliotecas
+promueven el intercambio con miras a
+la modernización y la digitalización.75 Por
+otro lado, la Asociación de Bibliotecas
+Nacionales de Iberoamérica (ABINIA) puso
+en línea en 2012 la Biblioteca Digital de
+Patrimonio Iberoamericano (BDPI),76 que
+brinda a las bibliotecas participantes un
+punto de acceso a sus recursos digitales.77
+
+71. http://catalogo.iib.unam.mx/F/-/?func=login&local_base=BNDM
+72. http://bdmx.mx
+73. La Agenda Digital de Cultura se deriva directamente de la
+Estrategia Digital Nacional: constituye el objetivo secundario número
+13, que forma parte del objetivo principal “Educación de calidad”.
+74. En la sección 3, comentaremos la iniciativa que se vincula con los
+libros (Libros México).
+75. Por cierto, lo digital ocupa un papel cada vez más importante en
+ambos espacios, tal como se desprende del temario del VIII Encuentro
+Iberoamericano de Museos o del XV Comité Intergubernamental de
+Iberbibliotecas.
+76. http://www.iberoamericadigital.net
+77. Una vez más, aunque es claro que –por su mismo nombre– la BDPI
+remite a patrimonio, este caso puede servir como ejemplo de medida de
+cooperación en términos de acceso a los contenidos digitales. Muchas
+de las bibliotecas participantes no sólo contribuyen con materiales
+históricos sino también con expresiones contemporáneas. Un ejemplo
+es la Biblioteca Nacional de Argentina, que pone en línea conciertos de
+artistas actuales como Leo Sujatovich y Ricardo Mollo, entre otros.
+
+78. http://www.ibe.tv/es/canal/iberoamericano.
+
+La Cultura en el entorno digital
+
+23
+
+EJES CENTRALES
+
+2
+Creatividad
+
+25
+
+2. Creatividad
+
+Lo digital no sólo impacta en el acceso,
+sino también en la creatividad y en la
+situación de los artistas. En primer lugar,
+es evidente que los creadores locales
+en general pueden ganar muchísima
+visibilidad gracias a las nuevas tecnologías.
+Un músico independiente, por ejemplo,
+cuenta hoy con un sinnúmero de
+herramientas que le permiten distribuir
+y promocionar su álbum desde la web y
+comunicarse directamente con su público.
+Además de abrir nuevos canales para
+la difusión, la era digital ha producido
+enormes cambios en el seno mismo de
+la creación. En efecto, la masificación
+de los dispositivos conectados y la
+vertiginosa expansión de aplicaciones
+para la auto-edición han convertido a
+todos los usuarios/consumidores en
+potenciales artistas. Aquí, podemos evocar
+la experiencia del músico colombiano
+Carlos Muñoz, que ha alcanzado
+notoriedad por haber grabado y editado
+un álbum completo con su teléfono celular.
+Al ser consultado sobre cómo impacta
+la tecnología en la creatividad, el artista
+observa:
+
+“La tecnología contribuye mucho al
+desarrollo cultural de una sociedad. Me
+parece que se están formando artesanos
+digitales, gente que está haciendo arte y
+creando un nuevo mundo.” 79
+Por cierto, asistimos a una intensa
+transformación de las formas expresivas,
+que progresivamente se entrelazan con
+las nuevas herramientas. Según el cineasta
+argentino Daniel Burman, atravesamos un
+verdadero cambio de paradigma:
+“La tecnología ya no es un ‘plus’, sino que ha
+pasado a ser parte intrínseca del contenido.
+Los medios tienden a ser confundidos con
+el contenido artístico que están mostrando
+(…). Tenemos que empezar a incorporar la
+tecnología en nuestros procesos creativos.
+La tecnología tiene que dejar de ser una
+plataforma o un medio de alcanzar un
+proceso. La tecnología no es un resultado,
+sino un proceso”. 80
+En este sentido, debemos reconocer
+que la cultura digital no sólo se vincula
+con la digitalización de expresiones
+analógicas, sino que remite a un espacio
+sumamente dinámico, en el que conviven
+79. Cf. “Colombiano produce” (2015).
+80. Blanc, Lhermitte y Perrin (2015: 97).
+
+26
+
+La Cultura en el entorno digital
+
+las modalidades multimedia, crossmedia,
+transmedia, así como la realidad
+aumentada y la realidad virtual.81 En la
+región, las actividades llevadas adelante
+por festivales independientes y diversos
+centros que han sido pioneros en el arte
+digital muestran el gran potencial de estas
+nuevas formas expresivas.82
+Sin embargo, el panorama no está exento
+de desafíos. Si bien las herramientas
+digitales multiplican las opciones de
+difusión, el crecimiento exponencial de
+la oferta de contenidos provenientes de
+todo el mundo en ocasiones termina
+provocando, paradójicamente, el efecto
+contrario: una saturación que puede
+invisibilizar a los artistas locales.
+Respecto de las posibilidades de producción
+ofrecidas por el nuevo entorno, es
+importante reconocer que las tecnologías
+por sí solas no alcanzan para fomentar
+la creatividad: sin el componente de
+experimentación, capacitación y apropiación
+activa de las herramientas digitales por
+parte de los usuarios, la mera entrega de
+dispositivos o aplicaciones no sólo no suma
+sino que puede incluso empeorar la situación
+de partida. Este reto ha sido detectado
+claramente por el Ministerio de Cultura
+de Colombia en su documento Política de
+Cultura Digital, que data de 2009:
+“En términos culturales, [la dotación
+tecnológica y la conectividad] son
+insuficientes, pues los usos de éstas no
+sólo son formas de circulación de datos,
+sino que están generando una enorme
+revolución cultural en todo el mundo.
+
+Incluso, las experiencias sugieren que los
+procesos de dotación de computadores
+y conectividad, sin respeto ni estímulos a
+procesos culturales, pueden fragmentar
+las identidades culturales de las
+sociedades o comunidades.”83
+Según Germán Franco –subdirector del
+Centro Ático en la Pontificia Universidad
+Javeriana de Bogotá y experto en políticas
+de comunicación y cultura digital–, el
+problema se plantea no sólo a nivel
+nacional sino a escala latinoamericana:
+“Tradicionalmente, se ha pensado que
+un proyecto que se desarrolla en el
+campo de la cultura digital necesita
+información, dispositivos y conectividad.
+Pero no debemos poner eso en el centro:
+lo más importante son las personas y
+su capacidad de crear. Lo crucial aquí
+es la cultura, las prácticas colectivas,
+las representaciones y motivaciones
+profundas. Y creo que América Latina
+puede hacer mucho más. Deberíamos
+aprovechar las nuevas herramientas, pero
+para narrarnos como región.”
+Asimismo, varios entrevistados indican
+que ni el mercado ni el sector público
+han tomado debida nota de los nuevos
+tiempos. En el caso del arte digital, es
+evidente que los circuitos de consagración
+y de comercialización siguen demasiado
+aferrados al mundo analógico.84 Y a pesar
+de que existen muchísimos artistas,
+investigadores y docentes trabajando en
+el campo de la cultura digital en sentido
+amplio, la región aún no ha logrado
+conformar un espacio común para la
+vinculación de todos estos actores.
+
+81. Cf. Kulesz (2014: 10).
+82. En este punto, podríamos mencionar varios proyectos surgidos en
+España, tales como los festivales Artfutura (http://www.artfutura.org) y
+Sónar (https://sonar.es), o el Espacio Fundación Telefónica
+(https://espacio.fundaciontelefonica.com).
+
+83. Ministerio de Cultura (2009: 478).
+84. Cf. Waelder, P. (2016: 45 y ss).
+
+La Cultura en el entorno digital
+
+27
+
+Desde la perspectiva de Felipe Londoño,
+rector de la Universidad de Caldas
+(Colombia) y director del Festival
+Internacional de la Imagen,85 el problema
+de fondo reside en que las políticas
+públicas no han asimilado de una manera
+integral las nuevas lógicas de creación:
+“Resulta fundamental revisar el concepto
+de cultura, bajo las perspectivas de las
+transformaciones sociales y tecnológicas
+del mundo de hoy. No puede ser que hoy
+no esté, en la agenda de las políticas
+públicas, la creación de plataformas
+colaborativas que posibiliten el trabajo
+con datos abiertos, licencias libres, redes
+electrónicas, o el software de código
+abierto que permitan potenciar las
+capacidades de las comunidades, dando
+lugar a la expansión de un nuevo modelo
+participativo en la construcción de
+conocimiento y cultura.”
+
+Desde España, Marcos García ofrece un
+diagnóstico similar:
+“Normalmente se han planteado las
+políticas culturales en términos de acceso.
+Sin embargo, también hay que pensar las
+políticas de producción, es decir, pasar de
+un abordaje basado en la transmisión, a
+otro fundado en la creación que habilite
+lugares en los que los públicos puedan
+tomar parte activa en los procesos de
+producción.”
+
+Otro punto en el que coinciden los
+entrevistados es que los sistemas de
+registro de las obras digitales no están
+suficientemente desarrollados. Por ejemplo,
+en muchos países de la región, cualquier
+escritor que quiera realizar los trámites de
+registro de obra inédita y de depósito legal
+para su libro electrónico deberá dirigirse
+en persona a la oficina pública, llevar
+una copia de su publicación en formato
+CD o DVD y completar a mano diversos
+formularios. Esta falta de modernización
+produce efectos muy nocivos, pues –como
+bien se sabe– una versión almacenada
+Caso de estudio 2
+en formato CD o DVD se deteriora
+rápidamente; además, las estadísticas
+nacionales resultan perjudicadas, porque
+Lanzada en marzo de 2016 por la
+muchos de autores terminan pasando por
+Superintendencia de la Información y
+alto los trámites nacionales y colocan
+la Comunicación de Ecuador (SUPERCOM),
+sus obras directamente en las grandes
+la plataforma Latitud1x1 permite a los
+plataformas globales.86 Un aspecto
+músicos ecuatorianos promocionar sus
+igualmente problemático –también
+temas y controlar su difusión en los medios
+señalado de forma recurrente– es
+de comunicación. La medida no sólo facilita
+la piratería.87
+la circulación de música ecuatoriana, sino que
+también estimula a los creadores a registrar
+sus obras y a afiliarse a sociedades de gestión
+colectiva. Se trata de una iniciativa que repercute
+favorablemente en el ecosistema cultural local,
+85. Cf. infra.
+en particular en la condición de los artistas,
+86. Cf. Gil (2015).
+tanto en términos de visibilidad como de
+87. En la sección que sigue abordaremos la dimensión
+remuneración económica.
+económica de este reto.
+
+Latitud1x1 (Ecuador)
+
+28
+
+La Cultura en el entorno digital
+
+En este contexto de oportunidades y
+desafíos, son numerosas las iniciativas
+que han sido puestas en marcha para
+consolidar la creación y la situación de los
+artistas. Entre los proyectos destinados a
+aumentar la visibilidad de los creadores
+y de las producciones locales, podríamos
+destacar la plataforma Latitud1x1,88 lanzada
+en marzo de 2016 por la Superintendencia
+de la Información y la Comunicación de
+Ecuador (SUPERCOM). Este portal permite a
+los músicos ecuatorianos promocionar sus
+temas y controlar su difusión. La medida
+no sólo facilita la circulación de música
+ecuatoriana –en cumplimiento del artículo
+103 de la Ley Orgánica de Comunicación,89
+que establece que, en las estaciones de
+radio, “la música producida, compuesta o
+ejecutada en Ecuador deberá representar al
+menos el 50% de los contenidos musicales
+emitidos en todos sus horarios”–, sino que
+también estimula a los creadores a registrar
+sus obras y a afiliarse a sociedades de
+gestión colectiva.
+Es interesante observar que en Ecuador se
+han desarrollado soluciones tecnológicas
+que impactan favorablemente en la
+visibilización del arte local, no sólo en el
+contexto digital, sino también en el entorno
+analógico. Un ejemplo interesante es el
+proyecto Muros Libres.90 Esta aplicación,
+impulsada por el centro ConQuito91 y la
+alcaldía de la capital, tiene como objetivo
+apoyar al graffiti como expresión artística
+y minimizar el vandalismo. La ciudad
+ofrece determinados muros del espacio
+público para que los artistas pinten;
+luego la plataforma digital permitirá
+88. http://latitud1x1ec.supercom.gob.ec
+
+organizar y coordinar las intervenciones,
+así como facilitar el encuentro entre
+propietarios de muros privados y artistas.92
+En el terreno de la capacitación, hay que
+advertir que en los centros de acceso
+comunitario mencionados en la sección 1
+generalmente se ofrecen cursos –la mayor
+parte gratuitos– de formación en oficios y
+artes digitales, tales como animación 3D,
+fotografía digital, aplicaciones y efectos
+visuales. Más importante aún, en años
+recientes han surgido espacios –la mayoría
+de los cuales también cuenta con apoyo
+público– dedicados a la experimentación
+con nuevas tecnologías, que operan como
+centros de aprendizaje y creación. Aquí
+podríamos destacar:
+◗◗ ViveLabs (Colombia):93 red de
+laboratorios de innovación ciudadana
+que buscan promover la creación
+colaborativa y el desarrollo de
+contenidos digitales, en el marco del
+plan Vive Digital. El ViveLab Bogotá es
+operado por la Universidad Nacional.
+◗◗ MediaLab UIO (Ecuador):94 laboratorio de
+arte, comunicación, cultura y sociedad,
+impulsado por el Centro Internacional
+de Estudios Superiores de Comunicación
+para América Latina (CIESPAL).
+◗◗ MediaLab Prado (España):95 creado
+por iniciativa del Ayuntamiento de
+Madrid, este laboratorio ciudadano de
+producción, investigación y difusión de
+proyectos culturales fomenta diferentes
+formas de experimentación y aprendizaje
+colaborativo surgidas de las redes digitales.
+
+89. http://www.presidencia.gob.ec/wp-content/uploads/
+downloads/2013/08/LeyDeComunicacion-espaniol.pdf
+
+92. Cf. “150 artistas urbanos” (2014).
+
+90. https://play.google.com/store/apps/details?id=com.neptuno.ml&hl=en
+
+94. http://www.medialabuio.org/
+
+91. http://www.conquito.org.ec/
+
+95. http://medialab-prado.es/
+
+93. http://www.mintic.gov.co/portal/vivedigital/612/w3-article-4055.html
+
+La Cultura en el entorno digital
+
+29
+
+◗◗ LABoral (España):96 esta institución
+multidisciplinar –establecida en Gijón–
+produce y difunde las nuevas formas
+culturales nacidas de la utilización de
+las tecnologías de la información y la
+comunicación.
+◗◗ Laboratorio Arte Alameda (México):97
+espacio perteneciente al Instituto
+Nacional de Bellas Artes (INBA), dedicado
+a la producción e investigación de las
+prácticas artísticas que ponen en diálogo
+la relación arte-tecnología.
+◗◗ Centro de Cultura Digital (México):98
+este centro multifuncional y
+multidisciplinario, fundado por iniciativa
+de la Secretaría de Cultura, realiza
+numerosas actividades de promoción y
+capacitación que resultan vitales para la
+creación en el entorno digital. 99
+◗◗ Centro Multimedia (México):100 proyecto
+impulsado por el Centro Nacional de las
+Artes (CENART) y enfocado, entre otras
+acciones, a la formación de creadores y
+públicos interesados en el arte electrónico.
+◗◗ Laboratorio de ciudadanía digital
+(México y España): espacio de formación,
+desarrollado por el Centro Cultural
+de España en México, la Fundación
+Telefónica y el Ateneo Español, con el
+fin de promover, entre otros aspectos, la
+aplicación de nuevas tecnologías en el
+arte y la cultura.
+
+En términos de estímulo a la creación,
+resulta indispensable mencionar el
+programa Crea Digital,101 impulsado desde
+2012 por el Ministerio de Cultura y el
+Ministerio de Tecnologías de la Información
+y las Comunicaciones de Colombia en
+el marco del plan Vive Digital. Con un
+abordaje que mantiene total sintonía
+con los principios de política para la
+cultura digital enunciados anteriormente,
+Crea Digital ha brindado financiamiento
+a creadores de contenidos digitales
+interesados en desarrollar proyectos de
+fomento a la cultura, la lectoescritura
+y la apropiación de las TIC. Tal como
+subrayan varios de los entrevistados
+colombianos, este programa ha tenido
+múltiples virtudes, entre ellas el haber
+apostado fuertemente por la sinergia
+interministerial. En su edición 2016,102
+además de apoyar iniciativas relacionadas
+con ebooks, animación y videojuegos,
+Crea Digital ha incluido una nueva
+categoría –“contenidos para una cultura
+de paz”–, a fin de incentivar a creadores
+de contenidos digitales de diferentes
+medios y plataformas que se encuentren
+interesados en aportar a la consolidación
+de una cultura de convivencia pacífica y
+participación. ​
+En el análisis de las oportunidades,
+señalábamos que en la región han surgido
+numerosos festivales y exhibiciones
+dedicados al arte digital. Varios de
+estos eventos han recibido el apoyo de
+instituciones públicas. Aquí podríamos
+referir los siguientes ejemplos:
+
+96. http://www.laboralcentrodearte.org/
+97. http://www.artealameda.bellasartes.gob.mx
+98. http://www.centroculturadigital.mx
+99. Cf. “Brinda el Centro de Cultura Digital talleres” (2016).
+100. http://cmm.cenart.gob.mx/
+
+30
+
+La Cultura en el entorno digital
+
+101. http://www.mincultura.gov.co/areas/comunicaciones/
+convocatorias/Documents/CREADIGITAL2015.pdf
+102. http://www.mincultura.gov.co/areas/comunicaciones/culturadigital/creadigital/convocatoria2016/Paginas/default.aspx
+
+◗◗ Noviembre Electrónico (Argentina):103
+muestra sobre arte, tecnología y cultura
+digital, llevado adelante por el Centro
+Cultural San Martín de la ciudad de
+Buenos Aires.
+◗◗ Festival internacional de la imagen
+(Colombia):104 encuentro organizado
+por el Departamento de Diseño Visual
+de la Universidad de Caldas, que
+se ha consolidado como referencia
+fundamental para toda América Latina
+en el ámbito de las artes electrónicas.
+◗◗ Festival de Artes Electrónicas / Video
+Transitio_MX (México):105 este evento
+–impulsado por el Centro Multimedia
+del CENART– se consagra a la expresión y
+análisis de las prácticas contemporáneas
+de creación artística vinculadas a la
+tecnología.
+◗◗ Festival de escritura digital (México):
+encuentro impulsado por la Secretaría
+de Cultura –a través de la Coordinación
+Nacional de Literatura– que explora
+las formas de creación literaria en
+plataformas digitales como Twitter.106
+Respecto de la protección del derecho de
+autor, los países han puesto en marcha
+diferentes iniciativas. La Dirección Nacional
+de Derecho de Autor de Colombia (DNDA)107
+ha desarrollado toda una línea de cursos
+virtuales enfocados a titulares y usuarios
+del derecho de autor y derechos conexos,
+centros de formación artística y cultural,
+organismos públicos y privados, sociedades
+de gestión colectiva, universidades y
+colegios interesados en la materia.
+
+Hasta el momento han participado de
+los cursos más de 115 mil personas.108
+En términos del registro en línea de obras
+inéditas, la DNDA de Colombia es pionera
+en América Latina. A fines de 2015, la
+entidad presentó la aplicación Protege
+tus obras,109 un servicio móvil que permite
+efectuar el registro de videos y fotos
+tomadas desde un celular o una tableta.
+
+Caso de estudio 3
+
+Centro de Cultura
+Digital (México)
+
+Inaugurado en septiembre de 2012
+por iniciativa de la Secretaría de Cultura
+de México, el Centro de Cultura Digital
+se enfoca a investigar las implicaciones
+culturales, sociales y económicas del
+uso de la tecnología digital. El centro se
+propone, entre otros objetivos: promover
+la adopción consciente de herramientas
+digitales que fomenten el intercambio de
+información y conocimiento, la lectura
+crítica, la autogestión, la producción
+de contenidos de calidad y la creación
+de redes. Se trata de una iniciativa
+pionera en la región, que sin duda
+resultará fundamental para el
+estímulo de la creatividad y
+para la exploración de las
+formas expresivas propias
+de la era digital.
+
+103. http://www.noviembreelectronico.elculturalsanmartin.org/
+104. http://www.festivaldelaimagen.com/
+105. http://transitiomx.net/inicio.html
+106. Cf. “Creación literaria en redes sociales” (2016).
+107. http://derechodeautor.gov.co/
+
+108. Cf. “Programa de difusión de derecho de autor” (2016).
+109. https://itunes.apple.com/us/app/protege-tus-obras/
+id1055375729?l=es&mt=8
+
+La Cultura en el entorno digital
+
+31
+
+Por otro lado, también en Colombia, la
+Biblioteca Nacional ofrece la posibilidad de
+realizar el depósito legal de forma digital.
+La institución permite depositar textos,
+imágenes, videos, audio, mapas digitales y
+sitios web.
+España, por su parte, modificó el texto
+refundido de propiedad intelectual y
+reformó la ley 1/2000 de Enjuiciamiento
+Civil, lo que permite acelerar las solicitudes
+de retiro de enlaces a contenidos ilegales,
+cancelar dominios .es o bloquear sitios
+web extranjeros que infrinjan derechos.
+Asimismo, el MECD inauguró en 2011
+el programa Cultura en positivo,110 que
+fomenta, a través de un sello web de
+calidad, el respeto de los derechos de
+propiedad intelectual.111
+
+110. http://www.culturaenpositivo.mecd.gob.es/es/index.html
+111. Una lista más completa de las iniciativas anti-piratería llevadas
+adelante por el Ministerio puede consultarse aquí: http://www.mecd.
+gob.es/cultura-mecd/areas-cultura/propiedadintelectual/lucha-contrala-pirateria.html
+
+32
+
+La Cultura en el entorno digital
+
+EJES CENTRALES
+
+3
+Industrias
+culturales
+
+33
+
+3. Industrias culturales
+“En la era digital, ya no rigen tanto las fronteras físicas cuanto los
+idiomas. En ese sentido, tenemos una clara ventaja frente a otros
+países cuya lengua es menos hablada –por ejemplo, el holandés. Y
+el español ya no es un patrimonio exclusivo de España. Por ejemplo,
+el sitio web más visitado en España es YouTube, sobre todo para
+contenidos en español o doblados al español que no provienen de
+España sino de otras regiones hispanohablantes.”
+Borja Adsuara
+Abogado, profesor universitario y consultor experto
+en derecho y estrategia digital, España
+Las ventajas de las nuevas tecnologías
+en el terreno de las industrias culturales
+son innegables. En efecto, lo digital
+permite reducir los costos de distribución
+–lo cual implica enormes ahorros para las
+empresas–, así como incorporar métodos
+de financiamiento innovadores como
+el crowdfunding o micro-mecenazgo,
+desarrollar nuevos modelos de negocio y
+llegar a un mercado potencialmente global.
+Por cierto, el “territorio digital” conformado
+por los países hispanohablantes presenta
+un enorme potencial en términos de
+intercambio comercial y profesional.112
+En la región, las industrias culturales están
+aprovechando todas estas oportunidades
+y en muchos casos incorporan las nuevas
+tecnologías de manera activa. Aunque a un
+ritmo diferente según cada país, las salas
+de cine migran progresivamente a digital113
+y la explosión de servicios de video bajo
+112. Un buen resumen del peso económico del idioma español
+puede encontrarse en Instituto Cervantes (2015: 20 y ss).
+113. España lidera la región, con 95,1% de las salas ya digitalizadas (cf.
+AIMC, 2016). En América Latina, la situación es bastante desigual (para
+estadísticas referidas la proporción de cines digitales respecto del total
+de salas, pueden consultarse los datos del Observatorio Iberoamericano
+Audiovisual: http://www.oia-caci.org/es/estadisticas/cines/ y http://www.
+oia-caci.org/es/estadisticas/teatro-digital-incluyendo-3d/)
+
+34
+
+La Cultura en el entorno digital
+
+demanda da nuevo aire a muchísimas
+obras de nicho –tanto clásicas como
+contemporáneas–, que resurgen gracias
+al efecto long tail.114 Respecto de la música,
+en el caso específico de América Latina, los
+ingresos digitales aumentaron 44,5% en
+2015, y dentro de este conjunto, la porción
+correspondiente al streaming creció nada
+menos que 80,4%.115 En la industria editorial,
+a pesar de que las ventas en digital todavía
+no representan una porción predominante,
+el libro electrónico sigue ascendiendo en las
+cifras de producción y registro.116
+Dentro de este marco, hay que reconocer
+que la propia coyuntura económica de la
+región hace que las nuevas tecnologías
+se conviertan en un potencial aliado para
+las industrias culturales. En efecto, en un
+momento caracterizado por la debilidad
+de la demanda interna –en España,
+como resultado de la crisis que afecta
+desde 2008 a numerosas economías
+europeas, y en América Latina, por la caída
+de los precios de las materias primas y
+114. Cf. Anderson (s.f.).
+115. Cf. IFPI (2016: 11).
+116. Cf. CERLALC (2016: 8).
+
+la recesión–,117 resulta vital hallar nuevos
+destinos comerciales. Para el sector cultural,
+la exportación de bienes y servicios en
+formato digital podría representar una
+fuente de ingresos suplementaria.
+No obstante, las barreras son también
+considerables. En primer lugar, al igual
+que ocurre entre los artistas, las industrias
+culturales –en especial las empresas
+pequeñas y medianas– suelen carecer de las
+herramientas y las competencias digitales
+necesarias. Además, si bien es cierto que en
+muchos casos el nuevo entorno permite
+trabajar con costos menores, la migración de
+analógico a digital suele resultar en sí misma
+muy onerosa: por ejemplo, la digitalización
+del fondo completo de una editorial puede
+representar un gasto muy elevado y difícil
+de asumir para los sellos más pequeños.
+Asimismo, las prácticas de consumo propias
+del nuevo entorno rompen con los modos
+de circulación tradicionales y exigen un
+reacomodamiento permanente de los
+modelos de negocio.118
+En el caso específico de América Latina, son
+muchos los analistas que advierten que la
+economía digital no se ha desarrollado tanto
+como la conectividad. En efecto, en muchos
+de estos países, la industria digital carece de un
+desarrollo autóctono.119 En una línea cercana
+a lo que establecía el documento Política de
+cultura digital de Colombia, el investigador
+argentino Raúl Katz advierte sobre los
+problemas que surgen toda vez que se pierde
+de vista la industria digital doméstica:
+
+“Hasta el momento, el foco en los centros
+decisorios de los gobiernos del continente
+ha recaído en las redes, el despliegue de
+banda ancha y los precios de acceso. Sin
+dejar de considerar que todavía quedan
+tareas por hacer en este terreno –sobre
+todo en lo que hace a la inclusión digital de
+sectores vulnerables–, el hecho es que tanto
+gobiernos como empresas, investigadores
+y académicos debemos comenzar a definir
+una visión para el futuro, basada en una
+visión integrada del ecosistema digital.
+Si no lo hacemos, corremos el riesgo de
+transformarnos en consumidores de
+productos, aplicaciones y contenidos
+generados afuera del continente, un
+proceso que sustenta una transferencia de
+rentas al exterior de América Latina.” 120
+Este fenómeno puede conducir a un
+resultado particularmente negativo en
+términos de empleo y de capacidades
+locales. Efectivamente, los mejores talentos
+de cada industria en muchas ocasiones
+reciben ofertas de trabajo más tentadoras
+desde el exterior y optan por emigrar, lo que
+debilita aún más el ecosistema nacional.
+
+118. Para un examen pormenorizado de cómo impactan las nuevas
+tecnologías en la lectura. la escritura y en la cadena de valor del libro,
+cf. CERLALC (2013).
+
+Por otro lado, aunque es cierto que
+lo digital permite monetizar ventas
+long tail y de nicho, no está claro que
+todas las empresas puedan subsistir
+gracias a esos esquemas comerciales.
+De hecho, existe el peligro de que
+sean las grandes plataformas –gracias
+a su inigualable capacidad de agregar
+millones de productos diferentes y de
+procesar Big Data– las únicas que podrán
+aprovechar esa “cola larga” de productos
+consumidos por relativamente pocos
+usuarios, pero que en el total derivan en
+retornos considerables.
+
+119. Cf. Katz (2015: 232). El comercio electrónico de la región
+constituye apenas el 2% del total de la economía –una proporción
+muy inferior a la que encontramos en Europa o en Estados Unidos (cf.
+CEPAL, 2015b: 68).
+
+120. Katz (2015: 333).
+
+117. Cf. FMI (2016).
+
+La Cultura en el entorno digital
+
+35
+
+Así, aunque en la región existe una
+multiplicidad de plataformas de video
+bajo demanda, Netflix cuenta en México
+con alrededor del 70% de los usuarios
+de este sector;121 por otro lado, el bloque
+conformado por jugadores globales como
+Amazon, Apple, Google y Kobo concentra
+en España 77,2% del mercado del libro
+electrónico.122
+Son numerosos los entrevistados que
+coinciden en que la concentración de la
+oferta en manos de unas pocas plataformas
+puede convertirse en un serio riesgo para
+la sostenibilidad de las industrias locales,
+y por lo tanto para la diversidad de las
+expresiones culturales. Por cierto, hay que
+reconocer que los gigantes de la web
+no representan un simple eslabón en la
+cadena creativa, sino que se constituyen
+progresivamente en mercados cerrados
+en sí mismos –algo que se percibe
+claramente en el sector de las aplicaciones,
+donde Google y Apple son, literalmente,
+marketplaces. Puesto que cada plataforma
+puede optar por determinados formatos de
+archivos y de metadatos, se corre el riesgo
+de que se debilite la interoperabilidad y se
+intensifique la fragmentación. Además, en
+la medida en que administran sus propios
+algoritmos de recomendación, las grandes
+plataformas pueden también controlar
+la visibilidad de los diferentes productos
+que ofrecen a la venta. Tal como advierte
+la “Declaración sobre la protección y
+promoción de la diversidad audiovisual en
+la era digital”:
+“En las nuevas redes y soportes
+digitales, se verifica un proceso de
+re-intermediación a cargo de nuevos
+agentes –como Google, Youtube,
+121. Cf. Castañares (2016).
+122. Libranda (2016: 7).
+
+36
+
+La Cultura en el entorno digital
+
+Facebook, Spotify– y las alianzas de éstos
+con los tradicionales conglomerados
+mediático-culturales cuestionan la
+diversidad en las redes digitales (…). Es
+necesario realizar más investigación acerca
+de las estrategias desarrolladas por parte
+de los intermediarios del paisaje digital en
+temas sensibles como las alianzas con los
+grandes grupos de cultura-comunicación,
+el etiquetado de contenidos o los secretos
+algoritmos empleados por los motores
+de búsqueda que guían la visibilidad de
+contenidos.” 123
+El predominio de los gigantes de la web
+en la escena cultural es tan pronunciado
+que puede derivar en un peligro adicional:
+la imposibilidad de producir estadísticas
+nacionales fiables sobre la economía de
+la cultura digital. En efecto, puesto que
+los intercambios de información entre el
+usuario y la nube –esto es, la plataforma–
+se realizan de forma electrónica y están
+generalmente encriptados, los Estados no
+siempre disponen de medios para establecer
+cuáles ni cuántos bienes y servicios han sido
+consumidos o producidos por los usuarios
+locales. Así, si observábamos en la sección 2
+que resulta cada vez más complejo precisar
+cuántos libros electrónicos de autores
+locales han sido publicados en determinado
+período, el mismo problema se presenta a
+la hora de definir cuántas copias han sido
+comercializadas.
+Además del avance de las grandes
+plataformas, otro de los desafíos señalados
+reside en la piratería o descargas no
+autorizadas.124
+123. “Declaración” (2013: 3). El texto fue elaborado en el marco del
+seminario “Protección y promoción de la diversidad audiovisual en la
+era digital” (organizado en octubre de 2013 en Getafe por el proyecto
+Diversidad Audiovisual –cf. infra, sección 4).
+124. Es tal vez en el informe periódico de España de 2016 (sección
+“Resumen ejecutivo”) donde más claramente se subraya este problema.
+
+Este fenómeno atañe no sólo a América
+Latina125 sino también a Europa: según la
+Coalición de Creadores e Industrias de
+Contenidos de España, el 87,48% de los
+contenidos consumidos en 2015 en ese
+país fueron ilegales, lo que equivaldría a un
+lucro cesante de 1.669 millones de euros.126
+Asimismo, los cambios en los hábitos
+de consumo pueden repercutir
+negativamente en los circuitos culturales
+típicamente analógicos, como las librerías
+físicas. En España, por ejemplo, se cerraron
+en promedio 2 librerías por día a lo largo de
+2014.127 Aunque existen grandes diferencias
+entre los ecosistemas de librerías de España
+y de América Latina, cabría preguntarse
+si la situación española no estará tal vez
+preanunciando lo que en el futuro podría
+ocurrir en Argentina, México, Colombia
+y Ecuador, a medida que la digitalización
+avance.
+Frente a este escenario de oportunidades
+y desafíos que afectan a las industrias
+culturales, los países han implementado un
+amplio abanico de políticas y medidas. Un
+primer grupo de iniciativas se relaciona con
+la capacitación, la vinculación profesional
+y la modernización,128 entre las cuales
+podríamos destacar:
+
+◗◗ Programa Polos y Nodos
+Audiovisuales (Argentina):129 impulsado
+por el Ministerio de Planificación Federal,
+Inversiones Públicas y Servicios, este
+proyecto busca consolidar la industria
+audiovisual local a través de la asistencia
+en equipamiento, capacitación e I+D,
+con la mira puesta en la producción de
+contenidos para la TV Digital.
+◗◗ Colombia 3.0 (Colombia):130 evento
+de capacitación e intercambio para
+las industrias de contenidos digitales,
+realizado en el marco del plan Vive Digital.
+◗◗ Apps.co (Colombia):131 también dentro
+del plan Vive Digital, esta iniciativa busca
+fortalecer las capacidades locales y la
+generación de negocios en el terreno de
+las aplicaciones móviles, las plataformas
+web y los contenidos digitales.
+◗◗ C3+D (Colombia):132 laboratorio de
+emprendimientos de contenidos
+digitales, organizado por el Ministerio
+de Cultura y el Centro de Ciencia y
+Tecnología de Antioquia (CTA).
+◗◗ Ayudas a las industrias culturales
+(España):133 programa de apoyo del
+MECD, orientado a incrementar la
+oferta legal de contenidos digitales
+culturales en Internet y a promover
+la modernización e innovación de las
+industrias culturales y creativas.
+
+125. Cf. Alianza (2016).
+126. Cf. Observatorio (2016). Con todo, hay que advertir que los
+cálculos utilizados para estimar el lucro cesante han sido cuestionados
+en reiteradas ocasiones (cf. Corroto, 2015).
+127. Cf. Manrique Sabogal (2015).
+
+129. http://www.tda.gob.ar/tda/141/11162/polos.html
+
+128. En esta lista sólo incluimos aquellas políticas y medidas
+específicamente enfocadas al entorno digital. Con todo, existen
+numerosas iniciativas que se dirigen a la industria en general e
+incorporan algunas categorías dedicadas a las nuevas tecnologías,
+tal como ocurre en el caso de MICA (Argentina) o su variante
+internacional, el MICSUR.
+
+130. http://col30.co
+131. https://apps.co
+132. http://laboratorioc3masd.co
+133. http://www.mecd.gob.es/cultura-mecd/areas-cultura/
+industriasculturales/ayudas/ayudas_inversio.html
+
+La Cultura en el entorno digital
+
+37
+
+Caso de estudio 4
+
+Ayudas a las industrias culturales y creativas (España)
+La Secretaría de Estado de Cultura del Ministerio de Educación, Cultura y Deporte de
+España ofrece ayudas económicas para la modernización e innovación de las industrias
+culturales y creativas mediante proyectos digitales y tecnológicos. Estos proyectos
+tienen que incrementar la oferta legal de contenidos digitales culturales en Internet.
+Un aspecto fundamental de las ayudas es que no solamente apuntan a consolidar el
+ecosistema de las industrias –en sectores como las artes escénicas, artes visuales,
+patrimonio cultural, cine, televisión, radio, publicidad, videojuegos y artes
+interactivas, diseño, diseño de moda, nuevos medios de comunicación,
+música, y libros –, sino que también impactan positivamente en el
+acceso, ya que promueven una mayor calidad en la oferta
+cultural disponible en línea.
+
+◗◗ FICOD (España):134 foro internacional de
+contenidos digitales organizado a través
+de Red.es por el Ministerio de Industria,
+Energía y Turismo. Constituye una de las
+herramientas de la Agenda Digital para
+España.
+◗◗ Emprendelibro (España):135 programa de
+asistencia a emprendimientos de edición
+digital, llevado adelante por la Fundación
+Germán Sánchez Ruipérez y Factoría
+Cultural, con el respaldo del MECD.
+◗◗ Appuesta Digital (México):136 ayuda
+ofrecida por el Centro de Cultura Digital
+para el desarrollo de aplicaciones web
+o móviles que contribuyan a mejorar la
+productividad y la sustentabilidad de las
+empresas culturales.
+En el caso puntual del micro-mecenazgo,
+cabe mencionar que España anunció
+en 2015 una reforma fiscal que regula
+
+este instrumento y ofrece deducciones
+impositivas sobre los aportes destinados
+a producciones culturales.137
+Por otro lado, existen diversos proyectos
+de aplicaciones y plataformas en línea,
+creadas generalmente por instituciones
+públicas, que apuntan a dinamizar
+y fortalecer determinadas industrias
+culturales. La Secretaría de Cultura de
+México, por ejemplo, presentó en 2015
+Libros México,138 un espacio virtual
+multifuncional que ofrece herramientas
+tecnológicas para editores, importadores,
+distribuidores, bibliotecarios, libreros y
+lectores locales. Otra iniciativa interesante
+es libreriasdeviejomexico.org, un portal
+desarrollado por la Universidad Autónoma
+Metropolitana que presenta un mapa
+interactivo con la ubicación de decenas de
+librerías “de viejo” mexicanas –un mercado
+considerado en riesgo de extinción.
+
+134. https://ficod.es
+135. http://emprendelibro.com/
+
+137. Cf. “El micromecenazgo” (2015).
+
+136. http://semana-emprendedor.centroculturadigital.mx/appuesta.html
+
+138. https://librosmexico.mx/
+
+38
+
+La Cultura en el entorno digital
+
+La aplicación Ibermúsicas,139 desarrollada
+a principios de 2016 por el programa
+iberoamericano homónimo, tiene como
+fin último fomentar la diversidad musical,
+estimular la formación de nuevos públicos
+en la región y ampliar el mercado de
+trabajo de los profesionales del sector, con
+el apoyo de 10 países –Argentina, Brasil,
+Colombia, Costa Rica, Chile, Cuba, México,
+Paraguay, Perú y Uruguay.
+Es tal vez en el segmento del cine donde
+más plataformas han surgido por iniciativa
+pública. En 2015, el Instituto Nacional de
+Cine y Artes Audiovisuales de Argentina
+(INCAA) presentó Odeón,140 un portal de
+video bajo demanda con películas, series,
+documentales y cortos nacionales. A
+fines de 2014, la Corporación Nacional de
+Telecomunicaciones de Ecuador puso en
+funcionamiento el sistema CNT Play,141 que
+provee contenidos bajo demanda, con un
+énfasis especial en las producciones locales.
+Por su parte, el MECD de España administra
+el servicio Ver películas online,142 un
+buscador que permite recorrer toda la
+oferta legal de cine en la red. El Instituto
+Mexicano del Cine (IMCINE) –con apoyo
+de la Secretaría de Cultura y en alianza
+con la empresa española Filmin– tiene a
+su cargo el portal de video bajo demanda
+Filmin Latino,143 que ofrece películas de
+ficción, documentales, animación, cortos,
+series, de realizadores tanto locales como
+internacionales. El IMCINE también gestiona
+la plataforma digital Cinema México, que
+pone a disposición del público más de
+200 películas producidas por el Instituto.
+
+Existen, además, plataformas de cine
+surgidas de la cooperación internacional.
+El portal Retina Latina,144 sostenido
+por seis entidades cinematográficas de
+América Latina –Bolivia, Colombia, Ecuador,
+Perú, México y Uruguay– y apoyado por
+el Banco Interamericano de Desarrollo
+(BID) y la Conferencia de Autoridades
+Cinematográficas de Iberoamérica (CACI),
+propone una variedad de obras en línea,
+con el fin de presentar la producción de
+cine local a nuevos públicos de
+la región.
+
+Caso de estudio 5
+
+Retina Latina
+
+Sostenido por seis entidades
+cinematográficas de América
+Latina –Bolivia, Colombia, Ecuador,
+Perú, México y Uruguay– y apoyado
+por el Banco Interamericano de
+Desarrollo (BID) y la Conferencia de
+Autoridades Cinematográficas de
+Iberoamérica (CACI), el portal Retina
+Latina propone desde marzo de 2016 una
+variedad de películas en línea, con el fin
+de presentar la producción de cine local
+a nuevos públicos. En el largo plazo, el
+proyecto apunta a fortalecer el mercado
+de cine latinoamericano y a facilitar
+la distribución internacional de las
+obras. Experiencias como Retina
+Latina revisten suma importancia a
+la hora de consolidar el mercado
+cultural digital a nivel de toda
+la región.
+
+139. https://play.google.com/store/apps/details?id=com.theamalgama.
+ibermusicasapp
+140. https://www.odeon.com.ar
+141. http://www.cntplay.com/
+142. http://verpeliculasonline.mecd.gob.es/mc
+143. https://www.filminlatino.mx/
+
+144. http://retinalatina.org/
+
+La Cultura en el entorno digital
+
+39
+
+Por otra parte, gracias al impulso de la
+CACI y de la plataforma digital Cinema
+México, se ha conformado el proyecto
+Pantalla CACI,145 un portal de cine
+iberoamericano compuesto por 3 áreas:
+Ibermedia Digital –cine–, DOCTV
+Latinoamérica –documentales– y Aula –
+lecciones magistrales organizadas en torno
+a reportajes, entrevistas con directores,
+técnicos y actores.
+
+Finalmente, también en el terreno de
+la cooperación, puede mencionarse el
+proyecto Red de salas digitales del
+Mercosur.146 La estructura nace en el marco
+del Programa MERCOSUR Audiovisual,
+una iniciativa de la Reunión Especializada
+de Autoridades Cinematográficas y
+Audiovisuales del MERCOSUR (RECAM),
+en colaboración con la Unión Europea.
+Su principal objetivo es fortalecer el
+sector cinematográfico y la circulación de
+contenidos audiovisuales locales, al interior
+del bloque regional. La red está integrada
+actualmente por 30 salas: 10 en Argentina,
+10 en Brasil, 5 en Paraguay y 5 en Uruguay
+(en una segunda etapa se sumarán
+salas en Venezuela y también nuevos
+puntos de proyección en los países antes
+mencionados).147
+
+146. http://www.recam.org/pma/categorias/red-de-salas/contenidos/
+red-de-salas
+
+145. http://pantallacaci.com/
+
+40
+
+La Cultura en el entorno digital
+
+147. El listado de las salas, así como el catálogo de películas y la
+programación en cada país pueden consultarse desde el sitio http://
+mercosuraudiovisual.org/
+
+EJES CENTRALES
+
+4
+Sociedad civil
+
+41
+
+4. Sociedad civil
+
+Las herramientas digitales pueden
+constituir un claro aliado a la hora de
+fomentar la participación de la sociedad
+civil y la sensibilización en torno a la
+diversidad de las expresiones culturales.
+Es evidente que Internet posee una
+capacidad única de entregar informaciones
+de manera instantánea y económica a un
+número gigantesco de usuarios, lo que
+representa un claro argumento a favor de
+la construcción de portales de difusión
+cultural. A continuación, presentamos
+algunos ejemplos de plataformas de este
+tipo que cuentan con apoyo público:
+◗◗ España es cultura:148 portal desarrollado
+por el MECD, para la difusión y
+promoción de las culturas locales. Entre
+otros materiales, presenta una agenda
+con lo más destacado de la oferta
+cultural actual.
+◗◗ Hipermédula:149 plataforma digital
+de difusión cultural que alienta la
+vinculación de los diferentes actores,
+creadores y públicos de la cultura
+iberoamericana; se trata de un
+emprendimiento independiente,
+
+apoyado por la Agencia española de
+Cooperación Internacional para el
+Desarrollo (AECID) y el Centro Cultural de
+España / Córdoba (Argentina).
+◗◗ Americanosfera:150 plataforma de
+colaboración digital, creada por Casa
+de América (España), que invita a
+centros culturales y de pensamiento del
+ámbito iberoamericano a mostrar sus
+actividades, trabajos y proyectos.
+◗◗ México es cultura:151 sitio web que opera
+como cartelera nacional de la Secretaría
+de Cultura de México. El visitante puede
+encontrar la lista de actividades más
+relevantes en el ámbito de la música,
+cine, danza, exposiciones e incluso en
+la categoría “cultura digital”. El portal es
+también muy activo en redes sociales
+y cuenta con una aplicación móvil que
+ha sido considerada una de las mejores
+del mundo.152
+◗◗ WikiMexico:153 sitio web de interacción y
+divulgación de la cultura mexicana, tanto
+histórica como actual.
+150. http://americanosfera.org
+151. http://www.mexicoescultura.com/
+
+148. http://www.españaescultura.es
+
+152. Cf. “Multiplataforma de Conaculta” (2015).
+
+149. http://hipermedula.org/
+
+153. http://wikimexico.com/
+
+42
+
+La Cultura en el entorno digital
+
+◗◗ Alas y raíces:154 portal de la Secretaría
+de Cultura de México que tiene como
+objetivo de despertar la sensibilidad
+artística en niños y adolescentes. Ofrece
+una cartelera con información cultural
+y una sección de aplicaciones móviles
+específicamente diseñadas para el
+público joven.
+Hay que reconocer que la potencia
+de lo digital se expresa no sólo por
+medio de plataformas informativas,
+sino también –y en particular– a través
+de la interactividad propia de las redes
+sociales. En este campo, América Latina
+y España exhiben los índices de uso más
+elevados del mundo,155 lo que representa
+una oportunidad extraordinaria para las
+iniciativas de sensibilización y divulgación
+a nivel regional. Por cierto, redes y portales
+globales como Facebook, Twitter, YouTube
+e incluso sitios autóctonos como Taringa!156
+se han convertido en canales de difusión
+e intercambio cultural muy poderosos.
+Podríamos pensar por ejemplo en el
+fenómeno de los booktubers: se trata de
+usuarios –generalmente adolescentes o
+jóvenes– que comentan libros a través
+de YouTube y que cuentan con miles de
+seguidores.157 Además, en la región crecen
+los portales de recomendación de libros
+que –como Entrelecturas158 o Lecturalia159–
+permiten compartir informaciones.
+
+154. http://www.alasyraices.gob.mx/
+155. América Latina aloja a más de 217 millones de usuarios de
+Facebook (cf. eMarketer, 2015a y 2015b); Twitter, por su parte, registra
+en la región una tasa de crecimiento que se encuentra entre las más
+elevadas del mundo. Para el caso de España, cf. VIU (2015).
+
+El potencial de las nuevas formas de
+comunicación está siendo aprovechado
+por las instituciones públicas de diferentes
+maneras. Son innumerables los festivales,
+museos y centros de arte que utilizan las
+redes sociales para divulgar informaciones
+e interactuar con su público de forma
+directa.160 Por otro lado, los ministerios
+de Cultura de la región mantienen
+una base de seguidores
+considerable.
+
+Caso de estudio 6
+
+Foro de Cultura Digital
+(Argentina)
+Argentina organizó en 2013 los
+primeros Foros Nacionales hacia
+una Agenda de Cultura Digital, que
+confluyeron en octubre de 2015 en un
+evento de mayor envergadura: el Foro
+de Cultura Digital. Este espacio reunió
+a productores culturales, académicos,
+empresarios digitales, legisladores,
+activistas, programadores, artistas y
+usuarios con el objetivo de pensar las
+oportunidades y los desafíos de las
+industrias culturales argentinas en la
+era digital. Actividades de este tipo
+pueden resultar de gran utilidad
+a la hora de promover un mayor
+involucramiento de la sociedad
+civil en la toma de consciencia
+de las problemáticas actuales,
+así como en la elaboración
+de nuevas políticas
+para la cultura.
+
+156. http://www.taringa.net/
+157. Cf. Perazo (2014).
+158. http://www.entrelectores.com/
+159. http://www.lecturalia.com/
+
+160. Para un buen panorama sobre el uso de nuevas tecnologías
+en el ámbito de los museos y los festivales de España, cf. Cano
+Coca, Vázquez Aldecoa y Celaya (2015) y Roselló y Celaya (2016),
+respectivamente.
+
+La Cultura en el entorno digital
+
+43
+
+Vale la pena destacar aquí el enorme
+impacto que alcanza la Secretaría de
+Cultura de México: su cuenta de Twitter,161
+por ejemplo, posee casi 1,5 millones de
+followers.162
+Por otro lado, si la clave de la comunicación
+digital es la interacción, hay que advertir
+que esa misma lógica está influyendo en
+la forma en que se elaboran las políticas.
+Por ejemplo, para llegar a la versión
+definitiva de su proyecto de cultura digital,
+el Ministerio de Cultura de Colombia
+sometió el primer borrador a un debate en
+el cual participaron más de 300 personas
+–expertos, comunicadores, instituciones y
+ciudadanos en general.163 Este proceso fue
+decisivo para validar las líneas propuestas,
+así como para recopilar nuevas ideas.
+Los países también han contribuido a la
+puesta en marcha de congresos y espacios
+de investigación relacionados con la
+cultura digital, en un sentido amplio. En
+2013, tuvo lugar en Zaragoza el V Congreso
+Iberoamericano de Cultura164 –organizado
+por la SEGIB, el MECD y otras entidades–,
+que llevó como título: “Cultura digital,
+cultura en red”. También en Zaragoza y
+con apoyo del MECD, en 2015 se inauguró
+el congreso internacional sobre “Cultura
+Digital, Comunicación y Sociedad”.165
+
+El proyecto Diversidad Audiovisual166
+–radicado en la Universidad Carlos III
+de Madrid– lleva adelante desde 2012
+una amplia gama de actividades de
+investigación e intercambio referidas a
+la diversidad en las industrias culturales,
+en general, y en el sector audiovisual
+digital, en particular, con apoyo del
+Ministerio de Economía y Competitividad.
+Argentina, por su parte, organizó en 2015
+el Foro de Cultura Digital –un espacio
+de reflexión que reunió a productores
+culturales, académicos, empresarios
+digitales, legisladores y artistas, a fin de
+reflexionar sobre los retos y necesidades de
+la era actual.167
+Finalmente, hay que destacar las diferentes
+ediciones de libros relacionados con
+esta temática que han sido impulsadas
+por entidades públicas. Aquí podemos
+mencionar la obra En la ruta digital,
+compilada en 2012 por la Dirección
+Nacional de Industrias Creativas de
+Argentina168 y el Anuario AC/E, documento
+editado por Acción Cultural Española que
+examina la evolución de las tendencias
+digitales en el mundo de la cultura.169
+
+161. https://twitter.com/cultura_mx
+162. Mayo de 2016. Para una lista detallada de las redes de la
+Secretaría, cf. “Las redes sociales” (2015).
+
+166. http://diversidadaudiovisual.org/.
+
+163. Cf. “Política Cultura Digital” (s.f.).
+
+167. http://digital.cultura.gob.ar/
+
+164. http://www.culturaiberoamerica.org/
+
+168. http://digital.cultura.gob.ar/en-la-ruta-digital/
+
+165. http://www.congresoculturadigital.es
+
+169. http://www.accioncultural.es/es/anuario_ac_e_cultura_digital
+
+44
+
+La Cultura en el entorno digital
+
+Seguimiento y evaluación futura de las variables digitales
+¿Cómo medir los progresos realizados por los países, en términos de la protección y
+promoción de la diversidad de las expresiones culturales en la era digital? El marco de
+seguimiento presentado en el volumen Re|pensar las políticas culturales propone
+3 indicadores centrales en este terreno, con sus respectivos medios de verificación: 1
+
+Indicador 1
+
+Indicador 3
+
+La base legislativa para el acceso
+universal a Internet está: a) establecida,
+b)  evaluada y c) en funcionamiento.
+Medios de verificación:
+
+Las políticas y medidas para apoyar
+mercados digitales e industrias
+culturales dinámicos y diversos están:
+a) establecidas, b) evaluadas y c) en
+funcionamiento.
+Medios de verificación:
+
+•	 E videncia de leyes pertinentes para
+establecer el acceso universal a Internet
+•	 Evidencia de acceso universal a conexiones
+móviles a Internet (por sexo, edad, nivel de
+ingresos) y a redes sociales
+•	 Informes de evaluación sobre el impacto de
+las leyes sobre el acceso universal a Internet
+
+Indicador 2
+Las políticas y medidas para fomentar
+la creatividad digital y promover la
+participación de la sociedad civil en el
+entorno digital están: a) establecidas,
+b) evaluadas y c) en funcionamiento.
+Medios de verificación:
+•	 P olíticas y medidas para apoyar las
+artes digitales, incubadoras para arte y
+experimentación electrónica, y formación
+para artistas
+•	 Medidas para promover la producción y el
+consumo de contenidos electrónicos (de
+pago y gratuitos, internacionales y locales)
+•	 Medidas para fomentar la participación de
+la sociedad civil a través de medios digitales
+•	 Informes de evaluación sobre el impacto
+de las políticas para fomentar la creatividad
+digital y la participación de la sociedad civil
+en el entorno digital
+
+•	 P olíticas y medidas para apoyar la
+modernización de las industrias culturales
+(por ejemplo, infraestructuras tecnológicas
+y formación en cine digital, escritura/
+edición electrónica)
+•	 Número de participantes en el mercado de
+la cultura electrónica, por industria cultural
+(por ejemplo, música, industria editorial,
+cine, etcétera) y niveles de alfabetización
+digital entre los consumidores (por sexo,
+edad, nivel de ingresos)
+•	 Porcentaje de ingresos digitales para
+pequeñas y medianas empresas, por
+industria cultural (por ejemplo, mecanismos
+de inversión tales como la financiación
+colectiva para empresarios locales)
+•	 Informes de evaluación sobre el impacto
+de las políticas para apoyar mercados
+dinámicos y diversos
+
+170. See Kulesz (2015: 86).
+
+La Cultura en el entorno digital
+
+45
+
+Como puede apreciarse, en estos
+indicadores reaparecen los 4 ejes que
+hemos escogido para estructurar el
+presente trabajo. Por otro lado, hay
+que reconocer que en algunos casos
+–en particular para los indicadores 2 y
+3–, no resulta sencillo hallar los datos
+correspondientes. Ahora bien, puesto que
+la salud del ecosistema cultural depende
+en buena medida de la cantidad y calidad
+de las informaciones disponibles para
+las partes interesadas –sector público,
+privados, sociedad civil–, todos los
+esfuerzos que se destinen a colmar estos
+vacíos estadísticos podrían redundar en un
+gran beneficio.
+
+46
+
+La Cultura en el entorno digital
+
+Conclusión y
+recomendaciones
+Tal como hemos intentado mostrar hasta aquí, el panorama
+de oportunidades, desafíos y políticas asociados con la
+protección y la promoción de la diversidad de las expresiones
+culturales en la era digital en España y América Latina presenta
+una gran complejidad. Del examen parece desprenderse que las
+nuevas tecnologías pueden representar tanto una ventaja como
+un reto, en función de cómo se apliquen en cada contexto: en
+efecto, según el modo en que se empleen, las herramientas
+digitales pueden por ejemplo generar un mercado de industrias
+culturales rico y dinámico, o bien concentrar la oferta en manos
+de muy pocos jugadores. Y las políticas públicas tienen un peso
+decisivo a la hora de definir el resultado en uno u otro sentido.
+
+Ahora bien, más allá de las acciones que han sido llevadas
+adelante, existen ciertas zonas menos exploradas, sobre las
+que valdría la pena detenerse. Nos referimos principalmente
+a ciertas oportunidades que no están siendo completamente
+aprovechadas, o a determinados desafíos que no han sido
+suficientemente atendidos. A continuación, desarrollaremos
+algunos de estos aspectos, que también podrían ser de
+utilidad a la hora de elaborar una lista de recomendaciones y
+de buenas prácticas.
+
+La Cultura en el entorno digital
+
+Dentro de este marco, cuando se trata de proteger y
+promover la diversidad de las expresiones culturales en el
+nuevo entorno, los avances logrados por unos países pueden
+ser de enorme utilidad para los otros. Por cierto, muchas de
+las iniciativas que hemos estudiado en relación con el acceso,
+la creatividad, las industrias culturales y la participación de
+la sociedad constituyen claros casos de éxito que podrían
+replicarse.
+
+47
+
+En el ámbito del acceso, el sector público ha realizado
+importantes esfuerzos para reducir la brecha digital. Sin
+embargo, estos proyectos suelen formar parte de vastos
+planes nacionales de infraestructura en cuya elaboración e
+implementación intervienen generalmente los Ministerios de
+Tecnología, de Industria, de Comunicaciones, de Educación,
+entre otros, pero no el de Cultura –lo que puede impactar
+negativamente en términos de la diversidad de las expresiones
+culturales. Por otro lado, en un contexto en el cual grandes
+plataformas internacionales ejercen una presión creciente para
+ofrecer soluciones de infraestructura, resulta indispensable
+insistir en que, sin políticas públicas en este ámbito, el acceso
+equitativo y la neutralidad de la web pueden correr riesgos.
+Desde la perspectiva de la creatividad, los países han
+invertido en plataformas y aplicaciones que contribuyen a la
+visibilidad de los artistas locales, en actividades de capacitación
+que ayudan a experimentar y crear con tecnologías digitales,
+y en distintas medidas que protegen el derecho de autor. No
+obstante, a menudo las políticas culturales siguen demasiado
+ancladas en el modelo de creación analógico –en el cual el
+mensaje se comunica unidireccionalmente– y pierden un
+poco de vista el paradigma propio de nuevo entorno, que se
+caracteriza por la interacción y la colaboración.
+
+La Cultura en el entorno digital
+
+Respecto de las industrias culturales, las ayudas para la
+vinculación profesional, la capacitación y la modernización,
+así como la construcción de plataformas que contribuyen a la
+consolidación de la industria del libro, de la música o del cine son
+iniciativas fundamentales. Con todo, los desafíos relacionados
+con las grandes plataformas globales y su impacto en la cadena
+creativa local no están recibiendo un tratamiento integral: sin
+una estrategia firme en este ámbito, pueden acentuarse los
+problemas a nivel no sólo de las industrias sino también de las
+estadísticas nacionales.
+
+48
+
+Finalmente, los países han llevado adelante numerosos
+proyectos de difusión cultural y fomento de la participación social, en
+particular a través de plataformas de divulgación, comunicación en
+redes sociales, consultas ciudadanas, conferencias y publicaciones
+sobre la cultura en la era digital. Pero aquí se presenta una
+oportunidad algo desaprovechada: la posibilidad de sensibilizar al
+público general sobre los objetivos y principios de la Convención
+2005 y de mantener una discusión explícita sobre cómo impacta lo
+digital en la diversidad de las expresiones culturales.
+
+A partir de las políticas y medidas descritas en las secciones
+1 a 4, así como de las nuevas zonas que podrían explorarse
+en el futuro, proponemos las siguientes 50 recomendaciones,
+organizadas en torno a 7 temáticas –4 áreas específicas y 3 áreas
+transversales–:
+
+Acceso
+1.	 Involucrar al Ministerio de Cultura en la organización e
+implementación de los grandes planes nacionales de
+infraestructura tecnológica e inclusión digital, ya que éstos
+suelen abarcar ámbitos que están directa o indirectamente
+vinculados a la diversidad de las expresiones culturales.
+2.	 Introducir cláusulas culturales y referencias a la Convención
+2005 en esos planes o agendas digitales nacionales.
+3.	 Simplificar el acceso en línea a las expresiones culturales
+alojadas en instituciones públicas –museos, bibliotecas,
+archivos–, ya sea a través de la digitalización de materiales o
+de la unificación de catálogos consultables vía web.
+4.	 Intensificar los esfuerzos destinados a garantizar la accesibilidad,
+la universalidad de Internet y la neutralidad de la web.
+
+Creatividad
+5.	 Multiplicar las instancias de capacitación para los artistas
+que trabajan con herramientas digitales.
+6.	 Dar una mayor visibilidad a aquellos creadores que
+experimentan con nuevas tecnologías.
+7.	 Ofrecer más estímulos para la creación digital.
+8.	 Brindar apoyo a los centros, festivales y eventos
+profesionales que fomentan el arte electrónico.
+9.	 Modernizar los procesos de registro y depósito legal de
+obras artísticas, en particular de aquellas realizadas por
+medios digitales.
+
+11.	Proteger la creación digital, por ejemplo, a través de la
+elaboración de una guía de buenas prácticas para el
+respeto de los derechos de autor.
+12.	Apoyar las nuevas formas de micro-mecenazgo o
+financiamiento participativo (crowdfunding) que
+contribuyan a sostener la actividad de los artistas.
+
+La Cultura en el entorno digital
+
+10.	Promover una remuneración equitativa de los artistas en el
+marco de la nueva cadena creativa.
+
+49
+
+Industrias culturales
+13.	Acompañar a la industria del libro, la música y el cine en sus
+esfuerzos de digitalización y modernización.
+14.	Brindar más posibilidades de capacitación para las
+industrias culturales que necesitan perfeccionar sus
+competencias digitales.
+15.	Contribuir al fortalecimiento del mercado cultural digital a
+nivel nacional.
+16.	Adaptar los mecanismos para las transacciones electrónicas, de
+manera de facilitar el comercio de bienes y servicios en línea.
+17.	Tomar medidas para evitar la concentración de la oferta
+y para fomentar la coexistencia de múltiples actores
+comerciales, tanto nacionales como internacionales.
+18.	Al igual que en ámbito de la creatividad, apoyar el
+financiamiento participativo, en este caso para la producción
+y distribución en línea de aquellos bienes y servicios
+culturales que tienen una salida comercial más lenta.
+19.	Contribuir a una mayor vinculación entre los profesionales de
+la cultura y el mundo digital –programadores, diseñadores
+web, desarrolladores de videojuegos, entre otros.
+20.	Estimular las co-producciones y co-distribuciones digitales
+en el seno de la región.
+21.	Fomentar los encuentros de emprendedores que trabajan
+en contenidos digitales.
+22.	Intensificar los esfuerzos para crear una oferta legal de
+bienes y servicios en línea.
+23.	Repensar las compras públicas de bienes y servicios
+culturales, en función de las nuevas formas de creación,
+producción y distribución.
+
+La Cultura en el entorno digital
+
+24.	Contribuir a una mayor interoperabilidad y estandarización,
+tanto de formatos de archivo como de metadatos.
+
+50
+
+25.	Lograr una mayor transparencia en el modo en que está
+presentada la oferta en línea, en particular en las grandes
+plataformas, a fin de garantizar una adecuada visibilidad de
+los bienes y servicios culturales locales.
+26.	Evaluar la necesidad de introducir cambios en la legislación
+vinculada con la distribución de bienes y servicios culturales en
+línea, como en el caso del precio fijo para el libro electrónico.
+
+27.	Prestar atención a los circuitos culturales que pueden
+estar amenazados por los cambios tecnológicos, tal como
+sucede con el entramado de librerías físicas.
+
+Sensibilización y participación de
+la sociedad civil
+28.	Aprovechar el potencial de las redes sociales y de otras
+herramientas digitales, como medio para fomentar la
+participación social y la sensibilización sobre la diversidad
+de las expresiones culturales en el nuevo entorno.
+29.	Aprovechar las instancias de intercambio regionales como
+MICSUR, a fin de avanzar en la discusión de estos temas.
+30.	Volver más interactivas las políticas públicas y abrir espacios
+para que la sociedad civil intervenga en la elaboración de
+los planes nacionales.
+
+Cooperación
+31.	Introducir cláusulas culturales y referencias a la Convención
+2005 en los planes o agendas digitales de cooperación
+internacional.
+32.	También incluir cláusulas culturales y referencias a la
+Convención 2005 en los tratados de libre comercio –sean
+éstos bilaterales o multilaterales–, prestando especial
+atención al estatuto del comercio electrónico de bienes y
+servicios culturales.
+
+34.	Establecer una coordinación cercana entre los organismos
+regionales y los órganos de la Convención 2005, a fin de
+coordinar esfuerzos y unificar estrategias para la protección
+y promoción de la diversidad de las expresiones culturales
+en el entorno digital.
+35.	Contribuir con el Fondo Internacional de la Diversidad
+Cultural, en la implementación de proyectos relacionados con
+la incorporación de nuevas tecnologías en la cultura local.
+
+La Cultura en el entorno digital
+
+33.	Actualizar los acuerdos de cooperación cultural –tales
+como la Carta Cultural Iberoamericana–, con el fin de
+incluir una reflexión sobre las oportunidades y desafíos
+de las tecnologías digitales. Este trabajo puede seguir de
+cerca las discusiones mantenidas en el seno de la UNESCO
+respecto a las orientaciones prácticas para la aplicación de
+la Convención 2005 en el entorno digital.
+
+51
+
+36.	Fomentar un mayor intercambio entre los Ministerios de
+Cultura de la región, en temas relacionados con las nuevas
+tecnologías.
+
+Intercambio de informaciones
+y recolección de datos
+37.	Realizar nuevos estudios sobre el impacto de la era digital
+en la diversidad de las expresiones culturales, en particular
+en otros países hispanohablantes.
+38.	Además de los libros, la música y el cine, incorporar en
+estas investigaciones las problemáticas propias de otras
+industrias, tales como los videojuegos y la animación.
+39.	Hacer nuevos mapeos de cultura digital, en la línea de
+lo desarrollado por la SEGIB en torno a la innovación
+ciudadana –aunque enfocándose específicamente en la
+temática de la diversidad de las expresiones culturales.
+40.	Incluir la variable digital en las Cuentas Satélite y en los
+Observatorios de la cultura, a fin de medir con mayor
+precisión el consumo y la producción de contenidos
+digitales desglosados por industria, procedencia (local/
+internacional), soporte, formato, etc.
+41.	Intercambiar experiencias con países de otras zonas
+lingüísticas, a fin de compartir buenas prácticas y lecciones
+aprendidas.
+42.	Estudiar el efecto que la integración de mercados digitales
+tiene sobre la diversidad de las expresiones culturales, tanto
+en sus oportunidades como en sus desafíos, por ejemplo, a
+partir del caso de la Unión Europea.
+43.	Contribuir con informaciones sobre oportunidades,
+desafíos y políticas implementadas en el entorno digital,
+al presentar los informes periódicos cuadrienales para la
+Convención 2005.
+
+La Cultura en el entorno digital
+
+Temas estratégicos
+
+52
+
+44.	Concebir lo digital como una dimensión más de la cultura
+humana, que se construye “entre todos” –en vez de “desde
+arriba”–, y que no sólo resuelve problemas técnicos, sino
+que también expresa valores, significado e identidad.
+
+45.	A la hora de definir programas de cultura digital, adoptar
+un abordaje integral, que no excluya ninguna de las 4
+áreas anteriormente descritas –el acceso, la creatividad, las
+industrias culturales y la sociedad civil.
+46.	En cualquiera de las 4 áreas, poner en el centro siempre a la
+persona, y no a la herramienta –ya se trate de dispositivos,
+de plataformas o de aplicaciones.
+47.	Al proyectar plataformas digitales nacionales, pensar
+sinergias con plataformas locales ya existentes –en vez de
+trabajar ex nihilo–, de manera de colaborar con la industria
+y asegurar la sostenibilidad de la iniciativa.
+48.	Establecer una sincronización de los proyectos nacionales
+referidos a la cultura digital, con los planes realizados a nivel
+provincial y municipal.
+49.	Poner en marcha nuevas alianzas público-privadas.
+50.	Fomentar las sinergias interministeriales, en particular entre
+el Ministerio de Cultura y el Ministerio de Tecnologías.
+
+En futuras investigaciones sobre la relación entre lo digital
+y la diversidad de las expresiones culturales en el mundo
+hispanohablante, será sin duda necesario mantener un doble
+abordaje. Por un lado, habrá que seguir prestando atención al
+aspecto universal/común, conformado por el amplio espectro
+de oportunidades, desafíos y políticas que se repiten a lo
+largo de la región. En segundo término –en la medida en
+que los datos disponibles lo permitan– resultará fundamental
+examinar el componente local/específico, definido por
+la coyuntura y las prioridades de cada país.
+
+La Cultura en el entorno digital
+
+Esta claro que para la cultura de los países hispanohablantes la
+era digital no representa un futuro posible, sino que constituye
+una realidad presente. A pesar de que falta muchísimo por
+hacer –por ejemplo, en lo que respecta a la recopilación de
+estadísticas– para alcanzar una comprensión profunda de estos
+procesos, podríamos postular, en sintonía con la Declaración
+de Veracruz, que el espacio cultural digital conformado por
+España y América Latina no es algo que deba construirse
+desde cero, sino que ya existe y se desarrolla de manera
+muy dinámica. Es también evidente que existen marcados
+contrastes entre los países, referidos a un buen número de
+particularidades tecnológicas, económicas y sociales –y estos
+rasgos originales podrían acentuarse con el paso del tiempo.
+
+53
+
+En cierto sentido, se trata de la misma dualidad que hallamos
+en la idea de una lengua común: la región comparte el
+español, pero existen diferencias dialectales que deben ser
+tenidas en cuenta.
+
+La Cultura en el entorno digital
+
+Y, a fin de cuentas, si el objetivo es consolidar el espacio digital
+hispanohablante de un modo que promueva y proteja la
+diversidad de las expresiones culturales, resultará indispensable
+fortalecer ambos pilares a la vez: las redes de intercambio
+regional –de datos, de experiencias, de contenidos, de
+expresiones artísticas– y el trabajo incesante sobre las
+necesidades locales concretas.
+
+54
+
+ANEXO 1
+
+Principales expertos
+consultados
+Adsuara, Borja: abogado, profesor universitario y consultor experto en
+derecho y estrategia digital (España)
+Albornoz, Luis: investigador, profesor universitario y experto en
+comunicación audiovisual (Argentina y España)
+Amatriain, Ignacio: sociólogo, profesor universitario y experto en industrias
+culturales (Argentina)
+Arrieta, Pablo: profesor universitario y experto en nuevos medios (Colombia)
+Astudillo Borja, Lisset: directora de Relaciones Internacionales y Cooperación
+Cultural del Ministerio de Cultura y Patrimonio (Ecuador)
+Bello, Mónica: investigadora y crítica de arte especializada en prácticas
+culturales emergentes (España)
+Bercovich, Fernando: investigador, responsable del área digital del Sistema
+de Información Cultural –SIncA– del Ministerio de Cultura (Argentina)
+Boland, Philippe: presidente de Internauta –Gremio colombiano de fomento
+y uso de Internet– y experto en nuevos medios (Colombia)
+Buitrago, Felipe: consultor y experto en economía creativa (Colombia)
+Bultynch, Daniela: Secretaría de Medios Públicos del Sistema Federal de
+Medios y Contenidos Públicos (Argentina)
+Cárdenas Castillo, Jonathan: Dirección de Regulación y Control de la
+Subsecretaría de Emprendimientos e Industrias Culturales del Ministerio
+de Cultura y Patrimonio (Ecuador)
+
+Castellanos, Alfonso: antropólogo, consultor en temas de economía creativa
+y experto en indicadores culturales (México)
+Castillo, Carlos: escritor y agente literario (Colombia)
+Colagiovanni, Vanina: escritora y co-coordinadora del Sector Editorial del
+Mercado de Industrias Culturales Argentinas –MICA– del Ministerio de
+Cultura (Argentina)
+Correa, Iván: director de la editorial digital eLibro (Colombia)
+
+La Cultura en el entorno digital
+
+Carrasco, Diego: técnico del área de Economía Popular y Solidaria y
+coordinador de la Feria Texturas y Colores de ConQuito (Ecuador)
+
+55
+
+D’Elia, Alejandrina: directora de Innovación Cultural de la Subsecretaria de
+Economía Creativa del Ministerio de Cultura (Argentina)
+De la Peña Aznar, José: consultor experto en tecnologías digitales y
+telecomunicaciones (España)
+Del Corral, Milagros: experta en políticas del libro, bibliotecas, derecho de
+autor y nuevas tecnologías de la edición (España)
+Di Paola, Virginia: responsable del área de alianzas estratégicas del British
+Council (Argentina)
+Escobar Guevara, Raúl: rector del Conservatorio Nacional de Música (Ecuador)
+Fernández Orgaz, Laura: directora de Colecciones y Exposiciones de la
+Fundación Telefónica (España)
+Flores Cevallos, José Daniel: Dirección de Regulación y Control de la
+Subsecretaría de Emprendimientos e Industrias Culturales del Ministerio
+de Cultura y Patrimonio (Ecuador)
+Franco, Germán: subdirector del Centro Ático en la Pontificia Universidad
+Javeriana y experto en políticas de comunicación y cultura digital (Colombia)
+Gaitán, Juan Carlos: director de Prana –incubadora de empresas culturales e
+industrias creativas– (Colombia)
+García Leiva, Trinidad: investigadora, profesora universitaria y experta en el
+desarrollo del sector audiovisual digital (España)
+García, Marcos: director del MediaLab Prado (España)
+González, Luis: director general de la Fundación Germán Sánchez Ruipérez
+(España)
+Gribnicow, Andrés: subsecretario de Economía Creativa del Ministerio de
+Cultura (Argentina)
+Holguín, Catalina: directora editorial del emprendimiento digital Manuvo
+(Colombia)
+Holtz, Deborah: editora, directora de la editorial Trilce y presidenta de la
+Alianza de Editores Mexicanos Independientes (México)
+Jaramillo, Alejandra: escritora, profesora universitaria y directora de la
+maestría en escritura creativa de la Universidad Nacional (Colombia)
+
+La Cultura en el entorno digital
+
+Jaramillo, Bernardo: subdirector de Lectura, Escritura y Bibliotecas del
+CERLALC (Colombia)
+
+56
+
+Klinkovich, Vanina: ilustradora (Argentina)
+Londoño, Felipe César: rector de la Universidad de Caldas y director del
+Festival Internacional de la Imagen (Colombia)
+Manjarres, Daniel: director del Museo de Bogotá y asesor de la Dirección de
+Asuntos Culturales del Ministerio de Relaciones Exteriores (Colombia)
+
+Monak Salinas, Lenin: subdirector de la Unidad de Estudios y Estadísticas del
+CERLALC (Colombia)
+Monteros, Ricardo: compositor y director de la orquesta sinfónica del
+Conservatorio Nacional de Música (Ecuador)
+Moreno, Ángel: subdirector de Prácticas Culturales de la Secretaría de Cultura
+Recreación y Deporte de la alcaldía de Bogotá (Colombia)
+Navarro, Blanca: experta en comunicación y directora de la agencia de
+promoción cultural Disueño (España)
+Noejovich, Sebastián: coordinador general de Letras y Libros en el Ministerio
+de Cultura (Argentina)
+Nongo, Néstor: consejero técnico de la Secretaría de Estado de Cultura del
+Ministerio de Educación, Cultura y Deporte (España)
+Orosa, Iván: subsecretario de Emprendimientos Culturales del Ministerio de
+Cultura y Patrimonio (Ecuador)
+Pascual, Javier: Subdirección General de Promoción del Libro, la Lectura y las
+Letras Españolas del Ministerio de Educación, Cultura y Deporte (España)
+Pedrosa, Fernando: Secretaría de Medios Públicos –Sistema Federal de
+Medios y Contenidos Públicos– (Argentina)
+Piedras, Ernesto: experto en economía creativa y director general de The
+Competitive Intelligence Unit (México)
+Pis Diez, Ethel: profesora universitaria e investigadora en temas relacionados
+con las industrias de contenidos (Argentina)
+Ponsford, Marianne: directora del CERLALC (Colombia)
+Ramírez Hernández, Ricardo: coordinador del Grupo de Gestión y Ejecución
+perteneciente a la Dirección de Comunicaciones del Ministerio de Cultura
+(Colombia)
+Restrepo, Jorge: fundador de la empresa Hypercubus –enfocada a proyectos
+que cruzan la educación y las tecnologías– y experto en la industria de
+contenidos digitales (Colombia)
+
+Riera, Verónica: editora y co-coordinadora del Sector Editorial del Mercado
+de Industrias Culturales Argentinas –MICA– del Ministerio de Cultura
+(Argentina)
+Rocca, Luis: director de la editorial Taller de Edición (Colombia)
+Rodríguez Las Heras, Antonio: profesor universitario, investigador y director
+del Instituto de Cultura y Tecnología de la Universidad Carlos III de Madrid
+(España)
+
+La Cultura en el entorno digital
+
+Restrepo, Natalia: coordinadora del proyecto Cultura Digital de la Dirección
+de Comunicaciones del Ministerio de Cultura (Colombia)
+
+57
+
+Romero, Carolina: subdirectora Técnica de Capacitación, Investigación y
+Desarrollo de la Dirección Nacional de Derecho de Autor (Colombia)
+Salazar Lara, Lorna: consultora y experta en contenidos digitales (Colombia)
+Salazar, Mauricio: emprendedor, consultor y organizador de TEDxBogotá
+(Colombia)
+Sandoval Ruiz, Alcira: especialista responsable del Sector Cultura de la
+Oficina de UNESCO en Quito y Representación para Bolivia, Colombia,
+Ecuador y Venezuela (Ecuador)
+Sborovsky, Carolina: escritora (Argentina)
+Schargorodsky, Héctor: profesor universitario y experto en industrias
+culturales, en particular en el campo de las artes escénicas (Argentina)
+Scheinig, Matías: experto en comunicación social, documentalista y
+fotógrafo (Argentina)
+Seiguer, Hernán: director del Sistema de Información Cultural del Ministerio
+de Cultura (Argentina)
+Sierra, Danny: gestor de innovación del ViveLab Bogotá (Colombia)
+Sierra, Edith: experta en comunicación digital y en proyectos transmedia
+(Colombia)
+Sigal, Jorge: secretario de Medios Públicos –Sistema Federal de Medios y
+Contenidos Públicos– (Argentina)
+Silva, Paula: responsable de Artes e Industrias Creativas del British Council
+(Colombia)
+Solano, Víctor: periodista, experto en comunicación y tecnologías digitales
+(Colombia)
+Torre Villaverde, Pilar: consejera técnica de la Secretaría General de
+Promoción Exterior de la Cultura –Secretaría de Estado de Cultura del
+Ministerio de Educación, Cultura y Deporte– (España)
+Ubertone, Pedro: escritor y guionista (Argentina)
+Vargas, Enrique: coordinador del Espacio Cultural iberoamericano de la
+Secretaría General Iberoamericana –SEGIB– (México)
+Vivas, Camilo: consultor en temas relacionados con las industrias creativas,
+en especial para el desarrollo de herramientas digitales (Colombia)
+La Cultura en el entorno digital
+
+Zabala, Rubén: coordinador de proyectos del MediaLab UIO (Ecuador)
+
+58
+
+Zamparolo, Valeria: responsable de Artes del British Council (Argentina)
+
+ANEXO 2
+
+Bibliografía
+“150 artistas urbanos plasmaron sus diseños en el Parque Bicentenario”
+(2014). Noticias Quito. URL: http://noticiasquito.gob.ec/Noticias/news_
+user_view/150_artistas_urbanos_plasmaron_sus_disenos_en_el_parque_
+bicentenario--11886
+Acción Cultural Española (2015). Anuario AC/E 2015 de Cultura Digital, Acción
+Cultural Española. URL:
+Acción Cultural Española (2016). Anuario AC/E 2016 de Cultura Digital, Acción
+Cultural Española. URL: http://www.accioncultural.es/media/Default%20
+Files/activ/2016/Publi/anuario2016_digital.pdf
+AIMC (2016). “Prácticamente completada la digitalización de las salas de cine”
+(2016). URL: http://www.aimc.es/spip.php?action=acceder_document&arg=
+3101&cle=89c14eb046966ae88c9898d57973e297132bd136&file=pdf%
+2F160511_censo_cine_2016.pdf
+Alianza (2016). Pay-TV signal piracy in Latin America and the Caribbean.
+URL: www.alianza.tv/files/LatAmTVSignalPiracy.pdf
+Anderson, C. (s.f.). “The long tail, in a nutshell”. URL:
+http://www.longtail.com/about.html
+Anheier, H. (2015). “Hacia un marco de seguimiento”, in UNESCO (2015b: 31-43).
+Arana, J. (2016). “Puntos y kioscos Vive Digital serán también Puntos de
+Paz”, El Tiempo. URL: http://www.eltiempo.com/tecnosfera/novedadestecnologia/puntos-vive-digital-seran-puntos-de-paz/16585195.
+“Biblioteca Nacional Eugenio Espejo se moderniza” (2015). Casa de
+la Cultura Ecuatoriana. URL: http://www.casadelacultura.gob.ec/?ar_
+id=11&no_id=2601
+
+“Brinda el Centro de Cultura Digital talleres a poblaciones vulnerables para
+la apropiación de la tecnología” (2016). Secretaría de Cultura, México.
+URL: http://www.cultura.gob.mx/noticias/internet/41774-brinda-el-centrode-cultura-digital-talleres-a-poblaciones-vulnerables-para-la-apropiacionde-la-tecnologia.html
+
+La Cultura en el entorno digital
+
+Blanc, S., Lhermitte, M. y Perrin, B. (2015). Tiempos de cultura. El primer
+mapa mundial de las industrias culturales y creativas, EY. URL:
+http://www.worldcreative.org/wp-content/uploads/2016/03/
+EYCulturalTimes2015_ES_Download.pdf
+
+59
+
+Cano Coca, L., Vázquez Aldecoa, J. A. y Celaya, J. (2015). “Museos y nuevas
+tecnologías”, en Acción Cultural Española (2015: 217-332).
+“Carta abierta a Mark Zuckerberg sobre Internet.org, Neutralidad de la
+Red, Privacidad y Seguridad” (2015). Fundación Karisma, URL:
+https://karisma.org.co/carta-abierta-a-mark-zuckerberg-sobre-internet-orgneutralidad-de-la-red-privacidad-y-seguridad/
+“Carta Cultural Iberoamericana” (2006). OEI. URL:
+http://culturasiberoamericanas.org/carta_cultural_espanol.php
+Castañares (2016). “¿Netflix, Claro o blim, cuál es la mejor opción?”,
+El Financiero. URL: http://www.elfinanciero.com.mx/empresas/netflix-claroo-blim-cual-es-la-mejor-opcion.html
+CELAC (2015). “Plan de Acción Cultural”. URL: http://www.lacult.unesco.org/
+docc/Plan_Accion_CLT_CELAC_2015-2020_ES.pdf
+CEPAL (2015a). “Agenda Digital para América Latina y el Caribe - eLAC2018”.
+URL: http://conferenciaelac.cepal.org/sites/default/files/15-00758_elac_
+agenda_digital.pdf
+CEPAL (2015b). “La nueva revolución digital”. URL: http://repositorio.cepal.org/
+bitstream/handle/11362/38604/S1600780_es.pdf
+CERLALC (2013). Nueva agenda por el libro y la lectura. URL:
+http://cerlalc.org/pdf/home_pdf/nueva_agenda.pdf
+CERLALC (2016). El libro en cifras n°8. URL: http://cerlalc.org/wp-content/
+uploads/2015/12/8.0-El-libro-en-cifras-2do-semestre-2015.pdf
+“Colombiano produce música utilizando un celular” (2015). Colombia.co.
+URL: http://www.colombia.co/cultura/colombiano-produce-musicautilizando-un-celular.html
+Corroto, P. (2015). “Desmontando los estudios de la Coalición de
+Creadores contra la ‘piratería’”, ElDiario.es. URL: http://www.eldiario.es/
+turing/propiedad_intelectual/Estudios-Coalicion-Creadores-operacionmarketing_0_365014608.html
+
+La Cultura en el entorno digital
+
+“Creación literaria en redes sociales, eje del Primer Festival de Escritura
+Digital” (2016). Secretaría de Cultura, México. URL: http://www.cultura.
+gob.mx/noticias/internet/45126-creacion-literaria-en-redes-sociales-eje-delprimer-festival-de-escritura-digital.html
+
+60
+
+“Declaración de Veracruz” (2014). OEI/SEGIB. URL: http://www.oei.es/noticias/
+spip.php?article14753
+“Declaración sobre la protección y promoción de la diversidad
+cultural en la era digital” (2013). Diversidad Audiovisual. URL: http://
+diversidadaudiovisual.org/wp-content/uploads/2013/09/Declaracion_Taller_
+Espa%C3%B1ol.pdf
+
+Deloitte (2015). “Consumo móvil en España”. URL: www2.deloitte.com/es/
+es/pages/technology-media-and-telecommunications/articles/Consumomovil-2015.html
+“El micromecenazgo, auténtica revolución social para la cultura” (2015).
+EuropaPress. URL: www.europapress.es/cultura/noticia-micromecenazgoautentica-revolucion-social-cultura-20150709203214.html
+eMarketer (2015a). “Chile, Argentina Boast Most Active Facebook Audiences
+in Region”. URL: http://www.emarketer.com/Article/Chile-Argentina-BoastMost-Active-Facebook-Audiences-Region/1013059)
+eMarketer (2015b). “Latin America to Register Highest Twitter User Growth
+Worldwide in 2015”. URL: http://www.emarketer.com/Article/Latin-AmericaRegister-Highest-Twitter-User-Growth-Worldwide-2015/1012498).
+FMI (2016). América Latina y el Caribe: ¿Se prolongará el actual frente frío? URL:
+https://www.imf.org/external/pubs/ft/reo/2016/whd/eng/pdf/wreo1016s.pdf
+García Leiva, M. T. (2015). “España y la Convención sobre Diversidad Cultural:
+consecuencias de su ratificación para las políticas de comunicación y
+cultura”, Trípodos, 36, pp. 59-75. URL: http://www.tripodos.com/index.php/
+Facultat_Comunicacio_Blanquerna/article/download/248/103
+Gil, M. (2015). “Reordenar la autopublicación”, Antinomias Libro. URL:
+https://antinomiaslibro.wordpress.com/2015/03/02/reordenar/
+Granados, O. (2015). “El milagro móvil en América Latina”, El País.
+URL: http://economia.elpais.com/economia/2015/08/27/
+actualidad/1440698867_622525.html
+Guèvremont, V. et al. (2013). “La mise en œuvre de la Convention sur la
+protection et la promotion de la diversité des expressions culturelles
+à l’ère numérique : enjeux, actions prioritaires et recommandations”,
+UNESCO. URL: http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CLT/
+pdf/Rapport_du_RIJDEC_Final.pdf
+IFPI (2016). Global Music Report 2016.
+Instituto Cervantes (2015). El español, una lengua viva. URL:
+http://www.cedro.org/docs/default-source/otros/informe_cervantes.pdf
+
+Katz, R. (2015). El ecosistema y la economía digital en América
+Latina, Fundación Telefónica. URL: http://repositorio.cepal.org/
+bitstream/11362/38916/1/ecosistema_digital_AL.pdf
+Kulesz, O. (2014). “UNESCO Convention on the Protection and Promotion of
+the Diversity of Cultural Expressions: Analysis of parties’ periodic reports
+and contemporary digital trends”, UNESCO. URL: http://es.unesco.org/
+creativity/sites/creativity/files/sessions/8_igc-inf_5_digital_en.pdf
+
+La Cultura en el entorno digital
+
+ITU (2015). Time series by country. URL: http://www.itu.int/en/ITU-D/Statistics/
+Pages/stat/default.aspx
+
+61
+
+Kulesz, O. (2015). “Challenges of the digital age”, in UNESCO (2015b: 75-87).
+“Las redes sociales de la Secretaría de Cultura continúan agregando
+seguidores” (2015). Secretaría de Cultura, México. URL: www.cultura.gob.
+mx/noticias/internet/43948-las-redes-sociales-de-la-secretaria-de-culturacontinuan-agregando-seguidores.html
+Lee, H. y Lim, L. (2015). “Challenges and opportunities for the diversity of
+cultural expressions in the digital era in East Asia”, UNESCO. URL: http://
+es.unesco.org/creativity/sites/creativity/files/9_igc-inf_7_digital_asia_en.pdf
+Libranda (2016): “Informe annual del libro digital 2015”. URL:
+http://mkt.libranda.com/LIBRANDA_INF_ANUAL_LIBRO_DIGITAL_2015.pdf
+Manrique Sabogal, W. (2015). “Dos librerías se cierran cada día en
+España”, El País. URL: http://cultura.elpais.com/cultura/2015/03/04/
+actualidad/1425453103_819705.html
+Ministerio de Cultura (2009). “Compendio de políticas culturales”. URL:
+http://www.mincultura.gov.co/areas/fomento-regional/Documents/
+Compendio-Pol%C3%ADticas-Culturales.pdf
+MinTIC (s.f.). Logros del Plan Vive Digital. URL: http://micrositios.mintic.gov.co/
+vivedigital/logros-plan/
+“Multiplataforma de Conaculta se encuentra entre las 15 apps mejores del
+mundo” (2015). Excelsior. URL:
+www.excelsior.com.mx/expresiones/2015/01/05/1000941
+Observatorio de la piratería y hábitos de consumo de contenidos digitales
+2015 (2016). “La piratería no remite”. URL:
+http://lacoalicion.es/wp-content/uploads/np-observatorio-2015.pdf
+Perazo, C. (2014). “¿Quiénes son los booktubers? La nueva tendencia teen
+que dinamiza al Mercado”, La Nación. URL:
+http://www.lanacion.com.ar/1713383-quienes-son-los-booktubers-la-nuevatendencia-teen-que-dinamiza-al-mercado
+“Plan Federal de Internet: el ambicioso programa para mejorar la
+conectividad en todo el país” (2016). Infobae. URL: http://www.infobae.
+com/2016/05/17/1812168-plan-federal-internet-el-ambicioso-programamejorar-la-conectividad-todo-el-pais
+
+La Cultura en el entorno digital
+
+“Política Cultura Digital” (s.f.). MinCultura, Colombia. URL: http://www.
+mincultura.gov.co/ministerio/politicas-culturales/politica-cultura-digital/
+Paginas/default.aspx
+
+62
+
+“Programa de difusión de derecho de autor y derechos conexos 1990-2016”
+(2016). DNDA, http://200.31.21.202/capacitacion1/respuesta_consolidado.asp
+Roselló, E. y Celaya, J. (2016). “Uso de nuevas tecnologías en festivales
+culturales” en Acción Cultural Española (2016: 98-162).
+
+SEGIB (2013). “Informe sobre la consolidación del espacio cultural
+iberoamericano”. URL: http://segib.org/wp-content/uploads/Informe_
+ECI_2013_%28ESP%29.pdf
+UNESCO (2015a). “Towards Operational Guidelines on digital issues”. URL:
+http://en.unesco.org/creativity/sites/creativity/files/sessions/9igc_7_
+preparation_des_do_numerique_en.pdf
+UNESCO (2015b). Re|pensar las políticas culturales: 10 años de promoción
+dela diversidad de las expresiones culturales para el desarrollo. URL:
+http://en.unesco.org/creativity/sites/creativity/files/gmr_es.pdf
+VIU (2015). “España encabeza el ranking mundial en uso de Redes Sociales
+con una tasa del 47%, el doble que la media internacional”. URL:
+http://www.viu.es/espana-ranking-redes-sociales-250815/
+Waelder, P. (2016). “El Mercado del arte en la era del acceso”, en Acción
+Cultural Española (2016: 37-53).
+
+La Cultura en el entorno digital
+
+Wikipedia (2016). “List of Wikipedias”. URL: https://meta.wikimedia.org/wiki/
+List_of_Wikipedias. Consultado el 30 de mayo de 2016.
+
+63
+
+

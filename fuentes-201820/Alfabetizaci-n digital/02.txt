@@ -1,0 +1,2006 @@
+EDUCACION SUPERIOR VIRTUAL EN EL URUGUAY
+
+Julio C. Fernández Odella
+Alejandro Armellini Di Santi
+Diciembre 2002
+Universidad ORT Uruguay / UNESCO-IESALC
+
+INDICE
+1. Introducción y objetivos............................................................................................ 2
+2. Resumen gerencial.................................................................................................... 2
+3. Correspondencias entre el informe y los términos de referencia para el trabajo.......... 3
+4. Metodología del relevamiento ................................................................................... 4
+5. Infraestructura telemática.......................................................................................... 5
+5.1 Acceso a Internet y otras modalidades de telecomunicaciones........................ 5
+5.2 Equipamiento informático y software............................................................. 8
+5.3 Personal técnico ............................................................................................. 9
+6. Evolución de los programas desde su inicio hasta el presente; identificación
+y descripción de experiencias......................................................................... 10
+7. Proyectos en preparación o en sus inicios................................................................ 12
+8. Marco legal, evaluación y acreditación.................................................................... 13
+9. Tendencia, problemas y perspectivas de desarrollo.................................................. 14
+9.1 Modelos de desarrollo de las ESV en las instituciones uruguayas ................ 14
+9.2 Organización de las iniciativas de ESV ........................................................ 16
+9.3 Aspectos demográficos; la ESV como alternativa para el aumento de la
+cobertura universitaria................................................................................. 17
+9.4 Aspectos de didáctica, preparación previa y organización académica de
+los cursos .................................................................................................... 18
+10. Propuestas y estrategias para mejorar la educación superior a distancia
+mediante la introducción de las NTIC y su articulación con los medios
+educativos existentes............................................................................................ 19
+10.1 Infraestructura y tarifas ............................................................................. 19
+10.2 Investigación local, difusión de resultados, y desarrollo de herramientas ... 20
+10.3 Regulación y acreditación .......................................................................... 21
+
+ANEXO 1: Instituciones Relevadas 22
+ANEXO 2: Cuestionario utilizado 23
+ANEXO 3: Perfiles Institucionales ............................................................................. 26
+1. Universidad de la República........................................................................... 26
+2. Universidad ORT Uruguay ............................................................................ 29
+3. Universidad Católica del Uruguay.................................................................. 33
+4. Otras instituciones.......................................................................................... 35
+
+ANEXO 4: Terminología, siglas y abreviaturas 37
+ANEXO 5: Consulta efectuada al Ministerio de Educación y Cultura
+
+38
+
+ANEXO 6: Respuesta de la institución que no suministró información
+para el estudio.......................................................................................... 40
+
+1/40
+
+1. Introducción y objetivos
+En junio de 2002, IESALC encargó a Universidad ORT Uruguay la realización de un estudio sobre el
+estado de la educación superior virtual (ESV) en el Uruguay. El objetivo del trabajo fue realizar un
+estudio diagnóstico sobre la evolución, situación presente y perspectivas de desarrollo de la educación
+superior a distancia realizada mediante el uso de nuevas tecnologías de información y comunicación
+(NTIC) en Uruguay.
+Para la definición del alcance del trabajo, hemos considerado “nuevas tecnologías de la información y
+las comunicaciones” a todos los tipos de comunicación intermediada por computador (en especial los
+basados en el Internet), a la videoconferencia y a la transmisión satelital. Hemos incluido en el estudio
+las ofertas basadas principalmente en dichas tecnologías, aun cuando utilicen otras más tradicionales de
+manera complementaria. Hemos excluido las ofertas educativas centradas en el uso del teléfono o fax,
+así como aquellas basadas en la televisión y radio, que por otra parte son de escasa significación en el
+Uruguay.
+Este informe resume la situación relevada en el período agosto-octubre de 2002 y la analiza según el
+marco de referencia solicitado para el estudio. Debido a una serie de factores, entre los que se incluyen
+el dinamismo de las instituciones de educación superior, la evolución tecnológica y los cambios
+regulatorios en las telecomunicaciones, es importante destacar que la situación relevada puede variar en
+períodos relativamente cortos.
+Una versión preliminar de este informe fue presentada en el taller de trabajo “La Educación Superior en
+Uruguay”, organizado por UNESCO / IESALC y el Ministerio de Educación y Cultura el 8 de
+noviembre de 2002 en Montevideo.
+En el informe se utilizan una serie de siglas y abreviaturas que se detallen en el Glosario (anexo 4).
+2. Resumen gerencial1
+La educación superior virtual se inicia en Uruguay en 1996. Desde entonces se han ofrecido más de 50
+programas de estudio por medios electrónicos. La gran mayoría de estos programas han sido de
+formación continua para profesionales, o para personas con formación o experiencia previa
+significativas, y han cubierto una amplia gama de áreas del conocimiento. La actividad principal se ha
+concentrado en dos instituciones (Universidad de la República y Universidad ORT Uruguay), aunque
+existen otras instituciones activas y con planes de desarrollo de ESV.
+En el relevamiento se encontró una gama de aplicaciones de la ESV, que incluyen:
+− el apoyo por medios electrónicos a los cursos presenciales;
+− cursos principalmente ofrecidos mediante NTIC, con algún componente presencial (seminarios o
+evaluaciones);
+− cursos totalmente ofrecidos mediante NTIC
+1
+
+Todas las siglas utilizadas se explican en el Glosario.
+2/40
+
+Actualmente se ofrecen, utilizando NTIC, materias de cursos de grado en dos carreras universitarias y
+un programa de posgrado, además de diversas instancias de formación continua. Había unas 1000
+personas cursando algún tipo de formación basada principalmente en estos medios en el momento del
+relevamiento (frente a una población universitaria que puede estimarse en aproximadamente 80.000
+personas).
+La evaluación que surge del estudio es que la ESV se encuentra todavía en estado experimental, pero
+en el país se dan circunstancias que pueden contribuir a su desarrollo en condiciones relativamente
+favorables.
+El Uruguay cuenta con una infraestructura de telecomunicaciones aceptable para el desarrollo de ESV,
+aunque se considera que el costo de acceso para las instituciones universitarias es elevado, lo que se
+refleja en el escaso ancho de banda de las conexiones que éstas utilizan, que no permite la utilización
+de medios avanzados como el video por Internet. Los medios utilizados han sido principalmente la
+videoconferencia y los servicios de Internet básicos. Se observa, a lo largo del tiempo, un
+desplazamiento desde la videoconferencia hacia las herramientas de Internet, sean éstas de tipo
+comercial o de desarrollo propio. No existe ninguna herramienta de software para apoyar la ESV que
+resulte predominante en el país; varias instituciones están encarando desarrollos propios.
+La infraestructura de equipamiento y el personal técnico de las instituciones ha resultado suficiente
+para las necesidades actuales. Las instituciones con mayor desarrollo tienen organizaciones centrales de
+apoyo y brindan formación a sus propios docentes, para facilitar el desarrollo de la ESV.
+Las principales propuestas que surgen del estudio son:
+− Modificación de la estructura tarifaria, o mayores facilidades de acceso para que las instituciones
+universitarias puedan intentar un mayor desarrollo de las ESV, en sus propios términos;
+− El fomento de la investigación local sobre la ESV; del contacto entre quienes están trabajando en el
+tema en el país y en la región, y del desarrollo de herramientas con contenido local para ofrecerla,
+tal vez mediante fondos concursables;
+− El desarrollo de mecanismos de evaluación y acreditación, actualmente inexistentes en el país, tanto
+para la ESV originada localmente como para aquella proveniente de otros países.
+
+3. Correspondencias entre el informe y los términos de referencia para el trabajo
+Este informe se estructura según de acuerdo a los ítems del Work assignment enviado por IESALC a
+nuestra universidad el 14 de junio de 2002. La siguiente tabla muestra la correspondencia entre los
+ítems solicitados y las secciones del informe.
+
+3/40
+
+Item de los Términos de Referencia (Work Assignment)
+Identificar y describir las características de la infraestructura
+informática y telemática existente en las instituciones de
+educación superior del país, utilizada para el desarrollo de
+programas de educación superior virtual: capacidad de cómputo,
+capacidad de conectividad telemática, etc.
+Evolución de los programas de educación superior realizados
+mediante el uso de las nuevas tecnologías digitales de
+información y comunicación, desde sus inicios hasta el presente
+Identificación y descripción de experiencias
+Proyectos en preparación o en sus inicios
+Marco legal o normativa regulatoria
+Evaluación de calidad y acreditación
+Tendencias y problemas en el desarrollo de la educación superior
+virtual en Uruguay y perspectivas de desarrollo. Propuestas y
+estrategias para mejorar la educación superior a distancia
+mediante la introducción de las NTIC y su articulación con los
+medios educativos existentes
+
+Sección del
+documento
+
+5
+
+6
+
+7
+8
+
+9,10
+
+Tabla 1. Estructura del informe y correspondencia con los términos de referencia
+
+4. Metodología del relevamiento
+Los datos fueron relevados por medio de un cuestionario (anexo 2), que fue enviado por correo
+electrónico a las autoridades relevantes de cada institución de educación superior uruguaya con
+actividad en educación a distancia mediante NTIC. Previamente al envío del cuestionario, se realizaron
+contactos telefónicos para determinar el mejor destinatario para informar. Luego del envío del
+cuestionario, se realizaron más llamadas telefónicas para aclarar dudas y para solicitar entrevistas.
+La lista de instituciones relevadas se presenta en el anexo 1. Se relevaron solamente aquellas
+instituciones que mostraron alguna actividad en educación a distancia mediante NTIC. El cuestionario
+se complementó con una o más entrevistas personales o telefónicas en cada institución, para validar la
+información aportada y conocer las opiniones de las personas responsables..
+Es destacable la cooperación brindada por la gran mayoría de las instituciones relevadas; sólo una
+rehusó aportar información.
+
+4/40
+
+5. Infraestructura telemática
+5.1 Acceso a Internet y otras modalidades de telecomunicaciones
+Existe en Uruguay un monopolio de las telecomunicaciones para la telefonía nacional básica, asignado
+a la empresa estatal, ANTEL. Hay en cambio una gama de proveedores en competencia para la
+comunicación de datos y para la larga distancia internacional, y dos proveedores para la telefonía
+celular: ANCEL (una división de la propia ANTEL) y Movicom-BellSouth.
+El Uruguay tiene una infraestructura de telecomunicaciones y una base de equipamiento instalado
+relativamente desarrolladas, según se puede juzgar a partir de los siguientes indicadores2:
+Red telefónica 100% digitalizada desde 1997. La red de fibra óptica de ANTEL alcanza
+a las centrales de todas las poblaciones de más de 2000 habitantes.
+Densidad de telefonía fija 27% (año 1999); no existe demanda insatisfecha.
+Densidad de telefonía móvil 15,3% (año 2000); cobertura geográfica completa.
+10 usuarios de Internet cada 100 habitantes (diciembre 1999)
+170.9 servidores cada 10.000 habitantes (enero 2001).
+91,2 computadoras por cada 1.000 habitantes (diciembre 1998)
+Servicios de datos: Frame Relay, ATM, ISDN, ADSL, LMDS, MMDS, VSAT y líneas
+privadas.
+Tabla 2. Indicadores de telecomunicaciones del país
+Si bien la calidad de los servicios que se ofrecen es buena, el costo de las telecomunicaciones se
+considera relativamente elevado, en comparación con otros países que gozan de infraestructura
+equivalente y en su proporción al poder adquisitivo de la población.
+Internet fue ampliamente accesible en Uruguay a partir de la instalación del servicio de acceso
+discado de ANTEL, que quedó disponible en 1995 y rápidamente alcanzó a toda la extensión
+geográfica del país. La calidad de las líneas telefónicas permite aproximarse a los 40 Kbps en
+conexiones urbanas y a los 30 Kbps en conexiones interurbanas, cuando se utilizan conexiones
+discadas vía módem.
+Hoy en día, las opciones más comunes para acceso desde el hogar, con su costo aproximado, son
+las siguientes (todos los precios con impuestos incluidos):
+
+2
+
+“Caracterización del área de tecnologías de la información”, DINACYT, Ministerio de Educación y Cultura, 2002.
+5/40
+
+Tipo de acceso
+Discado (máximo 56 Kbps) con pago
+mensual fijo
+Discado (máximo 56 Kbps) con pago por
+minuto de uso
+DSL 64 Kbps (“Internet Plus”)
+ADSL 256/64 Kbps
+
+Costos en pesos uruguayos, con
+impuestos3
+$ 200 a 250 por mes, más las llamadas
+telefónicas ($ 55 / hora de 11 a 18, $ 10
+por hora de 21 a 9)
+$ 68 por hora (de 11 a 18)
+$ 32 por hora (de 9 a 11 y de 18 a 21)
+$ 23 por hora (de 21 a 9)
+$ 1.095 por mes
+$ 1.680 por mes
+
+Tabla 3. Modos representativos de acceso hogareño a Internet y sus costos.
+No se ofrece acceso a Internet por parte de las empresas de TV cable.
+El mayor componente del costo de acceso discado a Internet está dado por el costo de la llamada
+telefónica.
+Para ilustrar estas tarifas, un acceso de 5 horas semanales por acceso discado (que estimamos
+representativo de un mínimo para el seguimiento de cursos por Internet) cuesta el equivalente de entre
+20 y 50 dólares de los EE.UU. mensuales (aproximadamente), dependiendo de los horarios de llamada
+telefónica. Para ese tipo de acceso, puede ser más conveniente una conexión permanente de 64 Kbps
+(que equivale a unos 40 dólares mensuales). La conexión hogareña más veloz es la modalidad ADSL
+(256/64 Kbps), que cuesta unos 60 dólares mensuales.
+Otra forma de conexión disponible para los estudiantes es la utilización de cibercafés. Estos negocios,
+de rápido desarrollo en la ciudad de Montevideo y en algunas ciudades del interior del país, ofrecen al
+público un conjunto de equipos que tienen acceso a Internet. En una instalación típica, entre 10 o 15
+equipos comparten una o más líneas ADSL. Los equipos se acceden mediante un pago moderado por
+hora de utilización. Una hora de utilización cuesta unos 15 pesos (aproximadamente 50 centavos de
+dólar). Las 20 horas mensuales de conexión que se estiman como un mínimo para seguir un curso
+basado en Internet costarían entonces unos 10 dólares, ahorrando también el costo asociado a la
+posesión de un equipo de computación propio. A este costo debe sumarse, desde luego, otros que pueda
+tener el acceso a un cibercafé (p.ej. el transporte público).
+
+3
+
+Información calculada a partir de datos de ANTEL al 10/12/02, URL http://www.antel.com.uy y consulta al 0800-1111.
+Un dólar de los EE.UU. equivalía a 28 pesos uruguayos aproximadamente.
+6/40
+
+Cuando se examina la conectividad disponible para las instituciones educativas, algunas opciones
+representativas son las siguientes:
+Modo de acceso
+
+ADSL (384 / 128 Kbps)
+Línea directa via SeCIU5 256 Kbps (la velocidad puede ir desde 64 Kbps a 1
+Mbps con costo proporcional)
+Acceso LMDS por proveedor privado (512 Kbps)
+
+Costo mensual en
+pesos uruguayos, con
+impuestos4
+$ 4.108
+$ 15.300
+estimado en $ 15.000
+
+Tabla 4. Modos representativos de acceso a Internet para instituciones universitarias
+Existe fuerte competencia en la transmisión de datos por LMDS; algunos proveedores no divulgan sus
+precios excepto para una cotización concreta, por lo cual puede ser dfícil estimar precios para la última
+opción de la tabla. La opción de SeCIU implica un dominio clase C completo (256 direcciones IP),
+mientras que la del proveedor privado típicamente implica unas pocas decenas de direcciones IP; este
+puede ser un elemento importante en la decisión de algunas instituciones.
+Puede observarse que el costo del acceso a Internet es relativamente mayor para las instituciones que
+para los individuos. Los anchos de banda disponibles a costos accesibles para las instituciones
+uruguayas prácticamente impiden la utilización de algunos tipos de contenidos. Por otra parte, a
+primera vista parecería una inconsistencia tarifaria que el acceso por ADSL cueste casi la cuarta parte
+que una línea de datos que ofrece prestaciones equivalentes.
+Las velocidades de conexión de accesos individuales a Internet de las instituciones universitarias no
+superan en general los 256 Kbps, excepto en el caso de las conexiones del nodo central del servicio
+universitario público a ANTEL, que transporta casi todo el tráfico del sistema universitario uruguayo.
+Este nodo tiene una conexión de 2 Mbps.
+El costo de la videoconferencia, para las instituciones, es de aproximadamente 410 pesos por hora-sitio
+remoto (unos 15 dólares) para conexiones ISDN-2B dentro del país, a más de 100 km. de distancia.
+Los costos de conexiones internacionales oscilan entre los 50 y 120 dólares por hora según la ubicación
+del sitio remoto. A ese costo hay que sumarle el alquiler de la sala de videoconferencia, si se utiliza una
+sala de ANTEL, que varía en función de las condiciones de uso y los contratos que haya obtenido cada
+institución.
+La tabla siguiente muestra la infraestructura de telecomunicaciones disponible en las tres instituciones
+universitarias de mayores dimensiones.
+
+4
+
+Los costos de instalación son típicamente 1.5 veces el costo de una cuota mensual
+Servicio Central de Informática Universitaria (división de Universidad de la República que centraliza el acceso a Internet
+para el sector educativo, en convenio con ANTEL, y administra el dominio edu.uy); URL http://rau.edu.uy. El precio
+incluye el costo de la línea de datos para la conexión al nodo.
+5
+
+7/40
+
+Institución
+
+Universidad de la
+República
+
+Universidad ORT
+Uruguay
+
+Universidad Católica
+del Uruguay
+
+Videoconferencia
+
+Ancho de
+banda a
+Internet
+64K (6 casos),
+128K (4 casos),
+256K (6 casos)
+y 1M (1 caso).
+ADSL 384/128
+Kbps (3 casos)
+256 Kbps (1
+caso)
+
+mediante salas
+propias y conexión
+a red de salas de
+ANTEL
+mediante salas
+propias y conexión
+a red de salas de
+ANTEL
+
+1 Mbps
+(inalámbrico)
+
+sí (no especifica
+detalles)
+
+Red interna
+(LAN)
+
+10 /100 Mbps
+
+Red
+interdependencias (WAN)
+coincide con las
+conexiones
+Internet
+
+10 / 100 Mbps LMDS a 2 Mbps,
+fibra óptica
+No especifica,
+(switches
+capaces de 100
+Mbps)
+
+inalámbrico, no
+especifica
+
+Tabla 6. Infraestructura de las instituciones universitarias de mayor dimensión
+Se concluye de este relevamiento que la infraestructura y servicios disponibles en el país no constituye
+una limitación técnica para la existencia de actividades de educación a distancia usando NTIC, si ésta
+se limita a los servicios básicos. Sin embargo, los costos de las telecomunicaciones pueden representar
+un problema y afectar la oferta y demanda de programas educativos, especialmente del lado de las
+instituciones y muy en particular para el desarrollo de servicios avanzados con fuertes requisitos de
+ancho de banda (p.ej. video).
+Puede afirmarse que los anchos de banda disponibles en las instituciones principales en el momento del
+relevamiento no permitirían la utilización de servicios avanzados para la educación mediante NTIC.
+No se detectó en el relevamiento que existieran situaciones significativas de tercerización (es decir,
+instituciones que han subcontratado la operación de ESV y/o el equipo y herramientas de software con
+terceros), a pesar de la existencia de un proyecto en tal sentido por parte de ANTEL6 y de convenios
+entre las instituciones universitarias con ANTEL y con otras empresas de telecomunicaciones.
+
+5.2 Equipamiento informático y software
+El equipamiento informático utilizado por las tres instituciones universitarias de mayores dimensiones
+se resume en la tabla siguiente:
+
+6
+
+El “Proyecto Mercurio”, lanzado por ANTEL en 1999-2000, cuyo desarrollo parece estar actualmente limitado por la
+situación económica. Ver sección 10.1 de este informe.
+8/40
+
+Institución
+
+Servidores
+
+Sistemas operativos
+
+Universidad de la
+República
+
+18 (17 en dependencias
+en Montevideo y 1 en
+Salto).
+14
+
+Linux, Solaris,
+Windows NT
+
+Universidad ORT
+Uruguay
+Universidad Católica
+del Uruguay
+
+3
+
+Linux, AIX, Windows
+NT, Open VMS
+Windows NT
+
+Herramientas para
+educación virtual
+Desarrollo propio o
+herramientas estándar
+de Internet
+WebCT, desarrollo
+propio
+Learning Space
+
+Tabla 7. Equipamento y software de las instituciones universitarias de mayores dimensiones
+El equipamiento en general consiste en servidores con procesadores tipo Intel, de diversos orígenes y
+fabricantes. Los servidores son tanto del tipo “para estantería” o raqueables, como cajas para colocar
+sobre una mesa. Las instituciones tienen políticas de reposición de equipos, que podrían verse afectadas
+en la coyuntura económica que sufre Uruguay.
+Ninguna institución mencionó el equipamiento informático como un problema serio para brindar
+educación a distancia mediante NTIC, si bien todas mencionaron ejemplos de servidores que deberían
+ser reemplazados, versiones de software que necesitarían actualización, y otras necesidades de
+actualización técnica. Existe en el país disponibilidad de equipos de última generación y los precios se
+consideran competitivos para la región.
+Las instituciones suelen manejar una variedad de sistemas operativos y de herramientas de software
+para la ESV. No hay una herramienta predominante y muchas instituciones utilizan desarrollos internos
+para el apoyo a la enseñanza, o incluso para la formación a distancia mediante NTIC.
+Sólo una institución (Universidad ORT Uruguay) maneja dos servidores dedicados exclusivamente a la
+ESV. Las demás comparten funciones de ESV entre diferentes equipos, que realizan además otros
+servicios.
+5.3 Personal técnico
+Las instituciones no informaron problemas de escasez o carencia de personal técnico entre sus
+preocupaciones. Aparentemente, la relativa abundancia de personal técnico con buena formación sería
+un activo del país para el desarrollo de la ESV.
+Otros estudios7 señalan consistentemente el crecimiento de un sector software competitivo y exportador
+en el Uruguay, lo que puede ser un factor de refuerzo para el desarrollo de las ESV.
+Las instituciones con mayor dedicación a la ESV cuentan con personal académico con formación en
+educación, que colabora con las organizaciones centrales que apoyan el desarrollo de cursos y
+programas de estudio.
+7
+
+Estudios anuales del sector software realizado por la Cámara Uruguaya de Tecnologías de la Información, 1999-2002. Ver
+las siguientes URL: http://www.cusoft.org.uy, y http://www.it-uruguay.com
+9/40
+
+6. Evolución de los programas desde su inicio hasta el presente; identificación y descripción de
+experiencias
+La tabla siguiente resume los datos principales de creación y evolución de programas, así como la
+situación actual, para las tres instituciones universitarias principales. Además de estas tres
+instituciones, debe tenerse en cuenta el sector de formación docente de ANEP, que ha realizado
+actividades de educación a distancia significativas (hasta ahora, muy pocas utilizando NTIC), y que
+tiene planes y proyectos de gran envergadura para el futuro. En el anexo 3 se presentan más detalles,
+asi como información sobre otras instituciones.
+Item
+
+Año de inicio de actividades regulares de ESV con
+uso predominante de NTIC (incluye cursos cortos)
+Nº de programas regulares a distancia pura o
+"híbridos" (no incluye actividades individuales o
+muy cortas), dictados con uso predominante de
+NTIC, desde el inicio de actividades
+Nº de programas regulares a distancia pura o
+"híbridos" (no incluye actividades puntuales o
+cortas), con uso predominante de NTIC, activos en
+2002
+Nº de alumnos en programas regulares a distancia o
+híbridos (excluyendo cursos cortos) dictados con
+uso predominante de NTIC desde el inicio de
+actividades.
+Nº de alumnos activos en programas regulares a
+distancia o híbridos dictados con uso predominante
+de NTIC en 2002
+Tecnologías predominantes en 2002
+
+Universidad
+ORT
+Uruguay
+
+Universidad
+de la
+República
+
+Universidad
+Católica del
+Uruguay
+
+1996
+
+1998
+
+2001
+
+38
+
+12
+
+3
+
+6
+
+5
+
+1
+
+974
+
+925
+
+31
+
+110
+
+900
+
+0
+
+Internet
+(WebCT)
+
+Internet y
+videoconferencia
+
+Internet
+(LearningSpace)
+
+Tabla 8. Resumen de la información sobre cursos de ESV.
+
+10/40
+
+Se observa que en la actualidad hay aproximadamente 1000 estudiantes activos en programas regulares
+de ESV. Estos representan aproximadamente el 1.2 % del total de estudiantes matriculados en
+instituciones universitarias uruguayas (que oscila en los 80.000).
+En esta sección se describe la evolución de los programas de las dos instituciones que mayor esfuerzo
+han dedicado al desarrollo de las ESV, Universidad de la República y Universidad ORT Uruguay. En el
+Anexo 3 se presentan las actividades detalladas de todas las instituciones relevadas, junto a un perfil
+institucional de cada una de ellas.
+Puede decirse que las instituciones universitarias uruguayas comienzan a analizar la posibilidad de
+desarrollar ESV a mediados de la década de 1990. El primer programa sistemático de formación a
+distancia mediante NTIC parece haber sido el Programa de Desarrollo Gerencial, un programa de
+formación continua desarrollado en seis módulos de 20 horas cada uno, dirigido a gerentes de PyME.
+Este programa fue ofrecido por Universidad ORT Uruguay en agosto de 1996, a un sitio ubicado en la
+ciudad de Colonia mediante videoconferencia interactiva. En 1997, dicha universidad comenzó a
+ofrecer además programas de formación continua en Educación y cursos de formación técnica (no
+universitaria) por videoconferencia, hacia una red propia de aulas en tres sitios del interior del país.
+Eventualmente el Programa de Desarrollo Gerencial obtuvo una donación del FOMIN (BID), que
+posibilitó su desarrollo y dictado hasta el año 2000.
+A medida que ANTEL habilitó su red de salas de videoconferencia (proyecto que se inició en 1998 y
+quedó completado en 2000, instalando un conjunto de más de 20 salas que cubren todo el territorio
+nacional), Universidad de la República comenzó a utilizarlas para el dictado de cursos, y en 1998 ya
+había dictado varios cursos de actualización profesional por ese medio en diferentes áreas del
+conocimiento. Durante 1998, tanto Universidad de la República como Universidad ORT Uruguay
+suscribieron convenios con ANTEL y concretaron el enlace de sus instalaciones y teleaulas con la
+nueva red, para aprovechar economías de escala y lograr un alcance nacional.
+Simultáneamente, ambas instituciones comenzaron a experimentar con el apoyo de su educación
+presencial mediante NTIC. Hacia 1996, ambas instituciones habían desarrollado sitios experimentales
+de apoyo, principalmente para algunos de sus cursos en el área de informática, ingeniería o ciencias de
+la computación.
+Estas experiencias iniciales no siempre tenían una coordinación central; en la mayoría de los casos se
+trataba de esfuerzos individuales o departamentales. De las dos instituciones con mayor utilización de
+NTIC, Universidad ORT Uruguay estableció ya en 1996 una organización centralizada para la
+coordinación del uso de NTIC y la provisión de medios de apoyo pedagógicos y técnicos. La
+Universidad de la República también creó una organización central de apoyo, aunque por sus
+características organizacionales ha mantenido un funcionamiento mucho más descentralizado con
+respecto a la ESV que Universidad ORT Uruguay.
+La experiencia de apoyo al dictado de cursos presenciales llevó rápidamente a ambas instituciones a
+intentar la ESV por medio del Internet, apoyándose en el material creado. En 1999 la Universidad de la
+República inició el dictado del primer año de carreras universitarias de Química hacia un sitio remoto
+ubicado en Salto, combinando el uso de Internet con la videoconferencia; esta fue la primera
+experiencia de ESV en carreras de grado universitario. En 2000 Universidad ORT Uruguay ofreció el
+primer programa de posgrado dictado enteramente por Internet, el Diploma en Educación.
+11/40
+
+Desde 1999, otras instituciones han utilizado en menor escala la red de videoconferencia de ANTEL
+para actividades individuales de formación, en general no de tipo universitario.
+En cuanto a las herramientas y entornos informáticos para el dictado de cursos por Internet, ya en 1999
+por lo menos una institución (Universidad ORT Uruguay) había adoptado una herramienta específica
+para el dictado de cursos (WebCT), luego de un proceso de análisis en sus órganos de gobierno.
+Universidad de la República no ha adoptado ninguna herramienta específica. Puede conjeturarse que la
+adopción de herramientas específicas esté relacionada con grado de centralización con que se
+administra la ESV en cada institución.
+Junto con el desarrollo de la utilización de los medios técnicos, las instituciones han ido adoptando
+modelos para la enseñanza que gradualmente se separan del modelo presencial tradicional. El primer
+paso, la realización de la videoconferencia, implicó en general el transporte más o menos directo de las
+actividades de clase al nuevo medio. La utilización del Internet forzó una organización diferente de los
+cursos, el desarrollo de guías para el estudio y métodos para la evaluación, y la construcción de
+materiales para el curso más formales y de mayor envergadura. A menudo, estas acciones han tenido
+impacto sobre las versiones presenciales de los cursos dictados por medios de ESV.
+A la fecha de elaboración de este documento, el número de cursos de educación superior ofrecidos a
+distancia es relativamente bajo. En contraste, existe un uso bastante significativo de las NTIC orientado
+al apoyo de programas de estudio presenciales en las instituciones de educación superior.
+Los programas de ESV ofrecidos enteramente a distancia tienen como componentes principales el uso
+de sitios en la World Wide Web, el manejo de foros electrónicos, el correo electrónico y ocasionalmente
+la videoconferencia o –en casos muy limitados y de tipo experimental- el video por Internet. Estos
+elementos se manejan tanto dentro de herramientas específicas como utilizando las herramientas de uso
+general del Internet (los servicios de los sistemas operativos).
+Es interesante destacar que las dos instituciones universitarias de gestión privada de mayores
+dimensión ofrecen programas de formación en servicio para sus propios docentes utilizando NTIC.
+
+7. Proyectos en preparación o en sus inicios
+A la fecha del relevamiento, todas las instituciones tenían algún tipo de proyecto en preparación o
+iniciándose. No todas las instituciones contestaron esta parte del cuestionario, aunque sí ofrecieron
+alguna información durante las entrevistas. Los proyectos incluyen programas de formación continua,
+programas de posgrado, carreras terciarias no universitarias o técnicas, y el inicio del dictado en
+modalidad ESV de cursos o talleres que se ofrecían antes exclusivamente de manera presencial. Se
+estima que no menos de cinco de los nuevos programas en desarrollo tienen una elevada probabilidad
+de ser ofrecidos en 2003, lo que implica un crecimiento elevado de esta actividad.
+Un proyecto en desarrollo que merece destacarse debido al número de personas involucradas y a su
+impacto potencial está siendo desarrollado por ANEP, el ente nacional de la educación pública
+primaria, secundaria y técnica. El programa apunta a la formación de docentes de dicha
+Administración. Algunas características de este programa se resumen en el anexo 3.
+12/40
+
+Varias instituciones, en especial las de mayor desarrollo, manifestaron estar considerando proyectos de
+desarrollo de entornos o herramientas informáticas propias, para el apoyo de la ESV. Los motivos de
+encarar estos proyectos, ante la disponibilidad de herramientas comerciales, fueron descritos como de
+costo anual de las licencias, dificultades de compatibilización con los sistemas de gestión interna, o
+adaptación a circunstancias locales.
+
+8. Marco legal, evaluación y acreditación
+La educación superior a distancia en Uruguay, incluyendo aquella realizada por medio de las NTIC,
+carece de una regulación especial; por lo tanto, se rige por el marco legal general del país, que fue
+recientemente resumido en un trabajo producido para IESALC8.
+En el Uruguay existen dos marcos legales paralelos para el reconocimiento de carreras universitarias:
+uno para la Universidad de la República, y otro para las instituciones universitarias de gestión privada.
+El reconocimiento implica la habilitación para el otorgamiento de títulos de la carrera reconocida. En
+Uruguay, el título académico coincide con la habilitación para el ejercicio profesional; este último
+solamente exige en algunos casos su registro en órganos competentes (p.ej. la Suprema Corte de
+Justicia para la profesión de abogado, o el Ministerio de Salud Pública para los médicos).
+La educación superior de gestión estatal está concentrada en la Universidad de la República, regida por
+su propia Ley Orgánica (que data de 1958). El órgano competente para la aprobación de los nuevos
+planes de estudio (incluyendo presumiblemente aquellos brindados mediante NTIC) es su Consejo
+Directivo Central (artículos 20 y 22 de la mencionada Ley).
+Existen otras instituciones estatales que desarrollan programas terciarios (entre otros, las instituciones
+de formación militar y la ANEP). Algunos de estos programas han sido reconocidos como equivalentes
+al nivel universitario por el Ministerio de Educación y Cultura, mediante decretos específicos para cada
+programa de formación.
+La educación superior de gestión privada está regida desde 1995 por el decreto 308/995 y sus
+modificaciones. Este decreto establece que el reconocimiento de programas de estudio es competencia
+del Ministerio de Educación y Cultura, asesorado por un órgano consultivo, el Consejo Consultivo de
+la Enseñanza Terciaria Privada. La normativa no hace referencia a programas a distancia e incluye
+entre los requisitos para la aprobación ciertos mínimos de cargas horarias presenciales.
+Para completar el informe de la situación, se realizó una consulta específica al Ministerio de Educación
+y Cultura, cuya respuesta se reproduce en el anexo 5.
+En Uruguay no existe aún un marco normativo para la evaluación y acreditación universitaria, ni
+siquiera para la educación superior tradicional. Recientemente se han desarrollado esfuerzos por parte
+de un grupo de las instituciones de gestión privada para establecer un marco común; por otra parte el
+Ministerio de Educación y Cultura constituirá comisiones ad hoc para los procesos de acreditación
+8
+
+J. Mascheroni, “Educación superior en Uruguay: evolución legislativa”. Fundación de Cultura Universitaria, Montevideo
+(2002). ISBN: 9974-2-0442-9
+13/40
+
+experimental Mercosur. Algunas instituciones universitarias uruguayas han desarrollado procesos de
+autoevaluación y evaluación externa de carreras y áreas, por su propio interés de mejoramiento. En
+estos procesos no se ha incluido a ningún programa de ESV.
+Debido al carácter experimental de la ESV, los mecanismos existentes para el reconocimiento
+universitario no han sido ejercitados por la presentación de programas completos que utilicen
+exclusivamente las NTIC, es decir, las instituciones no han presentado aún programas universitarios
+completos de este tipo. En efecto, los programas que se dictan actualmente caen en dos categorías: a)
+títulos propios, programas de extensión, formación terciaria o formación continua, que no están
+sometidos obligatoriamente al proceso de reconocimiento, y b) títulos de posgrado no reconocidos. En
+el caso de Universidad de la República y de Universidad ORT Uruguay, que dictan algunos cursos que
+forman parte de programas de grado o posgrado regulares mediante NTIC, este dictado se considera
+una variante metodológica y no una modificación del plan de estudios que justifique su presentación
+ante los mecanismos de reconocimiento.
+
+9. Tendencia, problemas y perspectivas de desarrollo.
+9.1 Modelos de desarrollo de las ESV en las instituciones uruguayas
+Grunberg y Armellini9 proponen un modelo útil para explicar el desarrollo de ESV en instituciones
+universitarias que anteriormente ofrecían sólo la metodología tradicional. Este modelo sugiere la
+consideración de etapas intermedias entre la modalidad tradicional y la ESV “pura”, entre las cuales se
+ubican o identifican algunos escalones bien definidos, que se resumen en la siguiente tabla.
+Tipo de curso
+1. Enseñanza presencial
+tradicional
+
+Modalidad y actividades características
+Conferencias en aula, realización de ejercicios y trabajo de
+laboratorio supervisado, talleres presenciales, entrega de material
+impreso en las clases
+2. Enseñanza presencial apoyada Las mismas del tipo 1, complementadas por intercambio
+por medios electrónicos
+electrónico (p.ej.: foro y correo electrónicos, videoconferencia),
+materiales colocados en sitios WWW, y otras NTIC. Los
+métodos didácticos se ajustan a las NTIC.
+3. Cursos de tipo híbrido
+El curso incluye algunas instancias presenciales, pero la mayor
+parte de la interacción se realiza por medios electrónicos. El
+dictado del curso es sincrónico en el calendario (todos los
+alumnos comienzan y terminan como un lote), pero cada alumno
+conduce las actividades de acuerdo a su disponibilidad de tiempo.
+4. Cursos puramente a distancia No hay instancias presenciales obligatorias: toda la interacción se
+(ESV “pura”)
+desarrolla mediante NTIC. El curso puede ser sincrónico o
+asincrónico en el calendario.
+Tabla 8. El espectro continuo entre la educación presencial y los cursos puramente a distancia.
+
+9
+
+J. Grunberg, A. Armellini, "De la presencialidad a la distancia: modelos para la incorporación del e-learning en la
+universidad", en imprenta, Cuadernos de Investigacion Educativa, Universidad ORT Uruguay (2003).
+14/40
+
+Esta gama de alternativas representa también un posible modelo de desarrollo de ESV para las
+instituciones que parten de la enseñanza superior tradicional como su modelo fundamental de trabajo.
+El relevamiento realizado tiende a confirmar la existencia de los tipos de curso propuestos, y sugiere
+que las instituciones universitarias uruguayas pueden estar desarrollando una trayectoria desde el tipo 1
+hacia los tipos 3 y 4, pasando como etapa intermedia por el tipo 2.
+Esto no implica que todos los programas y todos los cursos que los integran vayan a terminar siendo
+dictados mediante NTIC. Se trata más bien de un desarrollo orgánico, en el cual se exploran
+modalidades y etapas, adoptando aquellas que muestran su validez.
+Los tipos de curso representan también una posible hoja de ruta estratégica para las instituciones. El
+pasaje desde la educación presencial pura a la ESV sin etapas intermedias puede resultar de difícil
+viabilidad para muchas instituciones. En cambio, considerar un trayecto con etapas intermedias, en el
+cual las instituciones puedan explorar e ir resolviendo las dificultades y problemas que surgen mientras
+que al mismo tiempo fortalecen su actividad presencial, puede ser una opción interesante para el
+desarrollo de la ESV. Algunas instituciones parecen haber manejado explícitamente esta opción. Este
+modelo gradualista admite la realización de etapas experimentales para la transición a la fase siguiente,
+reduciendo de esa manera los riesgos.
+Una estrategia explícita de apoyo a la ESV en una institución se podría centrar en el apoyo a las
+transiciones entre los tipos de curso identificados, implicando por ejemplo las siguientes acciones:
+Transición
+
+Acciones de apoyo
+formación de docentes y alumnos en el uso de las NTIC; examen y ajuste de
+desde cursos
+metodologías de enseñanza; creación de una organización de apoyo técnico para los
+de tipo 1 a
+docentes; aseguramiento del acceso a NTIC por parte de alumnos y docentes
+tipo 2
+involucrados; despliegue de equipos, software y procesos de control del uso; difusión de
+experiencias exitosas
+desde cursos
+de tipo 2 a
+tipo 3
+
+rediseño de los cursos; ajuste de los materiales, formación de los docentes, preparación
+de guías de aprendizaje, creación de nuevos mecanismos administrativos y de
+seguimiento de alumnos; reformulación de los procesos de evaluación; rediseño de
+procesos de biblioteca y suministro de materiales a los alumnos.
+
+desde cursos
+de tipo 3 a
+tipo 4
+
+rediseño de los cursos, formación adicional de los docentes, establecimiento de
+mecanismos de apoyo para los alumnos, refuerzo de los procesos administrativos y de
+seguimiento de alumnos.
+
+Tabla 9. Acciones para apoyar la transición entre tipos de curso
+Con diferente grado de madurez, las principales instituciones universitarias uruguayas han avanzado
+hasta el nivel 2. La mayoría de los pocos cursos reconocibles como ESV han alcanzado el nivel 3;
+existen muy pocas instancias de cursos de tipo 4.
+
+15/40
+
+9.2 Organización de las iniciativas de ESV
+En los dos casos más exitosos de desarrollo de ESV en Uruguay (Universidad ORT Uruguay y
+Universidad de la República), las iniciativas de desarrollo surgieron de docentes individuales, de
+departamentos o institutos dentro de una facultad, o en ocasiones al nivel de una facultad completa. Las
+iniciativas fueron frecuentemente impulsadas por docentes o autoridades académicas innovadoras,
+motivadas para la adopción de las NTIC. En la mayoría de los casos (pero no en todos), estas
+iniciativas recibieron apoyo de áreas centrales de las instituciones universitarias, como por ejemplo los
+centros de cómputo y las áreas responsables de las redes de datos. Una vez que las iniciativas
+demostraron su pertinencia y sus resultados, las instituciones comenzaron a adoptar acciones más
+generales de apoyo y a realizar mayores inversiones: programas de formación, planes de incorporación
+de equipo y herramientas de software, creación de procesos administrativos y organizaciones centrales
+de apoyo. Podríamos denominar a este modelo de desarrollo como de “abajo hacia arriba”.
+Este modelo “de abajo hacia arriba” parece haber sido el dominante en el pasaje desde el tipo 1 al tipo
+2 de curso según la clasificación mencionada anteriormente.
+En cambio, en la mayoría de los casos, la decisión de ofrecer programas de tipo 3 (híbrido) o de tipo 4
+(puramente a distancia), ha surgido de decisiones de órganos centrales de facultades o universidades. A
+menudo estas decisiones se han basado en la existencia previa de materiales y desarrollos efectuados
+para cursos de tipo 2, junto con la constatación de la demanda de formación en un área de
+conocimiento o en una localización geográfica.
+Nuestro relevamiento sugiere que una organización de apoyo centralizada permitiría una mayor
+eficiencia en la adopción de NTIC por parte de las instituciones universitarias. Ese tipo de apoyo
+facilita acciones que reducen la barrera para la adopción de NTIC por parte de la generalidad de los
+docentes. Los docentes innovadores que inician la adopción de las NTIC suelen tener la formación y la
+motivación como para explorar una variada gama de tecnologías y métodos, e incluso para resolver
+problemas técnicos que inevitablemente aparecen al adoptar cada herramienta. En cambio, el resto de
+los docentes no está dispuesto a invertir tanto esfuerzo y tiempo en experimentar con las NTIC, y
+necesita otro nivel de asistencia de tipo centralizado.
+La mayor eficacia de una organización central se observa también en la posibilidad de unificar las
+herramientas utilizadas, ofrecer un funcionamiento confiable, técnico y profesional de equipos y
+software, simplificar la reutilización de experiencias y organizaciones de cursos, evaluar la utilidad de
+diferentes métodos y tecnologías, y difundir los resultados entre los docentes.
+Podría existir una correlación entre la existencia de una organización centralizada y la capacidad de
+tomar las decisiones (más o menos centralizadas por su naturaleza) necesarias para las transiciones del
+tipo 2 a los tipos 3 y 4. La cantidad de casos observados no nos permite una generalización en ese
+sentido. Sin embargo, todas las instituciones que ofrecen cursos de tipo 3 o 4 disponen de alguna forma
+de organización central de apoyo, en general construida y apoyada por sus máximas autoridades.
+La responsabilidad académica por los cursos de tipo 3 y 4, en los casos observados, recaía en las
+mismas organizaciones académicas responsables de sus equivalentes presenciales.
+16/40
+
+9.3 Aspectos demográficos; la ESV como alternativa para el aumento de la cobertura
+universitaria
+Uruguay es un país pequeño para el continente sudamericano (175 016 km2), con una geografía e
+infraestructura de transporte que permite la fácil comunicación en todo su territorio. Tiene una
+población reducida (3 163 763 habitantes en el censo de 1996), predominantemente urbana, con una
+elevada concentración en la ciudad de Montevideo y sus alrededores, en donde reside
+aproximadamente la mitad del total de habitantes. Si se consideran las ciudades fuera del radio de 50
+km alrededor de Montevideo, sólo tres superan los 70.000 habitantes y ninguna alcanza los 120.000.
+Debido a esta demografía, las instituciones de educación superior concentran sus actividades en
+Montevideo. Si bien existen sedes y servicios universitarios en otras ciudades del interior (Salto,
+Paysandú, Colonia, Maldonado, entre otros), en ninguna de ellas se ofrece una oferta completa de
+carreras. La mayoría de los alumnos que finalizan la secundaria fuera de Montevideo y desean
+continuar sus estudios al nivel superior deben, por lo tanto, desplazarse a la capital.
+El acceso a la Universidad de la República es gratuito e irrestricto para todos los estudiantes que
+finalizan la enseñanza media. Sin embargo, la necesidad del traslado y el alojamiento representan una
+barrera económica para los estudiantes del interior, que se refleja en una menor proporción de ellos en
+las universidades.
+Según cifras del Ministerio de Educación10, en el año 2000 había aproximadamente 30.000 estudiantes
+matriculados en el último año del bachillerato diversificado, la opción de la enseñanza secundaria que
+proporciona la inmensa mayoría de estudiantes de primer ingreso a las universidades. De estos, el 53 %
+estaba matriculado en el interior.
+Por otra parte, los censos y estadísticas de las instituciones universitarias indican porcentajes de
+matriculación de primer ingreso por parte de estudiantes del interior que no superan el 40 %,
+registrándose valores del orden del 30 % en general. Presumiblemente, existiría entonces una
+desigualdad de cobertura entre los jóvenes del interior y los montevideanos, que podría ser objeto de
+acciones de ESV que traten de establecer una mayor igualdad de oportunidades.
+Otro hecho demográfico a considerar es que los alumnos universitarios potenciales de fuera de la
+región montevideana están muy dispersos; se ubican en una cantidad relativamente grande de ciudades
+y centros poblados de entre 10.000 y 100.000 habitantes, distantes entre sí.
+Debido a esta situación de dispersión, las estrategias de ESV que requieren la concentración física de
+los alumnos (como p.ej. la videoconferencia) implican costos elevados, puesto que debe costearse la
+conexión y el funcionamiento de un gran número de sitios remotos con pocos alumnos en cada uno de
+ellos. Las estrategias basadas en el acceso individual, con equipamiento en el hogar del propio alumno
+o en lugares cercanos, como p.ej. los cursos por via del Internet, tienen mayor viabilidad económica y
+resultan más prometedoras para la demografía uruguaya.
+
+10
+
+Anuario Estadístico de Educación, 2000-2001. Ministerio de Educación y Cultura, Dirección de Educación,
+Departamento de Estadística, 2002 (Montevideo, Uruguay).
+17/40
+
+Existe desde luego otra población, tal vez de mayor dimensión que la del interior, que puede
+beneficiarse de la ESV: la de potenciales estudiantes montevideanos a tiempo parcial que se ven
+imposibilitados de acceder a la oferta educativa presencial, incluso si es gratuita, porque no pueden
+cumplir con los horarios de clase y laboratorio fijados por las instituciones, y simultáneamente trabajar
+para contribuir al presupuesto familiar.
+La mejora de la cobertura de estos dos grupos (los jóvenes originarios del interior, y los estudiantes
+potenciales a tiempo parcial) es un objetivo socialmente importante al cual puede contribuir la ESV.
+Actualmente en Uruguay solamente existen acciones de tipo experimental o testimonial al respecto:
+como se puede observar de las cifras en el anexo 3 y de la tabla de resumen al comienzo de esta
+sección, la cobertura adicional global lograda por la ESV es por el momento insignificante.
+La demanda por la ESV parece ser importante, sobre todo en el interior del país. Algunos cursos11 han
+sido subsidiados parcialmente por los gobiernos locales, que manifiestan un permanente interés por
+acercar ofertas de educación superior a sus municipios.
+
+9.4 Aspectos de didáctica, preparación previa y organización académica de los cursos
+Uno de los aspectos que más destacaron las instituciones entrevistadas es la dificultad que supone el
+cambio en la estructura de los cursos y en las modalidades de trabajo para los docentes, para el sistema
+administrativo y para los propios estudiantes.
+Los docentes a menudo deben reestructurar cursos con los que tienen una gran familiaridad. Esto
+implica un esfuerzo considerable, no siempre adecuadamente retribuído. Además de este trabajo, se
+agrega la necesidad de atender la interacción electrónica, cuando se utilizan foros o correo electrónico.
+Los estudiantes deben acostumbrarse a trabajar sin una supervisión física directa, y a manejarse con las
+relaciones que se pueden establecer con docentes y compañeros por medios electrónicos, que
+necesariamente son más débiles que las que se logran en un curso presencial tradicional.
+Tanto docentes como estudiantes deben alcanzar un nivel adecuado de manejo de las herramientas
+utilizadas para la ESV. Las instituciones entrevistadas que tenían una mayor utilización de NTIC
+encontraron que una proporción relativamente elevada de docentes tenía, al inicio de los programas,
+dificultades para la utilización de las tecnologías, incluso en el uso de los computadores personales.
+Cuando las herramientas de ESV alcanzan una difusión importante, en general los docentes deben
+desarrollar y preparar ellos mismos algunos de los elementos electrónicos de apoyo (p.ej. páginas
+HTML). En esa etapa se vuelve muy importante la formación de los docentes, para poder permitir una
+expansión del uso de NTIC sin una carga excesiva sobre la organización de apoyo.
+Cuando la ESV se desarrolla por Internet, es necesario que los participantes potenciales tengan
+suficientes conocimientos de informática personal y buen manejo de las herramientas utilizadas. Si bien
+el Uruguay tiene uno de los índices de utilización informática más elevados de América Latina, y
+existen numerosos cursos de capacitación básica dictados por instituciones privadas y públicas que
+11
+
+Entre ellos la experiencia inicial de Universidad ORT Uruguay en 1996, que utilizó un local cedido a tales efectos por la
+Intendencia Municipal de Colonia.
+18/40
+
+están en principio al alcance de los estudiantes potenciales que ingresan a la educación superior, no
+puede decirse que el conocimiento de las herramientas informáticas esté totalmente difundido entre los
+jóvenes que ingresan a las instituciones de educación superior. En especial, las instituciones públicas de
+enseñanza secundaria y técnica aún no han logrado extender la formación informática básica a todos
+sus alumnos.
+Cualquier acción de tipo masivo de ESV por Internet que se encare en el futuro deberá tener en cuenta
+la necesidad de formación informática básica para la población de alumnos potenciales, en la medida
+requerida por las herramientas utilizadas.
+Finalmente, los estudiantes que participan de la ESV están más aislados socialmente de sus pares que
+en la situación de enseñanza presencial tradicional. En consecuencia, los docentes deben desarrollar
+nuevas estrategias para propiciar su intervención en los foros, su interacción con el docente y entre sí
+por correo electrónico, y en general para mantener a sus estudiantes motivados e interesados en el
+curso.
+
+10. Propuestas y estrategias para mejorar la educación superior a distancia mediante la
+introducción de las NTIC y su articulación con los medios educativos existentes
+La principal conclusión que se desprende del estudio es que en el Uruguay la ESV está aún en un
+estado experimental e incipiente. Existe un gran potencial para su desarrollo, por las condiciones
+nacionales de infraestructura y difusión de las tecnologías de la información, e incluso debería
+considerarse la posibilidad de que el país pueda “exportar” servicios educativos por medio de la ESV,
+en función de su tradición universitaria y capacidad académica.
+El país tiene también un sector software dinámico y pujante, un elemento que puede contribuir al
+desarrollo de soluciones técnicas originales para ESV y potenciarla considerablemente, construyendo
+herramientas adaptadas a las condiciones locales y regionales,
+Las propuestas y estrategias que surgieron de las entrevistas pueden dividirse en tres categorías:
+infraestructura de telecomunicaciones y tarifado; difusión e investigación, y regulación.
+
+10.1 Infraestructura y tarifas
+Las instituciones universitarias uruguayas disponen de la infraestructura necesaria para crear ofertas de
+ESV, así como de los medios y capacidades técnicas, aunque ambos pueden desde luego ser mejorados.
+Existe suficiente personal técnico capacitado en informática y en administración de redes como para
+asegurar la operación. El acceso a Internet disponible desde las instituciones se considera caro y de baja
+capacidad, pero suficiente para el estado actual de desarrollo de ESV.
+El principal problema de infraestructura no parece ser técnico sino tarifario, en particular para el acceso
+a Internet de las instituciones universitarias. El elevado costo de las conexiones a Internet para las
+instituciones puede estar limitando su capacidad de ofrecer carreras y cursos por ESV, y seguramente
+está impidiendo la experimentación con medios avanzados que requieren anchos de banda superiores.
+19/40
+
+Resulta interesante observar la evolución de la infraestructura para los dos medios más difundidos, la
+videoconferencia y el Internet.
+Los cursos de ESV en Uruguay se iniciaron con la videoconferencia. Una vez que el medio mostró sus
+posibilidades, y la empresa estatal de telecomunicaciones, ANTEL, estableció su red de salas en todo el
+país, esta red pasó a ser la infraestructura preferida por las instituciones que usaban la videoconferencia
+para ESV. Esto es comprensible dado que la infraestructura necesaria para la videoconferencia es
+especializada, cara, y poco difundida.
+Posteriormente, el énfasis de la ESV se desplazó hacia los medios técnicos relacionados al Internet. La
+infraestructura necesaria para estos servicios es de uso general, más barata y difundida, es decir, la
+situación opuesta al caso de la videoconferencia.
+Para los cursos de ESV por Internet, la empresa estatal de telecomunicaciones, ANTEL, adoptó una
+estrategia análoga a la desarrollada con la videoconferencia: ubicarse como proveedora de espacio en
+servidores, ancho de banda, acceso a herramientas de software para ESV e incluso contenido educativo
+y servicios de cobranza de cursos, aparentemente con la esperanza de obtener rentabilidad del proyecto.
+Esta estrategia no dio el resultado esperado, excepto para permitir experiencias con servicios
+avanzados (video por IP) que no podían ensayarse con las conexiones disponibles en las universidades.
+Las instituciones prefirieron utilizar sus propios servidores y conexiones para ESV, limitando si era
+necesario los medios utilizados. Este mismo fenómeno ocurrió con instituciones que habían realizado
+convenios con otras empresas de telecomunicaciones para utilizar servidores o ancho de banda para
+ESV. Parecería que en el estado actual de la ESV en Uruguay las instituciones universitarias prefieren
+manejar su propia infraestructura, aún si es técnicamente algo inferior o si incurren en costos algo
+superiores; otros factores más críticos en la etapa actual (proximidad a los docentes, mayor facilidad de
+acceso, etc.) podrían compensar esas desventajas.
+En vista de estas experiencias, se cree oportuno sugerir que el sistema universitario y educativo
+uruguayo, trabajando conjuntamente con las empresas de telecomunicaciones, busque la forma de
+reducir significativamente el costo del acceso a Internet (y eventualmente, también de la
+videoconferencia) para la oferta de ESV.
+Es necesario también pensar en aumentar en un orden de magnitud el ancho de banda de las conexiones
+existentes a Internet, para permitir la experimentación con las NTIC que así lo requieran.
+Estas acciones requerirán, ciertamente, un diálogo con las empresas de telecomunicaciones y la unidad
+reguladora del sector. En el caso de la ESV por Internet, es muy posible que una reducción de tarifas
+para las instituciones conduzca a una mayor oferta, y consiguientemente a un aumento de utilización en
+el otro extremo de las conexiones, el de los alumnos. Este aumento podría compensar (aunque sea
+parcialmente) la menor recaudación en las líneas de las instituciones proveedoras de ESV.
+
+10.2 Investigación local, difusión de resultados, y desarrollo de herramientas
+Se sugiere que las instituciones realicen coloquios o seminarios periódicos para compartir sus
+experiencias y que fomenten la investigación educativa sobre la ESV, en particular atendiendo a las
+condiciones locales.
+20/40
+
+Por lo menos dos instituciones manifestaron estar planeando el desarrollo de herramientas o entornos
+propios para la ESV, tanto por razones del costo de las herramientas comerciales disponibles como
+para lograr un mejor conjunto de prestaciones o la mejor adaptación al resto de sus propios sistemas.
+Esta idea puede ser interesante, si se tiene en cuenta el potencial demostrado por el país para el
+desarrollo de software en otras áreas de aplicación.
+Puede sugerirse entonces la creación de un fondo competitivo, que pueda financiar específicamente
+proyectos de desarrollo de herramientas y de investigación sobre la ESV, en función de estas
+consideraciones, para fomentar las acciones necesarias.
+
+10.3 Regulación y acreditación
+Para que las ESV se desarrollen más allá de la etapa experimental actual , y muy en particular para que
+sean plenamente aceptadas por la sociedad, parece necesario establecer mecanismos que garanticen la
+calidad de las ofertas académicas. Estos mecanismos, en general voluntarios, basados en procesos de
+autoevaluación y evaluación externa así como en pruebas de aprovechamiento, son bien conocidos en
+las universidades desde hace décadas, y constituyen la base de los procesos de acreditación en la
+mayoría de los países.
+Probablemente se plantee en el Uruguay en el futuro (ante el comienzo de los procesos experimentales
+de acreditación en el Mercosur) la conveniencia de establecer mecanismos voluntarios de acreditación
+para la educación superior en general. Al plantear esos mecanismos, se puede sugerir que se tenga en
+cuenta la posibilidad de acreditar programas basados en las ESV; en particular, debería evitarse crear
+mecanismos basados únicamente en indicadores asociados a las formas tradicionales de enseñanza,
+como p.ej. la carga horaria presencial de los programas de estudio.
+Finalmente, sería conveniente establecer mecanismos regulatorios para la evaluación y acreditación de
+ofertas educativas de ESV originadas en otros países. Esta acción idealmente requeriría consenso al
+nivel regional o multilateral; podría proponerse que organizaciones como el propio IESALC analicen
+su conveniencia y factibilidad, y eventualmente propusieran guías de acción.
+
+21/40
+
+ANEXO 1. INSTITUCIONES RELEVADAS
+
+12
+
+Nombre de la
+institución
+Universidad de la
+República
+
+Tipo de institución
+
+Universidad ORT
+Uruguay
+
+Universidad (gestión
+privada)
+
+Universidad Católica
+del Uruguay
+
+Universidad (gestión
+privada)
+
+Administración
+Nacional de Educación
+Pública (ANEP)
+
+Ente nacional de la
+educación primaria,
+media y técnica
+
+Centro de Estudios
+Educativos
+Instituto Universitario
+Autónomo del Sur12
+
+Institución privada
+
+Universidad (gestión
+estatal)
+
+Instituto universitario
+(gestión privada)
+
+Personas
+entrevistadas y cargo
+Eduardo Fernández,
+Asistente Académico
+del Rector.
+Julio Fernández,
+Decano de Desarrollo
+Académico
+Guillermo Santos,
+Centro de Cómputos;
+Lilián Bentancur,
+encargada del
+Postgrado en Didáctica
+de la Lengua en
+Educación Inicial
+Alicia Buquet. Sub
+Directora del Área de
+Educación Media y
+Técnica de la Dirección
+de Formación y
+Perfeccionamiento
+Docente (ANEPCODICEN).
+Bautista Etcheverry
+Boggio, Rector.
+Gustavo Cirigliano,
+Decano
+
+Institución que no proporcionó información.
+22/40
+
+ANEXO 2. CUESTIONARIO UTILIZADO
+Propósito
+El Instituto para la Educación Superior en América Latina y el Caribe (IESALC - UNESCO) nos ha
+encomendado realizar un estudio diagnóstico sobre evolución, situación presente y perspectivas de desarrollo de
+educación superior a distancia implementada mediante el uso de las nuevas tecnologías de la información y la
+comunicación en Uruguay. En este marco, el presente formulario tiene por propósito recabar datos de su
+institución, que serán incluidos en el informe final.
+Agradecemos la atención que pueda dispensar al llenado de este formulario.
+Infraestructura informática para el dictado de programas y cursos a distancia
+Servidores: número, configuración (procesadores, memoria RAM, disco) y sistemas operativos utilizados.
+
+Redes: Ancho de banda de conexión de los servidores a Internet.
+
+Acuerdos de tercerización con ISP u otros proveedores, si corresponde.
+
+Otra infraestructura disponible además de la basada en Internet (p.ej. televisión, radio, videoconferencia).
+
+23/40
+
+Experiencias realizadas
+(ver ejemplo)
+
+Año de Área del
+inicio conocimiento
+
+2000
+
+Nombre, nivel/tipo
+(pregrado,
+Público
+postgrado,
+Duración
+objetivo
+formación continua,
+actualización
+profesional)
+
+Diploma en
+Ciencias de
+Educación la Educación
+Postgrado
+
+1 año
+
+Nº de
+Plataformas
+participantes Modalidad de entrega / tecnologías empleadas Internet utilizadas, Observaciones
+a la fecha
+si corresponde
+
+Maestros y
+profesores
+
+65
+
+Internet + valija de material impreso,
+incluyendo 3 libros “de cabecera”,
+WebCT
+teléfono, fax, 4 reuniones presenciales en
+el año.
+
+El curso continúa
+dictándose con éxito.
+
+Cursos en preparación
+Año en que
+comenzará
+
+Área del
+conocimiento
+
+Nivel/tipo (pregrado,
+Duración
+postgrado, formación
+prevista
+continua, actualización)
+
+Público objetivo
+
+Modalidad de entrega / tecnologías a
+emplear
+
+Plataformas Internet a utilizar, si
+corresponde
+
+Observaciones
+
+24/40
+
+Problemas y perspectivas de la educación virtual
+a) ¿Cuáles han sido los problemas centrales que su institución ha detectado en la planificación, desarrollo
+e implementación de la educación virtual?
+
+¿Cómo sintetizaría las perspectivas de desarrollo futuro de la educación virtual en su institución?
+
+25/40
+
+ANEXO 3. PERFILES INSTITUCIONALES.
+Nota inicial: Las estadísticas fueron proporcionada por las propias instituciones o se extrajeron del
+Anuario Estadístico de Educación 2000-2001 (publicado por el Ministerio de Educación y Cultura).
+1. UNIVERSIDAD DE LA REPÚBLICA
+La Universidad de la República fue inaugurada en 1849, luego de un proceso fundacional iniciado en
+1833. En su censo de 1999 registró 70.156 estudiantes (la gran mayoría en carreras de grado), última
+cifra confiable de matriculación total. En el año 2000 ingresó 14.895 estudiantes y egresó 3.450
+graduados. Ofrece carreras en prácticamente todas las áreas del conocimiento y es la principal
+institución uruguaya en el terreno de la investigación. Tiene una estructura organizativa descentralizada
+en Facultades, Escuelas Universitarias y otros servicios. Se rige por su propia Ley Orgánica (aprobada
+en 1958) y tiene su autonomía consagrada en la Constitución de la República.
+Los cursos dictados mediante NTIC se detallan en la tabla al final de esta sección del Anexo.
+Esta universidad posee 18 servidores, distribuidos en 17 dependencias en Montevideo y 1 en el interior
+del país (Regional Norte, ciudad de Salto). Si bien muchos de estos servidores soportan actividades de
+educación a distancia, ninguno de ellos está completamente dedicado a la enseñanza. De los 18
+servidores, 11 operan sobre el sistema operativo Linux (versiones 2.0.30 a 7.2), 4 sobre Solaris (5.5 o
+superior) y los 3 restantes sobre Windows. Las configuraciones de cada uno de estos equipos no fueron
+proporcionadas. Esta información incluye los servidores "centrales" de cada facultad o servicio.
+Algunos servicios (facultades, escuelas) pueden tener cierto equipamiento adicional, como
+computadores personales, "dedicado" a la enseñanza. Estos datos no han sido relevados por esta
+universidad.
+Los anchos de banda utilizados son de 64K (6 casos), 128K (4 casos), 256K (6 casos) y 1M (1 caso).
+En un caso, el acceso es discado, a través de un módem de 56K. Los anchos de banda señalados son
+compartidos con todos los demás servicios de cada dependencia y operan sobre líneas de datos
+provistas por ANTEL, el organismo estatal de telecomunicaciones en Uruguay.
+Adicionalmente, la universidad cuenta con dos aulas propias para la realización de videoconferencias,
+una en la Facultad de Agronomía en Montevideo y otra en la ciudad de Salto. A través de un convenio
+con ANTEL, es posible enlazar estas aulas con las aulas virtuales de ANTEL en todo el país, operando
+sobre conexiones ISDN-2B.
+La universidad se plantea la continuación y ampliación de las experiencias en marcha, con la
+posibilidad de desarrollar una plataforma propia para el apoyo de los cursos por medio del Internet.
+Concretamente, proyecta desarrollar un campus digital al servicio de la enseñanza presencial y a
+distancia. Se trataría de una plataforma única e integrada para el uso potencial de todos sus docentes y
+alumnos.
+La tabla siguiente resume las actividades de educación a distancia mediante NTIC de la universidad:
+
+26/40
+
+#
+
+Año Área del
+conocimiento
+de
+inicio
+
+1
+
+1998 a Arquitectura,
+2001 Ciencias
+Económicas,
+Derecho,
+Enfermería,
+Medicina,
+Música,
+Agronomía,
+Comunicación
+2 1999 Química
+
+Varios
+Cursos
+(Educación cortos
+Permanente –
+Actualización
+profesional)
+
+1° año, ciclo
+básico
+
+13 materias 1 año
+del 1er año
+de la carrera
+universitaria
+
+Bachilleres
+
+3
+
+1999 Agronomía
+
+4
+
+1999 Agronomía
+
+2000 Derecho
+
+Actualizació
+n
+profesional
+Actualizació
+n
+profesional
+Carrera
+Técnica
+
+Egresados de
+agronomía y
+veterinaria
+Egresados
+
+5
+
+Nutrición de
+la vaca
+lechera
+Mercado de
+Futuros y
+Opciones.
+Técnico en
+Relaciones
+Laborales
+
+6
+
+2001 Bibliotecología Archivología Carrera
+Técnica
+2001 Ingeniería
+Matemática Materia de
+discreta
+la carrera de
+Ingeniero de
+
+7
+
+Nombre del
+curso
+
+Tipo de
+curso
+
+Duración Público
+objetivo
+
+Entre 1,5 Egresados
+y 6 horas
+
+15
+semanas
+
+8 hs
+equivalent
+es
+2,5 años Bachilleres
+
+no se
+Bachilleres
+informó
+1 semestre Alumnos 4to
+(3.5
+semestre
+meses)
+
+Modalidad de
+Nº de
+partici- entrega / tecnologías
+pantes a empleadas
+la fecha
+1076 Se brindaron
+aproximadamente
+300 hs de
+videoconferencia
+
+Plataformas Deserció
+n
+Internet
+utilizadas
+Ninguna
+
+100 Web, incluyendo el Servicios
+uso de webcam para estándar
+comunicaciones.
+Visitas frecuentes de
+docentes.
+15 Internet, e-mail.
+Servicios
+estándar
+25 Internet, e-mail.
+
+600 Videoconferencia a
+todo el país
+(principal), sitio web
+y visitas esporádicas
+de docentes a sitios
+remotos.
+no se
+no se informó
+informó
+200 Internet, foros, email, examen
+presencial.
+
+Servicios
+estándar
+ninguna
+
+no se
+informó
+Servicios
+estándar
+
+No
+establecid
+a
+
+20%
+
+80%
+
+No
+establecid
+a
+Deserció
+n del
+50%
+frente al
+80%
+presencia
+les
+no se
+informó
+0%
+27/40
+
+Año Área del
+conocimiento
+de
+inicio
+
+#
+
+8
+
+2002 Ingeniería
+
+Nombre del
+curso
+
+Tipo de
+curso
+
+Ingeniero de
+Computació
+n
+Métodos
+Materia
+cuantitativos electiva de
+gerenciales
+computación
+(experiment
+al)
+
+Duración Público
+objetivo
+
+meses)
+
+1 semestre 4°y 5° año de
+(3,5
+Ingeniería
+meses)
+
+Plataformas Deserció
+Modalidad de
+Nº de
+n
+partici- entrega / tecnologías Internet
+utilizadas
+pantes a empleadas
+la fecha
+presencial.
+
+10 Internet, foros, email, examen
+presencial.
+
+Servicios
+estándar
+
+0%
+
+Tabla A3-1. Resumen de actividades de educación a distancia mediante NTIC de la Universidad de la República.
+
+28/40
+
+2. UNIVERSIDAD ORT URUGUAY
+
+Universidad ORT Uruguay fue la primer institución reconocida dentro del marco regulatorio
+establecido en agosto de 1995. Como todas las instituciones universitarias uruguayas de gestión
+privada, se trata de una institución sin fines de lucro. Su proceso fundacional se inicia en 1942,
+obteniendo personería jurídica en 1949. Sus primeras carreras terciarias fueron reconocidas en la
+década de 1980. En el año 2000 contaba con 3.445 estudiantes matriculados en carreras universitarias
+de grado, habiendo ingresado 924 estudiantes a dichas carreras. El total de estudiantes matriculados en
+el nivel universitario incluyendo grado y posgrado (pero no carreras técnicas ni formación continua) era
+de 3887 personas en dicho año. La universidad está organizada en cuatro facultades (Ingeniería,
+Administración y Ciencias Sociales, Comunicación y Diseño, y Arquitectura) y un Instituto
+(Educación).
+Universidad ORT Uruguay utiliza 14 servidores, dos de los cuales están dedicados exclusivamente a
+actividades de educación superior virtual. Un tercer servidor aloja software de aplicación para el apoyo
+administrativo, utilizado por todos los estudiantes de la universidad.. Los sistemas operativos utilizados
+son Linux (en diferentes versiones), AIX y Windows NT.
+Para la actividad de educación virtual se utiliza principalmente el Internet. La organización se
+centraliza en una Coordinación de Tecnología Educativa. Se ha adoptado la herramienta WebCT (para
+toda las facultades excepto Ingeniería) y un servidor con programación propia (para la facultad de
+Ingeniería), estando en estudio el desarrollo de un sistema propio de apoyo a los cursos a distancia.
+Recientemente, la universidad experimentó con el sistema Educas de la empresa uruguaya SecNet,
+produciendo en conjunto un cursillo de desarrollo de planes de negocios para los proyectos incubados
+en Ingenio (incubadora de empresas administrada por LATU y ORT). La herramienta utiliza streaming
+de audio y video. Utilizando dicho sistema ha colocado en línea seminarios del área de Educación. El
+“streaming” utiliza servidores ubicados en el centro de operaciones de ANTEL.
+La conectividad a Internet se logra por medio de líneas directas (a través la Red Académica Uruguaya)
+de 256 Kbps y conexiones ADSL de 384 / 128 Kbps. La universidad mantiene convenios con ANTEL
+(empresa estatal de telecomunicaciones) y con Movicom/Bellsouth (principal proveedor privado de
+telecomunicaciones). Su red interna utiliza velocidades de 10 y 100 Mbps (en la red local) y 2 Mbps
+(en la red de área extensa).
+En 1996, la Universidad ORT Uruguay instaló la primera red de aulas para formación por
+videoconferencia del país. La red se utilizó por varios años para el dictado de clases regulares mediante
+el sistema de videoconferencia interactiva multipunto. El equipo utilizado consistió en un puente
+multipunto y cuatro codecs locales, suministrados por la firma Picturetel. Esta red originalmente unía
+tres ciudades del interior del país (Salto, Paysandú y Colonia) con Montevideo y operaba sobre líneas
+dedicadas V.35 de 128K. En 1998, cuando estuvieron disponibles, la red comenzó a operar sobre
+enlaces ISDN (2 x 64K), enlazando la red de ORT con las recientemente inauguradas aulas virtuales de
+ANTEL. A partir de 2000, por razones de costos de telecomunicaciones y acceso al público objetivo, se
+resolvió reservar la videoconferencia para conferencias y eventos de única vez, nacionales e
+internacionales, y para actividades de tipo complementario; la operación educativa a distancia se
+transfirió a tecnología Internet. La universidad mantiene actualmente con dos aulas con acceso a
+29/40
+
+videoconferencia, ubicadas en sus edificios principales de Centro y Pocitos respectivamente, que se
+pueden conectar con el sistema de aulas de ANTEL.
+La universidad cuenta con antena parabólica y decodificador, pudiendo proyectar los programas
+satelitales recibidos y decodificados en una teleaula.
+La Universidad ORT tiene planificado incrementar su oferta semipresencial y a distancia en el
+desarrollo de habilidades como parte de sus carreras universitarias, técnicas y de postgrado. La
+institución está desarrollando, en ese marco, nuevos talleres de expresión escrita, comunicación
+empresarial e informática. Adicionalmente, se está evaluando la posibilidad de ofrecer la Maestría en
+Educación en modalidad a distancia. El primer año de esta Maestría (el Diploma en Educación) se dicta
+a distancia desde el año 2000.
+La tabla en la página siguiente resume las actividades de educación mediante NTIC cumplidas por la
+universidad en los últimos años.
+
+30/40
+
+#
+
+Año Área del
+de
+conocimiento
+inicio
+1
+
+2
+
+1996 Gerencia,
+Sistemas,
+Educación,
+Comercio
+Exterior
+1997 Todas las
+facultades de
+la universidad
+
+Nombre del curso Tipo de
+curso
+
+Duración
+
+Varios cursos y
+programas
+
+Actualización
+profesional
+
+Entre 4 y
+12
+semanas
+
+Carreras
+universitarias,
+técnicas y
+postgrados
+Redes de
+computadoras
+
+Apoyo a
+1 semestre Alumnos
+cursos
+en cada
+presenciales de
+presenciales caso
+la universidad
+
+3
+
+1999 Computación
+y Redes
+
+4
+
+2000 Ciencias de la Diploma en
+Educación
+Educación
+
+5
+
+2001 Formación
+docente en
+servicio
+
+Certificado en
+docencia
+universitaria
+
+Actualización
+profesional
+Postgrado
+
+12
+semanas
+
+Actualización
+profesional
+
+8 meses
+
+12 meses
+
+Público objetivo Nº de Modalidad de entrega /
+partici- tecnologías empleadas
+pantes a
+la fecha
+Profesionales
+730 Videoconferencia, con
+apoyo en Internet.
+radicados en el
+interior
+
+Ingenieros y
+analistas de
+sistemas
+Maestros y
+profesores
+
+Docentes
+universitarios
+(ORT)
+
+5500+ Complemento a cursos
+presenciales a través de
+Internet (materiales,
+discusiones, etc)
+12 Online, con examen final
+presencial.
+
+Platafor- Desermas
+ción
+Internet
+utilizadas
+Desarrollo 15%
+propio,
+servicios
+estándar
+WebCT y
+servicios
+estándar
+
+13%
+
+WebCT
+
+50%
+
+90 Internet como principal WebCT
+medio, material impreso,
+incluyendo 3 libros “de
+cabecera”, teléfono, fax,
+4 reuniones presenciales
+en el año (una de ellas es
+la defensa del proyecto
+final) y tutorías.
+50 Online, con encuentros WebCT
+presenciales esporádicos.
+Incluye tutorías
+presenciales y a
+distancia.
+
+20%
+
+10%
+
+31/40
+
+#
+
+Año Área del
+de
+conocimiento
+inicio
+
+Nombre del curso Tipo de
+curso
+
+Duración
+
+Público objetivo Nº de Modalidad de entrega /
+partici- tecnologías empleadas
+pantes a
+la fecha
+Productores
+17 CD + Internet
+agropecuarios,
+ingenieros
+agrónomos
+
+6
+
+2001 Agronegocios Gerencia de
+negocios
+agropecuarios Gestión del
+Riesgo13
+
+7
+
+2002 Expresión
+escrita
+
+Taller de expresión Taller de
+escrita
+carreras de
+grado
+
+12
+semanas
+
+Alumnos de
+carreras de grado
+
+8
+
+2002 Gestión
+Educativa
+
+Diploma en
+Postgrado
+Planificación y
+Gestión Educativa
+
+12 meses
+
+Maestros,
+profesores y
+administradores
+de centros
+educativos
+
+Actualización
+profesional
+
+1 mes
+
+Platafor- Desermas
+ción
+Internet
+utilizadas
+Platafor15%
+ma de
+Kansas
+State
+University
+WebCT
+25%
+
+56 En línea, con 3
+instancias presenciales
+(incluyendo la
+evaluación final).
+14 Internet como principal WebCT
+medio; material impreso,
+incluyendo 3 textos,
+teléfono, fax, 4
+reuniones presenciales
+en el año (una de ellas es
+la defensa del proyecto
+final) y tutorías.
+
+20%
+
+Tabla A3-2. Resumen de actividades de educación a distancia mediante NTIC de la Universidad ORT Uruguay
+
+13
+
+Curso dictado por docentes de Universidad ORT Uruguay en convenio con Kansas State University.
+32/40
+
+3. UNIVERSIDAD CATÓLICA DEL URUGUAY “DÁMASO ANTONIO LARRAÑAGA”
+La Universidad Católica del Uruguay “Dámaso Antonio Larrañaga” se origina en el Instituto de
+Filosofía, Ciencias y Letras, que funcionaba desde la década de 1940. Fue autorizada a funcionar como
+universidad por un decreto de agosto de 1984 y comenzó sus cursos en marzo de 1985. Está organizada
+en seis facultades (Derecho, Ingeniería, Ciencias Sociales y Comunicación, Ciencias Empresariales,
+Psicología y Odontología), además de un área dedicada a la Educación.
+La universidad tenía -en el año 2000- 2672 estudiantes de grado, habiendo ingresado 628 estudiantes a
+ese nivel. El total de matriculados, incluyendo carreras de grado, posgrados y cursos de formación
+continua, era de 4057 personas.
+La universidad cuenta con tres servidores principales; ninguno de ellos es utilizado específicamente
+para la enseñanza mediante NTIC. Los servidores utilizan Windows NT 4.0. En las experiencias
+detectadas de enseñanza mediante NTIC, se utilizó la herramienta Lotus Learning Space.
+La red local es un Ethernet switcheada a 100 Mbps, con conexión a Internet de 1 Mbps por medio de
+un proveedor privado. La institución cuenta con instalaciones de videoconferencia.
+Esta institución realizó una experiencia inicial en el año 2001 ofreciendo un curso de Didáctica de la
+Lengua en Educación Inicial, cuya duración fue de tres meses. Este curso de actualización profesional
+estaba dirigido a maestras de educación inicial e hizo uso de la herramienta Lotus Learning Space.
+Contó con una única participante.
+Adicionalmente, se dictó un curso de actualización para los docentes de la universidad, según se
+resume en el cuadro siguiente:
+
+33/40
+
+#
+
+Año de
+inicio
+
+1
+
+Área del Nombre del curso
+conocimie
+nto
+
+2001 Formación Las Nuevas
+docente en tecnologías en la
+servicio
+Información y la
+Comunicación en la
+Educación
+Universitaria
+
+Tipo de curso
+
+Duración Público
+objetivo
+
+Actualización
+profesional (un
+módulo del
+Postgrado en
+especialización
+universitaria)
+
+3 meses
+
+Nº de
+Modalidad de
+particientrega /
+pantes a tecnologías
+la fecha empleadas
+30 Internet, 3
+Docentes
+reuniones
+de
+presenciales.
+UCUDAL
+
+PlataforDeserción
+mas
+Internet
+utilizadas
+LearningSp No
+ace
+proporcion
+ada
+
+Tabla A3-3. Resumen de actividades de educación a distancia mediante NTIC de la Universidad Católica del Uruguay.
+
+34/40
+
+4. OTRAS INSTITUCIONES
+4. 1 Administración Nacional de Educación Pública (ANEP)
+La ANEP tiene entre sus misiones proveer los cursos oficiales de formación de maestros y profesores
+de enseñanza primaria, media y técnico-profesional para el sistema uruguayo, así como las
+actualizaciones en servicio para los egresados. En el año 2000 había 11975 estudiantes matriculados en
+los cursos de formación docente, de los cuales 4581 para la formación de maestros de enseñanza
+primaria y 7287 para la formación de profesores de enseñanza media.
+Algunos cursos de formación docente y actualización han sido dictados en modalidad a distancia desde
+los años 80, basados principalmente en material impreso. Sobre finales de los 90 se incorpora el uso
+esporádico de páginas web y la comunicación a través del correo electrónico, aunque el soporte
+principal continuó siendo el papel.
+Desde 1998, ANEP realiza actividades aisladas de formación en inglés, informática y matemática para
+docentes de educación técnico-profesional, a través de videoconferencia. Estas actividades consisten en
+charlas o clases para docentes residentes en 5 a 7 ciudades del interior del país y utilizan la
+infraestructura de salas de ANTEL.
+A la fecha del relevamiento, no se estaba desarrollando ningún curso regular utilizando como
+componente principal las NTIC.
+Actualmente ANEP desarrolla el Programa de Conectividad Educativa en acuerdo con la Presidencia
+de la República y con ANTEL. Este proyecto consta de tres componentes: (i) conexión a internet y
+hosting del portal educativo; (ii) capacitación de docentes y desarrollo de contenidos; y (iii)
+experiencias piloto y desarrollo de una propuesta de expansión de las tecnologías de la información y la
+comunicación (TIC) para todo el sistema educativo. A través de estos componentes se pondrá en
+marcha el proceso de conexión, capacitación y uso educativo de Internet en un conjunto de centros
+educativos de primaria, secundaria, técnica y formación docente; se iniciará la preparación de las
+capacidades institucionales requeridas; y se desarrollará un conjunto de experiencias piloto y estudios a
+partir de los cuales se elaborará una propuesta para expandir el uso educativo de las nuevas tecnologías
+a todos los centros de primaria, secundaria, técnica y formación docente del Uruguay.
+La ANEP informó en las entrevistas que está preparando cursos de formación de docentes de
+Geometría y Zoología (1er y 3er año de profesorado respectivamente) como experiencia piloto, a
+distancia y con Internet como plataforma principal. Se utilizará el software Educas de la empresa
+SecNet (www.secnetpro.com), que permite, entre otras funcionalidades, manejar streaming de video y
+audio, tanto en tiempo real como en tiempo diferido.
+
+4.2 Centro de Estudios Educativos
+Esta institución ofrece fundamentalmente cursos de postgrado en Ciencias de la Educación (Diplomas,
+Maestrías y Doctorados), de entre 1 y 5 años de duración, en modalidad semipresencial. Los egresados
+son 31 y los alumnos que cursan actualmente estos postgrados son más de 600, en calidad de
+35/40
+
+estudiantes part-time. Se utiliza principalmente el material impreso, las cintas de video que toma de
+trasmisiones satelitales, la Internet y las aulas de videoconferencia de todo el país.
+El CEE no cuenta con servidores Internet propios. Se conecta por módem a través de líneas discadas a
+una velocidad máxima de 56K. El Centro tiene antena parabólica y decodificador propios. Para la
+realización de videoconferencias, el CEE recurre a la infraestructura de otras instituciones.
+4.3 Instituto Universitario Autónomo del Sur
+Esta institución universitaria dicta carreras universitarias en el área de la Informática y contaba con 60
+alumnos en carreras de grado en el año 2000.
+Este instituto universitario prevé dictar la carrera técnica de Analista de Sistemas (3 años) en
+modalidad a distancia y a través de Internet. Estos datos surgen de la prensa (revista Galería del
+semanario Búsqueda, 17/10/2002). La prensa también informó del proyecto de desarrollo de una
+plataforma para ESV, que recibió financiamiento de un fondo concursable para proyectos de empresas.
+No fue posible obtener más detalles sobre estas iniciativas, puesto que las autoridades consultadas
+declinaron proporcionar información.
+4.4 Otras instituciones universitarias y de educación superior.
+No detectamos actividad en educación a distancia o utilización de NTIC para las demás instituciones
+universitarias de gestión privada, por lo que no fueron relevadas. Estas instituciones son
+numéricamente de menores dimensiones:
+Institución
+Universidad de Montevideo
+Universidad de la Empresa
+Instituto Florence Nightingale (enfermería)
+Centro de Investigación y Experimentación
+Pedagógica
+Instituto Maldonado-Punta del Este
+
+Total de alumnos matriculados en
+año 2000
+575
+(no proporcionó datos al MEC)
+170
+94
+16
+
+Tampoco se registró actividad para las instituciones terciarias del sistema público que figuran en los
+informes del Ministerio de Educación y Cultura, que son:
+Institución
+Instituto Superior de Educación Física
+Escuela Municipal de Arte Dramático
+Centro de Diseño Industrial
+Escuela Militar
+Escuela Naval
+Escuela Militar de Aeronáutica
+Escuela Nacional de Policía
+
+Total de alumnos matriculados en año
+2000
+599
+97
+154
+233
+74
+85
+259
+36/40
+
+ANEXO 4.
+Terminología, siglas y abreviaturas
+ADSL: Línea digital asimétrica de suscriptor, en su sigla en el idioma inglés. Estas líneas permiten el
+tráfico de datos a diferentes velocidades en las direcciones entrante y saliente, lo que permite una
+mayor eficiencia para los patrones de tráfico habituales en el acceso a Internet desde los hogares.
+ANEP: Administración Nacional de la Educación Pública, ente estatal encargado de la educación
+primaria, secundaria, técnica y de la formación docente para dichos niveles. Es autónomo e
+independiente del Ministerio de Educación y Cultura.
+ANTEL: Administración Nacional de Telecomunicaciones, empresa estatal encargada de los servicios
+de telecomunicaciones en el Uruguay, con el monopolio en servicios de telefonía básica y posición
+dominante en las telecomunicaciones en el país.
+CODICEN: Consejo Directivo Central, órgano directivo de ANEP
+Educación superior: incluye cursos y carreras de grado y postgrado ofrecidos por universidades,
+institutos universitarios y de formación docente, así como cursos de formación continua para
+graduados.
+Educación a distancia: implica la separación espacial y/o temporal entre docentes y alumnos. En este
+informe se incluye en esta categoría la oferta educativa "mixta" de carácter predominantemente a
+distancia, aunque con instancias presenciales esporádicas.
+ESV: educación superior virtual, educación superior ofrecida a distancia mediante tecnologías de la
+información y de las telecomunicaciones.
+ISDN-2B: ISDN es la denominación anglosajona de las Redes Digitales de Servicios Integrados, que
+permiten trasmitir datos por pares telefónicos comunes simultáneamente con voz. La capacidad de
+comunicación se mide en canales B: un canal B admite 64 Kbps. El enlace ISDN-2B permite
+comunicación a 128 Kbps.
+Kbps: Miles de bits trasmitidos por segundo.
+Mbps: Millones de bits trasmitidos por segundo
+MEC: Ministerio de Educación y Cultura.
+NTIC: Nuevas tecnologías de la información y las comunicaciones: comprenden todos los tipos de
+comunicación intermediada por computador (en especial los basados en el Internet), videoconferencia y
+transmisión satelital.
+
+37/40
+
+ANEXO 5. Consulta efectuada al Ministerio de Educación y Cultura.
+
+38/40
+
+39/40
+
+Anexo 6. Respuesta de la institución que no suministró información para el estudio.
+From: "Alejandro Armellini" <armellini@athenea.ort.edu.uy>
+Organization: Universidad ORT Uruguay
+To: garcia_c@athenea.ort.edu.uy
+Date: Fri, 20 Dec 2002 10:56:27 -0300
+Subject: (Fwd) RE: desde ORT
+Reply-To: armellini@athenea.ort.edu.uy
+Priority: normal
+X-mailer: Pegasus Mail for Windows (v4.01)
+------- Forwarded message follows ------Subject: RE: desde ORT
+Date sent: Fri, 2 Aug 2002 15:23:36 -0300
+From: "Gustavo Cirigliano"
+<gcirigli@ei.edu.uy>
+To: <armellini@athenea.ort.edu.uy>
+Estimado Alejandro,
+La información que me solicitas para el informe de la Unesco,
+es privada de la institución. Por lo tanto, no estamos
+habilitados a proporcionártela. En cualquier otro aspecto,
+referente a información publicable que pueda proporcionarte,
+con todo gusto te la brindaremos. Saludos cordiales.
+Gustavo Cirigliano
+gcirigli@universitario.edu.uy
+Dr. Alejandro Armellini
+Coordinador de Tecnología Educativa
+Universidad ORT Uruguay
+
+40/40
+
+

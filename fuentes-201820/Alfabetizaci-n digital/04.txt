@@ -1,0 +1,1108 @@
+Los cuatro ejes de la cultura participativa actual | 95
+MONOGRÁFICO
+
+Los cuatro ejes de la cultura
+participativa actual.
+De las plataformas virtuales
+al medialab
+The four axis of the current participatory culture.
+From virtual platforms to medialab
+
+Dr. José Manuel Ruiz Martín
+Coordinador de Investigación de la Facultad de Arquitectura y Diseño
+(Universidad de las Américas, Ecuador)
+Dr. José Ramón Alcalá Mellado
+Catedrático de Procedimientos Gráficos de Expresión y Tecnologías de la Imagen
+(Universidad de Castilla-La Mancha)
+
+Fecha de recepción: 30 de septiembre de 2015
+Fecha de revisión: 13 de diciembre de 2015
+Para citar este artículo: Ruiz Martín, J.M. y Alcalá Mellado, J.R. (2016):
+Los cuatro ejes de la cultura participativa actual. De las plataformas virtuales al
+medialab, Icono 14, volumen (14), pp. 95-122. doi: 10.7195/ri14.v14i1.904
+
+DOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+96 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+
+Resumen
+La nueva cultura digital ha transformado de forma drástica muchos de los paradigmas asumidos por las generaciones nativo-analógicas. En materia comunicacional y creativa esta afirmación se hace si cabe más traumática, pues la participación
+directa del consumidor-prosumidor en la creación de contenidos, puede entenderse
+ya como propio de una generación vinculada a un nuevo modelo cultural. Pero,
+¿cuáles son los ejes sobre los que se vertebra este modelo? ¿Qué conceptos o significados y qué nuevas prácticas y procesos se imponen? ¿A qué nivel inciden estos sobre las prácticas implementadas en los centros culturales o medialabs? ¿Se atisban
+nuevos modelos como una nueva realidad híbrida que genera transferencias de lo
+virtual a lo físico y viceversa en este sentido? La respuesta a estas cuestiones, de vital importancia en el contexto actual, nos desvelará el nivel de impacto e influencia
+del modelo cultural sobre la sociedad, a través del análisis de los ejes que conforman
+esta nueva realidad.
+Palabras clave: Read & write culture - Transdisciplinariedad - Open sources Copyleft - Cultura participativa - Cultura digital - Medialabs
+
+Abstract
+The new digital culture has dramatically changed many paradigms assumed by
+native-analog generations. This affirmation is more traumatic in communication
+and creative subject, because the direct participation of consumer-prosumer on content creation can be understood typical of a generation linked to a new cultural
+pattern. But, what are axis on which this pattern is structured? What concepts or
+meanings and what new practices and processes are imposed? What level of impact
+has these processes on the practices implemented in cultural centers or medialabs?
+It is expected that new models happen to be defined as a new hybrid reality that
+generates transfers of virtual to physical, and vice versa in this regard?
+The answer to these questions, of vital importance in the current context, will
+reveal us the impact level and influence of the cultural pattern on society, through
+analysis of axis that make up this new reality.
+Key Words: Read & write culture - Transdisciplinarity - Open sources - Copyleft Participatory culture - Digital culture - Medialab.
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 97
+MONOGRÁFICO
+
+1. Introducción
+Desde que las nuevas tecnologías aparecieran progresivamente en la vida diaria
+de las personas y el acceso a la red penetrara en el ámbito doméstico convirtiendo su uso en una práctica común, notables han sido las transformaciones que en
+materia de comunicación se han ido produciendo. La conocida como Revolución
+Tecnológica ha devenido en una serie de modelos y patrones de comportamientos
+procesuales y prácticas comunicativas desarrolladas y asumidas por los usuarios de
+la cultura digital, esto es, los participantes de las redes sociales, los nuevos creadores de contenidos culturales, los desarrolladores de software, los consumidores –ya
+convertidos en prosumidores (Scolari, 2008)–, etc., la mayor parte de ellos nativos
+digitales, pues su percepción está intrínsecamente relacionada con el concepto de
+lo que significa “ser digital” (Alcalá, 2009) y pertenecer a una generación funcionalmente prostética.
+Esta realidad, junto a otros “factores de carácter tecnológico, económico y sociocultural” (García Carrizo & Heredero Díaz, 2014: 262), ha producido también
+un cambio de modelo cultural –que se inicia con el fin de los mass media–, en el
+que el consumidor se transforma, principalmente, de un ser pasivo a un ser activo,
+convirtiendo el acto comunicativo en un feedback constante de información. Un
+cambio paradigmático –ya analizado por diversos expertos en la materia, entre los
+que destaca el abogado y académico Lawrence Lessig (2005a, 2005b, 2008)– protagonizado por un relevo generacional poseedor de los nuevos medios y cohabitante
+de nuevas plataformas de carácter virtual. Dichas plataformas, cada vez más numerosas, representan el hábitat donde este cambio de modelo se hace si cabe más
+patente, gracias a la proliferación de narrativas transmedia que apuestan por la
+participación directa del usuario en los contenidos.
+El presente estudio fija su atención de forma particular sobre las prácticas culturales y los procesos implementados en los centros culturales creativos y en los
+denominados medialabs (que han pasado de ser laboratorios de nuevos medios
+tecnológicos a laboratorios de mediación ciudadana, y de centrarse principalmente
+en las prácticas artísticas mediales a las prácticas culturales interdisciplinares),
+pues los consideramos suficientemente representativos de la actividad cultural
+DOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+98 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+
+desarrollada en el espacio físico. En este sentido, resultan destacables las transformaciones que se han dado en este tipo de centros desde la segunda mitad del
+siglo pasado –inaugurado por la Bauhaus de la ciudad alemana de Weimar un par
+de décadas antes– hasta la fecha. Durante este más de medio siglo ya transcurrido,
+las pioneras instituciones parecen transformarse ahora en espacios de encuentro,
+de producción colaborativa y de comunicación abierta, tales como maker spaces,
+have meetings, iniciativas todas ellas relacionadas con la ciencia ciudadana –como
+Public Laboratory–, o con la biología –como Gen Space–.
+Cifran sus objetivos en la redefinición del concepto de la comunicación (…)
+contribuyendo a la construcción de una nueva metáfora del mundo, que ya
+no es, una vez más, un sistema conocido y consolidado, sino que ha vuelto a
+mostrarse como un nuevo sistema, una nueva entidad que ha trastocado toda
+nuestra relación hacia él y hacia los sistemas de conocimiento y evaluación de
+sus fenómenos (Alcalá & Maisons, 2004: 8).
+Por lo tanto, hablamos de la transformación de centros tradicionales que implementaron culturas tradicionales en espacios de diálogo, en ecosistemas creativos,
+simultáneamente dedicados a la reflexión y al debate, a la investigación y la producción, a la formación y a la socialización. Actividades todas ellas que impulsan
+en su conjunto un proceso de innovación relacionado con la cultura emergente y
+con “un escenario de democratización comunicacional inédito en la deriva humana” (Dinamarca, 2011: s/n).
+Así, esta investigación parte de la hipótesis de que existe una influencia directa entre las prácticas culturales participativas comunes del espacio virtual y las
+prácticas implementadas en la actualidad por los centros culturales y medialabs.
+En este sentido, este estudio, además de determinar el nivel de influencia e impacto del nuevo modelo cultural extendido en la red sobre dichos centros, señala
+los cuatro ejes que se cumplen como norma en las prácticas participativas y que
+responden al tipo de cultura implementada, al modelo organizativo, a los medios
+empleados y al método expansivo o divulgativo de sus materiales, planteamientos
+que alimentarán la discusión posterior.
+
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 99
+MONOGRÁFICO
+
+Por último, cabe señalar que el análisis comparativo aquí desarrollado responde
+a una propuesta metodológica de análisis todavía no encontrada en los trabajos
+hasta ahora publicados, o al menos que no han incidido todavía de forma determinante, de ahí la relevancia del mismo.
+
+2. Material y métodos
+2.1. Justificación
+En el transcurso de una investigación desarrollada con anterioridad por los autores del presente trabajo, y que culminó con la defensa y aprobación de la Tesis
+Doctoral Aparición, impacto y efectos de la máquina automática en el atelier del
+artista. Del taller tradicional al medialab1, se analizaron –entre otras cuestiones–
+las principales transformaciones sufridas en el contexto del taller del artista desde
+que la máquina automática fuera introducida por este en su lugar de trabajo. Pero
+la finalización de dicho estudio dejó la puerta abierta al análisis pormenorizado
+de los comportamientos, procesos y derivas que los centros creativos de medios –o
+medialabs– de mayor relevancia y repercusión están implementando, sobre todo
+tras comprobar la estrecha relación entre estos procesos y los comúnmente empleados por los protagonistas de la cultura digital en ambientes virtuales.
+Así, en la búsqueda constante de claves que vertieran luz sobre las preguntas
+planteadas, se vislumbró un importante cambio de paradigma comunicacional que
+parte de los nuevos nodos sociales establecidos en la red y que se ramifica hacia la
+otra realidad del mundo físico, hacia los nuevos lugares de encuentro que beben del
+ágora griego, del taller del artista, del café francés, de la biblioteca pública o del centro cultural. Laboratorios creativos, todos ellos, que son fiel reflejo de profundos procesos de transformación interrelacional en lo que a cultura y comunicación se refiere.
+Por ello, y puesto que en ese momento se hacía inviable ampliar el contenido
+escrito de aquella investigación –debido a un problema principalmente espacial–,
+lo que en aquel momento conformó un alto porcentaje de las futuras líneas de
+investigación a abordar, ha conllevado una inevitable consecución de dicha investigación, la misma que aquí se presenta en forma de estudio analítico.
+DOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+100 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+
+2.2. Objetivos
+•	 Analizar la incidencia de la nueva cultura digital sobre las prácticas y procesos comunicacionales actuales.
+•	 Determinar los ejes principales sobre los que se vertebra la cultura participativa en
+el binomio físico-virtual, contextualizada en la era de la revolución tecnológica.
+•	 Evidenciar la relación existente entre las prácticas comunicativas desarrolladas en entornos virtuales y las que se implementan actualmente en centros
+culturales y medialabs.
+
+2.3. Metodología
+Para dar respuesta a las cuestiones planteadas en el encabezado del presente estudio y alcanzar los objetivos propuestos, se ha empleado una metodología de investigación cualitativa, eminentemente etnográfica, donde la observación, el estudio de
+casos y las entrevistas personales han generado el corpus fundamental de la misma.
+Con el fin de comprender los cambios paradigmáticos en materia cultural y creativa
+que parecen posicionarse en la orilla de la participación directa de la comunidad en
+cuanto a contenidos se refiere, y con la intención de esclarecer conceptualmente los
+ejes que conforman estas novedosas prácticas que, si bien parecen asumidas en entornos virtuales, no lo parecen tanto en la realidad física, se ha establecido un plan estratégico de estudio de los centros culturales o medialabs más importantes, tanto a nivel
+nacional como internacional. Siguiendo una línea cronológica, dentro del contexto
+español: Arteleku (San Sebastián), MIDE (Cuenca), Hangar (Barcelona), MECAD (Sabadell), LABoral (Gijón), Medialab-Prado (Madrid), CCBLAB (Barcelona) y eTOPIA (Zaragoza). A nivel internacional: E.A.T. (New York), C.A.V.S. (Massachusetts), The Generative
+Systems (Chicago), Constant Variable (Bruselas), MIT Medialab (Massachusetts), V2_
+(Rotterdam), ZKM (Karlsruhe), Centro Multimedia (México D.F.), ARS Electronica Center
+(Linz) y NTT ICC (Tokio). Además, para dotar a la presente investigación de valor añadido, se visitaron los centros estatales propuestos en su totalidad –salvo MECAD, debido
+a su desaparición y CCCBLAB– y dos paradigmáticos y con realidades muy diferenciadas
+a nivel internacional, ZKM y Constant Variable. Además, diversos han sido los centros
+visitados que responden a nuevas realidades ligadas al movimiento maker: Makespace
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 101
+MONOGRÁFICO
+
+Madrid, FabLab Valencia, FabLab Asturias, FabLab Barcelona y FabLab ZOI (Quito). Tanto
+en los centros visitados como en los que el contacto directo se ha producido por medios
+telemáticos, se han realizado entrevistas a los responsables de los mismos –bien in situ,
+bien mediante videoconferencia o mailing–, estudiándose sus archivos y mediatecas,
+revisando documentación que pudiera aportar pistas concretas sobre el desarrollo obtenido por este tipo de centros, su funcionamiento, sus actividades, sus proyectos, etc., y
+adquiriendo materiales inéditos y de gran valor histórico y documental.
+Finalmente, todas las evidencias recabadas en el transcurso de la primera fase
+de la investigación han sido adecuadamente relacionadas con las nuevas prácticas
+participativas en materia creativa que están vigentes hoy en la red, estableciendo
+así las conclusiones oportunas.
+
+3. Resultados
+En primer lugar, hemos realizado una clasificación de los medialabs o centros culturales analizados en el transcurso de la investigación, basándonos en su cronología
+fundacional. Así, entendimos que la década de los sesenta fue la etapa iniciática en
+la creación de este tipo de centros experimentales, los que hemos denominado “labs
+pioneros”. En las décadas que le siguen, más concretamente desde 1970 al año 2000,
+se genera un período de auge masivo en lo que a desarrollo de laboratorios o centros
+de creación-investigación se refiere, destacando la aparición de algunos que llegaron
+a alcanzar una gran relevancia histórico-cultural, como MIT Medialab (Massachusetts,
+EE.UU., 1985), ZKM (Karlsruhe, Alemania, 1989), ARS Electronica Center (Linz, Austria,
+1996), o NTT-Intercommunication Center (Tokio, Japón, 1997), y que hemos englobado
+bajo el término de “medialabs modernos”. Finalmente, la última etapa histórica, que
+coincide en sus albores con el inicio de siglo presente y llega hasta nuestros días, con
+la creación de aquellos que hemos denominado “medialabs actuales”. Resulta relevante
+señalar, por una parte, que dentro de esta última agrupación, hemos creído oportuno
+incluir la nueva hornada de laboratorios ligados al uso de nuevas herramientas de fabricación digital y que conforman una realidad de rabiosa actualidad, indispensable para
+el devenir de la presente investigación. Estos son hacklabs, makespaces o fablabs. Y, por
+otra parte, apuntar el desplazamiento observado en muchos de estos nuevos medialabs
+contemporáneos de la palabra “media”, que pasa de un concepto tradicional de “tecnoDOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+102 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+
+MEDIALABS
+ACTUALES
+2000-2015
+
+MEDIALABS MODERNOS
+1970-2000
+
+LABS
+PIONEROS
+1960-1970
+
+logía” por uno más actual de “mediador”. Por lo que muchos medialabs actuales son en
+realidad laboratorios de mediación, frente al laboratorio de tecnologías anterior. La clasificación que proponemos en el presente trabajo se representa en el siguiente gráfico:
+
+	  
+
+!
+
+Medialab – Centro Cultural
+
+Año
+Fundación
+
+Ciudad, País
+
+EAT
+Experiments in Art and Technology
+
+1963
+
+New York, USA
+
+CAVS
+Center for Advanced Visual Studies
+
+1967
+
+Masachusetts, USA
+
+Generative Systems
+
+1968
+
+Chicago, USA
+
+Constant Variable
+Association for Art and Media
+
+1977
+
+Bruselas, Bélgica
+
+MIT Medialab
+Massachusetts Institute of Technology
+
+1985
+
+Massachusetts, USA
+
+V2_
+Institute for the Unstable Media.
+
+1987
+
+Rotterdam, Holanda
+
+Arteleku
+
+1987
+
+San Sebastián,
+España
+
+ZKM
+Zentrum für Kunst und Medientechnologie
+
+1989
+
+Karlsruhe, Alemania
+
+CANON Art Lab
+
+1989
+
+Tokyo, Japón
+
+MIDE
+Museo Internacional de Electrografía
+
+1990
+
+Cuenca, España
+
+CMM CENART
+Centro Nacional de las Artes
+
+1994
+
+México D.F., México
+
+ARS Electronica Center
+
+1996
+
+Linz, Austria
+
+NTT
+InterCommunication Center
+
+1997
+
+Tokyo, Japón
+
+HANGAR
+
+1997
+
+Barcelona, España
+
+MECAD
+Media Center d´Art i Disseny
+
+1998
+
+Sabadell, España
+
+LABoral
+
+2007
+
+Gijón, España
+
+Medialab Prado
+
+2007
+
+Madrid, España
+
+CCCBLAB
+Centre de Cultura Contemporània de Barcelona
+
+2010
+
+Barcelona, España
+
+eTOPIA
+
+2013
+
+Zaragoza, España
+
+Hackspaces / Makespaces / FabLabs
+
+-
+
+-
+
+Tabla 1: Clasificación cronológica de medialabs analizados
+Fuente: Elaboración propia basándonos en los materiales recabados.
+
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 103
+MONOGRÁFICO
+
+Por otra parte, y a partir de la anterior clasificación, hemos establecido un análisis comparativo entre los diferentes laboratorios estudiados, teniendo en cuenta
+diversos indicadores de relevancia que nos permitirán generar dis-cusión sobre la
+traslación o no hasta dichos centros de las prácticas culturales colaborativas que
+se extienden y afianzan en el contexto virtual de las redes.
+Por ello, los indicadores propuestos –que deben aportar datos esclarecedores
+respecto al posicionamiento estratégico/ideológico/cultural de los centros– intentan abarcar un amplio abanico de prácticas desarrolladas en ellos por parte de
+sus participantes activos o de sus comunidades. Dichos indicadores parten de la
+virtualidad, considerándolos definitorios en las prácticas culturales desarrolladas
+en la red:
+1.	 El tipo de cultura comunicacional, o nivel de participación por el que
+apuesta el centro, valorada por sus prácticas y modus operandi.
+2.	 El modelo político-organizativo que posee.
+3.	 Los medios empleados en los procesos y en la ejecución de los proyectos
+(software y hardware).
+4.	 El método de gestión de los derechos de autor generados.
+
+DOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+104 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+INDICADOR 1 – CULTURA COMUNICACIONAL
+
+MEDIALABS
+ACTUALES
+2000-2015
+
+MEDIALABS MODERNOS
+1970-2000
+
+LABS
+PIONEROS
+1960-1970
+
+Read Only
+Culture
+
+!
+	  
+
+Mixta / No
+clasificable
+
+Read & Write
+Culture
+
+EAT
+CAVS
+Generative Systems
+Constant
+MIT Medialab
+V2
+Arteleku
+ZKM
+CANON Art Lab
+MIDE
+CMM CENART
+ARS Electronica
+NTT-ICC
+HANGAR
+MECAD
+LABoral
+Medialab Prado
+CCCBLAB
+eTOPIA
+Hackspaces /
+Makespaces / FabLabs
+
+Tabla 2: Cultura comunicacional implementada por cada uno de los centros.
+Fuente: Elaboración propia basada en los materiales recabados.
+
+Gráfico 1: Cultura comunicacional implementada por los centros clasificados por etapas.
+Fuente: Elaboración propia basada en los materiales recabados.
+
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 105
+MONOGRÁFICO
+INDICADOR 2 – MODELO ORGANIZATIVO
+
+LABS
+PIONEROS
+1960-1970
+
+Interdisciplinar
+
+Transdisciplinar
+
+EAT
+CAVS
+Generative Systems
+
+MEDIALABS MODERNOS
+1970-2000
+
+Constant
+MIT Medialab
+V2
+
+MEDIALABS
+ACTUALES
+2000-2015
+
+!
+	  
+
+Mixta / No
+clasificable
+
+Arteleku
+ZKM
+CANON Art Lab
+MIDE
+CMM CENART
+ARS Electronica
+NTT-ICC
+HANGAR
+MECAD
+LABoral
+Medialab Prado
+CCCBLAB
+eTOPIA
+Hackspaces /
+Makespaces / FabLabs
+
+Tabla 3: Modelo organizativo de cada uno de los centros.
+Fuente: Elaboración propia basada en los materiales recabados.
+
+Gráfico 2: Modelo organizativo de los centros clasificados por etapas.
+Fuente: Elaboración propia basada en los materiales recabados.
+
+DOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+106 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+INDICADOR 3 – MEDIOS TECNOLÓGICOS
+
+LABS
+PIONEROS
+1960-1970
+
+Licencias
+cerradas
+
+Licencias
+abiertas
+
+EAT
+CAVS
+Generative Systems
+
+MEDIALABS MODERNOS
+1970-2000
+
+Constant
+MIT Medialab
+V2
+
+MEDIALABS
+ACTUALES
+2000-2015
+
+!
+	  
+
+Mixtas / No
+clasificables
+
+Arteleku
+ZKM
+CANON Art Lab
+MIDE
+CMM CENART
+ARS Electronica
+NTT-ICC
+HANGAR
+MECAD
+LABoral
+Medialab Prado
+CCCBLAB
+eTOPIA
+Hackspaces /
+Makespaces / FabLabs
+
+Tabla 4: Medios tecnológicos empleados por cada uno de los centros.
+Fuente: Elaboración propia basada en los materiales recabados.
+
+Medialabs actua les
+(2000-2015 )
+Medialabs modernos
+(1970-2000)
+Labs pioneros
+(1960-1970)
+
+Licencias abiertas
+
+Mixtas/No clasificables
+Licencias cerradas
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+Gráfico 3: Medios tecnológicos de los centros clasificados por etapas.
+Fuente: Elaboración propia basada en los materiales recabados.
+
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 107
+MONOGRÁFICO
+INDICADOR 4 – GESTIÓN DERECHOS DE AUTOR
+
+LABS
+PIONEROS
+1960-1970
+
+Copyright
+
+Copyleft
+
+EAT
+CAVS
+Generative Systems
+
+MEDIALABS MODERNOS
+1970-2000
+
+Constant
+MIT Medialab
+V2
+
+MEDIALABS
+ACTUALES
+2000-2015
+
+!
+	  
+
+Mixta / No
+clasificable
+
+Arteleku
+ZKM
+CANON Art Lab
+MIDE
+CMM CENART
+ARS Electronica
+NTT-ICC
+HANGAR
+MECAD
+LABoral
+Medialab Prado
+CCCBLAB
+eTOPIA
+Hackspaces /
+Makespaces / FabLabs
+
+Tabla 5: Gestión de derechos de autor en cada uno de los centros.
+Fuente: Elaboración propia basada en los materiales recabados.
+
+Gráfico 4: Gestión de derechos de autor de los centros clasificados por etapas.
+Fuente: Elaboración propia basada en los materiales recabados.
+
+DOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+108 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+
+4. Discusión
+4.1. Read & write culture como modelo cultural participativo
+Ya no existe la idea del que hace y el que mira, esto es, el productor y el consumidor. No hay barreras entre ellos. El que mira, el que consume, ahora participa
+de ello. Es también hacedor. (J. Carrete, comunicación personal, 23 de septiembre de 2013).
+Durante el siglo XX, el progresivo auge de los mass media y su inclusión en la
+vida cotidiana de las personas fomentó el crecimiento de un modelo cultural y comunicacional cimentado sobre la actividad del emisor y productor de contenidos y
+la cómoda pasividad del receptor, propiciando así el establecimiento de una cultura
+de solo lectura –o read only culture (Lessig, 2005)–. En este modelo, el cual podríamos definir también como cultura del consumidor, resultó determinante el factor
+económico, pues hablamos de una herramienta poderosa que ha servido a los intereses del sistema neoliberal y su exaltación del individuo como centro neurálgico
+de su actividad. Una cultura de solo lectura “está menos versada en el desempeño
+o en la creatividad amateur y se siente más cómoda (…) con un consumo sencillo”
+(Lessig, 2008: 28).
+Pero el fin de los medios masivos (Carlón & Scolari, 2009), que coincide en el
+tiempo con la internacionalización del acceso a la red, el afianzamiento de una
+nueva cultura digital que traslada el acto comunicacional hacia otros territorios y
+la consecuencia lógica de la creación de nuevas plataformas online de consumo e
+interacción cultural, han instaurado un nuevo orden que viene a complementar al
+anterior. Nos referimos al modelo de la read & write culture (o cultura de lectura y
+escritura), igualmente definido por el profesor y activista norteamericano Lawrence Lessig (2005). Se trata de una cultura en la cual las personas participan directamente en la creación y re-creación de la misma; una cultura creativa de experiencia
+activa que genera un feedback de gran interés, permitiendo así enriquecer la actividad comunicativa. Aquí el protagonismo lo poseen los nativo-digitales, aquellos
+que, en sus planes de actuación, en sus líneas estratégicas de producción, adoptan
+lo híbrido como substrato. Son estos los que, gracias a la idea del compartir y al
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 109
+MONOGRÁFICO
+
+desarrollo de la cultura libre, están permitiendo el relevo en los mercados ligados
+al campo creativo. La era de la read & write culture es la revolución cultural de los
+creadores, de los hacedores, de los prosumidores, de los militantes de la nueva cultura digital, de aquellos que emplean las nuevas tecnologías como medios creativos
+del procomún, rompiendo con el cariz individualista del sistema heredado.
+Sin duda alguna, una de las prácticas que sostienen y dotan de sentido a este
+modelo es el remix, “en tanto que concepto asociado a las prácticas culturales,
+el remix implica adoptar artefactos culturales, combinarlos y manipularlos hasta
+convertirlos en mezclas nuevas y productos creativos” (Knobel & Lankshear, 2011:
+105).
+Si revisamos los resultados de la presente investigación y trasladamos nuestra
+atención desde la virtualidad a la realidad física en los centros analizados, caeremos en la cuenta de que, hasta finales del siglo XX, la práctica comunicativa implementada en los mismos fue principalmente unidireccional –de arriba hacia abajo–,
+lo que relacionamos con la read only culture. Esto puede observarse principalmente
+en centros como ZKM o NTT-ICC, entre otros, cuya política, definida en primera
+instancia por una apuesta firme por la producción de arte electrónico, con el transcurso de los años y la constante reducción de la producción y la investigación2,
+ha puesto de manifiesto sus verdaderos intereses: apoderarse de obra y acumularla
+en sus almacenes para ofrecer al público espectáculo y entretenimiento a modo de
+parque temático o de atracciones, lo que genera mayores beneficios para el patronato dirigente, pues no hemos de olvidar que, en los casos referidos, se trata de
+centros sustentados con medios privados. El único feedback comunicacional que
+pudo atisbarse fue el perseguido por los primeros artistas ligados al media art en la
+búsqueda de la integración del espectador en la propia obra, a través de la reducida
+interactividad permitida por aquel entonces por las tecnologías pre-digitales.
+En la actualidad, y desde que ese importante cambio de ciclo ya señalado tuviera lugar, muchos son ya los centros y laboratorios creativos3 que han entendido
+la necesidad de permitir una participación real y activa de la comunidad en los
+contenidos y sus proposiciones, o en la generación de proyectos que permitan a
+los mismos crecer y generar ciencia e innovación, en todo el amplio sentido de las
+DOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+110 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+
+palabras. Este hecho puede comprobarse visualizando las líneas estratégicas –denominadores comunes, en muchos casos– de los centros actuales, entre las que se
+encuentran las siguientes:
+•	 Jornadas de OpenLab. De forma semanal, cualquier persona puede presentar
+sus propuestas e ideas, las cuales son debatidas por los demás asistentes y
+por el equipo del centro.
+•	 Proyectos del procomún. Se pretenden generar actividades creativas en torno
+a los recursos y bienes que nos corresponden a todos.
+•	 Ciencia ciudadana y Smart Cities. Se otorga importancia a los proyectos de
+colaboración e investigación con la idea de la implementación y desarrollo
+de ciudades inteligentes.
+•	 Fabricación digital y labs de recursos abiertos. El uso de nuevos medios con
+licencias abiertas en lo que a fabricación digital se refiere, cobra un papel de
+relevancia en este tipo de centros.
+Como podemos observar, una gran parte de los centros actuales identifican la
+importancia de la participación de la comunidad en los procesos de producción
+cultural, entendiéndose como asunto colectivo y como reflejo y consecuencia de
+las arengas comunicacionales de la cultura digital.
+Aquí, la read & write culture se torna imprescindible como modelo cultural participativo actual y como eje que vertebra –y sin el cual no podrían darse, pues se
+encuentran intrínsecamente relacionadas– las restantes propuestas y conceptos
+que siguen.
+
+4.2. Transdisciplinariedad como modelo organizativo
+Si podemos definir el concepto de interdisciplinariedad como el modelo organizativo mediante el cual diversas disciplinas resuelven problemas en un campo de
+actuación común, el modelo transdisciplinar da un paso más:
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 111
+MONOGRÁFICO
+
+Implica una más fuerte interpenetración de epistemologías disciplinares. Esto significa que nuevos horizontes fusionados pueden ser posibles más allá, o trascendiendo los paradigmas existentes dentro de las disciplinas aisladas. La transdisciplinariedad supone un intento consciente por superar los problemas allá donde
+los modos disciplinarios se muestran ineficaces (Alcalá & Maisons, 2004: 9).
+Entonces, nos referimos a transdisciplinariedad cuando existe una práctica que
+va más allá de la división por disciplinas, donde no se establecen jerarquías y existe un cierto ánimo de anonimato en pos del crecimiento del proyecto en sí. Y sabemos que esto es algo cada vez más habitual en plataformas virtuales ligadas a la
+cultura y la creación, pues la red per se permite este tipo de anonimato y la democratización de su acceso ha canalizado estas prácticas hacia el hecho del compartir,
+sin generar líderes o cabezas visibles con propósito de apropiación de un proyecto.
+Según los modelos organizativos analizados e implementados por los diferentes
+centros incluidos en la presente investigación, tanto los aquí denominados “labs
+pioneros” –esto es, los centros iniciáticos en cuanto a producción y práctica cultural y artística– en su conjunto, como un alto porcentaje de medialabs modernos
+(1970-2000), se identifican con modelos interdisciplinares, pues se nutren de un
+sistema básicamente individualista en el que el artista o creativo, con nombre propio y marca registrada, era el líder y creador del proyecto, el iluminado demiurgo
+que decidía en todo momento sobre el mismo y al servicio del cual trabajaban los
+expertos de las demás disciplinas. Así, en una primera etapa, vimos sobre todo a
+científicos e ingenieros trabajar a las órdenes de importantes artistas4, algo que
+se estableció como una práctica usual en las siguientes décadas y que generó una
+importante vinculación de ciertos creadores de relevancia con los centros en los
+que acometieron su labor.
+En este sentido y en lo que a los centros analizados se refiere, la presente investigación es concluyentete: aunque es cierto que existen medialabs modernos
+donde ya se plantearon con prontitud este modelo –como es el caso de Constant
+Variable o V2_–,, son los medialabs actuales los que toman el camino definitivo
+hacia la transdisciplinarización generalizada de sus procesos. A este respecto, es
+reseñable la definición del modelo implementado en el FutureLab de ARS ElectroDOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+112 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+
+nica, que el propio centro realiza: “El equipo del laboratorio basa su compromiso
+de trabajo en la investigación transdisciplinar y el trabajo que da lugar a una variedad de diferentes disciplinas en el laboratorio”. (ARS Electronica, Recuperado de
+http://www.aec.at/futurelab/en/aktuelles/about/ )
+Cerca de veinticinco empleados de múltiples disciplinas, tales como arquitectos,
+biólogos, químicos, ingenieros estructurales, artistas, informáticos, sociólogos, músicos, topógrafos, etc., forman el complejo equipo encargado de generar proyectos
+en el contexto del FutureLab. Según se indica, el trabajo transdisciplinar no es un
+objetivo para el centro, sino un compromiso practicado diariamente en el mismo.
+En la misma línea, igualmente destacable entendemos la aportación de Marcos García, director de Medialab Prado de Madrid. Según este, “la idea es que
+los proyectos de Medialab Prado puedan ser iniciativas generadas por científicos,
+arquitectos, educadores, artistas o por cualquier perfil, lo que genera proyectos
+totalmente híbridos” (García, comunicación personal, 23 de septiembre de 2013),
+lo que no deja duda alguna sobre la implementación del proceso transdisciplinar,
+esto es, la reunión de personas en torno a ideas concretas propuestas por cualquier
+individuo, con el único fin de vertebrar y perpetrar proyectos mediante los cuales
+se construye una comunidad que desarrolla sus capacidades en los mismos.
+No cabe duda de que anteponer los proyectos a las individualidades es un síntoma de un cambio paradigmático en las organizaciones y centros culturales y,
+además, fiel reflejo del concepto participativo asumido y, a la vez, promulgado por
+las nuevas generaciones de prosumidores, implementado en las nuevas prácticas
+culturales que alcanzan importantes máximos en plataformas virtuales.
+Así pues, consideramos imprescindible que, en lo que a cultura participativa se
+refiere, todo centro cultural adopte la transdisciplinariedad como modelo organizativo, pues la participación directa de la comunidad en los contenidos y proyectos desarrollados por el centro en cuestión resulta ambigua –y en cierto sentido
+contradictoria– con la imposición de jerarquías y la implementación del modelo de
+creación individualizada. Es indudable que el impulso a la participación que genera la read & write culture, expuesto y discutido con anterioridad, va de la mano
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 113
+MONOGRÁFICO
+
+del concepto de transdisciplinariedad, con el que se complementa conformándose
+como ejes irrenunciables de la cultura participativa.
+
+4.3. Open & free sources como medios creativos
+Como bien sabemos, la Iª Revolución Industrial trajo consigo el capitalismo. Esta
+revolución, que comenzó a finales del siglo XVIII y tuvo importantes efectos hasta
+casi mediados del siglo XIX, aceleró portentosamente el desarrollo económico de
+Gran Bretaña primero y de muchos de los principales países de Europa Occidental
+y de Estados Unidos después, sufriendo así el mayor conjunto de transformaciones
+socioeconómicas, tecnológicas y culturales de la humanidad desde el neolítico y
+hasta la Revolución Tecnológica actual. La aplicación de la ciencia y la tecnología
+para mejorar los beneficios económicos –máxima del sistema capitalista– permitió
+el desarrollo de tecnologías que mejoraron sobremanera los procesos productivos.
+En el caso que nos ocupa, la relación entre creación artística y medios tecnológicos acaecida durante la segunda mitad del siglo XX estuvo caracterizada por la
+adquisición por parte del artista de medios con licencias cerradas y marcas registradas, fruto de la encarnizada guerra de patentes que fue incrementándose tras
+la IIª Revolución Industrial, unido al endurecimiento de las leyes de propiedad
+intelectual. Así, durante la década de los sesenta (coincidiendo con la aparición
+de los primeros laboratorios de medios, como ya hemos visto), aparecen las tres
+tecnologías automáticas que los artistas adoptarán para el desarrollo de su trabajo,
+esto es, la fotocopiadora –desarrollada por Haloid-Xerox–, el computador gráfico
+personal –desarrollado principalmente en su comienzos por IBM, Olivetti, Xerox y
+Apple– y la video cámara portátil –desarrollada y comercializada por Sony–, las
+cuales establecen el punto de partida para esta investigación en cuanto a medios
+se refiere. Estas tecnologías fueron implementadas5 e incluso desarrolladas –como
+en el caso específico de la computadora Xerox Alto6– en los centros y laboratorios
+pioneros en el uso de tecnología con fines creativos.
+Pero no es hasta la década de los ochenta cuando comienza a hacerse efectivo
+un movimiento comunitario de open sources, esto es, recursos cuyas licencias y
+códigos son de acceso público. Así, organizaciones como la Free Software FoundaDOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+114 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+
+tion, creada en 1985 por Richard Stallman –programador y hacker que comenzó
+con su labor en el contexto del MIT de Massachusetts–, fueron determinantes para
+el desarrollo de este eje esencial en la presente investigación.
+En los medialabs modernos estudiados, según los datos que manejamos, estos
+movimientos no tuvieron un efecto relevante, pues cabe señalar que una gran
+parte de estos centros (1970-2000), o bien fueron creados bajo el sello de grandes
+corporaciones multinacionales como Canon, Siemens, Sony, o NTT, o bien han sido
+auspiciados puntualmente por estas mediante convenios en el desarrollo de proyectos. En los casos concretos del MIT, V2_, Hangar o Constant Variable, sí existe
+una concienciación en este sentido; incluso a este último lo rebautizaron como F/
+LOSS (Free/Libre and Open Source Software) Arts Lab.
+En la última etapa se puede observar un cambio de guión fundamental en los
+medios y recursos que los centros implementan. Salvo LABoral de Gijón, que no se
+posiciona especialmente a este respecto y al que debemos incluir en el listado de
+recursos mixtos, todos los restantes –sin excepción– integran en sus estrategias el
+uso de recursos abiertos, no solo como simples medios, sino como líneas de investigación que generan discusión y propuestas a partir de los mismos.
+Pero donde este modelo se convierte en uno de los principales exponentes es en
+los nuevos laboratorios y espacios de experimentación relacionados con la fabricación digital, esto es, los hacklabs, los makespaces o los fablabs. Es en estos donde
+mayor número de ingenieros, programadores y hacedores en general investigan en
+la actualidad acerca de las posibilidades de las nuevas herramientas digitales y su
+efecto sobre la cultura y la sociedad. En cuanto a hardware, podemos destacar la
+aparición y uso de las modernas impresoras 3D autorreplicables –pues poseen la capacidad de imprimir las principales piezas de la propia impresora y así autorreproducirse continuamente–, o de la placa Arduino –que facilita el desarrollo de proyectos electrónicos interactivos mediante un microcontrolador–; auténticos tótems
+actuales de open source. En cuanto al desarrollo de software el abanico se amplía,
+pues lo encontramos desde en la edición de imagen bidimensional –como GIMP–,
+hasta en la producción 3D –como SketchUp o Blender– y de audio –Audicity–, entre
+otros muchos. Tanto el diseño como el código de estos recursos ejemplificados son
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 115
+MONOGRÁFICO
+
+abiertos y libres, lo que permite la participación de la comunidad en la continua
+mejora de sus capacidades y rendimiento.
+Resulta pues evidente que cualquier centro cultural o laboratorio que pretenda
+actualizarse e implementar procesos culturales participativos vinculados al modelo
+de la read & write culture, además de desarrollar organizaciones transdisciplinares,
+deberá implementar y promulgar el uso y desarrollo de recursos abiertos, pues son
+los únicos que permiten generar participación de la comunidad sobre los mismos.
+Podemos afirmar que en los centros actuales analizados esto es ya una realidad inherente, algo que parece extenderse definitivamente y que responde a las
+necesidades, motivaciones e inquietudes del modelo cultural expuesto en páginas
+anteriores.
+
+4.4. Copyleft como método expansivo
+¿Resultan asumibles las prácticas restrictivas del copyright cuando hablamos de
+estimulación y difusión del conocimiento mediante una cultura participativa?
+Continuando con la línea de investigación anterior, los conceptos de derechos
+de autor, propiedad intelectual y copyright parten en primera instancia en la Inglaterra barroca con el Statute of Anne de 1710 –una ley para el fomento del saber–,
+donde, por primera vez, aparecían recogidos en un sistema legal características
+propias de lo que hoy conocemos como propiedad intelectual. A partir de aquí,
+este tipo de leyes se irán extendiendo, como la Ley de Derecho de Autor de 1790
+en EE.UU.
+Ya en el siglo XIX, con la característica principal de la expansión del sistema
+capitalista –como ya hemos visto– y la búsqueda de motivaciones e incentivos que
+posibilitaran la aceleración de las tecnologías, las legislaciones en este sentido se
+hicieron cada vez más protectoras y restrictivas. Entre estas destacan el Convenio
+de París para la Protección de la Propiedad Industrial de 1883 y el tratado internacional del Convenio de Berna para la Protección de las Obras Literarias y Artísticas
+de 1886, que en años posteriores fue continuamente revisado. Toda la legislación
+DOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+116 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+
+que se ha ido produciendo desde entonces sobre esta materia ha permitido que
+un autor, sin necesidad de registrar su trabajo y en el momento que lo concluye,
+adquiera copyright, siendo el caldo de cultivo para el masivo enriquecimiento de
+las industrias con más repercusión del siglo pasado: la farmacéutica, la tecnológica
+y la cultural, amparadas y protegidas por la Organización Mundial de la Propiedad
+Intelectual, creada en 1967.
+Así, las políticas implementadas en materia de propiedad intelectual y copyright
+por los centros o medialabs pioneros analizados en el presente estudio, han generado grandes restricciones en el acceso a sus documentos y materiales7. Algunos
+de estos centros, con el paso de los años, han liberado dicho material y puesto al
+servicio del conocimiento a través de plataformas virtuales, como en el caso de la
+Fundación Daniel Langlois, que, desde 1997, viene trabajando en la compilación
+y publicación de las investigaciones desarrolladas por algunos de estos medialabs pioneros de referencia, como Experiments in Art and Technology o Generative
+Systems, entre otros. En lo que a los centros modernos se refiere (1970-2000), el
+secretismo en torno a los materiales e investigaciones desarrollados en algunos de
+ellos, se debe principalmente a los intereses económicos de las grandes corporaciones privadas que los están financiando, la inmensa mayoría de ellas principalmente
+interesadas en la búsqueda de nuevas patentes y procesos que repercutan en sus
+propios beneficios económicos.
+Pero con la entrada del nuevo siglo, y gracias a los diferentes movimientos surgidos en aquellas comunidades que han decidido utilizar el software libre, se activa
+la filosofía del copyleft, práctica que tiene como objetivo ofrecer al autor la opción
+de facilitar la libre circulación de las copias relacionadas con su trabajo intelectual,
+lo que endurece considerablemente el debate sobre el precio de la divulgación del
+conocimiento. Cada vez son más los proyectos –sobre todo en una primera instancia
+en la red– que nacen con un espíritu participativo y, en consecuencia, expansivo,
+hecho que únicamente se puede sustentar sobre el concepto del copyleft. En este
+sentido, resulta destacable el gran incremento que han protagonizado en los últimos años los repositorios digitales de obras, imágenes, artículos, publicaciones y
+trabajos intelectuales en general, que son puestos al servicio del conocimiento sin
+restricciones de propiedad. Esta práctica, a la que se han unido universidades, muICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 117
+MONOGRÁFICO
+
+seos y organizaciones ligadas al mundo de la cultura y el saber, desvela un cambio
+de paradigma en lo que en materia de propiedad intelectual y derechos de autor
+se refiere, y en esto han intervenido con gran protagonismo las diversas licencias
+creadas en el siglo XXI, como la Licencia Arte Libre (2000) o la más empleada en la
+actualidad, Creative Commons (2002), fundada por Lawrence Lessig y que destaca
+por su extrema expansión8 e internacionalización en estos últimos años.
+Este tipo de licencias nace con el espíritu fundamental de dotar de coherencia
+a los procesos comunes de la cultura participativa aquí expuestos, permitiendo
+que el autor tenga la posibilidad de decidir cómo compartir y difundir su trabajo.
+No sería viable que una cultura de lectura y escritura se desarrollara bajo leyes
+de propiedad intelectual demasiado restrictivas. Por ello, los medialabs actuales
+están implementando de forma general estas prácticas, lo que demuestra una vez
+más que la divulgación y expansión de las mismas en las redes virtuales es ya una
+práctica asumida por los centros culturales: “Las contribuciones y los resultados
+de cada proyecto suelen ofrecerse con licencias abiertas, lo que permite que otros
+puedan trasladarlos a otros lugares, es decir, pasa a formar parte del dominio público” (García, comunicación personal, 23 de septiembre de 2013).
+No cabe duda, pues, que el concepto de copyleft permite la participación activa
+de la comunidad en los proyectos culturales y propuestas desarrolladas debido
+principalmente a su carácter abierto, evitando así que las obras se conviertan
+únicamente en objetos comerciales y los usuarios en consumidores pasivos, lo que
+viene a complementar una vez más las necesidades y arengas de la read & write
+culture. Por ello, lo consideramos el cuarto eje irrenunciable para que se cumpla
+una cultura participativa real.
+
+5. Conclusiones
+Como se ha demostrado durante el desarrollo del presente trabajo de investigación, las prácticas participativas comunes que se extienden en el espacio virtual y
+que están provocando un cambio trascendental de modelo cultural están a su vez
+influyendo decisivamente sobre las actividades y líneas de investigación implementadas por los centros artísticos, culturales y medialabs, alcanzando un mayor
+DOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+118 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+
+nivel de implementación en los centros más jóvenes, aquellos que comenzaron sus
+actividades en el inicio del nuevo siglo.
+Los indicadores empleados en esta investigación son definitorios en este sentido,
+por lo que podemos afirmar que, si la tendencia aquí señalada sigue las pautas descritas, en un futuro reciente la norma en los nuevos centros será la implementación
+de la transdisciplinariedad como modelo organizativo, el uso de recursos libres y
+abiertos –open & free sources– como medios de producción y la ruptura definitiva
+con la política restrictiva del modelo actual tradicional de derechos de autor como
+forma de difundir el conocimiento y la producción creativa. Términos todos ellos que
+se insertan y agrupan en la nueva cultura bajo la fórmula, ya definida en el presente
+estudio, de lectura y escritura –o read & write culture–, pues la profunda complementación entre ellos provoca que se encuentren intrínsecamente ligados bajo premisas y
+prácticas de coherencia; una auténtica traslación de las arengas de la nueva cultura
+digital desde el contexto del espacio virtual hasta la realidad física que, además,
+viene marcada por comportamientos bidireccionales retroalimentarios.
+En definitiva, la tendencia observada es hacia la creación o activación de centros culturales y medialabs más conectados con las prácticas participativas, con
+procesos más abiertos al servicio de la comunidad y donde el tradicional individualismo y estructuras de conocimiento estancas que caracterizaron a la mayor
+parte de los laboratorios pertenecientes al siglo pasado se diluyen ahora entre sus
+nuevas estrategias comunicativas, horizontales, populares, de dominio público, de
+creatividad transversal y de reflexión y acción social.
+
+Referencias
+Alcalá, J.R. (2011). La piel de la imagen: Ensayos sobre gráfica en la cultura digital.
+Valencia: Sendemá.
+Alcalá, J. R. (2009). Ser Digital. Manual de supervivencia para conversos a la cultura
+electrónica. Santiago de Chile: Departamento de Artes Visuales, Facultad de
+Artes Universidad de Chile.
+Alcalá, J. R. & Maisons, S. (2004). Estudio/Propuesta para la creación de un Centro
+de Excelencia en Arte y Nuevas Tecnologías. Madrid: Fundación Telefónica.
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 119
+MONOGRÁFICO
+
+Alcalá Mellado, J. R. (2014). La condición de la imagen digital. Estudios iconográficos
+para su análisis y clasificación, Icono 14, volumen (12), pp. 113-140. doi:
+10.7195/ri14.v12i2.679
+Alsina, P. (2007). Arte, ciencia y tecnología. Barcelona: EdiUOC.
+Anderson, C. (2012). Makers. The New Industrial Revolution. New York: Crown Business.
+Baudrillard, J. (1978). Cultura y simulacro. Barcelona: Kairós.
+Carlón, M. & Scolari, C. A. (comps.) 2009. El fin de los medios masivos. El comienzo
+de un debate. Buenos Aires: La Crujía.
+Carlón, M. & Scolari, C. A. (comps.) 2012. Colabor_arte. Medios y artes en la era de
+la producción colaborativa. Buenos Aires: La Crujía.
+Century, M. (1999). Pathways to Innovation in Digital Culture. Centre for Research
+on Canadian Cultural Industries and Institutions / Next Century Consultants.
+Recuperado de http://www.nextcentury.ca/PI/PI.html
+De Vicente, J. L. (2008, 29 de mayo). Pioneros del ‘media lab’. Robert Rauschenberg,
+entre arte y tecnología. El Cultural. Recuperado de http://www.elcultural.es/
+articulo_imp.aspx?id=23282
+Dinamarca, H. (2011). Internet: de luces y sombras. Razón y palabra, 76, pp. s/n.
+Recuperado de http://razonypalabra.org.mx/N/N76/varia/13_Dinamarca_V76.pdf
+García Carrizo, J. y Heredero Díaz, O. (2015). Propuesta de un modelo genérico de
+análisis de la estructura de las narrativas transmedia, Icono 14, volumen (13),
+pp. 260-285. doi: 10.7195/ri14. v13i2.745
+Hertz, G. (1995). The Godfather of Technology and Art: An interview with Billy
+Klüver. Conceptlab. Recuperado de http://www.conceptlab.com/interviews/
+kluver.html
+Jardón, H. (2011). Cut/Copy/Paste. Contextualizando el Centro Multimedia a
+quince años de su fundación. Centro Nacional de las Artes. Recuperado de
+http://cmm.cenart.gob.mx/publicaciones/cut-copy-paste.pdf
+Jenkins, H. (2006). Convergence Culture: Where Old and New Media Collide. Nueva
+York: New York University Press.
+Knobel, M. & Lankshear, C. (2011). Remix: la nueva cultura popular. Cuadernos
+Comillas, 1, pp. 105-126.
+Lessig, L. (2005a). Por una cultura libre. Cómo los grandes grupos de comunicación
+utilizan la tecnología y la ley para clausurar la cultura y controlar la creatividad.
+Trad. A. Córdoba/elástico.net. Madrid: Traficantes de sueños.
+DOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+120 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+
+Lessig, L. (2005b). Re:MixMe. Plenary address to the annual Network for IT-Research
+and Competence in Education (ITU) Conference, Oslo, Noruega. Octubre.
+Lessig, L. (2008). Remix: Making Art and Commerce Thrive in the Hybrid Economy.
+Nueva York: The Penguin Press.
+Manovich, L. (2005). El lenguaje de los nuevos medios de comunicación. La imagen
+en la era digital. Trad. O. Fontrodona. Barcelona: Paidós Comunicación.
+Martín Prada, J. (2012). Otro tiempo para el arte. Cuestiones y comentarios sobre el
+arte actual. Valencia: Sendemá.
+McLuhan, M. (2009). Comprender los medios de comunicación. Las extensiones del
+ser humano. Trad. P. Ducher. Barcelona: Paidós.
+Mitchell, W. (2000). E-topia: “Urban life, Jim - but not as we knows it”. London:
+The MIT Press.
+Ruiz Martín, J. M. (2015). Creative proccesses in the context of medialab. Conferencia
+impartida en la Universidad Central del Ecuador. Quito, Ecuador. Julio. doi:
+10.13140/RG.2.1.1912.3687
+Ruiz Martín, J. M. (2014). Aparición, impacto y efectos de la máquina automática en el
+atelier del artista. Del taller tradicional al medialab. (Tesis inédita de doctorado).
+Cuenca: Departamento de Arte, Facultad de Bellas Artes de Cuenca, UCLM.
+Ruiz Martín, J. M. (2011). El laboratorio actual de Gráfica Digital. Checking &
+testing de software y hardware de alto rendimiento con fines creativos. Cuenca:
+MIDECIANT Graph.
+Scolari, C. A. (2008). Hipermediaciones. Elementos para una teoría de la comunicación
+digital interactiva. Barcelona: Gedisa.
+Sheridan, S. L. (1983). Generative Systems versus copy art:A clarification of terms
+and ideas. Leonardo, 16 (2), pp. 103-108.
+Wardrip-Fruin, N. & Montfort, N. (2003). The New Media Reader. Massachusetts:
+The MIT Press.
+
+Entrevistas / Comunicaciones personales
+Santiago Eraso. Director de Arteleku (1987-2006). Sevilla, 17 de septiembre de 2013.
+Patricia Villanueva. Coordinadora de exposiciones de LABoral. Gijón, 20 de
+septiembre de 2013.
+David Pello. Coordinador de FabLab Asturias. Gijón, 20 de septiembre de 2013.
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+Los cuatro ejes de la cultura participativa actual | 121
+MONOGRÁFICO
+
+Jeremy Grubman. Responsable del proyecto de archivo del Center for Advanced Visual
+Studies (CAVS). Videoconferencia Toledo-Massachussets, 21 de septiembre de 2013.
+Juan Carrete. Director del Centro Cultural Conde Duque y cofundador de Medialab
+Madrid. Madrid, 23 de septiembre de 2013.
+Marcos García. Director de Medialab-Prado. Madrid, 23 de septiembre de 2013.
+Humberto Jardón. Cofundador del Centro Multimedia y coordinador del taller de
+gráfica digital desde 2000. Videoconferencia Toledo-México D. F., 4 de octubre
+de 2013.
+Sónia Alves. Colaboradora del Zentrum fur Künst und Medientechnologie Karlsruhe
+(ZKM). 5 de octubre de 2013.
+Joana Cerviá. Responsable de talleres y becas de HANGAR. Barcelona, 18 de octubre
+de 2013.
+Juan Pradas. Funcionario del Ayuntamiento de Zaragoza. Zaragoza, 19 de octubre
+de 2013.
+An Mertens. Artista y activista de Constant Variable. Bruselas, 26 de octubre de
+2013.
+Claudia Giannetti. Directora de Media Center d´Art i Disseny (MECAD) (1998-2007).
+Videoconferencia Bruselas-Berlín, 27 de octubre de 2013.
+Kepa Landa. Director de Arteleku durante 2008. Madrid, 1 de noviembre de 2013.
+Karin Ohlenschläger. Codirectora de Medialab Madrid (2002-2006). Mailing ToledoMadrid, 7 de diciembre de 2013.
+
+Notas
+[1]	 Tesis Doctoral de José Manuel Ruiz, dirigida por José Ramón Alcalá y defendida el 4 de marzo
+de 2014 en el Departamento de Arte de la Facultad de Bellas Artes de Cuenca – Universidad de
+Castilla-La Mancha, que obtuvo la calificación de Sobresaliente Cum Laude el 19 de marzo de
+2014.
+[2]	 “Las exposiciones de proyectos específicamente producidos en ZKM han disminuido considerablemente en el último periodo (…) El Instituto de Medios Visuales está en quiebra” (S. Alves,
+comunicación personal, 5 de octubre de 2013).
+[3]	 Salvo LABoral de Gijón, que aún posee reminiscencias de la cultura del consumidor o de solo
+lectura, pues le otorga un gran protagonismo a los espacios expositivos (provocado por la coyuntura de bonanza económica y su reprochable planificación en la concepción del proyecto),
+los medialabs restantes cumplen en su totalidad con el modelo cultural y/o eje que aquí se
+discute.
+
+DOI: ri14.v14i1.904 | ISSN: 1697-8293 | Año 2016 Volumen 14 Nº 1 | ICONO14
+
+122 | José Manuel Ruiz Martín y José Ramón Alcalá Mellado
+MONOGRÁFICO
+[4]	 Véase, por ejemplo, cómo gracias a la participación de científicos e ingenieros del E.A.T. en la
+obra de Robert Rauschenberg, permitió al artista norteamericano incluir la luz, el sonido o el
+movimiento en su trabajo, transformando así obras escultóricas como Oracle (1962-65) o Soundings (1968) en instalaciones con gran potencial tecnológico.
+[5]	 Para ampliar información, véase Ruiz Martín, J. M. (2014). Aparición, impacto y efectos de la
+máquina automática en el atelier del artista. Del taller tradicional al medialab. (Tesis inédita
+de doctorado). Universidad de Castilla-La Mancha, Cuenca; y Alcalá Mellado, J.R. (2014): La
+condición de la imagen digital. Estudios iconográficos para su análisis y clasificación, Icono 14,
+volumen (12), pp. 113-140. doi: 10.7195/ri14.v12i2.679.
+[6]	 La Xerox Alto, una de las primeras computadoras personales de historia y la primera que incluyó una interfaz gráfica, fue desarrollada por el equipo del Xerox PARC (Palo Alto Research
+Center) en sus instalaciones de Silicon Valley, California, en 1973.
+[7]	 Las cartas, fotografías y documentos oficiales relacionados con la fundación del Center for
+AudioVisual Studies (C.A.V.S.), muchas de ellas firmadas por Gyorgy Kepes -de gran relevancia
+histórica-, nos fueron facilitadas por Jeremy Grubman, responsable del proyecto de archivo del
+centro, tras largas peticiones y súplicas, no sin antes advertirnos de la imposibilidad de hacerlas públicas debido a las restricciones de copyright.
+[8]	 Según el último informe de State of the Commons, publicado en noviembre de 2014, las licencias Creative Commons han aumentado en ocho años (2006-2014) desde 50 millones a 882
+millones de licencias. Fuente: https://stateof.creativecommons.org/
+
+ICONO14 | Año 2016 Volumen 14 Nº 1 | ISSN: 1697-8293 | DOI: ri14.v14i1.904
+
+

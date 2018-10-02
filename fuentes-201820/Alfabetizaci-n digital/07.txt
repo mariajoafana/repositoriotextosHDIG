@@ -1,0 +1,1074 @@
+B. GROS, D. CONTRERAS
+
+LA ALFABETIZACIÓN DIGITAL Y EL DESARROLLO
+DE COMPETENCIAS CIUDADANAS
+Begoña Gros *
+David Contreras**
+
+SÍNTESIS: Es casi un lugar común describir las bondades de las
+tecnologías de la información y la comunicación para cada uno de los
+aspectos de la sociedad moderna. Es tal la fuerza y flexibilidad de la
+interactividad, los flujos de información, la virtualidad, entre tantos
+atributos de las TIC, que ya casi no se concibe el presente sin tales
+herramientas tecnológicas. En tal sentido, el ejercicio de la ciudadanía
+no podría ser la excepción. Es más, podríamos aventurar que algunos de
+los pilares básicos de la ciudadanía y la democracia, como son la
+participación y la asociación, fuertemente influidos por el uso de Internet,
+se están convirtiendo en un espacio electrónico y virtual de intercambio
+para niños y jóvenes.
+En tal escenario, el presente trabajo busca identificar las líneas de
+discusión y acción en torno a la formación ciudadana y a la importancia
+de la información y la comunicación en su fomento y desarrollo, a través
+del uso intensivo de las tecnologías afines por parte de los jóvenes.
+Como se observará en este trabajo, las raíces de la formación ciudadana
+del siglo XXI se fundamentan en un patrón de conocimiento, construcción
+y participación socio-política y económica, donde la tecnología es
+considerada una herramienta fundamental y juega un rol de privilegio
+para su real y efectiva implementación.
+SÍNTESE: É quase um lugar comum descrever as bondades das tecnologias da informação e da comunicação para cada um dos aspectos da
+sociedade moderna. É tal a força e a flexibilidade da interatividade, os
+fluxos de informação, a virtualidade, entre tantos atributos das TIC, que
+já quase não se concebe o presente sem tais ferramentas tecnológicas.
+Nesse sentido, o exercício da cidadania não poderia ser a exceção. É mais,
+poderíamos aventurar que alguns dos pilares básicos da cidadania e da
+democracia, como a participação e a associação, fortemente influencia-
+
+* Instituto de Ciencias de la Educación, Universidad de Barcelona, España.
+** Red Enlaces, Pontificia Universidad Católica de Valparaíso, Chile.
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+103
+103
+
+B. GROS, D. CONTRERAS
+
+dos pelo uso da internet, estão se tornando um espaço eletrônico e virtual
+de intercâmbio para crianças e jovens.
+Em tal cenário, o presente trabalho busca identificar as linhas de
+discussão e ação em torno da formação cidadã e da importância da
+informação e da comunicação em seu fomento e desenvolvimento, através
+do uso intensivo das tecnologias afins por parte dos jovens.
+Como se observará neste trabalho, as raízes da formação cidadã do século
+XXI fundamentam-se num padrão de conhecimento, construção e participação sociopolítica e econômica, em que a tecnologia é considerada
+uma ferramenta fundamental e tem um papel de privilégio para sua real
+e efetiva implementação
+
+1. EL CONCEPTO DE FORMACIÓN CIUDADANA
+Desde los inicios del siglo XIX, las sociedades liberales fueron
+incorporando gradualmente la educación cívica como un soporte fundamental para el desarrollo democrático de las naciones. En sus inicios,
+este tipo de formación estaba dirigida a la elite política de los sectores
+acomodados y medios con injerencia en el desempeño y administración
+del Estado. Tal lógica sólo requería conocer el funcionamiento jurídico e
+institucional de la Nación. No obstante, la masificación gradual de la
+educación, la participación formal de los sectores medios y bajos en
+la economía y, sobre todo, el rol más activo de la población hicieron
+necesario el replanteamiento del concepto de educación cívica. En tal
+sentido, la formación ciudadana debió incorporar no sólo los conocimientos institucionales y formales del Estado sino también los deberes y
+derechos de los ciudadanos con participación política, social y económica en un entorno urbano (Hobsbawm, 1998).
+El concepto de ciudadanía ha ido cambiando y en los últimos
+años adquirió una mirada diversa y variada, tanto en el mundo anglosajón
+como en el latino. Tales visiones responden a la necesidad de reconocer
+la diversidad de derechos y deberes ciudadanos que el mundo contemporáneo solicita. En tal marco, se ha ido sustituyendo el concepto de
+educación cívica por el de competencias ciudadanas. En este sentido, se
+reconoce como individuo cívicamente competente a aquel capaz de conocer, hacer y tener una actitud en un contexto determinado de actuación
+en los planos políticos, sociales y económicos (Selwyn, 2004).
+Según el proyecto de la OCDE denominado Definición y Selección de Competencias (DeSeCo), se define competencia como la capaci-
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+104
+104
+
+B. GROS, D. CONTRERAS
+
+dad de responder a demandas complejas y llevar a cabo tareas diversas
+de forma adecuada. Lo anterior supone la integración de las habilidades,
+prácticas, conocimientos, motivaciones, valores éticos, actitudes, emociones y otros componentes sociales y de comportamiento que se
+movilizan conjuntamente para lograr una acción eficaz (MEC, 2005).
+En tal definición, la OCDE y el Gobierno español (MEC, 2005)
+reconocen la formación ciudadana como una competencia clave a ser
+desarrollada en la educación durante los próximos años. Habrán de
+considerarse los siguientes aspectos:
+• Conocimiento y comprensión de la realidad social del mundo en que se vive y ejerce la ciudadanía democrática, a través
+de la incorporación de formas de comportamiento individual que capaciten a las personas para convivir en una
+sociedad cada vez más plural, relacionándose con los demás, cooperando, comprometiéndose y afrontando conflictos.
+• Habilidades para la plena participación del ciudadano contemporáneo en aspectos fundamentales de la vida cívica,
+como la participación política, social y económica.
+• Valoración de pluralidad, diversidad y participación del
+«otro» como elementos claves para la convivencia democrática en la vida moderna.
+Algunas investigaciones han identificado los diversos modos en
+que la formación ciudadana se ha ido desarrollando en sistemas escolares del mundo occidental. Las propuestas van desde un simple conocimiento de los patrones históricos e institucionales de la sociedad hasta
+un grado creciente de integración e implicación de los aprendices en las
+acciones democráticas que la propuesta de formación ciudadana realice
+(Horejsi y Ray, 2006). Como afirma Selwyn, (2004), se pueden establecer tres enfoques en relación con la educación para la ciudadanía:
+• La educación sobre la ciudadanía. Pretende que los estudiantes tengan el conocimiento suficiente y comprensivo de
+la historia nacional, las estructuras y procesos del gobierno
+y la vida política. Esta mirada se acerca a los modos clásicos
+de educación cívica, donde los alumnos se involucran de
+manera vaga y tímida con sus compromisos ciudadanos.
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+105
+105
+
+B. GROS, D. CONTRERAS
+
+•
+
+La educación a través de la ciudadanía. Sugiere que los
+estudiantes aprendan en forma activa, experimenten en la
+comunidad escolar, local y global y, particularmente, participen de una comunidad democrática.
+
+• La educación para la ciudadanía. Incluye los enfoques
+precedentes al proponer que en los estudiantes se desarrolle
+un conjunto de herramientas (conocimiento-comprensión,
+habilidades y aptitudes, valores y disposiciones) que garantice su participación activa y sensible en roles y responsabilidades que asuman a futuro.
+Estos tres planteamientos suponen diferentes enfoques pedagógicos y, como veremos posteriormente, en todos ellos las TIC juegan un
+rol central para la formación.
+
+2. ALFABETIZACIÓN DIGITAL Y CIUDADANÍA
+Resulta obvio que la capacidad de penetración de las TIC
+alcanza a la mayor parte de la actividad humana planteando nuevas
+necesidades educativas. En consecuencia, cambios sociales de importancia sobresalen en el actual proceso de globalización que no necesariamente va acompañado de la consiguiente globalización de los derechos
+básicos de los trabajadores y trabajadoras ni garantiza su libre circulación
+por otros países. Así, el mercado financiero evoluciona a un ritmo mayor
+que la gradual internacionalización del mercado de trabajo. La facilidad
+que ofrece la Red para la realización de transacciones de capital
+contrasta con la dificultad creciente de los ciudadanos y las ciudadanas
+de países pobres para transitar por otros países del mundo. Sólo los
+sectores más cualificados tienen esa libertad de movimiento, beneficiándose con el acceso a oportunidades económicas y laborales cada vez más
+favorables (García Carrasco y otros, 2002).
+En este sentido, la incorporación de las TIC ha acrecentado las
+diferencias ya existentes entre países y grupos sociales. Actualmente se
+habla de la división o brecha digital. Esta expresión muestra cómo se va
+estableciendo una separación entre países y personas que carecen de los
+conocimientos y de las tecnologías que requeridas para el desarrollo de
+una sociedad de la información. Por un lado, la nueva economía organiza
+la distribución de recursos priorizando las ocupaciones con alto contenido informacional y, por otro, posibilita el incremento de la precarización
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+106
+106
+
+B. GROS, D. CONTRERAS
+
+laboral y el paro. Aun así, frente a este proceso de fragmentación de
+sociedades en función del dominio de las nuevas competencias
+informacionales, los cambios derivados poseen también un efecto positivo. Se trata de las posibilidades de superación de estas situaciones de
+desigualdad a través del uso extensivo de la Red.
+El término «división digital» es utilizado y definido como
+resultado del diferente acceso al uso y disponibilidad de la infraestructura de comunicación, el desarrollo tecnológico y las aplicaciones y
+servicios. Sin embargo, algunos estudios (García Carrasco y otros, 2002)
+muestran como el análisis de estas diferencias entre países no puede
+estar basado únicamente en criterios económicos, siendo que también
+existen otras «brechas» de tipo social, cultural y generacional. En
+definitiva, «una vez que toda la información está en la red, una vez que
+el conocimiento está en la red, el conocimiento codificado, pero no el
+conocimiento que se necesita para lo que se quiere hacer, de lo que se
+trata es de saber dónde está la información, cómo buscarla, cómo
+procesarla, cómo transformarla en conocimiento específico para lo que
+se quiere hacer. Esa capacidad de aprender a aprender, esa capacidad
+de saber qué hacer con lo que se aprende, esa capacidad es socialmente
+desigual y está ligada al origen social, al origen familiar, al nivel cultural
+y al nivel educativo» (Castells, 2001).
+La formación de las nuevas generaciones no puede quedar al
+margen de la sociedad digital y, como ya comentamos, no se trata sólo de
+proporcionar acceso a las TIC sino de formar para una utilización
+adecuada. La sociedad digital ha creado nuevas formas de alfabetización
+que no podemos de dejar de lado si pensamos que la formación
+ciudadana también implica ser competente en el mundo digital. El
+acceso a la información globalizada, los sistemas de participación en la
+red, la comunicación a través de los medios electrónicos, son elementos
+de importancia para el desarrollo de competencias ciudadanas.
+Diversos autores (Cassany, 2002; Gutiérrez, 2003; Majo y
+Marqués, 2001; Millán, 2000; Rodríguez, 2004) han puesto de relieve
+que cualquier proceso de entendimiento y construcción de la sociedad
+de la información debe hacerse sobre una activa participación social de
+la población, la cual se desarrolla en el actual escenario mundial, con el
+uso intensivo de las herramientas informáticas. Sin embargo, para un
+desarrollo socialmente integrado, tales usos requieren un proceso de
+alfabetización digital.
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+107
+107
+
+B. GROS, D. CONTRERAS
+
+La alfabetización digital, desde su misma definición y contenidos, es materia de discusión. Inicialmente, el concepto de alfabetización
+lectora fue entendido como la simple capacidad de leer y escribir. Tal
+concepción fue ampliada con posterioridad para la UNESCO, (1986) a
+través del concepto de alfabetización funcional, describiendo que:
+Una persona se considera alfabetizada cuando en su vida
+cotidiana puede leer y escribir, comprendiéndola, una oración
+corta y sencilla [...]. La alfabetización funcional se refiere a aquella
+cuando una persona puede realizar todas las actividades necesarias para el funcionamiento eficaz de su grupo y comunidad, y que
+además les permite continuar usando la lectura, la escritura y el
+cálculo para su propio desarrollo y el de su comunidad (Contreras,
+2000).
+
+Este tipo de alfabetización funcional ha sido incluso examinado
+y evaluado en varios países a través de la OCDE, organismo que ha
+demostrado cómo este nivel «secundario» de alfabetización presenta
+serias deficiencias y desequilibrios internacionales, constituyéndose en
+un serio problema para la adquisición de competencias superiores y, lo
+que es más grave, problemas sociolaborales de enormes proyecciones.
+El término alfabetización digital presenta una gran diversidad
+de definiciones entre las cuales una informal pero muy clara afirma:
+Alfabetización informática significa tomar el control de tu
+ordenador y no dejar que éste te controle a ti. Eres usuario
+competente cuando sientes que puedes decirle al ordenador lo que
+tiene que hacer y no al revés. No es necesariamente saber qué botón
+presionar, pero sí conocer la diferencia entre un procesador de
+textos y un editor de textos, entre una hoja de cálculo y un programa
+de bases de datos, o entre un disco duro local y un servidor de
+archivos en red [...]. Resumiendo, alfabetización informática es
+saber lo que un ordenador puede y no puede hacer (Morgan, 1998).
+
+Este tipo de definición corresponde a un concepto similar al de
+la alfabetización lectora inicial. Es decir, el uso funcional de los equipos
+y programas a través de técnicas laborales y cognitivas para tratamiento
+de la información (Marqués, 2001). Más recientemente, otros autores
+nos señalan que el término es mucho más amplio y se refiere a la
+capacidad para identificar y evaluar la información utilizando cualquier
+herramienta que se considere apropiada –como las proporcionadas por
+las TIC– y aprender a «leer» la información dentro de este contexto
+sociocultural. En este sentido se expresa Gilter (1997) cuando considera
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+108
+108
+
+B. GROS, D. CONTRERAS
+
+a la alfabetización digital como el conjunto de habilidades sociocognitivas
+mediante las cuales se puede seleccionar, procesar, analizar e informar
+del proceso de transformación de información a conocimiento.
+En nuestro caso, entenderemos la alfabetización digital en un
+sentido amplio, considerando las siguientes características:
+• Capacidad para realizar juicios de valor informados acerca
+de la información que se obtenga en línea, que se iguala al
+«arte del pensamiento crítico», la llave para «hacer valoraciones equilibradas que distingan entre el contenido y su
+presentación».
+• Destrezas de lectura y comprensión en un entorno de
+hipertexto dinámico y no secuencial.
+• Destrezas de construcción del conocimiento; construir un
+«conjunto de información fiable» proveniente de diversas
+fuentes, con la «capacidad de recoger y evaluar tanto el
+hecho como la opinión, de ser posible sin sesgo».
+• Habilidades de búsqueda, esencialmente basadas en motores de búsqueda en Internet.
+• Gestión del «flujo de multimedia», utilizando filtros y agentes; creación de una «estrategia personal de información»,
+con selección de fuentes y mecanismos de distribución.
+• Concienciación acerca de la existencia de otras personas y
+una disponibilidad facilitada –a través de las redes– para
+contactar con ellas y debatir temas o pedir ayuda.
+• Capacidad para comprender un problema y seguir un conjunto de pasos para resolver esa necesidad de información.
+• Valoración de las herramientas del sistema como apoyo a los
+formatos tradicionales del contenido.
+• Precaución al juzgar la validez y exhaustividad del material
+accesible a través de los enlaces de hipertexto.
+Indudablemente, la evolución que ha tenido el concepto de
+alfabetización digital está relacionada con las demandas de la sociedad
+informacional. Al mismo tiempo, si revisamos detenidamente las com-
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+109
+109
+
+B. GROS, D. CONTRERAS
+
+petencias propias de la alfabetización digital y las comparamos con los
+procedimientos que aparecen en la mayoría de los currículos occidentales veremos que hay muchas similitudes. Podríamos decir, incluso, que
+estamos frente a un conjunto convergente de los procesos de tratamiento
+y transformación de la información, a través del desarrollo de las
+habilidades sociocognitivas que presentan los procedimientos escolares
+y, lo que es más importante, con profundas aplicaciones a la práctica
+educativa. En una dirección más amplia podemos observar una
+explicitación clara entre las demandas de la sociedad de la información,
+la alfabetización digital y el triángulo interactivo didáctico que plantea
+Coll y Martí (2001).
+Las coincidencias que planteamos las resumiremos en un
+cuadro comparativo entre las características de la alfabetización digital
+y los ejes procedimentales desarrollados por Pozo y Postigo (tabla 1).
+Como podemos observar, las demandas que plantea Gilter en
+relación a la alfabetización digital tienen un correlato con las estrategias
+procedimentales que plantean Pozo y Postigo, lo que nos permite
+reconceptualizar los procedimientos en una dinámica de utilidad, al
+menos en dos sentidos. Por un lado, identificar los instrumentos
+informáticos para el desarrollo de los procedimientos en un sector
+curricular determinado; por otro, el diseño de estrategias cognitivas a
+través del manejo eficiente de los contenidos escolares, habilidades que
+demanda la alfabetización digital.
+
+3. APRENDIZAJE EXPERIENCIAL Y PARTICIPATIVO
+Cuando hablamos de la integración de las tecnologías en la
+educación, éstas suelen ser presentadas desde la mirada del cambio y de
+la innovación. Sin embargo, las TIC pueden usarse de una forma completamente tradicional sin cambiar ni alterar metodologías y concepciones
+educativas. A menudo, las TIC se conciben como simples herramientas
+para transmitir información o acceder a ella. Bajo esta óptica, el proceso
+de aprendizaje se sigue concibiendo como un proceso de adquisición de
+conocimiento y el aprendiz es como una «tabula rasa», un contenedor que
+hay que llenar. La metáfora del contenedor considera al aprendizaje
+como un proceso de adquisición. El conocimiento es concebido como una
+propiedad y una posesión de la mente individual (Bereiter, 2002).
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+110
+110
+
+B. GROS, D. CONTRERAS
+
+TABLA 1
+Cuadro comparativo entre alfabetización digital
+y ejes procedimentales para la instrucción estratégica
+Ejes procedimentales
+(Pozo y Postigo, 2 0 0 0 )
+
+Alfabetización digital
+(Gilter, 1 9 9 7 )
+
+Tipo procedimiento
+a) Habi l i dades de búsqueda, basadas en
+mot ores de búsqueda en I nt ernet .
+b) Capaci dad para real i zar val oraci ones
+equi l i bradas sobre l a i nf ormaci ón
+obt eni da en l ínea.
+c) Di st i nci ón ent re cont eni do y
+present aci ón, i gual ada al art e del
+pensami ent o crít i co.
+d) Gest i ón del f l uj o de mul t i medi a,
+ut i l i zando f i l t ros y agent es.
+e) Creaci ón de una est rat egi a personal
+de obt enci ón de i nf ormaci ón, con
+sel ecci ón de f uent es y mecani smos de
+di st ri buci ón.
+f ) Dest rezas para l a const rucci ón de un
+conoci mi ent o f i abl e proveni ent e de
+di versas f uent es.
+g) Capaci dad para el egi r y eval uar t ant o
+el hecho como l a opi ni ón, de ser posi bl e
+si n sesgo.
+h) Toma de conci enci a de l a exi st enci a
+del «ot ro» y de l a di sponi bi l i dad
+f aci l i t ada por l a red para cont act ar con
+él , debat i r t emas o pedi r ayuda.
+i ) Precauci ón al j uzgar l a val i dez y
+exhaust i vi dad del mat eri al accesi bl e a
+t ravés de l os enl aces de hi pert ext o.
+j ) Capaci dad para comprender un
+probl ema y segui r un conj unt o de pasos
+para resol ver esa necesi dad de
+i nf ormaci ón.
+k) Dest rezas de l ect ura y comprensi ón en
+un ent orno de hi pert ext o di námi co y no
+secuenci al .
+l ) Val oraci ón de l as herrami ent as del
+si st ema como apoyo a l os f ormat os
+t radi ci onal es del cont eni do.
+
+Descripción
+
+Adqui si ci ón
+
+Observaci ón.
+Búsqueda de
+i nf ormaci ón.
+Sel ecci ón de
+i nf ormaci ón.
+Repaso y ret enci ón.
+
+I nt erpret aci ón
+
+Decodi f i caci ón o
+t raducci ón de l a
+i nf ormaci ón.
+Apl i caci ón de l os
+model os para l a
+i nt erpret aci ón de
+si t uaci ones.
+Uso de anal ogías y
+met áf oras.
+
+Anál i si s y
+razonami ent o
+
+Anál i si s y comparaci ón
+de model os.
+Razonami ent o y
+real i zaci ón de
+i nf erenci as.
+I nvest i gaci ón y
+sol uci ón de probl emas.
+
+Comprensi ón y
+organi zaci ón
+
+Comprensi ón del
+di scurso oral y escri t o.
+Est abl eci mi ent o de
+rel aci ones
+concept ual es.
+Organi zaci ón
+concept ual .
+
+Comuni caci ón
+
+Expresi ón oral .
+Expresi ón escri t a.
+Ot ros recursos
+expresi vos.
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+111
+111
+
+B. GROS, D. CONTRERAS
+
+La utilización de las TIC para el desarrollo de competencias
+ciudadanas no puede quedar relegada a un simple nivel informativo
+(Educación sobre la ciudadanía). Pensamos que el desarrollo de procedimientos, tal y como se ha apuntado previamente, es un punto de partida
+importante. Se trata de crear situaciones que permitan la participación
+de los estudiantes y un nivel de implicación en el que el uso de las TIC
+juegue un papel importante. En definitiva, se trata de crear entornos de
+aprendizaje (Jonassen, 2000) que permitan presentar al estudiante una
+serie de variadas experiencias y escenarios que le faciliten su propia
+construcción del conocimiento (Educar a través de y para la ciudadanía).
+Consideramos que el enfoque educativo apropiado para una
+utilización de las TIC en el desarrollo de competencias ciudadanas debe
+fundamentarse en una concepción participativa del aprendizaje. De
+acuerdo a este enfoque, el aprendizaje es un proceso interactivo de participación en las prácticas culturales y en las actividades compartidas por
+las comunidades sociales (Wenger, 2001). En el proceso de participación, la cognición humana se transforma significativamente a través de
+la asimilación cultural para expandirse como recurso intelectual. El
+aprendizaje se percibe como un proceso de incorporación creciente,
+como miembro de una comunidad, de las formas de comunicarse y actuar
+en concordancia con sus normas culturales. El aprendizaje es una
+cuestión de participación en el proceso social de construcción del
+conocimiento denominado «enculturación» (Brown y otros, 1989) o
+participación periférica legítima (Wenger, 2001).
+Muchas de las prácticas derivadas de estos nuevos planteamientos recuperan algunas posturas ya desarrolladas por la pedagogía y,
+de forma muy especial, los planteamientos educativos sostenidos por
+Dewey (1995, p. 22) a principios del siglo XX. Recuérdese que para este
+pedagogo, «toda auténtica educación se efectúa mediante la experiencia» y una situación educativa es el resultado de la interacción entre las
+condiciones objetivas del medio social y las características internas del
+que aprende, con énfasis en una educación que desarrolle las capacidades reflexivas y el pensamiento, el deseo de seguir aprendiendo y los
+ideales democráticos y humanitarios. Para Dewey (1995, p. 96), «la
+unidad fundamental de la nueva pedagogía se encuentra en la idea de
+que existe una íntima y necesaria relación entre el proceso de la
+experiencia real y la educación».
+Bajo esta óptica, aprender y hacer son acciones inseparables.
+En consecuencia, un principio básico de este enfoque plantea que los
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+112
+112
+
+B. GROS, D. CONTRERAS
+
+estudiantes deben aprender en el contexto pertinente. El diseño de los
+contextos de aprendizaje se convierte en una de las tareas básicas para
+el profesor, por lo que el rol de éste cambia de forma muy notable.
+Según Scardamalia (2002), la noción de los estudiantes como
+participantes en una empresa colectiva junto con los enseñantes y quizás
+otras personas existe por lo menos desde Dewey, pero durante la última
+década ha ido adoptando una forma más definida en diversos programas
+experimentales.
+Se trata de abogar por una enseñanza centrada en prácticas
+educativas auténticas, las cuales requieren ser coherentes, significativas
+y propositivas; en otras palabras: «simplemente definidas como las
+prácticas ordinarias de la cultura» (Brown, 1989, p. 34). La autenticidad de una práctica educativa puede determinarse por el grado de
+relevancia cultural de las actividades en que participa el estudiante, así
+como mediante el tipo y nivel de actividad social que éstas promueven.
+La tecnología puede contribuir de una forma importante a la
+descentralización de las formas de aprendizaje y a la construcción del
+conocimiento. «Las redes informáticas proporcionan la posibilidad de
+formar redes de discursos descentralizadas» (Bereiter, 2002, p. 5).
+
+4. EL PAPEL DE LAS TIC EN LA FORMACIÓN CIUDADANA
+Siguiendo a Horejsi y Ray (2006) se proponen tres grandes
+formas de abordar la ciudadanía en la educación. Para cada enfoque
+podemos utilizar las TIC como medio de búsqueda, expresión, comunicación y participación.
+
+4.1 CONOCIMIENTO Y COMPRENSIÓN SOBRE CÓMO CONVERTIRSE
+EN CIUDADANOS INFORMADOS
+La primera competencia significativa es ser ciudadanos informados y estar en capacidad de desempeñar un papel activo en la
+sociedad democrática, por lo tanto, es fundamental tener acceso a la
+información. Los ciudadanos informados están mejor preparados para
+comunicar sus ideas, participar en elecciones, aprovechar oportunidades, obtener servicios, velar por sus derechos, negociar eficazmente y
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+113
+113
+
+B. GROS, D. CONTRERAS
+
+controlar tanto las acciones del Estado, como las de los demás actores de
+la sociedad. Todos estos factores son clave para el buen funcionamiento
+de la democracia participativa y activa.
+Las nuevas tecnologías y particularmente Internet posibilitan el
+fácil y prácticamente ilimitado acceso a toda clase de información. En
+este sentido, la variedad de fuente de información es cuantiosa. A modo
+de ejemplo, existen sitios web informativos gubernamentales, no gubernamentales, diarios electrónicos, blogs, etc. Asimismo, se puede acceder
+a estadísticas y estudios sobre temas políticos, medioambientales,
+económicos, migratorios, etcétera.
+En razón de lo anterior, la escuela debe ser el espacio natural
+para aprender a acceder a la información, contrastarla y sobre todo
+construir conocimiento y opinión ciudadana a partir del análisis de los
+datos e informaciones obtenidas.
+
+4.2 DESARROLLO DE LAS HABILIDADES DE INDAGACIÓN Y COMUNICACIÓN
+El desarrollo de las habilidades de indagación implica fortalecer la observación, la sistematización de datos, el planteamiento de
+hipótesis, la reflexión y la acción. Busca que los aprendices fortalezcan
+la capacidad de pensamiento crítico; desarrollen la habilidad para
+resolver problemas, y reflexionen sobre la veracidad, validez y pertinencia
+de la información. Estas habilidades favorecen aspectos claves en la
+formación ciudadana ya que permiten a los alumnos aprender a través de
+la práctica y el descubrimiento de los fenómenos sociales y políticos que
+se presentan cada vez con mayor complejidad, ya sea por sus orígenes o
+por sus relaciones.
+Pero la habilidad de indagación se completa y desarrolla en la
+posibilidad de comunicarse en las diversas formas multimediales que hoy
+las tecnologías facilitan, enfocándose en audiencias y mensajes específicos, se facilita con herramientas como el procesador de texto, los diarios
+virtuales (weblogs) y los periódicos escolares. El correo electrónico, las
+salas de conversación (chat rooms), los mensajes de texto y los debates
+en línea (listas de correo y grupos de discusión o foros) permiten, por una
+parte, que los estudiantes se familiaricen con las reglas (implícitas y
+formales) del debate democrático y, por la otra, que ensayen y discutan
+ideas por fuera de su círculo escolar inmediato. Las discusiones en línea
+hacen posible la exposición de información e ideas; la construcción de
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+114
+114
+
+B. GROS, D. CONTRERAS
+
+argumentos más sólidos y complejos y la elección de la forma para
+comunicarse y del método más eficiente para llegar a una audiencia
+objetivo.
+Existe una gran variedad de proyectos escolares que plantea el
+uso de la Red como sistema de trabajo común y cooperativo. Por ejemplo,
+la comunidad europea ha apoyado el proyecto Eurokid1 que propone una
+serie de actividades y discusiones dirigidas a los niños y jóvenes sobre la
+interculturalidad y el racismo. Otro proyecto con mucha extensión y un
+interesante impacto es «Atlas de la diversidad2», financiado también por
+la Comunidad Europea y que tiene por objetivo confeccionar retratos de
+la diversidad cultural de los países latinos. Éstos se construyen conjuntamente a partir de las vivencias y las descripciones personales de los
+estudiantes, que caracterizan su experiencia acerca del entorno más
+próximo. En general, la mayoría de los proyectos telemáticos pueden ser
+utilizados para desarrollar las habilidades de indagación y comunicación. La red IEARN3 es pionera en este trabajo ya que desde 1988 fomenta
+la realización de proyectos telemáticos cooperativos entre centros escolares de todo el mundo. Entre sus objetivos, debe destacarse el fomento
+de las relaciones de amistad entre profesorado y alumnado de diferentes
+comunidades, basadas en el mutuo conocimiento y el respeto.
+
+4.3 DESARROLLO DE LAS HABILIDADES DE PARTICIPACIÓN Y ACCIÓN
+RESPONSABLE
+El concepto de ciudadanía contemporánea responde a la
+responsabilidad social en acción, la cual se ejerce mediante la participación efectiva en todos los ámbitos de la sociedad local, nacional e
+internacional. Las nociones de participación, acción y debate están
+cambiando radicalmente debido, sobre todo, al carácter electrónico y
+virtual que han adquirido a través de los recursos que ofrecen las
+tecnologías de la información y la comunicación.
+El uso de juegos de simulación y otros materiales interactivos
+posibilita que los estudiantes hagan preguntas y pongan a prueba las
+consecuencias de sus decisiones. Simular formas de tomar parte de
+
+1
+
+www.eurokid.org
+
+2
+
+www.atlasdeladiversidad.net
+
+3
+
+www.iearn.org
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+115
+115
+
+B. GROS, D. CONTRERAS
+
+situaciones que representen anticipadamente la participación ciudadana adulta, tales como el gobierno escolar, la representación estudiantil,
+la discusión de los problemas de la escuela o del país, convierten la
+escuela en un lugar de educación para la democracia. Por ejemplo, el
+grupo del MIT ha construido un proyecto muy novedoso denominado «The
+city that we want» con un grupo de investigación en portugués. El
+programa permite trabajar en la escuela con los niños modelos de ciudad,
+analizar aspectos cotidianos de la vida ciudadana, simular cambios y
+modificaciones ambientales, etcétera.
+El uso de algunos juegos comerciales como Los Sims permite
+también analizar situaciones sociales a través de la crítica y la discusión
+a partir de las situaciones proporcionadas por el juego (Gros, 2003).
+
+5. PROPUESTA DE DESARROLLO DE COMPETENCIAS CIUDADANAS
+CON EL USO DE LAS TIC
+Siguiendo el marco conceptual descrito, se presentarán en
+forma sintética las bases de trabajo sobre formación ciudadana desarrolladas por la Pontificia Universidad Católica de Valparaíso, Chile, la cual
+se enmarca en la línea de los proyectos de innovación de la Red Enlaces
+del Ministerio de Educación.
+Desde la llegada de la democracia en 1990, en Chile, se intuía
+la carencia de una formación ciudadana sistemática en la población
+escolar, situación que se pudo constatar en los años 1999 y 2000 con
+el estudio de la IEA (Mineduc, 2001), donde se evidenciaron las dificultades de conocimiento, procedimientos de tratamiento y de información
+cívica y económica, así como diferencias de habilidades cívicas entre
+mujeres y hombres. Lo anterior vino a gatillar una serie de acciones que
+permitieran revertir la situación antes descrita y generar una motivación
+juvenil en la participación social ya casi perdida. Es así como, desde una
+conceptualización actualizada de formación ciudadana y de alfabetización digital, se dispuso generar una propuesta experimental con alumnos
+de primero medio (14 años) y cuarto medio (18 años) de ocho establecimientos educacionales de la región de Valparaíso que les permitiera
+desarrollar competencias ciudadanas usando en forma intensiva las
+tecnologías.
+Para desarrollar lo anterior, en primer lugar se efectuó la tarea
+de establecer la correlación existente entre las competencias ciudadanas
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+116
+116
+
+B. GROS, D. CONTRERAS
+
+1 .º MEDI O = 3 .º de ESO
+NÚCLEOS
+DE FORMACI ÓN
+CI UDADANA
+
+COMPETENCI A
+
+CONTENI DOS
+CURRI CULARES
+ESPECÍ FI CO
+
+Regímenes pol ít i cos
+
+Organi zaci ón del Est ado
+
+Fuent es para convert i rse en ci udadanos
+i nf ormados
+
+Organi zaci ón pol ít i ca
+
+Organi zaci ón del Est ado
+(servi ci os públ i cos)
+
+Desarrol l o de habi l i dades para i ndagaci ón
+
+Economía pol ít i ca
+
+Funci onami ent o de l os
+si st emas económi cos
+La coordi naci ón económi ca
+
+Part i ci paci ón
+ci udadana
+
+Part i ci paci ón pol ít i ca
+
+Derechos humanos
+
+Trat ados i nt ernaci onal es
+y derechos i ndi vi dual es
+
+Desarrol l o de habi l i dades para l a part i ci paci ón
+
+4 .º MEDI O = 2 .º de Bachillerato
+CONTENI DO
+DE FORMACI ÓN
+CI UDADANA
+
+COMPETENCI A
+
+Organi zaci ón pol ít i co
+económi ca
+
+Fuent es para convert i rse en ci udadanos
+i nf ormados
+
+Desarrol l o de habi l i dades para i ndagaci ón
+
+CONTENI DOS ESPECÍ FI COS
+DE PLANES Y PROGRAMAS
+Rel aci ones de i nf l uenci a,
+cooperaci ón y conf l i ct o
+
+Economía pol ít i ca
+
+La gl obal i zaci ón económi ca
+
+Educaci ón medi o
+ambi ent al
+
+Rel aci ones económi cas
+i nt ernaci onal es de Chi l e
+
+Democraci a
+
+La soci edad cont emporánea
+
+Derechos humanos
+
+I dent i f i caci ón de l os ef ect os
+de est os procesos hi st óri cos
+
+I dent i dad naci onal
+
+Revol uci ón t ecnol ógi ca
+
+Desarrol l o de habi l i dades para l a part i ci paci ón
+
+y los contenidos curriculares del sector de Historia y Ciencias sociales.
+Esta tarea permitió la explicitación de tales competencias ciudadanas
+como paso previo a la inserción del uso de la tecnología informática.
+Como se puede apreciar claramente si tomamos las competencias ciudadanas propuestas por Horejsi y Ray (2006), para el caso
+chileno se pueden conectar y contextualizar a los contenidos de la
+especialidad y niveles indicados. En este sentido, los contenidos Regímenes políticos y Organización política que tienen relación con aprendizajes
+de tipo conceptual y/o declarativo, se relacionan directamente con las
+competencias de búsqueda de información. En cuanto a las competencias de indagación están relacionadas con los contenidos de Economía
+política, ya que ellos se prestan de mejor forma para la investigación y
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+117
+117
+
+B. GROS, D. CONTRERAS
+
+análisis de datos y su relación con una situación particular. Finalmente,
+los contenidos de discusión sobre los procesos históricos recientes, como
+la globalización y la revolución tecnológica permiten activar en forma
+significativa las habilidades de participación.
+Como segundo punto de la propuesta, se tomaron las líneas
+establecidas por Horejsi y Ray (2006) y Eduteka (2006) para definir las
+herramientas tecnológicas y los procedimientos correspondientes a cada
+competencia ciudadana que se busca desarrollar en los estudiantes.
+
+5.1 FUENTES PARA CONVERTIRSE EN CIUDADANOS INFORMADOS
+Se pretende que el alumno logre adquirir las habilidades y
+procedimientos necesarios para informarse y con ello desarrollar un rol
+activo dentro de los sistemas democráticos. La importancia de esta
+competencia ciudadana radica en que dentro de la enseñanza tradicional, al alumno se le trasmite un conjunto de conocimientos e información
+que con el transcurso del tiempo se vuelven obsoletos en la mayoría de
+los casos. Por ello, es vital que el alumno desarrolle una serie de habilidades que permitan el acceso a la información disponible en Internet,
+con actualización dinámica y permanentemente. (Monereo, 2005).
+En consecuencia, presentamos aquellas herramientas
+informáticas que están en relación con las propuestas de competencia
+que ya hemos mencionado.
+
+5.1.1 Internet como herramienta y procedimientos asociables
+para optimizar su uso
+Si hay definida una herramienta por excelencia para el desarrollo de esta primera competencia, ella es Internet. Sin embargo, aunque
+se trata de la herramienta más poderosa en función del inestimable
+cúmulo de información disponible, lo facilitado y democrático de su
+acceso en la actualidad, la variedad de formas en que es presentada esta
+información y su permanente actualización; conlleva asimismo una serie
+de problemáticas asociadas a su utilización.
+La falta de confiabilidad de las fuentes de la información
+almacenada así como la obtención de datos carentes de fundamentación
+y rigor condicionan la elección de la informática como soporte técnico de
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+118
+118
+
+B. GROS, D. CONTRERAS
+
+los trabajos de investigación que pretenden autenticidad y credibilidad.
+Por otra parte, el alto volumen de páginas de información general
+disponibles dificulta la manipulación de datos y genera desorientación
+en los alumnos que no saben qué hacer con tanta información.
+Todos estos problemas a los que se ve enfrentado el usuario
+común cuando está en búsqueda de información, plantean la necesidad
+de desarrollar una serie de procedimientos, respaldados por algunas
+herramientas específicas, que pueden ayudar a llevar a buen puerto la
+búsqueda de información dentro de la Red y con ello marcar el desarrollo
+de esta primera competencia para convertirse en ciudadanos informados. En este sentido Monereo (2005) señala que la búsqueda debe
+considerar una serie de etapas que involucran la toma de decisiones
+sobre ¿qué busco? y ¿para qué lo busco?, ¿dónde y cómo lo busco?, ¿qué
+he encontrado?, etc. En otras palabras, necesita de una estrategia. Deben
+incluirse, además, una serie de filtros para evitar la adquisición de
+información falsa. Las herramientas posibles de utilizar son variadas
+(desde motores de búsqueda, palabras clave, directorios, metabuscadores,
+etc.) pero en todos los caso deben considerarse que el fin último es
+convertir a los alumnos en buscadores reflexivos. La red puede ser
+domesticada siempre y cuando la información sea sistemática, regulada
+y seleccionada.
+
+5.1.2 Bancos de información
+Se trata de modos de almacenaje de la información para que
+pueda ser seleccionada por el alumno. Algunos están ligados al espacio,
+como documentos de texto, gráficos, sonidos, imágenes y animaciones.
+
+5.1.3 Web
+Es el medio de almacenaje por excelencia. Es conveniente
+evaluar si el acceso debe ser inmediato y total. Se recomienda que éste
+sea dirigido y organizado de acuerdo a las actividades.
+
+5.1.4 Herramientas de elaboración del conocimiento
+Serie de pautas diseñadas para ordenar datos cognitivos que
+ayudan a desarrollar objetivos propuestos. Entre ellos, la creación de
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+119
+119
+
+B. GROS, D. CONTRERAS
+
+mapas mentales para expresar e intercambiar conceptos y concepciones
+sobre determinadas temáticas.
+
+5.1.5 Paquetes integrados
+Se denomina así al conjunto de programas integrados comprendidos en este proyecto. El alumno podrá servirse de ellos como soporte
+físico durante el desarrollo de las actividades organizadas en módulos a
+través del web quests. Los paquetes están conformados por programas
+básicos incluidos por defecto en Office: el editor de texto Word; el
+programa para manejo de planillas electrónicas Excel; el presentador de
+diapositivas Power Point y finalmente el versátil Publisher, utilizado en
+la elaboración de distintas publicaciones –diarios, revistas, carteles,
+páginas webs, etc.– y como editor de imágenes.
+
+5 .2
+
+HABILIDADES DE INDAGACIÓN Y COMUNICACIÓN
+
+Estas habilidades permiten que los alumnos desarrollen un
+conocimiento estructurado, complejo, flexible y transferible de los
+conceptos, estrategias y procedimientos propios de las áreas curriculares.
+A continuación, pasaremos a ver las herramientas propuestas y
+la forma en que se asocian a ciertos procedimientos y actividades
+concretas dentro del proyecto.
+
+5.2.1. Manejo de bases de datos
+Ser un ciudadano informado demanda entender cómo se preparan y presentan las estadísticas. Un software sencillo para el manejo de
+datos permite procesar información y presentarla gráficamente en diferentes formatos. Los estudiantes pueden entonces evaluar el impacto
+visual de estas presentaciones.
+
+5.2.2 Planilla electrónica
+Este programa sirve para sistematizar la información, transformándola y facilitando así su manejo. Por ejemplo, la transformación de
+un texto en planillas de cálculo o directamente en alguno de los variados
+tipos y formatos de gráficos presentes en el programa. Esta situación
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+120
+120
+
+B. GROS, D. CONTRERAS
+
+permite el ordenamiento, comprensión y mejor representación de la
+información, en particular, cuando ésta hace alusión a temas estadísticos.
+Representar la información de esta forma permite al alumno
+ampliar las posibilidades de comprensión y razonamiento en su proceso
+de incorporación de conocimientos. En efecto, si los mismos datos de un
+texto lineal son visualizados a través de gráficos de barras o torta,
+aumentan la posibilidad de su correcta asimilación y la calidad de las
+conjeturas e inferencias.
+
+5.2.3 La web quests
+Es una herramienta procedimental y metodológica que permite
+que el alumno desarrolle la tarea de búsqueda o investigación, con
+supervisión en los pasos a seguir. (Paralelamente, gozan de autonomía
+para visitar algunas páginas y para la elección de la forma de resolver
+ciertas situaciones.) En ella se estructura la actividad a partir de ciertas
+secuencias que el alumno debe ir completando y resolviendo, al tiempo
+que se entregan los recursos y herramientas necesarias para completar
+dicha actividad.
+Recibe el nombre de web quests ya que tanto la búsqueda de
+la información para completar las actividades como el diseño de este
+instrumento se encuentran en línea.
+
+5.2.4 Blogs
+Son herramientas que ofrecen un espacio de escritura que se
+caracteriza por ser la mezcla de un diario personal en línea y una
+herramienta de discusión donde los lectores pueden subir comentarios
+a la información que se presente, el procedimiento denominado «posteo».
+Los blogs pueden usarse para lograr que los estudiantes sinteticen y
+expresen sus opiniones en un espacio limitado que los obliga a condensar
+sus escritos. Esta herramienta de comunicación es más estructurada que
+una lista de correo electrónico y más enfocada que un grupo de discusión;
+en ella, cada estudiante puede participar activamente en una comunidad
+que tiene un tema de interés común, conectarse, leer los aportes de otros
+estudiantes, pensar y responder aportando sus contribuciones.
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+121
+121
+
+B. GROS, D. CONTRERAS
+
+5.3 HABILIDADES DE PARTICIPACIÓN: HERRAMIENTAS DE CONVERSACIÓN
+Y COLABORACIÓN
+Estas herramientas informáticas apuntan esencialmente a lograr la comunicación y la interacción entre las personas en entornos de
+aprendizajes. Como sabemos, la riqueza del aprendizaje no se da en
+forma aislada, sino que es la resultante del trabajo integrado y colaborativo
+en la resolución de un problema.
+A continuación presentamos variadas alternativas de herramientas que permiten el desarrollo del aprendizaje en formatos colaborativo
+e integrados.
+
+5.3.1 Herramientas para compartir intereses
+Apuntan a generar espacios de interacción en torno a uno o más
+temas compartidos. Son ejemplos los boletines y las revistas y, de manera
+especial, los diferentes tipos de conferencias por computadora, tales
+como listas de discusión, foros, e-mail, e-noticias, anuncios, chat, etc.
+
+122
+122
+5.3.2 Cuadernos de colaboración, creación de comunidades
+virtuales de alumnos, entornos de colaboración de
+alumnos
+Internet es un lugar de convergencia de millones de personas y
+cada temática tiene su sitio. Sin embargo, pese a tal convergencia en
+razón de temáticas comunes, nada garantiza que se encuentren. Por lo
+tanto, también es un espacio diverso, de numerosos formatos. Para lograr
+una mejor aplicación de esa competencia Monereo (2005) describe dos
+herramientas usuales y de fácil implementación: las listas de discusión
+y los foros electrónicos.
+
+5.3.3 Simulaciones a través de juegos
+Los juegos de simulación pueden ser particularmente útiles en
+la formación de competencias ciudadanas ya que involucran la planificación, desarrollo y ejecución simulada de acciones que se dan en la vida
+ciudadana. Juegos como Sims City o Los Sims estimulan la discusión
+entre estudiantes y ayudan a desarrollar la habilidad para tomar decisio-
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+B. GROS, D. CONTRERAS
+
+nes, modificar condiciones, reaccionar ante situaciones o prever ciertas
+circunstancias.
+
+6. A MODO DE CONCLUSIÓN
+Resulta fundamental que también sea la institución escolar la
+que asuma una parte de responsabilidad en la educación para la ciudadanía en la sociedad informacional. El problema de fondo es conseguir
+que a las TIC no se las considere como una simple herramienta sino que
+se les otorgue el rango de elemento central para la selección de
+información, la reconstrucción del conocimiento, la participación y la
+comunicación.
+Aún son escasos los avances sobre la investigación de esta área
+ya que, en muchas ocasiones, el propio discurso pedagógico ha concebido la educación ciudadana como algo alejado del desarrollo de las TIC. En
+consecuencia, no ha dado respuesta a las diversas formas de comunicación y participación social que los jóvenes ejercen, tanto con tecnología
+en términos informales como fuera de la escuela.
+Pensamos que la experiencia planteada en el contexto chileno
+puede ayudar a analizar el avance en el desarrollo de competencias
+ciudadanas a través de las TIC, entendidas dentro del modelo competencial
+propuesto. Consideramos que el desarrollo competente de una ciudadanía en siglo XXI es factible a través de una formación educativa que
+combine los conocimientos básicos sobre las estructuras socioinstitucionales con los procedimientos y la participación activa de los
+estudiantes.
+
+BIBLIOGRAFÍA
+BAWDIN, D. (2002): «Revisión de los conceptos de alfabetización informacional y
+alfabetización digital», en Anales de documentación, n.º 5, pp. 361-408.
+BEREITER, C. (2002): Education and Mind in the Knowledge Age, Londres, LEA.
+BOLÍVAR, A. (2005): «La ciudadanía a través de la educación», en Seminario del año
+europeo de la ciudadanía a través de la educación, Madrid, MEC.
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+123
+123
+
+B. GROS, D. CONTRERAS
+
+BROWN, J. S.; COLLINS, A, y DUGUID, P. (1989): «Situated Cognition and the Culture of
+Learning», en Educational Researcher, n.º 41, pp. 32-42.
+CASSANY, D. (2002): «La alfabetización digital», en XIII Congreso Internacional de la
+Asociación Lingüística y Filológica de América Latina (ALFAL), San José,
+Universidad de Costa Rica.
+CASTELLS, M. (2001): La galaxia Internet. Reflexiones sobre Internet, empresa y sociedad,
+Madrid, Plaza y Janés.
+— (1997): La era de la información: economía, sociedad y cultura, Madrid, Alianza
+Editorial.
+COLL, C., y MARTI, E. (2001): «La educación escolar ante las nuevas tecnologías de la
+información y de la comunicación», en C. Coll, J. Palacios y A. Marchesi:
+Desarrollo psicológico y educación, Madrid, Alianza Editorial.
+CUBERO, R., y LUQUE, A. (2001): «Desarrollo, educación y educación escolar: la teoría
+sociocultural del desarrollo y del aprendizaje», en C. Coll, J. Palacios y A.
+Marchesi: Desarrollo psicológico y educación, Madrid, Alianza Editorial.
+CONTRERAS, D. (2001): Las competencias de la población adulta, Chile, Universidad de
+Chile.
+DELORS, J (1996): La educación encierra un tesoro, Madrid, Santillana.
+DERRY, S. J., HAWKES (1993): «Local Cognitive Modelling of Problem Solving Behavior: an
+Application of Fuzzy Theory», en P. Lajoie y S. J. Derry (eds.): Computers as
+Cognitive Tools, pp. 107-140,New Jersey, Lawrence Erlbaum Associates.
+DEWEY, J. (1995): Democracia y educación, Madrid, Morata.
+EDUTEKA: <http://www.eduteka.org/FormacionCiudadana.php> [consulta: ago. 2006].
+GARCÍA CARRASCO, J.; GROS, B., y AYUSTE, A. (2002): «Sociedad-red, educación e
+identidad», en E. Gervilla, (coord.): Globalización, inmigración y educación, pp.
+27-91. Granada, Universidad de Granada.
+GILSTER, P. (1997): Digital Literacy, Londres, John Wiley and Sons.
+GROS, B. (2003): «La construcción del conocimiento a través de los juegos de simulación:
+una experiencia con Los Sims», en Comunicación y Pedagogía, n.º 191, pp. 2329.
+GUTIÉRREZ, A. (2003): Alfabetización digital: algo más que ratones y teclas, Barcelona,
+Gedisa.
+HOBSBAWN, E. (1998): Historia del siglo XX, Barcelona, Crítica.
+HOREJSI, M., y RAY, B. (2006): «Technology and Civic Empowerment: Toward Inclusion and
+Participatory Citizenship in the Elementary Social Studies Classroom», en
+<http://www.futurelab.org.uk/research/reviews/cit02.htm> [consulta: ago.
+2006].
+IEA (2001): <http://www.wam.umd.edu/~jtpurta/National/Chilean.htm> [consulta: ago.
+2006].
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+124
+124
+
+B. GROS, D. CONTRERAS
+
+JONASSEN, D. (2000): «El diseño de entornos constructivista de aprendizaje», en Ch.
+Reigeluth (ed.): Diseño de la instrucción: teoría y modelos, Madrid, Santillana.
+MAJO, P., y MARQUÉS, P. (2002): La revolución educativa en la era Internet, Barcelona,
+Praxis.
+MEC, (2005): «Currículo y competencias básicas», en <http://www.didactica-cienciassociales.org/material/Competencias%20basicas%206%20jun%2006.pdf>
+[consulta: ago. 2006].
+MILLÁN, J. (1997): De redes y saberes, Madrid, Santillana.
+MINEDUC (2001): <http://www.simce.cl/paginas/evaluaciones.htm> [consulta: ago. 2006].
+MONEREO, C. (2005) (coord.): Internet y las competencias básicas: aprender a cooperar,
+a comunicarse, a participar, a aprender, Barcelona, Grao.
+PEDRÓ, F. (2003): «¿Dónde están las llaves?», en VV.AA.: Aprendiendo a ser ciudadanos.
+Experiencias sociales y construcción de la ciudadanía entre los jóvenes,
+Madrid, Injuve, Ministerio del Trabajo y asuntos sociales, <http://www.mtas.es/
+injuve/> [consulta: ago. 2006].
+POSTIGO, Y., y POZO, J. I. (2002): «Hacia una nueva alfabetización: el aprendizaje de
+información gráfica», en J. I. Pozo y C. Monereo: El aprendizaje estratégico,
+Madrid, Santillana.
+— (2000): Los procedimientos como contenidos escolares, Barcelona, Edebé.
+REIGELUTH, CH. (ed.) (2000): Diseño de la instrucción: teoría y modelo, Madrid, Santillana.
+RODRÍGUEZ ILLERA, J. (2004): «Las alfabetizaciones digitales», en Revista Bordón, n.º 56.
+SCARDAMALIA, M. (2002): «Collective Cognitive Responsibility for the Advancement of
+Knowledge», en B. Smith (ed.): Liberal Education in a Knowledge Society, pp.
+67-98, Chicago, Open Court.
+SELWYN, N. (2004): Literature Review in Citizenship, Technology and Learning, Bristol,
+Futurelab.
+WENGER, E. (2001). Comunidades de práctica. Aprendizaje, significado e identidad,
+Barcelona, Paidós.
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN. N.º 42 (2006), pp. 103-125
+
+125
+125
+
+REVISTA IBEROAMERICANA DE EDUCACIÓN
+REGRESAR A ÍNDICE Nº 42
+REGRESAR A PÁGINA INICIAL DE LA REVISTA
+CONTACTAR
+
+147
+
+
