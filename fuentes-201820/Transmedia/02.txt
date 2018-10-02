@@ -1,0 +1,794 @@
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+DIGITAL HUMANITIES | CRITICAL ESSAY
+
+Digital storytelling: New opportunities for
+humanities scholarship and pedagogy
+John F. Barber1*
+Received: 15 January 2016
+Accepted: 14 April 2016
+Published: 06 May 2016
+*Corresponding author: John F. Barber,
+Creative Media & Digital Culture
+Program, Washington State University
+Vancouver, Vancouver, WA, USA
+E-mail: jfbarber@eaze.net
+Reviewing editor:
+Ray Siemens, University of Victoria,
+Canada
+Additional information is available at
+the end of the article
+
+Abstract: At first thought, combining storytelling, digital tools, and humanities
+seems improbable. For example, digital storytelling is characterized by interactivity, nonlinearity, flexible outcomes, user participation, even co-creation. Such
+affordances may be disruptive to traditional humanities scholars accustomed to
+working alone, with physical objects, and following established theoretical guidelines. However, they may be quite appealing to those seeking new opportunities for
+cross-disciplinary, iterative approaches to practice-based humanities scholarship
+and pedagogy. This essay defines digital storytelling as a combination of storytelling
+techniques, digital affordances, and humanities foci, describes several forms of digital storytelling, outlines frameworks and outcomes associated with their use, and
+promotes digital storytelling as providing new opportunities for humanities scholarship and teaching, especially with regard to critical thinking, communication, digital
+literacy, and civic engagement.
+Subjects: Arts; Humanities; Language & Literature; Museum and Heritage Studies
+Keywords: digital storytelling; digital humanities; narrative; oral history; podcasting; multimedia; transmedia; digital tools; digital literacy; critical thinking
+
+ABOUT THE AUTHOR
+
+PUBLIC INTEREST STATEMENT
+
+John F Barber teaches in the Creative Media &
+Digital Culture Program at Washington State
+University Vancouver. He is actively involved with
+Digital Humanities Summer Institute, held each
+June at the University of Victoria, in Canada.
+His research activities include curating in digital
+contexts, investigating sound as the basis for
+narrative and storytelling, and creating soundbased narratives as media art and digital works.
+He created and curates Brautigan Bibliography and
+Archive (www.brautigan.net), an online, interactive
+information structure known as the preeminent
+resource on the life and writings of American author
+Richard Brautigan. Barber also maintains Radio
+Nouspace (www.radionouspace.net), a curated
+listening gallery/virtual museum and practicebased research and creative space all focused on
+sound as a primary component of digital narrative,
+drama, and storytelling. His radio + sound art work
+has been broadcast internationally, and featured
+in juried exhibitions in America, Canada, Germany,
+Portugal, and Macedonia.
+
+“The Humanities,” as a field of study, focuses on
+the cultural record of human experience. Those
+who study the humanities seek this knowledge in
+stories about identity, origin, and future dreams.
+Why stories? Because storytelling provides a way
+to make our world comprehensible. We tell our
+stories in literature, art, architecture, and music.
+The humanities uses these stories to create,
+communicate, preserve, research, and teach
+knowledge about our cultural and creative record.
+Today, the humanities benefit from the overlay
+of computing technologies and resources, an
+approach called Digital Humanities. This essay
+describes several forms of digital storytelling,
+outlines frameworks and outcomes associated
+with their use, and promotes digital storytelling
+as providing new opportunities for humanities
+scholarship and teaching.
+
+© 2016 The Author(s). This open access article is distributed under a Creative Commons Attribution
+(CC-BY) 4.0 license.
+
+Page 1 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+1. Introduction
+Humanities, as a field of study, seeks to understand how people are active creators of culture.
+Primary practices include transcription, translation, editing, annotating, and analyzing texts. Desired
+outcomes include the creation, communication, preservation, research, and teaching of knowledge
+focused on the cultural and creative record of human experience.
+Digital Humanities (DH) seeks to promote these outcomes through the overlay of computing resources. For example, traditional textual studies (like criticism and document analysis) can be expanded with coding, curation, databases, digitization, geographical information systems, information
+visualization, multimedia publications, pedagogy, project management, and text processing and
+mining.
+Beyond the desired outcomes of more traditional humanities, DH seeks to encourage dialog across
+disciplinary boundaries, as well as theoretical/practical divides. For example, DH might help foreground the broad prevalence of narrative across human cultural endeavors. The literature we write,
+the art we make, the buildings we erect, the music we compose might be considered as stories about
+identity, origin, and future dreams.
+Stories and storytelling, however, are not primary methods of research, scholarly communication,
+or teaching in many humanities knowledge communities. At first thought, digital storytelling—combining storytelling, digital tools, and humanities scholarship—may seem improbable. For example,
+digital storytelling is characterized by interactivity, nonlinearity, flexible outcomes, user participation, even co-creation. Such affordances may be disruptive to traditional humanities scholars accustomed to working alone, with physical objects, and following established theoretical guidelines.
+However, they may be quite appealing to those seeking new opportunities for cross-disciplinary, iterative approaches to practice-based scholarship and pedagogy.
+If we grant that humanities scholarship and pedagogy may be grounded in stories of human cultural and creative endeavors, then the use of digital media to help create and share such stories may
+help engage academic research with creative practice to promote critical thinking, communication,
+digital literacy, and civic engagement.
+Against this background, overarching questions are, “What is digital storytelling and how might it
+promote DH scholarship and pedagogy?” and “Can digital storytelling serve as a tinkering apparatus
+for collaborative thinking/creating, as a mode of knowledge production?” This essay responds by first
+surveying storytelling as a way of making the world comprehensible. Then digital storytelling is introduced as a methodology for creating and sharing information, promoting immersion and interactivity, as well as providing teaching and learning contexts based on iteration and collaboration. With
+this focus, several approaches to digital storytelling are reviewed. Potential outcomes are outlined.
+An over arching framework is provided, as are resources for further study or help. In conclusion, digital storytelling is introduced as providing potential for humanities scholarship and pedagogy.
+Both the approach and tone of this essay are informational, rather than critical, intended for an
+audience new to DH or new to digital storytelling. Rather than analyzing and critiquing digital storytelling, this essay focuses on practice.
+This is not to suggest that digital storytelling is clear of nuanced and/or multilayered considerations/interpretations/applications, but rather to introduce a new opportunity for the creation, communication, and consumption of DH.
+
+2. Storytelling
+To consider digital storytelling, we should first consider traditional storytelling. At best surmise, storytelling evolved as prehistoric people shared information about the environment, wildlife movements, or sources of food. Such survival information, over generations, became codified, and was
+Page 2 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+expanded to include history, tradition, and cultural mythology. The resulting narratives (the recounting of a sequence of events and their meanings) were entrusted to storytellers to preserve and
+share.
+Storytelling (the addition of setting, plot, characters, logical unfolding of events, a climax) expanded to myth-based rituals, participatory re-enactments, or dramas. Stories explained the role(s)
+of people in the seen and unseen (magical) events in the surrounding world and inspired them to
+undertake great deeds, journeys, or battles. With the advent of writing, stories were preserved and
+over time were recognized as literature (written works considered to possess lasting artistic merit).
+Narratives/dramas that make the world comprehensible have long been a mainstay of human
+culture. Joseph Campbell, for example, investigated the reenactment of myths as ritualistic participatory drama, often involving narrative, music, and/or other sound sources by cultures around the
+world (Campbell, 1949).
+Playwright David Mamet argues “it is our nature to dramatize” (Mamet, 2002, p. 3). Drama is the
+nature of human perception, he says, and it is a human need to construct, or have constructed for
+us, narratives about our lives that “order the universe into a comprehensible form,” a cause-andeffect conclusion (Mamet, 2002, p. 8). We construct such dramas in order to understand ourselves,
+to exercise our own will to create our own character (Mamet, 2002, p. 40, 43).
+
+3. Digital storytelling
+The overlay of computer-based media onto storytelling has prompted a range of new approaches:
+from what noted radio historian Susan Douglas calls a return to orality, “a mode of communication
+reliant on storytelling, listening, and group memory” (Douglas, 1999, p. 29) to new storytelling experiences that include direct participation by listeners, even co-creation of stories.
+Of course, many argue that computer-based technologies have set aside long valued scholarly
+activities like close reading and analysis and turned material text into malleable palimpsests. But,
+many others, like Robert Clarke and Andrea Adam note that digital storytelling began with “arts
+practitioners committed to the democratization of culture: to empowering and giving voice to individuals and groups traditionally silenced, marginalized, or ignored by mainstream culture” (Clarke &
+Adam, 2010, p. 159).
+Such efforts were solidified by the establishment of organizations focused on digital storytelling.
+One example is the San Francisco Digital Media Center, founded by Joe Lambert, Dana Atchley, and
+Nina Mullen in 1994. The three producers felt that people could create powerful personal stories using digital tools like computers, cameras, audio recorders, and digital media software. In 1998, the
+San Francisco Center for Digital Media moved to Berkeley, and renamed itself Center for Digital
+Storytelling. In 2015, the name changed again, to StoryCenter (www.storycenter.org).
+At the heart of this and other digital storytelling organizations/efforts is interest in telling and listening to good stories. In this regard, the essential ingredients of a good narrative and effective
+storytelling—strong characters, compelling plot, conflict resolution—remain relevant for digital storytelling. Also attractive is the ease with which digital stories can be created and distributed to a
+broad audience. Results can include compelling, engaging, even emotional narrative formats; immersive and interactive narrative experiences; non-linear, multidimensional narrative opportunities;
+and collaborative contexts that increase ability to create and communicate.
+
+4. Approaches
+In most basic form, digital storytelling combines digital content/media and the art of storytelling.
+The resulting stories might be documentaries, essays, historical/eye witness accounts, memoirs,
+narratives, research findings/presentations, and more. Common across this spectrum of genres is
+
+Page 3 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+the addition of digital media like animation, audio, graphics, multiplayer games, music, narration,
+social media, video, Web publishing, and writing.
+The practice of digital storytelling, under the leadership of Lambert, Atchley, and Mullen, began
+with creating videos 2–3  min in length often augmented with voice narration, images, text, and
+perhaps music. Today, given the multitude of digital media available, approaches to digital storytelling can take many forms, from artist books to “zines” (Lambert, 2002). Approaches will change with
+the use of different computer-based media.1
+Approaches to digital storytelling outlined in this essay include oral/aural histories, podcasting,
+interactive/locative narratives, multimedia narratives, and transmedia narratives. These approaches
+are not separate, or isolated. Instead, they may leak and morph one into another with interesting
+results and opportunities to engage storytelling for humanities scholarship and pedagogy.
+
+4.1. Oral/aural histories
+Marshall McLuhan argues early humankind was awash in sound, with only abstract thought to explain their situation and agency. Speech and orality tamed the acoustic wilderness by translating
+abstract thought into communicable ideas.
+Storytellers wove explanations for sounds into narratives which were incorporated into drama
+and, when written, into literature. Thus, speech, with its origins in abstract thought and presentation,
+is the oldest medium and the most prevalent form of human communication. It claims a presence
+in most all media that follow (Levinson, 1999, pp. 5–6).
+Speech may also be a primary component of digital storytelling. Oral history is a method of gathering and preserving historical information through recorded spoken interviews with participants of
+past events and ways of life. Aural history may follow the lead of oral history for subject matter and
+focus, but the human voice does not have to be primary. Other (mechanical, environmental, or musical) sounds might take the lead instead. As an example, listen to “Symphony for Sirens” (http://radionouspace.net/index.php/symphony-of-sirens/) for a sonic narrative celebrating the Russian
+revolution of 1917.
+Aural and oral histories do not have to be kept separate. Sometimes they cannot. For example, The
+Sonic Memorial Project (http://www.sonicmemorial.org/sonic/public/index.html), begun shortly after
+the 11 September 2001 destruction of the World Trade Center in New York, collects and provides
+access to stories, ambient sounds, life events, voice mails, and archival recordings associated with
+the twin towers. Today, this archive and online audio installation of personal and historic sonic traces, artifacts, interviews, and oral histories is valuable to family, friends, historians, archivists, and
+producers.
+A tremendous amount of oral and aural history is available in archives around the world, providing
+ready resources for DH research and knowledge communication/presentation. DH teachers may find
+these resources invaluable. For example, digitized, these audio files can be easily edited/manipulated, combined/remixed depending on research/presentation focus. Students can learn basic editing of sound files, selection of appropriate technology, and critical examination of source
+information.
+Or, students can collect their own oral histories from family members and/or others in their communities/cultures. This could contextualize research/knowledge acquisition as more personal, more
+directly related to their lives. The result could be increased engagement with the knowledge topic.
+Outcomes could include developing a body of knowledge using collaboration and social construction skills. As an example, see Foxfire magazine, begun in 1966 as a way to demonstrate the relevance of good writing. As experiential education, Foxfire collected and published oral histories, craft
+Page 4 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+traditions, and other information by local people regarding aspects and practices of Appalachian
+culture situated primarily in northern Georgia. Oral histories came from 2,000 h of interviews collected on audio tape and hundreds of hours of video tape. A series of books was published beginning
+in 1972, each an anthology of material collected from Foxfire as well as content not suited for the
+magazine format.
+
+4.2. Podcasting
+As noted earlier, digital storytelling began with short videos featuring voice narration, images, text,
+and perhaps music. Such videos were easy to produce using relatively accessible digital tools and
+software programs. They promoted narratives that were at once immediate, personal, and real to
+life.
+Like videos, podcasts are information packages. But, where videos are meant to be watched, podcasts are meant for listening, either online or after downloading. Podcasts may feature only sound
+in the form of recorded voice, or they may include music, video, and text. As a result, podcasts and
+videos as described earlier are closely associated as fundamental approaches/contexts for digital
+storytelling. Podcasts hold the edge, however, if an audio file is the only available artifact on which
+to base a narrative.
+Thousands of podcasts are available. Many focus on storytelling. Perhaps the best place to start is
+The Moth. Launched in his living room in 1997 by poet and novelist George Dawes Green, The Moth
+recreates summer evening storytelling sessions from his childhood in Georgia. Today, The Moth is a
+non-profit organization dedicated to the art and craft of storytelling (http://themoth.org/). Listen to
+true stories told live during The Moth Radio Hour (http://themoth.org/radio).
+Arguably, the best sound-driven podcast stories available today are part of the Radiotopia collective (http://www.radiotopia.fm/). Listen to 99% Invisible, The Memory Palace, Song Exploder, Mortified,
+The Allusionist, Criminal, The Heart, Love + Radio, Strangers, The Truth, Theory of Everything, Radio
+Diaries, and Fugitive Waves.
+Podcasts can be created quickly and easily using free or relatively inexpensive programs available
+for download or purchase. This ease of production promotes rapid iteration or versioning of research/
+knowledge findings. Once uploaded to an online server, podcasts are quickly and easily available to
+interested listeners. In fact, listeners can, through subscriptions, have each new podcast delivered
+directly and automatically to a designated computer where they are immediately available for listening. The process is far faster than publication (although it does lack peer evaluation). Despite this
+caveat, listeners can be updated easily and efficiently regarding one’s scholarship. As a result, podcasts may provide a convenient communication vehicle with which to share DH research findings
+and knowledge creation.
+DH teachers may want to incorporate podcasts into teaching activities. For example, a DH class
+may undertake producing podcasts to share learning experiences, as a culminating project to demonstrate learning, or as a vehicle for self-reflection regarding one’s connection with learning.
+Outcomes might include a greater engagement with the knowledge topic, and developing a body of
+knowledge using collaboration and social construction skills, and interactivity with the course topic.
+
+4.3. Locative/interactive narrative
+The Foxfire magazine and books focus primarily on northern Raburn County, Georgia. Historically and
+culturally, this focus can extend into the Appalachian region of the southeastern United States, a
+region rich with cultural and creative endeavors. Locative narratives, as a form of digital storytelling,
+encourage readers/participants to interact with narrative elements to explore different storytelling
+techniques, or deep, rich content focused on a particular location.
+
+Page 5 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+A pioneering work of digital locative narrative was 34 North 118 West (2003) by Jeremy Hight, Jeff
+Knowlton, and Naomi Spellman. The work combined audio narrative, digital media, and GPS technology to create an interactive collection of narratives centered on the railroad freight depot situated
+at 34 North latitude and 118 West longitude in downtown Los Angeles, California, early in the twentieth century.
+The idea for this location-based audio narrative project evolved from efforts to produce wireless
+guided tours for a Los Angeles art museum. The authors considered how to use Global Positioning
+Satellite (GPS) and wireless technology to provide access to information about an area in ways that
+would be entertaining and informative for users.
+The answer was storytelling. Hight, Knowlton, and Spellman investigated the area around the
+former railroad freight station, digging through the histories of the buildings to learn about people
+who worked there. They crafted narratives from the hidden/lost information they recovered. Voice
+actors recorded the narratives which became content for 34 North 118 West.
+For example, at the site of a former tire factory, participants could listen to a worker describing
+how bits of rubber rained down on Los Angeles after the plant caught fire. A waitress at the train
+station restaurant talked about the harried passengers she served. A railroad worker told about
+cleaning the tracks after people committed suicide by stepping in front of trains. A cook, the station
+clock inspector, and others provided their narratives as well.
+To experience these narratives, participants walked through the area, now a bleak industrial area,
+with a laptop computer, a GPS device, and headphones. GPS tracked their position in the neighborhood, a map of which was displayed on the computer screen. Easily identifiable hot spots triggered
+audio narratives by voice actors. Trigger spots for sound effects—squeaking wooden cart wheels and
+musicians entertaining on busy street corners—were hidden, waiting to be discovered serendipitously by wandering participants.
+Walking about the project location, participants gained appreciation for the hidden/forgotten history of the area, as well as the immediate cultural impact provided by the audio narratives and
+sound effects. More than just chaos, this approach to storytelling helped uncover and organize forgotten historical and cultural information into meaningful personal narratives about a place, a time,
+and people (Barber, 2014).
+Prototypes for this form of digital storytelling, as well as models for its potential use, can be found
+in the Choose Your Own Adventure book series and interactive fiction (IF). The Choose Your Own
+Adventure series was published by Bantam Books during the 1980s and 1990s. Readers assumed the
+role of protagonist and made choices to read through the texts. These choices helped determine
+actions and plot outcomes.
+IF is a type of computer program involving a simulated world or environment, often including
+rooms, objects, and characters, all represented by computer code (Montfort & Short, 2012). These
+spaces are displayed on computer screens. Users/readers/participants interact with these simulations by typing directions using a computer keyboard (Montfort, 2003, 2007; Nelson, 2001). Because
+IF is primarily textual (although multimedia elements can be included) they are often called “text
+adventures” (Montfort & Short, 2012).
+The first IF/text adventure was Adventure by Will Crowther, ca. 1975. Companies like Adventure
+International, Infocom, Legend Entertainment, and others produced and distributed many, many
+popular and notable works. Today, IF is an evolving form of computer entertainment focused on drama and dynamic circumstances. See, for example, Uncle Roy All around You (2003; Blast Theory; http://
+www.blasttheory.co.uk/projects/uncle-roy-all-around-you/), a game played online in a virtual city and
+on the streets of an actual city. Online and street players collaborate to find Uncle Roy’s office.
+Page 6 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+Both locative and IF works can heighten the sense of immersion and encourage exploratory interaction within a realistic narrative context. Both have found value in classrooms for teaching (e.g.
+projects by the Creative Learning Environments Lab at Utah State University) or as means of representing research on historical eras or locations (Montfort & Short, 2012). Both can help recreate
+forgotten places. As noted 34 North 118 West, a work of locative narrative, recreates the space surrounding a former railroad depot. 1893 (Illuminated Lantern Publishing 2002), an IF work, recreates
+the 1893 Chicago World’s Fair (Nepstad, 2012).
+Researchers, teachers, and students may find such affordances useful to create and share nuanced, multilayered narratives about research results, knowledge production, and learning experiences. For example, imagine a locative/interactive narrative focused on a neighborhood frequented
+by a particular artist or writer. Readers/participants could move about the physical location, or access an information portal from afar, and explore sights and sounds of the neighborhood, learn architectural details/histories of notable buildings, read textual accounts taken from period
+newspapers, journals, memoirs, view images, animations, videos (either historical or purpose created), and listen to oral histories and soundscapes. Perhaps the subject of the narrative, the artist or
+writer, serves as a guide. Perhaps other individuals/associates provide a way through the collected
+information. Either way, learning comes through exploration and experience.
+Or, locative narratives could be collected from multiple participants to create continually evolving
+narrative experiences surrounding specific locations (Barber, 2013; Løvlie, 2012).
+With such a focus on writing, locative/interactive digital storytelling may also be useful as a way
+to promote student research and learning through focus on critical thinking, evaluation of sources,
+selection of content, writing and editing of content, deciding when and how to use appropriate technologies/media, and working collaboratively with others.
+
+4.4. Multimedia
+As one might surmise from the examples provided thus far, one might use multiple digital media to
+tell a story. Multimedia digital storytelling provides a productive context in which to explore this opportunity. Multiple media resources might be used separately or in combination depending on the
+storyteller’s purpose and skills. As a result, multimedia digital storytelling provides a wide range of
+opportunities to tell interactive, immersive, and participatory stories (fiction or non-fiction) to general or specialized audiences for pragmatic or entertainment purposes.
+“Snow Fall: Avalanche at Tunnel Creek” by John Branch combines (hyper)text, images, and video
+and is an excellent example of multimedia digital storytelling (Branch, 2012). See also The Carrier
+(Evan Young, 2009; http://www.carriercomicbook.com/), the first complete graphic novel published
+exclusively for the iPhone. The original version included time-based delivery of content to the device
+and optional backstory information delivered by email. Sadly, this work is no longer available.
+Another exemplary example is Upgrade Soul (Eric Loyer, 2012; http://erikloyer.com/index.php/projects/detail/upgrade_soul/) where the reading experience is complimented by fluid navigation, interactive accelerometer-driven 3D effects, and dynamic music.
+The incorporation of multiple media into a focused storytelling endeavor requires skills like text
+creation/selection/editing, image manipulation, web coding, usability and interface design, video
+production/editing, and sound production skills. Collective ability with these skills may be beyond the
+kin of the individual researcher, teacher, or student, but achievable through a collaborative, shared
+effort with others. In this sense, multimedia digital storytelling may provide a challenging and rewarding context for a class project or a professional collaboration focused on research/knowledge
+presentation.
+
+Page 7 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+4.5. Transmedia
+Transmedia digital storytelling involves distributing narrative across different media platforms to
+provide multiple, different, yet connected, narrative experiences focused on the same subject. This
+is different from multimedia where one uses multiple media to tell a story. And, it is different from
+cross media where one tells the same story across different media. For example, the story of The
+Lord of the Rings is told with books and movies, but it is always the same story.
+With transmedia, the communities and functions of specific media are leveraged as platforms to
+communicate different elements of a story. Each platform is chosen for specific affordances to enhance the storytelling experience. Each platform excels at what it does, rather than bending to fit a
+central idea repurposed for multiple media. Each platform is an entry point to a story universe where
+each story is independent from others. The result: multiple platforms contribute to an ecology of
+creative and complex storytelling experiences. With a solid transmedia strategy, everything remains
+connected by a central narrative and theme. The separate parts can be complete and satisfying
+alone, but together the resulting narrative is far more powerful than any single component.
+Examples include the Firefly and Matrix entertainment franchises. Firefly was an American space
+western science fiction drama television series created by writer and director Joss Whedon. Episodes
+ran from September to December 2002 before the series was canceled. Whedon finished the story
+as a feature film. A series of comic books provided narrative continuity between the two. Each of the
+three narratives could be enjoyed alone, but neither told the complete story provided by their combination. With The Matrix franchise, one must engage with all media utilized—movies, animated
+films, comics, games, and books—in order to experience the complete story. Rather than repeating
+the narrative, each media provides a different narrative part or perspective.
+Another example is Plot 28 (http://www.plot28.com/), a fictional universe of associated media elements including comics and graphic novels, music, pictures, filmed theater, games and challenges,
+blogs, websites, newspaper articles, activism, documentaries, a navigable novel, and a set of stories.
+As suggested by these examples, transmedia promotes experimentation with digital storytelling,
+as well as information communication and performance. Perhaps an example from the author’s digital storytelling class will be illustrative. The challenge to students was to create transmedia narratives
+focused on the 1938 The War of the Worlds radio drama. This (in)famous radio broadcast imagines in
+voice and sound effects the invasion of Earth by Martians. After learning to edit digital sound files,
+students were challenged to condense the hour-long radio broadcast into a narrative of ten minutes
+or less. Students were free to revision/remediate/remix the original narrative however they desired.
+This edited version would become their base narrative, subject to modification in other media forms.
+Students were to build a website as a home for their shortened narratives. From there, students
+could make connections to whatever forms of digital media they chose for their exploration of transmedia digital storytelling.
+Keeping with the theme of radio hoax, one student imagined the break-in news reports of the
+original radio drama as a clever government coverup, a disguise for real events. The Martian landings were real, but disguised as drama they were perceived as a hoax. She expanded her narrative
+through the use of digital video focusing on extraterrestrial arrivals, a series of updates via different
+forms of social media, and an online video game where one could learn more about the Martians by
+achieving higher and higher levels of information access.
+Another student envisioned Martians as having long lived among humans, either hidden or disguised. In order to show their presence around humanity, she choose to use augmented reality,
+creating a series of posters which, when scanned by mobile devices running appropriate software,
+would bloom out underlying videos or images showing the aliens as embedded throughout our culture and its practices.
+Page 8 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+A third student was dismayed that reporter Carl Phillips died in the first Martian heat ray blast at
+Grover’s Mill, New Jersey. He had Phillips survive the deadly ray by hiding behind a rock wall and then
+continue reporting about the Martians, but through the use of the social media platform Twitter
+rather than radio. His website was designed to introduce Phillips’ communiques periodically, and
+seemingly anonymously.
+Through this challenge, students learned to make critical decisions about the structures of their
+stories and how they might connect, through different digital media forms, with an intended audience. They learned the importance of drafting, revising, editing, and polishing their writing, for both
+project planning and content production. They learned to assess and select appropriate digital media to achieve their narrative goals and objectives. And through their explorations, false starts, and
+iterative versions, they learned more about how research and scholarship evolves recursively from
+idea to final artifact.
+
+5. Future forms
+This brief outline of some forms of digital storytelling suggests current opportunities for research/
+scholarship presentation, teaching, and learning. What might the future provide? Maxine Alterio and
+Janice McDrury highlight four types of stories that can be used for learning: expressive, strategic,
+reflective, and transformative. Expressive stories teach or convey relevant information to others.
+Strategic stories encourage new ways of thinking/working, often in organizational contexts.
+Reflective stories highlight multiple perspectives or disparities in a particular situation. Transformative
+stories promote a future vision and encourage its embracement (Alterio & McDrury, 2004). All might
+be good subjects for future forms of digital storytelling.
+Future digital storytelling might also promote instructional stories (Robin, 2008), personal narratives that hold meaning for both creator and viewer (Rossiter & Garcia, 2010), memorial stories
+(McLellan, 2006), e-portfolios allowing documentation and reflection of educational artifacts and
+learning experiences (Kearney, 2009), health and human services and social issues (Miller, 2008),
+and interactive games/stories that challenge learners to think, explore, and solve problems that are
+complex and compelling (Lieberman, 2006).
+The influences of gaming should not be overlooked, especially as they might prompt reimagining
+previously overlooked storytelling opportunities in our daily lives and culture. Jane McGonigal says
+such reimagining is central to expanding the space for games because “the act of exposing previously unperceived affordances creates a more meaningful relationship between the actor and the
+object or the space in the world” (McGonigal, 2006, p. 80). We might substitute digital storytelling for
+Mcdonigal’s “games” and reader/writer for “actor” and still expect “a more meaningful
+relationship.”
+Such relationships might well be collaborative, following the broad, current day adoption of social
+media, and mobile, following the nearly ubiquitous availability of wireless computer and communication technology. Montfort and Short note how practitioners of electronic literature, digital artists,
+writers, authors, and programmers look to the IF community for resources and collaboration via information and theoretical discussion sites, along with online support centers (Montfort & Short,
+2012).
+Extrapolating, we might expect the same resources to evolve for future digital storytelling. Even
+though creators of digital storytelling might see their primary audience having different concerns,
+they might turn to a model inspired by the IF community for tools and technical support, collaboration, and group production.
+
+Page 9 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+The results could be a practice with “clear analogies to performance and conceptual art” (Raley,
+2009, p. 3), gamelike in that they will attract participants, motivate and facilitate interaction and
+participation, but strike a balance between “the value free nature of art” and competitiveness found
+at the basis of games (Løvlie, 2012). Potential benefits could include opportunities to transcend
+one’s frame of reference, construct new meanings, build community with others, and engage in
+transformative experiences. The further overlay of social media and multiplayer games could promote multiplatform narratives that include collaborative interactions between multiple authors
+and/or participants.
+Future digital storytelling might utilize ebooks and mobile devices as convenient and powerful
+contexts for multimedia narratives created from “publicly created contributions” (Adams, 2009, p.
+239). The implications and importance of these opportunities may be interesting, especially as they
+promote new ways of teaching and learning as well as creating, critiquing, and consuming humanities research and scholarship.
+
+6. Framework and outcomes
+After this breathless overview of digital storytelling, it may be useful to consider a framework for
+using digital storytelling as well as potential outcomes. For the sake of transparency, let me say that
+for me, practice is more productive than theory.
+In this approach, I agree with Burdick, Drucker, Lunefeld, Presner, and Schnapp (2012) who say
+that by making things we conduct research, that our cross-media artifacts, interactions, and critically informed literacies are equally valuable, and compelling, as more traditional text-based analysis, commentary, narration, and critique (Burdick et al., 2012, p. 10). Specifically, they position DH as
+“a production based endeavor in which theoretical issues get tested in the design of implementation, and implementations are loci of reflection and elaboration” (Burdick et al., 2012, p. 13).
+I also find support in Stefano M. Vannotti’s idea of action research and belle hooks’ “transformative pedagogy” (Hooks, 2014, p. 36). Vannotti calls action research “systematic inquiry conducted
+though the medium of practical action, calculated to devise or test new, or newly imported, information, ideas, forms, or procedures and to generate communicable knowledge” (Vannotti, 2008, p. 55).
+It is a way to unite “practical work in the field ... with academic research” (Vannotti, 2008, p. 51) and
+teaches students how to think critically and theoretically about their practice. As Vannotti notes, all
+“theories, principles, and ideas reside in the artifacts we create” and “build the ground for further
+investigation” (Vannotti, 2008, p. 56).
+This notion of prototyping and versioning speaks to the capacity within DH for rapid creation, testing, and reworking. This, in turn, encourages experimentation, risk-taking, and positive reaction to
+failure. As hooks notes, this approach is transformational, empowering students by their engagement in the process of solution implementation. Transformative pedagogy, says hooks, involves
+student-centered, holistic, and praxis-oriented approaches that allow students to create their own
+knowledge. Transformative pedagogy involves a “revolution of values” (Hooks, 2014, p. 23) and embraces Martin Luther King’s notion of the “shift from a ‘thing’-oriented society to a ‘person’-oriented
+society” (Hooks, 2014, p. 27). Additionally, “engaged pedagogy” (Hooks, 2014, p. 21), empowered by
+process, promotes the union of body, mind, and spirit in a “holistic approach to learning” that seeks
+enlightenment along with acquisition of new knowledge (Hooks, 2014, p. 14).
+Najat Smeda, Eva Dakich, and Nalin Sharda conclude that digital storytelling is a meaningful approach for creating a constructivist learning environment based on novel principles of teaching and
+learning and has the potential to enhance student engagement and provide better educational outcomes for learners. Simply put, constructionsim provides opportunities for people to learn by making
+personally meaningful artifacts and sharing them with others (Smeda, Dakich, & Sharda, 2004).
+Furthermore, digital storytelling seems to promote narrative theory, all forms of human
+
+Page 10 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+communication are stories representing “symbolic actions—words/deeds—that have sequence and
+meaning for those who live, create, or interpret them” (Fisher, 1989, p. 58).
+An overarching outcome from digital storytelling might be intermediality—the combination of
+analog and digital practices (live performance and digital animation, e.g.)—which may promote new
+approaches to critical thinking and analysis. For example, Rina Benmayor argues digital storytelling
+enables critical and creative analysis in safe and empowering spaces suitable for cross-cultural collaboration and learning. Benmayor says digital storytelling empowers and transforms students intellectually, creatively and culturally (Benmayor, 2008). Sharing stories allows students and others
+to construct mental models about study topics and reflect on learning processes in their lives (Wang
+& Zhan, 2012). Finally, as might be surmised from its history, storytelling serves as an “‘expert system’ helping us remember and integrate what we learn” (McLellan, 2006, p. 72).
+More specifically, Shuyan Wang and Hong Zhan note a number of positive outcomes for students
+engaged with digital storytelling, including learning new content, illustrating ideas and procedures,
+reinforcing understanding of content, promoting innovation and creativity, personalizing learning
+experiences, facilitating discussions, and comprehending difficult material (Wang & Zhan, 2012).
+Bernard Robin and Hilary McLellan say that creating digital stories prompts students to develop
+twenty-first century literacy skills like research, writing, technology, and teamwork. Research involves critical thinking, evaluation of sources, and selection of content. Writing involves development of skills for analyzing audience, determining story purpose, selecting the best tone for delivery,
+as well as developing and practicing language communication skills like drafting, editing, and revising. Technology involves comprehending when, how, and what technology to use to articulate the
+story/message. Teamwork involves collaboration with others (McLellan, 2006; Robin, 2008).
+Laura Malita and Catalin Martin add assessment skills, like learning to evaluate one’s work and
+providing feedback to others (Malita & Martin, 2010).
+Despite these apparent benefits, there are notable challenges to implementing/incorporating digital storytelling. First, lack of access to hardware, software, and technical support can quickly render
+any approach unachievable. The lack of instructor ability to use technology in meaningful ways, and
+thus to guide others, can thwart the best intentions for using digital storytelling for research/scholarship presentation or classroom activities. There is also the undeniable need for institutional support. It makes no sense for a DH scholar or teacher to use digital storytelling if the results are not
+valued by her institutional administrators and those who will assess her progress toward promotion/
+tenure. Finally, the lack of time to implement digital storytelling projects can prove daunting. If one
+must learn skills and techniques with technology concurrently with teaching digital storytelling, best
+outcomes should not be expected (Clarke & Adam, 2010; Dogan & Robin, 2008; Sadik, 2008).
+
+7. Conclusion
+This essay provides an overview of the use of digital media to help tell stories. The point of view is
+experimental practice rather than theoretical analysis. From this orientation, digital storytelling
+might be seen as a collision/collusion between the ancient traditions of orality and the instant information access of mass communication systems. The attractions are interest in storytelling as a
+methodology for sharing information, the relative ease with which digital stories can be created and
+distributed, and opportunities to provide engaging opportunities for scholarship, pedagogy, crossdisciplinary discussion and community building, and distribution of work. Benefits include interactivity, nonlinearity, flexible outcomes, user participation, even co-creation. Challenges include access,
+training, support, validation, and pushback from traditional scholars accustomed to working alone,
+with physical objects, and following established theoretical guidelines who may find who may find
+digital storytelling disruptive. There is also the acknowledgment that the “digital” part of the telling
+is not the story. The essential ingredients of a good narrative and effective storytelling—strong
+
+Page 11 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+characters, compelling plot, conflict resolution—remain relevant. The focus then, of digital storytelling, is communicating compelling narratives in creative ways (Robin, 2008).
+DH seeks to encourage dialog and collaboration across disciplinary boundaries, as well as theoretical/practical divides. With multiple technological platforms already harnessed by DH, many of
+which are similar to those that could be used for digital storytelling, it seems appropriate to suggest
+that digital storytelling can and should be developed in parallel with DH ideas and perspectives to
+extend the methods and means of research and teaching in the humanities.
+Perhaps, in conclusion, the importance of digital storytelling, with its broad range of practices, is
+its use to explore new ways of perceiving and interacting with stories in spaces that otherwise would
+be out of reach. With digital storytelling an important component of digitally-framed humanities
+practice, and a focus on esthetic territory rather than ideology of user involvement, what types of
+digital stories might we tell?
+Funding
+The author received no direct funding for this research.
+Author details
+John F. Barber1
+E-mail: jfbarber@eaze.net
+1
+Creative Media & Digital Culture Program, Washington State
+University Vancouver, Vancouver, WA, USA.
+Citation information
+Cite this article as: Digital storytelling: New opportunities
+for humanities scholarship and pedagogy, John F. Barber,
+Cogent Arts & Humanities (2016), 3: 1181037.
+Note
+1. The combination of digital media and the art of storytelling raises several interesting research questions:
+• How might the use of specific digital media enrich the
+storytelling experience?
+• How do we make the form of digital storytelling
+communicate its content effectively?
+• How do we build interactivity into a narrative?
+• How might we apply storytelling elements to the
+production and experience of narrative delivered on
+different digital media platforms?
+• How might digital storytelling facilitate the creation and
+consumption of knowledge that will engage, enlighten,
+and involve diverse readers/interactors/participants?
+References
+Adams, M. (2009). Mixed reality arts. In M. Montola, J. Stenros,
+& A. Waern (Eds.), Pervasive games: Theory and design
+(pp. 236–240). Burlington, MA: Morgan Kaufmann.
+Alterio, M., & McDrury, J. (2004). Learning through storytelling
+in higher education: Using reflection and experience to
+improve learning. Sterling, VA: Dunmore Press.
+Barber, J. (2013). Walking-talking: Soundscapes, flâneurs, and
+the creation of mobile media narratives. In J. Farman
+(Ed.). The mobile story: Narrative practices with locative
+technologies (pp. 95–109). New York, NY: Routledge.
+Barber, J. (2014). 34 North 118 West. Radio Nouspace.
+Retrieved from http://radionouspace.net/index.
+php/38-north-118-west/
+Benmayor, R. (2008). Digital storytelling as a signature
+pedagogy for the new humanities. Arts and Humanities in
+Higher Education, 7, 188–204.
+http://dx.doi.org/10.1177/1474022208088648
+Branch, J. (2012). Snow fall: Avalanche at tunnel creek. The
+New York Times. Retrieved from http://www.nytimes.com/
+projects/2012/snow-fall/#/?part=tunnel-creek
+
+Burdick, A., Drucker, J., Lunefeld, P., Presner, T., & Schnapp, J.
+(2012). Digital_Humanities. Cambridge, MA: MIT Press.
+Retrieved from https://mitpress.mit.edu/sites/default/
+files/titles/content/9780262018470_Open_Access_
+Edition.pdf
+Campbell, J. (1949). The hero with a thousand faces. Princeton,
+NJ: Bollingen Foundation.
+Clarke, R., & Adam, A. (2010). Digital storytelling in Australia:
+Academic perspectives and reflections. Arts & Humanities
+in Higher Education, 11, 157–176. Retrieved from http://
+www.academia.edu/4446998/
+Dogan, B., & Robin, B. R. (2008). Implementation of digital
+storytelling in the classroom by teachers trained in a
+digital storytelling workshop. In K. McFerrin, R. Weber,
+R. Carlsen, & D. Willis (Eds.), Proceedings of Society
+for Information Technology & Teacher Education
+International Conference (pp. 902–907). Chesapeake, VA:
+AACE. Retrieved from http://faculty.coe.uh.edu/brobin/
+homepage/site2008_briefpaper-Dogan_Robin_final.pdf
+Douglas, S. (1999). Listening in: Radio and the American
+imagination from Amos ‘n’ Andy and Edward R. Murrow
+to Wolfman Jack and Howard Stern. New York, NY: Times
+Books.
+Fisher, W. R. (1989). Human communication as narration:
+Toward a philosophy of reason, value, and action.
+Columbia, SC: University of South Carolina Press.
+Hooks, B. (2014). Teaching to transgress: Education as the
+practice of freedom. New York, NY: Routledge.
+Kearney, M. (2009). Investigating digital storytelling and
+portfolios in teacher education. World Conference
+on Educational Multimedia, Hypermedia and
+Telecommunications, 2009, 1987–1996.
+Lambert, J. (2002). Digital storytelling: Capturing lives, creating
+community. Berkeley, CA: Digital Diner.
+Levinson, P. (1999). Digital McLuhan: A guide to the information
+millennium. New York, NY: Routledge.
+Lieberman, D. A. (2006). What can we learn from playing
+video games? In P. Vorderer & J. Bryant (Eds.), Playing
+video games: Motives, responses, and consequences (pp.
+379–397). Mahwah, NJ: Lawrence Erlbaum.
+Løvlie, A. S. (2012). Flâneur, a walkthrough: Locative literature
+as participation and play. Dichtung Digital, 42. Retrieved
+December 20, 2012, from http://www.dichtung-digital.de/
+en/journal/englische-artikel/?postID=549
+Malita, L., & Martin, C. (2010). Digital storytelling as web
+passport to success in the 21st century. Procedia Social
+and Behavioral Sciences, 2, 3060–3064. Retrieved from
+http://ictandenglish.webs.com/documents/Digital%20
+storytelling.pdf
+http://dx.doi.org/10.1016/j.sbspro.2010.03.465
+Mamet, D. (2002). Three uses of the knife: On the nature and
+purpose of drama. London: Methuen.
+Page 12 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+McGonigal, J. E. (2006). This might be a game: Ubiquitous play
+and performance at the turn of the twenty-first century.
+Berkeley, CA: University of California.
+McLellan, H. (2006). Digital storytelling in higher education.
+Journal of Computing in Higher Education, 19, 65–79.
+Miller, C. H. (2008). Digital storytelling: A creator’s guide to
+interactive entertainment (2nd ed.). Oxford: Elsivier.
+Montfort, N. (2003). Twisty little passages. Cambridge, MA: MIT
+Press.
+Montfort, N. (2007). Riddle machines: The history and nature of
+interactive fiction. In R. Siemens & S. Schreibman (Eds.), A
+companion to digital literary studies (pp. 267–282). Oxford:
+Blackwell.
+Montfort, N., & Short, E. (2012). Interactive fiction communities
+from preservation through promotion and beyond.
+Dichtung Digital, 41. Retrieved November 9, 2012
+from http://www.dichtung-digital.de/en/journal/
+englische-artikel/?postID=326
+Nelson, G. (2001). A short history of interactive fiction. Inform
+Designer’s Manual 46 (4th ed.). St. Charles, IL: IF Library.
+Retrieved from http://inform-fiction.org/manual/html/
+Nepstad, P. (2012). 1893—Bringing a real setting to life in
+interactive fiction. The Illuminated Lantern. Retrieved from
+http://www.illuminatedlantern.com/
+Raley, R. (2009). Mobile media poetics. In S. Penny (Ed.), The
+present and future of humanist inquiry in the digital field
+(pp. 12–15). Irvine, CA: Digital Arts and Culture 2009, Arts
+Computation Engineering, University of California Irvine.
+Robin, B. R. (2008). Digital storytelling: A powerful technology
+tool for the 21st century classroom. Theory into Practice,
+47, 220–228.
+http://dx.doi.org/10.1080/00405840802153916
+Rossiter, M., & Garcia, P. A. (2010). Digital storytelling: A new
+player on the narrative field. New Directions for Adult and
+Continuing Education, 2010, 37–48.
+http://dx.doi.org/10.1002/(ISSN)1536-0717
+Sadik, A. (2008). Digital storytelling: A meaningful technologyintegrated approach for engaged student learning.
+Educational Technology Research and Development, 56,
+487–506. Retrieved from http://classroomweb20.pbworks.
+com/f/digital+storytelling.pdf
+http://dx.doi.org/10.1007/s11423-008-9091-8
+Smeda, N., Dakich, E., & Sharda, N. (2004). The effectiveness
+of digital storytelling in the classrooms: A comprehensive
+study. Smart Learning Environments. Retrieved from http://
+www.slejournal.com/content/1/1/6
+Vannotti, S. M. (2008). But how can we produce knowledge
+by designing interfaces? In C. Sommerer, L. Mignonneau,
+& D. King (Eds.), Interface cultures: Artistic aspects of
+interaction (pp. 51–60). New Brunswick, NJ: Transaction.
+Wang, S., & Zhan, H. (2012). Enhancing teaching and learning
+with digital storytelling. In A. Lawrence Tomei (Ed.),
+Advancing education with information communication
+technologies (pp. 179–191). Hershey, PA: IGI Global.
+Retrieved from http://sites.jmu.edu/pocketstories2014/
+files/2014/06/Enhancing-Teaching-and-Learning-withDigital-Storytelling.pdf. Originally published: International
+Journal of Information and Communication Technology
+Education, 6, 76–87, 2010, April–June.
+
+Resources
+
+7 things you should know about … Digital Storytelling
+(Educause)
+Describes the who, what, when, where, and why of digital storytelling. Retrieved from http://www.educause.edu/
+library/resources/7-things-you-should-know-about
+-digital-storytelling
+
+Alexander, Bryan. The New Digital Storytelling: Creating
+Narratives with New Media. Santa Barbara, CA: Praeger,
+2011.
+Bran, Ramona. “Message in a bottle: Telling stories in a
+digital world.” Procedia Social and Behavioral Sciences 2,
+2010: 1790-1783. Retrieved from http://ac.els-cdn.com/
+S1877042810010268/1-s2.0-S1877042810010268-main.
+pdf?_tid=81cbaf60-74fb-11e5-a917-00000aacb3
+5f&acdnat=1445106106_b6a8163d2f0be14c53
+5465ecd4ebe35d
+BrandJuice. “A Whiteboard History of Storytelling”
+4,000 years of storytelling in 4 min; illustrates the power
+of video to enhance storytelling. Retrieved from https://
+www.youtube.com/watch?v=p6E8jpFasR0
+Digital Storytelling: Tips and Resources (Educause)
+A guide describing strategy and sample rubrics.
+Retrieved from http://net.educause.edu/ir/library/pdf/
+eli08167b.pdf
+EdTech Teacher: Digital Storytelling in the Classroom
+Discussion of tools, media resources, and classroom integration ideas. Retrieved from http://edtechteacher.org/
+tools/multimedia/digital-storytelling/
+Educational Uses of Digital Storytelling (University of
+Houston)
+Examples of digital storytelling from around the world,
+articles, research, Web 2.0 resources, and websites.
+Retrieved from http://digitalstorytelling.coe.uh.edu/index.
+cfm
+Hight, Jeremy “Narrative Archealogy.” Retrieved from
+http://www.academia.edu/203311/narrative_archaeology
+I Love Bees (2004; 42 Entertainment) is an alternate reality game designed to serve as both material world experience and a viral marketing campaign for the August 2004
+release of the video game Halo 2. Gameplay devices included telephone calls (both to public pay phones and
+players mobile telephones), email messages, in-game text,
+and arranged meetings between players and characters,
+all providing clues or codes. In just three months leading
+up to the release of Halo 2, over three million players used
+clues and codes to solve the mystery of I Love Bees, and
+construct a story which then served as a prequel to Halo 2.
+See “I Love Bees” at the Radio Nouspace website for more
+information. Retrieved from http://radionouspace.net/index.php/i-love-bees/
+Ira Glass on the power of storytelling Retrieved from
+https://www.youtube.com/watch?v=K1NQKrbVslk
+LA Flood Project (2010; Christy Dena, Jeremy Douglass,
+Juan B. Gutierrez, Jeremy Hight, Marc C. Marino, and Lisa
+Ann Tao) begins with a devastating flood in Los Angeles,
+California. Players engage by telephoning from their physical locations to learn the latest flood developments. As the
+flood spreads, and more players engage, hidden boundaries are made visible as the multi-POV locative narrative
+experience unfolds across Los Angeles.
+The Nokia Game (1999–2005) was an annual series of
+alternate reality games designed to promote Nokia mobile
+telephones. Several involved communication between
+players through various forms of mass media and featured
+storylines that changed each year. Each game lasted 3 to
+4 weeks.
+
+Page 13 of 14
+
+Barber, Cogent Arts & Humanities (2016), 3: 1181037
+http://dx.doi.org/10.1080/23311983.2016.1181037
+
+© 2016 The Author(s). This open access article is distributed under a Creative Commons Attribution (CC-BY) 4.0 license.
+You are free to:
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+Under the following terms:
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+No additional restrictions
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Cogent Arts & Humanities (ISSN: 2331-1983) is published by Cogent OA, part of Taylor & Francis Group.
+Publishing with Cogent OA ensures:
+•
+
+Immediate, universal access to your article on publication
+
+•
+
+High visibility and discoverability via the Cogent OA website as well as Taylor & Francis Online
+
+•
+
+Download and citation statistics for your article
+
+•
+
+Rapid online publication
+
+•
+
+Input from, and dialog with, expert editors and editorial boards
+
+•
+
+Retention of full copyright of your article
+
+•
+
+Guaranteed legacy preservation of your article
+
+•
+
+Discounts and waivers for authors in developing regions
+
+Submit your manuscript to a Cogent OA journal at www.CogentOA.com
+
+Page 14 of 14
+
+

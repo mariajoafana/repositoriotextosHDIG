@@ -1,0 +1,554 @@
+Article
+
+From subject to collaborator:
+Transmedia storytelling
+and social research
+
+Convergence: The International
+Journal of Research into
+New Media Technologies
+2017, Vol. 23(1) 49–60
+ª The Author(s) 2017
+Reprints and permission:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/1354856516675252
+journals.sagepub.com/home/con
+
+Donna Hancox
+Queensland University of Technology, Australia
+
+Abstract
+New media technologies and the narrative turn in qualitative research have expanded the methods
+through which we gather and share the stories of groups who have traditionally been written about
+by others rather than telling their own stories to reveal the complexities of their experiences.
+There is a long tradition in community arts, community development and social activism that posits
+personal narratives as the building blocks for public understanding of complex social issues. In the
+fields of community storytelling, documentary and social activism, it is possible to see an emerging
+intersection between the affordances of digital technologies and the recognition of the stories of
+marginalized people. This article is particularly interested in the ways storytellers have repurposed
+the accepted conventions of transmedia storytelling to create projects that are able to offer a
+multiplicity of voices and to create stories that can represent complex issues without privileging a
+particular point of view or story form.
+Keywords
+Collaboration, community projects, digital storytelling, digital technology, narrative research,
+participation, social activism, transmedia storytelling
+
+Introduction
+The role of narratives, and in particular personal narratives, in the context of social research has
+undergone significant change in the past three decades. The narrative turn in the social sciences
+deeply influenced the methods through which researchers gather data about communities and
+cohorts, and also changed the modes of representing this data. This contributed to the recognition
+
+Corresponding author:
+Donna Hancox, Queensland University of Technology – Kelvin Grove Campus, Level 2, Z2, Musk Avenue., Kelvin Grove,
+Queensland 4059, Australia.
+Email: d.hancox@qut.edu.au
+
+50
+
+Convergence: The International Journal of Research into New Media Technologies 23(1)
+
+of stories as important mechanisms for researchers to understand the contexts and nuances of the
+environments they are studying. Approaches that are embedded within the lived experiences of
+subjects demonstrated a new emphasis on human agency and its relevance to understanding
+broader social conditions. The purpose of quantitative research is to reveal dominant trends, while
+qualitative stories serve to reveal the individual stories and their potential to extrapolate larger
+issues. These stories also enable us to see ‘different and sometimes contradictory layers of
+meaning, to bring them into useful dialogue with each other, and to understand more about
+individual and social change’ (Andrews et al., 2013: 2). Beyond the academic applications of
+narrative-based social research, there is a strong conviction in community activism that personal
+narratives represent the building blocks for public understanding (see Davis, 2002; Stivers, 1993)
+and that they have an important role to play in changing public opinion about particular issues.
+Since the late 1990s, digital technology has provided the means for stories to be created quickly
+and shared widely. In the last decade, in particular, a range of open source storytelling software has
+provided those considered non-experts or amateurs with the capacity to create stories outside of
+organized activities or professionally led workshops. According to Estalella and Sanchez-Criado,
+‘there has been intense debate in the social sciences on the transformation that digital technologies
+are introducing in the production of social knowledge. Those formerly known as non-experts or lay
+are increasingly using tools to extract social data’ (2015:301), and using this data for their own
+purposes. The domain of social research as the predominant means through which to gather and
+share information about marginalized communities and to agitate, albeit slowly, for change and
+social justice has eroded as a result, in part, of new media technologies.
+In the suite of innovations in these new media technologies, transmedia storytelling represents
+arguably one of the most profound transformations in storytelling. Transmedia storytelling was
+first introduced into the mainstream via media theorist Henry Jenkins in 2003. At the time he
+identified a pattern of storytelling that made use of emerging media platforms that were readily
+available to and being utilized by everyday consumers. Jenkins described rather than defined
+transmedia storytelling as a story that ‘unfolds across multiple media platforms with each new text
+making a distinctive and valuable contribution to the whole’ (2003). Since its inception, transmedia storytelling has continued to develop in important and unexpected ways. Original examples
+of transmedia storytelling tended to be tethered to major mainstream creative artefacts (or
+‘motherships’) such as a feature film or television series (see Matrix, Lost and Spooks) and the
+other elements were deployed as a means of marketing or as extensions of the narrative that were
+ultimately extraneous to the central story. However, contemporary transmedia stories are
+increasingly a constellation of media, forms and modes of storytelling that create a holistic narrative in which different aspects of the story – time frame, a rich detailed storyworld or multiple
+points of view – are told in a way that brings together form and content to create a unique aesthetic.
+One of the central philosophies of this type of transmedia is a commitment to a de-centralized
+concept of authorship that does not privilege one voice, one part of the story or one platform over
+another. These projects incorporate recognizable conventions of transmedia storytelling but also
+borrow from other forms of storytelling that predate transmedia such as digital storytelling and
+documentary film-making.
+This bricolage approach to transmedia has the potential to contribute profoundly to social
+research projects that use personal narratives. This article explores the ways in which transmedia
+storytelling can contribute to narrative and social research to both create and share personal
+narratives that emerge from innovative collaborations with the communities being studied. The
+article will explore the role of narrative in social change, and the unique qualities of transmedia
+
+Hancox
+
+51
+
+storytelling that make it especially useful for social researchers will be discussed. A series of
+transmedia storytelling as activism projects will also be investigated to provide useful examples of
+how to consult, create and collaborate with communities.
+
+Narrative-based research and social change
+In Narratives, Health and Healing, Harter et al. (2008: 3) maintained that ‘narrative is a fundamental way of giving meaning to experience’. It is also capable of giving voice and meaning to
+the experiences of groups and communities who have previously only been represented through
+research, in the media or government policy by others rather than determining their own forms of
+representation. The belief that stories have an important role to play in social change has an
+abiding place in many organizations and social movements. In Australia, storytelling projects
+about the Stolen Generation and The Forgotten Australians were instrumental in bringing the
+plights of these groups into public consciousness and successfully agitating for official apologies
+from the government at the time (see Adkins and Hancox, 2014; Burgess, 2006). In part, the
+underlying philosophy behind these kinds of storytelling activities is a belief that having the
+opportunity to tell their own stories empowers individuals and communities, and that sustainable
+change occurs from within empowered communities. Nevertheless, stories do not exist in a
+vacuum and the purpose of many community storytelling or social research projects is to bring
+those stories into the public discourse.
+Polkinghorne (1988: 18) suggested that ‘narrative is a meaning making structure that organizes
+events and human actions into a whole, thereby attributing significance to individual actions and
+events according to their effect on the whole’ and, as such, it privileges plot structure as a central
+feature. This emphasis is generally considered integral to narrative and suggests a need for a linear
+and coherent order of events for a story to be effective in communicating with an audience.
+However, stories and narratives have multiple purposes, and in some instances, a story can be
+represented through various media and in abstract ways to convey the experiences of the storytellers and to engage the audience in a way that ‘stimulates the audience’s creative participation
+and identification and invites them to supply what is unspecified yet required’ (Davis, 2002: 16).
+Social/narrative research projects often create and analyse a series of individual stories in an
+effort to reflect the multiplicity of voices and heterogeneous experiences in any environment.
+These kinds of projects require a progressive understanding of research practices. Narrative
+research and praxis focuses on ‘more holistic research process while sharing mutual responsibilities to enhance understanding of local phenomenon and explore the transformative possibilities for improving local context’ (Blodgett et al., 2011: 523). Stories used in this way do not
+promise widespread understanding and resolution of social issues or inequality simply because a
+narrative has been created and shared by those directly affected. Rather, they signal that there is
+more to be done and more to be understood, and these changes need to be established from within
+those local contexts.
+As previously mentioned, the prevalence of non-experts instigating their own storytelling
+projects or taking on roles outside that of research subject in research projects due to digital
+technology has changed the ways we frame and view personal narratives in these instances. ‘The
+elaboration of research methods by non-experts brings into existence forms of social research that
+destabilise the expertise and authority of the social sciences . . . social scientists could interpellate
+these others as collaborators rather than as research subjects’ (Andrews et al., 2013: 302). The
+current confluence of the continued narrative turn in social research, the ubiquity of new media
+
+52
+
+Convergence: The International Journal of Research into New Media Technologies 23(1)
+
+technologies and transmedia storytelling specifically has created the space for what might be called
+amplified collaborations between researchers and subjects. Estalla and Sanchez-Criado have
+identified the fruitful intervention of digital technology into social research, and the possibility it
+brings for new approaches to collaboration stating: ‘A collaboration of this kind involves reconsidering the role of the social scientists as experts, a risky situation that however offers the
+opportunity for renewal in social science’ (2015: 302). Digital technology and new media technologies in and of themselves are not responsible for the possibilities proposed in this article. It is
+the way in which these existing and emerging technologies are repurposed and adapted by users
+that creates new narrative-based methodologies.
+
+Transmedia storytelling as a set of hybrid practices
+Transmedia storytelling by its very nature is multilayered and dialogic, and as a means of creating
+and communicating personal narrative allows for increasingly horizontal modes of authorship and
+further dismantling of the concept of the expert researcher and storyteller. Andrews et al. describe
+post-structuralist, postmodern, psychoanalytic and deconstructionist approaches to narrative
+research as having
+assumed that multiple, disunified subjectivities were involved in the production and understanding of
+narratives, rather than singular, agentic storytellers and hearers, and it was preoccupied with the social
+formations shaping language and subjectivity. In this tradition, the storyteller does not tell the story, so
+much as she is told by it (2013: 4).
+
+This is also applicable to some approaches to transmedia storytelling.
+
+Digital storytelling to transmedia storytelling
+The most widely understood versions of transmedia storytelling originally emerged out of a
+commercial framework that had deployed cross-media methods of creative marketing and audience engagement; however, ‘these practices take on new visibility in a networked culture’ (Jenkins, 2013b: 133). The contemporary complex and hybrid version of transmedia storytelling
+discussed in this article has its origins in that history but also maintains strong traces of digital
+storytelling, documentary film-making and interactive design. This evolution disrupts the most
+common definitions of platforms or mediums, but Ryan (2016: 5) suggests that a medium is best
+understood as an inherently polyvalent term whose meaning involves technological, semiotic and
+cultural dimensions. This is a useful lens through which to view the form of transmedia storytelling
+explored in this article and their attempts to present a diversity of voices and points of view.
+In ‘Hybrid Stories’, Tom Abba (2009: 61) states that ‘new media favour a multiplicity of voices
+(a digital version of an iteration of Mikhail Bakhtin’s notion of multivocality)’ and Jenkins (2009)
+discusses the concept stating ‘multiplicity allows fans to take pleasure in alternate retellings’.
+Jenkins (2013: 170) adds ‘the concept of multiplicity paves the way for us to think about fan fiction
+and other forms of grassroots expression as part of the same transmedia logic’. This acknowledgement of ‘transmedia logic’ rather than a transmedia definition is important and allows for a
+broader consideration of the applications for transmedia storytelling. It also encourages change
+rather than conformity in the form unlike some of the practices and movements it has grown out of.
+One of those practices that have clearly influenced the transmedia projects discussed in this
+article is digital storytelling. Much has been and continues to be written about digital storytelling as
+
+Hancox
+
+53
+
+a site for participation within a culture and as a means to improve digital literacy in segments of the
+society traditionally under-represented as participants in the digital culture (see Burgess, 2006;
+Hartley, 2009; Hartley and McWilliam, 2009; Lundby, 2008; Meadows, 2003). Within this context, the scope and definition of digital storytelling has changed significantly in the past 10 years. A
+digital story is generally a two-to-four-minute multimedia story in which photographs, film and
+drawings are used to convey a personal story, personally narrated by the storyteller. Digital
+storytelling as it has been theorized by scholars such as Hartley, Lundby, Lambert and Couldry is a
+workshop-based practice in which individuals and communities are taught by expert facilitators
+how to create the audiovisual stories after intensive workshopping of the script via a participatory
+story circle and in conjunction with the facilitator. The rise of digital storytelling in the early and
+mid-2000s in part mirrored the broad shift towards a more participatory online culture that privileges user-generated content and ordinary stories over content from official sources. One of the
+digital storytelling fills ‘a gap between everyday cultural practice and professional media’
+(Hartley, 2009:122).
+In 2013, two digital storytelling conferences – the 5th International Digital Storytelling
+Conference in Ankara, Turkey, and DS8 Digital Storytelling Festival in Cardiff – attracted the
+most influential thinkers and practitioners in the field. Both conferences were concerned with
+the question of what can be defined as digital storytelling in a contemporary landscape
+with increased ability by ordinary people to create their own stories outside the workshop
+framework that had been central to digital storytelling. Another area of discussion was the desire
+by many practitioners to be more flexible about their approach to what makes a ‘good story’ and
+to be sensitive to the varying audiences and intentions of individual projects to expand the
+usefulness of these projects and respond to the changes delivered by new technologies. At the
+2013 DS8 Festival in Cardiff, Mandy Rose in her keynote address stated that the ‘edges around
+documentary, storytelling, digital storytelling and activism are getting blurred’ and that content
+is increasingly coming from a variety of sources from across the web and that the assumed
+authority of forms such as digital storytelling and documentary film-making gets called into
+question, as does the role of the facilitator or author. ‘In short, he (the author) no longer depends
+on himself to convey a particular narrative program’ (Castells, 2010: 72). The shift away from
+traditional digital storytelling opened up space for community activists and researchers to
+consider new practices for storytelling.
+
+Storyworlds and world building beyond fiction
+Digital storytelling offers a limited, though very personal, perspective and environment in which
+to locate a personal narrative. Through its use of multiple narrative forms and media, transmedia
+storytelling is able to build a much wider and heterogeneous setting for stories. These detailed
+and expansive storyworlds are acknowledged as being a crucial element to transmedia storytelling and are evident in the early, commercial examples of transmedia projects. Being able to
+create an environment that can encompass the variety of experiences and points of view that exist
+in the real world through different forms of media creates the possibility for the general public to
+engage and interact with stories in ways that are situated and therefore contextualized to foster
+the potential for greater understanding and empathy. ‘A storyworld is not just the spatial setting
+where a story takes place; it is a complex spatio-temporal totality that undergoes global changes’
+(Ryan, 2016: 13). In her earlier work on storyworlds across media, Marie-Laure Ryan with Thon
+(2014: 1) claims:
+
+54
+
+Convergence: The International Journal of Research into New Media Technologies 23(1)
+the replacement of narrative with storyworld acknowledges the emergence of the concept of ‘world’
+not only in narratology but also on the broader cultural scene. Nowadays we have not only multi-modal
+representations of storyworlds that combine various types of signs and virtual online worlds that wait to
+be filled with stories by their player citizens but also serial storyworlds that span multiple instalments
+and transmedial storyworlds that are deployed simultaneously across multiple media platforms, resulting in a media landscape in with creators and fans alike constantly expand, revise and even parody.
+
+By considering storyworlds beyond both a description of setting in a language-based narratology context or as a fictional universe created for comic books or feature films, Ryan provides a
+‘much-needed centre of convergence and point of comparison to media studies’ (2).
+Two projects – Highrise and 18 Days in Egypt – will be discussed in length later to elaborate on
+how transmedia storytelling can provide examples for social researchers to consider more inclusive
+methodologies and to collaborate with subjects in ways that reimagine the relationship between
+researcher and subject through their commitment to co-creation and participation. But at this point,
+it is useful to briefly explore other transmedia projects that focus on particular aspects of transmedia storytelling such as world building, engagement and participation. Welcome to Pinepoint
+and Hollow are striking examples of creating dense storyworlds out of real-world environments.
+Through video footage, photographs, audio and text, the creators of Welcome to Pinepoint, Paul
+Shoebridge and Michael Simons, present the story of a town that no longer exists. Pinepoint was a
+community planned around an open-cut mine, and when the mine closed down in 1988, the single
+industry town also closed. Shoebridge and Simons manage to capture not just the geographical
+details of the town so the audience understands its location and characteristic, they also capture the
+social and cultural details of the time and place. The project is designed to resemble a photo album
+from the 1980s, and using this nostalgic aesthetic, they manage to convey a mood and a spirit that
+is necessary to truly understand the cast of characters who share their experiences of growing up in
+Pinepoint and their feelings about its eventual demolition. The details of the town are the key to the
+universality of this story and to the connection created with audiences. This is a story not only
+about place and memory but is also a larger story about the macroeconomics that influence lives
+and how individual fates are tied to corporate decisions. When a town closes down or loses an
+influential industry, the everyday stories about the lives affected and the struggle to continue are
+often lost. The storyworld created in Welcome to Pinepoint shows that storyworlds are larger than
+what is directly shown in the text, larger than the narrative ‘here’ and ‘now’ (Ryan, 2016: 4).
+Welcome to Pinepoint reveals what existed before the town died, so that audience can connect with
+the real lives and dreams that lived and died in that town.
+I think we just told the story how we thought we could tell it. We think it’s more part memoir for people
+growing up at that time and feeling things about what memory was to us, what tangible objects meant to
+us, and how memory gets flaky but interesting and romantic. Sometimes concrete and sometimes
+evocative (Macaulay, 2012).
+
+The director of Hollow, Elaine McMillion, echoes this sentiment when she discusses her
+decision not to make a linear documentary with an observational approach about McDowell
+County. McMillion stated in 2013 in Filmmaker that when she arrived at McDowell County, she
+found ‘really phenomenal stories of pride and hope’ and realized that ‘she wasn’t comfortable
+editing those into 75-minute form and putting a title slide saying ‘‘The End’’’. This shift to more
+interactive modes and multi-authored stories is more than the inevitable use of technology; it is
+also a conscious decision to radicalize the nature of the form. Hollow is a ‘community
+
+Hancox
+
+55
+
+participatory’ project and interactive documentary that explores the social and economic devastation of rural towns in America through the story of McDowell County in West Virginia. It brings
+together personal digital stories, photography, sound, interactive data and grass-roots mapping on a
+HTML5 website that was designed to explore the many stereotypes associated with the area,
+population loss and potential for the future.
+At the centre of the project are around 30 stories made about and by the residents of McDowell
+using video, stills, text and voice-over that are reminiscent of traditional digital stories. In a 2013
+interview in Filmmaker, McMillion claims that ‘the stories are encountered within this landscape
+so that the people featured emerge from a context of place and community. We were really
+avoiding database storytelling, where you simply sort the videos and watch what you’re interested
+in’. Hollow is interesting in a number of respects, as a finished product, it looks and feels like the
+very conscious combination of digital storytelling, documentary film-making and transmedia
+storytelling. The intentions of the creators are also explicit, with McMillion stating:
+I believe it is time that we let the community take control of their identity and allow them to amplify
+their own voices and ideas. Our hope is that through storytelling and the creation of multidimensional
+images, the community members will begin to see their environments and neighbors in a new way and
+begin to work together to preserve the history and make positive contributions to their communities.
+
+In both these projects, the multiple methods deployed to create the environments in which they
+are set as examples of not only the impact that attention to storyworld can have on non-fiction
+projects but also the consideration of how particular media and platforms can be utilized to best
+portray particular aspects of the world.
+
+Transmedia activism, participation and engagement
+Transmedia activism as defined by Lina Srivastava (2009) on her blog linasrivastava.com allows
+for the audience to experience an issue through multiple perspectives, and in turn, to build a deeper
+understanding due to the ability of transmedia to present a number of points of view, and to
+authentically depict or represent complex ecologies and complex issues. In the same ways,
+transmedia storytelling can be understood as philosophy of storytelling and an ecology of media
+tools that can be utilized in various forms depending on the needs of the project (such as who and
+where are the audiences; what forms might amplify the voices of the storytellers; how can each
+form be used to their best potential to work with certain parts of the story). The two previous
+projects discussed were clearly focused on world building and immersive environments to create a
+space for audiences to experience the stories in a situated way. Other projects are concerned with
+avenues through which audiences can engage and participate deeply with the content and issues.
+These projects involve the kind of fan engagement Jenkins identifies first in Convergence Culture
+and explores further in Spreadable Media. Brough and Shresthova claim ‘what is most relevant
+here however, if that fan communities often form around content worlds, that may not be explicitly
+political in nature, but can offer resources or spaces for political engagement’ (2012: n.p.). This
+form of activism appeals to fans who feel an affinity with the characters or broad themes of a film/
+book/television series and the use of the content world serves to encourage fans to either participate
+directly through events or fundraising promoted explicitly by the creators or to find their own ways
+to engage with the ideas.
+It is difficult to discuss transmedia activism without mentioning KONY2012. KONY2012 was
+not associated with a mainstream feature film (though the documentary uploaded to YouTube was
+
+56
+
+Convergence: The International Journal of Research into New Media Technologies 23(1)
+
+the entry point for most participants – http://www.youtube.com/watch?v¼Y4MnpzG5Sqc) and
+was led by a not-for-profit organization called Invisible Children. It had the explicit primary
+purpose of moving from awareness to action that would result in the capture of the leader of the
+Lord’s Resistance Army, Joseph Kony, by the end of 2012. The phenomenon of KONY2012 is still
+being understood and analysed, both for its extraordinary appeal and its failure to achieve its
+ultimate aim. It also came under a great deal of criticism from a range of sectors within days of the
+video being uploaded. As a transmedia project, KONY2012 is a textbook example making use of a
+documentary film, graphic novel, music video, t-shirts, posters and real-world events. Jenkins has
+defended criticisms of the KONY2012 project as being a gimmick by pointing out that it was not
+borne out of an online documentary that ‘went viral’, rather its ‘circulation depended on the
+hundreds of thousands of young people who already felt connected to the organization and to this
+cause through their participation in school-based clubs and grassroots campaigns over almost a
+decade’ (Jenkins, 2013: n.p.), though in 2013, Jenkins reassessed KONY2012 and Invisible
+Children, in terms of their success, stating: ‘Invisible Children was too centralised, not sufficiently
+participatory and knowledge was not adequately dispersed across the network’ (2013: 274).
+KONY2012 would seem to have features in common with the concept of amplified activism;
+however, unlike 18 Days in Egypt, Highrise (to be discussed in the next section) or Hollow
+KONY2012 does not present the experiences of those affected by Kony in their own words for the
+audience to understand and respond to, or even to raise awareness of the plight of child soldiers in
+Uganda. Despite its multiple ways of disseminating information, it presents a centralized voice that
+tells the audience what to think. ‘The campaign Invisible Children offers an extremely simple
+narrative: Kony is a uniquely bad actor, a horrific human being whose capture will end suffering
+for the people of Northern Uganda’ (http:/www.ethanzuckerman.com/blog/2012/unpacking-kony2012), and his capture could only happen through the military and political intervention of Western
+countries, namely the United States. This positing of an uncomplicated scenario with a clear
+solution is the antithesis of the amplified activism.
+Activism is commonly seen as a resistant practice and most excursions into any form of online
+activism can be understood as part of a series of disruptive exercises such as culture jamming.
+However, back in 2006, Jenkins questioned whether ‘the old concept of culture jamming has
+outlived its usefulness. The old rhetoric of opposition and co-option assumed a world where
+consumers had little direct power to shape the media’ (2006: 225–226) and ‘resistance becomes
+an end in and of itself rather than a tool to ensure cultural diversity and corporate responsibility’
+(259). The kind of activism illustrated in projects such as 18 Days in Egypt, Highrise and Hollow
+are inclusive in their approach rather than combative. They are also focused on illuminating
+hitherto unexamined aspects of an issue, particularly the experiences of the people involved to
+‘create alternative media representations and express alternative political imaginaries based on
+an emerging network ideal’ (Juris, 2004: 98). This approach echoes Castell’s theory of networked power ‘the re-programming of communication networks, so becoming able to convey
+messages that introduce new values to the minds of people and inspire hope for political change’
+(Castells, 2009). If activism such as culture jamming used imagination and appropriation to draw
+attention to problems, these projects attempt to draw attention to potential for change from
+within the communities, which is an important distinction from the examples of transmedia
+activism previously discussed.
+Carpentier stresses the distance between participation and interaction in relation to digital media
+projects, whereby participation requires input into decision-making and interaction is associated
+with sociocommunicative relations (2013: 275). He also presents two modes of participation: in
+
+Hancox
+
+57
+
+and through the media. It would seem that these are not oppositional avenues of participation, but
+his definition offers further insight into the multitude of ways individuals are able to participate.
+While participation in the media can be clearly understood, as the ability to make decisions about
+the media products while
+participation through media opens up another field of the participatory process, in other areas of
+decision making, which have more to do with how people can enter public spaces and use media to
+enter into societal debates, dialogue and deliberations (2013: 274).
+
+Highrise and 18 Days in Egypt are examples of projects created from within communities and
+make use of media in innovative ways to uncover new understandings of environments and cohorts
+and events. Thumin (2012: 7–8) has pointed out that so-called self-representations in digital media
+are often representations of a set of people made by another set of people. These two projects strive
+to facilitate the authentic self-representation of the groups involved and have documented the
+experiences and the hopes for the future of the participants.
+Highrise is described as ‘a multi-year and many-media collaborative documentary experiment
+at the National Film Board of Canada’ (http://highrise.nfb.ca, accessed 10 August 2013). The
+online project comprises two main components – Out my Window and The One Millionth Tower.
+The aim is to ‘see how the documentary process can drive and participate in social innovation
+rather than just to document it’ (http://highrise.nfb.ca, accessed 10 August 2015). Katerina Cizek,
+director of Out my Window, describes the stories as coming from relationships built through the
+early research into highrise living across the world. These initial research subjects and sources of
+information developed into creators of the stories for Out my Window. Cizek did not travel to each
+of the countries represented on the site and instead created a
+twenty-five page technical and creative brief that had all the details on how to gather materials for the
+project: equipment to use, minimum resolution for photos, how to send materials to us. Even more
+importantly, we gave information on how to develop the stories and on looking for objects that could
+serve as trigger points for the stories (http://colabradio.mit.edu/qa-highrise-documentary-filmmakerkaterina-cizek/, accessed 18 May 2016).
+
+This process seems startlingly similar to the ways in which traditional digital storytelling
+projects are developed; however, in this instance, the participants are provided with the information to create stories about their own homes without the presence of a facilitator or researcher
+present. While the aesthetic and philosophical approaches of the project were presented for the
+participants to adhere to the content, and the core of the stories was less controlled than digital
+storytelling or documentary film-making.
+The One Millionth Tower (http://highrise.nfb.ca/onemillionthtower/1mt_no_webgl.php?
+alternate¼fail&bandwidth¼high) was released in August 2012 and tells the story of one
+Canadian highrise in a 3-D immersive documentary powered entirely by HTML5, WebGL and
+other open-source JavaScript libraries. The residents of the crumbling tower block collaborated
+with a group of architects, animators and web developers to create the three-dimensional documentary. The first stage was for the residents and architects to survey the space around the
+buildings, and to reimagine the space together. Following this consultation, architects and animators brought the images to life for residents to review and approve the rough cut. Then,
+animators and residents shot live action footage and the web developers turned the film into
+virtual space. After the film was released, residents won a grant to build a new playground; in
+
+58
+
+Convergence: The International Journal of Research into New Media Technologies 23(1)
+
+part, this is attributed to the work they had done during The One Millionth Tower project in
+reimagining the space and consequently their ability to move quickly in making it a reality. It is
+in this spirit of cooperation and sharing of knowledge and expertise to create a new future for and
+by the residents that captures the possibilities of transmedia storytelling for researchers and
+activists working together in communities.
+18 Days in Egypt is a group storytelling project that encourages a dynamic and dialogic method
+of storytelling via the use of many contemporary storytelling techniques such as tweets, Facebook
+updates and mobile phone footage and uploading them to the purpose-built 18 Days in Egypt site.
+Egyptians were encouraged to contribute any stories they had from Tahrir Square and then invite
+family and friends to contribute to the story uploaded by adding their own perspective on the
+events. This has resulted in a multifaceted, multiperspective, multivocal version of each particular
+story. The only explicit interference from the producers/creators may be to request contextualizing
+information such as what day did the events occur on or in what location.
+Despite the open and inclusive nature of 18 Days in Egypt, the creators – Yasmin Elayat, an
+interactive designer, and Jigar Mehta, a video journalist and digital entrepreneur – decided to also
+involve ‘fellows’ to be responsible for ‘gathering media, conducting interviews and serving as a
+bridge between the online community and the offline world’ (www.pbs.org/pov/blog/2012/05/18days-in-egypt-co-creator-jigar-mehta/#.UhLVnak4TPk). Subsequently, the site is a combination
+of entirely user-generated content and other stories that have been co-created with the fellows.
+When discussing the future for 18 Days in Egypt, Eleyat says
+we haven’t actually settled on what the final experience will be yet of these stories but we do know
+what we want is to have any audience coming to our site to feel empathy for the characters. By showing
+you many many stories, and having the users decide who to keep following, we think that’s a strong
+way of building empathy with a character and getting that insight.
+
+The stories themselves cover many different topics from ‘The picture that almost got me killed’,
+‘The Motorcycle Heroes’ to interviews with rural farmers conducted by the fellows to ‘One Year
+Later’ and ‘Morsi’s Moment in Time’. Just as the Egyptian political landscape is evolving, this
+project is evolving. This is an important project to discuss as it utilizes many of the features of
+innovative and open collaboration, and a creative use of stories and platforms but it is also a
+difficult one to evaluate because of the ongoing upheaval in Egypt. 18 Days in Egypt explicitly
+deals with the days leading up to the 2011 Egyptian revolution, and reflects the excitement and
+hope evident in the change; however, the mood in Egypt currently would seem quite different. But
+it would seem that the overarching aim of 18 Days in Egypt was to capture this moment, and it
+undoubtedly has done that. In the process, it has also demonstrated the impossibility of ever really
+writing a history, even from within that history.
+
+Conclusion
+The ongoing role for researchers in narrative-based social research is in question. As communities
+and individuals can increasingly create and disseminate their own stories to agitate for recognition
+and change, it rests with researchers to consider their role in this relationship rather than automatically assuming their own authority or even their necessity in the process. The intersection of
+the narrative turn and the affordances of transmedia storytelling present researchers with the
+opportunity to reconsider the frameworks in which they conduct situated research and how they
+consider the politics of collaboration in these instances.
+
+Hancox
+
+59
+
+Its starting point is an invocation for the dismantling of the monolithic distinction between experts and
+non-experts; under these circumstances, the conventions of our methods treat others as informants or
+research subjects have to be suspended, and the social researcher is forced to explore how to articulate
+his/her knowledge production anew (Andrews et al., 2013: 3–4).
+
+The projects discussed in this article represent emerging approaches to agitating for social
+change that is interdisciplinary by nature and utilizes digital technology for its creation as well
+as dissemination. Our ability to gain knowledge and insight into experiences outside our own is
+greater than ever before, and with it comes a responsibility to acknowledge the experience of others
+and to consider how collaboration and participation are enacted. Nico Carpentier believes that
+currently the effectiveness of participation is linked to the ‘need to revert to the microanalytics of
+power, looking at how specific participatory practices are characterized by specific power balances
+and struggles at different levels, moments, and locations’ (Jenkins, 2013: 267). If the aim of
+narrative-based social research is, at least partly, to recognize and amplify the voices of marginalized groups and to present person-centred investigations of the world, then the intervention of
+transmedia storytelling into this tradition can allow for more equitable and diffuse power relationships between researcher and collaborators.
+References
+Abba T (2009) Hybrid stories: Examining the future of transmedia narratives. Science Fiction Film and
+Television 2(1): 59–75.
+Adkins B and Hancox D (2014) The role of the internet in testimony: The case of the ‘Forgotten Australians’.
+Media, Culture and Society 36(6): 1–17.
+Andrews M, Squire C, and Tamboukou M (2013) Doing Narrative Research. London: Sage Publications Ltd.
+Blodgett A, Schinkie R, Smith B, et al. (2011) Indigenous words: Exploring vignettes as narrative strategy for
+presenting research voices of aboriginal community members. Qualitative Inquiry 17(6): 522–533.
+Brough M and Shresthova S (2012) Fandom meets activism: Rethinking civic and political participation.
+Transformative Works. Available at: http://journal.transformativeworks.org/index.php/twc/article/view/
+303/265 (accessed 1 November 2015).
+Burgess J (2006) Hearing ordinary voices: Cultural studies, vernacular creativity & digital storytelling.
+Continuum: Journal for New Media & Cultural Studies 20: 201–214.
+Castells AG (2010) Interactive multi-media documentary. PhD Thesis, Pompeu Fabra University, Spain.
+Castells M (2009) Communicative Power. New York: Oxford University Press.
+Davis JE (2002) Narrative and social movements: The power of stories. In: Davis JE (ed) Stories of Change:
+Narrative and Social Movements. Albany: State University of New York Press, pp. 3–22.
+Harter L, Japp P, and Beck C (2008) Narratives, Health & Healing: Communication Theory, Research &
+Practice. Mahwah: Lawrence Erlbaum Associates Inc.
+Hartley J (2009) Uses of Digital Literacy. St. Lucia: University of Queensland Press.
+Hartley J and McWilliam K (2009) Story Circle: Digital Storytelling Around the World. Oxford: Blackwell
+Publishers.
+Jenkins H (2003) Transmedia storytelling. MIT Review. Available at: http://www.technologyreview.com/
+news/401760/transmedia-storytelling/ (accessed 2 April 2015).
+Jenkins H (2006) Convergence Culture. New York: Routledge.
+Jenkins H (2009) The revenge of the origami unicorn: Seven principles of transmedia storytelling (well, two
+actually. Five more on Friday). Confessions of an Aca-Fan. Available at: http://henryjenkins.org/2009/12/
+the_revenge_of_the_origami_uni.html (accessed 12 November 2015).
+Jenkins H (2013a) Fans. Blogger and Gamers – Exploring Participatory Culture. New York: Routledge.
+Jenkins H (2013b) Textual Poachers – Television Fans and Participatory Culture. New York: Routledge.
+
+60
+
+Convergence: The International Journal of Research into New Media Technologies 23(1)
+
+Jenkins H and Carpentier N (2013) Theorizing participatory intensities: A conversation about participation
+and politics. Convergence (19): 265–286.
+Juris JE (2004) Networked social movements: Global movements for global justice. In: Castells M (ed) The
+Network Society: A Cross-cultural Perspective. Northampton: Edward Elgar, pp. 341–362.
+Lundby K (2008) Digital Storytelling, Mediatized Stories: Self-Representations in New Media. New York:
+Peter Lang Publishing.
+Macaulay S (2012) The beauty ‘‘welcome to pine point’’. Filmaking, July 15 Available at: http://filmmaker
+magazine.com/48259-the-beauty-of-welcome-to-pine-point/#.WAQibu9eZf8 (accessed 15 December
+2015).
+Meadows D (2003) Digital storytelling: Research based practice in new media. Visual Communication 2(2):
+189–193.
+Polkinghorne D (1988) Narrative Knowing and the Human Sciences. Albany: State University of New York
+Press.
+Ryan M (2016) Text, worlds, stories – Narrative worlds as cognitive and ontological concept. In: Hatavara M,
+Hyvarinen M, Makela M, et al. (eds) Narrative Theory, Literature and New Media: Narrative Minds and
+Virtual Worlds. New York: Routledge, pp. 11–28.
+Ryan M and Thon J (2014) Storyworlds Across Media. Nebraska: University of Nebraska Press.
+Stivers C (1993) Reflections on the role of personal narratives in social science. Signs 18(1): 408–425.
+Srivastava L (2009) Transmedia Activism: Telling Your Story Across Media Platforms to Create Effective
+Social Change. Available at: http://www.namac.org/node/6925 (accessed 10 September 2015)
+Thumin N (2012) Self-Representation and Digital Culture. New York: Palgrave Macmillan.
+
+Author biography
+Donna Hancox is Director of Research Quality for the Creative Industries Faculty at Queensland University
+of Technology. She has published extensively about narrative innovation in transmedia storytelling and its
+potential for marginalized voices. Her research projects include community storytelling projects utilizing
+digital technology with under represented groups.
+
+

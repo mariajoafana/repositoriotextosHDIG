@@ -1,0 +1,299 @@
+Testing a Storytelling Tool for Digital Humanities
+Fabio Pittarello
+Università Ca’ Foscari Venezia
+Via Torino 155 - Venezia, Italia
+pitt@unive.it
+
+Abstract—This work presents an evaluation of ToBoA-3D, a
+social web platform for the annotation of 3D models and the
+creation of stories. ToBoA-3D was evaluated through a pilot study
+realized in a real educational context, the 2014 edition of the Fall
+School in Digital Humanities, held at the Università Ca’ Foscari
+Venezia in collaboration with the École Polytechnique Fédérale
+de Lausanne (EPFL). The tool was presented during the School’s
+lectures and then used by the students for creating stories during
+the labs’ activities. The results of the study were collected through
+direct observation and a questionnaire. The answers evidenced
+positive feedbacks for the core features of the platform and led
+to define an initial set of guidelines for its educational use.
+
+Keywords: annotation; cultural heritage; digital humanities;
+education; pilot study; storytelling; web3d
+I. I NTRODUCTION
+The availability of 3D representations for scholars is a great
+opportunity to support the processes of teaching and learning,
+especially for those disciplines that are deeply involved in the
+study of objects that have a 3D shape. A further exploitation of
+3D objects can be obtained by their annotation that permits, for
+example, to search annotated content across a set of different
+3D worlds, overcoming the navigation mechanisms provided
+by the authors of each model. ToBoA-3D [1] is a social
+web platform that permits to exploit the educational potential
+of annotated 3D worlds. It can be used for collaborative
+annotation, navigation and search of 3D worlds; the users can
+even add new 3D environments to the web repository and
+share them with the other users. The latest evolution of the
+platform [2] introduces the possibility to create educational
+stories on the top of the annotated worlds and to share them
+on the web. While ToBoA-3D can be personalized for different
+knowledge domains, so far the development has been focused
+on art and architecture. In this work we describe how ToBoA3D was tested in a real educational context, a necessary step
+for evidencing its points of strength and weaknesses and designing more extensive educational experiences. The occasion
+for the pilot study came from the Fall School in Digital
+Humanities, held in Venice in October 2014, in the context of
+the collaboration between the Università Ca’ Foscari Venezia
+and the EPFL (École Polytechnique Fédérale de Lausanne).
+Digital Humanities are an area of research and teaching at
+the intersection of computing and humanistic disciplines. This
+area combines the methodologies of the traditional humanities
+with tools and methods provided by computer science. The
+faculty of the Venice Fall School was compliant with this
+intersection, being composed by art and architecture historians
+but also computer scientists, which transmitted to the students
+DOI reference number: 10.18293/VLSS2015-011
+
+complementary knowledge about the School’s educational
+themes. The School was focused on the Venetian Renaissance
+and included class lessons, visits to historical sites and labs.
+About 20 students, mainly PhD students in Humanities, were
+selected for participating to the School, programmed for a
+full week. During this week a group of students had the
+opportunity to learn how to use ToBoA-3D and to apply
+this knowledge to the School’s themes. The results of the
+experience were collected through direct observation and a
+questionnaire and led to define a set of guidelines for the future
+use of ToBoA-3D.
+II. R ELATED WORKS
+The related literature encompasses different fields, from
+annotation of 3D worlds to storytelling. Because of space
+limits we’ll give only some hints, addressing to [1] [2] for
+further references. As far as annotation is concerned, there
+are different proposals for adding high-level semantics to the
+components of 3D environments, based on specifications such
+as MPEG-7, Collada or X3D. Most proposals use annotations
+referred to taxonomies or ontologies, but there are also systems
+that permit to use free tags [1]. The latter ones offer a
+more expressive and informal approach suited also to common
+people. Their benefits for cultural heritage have already been
+underlined in [3]. Annotation is however a first step towards
+a more advanced use of 3D worlds. Scopigno et al. [4]
+underline that the greater challenge for digital technologies
+is the creation of tools that use 3D models for supporting
+cultural heritage research. We claim that the introduction
+of storytelling for annotated 3D worlds can bring further
+advantages for researchers and pupils. Computer-enhanced
+storytelling represents an evolution of traditional storytelling.
+It takes advantage of technology for creating and delivering
+stories, but also for designing and managing new narrative
+models and proposing new relations between the narration,
+the reader and the context. The analysis of narratology, the
+science that studies the structure of the story, has greatly
+helped the building of models and architectures for interactive storytelling [5]. Several studies have demonstrated the
+usefulness of storytelling for educational experiences [6]. In
+the cultural heritage domain storytelling is used for engaging
+students during the learning process, associating the narration
+to multimedia components [7], real scenes [8], augmented [9]
+and virtual reality [10]. While other tools offer repositories
+of assets for speeding the creation of stories, ToBoA-3D fully
+exploits the potential of collaboration and knowledge sharing.
+
+III. T HE T O B OA-3D P LATFORM
+Each user can contribute to the ToBoA-3D platform in
+different fashions, uploading 3D models, annotating the components that define the 3D environments or building narrations.
+All the 3D environments belonging to the platform can be
+explored both using a first-person navigation style or querying the system for retrieving interesting objects and places
+contained inside of them. Altough users are not required to
+perform all the types of activities, a typical session with
+ToBoA-3D includes a mix of them. As far as the creation
+of narrations is concerned, the author creates a story starting
+from a list of personal bookmarks, corresponding to visited
+3D viewpoints related to annotated objects and locations, and
+selects an ordered set of them for defining the stages of
+a linear story. Each stage is then associated to multimedia
+content that will be automatically played during the narration.
+Additional content, such as textual descriptions, images and
+links to web resources, can be included. The interface for
+listening to stories is displayed in Fig.1. The story is automatically played synchronizing the delivery of the information
+associated to each stage with the automatic navigation to the
+associated 3D locations. If the story is narrated across different
+environments belonging to the platform, the system takes care
+of downloading automatically the required environment. The
+story can be stopped at any time, for allowing the listener
+to focus on details, exploring the 3D view or accessing the
+associated hypermedia. Stories can be navigated also selecting
+the single stage from the list available on the lower panel
+of the interface. Two key features of ToBoA-3D are that the
+results of all the activities are shared and that their authors
+are easily identifiable. The first feature enables all the users
+to take advantage of the work done by the other members
+of the community (e.g., upload of 3D models, annotations),
+avoiding to start from scratch for authoring. The second feature
+offers interesting scenarios for research and teaching. For
+example ToBoA-3D permits students to annotate a set of 3D
+architecture components after a lesson focused on classical
+orders and then the teacher to check the annotations made by
+each student, marked with the student’s ID. Further details
+about the ToBoA-3D functionalities are available in [2].
+IV. T O B OA-3D AT THE FALL S CHOOL
+The goal of the Fall School was to investigate, through
+a set of coordinated lectures and visits to Venetian palaces
+and collections, new ways of visualizing the evolution of
+architecture and artwork display. The School was focused in
+particular on investigating the evolution of the Grimani Palace
+in Venice and of the artwork collection contained in its main
+room, the so-called Tribuna. During the preparatory work
+we discussed with the other organizers how to present and
+use the annotation platform during the School’s activities. A
+skilled 3D modeler created a simplified model of the Grimani
+Palace and its Tribuna that was used as the scenario for an
+educational narration built with ToBoA-3D. The narration was
+created with the contribution of Cristiano Guerneri, one of the
+architecture historians involved in the School. It was organized
+
+as a self-paced linear story, guiding the students with a virtual
+camera through the locations of the palace. The first part of
+the School included lectures held by art historians and focused
+on the main School’s theme, but also talks related to the
+use of new technologies for cultural heritage, among which
+ToBoA-3D. The last two days of the school were dedicated
+to technological labs, held in parallel for small groups of
+students. For this reason, only four students out of twenty
+had the chance to attend the ToBoA-3D lab. In spite of the
+low number of students, the results were interesting. The
+initial phase of the ToBoA-3D lab was dedicated to a tutorial
+illustrating the different features of the platform. The students
+were then invited to try the techniques acquired on some test
+3D environments prepared for the School. Finally the students
+listened to the introductory story by the art historian that ended
+with the presentation of two tasks to accomplish:
+•
+
+•
+
+the creation of a narration describing a tour through the
+rooms of the palace, enriched with the snapshots taken
+during the visit to the real building;
+the creation of a a story related to an hypothesis of
+reallocation of the artworks of the Tribuna Grimani,
+which are currently placed in a different site.
+
+The students interpreted both the themes proposed, altough
+with some simplifications due to time constraints. The first
+story was an humorous interpretation where one of the students
+played the part of a Venetian nobleman and guided the listeners
+through the rooms of the palace (see Fig.1 on the left). The
+second story was a more serious narration, focused on the
+hypothesis of reallocation of the artworks in the Tribuna
+Grimani (see Fig.1 on the right; the red dots in the 3D scene
+represent the original position of the artworks).
+V. R ESULTS OF THE P ILOT S TUDY
+The four students were PhD candidates representatives of
+different research domains: visual arts and architecture (two
+students), computer science and interaction design, literature.
+While we should not consider this study as exhaustive, their
+answers have a great value for identifying the points of
+weakness and strength of the platform from different facets.
+Only two of them (the computer scientist and one of the
+art historians) had a fair knowledge of modeling techniques
+and interactive 3D environments. None of them had previous experience related to the annotation of 3D worlds. The
+results of the pilot study were collected through discussions
+with students and a final questionnaire, composed of closed
+and open questions, and articulated in 6 sections focused
+on annotation, search, storytelling, sharing, workflow and
+usability/engagement. We obtained positive results for most
+of the features of ToBoA-3D. While we don’t have the space
+to analyze the single results, we underline how the pilot
+study led to define more precisely the profile of the students
+interested in using this platform and the set of tasks that should
+define a complete experience. These results will be useful
+for designing a more advanced study or more extensive and
+complete educational experiences based ToBoA-3D:
+
+Fig. 1.
+
+The two stories created by the students at the Digital Humanities Venice Fall School
+
+design educational experiences for students interested in
+visual representation; the study revealed that ToBoA-3D
+resulted more appealing to students with a background
+focused on visual representation rather than on literature;
+we suggest, as a complementary guideline, that for longer
+term experiences such as a master course, the introduction
+of a basic 3D modeling course would be useful for giving
+a basic knowledge of 3D representation and attracting
+students with different cultural backgrounds;
+• include search and information sharing among the activities of the educational experience; in the pilot study
+students were shown the functionalities related to search
+and information sharing and declared their interest for
+them; however, starting also from the observations of
+the students, we estimate that it would be interesting to
+include specific tasks focused on these activities in the
+structure of the educational experience, proposing for example to search an annotated set of 3D worlds in relation
+to a given goal or to ask a group students to annotate
+individually the same set of objects and then check the
+annotations of their fellows for identifying different point
+of view; probably these activities would augment the
+awareness of the potential of these techniques and would
+stimulate their application to individual research;
+• include knowledge checking as part of the educational
+experience; while the educational experience proposed
+in this experience included a set of goals defined by a
+teacher, for time constraints it was not possible to fulfill
+all the teacher’s requests and to check the results; a full
+educational experience should include a final check by the
+teacher of the individual work and a feedback to students.
+Other suggestions came from the feedback related to the
+ToBoA-3D functionalities. While we obtained positive judgments for the core features of ToBoA-3D, most of the students
+complained about the quality of the 3D models, realized under
+heavy time constraints. This is an issue that we’ll take into
+account for the future educational experiences. The students
+suggested improvements to the platform as well. While the
+students with an humanistic background focused more on
+content and structure, suggesting for example the possibility to
+•
+
+create stories with branching structures, the computer science
+student focused on interaction design issues, suggesting ways
+to refine the interface or adding additional functionalities.
+While the positive findings encourage us to propose the
+use of the platform in real educational contexts, the future
+development will take care of all the points of weaknesses
+underlined by the users and improve further its features.
+ACKNOWLEDGMENTS
+Thanks to Ivano Gatto for all the contributions given to
+the development of the ToBoA-3D platform. I acknowledge
+Frédéric Kaplan and Isabella Di Lenardo (EPFL), which coorganized the Fall School in Digital Humanites, and Cristiano
+Guarneri (Università IUAV), which gave a great contribution
+for the educational story for the students.
+R EFERENCES
+[1] F. Pittarello and I. Gatto, “ToBoA-3D: an architecture for managing topdown and bottom-up annotated 3d objects and spaces on the web,” in
+Proc. of Web3D ’11, 2011, pp. 57–65.
+[2] I. Gatto and F. Pittarello, “Creating web3d educational stories from
+crowdsourced annotations,” Journal of Visual Languages & Computing,
+vol. 25, no. 6, pp. 808–817, 2014.
+[3] J. Trant, “Exploring the potential for social tagging and folksonomy
+in art museums: Proof of concept,” New Review of Hypermedia and
+Multimedia, vol. 12, no. 1, pp. 83–105, 2006.
+[4] R. Scopigno, M. Callieri, P. Cignoni, M. Corsini, M. Dellepiane,
+F. Ponchio, and G. Ranzuglia, “3D Models for Cultural Heritage: Beyond
+Plain Visualization,” Computer, vol. 44, no. 7, pp. 48–55, Jul. 2011.
+[5] M. Cavazza and D. Pizzi, “Narratology for interactive storytelling:
+A critical introduction,” in Proc. of TIDSE’06. Berlin, Heidelberg:
+Springer-Verlag, 2006, pp. 72–83.
+[6] J. Ohler, Digital Storytelling in the Classroom: New Media Pathways to
+Literacy, Learning, and Creativity. Corwin Press, 2008.
+[7] K. Kwiatek and M. Woolner, “Let me understand the poetry: Embedding
+interactive storytelling within panoramic virtual environments,” in Proc.
+of EVA ’10, 2010, pp. 199–205.
+[8] J. Halloran, E. Hornecker, G. Fitzpatrick, M. Weal, D. Millard,
+D. Michaelides, D. Cruickshank, and D. De Roure, “The literacy
+fieldtrip: using ubicomp to support children’s creative writing,” in Proc.
+of IDC ’06, 2006, pp. 17–24.
+[9] Z. Zhou, A. D. Cheok, J. Pan, and Y. Li, “An interactive 3d exploration
+narrative interface for storytelling,” in Proc. of IDC ’04. New York,
+NY, USA: ACM, 2004, pp. 155–156.
+[10] S. Mystakidis, N. Lambropoulos, H. M. Fardoun, and D. M. Alghazzawi,
+“Playful blended digital storytelling in 3d immersive elearning environments: A cost effective early literacy motivation method,” in Proc. of
+IDEE ’14. New York, NY, USA: ACM, 2014, pp. 97–101.
+
+

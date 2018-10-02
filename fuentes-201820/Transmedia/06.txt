@@ -1,0 +1,718 @@
+Hybrid stories
+Examining the future of transmedia narrative
+Tom Abba
+Among recent examples of long-form sf drama, there can be observed an increasing tendency
+to extend the broadcast story across multiple narrative platforms. The web, mobile telephony
+and print media are recombined with established broadcast platforms to produce a form of
+storytelling that interleaves online and offline experiences. While this participatory creation
+of story suits a technologically savvy contemporary audience, why has multimedia storytelling
+consistently sought to explore sf themes? Through an examination of the narrative mechanics
+at work within transmedia storytelling, this article explores the relationship between sf and new
+media, particularly with regard to the emergence of Alternate Reality Gaming since 2001.
+
+Multiplatform media
+
+In his review of Southland Tales (Kelly Germany/US/France 2006), The Guardian’s John Patterson argues that its
+ideal viewer is a kid with a laptop, an iPod, a full complement of cable/satellite TV options,
+a NetFlix subscription, a TiVo hard drive packed with recorded shows, a taste for online
+gaming within ridiculously detailed game-universes and open-ended game narratives,
+a demon for channel-surfing and an encyclopedic knowledge of pop-culture. In that kid’s
+mind – and really, in all of our minds these days – narratives are not confined to the medium they were born in; they are part of the larger collage that we all construct from the fragments of everything we watch, read, hear and surf. (6)
+
+Patterson carefully avoids offering any indication as to whether the future of
+cinema offered by Southland Tales is one he himself would like to experience,
+but that future is, nevertheless, increasingly part of our present. The collage of
+narrative Patterson finds evident in Kelly’s multiplatform story – a film released
+in 2007,1 three antecedent chapters of which were serialised as graphic novels;
+a website which deepens the scenario;2 and a central narrative which requires
+1.  After a substantial re-edit following a disastrous premiere sixteen months earlier at the Cannes
+Film Festival.
+2.  Unlike Kelly’s previous feature, Donnie Darko (US 2001), the website built for Southland Tales displays little of the supporting narrative material as was assembled for his debut feature. To date, the
+site at <http://www.southlandtales.com/openingframesetloader1.html> still suggests that the content
+is forthcoming.
+Science Fiction Film and Television  2.1 (2009), 59–76
+
+ISSN 1754-3770 (print)  1754-3789 (online)
+
+©  LUP
+
+60	
+
+Tom Abba
+
+Southland Tales. Sony Pictures.
+
+familiarity with the Book of Revelations and the poetry of Robert Frost in order
+to be accurately ‘read’ – might seem strange to the casual viewer, but to sf film
+and television audiences such strategies have become increasingly commonplace. The genre is perhaps the primary site in which to observe the emergence
+of the possible future form of narrative. In addition to Southland Tales, television series such as Alias (US 2001–2006), Lost (US 2004– ), Battlestar Galactica
+(US 2004– ), Heroes (US 2006– ) and Terminator: The Sarah Connor Chronicles
+(US 2008– ), and films such as The Matrix (Wachowski brothers Australia/US
+1999) and A. I.: Artificial Intelligence (Spielberg US 2001) have been supported,
+officially and otherwise, by online interactive narrative experiences. Collectively, these ‘extended narrative’ elements fall into a category known as ‘Alternate
+Reality Games’ (ARGs). In an ARG, the narrative reality of these source storyworlds is taken as genuine, and website material and real-world interactions
+combine with filmed media to produce a form that responds to player interaction, becoming, when employed successfully, both an adjunct to the original
+and a multimedia narrative experience in its own right.
+	 Throughout the relatively short history of new media theory, its practitioners have become preoccupied with modelling the shape of the emergent
+new media ecology. While appreciating that proper investigation of these
+constitutes a  study in itself, is it nevertheless useful to consider some of the
+common elements identified in academic study of digital technologies since
+the late 1980s. Lev Manovich posited a  conception of new media objects as
+
+	
+
+Hybrid stories	
+
+61
+
+‘those using a computer for distribution and exhibition above only production’
+(22), proposing that these artefacts can be identified as possessing: ‘numerical representation’, ‘modularity’, ‘automation’, ‘variability’ and ‘cultural transcoding’. Mark Deuze suggests that ‘participation’, ‘remediation’ and ‘bricolage’
+each exert differential pressure on a digital continuum. Arguably representing
+the most comprehensive survey of the field to date, Martin Lister, Jon Dovey,
+Seth Giddings, Iain Grant and Keiran Kelly’s New Media: A Critical Introduction identifies five key characteristics of new media: ‘digitality’, ‘interactivity’,
+‘hypertextuality’, ‘dispersal’ and ‘virtuality’. The terminology used by each of
+these models is indicative of the dual nature of the thinking prevalent in the
+field. Experimental new media forms are feted by academia, technophiles and
+wider cultural theory, in many cases justifiably so. The emergence of Web 2.0
+– the implicitly participatory user-led culture of blogging, YouTube and so
+on – is a significant step forward in terms of empowerment. Nevertheless, the
+language used to describe these changes is rooted in the critical frameworks
+of the media forms that preceded them. Echoing film’s early classification as
+‘moving pictures’, this iteration of new media is also defined by its relationship
+to previous forms. For example, the notion of ‘citizen journalism’ presupposes
+that blogging is most appropriately defined by reference to journalistic practice.
+This problematic situation is compounded by the tendency of mass media to
+appropriate terminology and communicate it to a disparate audience. Critical
+analysis of new media, as a  result, is engaged in a  constant struggle to keep
+pace with an emergent technological ecology.
+	 Common to each of the terminologies/models outlined above, though, is an
+appreciation that digital media offer the potential for content to be transposed
+from their original form and be reconstituted to new ends in a networked ecology. New Media’s ‘dispersal’ explicitly addresses such shifts in our relationship
+to both consumption and production of new media texts. Deuze’s ‘bricolage’
+– ‘an assemblage and tweaking of multiple good copies over a  single bad original’ (70) – identifies the specific manner by which new media favour a multiplicity of voices (a digital version of an iteration of Mikhail Bakhtin’s notion
+of ‘multivocality’). Most profound of all these proposals is Manovich’s ‘cultural
+transcoding’, the means by which the conventions of the Human–Computer
+Interface itself – ‘what can be called the computer’s ontology, epistemology,
+and pragmatics’ – ‘influence the cultural layer of new media, its organisation,
+its emerging genres, its contents’ (46). Manovich identifies the existence of
+a  media-specific digital ecology, proposing that the medium should be considered as a distinct form of communication, rather than reliant on the remediated language of cinema. This moves beyond the frame in which Richard
+
+62	
+
+Tom Abba
+
+Grusin’s remediative interactive model operates,3 although his suggestion that
+digital cinema is simply the ‘remediation of an already mediated world’ (71)
+will impact on my discussion below.
+Narrative form and content
+
+Nicknamed The Beast by its creators, the first recognisable ARG was conceived
+as a promotional tool for A.I.: Artificial Intelligence. It drew upward of 10,000
+players from around the world into a mystery set in the film’s fictional future.
+Websites presented the story, a  participatory narrative comprised of scripted
+elements, email messages, video clips and puzzles. Since then, dozens of ARGs
+have played out over the Internet. Many of them are associated with a major
+media release, while others have been developed and released independently.
+Within seven years, the format has matured and acquired distinct qualities and
+subgenres. Those ARGs which draw explicitly on an existing source – significantly, these are predominantly sf narratives – are generally regarded by devotees as perhaps less interesting than so-called ‘grassroots’ ARGs because their
+commercial funding constrains aspects of the form’s potential. Nevertheless,
+such ARGS do attract a wider audience and provide an effective snapshot of
+how the genre has developed since 2001.
+	 While The Beast appears relatively immature by today’s standards, its technical elements forecast much of what followed in the field. Set fifty years after
+the events of Spielberg’s film, it presented a murder mystery within an sf setting,
+drawing on the tropes of film noir thrillers and other recognisable film forms
+in order to produce a  consistent world environment. Players interacted with
+characters, emailing and telephoning remote locations and unknown addresses
+in order to uncover the truth of an unsolved, and unnoticed, murder. At the
+end of the game’s twelve-week run4 the players had discovered thirty websites
+central to the unfolding plotline, and had cracked puzzles and mysteries whose
+solutions required them to draw on knowledge as varied as binary software
+encryption and the tablature specific to lute music.
+	 Following The Beast’s success, ARGs began to spring up to promote the
+release of computer games, films and television series. Independent, grassrootsfunded games started to appear, too, and the majority of these fan-built constructions, such as LockJaw (2001), Majestic (2001) and Perplex City (2005), also
+3.  See, for example, Jenkins.
+4.  ARGs are, to date, time-based, constrained within a specific period of play. Attempts to manufacture a ‘standalone’, re-playable ARG have so far been unsuccessful.
+
+	
+
+Hybrid stories	
+
+63
+
+drew on sf tropes and settings. It is possible that the technological nature of the
+new media shepherded the form to this genre – it was, after all, the cyberpunk
+sf of William Gibson and others in the 1980s that provided the dominant mode
+of imagining the internet and interactions with digital information, with a clear
+impact on software and systems designers. Of greater interest here, though, is
+the degree to which ARGs and contemporary sf film and television have echoed
+each other’s development and reception.
+	 The next ARG tied to the release of a major movie was Metacortechs, which
+drew on the fictional universe of the Matrix trilogy and played out during
+October and November 2003. The entry point for the narrative purported to
+be the website of Metacortex Inc., the software company for which Thomas
+Anderson/Neo (Keanu Reeves) worked at the start of The Matrix. The main
+plot – involving a  mysterious disappearance, corporate intrigue, jealous exlovers, the hint of a beta-Matrix in development – proved complex and interesting enough to attract up to 800 actively involved players and in excess of
+100,000 observers. As is typical in ARGs, uncovering plot points required
+a  high degree of technical knowledge to crack ASCII-based clues, hack websites and construct patterns from seemingly unrelated events and coincidences. Notably for a  fiction based within an established ‘universe’, and one that
+demonstrates Roger Caillois’s four stages of immersive play,5 players made
+careful effort not to break the fourth wall between the characters and the real
+world. While the word-of-mouth power of Metacortechs was rooted in its
+players’ knowledge of the universe of The Matrix trilogy, its characters had no
+knowledge that their reality was a fiction and, indeed, were engaged in their
+first steps toward uncovering that knowledge. This positioning of the reader
+with regard to the narrative object is peculiar to an interactive, participatory
+form. While Henry Jenkins, arguing that participatory transmedia narratives
+are capable of operation without a principal, ur-text, proposes The Matrix as
+a  model of decentralised narrative structure (103–4), the game itself relied
+upon a  foregrounded knowledge of the films to attract its players/audience.
+Indeed, the boundaries between textual forms have not so much collapsed (in
+the case of those ARGs drawing on a  primary text) as offered new opportu5.  Roger Caillois’s definition of the types of play in which society engages develops earlier research by
+Johan Huizinga, who argued that play is not an ephemeral, inconsequential activity, but an essential,
+perhaps central factor in civilization (see Lister el al. 269). Caillois’ taxonomy includes Agon (competitive play, found in sports and games such as chess), Alea (play defined by its reliance on chance, as in
+gambling), Mimicry (simulation and roleplay, as well as the pleasure of acting and watching performance) and Ilinx (often referred to as vertigo; the thrill of the theme park ride, the willing inducement
+of disorder, fear, shock and a ‘change to the rules of reality’ (Caillois 25).
+
+64	
+
+Tom Abba
+
+nities to cross-fertilise ideas and narrative objects between forms and audiences and allowed that audience to step inside the world-building process (see
+Ornebring 448).
+	 Early in 2006, Dan Hill, the Director of Web & Broadcast at Tyler Brûlé’s
+Monocle6 described the emergence of ABC’s Lost as a  meta-level new media
+artefact, arguing that ‘the amount of content produced about your content
+should be of far greater weight than the originating content itself. This in turn
+creates a  new kind of content, forged from a  social process of collaboration
+with users, viewers, listeners’ (Hill). While Lost’s ability to generate independent content was reliant on the textual information present within the ongoing
+series, its considerable – and devoted – audience established it as a  centre
+from which ‘ripples’ spread across the new media landscape. The TV series’
+deployment of the ARG format comprised a  lengthy series of narrative puzzles and subplots featuring the shadowy Hanso Foundation, the pursuit of
+which eventually revealed to its players the purpose of the ‘numbers’ featured
+heavily in the series’ first and second seasons. Players were required to engage
+with web-broadcast material, assist characters in their search for answers and
+uncover material as a  collective in order to advance the narrative, a  process
+that required five months of activity until the conclusion of the game was
+reached.
+	 The entry points (or ‘rabbit holes’) into ARGs such as Metacortechs and those
+related to Heroes, Lost and Battlestar Galactica resonate strongly with the defamiliarising process of ‘conceptual breakthrough’ in sf literature. Peter Nicholls
+writes:
+All the most exciting scientific revolutions have taken the form of breaking down a paradigm and substituting another. Such an altered perception of the world, sometimes in terms
+of science and sometimes in terms of society, is what sf is most commonly about, and few sf
+stories do not have at least some aspect of conceptual breakthrough. (255)
+
+Compare this with Dave Szulborski’s description of ARG rabbit holes: ‘A good
+rabbit hole needs to appear realistic ... if done right, the player doesn’t even
+know that a game has begun, and that he is already playing it. As it progresses,
+the game eventually reveals more and more of its “reality”’ (65). While Nicholls
+identifies sf as a  literary form that commonly works to alter its reader’s perception, revealing a ‘truer’ reality behind the curtain of the world, Szulborksi
+suggests that the ARG story form is designed to subvert each reader’s/player’s
+perception of reality.
+6.  See <http://www.monocle.com/>. Hill maintains a  blog covering cultural developments in new
+media at <http://www.cityofsound.com/>.
+
+	
+
+Hybrid stories	
+
+65
+
+Four-stage ARG structure
+Stage one
+
+rabbit hole
+
+Stage two
+
+things are not quite as they seem
+
+Stage three
+
+we enter and engage with the new world
+
+Stage four
+
+truths are discovered, wrongs are made right
+
+Figure 1.  Four-stage ARG model (author’s own). After Szulborski et al.
+
+	 Nicholls offers a number of examples to illustrate his discussion, among them
+John Fowles’ The Magus (1966). Although not obviously sf, Fowles’ novel nevertheless comprises a series of conceptual breakthroughs, each new truth seen in
+turn to be as inadequate an explanation for the events of the story as was the
+previous one, until the nihilistic and ultimate reality is revealed at the book’s
+close. The structure of The Magus, replete with psychodramatic revelations, represents a continued erection and collapse of identity and, ultimately, narrative
+reality, even as it also implies – in common with other sf narrative structures
+and strategies – a desire on the part of the author to build worlds. To suggest
+that this pattern of successive revelations offers a model not only for ARGS but
+also for many of the primary texts upon which they draw – such as The Matrix,
+Battlestar Galactica or Lost – appears self-evident.
+	 That sf should have become the default content of ARGs is in some ways
+unsurprising. If it is the case as Charles Olson argues, that ‘Form is never more
+than an extension of content’ (1),7 it can be argued that the form of the ARG
+is constrained within a set of principles (those of sf) that shape it insofar as its
+content (conversely) can only exist as an extension of that form. Consequently,
+just as sf is defined, according to Nicholls at least, in terms of conceptual breakthrough, so the structure of an ARG is one of nested conceptual breakthroughs,
+of reality remade by the act of participation, of exploring the rabbit hole and
+desiring to see what lies beyond, to see what the world has become. Therefore,
+even though The Beast, Metacortechs, The Lost Experience and the Alias ARG all
+fall into explore–reveal–engage–complete stages, it is unlikely that this is solely
+a result of their reliance on a primary source (see Figure 1).
+	 Sf, as a forward-looking genre committed to examination and proposition,
+ought to be ideally suited to nurturing a new storytelling form. John Clute, in
+his review of William Gibson’s Pattern Recognition (2003), identifies within
+7.  Olson, who is quoting Robery Creeley, is describing ‘projective verse’. Analysing the Black Mountain poets’ compositional style, he writes, ‘A poem is energy transferred from where the poet got it (he
+will have some several causations), by way of the poem itself to, all the way over to, the reader.’
+
+66	
+
+Tom Abba
+
+Gibson’s text the same transmedia phenomenon John Patterson would later
+glimpse in Southland Tales:
+It would be inappropriate – this early in the life of the book – to strip the latter parts of
+the story wide open; but this can be said. All 135 sequences of the footage [film fragments
+released anonymously on the internet by the ‘Garage Kubrick’] to date are numbered steganographically – that is, through a complex process of ‘digital watermarking’ which must
+be deciphered to be read – in a  pattern that seems unmistakably to represent the map
+of some urban area. That the pattern is in fact not a city map, that it is in fact something
+whose implications wrench the heart, the reader will discover. For the pattern, and the
+story embedded in the pattern, and the maker of the pattern, are one. Together, they are the
+wound of the world doing story.  (405)
+
+The conflation of media forms to facilitate new demands and new audiences
+is a feature of most modern fiction forms – postmodernist practice practically
+insists upon it – but it is particularly evident in the sf of the late 1980s onward.
+The emergence of a multimedia culture, magnified through the existence of the
+web, cannot but impact on popular fiction. Sf is where that impact is felt most
+keenly and, particularly within audiovisual sf, the opportunities afforded by
+mixing media have been seized upon. Bearing closer examination, though, are
+the specific qualities multiplatform narratives bring and the means by which to
+understand them.
+	 It seems, in 2009, that if the boundaries between genres of fiction are not
+collapsing, then the genres themselves are being conflated. Buffy The Vampire
+Slayer (US 1997–2003) blurred fantasy, horror and sf tropes, while The Matrix
+submerged sf in Baudrillardian postmodern theory. Heroes draws on the pantheon of superhero comics in print since the mid-1930s, along with serial killer
+and conspiracy thrillers, with an eye to near-future and post-apocalyptic sf
+scenarios. Close reading of specific narrative arcs in the rebooted Battlestar
+Galactica draw allegories to the Iraq war and the treatment of political prisoners in detention around the world today. Gary K. Wolfe’s identification of
+a  dissolutionist strategy at work within contemporary sf finds its expression
+in a range of work by authors, including Connie Willis, Jack Dann, Greg Bear,
+Gregory Benford and Sherri S. Tepper, whom he characterises as ‘writing science fiction without writing in the genre of science fiction’ (‘Evaporating’ 18),
+and others, including Jonathan Lethem, Jonathan Carroll, Paul Auster, Paul
+di Filippo, Stepan Chapman and Elizabeth Hand, as having ‘moved even farther along the postgenre path’ (‘Evaporating’ 28).8 Similar tendencies can be
+8.  See also Wolfe (‘Malebolge’) and Vint and Bould.
+
+	
+
+Hybrid stories	
+Fantasy
+
+Science fiction
+
+Horror
+
+Phase one
+
+wrongness
+
+novum
+
+sighting
+
+Phase two
+
+thinning
+
+cognitive estrangement
+
+thickening
+
+Phase three
+
+recognition
+
+conceptual breakthrough
+
+revel
+
+Phase four
+
+return
+
+topia (u- or dys-)
+
+aftermath
+
+67
+
+Figure 2.  Four-stage narrative grammars (Clute).
+
+found in, for example, Alan Moore’s postmodern reworking of the superhero mythology in Watchmen (1985), Joss Whedon’s intertextual Buffy, Darren
+Aronofsky’s fantasy/psychological thriller π (US 1998) and Pixar’s reworking
+of Watchmen’s superheroics in The Incredibles (Bird US 2004). John Clute, who
+has also drawn attention to this dissolution of boundaries, suggests that postEnlightenment fiction that draws on the fantastic – and which has commonly
+been categorised over the last century as sf, fantasy or horror – has been reaching toward this merged conclusion for some time. In ‘Fantastika in the World
+Storm’, he proposes four-phase ‘narrative grammars’ for stories in each of these
+genres (see Figure 2).
+	 He argues that these genres can be seen as ‘permutations of one Ur Story,
+like three snakes mutually entwined, each snake undergoing the same morphological transforms’, and that while ‘the first three phases make up a progress of
+story’, the fourth phases ‘represents places Story can only point at, like Moses’
+(12). Clute’s grammars map, albeit imperfectly, onto each other and his sf grammar can also be imprecisely mapped onto the four-stage structure of the ARG
+experience outlined above (see Figure 3).
+	 Because an ARG only becomes an ARG when it is played, the role of constructing a life beyond the text – in that place to which Story points – falls to
+the player.
+ARG structure
+rabbit hole
+
+Sf’s narrative grammar
+the aspect of the world differ-
+
+novum
+
+ing measurably from our own
+things are not quite as they
+
+a process of structured defa-
+
+seem
+
+miliarisation
+
+we enter and engage with the
+
+the collapse of one paradigm
+
+new world
+
+and the emergence of another
+
+truths are discovered, wrongs
+
+consequences
+
+cognitive estrangement
+conceptual breakthrough
+topia (u- or dys-)
+
+are made right
+Figure 3.  Four-stage narrative grammar for sf (Clute) mapped against four-stage ARG sequence
+(Abba).
+
+68	
+
+Tom Abba
+
+Participatory audiences
+
+The successful author of an ARG requires abilities akin to ‘the social interaction
+skills of throwing a  good party’ (Graham 171) because it is impossible completely to predict the behaviour of remote players, however narratively ‘pure’
+their motivations for participating might be. Jane McGonigal argues that ARGs,
+which require disparate teams of players to work together to solve narrativebased problems, represent a manifestation of Collective Intelligence (CI) behaviour. Within a CI culture, knowledge ‘ceases to be the object of established fact
+and becomes a project’ (Levy 9), which is reflected in the ways in which teams
+of ARG players do not simply respond to clues and puzzles in an anticipated
+fashion, but work to discover new methods and strategies to solve problems.
+In iLoveBees (2004), for example, such behaviour represented a  logarithmic
+increase in what had been anticipated by the game’s designers. In addition to
+collectively solving a series of puzzles of increasing difficulty, the player-collective comprising those most committed to the outcome of the narrative experience undertook the real time relay of a previously unknown five-word phrase to
+phone networks across the world. In less than fifteen seconds from the phrase
+being announced, the entire collective were aware of it and thus ready should
+the in-game AI character call their number (see McGonigal).
+	 The experience of Hazel Grian and Jon Williams’ ARG, MeiGeist (2007), also
+demonstrates this phenomenon, one that is designed to work at the heart of
+their later, also sf-themed, The Sky Remains (2008). MeiGeist, conceived initially as an ARG fitting into the ‘grassroots’ category of game, was developed
+through discrete, publicly funded stages. Elements of the game development
+were sponsored by The Watershed Media Centre in Bristol, Hewlett Packard
+Labs and the UK Arts Council. The ‘rollout’ of the game itself was funded by the
+Arts and Humanities Research Council and the University of the West of England.9 The primary narrative asked remote players to assist a central character,
+Eva McGill, whose identity is called into question as she uncovers conspiracies
+connected to seemingly ordinary details of her life, beginning with the disappearance of her pet cat. In a narrative combining elements as varied as probability theory, black light, the nature of the self and consciousness, quantum theory
+and robotics, Eva found herself suspecting the motives of everyone she knew
+(including the player community). The ARG began on 13 January 2007 and ran
+over eight weeks. It included a live event in Bristol in February that attracted
+9.  This financing through public arts funding is, as far I am aware, unique within the history of ARGs.
+
+	
+
+Hybrid stories	
+
+69
+
+the attention of the local media, increasing interest in the game during its last
+month and broadening the player input base.
+	 What the experience of running MeiGeist demonstrated, though, was that
+far from relying on the comfort of a familiar narrative structure with easy solutions and convenient answers, participants in an interactive narrative experience actively sought out emergent storylines. For example, when it was noted
+that Eva’s date of birth bore a slight resemblance to that of Irwin Schrödinger,
+there was a frenzy of online activity seeking to link the Austrian physicist’s theories to the ongoing storyline. Echoing Hayden White’s observation that ‘narrative is a form of human comprehension that is productive of meaning by its
+imposition of certain formal components on a virtual chaos of events, which
+in themselves cannot be said to possess any particular form at all’ (Szulborski
+61), such behaviour – what Henry Jenkins identifies as active audience activity
+(104) – demonstrates the players’ desire to participate in the construction of the
+fictional world.
+	 Aspects of transmedia structures also have their reflections in the form story
+takes. Nick Harkaway’s debut novel The Gone-Away World (2008) is arguably
+constructed as a television series.10 The opening section, establishing the aftermath of the Gone-Away War, reads like scene-setting season premiere of a TV
+series, complete with narrative hooks, snares and hints of what is to come. After
+those first twenty-eight pages, the reader is taken back to the narrator’s childhood and, after nearly 300 pages of a digressive, meandering romp through the
+pre-history of the post-apocalypse, the novel returns to where it started before
+moving on to its conclusion. Harkaway structures his novel in a manner that
+answers to the demands of a  twenty-first-century audience familiar with episodic screen narratives that require increasingly close attention,11 and he has
+compared it to a DVD box-set release (personal email).
+	 In Writing Machines (2002), N. Katherine Hayles calls for texts to be read
+in light of their physical and cultural (and arguably teleological) apparatus.12
+Such a  medium-specific approach to the conjunction of sf and interactivity
+represented by the ARG format would seek to explore the specific manner in
+which the online narrative is encoded and transmitted that distinguishes it
+10.  See <http://vectoreditors.wordpress.com/2008/07/30/472/>, <http://vectoreditors.wordpress.com/​​
+2008/​07/28/the-gone-away-world/> and <http://www.tomabba.com/otherthings/?p=512>.
+11.  See Espen Aarseth’s argument for reframing such texts as ‘Ergodic’ – that is, requiring non-trivial
+effort to read.
+12.  This poses a challenge to the concept of remediation – the manner in which new media forms seek
+‘to borrow avidly from each other as well as from their analog predecessors such as film, television and
+photography’ (Bolter and Grusin 9) and, in doing so, seek to find new ways to address the audience –
+that governed many early approaches to the transposition of content to new media.
+
+70	
+
+Tom Abba
+
+from any analogue ancestor. In a landscape in which multiple storytelling forms
+are becoming increasingly commonplace, addressing the ‘material’ qualities of
+each aspect of the whole is rather more fruitful than limiting one’s analysis to
+the nature of the reading or viewing experience alone. Two examples of this
+are Tim Etchell’s novel, The Broken World (2008), and The Lost Experience. The
+former mixes literary narrative and sf computer gameplay within a traditional
+print novel. It is told in the form of an online walkthrough of the eponymous
+game/world (told in a combination of second-, third- and, occasionally, firstperson) from which the narrator digresses (in first-person) as his own slacker
+life begins to fall apart. As each entry is posted, resonances between the game
+and ‘real life’ become increasingly apparent. If the novel is viewed as a transmedia text, the narration also exists as a ‘secondary’ narrative reliant on the
+primary one of the game, producing much the same relationship as an ARG
+derived from a commercial broadcast. The Lost Experience also demonstrates
+a  mature manipulation of the materiality of its story elements. The publication of a  tie-in novel is familiar to most sf long-form narratives, but in this
+instance the materiality of the book is complicated by its presence as an object
+within the story universe. The novel Bad Twin (2006), credited to Gary Troup
+(a  minor character who perished in the immediate aftermath of Flight 815’s
+crash), comprises a mystery story set within the Lost universe. More than that,
+however, it has featured in manuscript form within the television series itself,
+having been found on the island by the increasingly avid reader, Sawyer (Josh
+Holloway), and has provided readers/fans in ‘our’ universe with information
+about the nature and history of the Hanso Foundation (the organisation apparently responsible for the facilities situated on the island). Ultimately, the novel
+is a  transmediated meta-artefact within Lost’s evolving narrative. In Writing
+Machines, Hayles draws particular attention to the materialist strategies at work
+with Mark Danielewski’s House of Leaves (2000), observing that the multilayered and intratextual qualities of the novel ‘implicitly refutes the position
+Claude Shannon assigns to humans in his famous communication diagram,
+in which they are positioned outside the channel and labelled “sender” and
+“receiver”’ (130). Danielewski’s tactic of requiring his novel to be decoded as
+it is read enmeshes the reader ‘inside’ the text, both receiving and constituting
+messages that, as Hayles suggests, percolate through the intersecting channels
+of communication comprising House of Leaves. In a similar manner, our reading position with regard to Bad Twin implicates us in the reception of the novel.
+Our complicity in the emerging story structure of Lost is compounded by Bad
+Twin’s simultaneous status as object and subject.
+
+	
+
+Hybrid stories	
+
+71
+
+Destabilised textuality
+
+William Gibson was not the first novelist to ‘predict’ the web, nor the first
+to describe a  story form that might take place within its confines, but he
+might  –  inasmuch as Neuromancer (1984) and its sequels depict a recognisable
+near-future built on already-visible network technologies – have been the first
+to appreciate and communicate the consequence of it. Gibson’s later works can
+be seen as reassessments of his earlier vision. Pattern Recognition’s central conceit  – the search for the maker of fragments of footage surfacing across the
+web  – echoes the structure of an ARG, but what is most interesting about the
+novel are the ways in which it is not an ARG. An encrypted sequence of numerals watermarked inside each fragment of the footage is deciphered, but the solution of this puzzle does not prolong or sustain the story as it would in an ARG
+by leading to the next in a series of puzzles. This suggests a medium-specific
+structuring of story, since without puzzles, which have been prevalent in ARGs
+since The Beast, ARG narratives would not exist. Unfortunately, ARG PuppetMasters (as creators and designers are known) have demonstrated a tendency
+to seed puzzles in order to slow the narrative down. Players charging through
+a story find themselves halted by encryptions, codes and logic games before the
+next part of the narrative takes place. While this feature of the form provides
+opportunities for CI behaviour, it is all too often employed as an end in itself
+rather than the means of revealing something significant about the world of the
+game.13 Were the puzzle elements to be removed or subverted, the composition
+of ARG narratives (and arguably the constitution of the player/audience demographic) would be fundamentally altered.
+	 I have thus far avoided any discussion of how the subgenres of sf might operate within a networked, transmediated, environment. Certainly cyberpunk has
+benefited from the collapsing of boundaries between story platforms, as have
+dystopian and alternative history narratives (the short distance between ‘our’
+reality and the alternative one presented online lends itself to a  subtle shift,
+rather than a giant leap, into the realms of fiction). In order to conclude, then,
+the future of the form bears some examination.
+	 The traditional distance between the remote, superior ‘author’ of a text and
+his or her audience can be altered by that text’s presence as a mutable, interactive object. Its digital materiality serves, in the instance of interactive engage13.  Although not an ARG, the interactive fiction Inanimate Alice <http://www.inanimatealice.com>
+ably demonstrates this. The puzzles breaking the flow of narrative apparently exist only in order to
+interrupt the reading process.
+
+72	
+
+Tom Abba
+
+I Am Legend. Warner Bros.
+
+ment, to remind us that a story is being told, one within which we are invited
+to participate. In concert with that engaged relationship, the steady merging of
+genres is altering the nature of those narrative forms we recognise as ‘fantastic’. Clute argues that after the final act of story is done ‘we enter the region of
+Recovery, where we must try to live’ (13). He is keen to emphasise that the role
+of the fantastic in the twenty-first century is to make us realise our responsibilities toward the planet. He suggests that sf, operating as an optimistic genre,
+increasingly points toward a future in which our contribution to the situation
+in which we find ourselves can be retroactively justified, effectively explained
+away through fiction. For example, although not included in Clute’s survey of
+the field, I Am Legend (Lawrence US 2007) is arguably guilty of such a retrofitting by proposing an optimistic solution to humanity’s destruction of the world.
+Despite his death in the final act of the film, Robert Neville (Will Smith) is identified in the closing voiceover narration as the source of an eventual cure for the
+man-made disease that has all but eradicated humanity, affording him a position as ‘legend’ in the eyes of humanity (rather than the bleaker fate offered in
+Richard Matheson’s novel upon which the film is based).
+	 In contrast, Ken Eklund and Jane McGonigal’s World without Oil (2007), an
+ARG released in the same year, features a near-future world reeling from a sudden and catastrophic oil shortage. Faced with this scenario as their ‘reality’, players were asked to describe how the crisis unfolded around them and to work
+together on practical ways to adapt to the changed situation. The game sought
+to apply CI to an impending problem, creating an ARG with some lasting value
+for academics, policymakers and the public. The experience set out to provoke
+measurable change in its participants, asking them to build community activ-
+
+	
+
+Hybrid stories	
+
+73
+
+ities around a common, collaboratively constructed game narrative.14 That two
+pieces of sf released in the same year should address humanity’s ability both to
+destroy and to redeem the world is, in itself, not especially worthy of attention.
+What is striking, though, is the grammar by which each provides a solution to
+the problem identified, and the means by which they do so. I Am Legend draws
+on staple Hollywood narrative devices – the heroic individual struggling to survive in a hostile environment, pitting his intelligence against the problem in an
+attempt to undo the damage done. World without Oil proposes a situation with
+similar obstacles, but suggests the solution to the problem will come about by
+harnessing our collective intelligence and enthusiasm. By the end of the game’s
+thirty-two-week run, the solutions players had presented included forcing
+government to change consumer attitudes, creating a network of independent,
+fuel-efficient communities and, tellingly for a  game whose participants were
+overwhelmingly located within the US, proposing this analogy for the postpeak oil situation:
+We are all on this ship, a big ocean liner like the Titanic. And it’s sinking, slowly. So what
+we’ve just seen is the water flooding the fourth class compartment. Some people scrambled
+out of there into third class, where we are. Some didn’t make it. And some of the people
+in first class are largely unaware of what’s going on, which is unfortunate, since they’re the
+ones who actually own and operate this ship.15
+
+Sf has long sought to illuminate the world in which we live. That desire for
+illumination has accompanied the development of the form throughout its history, and continues to do so in our increasingly networked present. What the
+emergence of multiplatform narrative might illustrate in addition, though, is
+a methodology for considering the future role of the reader of sf.
+	 As suggested above, postmodern culture has acted to destabilise the authority of the author of a  text, resulting in the responsibility for making meaning – for building worlds – being shared between author and audience. ARGs,
+alongside other forms of multiplatform narrative, heighten the significance of
+that collective role. Sf ’s horizon, too, is moving closer. William Gibson’s role in
+the creation of the critical language by which we describe and use new media
+technologies is suggestive of that proximity; and the way in which we ascribe
+meaning to sf is increasingly concerned with observing our present, rather than
+predicting our future. This, then, is a facet of the overall form sf takes in the
+early twenty-first century. Reflective of a society burdened with the guilt of the
+14.  Documentation and archive of the game can be found online, starting at <http://worldwithoutoil.
+org/default.aspx?week=1>.
+15.  See <http://worldwithoutoil.org/weekly.aspx?week=32>.
+
+74	
+
+Tom Abba
+
+last century, and shackled since 2001 to a new century’s prevailingly dystopian
+narrative, the relationship between cultural form and story content has driven
+the creation of broken worlds, mediated through technological platforms built
+on illusion.
+	 The future of this hybrid form may not be so bleak, though. By inviting
+a reader to participate in creating meaning, the authors of multiplatform story
+forms are suggesting an alternative to the dystopian landscape disappointingly
+recurrent on our screens since Ridley Scott’s Blade Runner (US/Hong Kong
+1982). Additionally, Charles Olson’s description of narrative symbiosis omits to
+ask what it is that shapes the content that he proposes dictates a story’s form.
+That question foregrounds the debates informing the creation of story. The
+questions sf continues to ask are part of that debate; the ongoing relationship
+between the places story ends and the impacts of those endings are framed by
+creation and textual meaning. The interactive reader continues to embrace their
+responsibility, a shared part in the endeavour of building worlds, both fictional
+and real.
+
+Works cited
+Aarseth, Espen, Cybertext: Perspectives on Ergodic Literature. Baltimore and London: The
+Johns Hopkins UP, 1997.
+Bolter, David Jay, and Richard Grusin. Remediation: Understanding New Media. Cambridge:
+The MIT Press, 1996.
+Caillois, Roger. Man, Play and Games. London: Thames and Hudson, 1962.
+Clute, John. ‘Fantastika in the World Storm’. Foundation: The International Review of Science Fiction 102 (Spring 2008): 6–14.
+Deuze, Mark. ‘Participation, Remediation, Bricolage: Considering Principal Components
+of a Digital Culture’. The Information Society 22.2 (2006): 63–75.
+Graham, Beryl. ‘Playing with Yourself: Pleasure and Interactive Art’. Fractal Dreams: New
+Media in Social Context. Ed. Jon Dovey. London: Lawrence & Wishart, 2006. 154–79.
+Grusin, Richard. ‘DVDs, Video Games and the Cinema of Interactions’. 2006. <http://www.
+periodicos.ufsc.br/index.php/desterro/article/view/1457/1191>.
+Hayles, N. Katherine. Writing Machines. Cambridge: The MIT Press, 2002.
+Hill, Dan. ‘Why Lost Is Genuinely New Media’. 2006. <http://www.cityofsound.com/
+blog/2006/03/why_lost_is_gen.html.>.
+Jenkins, Henry. Convergence Culture: Where Old and New Media Collide. New York: New
+York UP, 2006.
+Levy, Pierre. Collective Intelligence: Mankind’s Emerging World in Cyberspace. Cambridge:
+Perseus, 1997.
+Lister, Martin, Jon Dovey, Seth Giddings, Iain Grant and Kieran Kelly. New Media: A Critical Introduction. London: Routledge, 2003.
+
+	
+
+Hybrid stories	
+
+75
+
+Manovich, Lev. The Language of New Media. Cambridge: The MIT Press, 2001.
+McGonigal, Jane. ‘Why I Love Bees: A Case Study in Collective Intelligence Gaming’. 2007.
+<http://www.avantgame.com/McGonigal_WhyILoveBees_Feb2007.pdf >.
+Nicholls, Peter. ‘Conceptual Breakthrough’. The Encyclopedia of Science Fiction. Ed. John
+Clute and Peter Nicholls. London: Orbit, 1993. 254–7.
+Olson, Charles. ‘Projective Verse’. 1950. <http://www.angelfire.com/poetry/jarnot/olson.
+html>.
+Ornebring, Henrik. ‘Alternate Reality Gaming and Convergence Culture’. International
+Journal of Cultural Studies 10.4 (2007): 445–62
+Patterson, John. ‘You’ve Lost the Plot!’ The Guardian Guide 1 December 2007: 6.
+Szulborski, Dave. This Is Not A Game: A Guide to Alternate Reality Gaming. Lulu Press, 2005.
+Vint, Sherryl and Mark Bould. ‘There Is No Such Thing as Science Fiction’. Reading Science Fiction. Eds. James Gunn, Marleen S. Barr and Matthew Candelaria. Basingstoke:
+Palgrave, 2008. 43–51.
+Wolfe, Gary K. ‘Evaporating Genre: Strategies of Dissolution in the Postmodern Fantastic’.
+Edging into the Future: Science Fiction and Contemporary Cultural Transformation. Eds.
+Veronica Hollinger and Joan Gordon. Philadelphia: U of Pennsylvania P, 2002. 11–29.
+——. ‘Malebolge, or the Ordinance of Genre’. Conjunctions 39: The New Wave Fabulists
+(2002): 405–19.
+
+About the contributors
+Tom Abba is a Senior Lecturer at the University of the West of England. A new media practitioner and theorist, his work has also included narrative illustration, graphic design and
+critical journalism, the latter addressing the convergence of psychogeography, genre fiction and new media forms. A Trustee of the Science Fiction Foundation, he is a member
+of UWE’s Play Research Group and its Digital Cultures Research Centre. He maintains a
+research blog at www.tomabba.com/otherthings.
+M. Keith Booker is the James E. and Ellen Wadley Roper Professor of English and the
+Director of the Program in Comparative Literature and Cultural Studies at the University
+of Arkansas. He has published more than thirty books on literature, film, television and literary and cultural theory. His current research interests focus on sf, cultural studies, comic
+books, graphic novels and the politics of children’s culture.
+Catherine Chaput is an Assistant Professor at Brock University. Her research focuses on
+the relationship between rhetoric and political economy as it manifests within particular
+social, cultural and political texts. She is the author of Inside the Teaching Machine (2008)
+and has published in journals such as College Composition and Communication, College
+English, JAC: A Journal of Composition Theory and Radical Pedagogy.
+John R. Cook is Reader in Media at Glasgow Caledonian University. His research on Peter
+Watkins has been disseminated via journal articles, international symposia and voice-over
+commentaries and special features for the DVD release of Watkins’ 1964 BBC TV film, Culloden. He is also the author of Dennis Potter: A Life on Screen (1995; revised 1998) and coeditor of The Passion of Dennis Potter: International Collected Essays (2000) and British
+Science Fiction Television: A Hitchhiker’s Guide (2005).
+Cynthia Erb is Associate Professor of Film and English at Wayne State University in Detroit.
+A second, revised edition of her book, Tracking King Kong: A Hollywood Icon in World Culture is forthcoming.
+Paul Grainge is Associate Professor of Film and Television Studies at the University of Nottingham. He is the author of Monochrome Memories: Nostalgia and Style in Retro America
+(2002) and Brand Hollywood: Selling Entertainment in a Global Media Age (2008). He is also
+co-author of Film Histories: An Introduction and Reader (2007) and editor of Memory and
+Popular Film (2003).
+Michael Grant was, until his retirement, Senior Lecturer in Film Studies at the University
+of Kent. He has published on literature and cinema, especially the cinema of horror. His
+books include T. S. Eliot: The Critical Heritage (1982), Dead Ringers (1997) and The Modern
+Fantastic: The Films of David Cronenberg (2000).
+Richard J. Hand, Professor of Theatre and Media Drama at the University of Glamorgan,
+is the author of Terror on the Air: Horror Radio in America, 1931–52 (2006) and The Theatre of Joseph Conrad: Reconstructed Fictions (2005) and a founding co-editor of the Journal
+Science Fiction Film and Television  2.1 (2009), 173–175
+
+ISSN 1754-3770 (print)  1754-3789 (online)
+
+©  LUP
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+

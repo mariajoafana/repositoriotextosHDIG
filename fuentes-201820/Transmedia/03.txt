@@ -1,0 +1,1414 @@
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable
+copyright law.
+
+LEARNING TECHNOLOGIES
+
+VOL. 31 • ISSUE 1401 • JANUARY 2014
+
+AUTHOR
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Anders Gronstedt
+
+Anders Gronstedt, Ph.D. is the
+president of Gronstedt Group,
+which helps global companies
+like GE, United Healthcare, Deloitte,
+Microsoft, Kimberly-Clark, Jamba
+Juice, and government clients
+like the city of New York improve
+performance with innovative
+learning approaches. These include
+next-generation digital simulations,
+gaming, and immersive 3D virtual
+worlds. His articles have appeared
+in the Harvard Business Review
+and he hosts a weekly speaking
+series. Contact him at
+anders@gronstedtgroup.com.
+
+Marc Ramos
+
+Marc Ramos currently leads
+Google’s Professional Development
+strategy and programs related to
+the training of educators globally.
+Previously at Google, he led global
+instructional design for Google’s
+central people operations
+function. Contact him at
+marcramos@google.com.
+
+Community Manager,
+Learning Technologies
+Justin Brusino
+
+LEARNING THROUGH
+TRANSMEDIA
+STORYTELLING
+THE HERO’S JOURNEY...................................................................1
+NEW MEDIA TECHNIQUE JOINS OLD STORYTELLING…...............5
+THE STORY, THE LEARNER, AND TRANSMEDIA...........................5
+THE TRAINER’S ROLE...................................................................11
+WHAT’S YOUR STORY?..................................................................12
+REFERENCES & RESOURCES......................................................13
+JOB AID
+	 Tips for Designing Transmedia Learning..................................14
+	 Learners’ Arc Alignment Exercise ...........................................16
+	
+
+Need a trainer’s lifeline? Visit infoline.astd.org.
+
+Editor, Infoline
+Patty Gaul
+
+Associate Editor
+Sarah Cough
+
+Production Design
+Jane deBruijn
+
+Infoline is a real got-a-problem, find-a-solution publication. Concise and practical, Infoline
+is an information lifeline written specifically for trainers and other workplace learning and
+performance professionals. Whether the subject is a current trend in the field, or triedand-true training basics, Infoline is a complete, reliable trainer’s information resource.
+Infoline is available by subscription and single copy purchase.
+Printed in the United States of America.
+For help or inquiries about your subscription, please contact Customer Care at
+1.800.628.2783/1.703.683.8100 (international).
+
+Infoline (ISSN 87559269, ISBN 978-1-56286-951-9, Electronic ISBN 978-1-60728-400-0) is published monthly by the American Society for Training & Development, 1640 King Street, Alexandria, VA 22314. Infoline is available for subscription in print or digitally. The subscription rate for 12 issues is $99 (for ASTD national members) and $139 (for nonmembers). Periodicals postage
+paid at Alexandria, Virginia, and additional entries. POSTMASTER: Send address changes to Infoline, P.O. Box 1443, Alexandria, VA 22313-1443. Claims for replacement of subscription issues
+not received must be made within three months of the issue date. Copyright © January 2014 Infoline and ASTD. All rights reserved. No part of this work covered by the copyright hereon may
+be reproduced or used in any form or by any means—graphic, electronic, or mechanical, including photocopying, recording, taping, or information storage and retrieval systems—without the
+express written permission of the publisher. For permission requests, please go to www.copyright.com, or contact Copyright Clearance Center (CCC), 222 Rosewood Drive, Danvers, MA 01923
+(telephone: 978.750.8500, fax: 978.646.8600). ASTD Press grants permission for the material on pages 14-16 to be reproduced for personal use.
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+Learning Through Transmedia Storytelling
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+W
+
+hether its theater from Aristotle, the
+Japanese ghost story structure in Kabuki
+plays, or modern screenplays such as Lawrence of
+Arabia, there’s a timeless similarity with commerce
+and story—most recently enhanced by transmedia.
+And we participate as observers and spectators filled
+with similar challenge, charm, and conflict.
+The classic storytelling narrative is being revived
+today. A new generation of “always-connected”
+workers is watching more than 22 hours of online
+video per month on mobile devices. Forward-thinking
+business and learning leaders are reinventing the
+ancient tradition of storytelling, weaving compelling
+stories across different platforms and formats to
+inspire and engage the audience to action. This
+new way of developing a narrative across multiple
+platforms to expand learning and engagement is
+called transmedia storytelling.
+This Infoline issue will:
+•	 provide a framework for good
+storytelling techniques
+•	 explain what transmedia storytelling
+is, and why and how it is effective
+•	 help you find a practical and valuable “story
+structure” for learning design challenges
+•	 explain your role as a trainer
+•	 provide examples of effective transmedia
+storytelling in the business and
+learning environments.
+
+THE HERO’S JOURNEY
+“There are only two or three human
+stories, and they go on repeating
+themselves as fiercely as if they had
+never happened before.” - Willa Cather
+
+ones fueled by a standard framework filled with
+challenge and adventure—both mystical and real.
+The archetype in the center of these adventures is
+the pivot point of the story, or as Campbell describes,
+the men and women with the “sense of the call,”
+otherwise known as the hero.
+Like many forms of art, this pattern can be played in
+endless variations to feel fresh, yet familiar. What
+works universally with this structure is its reliance
+and reliability for telling stories based on selfreflection, stretching one’s capability, finding friends,
+inspiration, attainment of goals, and perhaps what
+up until this point had been undiscovered talents.
+The Hero’s Journey story structure has several
+attributes we can reuse to succeed at work and in
+our organizations. That is, we can use the Hero’s
+Journey as a device to design instruction and we can
+replicate it in our training function using the media
+formats currently available to build the capability and
+agility required to stay competitive and compelling.
+Campbell’s Hero’s Journey structure is comprised
+of several parts or stages—typically 12 sections in
+a linear progression. These stages range from the
+hero discovering a call to adventure, to dealing with
+a life-changing challenge, to finding some sort of
+wisdom or resolution.
+
+The Ordinary World
+Here our hero or heroine is introduced in a world
+that appears content, familiar, or ordinary. Yet
+there’s something unnerving or discomforting that
+is sheltering the hero’s ability to fit in, to be normal
+in his village, circumstance, or society. Our war
+hero Lawrence in the desert of Arabia, for example,
+is drawn to a deep yet unknown thirst for war,
+battle, and vanity beyond his quiet, passive means.
+He senses a need for a different life, yet remains
+unaware of the events ahead.
+
+The Call to Adventure
+Mythologist and scholar Joseph Campbell describes
+the human narrative structure as the Hero’s
+Journey, which has deep roots is his classic work
+The Hero with a Thousand Faces. Campbell suggests
+that the most classic and enduring stories are the
+
+A life-altering event occurs. This may be an external
+situation that presents a dilemma or challenge. Or
+it could be something that is internally recognized.
+In either circumstance, our hero is given a signal
+either to change or that something near is beyond
+
+COPYRIGHT © ASTD
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+1
+
+Learning Through Transmedia Storytelling
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+his control. In the classic myth of Perseus, King
+Polydectes orders Perseus to bring him the head of
+Medusa. For Luke Skywalker, Obi Wan’s holographic
+message serves as an invitation for Luke to leave his
+ordinary world.
+
+Refusal of the Call
+Next, our hero is hesitant to change. She sees a
+need for adventure or to address a calling, yet there
+may be too many unknowns. Despite the fear, new
+insights or self-assessment leads the hero to make
+a difficult decision. For the young Michael Corleone
+in The Godfather, after recognizing his ailing father is
+not secure in an unguarded hospital, he decides to
+join the family business.
+
+Meeting with the Mentor
+Merlin the Magician, Mr. Miyagi from The Karate Kid,
+and the Wizard in The Wizard of Oz all played the role
+of the seasoned, well-traveled mentor. Here, our
+mentor provides wisdom, special skills, or perhaps
+weapons to our hero. At some point, the shared
+wisdom and skills are tested and the hero must
+face her enemy or the unknown, alone. Now she is
+truly conscious of her existing weaknesses or gap.
+
+Crossing the Threshold
+Our hero now formally recognizes that he must
+leave his ordinary world. He cannot turn back. This
+is when the story takes off—literally on flights to
+Jupiter, in a balloon, or perhaps on a train. Our hero
+has drawn his line in the sand and has crossed over
+the first threshold.
+
+The Approach to the Inmost Cave
+The hero arrives at a dangerous location where his
+mission may be completed, yet the mystery gets
+more tangled or threatening. He must confront
+a deep, personal conflict. For a soon-to-be King
+Arthur, he enters Chapel Perilous in search of the
+Holy Grail. In many Hollywood war films, the young
+soldier comes to terms with his duty for battle and
+searches deep within to muster the courage.
+
+Ordeal
+This is typically the middle point of the story. Our
+hero now faces a significant trial where her life is
+challenged and death seems probable. Will Luke
+survive the wall-crunching depths of the Death Star?
+Will our hero exit the dragon’s cave? As screenwriter
+Chris Vogler shares in The Writer’s Journey, “This is
+also like the rites of passage and rites of initiation
+into fraternities and secret societies. The initiate is
+forced to taste death and experience resurrection.
+You’re never more alive when you think you’re going
+to die.”
+
+Seizing the Sword, Reward
+After surviving the battle, slaying the dragon, and
+rising from the ashes, our hero now possesses her
+reward. In many myths, a unique weapon or special
+elixir is gained. Perhaps a personal conflict has
+been reconciled—either with himself, a parent, or
+a village. Here, our hero is acutely aware of the
+weaknesses he has conquered, and the competence
+required for mastering his destiny.
+
+The Road Back
+The Tests, Allies, and Enemies
+Our hero now meets others on a similar mission, or
+some to test his will and character. Or, perhaps the
+others’ intent remains a mystery or a complex mix of
+romance and rivalry. Whether it’s the cantina where
+Luke meets Han Solo, or a Western bar with whiskey
+bottles and bullets flying, our hero begins to make
+friends and foes in this new world.
+
+Our hero makes her way home with the reward—
+perhaps completing the adventure; yet there may
+be new dangers on the way. Perhaps the heroine
+chooses not to go home, just as Thelma and Louise
+decided to remain outlaws.
+
+2
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+COPYRIGHT © ASTD
+
+Learning Through Transmedia Storytelling
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+ALTERNATIVE STORY STRUCTURES FOR TRAINING
+The Hero’s Journey and instruction generally flow in a linear progression that starts with orienting the learner to a
+problem or situation, sharing the specific problem or opportunity, providing a solution, and concluding the training.
+But using variations of the linear structure can have advantages for certain learning challenges. Two types of these
+variations include problem-oriented story structure and the flashback model.
+In sales training, for example, salespeople are typically focused on trying to solve their customer’s problems
+while also, of course, meeting their quota potential. Their focus may include understanding clients’ market
+growth needs; staying current and innovative; and determining how to increase their footprint and revenue.
+These problems or needs—once qualified—are ideally addressed and solved by the solutions the vendor
+provides—the “solution-selling” approach.
+From a training perspective, one suggested course structure highlights the introduction of the client’s problem
+first, followed by the orientation, solution, and conclusion. For example, we open the training stating a client’s
+need to increase market penetration. Both threat and opportunity are conveyed with a case study or simulation,
+which then sets the stage and challenge for the class.
+How we now structure our course—keeping in mind heroic activities such as consequences, collaborative problemsolving with allies, and so on—may look a little different. For our sales training example, the arc or engagement
+level is peaked at the beginning, as is the clearly stated problem and consequences.
+Another viable storytelling structure shifts the mindset, or perhaps the expectations, of the learner from
+immediately trying to solve a problem up front, to playing more of a sleuth or investigator—or as some designers
+call it, conducting a learning autopsy. Here the structure is turned on its head and the conclusion is provided up
+front, followed by the orientation to the situation, and then re-qualifying the problem and suggested solution.
+With this model, the course works backwards unraveling how the answer was found. This may be an ideal
+structure for training engineers, as it fulfills an innate passion to figure out how things work by breaking them
+down first. This is called a flashback structure where the final conclusion may share new insights or advancements
+to the problem.
+Consider the purpose and audience when you decide how to structure your training program. While a traditional
+linear style is appropriate for most training, a different approach may help be more effective if the learning
+experience is as important as the content.
+
+COPYRIGHT © ASTD
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+3
+
+Learning Through Transmedia Storytelling
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+STORYTELLING STRUCTURE AND COGNITIVE PROGRESSION
+HERO’S JOURNEY
+
+Vogler’S CHARACTER ARC
+
+LEARNERS’ ARC CONSIDERATIONS
+
+Ordinary
+World for big change
+Preparing
+
+Limited awareness of problem
+
+Current skills known and identified
+
+Call to Adventure
+
+Increased awareness
+
+Growth need clarified; selfassessment identifies gap
+
+Refusal of the Call
+
+Reluctance to change
+
+Sacrifice, challenge and/or
+consequence of not changing
+is explicit
+
+Meeting With the Mentor
+
+Overcoming reluctance
+
+Guidance provided:
+• clear learning objectives
+• peer reviews
+• best practice example
+
+Crossing the First Threshold
+
+Committing to change
+
+Activity introduced or modeled;
+learner is committed
+
+Tests, Allies, and Enemies
+
+Experimenting with first change
+
+Role play introduced
+
+The Approach
+
+Preparing for big change
+
+Self-reflection on importance,
+challenge, consequence
+
+The Ordeal
+
+Attempting big change
+
+Course activity(s) in play
+
+Reward
+
+Consequences of the attempt
+
+Feedback is direct, personal, candid,
+and positive
+
+Road Back
+
+Rededication to change
+
+Reflection on closing the gap and
+new meaning in the “real world;”
+Kirkpatrick Level 3 Application;
+possible inclusion of peers and
+supervisor to confirm student
+understood
+
+Resurrection
+
+Final attempt at big change
+
+Ability to truly apply in real world
+or simulation
+
+Return With the Elixir
+
+Final mastery of the problem
+
+New skill and knowledge applied
+as routine
+
+4
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+COPYRIGHT © ASTD
+
+Learning Through Transmedia Storytelling
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Resurrection
+With the secret designs of the Death Star in hand,
+or Arthur’s sword ready for battle, our hero can now
+face the fear originally kept secret in the Ordinary
+World. With new scars and wisdom, her sacrifices
+have led to a resurrection. She is now transformed
+through self-reflection, battling, and teaming with
+others—she has attained the reward and is ready
+to conquer any circumstance.
+
+Return with the Elixir
+The hero returns to the ordinary world with new
+skills, tools, and lessons in wisdom. Yet it’s not what
+she’s gained that makes the return so special, but
+the treasure found that can benefit her town, family,
+or future quests. As Vogler continues, “Sometimes
+it’s just knowledge or experience, but unless he
+comes back with the elixir or some boon to mankind,
+he’s doomed to repeat the adventure until he does.”
+
+NEW MEDIA TECHNIQUE
+JOINS OLD STORYTELLING
+This basic story structure remains today, with
+transmedia storytelling—the technique by
+which narratives are told across multiple media
+platforms—increasingly being used in the training,
+business, and academic settings. The term
+transmedia storytelling was coined by media
+studies’ professor Henry Jenkins, who explains that
+“Each medium makes its own unique contribution
+to the unfolding of the story.” Jenkins uses The
+Matrix—the 1999 science fiction blockbuster film—as
+an example. The movie actually encompasses three
+separate movies, a series of animated shorts, two
+collections of comic book stories, and multitude of
+video games. The storyline includes a future society
+in which most humans’ view of reality is actually a
+simulated reality, from whence the movie gets its
+name. Different media channels feed each other, and
+unlock secrets that add more depth and meaning to
+the parts of the overall story in the other platforms.
+Transmedia storytelling is different from
+“multimedia” e-learning programs where the
+user can click on the same screen to experience
+video, text, and interactivity. With transmedia, or
+cross-media as it is also called, the learner has to
+
+actively seek out the content. The various media
+formats aren’t just repeating the same story in
+different ways, but expanding different elements of
+it. The strength of each medium is used to tell an
+interconnected story that can be enjoyed both on
+its own and in context with the overarching story.
+
+THE STORY, THE LEARNER,
+AND TRANSMEDIA
+So how does a training and development
+professional use the traditional story structure
+across media platforms to ensure that the employee
+or student grasps the underlying message or
+develops the intended skill? In The Writer’s Journey,
+Vogler suggests that the development of the
+story is more critical than the development of the
+character—yet one cannot exist without the other.
+Character-driven structures are exemplified by
+dramatic situations that may significantly alter one’s
+life, in contrast with what happens in our real lives
+where our daily situations have varied degrees of
+complexity and consequences. There’s a certain
+tension when building enduring stories where
+the framework and flow of the Hero’s Journey is
+dependent on the self-reflection, crisis, and courage
+of the characters within the story.
+Vogler calls the activities of the character that
+parallel the story’s development, the Character
+Arc. This development aligns with Noel Burch’s
+Four Stages of learning any new skill: unconscious
+incompetence, conscious incompetence, conscious
+competence, and unconscious competence. And
+this is the basis of mapping story structure with the
+character, or learner in instructional structure.
+For those of you who may not see the connection
+of the character’s struggle to that of the learner, let
+us explain the learning challenges that align with
+character development as the basic story structure
+evolves, and how it is tied to our world of
+designing instruction.
+In the learning and development context, the training
+professional assists the employee or student
+to move along the Hero’s Journey. The learner
+undergoes what is basically an inner exploration
+to understanding where she’s currently at, where
+she should be, and then deciding to make a change.
+
+COPYRIGHT © ASTD
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+5
+
+Learning Through Transmedia Storytelling
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+CASE STUDY:
+TRANSMEDIA FOR MICROSOFT D&I PROGRAM
+Microsoft’s diversity and inclusion program is an example of a single story experience told across
+multiple platforms. The program was developed by Korn/Ferry with strong partnership from Microsoft
+for composition, and Gronstedt Group for the video production component. One week before the oneday training program, participants were sent a “movie trailer” to build excitement. The trailer showed
+highlights of a dramatized television-style show, proclaiming, tongue-in-cheek, that “Human Resources
+Illustrated gave it three thumbs up.”
+When Microsoft leaders arrived for the live session, a facilitator introduced posters into the conference
+facility featuring each character of the story with QR codes. Participants were divided into teams and
+charged with locating the posters and scanning the QR codes with smartphones or tablets. Employees also
+watched introductory videos of each character on their mobile devices to learn more about each of them.
+The scavenger hunt activity leveraged all five characteristics of the transmedia play that aids learning:
+The team needed to be resourceful to find the posters; social to discuss the issues each character is
+introduced; mobile through the use of smartphones and tablets; accessible to scan the QR codes in any
+order and join in from a variety of starting points of their stories; and finally re-playable on the mobile
+device throughout the day—so they could go back to earlier videos that make more sense later in the story.
+After the introductory scavenger hunt, attendees watched a video that set up the storyline: An IT team is
+planning a large project where tremendous demands will be placed on them. Annika, the team leader, is the
+“hero” of the journey. However, Dariush, who participates via conference call from Kracow, Poland, doesn’t
+see her as such.
+Later in the day, the class watched scribe videos—animated shorts of
+artist sketches drawn on a whiteboard with audio narration. In one of
+these instructional videos about conducting a coaching conversation,
+the characters from the live-action video appear as cartoons. The
+animated characters in the scribes are in narrative synchronization
+with the live-action video. However, we don’t hear the characters talk.
+An instructor voiceover talks about how to hold an effective coaching
+conversation and illustrates his points with the animated Annika and
+Dariush characters.
+Each medium is used for its strengths: Live-action video drives the storyline forward. In one of the videos,
+Sara, an HR business partner, calls Annika to schedule a meeting. Sara plays the role of the mentor, providing
+information that Annika uses to face up to her faulty assumptions about her team members, and to start
+coaching them. The scribe video explains particular skill sets, such as coaching skills, which the hero of the
+live-action video puts to use.
+
+6
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+COPYRIGHT © ASTD
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Learning Through Transmedia Storytelling
+
+Later in the day, each team was asked to
+research the barriers to inclusion for one
+of the characters in the story. The teams
+received a laminated card with their printed
+assignments and a QR code. By scanning the
+QR codes, each team could watch a video
+about one of the characters, which provided
+more detailed backstories to their barriers.
+For instance, team member Lauren reveals
+that she’s expecting a baby and is hiding her
+pregnancy as she is struggling with the idea
+of disappointing the team because she wants
+more work-life balance. She knows she
+needs to speak to Annika, but is reluctant
+and unsure of how to approach her.
+The participants reported back on what
+they’d learned, and how to address the
+situation. The engagement level for the
+training was evident: “Participants leaned
+back to watch the story on the big screen and
+leaned forward to watch on the small screen
+throughout the day,” explains Doug Maxfield,
+VP of Business Development at Korn/
+Ferry. Each medium made its own unique
+contribution to the storyline that framed the
+day’s learning activities, and complements
+our Meeting With the Mentor and Test,
+Allies, and Enemies categories in the Hero’s
+Journey structure.
+
+Where she ends up from there—assuming she is
+heroically recognizing her journey—should be better
+than where she started. Most important, along the
+way the learners become acutely aware of their
+weaknesses or gaps, and determine how to address
+them and how to make changes stick. Ideally, this
+new knowledge becomes so ingrained that it is then
+a natural part of everyday life.
+Because of new technologies and the escalation of
+hours spent with mobile devices, it makes sense that
+L&D professionals use transmedia to engage their
+trainees. The benefits of transmedia storytelling for
+a learning organization are two-fold:
+•	 The storyline will reach a larger audience by using
+multiple channels.
+•	 The audience will engage deeper with the story,
+by hunting for clues and even helping to write
+the story.
+In addition to reaching the audience through this
+engagement and through the best learning format
+for each individual learning, transmedia storytelling
+assists in learning because of five characteristics
+it contains. Transmedia storytelling encourages
+resourcefulness, and is social, mobile, accessible,
+and re-playable.
+
+Platforms for Transmedia
+Instructional Design
+So, how do we use transmedia best practices and
+the learner’s arc in our daily work? Must every
+course be a story? Must it follow a specific flow so
+the indexing has relevance and utility? The answer
+is, of course, “no.” Just as a playwright or novelist
+has creative freedom, so should you as a learning
+designer. As noted earlier in this Infoline, there
+are characteristics we suggest you follow as a
+foundation, and then decide on the best structure
+or storytelling.
+Transmedia storytelling works best for strategic
+change management challenges where the
+investment can be justified. Because stories are both
+memorable and persuasive, a transmedia campaign
+can achieve the dual purpose of training people
+on the new skills and making a convincing case
+for the change. It can help align people with a new
+
+COPYRIGHT © ASTD
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+7
+
+Learning Through Transmedia Storytelling
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+sales methodology, a new software system, a new
+leadership philosophy, or a new corporate vision.
+The skills are frequently more conceptual, although
+hard skills training could be incorporated as part of
+the program. The timeline for a transmedia learning
+campaign is frequently longer, counted in months
+and years rather than weeks and days.
+Which platforms are best used for which elements
+of the story parts and hence the training? Video
+dramatizations can drive a plot forward, providing
+a basis for the story so that participants have a
+common starting point. Shorter videos accessible
+through QR codes or hidden on the intranet allow
+learners to immerse themselves in the story through
+bonus content, sneak peeks, and the backstory of the
+characters. As you see in the Microsoft case study,
+one use of the QR codes is to develop the individual
+characters more fully.
+Games and 3D immersive virtual worlds can be used
+to explore the world in the story and role play the
+characters. In an L&D content, this could mean the
+interaction with a potential buyer, or the “characters”
+of a workplace: the manager, a colleague, and so on.
+Learners can even develop the storyline by voting to
+decide a show’s outcome or discuss plot lines with
+each other on social media.
+The sum, the Hero’s Journey, is being reinvented in a
+plethora of new media that can be used in concert to
+spin a unified and narrative experience. Let’s look at
+a few of these new storytelling platforms.
+Video Explosion
+McCain Foods used transmedia storytelling to launch
+a new leadership distinction message. A television
+drama series was developed that featured Bob, a
+plant manager who was visited by a consultant.
+The characters went to a basketball game where
+Bob learned about “being on the court versus in
+the stands.” Bob also took a virtual canoe trip
+where he learned a valuable lesson about being in
+“circumstantial drift.”
+The videos, which featured dialogue and meetings
+with a colorful and dynamic cast, were launched
+along with a series of podcast radio shows that
+showcased McCain’s senior leaders as guests. The
+videos and podcasts were supported by optional
+
+toolkits designed for small groups where a peernominated team member facilitated discussion
+around the topic to help ensure understanding
+of key messages.
+All the materials are available on a dedicated
+web portal designed to match the look and feel
+of the videos. As with today’s Netflix TV watcher,
+learners can choose if they want to “binge-watch”
+an entire video series or just watch a single sevenminute episode.
+“We’ve had positive feedback about the engaging
+format and compelling storylines of the videos,
+along with the professional way that the leadership
+distinction messages have been presented,” says
+Jennifer Huth, who oversaw the implementation of
+the program for McCain Foods.
+Transmedia storytelling such as this leverages an
+explosion of screens and devices to connect deeper
+with a new generation of networked learners.
+The amount of video viewed on tablet devices and
+mobile phones in 2012 increased by 100 percent
+over 2011, according to Ooyla’s Global Video Index.
+Cisco expects that by 2016, two-thirds of worldwide
+mobile data traffic will be video content. Xbox users
+spend more time watching video than playing games
+on the device. The epicenter of the video explosion
+is YouTube, with a whopping one billion visitors per
+month, according to YouTube statistics.
+Gamification and 3D Virtual Worlds
+Gamification has been a buzzword in the business
+and L&D communities for the last several years. A
+new generation has grown up with online games.
+They thrive on the sense of engagement, storytelling,
+character identification, immersion, problem solving,
+and feeling of accomplishment offered by games.
+But gaming cuts across ages. In fact, 26 percent
+of gamers are over 50 years old, according to the
+Entertainment Software Association—an increase
+from just 9 percent in 1999. While it’s hard to
+dispute the popularity of games, it’s becoming
+equally difficult to dispute their instructional value.
+A meta-analysis, conducted at the University of
+Colorado Denver, of 65 studies and 6,476 trainees
+found computer-based simulation games to be
+more effective than traditional approaches by any
+
+8
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+COPYRIGHT © ASTD
+
+Learning Through Transmedia Storytelling
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+measure, including 20 percent more effective in
+task completion.
+Games employ a number of storytelling formats.
+Live-action videos break up the game play to advance
+the plot and provide additional information. Games
+taking place in a 3D-immersive virtual world take
+storytelling another step. Participants move their
+avatars, or digital alter egos, around a 3D world,
+interacting with other people or with non-player
+avatars controlled by a game engine. As people move
+about, the sound and volume changes depending
+on where they are—it’s sound and sight in 3-D.
+The immersive environment keeps participants
+completely focused on the task at hand.
+Virtual worlds can provide virtual rehearsals for
+role play communication skills. Loyalist College in
+Ontario, Canada, found that virtual world role playing
+increased the number of border agent students
+who passed a final evaluation from 56 to 93 percent
+in comparison to taking an exam in the classroom.
+“You could see the students sitting straighter in
+their chairs when their avatars got into a uniform,”
+says Ken Hudson, managing director of Loyalist’s
+Virtual World Design Centre. “They left the project
+with a sense of accomplishment and one of having
+participated in a real-world experience.”
+In one of IBM’s virtual worlds, employees step into a
+virtual elevator to practice their elevator pitch with
+a chief information officer, or rehearse an important
+client pitch in a conference room with IBM executives
+playing the role of clients. In Avaya’s Virtual
+Rehearsal Studio, on the AvayaLive Engage platform,
+sales representatives take turns playing the role of
+Julia Parker, the CIO of International University, and
+the Avaya account rep, while other representatives
+give feedback on the performance. These 3D
+immersive environments allow learners to step into
+the characters and create their own stories.
+
+THE FUTURE OF STORYTELLING:
+AUGMENTED AND
+VIRTUAL REALITY
+Tomorrow’s storytelling learning is wearable and
+immersive. Two digital eyewear technologies are at the
+forefront of this revolution:
+•	 A new generation of glasses, such as Google Glass, display a
+digital layer over the real world to augment reality. Users can
+interact with the Internet through voice commands and watch
+information hands-free.
+•	 A new generation of goggles, such as the Oculus Rift, create
+the sense of being in a virtual reality. A wide field of view and
+head tracking makes users feel like they’re inside a digital
+3D world.
+These augmented and virtual reality displays continue
+to revolutionize storytelling. Imagine emergency
+response workers being able to practice scenarios and
+see stories unfold while being completely immersed
+in the simulation. Learners can experience lasting and
+memorable stories through multiple senses. While
+the concepts are not new, they are now becoming
+affordable, mass-market products.
+Are virtual reality and augmented reality becoming an
+inevitable part of storytelling, or will they go the way of
+the Segway—over-hyped products that are now used my
+mall cops and tourists? Time will tell.
+
+Viral Power of Transmedia Storytelling
+Successful transmedia stories can go viral in an
+organization, with the characters becoming part
+of the culture. “The main characters of the video
+Bob and Giselle became part of our vernacular, as
+symbols of the old and the new approach to selling,”
+says Pamela Conyngham, who oversaw the sales
+training program when she worked for Optum, a
+subsidiary of UnitedHealth Group.
+COPYRIGHT © ASTD
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+9
+
+Learning Through Transmedia Storytelling
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+AVAYA AND TRANSMEDIA STORYTELLING
+One company embracing transmedia storytelling approaches that are native to new media channels is Avaya, a Fortune
+500 global leader in business communications. The company’s sales leadership was faced with the challenge of validating
+knowledge on critical skills in realistic simulated scenarios. The skills ranged from strategic account planning to sales
+call preparation, and from presentation skills to product knowledge. The responsibility to assess primary sales skills fell
+to Rhonda Duesterberg, global sales enablement senior manager. “Our solution was a series of spy-themed learning and
+assessment games,” says Duesterberg. “Points, high-scoring lists, badges, levels, cut-scenes, and storytelling are used
+to validate and reinforce sales skills.”
+Each game opens with a fast-paced video trailer. The
+“mission” is presented with a dramatic video by a
+“commander” who introduces the challenge and the
+hero, Cindy Carter. In one of the challenges, Avaya reps
+hear how Cindy develops a value proposition for a global
+financial service client while she’s being pursued by an
+evil competitor. The story is told through live-action video
+with actors, produced by a professional video crew. Each
+decision point offers a teachable moment where the player
+has to make the call. The sales rep playing the game
+becomes part of the unfolding storyline rather than simply
+a passive audience member.
+Meanwhile, the narrative from the 2D video-based game
+was also told in a 3D virtual world campus where sales reps
+meet for office hours and coaching sessions. “A helicopter
+that is used to rescue the hero in one of the games
+appears in our AccelerateU 3D campus for sales reps,”
+explains Michelle Bigham, program manager at Avaya, who
+manages the development of the programs. Sales reps will
+soon be able to teleport their avatars from a meeting or
+coaching session in the immersive world to the helicopter
+and then to the games. The virtual campus also features
+the affable non-player character guide Professor Q, a not
+so subtle James Bond reference that ties back to the spy theme of the games. The helicopter and Professor Q in the 3D
+virtual world heighten learners’ understanding, enjoyment, and affection for the story that is told in a 2D game. Thus,
+Avaya’s sales training organization is using new media to enhance reach and build learner engagement across platforms.
+
+10
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+COPYRIGHT © ASTD
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Learning Through Transmedia Storytelling
+
+“People said, ‘I don’t want to be a Bob.’ The videos
+created a buzz. People were looking forward in
+anticipation of the next video module or podcast,”
+says Conyngham. The storyline was launched with
+a trailer on the screen at a sales meeting, and
+relayed using television-style videos and audio
+podcasts every week during a three-month period.
+Each medium made its own contribution to the
+development of a coherent transmedia story about
+a new approach to selling, creating wider reach and
+deeper engagement.
+Over 150 sales staff members completed all 12 parts
+of the transmedia story campaign, nearly reaching
+100 percent of the target audience. A live event for
+a similar amount of training would cost about
+$2,000 per participant, for a total cost of $300,000.
+United Healthcare saved about $150,000 by telling
+a transmedia story instead.
+
+THE TRAINER’S ROLE
+Whether your role is a learning designer, facilitator,
+or training manager, the use of transmedia storytelling
+is not a radical departure from your core job and
+duties, but it does mean that your role will take on
+additional attributes and a new skill set. Rather than
+building your training or organizational development
+intervention as an event or time-bound set of activities,
+a trainer must be prepared to adjust from traditional
+facilitated structures to scenarios based on discovery,
+allowing the participants to “get lost in the story.” This
+requires adjusting your skills to experiment more with
+new technologies, and to consistently challenge your
+team, peers, and clients on innovative new practices to
+increase learner engagement.
+The Optum/UnitedHealth program, for example,
+leveraged videos as both facilitated guidance and
+case study. It weaved its story across many devices
+rather than one main screen. Microsoft’s diversity
+and inclusion program used mobile phones for team
+scavenger hunts, and scanned QR codes for ongoing
+feedback and a literal road map to win!
+As you investigate new story structures for your
+learning events, a tool that may influence your role
+and skills is SAMR. The SAMR, or the Substitute,
+Augmentation, Modification, and Redefinition, model
+is a helpful way to understand how technology—and
+
+its various incarnations—can impact instruction
+and how it’s designed. SAMR was developed by Dr.
+Ruben Puentedura. It is essentially a guide for when
+and how to use a specific technology or transmedia
+for learning.
+For example, if you want to simply have students
+perform the same task, but using technology,
+substitution is your first logical consideration.
+An example here includes learners submitting
+responses using a Word or Google Apps document
+rather than paper or a spoken summary. How
+this affects your role as a trainer is that you must
+understand the various submission or collaboration
+features of a device or technology. In addition,
+selecting the right technique requires more technical
+depth and deeper multimedia proficiency.
+The SAMR model next progresses to augmentation.
+Here the technology serves as a more effective tool
+for the same task. Google Forms may be used for
+exams, or a shared Google Doc can be populated
+in real time, and viewed by the class (physical or
+virtual) as part of an open book exam. Modification
+is the next level, and might include videotaping
+students’ activities or perhaps their presentation;
+video is then fed back to the class for peer review.
+Finally with redefinition, technology is used as an
+exclusive new means fully replacing a standard
+learning practice. Gamification is a current trend
+that completely redefines traditional events such
+as competitive team-based learning.
+Whether you are using more traditional design
+practice such as ADDIE or opting for the SAMR
+Model, your role providing learning programs and
+interventions does not change. What does change
+is the requirement to learn new skills that look
+outside of the standard learning event or box—both
+in the breadth of a course—where does the learning
+actually start or end—and also the depth of the
+learning—allowing learners to discover, branch
+out, and go deeper on their own. This frequently
+requires the coordination of a number of different
+creative talents and vendors. It’s rare for a training
+department to have the skills to develop live action
+video, scribes, podcasts, games, 3D virtual worlds,
+and dozens of other emerging media platforms.
+Trainers frequently have to turn to outside resources
+for these services. Transmedia storytelling offers
+
+COPYRIGHT © ASTD
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+11
+
+Learning Through Transmedia Storytelling
+
+new approaches to test breadth and depth, as well
+as a new challenge to identify, adapt, and remove
+standard boundaries of learning.
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+WHAT’S YOUR STORY?
+Most companies have a story. At the center of these
+stories is usually a protagonist who makes a hero’s
+journey. Everyone knows the stories of how Walt
+Disney, Steve Jobs, Howard Schultz, and Elon Musk
+beat insurmountable challenges and rose from the
+ashes. These stories define Disney, Apple, Starbucks,
+and Tesla. They are used to sell the brand and inspire
+its employees.
+Behind the mythical company stories are also
+thousands of stories that can be used to improve
+performance. Every product designer has a story of
+how a new product idea came about. Every service
+engineer has a story about fixing a problem that
+averted a disaster. Every leader has a story about
+empowering a team member and achieving great
+success. At the core of every training challenge, no
+matter how mundane, is a good story waiting to
+be told.
+Archetypical characters who express an idea while
+being flawed and relatable tap into the deeper
+relevant experience of the Hero’s Journey. Effective
+storytelling requires a powerful plot with characters
+who face adversity and go through a journey of
+transformation. It has to be told in a fresh way with a
+human voice and a sense of humor.
+More and more, these stories are being told across
+a multitude of devices and screens, where they can
+reach learners more widely, and engage with them
+
+more deeply. Because individuals outside of their
+work day are using technology more and more for
+enjoyment, to connect, and for developing “nonwork” skills, it is increasingly critical that we as
+learning professionals leverage that technology to
+reach our trainees.
+And because storytelling is at the heart of
+understanding, memory, and learning, we should
+also tie new technologies to stories to take the
+learner on a hero’s journey of growth, wisdom, and
+mastery. In this Infoline, you’ve seen companies
+that used technology so well that characters have
+become a part of the workplace. You’ve also seen
+examples of test scores radically improving through
+the use of avatars and a virtual world.
+While not every training course lends itself to
+transmedia storytelling, you can begin simply
+by following the SAMR Model and substituting a
+media platform for more traditional pen and paper
+instruction elements.
+Telling your story through the transmedia framework
+will build upon your current L&D skills and also take
+you as a trainer on a journey of your own.
+Memory is the process of creating, storing, and
+retrieving stories. The more indexes, the more
+comparisons to prior experiences, the better
+the learning experience will be. This is the most
+critical and intrinsic device and advice to leverage
+in this Infoline. The more we can index timeless and
+durable structures and their interrelationship with
+human nature—the greater the marvel, acquisition,
+and adoption.
+
+12
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+COPYRIGHT © ASTD
+
+Learning Through Transmedia Storytelling
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+REFERENCES & RESOURCES
+
+Books:
+Campbell, J. (2008). The Hero with a
+
+Articles:
+Fiorelli, G. “Transmedia Storytelling:
+
+Thousand Faces, [3rd Ed.] Novato,
+
+Building Worlds For and With Fans.”
+
+CA. New World Library.
+
+April 23, 2013 www.moz.com.
+
+Gottschall, J. (2012). The Storytelling
+
+Gronstedt, A. “Transmedia Storytelling
+
+Animal: How Stories Make Us Human.
+
+for the Netflix Age.” T+D Magazine.
+
+New York, NY: Houghton Mifflin
+
+August 8, 2013.
+
+Harcourt Publishing.
+Jenkins, H., S. Ford, and J. Green.
+(2013). Spreadable Media: Creating
+Value and Meaning in a Networked
+Culture. New York, NY: NYU Press.
+Phillips, A. (2012). A Creator’s Guide to
+Transmedia Storytelling. New York,
+NY: McGraw Hill.
+
+Jenkins, H. “Transmedia Storytelling.”
+January 15, 2003 www.
+technologyreview.com.
+Kopp, I. “15 Things I’ve Learned about
+Transmedia Storytelling.” October 14,
+2013 www.indiewire.com.
+Sachdeva, D. “Digital Storytelling 101.”
+June 27, 2013 www.astd.org.
+
+Sachs, J. (2012). Winning the Story
+Wars. Boston, MA: Harvard Business
+Review Press.
+Smith, P. (2012). Lead With a Story.
+New York, NY: AMACOM.
+
+Infoline:
+Lee, D. (2012) “Powerful Storytelling
+Techniques.” Infoline. Alexandria,
+VA: ASTD Press.
+
+Vogler, C. (2007). The Writer’s Journey:
+Mythic Structure for Writers, [3rd
+Ed.]. Studio City, CA: Michael
+Wiese Productions.
+
+Blogs:
+Henry Jenkins: http://henryjenkins.
+org/2007/03/transmedia_
+storytelling_101.html
+Kevin Moloney: http://
+transmediajournalism.
+org/2012/11/06/transmediajournalism-in-499-words/
+
+COPYRIGHT © ASTD
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+13
+
+JOB AID
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+TIPS FOR DESIGNING TRANSMEDIA LEARNING
+Using the case studies provided in this Infoline, as well as your experience with instructional design and technology, consider
+what media platforms might be appropriate for each of the 12 steps in the Hero’s Journey framework and accompanying
+learning challenge.
+
+Hero’s Journey Step
+
+Learning Challenge or Element
+
+Ordinary World
+
+•	 In the Ordinary World, convincing
+employees that they need training,
+especially with busy schedules and
+ever-changing priorities.
+•	 Is there buy-in for committing to the
+time for training?
+
+Call to Adventure
+
+•	 Is the Call to Adventure clearly
+setting course expectations?
+•	 Are we properly igniting and exciting
+the real benefits of performance or
+behavioral change?
+
+Refusal of the Call
+
+•	 Where do learners hesitate
+knowing how difficult the learning
+requirements will be?
+•	 Is there reluctance based on
+pre-course assessments and the
+acceptance of a learning gap?
+
+Meeting With the Mentor
+
+•	 Is there a strong facilitator?
+•	 Does the introduction of a case study
+benchmark best practices?
+
+Crossing the First Threshold
+
+•	 The trainee begins to embrace the
+need for training and is ready to make
+the commitment to begin the learning
+process.
+
+14
+
+How could this be shown through
+transmedia elements?
+
+ASTD Press grants permission for the material on this page to be reproduced for personal use.
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Hero’s Journey Step
+
+Learning Challenge or Element
+
+Tests, Allies, and Enemies
+
+•	 How does the addition of work teams,
+group projects, or related breakout
+activities help learning?
+
+The Approach
+
+•	 How is learning facilitated with
+teaming or reflecting with others?
+•	 Do you incorporate rehearsals in
+front of a video camera and show
+that practice is required?
+
+The Ordeal
+
+•	 How does the final exam
+show learning?
+•	 Is there an ultimate
+panel presentation?
+•	 Do learners submit a project?
+
+Reward
+
+•	 What is the benefit to the employee?
+•	 Are there tangible “prizes”?
+
+Road Back/Resurrection
+
+•	 What is the journey of the course?
+•	 Or have you now returned to your
+regular job with the true test of
+applying what you’ve learned?
+•	 Are you considering post-training
+support?
+
+Return With the Elixir
+
+•	 Have learners attained mastery?
+How do you know?
+•	 Has a 360-degree survey been
+conducted with your team
+and manager?
+•	 Have you reviewed any shrinkage of
+knowledge gaps via a Level 3 posttraining assessment?
+•	 Have you gained that credential
+or certification by successfully
+completing X hours of post-training
+field or project work?
+
+How could this be shown through
+transmedia elements?
+
+ASTD Press grants permission for the material on this page to be reproduced for personal use.
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+15
+
+JOB AID
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+LEARNERS’ ARC ALIGNMENT EXERCISE
+Identifying your learners’ readiness for growth and challenge is a first step to aligning your training to a Hero’s Journey
+structure. Take any existing course or one in progress and use this table to realign your learning objectives. Challenge the
+existing progression of your course by rearranging the flow (for example, try a “flashback” model). This exercise is not
+intended to be a detailed redesign, but a challenge to traditional thinking and ideally a new way to think about indexing story
+with instruction.
+Vogler’s Character Arc
+
+Associated Learning Objectives
+
+Learning Flow (Orientation,
+Problem, Solution, Conclusion)
+
+Limited Awareness of Problem
+
+Increased Awareness
+
+Reluctance to Change
+
+Overcoming Reluctance
+
+Committing to Change
+
+Experimenting With First Change
+
+Preparing for Big Change
+
+Attempting Big Change
+
+Consequences of the Attempt
+
+Rededication to Change
+
+Final Attempt at Big Change
+
+Final Mastery of the Problem
+
+16
+
+ASTD Press grants permission for the material on this page to be reproduced for personal use.
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+Issues mail in January, April, July, and October
+
+Learning and Development
+Issues mail in February, May, August, and November
+
+Human Capital
+Issues mail in March, June, September, and December
+
+021127.62220
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+Learning Technologies
+
+Pick your favorite topic and subscribe today!
+www.astd.org/infoline
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+Copyright @ 2014. American Society for Training & Development.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.
+
+ISBN 978-1-56286-951-9
+
+TEXT PRINTED ON
+10% RECYCLED FIBER
+
+EBSCO : eBook Collection (EBSCOhost) - printed on 9/10/2018 9:48 PM via UNIVERSIDAD DE LOS ANDES
+AN: 802227 ; Gronstedt, Anders, Ramos, Marc.; Learning Through Transmedia Storytelling
+Account: undeloan.main.ehost
+
+9 781562 869519
+251401	
+
+111351.62410
+
+52495
+
+

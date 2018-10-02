@@ -1,0 +1,945 @@
+THE INFORMATION SOCIETY
+2016, VOL. 32, NO. 5, 333–342
+http://dx.doi.org/10.1080/01972243.2016.1212618
+
+Racial/ethnic identity, community-oriented media initiatives, and transmedia
+storytelling
+Srividya Ramasubramanian
+Department of Communication, Texas A&M University, College Station, Texas, USA
+
+ABSTRACT
+
+ARTICLE HISTORY
+
+This study focuses on how racial minorities are actively adapting, resisting, and challenging the
+practices of mainstream media in a convergence era. Through collaborative, community-based,
+transmedia storytelling initiatives, racial minority groups are fostering new critical media literacies
+and active digital citizenship. This article focuses on two such initiatives: a ﬁctional Web-based
+drama series (East Los High) and a transmedia participatory art initiative (Question Bridge). The
+analysis shows how racial minorities use transmedia projects to create alternative forms of
+mediated storytelling that are more inclusive and participatory.
+
+Received 18 September 2014
+Accepted 12 April 2016
+
+Transmedia storytelling is a complex aggregation of narrative ﬁction that synthesizes elements from multiple
+media formats (Jenkins 2006; Scolari 2013; Singhal,
+Wang, and Rogers 2012). Unlike multiplatform crosspromotional storytelling, transmedia content uses multiple storylines that are individually complete, but with
+each containing a thread that contributes to the creation
+of an overarching ﬁctional world. Transmedia content
+has mainly been the province of multinational global
+brands in commercial contexts, such as Barbie, Hollywood productions such as Batman and The Matrix, and
+video games such as Assassin’s Creed. Here the target
+audiences follow the narrative across diverse media platforms by using social networking sites such as Facebook,
+Twitter, and Instagram in conjunction with ﬁlms, video
+games, books, and other media.
+Multinational media corporations and global transmedia
+franchises are accelerating homogenization of mainstream
+media content (such as Angrybirds, 24, Lost, Harry Potter,
+Barbie, and most Disney/Marvel stories) in ways that privilege the neoliberal capitalistic logic (Mirlees 2013; Wasko
+and Meehan 2013). Even as top-down approaches of multinational media corporations lead to constraints on those
+who do or do not feel a “belonging,” marginalized groups
+are using bottom-up approaches toward afﬁrming identities as active digital citizens (Jenkins, Ford, and Green
+2013; Scolari 2014). They are acquiring, honing, and sharing new digital multimodal media literacies to effectively
+assert identity in a rapidly changing multicultural,
+
+CONTACT Srividya Ramasubramanian
+Station, TX 77843, USA.
+
+srivi@tamu.edu
+
+Published with license by Taylor & Francis. © Srividya Ramasubramanian
+
+KEYWORDS
+
+Case studies; community
+initiatives; media literacies;
+race/ethnicity; transmedia
+storytelling
+
+transnational media environment (Christian 2011; Coppa
+2008). Transmedia advocacy projects, which are often
+global partnerships, use creative ways to nurture transformative spaces that provide opportunities for meaningful
+intergroup conversation (Correa and Jeong 2011; Hargattai
+and Walejko 2008).
+This study examines transmedia strategies used by
+racially/ethnically minoritized communities to negotiate,
+respond to, and challenge stereotypic, mainstream portrayals in U.S. contexts. Prior studies have typically
+focused on how minority members cope with media stereotypes of their group through individual strategies such
+as creating alternative fan ﬁction (Coppa 2008) and digital protests through hashtags in Twitter (Bonilla and
+Rosa 2015). This study, on the other hand, focuses on
+community-level resistance to media stereotypes that
+build alternative spheres of inﬂuence. It does so via an
+in-depth examination of two initiatives to create alternative forms of mediated storytelling that are more inclusive and participatory: a ﬁctional Web-based drama
+series (East Los High) and a transmedia participatory art
+initiative (Question Bridge). Analyses of their websites
+and social networking sites, conducted from August
+2013 to August 2014, provided primary data. Secondary
+data come from interviews, news articles, and videos,
+available in the public domain, relating to these projects.
+The next three sections provide overviews of literatures on symbolic annihilation, new media literacies, and
+grassroots resistance. The subsequent sections provide
+
+Department of Communication, Texas A&M University, 202D Bolton Hall, Mail Stop 4234, College
+
+334
+
+S. RAMASUBRAMANIAN
+
+case studies of East Los High and Question Bridge. The
+last two sections discuss the ﬁndings and offer concluding thoughts.
+
+Symbolic annihilation and group vitality
+Racially/ethnically minoritized groups have had historic
+disadvantage in the United States, economically, politically, culturally, and technologically. The perspective of
+symbolic annihilation suggests that social groups with
+less inﬂuence are underrepresented, trivialized,
+demeaned, and ridiculed in the media (Tuchman 1978;
+Gerbner 1972; Gerbner and Gross 1976). By consistently
+failing to represent minoritized groups, the mainstream
+White media present a biased social reality that excludes
+the voices of those at the margin. Analytical studies of
+content of mainstream media document that portrayals
+of racially/ethnically minoritized groups are routinely
+negative: criminal, dangerous, lazy, and unintelligent
+(Aoki and Mio 2009; Bogle 2001; Daniels 2012; Dixon
+and Linz 2000; Entman and Rojecki 2001; Gray 2005;
+Mastro and Robinson 2000).
+The expansion of multicultural societies and the increase
+of global migration have led to rising ethnic, minority,
+diasporic, and immigrant media (Georgiou 2005; Shome
+and Hedge 2002; Appadurai 2011). Research suggests that
+members of such racially/ethnically minoritized groups are
+often highly conscious of how their groups are depicted in
+media (Appiah 2001; 2002; Fujioka 2005). Not surprisingly,
+minorities prefer media content produced by and featuring
+members of their own particular cultural in-group. For
+example, a survey from an alliance of ethnic news media
+in the United States suggests that 45% of ethnic minorities
+prefer ethnic television, radio, and newspapers compared
+to mainstream counterparts (New California Media 2005).
+According to the perspective of group-vitality theory, when
+members of minority groups view content concerning their
+group, especially positive portrayals, there is an increase in
+subjective assessment of the group’s relative position in
+society in terms of power, prestige, resources, and inﬂuence, indirectly increasing collective esteem (Abrams, Eveland, and Giles 2003; Giles, Bourhis, and Taylor 1977).
+Although early Internet scholars projected that online
+spaces would be more democratic and inclusive than traditional mainstream media, this has not necessarily
+occurred. Racism is rampant in online contexts, with
+Twitter alone accounting for more than 10,000 tweets
+with slurs every day, a phenomenon known as “twacism”
+(Daniels 2009; Hughey and Daniels 2013; Nakamura
+2009; Nakamura 2013; Perry and Olsson 2009). Given
+this context, attending to the voices of ethnically/racially
+minoritized groups for better representation in media is
+important.
+
+Active digital citizenship and critical new
+media literacies
+Digital citizenship refers to the ability of individuals to use
+digital technologies to allow full participation in society.
+Active digital citizenship is the process that permits the
+potential for fulﬁllment through creative expression, political participation, economic actualization, and civic engagement (Harcup 2011; Mossberger, Tolbert, and Stansbury
+2003; Mouffe 1992). Going beyond access to informational
+technology, new media literacies focus on overcoming the
+“participation gap,” allowing individuals to fully engage in
+active digital citizenship and a participatory culture (Jenkins 2006). Critical new media education attempts to create
+safe spaces for alternative public discourses, use of digital
+tools to amplify the voices of marginalized groups, foster
+support for indigenous transmedia artists, and educate a
+broader audience of the diversity within a community
+(Burgess 2006; Ohler 2013).
+Studies on the information divide show that those
+already in advantaged positions in society beneﬁt at a
+much faster rate from new media technologies than
+those with initially less resources (Cleary, Pierce, and
+Trauth 2006; Hoffman, Novak, and Schlosser 2001;
+Mossberger et al. 2003; Spooner and Rainie 2000). African Americans, especially those in lower income neighborhoods, have lesser access to the Internet and home
+broadband (Cleary, Pierce, and Trauth 2006; Mossberger, Kaplan, and Gilbert 2008; Pew Internet and
+American Life Project 2014). In contrast, mobile phone
+ownership and usage on smartphones of Web-based features such as Twitter are either on par or rank higher
+among Blacks and Latinos than among Whites in the
+United States (Pew Internet and American Life Project
+2014). Middle school African-American females are
+among the most frequent users of Internet and mobile
+phones for text messaging, downloading music, and
+online searches (Jackson et al. 2008). African-American
+males lag females for online activities except video
+gaming.
+Recent studies show that although the digital information gap continues to exist, among those with online
+access, users from racial/ethnic minority groups are
+more likely than Caucasian-American users to be content creators who engage in producing, posting, and
+sharing ﬁles online (Harp et al. 2012; Jones et al. 2009;
+Lenhart and Horrigan 2003; Correa and Jeong 2011).
+The former also have more positive attitudes toward
+technology compared to Caucasians (Mossberger et al.
+2003), and are active participants who start blogs, post
+on social networking sites, create online citizen journalism, and upload photos/videos. Hargittai and Walejko
+(2008) found that among ﬁrst-year U.S. students in their
+
+THE INFORMATION SOCIETY
+
+sample, African Americans and Native Americans were
+more likely to write online (including poetry and creative
+ﬁction) compared to other groups, while African Americans were less likely than other racial groups to produce
+ﬁlms and artistic photography.
+
+Culturally sensitive entertainment and
+grassroots digital resistance
+Members of racially/ethnically minoritized groups use
+participatory convergence culture to challenge traditional racist representations by offering an alternate
+more progressive political agenda that caters to multiracial and diverse audiences. As audience members, they
+often share conﬂicted relationships with mainstream ﬁctional narratives (Gray 2005). While they might engage
+actively with these mainstream texts, they also observe
+that minorities are positioned in the margins as incidental and background characters, not allowing central participation. They are critical of the corporate practices of
+mainstream media, including preferential treatment
+given to Caucasian actors and the lack of diversity
+among scriptwriters. Some of the marginalized gain
+motivation to produce and distribute alternative cultural
+productions that are more inclusive (Coppa 2008).
+Creative production of alternative Web-based ﬁctional entertainment that is more progressive than typical mainstream ﬁction is one such strategy. New digital
+media technologies offer many low-tech, low budget
+options to produce and distribute independently produced, ethnically relevant counternarratives (Christian
+2011). Since the mid 2000s, Web series have become
+popular with many independent ﬁlmmakers as they
+attract larger and more devoted audiences than YouTube
+viral videos and cost signiﬁcantly less to produce, compared to mainstream television shows. In order to compete with extremely aggressive market forces,
+independent Web ﬁlmmakers often clone formulaic narratives and marketing strategies from the media industry
+but use more diverse forms of representation and ﬂexible
+production techniques that leverage the power of new
+media technologies and convergence to reach to racially
+and sexually diverse audiences (Christian 2011).
+
+Alternative transmedia ﬁction, entertainmenteducation, and East Los High
+Geo-ethnic storytelling refers to stories that are culturally
+relevant to particular ethnic groups within the context of
+a geographically bound community (Kim and BallRokeach 2006; Lin and Song 2006). Geo-ethnic storytelling has primarily been applied to the study of local news
+oriented toward speciﬁc ethnic communities. For
+
+335
+
+example, the Metamorphosis project conducted by Sandra Ball-Rokeach and colleagues at the University of
+Southern California discusses neighborhood storytelling
+networks in the context of community news media (Kim
+and Ball-Rokeach 2006). However, arguably in this
+study, geo-ethnic transmedia storytelling is not only
+related to news or print-oriented media but can engage
+multiple media types to present ethnically relevant stories relating to speciﬁc communities.
+East Los High (ELH) is an example of an educational
+geo-ethnic transmedia storytelling project employing
+culturally relevant ﬁctional narratives targeted at a speciﬁc racial/ethnic minority group (see www.eastloshigh.
+com). ELH is the ﬁrst English-language telenovela in the
+United States with an all-Latino cast to serve the Hispanic population, one of the most rapidly growing
+minority groups in the United States. This population
+has a higher degree of television viewing than non-Hispanics and also represents over 75% of audiences watching both Spanish and English programs (Pi~
+n
+on and
+Rojas 2011; Valdivia 2010). Given speciﬁc emphasis on
+East Los Angeles as a focused geographic area and on the
+speciﬁc ethnic community of Latino-Americans, this
+series illustrates geo-ethnic storytelling.
+ELH is a teen-oriented drama of a ﬁctional high
+school setting in Los Angeles and is in its third season.
+The main programming is distributed via Hulu, a free
+online service, to audiences in the form of a Web series.
+ELH was one of top ﬁve programs in the ﬁrst month of
+their release. Moreover, its episodes have consistently
+been one of the most watched on Hulu’s original programming fare (Block 2013). ELH receives more than
+1 million visitors every month (Terrero 2014) and is the
+number one program on Hulu Latino (K. Le Banks, personal communication, February 3, 2014). Here it is
+important to note that ELH did not have typical Hollywood ﬁnance. It was ﬁnanced by private investors committed to support of media that have social value and by
+the Population Media Center, an international nongovernmental organization (NGO) that focuses on social
+change through entertainment-education (Rivera 2013).
+Storylines are similar to mainstream ﬁction: a teenaged high school with romance, drama, conﬂict, culture
+of “hook-ups,” gossip, and more. Actors are not stars but
+talented newcomers. ELH uses the typical telenovela formula of sex, violence, and revenge, but with an underlying moral message. It uses the Sabido Method of
+entertainment-education, inspired by Migual Sabido’s
+use of telenovelas for social change in Mexico (Sabido
+2004; Singhal and Rogers 2002). Sabido adapted Albert
+Bandura’s social learning theory to create role models in
+entertainment media for inducing social change (Bandura 1977; 1997). In effect, entertainment-education
+
+336
+
+S. RAMASUBRAMANIAN
+
+entails deliberate, purposeful placement of educational
+messages in entertaining programs. Sabido’s success has
+inspired adoption of entertainment-education strategy
+by governments, NGOs, and other organizations in other
+countries, including Soul City in South Africa, Hum Log
+in India, and Karate Kids in Canada (Singhal and Rogers
+2002).
+Unlike other entertainment-educational efforts, ELH
+offers a transmedia storytelling experience. It is one of
+the ﬁrst transmedia entertainment projects focused on
+promoting health, community development, and social
+impact. From the original 7-minute Web-based episodes,
+ELH production evolved into half-hour episodes for teleseries on Hulu, as opposed to a series on traditional network or cable television. Thus, it is accessible over mobile
+phones to even low-income teens in East Los Angeles
+(East L.A.).
+ELH uses audio, visual, and digital media on Facebook, Twitter, and other Web-based platforms to create
+a ﬁctional world (see Table 1 for a full list of transmedia
+elements). One of the characters, Ceci, has a video log
+online that discusses experiences as a teen mom. Siren is
+a ﬁctional online high school newspaper that features
+tidbits, gossip, an interactive advice column, and interviews with characters. A geo-mapping mobile app enables tracking of local community resources and
+personalized recipes. “Dance Five” allows users to take
+free dance lessons and also follow the latest fashion and
+music trends in East Los Angeles. Apart from the main
+episode, another production unit records additional footage, which is supplemental and behind-the-scenes video
+(Hall 2014).
+Many of the features on ELH’s website are interactive,
+allowing “real-time” interaction between fans and characters. Comments and suggestions from the fans feed
+into the story development process, making fans both
+consumers and producers. For instance, one fan
+responded to a character facing a tough challenge with
+the comment, “Don’t let anyone undervalue you. You
+are smart beautiful and have a huge heart.” Another
+Table 1. List of transmedia elements used by East Los High and
+Question Bridge.
+East Los High
+
+1. Televised episodes
+2. Supplemental audiovisual
+materials and footage
+3. Social networking sites (Twitter, Facebook, Instagram)
+4. Mobile apps
+5. Website
+6. Blogs (fashion, food, dance,
+etc.)
+7. Music downloads
+
+Question Bridge
+
+1. Video-based questionand-answer dialogue
+2. Art museum installations
+3. Social networking sites
+(Facebook and Twitter)
+4. Mobile apps
+5. Live public discussions
+6. Online discussion forum
+7. Educational kits
+
+viewer commented on a post regarding Latino stereotypes, “When I was 18 and (sic) ignorant white man
+asked me why I hadn’t had a baby yet.” The blogs and
+website have new updated content every day so that ELH
+becomes integrated into fans’ everyday media rituals and
+habits. Furthermore, after every episode, audiences are
+encouraged to explore the website for resources on issues
+raised in that particular episode, including legal aid
+counseling, domestic violence, and health.
+Striking a balance between popularity and education
+is a particularly difﬁcult challenge for transmedia entertainment-educational initiatives. Charlotte High, responsible for development of Hulu Originals, states that the
+show has a “cool, contemporary feel” and yet focuses on
+issues such as “domestic abuse, coming out as gay in
+high school, and bullying” (James 2014, online). The
+content is not simply preachy or didactic in nature. Prior
+research on public service announcements (PSAs), especially on teen-oriented media content, demonstrates that
+messages seen as overly authoritative can produce a boomerang effect, leading audiences to behave in opposition
+to the intended message (Byrne 2009; Fishbein et al.
+2002). The ELH production team was particular about
+avoiding this oppositional boomerang effect. Mark Warshaw, who helped with the transmedia aspects of ELH,
+stated, “We hit that nice middle level where it didn’t feel
+like a PSA” (Block 2013, online).
+The series is not without controversy or its critics.
+Director Carlos Portugal has said that he was particular
+that the script should counter the idea that East Los
+Angeles is a violence-ridden dangerous zone by presenting the characters as warm and diverse (Castro 2013).
+However, critical voices from within the Latino L.A.
+community argue that the characters are far from being
+portrayed as complex (Ortiz 2013). They point to the
+unidimensional portrayals of some characters as sexually
+promiscuous teens, violent gang members, and criminal
+drug dealers. While the executive producer of ELH, Katie
+Elmora Mota, agrees that the show does not represent
+the entire spectrum of diversity of nationalities and cultures within the Latino community, she suggests that
+ELH offers a fresh perspective on Latino culture (Rivera
+2013). Critics also question the authenticity of the series
+in terms of the absence of the typical East L.A. accent
+and multiethnic, diverse musical scene (Ortiz 2013).
+Another point of discussion among viewers has been
+the anti-choice response to the series, raising the question of whether or not teen pregnancy prevention is a
+socially positive goal. More socially conservative organizations that promote abstinence and anti-choice attitudes criticize ELH for promoting negative sexual
+attitudes such as sexual promiscuity rather than abstinence. Some of the news stories that were analyzed for
+
+THE INFORMATION SOCIETY
+
+this study carried explicit messages that urged citizens to
+contact Hulu and request cancelation of the show’s subsequent season. Consequently, ELH engenders important
+questions such as what is “social good” and who decides
+what is best for a community in designing entertainment-education transmedia initiatives.
+In sum, ELH is a community-oriented transmedia
+entertainment-education project that uses the power of
+ﬁctional narratives to redeﬁne East L.A. Latino teenagers
+through a geo-ethnic storytelling initiative that caters to
+a speciﬁc audience of Latino-Americans conﬁned to a
+narrow geographic area. The project strategically
+involves community organizations through partnerships
+that target speciﬁc community-relevant and culturally
+sensitive messaging. By using transmedia narratives, the
+series appeals to the targeted teen audience that is techsavvy and participates actively in digital media. Due to
+these factors, ELH has accumulated a large audience and
+is now renewed for a third season.
+While ELH uses ﬁctional drama to reach ethnically/
+racially minoritized communities, the following case
+study of Question Bridge uses transmediated dialogue
+and public participatory art for renegotiating ethnic/
+racial identities.
+
+Participatory transmedia public art,
+counternarratives, and Question Bridge
+Content-analytic studies of media representations of
+Black males provide ample evidence of biased and stereotypical portrayals in news and entertainment media.
+Representations of Black male characters in entertainment depict them as lazy and unintelligent individuals
+(Burgess et al. 2011; Mastro and Greenberg 2000) and
+overrepresent them as criminals in the news (Dixon and
+Linz 2000; Entman and Rojecki 2001; Mastro, Blecha
+and Atwelle Seate 2011). Research shows that exposure
+to counter-stereotypic African-American media celebrities leads to prejudice reduction and greater support for
+race-targeted policies such as afﬁrmative action (Ramasubramanian 2011). However, given the proﬁt orientation of mainstream multinational media corporations,
+little commitment exists for presenting complex and
+diverse Black masculine identities through media. This
+gap is ﬁlled by Question Bridge, a community-oriented
+transmedia project that uses video-based question-andanswer dialogic exchanges to renegotiate Black male
+identity.
+Question Bridge originally began in 1996 when Chris
+Jordan was invited by the San Diego Museum of Photographic Arts to create a project on race. This experimental project showcased interviews with Black Americans
+to highlight how views about Blackness from within the
+
+337
+
+racial group are different from those outside. It was
+revived in 2012 when Hank Willis Thomas found an old
+VHS tape of the project and relaunched the project in
+collaboration with Chris Johnson as Question Bridge.
+Other members of the core group include Bayete Ross
+Smith, Kamal Sinclair, and more than a dozen academics, artists, and producers. This project, produced by
+Songha & Company, has transmedia support from Antonio Kaplan and Elise Baugh of Innovent. Other supporters include Tribeca Film Institute, the Sundance
+Institute’s New Frontier Story Lab, The Ford Foundation, and the Bay Area Video Coalition. Question Bridge
+has toured through New York, Georgia, California, and
+Utah, in prisons, art museums, and educational institutions. It includes more than 1500 interviews recorded
+during 4 years (see http://beta.questionbridge.com).
+Question Bridge is a multichannel videographic production using several media platforms to share the
+multi-dimensional, complex, and ﬂuid identities of Black
+men. As an educational project, it uses integrated transmedia elements such as video, social networking sites,
+mobile apps, and face-to-face discussions to engage audiences in multiple ways (see Table 1 for a full list). This
+innovative transmedia project also incorporates Webbased media sculptural environments, geo-location hotspots, live public discussions, virtual street teams, and
+online forums that transcend traditional videographic
+productions. The curriculum, available to high schools,
+also appears at such venues as the Brooklyn Museum,
+which offers visitors iPads, on site, to explore the online
+tools while also being physically present.
+Question Bridge is collaborative in nature and creates
+an “identity map” using self-generated identity tags
+within various groups of Black males. Compiling this
+information and presenting it using visual mapping illustrates the dynamic identities of Black men in an interesting and unique manner. The recent “beta” version of the
+online website allows tagging videos according to various
+themes (such as love, family, or education), ﬂagging as
+inappropriate, sharing through social networking sites
+such as Twitter and Facebook, and responding with individuals’ chosen videos. These features make Question
+Bridge not only transmediated but also audience centered and actively participatory. Posted videos and
+responses allow audiences to choose any theme, speciﬁc
+individual, or response to navigate through the database
+of interlinked videos.
+Rather than follow the linear sequential logic of traditional media such as television or ﬁlm, Question Bridge
+allows personalized and interactive selection of content.
+Those visiting the site monitor the posted videos and
+unedited responses. The artists neither set an agenda nor
+gatekeep what information is allowed into this virtual
+
+338
+
+S. RAMASUBRAMANIAN
+
+space; the community manages both functions. For
+instance, the production team does not select questions,
+which participants choose. Another unique feature is
+that interviewees and interviewers may switch roles, creating a more egalitarian conversational model than
+mass-mediated performances. The overall effect is
+stream-of-consciousness, interactive dialogical communication concerning emergent issues. An interactive
+open forum discussion with a Black male celebrity such
+as English actor Delroy Lindo often accompanies the
+video-art installations at museums, thereby adding a
+“live” component to the otherwise mediated experience.
+Although Question Bridge has many user-driven elements, some of its aspects suggest that the project is highly
+curated and intentional. The lead artist of this project,
+Johnson, states that the creation of the project had the speciﬁc purpose of bringing together Black-American males,
+otherwise divided by social class, geography, education,
+and occupation. The intention is to subtly transform the
+male Black consciousness through the process of freely asking questions that are central to minds and hearts, and left
+unanswered because of the taboo of discussing sensitive
+topics (Belcher 2014, online). In the original 1996 project
+in California, Johnson conducted video interviews which
+asked Black interviewees to respond to the following speciﬁc question: “If you were to ask this black person—who
+lives a very different lifestyle—a question, what would it
+be?” (Belcher 2014, online).
+One of the objectives of the original Question Bridge
+project was to span the divide between professional suburban Blacks and denizens of urban Black neighborhoods through the process of critical questioning and
+reﬂective responses. In Johnson’s words, the project
+sought to “heal the divide” between “those whose lives
+were focused on the neighbourhood” and “those whose
+lives were focused on the greater white world” (King
+2012, online). For instance, Johnson says that some questions from the suburban Blacks would be: “Why do you
+live in the ‘hood’? Why don’t you work hard and leave?”
+when those Blacks from such neighborhoods would ask
+questions such as “Do you really think you can escape
+racism by moving out of the ‘hood’?” (Belcher 2014,
+online).
+While the objective of the original project was to dissolve the barriers between professional suburban Blacks
+versus working-class inner-city Blacks in California, the
+contemporary project has at least two sets of public
+forums for communication: an internal audience of
+Black males and an external audience of others, especially among the dominant group of White Americans.
+By fostering a safe space for a media-generated dialogue
+for Black men from various educational, geographic,
+generational, education, and occupational backgrounds,
+
+the project serves as a safe space for Black males themselves to openly share personal stories and unique perspectives on various aspects of everyday life.
+For internal audiences, a project like Question Bridge
+provides digital tools for self-reﬂection and identity
+reconstruction with the intent of facilitating the sharing
+of intimate experiences, stronger community bonds,
+healing dialogues, and genuine empathetic listening. The
+speciﬁc procedure involves a Black man asking a relevant
+question about another group of Black men from whom
+he feels socially distanced. In response, at least one Black
+man from the latter group answers via a video recording,
+tagged with the video containing the question. Queries
+range in topics from the existential, spiritual, moral, and
+ethical, including courage, freedom, family responsibilities, sexuality, and authenticity: “What do Black males
+have in common?” “What is your purpose?” “When do
+you know when you become a man?” “How can I be
+good when I am surrounded by evil?”
+For external audiences, the focus is on shattering
+existing deep-rooted cultural stereotypes by exposing
+them to the multifaceted, complex, and diverse identities
+among Black males. Since the exhibits include videos
+from a rich variety of backgrounds discussing deeply personal issues with poignancy and humor, a window creates an appreciation of diversity and also the degree of
+articulation among Black males (King 2012). Many
+implicit and explicit racial prejudices exist as those harbored by Americans in general that lead to discrimination and serve as barriers to positive intergroup
+relations. Question Bridge speciﬁcally cites social science
+data that suggests exposure to counterstereotypes is
+effective for overcoming simplistic, limited understandings of out-groups, especially in the context of a so-called
+“postracial era” in which race is, apparently, insigniﬁcant
+and inconsequential.
+One of the directors of Question Bridge, Williams,
+uses rich metaphors to explain the objective: “It’s like
+giving outsiders a window into the nature of Black consciousness,” and “You become a ‘privileged witness’ to
+an internal dialogue that Black men have with themselves rarely” (King 2012, online). The emphasis is much
+more on Blackness than on masculinity. The White audience members’ reversed role is antithetical to the traditional superﬁcial engagement of mainstream media with
+Blackness. While the emphasis of this project is on Black
+males themselves, the artists hope that engaging with
+their project will beneﬁt all participants by making them
+reconsider closed beliefs and limited views of other
+cultures.
+Unlike commercial entertainment videos or storylines, Question Bridge takes a rather raw and uncensored
+approach to discussing the multifaceted identities of
+
+THE INFORMATION SOCIETY
+
+Black males. In this respect, the approach is very different from East Los High, which uses dramatic content
+and a telenovela formula to deliver the educational/social
+message. Question Bridge has no actors, no music, no
+special effects, and not even editing that could engender
+typical media representations of Black males. In this
+sense Question Bridge claims to be more “real” and
+“authentic” than a project such as ELH.
+Audiences’ reactions, which Johnson describes as
+“overwhelmingly positive,” align with the expectations of
+the production team (King 2012). For instance, at the
+Brooklyn Museum, “at least a hundred people” perused
+the exhibits for at least half an hour, laughing at times
+but reﬂecting in silence for the most part (King 2012).
+These reactions show that the project discusses topics
+otherwise difﬁcult and challenging for open conversations. Johnson says that “beyond the sanctity of the
+neighbourhood barbershop, there aren’t many places
+black men hold open and truthful discussions. But even
+in this hallowed space, some issues can’t be thoroughly
+discussed in the time it takes to get a haircut or a beard
+trimmed” (Belcher 2014, online). Johnson acknowledges
+that while a project such as this one tries to open a space
+for changing the identity of Black males, a long-term
+effort is necessary because major social change cannot be
+a reasonable expectation in the short run.
+Some critics express apprehension: “airing dirty laundry in public” (Belcher 2014). They question whether a
+project such as Question Bridge is strategically sound,
+given its objective of countering negative stereotypes of
+African-Americans. From the artists’ perspective, an
+honest and transparent conversation, even if it is initially
+awkward and uncomfortable, will eventually lead to
+greater mutual trust. The underlying assumption is that
+when talking with one another, at a personal level, with
+honesty, prejudice toward the other declines. Hank Willis Thomas summarizes the choice of video-mediated
+conversations: “I saw the magic of using video as a way
+to mediate this conversation where people actually are
+really listening to the questions instead of just having a
+knee-jerk response” (King 2012, online). Because this
+dialogue is public and interactive, the project has become
+a sociological and community-based experience of the
+collective Black male consciousness.
+Overall, Question Bridge represents a community-centered educational initiative that uses the power of transmedia storytelling to create a safe haven for Black males to
+have candid conversations with those similar and those different. Using a video-mediated question-and-answer format allows discussion of typically taboo topics with
+sensitivity, candor, and empathy. As a publicly participatory art project, it invites diverse members of the community to listen to these conversations, engage at a
+
+339
+
+comfortable level, and possibly respond through interactive
+exhibits, video-tagging, online forums, and live discussions.
+The objective is to challenge and redeﬁne mainstream perceptions of Black masculinity in the context of extremely
+negative and stereotypical media portrayals. By including
+everyday participants who share personal stories to spontaneous questions posed, in an unedited manner, by other
+members of the group, this project creates a realistic,
+authentic voice that invites changes to existing simplistic
+mental models of Black masculinity.
+
+Discussion
+This study explores shifts in transmedia convergence culture that are leading to new forms of knowledge, literacies, production, and consumption among racial/ethnic
+minorities in the United States. The two case studies
+showcase harnessing of transmedia storytelling by racial/
+ethnic minorities to enhance educational and community-building objectives, rather than for the traditional
+for-proﬁt goals of mainstream multinational media. ELH
+serves as an example of the formula of telenovela serving
+geo-ethnic transmedia entertainment-education efforts
+by focusing on Latino youth in California. Question
+Bridge uses video-based question-and-answer dialogue
+connecting various types of Black males through a participatory, public video artistic project that successfully
+encompasses several transmedia elements to renegotiate
+Black masculinity.
+Research on transmedia convergence has primarily
+focused on elaborating fans’ practices in the context of
+mainstream commercial entertainment created by multinational media corporations such as Disney, Marvel,
+Facebook, or Instagram (Jenkins 2006; Scolari 2013).
+Such research has mainly discussed phenomena such as
+advergames, Facebook pages for global brands, and
+brand-focused mobile phone apps, which have started
+erasing boundaries between various media genres,
+between production and consumption, between private
+and public spaces, and between entertainment and
+advertising. However, as audiences from marginalized
+groups in society acquire new media literacies in a transmedia convergence culture, several grassroots community-level initiatives are also using multiple media
+formats, platforms, and genres for alternative inclusive
+forms of storytelling. These unique media literacies,
+employed by racial/ethnic minority groups, produce
+more progressive, culturally sensitive alternatives to
+mainstream commercial entertainment. Some of these
+efforts have maintained the formula of traditional commercial entertainment but creatively appropriated them
+to include more educational, socially relevant messages.
+Others have experimented with a fresh methodology and
+
+340
+
+S. RAMASUBRAMANIAN
+
+more ﬂuid ways of arranging interactive media, “safe
+spaces,” that allow deeper, meaningful, and honest
+conversations.
+Given the proﬁt motive of mainstream media, the
+industry rarely considers thoughtful, complex, and multifaceted representations of ethnic/racial minorities. At
+best, cultural differences become commodities of the
+simplest variety to be marketable to various ethnic
+groups. Frustrated by these images and representations
+that are narrow in scope, some media producers and
+artists have tried to create alternative narratives that connect with lived realities and everyday experiences. ELH
+uses a scripted ﬁctional telenovela genre to connect with
+the cultural practices of teenagers in East Los Angeles,
+whereas Question Bridge uses unscripted video interviews to initiate intergroup conversations about Black
+males. Although ELH has interactive elements in its
+transmedia narratives, Question Bridge is more participatory in nature than ELH, with a focus on dialogue and
+discussion. Another distinction is that ELH is a culturally
+sensitive and geographically rooted narrative, whereas,
+Question Bridge focuses more on renegotiating racial/
+ethnic identity.
+In both the cases, the emphasis is on creating an internal
+dialogue rather than an external resistance through these
+projects. While prior research on media advocacy has
+emphasized how community organizations engage various
+media as forms of digital resistance to raise awareness of
+the rights of underresourced and marginalized groups, this
+study focuses on initiatives that use entertainment and art
+to reafﬁrm and redeﬁne racial/ethnic identities. That is,
+rather than use an explicit politicized resistive rhetorical
+strategy, the community-oriented models in this study use
+transmedia culture as a means to implicitly create alterspaces for media engagement.
+While ELH and Question Bridge do provide alternative community-oriented spaces for afﬁrming cultural
+identities, they are not necessarily focused on inequalities
+of power, inﬂuence, structural racism, and the political–
+economic aspects of media production. Question Bridge
+might, to some extent, induce participants to think critically, debate, and discuss collectively about the political,
+economic, and cultural aspects of being a Black male.
+ELH may lead to discussions of practices for sexual/
+reproductive health among Latino youth. However, neither of these initiatives, ELH in particular, is resistive or
+politicized. As Ferguson (2011) argued, any effective critical media literacy curriculum that does not connect the
+cultural with the politico-economic system is too narrow.
+Speciﬁc data on the real-world outcomes of ELH and
+Question Bridge are not available but would help gauge the
+productions’ effectiveness. Although ELH had an explicit
+agenda of not including stereotypical Latino media
+
+characterizations, the extent of success remains questionable. While criticism of ELH includes a lack of diverse
+representation of Latinos, arguably, Question Bridge has
+been successful in portraying the multiplicity, plurality, and
+complexity of Black masculinity. Whether this strategy of
+exposing audiences to counter-stereotypes increases or
+decreases implicit attitudes is not yet clear.
+
+Conclusion
+The scope of the scholarship on new media literacies
+should expand beyond digital literacy skills and media production in at least two ways: First, research on new media
+literacies should include the perspectives of racial/ethnic
+minorities by examining the use of transmedia spaces to
+negotiate and assert unique identities. Such research should
+also include community-oriented, grassroots initiatives that
+use digital new media to amplify minority voices and redeﬁne the identities of marginalized groups in a multicultural,
+transmedia context. Second, media literacies cannot be disconnected from the politics of cultural citizenship. A more
+holistic critical approach to new media literacies should
+transcend digital multimodal literacy skills in traditional
+classroom settings to critically engage the politics of racial
+identity, media belongingness, participatory democracy,
+and cultural citizenship.
+In sum, in an age of spreadable transmedia storytelling, effort should transcend simply developing multimodal digital skills to incorporate critical media literacy
+and focus on social impact, public good, and community
+building. Initiatives such as East Los High and Question
+Bridge serve as cases of culturally sensitive, geo-ethnic,
+digital storytelling that can promote greater good and
+larger community goals such as health, social justice, and
+group vitality, thus providing a meaningful alternative to
+traditional, commercial, uses of transmedia storytelling.
+
+Acknowledgments
+The author thanks Cara Wallis and Aya Yadlin-Segal for their
+input on previous versions of the article.
+
+References
+Abrams, J. R., W. P. Eveland, and H. Giles. 2003. The effects of
+television on group vitality: Can television empower nondominant groups? Communication Yearbook 27:193–220.
+Aoki, G., and J. S. Mio. 2009. Stereotypes and media images. In
+Asian American psychology: Current perspectives, ed. N.
+Tiwari and A. N. Alvarez, 421–40. New York, NY: Psychology Press.
+Appadurai, A. 2011. Disjuncture and difference in the global cultural economy. In Cultural theory: An anthology, ed. I. Szeman
+and T. Kaposy, 282–95. New York, NY: Wiley-Blackwell.
+
+THE INFORMATION SOCIETY
+
+Appiah, O. 2001. Black, White, Hispanic, and Asian American
+adolescents’ responses to culturally embedded ads. Howard
+Journal of Communication 12 (1):29–48.
+Appiah, O. 2002. Black and White viewers’ perception and
+recall of occupational characters on television. Journal of
+Communication 52 (4):776–93.
+Bandura, A. 1977. Self-efﬁcacy: Toward a unifying theory of
+behavioral change. Psychological Review 84 (2):191.
+Bandura, A. 1997. Self-efﬁcacy: The exercise of control. New
+York, NY: Freeman.
+Belcher, C. 2014. Question Bridge provides a forum for black
+men to hold honest discussion. Style Weekly, July 22. http://
+www.styleweekly.com/richmond/black-on-black/Content?o
+idD2097305 (accessed October 18, 2015).
+Block, A. B. 2013. How Hulu lured Latinos to “East Los High”.
+Hollywood Reporter, July 26. http://www.hollywoodre
+porter.com/news/east-los-high-how-hulu-590957 (accessed
+October 18, 2015).
+Bogle, D. 2001. Toms, coons, mulattoes, mammies, and bucks:
+An interpretive history of Blacks in American ﬁlms. London,
+UK: Bloomsbury.
+Bonilla, Y., and J. Rosa. 2015. #Ferguson: Digital protest, hashtag ethnography, and the racial politics of social media in
+the United States. American Ethnologist 42 (1):4–17.
+Burgess, J. 2006. Hearing ordinary voices: Cultural studies, vernacular creativity and digital storytelling. Continuum: Journal of Media & Cultural Studies 20 (2):201–21.
+Burgess, M. C., K. E. Dill, S. P. Stermer, S. R. Burgess, and B. P.
+Brown. 2011. Playing with prejudice: The prevalence and
+consequences of racial stereotypes in video games. Media
+Psychology 14 (3):289–311.
+Byrne, S. 2009. Media literacy interventions: What makes them
+boom or boomerang? Communication Education 58 (1):1–14.
+Castro, T. 2013. “East Los High” on Hulu is ﬁrst English language show with all Latino cast. Hufﬁngton Post, June 6.
+http://www.hufﬁngtonpost.com/2013/06/06/east-los-highhulu_n_3395762.html (accessed October 18, 2015).
+Christian, A. J. 2011. Fandom as industrial response: Producing
+identity in an independent web series. Transformative Works
+and Cultures 8. http://journal.transformativeworks.org/index.
+php/twc/article/view/250/237 (accessed April 10, 2016).
+Cleary, P. F., G. Pierce, and E. M. Trauth. 2006. Closing the
+digital divide: Understanding racial, ethnic, social class,
+gender and geographic disparities in Internet use among
+school age children in the United States. Universal Access in
+the Information Society 4 (4):354–73.
+Coppa, F. 2008. Women, Star Trek, and the early development
+of fannish vidding. Transformative Works and Cultures 1:
+online. http://journal.transformativeworks.org/index.php/
+twc/article/view/44/64 (accessed April 10, 2016).
+Correa, T., and S. H. Jeong. 2011. Race and online content
+creation: Why minorities are actively participating in
+the Web. Information, Communication & Society 14
+(5):638–59.
+Couldry, N. 2008. Mediatization or mediation? Alternative
+understandings of the emergent space of digital storytelling.
+New Media & Society 10 (3):373.
+Daniels, J. 2009. Cloaked websites: Propaganda, cyber-racism
+and epistemology in the digital era. New Media & Society
+11 (5):659–83.
+Daniels, J. 2012. Intervention: Reality TV, whiteness, and narratives of addiction. In Critical perspectives on addiction
+
+341
+
+(Advances in Medical Sociology 14), ed. J. Netherland, 103–
+25. Bingley, UK: Emerald.
+Dixon, T. L., and D. Linz. 2000. Overrepresentation and underrepresentation of African Americans and Latinos as lawbreakers
+on television news. Journal of Communication 50 (2):131–54.
+Entman, R. M., and A. Rojecki. 2001. The Black image in the
+White mind: Media and race in America. Chicago, IL: University of Chicago Press.
+Ferguson, S. 2011. Classroom contradictions: Popular media in
+Ontario schools’ literacy and citizenship education policies.
+Education, Citizenship & Social Justice 6 (2):137–51.
+Fishbein, M., K. Hall-Jamieson, E. Zimmer, I. Von Haeften,
+and R. Nabi. 2002. Avoiding the boomerang: Testing the
+relative effectiveness of antidrug public service announcements before a national campaign. American Journal of
+Public Health 92 (2):238–45.
+Fujioka, Y. 2005. Black media images as a perceived threat to African American ethnic identity: Coping responses, perceived
+public perception, and attitudes towards afﬁrmative action.
+Journal of Broadcasting & Electronic Media 49 (4):450–67.
+Georgiou, M. 2005. Diasporic media across Europe: Multicultural societies and the universalism-particularism continuum. Journal of Ethnic and Migration Studies 31 (3):481–
+98.
+Gerbner, G. 1972. Communication and social environment.
+Scientiﬁc American 227 (3):152–60.
+Gerbner, G., and L. Gross. 1976. Living with television: The
+violence proﬁle. Journal of Communication 26 (2):172–94.
+Giles, H., R. Y. Bourhis, and D. M. Taylor. 1977. Towards a
+theory of language in ethnic group relations. In Language,
+ethnicity and intergroup relations, ed. H. Giles, 307–48.
+London, UK: Academic Press.
+Gray, H. 2005. Cultural moves: African Americans and the politics
+of representation. Berkeley, CA: University of California Press.
+Hall, G. 2014. The alchemists turning “East Los High” into
+gold on Hulu with transmedia approach. Biz Journals, July
+8. http://www.bizjournals.com/losangeles/news/2014/07/08
+/alchemists-east-los-high-on-hulu.html?pageDall (accessed
+October 18, 2015).
+Harcup, T. 2011. Alternative journalism as active citizenship.
+Journalism 12 (1):15–31.
+Hargittai, E., and G. Walejko. 2008. The participation divide:
+Content creation and sharing in the digital age 1. Information, Community and Society 11 (2):239–56.
+Harp, D., I. Bachmann, and L. Guo. 2012. The whole online
+world is watching: Proﬁling social networking sites and activists in China, Latin America, and the United States. International Journal of Communication 6:298–321.
+Hughey, M. W., and J. Daniels. 2013. Racist comments at
+online news sites: a methodological dilemma for discourse
+analysis. Media, Culture & Society 35 (3):332–47.
+Hoffman, D. L., T. P., Novak, and A. E., Schlosser. 2001. The
+evolution of the digital divide: Examining the relationship
+of race to Internet access and usage over time. In The digital
+divide: Facing a crisis or creating a myth?, ed. B. Compaine,
+47–97. Cambridge, MA: MIT Press.
+Jackson, L. A., Y. Zhao, A. Kolenic III, H. E. Fitzgerald, R. Harold, and A. Von Eye. 2008. Race, gender, and information
+technology use: The new digital divide. CyberPsychology &
+Behavior 11 (4):437–42.
+James, M. 2014. Hulu announces slate of original shows, return of
+“East Los High”. Los Angeles Times, January 8. http://articles.lat
+
+342
+
+S. RAMASUBRAMANIAN
+
+imes.com/2014/jan/08/entertainment/la-et-ct-hulu-original-sh
+ows-return-of-east-los-high-20140107 (accessed October 18,
+2015).
+Jenkins, H. 2006. Fans, bloggers, and gamers: Exploring participatory culture. New York, NY: NYU Press.
+Jenkins, H., S. Ford, and J. Green. 2013. Spreadable media: Creating value and meaning in a networked culture. New York,
+NY: NYU Press.
+Jones, S., C. Johnson-Yale, S. Millermaier, and F. S. Perez.
+2009. Everyday life, online: US college students’ use of the
+Internet. First Monday 14 (10). http://ﬁrstmonday.org/arti
+cle/view/2649/2301 (accessed April 10, 2016).
+Kim, Y. C., and S. J. Ball-Rokeach. 2006. Community storytelling network, neighborhood context, and civic engagement:
+A multilevel approach. Human Communication Research
+32 (4):411–39.
+King, J. 2012. An artist’s rare, intimate conversation about
+black masculinity. Color Lines February 23. http://color
+lines.com/archives/2012/02/question_bridge.html (accessed
+October 18, 2015).
+Lenhart, A., and J. B. Horrigan. 2003. Re-visualizing the digital
+divide as a digital spectrum. IT & Society 1 (5):23–39.
+Lin, W. Y., and H. Song. 2006. Geo-ethnic storytelling: An
+examination of ethnic media content in contemporary
+immigrant communities. Journalism 7 (3):362–88.
+Mastro, D. E., and A. L. Robinson. 2000. Cops and crooks:
+Images of minorities on primetime television. Journal of
+Criminal Justice 28 (5):385–96.
+Mastro, D. E., E. Blecha, and A. Atwell Seate. 2011. Characterizations of criminal athletes: A systematic examination of
+sports news depictions of race and crime. Journal of Broadcasting & Electronic Media 55 (4):526–42.
+Mirrlees, T. 2013. Global entertainment media: Between cultural imperialism and cultural globalization. London, UK:
+Routledge.
+Mossberger, K., C. J. Tolbert, and M. Stansbury. 2003. Virtual
+inequality: Beyond the digital divide. Washington, DC:
+Georgetown University Press.
+Mossberger, K., D. Kaplan, and M. A. Gilbert. 2008. Going
+online without easy access: A tale of three cities. Journal of
+Urban Affairs 30 (5):469–88.
+Mouffe, C., ed. 1992. Dimensions of radical democracy: Pluralism, citizenship, community. London, UK: Verso.
+Nakamura, L. 2009. Don’t hate the player, hate the game: The
+racialization of labor in World of Warcraft. Critical Studies
+in Media Communication 26 (2):128–44.
+Nakamura, L. 2013. Cybertypes: Race, ethnicity, and identity on
+the Internet. London, UK: Routledge.
+New California Media. 2005. Ethnic media in America: The
+giant hidden in plain sight. http://www.npr.org/documents/
+2005/jul/ncmfreport.pdf (accessed August 6, 2016).
+Ohler, J. 2013. Digital storytelling in the classroom: New media
+pathways to literacy, learning, and creativity. Thousand
+Oaks, CA: Corwin Press.
+Ortiz, M. 2013. NYRican in LA: When real East Los met “East
+Los High”. Fusion.net October 25. http://fusion.net/abc_uni
+
+vision/opinion/story/hulus-east-los-high-series-centers-sexcrime-17179 (accessed October 18, 2015).
+Perry, B., and P. Olsson. 2009. Cyberhate: The globalization of
+hate. Information & Communications Technology Law 18
+(2):185–99.
+Pew Internet and American Life Project. 2014. African Americans and technology use. http://www.pewinternet.org/2014/
+01/06/african-americans-and-technology-use (accessed October 18, 2015).
+Pi~
+non, J., and V. Rojas. 2011. Language and cultural identity in
+the new conﬁguration of the US Latino TV industry. Global
+Media and Communication 7 (2):129–47.
+Ramasubramanian, S. 2011. The impact of stereotypical versus
+counterstereotypical media exemplars on racial attitudes,
+causal attributions, and support for afﬁrmative action.
+Communication Research 38 (4):497–516.
+Rivera, J. 2013. “East Los High”: Finally a Latino-themed show
+we can be proud of. Examiner, June 18. http://www.exam
+iner.com/article/east-los-high-ﬁnally-a-latino-themedshow-we-can-be-proud-of (accessed October 18, 2015).
+Sabido, M. 2004. The origins of entertainment-education. In Entertainment-education and social change: History, research, and
+practice, ed. A. Singhal, M. C. Cody, E. M. Rogers, and M.
+Sabido, 61–74. Mahwah, NJ: Lawrence Erlbaum Associates.
+Scolari, C. A. 2013. Lostology: Transmedia storytelling and
+expansion/compression strategies. Semiotica 195:45–68.
+Scolari, C. A. 2014. El Eterntuata: transmedia expansions,
+political resistance and popular appropriations of a human
+hero. In Transmedia archaeology: Storytelling in the borderlands of science ﬁction, comics, and pulp magazines, ed. C.
+Scolari, P. Bertetti, and M. Freeman, 55–71. Basingstoke,
+UK: Palgrave Connect.
+Shome, R., and R. Hegde. 2002. Culture, communication and
+the challenge of globalization. Critical Studies in Media
+Communication 19 (2):172–189.
+Singhal, A., and E. M. Rogers. 2002. A theoretical agenda for entertainment-education. Communication Theory 12 (2):117–35.
+Singhal, A., H. Wang, and E. M. Rogers. 2012. The rising tide
+of entertainment-education in communication campaigns.
+In Public communication campaigns, ed. R. Rice and C. K.
+Atkin, 323–36. Thousand Oaks, CA: Sage.
+Spooner, T., and L. Rainie. 2000. African-Americans and the
+Internet. Washington, DC: Pew Internet and American Life
+Project.
+Terrero, N. 2014. “East Los High” builds on Hulu’s success
+among Hispanic audiences. Entertainment Weekly, July 9.
+http://www.ew.com/article/2014/07/09/east-los-high-builds
+-on-hulus-success-among-hispanic-audiences
+(accessed
+October 18, 2015).
+Tuchman, G. 1978. Making news. New York, NY: Free Press.
+Valdivia, A. N. 2010. Latino/as in the media. Cambridge, UK:
+Polity.
+Wasko, J., and E. R. Meehan. 2013. Critical crossroads or parallel routes?: Political economy and new approaches to studying media industries and cultural products. Cinema Journal
+52 (3):150–57.
+
+Copyright of Information Society is the property of Routledge and its content may not be
+copied or emailed to multiple sites or posted to a listserv without the copyright holder's
+express written permission. However, users may print, download, or email articles for
+individual use.
+
+
