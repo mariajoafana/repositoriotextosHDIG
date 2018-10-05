@@ -1,0 +1,849 @@
+Youtube: Where Cultural Memory and Copyright Converge
+Author(s): Lucas Hilderbrand
+Source: Film Quarterly, Vol. 61, No. 1 (Fall 2007), pp. 48-57
+Published by: University of California Press
+Stable URL: https://www.jstor.org/stable/10.1525/fq.2007.61.1.48
+Accessed: 01-10-2018 16:11 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a widerange of content in a trusted digital archive. We use information technology and tools to increase productivity andfacilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org. Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available athttps://about.jstor.org/terms
+University of California Press is collaborating with JSTOR to digitize, preserve and extend
+access to Film Quarterly
+This content downloaded from 157.253.50.50 on Mon, 01 Oct 2018 16:11:33 UTC
+All use subject to https://about.jstor.org/terms
+48 FALL 2007
+YOUTUBE: WHERE CULTURAL MEMORY
+AND COPYRIGHT CONVERGE
+LUCAS HILDERBRAND CONSIDERS TO WHAT EXTENT THE INCREASED ACCESS THAT
+YOUTUBE ENABLES IS OUTWEIGHED BY THE ONLINE REGULATION IT PROMPTS
+Let’s begin with a clip: William Shatner’s infamous 1986 appearance
+on Saturday Night Live when he told a convention
+of Trekkies to “get a life” during a sketch. This scene signaled
+a defi ning moment in media refl exivity and public awareness
+of fan cultures, as well as inspired the opening of Henry Jenkins’s
+1992 book Textual Poachers. The fi rst time I presented
+some of the material that follows, I used a clip of this sketch
+as an illustration of content uploaded to YouTube that refl
+ects and replays pop-cultural memory. But by the time I
+reworked my presentation for a conference about a month
+later, the clip had disappeared. Perhaps something like this
+has happened to you, too.
+YouTube has become the go-to website for fi nding topical
+and obscure streaming video clips, but everyday experiences
+also indicate how fl eeting such access can be. Viewers
+and academics have quickly come to treat the site as an informal
+archive of television texts.Yet, as I argue in this article,
+even though YouTube and sites like it have expanded access
+to a rich spectrum of such material and suggested the potential
+for democratization of media memories and fl ows, they
+also introduce new ways to regulate and deny access to content
+under the guise of enforcing copyright protection.
+WEB VIDEO
+At the forefront of web video, YouTube has been called
+“viral,” “revolutionary,” and a “phenomenon.” Within a few
+short months of the streaming video website’s public launch
+in December 2005, tens of millions of visitors daily used the
+site to access television clips online and, in many cases, to
+post some of their own. Further marking YouTube the medium
+of its moment, Time magazine named “You” (referencing
+YouTube) the Person of the Year for 2006.1 Rather than
+being promoted by multi-million-dollar branding campaigns
+by major networks or tech fi rms, YouTube became popular by
+word of mouth—which in the Internet era means forwarded
+email links, blogs, and MySpace profi les. (Or, for those older
+than the “Me Media” generation, articles in the New York
+Times or elsewhere.) The videos available on YouTube include
+home videos and remixes, up-to-the-minute television
+excerpts, music videos, trailers, commercials, and highlights
+from television history posted by users—and increasingly by
+producers and the networks themselves. (For commentary on
+the site’s content, see the sidebar “The Clip Canon.”)
+Despite all the hype surrounding the speed of YouTube’s
+popularity, television–computer convergence has been a
+long-expected prospect. In the mid-1990s, tech companies,
+networks, and Internet service providers were already speculating
+about their future merger and the resulting potential
+for exact target marketing.2 Microsoft purchased WebTV
+in 1996 but failed to capture a media monopoly to complement
+its software empire. In the intervening decade, digital
+developments such as DVDs, DVRs (Digital Video Recorders,
+such as TiVo), video-on-demand services, peer-to-peer
+(p2p) fi le-sharing networks, and iPods have contributed to
+the changes in how viewers receive and watch television.
+The swiftness with which the stakes surrounding YouTube
+have changed in its fi rst year and a half demonstrate just how
+diffi cult it is to rigorously assess cultural and technological
+developments in their present moment. For instance, an otherwise
+insightful book about “the transition from network to
+networked TV” published as recently as 2006 completely
+missed the YouTube phenomenon.3 With the expansion of
+high-speed connections and growing computer memory capacities,
+Internet video distribution—from BitTorrent downloading
+to short-form streaming—has at long last become
+viable on a massive scale. Yet, when the promise of television
+online fi nally became palpable, it was not in the way corporations
+and the digirati had predicted in the 1990s. Indeed, if
+the histories of communications technologies have taught us
+anything, audiences rarely adopt and use media in the ways
+they were originally envisioned. YouTube, like popular p2ps
+Film Quarterly, Vol. 61, No. 1, pps 48–57, ISSN 0015-1386, electronic ISSN 1533-8630. © 2007 by the Regents of the University of California.
+All rights reserved. Please direct all requests for permission to photocopy or reproduce article content through the University of California Press’s
+Rights and Permissions website, http://www.ucpressjournals.com/reprintinfo.asp. DOI: 10.1525/FQ.2007.61.1.48
+This content downloaded from 157.253.50.50 on Mon, 01 Oct 2018 16:11:33 UTC
+All use subject to https://about.jstor.org/terms
+before it, was developed by a couple of young guys who wrote
+the basic programming code and millions of home viewers
+who developed its uses.4
+YouTube and similar sites offer new and remediating relationships
+to texts that indicate changes and acceleration of
+spectatorial consumption. YouTube’s success has been attributed
+in large part to its user-friendliness. Users do not need
+to log-in in order to view clips, and videos start streaming as
+soon as the webpage loads, so there is no need to worry about
+software compatibility, downloading fi les, or even clicking
+the “play” button. On the interface, videos appear with a
+scrollable sidebar of other videos that search results have concluded
+are of related interest, so users can click through from
+one clip to another without doing multiple searches. This
+mode of hyperlinking effectively replicates channel-surfi ng
+and introduces non-narrative seriality to the viewing experience.
+Frequently, as well, searches for an iconic or controversial
+moment of television will yield multiple clips of the
+same content, with minor variations in image quality, running
+time, titling, keywords, or spellings. Deciding which
+clip among the batch to view may depend upon clues such as
+the thumbnail image or running time (to get the most complete
+or, contrarily, the most effi cient clip) or simply the rules
+of peer-review popularity (users give clips star ratings, and the
+number of times each clip has been viewed is also tracked for
+users’ ready reference). Beyond its ease of use, however, its
+vast collection seems to be the primary draw.
+YouTube has contributed to a culture of the clip. The
+specifi c moments a viewer wants to see can now be searched
+and accessed without the hassles of watching live broadcasts,
+making recordings, or waiting through exposition and commercial
+breaks. In the process, it fosters a new temporality
+of immediate gratifi cation for audiences. As soon as the red
+bar across the bottom of the playback frame indicates how
+much of the streaming video is ready to view, users can actually
+drag the cursor to scan ahead to arrive at the moment
+they seek even quicker. Suddenly, three minutes can seem
+like a life-sucking eternity, and I, for one, am prone to skipping
+ahead or moving on before a clip fi nishes if it is the least
+bit tedious.
+Although I am making a claim for the site’s centrality in
+accessing historical clips, instantaneity is one of its primary
+virtues. Users post television clips almost as soon at they have
+been broadcast, which allows viewers who missed a politician’s
+faux pas or bits of incisive satire to see the relevant material
+in time to participate in water-cooler conversations. Of
+course, rights owners can and do insist that such popular clips
+be taken down almost as quickly. It has become fairly common
+for blog readers to click through an embedded clip from
+the previous night’s television broadcast, only to fi nd that the
+footage has been taken off-line in the few hours that elapsed
+between the post and the reader’s attempted playback. This
+has become so common that bloggers even signal the likelihood
+of this outcome, by suggesting readers click through
+while they can. Even newsworthy public events are not immune.
+Perhaps the most publicized and outrageous single
+take-down to date came when public affairs network C-SPAN
+ordered the removal of Stephen Colbert’s tongue-in-cheek
+speech at the White House Correspondents’ Dinner in May
+2006, which had been watched 2.7 million times within fortyeight
+hours on YouTube and which clearly satirized the state
+of political journalism.5 This viewership statistic suggests
+that more viewers saw the speech on YouTube than during
+its original transmission, and that, as outrageous as it seems,
+even offi cial governmental events can be subject to restrictive
+copyright claims. On the fl ip side, the site has also been used
+The YouTube interface: playback controls, user comments,
+related and featured clips
+Viacom-owned CBS hosts a branded “channel” on YouTube
+FILM QUARTERLY 49
+This content downloaded from 157.253.50.50 on Mon, 01 Oct 2018 16:11:33 UTC
+All use subject to https://about.jstor.org/terms
+as a vehicle for grassroots alternative media to expose political
+gaffes, corporate exploitation, police violence, or the realities
+of the battlefront in Iraq. Once publicized on YouTube, these
+events and issues at times get taken up in the mainstream
+press. In many cases, this feeds the greater good, though at
+other times a few seconds of video can cause such a scandal
+that they may ruin a campaign or damage an entire political
+career. And, rather than diversifying what audiences see, topical
+viral videos (viral in the sense of epidemic) reinforce the
+cultural dominance of specifi c media clips.
+The high viewership of short-lived clips—such as those
+mentioned in blogs or even reported in the traditional press—
+reintroduce the dialectic of ubiquity and ephemerality that
+has, historically, been the model of much of popular culture,
+especially broadcasting. The intervention of home video
+recording opened up the possibility for home audiences to
+catch up on live broadcasts that they may have missed or of
+vintage moments they wish to re-experience. Videotape induced
+audience expectations for access—whether for home
+video releases of theatrical feature fi lms approximately six
+months after their debuts or for fi lm classics, video art, or
+television shows that someone, somewhere must have recorded.
+The Internet, Google, and YouTube have accelerated
+and exaggerated these expectations for availability. But
+YouTube reminds audiences that such content, once in their
+grasp, can still be temporary. The initial novelty and glee at
+fi nding an unexpected clip soon gives way to frustration and
+disbelief when searches for something else come up matchless—
+or, increasingly, when a desired clip has been de-activated
+for copyright violation. Perhaps more than at any time
+before, audiences and users seem to reject the content industry’s
+proprietary claims, complaining when a video goes
+offl ine or even reposting new versions of formerly disabled
+clips. Expectations for access have developed into a sense of
+access entitlement.
+Despite many unrealized promises for digital media in
+the past decade or so, a surprising number of digital technology
+advocates and scholars remain celebratory in their rhetoric
+that technology has profoundly changed our culture, and
+continue to claim that in the near future all content will be
+digital, interactive, and shared. As a reporter for Wired magazine
+asserted, “Without being overly simplistic or melodramatic,
+the state of the Old Commercial Broadcasting Model
+can be summarized like this: a spiraling vortex of ruin.”6 I
+am far more skeptical. For mass audiences, broadcast, cable,
+and satellite television still dominate (not least because of
+class issues such as the digital divide—that is, uneven access
+to technology—or even the bourgeois pleasures of narrative
+structures and slick production values), and network content
+will continue to feed these streams. And I suspect that for
+many audiences, network content—new or old—still drives
+users to YouTube, and amateur content is discovered along
+the way, through the suggested links, alternate search results,
+or forwarded emails.
+Although some cultural critics have predicted that You-
+Tube will displace the established corporate media, You-
+Tube’s popularity relies at least in part upon recirculated
+selections of mainstream media.7 As has been historically apparent
+with entertainment technologies, initial novelty often
+gives way to familiar content. Convergence usually means
+content redundancy across platforms, and YouTube perhaps
+relies more on mainstream media for source material than it
+threatens to displace it.8 Given this situation, the confl ict becomes
+not only about what media audiences watch, but who
+can control and profi t from it.
+CULTURAL MEMORY
+YouTube has given renewed public lives to thousands or even
+millions of now-“classic” moments from television, and offers
+access to a rich spectrum of important footage of history-
+shaping events and of otherwise unavailable or obscure
+nuggets of popular culture. Available clips range from CNN
+coverage of the Challenger space shuttle explosion (1986) to
+footage of Los Angeles police beating Rodney King (1991),
+from the Disney-animated The Story of Menstruation (1946)
+to Crispin Glover playing up his eccentricities on Late Night
+with David Letterman (1987). In cases such as commercials
+and talk-show highlights, signifi cant but small-scale ephemera
+has historically been the hardest content for fans or even
+historians to track down and re-experience. This Internet
+library has fed scholarly as well as nostalgic uses.
+Culled from users’ personal collections of recordings
+and productions, the site’s videos and its search engine offer
+some evidence of what from television’s past now constitutes
+our cultural memory—a concept that suggests the idiosyncratic
+ways that personal experience, popular culture,
+and historical narratives intersect. So much of our personal
+and social memories are comprised of televised news coverage,
+commercials, or scenes in bad sit-coms. YouTube
+allows users to seek out the media texts that have shaped
+them and that would otherwise be forgotten in “objective”
+histories. Like memory (cultural or personal), YouTube is
+dynamic. It is an ever-changing clutter of stuff from the
+user’s past, some of which disappears and some of which
+remains overlooked, while new material is constantly being
+accrued and new associations or (literally, hypertext) links
+are being made. The images are often hazy but may suffi ce
+to induce recall or to fi ll in where
+50 FALL 2007
+continued on page 54
+This content downloaded from 157.253.50.50 on Mon, 01 Oct 2018 16:11:33 UTC
+All use subject to https://about.jstor.org/terms
+FILM QUARTERLY 51
+THE CLIP CANON
+“soap opera” created by three aspiring screenwriters and an
+actress. The hoax called into question the authenticity of
+video blogs generally.
+OK Go, “Here I Go Again”
+http://www.youtube.com/watch?v=pv5zWaTEVkI
+Category: music video
+Copyright status: original (posted by record label)
+This hipster pop group has staked its fame on ironic
+synchronized dance routines in videos that have gone viral.
+In “Here I Go Again,” the four band members glide, hop,
+and turn in sync on a treacherous course of treadmills. The
+band members perform the number as if it were an elaborate
+joke—which, of course, it would be if the scene wasn’t so
+well choreographed and rehearsed.
+“Dick in a Box”
+http://www.youtube.com/watch?v=1dmVU08zVpA
+Category: network content
+Copyright status: original (posted by network)
+The Saturday Night Live digital short “Lazy Sunday” became
+one of the most popular early postings on YouTube—
+and was the fi rst high-profi le clip to be removed at the request
+of its rights owner. A year later, this SNL short became another
+YouTube favorite, but this time NBC posted the
+clip—in its un-bleeped, non-broadcast version. In the music
+video parody sketch “Dick,” Andy Samberg and host Justin
+In the main article, I have focused on old content that has
+become newly accessible through YouTube and on the intellectual
+property issues that video-posting and sharing raise.
+With millions of different clips posted to the site, it would be
+impossible to offer a comprehensive analysis of its content.
+Yet, among all the amateur music videos, fan tributes, talking
+heads, pet vids, laughing babies, stunts, and TV shows, a minority
+of clips have been seen and shared millions of times.
+In the culture of the clip, spectacles, stunts, cuteness, pop
+culture references, and exhibitionism all trump narrative.
+Here, then, is a capsule survey of some of the most viewed
+and most talked-about clips from YouTube’s fi rst couple of
+years—twelve candidates for the YouTube canon.
+“Evolution of Dance”
+http://www.youtube.com/watch?v=dMH0bHeiRNg
+Category: most viewed
+Copyright status: appropriative (clearing music rights would
+be both logistically challenging and costly)
+With the most viewed clip in YouTube history, “Inspirational
+Comedian” Judson Laipply performs iconic dance
+moves to a frenetic megamix of thirty songs in six minutes.
+This clip would seem an unlikely hit: the amateurish footage
+presents a long take of a balding white guy performing in
+a glaring spotlight with the acoustics of home video shot in
+an auditorium. Yet, Laipply cleverly and nimbly switches between
+dance styles. Most of the songs are instantly recognizable,
+and the crowd cheers every transition as he moves from
+Elvis’s knee fl ares to disco, head-banging, the chicken dance,
+and the Macarena. My personal favorite: the MC Hammerstyle
+sideways shuffl e.
+lonelygirl15
+http://www.youtube.com/profi le?user=lonelygirl15
+Category: most notorious
+Copyright status: original
+One of the most popular video bloggers and arguably the
+fi rst YouTube star was lonelygirl15, a teenager named Bree.
+In her postings, she talked about her ambiguously romantic
+relationship with her best friend, cryptically referenced her
+religion, attempted to “prove science wrong,” and responded
+to viewer comments. The short episodes began in mid-June
+2006. In September lonelygirl15 was exposed as a fi ctional
+This content downloaded from 157.253.50.50 on Mon, 01 Oct 2018 16:11:33 UTC
+All use subject to https://about.jstor.org/terms
+52 FALL 2007
+“Brokeback to the Future”
+http://www.youtube.com/watch?v=8uwuLxrv8jY
+Category: fan video/trailer slash
+Copyright status: appropriative
+Trailer re-mixes have become one of the most popular
+forms of fan subversion in the age of digital video. Amidst the
+hype surrounding Brokeback Mountain’s release, a fl ood of
+clips reworked homosocial male buddy fi lms to expose their
+homoerotic subtexts. Faithfully mimicking the structure of
+the offi cial Brokeback trailer and using its signature score, the
+best of these slash clips revisits the Back to the Future trilogy.
+Also check out the seminal parody reinvention of Stanley Kubrick’s
+The Shining as a light-hearted family comedy.
+Hillary Clinton/”1984” parody
+http://www.youtube.com/watch?v=6h3G-lMZxjo
+Category: political campaign/culturejamming
+Copyright status: appropriative
+The fi rst controversial attack ad of the 2008 U.S. presidential
+election was an instant culturejamming classic.
+The creator reworked Apple’s famous Ridley Scott-directed
+“1984” advertisement announcing the Macintosh with video
+clips of candidate Hillary Rodham Clinton as Big Brother.
+Clever and technically sophisticated, this unauthorized spot
+plugged Barack Obama, who in turn refused to condemn it.
+The original Mac ad can also easily be found on YouTube for
+comparison—or for a quick tutorial in advertising and computer
+history.
+Timberlake, dressed and sounding like white boy throwbacks
+to early-1990s sexed-up R&B ballads, sing about giving their
+girlfriends “something real” for Christmas.
+Two Chinese boys
+http://www.youtube.com/watch?v=x1LZVmn3p3o
+Category: lip-synch
+Copyright status: appropriative
+Lip-synch videos, featuring teenagers giving exaggerated
+performances to their webcams, rank among the most pervasive
+genres on YouTube. To be frank, the appeal of these
+karaoke videos is pretty much lost on me, but their sheer prevalence
+and apparent popularity make them one of the central
+genres of the forum. Cross-cultural interpretations, such as
+these two Chinese students mugging to the Backstreet Boys’
+“I Want It That Way” are especially popular. See also: the
+“Numa Numa” post and its copycats.
+Nora, the piano-playing cat
+http://www.youtube.com/watch?v=TZ860P4iTaM
+Category: cute animals
+Copyright status: original (possible underlying rights for
+music played in background)
+Home videos of pets rank among the most popular amateur
+videos on YouTube, especially clips of cats leaping,
+screeching, or falling down. But probably the most famous
+single cat is Nora, a feline that purportedly plays piano. Nora
+sits at the bench and paws one note at a time with apparent
+concentration, but don’t expect any actual melodic progressions.
+Nora’s celebrity was so newsworthy that a sequel clip
+premiered on CNN.
+This content downloaded from 157.253.50.50 on Mon, 01 Oct 2018 16:11:33 UTC
+All use subject to https://about.jstor.org/terms
+FILM QUARTERLY 53
+Mentos and Diet Coke experiments
+http://www.youtube.com/watch?v=AkkOUPYNs7I
+http://www.youtube.com/watch?v=hKoB0MHVBvM
+Category: stunts
+Copyright status: original (though trademark owners Diet
+Coke and Mentos may not be happy)
+Mix half-chewed Mentos candies with a large bottle of
+Diet Coke, and the reaction produces a foamy eruption. You-
+Tube hosts numerous variations on this chemistry experiment-
+turned-stunt. These are my two favorites. In the fi rst, a
+guy throws a Diet Coke bottle rocket down against the pavement,
+and it ricochets clear past the roof of a two-story house.
+The second, more elaborate clip features two men in lab
+coats and goggles who unleash 101 bottles in sequence to
+create a fi zzy fountain that unfolds in geyser-tastic spectacle.
+Parkour
+http://www.youtube.com/watch?v=uUksaD-JJgI
+Category: sports/stunts
+Copyright status: original (may have underlying music rights
+to clear)
+The numerous videos about Parkour, a French sport of
+high-speed, daredevil urban acrobatics, suggest that YouTube
+can introduce audiences to previously obscure athletic forms.
+Parkour was the raison d être for the hit French fl ick District
+B-13 and made a cameo in Casino Royale. But video clips
+such as this British one take the action back to the streets,
+with stunning and often dangerous stunts that mix gymnastics,
+breakdancing, and martial arts, as young men run, jump,
+and fl ip. Also on the sports beat, for instant (or incessant) replays,
+check out Zinedine Zidane’s controversial head-butt
+during the 2006 World Cup.
+“Noah takes a photo of himself every day for 6 years”
+http://www.youtube.com/watch?v=6B26asyGKDo
+Category: self-documentation
+Copyright status: original
+Blogs, MySpace, cameraphones, and other digital
+technologies have introduced proliferating modes of autobiography.
+2356 days in the making, Noah Kalina shot
+self-portraits daily between 2000 and 2006, then put them
+together as an animated slide show. The framing and facial
+expressions remain remarkably consistent throughout,
+and the Philip Glass-esque piano score (credited as original
+music by Carly Comando) accentuate the repetition of the
+video’s structure and its melancholy mood. Unlike many
+self-indulgent clips that refl ect an exacerbated culture of
+narcissism, this is an arresting and almost moving study of
+maturing.
+Saddam Hussein execution
+http://www.youtube.com/watch?v=6tVG5_F5Ado
+Category: snuff/current events
+Copyright status: unclear
+YouTube isn’t all crazy cats and teenage goofs. It also
+appeals to morbid and prurient interest, as the popularity
+of copies of a cameraphone recording of Hussein’s hanging
+demonstrate.
+This content downloaded from 157.253.50.50 on Mon, 01 Oct 2018 16:11:33 UTC
+All use subject to https://about.jstor.org/terms
+54 FALL 2007
+we could only previously imagine
+how things were from written or word-of-mouth accounts.
+One of the dangers of seeing once-formative content on
+YouTube is being underwhelmed in the present; such disillusioning
+effects are probably only enhanced by the low
+resolution of the video stream. But these disappointments
+of history alternate with delightful discoveries.
+YouTube introduces a new model of media access and
+amateur historiography that, while the images are imperfect
+and the links are impermanent, nonetheless realizes much of
+the Internet’s potential to circulate rare, ephemeral, and elusive
+texts. As documents, the low-resolution postings to You-
+Tube fall far short of archival preservation, and excerpting
+changes the fl ow and format of broad/cable-cast content. Archivists
+and librarians have criticized the site not only for circulating
+low-resolution copies of unauthorized content but
+also for skewing general perceptions that sites such as You-
+Tube may render traditional archives irrelevant and introduce
+unrealistic demands for access.
+YouTube functions both as a portal of cultural memory
+and as a concept, but it does not operate as an archive in the
+proper sense of the word. Perceptions of its popularity have
+had a snowball effect on YouTube’s prevalence for both uploads
+and streaming, thus making it the de facto repository
+for video clips—at least until they are deactivated. YouTube
+is only the most famous of a proliferation of web video sites,
+but as the best-known, it has become a centralized repository
+and probably the fi rst place users search for content. It has
+not only become the default site, but it is also becoming the
+generic term for conversational references to web video clips
+and sharing—much the way Barbie, Xerox, Kleenex, or Coke
+can be used to describe a type of product beyond a specifi c
+brand name.
+Memory media are mediated—and look it, as old video
+clips seem to exhibit a surface haze of worn old video. Streaming
+clips on YouTube refl ect the aesthetics of access; reduced
+resolution becomes a trade-off for quick and easy use—an
+issue that has recurred across various technologies, from photocopies
+to VHS tapes to MP3s. In a word, YouTube clips
+look and sound terrible. Off-air recordings get compressed,
+and source webcams and camera-phone images look blocky
+and jerky from the moment of creation; delays in streaming
+exacerbate the effects of both. Videos that may look acceptable
+in miniature reveal low resolution if blown up to fullscreen.
+And digitization of analog source recordings take
+color saturation down a few notches while introducing pixelation.
+The YouTube recordings further remediate content
+and inscribe its sources onto the recordings. The homemade
+status of many television clips is marked by station identifi -
+cation logos in the corner of the frame and, in the cases of
+older recordings, VHS artifacts such as rainbows of discoloration
+and signal drop-out. Such artifacts and alterations indexically
+signal the videos’ sources and demonstrate bootleg
+aesthetics.9 Clips that circulate beyond YouTube, as embedded
+videos on other websites, feature branded YouTube watermarks.
+The identities of uploaders and comment posters are
+also inscribed on the interface, so that there is some record of
+where the footage came from and where it has gone.
+If YouTube can be said to facilitate communication, it
+is in ways that emphasize video over epistolary exchange.
+Friends, family, and co-workers can easily email hotlinks for
+already-posted videos of cute critters or comical blasts from
+the past to each other, and typically do so with minimal if
+any written explanations; forwarding YouTube videos can sustain
+email contact between people with pre-established relationships
+without the effort of writing personal narratives.
+In terms of forging new connections, two prevalent types of
+user-generated posts have emerged: fi rst, talking-head webcam
+videos of users spouting off extemporaneous rants in
+response to the clips they watch and, second, more elaborate
+parodies of popular videos. Despite designated spaces on
+the YouTube interface for descriptions about videos and for
+feedback from viewers, the potential for written communication
+via the site seems to be mostly unrealized. Browsing the
+posted user comments reveals a lot of plugs for posters’ own
+clips, spam, chain letters, and racist or homophobic fl ames
+(insults). When users do make comments, they are typically
+brief and not terribly enlightening, along the lines of, “lol.
+very funny!!!!!!” Written dialogue remains the domain of
+blogs and chat rooms.
+As a forum for self-syndication and post-broadcast networking,
+YouTube has elicited considerable discourses of
+“community” and “sharing.” Co-founder Chad Hurley has
+commented, “People like to share experiences . . . We started
+it with the idea of solving a problem—how to share video
+online with your friends.”10 A market analyst was quoted in
+the New York Times as saying, “‘YouTube fi gured out what
+Google and Yahoo and Microsoft and all the others in the
+marketplace didn’t,’ she said. ‘It’s not about the video. It’s
+about creating a community around the video.’”11 As its slogan
+“Broadcast Yourself” suggests, YouTube fosters exhibitionistic
+and narcissistic amateur video streams; it is tempting
+to suggest that user-generated content on YouTube is more
+about promoting oneself than about exchanging ideas with
+others. Clips that excerpt or rework texts from TV’s past, in
+contrast, indicate a desire to reclaim a shared cultural memory.
+And, of course, these are the clips most at risk of being
+taken off-line by their rights owners.
+continued from page 50
+This content downloaded from 157.253.50.50 on Mon, 01 Oct 2018 16:11:33 UTC
+All use subject to https://about.jstor.org/terms
+FILM QUARTERLY 55
+COPYRIGHT
+Copyright has been at the center of public attention to You-
+Tube, and it sets the terms on which much of personal (and
+scholarly) access to media texts will be available. It is also the
+major question that has overshadowed YouTube’s success.
+How long will YouTube survive in an age of aggressive antipiracy
+campaigns and lawsuits—content industry movements
+that have largely been supported by Congress and the courts?
+Google purchased YouTube for $1.6 billion in October 2006,
+making it worth suing.12 Videos may easily be found through
+keyword searches on the site or simply through a general web
+search on Google. In this sense, its design as a search engine
+matched Google’s business model and allowed for integration
+with Google’s own fl edgling video databases when the
+company acquired YouTube.
+With all the attention YouTube has received as the central
+portal of web video clips, it had seemed inevitable that
+some media conglomerate or other would sue YouTube for
+copyright infringement. If anything, it actually took longer
+than one might have expected. In March 2007, Viacom sued
+YouTube and Google for $1 billion.13 The lawsuit followed
+Viacom’s failed attempts to negotiate a cooperative deal (negotiations
+reportedly continue concurrent with litigation)
+and hundreds of thousands of requests for YouTube to disable
+clips of Viacom properties The Daily Show, The Colbert
+Report, and South Park. Advocates of digital content sharing
+and remixing have pointed out the irony that Stephen Colbert
+repeatedly referenced and encouraged YouTube clips
+and remixes on his show. Whether or not Viacom sees some
+fi nancial reward for its litigation, this is the type of case that
+seems bound for the Supreme Court, to follow in the wake of
+its major precedents: Sony v. Universal (1984, known colloquially
+as “the Betamax case”) and MGM v. Grokster (2005,
+which shut down Kazaa-like p2p network Grokster for enabling
+unauthorized music sharing).
+Copyright law was developed to stimulate publication of
+new works for the edifi cation of culture. At base, copyright allows
+rights owners the right of publication and, in exchange
+for offering cultural works for public consumption, of profi ting
+from such publication. This form of legal regulation was
+intended to foster a vibrant and continuing stream of new
+cultural works, though legislation and court rulings have increasingly
+favored rights owners over their audiences of late.
+Numerous copyright scholars have suggested that such shifts
+have betrayed the law’s original purpose. For analog media,
+content owners not only fi nancially benefi t from publication,
+but they also have considerable control in deciding how content
+will enter the marketplace.
+The same basic issues are at stake, if complicated, in the
+era of digital networks when peer-sharing and video streaming
+are more or less indistinguishable from publication. In
+many cases, rights owners request to have streaming YouTube
+videos disabled not necessarily because they are competing
+with owners’ own residual marketing but because they want
+to maintain some kind of control over what is publicly accessible
+and how it is distributed. Digital technologies and
+policies have facilitated rapid and more drastic methods of
+disabling the documents that feed cultural memories and enable
+scholarship. Hardware is now regularly engineered to
+prevent copying and to disable unauthorized uses, and the
+1998 Digital Millennium Copyright Act (DMCA) forbids
+hacking encryption technologies and allows for offended parties
+to demand that online content be taken off-line without
+due process to prove infringement. As Lawrence Lessig has
+suggested, in such situations the layers of “code”—the hardware,
+the software, and the content—are typically all owned
+or controlled by corporations with vested interests in regulating
+them.14
+Although it should perhaps go without saying, copyright
+should concern anyone interested in fi lm and media because
+it has long been the primary legal means of regulating access
+to texts. When access is restricted or forbidden, not only
+do viewers lose out, but textual scholars can be severely inhibited
+as well when key texts simply are not available to be
+studied or taught. I would go so far as to suggest that You-
+Tube has had a major impact on how television history can
+be taught by opening up access to a wealth of clips that
+The Electronic Frontier Foundation’s parody of The
+Incredibles: a warning about restrictive copyright laws
+This content downloaded from 157.253.50.50 on Mon, 01 Oct 2018 16:11:33 UTC
+All use subject to https://about.jstor.org/terms
+56 FALL 2007
+pro fessors may have longed for but been unable to locate;
+the site is in credibly useful for reference, just as the Inter net
+Movie Database and Wikipedia—despite (overblown) criticisms
+of their accuracy—conveniently fi ll in such information
+as credits, dates, and historical events. Furthermore,
+students can make curriculum peer-produced by forwarding
+relevant links to their instructors and classmates.
+To be clear, I am suggesting that YouTube does not promote
+willy-nilly piracy but rather enables access to culturally
+signifi cant texts that would otherwise be elusive and the
+ability to repurpose videos in the creation of new derivative
+works. In other words, the site and its users (and I) advocate
+for what copyright is supposed to do. Furthermore, litigation—
+whether based upon a legitimate legal claim or merely
+a scare tactic and form of economic intimidation—can have
+inhibiting effects far more sweeping than the specifi c rule of
+law. Copyright matters, and YouTube has become one of the
+most prominent and popular sites where what’s actually legal
+law is being contested and potentially curtailed.
+In terms of copyright, the user-uploaded content streamed
+via YouTube falls into roughly three categories: copied, appropriative,
+and original. The copied texts derive primarily
+from users’ television recordings, clipped into bite-sized portions
+without intended alteration of the source material other
+than excerpting. This is perhaps the most sought-after category,
+especially for catching up with topical TV moments or
+nostalgic clips. Appropriated clips often include copyrighted
+music or footage used in the service of new derivative works;
+such uses range from amateur music videos as users dance
+and lip-synch to popular songs in their bedrooms, to complex
+fan, slash or culturejamming re-edits of footage. Original
+content would mean any video footage that does not incorporate
+previously copyrighted works, such as home movies,
+video diaries, and small-scale productions. There are also innumerable
+versions, imitations, and parodies of both corporate
+and amateur content. All three categories are prevalent,
+including original content, which helps bolster the claim that
+the site can and is used for substantial non-infringing uses. In
+many cases, what appears to be the same clip has been uploaded
+by different users, thus blurring distinctions between
+authorship, ownership, and distribution rights.
+In the wake of court rulings against the p2ps Napster and
+Grokster, the copyright crisis has haunted otherwise celebratory
+predictions of the website. In the Betamax case, which
+legalized home recording with VCRs, the Supreme Court
+came to three signifi cant conclusions: fi rst, that home video
+recorders must be allowed because of their potential for noninfringing
+uses; second, that the dominant uses of the machines
+were for timeshifting (recording television programs
+off air for belated viewing), which the Supreme Court considered
+fair use; and third, that Sony could not be held liable for
+its customers’ misuses of the machines. The court saw fi t to expand
+the defi nition of fair use—reproduction of copyrighted
+content for educational uses—to include personal consumptive
+uses as a way to broaden the potential audiences for television
+programming and serve a broader public interest. This
+ruling expanded the domain of fair use beyond orthodox interpretations,
+thus setting a curious but progressive precedent.
+The judges were clearly aware that some home tapers did, in
+fact, elide or fast-forward through commercials when timeshifting,
+and that some video collectors built home libraries of
+tapes. But for the court, the legitimate and potentially benefi -
+cial uses of the technology outweighed such violations.
+Although YouTube may superfi cially resemble the
+peer-to-peer networks as a means of unauthorized content
+redistribution, I suggest that all of the judicial reasons that ultimately
+protected VCRs can and should reasonably apply to
+YouTube. YouTube cannot be completely shut down due to
+the indisputable volume of material that in no way infringes
+copyright and that can be argued to refl ect the experiences
+and ideas of a generation and possibly even a whole cultural
+moment. The content industry’s interests in the site may suffi
+ce to maintain its architecture—and, by extension, to sustain
+a space for amateur and bootleg media fl ows. Even if
+YouTube itself implodes, the technology for video sharing remains
+available, and viewer desire seems suffi cient to drive
+video sharing to alternative venues.
+The failure of the Betamax precedent to save the p2ps
+should not be seen to limit its viability for YouTube. Judicial
+perceptions that Napster and Grokster did not have signifi
+cant non-infringing uses and that the network managers
+could have intervened to disable infringing content were
+central to their undoing. Distinguishing YouTube from these
+peer-to-peer networks, users do not download the video fi les
+to their own computers but instead watch them as streaming
+Flash fi les and only redistribute them as emailed or embedded
+links. When the copyright question arises, YouTube
+representatives have cited the DMCA’s safe harbor provision
+for Internet service providers, which shields companies that
+provide technical infrastructure from liability for users’ infringements.
+Further distinguishing YouTube from these peer-to-peer
+networks, YouTube regulates uses of the site. At the time of
+the Google purchase, YouTube was portrayed as a “good
+corporate citizen,” one that may actually serve the content
+industry’s interests.15 YouTube has demonstrated such self-
+This content downloaded from 157.253.50.50 on Mon, 01 Oct 2018 16:11:33 UTC
+All use subject to https://about.jstor.org/terms
+FILM QUARTERLY 57
+regulations as disabling clips that have been the subject of
+take-down requests from copyright owners in compliance
+with the DMCA or that have been deemed obscene by users.
+The site’s inability—or refusal, depending on one’s point of
+view—to stringently and preemptively monitor copyright
+content has lead to criticism that it willingly hosts infringing
+content to boost its bottom line. Meanwhile, YouTube’s
+relatively stringent policies have spawned a proliferation of
+knock-off sites that use similar technologies and interfaces to
+provide access to such illicit content. This trend refl ects a
+pre-existing pattern: the rise of alternative peer-to-peer services
+when popular ones face legal trouble. In fact, killing off
+YouTube may do more damage to the content industry than
+good, if doing so eliminates the industry-friendly site.
+In contrast to Viacom, some record labels, studios, and
+networks use YouTube as a promotional platform by uploading
+previews and pilots through branded “channels” or through
+paid placement on the website’s front page.16 A handful, including
+Viacom-owned CBS, have even struck licensing or
+small-stake ownership agreements with the site. For a time,
+it seemed that industry licensing agreements and the Google
+purchase might have signaled a decisive shift in the content
+industry’s war against so-called “piracy” and ensured the site’s
+survival. YouTube has popularized online video viewing generally
+and very likely driven traffi c to other sites, including
+the networks’ own. Such mainstreaming of consumption patterns
+and collaboration with the entertainment industry invariably
+entails some compromises, but YouTube might have
+been part of achieving an access equilibrium—and maybe it
+still will be. Maybe the site has introduced a new paradigm
+for online digital video sharing that builds upon the Betamax
+decision’s protections in a way that can be reconciled with
+the DMCA, but to negotiate these seemingly opposed policies,
+it must do so in ways as complex, even imaginative, as
+both the Betamax landmark decision and the digital copyright
+laws. If YouTube and online video streaming continue
+to be embraced by the industry, a court ruling may fi nd a way
+within copyright to ensure the site’s survival as a way to protect
+commerce—just as it did for VCRs.
+In a technological, legal, and business sphere that has
+so far undone most utopian predictions about new media,
+my initial optimism about YouTube has given way to ambivalence.
+The site may not be a perfect or perpetual way
+to preserve content, but it has incredibly expanded access to
+media content. Ultimately a commercial endeavor, the site
+is not—and probably never has been—inherently utopian or
+radical. Whatever YouTube’s future, its meteoric rise to popularity
+and its role at the center of speculation about the near
+future of video technology make it historically signifi cant. It
+should also alert media scholars and audiences to the ways
+that copyright can regulate video access and, by extension,
+erase media memory.
+1. Time, 25 December 2006.
+2. See Ellen Seiter, “Television and the Internet,” in Television and New Media
+Audiences (New York: Oxford University Press, 1999), 115–30, and Lisa Parks,
+“Flexible Microcasting: Gender, Generation, and Television-Internet Convergence,”
+in Television after TV, eds Lynn Spigel and Jan Olsson (Durham, NC:
+Duke University Press, 2004), 133–56.
+3. Shelly Palmer, Television Disrupted: The Transition from Network to Networked
+TV (Burlington, MA: Focal Press, 2006).
+4. YouTube was created by three PayPal alumni, still in their twenties: Steve
+Chen, Chad Hurley, and Jawed Karim, who left the company to attend grad
+school before it hit big.
+5. C-SPAN later requested the take-down of a clip from Speaker of the House
+Nancy Pelosi’s blog nine months later. See Noam Cohen, “Which Videos are
+Protected? Lawmakers Get a Lesson,” New York Times, 26 February 2006 (accessed
+online).
+6. Bob Garfi eld, “YouTube vs Boob Tube,” Wired, December 2006 (http://
+www.wired.com/wired/archive/14.12/youtube.html, accessed April 29, 2007).
+7. See Sonja Baumer, “YouTube vs. Main Stream Media: Kissing Cousins or
+Feuding Siblings?” Flow 5, no. 9 (March 2007). The conventional wisdom that
+infringing clips are the most popular has been challenged by tracking service
+Vidmeter, which found that clips subject to takedown requests made up less
+than ten percent of content and only slightly more than fi ve percent of the page
+views. Dan Mitchell, “YouTube’s Favorite Clips,” New York Times, 7 April 2007
+(accessed online).
+8. See Henry Jenkins, Convergence Culture: When Old and New Media Collide
+(New York: New York University Press, 2006), 13–16.
+9. I previously developed the idea of “bootleg aesthetics,” in “Grainy Days
+and Mondays: Superstar and Bootleg Aesthetics,” Camera Obscura 57 (2004),
+57–91.
+10. Quoted in Sam McManis, “It’s You. It’s YouTube,” Sacramento Bee, 14
+March 2006, n.p.
+11. Charlene Li, quoted in Andrew Ross Sorkin and Peter Edmonston, “Google
+Is Said to Set Sights on YouTube,” New York Times, 7 October 2006. As John
+McMurria has observed, the “community” rhetoric was rampant and open to
+dispute following the sale of YouTube to Google. See John McMurria, “The
+YouTube Community,” Flow 5, no. 2 (2006), http://jot.communication.utexas.
+edu/fl ow/?jot=view&id=1995.
+12. This price refl ects market defl ation compared to the $5.7 billion Yahoo
+paid for the short-lived broadcast.com, even during the economic resurgence
+of the so-called web 2.0. This fi gure for broadcast.com appears in John Cloud,
+“The YouTube Gurus,” Time, 25 December 2006, 69.
+13. See Michael Learmonth, “Viacom Sues YouTube, Google,” Variety, 13
+March 2007, and Jeremy W. Peters, “Viacom Sues Google over YouTube
+Video Clips,” New York Times, 14 March 2007 (both accessed online).
+14. Lawrence Lessig, The Future of Ideas: The Fate of the Commons in a Connected
+World (New York: Vintage, 2002), 23–25. On “code,” see also Lessig,
+Code: Version 2.0 (New York: Basic Books, 2006).
+15. The description in quotation marks appears in a statement by a representative
+of the Motion Picture Association of America in Andrew Wallenstein,
+“Catch YouTube If You Can,” Hollywood Reporter, March 21, 2006, n.p.
+16. Heather Green, “Waiting For the Payoff; The video-sharing Web site is a
+runaway success—everywhere but on the bottom line,” Business Week, 18 September
+2006, 56.
+LUCAS HILDERBRAND is Assistant Professor of Film and Media Studies at the University
+of California, Irvine. His book Inherent Vice: Bootleg Histories of Videotape and Copyright
+is forthcoming from Duke University Press.
+ABSTRACT At the forefront of online streaming video, YouTube has expanded access to
+a rich spectrum of televisual material and suggests the potential for democratization of
+media memories and fl ows. Yet, the site also introduces new ways to regulate and deny
+access to such content under the guise of enforcing copyright.
+KEYWORDS YouTube, streaming video, copyright, piracy, cultural memory
+This content downloaded from 157.253.50.50 on Mon, 01 Oct 2018 16:11:33 UTC
+All use subject to https://about.jstor.org/terms
