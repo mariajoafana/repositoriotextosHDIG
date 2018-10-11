@@ -9,13 +9,13 @@
 
 1. ¿Cuáles son las palabras más comunes en sus artículos? ¿Hay palabras que excluiría o incluiría en futuras consultas sobre su tema?Al revisar la lista de "distinctive words", ¿podría organizar bajo una etiqueta común o tema general algunas de esas palabras? En general, ¿ve alguna forma de acotar sus búsquedas y/o tema de investigación después de hacer el ejercicio?
 
-Las palabras más comunes fueron "Digital" "internet" Women" "Tchnology" y "Gender" "Divide". 
-En general el grupo de palabras si dan cuenta de todo el panorama: desde la educación hasta la política para la apropiación de la tecnología. En este primer ejercicio son muy pequeñas palabras como " literacy" y "education". 
+Las palabras más comunes fueron "Digital" "Internet" Women" "Technology", "Gender" y "Divide". 
+En general el grupo de palabras si dan cuenta de todo el panorama: desde la educación hasta la política para la apropiación de la tecnología. En este primer ejercicio son muy pequeñas las palabras " literacy" y "education". 
 Algunas de las organizaciones bajo etiquetas de estas palabras podrían ser:
 **Alfabetización tecnológica:** policy, divide, technologies, internet, access, gender.
 **Política diferencial:** gender, women, rural, individuals.
 **Acceso:** information, internet, research, studies, technologies. 
-Lo que pudeo identificar de este primer ejercicio es que para mi proyecto es preciso hacer búsquedas según los temas a tratar: políticas, alfabetización, brecha digital. En este avance tengo un panorama general de las mujeres y las tecnologías, pero para odear n centor de tecnologías debo detenerme en aspectos puntuales de qué es el acceso, cómo lograrlo en comparación a otros modelos y experiencias y de qué manera se puede reflejar en la política pública. En todo caso esta lectura distante me permite ver la pertinencia del corpus.
+Lo que pudeo identificar de este primer ejercicio es que para mi proyecto es preciso hacer búsquedas según los temas a tratar: políticas, alfabetización, brecha digital. En este avance tengo un panorama general de las mujeres y las tecnologías, pero para pensar en un centro de tecnologías debo detenerme en aspectos puntuales de qué es el acceso, cómo lograrlo en comparación a otros modelos y experiencias y de qué manera se puede reflejar en la política pública. En todo caso esta lectura distante me permite ver la pertinencia del corpus que exploré.
 
 Link: https://voyant-tools.org/?corpus=8f8b25888c35a2689b82b8f601ebb775&view=Cirrus
 
