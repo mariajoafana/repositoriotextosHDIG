@@ -1,0 +1,845 @@
+Determinants of Internet skills, uses and outcomes. A
+systematic review of the second- and third-level digital divide
+Anique Scheerder ⇑
+, Alexander van Deursen, Jan van Dijk
+University of Twente, Faculty of Behavioural, Management and Social Sciences, Department of Communication Science, PO Box 217, 7500 AE Enschede,
+The Netherlands
+article info
+Article history:
+Received 19 May 2017
+Received in revised form 13 July 2017
+Accepted 13 July 2017
+Available online 15 July 2017
+Keywords:
+Digital divide
+Internet skills
+Internet use
+Internet outcomes
+Systematic literature review
+abstract
+Recently, several digital divide scholars suggested that a shift is needed from a focus on
+binary Internet access (first-level digital divide) and Internet skills and use (second-level
+digital divide) to a third-level digital divide in which the tangible outcomes of Internet
+use are highlighted. A plethora of studies have been conducted to identify determinants
+of digital divides. Unfortunately, there is a lack of consistency in the terminology used.
+Moreover, terms are often not theoretically grounded. Therefore, we conducted a systematic
+literature review of digital divide determinants. The results show that the third-level
+digital divide was underexposed. The primary focus is on Internet use. More importantly,
+the identified determinants show that digital divide research is largely limited to sociodemographic
+and socioeconomic determinants.
+ 2017 Elsevier Ltd. All rights reserved.
+Contents
+1. Introduction . . . ........................................................................................ 1608
+2. Theoretical background . . . . . . . . . . . . . ..................................................................... 1608
+2.1. From Internet access to outcomes . . . . . . . . . ........................................................... 1608
+2.2. Determinants of digital divides . . . . . . . . . . . ........................................................... 1609
+3. Method . . . . . . . ........................................................................................ 1609
+3.1. Systematic review . . . . . . ........................................................................... 1609
+3.2. Search terms . . . . . . . . . . ........................................................................... 1609
+3.3. Selection criteria . . . . . . . ........................................................................... 1610
+3.4. Study selection . . . . . . . . ........................................................................... 1610
+3.5. Selection bias. . . . . . . . . . ........................................................................... 1610
+4. Results. . . . . . . . ........................................................................................ 1610
+4.1. Categorization of digital divide types and determinants . . . . . . . . . . ........................................ 1611
+Internet skills. . ................................................................................ 1611
+Internet use . . . ................................................................................ 1611
+Internet outcomes . . . . . . . . . . . . . . ................................................................ 1612
+Digital divide determinants . . . . . . ................................................................ 1612
+http://dx.doi.org/10.1016/j.tele.2017.07.007
+0736-5853/ 2017 Elsevier Ltd. All rights reserved.
+⇑ Corresponding author.
+E-mail address: a.j.scheerder@utwente.nl (A. Scheerder).
+Telematics and Informatics 34 (2017) 1607–1624
+Contents lists available at ScienceDirect
+Telematics and Informatics
+journal homepage: www.elsevier.com/locate/tele
+4.2. Focus of digital divide research . . .................................................................... 1612
+4.3. Determinants of Internet skills. . . .................................................................... 1612
+4.4. Determinants of Internet uses . . . .................................................................... 1613
+4.5. Determinants of Internet outcomes . . . . . . . . . . . . . . . . . . ................................................. 1614
+5. Discussion. . . . . . . . . . . . . . . .............................................................................. 1614
+5.1. Conclusion . . . .................................................................................... 1614
+5.2. Limitations. . . .................................................................................... 1614
+Acknowledgments . . . . . . . . .............................................................................. 1614
+Appendix A. Determinants of Internet skills . . . . . . ........................................................... 1615
+Appendix B. Determinants of Internet use activities. . . . . . . . . . . . . . . . . . . ........................................ 1616
+Appendix C. Determinants of Internet Outcomes . . ........................................................... 1619
+Appendix D. . . . . . . . . . . . . . .............................................................................. 1620
+References . . . . . . . . . . . . . . .............................................................................. 1621
+1. Introduction
+The digital divide is defined as inequalities in access to and use of Information and Communication Technologies (ICTs),
+mostly the Internet (Castells, 2002). A plethora of studies have been conducted to identify determinants of digital divides.
+Unfortunately, there is a lack of consistency in the terminology used, both for the type of digital divide addressed (skills, uses
+and outcomes), as well as for the determinants. Scholars refer to the same concepts using different nomenclatures. Additionally,
+terms are often not theoretically grounded (Van Deursen et al., 2017). A comprehensive overview and categorization of
+the determinants of Internet skills, uses and outcomes would help to identify where future research should be directed. It
+will provide a framework for building digital divide theory and allow policy makers to identify the groups that are lagging
+behind. This will provide input for the development of adequate policies targeted at more egalitarian Internet use, finally
+aiming to decrease digital and subsequently social inequalities. This article aims to answer the following research question:
+Which statistically significant determinants define Internet skills, uses and outcomes in the English-language academic
+digital divide literature between 2011 and 2016?
+To answer this question, we strive to (1) identify the amount of research that has been conducted on each level of the
+digital divide (skills, uses and outcomes) and what determinants are found for each level, and (2) delineate the different terminologies
+that seem to cause confusion. To develop a comprehensive overview, we conducted a systematic literature
+review that focused on the second- (skills and uses) and the third- (outcomes) level digital divides in the past six years.
+Our contribution starts with an overview of digital divide theory, followed by an explanation of the applied method and ends
+with the results of the systematic literature review. In the final section, the implications and limitations of this study are
+discussed.
+2. Theoretical background
+2.1. From Internet access to outcomes
+The digital divide became a topic of interest in the early 1990s as Internet access and the use of personal computers
+increased (Eastin et al., 2015) and has been evolving ever since. Initially, the approach to the digital divide was a simplistic
+study of the uneven distribution of Internet access (Eastin et al., 2015), observed as a binary distinction between those connected
+to the Internet and those who were not (Mehra et al., 2004; Riggins and Dewan, 2005). Those who had an Internet
+connection were perceived as being on the preferred side of the divide (Newhagen and Bucy, 2004). This type of digital divide
+is now referred to as the first-level digital divide. Subsequently, Hargittai (2002) noted that a distinction should be made
+between an Internet access divide and a skills divide, the latter indicating differences between groups of people in terms
+of skills necessary to effectively use the Internet. This development also departed from the deterministic idea that access
+to technology would automatically provide all of the benefits of the technology. Several scholars expressed concerns regarding
+the unilateral digital divide approach that focused solely on inequalities based on differences in Internet access (Fuchs,
+2009; Selwyn, 2004; Van Dijk, 2005). Since in most Western countries the proportion of the population with an Internet connection
+is high, having a connection is no longer considered the primary or only barrier to (benefit from) the Internet. The
+relevance of a digital divide based on Internet access started to be questioned when broadband Internet access and digital
+devices became more prevalent. As a result, the focus of the digital divide discourse shifted to digital skills, part of the
+second-level digital divide (Hargittai, 2002) that also includes differences in use (usage gap) (Van Dijk, 2005). Research
+on digital skills moved forward when authors classified types of skills necessary to bridge the digital divide (Mossberger
+et al., 2003; Van Deursen and Van Dijk, 2011). Mossberger et al. (2003) distinguished between technical competence, or
+‘‘the skills needed to operate hardware and software, such as typing, using a mouse and giving instruction to the computer
+to type records a certain way”, and information literacy, which involves ‘‘the ability to recognize when information can solve
+1608 A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624
+a problem or fill a need and to effectively employ information resources”. Recently, Van Deursen et al. (2016) classified technical
+competence as ‘operational skills’, or the basic skills needed to use the Internet. Additionally, they distinguished ‘information
+navigation skills’ (the ability to find, select, and evaluate sources of information on the Internet), ‘social skills’ (the
+ability to use online communication and interactions to understand and exchange meaning and acquire social capital)
+and ‘creative skills’ (needed to create different types of quality content and to publish or share this with others on the
+Internet).
+Several scholars have argued that digital divides should be approached more comprehensively, in which not only Internet
+access, skills and use are addressed but also the consequences of Internet use (e.g., Fuchs, 2009; Selwyn, 2004; Van Dijk,
+2005). Accordingly, the digital divide discourse has shifted from binary Internet access, to skills and use of the Internet,
+to a focus on the beneficial outcomes of Internet use, in 2011 labelled the third-level digital divide (Wei et al., 2011). This
+digital divide is present when the possession of digital skills and Internet use do not lead to beneficial outcomes (Stern
+et al., 2009; Van Deursen et al., 2016). The digital divide is increasingly considered ‘‘a multidimensional phenomenon that
+includes a set of complex divides [...], caused by a variety of factors” (Bruno et al., 2010, p.27). Furthermore, several scholars
+suggest that the digital divide plays a major role in the reinforcement of existing social inequalities (e.g., Helsper, 2012; Van
+Dijk, 2005; Witte and Mannon, 2010).
+2.2. Determinants of digital divides
+Studies of the first-level digital divide have shown that Internet access is unequally distributed among individuals with
+different demographic characteristics, such as age, gender, socioeconomic status, ethnicity and geography (e.g., Helsper,
+2010; Mossberger et al., 2003). Many of these factors also determine skills and use. Blank and Groselj (2014), for example,
+found evidence that age, educational level and employment status cause a large proportion of the differences within the
+second-level digital divide. an Deursen and Van Dijk (2010) showed that similar determinants of Internet use determine
+Internet skills, although the relative influence of these determinants depends on the type of skills and use measured.
+Recently, researchers have focused on the determinants of Internet outcomes by distinguishing factors that are needed to
+capitalize on Internet use to acquire benefits (e.g., Van Deursen et al., 2017). Van Deursen et al. (2017) showed that
+different outcomes from Internet use were the result of different digital divide determinants. For example, while
+employment status was shown to be important for employment- and education-related Internet outcomes, it did not affect
+social outcomes.
+3. Method
+3.1. Systematic review
+A systematic literature review was performed to develop a comprehensive overview of the determinants of Internet
+skills, uses and outcomes of the digital divide. This review followed the protocol of the Preferred Reporting Items for Systematic
+Reviews and meta-Analyses (PRISMA) for systematic reviews (Moher et al., 2009). This framework was chosen to
+ensure that the study was transparent and replicable. Systematic reviews are a method for identifying and synthesizing all
+available existing research on a topic and, therefore, are a method to meet the aforementioned research goals. From the
+research question, several search terms were selected after identifying Internet skills, uses and outcomes as primary
+terms.
+3.2. Search terms
+The query executed for this review was threefold. It established the determinants of Internet skills, uses and outcomes. A
+comprehensive search was conducted using the Web of Science, PsycInfo and Scopus, which together covered a wide range
+of social science journals. To obtain optimal results, three Boolean search strings were constructed. A Boolean search is performed
+to combine all search terms in a structured way. As illustrated below, all three search strings consisted of distinct
+parts. First, the main part, concerning skills, uses or outcomes was included. Then, search terms were added to ensure that
+the results would contain the determinants of the main part, including indicators, predictors, and determinants. Additional
+terms, such as factors or antecedents, did not deliver any additional useful results. Last, the term digital divide was added
+to the search strings to ensure that the determinants of the digital divide that were found were investigated and identified
+in the context of the digital divide and, therefore, applicable to our framework.
+Skills. From the preliminary research the three most common terms used by researchers when writing about the ability to
+use ICTs were as follows: online, digital and Internet skills. In addition, several terms were found that were used in the same
+context, such as digital literacy, digital competence and information literacy. Including these terms in the search did not
+yield any additional results. The final Boolean search string used to search for papers related to Internet skills was as
+follows: (‘Internet skills’ OR ‘digital skills OR ‘online skills’) AND (indicators OR predictors OR determinants) AND (‘digital
+divide’).
+A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624 1609
+Uses. Both ‘Internet use(s)’ and ‘Internet usage’ are used interchangeably in existing digital divide literature. Moreover, the
+term activities also generated useful results, but only when used in combination with online or Internet. The term digital activities
+did not yield additional useful results. The combination and extension of these terms resulted in the following search
+string: (‘Internet use’ OR ‘Internet activities’ OR ‘online activities’ OR ‘Internet usage’) AND (indicators or predictors or determinants)
+AND (‘digital divide’).
+Outcomes. From a detailed analysis of the literature on digital divides, we determined that the terms outcomes,
+benefits, effects and opportunities were the most commonly named benefits of using the Internet. The initial search
+delivered too many unusable results because the majority of the articles focused on benefits, outcomes or opportunities
+in general, not explicitly in the context of Internet use. Therefore, the concepts were combined with the term Internet in
+two ways, outcomes of Internet and Internet outcomes, to specify the type of results to be included. This resulted in the
+following Boolean search string: (‘effects of Internet’ OR ‘Internet effects’ OR ‘outcomes of Internet’ OR ‘Internet outcomes’
+OR ‘benefits of Internet’ OR ‘Internet benefits’ OR ‘Internet opportunities’) AND (indicators OR predictors OR determinants)
+AND (‘digital divide’).
+3.3. Selection criteria
+Several search restrictions were applied to limit the amount of irrelevant results. The results had to meet the requirements
+that articles are published in (1) English language, (2) (peer-reviewed) academic journals, (3) between 2011 and
+2016. The time span was chosen because we expected that within six years, all relevant second- and third-level digital divide
+determinants would be studied in at least one of the relevant articles. Criteria for inclusion of a search result in the review
+are as follows:
+1. Articles should include determinants of the second- and/or third-level digital divide to ensure they referred to Internet
+skills, uses and/or outcomes.
+- Articles that included dependent variables such as intention to or propensity to were excluded.
+- Only articles that included determinants of Internet skills that focused on a specific type of skill, not general concepts
+such as self-efficacy, were included. However, the concept Internet skills could also be mentioned by means of terminology
+such as, digital skills, e-skills, digital competence.
+- Articles that suggested user typologies (e.g. sporadic user, entertainment user) that not explicitly refer to determinants of
+skills, uses or outcomes were excluded.
+2. The term digital divide must have been used in a way that ensured that the author(s) took the digital divide (or digital
+inequality) discourse/perspective as point of interest.
+3. Articles had to be generalizable and not focused on a specific profession, study, area of conflict or organization, except for
+universities. The shared characteristics of groups should not be narrower than typical digital divide factors, such as age,
+gender or educational level. Articles that focused on specific groups, such as pregnant women, geography teachers, welfare
+workers and refugee migrants, were excluded. The same applied to studies focusing on specific situations, such as the
+US elections of 2008 or local governmental initiatives.
+4. Articles focusing on qualitative research were excluded from the review because of the lack of generalizability of possible
+determinants identified within those studies.
+3.4. Study selection
+The search resulted in the identification of 2148 articles. After the exclusion of duplicates (1202) and the inclusion of articles
+that were identified through other methods (2), 948 articles remained for systematic review. Articles were reviewed
+using a fixed structure, based on the PRISMA method. After applying the selection criteria, 126 articles were selected for
+inclusion in this review. Articles included in the review are indicated with * in the reference list.
+3.5. Selection bias
+When conducting a systematic literature review, there is the possibility of a selection bias in which the researcher unintentionally
+selects those articles that support his or her prior beliefs (Booth et al., 2016). Therefore, the reviewer rigorously
+aimed to include articles based on relevance by adhering to the predefined criteria. To verify that the selected articles met
+the selection criteria, a second independent researcher performed an analysis of >10% of the articles found with the search
+query. The resulting Cohen’s Kappa was 0.67.
+4. Results
+Because of inconsistencies in terminology, theoretically grounded classifications were selected and adapted to present the
+findings (see Fig. 1).
+1610 A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624
+4.1. Categorization of digital divide types and determinants
+Internet skills
+The classification of Internet skills was predefined to ensure that all identified skills could be placed in a primary category
+(a complete overview of all identified skills is shown in Appendix A). There were four primary Internet skills groups defined
+(partly adapted from Van Deursen and Van Dijk, 2009):
+ Medium-related, with subcategories software skills (including making spreadsheets, browser use and email,
+word processing and flow charts and software use and file manipulation) and operational skills (including instrumental
+skills)
+ Content-related, including formal skills, information skills (including eHealth skills), strategic skills, creative skills and
+social skills (including communication and networking).
+ Safety & security, under which Ethics, safety and acceptable use and security were combined.
+ General, such as Internet skills, digital competence and digital literacy.
+Internet use
+Internet use can be defined in terms of frequency and the type of activities performed. For frequency we created the
+subcategory frequency of Internet use. The type of activities performed can be considered as variety of activities, and
+the specific activities. Variety of Internet use is placed in a separate subcategory. To categorize specific activities, we
+used Helsper’s corresponding fields model (2012) which provides a theoretically grounded categorization of economic,
+cultural, social and personal uses and outcomes. All uses that were found using the review (see Appendix B) were placed
+in one of the four primary categories. In accordance with the model, these primary categories were then divided into
+subcategories. The economic category was subdivided into employment and education, property and income and finance.
+The cultural category included belonging and identity. The social group was divided into informal networks, formal-civic
+networks, e-government and political networks. We added e-government as a self-contained subcategory. Last, the personal
+group of Internet uses contained health/well-being, self-actualization and leisure/personality.
+Studies included in review
+(n=126)
+Full-text articles assessed for
+eligibility
+(n=756)
+Records screened
+(n=948)
+Records after duplicates (n=1202) removed
+(n=948)
+Additional records identified through other
+sources (reviewing references)
+(n=2)
+Records identified through database searching
+(n=2,148)
+Records excluded on basis of
+irrelevant title or abstract
+(n=192)
+Records excluded due to missing
+(significant) determinants of
+second- or third level digital
+divide (n=630)
+Fig. 1. PRISMA flowchart.
+A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624 1611
+Internet outcomes
+Internet outcomes were categorized in a similar way as the specific Internet activities. In addition to economic, social, cultural
+or personal categories, a general Internet outcomes category was created to classify Internet outcomes that did not fit
+into the other categories. See Appendix C for a detailed categorization of the Internet outcomes.
+Digital divide determinants
+All categorizations of determinants were made by evaluating the operationalization that researchers used for specific
+terms to ensure that the determinants were in the correct category. For example, household income and work circumstances
+were placed in the category termed economic. Additionally, determinants that focused on the frequency, intensity, breadth
+and variety of Internet use were divided into two categories: frequency of Internet use and variety of Internet use, which were
+both subcategories of the motivational determinants. In the end, seven determinant categories were established: sociodemographic,
+economic, social, cultural, personal, material and motivational. The sociodemographic category consisted of determinants
+such as age and gender, while the social category included determinants such as social networking and political
+participation. The cultural category contained determinants such as cultural capital and cultural possessions. Within the personal
+category, determinants were placed into the leisure or health-related activities subcategories. Both the motivational
+and material categories included determinants that were preconditions for Internet use. The motivational category included
+determinants such as online skills and Internet attitude. Last, the material category was characterized by the more material
+determinants, such as home Internet access and number of devices. An overview of the categories and subcategories of the
+determinants is shown in Appendix D.
+4.2. Focus of digital divide research
+First, the total amount of determinants mentioned in digital divide literature is analyzed. See Table 1.
+Table 1 shows that the number of articles in each of the three divides reveals that in the past years, the main focus of
+digital divide research was on the second-level digital divide, especially addressing types of use. The third-level divide is
+underexposed. While the skills divide accounts for a minor share of the second-level digital divide determinants, it still delivers
+twice as many determinants compared to the Internet outcomes digital divide. Additionally, Table 1 shows that sociodemographic
+and socioeconomic determinants were the most common determinants studied in both the second- and thirdlevel
+digital divide. By contrast, both social and cultural determinants were less studied, especially for Internet skills and outcomes
+divides. For the uses divide, social determinants were the most frequently addressed and were the result of factors
+such as formal volunteering, online network size and offline social activities.
+Finally, Table 1 shows that motivational determinants (e.g., Internet experience or frequency of Internet use) were
+addressed the most frequently across the three divides. The second most frequent were material determinants (e.g., Internet
+access or number of devices), which were primarily applicable to Internet skills and uses. In the following sections, the determinants
+will be discussed in more detail.
+4.3. Determinants of Internet skills
+To identify determinants of Internet skills, we first needed to categorize the different terms that surfaced in the literature.
+For example, terms used for Internet skills included digital skills, Internet skills (n = 8), e-skills (n = 1) and digital literacy (n = 2).
+The term skills was used more commonly than the terms literacy and competence. Additionally, the term digital skills (n = 45)
+was more common than the terms Internet skills (n = 8), digital competence (n = 8) and Internet literacy (n = 5). All these terms
+were placed in the category of general digital skills to adhere to the goal of presenting the results clearly. Furthermore, the
+primary category of general digital skills also included digital literacy (n = 2), ICT competencies (n = 2) and basic IT skills
+(n = 1), which were added after studying the operationalizations. Other skills referred to more specific Internet skills, broader
+skills or subcategories, such as eHealth literacy (n = 16), computer skills (n = 4) or media literacy (n = 5). For these specific types
+of Internet skills, unique terms were used and, thus, no primary term was required.
+Table 1
+Number of Determinants for Internet skills, uses and outcomes.
+Determinants Divide
+Skills Uses Outcomes Total
+Sociodemographic 42 (31.3%) 304 (35.2%) 19 (25.7%) 365 (34.0%)
+Economic 40 (29.9%) 248 (28.7%) 15 (20.3%) 303 (28.3%)
+Social 3 (2.2%) 81 (9.4%) 8 (10.8%) 92 (8.6%)
+Cultural 4 (3.0%) 29 (3.4%) 1 (1.4%) 34 (3.2%)
+Personal 10 (7.5%) 78 (9.0%) 6 (8.1%) 94 (8.8%)
+Material 13 (9.7%) 42 (4.9%) 1 (1.4%) 56 (5.2%)
+Motivational 22 (16.4%) 82 (9.5%) 24 (32.4%) 128 (11.9%)
+Total 134 864 74 1072
+1612 A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624
+The majority of the determinants were linked to the categories of general digital skills and content-related skills. Table 2
+shows that the sociodemographic and socioeconomic determinants were most common. Social and cultural determinants were
+less studied, while motivational determinants were important for content-related skills but not as important for general digital,
+medium-related and safety & security skills. Last, personal determinants (e.g., health information seeking or personality traits)
+represented a marginal share of determinants for general digital and content-related skills and were not determinants of
+medium-related or safety & security skills (see Appendix A).
+4.4. Determinants of Internet uses
+Concerning the terminology within both the uses and outcomes category, some determinants often appeared the same,
+but did cover slightly different concepts when the operationalizations were analyzed. For example, the income category often
+referred to one’s individual income, while the SES income category referred to household income. A similar situation existed
+for the mental health, health condition and health status categories. Therefore, these concepts were combined to make the
+large number of determinants manageable and clear. A list of the aggregated use determinants is shown in Appendix B.
+Table 3 shows that the offline determinant categories correspond with the corresponding online uses. For example, economic
+determinants predicted online economic activities. The same could be observed for social and personal categories. Furthermore,
+most studies focused on the determinants of economic, social, personal and frequency of Internet use. Personal
+determinants were connected to activities such as health information seeking (health), watching videos (leisure) or blogging
+(self-actualization). Beneficial and cultural Internet uses so far gained less attention. Again, sociodemographic and economic
+determinants accounted for the largest share, followed by social determinants. Motivational determinants were also relatively
+common in the economic, social and personal use categories, as was the group of material determinants (see Table 4).
+Table 2
+Determinants of Internet skills.
+Determinants Skills
+Medium-related Content-related
+4.5. Determinants of Internet outcomes
+Internet outcomes are far less studied than Internet skills and uses. Studies that focus on Internet outcomes primarily
+included social and personal determinants, followed by economic determinants. Social determinants of Internet outcomes
+were primarily linked to network building and strengthening, both formal and informal. Motivational determinants were
+mostly related to personal Internet outcomes.
+5. Discussion
+5.1. Conclusion
+Internet access has become a standard for most Western populations. As a result, digital divide research shifted to focus
+on determinants of Internet skills, uses and outcomes. With regard to the research question, the review shows two limitations
+of digital divide research of the past years that warrant attention. First, research has primarily focused on identifying
+determinants of Internet uses and, to a lesser extent, Internet skills. To determine who benefits the most (or least) from Internet
+use, digital divide scholars should start including research on the third-level digital divide. Differences in Internet outcomes
+are likely to have profound consequences, not least in the reinforcement of existing social inequalities. Furthermore,
+research on Internet outcomes reveals the real stakes of being online and could stir the motivation of policymakers to create
+policies that lead to more egalitarian Internet use. The second limitation that the review uncovers is that the most common
+determinants studied across all digital divides are sociodemographic and socioeconomic. Demographic determinants are primary,
+but nevertheless descriptive and superficial factors with limited explanative power. Access and motivational determinants
+are also expected because they can be considered prerequisites for using the Internet. Second- and third-level digital
+divide research on social (e.g., digital support and formal volunteering) and cultural (e.g., cultural capital and religion) determinants
+need more attention and might provide better explanations of how Internet users obtain (or do not) beneficial outcomes.
+Social determinants can for example be used to study how individuals interact and negotiate with others in different
+contexts, such as home or labor. It is likely that social and cultural determinants require additional information in order to
+interpret their meaning. For example, a respondent stating to need support when using the Internet, might also be asked
+about where and how this support is found, or what it means for the way in which benefits from Internet use are obtained.
+Although social and cultural determinants demand more effort to unravel their exact meaning, preferably by means of qualitative
+research, they can provide us with extensive explanations for why some Internet users obtain more beneficial Internet
+outcomes than others.
+The review revealed that many different terms were used to describe similar concepts. For future research we recommend
+to use the term digital skills when referring to the skills needed to use the Internet in general. Moreover, when referring
+to the terms for activities and outcomes used in specific studies, it would be convenient to use theoretically grounded categories,
+for example those proposed in Bourdieu’s capital theory (1986), Helsper’s (2012) corresponding fields model or Van
+Dijk’s (2005) resources and appropriation theory. Taking Bourdieu as an example, his capital theory stated that people’s
+actions are shaped by the social space they live in, as defined by institutions, norms and conventions. According to Bourdieu,
+it is important to not only take into account traditionally considered economic capital, but also social and cultural capitals for
+determining one’s status and position. From this perspective, economic, social and cultural capitals could serve as overarching
+categories. Then, studies would become more comparable. Concerning the determinants, it will be difficult to compose
+universal, fixed digital divide terminology, because of the multiplicity. However, also here, adopting similar terms and classifications
+would make the literature more clear and manageable.
+5.2. Limitations
+In the current review, we departed from the unilateral view that Internet outcomes are generally beneficial, such as outcomes
+are typically operationalized within digital divide literature. Recently, more attention has been devoted to the less
+beneficial or negative outcomes of Internet use, such as problematic Internet use, Internet addiction or privacy issues. These
+negative consequences were not taken into account within this review, but do require attention in future research.
+The systematic literature review was limited by some restrictions. First, only determinants mentioned in articles from
+2011 onwards were included. Although the choice for this time span was substantiated, this review might have excluded
+relevant articles that were published before that time. In addition, within each of the three search strings the term digital
+divide was inserted, meaning that only articles mentioning or focusing on the digital divide were included. It might well
+be that indicators of Internet skills, uses and outcomes were also mentioned within articles that do not specifically adopt
+a digital divide focus. Future research could elaborate on this review by finding a way to include the determinants of Internet
+skills, uses and outcomes that were found in other fields of research.
+Acknowledgments
+This research was financially supported by the Tech4People program of the University of Twente.
+1614 A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624
+Appendix A. Determinants of Internet skills
+Medium-related Content-related Safety &
+Security
+General
+Mediumrelated
+Operational (instrumental) ICT-software Content- related Information navigation Strategic Creative Social
+Education 2 2 3 9 4 7
+Gender 1 1 4 1 2 1 2 9
+Age 2 2 3 6 1 1 6
+Internet experience (years) 2 1 1 1 4
+Household/family SES 5
+Internet access 1 1 2
+Cultural capital 4
+Frequency of use 1 2
+Traditional literacy 2 1
+Parental education 1 2
+Internet access type 1 1 1
+Operational skills 3 1
+Number of electronic devices used 1 2
+Social–informal networks 1 1
+Internet motivation/attitude 2
+Medium-related skills 2
+School performance 2
+Income 2
+Formal skills 1 1
+Educational resources 1
+Digital support 1
+Internet access locations (amount) 1
+PC at home 1
+ICT autonomy 1
+Personal–leisure/personality 1
+Individual SES 1
+Employment status 1
+Mastery orientation 1
+Previous achievements 1
+Personal–health 1
+Residency
+Health status 1
+Digital skills 1
+Internet access quality 1
+Information skills 1
+A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624 1615
+Appendix B. Determinants of Internet use activities.
+Frequency
+Variety Bene- ficial Economic Cultural Social Personal Property Education/
+employment
+Income/
+Finance
+Belonging Identity Informal
+networks
+Formal
+networks
+Politicalnetworks
+e-Gov Health Self- actualization Leisure
+Age 17 4 1 5 11 1 17 1 9 1 13 19 19
+Educational level 18 4 1 7 8 1 1 15 9 4 16 15 15
+Gender 12 4 1 3 6 2 7 3 11 4 15 22 22
+Household
+income
+5 2 1 5 1 1 7 6 2 6 11 11
+Employment
+status
+7 1 3 4 1 8 2 28 8
+Residency 10 2 1 3 3 10 2 4 5 5
+Ethnicity 3 1 1 2 2 13 1 5 4 4
+Marital status 2 1 3 1 2 5 5
+Digital skills 4 1 1 4 1 3 4 2 2
+Offline socializing 2 2 2 6 3 3
+Offline political
+orientation
+11 1 1 8 2 4
+Internet attitude 5 2 1 1 1 1 1 3 1
+Internet access
+type
+1 12 1 5 1 1
+Internet access 3 1 2 1 1 1 1
+Internet access
+points
+(Amount)
+1 2 13 3
+Personality traits–
+neuroticism
+1 3 1 23
+Offline news
+consumption
+1 2 43
+Parental status 1 1 2 1 2 2
+Traditional
+literacy
+3 1 1 22
+Personal–leisure/p
+ersonality
+1 31 4
+Frequency of use 1 1 3 1 2 2
+Household/family
+SES
+1 3 2 11
+Social–informal
+networks
+42 2
+Personal–self-ac
+tualization
+1 31 2
+1616 A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624
+Appendix B (continued)
+Frequency
+Variety Bene- ficial Economic Cultural Social Personal Property Education/
+employment
+Income/
+Finance
+Belonging Identity Informal
+networks
+Formal
+networks
+Politicalnetworks
+e-Gov Health Self- actualization Leisure
+Use of other
+technologies
+1 5
+Health status 2 1 11
+Household/family
+composition
+1 3 1
+Digital support 2 1 1 1
+Personality traits–
+openness
+2 21
+Internet
+experience
+(years)
+1 1 11
+Instrumental
+skills
+1 1 11
+Individual SES 2 1 1
+Networking skills 1 1 1 1
+Social-political
+networks
+4
+Online network
+size
+1 11 1
+eHealth literacy 4
+Social class 1 1 1 1
+Economic–educa
+tion/employ
+ment
+11 2
+Number of
+electronic
+devices
+1 12
+Creative skills 1 11
+Information skills 3
+Operational skills 1 1 1
+Trust in online
+health info
+1 2
+Offline health
+activities
+1 2
+Offline academic
+orientation
+1 2
+Occupational class 2 1
+Internet selfefficacy
+2 1
+(continued on next page)
+A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624 1617
+Appendix B (continued)
+Frequency
+Variety Bene- ficial Economic Cultural Social Personal Property Education/
+employment
+Income/
+Finance
+Belonging Identity Informal
+networks
+Formal
+networks
+Politicalnetworks
+e-Gov Health Self- actualization Leisure
+Personality traits–
+conscientious
+ness
+2 1
+Media use 1 2
+Formal skills 1
+School
+performance
+1 1
+Working hours
+(per week)
+1 1
+Internet use 1 1
+Technological
+efficacy
+1 1
+Educational
+attainment
+parents
+1 1
+Religion 1 1
+Privacy concerns 1 1
+Personality traits–
+extraversion
+1 1
+Personality traits–
+agreeableness
+1 1
+Content-related
+skills
+1
+Medium-related
+skills
+1
+Satisfaction with
+physician
+1
+Instrumental
+Internet use
+1
+School sector 1
+Formal
+volunteering
+1
+Internet use at
+work
+1
+Owning goods 1
+Cognitive function 1
+Leisure activities 1
+1618 A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624
+Appendix C. Determinants of Internet Outcomes
+Beneficial Economic Economic Cultural Social Social Personal
+Property Education
+and
+employment
+Belonging Informal
+networks
+Formalnetworks
+Political- Networks e-Gov Health/ wellbeing
+Self- actualisation Leisure
+Internet use 1 1 8 1
+Age 2 3 2 1 1
+Employment status 1 1 1 2 3
+Frequency of internet use 1 1 2 2 1
+Personal–self-actualization 1 1 2 1 1
+Gender 311
+Educational level 1 1 1 2
+Marital status 1 1 1 1
+Social–political networks 1 2
+Social–informal networks 1 2
+Household income 1 1 1
+Internet attitude/motivation 1 1
+Digital skills 1 1
+Household composition 1 1
+Content-related skills 1
+Internet use language 1
+Communication skills 1
+eHealth literacy 1
+Internet access 1
+Residency 1
+A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624 1619
+Appendix D
+Sociodemographics Age, gender, marital status, residency, living area, living environment, urban/rural dimension, life space.
+Economic Income, household income, household wealth, household poverty, family income, SES, household SES, individual SES, owning goods, financial
+situation, work situation, employment status, employment type, employment status parents, occupational status, social class, life stage,
+educational level, Years of schooling, educational resources, parental education, educational level parents, school sector, academic orientation,
+doing homework online, working hours, type of activity - job seeking.
+Social Household composition, family size, family composition, family living arrangement, parental status, having children, parental mediation,
+number of children, informal networks, connected family members, connected friends, amount of Facebook friends, network size online,
+socializing, social activity, social support, assessing digital support networks, Facebook friends’ instrumental support, formal volunteering,
+degree of social isolation, social orientation, loneliness, type of activity – e-mailing, type of activity – Facebook, type of activity – social media,
+type of activity – social network, type of activity – Instant Messaging, type of activity – Social Networking Sites, Facebook interactions, express
+political content (Facebook), connections w/ political actors (Facebook), political networks, type of activity – social media for political
+purposes, cyber political participation, political orientation.
+Cultural Cultural, cultural capital, cultural status, cultural possessions, religion, ethnicity, Internet use language.
+Personal Type of activity - information seeking, type of activity – entertainment, type of activity - web support, groups (health related), type of activity -
+downloading/listening to music, type of activity – gaming, type of activity - podcast use, type of activity - online news, online news use, media
+use, traditional news media use, online media multiplexity, amount of media, offline news consumption, language integration, traditional
+literacy, literacy, language skills, English skills, previous achievements, school performance, academic performance, grade level, mastery
+orientation, shyness, confidence, self-efficacy, cognitive function, health status, mental health, health condition, health interests, physical
+activity, offline health activities, seeking offline health information, satisfaction with physician, trust in online health information, personality
+traits – neuroticism, personality traits – extraversion, personality traits – conscientiousness, personality traits – openness, personality traits –
+Agreeableness, psychological distress.
+Material Internet availability, Internet access, access locations, home access, home ICT access, school access, access type, access quality, number of
+electronic devices, PC at home, use of other technologies.
+Motivational Attitude towards ICTs, attitude towards computers, Internet attitude, Internet motivation, perceived Internet relevance, Internet use, frequency
+of Internet use, usage frequency, (amount of) time spent online, intensity of Internet use, Internet experience, years of experience, digital skills,
+Internet skills, e-skills, computer skills, ICT skills, operational skills, formal skills, information skills, strategic skills, medium-related skills,
+creative skills, ICT competence, digital competence, media literacy, Internet literacy, digital literacy, Internet efficacy, eHealth literacy, ICT
+autonomy, technological efficacy, Internet use at work.
+1620 A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624
+References
+⁄ Aguaded-Gómez, I., Tirado-Morueta, R., Hernando-Gómez, Á., 2015. Media competence in adult citizens in Andalusia, Spain Inform. Commun. Soc. 18 (6),
+659–679.
+⁄ Ahn, J., 2011. Digital divides and social network sites: which students participate in social media? J Educ. Comput. Res. 45 (2), 147–163.
+⁄ Aicken, C.R., Estcourt, C.S., Johnson, A.M., Sonnenberg, P., Wellings, K., Mercer, C.H., 2016. Use of the Internet for sexual health among sexually experienced
+persons aged 16 to 44 years: evidence from a Nationally Representative Survey of the British Population J. Med. Internet Res. 18 (1).
+⁄ Bender, M.S., Choi, J., Arai, S., Paul, S.M., Gonzalez, P., Fukuoka, Y., 2014. Digital technology ownership, usage, and factors predicting downloading health
+apps among Caucasian, Filipino, Korean, and Latino Americans: the digital link to health survey JMIR mHealth uHealth 2 (4), e43.
+⁄ Berner, J., Rennemark, M., Jogréus, C., Berglund, J., 2012. Distribution of personality, individual characteristics and internet usage in Swedish older adults
+Aging Ment. Health 16 (1), 119–126.
+⁄ Bjarnadottir, R.I., Millery, M., Fleck, E., Bakken, S., 2016. Correlates of online health information-seeking behaviors in a low-income Hispanic community
+Inform. Health Soc. Care 41 (4), 341–349.
+⁄ Blank, G., 2013. Who creates content? Stratification and content creation on the Internet Inform. Commun. Soc. 16 (4), 590–612.
+⁄ Blank, G., Groselj, D., 2014. Dimensions of Internet use: amount, variety, and types Inform. Commun. Soc. 17 (4), 417–435.
+⁄ Blank, G., Groselj, D., 2015. Examining internet use through a Weberian lens Int. J. Commun. 9, 2763–2783.
+Booth, A., Sutton, A., Papaioannou, D., 2016. Systematic Approaches to a Successful Literature Review. Sage.
+⁄ Bornman, E., 2016. Information society and digital divide in South Africa: results of longitudinal surveys Inform. Commun. Soc. 19 (2), 264–278.
+Bourdieu, P., 1986. The forms of capital. In: Richardson, J.G. (Ed.), Handbook of Theory and Research for the Sociology of Education. Greenwood, New York,
+pp. 241–258.
+⁄ Brandtzæg, P.B., Heim, J., Karahasanovic´, A., 2011. Understanding the new digital divide—a typology of Internet users in Europe Int. J. Hum Comput Stud.
+69 (3), 123–138.
+Bruno, G., Esposito, E., Genovese, A., Gwebu, K.L., 2010. A critical analysis of current indexes for digital divide measurement. Inform. Soc. 27 (1), 16–28.
+⁄ Calvani, A., Fini, A., Ranieri, M., Picci, P., 2012. Are young generations in secondary school digitally competent? A study on Italian teenagers Comput. Educ.
+58 (2), 797–807.
+⁄ Campos, R., Arrazola, M., de Hevia, J., 2014. Online job search in the Spanish labor market Telecommun. Policy 38 (11), 1095–1116.
+⁄ Castaño, J., Duart, J.M., Sancho-Vinuesa, T., 2015. Determinants of Internet use for interactive learning: an exploratory study J. N. Approaches Educ. Res. 4
+(1), 24.
+Castells, M., 2002. The Internet Galaxy: Reflections on the Internet, Business, and Society. Oxford University Press on Demand.
+⁄ Chadha, M., Avila, A., Gil de Zúñiga, H., 2012. Listening in: building a profile of podcast users and analyzing their political participation J. Inform. Technol.
+Politics 9 (4), 388–401.
+⁄ Chan, M., 2014. Exploring the contingent effects of political efficacy and partisan strength on the relationship between online news use and democratic
+engagement Int. J. Commun. 8, 21.
+⁄ Chan, M., 2016. Social network sites and political engagement: exploring the impact of Facebook connections and uses on political protest and
+participation Mass Commun. Soc. 19 (4), 430–451.
+⁄ Chang, F.C., Chiu, C.H., Chen, P.H., Miao, N.F., Lee, C.M., Chiang, J.T., Pan, Y.C., 2015. Relationship between parental and adolescent eHealth literacy and
+online health information seeking in Taiwan Cyberpsychol. Behav. Soc. Networking 18 (10), 618–624.
+⁄ Chang, F.C., Miao, N.F., Chiu, C.H., Chen, P.H., Lee, C.M., Chiang, J.T., Chuang, H.Y., 2016. Urban–rural differences in parental Internet mediation and
+adolescents’ Internet risks in Taiwan Health Risk Soc. 18 (3–4), 188–204.
+⁄ Chen, C.C., 2015. Assessing the activeness of online economic activity of Taiwan’s Internet users: an application of the super-efficiency data envelopment
+analysis model Soc. Indic. Res. 122 (2), 433–451.
+⁄ Chen, J., Zhu, S., 2016. Online information searches and help seeking for mental health problems in urban China Adm. Policy Ment. Health 43 (4), 535–545.
+⁄ Chen, W., 2013. The implications of social capital for the digital divides in America Inform. Soc. 29 (1), 13–25.
+⁄ Chen, W., Lee, K.H., 2014. More than search? Informational and participatory eHealth behaviors Comput. Hum. Behav. 30, 103–109.
+⁄ Chen, W., Lee, K.H., Straubhaar, J.D., Spence, J., 2014. Getting a second opinion: Social capital, digital inequalities, and health information repertoires J.
+Assoc. Inform. Sci. Technol. 65 (12), 2552–2563.
+⁄ Choi, N.G., DiNitto, D.M., 2013. Internet use among older adults: association with health needs, psychological capital, and social capital J. Med. Internet
+Res. 15 (5), e97.
+⁄ Chung, J.E., 2013. Patient–provider discussion of online health information: results from the 2007 Health Information National Trends Survey (HINTS) J.
+Health Commun. 18 (6), 627–648.
+⁄ Claro, M., Cabello, T., San Martín, E., Nussbaum, M., 2015. Comparing marginal effects of Chilean students’ economic, social and cultural status on digital
+versus reading and mathematics performance Comput. Educ. 82, 1–10.
+⁄ Correa, T., 2015. The power of youth: How the bottom-up technology transmission from children to parents is related to digital (in) equality Int. J.
+Commun. 9, 24.
+⁄ Correa, T., 2016. Digital skills and social media use: how Internet skills are related to different types of Facebook use among ‘digital natives’ Inform.
+Commun. Soc. 19 (8), 1095–1107.
+⁄ Courtois, C., Verdegem, P., 2014. With a little help from my friends: an analysis of the role of social support in digital inequalities New Media Soc.
+1461444814562162.
+⁄ d’Haenens, L., Ogan, C., 2013. Internet-using children and digital inequality: a comparison between majority and minority Europeans Commun. Eur. J.
+Commun. Res. 38 (1), 41–60.
+⁄ De Almeida, A.N., de Almeida Alves, N., Delicado, A., Carvalho, T., 2012. Children and digital diversity: From ‘unguided rookies’ to ‘self-reliant cybernauts’
+Childhood 19 (2), 219–234.
+⁄ Demertzis, N., Milioni, D.L., Gialamas, V., 2013. Internet use and political efficacy: the case of Cyprus Int. J. Electron. Gov. 6 (3), 187–208.
+⁄ Dimitrova, D.V., Shehata, A., Strömbäck, J., Nord, L.W., 2014. The effects of digital media on political knowledge and participation in election campaigns:
+evidence from panel data Commun. Res. 41 (1), 95–118.
+⁄ Dobransky, K., Hargittai, E., 2012. Inquiring minds acquiring wellness: uses of online and offline sources for health information Health Commun. 27 (4),
+331–343.
+⁄ Dodel, M., 2015. E-skill’s effect on occupational attainment: a PISA-based panel study Electron. J. Inform. Syst. Dev. Countries 69.
+Eastin, M.S., Cicchirillo, V., Mabry, A., 2015. Extending the digital divide conversation: examining the knowledge gap through media expectancies. J.
+Broadcast. Electron. Media 59 (3), 416–437.
+⁄ Eynon, R., Helsper, E., 2010. Adults learning online: digital choice and/or digital exclusion? New Media Soc 13 (4), 534–551.
+⁄ Eynon, R., Helsper, E., 2015. Family dynamics and Internet use in Britain: what role do children play in adults’ engagement with the Internet? Inform
+Commun. Soc. 18 (2), 156–171.
+⁄ Ferro, E., Helbig, N.C., Gil-Garcia, J.R., 2011. The role of IT literacy in defining digital divide policy needs Gov. Inform. Q. 28 (1), 3–10.
+Fuchs, C., 2009. The role of income inequality in a multivariate cross-national analysis of the digital divide. Soc. Sci. Comput. Rev. 27 (1), 41–58.
+Ghobadi, S., Ghobadi, Z., 2015. How access gaps interact and shape digital divide: a cognitive investigation. Behav. Inform. Technol. 34 (4), 330–340.
+⁄ Green, A.E., Li, Y., Owen, D., De Hoyos, M., 2012. Inequalities in use of the Internet for job search: similarities and contrasts by economic status in Great
+Britain Environ. Plan. A 44 (10), 2344–2358.
+A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624 1621
+⁄ Gui, M., Argentin, G., 2011. Digital skills of internet natives: Different forms of digital literacy in a random sample of northern Italian high school students
+New Media Soc. 13 (6), 963–980.
+⁄ Hage, E., Wortmann, H., van Offenbeek, M., Boonstra, A., 2016. The dual impact of online communication on older adults’ social connectivity Inform.
+Technol. People 29 (1), 31–50.
+⁄ Haight, M., Quan-Haase, A., Corbett, B.A., 2014. Revisiting the digital divide in Canada: the impact of demographic factors on access to the internet, level of
+online activity, and social networking site usage Inform. Commun. Soc. 17 (4), 503–519.
+⁄ Harambam, J., Aupers, S., Houtman, D., 2013. The contentious gap: From digital divide to cultural beliefs about online interactions Inform. Commun. Soc.
+16 (7), 1093–1114.
+Hargittai, E., 2002. Second-level digital divide: differences in people’s online skills. First Monday 7 (4). <http://www.firstmonday.org/issues/issue7_4/
+hargittai/>.
+⁄ Hargittai, E., Litt, E., 2011. The tweet smell of celebrity success: explaining variation in Twitter adoption among a diverse group of young adults New Media
+Soc. 13 (5), 824–842.
+⁄ Hargittai, E., Shaw, A., 2015. Mind the skills gap: the role of Internet know-how and gender in differentiated contributions to Wikipedia Inform. Commun.
+Soc. 18 (4), 424–442.
+⁄ Hatlevik, O.E., Guðmundsdóttir, G.B., Loi, M., 2015. Examining factors predicting students’ digital competence J. Inform. Technol. Educ. 14, 123–137.
+Helsper, E.J., 2010. Gendered Internet use across generations and life stages. Commun. Res. 37 (3), 352–374.
+Helsper, E.J., 2012. A corresponding fields model for the links between social and digital exclusion. Commun. Theory 22 (4), 403–426.
+⁄ Hoffman, L.H., Schechter, A.L., 2016. Technical skills required: how technological efficacy influences online political behavior J. Broadcast. Electron. Media
+60 (3), 484–502.
+⁄ Hoffmann, C.P., Lutz, C., Meckel, M., 2015. Content creation on the Internet: a social cognitive perspective on the participation divide Inform. Commun. Soc.
+18 (6), 696–716.
+⁄ Hohlfeld, T.N., Ritzhaupt, A.D., Barron, A.E., 2013. Are gender differences in perceived and demonstrated technology literacy significant? It depends on the
+model Educ. Technol. Res. Dev. 61 (4), 639–663.
+⁄ Holmes, J., 2011. Cyberkids or divided generations? Characterising young people’s internet use in the UK with generic, continuum or typological models
+New Media Soc. 13 (7), 1104–1122.
+⁄ Hsieh, T.C., Yang, K.C., Yang, C., Yang, C., 2013. Urban and rural differences: multilevel latent class analysis of online activities and e-payment behavior
+patterns Internet Res. 23 (2), 204–228.
+⁄ Hsieh, Y.P., Li, M.H., 2014. Online political participation, civic talk, and media multiplexity: how Taiwanese citizens express political opinions on the Web
+Inform. Commun. Soc. 17 (1), 26–44.
+⁄ James, B.D., Boyle, P.A., Yu, L., Bennett, D.A., 2013. Internet use and decision making in community-based older adults Front. Psychol. 4, 605.
+⁄ Jara, I., Claro, M., Hinostroza, J.E., San Martín, E., Rodríguez, P., Cabello, T., Labbé, C., 2015. Understanding factors related to Chilean students’ digital skills: a
+mixed methods analysis Comput. Educ. 88, 387–398.
+⁄ Jones, R.B., Ashurst, E.J., Atkey, J., Duffy, B., 2015. Older people going online: its value and before-after evaluation of volunteer support J. Med. Internet Res.
+17 (5), e122.
+⁄ Khan, M.L., Wohn, D.Y., Ellison, N.B., 2014. Actual friends matter: an internet skills perspective on teens’ informal academic collaboration on Facebook
+Comput. Educ. 79, 138–147.
+⁄ Kim, Y.M., 2015. Is seeking health information online different from seeking general information online? J Inform. Sci. 41 (2), 228–241.
+⁄ Kontos, E., Blake, K.D., Chou, W.Y.S., Prestin, A., 2014. Predictors of eHealth usage: insights on the digital divide from the Health Information National
+Trends Survey 2012 J. Med. Internet Res. 16 (7), e172.
+⁄ Lee, H., Park, N., Hwang, Y., 2015. A new dimension of the digital divide: exploring the relationship between broadband connection, smartphone use and
+communication competence Telematics Inform. 32 (1), 45–56.
+⁄ Levy, H., Janke, A.T., Langa, K.M., 2015. Health literacy and the digital divide among older Americans J. Gen. Intern. Med. 30 (3), 284–289.
+⁄ Lichy, J., 2012. Towards an international culture: Gen Y students and SNS? Act Learn. High. Educ. 13 (2), 101–116.
+⁄ Lin, C.A., Atkin, D.J., Cappotto, C., Davis, C., Dean, J., Eisenbaum, J., Mitchum, A., 2015. Ethnicity, digital divides and uses of the Internet for health
+information Comput. Hum. Behav. 51, 216–223.
+⁄ Lissitsa, S., 2015. Patterns of digital uses among Israeli Arabs–between citizenship in modern society and traditional cultural roots Asian J. Commun. 25
+(5), 447–464.
+⁄ Lissitsa, S., Chachashvili-Bolotin, S., 2016. The less you know, the better you’ll sleep–Perceived job insecurity in the Internet age Comput. Hum. Behav. 62,
+754–761.
+⁄ Mano, R.S., 2014. Social media and online health services: a health empowerment perspective to online health information Comput. Hum. Behav. 39, 404–
+412.
+⁄ Marschall, S., Schultze, M., 2015. German E-campaigning and the emergence of a ‘digital voter’? An analysis of the users of the Wahl-O-Mat German
+Politics 24 (4), 525–541.
+⁄ Matzat, U., Sadowski, B., 2012. Does the ‘‘do-it-yourself approach” reduce digital inequality? Evidence of self-learning of digital skills Inform. Soc. 28 (1),
+1–12.
+Mehra, B., Merkel, C., Bishop, A.P., 2004. The internet for empowerment of minority and marginalized users. New Media Soc. 6 (6), 781–802.
+⁄ Mesch, G., Mano, R., Tsamir, J., 2012. Minority status and health information search: a test of the social diversification hypothesis Soc. Sci. Med. 75 (5),
+854–858.
+Moher, D., Liberati, A., Tetzlaff, J., Altman, D.G., 2009. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. Ann.
+Intern. Med. 151 (4), 264–269.
+Mossberger, K., Tolbert, C.J., Stansbury, M., 2003. Virtual Inequality: Beyond the Digital Divide. Georgetown University Press.
+⁄ Nam, T., 2011. Whose e-democracy? The democratic divide in American electoral campaigns Inform. Polity 16 (2), 131–150.
+⁄ Näsi, M., Koivusilta, L., 2013. Internet and everyday life: the perceived implications of internet use on memory and ability to concentrate Cyberpsychol.
+Behav. Soc. Networking 16 (2), 88–93.
+⁄ Näsi, M., Räsänen, P., Sarpila, O., 2012. ICT activity in later life: Internet use and leisure activities amongst senior citizens in Finland Eur. J. Ageing 9 (2),
+169–176.
+⁄ Neter, E., Brainin, E., 2012. EHealth literacy: extending the digital divide to the realm of health information J. Med. Internet Res. 14 (1), e19.
+⁄ Neumark, Y., Lopez-Quintero, C., Feldman, B.S., Hirsch Allen, A.J., Shtarkshall, R., 2013. Online health information seeking among Jewish and Arab
+adolescents in Israel: results from a national school survey J. Health Commun. 18 (9), 1097–1115.
+Newhagen, J.E., Bucy, E.P., 2004. Routes to media access. Media Access, 3–23.
+⁄ Oyedemi, T., 2015. Participation, citizenship and internet use among South African youth Telematics Inform. 32 (1), 11–22.
+⁄ Pagani, L., Argentin, G., Gui, M., Stanca, L., 2016. The impact of digital skills on educational outcomes: evidence from performance tests Educ. Stud. 42 (2),
+137–162.
+⁄ Pan, Z., Yan, W., Jing, G., Zheng, J., 2011. Exploring structured inequality in Internet use behavior Asian J. Commun. 21 (2), 116–132.
+⁄ Park, S., 2014. Patterns of and reasons for infrequent Internet use: a qualitative exploration of Australian youth Children Aust. 39 (03), 177–184.
+⁄ Pearce, K.E., Rice, R.E., 2013. Digital divides from access to activities: comparing mobile and personal computer Internet users J. Commun. 63 (4), 721–744.
+⁄ Pénard, T., Poussing, N., Suire, R., 2013. Does the Internet make people happier? J Socio-Econ. 46, 105–116.
+⁄ Penard, T., Poussing, N., Mukoko, B., Piaptie, G.B.T., 2015. Internet adoption and usage patterns in Africa: evidence from Cameroon Technol. Soc. 42, 71–80.
+1622 A. Scheerder et al. / Telematics and Informatics 34 (2017) 1607–1624
+⁄ Peng, T.Q., Zhu, J.J., 2011. Sophistication of Internet usage (SIU) and its attitudinal antecedents: an empirical study in Hong Kong Comput. Hum. Behav. 27
+(1), 421–431.
+⁄ Ren, F., Kwan, M.P., Schwanen, T., 2013. Investigating the temporal dynamics of Internet activities Time Soc. 22 (2), 186–215.
+Riggins, F.J., Dewan, S., 2005. The digital divide: current and future research directions. J. Assoc. Inform. Syst. 6 (12), 13.
+⁄ Robles, J.M., Torres-Albero, C., Antino, M., De Marco, S., 2015. The use of digital social networks from an analytical sociology persp

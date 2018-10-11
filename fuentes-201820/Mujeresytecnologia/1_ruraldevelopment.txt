@@ -1,0 +1,1380 @@
+Rural development in the digital age: A systematic literature review
+on unequal ICT availability, adoption, and use in rural areas
+Koen Salemink a, *
+, Dirk Strijker a
+, Gary Bosworth b
+a Cultural Geography Department, Faculty of Spatial Sciences, University of Groningen, PO Box 800, 9700 AV Groningen, The Netherlands
+b University of Lincoln, Lincoln Business School, Brayford Pool, Lincoln LN6 7TS, UK
+article info
+Article history:
+Received 23 April 2014
+Received in revised form
+10 August 2015
+Accepted 10 September 2015
+Available online 26 September 2015
+Keywords:
+Rural development
+Digital divide
+Digital inclusion
+Rural penalty
+Next generation access
+abstract
+This paper presents a systematic review of 157 papers on digital developments and rural development in
+advanced countries. It focuses on the general conclusions, in order to better understand the potential
+impacts of the coming Next Generation Access revolution. We distinguish two major strands of research:
+connectivity research and inclusion research. In the connectivity theme, the conclusion is that there are
+persistent and growing differences in data infrastructure quality between urban and rural areas. Public
+policies to promote the availability or improvement of data infrastructure are essentially responsive, and
+rapidly outdated by market developments. For inclusion, the hampered diffusion of technologies, and the
+lower average levels of education and skills in rural areas have a negative impact on adoption and use.
+Generic policies in this field neglect specific local needs. The paradox is that rural communities are most
+in need of improved digital connectivity to compensate for their remoteness, but they are least connected
+and included. Future research should therefore focus on specific places and communities e
+combining both connectivity and inclusion issues e in order to inform ‘customized policies’ for poorly
+connected and digitally excluded rural communities.
+© 2015 Elsevier Ltd. All rights reserved.
+1. Introduction
+Rural communities have been struggling to keep up with developments
+in digital connectivity (Malecki, 2003; Strover, 2003;
+Velaga et al., 2012). At the end of the twentieth century, a great
+deal of governmental and market effort was expended in advanced
+western societies in order to upgrade rural telephone networks for
+use by the Internet (Cambini and Jiang, 2009; Holt and Galligan,
+2013). This undertaking was founded on the idea that all regions
+and communities should have access to the Internet in order to
+prevent growing regional disparities (see for example Cornford and
+Gillespie, 1993). Telephony was regarded as a utility, which ensured
+that (state) companies would invest in rural networks as well.
+Upgrading these networks for Internet use followed a similar track
+(Malecki, 2003; Cambini and Jiang, 2009).
+Today, accessing the Internet through telephone lines is only
+one of several technologies available. Cable Internet, fiber optics,
+and mobile broadband are now all widely available, except in rural
+areas (Whitacre and Mills, 2010; Townsend et al., 2013). More
+recent technologies which go beyond telephone lines have not (yet)
+been regarded as utilities, so governments have not been able to
+promote their universal provision in the same way, and considerable
+investments are needed if this is to change (Ragoobar et al.,
+2011). Furthermore, in terms of speed and reliability, these forms
+of Next Generation Access (NGA) are now rapidly developing in the
+areas where they are already available. Differences between the
+well-served, largely urban areas and the underserved, mainly rural
+areas are therefore growing, resulting in a spatial digital divide
+(Townsend et al., 2013). Malecki (2003) positions the lack of
+availability of, and thus access to, data infrastructure and its high
+costs in the broader context of a general lack of service provision in
+rural areas as compared to urban areas. Malecki (2003: 201) frames
+this as ‘the rural penalty’ (see also Hite, 1997), meaning that people
+in rural areas ‘pay a price’ for living in remote areas, which affects
+many different economic sectors and social groups (Woods, 2005;
+Bosworth, 2010; Velaga et al., 2012; Stockdale and MacLeod, 2013).
+However, it is not just the technologies that are rapidly changing.
+In addition to the material issues that rural communities face in
+the digital age, there are also issues of a social nature. The adoption
+and use of the Internet and associated applications are becoming
+* Corresponding author. increasingly diverse, and digital inclusion is no longer regarded as a
+E-mail address: k.salemink@rug.nl (K. Salemink).
+Contents lists available at ScienceDirect
+Journal of Rural Studies
+journal homepage: www.elsevier.com/locate/jrurstud
+http://dx.doi.org/10.1016/j.jrurstud.2015.09.001
+0743-0167/© 2015 Elsevier Ltd. All rights reserved.
+Journal of Rural Studies 54 (2017) 360e371
+binary issue. In other words, the debate is no longer about ‘haves’
+and ‘have nots’ (Kilpelainen and Sepp € €
+anen, 2014; Marien and €
+Prodnik, 2014); instead, it has started to focus on the degree of
+usage and different usage patterns. There is increasing recognition
+of the complexity of digital inclusion (see also Gilbert, 2010;
+Helsper, 2012). In order to understand the impact of digital connectivity,
+one must also understand the actual usage. Providing the
+connectivity and technology is just one aspect of keeping up with
+developments; adoption and actual usage are the next steps that
+need to be taken in order for digital connectivity to have an impact
+(Hage et al., 2013).
+Since the introduction of the Internet to the consumer market,
+researchers from various disciplines have shown interest in the
+causes and consequences of this urban-rural divide, resulting in a
+large and growing body of literature. However, the topical issues for
+rural development are commonly discussed within (sub)disciplines,
+resulting in a somewhat fragmented debate. This paper will
+therefore adopt a transdisciplinary approach in order to provide a
+timely overview of the research in this field so far, with a focus on
+advanced western countries. For comparability reasons, we will
+only include the literature on these countries. The impact of ICT
+developments in rural areas will never be identical, but, by
+excluding the literature on developing and transitional countries,
+the differences in development trajectories are minimized. This
+overview has been created through a systematic literature review,
+based on key themes drawn from the debates on digital developments
+in relation to rural development.
+Two questions are addressed by this systematic literature review:
+1) What general insights and conclusions can we extract from
+previous research on rural areas in the age of digitalization? 2) How
+can these contribute to setting a new research agenda for better
+understanding the impacts of rapid technological developments?
+By answering these questions, we will contribute to the future
+research agenda, and we will provide recommendations for future
+policy in order to contribute towards bridging the spatial digital
+divide between the urban and the rural.
+The outline of the paper is as follows. Section 2 provides a
+background on digital rural development, based on a pilot literature
+review. In section 3, the outline of the systematic search and
+review is discussed. Sections 4 and 5 discuss the observations and
+conclusions of the selected papers as to the role of ICTs in rural
+development, and we will end by summarizing these in terms of an
+overview of the field. Section 6 presents the overall conclusions and
+its implications, and it proposes a future agenda for research and
+policy.
+2. Towards a framework for a systematic literature review
+Generally, the literature in this field has shown that e in order to
+actively take part in a digitalizing information society e data infrastructures
+such as DSL, cable (coax), fiber optics, or mobile
+broadband need to be available at a reasonable price. However,
+lower densities and greater distances in rural areas discourage the
+market from investing in new technologies (Malecki, 2003). More
+recent literature suggests that rural areas are increasingly found at
+the wrong end of a ‘digital divide’ (Skerratt et al., 2012; Townsend
+et al., 2013). Urban areas are the digital ‘hot spots’ where highspeed
+Internet infrastructure is ubiquitous, while rural areas tend
+to be dependent on low-tech Internet access, with lower speeds
+and less reliable connections (Skerratt, 2010; Skerratt et al., 2012).
+This was the case with cable Internet access, which in the
+Netherlands for example, was never deployed in rural areas outside
+the curtilage of villages (Nucciarelli et al., 2010). Currently, history is
+repeating itself with other so-called Next Generation Access networks
+(NGA) such as fiber optics (Townsend et al., 2013). The
+market is assumed to deliver these NGA's to high-density urban
+areas eventually e even though some urban premises are still
+awaiting this delivery (see for example Ofcom, 2014). This is,
+however, less straightforward for rural areas, in which the backbone
+infrastructure is often still inadequate (European Commission,
+2013). In its regulatory framework, the EU defines three categories
+of market areas: fully served ‘black areas’ with market competition,
+less served ‘grey areas’ with at least one provider but limited
+competition, and underserved ‘white areas’ without market
+competition (Sadowski et al., 2009; European Commission, 2013).
+Rural areas are mostly white areas, or grey at best. Even though
+government support is legally permitted in white and grey areas,
+this has not resulted in improved digital connectivity in European
+rural areas (Sadowski et al., 2009: 585).
+Research into disparities in digital development often departs
+from the context of the network society, using the seminal work of
+Castells (2000) as a starting point. Urban and rural areas are viewed
+as interconnected parts of networks in which both production and
+consumption takes place (Lichter and Brown, 2011). The flow of
+information is becoming increasingly important within these networks
+(O'Hara and Stevens, 2006; Malecki, 2010), making all forms
+of connections and communications increasingly valuable. Economic
+and social developments are under pressure due to a lack of
+digital connectivity, impeding innovation of production processes
+and certain forms of consumption, and in essence excluding some
+rural communities from fully participating in the contemporary
+information society (Velaga et al., 2012; Kilpelainen and Sepp € €
+anen,
+2014; Roberts and Townsend, 2015).
+Following the vulnerable position of rural communities in times
+of upscaling of services and digitalization, LaRose et al. (2007; 2011)
+state that, paradoxically, the problem of physical remoteness and
+the inadequate service provision could for a large part be solved by
+promoting digital connectivity as a substitute for many of those
+services. Remote rural areas especially lack the required digital
+connectivity, however: a deadlocked situation that increases the
+risk of rural areas falling even further behind in terms of accessibility
+to services.
+Researchers from various academic disciplines, including economics,
+IT, geography, planning, and the political sciences are
+engaged in researching the (potential) impact of unequal provision,
+adoption, and the use of ICTs. Many sub-topics are studied in-depth,
+resulting in a growing but somewhat fragmented body of mainly
+specialist literature that evades the overarching issue of the broader
+impact of a lack of digital developments for rural areas.
+Recently, overview papers on the impact of digitalization on the
+economy and society have added to the debate, but they do not
+focus on rural areas. Some consider the consequences of digitalization
+for participation in the traditional ‘offline’ society, with a
+focus on urban issues (see Gilbert, 2010), while others disregard the
+spatial aspects of the problem (for example Cambini and Jiang,
+2009; Helsper, 2012). Digital developments in rural areas are discussed
+in some specialist policy papers, but the focus on policy
+means that specific rural problems remain undiscussed (for
+example Holt and Galligan, 2013). This paper fills the rural gap by
+providing a systematic literature review on digital developments
+and their consequences for rural areas in advanced western
+countries.
+3. Methodology
+Although overview papers are scarce in the field of telecommunications
+and rural development, there are papers from related
+disciplines, which give an overview of the literature within their
+field, such as Holt and Galligan (2013) on U.S. federal universal
+service programs for telecommunications, and Cambini and Jiang
+K. Salemink et al. / Journal of Rural Studies 54 (2017) 360e371 361
+(2009) on broadband investment and regulation. Building on these
+approaches to providing an extensive overview of the literature, we
+will first describe how we created this overview in order to make
+our search queries and results reproducible. Therefore, in this
+section we will describe the search strategy, the selection criteria
+for papers, and the coding system we used for our analysis.
+3.1. Conducting a systematic literature search
+The systematic search is conducted with key words and concepts
+from academic disciplines dealing with inequalities in ICT
+availability and adoption, along with rural development issues.
+Together these key words constitute the theme of this paper. Based
+on the concepts and vocabulary which is used in the literature from
+geography, sociology, economics, and communications/telecommunications
+studies, as identified from a preliminary study of the
+main debates (see section 2), the following terms were selected for
+search queries to cover the ICT and digital component of our
+research question: “ICT,” “digital,” “digitalization,” “telecommunications,”
+“information technology,” “broadband,” “NGA,” “telecommuting,”
+“digital divide,” “digital inequalities,” and
+“information society.” To cover the rural component of the research
+question, we used: “rural development,” “rural areas,” “remote
+area,” “regional development,” and “countryside.” Searching with
+combinations of these 11 ICT and 5 rural terms generated a total of
+55 search queries.
+The databases ‘EconLit’ and ‘Web of Science’ were used, because
+they cover the cross-disciplinary scope of this paper. ‘EconLit,’ includes
+papers from over 1700 journals in economics and related
+disciplines, and is managed by the American Economic Association
+(https://www.aeaweb.org/econlit/index.php). ‘Web of Science,’
+which is maintained by Thomson Reuters, includes over 12000
+journals and combines several indexing databases from various
+disciplines, including IT and engineering, but also social sciences,
+arts, and humanities (http://thomsonreuters.com/thomsonreuters-web-of-science/).
+A paper was included in the results if it was a) dealing with
+advanced western countries, and b) published in an Englishlanguage
+peer-reviewed academic journal. The queries for the
+Web of Science database were narrowed down after the initial results
+of the search were retrieved, because of its broad scope and
+variety of selected academic disciplines. This broader scope resulted
+in an abundance of mostly irrelevant e in terms of our topic e
+papers, such as remote sensing and crop development. The Web of
+Science search queries therefore were refined by only selecting the
+academic disciplines relevant for this paper, i.e. those dealing with
+digitalization issues in rural areas. Through this selection, we
+mainly excluded papers on developing countries and technological
+evaluation of remote sensing applications, for which the rural was
+merely a technology laboratory.
+The search was executed and finished in September 2013. The
+55 search queries identified 4409 potential papers. Eventually, 157
+papers met the criteria of dealing with advanced western countries
+and being published in English-language, peer-reviewed academic
+journals. Recent policy documents and literature are used
+throughout the paper in order to position the paper's findings in
+the ongoing and developing debate.
+3.2. Coding framework: connectivity and inclusion
+For the analysis of the selected papers, we created a coding
+framework. This framework was created through induction. Instead
+of predefining the set of codes, we extracted them from our dataset
+(the papers), with similarities in research themes and perspectives
+as a basis. From the dataset of 157 papers, two main themes were
+identified, with four and three subthemes, respectively.
+If a paper touched on more than one perspective, the code for
+the paper was based on which perspective and findings were
+emphasized in the conclusions. This is in line with the aim of this
+paper to extract general lessons from the debate so far. Although all
+the papers selected have been coded, not every paper is referred to
+in the text of the analysis, for readability reasons. The full bibliography,
+available at http://www.rug.nl/staff/k.salemink/RefListSystematic-Literature-Review.pdf,
+shows the papers selected.
+One main theme deals with connectivity issues: to what extent
+places and regions are digitally connected and thereby derive
+economic benefits. This theme has a strong supply-side perspective
+and corresponds to the debate on material inequalities and the
+digital divide (Livingstone and Helsper, 2007). This theme is
+further divided into four subthemes: telecommunications markets,
+technologies in rural areas, regional development, and policy and
+regulation (see Table 1 for sections, numbers of papers, and
+timeframe).
+The other main theme consists of papers that deal with inclusion
+issues. This has a demand side and people-oriented focus, corresponding
+to the digital inequalities and digital inclusion debate in
+communication studies, geography, sociology, and urban studies
+(Livingstone and Helsper, 2007). These papers deal with the
+question of the extent to which people have the knowledge, attitudes,
+skills, and aspirations to be included in digital rural society.
+This theme is further divided into three subthemes: diffusion theory,
+digital inequalities, and digital inclusion policy (see Table 2 for sections,
+numbers of papers, and time frame).
+4. Lessons from the connectivity literature
+4.1. Connectivity
+The papers described under the main theme of ’connectivity’ are
+those dealing with material issues of the connectivity of places,
+regions, and in some cases households. These papers research the
+differences in availability of different telecommunication technologies
+and the mechanisms behind this. Although the search was not
+restricted to economic development, we found that connectivity
+research strongly focuses on this. Internet and ICTs facilitate the
+transfer of information (Malecki, 2010), and therefore they are
+regarded as production factors for productivity gains (Tu and Sui,
+2011) and economic growth (Van Gaasbeck, 2008; Martínez and
+Rodríguez, 2009), either for places or individual businesses.
+Research on connectivity in rural areas mainly focuses on the
+lack of digital connectivity in rural areas, which in the literature is
+referred to as the digital divide, urban-rural divide, or rural digital
+divide (Townsend et al., 2013). Nearly every household in
+advanced western societies is connected through a telephone line
+and, therefore, has the possibility of a fixed Internet connection. A
+recent communication from the European Commission (2013) and
+an Ofcom report (2014) show that differences in connectivity are
+growing, especially between urban and rural areas. The rise in
+deployment of Next Generation Access networks in urban areas,
+with greater speeds and better reliability, make these differences
+ever more prominent. Mobile phone coverage and mobile broadband
+show similar disparities (Townsend et al., 2013). In this light,
+we define a lack of connectivity as the comparatively disadvantaged
+state of connectivity of places and regions, in respect to the
+overall connectivity status and developments in the surrounding
+context, i.e. the level of connectivity of rural areas compared to
+urban areas.
+Below we will discuss the following subthemes of connectivity
+separately: telecommunications markets, technologies in rural
+areas, regional development, and policy and regulation.
+362 K. Salemink et al. / Journal of Rural Studies 54 (2017) 360e371
+4.2. Telecommunications markets (13 papers)
+The basis of a lack of digital connectivity in rural areas lies in the
+market for telecommunications. Privatization policies regarding
+telecommunication companies and deregulation of the markets in,
+for example, the United States (Holt and Galligan, 2013) and
+countries in the EU (Cambini and Jiang, 2009) have made economic
+market rationale the dominant assessment framework for investments
+in networks. In practice, there are often spatial or national
+monopolies, or oligopolies at best (Valletti, 2003; Atkinson,
+2011). Deploying networks to rural areas, i.e. establishing connections
+over long distances in areas with low population density,
+makes these rural areas high-cost markets with little opportunity
+for telecommunications companies to achieve economies of scale
+or obtain a return on investment (Grubesic, 2010; Glass and
+Stefanova, 2010, 2012).
+Latent demand and ‘rural potential’ have been mapped in the
+past (see for example Madden et al., 2000), but more recent literature
+argues that this will not affect the investment behavior of the
+companies (Mack and Grubesic, 2009). Even if rural areas are
+profitable for telecommunications companies, urban areas offer
+still higher returns on investment (Grubesic and Murray, 2004).
+This makes rural areas less attractive markets and perpetuates the
+urban focus of market decisions (Oyana, 2011). The market for
+telecommunications shows that a free-market rationale can ensure
+an efficient use of limited resources, i.e. using the resources for
+profitable markets in high-density areas, but it cannot ensure an
+equal delivery of services in all areas, leaving the rural underserved
+(Gabe and Abel, 2002; Malecki, 2003, 2004; Grubesic, 2003;
+Grubesic and Murray, 2004; Oyana, 2011).
+The lack of provision of digital connectivity is in line with other
+rural service provisions, where the economies of scale of the free
+market lead to rural disadvantages or even a rural penalty (Hite,
+1997; Malecki, 2003). However, the telecommunications market
+is different from other markets for rural service provision, such as
+the post office or a pub. On the supply side, the complexity and high
+costs of deploying and managing telecommunications networks
+form a barrier to entry into the market (Grubesic and Murray,
+2004). On the demand side, consumers require connections for
+both household and business activities. Therefore, such connections
+have to be provided to a specific household or business,
+instead of to a single shop or hub in a village. Nowadays, digital
+connectivity is becoming just as important as other utilities, such as
+gas, water, and electricity. Up to now, the market has failed to
+supply this utility of the digital age (11 papers in this subtheme),
+and in the end it could prove necessary for governments to intervene
+in order to achieve universal access (see also Holt and
+Galligan, 2013).
+EU regulations (Cambini and Jiang, 2009) and US federal policies
+(Holt and Galligan, 2013) focus on safeguarding a free market for
+telecommunications, while stimulating investment in unattractive
+markets. Governments have taken various approaches to ensure
+Internet provision for all, but to date this has not solved the problem
+of unequal availability and choice (Cambini and Jiang, 2009;
+Atkinson, 2011).
+4.3. Technologies in rural areas (13 papers)
+Since the development of ICTs and networks in the late 1980s,
+researchers have been concerned with the variety of technologies,
+their costs, and their availability (see for example Egan, 1992). The
+main concern of the literature we found involves the lack of
+availability and the resulting technological constraints in rural
+areas (see Section 4.2). Although society increasingly assumes the
+availability of advanced ICTs and networks, underserved rural areas
+are still experiencing problems in obtaining and retaining access to
+goods and services such as eHealth (Steele and Lo, 2013) and
+transport (Velaga et al., 2012) due to bandwidth constraints. When
+it comes to the availability of the latest technologies, rural areas
+universally find themselves in the same situation, that of continuously
+catching up with urban areas (Malecki and Boush, 2003;
+Grubesic, 2006, 2008).
+Ellershaw et al. (2009) discuss the recent technological trend of
+providing wireless broadband in rural areas as a substitute for
+wired broadband, concluding that the need for a fiber optic backbone
+(wired) to deploy wireless broadband leads to only small
+differences in deployment costs compared to fixed broadband. As a
+result, here too, rural areas are at the high-cost end of the market.
+With rural areas being high-cost markets as compared to urban
+areas, and thus remaining underserved, investments in new technologies
+and innovations will continue to take place in urban areas
+(see also Velaga et al., 2012: 105e106). Newly developed technologies
+are likely to be urban-led and based on ubiquitous connectivity,
+designed without consideration for rural needs. This
+dominant and largely urban rationale leads to the perpetuation of
+the urban-rural digital divide.
+4.4. Regional development (25 papers)
+As computing and digital connectivity became more and more
+important aspects of society in the late 1980s and early 1990s, researchers
+showed increasing interest in the regional economic
+development effects stemming from these, as shown in the ‘technology’
+subtheme. Goddard and Gillespie (1986), Cornford and
+Gillespie (1993), Tsiligirides (1993), Cronin et al. (1995), and
+Capello and Nijkamp (1996) attempted to theoretically assess the
+implications of the coming digital age, envisioning a major role for
+advanced telecommunication technologies in future rural and
+regional development. Together with the influential work of
+Castells (2000), these early works set the tone for the debate in the
+field of regional development in terms of the role of advanced
+Table 1
+Connectivity subthemes characteristics.
+Connectivity
+4.2 Telecommunications Markets
+n ¼ 13
+2000e2012
+4.3 Technologies in Rural Areas
+n ¼ 13
+1992e2013
+4.4 Regional Development
+n ¼ 25
+1986e2013
+4.5 Policy and Regulation
+n ¼ 32
+1997e2012
+Table 2
+Inclusion subthemes characteristics.
+Inclusion
+5.2 Diffusion Theory
+n ¼ 27
+2000e2013
+5.3 Digital Inequalities
+n ¼ 31
+2000e2013
+5.4 Digital Inclusion Policy
+n ¼ 16
+2000e2013
+K. Salemink et al. / Journal of Rural Studies 54 (2017) 360e371 363
+telecommunication technologies. The main question in this debate
+in regional development is whether the availability of advanced
+telecommunications leads to a decrease or an increase in economic
+differences between places and regions (see for example Lentz and
+Oden, 2001; Malecki, 2003). The literature concludes that economic
+differences between well-connected and poorly connected regions
+will grow, mainly due to a lack of (instant) access to information
+and the limited possibility for proactively taking part in the production
+of information (14 papers).
+Other literature concerning regional development discusses
+what precedes the possibility of growth: Are poorer regions capable
+of becoming digitally connected at all (Lera-Lopez and Bill  on-
+Curras, 2005  ), and, if they are connected, do economic growth
+patterns develop in the same way as in advanced regions (Martínez
+and Rodríguez, 2009)? This issue is linked to European Union
+Cohesion Policy and the Digital Agenda (European Commission,
+2013), and the attempts to determine whether there are similarities
+in problems concerning digital connectivity in the different
+member states. In poorer regions there is a cumulative causality:
+These regions suffer from a lack of connections, as a result of which
+regional development becomes constrained, and then regional
+disparities further increase (Lera-Lopez and Bill  on-Curr  as, 2005  ).
+Over the years, these insights have contributed to an increasingly
+important role for ICTs and the Internet in European Cohesion
+Policy, connecting rural economies more strongly to urban centers
+and providing productivity advantages for rural businesses
+(European Commission, 2013). Furthermore, improved digital
+connectivity can help attracting human capital into these rural
+areas (see also Roberts and Townsend, 2015).
+There is also literature concerning the measurable economic
+impact of digital connectivity. The general conclusion is that
+advanced telecommunication technologies contribute to GDP
+growth through investment in the infrastructure itself and through
+productivity improvement (Ford and Koutsky, 2005; Van Gaasbeck,
+2008; Capello et al., 2011; Greenstein and McDevitt, 2011; Forman
+et al., 2012; Kolko, 2012; Prieger, 2013). Some papers, however, note
+that e although advanced telecommunication technologies do
+contribute to GDP growth e this growth is unevenly distributed
+over core and peripheral regions, that is, over urban and rural areas
+(Kirschner, 2005; Tu and Sui, 2011). Even if digital connectivity in
+rural areas improves and GDP grows, this does not automatically
+mean that economic cohesion is taking place. Rural areas need to
+grow faster than urban areas in order for economic cohesion to take
+place.
+In the case of entrepreneurial activity, the literature is inconclusive.
+Although Ford and Koutsky (2005) observe that investments
+in broadband lead to more entrepreneurial activity in a
+region, Cumming and Johan, 2010, on the other hand, note that
+digital connectivity in remote rural areas creates Internet-based
+external competition for local entrepreneurs, such as e-retail,
+which disadvantages the local entrepreneurs. This means that
+improved access to markets can have a negative impact for traditional
+rural business. However, innovative entrepreneurs may
+respond positively to this competition, strengthening the rural
+economy in the future. Comparison can be drawn here with other
+modes of connectivity, such as road and rail, but this is outside the
+scope of our findings (see also Lichter and Brown, 2011).
+Gallardo and Scammahorn (2011) show that as the number of
+broadband providers increases in a region, the number of noninnovative
+entrepreneurs, from traditional sectors, also increases.
+This does not mean that better digital connectivity leads to more
+non-innovative entrepreneurs, but it does show the importance of
+broadband for traditional industries. As Gallardo and Scammahorn
+(2011: 114) state: “… innovative entrepreneurs are less likely to
+start businesses in rural America (…) increasing broadband
+availability will enhance the development of non-innovative
+[traditional] entrepreneurs.” For rural areas in the US, this indicates
+that better digital connectivity will not attract or increase
+the amount of creative entrepreneurs; rather, it will support
+existing industries. We did not find similar research in the European
+context, but, considering the importance of commercial
+counter-urbanization in the UK (Bosworth, 2010) as compared to
+the US, and business diversification in rural areas in the
+Netherlands (Markantoni et al., 2014), for example, it is debatable
+whether the conclusions of Gallardo and Scammahorn also apply to
+Europe.
+The literature is also inconclusive when it comes to the role of
+ICT in migration to rural areas in terms of being an economic driver.
+Mahasuweerachai et al. (2010) conclude that digitally well-served
+rural areas in the United States, i.e. those with more than one
+broadband technology available, experience significant inmigration
+as compared to rural areas without broadband.
+Muhammad et al. (2007), on the other hand, conclude that in the
+Netherlands digital connectivity enables people to commute over
+longer distances. Through this, rural people potentially have access
+to labor markets which are further away.
+A general conclusion is that geographical and institutional
+contexts do matter, so there is a potential for them to make a difference
+as well. For economic growth to take place, however,
+merely the provision of improved digital connectivity is not
+enough, or as Tranos (2012) summarizes it, “digital infrastructure is
+a necessary, but not a sufficient, condition for economic development”
+(Tranos, 2012: 332).
+4.5. Policy and regulation (32 papers)
+Digital connectivity has been a prominent topic on policy
+agendas for quite some time (see for example European
+Commission, 2013; Holt and Galligan, 2013). The main aim of policy
+programs has been to minimize regional disparities (see also
+section 4.4). The policies concerning digital connectivity have
+moved from the utility perspective of providing ‘a connection’ for
+all, to providing Next Generation Access for all (European
+Commission, 2013). The three pillars of stimulating universal and
+equal access to either basic broadband or NGA are competition,
+investment by government authorities, and regulation (Gulati and
+Yates, 2012). Generally speaking, policies have been forced to
+respond to the technological trends of advanced telecommunication
+technologies (Gomez-Barroso and Feij  oo, 2012; Holt and
+Galligan, 2013). For rural development, simply reacting to these
+trends has not been enough, as the urban-rural digital divide shows
+(see Section 4.4).
+Much of the policy evaluation literature discusses the imperfections
+or flaws in these policies (23 out of 32 papers), such as
+Strover (2001), and Venkatachalam and McDowell, 2003 in terms
+of the U.S. federal universal service programs, or Belloc et al. (2012),
+and Gomez-Barroso and Feij  oo (2012)  in terms of European Commission
+policy. Specifically, when it comes to the US federal universal
+service programs (Telecommunications Act 1996), there is a
+vast body of literature that discusses the effectiveness and efficacy
+of policy measures and programs implemented so far: Often the
+conclusion is that the Act and program do not deliver what they
+should deliver (Strover, 2003; Whitacre and Mahasuweerachai,
+2008; Kandilov and Renkow, 2010; Berg et al., 2011; Holt and
+Galligan, 2013). Similarly inefficacious policies are found in European
+countries, despite the variety of efforts to promote rural
+connectivity - see for example Skerratt (2010) on Scotland and
+Nucciarelli et al. (2010) on the Netherlands and Italy.
+In addition to the literature on the federal US, EU, or national
+levels, there is a strand of literature on municipal and county-level
+364 K. Salemink et al. / Journal of Rural Studies 54 (2017) 360e371
+policies. Local governments have attempted to get their communities
+connected to advanced telecommunication technologies,
+either through providing the capital for investments, or through
+the formation of a public enterprise or partnership (Sadowski et al.,
+2009; Nucciarelli et al., 2010; Troulos and Maglaris, 2011). North
+American and Australian literature on this dates back to the
+beginning of the 21st century (Youtie, 2000; Van Wart et al., 2000)
+and researches the factors that determine the success of a local
+government-initiated network. Conclusions suggest that supportive
+policy throughout the local governmental organization is
+required to get the locality online; unprofitable localities are very
+likely unable to establish an economically self-sustaining network
+(see also Simpson et al., 2004).
+There has been specific attention for Canadian and Australian
+indigenous communities. Due to the remoteness of their territory,
+indigenous communities experience a severe lack of digital connectivity.
+Policy initiatives to get these remotely living communities
+connected to the wider world, require targeted approaches
+that fit into indigenous community life. Without the support of the
+communities, the provision of connectivity will have no impact,
+and will be viewed as a top-down imposition (Ramírez, 2001;
+2003; 2007).
+The literature on local government policy in Europe focuses on
+public private partnerships (PPP) for NGA networks in rural municipalities
+within the broader EU policy framework of the Digital
+Agenda and analyzes the different outcomes on the various national
+levels (Sadowski et al., 2009; Falch and Henten, 2010;
+Nucciarelli et al., 2010; Troulos and Maglaris, 2011; Ragoobar
+et al., 2011). Under current EU policy and law, it is difficult to set
+up a PPP that complies with European agreements concerning the
+free market (Troulos and Maglaris, 2011). The role of governmental
+bodies in PPPs is often challenged by commercial telecommunications
+companies, who claim that governmental bodies should not
+be acting as market parties and disrupting market mechanisms
+(Sadowski et al., 2009). The EU legal framework now recognizes,
+however, that in rural areas there often are no market initiatives,
+which then justifies public participation in telecommunication
+projects. It is moving towards a framework in which governmentinitiated
+activities in underserved ‘white areas’ will not immediately
+be forced to stop because of the prevailing interest of a free
+market (Sadowski et al., 2009; European Commission, 2013).
+To summarize, contemporary policy and regulation is now
+aimed at stimulating places and regions to keep up with technological
+developments. There are, however, places and regions in the
+rural that have missed out on earlier developments. The main
+challenge for future policy and regulation therefore is to make sure
+that these lagging regions are served by the policies as well, and to
+prevent these regions from falling even further behind. The objectives
+of policy programs, e.g. providing a connection of a minimum
+speed and capacity, are rapidly overtaken by developments in
+the telecommunications sector itself (Nucciarelli et al., 2010;
+Ragoobar et al., 2011). The responsive character of these policies,
+up to now, has sustained the ‘catching up’ position of rural areas.
+5. Lessons from the inclusion literature
+5.1. Inclusion
+The other main theme that arises from the papers is that of
+inclusion. Where papers on connectivity focus on material inequalities
+e in some cases from a somewhat dehumanized macroperspective
+e inclusion research focuses on the social inequality
+aspects of ICT developments and the extent to which people are
+able to participate in the information society (Marien and Prodnik, €
+2014). It researches the various factors and mechanisms behind the
+adoption of ICTs, resulting in a degree of digital inclusion for people.
+In addition to the availability aspect discussed in section 4,
+knowledge, attitudes, skills, and the aspirations to use ICTs
+(Helsper, 2012), along with the moment in time when people adopt
+these e early or late adopters e (Rogers, 2003), determine the level
+of inclusion into digital society.
+In this section we will use the term ‘diffusion theory research’
+for the research on the diffusion of ICTs through time and space
+(Section 5.2). Research on digital knowledge, attitudes, skills, and
+aspirations will be called ‘digital inequalities research’ (Section 5.3).
+Finally, we will discuss the literature concerning policies that promote
+the inclusion of digitally deprived people in rural areas into
+the digital society, using the term ‘digital inclusion policy research’
+(Section 5.4).
+5.2. Diffusion theory research (27 papers)
+Diffusion theory research studies the socioeconomic characteristics
+of people with the aim of understanding how new technologies
+and innovations spread through time and space (Rogers,
+2003). There is a vast body of literature concerning the diffusion
+of innovations and technologies in rural areas, and how this can be
+accelerated, for example, by using extension programs (Rogers,
+2003: 391e394). Diffusion theorists take an educational perspective
+as to what the barriers are for people, firms, and organizations
+in terms of adopting a new technology.
+The literature we found follows Rogers (2003: 281), and studies
+the characteristics of categories of ICT adopters, characterizing
+them as early adopters, late adopters, or laggards. It is interested in
+the extent to which (groups of) people experience barriers to
+adopting new ICTs, even when these ICTs are considered by policy
+makers as benefiting their everyday lives or businesses. Particular
+barriers to adoption include a lack of financial resources, unemployment,
+low educational levels and conservative attitudes
+(Hollifield and Donnermeyer, 2003; Hilbert, 2011). This literature
+goes beyond the urban-rural digital divide, and studies the
+inequality in adoption and use within rural areas. A small strand of
+largely descriptive literature provides overviews of ‘national states
+of diffusion,’ together with the frequently identified factors that
+determine adoption (Camagni and Capello, 2005; Whitacre, 2008;
+Zolnierek and Clausen, 2010; Khatiwada and Pigg, 2010; Turk and
+Trkman, 2012). Other literature takes a demand-side perspective
+on how to determine which factors and processes can contribute to
+creating more demand, and to promoting adoption of new technologies
+(Hollifield et al., 2000; Hollifield and Donnermeyer, 2003;
+Youtie et al., 2007; Turk et al., 2008; Howick and Whalley, 2008;
+Whitacre and Mills, 2010; Peronard and Just, 2011; Rennie et al.,
+2013; Hage et al., 2013). In general, people who adopt new technologies
+at an early stage tend to recognize the benefits of these
+new technologies for their everyday life, yet are also willing to
+accept the associated risks (LaRose et al., 2007). Moreover, early
+adopters in both urban and rural areas have usually had previous
+experience with ICTs or broadband (Hollifield and Donnermeyer,
+2003; Youtie et al., 2007; LaRose et al., 2007), suggesting that
+there are also differences in adoption and diffusion within rural
+areas. Diffusion theory literature also concludes that the most
+important goal for future policies should be that of promoting the
+adoption of new ICTs by people who are not interested (see for
+example Howick and Whalley, 2008). Increasing the use of ICTs
+among this group is most likely if these are seen as a means to an
+end for these people (Peronard and Just, 2011) and if they fit within
+the culture of a community (see for example Rennie et al., 2013; on
+indigenous communities).
+Other literature focuses on ICT adoption by firms and entrepreneurs.
+Forman et al. (2005a; 2005b), and Goggins and Mascaro
+K. Salemink et al. / Journal of Rural Studies 54 (2017) 360e371 365
+(2013) emphasize the role of the distance of rural firms to central
+market areas and of the remoteness of rural firm locations as a
+dominant explanation as to why rural firms lag behind non-rural
+firms in adopting new technologies. The diffusion theory literature
+this paper addresses assumes that new technologies and innovations,
+such as the Internet or smartphones, are first adopted in
+central urban areas, which hold many highly educated people with
+higher incomes who drive innovations (Whitacre, 2008). Eventually
+these innovations reach remote areas at a later stage, or not at
+all. Galloway and Mochrie (2005), on the other hand, conclude that
+distance and remoteness are not the only explanatory factors. They
+provide a more nuanced view of the unequal adoption of technologies,
+one that arises from the differences in industries and sectors,
+geographical context, availability of human capital within a firm,
+and the specificity of the technology (see also Labriandis and
+Kalogeressis, 2006; Jarvis et al., 2006; Galliano et al., 2001;
+Galliano and Roux, 2008). This means that the need for improved
+digital connectivity varies per sector, or even per firm. Differences
+like these show that there is a need for target audience programs,
+when it comes to improving the adoption rates in rural areas.
+5.3. Digital inequalities research (31 papers)
+The move towards a more nuanced understanding of the digital
+divide has been strongly influenced by the agenda-setting article of
+DiMaggio et al. (2001). They state that social sciences should study
+the ‘social implications of the Internet’ in its full complex context,
+instead of studying specific parts of the context. Van Dijk and
+Hacker (2003) later showed that, after the point of saturation for
+the provision of connections, there are increasing differences in
+skills and usage, pointing out the growing complexity of the inequalities
+and the digital divide. We will frame this field under the
+term ‘digital inequalities research.’ The bulk of the research that has
+followed is either non-spatial (see for example Helsper, 2012) or
+urban-focused (see for example Gilbert, 2010). Non-spatial or urban
+digital inequalities research assumes ubiquitous connectivity. In
+rural areas, however, ubiquitous connectivity (see Sections 4.2e4.4)
+does not exist. Conclusions based on most of the research on digital
+inequalities therefore do not apply to rural areas.
+Although non-spatial and urban contexts are partially incommensurate
+with rural contexts, there is a strand of research that
+applies concepts from digital inequalities research to rural areas.
+The literature on the macro level focuses on national or other largescale
+statistics, with the aim of providing an overview of the
+characteristics of people in relation to the use of ICTs. The determining
+factors that are frequently observed are age, education,
+gender, and income (Van Dijk and Hacker, 2003; Mills and
+Whitacre, 2003; Michailidis et al., 2011; Lengsfeld, 2011). This
+literature, however, is inconclusive as to which of the explanatory
+characteristics plays a dominant role in the use of ICTs.
+In the micro-level literature, the research is aimed at finding out
+how people's lives and social positions are affected by the growing
+importance of ICTs, using social networks and social capital as
+conceptual bases (see for example Boase, 2010; Stern and Adams,
+2010; Stern et al., 2011). Most micro-level literature, however, focuses
+on specific groups of mostly vulnerable people (see also
+Warren, 2007), such as rural children (Valentine and Holloway,
+2001), rural youth (Laegran, 2002; Dooris et al., 2008; Awan and
+Gauntlett, 2012), rural women (Rubinoff, 2005), older people
+(Park, 2008), rural patients (Miller and West, 2009), or people living
+in remote areas, such as employees and teleworkers in rural areas
+(Simpson et al., 2003; Laegran, 2008; Brownlee et al., 2010), as well
+as farmers (Briggeman and Whitacre, 2010; Jeffcoat et al., 2012) and
+entrepreneurs (Grimes, 2000, 2003; 2005). A majority of these
+studies (11 of 13 papers) show that rapid digital developments
+make these groups more vulnerable to digital and social exclusion.
+An urban-led agenda that assumes ubiquitous connectivity, and
+adjusts policy and services to this assumption, further increases the
+vulnerability of vulnerable people in rural regions. In order to
+prevent or at least limit the impact of this, the literature concludes
+that the individual user should be empowered, for example by
+enhancing his/her skills (Briggeman and Whitacre, 2010). This
+empowerment, however, cannot take place without the improvement
+of general social and economic conditions, which ought to
+enable the use of digital technologies.
+Generally speaking, we can conclude that low-educated, poorly
+literate people with little experience in using ICTs are vulnerable to
+exclusion from digital developments, which further increases their
+offline exclusion and marginalization. The attitude of people towards
+ICTs, and whether they aspire to use these for their existing
+everyday activities, along with whether they consider them useful
+for these practices, together determine whether people are willing
+to learn how to use such technologies. Merely providing the technology
+e the dominant rationale in connectivity research e is not
+sufficient to promote digital inclusion. To achieve this, inclusion
+research calls for user empowerment in order to make it possible
+for people to deal with rapid digital change. On the other hand,
+without material resources such as a physical connection and
+money for subscriptions, user empowerment is useless (Michailidis
+et al., 2011).
+5.4. Digital inclusion policy (16 papers)
+Policy studies on digital inclusion show two trends. The first
+attempts to create an overview of policy initiatives and their efficacy,
+using a macro-level and agenda-setting approach. The second
+uses a micro-level approach, evaluating specific (local) projects and
+methods designed to promote inclusion of specific vulnerable
+groups.
+On the macro-level (6 papers), papers share the axiom that
+being able to use ICTs will allow people in rural areas to become
+more included in community life, education, and knowledge-based
+economic activities (Dabinett, 2000; Birch and Cumbers, 2010),
+through which they can eventually escape the rural penalty. These
+axioms are now also applied in research on transitional countries
+(Akca et al., 2007). However, policy programs and initiatives to
+promote the use of such ICTs are criticized for ignoring the rural
+socioeconomic and geographical contexts (Birch and Cumbers,
+2010; see also Awan and Gauntlett, 2012). This results in generic
+initiatives with limited effects on the adoption and use of ICTs by
+the most vulnerable groups in rural and remote areas (Strover et al.,
+2004; Tookey et al., 2006). There is some literature on good practices
+which states that initiatives need to acknowledge the importance
+of community cultures and fit into community life in order to
+achieve the greatest possible impact (Moon et al., 2012; Lin and Wu,
+2013).
+On the micro level (10 papers), studies on specific projects and
+methods show how these projects enhance learning about ICTs,
+and how to use them, both for people (Uotinen, 2003; Suhonen and
+Sutinen, 2006; LaRose et al., 2011) and for firms in remote rural
+areas (Sellitto and Burgess, 2005). The general view in this literature
+is that, in the case of arrears, the government should take the
+lead in organizing inclusion-promoting projects. To achieve the
+greatest possible effect, Gripenberg et al. (2004) state that the
+government should consider handing over the management of the
+project to the people of the community, for whom or with whom
+the project has been designed. This way, the community itself is
+responsible for making the project activities fit into the community's
+culture.
+Within this subtheme there is a specific focus on indigenous
+366 K. Salemink et al. / Journal of Rural Studies 54 (2017) 360e371
+people, just as in the connectivity policy subtheme (see Section
+4.5). The Australian literature concludes that, although indigenous
+communities currently are the digitally most deprived group
+(Bandias and Ram Vemuri, 2005), there is potential for an increase
+in usage in these communities. To achieve this, Morrison (2000)
+claims that community governance bodies should be given the
+authority to determine policy and activities. They are regarded as
+knowing best what or who can be a driver for people to adopt and
+promote the usage of ICTs. Lindberg and Uden (2010)  , on the other
+hand, observe the key role women play as drivers towards innovative
+ICT application, in their case in a reindeer-herding Sami
+village. They also stress that the role of gender in ICT adoption is
+culturally and community specific.
+The inclusion policy literature, especially the micro and project
+level papers, shows the determining influence that the geographical,
+social, economic, and cultural context has on the efficiency and
+efficacy of policy initiatives. Activities to promote learning about
+ICTs and their usage need to fit into the everyday activities of a
+community and suit its culture. Problems in different regions and
+communities do show similarities, but generic policy approaches
+have proven to be ineffective. Moreover, many regions and communities
+have yet to bridge the gaps they experience. There is more
+chance of achieving this by including these communities in the
+decision-making and implementation, or by introducing community
+ownership of projects. In Europe there is now an opportunity
+to bring this idea into practice, with the new EU Cohesion Policy
+(2014e2020) focusing more on community-led local development
+(European Commission, 2014).
+6. General conclusions and prospects for digital rural
+development
+6.1. Market dependency and the urban-rural divide
+This systematic literature review provides an overview of the
+shifting focal points and topical issues in the debate on digital developments
+and rural development. The debate is somewhat fragmented
+over various disciplines and themes, yet we have extracted
+prevailing ideas on how rural development is affected. Together,
+the 157 selected papers recognize, either implicitly or explicitly,
+that society as a whole is moving towards a digital information
+society, in which access to and use of data infrastructure are
+essential. Authors dealing with rural issues follow the work of key
+scholars in this debate (Castells, 2000; DiMaggio et al., 2001;
+Helsper, 2012). The prevailing idea is that, in order to have equal
+opportunities for every person, household, and firm, everyone
+should be connected to high speed Internet. Furthermore, people
+have to know how to effectively use ICTs for their economic benefit
+or their quality of life, i.e. to keep up with developments. Not
+keeping up is considered as leading to “digital exclusion,” “lagging
+rural development,” or “economic decline” (see Table 3).
+Theoretical considerations as to how the digital society should
+develop in order to create benefits for everyone are in great
+contrast with rural reality. Developments so far indicate that telecommunication
+companies will not provide every rural household
+or business with a high-speed Internet connection comparable to
+those in urban areas. Rural areas are served last, if they are served at
+all (see for example the case of cable Internet; Nucciarelli et al.,
+2010: 514). The speed and reliability of connections in rural areas
+demonstrate this. Compared to urban areas, the profit opportunity
+in rural areas is lower because of the high costs of covering greater
+distances. Companies are only willing to deploy a network if
+households and businesses pay a higher price to make up for these
+higher deployments costs. Insights from the connectivity debate
+(section 4) show that, under the current conditions, we can expect
+that the urban-rural divide will persist or even grow, as new, faster
+technologies come on-stream, perpetuating the rural penalty.
+This literature review also serves as a warning to policy makers.
+Since the early 1990s, several academics have pointed out the potential
+of high-speed telecommunication networks for regional and
+rural development (see sections 4.5 and 5.4). This theoretical potential
+now has turned into a claim based on empirical grounds:
+Digital connectivity either stimulates productivity and growth, or it
+limits further decline. With this message there has always been a
+warning from academia to governments and policy makers that the
+high costs of deploying the infrastructure would deter telecommunication
+companies from investing in rural networks. Considering
+the current state of digital connectivity in rural areas, this
+warning has come true.
+This paper has shown that there is a growing consensus that
+poor rural telecommunication infrastructure hinders rural development.
+However, policies for promoting the availability of connections,
+along with the adoption and use of ICTs, have been
+responsive in character, and largely unsuccessful. Generic policies
+appear to be inappropriate, or, as Belloc et al. state: “… different
+policy combinations suit different policy objectives (…) different
+initial conditions: there is no one-size-fits-all policy” (2012: 397).
+To ‘customize’ policies, however, making use of local knowledge of
+the various rural stakeholders seems fundamental.
+A general conclusion from the literature on connectivity is that
+governments have only been able to react to market and societal
+developments, instead of anticipating them. By promoting the freemarket
+rationale and using competition as the instrument for
+improving digital connectivity, instead of defining new technologies
+as utilities, governments have limited their influence on digital
+development, allowing for market failure (Atkinson, 2011). This has
+brought about programs to stimulate digital connectivity in rural
+areas with technologies and minimum service levels that were
+already outdated by the time they were deployed (see section 4.5).
+The EU's struggle to deal with NGA technologies, while still promoting
+basic broadband, is a striking example of this (see also
+Nucciarelli et al., 2010; Ragoobar et al., 2011). It shows the need for
+place-specific and community-specific policies, since needs and
+demand are defined locally.
+In times of ever growing global competition, the digital rural
+penalty might result in a further loss of competitiveness of rural
+regions, affecting the overall competitiveness of national economies.
+The paradox in this digitalizing age is that the regions most in
+need of improved digital connectivity, i.e. rural regions in decline,
+are the regions which are the least connected and included. Next
+Generation Access may not necessarily be a public service, but
+considering how much public value it can create, it can be seen as a
+public good that is required in order to provide other (public) services,
+such as eHealth and eGovernment (see sections 4.5 and 5.4).
+6.2. Towards a community-based research agenda
+A general question that has come up in the analysis of the papers
+is the extent to which the debate on digital inequalities is an
+entirely new one. And, more fundamentally, is there a tangible
+digital society from which people and places can be excluded? The
+two main research directions that we discerned in this paper,
+connectivity and inclusion, are not new. The ability to connect to
+and be included in major developments, as a prerequisite for
+growth, is omnipresent in regional development and social inclusion
+literature (see sections 4 and 5). The digital context, however,
+is relatively new. There is, nevertheless, much to be learned from
+existing offline arrears and the lagging diffusion of technologies.
+Future research should bring together theories from previous
+research on ’analog’ connectivity, accessibility and inequality
+K. Salemink et al. / Journal of Rural Studies 54 (2017) 360e371 367
+issues, and research on ‘digital’ forms of these issues. For a
+comprehensive understanding of digital rural development, the
+largely offline-based economic history and everyday life ought to
+be part of the research agenda. Digital developments are not
+something ‘virtual’ which takes place online; these developments
+are based in real life.
+This paper has demonstrated that, up to now, research on digital
+development in the rural consisted of two major strands of research
+e connectivity and inclusion e each with its own focus. Research on
+connectivity issues (section 4) is largely place-based and focuses on
+supply side arguments, such as deployment costs, and economic
+impact. Dominated by economic thinking, the urban focus of
+markets is regarded as a contextual fact when discussing the position
+of the rural. In this context, top-down regulatory measures
+and subsidies are the most common instruments to deal with the
+urban-rural divide (section 4.5). Research on inclusion issues
+(section 5) is largely people-based and focuses on demand side and
+bottom-up elements, such as diffusion, skills, affordability, cultural
+differences and attitudes towards ICTs. The focus on the inclusion of
+all people, regardless of their background, can help showing the
+public value of ICTs and improved digital connectivity (sections 5.3
+and 5.4). Moreover, inclusion research can provide the market with
+insights on latent demand of excluded and disconnected groups in
+the rural; insights which can be used to potentially bridge the gap
+between demand and supply.
+The potential role of inclusion research in stimulating, and
+eventually bundling, (latent) demand in the rural is the reason why
+we call for a more integrated research agenda for digital rural
+development, in which connectivity and inclusion are no longer
+separate strands of research. Inclusion research should focus on
+Table 3
+Summarized overview of digital connectivity in rural development.
+Connectivity Effects on rural development
+Telecommunications
+Markets
+n ¼ 13
+Rural areas do not provide enough market potential for investments; profit potential is larger in urban areas
+Lack of investment in telecommunication technologies
+High investments in urban areas, low investments in rural areas: urban-rural digital divide
+Technology
+n ¼ 13
+Lack of availability and choice of technologies
+Limited opportunity for activities that require telecommunication technologies
+Wireless technologies are also limited by market deficiencies; it is not yet an alternative in rural areas
+Regional Development
+n ¼ 25
+Mixed conclusions on GDP growth, entrepreneurial activity, migration to rural areas
+Due to continuous developments in urban areas, rural areas are not catching up, so no cohesion is taking place
+Traditional industries benefit especially from increased digital connectivity; it is less likely that rural regions will attract innovative or creative
+industries
+Axiom that regions benefit from improved digital connectivity
+Improved digital connectivity opens up the rural for competition from outside
+Policy and Regulation
+n ¼ 32
+Policies have a responsive character
+Technological development moves faster than policy development
+Sector-scattered interest
+Free-market rationale has hindered developments in rural areas, especially in Europe; governments have not been allowed to interfere
+Inclusion
+Diffusion Theory
+n ¼ 27
+Diffusion of ICTs through space and time, with a demand-side focus
+Traditional view: Remoteness of rural areas places rural communities at the end of the diffusion stage; late adopters and laggards
+Adoption and use of ICTs in rural areas is also constrained by lagging supply
+Willingness to adopt new ICTs in firms differs per sector
+Digital inequalities
+n ¼ 31
+Knowledge, skills, attitudes, and aspiration are key factors in why and to what extent people use ICTs
+Digital empowerment depends on wider offline-based socioeconomic contexts
+Low educational levels and skill levels in rural areas are considered a problem
+Digital inclusion policy
+n ¼ 16
+Generic policies are incapable of reducing inequalities
+Impact of policies and projects depends on the extent to which local community culture and practices are taken into account
+Policies are more likely to succeed if communities are involved in the decision-making; community ownership of projects is preferable
+Fig. 1. Combining connectivity and inclusion research to create a community-based approach.
+368 K. Salemink et al. / Journal of Rural Studies 54 (2017) 360e371
+community processes which can stimulate and bundle local demand,
+which is often still fragmented over various stakeholders
+and consumers. Connectivity research, on the other hand, should
+focus on how markets can serve these increased demand levels in
+rural areas. Both focal points are in need of a reflection on the role
+of national and local governments. The question then is: To what
+extent are rural communities, united in civic initiatives or community
+action groups, and telecommunications companies able to
+regulate this process together, and where do they need government
+support? The purpose of the design is that connectivity and inclusion
+research are combined and applied in specific community
+contexts. Our idea for this agenda is presented in Fig. 1.
+Generic policies have not solved the urban-rural digital divide.
+The rural is in need of ‘customized’ policies, but telecommunications
+companies cannot serve every individual need. The community
+level seems an appropriate intermediate level for negotiation
+between the generic (national) level and the individual level. We
+argue that connectivity research and inclusion research can be
+brought together in a community-based approach, which facilitates
+market interface at the community level. Various local needs can be
+brought together (see Fig. 1).
+The community level allows for local cultural differences to be
+recognized in demand bundling processes. Once the local demand
+is bundled, this can trigger the market to serve the rural community
+on the community's terms. If the market is not triggered, the demand
+bundling process can at least make clear what the gap is
+between demand and supply. In this way, the community-based
+approach results in a rural business case, which is either marketready
+or in need of a specific level of government support. Based
+on insights from the debate so far, we can expect that socially
+excluded communities, and communities which lack financial and
+social capital, will be most in need of government support in this
+community-based approach. Digital connectivity and digital inclusion
+are becoming increasingly important in the digital age, but
+'offline' social and economic developments will continue to resonate
+in the field of rural development.
+Acknowledgments
+The authors would like to thank the reviewers and the guest
+editor for their valuable comments on earlier versions of this paper.
+This research would not have been possible without the financial
+support of the EU Interreg IVB North Sea Region Programme project
+‘ITRACT’.
+References
+Akca, H., Sayili, M., Esengun, K., 2007. Challenge of rural people to reduce digital
+divide in the globalized world: theory and practice. Gov. Inf. Q. 24 (2), 404e413.
+Atkinson, R.D., 2011. Economic doctrines and network policy. Telecommun. Policy
+35 (5), 413e425.
+Awan, F., Gauntlett, D., 2012. Remote living: exploring online (and offline) experiences
+of young people living in rural areas. Eur. J. Cult. Stud. 16 (1), 3e23.
+Bandias, S., Ram Vemuri, S., 2005. Telecommunications infrastructure facilitating
+sustainable development of rural and remote communities in Northern
+Australia. Telecommun. Policy 29 (2e3), 237e249.
+Belloc, F., Nicita, A., Alessandra Rossi, M., 2012. Whither policy design for broadband
+penetration? Evidence from 30 OECD countries. Telecommun. Policy 36 (5),
+382e398.
+Berg, S.V., Jiang, L., Lin, C., 2011. Incentives for cost shifting and misreporting: US
+rural universal service subsidies, 1991e2002. Inf. Econ. Policy 23 (3e4),
+287e295.
+Birch, K., Cumbers, A., 2010. Knowledge, space, and economic governance: the
+implications of knowledge-based commodity chains for less-favoured regions.
+Environ. Plan. A 42 (11), 2581e2601.
+Boase, J., 2010. The consequences of personal networks for internet use in rural
+areas. Am. Behav. Sci. 53 (9), 1257e1267.
+Bosworth, G., 2010. Commercial counterurbanisation: an emerging force in rural
+economic development. Environ. Plan. A 42 (4), 966e981.
+Briggeman, B.C., Whitacre, B.E., 2010. Farming and the internet: reasons for nonuse.
+Agric. Resour. Econ. Rev. 39 (3), 571e584.
+Brownlee, K., Graham, J.R., Doucette, E., Hotson, N., Halverson, G., 2010. Have
+communication technologies influenced rural social work practice? Br. J. Soc.
+Work 40 (2), 622e637.
+Camagni, R., Capello, R., 2005. ICTs and territorial competitiveness in the era of the
+internet. Ann. Regional Sci. 39 (3), 421e438.
+Cambini, C., Jiang, Y., 2009. Broadband investment and regulation: a literature review.
+Telecommun. Policy 33 (10e11), 559e574.
+Capello, R., Caragliu, A., Nijkamp, P., 2011. Territorial capital and regional growth:
+Increasing returns in knowledge use. Tijdschr. Econ. Soc. Geogr. 102 (4),
+385e405.
+Capello, R., Nijkamp, P., 1996. Telecommunications technologies and regional
+development: Theoretical considerations and empirical evidence. Ann. Regional
+Sci. 30 (1), 7e30.
+Castells, M., 2000. Materials for an exploratory theory of the network society. Br. J.
+Sociol. 51 (1), 5e24.
+Cornford, J., Gillespie, A., 1993. Cable systems, telephony and local economic
+development in the UK. Telecommun. Policy 17 (8), 589e602.
+Cronin, F.J., McGovern, P.M., Miller, M.R., Parker, E.B., 1995. The rural economic
+development implications of telecommunications: evidence from Pennsylvania.
+Telecommun. Policy 19 (7), 545e559.
+Cumming, D., Johan, S., 2010. The differential impact of the internet on spurring
+regional Entrepreneurship. Entrepreneursh. Theory Pract. 34 (5), 857e883.
+Dabinett, G., 2000. Regenerating communities in the UK: getting plugged into the
+information society? Community Dev. J. 35 (2), 157e166.
+Dooris, J., Sotireli, T., Van Hoof, S., 2008. Distant friends online? Rural and urban
+adolescents' communication on the internet. Tijdschr. Econ. Soc. Geogr. 99 (3),
+293e302.
+DiMaggio, P., Hargittai, E., Russell Neuman, W., Robinson, J.P., 2001. Social implications
+of the internet. Annu. Rev. Sociol. 27 (1), 307e336.
+Egan, B.L., 1992. Bringing advanced technology to rural America. Telecommun.
+Policy 16 (1), 27e45.
+Ellershaw, J., Riding, J., Lee, A., Tran, A.V., Guan, L.J., Tucker, R., Smith, T., Stumpf, E.,
+2009. Deployment costs of rural broadband technologies. Telecommun. J. Aust.
+59 (2), 29.1e29.16.
+European Commission, 2013. Communication from the Commission. EU Guidelines
+for the Application of State Aid Rules in Relation to the Rapid Deployment of
+Broadband Networks, 26-1-2013, Brussels.
+European Commission, 2014. Communication from the Commission. Guidance on
+Community-led Local Development in European Structural and Investment
+Funds. June 2014, Brussels.
+Falch, M., Henten, A., 2010. Public private partnerships as a tool for stimulating
+investments in broadband. Telecommun. Policy 34 (9), 496e504.
+Ford, G.S., Koutsky, T.M., 2005. Broadband and economic development: a municipal
+case study from Florida. Rev. Urban & Regional Dev. Stud. 17 (3), 216e229.
+Forman, C., Goldfarb, A., Greenstein, S., 2012. The internet and local wages: a puzzle.
+Am. Econ. Rev. 102 (1), 556e575.
+Forman, C., Goldfarb, A., Greenstein, S., 2005a. Geographic location and the diffusion
+of internet technology. Electron. Commer. Res. Appl. 4 (1), 1e13.
+Forman, C., Goldfarb, A., Greenstein, S., 2005b. How did location affect adoption of
+the commercial Internet? Global village vs. urban leadership. J. Urban Econ. 58
+(3), 389e420.
+Gabe, T.M., Abel, J.R., 2002. Deployment of advanced telecommunications infrastructure
+in rural America: measuring the digital divide. Am. J. Agric. Econ. 84
+(5), 1246e1252.
+Gallardo, R., Scammahorn, R., 2011. Determinants of innovative versus noninnovative
+entrepreneurs in three southern states. Rev. Regional Stud. 41 (2),
+103e117.
+Galliano, D., Roux, P., 2008. Organisational motives and spatial effects in internet
+adoption and intensity of use: evidence from French industrial firms. Ann.
+Regional Sci. 42 (2), 425e448.
+Galliano, D., Roux, P., Filippi, M., 2001. Organisational and spatial determinants of
+ICT adoption: the case of French industrial firms. Environ. Plan. A 33 (9),
+1643e1663.
+Galloway, L., Mochrie, R., 2005. The use of ICT in rural firms: a policy-oriented
+literature review. Info 7 (3), 33e46.
+Gilbert, M., 2010. Theorizing digital and urban Inequalities: critical geographies of
+‘race’, gender and technological capital. Inf. Commun. Soc. 13 (7), 1000e1018.
+Glass, V., Stefanova, S.K., 2012. Economies of scale for broadband in rural United
+States. J. Regul. Econ. 41 (1), 100e119.
+Glass, V., Stefanova, S.K., 2010. An empirical study of broadband diffusion in rural
+America. J. Regul. Econ. 38 (1), 70e85.
+Goddard, J.B., Gillespie, A.E., 1986. Advanced telecommunications and regional
+economic development. Geogr. J. 152 (3), 383e397.
+Goggins, S.P., Mascaro, C., 2013. Context matters: the experience of physical,
+informational, and cultural distance in a rural it firm. Inf. Soc. 29 (2), 113e127.
+Gomez-Barroso, J.L., Feij  oo, C., 2012. Volition versus feasibility: state aid when aid is
+looked upon favourably: the broadband example. Eur. J. Law Econ. 34 (2),
+347e364.
+Greenstein, S., McDevitt, R.C., 2011. The broadband bonus: estimating broadband
+Internet's economic value. Telecommun. Policy 35 (7), 617e632.
+Gripenberg, P., Skogseid, I., Botto, F., Silli, A., Tuunainen, V.K., 2004. Entering the
+european information society: four rural development projects. Inf. Soc. 20 (1),
+3e14.
+Grimes, S., 2005. How well are Europe's rural businesses connected to the digital
+K. Salemink et al. / Journal of Rural Studies 54 (2017) 360e371 369
+economy? Eur. Plan. Stud. 13 (7), 1063e1081.
+Grimes, S., 2003. The digital economy challenge facing peripheral rural areas. Prog.
+Hum. Geogr. 27 (2), 174e193.
+Grimes, S., 2000. Rural areas in the information society: diminishing distance or
+increasing learning capacity? J. Rural Stud. 16 (1), 13e21.
+Grubesic, T.H., 2010. Efficiency in broadband service provision: a spatial analysis.
+Telecommun. Policy 34 (3), 117e131.
+Grubesic, T.H., 2008. The spatial distribution of broadband providers in the United
+States: 1999e2004. Telecommun. Policy 32 (3e4), 212e233.
+Grubesic, T.H., 2006. A spatial taxonomy of broadband regions in the United States.
+Inf. Econ. Policy 18 (4), 423e448.
+Grubesic, T.H., 2003. Inequities in the broadband revolution. Ann. Regional Sci. 37
+(2), 263e289.
+Grubesic, T.H., Murray, A.T., 2004. Waiting for broadband: local competition and the
+spatial distribution of advanced telecommunications services in the United
+States. Growth Change 35 (2), 139e165.
+Gulati, G.J., Yates, D.J., 2012. Different paths to universal access: the impact of policy
+and regulation on broadband diffusion in the developed and developing worlds.
+Telecommun. Policy 36 (9), 749e761.
+Hage, E., Roo, J., Van Offenbeek, M., Boonstra, A., 2013. Implementation factors and
+their effect on e-Health service adoption in rural communities: a systematic
+literature review. BMC Health Serv. Res. 13 (19), 1e16.
+Helsper, E.J., 2012. A corresponding Fields model for the links between social and
+digital exclusion. Commun. Theory 22 (4), 403e426.
+Hilbert, M., 2011. The end justifies the definition: the manifold outlooks on the
+digital divide and their practical usefulness for policy-making. Telecommun.
+Policy 35 (8), 715e736.
+Hite, J., 1997. The Thunen model and the new economic geography as a paradigm
+for rural development policy. Rev. Agric. Econ. 19 (2), 230e240.
+Hollifield, C.A., Donnermeyer, J.F., 2003. Creating demand: influencing information
+technology diffusion in rural communities. Gov. Inf. Q. 20 (2), 135e150.
+Hollifield, A.C., Donnermeyer, J.F., Wolford, G.H., Agunga, R., 2000. The effects of
+rural telecommunications self-development projects on local adoption of new
+technologies. Telecommun. Policy 24 (8e9), 761e779.
+Holt, L., Galligan, M., 2013. Mapping the field: retrospective of the federal universal
+service programs. Telecommun. Policy 37 (9), 773e793.
+Howick, S., Whalley, J., 2008. Understanding the drivers of broadband adoption: the
+case of rural and remote Scotland. J. Operational Res. Soc. 59 (10), 1299e1311.
+Jarvis, D., Dunham, P., Ilbery, B., 2006. Local rural labour markets: enterprising or
+constraining? Local Econ. 21 (2), 151e165.
+Jeffcoat, C., Davis, A.F., Hu, W., 2012. Willingness to pay for broadband access by
+Kentucky farmers. J. Agric. Appl. Econ. 44 (3), 323e334.
+Kandilov, I.T., Renkow, M., 2010. Infrastructure investment and rural economic
+development: an evaluation of USDA's broadband loan program. Growth
+Change 41 (2), 165e191.
+Khatiwada, L.K., Pigg, K.E., 2010. Internet service provision in the U.S. Counties: Is
+spatial pattern a function of demand? Am. Behav. Sci. 53 (9), 1326e1343.
+Kilpelainen, A., Sepp € €
+anen, M., 2014. Information technology and everyday life in
+ageing rural villages. J. Rural Stud. 33, 1e8.
+Kirschner, A.R., 2005. Computer services and the development of rural areas: trends
+in the Pacific Northwest in the 1990s. Soc. Sci. J. 42 (4), 541e554.
+Kolko, J., 2012. Broadband and local growth. J. Urban Econ. 71 (1), 100e113.
+Labrianidis, L., Kalogeressis, T., 2006. The digital divide in Europe's rural enterprises.
+Eur. Plan. Stud. 14 (1), 23e39.
+Laegran, A.S., 2008. Domesticating home anchored work: negotiating flexibility
+when bringing ICT based work home in rural communities. Geoforum 39 (6),
+1991e1999.
+Laegran, A.S., 2002. The petrol station and the internet cafe: rural technospaces for
+youth. J. Rural Stud. 18 (2), 157e168.
+LaRose, R., Gregg, J.L., Strover, S., Straubhaar, J., Carpenter, S., 2007. Closing the rural
+broadband gap: promoting adoption of the internet in rural America. Telecommun.
+Policy 31 (6e7), 359e373.
+LaRose, R., Strover, S., Gregg, J.L., Straubhaar, J., 2011. The impact of rural broadband
+development: lessons from a natural field experiment. Gov. Inf. Q. 28 (1),
+91e100.
+Lengsfeld, J.H.B., 2011. An Econometric analysis of the sociodemographic topology
+of the digital divide in Europe. Inf. Soc. 27 (3), 141e157.
+Lentz, R.G., Oden, M.D., 2001. Digital divide or digital opportunity in the Mississippi
+Delta region of the US. Telecommun. Policy 25 (5), 291e313.
+Lera-Lopez, F., Bill  on-Curr  as, M., 2005. Shortfalls and inequalities in the develop-
+ment of E-Economy in the E.U.-15. Commun. Strategies 60 (4), 181e200.
+Lichter, D.T., Brown, D.L., 2011. Rural America in an urban society: changing spatial
+and social boundaries. Annu. Rev. Sociol. 37, 565e592.
+Lin, M., Wu, F., 2013. Identifying the determinants of broadband adoption by
+diffusion stage in OECD countries. Telecommun. Policy 37 (4e5), 241e251.
+Lindberg, M., Úden, M., 2010. Women, reindeer herding and the Internet: an
+innovative process in northern Sweden. Innovation Eur. J. Soc. Sci. Res. 23 (2),
+169e177.
+Livingstone, S., Helsper, E., 2007. Gradations in digital inclusion: children, young
+people and the digital divide. New Media Soc. 9 (4), 671e696.
+Mack, E.A., Grubesic, T.H., 2009. Forecasting broadband provision. Inf. Econ. Policy
+21 (4), 297e311.
+Madden, G., Savage, S.J., Coble-Neal, G., Bloxham, P., 2000. Advanced communications
+policy and adoption in rural Western Australia. Telecommun. Policy 24 (4),
+291e304.
+Mahasuweerachai, P., Whitacre, B.E., Shideler, D.W., 2010. Does broadband access
+impact migration in America? Examining differences between rural and urban
+areas. Rev. Regional Stud. 40 (1), 5e26.
+Malecki, E.J., 2010. Everywhere? The geography of knowledge. J. Regional Sci. 50 (1),
+493e513.
+Malecki, E.J., 2004. Fibre tracks: explaining investment in fibre optic backbones.
+Entrepreneursh. Regional Dev. 16 (1), 21e36.
+Malecki, E.J., 2003. Digital development in rural areas: potentials and pitfalls.
+J. Rural Stud. 19 (2), 201e214.
+Malecki, E.J., Boush, C.R., 2003. Telecommunications infrastructure in the Southeastern
+United States: urban and rural variation. Growth Change 34 (1),
+109e129.
+Marien, I., Prodnik, J., 2014. Digital inclusion and user (dis)empowerment: a critical €
+perspective. Info 16 (6), 35e47.
+Markantoni, M., Strijker, D., Koster, S., 2014. Motives for starting up a side activity in
+rural areas in the Netherlands. Local Econ. 29 (6e7), 723e739.
+Martínez, D., Rodríguez, J., 2009. New technologies and regional growth: the case of
+Andalucía. Ann. Regional Sci. 43 (4), 963e987.
+Michailidis, A., Partalidou, M., Nastis, S.A., Papadaki-Klavdianou, A., Charatsari, C.,
+2011. Who goes online? Evidence of internet use patterns from rural Greece.
+Telecommun. Policy 35 (4), 333e343.
+Miller, E.A., West, D.M., 2009. Where's the revolution? digital technology and health
+care in the internet age. J. Health Polit. Policy Law 34 (2), 261e284.
+Mills, B.F., Whitacre, B., 2003. Understanding the non-metropolitan-metropolitan
+digital divide. Growth Change 34 (2), 219e243.
+Moon, J., Hossain, M.D., Kang, H.G., Shin, J., 2012. An analysis of agricultural informatization
+in Korea: the government's role in bridging the digital gap. Inf. Dev.
+28 (2), 102e116.
+Morrison, P., 2000. A pilot implementation of internet access for remote aboriginal
+communities in the ‘Top end’ of Australia. Urban Stud. 37 (10), 1781e1792.
+Muhammad, S., Ottens, H.F.L., Ettema, D., De Jong, T., 2007. Telecommuting and
+residential locational preferences: a case study of the Netherlands. J. Hous. Built
+Environ. 22 (4), 339e358.
+Nucciarelli, A., Sadowski, B.M., Achard, P.O., 2010. Emerging models of publiceprivate
+interplay for European broadband access: evidence from the
+Netherlands and Italy. Telecommun. Policy 34 (9), 513e527.
+Ofcom, 2014. UK Fixed-Line Performance: The Performance of Fixed-line Broadband
+Delivered to UK Residential Consumers. November 2014, online publication.
+O‘Hara, K., Stevens, D., 2006. Inequality.com. Oneworld Oxford, Oxford.
+Oyana, T.J., 2011. Exploring geographic disparities in broadband access and use in
+rural southern Illinois: who's being left behind? Gov. Inf. Q. 28 (2), 252e261.
+Park, Y., 2008. The missing gap between internet use and benefits: seniors' limited
+internet experiences and social marginalization. Dev. Soc. 37 (1), 97e115.
+Peronard, J., Just, F., 2011. User motivation for broadband: a rural Danish study.
+Telecommun. Policy 35 (8), 691e701.
+Prieger, J.E., 2013. The broadband digital divide and the economic benefits of mobile
+broadband for rural areas. Telecommun. Policy 37 (6e7), 483e502.
+Ragoobar, T., Whalley, J., Harle, D., 2011. Public and private intervention for nextgeneration
+access deployment: possibilities for three European countries. Telecommun.
+Policy 35 (9e10), 827e841.
+Ramírez, R., 2007. Appreciating the contribution of broadband ICT with rural and
+remote communities: stepping stones toward an alternative paradigm. Inf. Soc.
+23 (2), 85e94.
+Ramírez, R., 2003. Bridging disciplines: the natural resource management kaleidoscope
+for understanding ICTs. J. Dev. Commun. 14 (1), 51e64.
+Ramırez, R., 2001. A model for rural and remote information and communication
+technologies: a Canadian exploration. Telecommun. Policy 25 (5), 315e330.
+Rennie, E., Crouch, A., Wright, A., Thomas, J., 2013. At home on the outstation:
+barriers to home internet in remote indigenous communities. Telecommun.
+Policy 37 (6e7), 583e593.
+Roberts, E., Townsend, L., 2015. The contribution of the creative economy to the
+resilience of rural communities: Exploring cultural and digital capital. Sociol.
+Rural. http://dx.doi.org/10.1111/soru.12075. Advance online publication.
+Rogers, E.M., 2003. Diffusion of Innovations. Free Press, New York.
+Rubinoff, D.D., 2005. Life histories in cyberspace: life writing as a development tool
+for rural women. Geoforum 36 (1), 59e75.
+Sadowski, B.M., Nucciarelli, A., De Rooij, M., 2009. Providing incentives for private
+investment in municipal broadband networks: evidence from the Netherlands.
+Telecommun. Policy 33 (10e11), 582e595.
+Sellitto, C., Burgess, S., 2005. A government-funded internet portal as a promoter of
+regional cluster relationships: a case study from the Australian wine industry.
+Environ. Plan. C 23 (6), 851e866.
+Simpson, L., Daws, L., Pini, B., Wood, L., 2003. Rural telework: case studies from the
+Australian outback. New Technol. Work Employ. 18 (2), 115e126.
+Simpson, L., Daws, L., Pini, B., 2004. Public internet access revisited. Telecommun.
+Policy 28 (3e4), 323e337.
+Skerratt, S., 2010. Hot spots and not spots: addressing infrastructure and service
+provision through combined approaches in rural Scotland. Sustainability 2 (6),
+1719e1741.
+Skerratt, S., Farrington, J., Heesen, F., 2012. Next generation broadband in rural
+Scotland: Mobilizing, meeting and anticipating demand. In: Rural Scotland in
+Focus Report 2012. SRUC Rural Policy Centre Publications, pp. 70e85 web
+version, accessed on 08-05-2013.
+Steele, R., Lo, A., 2013. Telehealth and ubiquitous computing for bandwidthconstrained
+rural and remote areas. Personal. Ubiquitous Comput. 17 (3),
+370 K. Salemink et al. / Journal of Rural Studies 54 (2017) 360e371
+533e543.
+Stern, M.J., Adams, A.E., 2010. Do rural residents really use the internet to build
+social capital? an empirical investigation. Am. Behav. Sci. 53 (9), 1389e1422.
+Stern, M.J., Adams, A.E., Boase, J., 2011. Rural community participation, social networks,
+and broadband use: examples from localized and national survey data.
+Agric. Resour. Econ. Rev. 40 (2), 158e171.
+Stockdale, A., MacLeod, M., 2013. Pre-retirement age migration to remote rural
+areas. J. Rural Stud. 32, 80e92.
+Strover, S., 2003. The prospects for broadband deployment in rural America. Gov.
+Inf. Q. 20 (2), 95e106.
+Strover, S., 2001. Rural internet connectivity. Telecommun. Policy 25 (5), 331e347.
+Strover, S., Chapman, G., Waters, J., 2004. Beyond community networking and CTCs:
+access, development, and public policy. Telecommun. Policy 28 (7e8),

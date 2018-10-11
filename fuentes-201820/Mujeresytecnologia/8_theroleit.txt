@@ -1,0 +1,861 @@
+The role of IT literacy in defining digital divide policy needs
+Enrico Ferro a,
+⁎, Natalie C. Helbig b
+, J. Ramon Gil-Garcia c
+a Istituto Superiore Mario Boella (ISMB), Italy
+b Center for Technology in Government/SUNY Albany, USA
+c Centro de Investigación y Docencia Económicas, Mexico
+article info abstract
+Available online 3 November 2010
+Keywords:
+Digital divide
+IT literacy
+Policy
+ICT Governance
+This article expands our current understanding of the digital divide by examining differences in individuals' IT
+skills acquisition. In the last two decades scholars have gradually refined the conceptualization of the digital
+divide, moving from a dichotomous model mainly based on access, to a multidimensional model accounting for
+differences in usage levels and actors' perspectives. Digital divide views tend to focus on groups of users and
+user characteristics and focus less on different processes of use. As models of the digital divide became more
+complex, research focused on deepening the understanding of demographic and socioeconomic differences
+between adopters and non-adopters. While IT literacy is an important factor in digital divide research, and
+studies examine user characteristics with respect to IT literacy, few studies make the process of basic IT literacy
+acquisition their main focal point (Selwyn, 2005). This perspective furthers our thinking by expanding the
+notion of user characteristics beyond demographic and socioeconomic differences to differences in the
+processes leading to internet use. Based on a dataset referring to an Italian region, this paper presents a
+metaphorical interpretation of the digital divide in general and explores the process of IT skills acquisition in
+particular. Our analysis shows the key role of self-learning and the presence of three distinct approaches in IT
+skills acquisition leading to different needs in terms of policy. We argue that these preliminary results are a
+useful starting point for the design of more effective and sophisticated digital inclusion policies.
+© 2010 Elsevier Inc. All rights reserved.
+1. Introduction
+In his bestseller The World Is Flat, Thomas Friedman, columnist for
+the New York Times, argued that in the year 2000 the world entered a
+new era of globalization spearheaded by “individuals globalizing”. In
+stressing the key role played by individuals, whom he characterized as
+dynamic agents in information-based economies, Friedman's analysis
+adds an interesting perspective to the framing of digital divide
+debates. As a “public policy problem” the digital divide shifts from a
+matter of pure social inequality to a matter of strategic importance in
+a global race for competitiveness (Drori & Jang, 2003). At present, the
+different patterns of globalization that individuals pursue are still
+vague and surely require further investigation. Nevertheless, it seems
+reasonable to suggest that worldwide access to people and information/knowledge
+are two potentially key ingredients within globalization
+processes. From a policy standpoint, the emphasis placed on the
+importance of a single information space for the creation of an
+inclusive information society in the i2010 European Strategic Plan
+seems to support this thesis. In the Plan, the use of information and
+communications technologies (ICTs) underpins the social and
+economic progression of nation-states throughout the first stages of
+the twenty-first century (Selwyn, 2003). The ability to use ICTs and
+work with information may therefore be considered “the indispensable
+grammar of modern life” and a fundamental aspect of citizenship
+in the prevailing information age (Wills, 1999).
+The aim of this paper is to look into the process of IT skills
+acquisition in order to provide policy makers with new and refined
+perspectives on the digital divide in an attempt to effectively shape
+and frame inclusion policies or e-Government services. The article is
+structured in seven sections including these introductory comments.
+The second section briefly reviews relevant literature on the digital
+divide. Section 3 presents the research design and methods used in
+this paper. Section 4 provides evidence on the importance of IT skills
+for internet access and use and presents an illustrative classification of
+internet users (including non-users). The fifth section lays out a digital
+divide metaphor and provides a simplified yet practical representation
+of reality to policy makers based on the empirical evidence
+presented in this paper. Section 6 provides a socioeconomic
+description of user types, while the last section includes some
+concluding remarks and a discussion of important policy implications.
+We are aware of the simplification effort behind the metaphor
+presented in this paper, but we think it has an important practical
+value for policy makers and other actors interested in understanding
+and designing policies related to this phenomenon. Implicitly, many
+digital divide policies conceptualize the phenomenon in a simplistic
+Government Information Quarterly 28 (2011) 3–10
+⁎ Corresponding author.
+E-mail addresses: ferro@ismb.it (E. Ferro), nhelbig@ctg.albany.edu (N.C. Helbig),
+joseramon.gil@cide.edu (J.R. Gil-Garcia).
+URL: http://www.enricoferro.com (E. Ferro).
+0740-624X/$ – see front matter © 2010 Elsevier Inc. All rights reserved.
+doi:10.1016/j.giq.2010.05.007
+Contents lists available at ScienceDirect
+Government Information Quarterly
+journal homepage: www.elsevier.com/locate/govinf
+way and, therefore, many of these policies do not attempt to target
+specific citizen groups in ways that take into consideration some
+important differences among them. This paper is a first step towards
+recognizing some of these differences in terms of IT literacy and the
+acquisition process, as well as the role of IT literacy in the definition of
+better and more targeted digital divide policies.
+2. Digital divide and IT literacy
+The digital divide is the study of the relationship between
+information and communication technologies (ICTs) and groups of
+individuals, who are situated within a complex arrangement of social,
+environmental, political, and economic issues (Gil-Garcia, Ferro, &
+Helbig, 2006). Information Technology (IT) literacy is seen as both a
+determinant of the digital divide and as a divide itself.
+The following section briefly outlines the viewpoints and assumptions
+taken by different authors. The last 15 years yielded three main
+approaches to understanding the digital divide: access digital divide,
+multi-dimensional digital divide, and multi-perspective digital divide.
+During that time, IT skills and information literacy research evolved
+(Warschauer, 2003; Hargittai, 2002a, 2009; Ferro, Dwivedi, GilGarcia,
+& Williams, 2009); focusing on the development of the
+concept, ways to measurement it, and its impact on the digital divide.
+2.1. The digital divide as a simple dichotomous phenomenon: The role of
+IT literacy
+A dichotomous view of the digital divide assumes that it is a simple
+separation between ‘haves’ and ‘have nots’; the ‘haves’ have access to
+computers and the internet and the ‘have nots’ do not. The focus is on
+understanding an individual's access to technology, and not the
+complexity of individual use. Scholars have argued that a divide, if it
+exists at all, is solely because of an ‘access to technology problem’ and
+they subsequently frame the debate as an inherent delay in the
+diffusion of technology among different geographic areas and social
+groups (Adriani & Becchetti, 2003; Compaine, 2001). A dichotomous
+view of the digital divide tends to neglect the influence of IT literacy
+and its impact on access.
+2.2. The digital divide as a multi-dimensional phenomenon: The role of IT
+literacy
+A multi-dimensional conceptualization views the digital divide as
+emerging from a number of endogenous and exogenous factors. This
+view challenges the simple access dichotomy and assumes access to be
+‘almost a given’ (Servon, 2002; Norris, 2001; Ferro, Gil-Garcia, & Helbig,
+2008; Dewan & Riggins, 2005). The focus is on individuals and their use
+of information technology. IT literacy is an important, and frequently
+included, dimension in digital divide theoretical and statistical models
+(Bélanger & Carter, 2009; Van Dijk & Van Deursen, 2009).
+IT literacy is also described as a multi-dimensional phenomenon.
+Some scholars focus on definitions (Mossberger, Tolbert, & Stansbury,
+2003) and measurement (Hargittai, 2002b, 2009; Van Dijk & Van
+Deursen, 2009; Van Dijk, 2005), while others focus on understanding
+the IT literacy divide specifically (Hargittai, 2002a; Mossberger et al.,
+2003). Mossberger et al. (2003) described IT skills as the knowledge
+and skills needed to use IT effectively, highlighting the need for both
+technical competencies (e.g., skills needed to operate hardware and
+software) and information literacy (e.g., the ability to recognize when
+information use can solve a problem).
+2.3. The digital divide as a multi-perspective phenomenon: The role of IT
+literacy
+Some scholars have begun re-theorizing technology's relationship
+with race, gender, and culture (Castells, 2001; Kennedy, Wellman, &
+Klement, 2003; Warf, 2001). A multi-perspective or emergent view
+rejects that any one group of individuals inherently uses technologies
+differently than the majority, but “recognize[s] that individuals and
+communities employ technologies for very specific goals, linked often
+to their histories and social locations” (Hines, Nelson, & Tu, 2001, p. 5).
+These scholars argue “barriers to access operate on many levels and
+therefore solutions must take multiple approaches” (Hines et al.,
+2001, p. 5). For example, Dholakia (2006) found that while gross
+differences between genders in internet use have narrowed, the
+issues of “gendered patterns of computer and internet use will emerge
+and diverge in different cultures and societies based on their
+particular construction of gender roles” (p. 239). Scholars call for
+redefining and reframing the concept of the digital divide in public
+discourse and argue that policy solutions need to be developed based
+on this conceptual redirection (Helbig, Gil-Garcia, & Ferro, 2009).
+Likewise, viewing IT literacy from a multi-perspective view opens
+up the possibility to examine more closely the acquisition patterns of
+IT literacy. IT literacy researchers suggest that the idea of literacy is
+complex (Bawden, 2008; Selwyn, 2005; Warschauer, 2003) and
+cannot be reduced to a simple set of discrete behaviors or skills.
+Warschauer (2003) argues for understanding literacy “as a set of
+social practices rather than a narrow cognitive skill” (p. 43).
+Understanding IT literacy as embedded within the social, political,
+and environmental contexts fits a multi-perspective approach.
+Some scholars have studied the importance of IT literacy for
+internet access and internet use, but few examine the process of basic
+IT skills acquisition and policy development. We argue that understanding
+the process, including both informal and formal learning
+(Selwyn, 2005), is essential for the design of effective inclusion
+policies. That is why this analysis will be aimed not only at testing the
+importance of IT literacy for internet access and use, but also at casting
+some light on the different patterns of IT skills acquisition.
+3. Research design and methods
+The empirical analysis presented in this paper is based on a
+longitudinal data set made available by the ICT Observatory of the
+Piedmont Region in Italy that annually conducts CATI surveys on the
+diffusion, use and impact of ICT among the citizenry on samples of
+over 2000 individuals. The total population of the region is 4.3 million
+inhabitants. The samples used in this paper were taken from a
+database provided by the Italian National Statistical Institute (ISTAT)
+whose data refer to the last periodical census carried out in 2001.
+Thus, people without a fixed phone line are not represented in the
+samples. The stratified samples were created using a differentiated
+probability approach in order to over-represent segments with a
+higher variance in terms of technology adoption and usage (i.e., young
+versus older people). The variables adopted for the stratification of the
+samples were: age, gender, and size of town of residence. Following
+the guidelines provided by the European Statistical Institute, people
+less than 16 years old were excluded from the sample.
+Respondents were asked questions about computer ownership,
+internet access, and internet use. In particular, the concept of basic
+IT literacy (Mossberger et al., 2003) has been operationalized in the
+surveys as the ‘ability to use a computer and internet for
+information search and email exchange’. Relevant individual
+demographics and household characteristics were also collected.
+The main analytical tools used for the analysis and interpretation of
+data are multiple linear regression models, hierarchical cluster
+analysis, and cross tabulations. The inclusion of multivariate
+techniques contributed to increase the robustness of the results
+and to reduce the risk of exposure to misinterpretations deriving
+from the use of simple bivariate analyses, as highlighted by Vehovar,
+Sicherl, Husing, and Dolnicar (2006) in their methodological study
+on digital divide.
+4 E. Ferro et al. / Government Information Quarterly 28 (2011) 3–10
+4. Analysis and discussion
+The next subsections have two main purposes. The first set of analyses
+applies two of the three approaches presented in the digital divide
+literature review section to the phenomenon of internet access and
+internet use: (1) the access divide model and (2) the multi-dimensional
+divide model. It provides evidence of the importance of some factors as
+determinants of internet access, as well as evidence regarding the
+importance of internet access as one of the determinants of the extent of
+internet use. The second section uses cluster analysis to uncover how
+individuals are learning IT literacy skills and associated experience
+(Hargittai, 2010). This clustering is exploratory, but provides a jumping
+off point to illustrate the potential range of processes which result when
+viewing IT literacy through a multiple perspective lens. A multiple
+perspective lens does not privilege any one user characteristic; this leaves
+room for determining how individuals acquire IT literacy from their own
+primary vantage point. Viewing IT literacy as a process, rather than as a
+static skills set, the analysis illustrates how policy makers can create
+policies aimed at promoting IT skills acquisition. Together these two
+subsections highlight the importance of internet access and internet use
+and suggest some areas for future exploration.
+4.1. Internet access, internet use, and IT literacy
+Using multiple regression analysis, this section provides empirical
+evidence regarding the importance of IT skills on internet access and
+internet use. The statistical analysis follows the most important ideas
+of the access model and the multi-dimensional model characterized in
+the literature review section of this paper. Table 1 presents the results
+of our application of both models and uses the number of devices for
+internet access as a dependent variable.1 Income is positively
+associated with internet access, which is not surprising, since people
+need money to buy the necessary devices to access the internet. Age is
+significantly associated with internet access, but in the access divide
+model the relationship is negative and in the multi-dimensional
+model it is positive. That is, as a general trend, older people tend to
+have a smaller number of devices to access the internet. However,
+once controlling for PC use, IT literacy, household size, and occupation,
+older people seem to have a greater number of devices. This seems to
+suggest that once older people accept technology and have the
+necessary skills, they tend to have more devices to access and use the
+internet. This might be because they have the time and money
+necessary to buy these new devices. In addition, education and
+attitude towards computers are positively associated with internet
+access. Therefore, people with more formal education and with a
+positive attitude towards computers and related technologies tend to
+have more devices to access the internet. Finally, being female is
+negatively associated with internet access (measured as the number
+of devices to access the internet). That is, in general terms and as a
+trend, females have a smaller number of devices to access the internet
+than males.
+Several variables related to the multi-dimensional divide model
+were found to be important determinants. Speaking English is
+positively associated with internet access. This may be because
+many of the internet websites have content in English only;
+individuals who do not speak English have fewer incentives for
+accessing the internet than individuals who do speak English. Having
+a PC at home and individual use of a PC are positively associated with
+internet access. This is generally expected. The logic is that individuals
+that have a PC at home and use it for other activities will use it at some
+point to access the internet. Employment status is a significant
+determinant of internet access. Employed individuals have significantly
+less access to the internet than students, which was our
+referent variable for this set of dummy variables.
+Finally, basic IT literacy is positively associated with internet
+access. This is important because in order to access the internet an
+individual needs to have basic IT literacy. Having IT literacy is a
+necessary, but not a sufficient, condition for internet access and use.
+Individuals should also have an incentive to access and use the
+internet. Overall, there was an improvement in adjusted R2 from 0.403
+to 0.575.
+Table 2 presents the results of three models using the extent of
+internet use as the dependent variable. The extent of use is
+operationalized as the number of activities an individual performs
+using the internet. The first regression model is based purely on the
+access divide view; it considers internet access as the only relevant
+factor affecting internet use directly. The second model includes the
+factors mentioned in the access divide view, but tests direct relationships
+from all of them to internet use. Finally, the third model
+incorporates additional variables related to the multi-dimensional
+divide view, including IT literacy.
+Overall, there is an improvement in adjusted R2
+, which went from
+0.371 in the access divide model to 0.560 in the multi-dimensional
+divide model. As expected, internet access is positively associated
+with internet use and the most important factor in all specifications.
+Income is positively associated with internet use in the extended
+access divide model, but becomes statistically insignificant once
+controlling for other variables. It seems that the impact of income on
+internet use is indirect and once we incorporate the variables that are
+the authentic direct influences to the model income becomes
+statistically insignificant. Variables such as access to a PC at home,
+level of IT literacy, and occupation appear to have income as their
+underlying influence. Age is negatively associated with internet use.
+The younger an individual is the more he or she uses the internet.
+Education and attitude towards computers are positively associated
+with internet use. The effect of formal education on internet use is
+greater and more statistically significant than its effect on internet
+Table 1
+Determinants of internet access (number of devices).
+Independent variables Access divide model Multi-dimensional
+divide model
+Constant −0.343** (−2.232) −0.217 (−1.537)
+Income b0.001*** (7.675) b0.001*** (3.813)
+Age −0.009*** (−10.483) 0.002* (1.776)
+Education 0.174*** (8.139) 0.033* (1.700)
+Attitude towards computers 0.093*** (9.705) 0.038*** (4.450)
+Nationality (Italian= 1) 0.164 (1.603) 0.028 (0.319)
+Location (Town= 1) 0.079 (1.290) 0.031 (0.593)
+Location (Village= 1) 0.049 (0.803) 0.013 (0.240)
+Gender (Female= 1) −0.109*** (−3.860) −0.047* (−1.916)
+Other language (English) 0.120*** (3.966)
+PC at home 0.105*** (3.191)
+PC use 0.630*** (16.756)
+IT skills 0.083*** (2.685)
+Household size 0.003 (0.235)
+Occupation (Employee= 1) −0.258*** (−4.744)
+Occupation (Self employed= 1) −0.264*** (−4.070)
+Occupation (Unemployed= 1) −0.231*** (−3.101)
+Occupation (Other= 1) −0.338*** (−5.132)
+R2 0.407 0.580
+Adjusted R2 0.403 0.575
+F-statistic 115.712*** 108.750***
+Note: T-statistics are in parentheses under coefficient values. Those coefficients
+followed by * are significant at the 10% level, those followed by ** are significant at
+the 5% level, and those followed by *** are significant at the 1% level.
+1 The overarching study operationalized Internet access in several ways, from a
+dichotomous variable representing whether a respondent indicated he or she had
+access to the Internet, to the number of locations in which she or he had access, to the
+number of devices she or he used to access the Internet. We think that this later
+measure is interesting, because it shows different alternatives that a single person
+could have for accessing the Internet as a continuum, instead of a dichotomy. We think
+that this representation has some important advantages, especially the fact that access
+could be seen as more than having or not having Internet access and it is, at least in
+part, a matter of individual choice.
+E. Ferro et al. / Government Information Quarterly 28 (2011) 3–10 5
+access. Using the internet for several activities seems to involve not
+only IT literacy, but also a level of formal education that allows the
+individuals to understand the possibilities of the internet and to use it
+meaningfully. Finally, being a female is negatively associated with
+internet use.
+Similar to internet access, there were several variables related to
+the multi-dimensional divide that were significantly associated to
+internet use. For example, speaking English was positively associated
+with internet use. As with internet access, the explanation of this
+result could be related to the fact that most content available in
+websites is still in English and, therefore, there are some activities that
+are only available to individuals if they know how to speak English.
+Having a PC at home was negatively associated with internet use. This
+result could seem surprising, but it may be just an indication that, in
+contrast to internet access, for internet use having a PC at home is not
+an important factor, because people can have access in other
+locations. Finally, basic IT skills were positively associated with the
+extent of internet use. For internet use, it seems clear that, similar to
+internet access, IT literacy is even more important than other factors.
+In order to perform more activities using the internet, individuals
+need to know more about how to use a computer and how to use the
+internet in terms of IT literacy (specifically technical skills) (Mossberger
+et al., 2003).
+In summary, it seems clear that basic IT literacy is an important
+determinant of internet access and internet use and that it is
+positively associated with both. That is, basic IT literacy significantly
+increases the likelihood of greater internet access and greater extent
+of internet use. Since, not everybody has the same level of skills, for
+research and practical purposes, it is important to understand the
+differences and similarities among internet users. Using hierarchical
+cluster analysis and cross-tabulations, the following section provides
+the empirical foundation for a preliminary classification of internet
+users (including non-users). User typologies are one way to examine
+which people conduct what types of activities online (Hargittai &
+Hinnant, 2008).
+4.2. IT literacy acquisition and internet use
+The aim of this section is to develop a user typology that examines
+differences between users based on internet use and preferences for
+acquiring IT skills. Hierarchical cluster analysis and cross tabulations
+were used to examine internet usage levels, purpose of use, and
+acquisition of basic IT skills and their evolution over time. The
+analyses presented in the first three subsections were conducted on
+the 2004 dataset, while the last subsection shows the dynamics of the
+phenomenon in the 4 years following (2004–2008).
+4.2.1. Internet usage levels
+The first cluster analysis takes into account different levels and
+types of internet usage (or experience). Interviewees were asked if
+they used the internet and what applications they used (motivation).
+The analysis highlighted the presence of three clusters (see Fig. 1).
+The first cluster was labeled non/sporadic users (51%) since
+respondents exhibited ‘a lack of’ or ‘very limited use’ of the internet.
+The second cluster was labeled as periodic users (25%) since
+respondents showed more regular usage, mainly information
+searches and email exchange. Finally, the last cluster was defined as
+regular users (24%) since respondents made use of a much wider
+range of internet applications (i.e. videoconferencing, VoIP, eshopping,
+blogging and auctions).
+These results provide an indication of the diversity of users and the
+range of usage levels, regardless of demographic or socioeconomic
+factors. Nevertheless, they do not provide insights as to what the
+determinants of these differences are. For this reason, a second cluster
+analysis was conducted to subsequently cross the results of both
+analyses.
+4.2.2. Purpose of internet use
+The second cluster analysis focused on the purposes, or motivations,
+driving internet use. Respondents were asked to list the main
+purposes for which they used the internet. In the population
+considered, two clusters were identified. Cluster 1 (about 80% of the
+population) and Cluster 2 (about 20% of the population). Interestingly
+enough, the discriminating variable determining whether a respondent
+belonged to one or the other group was the use of internet for
+leisure.
+Fig. 2 shows a breakdown of the four main purposes of use by
+cluster. Although the data presented focuses on the purpose of use
+and not on the level of enjoyment generated by the use of technology,
+it seems reasonable to assert that a portion of the population (cluster
+2) does not appear to perceive internet technologies as a potential
+Fig. 1. Internet usage levels.
+Table 2
+Determinants of internet use (extent of use).
+Independent
+variables
+Access divide
+model
+Access divide model
+(extended)
+Multi-dimensional
+divide model
+Constant 0.376***
+(6.545)
+−0.824* (−1.650) −0.229 (−0.434)
+Internet access 2.929***
+(35.882)
+1.842*** (16.408) 1.347*** (7.183)
+Income b0.001*** (2.881) b0.001 (1.555)
+Age −0.023*** (−7.644) −0.013*** (−3.194)
+Education 0.550*** (7.801) 0.369*** (5.035)
+Attitude towards
+computers
+0.253*** (7.906) 0.221*** (6.999)
+Nationality
+(Italian= 1)
+0.276 (0.831) 0.175 (0.543)
+Location (Town= 1) 0.050 (0.249) 0.057 (0.294)
+Location (Village=1) −0.012 (−0.060) 0.031 (0.162)
+Gender (Female=1) −0.554*** (−5.980) −0.449*** (−4.926)
+Other language
+(English)
+0.539*** (4.785)
+PC at home −0.271* (−1.659)
+IT skills 0.238** (2.059)
+Household size −0.060 (−1.354)
+Occupation
+(Employee= 1)
+−0.256 (−1.254)
+Occupation
+(Self employed= 1)
+−0.391 (−1.603)
+Occupation
+(Unemployed= 1)
+−0.440 (−1.579)
+Occupation (Other=1) −0.667*** (−2.702)
+R2 0.371 0.532 0.566
+Adjusted R2 0.371 0.528 0.560
+F-statistic 1287.531*** 168.124*** 113.923***
+Note: T-statistics are in parentheses under coefficient values. Those coefficients
+followed by * are significant at the 10% level, those followed by ** are significant at
+the 5% level, and those followed by *** are significant at the 1% level.
+6 E. Ferro et al. / Government Information Quarterly 28 (2011) 3–10
+source of leisure or entertainment. In other words, they do not seem
+to derive as much pleasure from using these technologies.
+By crossing the results obtained from the two cluster analyses
+conducted so far, some interesting results emerge. Fig. 3 shows a clear
+trend may be identified between sporadic internet use and lack of
+pleasure derived from using technology for leisure purposes. This
+constitutes initial evidence that the presence of different attitudes/
+approaches to technology may lead to different usage levels. From a
+policy standpoint, it goes without saying that being able to
+understand and account for the presence of different attitudes/
+approaches to technology represents a key ingredient for the creation
+of more effective inclusion measures.
+4.2.3. Basic IT literacy acquisition
+The final part of the analysis focused on basic IT literacy
+acquisition. In particular, interviewees were asked how they learned
+to use personal computers and the internet. From the results
+presented in Fig. 4, two main considerations are explored. First, a
+good portion of IT literacy acquisition appears to occur through an
+informal process of learning by doing. This result is suggested by the
+important role played by the self-learning process (present in nearly
+60% of respondents) and is consistent with other similar research
+findings (Selwyn, 2005; Van Dijk, 2005) The prominence of selflearning
+is not specific to the geographical area considered but may be
+found across Europe as well (Van Dijk & Van Deursen, 2009). For
+example, the data published on Eurostat's website concerning e-skills
+shows that the percentage of individuals obtaining IT skills through
+formalized training in educational institutions is as low as 20%
+(Eurostat, 2006). The second consideration regards the fact that basic
+IT literacy is mainly acquired at school or in the workplace.
+Fig. 5 cross-analyzes the answers about literacy acquisition with
+the results obtained from the first cluster analysis, and reveals that
+self-learning emerged as a common characteristic for both regular and
+periodic users. For sporadic users, the presence of self-learning
+persists, but with a significantly lower importance. This suggests that
+participation in formal training courses may be an appropriate way to
+overcome the initial inertia that prevents non-users from embarking
+on the learning process leading to the acquisition of IT skills. Such
+results offer useful insight into the design of more effective and better
+targeted policies aimed at reducing different types of digital divides.
+4.2.4. The evolution over time
+The final part of the analysis was aimed at providing some insights
+into how the situation in terms of users/non-users distribution
+evolved over time. For this reason, the first cluster analysis on
+internet usage was carried out on a set of data collected for the next
+4 years (2005–2008).
+By looking at the evolution of the distribution of user types a few
+interesting results emerge (see Fig. 6). While in 2004 such distribution
+showed a negative slope (dashed line), a difference in the migration
+rate from periodic users to regular users and from sporadic users to
+periodic users has gradually lead to a “U” shaped distribution in
+society. This indicates an initial polarization of society, particularly
+between non/sporadic users and regular users.
+The identified trend may constitute a possible illustration of the
+impact of technology as trend amplifier (Van Dijk, 1999, pp. 153-154).
+The above considerations suggest the need for careful reflection if we
+Fig. 2. Purpose of internet use by cluster.
+Fig. 3. Level of entertainment use by cluster.
+Fig. 4. Process of IT skills acquisition.
+Fig. 5. Proportion of self-learning preferences by type of user.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Non/sporadic users Basic users Advanced users
+Basis: All Respondents
+2004 2005 2006 2007 2008
+Fig. 6. Evolution of user types distribution.
+E. Ferro et al. / Government Information Quarterly 28 (2011) 3–10 7
+are to understand the reasons behind such a polarization process and
+how it may be reduced. The use of the digital divide metaphor
+presented in the next section intends to be a first step in this direction.
+5. A digital divide user typology: The athletes, the laid-back, and
+the needy
+From the analysis carried out, the acquisition of basic IT skills
+emerged as mainly occurring through a process of “self-learning”
+(learning by doing). The process of skills acquisition is in fact usually
+triggered by either an interest in technology or by a constraint/
+requirement posed by school or at work. For this reason we compared
+the acquisition of basic IT skills to the act of climbing a set of stairs, in
+which the first step is in relative terms higher than the others. Going
+up and down the stairs is an action that has to be carried out alone and
+the people that do it may be divided in three groups: (1) athletes, (2)
+laidback, and (3) needy.
+5.1. The athletes
+These are the people that climb stairs mainly because they enjoy
+exercising and being fit. These are technophiles; they are very keen on
+technology and usually have an innovator or early adopter behavior
+because of the pleasure and other benefits they extract from using
+technology. These benefits justify the learning costs that they have to
+bear to keep their skill set up to date. Athletes extensively use the
+internet in both their professional as well as their private daily life. To
+a certain extent, they should not be a concern for policy-makers since
+they enjoy keeping the pace with technological evolution and change
+and thus they do not need any kind of external incentive.
+5.2. The laidback
+People in this category have the physical ability to climb the stairs;
+nevertheless, they are reluctant to do it. In other words, they have the
+necessary intellectual capacity to acquire IT skills on their own, but do
+not have sufficient incentives to do it. This may be attributed to a lack
+of clarity about the potential benefits or to the fact that learning costs
+far exceed the perceived benefits. They thus adopt a minimum effort
+approach that results in a very basic use of the internet (mainly
+information search and email exchange). These people in terms of
+Rogers (1962) could be classified as “early-late majority”. Their
+adoption may be accelerated by policy makers through two levers.
+The first one is an incentive lever—policy makers could explain to
+these people (through sensitization activities such as communication
+campaigns, conferences, etc.) what benefits could be enjoyed by
+climbing the stairs (i.e.: there is a cake waiting for you at the end of
+the stairs). The other policy that could be used is a “coercive” measure,
+which can foster the wide diffusion of IT requirements in school and in
+the workplace (i.e., to ask teachers to require that students increase
+their use of PCs to complete work).
+5.3. The needy
+These people, regardless of their willingness to climb the stairs, do
+not have the physical capacity to climb the first step (the highest) and
+need external help. That is, even when they may be willing to use the
+internet in their daily life, they lack the basic IT skills and cultural
+background to win the initial inertia for starting using it in meaningful
+ways. What is important to stress is that the external help needed by
+this group of people will mainly serve to overcome the first step of the
+staircase. In fact, similar to the other categories, their learning process
+is characterized by significant self-learning.
+We are aware of the fact that the profiles included in the above user
+typology do not constitute an exhaustive representation of the nuances
+of user profiles and policy needs present in society. Nevertheless we are
+convinced that it provides a reasonable heuristic. As a matter of fact, the
+design of public policies requires a process of problem simplification in
+order to identify few effective measures. The metaphor should be
+interpreted as a first attempt to represent an issue whose complexity
+often makes it difficult to be communicated and manipulated. Despite
+the room for improvement and refinement, the metaphor offered may
+represent a valuable tool to be used for framing the problem and finding
+possible solutions. This is due to the fact that the definition of three
+different profiles in terms of policy needs provides a more adherent yet
+manageable representation of reality. Research needs to be done to
+determine the possible range of policy levers that can be used to address
+the issues associated with different patterns of IT skills acquisition.
+Further research and investigation will help flesh out the right mix and
+balance of policy solutions.
+6. Viewing usage level and types through a traditional digital
+divide lens
+Traditional digital divide literature privileges demographic and
+socioeconomic factors as the main determinants of the divide (e.g.,
+gender divide, income divide, etc.). The aim of this section is to
+examine the socioeconomic characteristics of the three types of users
+identified above. In order to do so, some descriptive statistics have
+been inserted in order to cross different users' types with the main
+socio-economic variables.
+In terms of geographical dispersion, the data show a higher
+concentration of advanced users in urban areas (see Fig. 7). This
+represents an important piece of information for both policy makers
+aiming at stimulating demand for ICT related services and telecom
+carriers considering infrastructure investments in rural areas. Being
+aware of such heterogeneity in distribution may allow for the creation
+of more effective policies and more accurate estimates of the latent
+demand present in areas not yet reached by broadband infrastructure.
+As far as education and income are concerned, the graphs in Fig. 8
+show a clear positive correlation. As a matter of fact, the percentage of
+wealthy, educated people increases with usage sophistication. It
+would be interesting to determine what the causal relationship
+between the variables considered might be; whether the presence of
+IT skills leads to higher education levels and salaries or vice-versa.
+Although answering this question may prove to be difficult, some
+preliminary indications may be found in Fig. 9 The chart depicts the
+relationship between internet users' types and employment status.
+A high level of computer literacy does not seem to be a sufficient
+condition to produce a marked increase in the chances of finding a job.
+As it may be noticed from the graph, the percentage of unemployed
+people does not vary significantly among different user types. A
+reduction is present between non-users and basic users, but the
+percentage of unemployed people increases among advanced users.
+This is an important indication for policy makers, since it confirms the
+role of IT literacy as a necessary but not sufficient condition for
+Fig. 7. Geographical distribution of user types.
+8 E. Ferro et al. / Government Information Quarterly 28 (2011) 3–10
+reducing unemployment levels. Such skills should thus be considered
+as a catalyzer that requires complementary knowledge and skills to
+ignite a professional as well as personal development process. To
+strengthen the robustness of the user type characterization, a further
+multivariate analysis has been conducted (Table 3).
+The exercise provided a number of confirmations and some new
+insights. Income and education have been verified to exert a direct
+influence on usage proficiency. The weakness of the relationship
+between ICT literacy and occupation was also still confirmed. In
+addition, the presence of a gender as well as generational usage divide
+emerged clearly. Finally, the ability to speak a foreign language and
+the size of the household seem to be correlated with advanced usage
+behavior. Further analysis still needs to be conducted to reach a deep
+understanding of the above phenomena. Nevertheless, a number of
+hypotheses may be put forward to stimulate the discussion. The
+presence of a generational usage divide may be explained by the
+presence of a relationship between the generation of the users and the
+generations of applications/technologies (email and browsing vs.
+social computing). Proficiency in a foreign language, instead, may help
+increase the perceived utility attached to the use of the internet
+thanks to the opportunity to access a wider range of content.
+7. Conclusion
+The research presented in this article provides evidence for a
+conceptualization of the digital divide as a complex phenomenon
+transcending simple information access problems. The use of different
+interpretation models has shown the important role basic IT skills
+play on both internet access and use. In particular, different
+approaches to basic IT skills acquisition emerged and lead to diverse
+usage levels. In fact, about one fourth of the population considered in
+2004 presented advanced user behavior; another fourth was
+characterized as basic users; the remaining 50% made sporadic use
+of the internet or did not use it at all. Moreover, the analysis carried
+out over the following 4-year period depicted the presence of a
+polarization process of internet use between non/sporadic users and
+advanced users. Taking into consideration that internet use is
+fundamental for individual and community development, national
+and local policy makers could direct part of their efforts to offset this
+usage polarization. In order to do so, understanding how people
+approach technology and the different paths leading to the acquisition
+of the necessary IT skills represents a fundamental aspect.
+In this respect, the digital divide user typologies proposed in this
+paper constitutes a useful interpretation tool. In fact, in addition to
+highlighting that informal and self-learning is at least as important as
+formal face-to-face training courses in the process of basic IT skills
+acquisition, it identifies three main user profiles having significantly
+different needs in terms of policy support. While policy makers may
+not need to be very concerned about athlete users, they should pay
+greater attention to the laidback and needy user categories. If the
+assumption is that internet use is intrinsically beneficial, and that
+more mature use may be fostered among the laidback group through a
+“carrot and stick” approach; the question becomes ‘what are the
+incentives?’ Therefore, possible policy levers could create either the
+Fig. 8. Education and income characteristics by user types.
+Fig. 9. Employment characteristics by user types.
+Table 3
+Characteristics of user typologies.
+Independent variables Coefficient values (t-statistics)
+Constant 1,249*** (3,265)
+Age −0,008*** (−5,011)
+Gender (male= 1) 0,117*** (3,936)
+Education 0,115*** (4,619)
+Income 0,073*** (4,682)
+Occupation (employed= 1) 0,238 (1,395)
+Occupation (unemployed= 1) 0,212 (1,144)
+Occupation (student= 1) 0,321* (1,766)
+Occupation (other= 1) 0,081 (0,467)
+Household size −0,048*** (−3,027)
+Foreign language 0,106*** (2,919)
+Location (town= 1) 0,015 (0,474)
+Location (city= 1) 0,076 (1,197)
+R2 0,639
+Adjusted R2 0,635
+F-statistics 154,261
+Note: T-statistics are in parentheses under coefficient values. Those coefficients
+followed by * are significant at the 10% level; those followed by ** are significant at
+the 5% level; and those followed by *** are significant at the 1% level.
+E. Ferro et al. / Government Information Quarterly 28 (2011) 3–10 9
+right incentives for use or make technological use a necessary
+complementary asset to other activities (i.e., school/work). The
+complementary nature of computer use is supported by the fact
+that literacy is becoming more important than numeracy and digital
+skills in the explanation of internet use (Van Dijk & Hacker, 2003). A
+priority for the neediest group, instead, is participating in formal
+training courses that provide computer access and skills to overcome
+the first step present in the process of IT skill acquisition (depicted as a
+staircase in the proposed metaphor). Such first step could also be
+lowered by designing more friendly and easy-to-use information
+systems that minimize the need for anything but the most basic of IT
+skills in order to produce significant benefits. To a certain extent, the
+ease of use of most IT systems has been enhanced over the years;
+nevertheless, the considerable portion of the population represented
+by non-users shows the presence of a significant room for further
+improvement in this respect.
+In conclusion, a careful and close management of the evolution of
+digital gaps by policy-makers seems to be desirable and necessary. At
+the same time, attention should be paid toward avoiding technological
+deterministic approaches aimed at fostering technology adoption
+and use per se. Rather, the use of technology should be advocated as an
+important enabling tool that can support individuals in their everyday
+activities—production, social, political, consumption, savings activities
+(Selwyn, 2003). Hence, this should translate to public policies framing
+the problem from a multitude of perspectives and fostering the
+diffusion of IT as well as important complementary skills.
+A potential limitation of the present study is the limited
+geographical area considered. However, we are convinced that it is
+a useful starting point. First, digital divide is best understood,
+managed, and tackled in context. More and more, the public debate
+is moving toward a European discourse where regions are considered
+the best unit of analysis (in terms of homogeneity) in the discussion of
+strategic issues having to do with the Information Society (European
+Commission, 2006). Second, it is our belief that even if wider
+geographical areas had been considered, the generalization of results
+could not have been taken for granted in exactly the same way. As a
+matter of fact, findings from studies conducted in China or Asia most
+likely may not be generalized to USA, Europe, or Latin America due to
+the high level of heterogeneity present among the different contexts
+considered. We thus propose to take the results of this study for what
+they are: food for thought that may spark interesting reflections and
+discussions, and that may be taken up by other researchers and
+adopted in different contexts in order to advance the current
+understanding of a complex and dynamic phenomenon.
+There are important opportunities for research in this area. Future
+research may focus on testing the validity of the model proposed for
+advanced IT skills also (i.e. programming languages, statistical
+packages, etc.). In addition, multivariate analyses would be required
+to strengthen the reliability of the user types' profiles. Finally, agentbased
+and system dynamics simulation models could be used for
+testing alternative policy solutions as well as understanding the role
+of the interaction among the different groups of users.
+References
+Adriani, F., & Becchetti, L. (2003). Does the digital divide matter? The role of ICT in crosscountry
+level and growth estimates. CEIS Tor Vergata.
+Bawden, D. (2008). Origins and concepts of digital literacy. In C. Lankshear, & M. Knobel
+(Eds.), Digital literacies: Concepts, policies and practices (pp. 15−32). New York, NY:
+Peter Lang.
+Bélanger, F., & Carter, L. (2009, Aprill). The impact of the digital divide on e-government
+use. Communications of the ACM, 52(4), 132−135.
+Castells, M. (2001). The internet galaxy. Reflections on the internet, business, and society.
+New York: Oxford University Press.
+Compaine, B. (2001). Re-examining the digital divide: Internet and telecom consortium.
+Cambridge, MA: MIT Press.
+Dewan, S., & Riggins, F. J. (2005). The digital divide: Current and future research
+directions. Journal of Association for Information Systems, 6(2), 298−337.
+Dholakia, R. (2006). Gender and IT in the household: Evolving patterns of internet use
+in the United States. The Information Society, 22, 231−240.
+Drori, G. S., & Jang, Y. S. (2003). The global digital divide: A sociological assessment of
+trends and causes. Social Science Computer Review, 21(2), 144−161.
+European Commission (2006). Information society and the regions: Linking European
+policies. Retrieved from http://ec.europa.eu/information_society/newsroom/cf/
+itemlongdetail.cfm?item_id=3306
+Eurostat (2006). E-skills of individuals and ICT competence in enterprises. Way of
+obtaining e-skills table, Eurostat Web Database. Retrieved from http://appsso.
+eurostat.ec.europa.eu/nui/show.do?dataset=isoc_sk_how_i&lang=en
+Ferro, E., Gil-Garcia, J. R., & Helbig, N. (2008). Digital divide and broadband access: The
+case of an Italian region. In Y. K. Dwivedi, A. Papazafeiropoulou, & J. Choudrie (Eds.),
+Handbook of research on global diffusion of broadband data transmission
+(pp. 160−176). : Information Science Reference, IGI Global.
+Ferro, E., Dwivedi, Y. K., Gil-Garcia, J. R., & Williams, M. D. (Eds.). (2009). Handbook of
+research on overcoming digital divides: Constructing an equitable and competitive
+information society. Hershey, PA: IGI Global, Information Science Reference.
+Gil-Garcia, J. R., Ferro, E., & Helbig, N. (2006). Is it only about Internet access? An
+empirical test of a multi-dimensional digital divide. In M. Wimmer, H. J. Scholl, Å.
+Grönlund, & K. Viborg Andersen (Eds.), Lecture Notes in Computer Science, No. 4084.
+Proceedings of 5th International on Electronic Government (pp. 139−149). Berlin,
+Germany: Springer-Verlag.
+Hargittai, E. (2010). Digital na(t)ives? Variation in Internet skills and uses among
+members of the “Net Generation”. Sociological Inquiry, 80(1), 92−113.
+Hargittai, E. (2009). An update on survey measures of web-oriented digital literacy.
+Social Science Computer Review, 27(1), 130−137.
+Hargittai, E. (2002a). Second-level digital divide: Differences in people's online skills.
+First Monday, 7(4) Retrieved from: http://firstmonday.org/htbin/cgiwrap/bin/ojs/
+index.php/fm/issue/view/144
+Hargittai, E. (2002b). Beyond logs and surveys: In-depth measures of people's web use
+skills. Journal of the American Society for Information Science and Technology, 53(14),
+1239−1244.
+Hargittai, E., & Hinnant, A. (2008). Digital inequality: Differences in young adults' use of
+the Internet. Communication Research, 35(5), 602−621.
+Helbig, N., Gil-Garcia, J. R., & Ferro, E. (2009). Understanding the complexity of
+electronic government: Implications from the digital divide literature. Government
+Information Quarterly, 26(1), 89−97.
+Hines, A. H., Nelson, A., & Tu, T. L. N. (2001). Hidden circuits. In A. Nelson, T. L. N. Tu, & A.
+H. Hines (Eds.), Technicolor (pp. 5). New York: New York University Press.
+Kennedy, T., Wellman, B., & Klement, K. (2003). Gendering the digital divide. IT &
+Society, 1(5), 72−96.
+Norris, P. (2001). Digital divide: Civic engagement, information poverty, and the internet
+worldwide. New York: Cambridge University Press.
+Mossberger, K., Tolbert, C. J., & Stansbury, M. (2003). Virtual inequality: Beyond the
+digital divide. Washington, DC: Georgetown University Press.
+Rogers, E. M. (1962). Diffusion of innovations. New York: The Free Press.
+Selwyn, N. (2003). Defining the ‘digital divide’: Developing a theoretical understanding of
+inequalities in the information age. Occasional Paper: Cardiff University.
+Selwyn, N. (2005). The social processes of learning to use computers. Social Science
+Computer Review, 23(1), 122−135.
+Servon, L. J. (2002). Bridging the digital divide: Technology, community, and public policy.
+Oxford: Blackwell Publishers Ltd..
+Van Dijk, J. (1999). The network society, social aspects of new media. Thousand Oaks, CA:
+Sage.
+Van Dijk, I., & Hacker, K. (2003). The digital divide as a complex dynamic phenomenon.
+International Journal of Information Society, 19, 315−326.
+Van Dijk, J. (2005). The deepening divide, inequality in the information society. Thousand
+Oaks, London, New Delhi: Sage Publications.
+Van Dijk, J., & Van Deursen, A. (2009). Inequalities of digital skills and how to overcome
+them. In E. Ferro, Y. K. Dwivedi, J. R. Gil-Garcia, & M. D. Williams (Eds.), Handbook of
+research on overcoming digital divides: Constructing an equitable and competitive
+information society (pp. 278−291). Hershey, PA: IGI Global, Information Science
+Reference.
+Vehovar, V., Sicherl, P., Husing, T., & Dolnicar, V. (2006). Methodological challenges of
+digital divide measurements. International Journal of Information Society, 22,
+279−290.
+Warf, B. (2001). Segueways into cyberspace: Multiple geographies of the digital divide.
+Environment and Planning B: Planning and Design, 28, 3−19.
+Warschauer, M. (2003). Technology and social inclusion: Rethinking the digital divide.
+Cambridge, MA: MIT Press.
+Wills, M. (1999). Bridging the digital divide.December: Adults Learning 10–11.

@@ -1,0 +1,690 @@
+Evolution and determinants of digital divide in Brazil (2005–2013)
+Marislei Nishijimaa,⁎
+, Terry Macedo Ivanauskasb
+, Flavia Mori Sartib
+a University of Sao Paulo, Institute of International Relations, Av. Prof. Lucio Martins Rodrigues, s/n, trav.4-5, Cidade Universitaria, CEP
+05508-020 São Paulo, SP, Brazil
+b University of Sao Paulo, Center for Interdisciplinary Research in Complex Systems, Brazil
+ARTICLE INFO
+JEL classification:
+O10
+O20
+O38
+Keywords:
+Internet
+Digital divide
+Inequality
+Access
+Mobile
+ABSTRACT
+During the last decades, the widespread growth of information and communication technologies
+(ICT) has posed incentives to broaden the participation of individuals in social, political and
+economic dimensions of life. However, utilization of ICT also involves access to technology and
+infrastructure, and acquisition of skills to deal with innovations and, thus, digital literacy is,
+primarily, a complementary good. The digital divide expresses inequalities in access and
+utilization of ICT among individuals and populations in different countries. The study adopts
+inequalities indexes of Internet access and mobile phone ownership to measure use of ICT goods,
+accounting for the digital divide in Brazil. The inequality indexes are also split according to main
+determinants using four nationally representative survey data from 2005 to 2013. Results
+indicate that the digital divide among individuals is decreasing quite fast among Brazilians over
+time. However, there is room for policies of mass access to ICT goods based on mobile Internet
+broadband access. In addition, digital illiteracy, evaluated by lack of education, is one of the
+main determinants of the digital divide in the country, especially among elderly individuals.
+1. Introduction
+The recent widespread growth of informat
+tend “to focus on specific groups of people within a nation who appear especially disadvantaged by the digital divide (…) people on
+low incomes, people with limited education or low literacy levels, ethnic minorities, the unemployed, the elderly, people in isolated
+or rural areas, people with disabilities, single parents, and women and girls” (Zhao et al., 2014, p. 40).
+Dewan and Riggins (2005) unfold the digital divide in other two dimensions: inequality in access to ICT and inequality in
+capacity of ICT utilization; that is, differences in reaching technological innovations and in ability to use technological devices. Other
+authors point to the utilization of the Internet on mobile phones as alternative to reduce the inequality in Internet access (DiMaggio,
+Hargittai, Celeste, & Shafer, 2004; Wirthmann, 2012), since differences in access to ICT have been declining faster in relation to
+mobile devices than other technologies (technological convergence) (UNCTAD1
+).
+The present study follows Zhang (2013) to evaluate the Brazilian domestic digital divide, adopting the inequality index to analyze
+the relationship between income, Internet access and mobile phone access in the Brazilian population. The inequality of ICT access is
+estimated controlling for geographical, socioeconomic and demographic characteristics, using nationally representative data. The
+National Household Sample Survey (Pesquisa Nacional por Amostra de Domicílio, PNAD), from the Brazilian Institute for
+Geography and Statistics (Instituto Brasileiro de Geografia e Estatística, IBGE) in 2005, 2008, 2011 and 2013, contains information
+of individuals and households, including ICT goods utilization. Also, inspired by Dewan and Riggins (2005) dimension of
+inequalities in ICT access and capacity of usage, the study includes logistic models to evaluate the disaggregation of digital divide
+among individuals in Brazil.
+The estimates account for weighted measure of Internet use among different individuals (see James, 2008). Differences in
+population size between countries and variations in income among individuals with access to Internet within countries matter for the
+proposed concept of digital divide. Also, the influence of digital illiteracy on ICT access is investigated in the case of elderly
+individuals (older than 60 years).
+Although there is scarcity of information about the digital divide and its determinants in Brazil, it is known that there is a positive
+trend in Brazilian's access to multimedia broadband communication in recent years, as well as in its regions (Fig. 1).
+The proportion of population covered by mobile 3G according to Brazilian regions from 2005 to 2015 has been increasing also
+(Fig. 2). It is important to highlight that, although 4G technologies have been disseminated since 2013, Brazilian regions have not
+still completely replaced 3G technology with full coverage. The data show evidence that more developed regions (Southeastern and
+Southern Brazil) has higher access to ICT goods in comparison to other regions.
+In addition to the introduction, the article includes four additional sections. Section 2 presents the literature review on the
+determinants of the digital divide among populations and individuals worldwide. Section 3 outlines the databases and discusses the
+methodological strategy adopted in the study. Section 4 presents the results. Section 5 summarizes the main conclusions of the
+study.
+2. Literature review
+2.1. Digital divide in Brazil and Latin America
+According to World Bank data, the Latin American and Caribbean countries’ populations had increased Internet access in 2014,
+with 44.0% of the population having access to computers, 50.2% having Internet subscriptions, 9.8% having broadband
+subscriptions, and there being 115 subscribers of mobile per 100 people.
+In comparison to the population of North America (82.1%, 87.3%, 31.5%, and 117, respectively), and Europe and Central Asia
+(74.4%, 79.2%, 23.7% and 126, respectively), the evidence suggests reduction of the technological gap between regions worldwide
+with regard to mobile technologies; however, there are still disparities in relation to broadband, Internet and computers access
+(Balboni, Rovira, & Vergara, 2011). In Brazil, 52.0% of the population has access to computers, 57.6% have Internet subscription,
+11.7% have broadband subscription, and 139 are subscribers of mobile per 100 people.
+According to Lutz-Baliamoune (2003), information and communication technology markets in Latin American countries are
+characterized by lack of competitiveness. However, the expansion of mobile telephony in Brazil is very striking: according to data
+from Instituto Brasileiro de Geografia e Estatística (IBGE, 2015), 72.8% of the population above 10 years old owned a mobile phone
+in 2013.
+Furthermore, Internet service was available for at least 90% of the population living in 18 Brazilian states and Brazilian country
+capital in 2015, and the remaining states had Internet services coverage ranging from 71% to 88% of the population (Agência
+Nacional de Telecomunicações [ANATEL], 2016). Despite the optimistic scenario, high prices of mobile phones with Internet
+applications (smartphones and mobile 3G/4G) are still prohibitive and restrict the expansion of the Internet in prepaid sector of the
+mobile broadband market.
+Macedo (2010) analyzes determinants of broadband access of the Brazilian municipalities and finds a positive impact of social
+wellbeing indicators (health, education and income per capita) on broadband access. Balboni et al. (2011) stress the need for
+additional empirical studies and use of individual-level data to evaluate the extent and the characteristics of the digital divide in
+Latin American and Caribbean countries.
+1 Text available at http://unctad.org/en/PublicationsLibrary/dtlstict2013d8_en.pdf [06/05/2016].
+M. Nishijima et al. Telecommunications Policy 41 (2017) 12–24
+13
+2.2. Determinants of digital divide
+Several studies investigate determinants of digital divide among countries worldwide and among individuals within countries.
+Results of the studies indicate that the main factors associated with individual and household-level inequalities in ICT access are:
+income, age, educational attainment, area of residence, and occupation.
+Singh (2004) analyzes determinants of Internet use in Canada using a logit model applied to individual-level data. The results
+indicate that age (individuals in age brackets 15–34 and 35–54 years old), family income, educational level, and family of single
+parents with children present positive impact on Internet access.
+Cerno and Amaral (2006) use a probit model in two stages to correct for selection bias in order to estimate determinants of
+Internet demand in Spain, and find that income has positive effect and age has negative effect. Chakraborty and Bosman (2005)
+propose the utilization of the Lorenz Curve and the Gini coefficient for measurement of inequality in personal computer ownership in
+the United States, using data at national, regional and state levels based on the Census between 1994 and 2001.
+Vehovar, Sicherl, Hüsing, and Dolnicar (2006) criticize the utilization of bivariate comparisons for assessment of digital divide,
+proposing three different approaches to its measurement: the use of loglinear modeling to address interactions among determinants
+of the digital divide, the proposition of a synthetic composite indicator for digital divide measurement, and the use of time-distance
+methodology to investigate evolution in digital divide.
+Demoussis and Giannakopoulos (2006) use a probit model to estimate the determinants and the extent of use of Internet access
+in European countries. The results point to the fact that Internet use is associated with income, age, sex and family size. The Internet
+utilization is lower among dial-up users, although it is not affected by costs of the dial-up connection.
+Dudek (2007) uses a qualitative response model (probit) for Polish individual-level data with a set of usual explanatory variables
+adopted in studies involving the determinants of residential Internet access (income, gender, ethnic group, educational level, age,
+location of residence, and presence of children). The study shows that income, educational level and presence of children have a
+positive effect on residential Internet access. Rural dwellers and female-headed households are less likely to have residential access.
+Wirthmann (2010) analyzes individual-level databases in order to verify differences among individuals in relation to access and
+use of ICT, providing valuable information for the application of measures on policy level. Montagnier and Wirthmann (2011)
+address digital divide among households and individuals by analyzing ICT usage patterns in 18 European countries, Korea and
+Canada. The authors show inequalities in computer and Internet access as result of socioeconomic characteristics through logistic
+regression and multi-linear regression models. Income, age, occupation, presence of children in the household, and living in urban
+areas are the most important determinants of Internet access. The intensity of Internet utilization is influenced by educational
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+2.0
+Southeast South Midwest Northeast North Brazil
+2011 2012 2013 2014
+Fig. 1. Brazilian broadband multimedia communication accesses per capita, according to state. 2011–2014.
+Source: Authors using data of the Brazilian Telecommunications Agency (ANATEL).
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2005 2013 2015
+Southeast South Midwest Northeast North Brazil
+Fig. 2. Brazilian population mobile 3G coverage, according to state. 2005–2015.
+Source: Authors using data of the Brazilian Telecommunications Agency (ANATEL).
+M. Nishijima et al. Telecommunications Policy 41 (2017) 12–24
+14
+attainment, being student and income (in Europe) or broadband access (in Korea).
+Vicente and López (2011) measure digital divide across and within 27 countries of the European Union, showing that, besides
+income, cultural and institutional factors may be determinants in ICT adoption. The European Commission (2012) adopts models of
+binary choice to estimate frequency of Internet use based on individual and household-level data from Europe Union, Norway and
+Iceland. There are positive associations of Internet use in relation to: i) younger individuals; ii) males; iii) urban regions; iv) higher
+income levels; v) employment and participation in the workforce; vi) non-shared Internet access (residential), and vii) broadband.
+Loo and Ngan (2012) investigate the impact of mobile communications on digital divide in China. The authors show that mobile
+or wireless telecommunications present higher potential of narrowing digital divide in developing countries due to lower costs in
+comparison to fixed-line telephone services and personal computers. In addition, adoption of proactive government measures
+granting free access to broadband in mobile devices promotes a decrease in digital divide in China after 2005.
+Çilan and Özdemir (2013) analyze domestic digital divide in Turkey using Latent Class Analysis. The results indicate that most of
+the Turkish population present low information technology competence, being recommended implementation of State policies
+designed to encourage elderly individuals to use ICT and to enhance educational attainment of people with low levels of education.
+Prieger (2013) describes the extent of digital divide among urban and rural areas in the United States, indicating that rural areas
+present a higher number of slow-speed connection providers in comparison to urban areas, which have larger number of high-speed
+fixed and mobile providers. Moreover, there is an important influence of household demographics on mobile broadband usage gap.
+Pantea and Martens (2013) examine the digital divide in the five largest European Union economies in relation to Internet use,
+considering general utilization and specific purposes (leisure, improving human capital and obtaining goods and services). The
+authors show a reversion in income-based digital divide referring to Internet use, indicating high intensity of use by low-income
+individuals. Also, higher education levels present negative impact on the use of Internet for leisure purposes and positive impact for
+educational purposes.
+Albuja, Navas, Paguay, Moreno, and Nájera (2015) propose a technological Gini coefficient to identify and analyze the access to
+ICT inequality in Ecuador, and use expenditure in ICT services to indicate the consumption flow of ICT products and services, taking
+into consideration socioeconomic level. They propose public policies towards promotion of affordability capacities of citizens to ICT
+access in the country.
+The present study investigates empirically the evolution in inequality of access to information and communication technologies
+among Brazilian individuals, based on the information on Internet utilization during the last three months and the ownership of
+mobile phone in the period from 2005 to 2013. Additionally, the analysis seeks to indicate the main determinants of digital divide in
+Brazil, including socioeconomic and demographic characteristics that may impose barriers to ICT access in the population.
+2.3. Impact of elderly digital illiteracy on digital divide
+Although it is clear that digital illiteracy represents an important obstacle to implementing digital inclusion policies, it should be
+noted that it does not necessarily refer to an intergenerational gap in ICT abilities. Lutz-Baliamoune (2003) argues that utilization of
+mobile does not depend on literacy; however, it is important to notice that the study generally refers to mobile use for voice services.
+Thus, smartphones present additional challenges in terms of utilization regarding digital literacy due to supplementary applications,
+especially among elderly individuals.
+In Brazil, approximately 86% of the adult population indicated mobile phone ownership in 2015 (Pew Research Center, 2016),
+being smartphone ownership rate approximately 41% among Brazilian adult population, highly concentrated among younger
+individuals (61% among individuals between 18 and 34 years old) with higher educational attainment (64%) and higher income
+(54%).
+According to Santos, Azevedo, and Pedro (2013, p. 179), d
+among elderly individuals is a well-established phenomenon in the digital divide literature (Cerno & Amaral, 2006; Demoussis &
+Giannakopoulos, 2006; Japan, 2001; Singh, 2004).
+2.4. Hypotheses
+The hypothesis of the study refers to the evolution and the determinants of digital divide in Brazil between 2005 and 2013,
+considering that the digital divide is represented by proxy variables related to ICT utilization: Internet connection and mobile phone
+ownership.
+In the context of the investigation, the main hypothesis is that there have been significant decreases in digital divide in the
+Brazilian population during the period analyzed, mainly due to increasing income per capita and educational attainment. The
+assumption is that digital divide determinants in Brazil are related to two dimensions; capacity of ICT utilization (individuals’
+characteristics: gender, age group, ethnic group, and educational attainment as a proxy for digital illiteracy), and access to ICT
+(external factors: household income per capita, occupation status, households with children and with elderly, household size,
+number of household residents, area of residence, and location of the household).
+The assumption that population educational level can be a good proxy for digital illiteracy in the Brazilian case is based on Neri
+(2003) and McCowan (2007). This because the low level and quality of education among Brazilians are still a challenge to be
+overcome, and digital illiteracy is just one piece of illiteracy.
+3. Data and methodological strategy
+3.1. Data
+The study uses individual-level data representative of the Brazilian population from the National Household Sample Surveys
+(PNAD), conducted by IBGE during 2005, 2008, 2011 and 2013, in order to estimate the evolution of Internet access and personal
+mobile phone ownership. Individuals were asked about any access to the Internet in the last three months and mobile phone
+ownership for individual use. The datasets also include households and individuals’ characteristics that comprise the main
+determinants of Internet utilization services and mobile phone ownership, as highlighted by the literature (Table 1).
+The methodological approach of the study uses Deaton (1997) strategy to convert individual income into household income per
+capita in adult equivalents, in order to split income available according to the household expenditure needs of each age group.
+Individuals younger than 14 years old are computed using a weight of 0.75, in order to generate an equivalence scale (eh):
+eA K hh h =( +Φ )θ (1)
+where: Ah represents the number of adults in the household h, and Kh represents the number of children in the household h. The
+parameters Φ and θ should be equal to 0.75, the weight previously defined by Deaton (1997). Considering that Internet access
+depends on the structure of services supply in a large country like Brazil, a check on Internet services available for each state of the
+country is performed.
+3.2. Methodological strategy
+To explore evolution of digital divide and its determinants in Brazil, the investigation follows Zhang (2013) in using an inequality
+index, but using a concentration index instead of the Gini index. The analysis performed focus on income-related inequality in access
+to information and communication technology (ICT) goods in Brazil. The concentration curve (L), the concentration index (CI), and
+the horizontal concentration index (HI) are computed to identify inequality on Internet access and mobile phone ownership,
+considering proxy measurements of ICT goods.
+Then, logistic regressions are estimated using the concentration index of ICT goods as dependent variable against independent
+variables representing individual characteristics and external factors related to ICT access, including socioeconomic, demographic
+and geographical variables. Following Wagstaff, van Doorslaer, and Watanabe (2003), the study presents disaggregation of the
+concentration index among the main determinants. However, as Dewan and Riggins (2005), the determinants are split into two
+dimensions of the inequalities in ICT: access to ICT goods and capacity of ICT usage, corresponding respectively to external factors
+and individual characteristics according to Wagstaff et al. (2003), in order to identify the contribution of education, the proxy
+measure adopted to represent digital illiteracy.
+The concentration curves (L) display the cumulative share of ICT access (y), that is, Internet connection and mobile phone
+ownership, accounting for the cumulative proportion of individuals of a population ranked from the poorest to the richest (Kakwani,
+1980).
+On the other hand, the concentration index (CI) allows to measure inequality according to socioeconomic position of individuals.
+The graphic of its curve shape is illustrative of inequality patterns among individuals. The concentration index (CI) may be written
+as:
+CI ∑nμ = y R 2 −1
+i
+N
+i i
+=1 (2)
+M. Nishijima et al. Telecommunications Policy 41 (2017) 12–24
+16
+where µ is the mean of y and Ri is the fractional rank of the i
+th person in the income distribution, and N is the sample size.
+Finally, it is possible to estimate the horizontal inequality (HI) index to address measurement of inequality between groups of
+individuals with different personal characteristics regarding capacity of ICT usage, calculated from the difference between the
+concentration index (CI) and the concentration index for the called individuals’ capacity of ICT usage (CN), controlled by individual
+characteristics:
+HI CI C = − N (3)
+In addition, the concentration index may be disaggregated in terms of its determinants by using a set of independent variables
+that affect access to ICT goods, according to individual characteristics and external factors (Wagstaff et al., 2003). The CI
+disaggregation is estimated using a logit model with the concentration index as dependent variable. The model defines y* as latent
+non-observed variable that describes the utilization of ICT goods by the individual, where βk is the coefficient of explicative variable k
+and ε is an error term:
+y*=β xβ w ′. + ′. +ε 1 2 (4)
+Matrix x includes a set of variables of individual characteristics and matrix w includes other independent variables associated
+with external factors. It is possible to show that (Wagstaff et al., 2003):
+Table 1
+Survey data – Brazilian individual's variables, according to year. 2005–2013.
+Source: Authors using data of the Brazilian Institute for Geography and Statistics (IBGE).
+Variable Year Total
+2005 2008 2011 2013
+Individuals (obs.) 327,884 316,763 285,555 290,112 1,220,314
+(%) 26.87 25.96 23.40 23.77 100.00
+Sex
+Male (%) 48.22 48.21 48.05 48.19 48.17
+Female (%) 51.78 51.79 51.95 51.81 51.83
+Age
+< 15 (%) 11.59 * 11.23 * 10.59 * 9.89 * 10.86
+15–59 (%) 77.10 * 76.35 * 76.01 * 75.58 * 76.29
+> 60 (%) 11.31 * 12.43 * 13.40 * 14.53 * 12.85
+Ethnicity
+White (%) 46.12 * 44.77 * 44.40 * 42.54 * 44.52
+Non-white (%) 53.88 * 55.23 * 55.60 * 57.46 * 55.48
+Educational attainment
+Adults (+21 years old) (years) 6.63 * 7.05 * 7.28 * 7.58 * 7.12
+Elderly (+60 years old) (years) 3.55 * 4.03 * 4.35 * 4.66 * 4.15
+Household income per capita (US$) 297.47 * 348.15 * 377.57 * 415.64 * 357.46
+Household size (n) 3.81 * 3.70 * 3.60 * 3.50 * 3.66
+Type of family
+Family with children (%) 59.83 * 56.42 * 53.72 * 51.65 * 55.57
+Family with elderly (%) 25.43 * 26.47 * 27.39 * 28.75 * 26.95
+Employment status
+Employed (%) 95.25 * 96.24 * 96.57 * 96.86 * 96.20
+Student (%) 1.74 * 1.22 * 1.02 * 0.91 * 1.24
+Retired (%) 0.10 * 0.06 * 0.06 * 0.06 * 0.07
+Unemployed (%) 4.75 * 3.76 * 3.43 * 3.14 * 3.80
+Region
+North (%) 12.91 * 12.57 * 15.17 * 15.84 * 14.05
+Northeast (%) 31.73 * 31.88 * 29.18 * 28.76 * 30.46
+Southeast (%) 29.30 * 29.41 * 28.59 * 29.13 * 29.12
+South (%) 15.33 * 15.09 * 16.33 * 15.94 * 15.65
+Midwest (%) 10.73 * 11.05 * 10.73 * 10.33 * 10.72
+Area of residence
+Urban (%) 84.06 * 84.67 * 85.51 * 85.10 * 84.81
+Rural (%) 15.94 * 15.33 * 14.49 * 14.90 * 15.19
+Internet access
+Yes (%) 23.96 * 41.19 * 53.83 * 58.03 * 43.52
+No (%) 76.04 * 58.81 * 46.17 * 41.97 * 56.48
+Personal mobile phone
+Yes (%) 37.92 * 55.20 * 69.81 * 75.54 * 58.81
+No (%) 62.08 * 44.80 * 30.19 * 24.46 * 41.19
+Obs. * At least 5% statistical significant differences among years.
+M. Nishijima et al. Telecommunications Policy 41 (2017) 12–24
+17
+IC ∑μ
+βx C GC
+μ =1 ( )+
+k
+k k k
+(5)
+where GC = ∑ ε R 2
+N i=1
+N i i is the generalized concentration index for the residual (ε) and xk is the mean of xk . Two different
+specifications of logistic model are tested in order to verify main determinants of access to ICT goods of the Brazilian population. The
+observed information of y is defined by:
+y=1⟺y yy * > 0 & =0⟺ * ≤ 0 (6)
+As already described, the dependent variable (y) in each model describes whether the individual had access to the two types of
+ICT goods investigated: i) Internet connection, and ii) mobile phone ownership.
+The coefficients (βk) of the non-linear logistic regression model (logit) are estimated, as Dewan and Riggins (2005) indicated,
+against individuals’ capacity of ICT utilization (x) and other external factors that determine access to ICT goods (w).
+Matrix x includes gender, age group, ethnic group, and educational attainment to measure individuals’ capacity of ICT usage.
+Matrix w includes household income per capita, occupation status, households with children and with elderly, household size,
+number of persons in the households, area of residence (rural or urban), and location of the household (region and state) to measure
+access to ICT goods.
+Logistic regression models exclusively for elderly individuals (older than 60 years) are also estimated, in order to account for
+elderly's digital illiteracy, evaluated using educational level.
+4. Results
+The Brazilian population's characteristics show trends related to occurrence of demographic transition, marked by increasing
+proportion of elderly individuals, decreasing number of families with children, and reduction of average number of household
+members (shown in Table 1). Simultaneously, there are evidences of improvements in socioeconomic trends during the last decade:
+higher rates of educational attainment, employment and urbanization among Brazilian individuals. Regarding utilization of ICT,
+there is significant increase in Internet access and mobile phone property throughout the period investigated.
+The results of logistic regressions referring to determinants of Internet access throughout the period investigated show that, in
+Table 2
+Estimates of logistic regression for Internet access in Brazil. 2005–2013.
+Year 2005 2008 2011 2013
+Dep. variable Internet access Internet access Internet access Internet access
+Female −0.07*** −0.046*** −0.007 0.037***
+(0.011) (0.009) (0.009) (0.008)
+Age < 15 1.560*** 1.854*** 1.615*** 1.360***
+(0.023) (0.020) (0.021) (0.022)
+Age > 60 −0.817*** −0.726*** −0.682*** −0.621***
+(0.036) (0.027) (0.024) (0.021)
+White 0.253*** 0.197*** 0.237*** 0.249***
+(0.018) (0.015) (0.015) (0.016)
+Education (years) 0.259*** 0.241*** 0.232*** 0.219***
+(0.003) (0.002) (0.002) (0.002)
+Household size 0.155*** 0.186*** 0.214*** 0.218***
+(0.007) (0.006) (0.007) (0.008)
+Household with children −0.186*** −0.105*** −0.001 0.111***
+(0.021) (0.018) (0.020) (0.020)
+Household with elderly −0.245*** −0.237*** −0.300*** −0.353***
+(0.025) (0.021) (0.021) (0.021)
+Household income 1.237*** 1.033*** 0.974*** 0.983***
+(0.015) (0.013) (0.014) (0.014)
+Employed individual −0.081** 0.256*** 0.212*** 0.201***
+(0.038) (0.035) (0.037) (0.036)
+Student 1.318*** 1.555*** 1.581*** 1.530***
+(0.052) (0.064) (0.080) (0.084)
+Retired −0.285 −0.565** −0.447* −0.313
+(0.233) (0.239) (0.245) (0.214)
+Rural −1.284*** −1.289*** −1.429*** −1.260***
+(0.068) (0.046) (0.035) (0.032)
+Constant −10.610*** −8.582*** −7.579*** −7.367***
++ (0.098) (0.099) (0.093) (0.094)
+R2 *** p < 0.01, ** p < 0.05, * p < 0.10.3861 0.3371 0.3425 0.3274
+Observations 326,085 315,492 284,870 289,261
+Obs. Standard errors in parentheses. State and region dummies included.
+*** p < 0.01, ** p < 0.05, * p < 0.1.
+M. Nishijima et al. Telecommunications Policy 41 (2017) 12–24
+18
+general, younger, white and educated individuals, having a higher income levels, and living in larger households (measured by
+household size) influences positively the likelihood of Internet access (Table 2).
+However, there are significant changes occurring between 2005 and 2013, especially related to the probability of Internet
+utilization by women and families with children, which presents changes in effects (from negative to positive) along the decade.
+There are evidences of intense Internet usage among youngsters (individuals younger than 15 years old), especially students. Apart
+from that, individuals living in rural areas have reduced probability of Internet access, possibly due to lack of infrastructure.
+Elderly individuals also have lower access to the Internet; however, it is important to point out that this effect has been reduced
+during the period analyzed, especially due to improvements in educational attainment levels among older individuals (shown in
+Table 1). That is, considering the convergence of effects from coefficients of age (individuals younger than 15 year old and
+individuals older than 60 years old) and educational attainment (years of education), the impact of digital illiteracy in Brazil seems to
+be greatly attached to a lack of access to formal education, and less due to difficulties in accessing or using the Internet.
+The effect is particularly applicable to the probability of Internet access among elderly individuals, considering that the study
+analyzes combined effects of age and education by adopting an interaction variable in the model (Table A1, Appendix A), in order to
+test for nonlinear effects of adequacy of educational attainment according to age of the individual. The indicator of educational
+attainment per age represents an indicator positively correlated with ICT utilization, since education influences positively ICT
+utilization and age influences negatively ICT utilization. The inclusion of the interaction term of education per age shows positive
+impact on Internet access probability; however, it significantly reduces the direct effects of age and educational attainment.
+It is possible to identify similar effects observed in Internet access referring to the evolution and the main determinants of mobile
+property. Higher income and higher education influence positively the probability of mobile phone ownership in Brazil, as well as
+being male, white and employed or student (Table 3).
+The main differences between the likelihood to own a mobile phone and to have Internet access refers to results for young
+individuals (aged under 15 years old), who are less likely to have mobile phones (possibly due to parental concerns), and for
+household size, showing that individuals living in households with higher number of family members are less likely to have a mobile
+phone. The last result is particularly interesting as it refers to potential strategies of public policy directed at massive Internet access
+based on mobile phone property.
+However, there is increasing probability of mobile phone ownership among individuals in households with children and
+individuals with higher educational attainment, while the effect of income and ethnicity are declining along the period analyzed.
+Table 3
+Estimates of logistic regression for mobile phone property in Brazil. 2005–2013.
+Year 2005 2008 2011 2013
+Dep. variable Mobile Mobile Mobile Mobile
+Female −0.232*** −0.083*** −0.017 0.020*
+(0.011) (0.010) (0.011) (0.012)
+Age < 15 −0.510*** −0.899*** −1.162*** −1.157***
+(0.019) (0.018) (0.019) (0.018)
+Age > 60 −1.077*** −1.000*** −0.973*** −0.960***
+(0.024) (0.022) (0.023) (0.022)
+White 0.071*** 0.055*** 0.041*** 0.012
+(0.013) (0.014) (0.015) (0.015)
+Education (years) 0.154*** 0.153*** 0.157*** 0.171***
+(0.002) (0.002) (0.002) (0.002)
+Household size −0.082*** −0.087*** −0.107*** −0.116***
+(0.004) (0.004) (0.005) (0.005)
+Household with children 0.189*** 0.292*** 0.368*** 0.394***
+(0.013) (0.015) (0.017) (0.018)
+Household with elderly −0.249*** −0.333*** −0.427*** −0.463***
+(0.017) (0.017) (0.02) (0.02)
+Household income 0.768*** 0.714*** 0.614*** 0.622***
+(0.010) (0.010) (0.011) (0.011)
+Employed individual 0.200*** −0.002 0.104*** 0.131***
+(0.030) (0.033) (0.039) (0.044)
+Student 0.443*** 0.216*** 0.040 0.152*
+(0.045) (0.054) (0.071) (0.078)
+Retired 0.086 −0.003 −0.081 0.161
+(0.180) (0.224) (0.243) (0.229)
+Rural area −0.703*** −0.755*** −0.903*** −0.912***
+(0.040) (0.040) (0.031) (0.030)
+Constant −4.376*** −3.552*** −2.407*** −2.112***
+(0.061) (0.069) (0.072) (0.082)
+R2 0.2503 0.2442 0.253 0.265
+Observations 326,085 315,492 284,870 289,261
+Obs. Standard errors in parentheses. State and region dummies included.
+*** p < 0.01, ** p < 0.05, * p < 0.1
+M. Nishijima et al. Telecommunications Policy 41 (2017) 12–24
+19
+There are evidences of declining effects of certain determinants of mobile phones property (sex and being elderly) along time. The
+probability of having a mobile phone has been increasing among the Brazilian population in general (shown in Table 1), turning it
+into a device commonly available in comparison to other ICT devices, due to declining prices and its utility on daily tasks.
+An important evidence to be highlighted in the estimates of mobile phone ownership refers to barriers in access to certain ICT
+goods due to income, educational attainment and, possibly, limitations of the electronic device for specific uses (e.g., Internet
+access), especially among elderly individuals. The results show that the probability of mobile phone property has been increasing
+along the period analyzed. The latter, however, includes a decrease in the negative effect of being elderly and an increase in the
+positive effect of education, indicating that mobile utilization may involve higher complexity in comparison to Internet access.
+Furthermore, the results shed light on the promotion of education as public policy strategy to foster access to information and
+communication technologies using mobile services, because Brazilian elderly individuals have significantly lower educational
+attainment than younger individuals (shown in Table 1). According to the data, trends of increasing educational attainment of the
+Brazilian population may help overcome the problem of digital illiteracy, although there is ongoing debate on the quality of
+education in Brazil.
+Inequalities in personal mobile phone ownership are decreasing sharply over time, especially in comparison to inequalities with
+regard to Internet access in Brazil. The digital divide among Brazilian individuals may be minimized by the convergence in ICT
+access due to acquisition of electronic devices at lower prices, according to the evolution of inequalities in Internet access and mobile
+property in Brazil between 2005 and 2013 (Fig. 3).
+The datasets from the Brazilian Institute for Geography and Statistics allow the disaggregation of the effects from diverse
+determinants of the concentration index (CI) for Internet access and mobile ownership. Hence, it is possible to identify the main
+groups of determinants in inequalities regarding the digital divide among Brazilian individuals: household income per capita and
+educational attainment (Figs. 4 and 5).
+Educational attainment, considered one of the main dimensions of capacity of ICT utilization, presents an increasing trend along
+the period analyzed. Thus, access to information and communication technology may be improved significantly by promoting
+education in Brazil.
+Fig. 3. Evolution of concentration curves of Internet utilization and mobile property in Brazil. 2005–2013.
+M. Nishijima et al. Telecommunications Policy 41 (2017) 12–24
+20
+However, it is important to point out that employment and number of household members are also important determinants of
+the inequalities in access to ICT; although the impacts in inequality coefficients related to income, employment and number of
+household members have been declining during recent years (Figs. 4 and 5).
+The results may be related to the digital convergence due to reduction of prices of ICT goods, one of many consequences of
+technological convergence/evolution, allowing improvement of access among poorest individuals in the Brazilian population along
+time.
+Additionally, geographic localization (including state and urban/rural areas) shows an increasing trend as determinant of
+inequalities on Internet access and mobile property. The results indicate that, although statistics from the Brazilian
+Telecommunications Agency (Agência Nacional de Telecomunicações, ANATEL) demonstrate growing broadband access and 3 G
+coverage, there are still significant infrastructural differences according to regional location.
+Coefficients of concentration indexes (CI) and horizontal inequality (HI) indicate that inequality is decreasing both on Internet
+access and on mobile property along time (Table 4). Recently, mobile ownership reaches a significantly lower degree of general
+inequality (CI2013=10%) in comparison to Internet access (CI2013=19%).
+Except personal characteristics that may limit the capacity of ICT utilization, HI indicators bring evidence of inequalities
+referring to external factors, that is, excluding the effects of individual's skills (especially educational attainment in the case of the
+Brazilian population).
+The coefficients of concentration indexes (CI) and horizontal inequality (HI) for elderly individuals are also presented in order to
+verify the impact of ageing on Internet access and on mobile property, promoting an intergenerational digital divide in Brazil. It is
+possible to note higher coefficients for elderly individuals, specially referring to the general determinants of ICT access
+(concentration indexes), connected with low level of education.
+Referring to personal capacity of ICT utilization, represented by the difference between concentration index and horizontal
+inequality, it is possible to notice convergence of inequality coefficients for mobile phone ownership between the general population
+and elderly individuals; showing that mobile phone property is limited by external factors more than by personal skills among the
+whole Brazilian population.
+Regarding Internet access, the results confirm recent concerns with elderly digital illiteracy. Although formal education has been
+Fig. 4. Main determinants of Concentration Index for Internet access in Brazil. 2005–2013.
+Fig. 5. Main determinants of Concentration Index for mobile property in Brazil. 2005–2013.
+M. Nishijima et al. Telecommunications Policy 41 (2017) 12–24
+21
+increasing among elderly individuals along the period analyzed, educational attainment is still significantly lower among elderly in
+comparison to the general Brazilian population. Lower educational attainment associated with lower household income per capita
+are important limiting factors to Internet access among elderly individuals, due to costs and skills required to obtain broadband
+connection in Brazil.
+Comparing inequality levels between Internet access and mobile phone property, it is possible to verify that Internet access
+presents higher concentration indexes due to socioeconomic determinants in Brazil than mobile ownership during the period
+analyzed (Table 4, Fig. 3). The result reinforces the potential for adoption of mass Internet access policy based on granting free
+wireless broadband access in public places, which has been proposed by governments of certain Brazilian cities, grounded on
+examples from other countries.
+Another public policy strategy that may disseminate mass Internet access among the Brazilian population and promote equality
+in information and communication technology utilization might be the implementation of incentives (subsidies or tax discounts) for
+household Internet subscription and/or acquisition of personal mobile phone with Internet connection (smartphone), although its
+utilization may present certain limitations in comparison to computer-based access to the Internet.
+The identification of technological convergence patterns on mobile ownership in Brazil, similar to other countries (Khalil &
+Kenny, 2008), may support evidences of reduction in the digital divide among the Brazilian population, particularly referring to
+socioeconomic obstacles, excluding digital illiteracy. Aspects related to personal capacity of ICT utilization should be addressed
+specifically through education policies, including assessment of education quality.
+5. Discussion
+The main goal of the paper is to perform an empirical investigation on the evolution of the digital divide among Brazilian
+individuals, including its main determinants, using valuable survey data representative at national level from 2005, 2008, 2011 and
+2013. Inequality in Internet access and mobile phone property among individuals of the Brazilian population represent the digital
+divide in using information and communication technologies (ICT) goods available in Brazil.
+The study also seeks to fill the gap in empirical studies using individual and household-level data on Internet access and personal mobile
+phone property in Latin American countries, according to recommendations published by the United Nations (Balboni et al., 2011).
+Two dimensions of the digital divide are investigated in the study: inequality in access to ICT and inequality in capacity of ICT
+utilization. The results of logistic models estimated using the Brazilian datasets allow the disaggregation into main determinants of
+inequality indexes for ICT access. The evolution of the digital divide assessed by inequality indexes and its disaggregation suggests
+that: i) education is the main barrier for personal capacity of ICT goods utilization, being connected to digital illiteracy; and ii)
+income, employment and number of household members are major barriers to access ICT goods.
+However, the impact of external barriers to ICT access has been declining in recent years; whilst effect of educational attainment remains
+expressive throughout time. The results show that education accounts for the majority of inequalities in personal skills for ICT utilization,
+that is, improvements in education policy represent an effective strategy to reduce the digital divide among individuals of the Brazilian
+population in the long run by reducing barriers related to digital illiteracy, evidence that is supported by Davies et al. (2003).
+Regarding the challenges of ageing, digital illiteracy has been considered the main restriction for ICT utilization among elderly
+individuals (Cerno & Amaral, 2006; Demoussis & Giannakopoulos, 2006; Faria, 1991; Goldani, 2004; Japan, 2001; Singh, 2004).
+The results of the study suggest that digital illiteracy, measured by years of education, has negative impact on Internet access among
+elderly individuals; however, the effect of ageing is declining in Brazil along the period from 2005 to 2013.
+Furthermore, the effect of ageing is significantly higher in reference to mobile phone property in comparison to Internet access,
+showing that computer-based Internet access may be more useful for elderly individuals than mobile-based Internet access. The
+barriers to mobile phone property among elderly individuals in Brazil concentrate on external factors linked to ICT goods
+acquisition, according to horizontal inequality coefficients estimated.
+That is, low income and high costs to purchase mobile phones and possibly difficulties in using applications in smartphones affect
+Table 4
+Evolution of Concentration Index and Horizontal Inequality Index in Brazil. 2005–2013.
+Internet access
+Full sample 2005 2008 2011 2013
+Concentration Index 49% 31% 22% 19%
+Horizontal Inequality 35% 22% 16% 14%
+Elderly 2005 2008 2011 2013
+Concentration Index 65% 53% 41% 35%
+Horizontal Inequality 46% 38% 29% 24%
+Mobile phone property
+Full sample 2005 2008 2011 2013
+Concentration Index 31% 20% 12% 10%
+Horizontal Inequality 21% 13% 8% 6%
+Elderly 2005 2008 2011 2013
+Concentration Index 41% 29% 18% 15%
+Horizontal Inequality 22% 17% 9% 7%
+M. Nishijima et al. Telecommunications Policy 41 (2017) 12–24
+22
+the ability to overcome the digital divide among elderly individuals; especially considering extended uses of smartphones other than
+voice services, activities that need large screens. However, the impact of ageing in digital divide tends to decline along time in Brazil
+due to effect of schooling, because the educational attainment of younger individuals is higher than the educational achievements
+observed currently among elderly individuals in Brazil.
+Although barriers of access to ICT have been declining due to digital convergence and prices reduction, the findings of the
+investigation corroborate that adoption of short-term public policy for promoting mobile Internet access is suitable for Brazil,
+according to the proposal of the Knowledge Society. Although there are limitations to Internet access by mobile phone for certain
+purposes, the supply of free Internet access in public places may promote reduction in digital divide observed with regard to Internet
+access among diverse socioeconomic groups in the Brazilian population.
+Additionally, the study allows the analysis of possibilities to increase equality in access to information and communication
+technologies in the country through public policies based on incentives for household Internet subscription and/or acquisition of
+personal mobile phones with Internet connection, especially based on reduction of taxes on ICT goods, since there are still high taxes
+in Brazil applied to ICT products, which are considered to be similar to games and entertainment goods (i.e., sin taxes).
+In sum, the study brings important evidences of evolution and determinants of the digital divide in Brazil, providing
+contributions to support the development of innovative strategies in ICT policy that address the reduction of inequalities in access
+to ICT and the minimization of inequalities in capacity of ICT utilization. The evidences suggest that there is room for short-term
+policy for promotion of mass Internet utilization in Brazil, in order to reduce the share of digital divide in ICT access attributable to
+costs of ICT goods acquisition. A limitation of the study refers to the utilization of educational level of individuals as a measure of
+digital literacy. However, it is important to point out the absence of other proxy variables in Brazilian databases representative at
+population level. In addition, as the Brazilian educational level and quality are still low, it is reasonable to pose that it accounts for
+the major part of difficulties in digital literacy yet.
+Mobile technology is improving quickly, outgrowing some of its important limitations related to Internet utilization. Considering
+that the purpose of mass Internet access is to incentive the spread of information, the adoption of public policies that encourage
+mobile Internet access may also enhance individuals’ social support network and economic opportunities. Mobile broadband access
+enables individuals to have access to relevant information and communication tools that may be carried out with fairly regular
+quality of access anywhere, at any time.
+Appendix A
+See Table A1.
+Table A1
+Estimates of logistic regression for Internet access in Brazil, including interaction variable between age and education. 2005–2013.
+Year 2005 2008 2011 2013
+Dep. variable Internet access Internet access Internet access Internet access
+Female −0.009*** −0.008*** −0.002* 0.004***
+(0.001) (0.001) (0.001) (0.001)
+White 0.039*** 0.038*** 0.038*** 0.036***
+(0.002) (0.002) (0.002) (0.002)
+Age 0.0005*** −0.0004*** −0.0017*** −0.0022***
+(7.4e−05) (8.4e−05) (9.3e−05) (9.8e−05)
+Years of education 0.010*** 0.004*** 0.012*** 0.016***
+(0.0004) (0.0004) (0.0004) (0.0003)
+Years of education per age 0.606*** 0.987*** 0.752*** 0.569***
+(0.013) (0.013) (0.012) (0.013)
+Household size 0.0160*** 0.0213*** 0.0256*** 0.0270***
+(0.0008) (0.0009) (0.0011) (0.0013)
+Household with children −0.0066** 0.0104*** 0.0202*** 0.0309***
+(0.00264) (0.00271) (0.00291) (0.00296)
+Household with elderly −0.049*** −0.039*** −0.044*** −0.052***
+(0.00287) (0.00307) (0.00299) (0.00302)
+Household income 0.171*** 0.176*** 0.152*** 0.148***
+(0.00175) (0.00175) (0.00175) (0.00176)
+Employed individual −0.0358*** 0.0022 −0.0052 −0.0005
+(0.00432) (0.00583) (0.00609) (0.00591)
+Student 0.129*** 0.137*** 0.118*** 0.113***
+(0.00772) (0.00908) (0.00935) (0.00881)
+Constant −0.929*** −0.865*** −0.584*** −0.519***
+(0.0175) (0.0156) (0.0132) (0.0137)
+R2 0.366 0.398 0.409 0.389
+Observations 326,085 315,492 284,870 289,261
+Obs. Standard errors in parentheses. State and region dummies included.
+*** p < 0.01, ** p < 0.05, * p < 0.1
+M. Nishijima et al. Telecommunications Policy 41 (2017) 12–24
+23
+References
+Agência Nacional de Telecomunicações. (2016). Área de prestação por radiofrequência. Brasília: Author.
+Albuja, J., Navas, A., Paguay, D., Moreno, A., & Nájera, P. (2015). Technological GINI: a study of the inequality in Ecuador. In Proceedings of the second
+international conference on edemocracy & egovernment (ICEDEG) (pp. 133–137). Quito: IEEE.
+Balboni, M. R., Rovira, S., & Vergara, S. (2011). ICT in Latin America: A microdata analysis Santiago: United Nations.
+Cerno, L., & Amaral, T. (2006). The demand for internet access and use in Spain. Governance of Communication Networks, 333–353.
+Chakraborty, J., & Bosman, M. M. (2005). Measuring the digital divide in the United States: Race, income and personal computer ownership. The Professional
+Geographer, 57(3), 395–410.
+Çilan, Ç. A., & Özdemir, M. (2013). Measuring domestic digital divide by using latent class analysis: A case study of Turkey. Istanbul University Journal of the School
+of Business, 42(2), 219–234.
+Dasgupta, S., Lall, S., & Wheeler, D. (2011). Policy reform, economic growth, and the digital divide – An econometric analysis Washington, D.C: World Bank.
+Davies, S., Pinkett, R. D., Servon, L., & Wiley-Schwartz, A. (2003). Community technology centers as catalysts for community change: A report to the Ford
+Foundation New York: Ford Foundation.
+Deaton, A. (1997). The analysis of household surveys Baltimore, Maryland: John Hopkins University Press.
+Demoussis, M., & Giannakopoulos, N. (2006). Facets of the digital divide in Europe: Determination and extent of internet use. Economics of Innovation and New
+Technology, 15(3), 235–246.
+Dewan, S., & Riggins, F. (2005). The digital divide: Current and future research directions. Journal of the Association for Information Systems, 6(12), 298–337.
+DiMaggio, P., Hargittai, E., Celeste, C., & Shafer, S. (2004). From unequal access to differentiated use: A literature review and agenda for research on digital
+inequality. Social Inequality, 355–400 Retrieved from 〈http://www.eszter.com/research/pubs/dimaggio-etal-digitalinequality.pdf〉.
+Dudek, H. (2007). Determinants of access to the internet in households – Probit model. In Polish Association for Knowledge Management, Series Studies and
+Proceedings 11.
+European Commission. (2012). Determinants of internet use frequency. Retrieved from 〈http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/
+Determinants_of_Internet_use_frequency〉.
+Faria, W. (1991). Cinquenta anos de urbanização no Brasil: Tendências e perspectivas. Novos Estudos CEBRAP, 29, 98–119.
+Goldani, A. M. (2004). Contratos intergeracionais e reconstrução do Estado de Bem-Estar. Por queue se deve repensar essa relação para o Brasil? , in: Camarano, A. A.
+(Ed.). (2004). Os novos idosos brasileiros: Muito além dos 60? Brasilia: IPEA. Rio de Janeiro: IPEA.
+Hoffman, D. L., & Novak, T. P. (1999) The growing digital divide: Implications for an open research agenda. Retrieved from 〈http://mitpress2.mit.edu/books/
+BRYUH/11.hoffman.pdf/〉.
+Hoffman, D. L. & Novak, T. P. (2012). Toward a deeper understanding of social media. Journal of Interactive Marketing. Editorial, Co-Editor, Special Issue on
+Social Media, 26(May), pp. 69–70.
+Instituto Brasileiro de Geografia e Estatística. (2015). Pesquisa Nacional por Amostra de Domicílios - Síntese de indicadores 2013 (2nd ed.). Rio de Janeiro: Author.
+Retrieved from 〈http://biblioteca.ibge.gov.br/visualizacao/livros/liv94414.pdf〉.
+James, J. (2008). The digital divide across all citizens of the world: A new concept. Social Indicators Research, 89(2), 275–282.
+Japan. (2001). Information and communications in Japan. Ministry of Internal Affairs and Communications. White Paper.
+Kakwani, N. C. (1980). Income inequality and poverty: Methods of estimation and policy applications New York: Oxford University Press, 1980.
+Khalil, M., & Kenny, C. (2008). The next decade of ICT development: Access, application and the forces of convergence. Information Technologies and International
+Development, 4(3), 1–6.
+Loo, B. P. Y., & Ngan, Y. L. (2012). Developing mobile telecommunications to narrow digital divide in developing countries? Some lessons from China.
+Telecommunications Policy, 36(2012), 888–900.
+Lutz-Baliamoune, M. (2003). An analysis of the determinants and effects of ICT diffusion on developing countries. Information Technology for Development, 10,
+151–169.
+Macedo, H. R. (2010). Análise dos possíveis determinantes de acesso à internet em banda larga nos municípios brasileiros. Texto Paraense Discussão, 1503 Brasilia:
+IPEA.
+McCowan, T. (2007). Expansion without equity: An analysis of current policy on access to higher education in Brazil. Higher Education, 53(5), 579–598.
+Montagnier, P., & Wirthmann, A. (2011). Digital divide From Computer Access to Online Activities – A Micro Data Analysis.OECD Digital Economy Papers, No.
+189 Paris: OECD Publishing.
+Neri, M. C. (2003). Mapa da exclusão digital Rio de Janeiro: FGV/IBRE, CPS.
+Organisation for Economic Co-operation and Development. (2001). Understanding the digital divide. Paris: Author.
+Pantea, S., & Martens, B. (2013). Has the digital divide been reversed? Evidence from five EU countries. Digital Economy Working Paper 2013/06. JRC Technical
+Reports. Seville: Institute for Prospective Technological Studies.
+Pew Research Center. (2016). Smartphone ownership and internet usage continues to climb in emerging economies. Washington, D.C.
+Pick, J. B., & Azari, R. (2008). Global digital divide: Influence of socioeconomic, governmental and accessibility factor on information technology. Information
+Technology for Development, 14(2), 91–115.
+Prieger, J. E. (2013). The broadband digital divide and the economic benefits of mobile broadband for rural areas. Telecommunications Policy, 37(2013), 483–502.
+Santos, R., Azevedo, J., & Pedro, L. (2013). Digital divide in higher education students' digital literacy. In Proceedings of European Conference on Information
+Literacy (ECIL 2013). Communications in Computer and Information Science 397 (pp. 178–183).
+Selwyn, N., Gorard, S., & Williams, S. (2001). Digital divide or digital opportunity? The role of technology in overcoming social exclusion in U.S. education.
+Educational Policy, 15(2), 258–277.
+Singh, V. (2004). Factors associated with household Internet use in Canada, 1998–2000 Ottawa: Statistics Canada, 66.
+Vehovar, V., Sicherl, P., Hüsing, T., & Dolnicar, V. (2006). Methodological challenges of digital divide measurements. The Information Society: An International
+Journal, 22(5), 279–290.
+Vicente, M. R., & López, A. J. (2011). Assessing the regional digital divide across the European Union 27. Telecommunications Policy, 35(2011), 220–237.
+Wagstaff, A., van Doorslaer, E., & Watanabe, N. (2003). On decomposing the causes of health sector inequalities, with an application to malnutrition inequalities in
+Vietnam. Journal of Econometrics, 112(1), 219–227.
+Wirthmann, A. (2010). Micro data analysis of internet use in Europe. Statistika: Statistics and Economy Journal, 47(4), 312–329.
+Wirthmann, A. (2012). The European survey on the use of information and communication technologies in households and by individuals Vienna: Centre for Social
+Innovation, 30.
+Zhang, W. (2013). Income disparity and digital divide: The Internet Consumption Model and cross-country empirical research. Telecommunications Policy,
+37(2013), 515–529.
+Zhao, F., Collier, A., & Deng, H. (2014). A multidimensional and integrat
