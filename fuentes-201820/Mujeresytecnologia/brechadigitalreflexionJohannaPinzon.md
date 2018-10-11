@@ -1,8 +1,7 @@
 
 ---
-|titulo: Mujeres y Tecnología
-|fecha: 2018-10-10
-|autor:
-- Johanna Pinzón
-etiquetas: Gender, Women, Technology
+|titulo |fecha |autor|etiquetas|
+|------ -|------|-----|---------|
+ |Mujeres y Tecnología|2018-10-10  |Johanna Pinzón|
+Gender, Women, Technology
 ---
