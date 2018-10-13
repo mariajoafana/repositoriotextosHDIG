@@ -1,0 +1,1002 @@
+Towards understanding digital divide in rural partnerships and
+development: A framework and evidence from rural Australia
+Michael O. Erdiaw-Kwasie*
+, Khorshed Alam
+School of Commerce, Faculty of Business, Education, Law & Arts, Australian Centre for Sustainable Business and Development, University of Southern
+Queensland, Toowoomba, Queensland, Australia
+article info
+Article history:
+Received 9 January 2015
+Received in revised form
+2 December 2015
+Accepted 7 December 2015
+Available online 29 December 2015
+JEL Classification:
+L86
+M14
+H7
+Keywords:
+Digital divide
+Rural partnership
+Rural development
+Local communities
+Mining industry
+abstract
+Despite increasing recognition that the world's social and environmental problems cannot be addressed
+solely by business, government or society in isolation, the role of partnerships in rural development has
+only recently started to attract the interest of rural studies scholars. The study adds to the growing
+stream of research by investigating how the information age's emerging social challenge e the digital
+divide e influences rural partnerships and development. Burgeoning literature evidences that the digital
+divide encompasses not one but many discontinuities. This paper reconceptualises the digital divide
+concept and explores exactly how its shocks and tensions impact rural partnerships and development.
+Results of this research indicate that the digital divide is a threat to the performance of rural partnerships,
+which consequently renders rural development outcomes unsustainable, lopsided and nonparticipatory.
+This paper recommends the need for a more responsive and localised approach to rural
+development partnerships that can enable disadvantaged groups to participate in today's digitally
+connected economy and society.
+© 2015 Elsevier Ltd. All rights reserved.
+1. Introduction
+The impact of information and communications technology
+(ICT) on rural development is a much-contested issue. In most
+developed countries, many communities are able to reap benefits
+from using these valuable resources. However, less technologically
+advanced communities are still unable to take full advantage of the
+information and technology resources that could very well help to
+improve their socio-economic status (Alam and Imran, 2015). As
+the concept of endogenous or grassroots development continues to
+attract increasing interest from academics and policymakers
+(Fałkowski, 2013; Moseley, 2003; Ray, 2000), the issue of ruralpartnerships
+has emerged as a common theme (Derkzen et al.,
+2008; Furmankiewicz et al., 2010). In this research, a rural partnership
+is understood to be the act of bringing diverse public and
+private resources together into innovative collaborations to
+strengthen communities and improve life in rural settings (see
+Furmankiewicz et al., 2014).
+Traditionally, as corporateecommunity partnerships are
+frequently expected to provide benefits and opportunities, businesses
+have therefore become more willing to recognise their role
+as development actors (Kemp, 2010). These roles are frequently
+executed via their partnership mechanisms, reflected in their
+engagement, communication, negotiation, conflict resolution and
+development programming strategies. Queensland, as a state in
+Australia with huge coal seam gas (CSG) deposits, has on occasions
+seen regions and communities experience a significant boom in
+their local economies as a result of interactions between operating
+firms and host communities. The Surat Resource Region in
+Queensland, for example, has a long history in corporateecommunity
+partnership initiatives. This has involved local
+community groups e including property holders' groups, social
+clubs and workers’ unions e interacting with operating firms to
+address community needs, including irrigational projects with
+farmers, rehabilitation of roads and airports, educational scholarships,
+skills apprenticeship opportunities, affordable housing projects,
+environmental projects and sponsorship of community social
+events (CSIRO, 2012). Thus, there is little doubt that
+* Corresponding author.
+E-mail addresses: Michael.Erdiaw-Kwasie@usq.edu.au, michaelodei2012@
+yahoo.com (M.O. Erdiaw-Kwasie), khorshed.alam@usq.edu.au (K. Alam).
+Contents lists available at ScienceDirect
+Journal of Rural Studies
+journal homepage: www.elsevier.com/locate/jrurstud
+http://dx.doi.org/10.1016/j.jrurstud.2015.12.002
+0743-0167/© 2015 Elsevier Ltd. All rights reserved.
+Journal of Rural Studies 43 (2016) 214e224
+corporateecommunity partnerships as a rural development
+mechanism, is promising.
+However, more recently, despite the extensive adoption of
+partnerships and claims of their benefits to businesses and rural
+societies, the reality is that the ability of rural partnerships to foster
+development remains a fragile field (Erdiaw-Kwasie et al., 2014a).
+Data presented in this paper was gathered as part of a broader,
+three-year study that aims to develop and test a model describing
+relational issues confronting partnerships between resource communities
+and energy firms, and the implications of such issues for
+corporate social responsibility (CSR) practices. The broader study
+employed a multi-method and multi-phased research design. This
+incorporates a content analysis of sustainability reports of five
+leading mining companies in the Surat Resource Region in
+Australia, and in-community case studies comprising surveys, interviews
+and focus group discussions (FGDs), which were undertaken
+in four resource towns in the study region. P
+human actors e local or global e but is a multi-authored and
+negotiated process that seeks to engage, define and position a vast
+array of natural, material and social entities. It is therefore not
+surprising that rural studies literature emphasises rural partnerships
+as a vital engine for meaningful grassroots development
+(Clark et al., 2007; Derkzen et al., 2008; Furmankiewicz et al., 2010).
+In traditional rural contexts, rural development partnerships
+appear to be appropriate for introducing new forms of integration
+between existing actors and the efficient use of local resources
+(Keegan and Nguyen, 2011). In the case of a more dynamic rural
+context, rural partnerships usually tend to improve performance in
+the institutional context. In attempting to understand the true attributes
+of what a partnership looks like, Ray (2005) identified two
+basic characteristics. The first states that rural partnership development
+is oriented around maximising the retention of benefits
+within the local territory by valorising and exploiting local resources.
+Second, the development model emphasises local participation
+in the design and implementation of action. A major strand
+of research in rural studies has sought to understand common
+experience and draw lessons on the successes and failures of
+endogenous partnership approaches via international comparative
+studies (see Dax, 2014; Fałkowski, 2013; Marquardt et al., 2012).
+The first case is Moseley's (2003) PRIDE research project
+(1999e2001), which provided comparative analysis of the experience
+of partnerships across Western Europe, drawing mainly on the
+experiences of the EU's LEADER Programme. In the same study, the
+author identified three critical conditions which need to prevail for
+a grassroots partnership to be successful: (i) the competence and
+commitment of partnership staff, (ii) the successful mobilisation of
+local knowledge about the needs and resources of the area, and (iii)
+decision making being exerted at the local level (Moseley, 2003, pp.
+164e165). Elsewhere, Kemp (2010) drew on his ethnographic
+research and gave equal attention to rural community relations
+within the context of the mining industry. His study unveiled that,
+for community relations to gain strength and be meaningful, the
+firm should de-link rural community relations from public
+relations.
+Considering that the practice of rural partnerships is a recent
+experience in most European and Asia Pacific countries, several
+problems remain to be solved if an appropriate contribution is to be
+made by local partnerships to sustainable rural development
+(Geddes, 2006; Macken-Walsh, 2010; Peck and Tickell, 1994). Past
+studies highlight that despite endogenous partnerships providing
+the interface for local initiatives, development actors and partners
+do not attempt to reflect or mirror the local cultural context,
+leading to an ethnocentric approach to partnerships and engagement
+(see Fałkowski, 2013; Marquardt et al., 2012). This limits the
+ability of local communities to build a meaningful partnership
+interface. Despite these important works, the overall corpus of
+grounded, ethnographic studies which focus on partnership challenges
+of the digital divide in a rural context, remains small.
+3. Overview of the digital divide
+3.1. Defining and reconceptualising the digital divide
+After a series of US Government reports adopted the term
+‘digital divide’ e referring to the socio-economic gap between
+communities that had access to computers and the Internet and
+those who did not e the term quickly became one of the political
+and academic ‘hotetopics’ of the 1990s. These debates are rooted in
+a deeper history of the term, which has gained unprecedented
+popularity as occurring between cadres of technological ‘haves’ and
+‘have-nots’ or ‘information rich’ and ‘information poor’ (Howland,
+1998). As general levels of access to computers and the Internet
+have steadily risen, some academics, technologists and politicians
+are talking of ‘the death’ of the digital divide and ‘declaring the war
+won’ (see Strover, 2003; Sutherland, 2004).
+Arguably, after two decades of such digital battle, perception
+about the divide is undergoing huge reassessment. Recent research
+challenges the current popular perception of the digital divide,
+which equates inclusion in the information society with access to
+computers and the Internet. The dichotomous approach (haves vs.
+have-nots) has been challenged as being narrowly focused (Ewing,
+2013), and hence expressions such as ‘redefining the digital divide’
+and ‘beyond access’ have emerged (Underwood, 2007; Van Dijk and
+Hacker, 2003). Servon (2002), for example, asserted that the
+struggle to create such a change in digital divide thinking is
+worthwhile, as earlier conceptualisation of the concept stands a
+high risk of universal access without a social change. Thus, the
+concept of the digital divide was modified as: (i) not only a technological,
+but a social problem, that is, a phenomenon reflecting
+broader social, economic, cultural and learning inequalities, and (ii)
+concerning not only physical access but the required skills for using
+computers/the Internet and what users do with them as well (Alam
+and Imran, 2015; Borisov and Serban, 2013; Van Dijk, 2005). For
+instance, Underwood (2007) shared that the initial digital divide
+definition has been extended from the simple access model of
+physical resources such as computers and broadband connectivity,
+to levels of literacy and skills that allow individuals to fully engage
+in the digital world. Similarly, during the second decade of the 21st
+century, the OECD redefined digital divide as the gap between individuals,
+households, businesses and geographic areas at different
+socio-economic levels with regard to both their opportunities to
+access ICTs and the inequity of the use of the Internet for a wide
+variety of activities (OECD, 2013).
+According to Cisler (2000), connectivity falls along a continuum
+rather than into a bipolar split, and thus the divide concept e which
+implies a bipolar division between the haves and the have-nots, the
+connected and the disconnected e is problematic. Warschauer
+(2003) further confirmed that the notion that the divide-induced
+development gap can be filled by the provision of equipment
+draws attention away from more complex long-term processes that
+bolster social development and inclusion. Information and computer
+technologies (ICTs) can play a critical role in social development
+if, as Jarboe (2001, p.31) advised, we ‘focus on the
+transformation, not the technology’. Servon (2002) indicated that
+IT on its own does not function as a ladder out of poverty or social
+deprivation, but intertwined with other critical factors, it can assist
+in making rural policy efforts more complete and equitable.
+3.2. The digital divide in Australia: the rural realities
+Over the past decade, the rapid expansion of the Internet has
+been transforming the Australian economy. It is likely to play an
+even greater role in the daily lives of people and businesses as the
+country positions itself to become a leading digital economy. After
+the Networking the Nation (NTN) digital divide policy by the Coalition
+Government in 1997, the Labor Government announced the
+National Broadband Network (NBN) in 2009, which was aimed at
+offering Internet speeds over 40 times greater than the current
+average (Hoy, 2007). Today, in spite of the change in government,
+the NBN is still being rolled out through public-private partnerships,
+with changes in implementation plans already evidenced.
+However, recent studies (see Ewing, 2013) indicate that even
+though there is an increase in computer usage and Internet access
+across metropolitan and rural areas in Australia, the digital divide
+within these areas is still not decreasing. Bowles’ (2012) study
+confirmed that, despite conscious efforts by the Australian Government
+in pursuing various policies to bridge the digital divide
+216 M.O. Erdiaw-Kwasie, K. Alam / Journal of Rural Studies 43 (2016) 214e224
+since the mid-1990s, it is feared that the digital divide is in danger
+of widening in Australia.
+The rural dimensions to the digital divide are much evidenced in
+the Australian context. Many Australian studies on Internet usage
+and digital divide have claimed that the divide is present across
+urban and rural areas. However, a more recent dataset confirms
+that the rural areas in Australia are in a disadvantaged position in
+terms of various socioeconomic indicators compared to their urban
+counterparts (Australian Bureau of Statistics (ABS, 2013a). In 2013,
+the Internet diffusion rate in Australia was recorded to have crept
+up but the distribution of access was far from equitable, particularly
+between residents in metropolitan cities and rural communities in
+regional areas. Exclusion is more concentrated in areas of socioeconomic
+disadvantage such as urban fringe areas and public
+housing estates, and for those with no fixed abode (ABS, 2012; Cole,
+2012). Recent studies have concluded that disadvantaged groups
+within Australia e including people in rural communities, refugee
+communities, Indigenous communities and culturally and linguistically
+diverse communities e are more likely to be victims of
+digital exclusion (see Alam and Imran, 2015; Walton et al., 2013).
+Surveys have indicated that the underpinning reasons for such a
+divide in Australia cut across socio-economic, demographic, ethnic
+and political factors (Alam and Imran, 2015; Atkinson et al., 2008;
+Bowles, 2011; Lee, 2011; Rennie et al., 2013). For instance,
+Atkinson et al. (2008) while exploring digital divide in Albany, a
+regional city in Western Australia, found the presence of digital
+divide in relation to age, education and income levels e an observation
+that was mirrored in Bowles (2011). Consequently, in
+recognition of these disparities, beliefs that the Internet will
+enhance the grassroots development process, allowing many more
+people to use on-line resources to engage, mobilise and participate
+in public life directly in policy or rural development discussions still
+remain a distant hope for rural regions in Australia (Zappal
+a et al.,
+2000; Charleson, 2012).
+4. Methods
+4.1. Proposed framework
+Fig. 1 presents a framework developed following the literature
+review on the three central concepts that form the fulcrum of this
+study. From the preliminary review of the extant literature, it was
+evidenced that the digital divide does influence rural partnership
+status (Alexopoulos et al., 2010; Cresci and Jarosz, 2010); similarly
+rural partnership systems influence development outcomes (Clark
+et al., 2007; Derkzen et al., 2008). This paper thus presents this
+existing relationship within a three-phased, bi-relational framework,
+as shown in Fig. 1.
+Interestingly, despite such an illustrated link among these
+concepts, underlying factors which underscore such relationships
+have not yet been empirically explored and tested. Thus, this paper
+intends to inductively explore underscoring issues within each
+central concept, hence promoting nuanced understandings of how
+they influence each other. Following the ultimate aim of this study,
+the illustrated framework poses three underlying research questions
+(RQ), which this paper ultimately addresses:
+RQ1: What is the state of the digital divide among community
+groups within the Surat Resource Region?
+RQ2: How does the digital divide influence rural partnerships'
+performance?
+RQ3: How do the partnership challenges of the digital divide
+impact rural development?
+4.2. Research approach, sampling and data collection
+This study took an inductive research approach towards
+addressing its guiding questions. Inductive research is a systematic
+procedure for analysing qualitative data in which the analysis is
+likely to be guided by specific evaluations (Thomas, 2006). The
+approach involves detailed readings of the raw data to derive key
+constructs, themes or models through researchers’ interpretations
+of the raw data. Considering the ability of inductive approaches to
+allow research findings to emerge from the frequent, dominant or
+significant themes inherent in raw data (Gioia et al., 2012), this
+approach is ideal for obtaining realistic constructs that underpin
+the interrelationships between the digital divide, rural partnership
+and rural development.
+Data presented in this article were collected by the researchers
+on four separate site visits within a four-month period (SeptembereDecember,
+2014). During the data collection period, the researchers
+held interviews and focus group discussions (FGDs) with
+the purposively sampled population.
+Interview findings and discussions were drawn from situated
+engagement by the researchers with 30 respondents from seven
+sampled rural community groups, as described in Table 1. All interviews
+were tape-recorded, transcribed verbatim and transferred
+into the NVivo software which was used for the data analysis. For
+the purpose of the analysis captured in this paper, as all the seven
+sampled rural community groups were coded RG1, RG2, RG3, RG4,
+RG5, RG6 and RG7, interview respondents were coded R1, R2, R3 …
+R30 respectively. After the interviews, two follow-up FGDs were
+held in Chinchilla and Miles-Wandoan to validate the findings from
+interview sessions. Here, the two FGDs were coded as Chinchilla
+FGD (FGD1) and Miles-Wandoan FGD (FGD2). FGD participants
+were then coded P1, P2, P3...P19. Participants included community
+group leaders, local council staff, NGO representatives and legal
+practitioners. The FGDs in each community were also recorded and
+transcribed.
+Qualitative thematic analysis was performed on the gathered
+primary data. The researcher followed a stepebyestep process of
+successfully handling the data analysis, which included organising
+the data, finding and organising ideas and concepts, building overarching
+themes in the data, and ensuring reliability and validity in
+data analysis (O'Connor and Gibson, 2003).
+Fig. 1. A framework showing the digital divide, rural partnership and development.
+M.O. Erdiaw-Kwasie, K. Alam / Journal of Rural Studies 43 (2016) 214e224 217
+4.3. Case study communities
+The Surat Resource Region is renowned for producing agricultural
+and energy resources for both domestic and international
+consumption. Its natural endowment has attracted a number of
+companies to operate within the region. Of the different forms of
+unconventional gas, the most developed in Australia is coal seam
+gas (CSG), which has rapidly expanded in the state of Queensland
+over the past decade (Fleming and Measham, 2014; Geoscience
+Australia, 2012; Keogh, 2013). According to Geoscience Australia
+(2012), as of 2011, Queensland possessed over 90 per cent of the
+country's known economically demonstrated resources of CSG, of
+which the Surat Basin is a key host (see Fig. 2). In balancing priorities
+between these conflicting sectors that form the backbone of
+the region's economy, the Queensland Government is currently
+mounting policies and strategies to ensure that accelerated growth
+of the resources sector does not disadvantage the food and agricultural
+sectors, the environment, or the communities' health and
+wellbeing (Queensland Treasury and Trade, 2014).
+As at 30 June 2013, the estimated resident population of the
+Surat Basin Resource Region was 47,212. The region is comprised of
+six towns (classified as statistical area level 2 (SA2)): Chinchilla,
+Miles-Wandoan, Roma, Tara, Wambo and Roma Region
+(Queensland Treasury and Trade, 2014), whose population dynamism
+has influenced the constant increase in the region's population
+over recent decades. Recent research by Queensland Treasury
+and Trade (2012) indicated that much of this increase was due to
+rapid development of CSG projects and the level of construction
+Table 1
+Interview sample description.
+Sample Description
+Size 30 respondents from seven rural community groups in the four sampled communities, namely: Chinchilla e 2; MileseWandoan e 1;
+Roma e 3; and Wambo e 1
+Criteria for selection The group must:
+- be functional in the sampled community
+- be willing to participate
+- be located in a rural area in the region
+- have a direct or indirect relationship with existing energy firms
+Characteristics of group
+respondents
+Occupation: Farmers (75%), Miners (15%), Service providers (10%)
+Education: Tertiary (35%), High school (55%), Others (10%)
+Fig. 2. Map of the Surat basin resource region.
+Source: Adapted from Queensland Treasury and Trade, 2014.
+218 M.O. Erdiaw-Kwasie, K. Alam / Journal of Rural Studies 43 (2016) 214e224
+activity in the rural areas.
+In the Surat Resource Region, large corporations in the mining
+industry use their community information centres as an interface
+for interaction with local groups and residents, where the face-toface
+approach is not uncommon (Hilson, 2011). However, in recent
+times, digital (online) approaches to stakeholder interactions have
+gained popularity as an emerging engagement technique among
+operating firms. The complexities associated with these newer
+approaches are evidenced among populations living in the town
+centres and the rural regions. This study describes the rural areas
+within the case regions as places located more than 5 km from a
+town.
+The Surat Resource Region forms part of the Western Downs,
+where it has been estimated that 90 per cent of households have
+computers and over 85 per cent of households have home access to
+the Internet (Alam and Salahuddin, 2015). This suggests a high
+connectivity for the region as a whole. However, it is difficult to
+determine the connectivity rate of the Surat Resource Region, as
+region-specific data are lacking. Given that the population of the six
+statistical areas which make up the Surat Resource Region reflect
+the regional socio-demographic average, it can be inferred that the
+Surat Resource Region has a similar connectivity level. However,
+the digital chasm among the case regions varies.
+5. Results
+To deconstruct the traditional conceptualisation of the digital
+divide, and to gain a more holistic understanding of its dimensions,
+the present study addresses the three basic questions posited by
+the proposed framework.
+5.1. What is the state of the digital divide among community groups
+within the Surat Resource Region?
+The data obtained from the interviews and FGDs held within the
+sample local communities unveiled that the digital divide manifests
+among local community groups in three basic forms: (i) ‘Not
+having ICT’ (lack of digital physical access/connectivity), (ii) ‘Having
+ICT but being unable to use it’ (lack of skills and knowledge), and
+(iii) ‘Its attributes do not meet expectations’ (digital contents).
+It was evidenced from the findings that the dimensions of the
+digital divide vary among individual communities. Interestingly,
+despite such variation, the observed trend from the study data
+indicated that digital connectivity has significantly increased. This
+can be confirmed through a common view shared by some respondents
+that physical access to computers and the Internet is
+gradually becoming a common asset; and as access increases,
+concerns about access is becoming a thing of the past among many
+community groups. However, closer examination of the data
+revealed that digital access is still a cause for concern within local
+community groups, but has changed and taken up new forms.
+Across all of the participants, digital access barriers manifest
+themselves where a person has a computer but no Internet e a very
+common situation in rural locations within the sampled regions. As
+indicated:
+“Our group has its own computers but no reliable source of Internet
+… so we usually use these computers to store records of [the]
+group's activities and data, but not for any form of communication
+with energy firms” (R1 e RG1).
+“Our group is new and used to be part of an older group located in
+town. At the moment, we are located further from the town centre
+and have no Internet at our place of meeting. We try to handle
+things manually in terms of information dissemination among
+members and interactions with firms” (R1, RG5).
+The consequences of such a ‘half’ divide access pattern was
+described by participants in terms of the same social problems that
+accompany the ‘full digital divide’, ranging from economic to cultural
+and learning inequalities.
+Also, a significant proportion of the sampled group respondents
+emphatically stated that, the digital training dimension of the
+divide is a great challenge; this trend was reflected in all FGDs. A
+significant number of the interviewed group respondents revealed
+that local council plans towards creating a digital economy exclusively
+focus on increasing access to computers and the Internet, but
+the knowledge of how and why ICT can be a key resource is poorly
+addressed, particularly within rural settings. A respondent clearly
+shared that:
+“......Many of our members lack the technical know-how for managing
+the use of the Internet. We usually communicate with
+members through emails, but many still prefer the face-to-face
+approach to information sharing” (R1, RG2).
+Participants at the FGDs also described instances where there is
+the presence of computers and the Internet in many homes of
+group members, however, these continue to be underutilised. In
+cases where such resources are utilised, more focus has been placed
+on the usual online chats with friends and families, rather than uses
+for any community group-related activities such as emails, online
+surveys and knowledge sharing.
+Increasingly, however, community groups are developing strategies
+which incorporate digital literacy into most programs they
+organise for members. Several participants suggested that such
+training has been helpful, but there is a long way to go towards
+realising the purpose and its end value.
+“[The] majority of rural groups have limited knowledge of the
+Internet. [Some] groups have introduced new basic training programs
+to help equip members with needed skills. The problem is
+[these groups have limited human resources and so their] current
+capacity to provide training remains limited” (P1, FGD 2).
+A significant portion of participants indicated that the low level
+of IT literacy (the ability to use IT for a range of purposes and the
+associated skills required) among communities has contributed to
+the divide dimension among many rural groups. In addition, those
+who volunteer to help other group members to acquire such skills
+are often poorly trained themselves; furthermore, groups usually
+have limited equipment with which to carry out the training
+sessions.
+A final point relates to the content dimension of the digital
+chasm, in which the Internet is utilised but the knowledge gap and
+biased digital content yield user dissatisfaction, which dissuades
+them from future engagement with information technology. Many
+group respondents clearly indicated their anxiety regarding the
+language used on the Internet. Several group-leader interviewees
+also suggested that issues discussed on community web pages and
+other related sites were gradually being clouded by the activities of
+the CSG industry.
+“… Community online pages, which used to update us on new
+community developments, are gradually losing [their] value.
+Nothing relevant to our wellbeing is shared other than the usual
+lies of the CSG [industry]” (R1, RG6).
+“Companies' activities only benefit town-centre residents and
+groups. Thus, going online to see the same usual stories is worrisome.
+M.O. Erdiaw-Kwasie, K. Alam / Journal of Rural Studies 43 (2016) 214e224 219
+We hardly use emails as [a] petition channel to firms because they
+don't take them seriously. Thus, hopping onto the Internet to interact
+with firms is a waste of time” (R2, RG5).
+These findings were further supported by outcomes of the FGDs,
+where several participants showed their frustration and shared
+that community digital forums, such as social media sites, have
+now become ‘platforms’ crowded with rhetoric and promises of the
+energy companies.
+5.2. How does the divide influence rural partnerships status?
+Thematic analysis of the interviews and FGDs evidenced three
+central themes as the impacts that the digital divide has on rural
+partnerships’ status. These are: (i) mismatches in interest, (ii) power
+inequalities, and (iii) exclusion.
+Internet network coverage is limited on most rural groups’
+properties. This critical issue was highlighted in both FGDs of the
+study. Several participants argued that the poor network services
+within the range of their properties is a great challenge.
+“I live on the farm … this reminds me. Over a year ago, a property
+holders' group [of which] I happen to be a member were told about
+an upcoming online engagement forum. The usual few lucky towncentre
+social groups ended up being used for the survey with some
+incentives for members … all because it was ascertained that the
+survey was purely online” (R2, RG1).
+Participants expressed their discontent and suggested that
+outcomes of such problematic and biased engagement approaches
+do not address the true concerns of rural communities.
+One key issue highlighted by participants in the FGDs was the
+comparison between digital engagement approaches and face-toface
+approaches. Participants acknowledged the weakness of the
+face-to-face form of community engagement, where company officials
+meet up with community residents to deliberate on pressing
+issues. However, participants were more strongly opposed to the
+ramifications of the digital approach. As the digital engagement
+approach within rural regions is characterised by the involvement
+of just those members of the population who have satisfactory
+Internet and network access, the perceived community need does
+not always match the reality.
+“… being cut off, or having limited chances to add input to decisions
+that matter to our progress, makes the quality of such partnership
+questionable” (R3, RG5).
+In other words, the face-to-face approach creates platforms for
+wider participation compared to the digital or virtual approach,
+particularly in rural regions where the quality of the network access
+is doubtful. Participants therefore indicated that the digital divide
+marginalises rural groups and prevents them from contributing to
+decisions that impact upon them. Generally speaking, the emergence
+of digitised stakeholder engagement practices can derail the
+relationships that rural communities establish with development
+actors. According to some participants, such interactions are characterised
+by struggles and conflicts as the exclusions and inequities
+increase.
+Considering these observations, it is unsurprising that the digital
+divide does increases the power imbalance within rural partnerships
+between rural groups and firms. As shared, that
+information is power, and power has a relational character (Lappe
+and DuBois, 1994; Erdiaw-Kwasie et al., 2015), a significant number
+of participants argued that a breakdown in communicative
+action through ineffective information channels can naturally
+hamper achieving power-equity within rural partnerships.
+“… Yes, the law gives power. However, in today's business world,
+solving power differences within rural partnerships goes beyond
+the law …” (P1, FGD 1).
+Several interviewees expressed their concerns and indicated
+that digitised engagement practices by firms with local groups will
+compound the power chasm, which has its roots in the resources
+legislation of the state government.
+Rural communities suffer when corporations fail to tailor partnerships
+to the various manifestations of the digital divide. A
+participant clearly suggested that:
+“… I think digital initiatives by firms in their operations are of
+paramount importance. What is missing is when and how to blend
+well such digital initiatives with local conditions, and this has
+sidelined efforts of rural groups in such relationship[s]” (P2, FGD 2).
+Other responses also confirmed that communities continue to
+struggle with the digital divide, which limits their power in influencing
+corporate decisions, and consequently limits their development
+as a community.
+Moreover, study data revealed that social development initiatives
+are often conceived in the premises of firms rather than
+through thorough participation with the beneficiaries. Several interviewees
+described the current engagement pattern of the firms
+as ‘selective’, as it is geared towards areas where they can easily
+gain publicity for their actions, to the detriment of rural areas,
+which suffer most from such mining operations.
+“… Due to the prevalence of the divide in rural regions, firms easily
+interact with local groups in the town centre more than rural ones.
+Thus, major developed social initiatives tend to strengthen and
+support goals of town-centre groups more than their rural counterparts”
+(R1, RG3).
+A significant portion of the participants commented that, what
+may be perceived by firms as key priority needs of local communities
+may, in reality, not reflect the true needs of the entire
+community.
+Reflections from the FGDs enunciated and confirmed the findings
+of earlier interviews. As participants tried to dissect the impacts
+of the divide, in the context of the interests of both the firms
+and rural community groups, the issue of ‘self-prioritised’ needs
+came to the fore. From the perspective of the participants, firms
+cannot pursue proper community development agenda in rural
+regions without a critical reconsideration of the roles of local
+community groups e who tend to serve as the local engine to foster
+local growth.
+5.3. How do partnership challenges of the divide influence rural
+development?
+Thematic analysis of the study's data found three broad themes
+that illustrate the repercussions of partnership challenges of the
+divide for rural development initiative outcomes. Here, development
+outcomes tend to be (i) unsustainable, (ii) lopsided, and (iii)
+non-participatory.
+The data unveiled that as partnership systems are continuously
+eroded by the diverse dimensions of the divide, non-participatory
+forms of development emerge in their place. Shared comments
+by key actors of sampled community groups indicated that, a
+partnership with a huge power imbalance is more likely to give rise
+220 M.O. Erdiaw-Kwasie, K. Alam / Journal of Rural Studies 43 (2016) 214e224
+to outcomes that are devoid of actual voices of beneficiaries of such
+development interventions. During the FGDs, participants unveiled
+an interesting argument around how the technology-oriented
+engagement approach is eroding the traditional principle of
+participation in firms’ interactions with host rural community
+groups. Several participants agreed that the technology gap leaves
+passive participation as the only option available to many rural
+groups, as they are only informed of proposed corporate plans after
+prior consultation with prioritised partners.
+Also, study findings clearly showed that partnership challenges
+have negative implications for the sustainability of development
+programs and project outcomes initiated by energy companies.
+Significant numbers of respondents indicated that the sustainability
+of the outcomes of development initiatives hugely depends
+on its partnership source e whereas a healthy and mutual source
+provides enabling environments for such outcomes to thrive well,
+the converse is also true.
+“… To me one thing is obvious, if the root is weak the tree will surely
+fall soon. They [energy firms] have not done things right with
+working with rural community groups. Thus, whatever develops
+from such a sick partnership will not last” (R2, RG3).
+“… The current partnerships between the energy firms and many
+rural groups makes [each] development intervention to appear
+more of a casual gift than [a] true development initiative” (R3,
+RG2).
+Sustainability (or otherwise) of development outcomes was an
+issue of great interest to the participants as they discussed why
+some community projects fail or are short-lived. Several participants
+concurred that the weak relationships between rural community
+groups and firms cause corporate-led development
+initiatives to lack adequate support from the local population.
+Location preference emerged as a key factor when assessing the
+status of the partnership systems that firms create with local
+groups. Study findings showed that local groups based in the town
+centres are considered the first point of contact and are prioritised
+by existing firms in their engagement policies and practices due to
+their adequate access to digital resources. On the other hand,
+groups located on the outskirts of the town face partnership challenges
+of the divideein terms of finding enabling environments to
+make their claims heard and have them addressed, as well as
+influencing overall corporate development decisions.
+“On a good day where energy firms want to do something right
+with their development programs, they capture views of some local
+groups. But it is always them [the town-centre local groups] (e.g.
+social clubs) who have a reliable digital access. Rural groups (e.g.
+property holders' groups), which fight for [the] rights of rural folks,
+are only considered when they [firms] need a property to host their
+wells” (P2, FGD 1).
+“Development only goes to areas where the public can see their socalled
+good works. This camouflage kind of development is for their
+enlightened interests and makes community development a more
+one-sided thing” (R4, RG5).
+“… more pressing needs of us [community residents] are less prioritised
+by firms, given that our groups, who are greatly challenged
+by inadequate digital access, have limited chance to influence
+development decisions sponsored by operating firms” (R1, RG4).
+According to the study data, the digital divide is one critical
+factor that has accounted for such a dichotomy between towncentre
+local groups and the rural groups. This produces
+unbalanced, inequitable development from the outset.
+6. Discussion
+The study results provide key insights into three core rural
+concepts: the digital divide, rural partnerships and rural development,
+which the existing literature shows are closely interrelated.
+Holistically viewed, the study results improve and expand upon the
+initial framework derived from the preliminary literature review;
+thus, Fig. 3 shows a revised framework that requires quantitative
+validation.1
+The digital divide challenge was evidenced among rural community
+groups, and this was manifested in three central themes:
+access, skills and content. The presence of the access and skills
+dimensions of the divide concurs with the findings of recent similar
+works (Alam and Imran, 2015; Atkinson et al., 2008; Bowles, 2011;
+Lee, 2011). Though we see some signs of decline in the divide due to
+improvements in the telecommunication network and physical
+access to ICT among rural groups, the study results showed that
+rural groups are recording improved access to digital devices
+without the Internet. In cases where the Internet is available,
+ITeliterate people within rural groups are few, and do not constitute
+a strong enough human resource for their respective groups.
+The data also provided empirical evidence supporting what Servon
+(2002) described as a divide situation wherein people access the
+Internet but are limited by a knowledge gap that separates them
+from any meaningful understanding of issues shared. The study
+findings identified that users’ expectations and interests constitute
+key determinants in addressing the content dimension of the digital
+divide in the rural context.
+In exploring the impacts that the digital divide can have on rural
+partnership systems, the present study results found three key
+impacts: mismatched interests, widened power-inequality, and
+exclusion. Evidence showed that the industry's traditional face-toface
+community consultation is gradually being replaced by more
+digital engagement approaches, which are perceived as more costeffective
+and easily accessible for stakeholder. Looking at the study
+results and revisiting the purported digital claims, the impacts that
+many digital proponents hoped it could have on rural partnership
+systems still remains a mirage, and worst of all, has led to new
+partnership challenges that have exacerbated the plight of rural
+community groups. Study data showed that as corporations strive
+to go digital in their operations, a significant number of disadvantaged
+groups continue to struggle with access to the skills, tools and
+resources needed to digitally engage. Thus, findings suggest the
+need for engagement approaches to be significantly sensitive to
+different actors' participation abilities, power relations and their
+digital capacities at play, in cross-rural partnerships.
+In addition, what became clear during the study is the direct
+impact that partnership systems have on rural development outcomes.
+The data suggested that many actors come in to play when
+we talk about a region's development, and that overlooking the role
+that each partner plays has irreversible consequences on development
+outcomes. It is therefore evidenced that partnership challenges
+of the digital divide negatively affect rural development
+initiatives, where outcomes lack local knowledge and support. We
+critically observe that the issue of ‘self-prioritised’ local needs by
+firms is a travesty to the whole idea of grassroots development, as it
+compromises on the significance of locals' input within the development
+process. To quote Schumacher: ‘[If] the people … are
+1 It is imperative to empirically test the constructs in the proposed framework
+using quantitative techniques, as it will help validate the findings presented in this
+paper and ultimately refine the study's framework.
+M.O. Erdiaw-Kwasie, K. Alam / Journal of Rural Studies 43 (2016) 214e224 221
+helped to help themselves, I have no doubt that a genuine development
+will ensue … [But it] cannot be “produced” by skillful
+grafting operations carried out by foreign technicians or an indigenous
+elite that has lost contact with the ordinary people.’ (Schumacher
+cited in Frynas, 2005, p. 589).
+In their attempts to understand how rural development setbacks
+arising from the digital divide can be addressed, several
+participants suggested that firms' partnership policies and approaches
+should be sensitive to the prevailing conditions within a
+given locality, as the digital capacity of regions varies. This finding
+supports a similar observation made by Furmankiewicz et al.
+(2010), when considering rural partnerships within the Polish
+local government set up. This study further affirms the relevance of
+digital empowerment of local communities as an ideal pathway
+towards offsetting rural partnership challenges, particularly in the
+case of resource communities and social impact industries. Interestingly,
+contemporary exigencies necessitate organisational social
+responsibilities to be built around communities’ needs and expectations,
+while also providing room for community empowerment
+(Erdiaw-Kwasie et al., 2015; Idemudia and Ite, 2006). Conspicuously,
+digital empowerment of rural groups and regions has the
+potentials to positively influence rural partnership systems and
+grassroots development outcomes (see Furmankiewicz et al., 2014;
+Townsend et al., 2013).
+7. Conclusion
+This paper presented a new dimension of the rural partnership
+development studies debate. Though rural development has been
+coined around initiatives undertaken by partnerships between
+local communities and other stakeholders such as local government
+institutions, businesses and NGOs, little has been seen in rural
+studies on how the emerging global canker e the digital divide e
+influences the effectiveness of rural partnerships. From the perspectives
+of mining and rural partnership development, this remains
+polarised. The study findings add to the stream of knowledge
+in this emerging field in rural studies by providing suggestions that
+has policy and empirical implications.
+In policy and practice terms, this study makes a significant
+contribution towards an understanding of the divide-induced
+tensions existing within rural partnership development; these
+can serve as a guide to rural planners and development practitioners.
+As the paper presents key social issues associated with the
+divide from a rural perspective, it calls for significant reforms in
+resource development policy initiatives. Ideally, rural community
+groups may become advocates for local development initiatives.
+However, stewardship may not occur if rural groups feel the
+engagement practices of firms do not provide enough support for
+them to play significant roles in the resource development process,
+as well as reshaping development initiatives towards meeting societal
+expectations. This is a key finding also worth consideration
+among policy makers in government institutions, corporations,
+international development agencies and NGOs, who interact and
+partner with rural regions in diverse ways.
+Further, as the ‘going digital’ slogan gains popularity within the
+global business hemisphere, study findings confirm that rural
+mining communities lag behind in terms of access, knowledge and
+content in adapting to the digital pace. Thus, there is the need for a
+more responsive and localised partnership analytical approach
+within social impact industries (e.g. resource industry) that can
+inform meaningful dialogue, open decisionemaking and sharing of
+mutual futures. The absence of such analytical approaches to guide
+the practices of developers can result in a loss of trust and conflict
+of interest, and may in some extreme cases reduce the partnership
+interface to a battleground where consensus is hard to reach. This
+paper can therefore serve as a pathway in efforts towards developing
+meaningful partnership analytical approaches that can
+enable disadvantaged groups to participate in today's digitally
+connected economy and society. This can, in turn, provide the kind
+of enhancement necessary to make rural development initiatives a
+success.
+The paper, however, reveals two critical concerns worth investigating
+in future studies. First, considering that the study interviews
+were mainly conducted with local communities and not
+mining companies, exploring the corporate view is timely, as it can
+open up a different side of presented argument. Second, this paper
+ascertains that quality partnerships require not only institutional
+changes e particularly changes in procedures for decisionemaking
+and control over resources, but also a focus on enhancing the capabilities
+of rural regions to exercise their new rights and responsibilities
+in the whole resource development process. Thus,
+there is the need for future research to focus attention on how local
+empowerment initiatives within rural regions can help overcome
+the digital divide challenge to help build healthy partnerships. It is
+such a partnership type that can help rural communities to take
+charge of their own development e a mechanism that defines
+meaningful local development from a rural perspective.
+Fig. 3. The Divide-Partnership-Development framework.
+222 M.O. Erdiaw-Kwasie, K. Alam / Journal of Rural Studies 43 (2016) 214e224
+Acknowledgement
+We would like to thank the University of Southern Queensland,
+Australia for funding this research mainly through the Postgraduate
+Research Scholarship as well as partly through the Collaborative
+Research Network Program. We also acknowledge the valuable
+comments and suggestions made by the participants in the Symposium
+on Broadband-enabled Communities and Regional Development
+held at the University of South Queensland, Toowoomba
+during November 10e11, 2014. The authors are grateful to Clare
+Harris, who assisted with the proof reading of this article. Thanks
+also to the anonymous referees of Journal of Rural Studies and Dr.
+David E. Beel, member of the guest editorial team for this special
+issue, for insightful comments on earlier drafts of the paper.
+References
+Alam, K., Imran, S., 2015. The digital divide and social inclusion among refugee
+migrants: a case in regional Australia. Inf. Technol. People 28 (2), 1e14.
+Alam, K., Salahuddin, M., 2015. Assessing Digital Divide and its Determinants: a
+Case Study on Households' Perception in the Western Downs Region. Australian
+Digital Futures Institute and Australian Centre for Sustainable Business and
+Development, University of Southern Queensland, Toowoomba.
+Alexopoulos, G., Koutsouris, A., Tzouramani, I., 2010. Adoption and use of ICTs
+among rural youth: evidence from Greece. Int. J. ICT Hum. Dev. 2 (3), 1e18.
+Atkinson, J., Black, R., Curtis, A., 2008. Exploring the digital divide in an Australian
+regional city: a case study of Albany. Aust. Geogr. 39 (4), 479e493.
+Australian Bureau of Statistics (ABS), 2013. A Review of Regional Development
+Australia Committee 2010-11 Regional Plans: Issues Identified by Regions. Cat
+no. 1318.0. Australian Bureau of Statistics, Canberra.
+Australian Bureau of Statistics (ABS), 2012. Internet Activity June 2012. Cat no.
+8153.0. Australian Bureau of Statistics, Canberra.
+Bice, S., 2013. No more sun shades, please: experiences of corporate social responsibility
+in remote Australian mining communities. Rural. Soc. 22 (2),
+138e152.
+Borisov, D., Serban, E., 2013. The digital divide in Romania e a statistical analysis.
+Econ. Ser. Manag. 15 (1), 347e355.
+Bowles, M., 2012. Digital Economy and Regional Futures: ICT Future Foresight.
+Innovation and Business Skills Australia, Melbourne.
+Bowles, M., 2011. Realizing the Full Socio-economic Promise of the National
+Broadband Network (NBN) in Preparing All Regions of Australia for Participation
+in the Digital Economy. Innovation and Business Skills Australia,
+Melbourne.
+Chambers, R., 2008. Revolutions in Development Inquiry. Earthscan, London and
+Sterling, VA.
+Charleson, D.M., 2012. Bridging the digital divide: enhancing empowerment and
+social capital. J. Soc. Inclusion 3 (2), 6e19.
+Chigbu, U.E., 2013. Fostering rural Sense of place: the missing piece in Uturu,
+Nigeria. Dev. Pract. 23 (2), 264e277.
+Clark, D., Southern, R., Beer, J., 2007. Rural governance, community empowerment
+and the new institutionalism: a case study of the Isle of Wight. J. Rural Stud. 23,
+254e266.
+Cisler, S., 2000. Subtract the Digital Divide. Online essay. Retrieved 7 July, 2013.
+http://home.inreach.com/cisler/divide.htm.
+Cornwall, A., Lucas, H., Pasteur, K., 2000. Introduction: accountability through
+participation: developing workable partnership models in the health sector. IDS
+Bull. 31 (1), 1e13.
+Cole, J., 2012. World Internet Project, fourth ed. University of Southern California,
+United States.
+Cresci, M.K., Jarosz, P.A., 2010. Bridging the digital divide for urban seniors: community
+partnership. Geriatr. Nurs. 31 (6), 455e463.
+CSIRO, 2012. Coal Seam Gas Developmentsdpredicting Impacts. CSIRO, Australia.
+http://www.csiro.au/news/~/media/3C0EBC3E287F436880FDB5959B0796D0.
+ashx.
+Dax, T., 2014. The evolution of european rural policy. In: Copus, A., de Lima, P. (Eds.),
+Territorial Cohesion in Rural Europe: the Relational Turn in Rural Development.
+Routledge, London.
+Davis, R., Franks, D.M., 2014. Costs of Company-community Conflict in the Extractive
+Sector. Corporate Social Responsibility Initiative Report No. 66. Harvard
+Kennedy School, Cambridge, MA.
+Derkzen, P., Franklin, A., Bock, B., 2008. Examining power struggles as a signifier of
+successful partnership working: a case study of partnership dynamics. J. Rural
+Stud. 24, 458e466.
+Erdiaw-Kwasie, M.O., Alam, K., Shahiduzzaman, Md, 2015. Towards understanding
+stakeholder salience transition and relational approach to better corporate
+social responsibility: a case for a proposed model in practice. J. Bus. Ethics.
+http://dx.doi.org/10.1007/s10551-015-2805-z (Article published online).
+Erdiaw-Kwasie, M.O., Khorshed, A., Shahiduzzaman, M., 2014a. Bettering corporate
+social responsibility through empowerment and effective engagement practices:
+an Australian mining perspective. In: Higgins, C., Hendry, J.R. (Eds.),
+Proceedings of the Twenty-fifth Annual Meeting of the International Association
+for Business and Society, pp. 140e150.
+Erdiaw-Kwasie, M.O., Khorshed, A., Shahiduzzaman, M., 2014b. Engagement,
+empowerment and rural mining communities. In: Keppell, M., Reushie, S. (Eds.),
+Proceedings of the Digital Rural Futures Conference. University of Southern
+Queensland, Australia, pp. 36e37.
+Ertuna, B., Kirbas, G., 2012. Local community involvement in rural tourism development:
+the case of Kastamonu, Turkey. PASOS 10 (2), 17e24.
+Ewing, S., 2013. The Digital Divide: Narrowing but Deepening. Swinburne University
+of Technology, Melbourne, Australia.
+Fałkowski, J., 2013. Political accountability and governance in rural areas: some
+evidence from the pilot programme LE ADER þ in Poland. J. Rural Stud. 32,
+70e79.
+Fleming, D.A., Measham, T.G., 2014. Local economic impacts of an unconventional
+energy boom: the coal seam gas Industry in Australia. Aust. J. Agric. Resour.
+Econ. 58.
+Frynas, J., 2005. The false developmental promise of Corporate Social Responsibility:
+evidence from multinational companies. Int. Aff 81 (3), 581e598.
+Furmankiewicz, M., Macken -Walsh, A., Stefa  nska, J., 2014. Territorial governance,
+networks and power: cross-sectoral partnerships in rural Poland. Geogr. Ann.
+Ser. B, Hum. Geogr. 96 (4), 345e361.
+Furmankiewicz, M., Thompson, N., Zielinska, M., 2010. Area-based partnerships in
+rural Poland: the post-accession experience. J. Rural Stud. 26, 52e62.
+Geddes, M., 2006. Partnership and the limits to local governance in England:
+institutionalist analysis and neoliberalism. Int. J. Urban Reg. Res 30 (1), 76e97.
+Geoscience Australia (GA), 2012. Australian Gas Resource Assessment 2012.
+Australian Government, Canberra.
+Gioia, D., Corley, K., Hamilton, A., 2012. Seeking qualitative rigor in inductive
+research: notes on the gioia methodology. Organ. Res. Methods 16 (1), 15e31.
+Hilson, G., 2011. Inherited commitments: do changes in ownership affect Corporate
+Social Responsibility (CSR) at African gold mines. Afr. J. Bus. Manag. 5 (27),
+10921e10939.
+Howland, J., 1998. The ‘digital divide’: are we becoming a world of technological
+‘haves’ and ‘have-nots’? Electron. Libr. 16 (5), 287e289.
+Idemudia, U.O., Ite, U.E., 2006. Corporateecommunity relations in Nigeria's oil industry:
+challenges and imperatives'. Corp. Soc. Responsib. Environ. Manag. 14
+(3), 194e206.
+Ismail, M., 2009. Corporate social responsibility and its role in community development:
+an international perspective. J. Int. Soc. Res. 2 (9), 200e209.
+Jarboe, K.P., 2001. Inclusion in the Information Age: Reframing the Debate ([Online
+report]. Athena Alliance).
+Jenkins, H., Obara, L., 2006. Corporate Social Responsibility (CSR) in the mining
+industry e the risk of community dependency. In: Proceedings of the Corporate
+Social Responsibility Conference. Available at: http://www.crrconference.org/
+downloads/2006jenkinsobara.pdf.
+Jones, O., 2006. Non-human rural studies. In: Cloke, P., Marsden, T., Mooney, P.H.
+(Eds.), The Handbook of Rural Studies. Sage, London, pp. 185e200.
+Keegan, M., Nguyen, N.C., 2011. Systems thinking, rural development and food security:
+key leverage points for Australia's regional development and population
+policy. Migr. Aust. (launch issue) 1 (1), 50e64.
+Kemp, D., Owen, J., Gotzmann, N., Bond, C., 2011. Just relations and companycommunity
+conflict in mining. J. Bus. Ethics 101, 93e109.
+Kemp, D., 2010. Community relations in the global mining industry: exploring the
+internal dimensions of externally oriented work. Corp. Soc. Responsib. Environ.
+Manag. 17, 1e14.
+Keogh, L., 2013. The first four wells: unconventional gas in Australia. M/C J. A J.
+Media Cult. 16. http://journal.media-culture.org.au/index.php/mcjournal/
+article/viewArticle/617.
+Kolawole, O.D., Ajila, K., 2015. Driving local community transformation through
+participatory rural entrepreneurship development. World J. Entrepreneurship
+Manag. Sustain. Dev. 11 (2), 131e139.
+Kotey, B., Rolfe, J., 2014. Demographic and economic impact of mining on remote
+communities in Australia. Resour. Policy 42, 65e72.
+Koutsouris, A., 2006. ICTs and rural development: beyond the hype. J. Ext. Syst. 22
+(1), 46e62.
+Lappe, F.M., Dubois, P.M., 1994. The Quickening of America: Rebuilding Our Nation,
+Remaking Our Lives. Jossey-Bass, Inc. Publishers, San Francisco.
+Lee, D., 2011. The digital divide: the Australian government's role in addressing
+‘ability’. Telecommun. J. Aust. 61 (2), 251e258.
+Macken-Walsh, A., 2010. Towards a transverse inter-sectoral debate? A case study of
+the Rural Partnership Programme (RPP) in post-socialist Lithuania. East. Eur.
+Countrys 16 (2), 45e64.
+Malecki, E.J., 2003. Digital development in rural areas: potentials and pitfalls.
+J. Rural Stud. 19, 201e214.
+Marquardt, D., Mollers, J., Buchenrieder, G., 2012. Social networks and rural €
+development: LE ADER in Romania. Sociol. Rural. 52 (4), 398e431.
+Moseley, M.J., 2003. Rural Development: Principles and Practice. SAGE, London.
+Muthuri, J.N., Mwaura, K., 2006. The digital divide and CSR in Africa: the need for
+corporate law reform. In: Visser, et al. (Eds.), Corporate Citizenship in Africa
+Chapter 16. Greenleaf Publishing, Sheffield.
+O'Connor, H., Gibson, N., 2003. A step-by-step guide to qualitative data analysis. A J.
+Indig. Aborig. Community Health 1 (1), 63e90.
+OECD., 2013. Economic Outlook. Organization of Economic Cooperation and
+Development, Paris.
+Peck, J.A., Tickell, A., 1994. Too many partnerships. The future for regeneration
+M.O. Erdiaw-Kwasie, K. Alam / Journal of Rural Studies 43 (2016) 214e224 223
+partnerships. Local Econ. 9 (3), 251e265.
+Philip, L.J., Townsend, L., Roberts, E., Beel, D., 2015. The rural digital economy. Scott.
+Geogr. J. 131 (3/4), 143e147.
+Queensland Treasury and Trade, 2014. Queensland Regional Profiles: Resident
+Profile for Surat Basin Resource Region. Queensland Government Statistician’s
+Office, Brisbane.
+Ray, C., 2000. Endogenous socio-economic development in the European Union e
+issues of evaluation. J. Rural Stud. 16, 447e458.
+Ray, C., 2005. Neo-endogenous rural development in the EU. In: Cloke, P.,
+Marsden, T., Mooney, P. (Eds.), Handbook of Rural Studies. Sage Publications,
+London.
+Rennie, E., Crouch, A., Wright, A., Thomas, J., 2013. At home on the outstation:
+barriers to home internet in remote indigenous communities. Telecommun.
+Policy 37, 583e593.
+Servon, L.J., 2002. Bridging the Digital Divide: Technology, Community and Public
+Policy. Blackwell Publishing, United States.
+Shaxon, L., 2011. Evidence-based agricultural and rural policy development e a
+view from the UK on linking research and policy. In: Proceedings of the 122th
+EAAE Seminar: Evidence-based Agricultural and Rural Policy Making: Methodological
+and Empirical Challenges of Policy Evaluation Ancona, February 17-
+18, 2011.
+Strover, S., 2003. Remapping the digital divide. Inf. Soc. 19, 275e277.
+Sutherland, J., 2004. America is addicted to the Internet, burgers and drugs: a nation
+in decline or a glimpse of the future? Guard. G2 Supplement, 6 December,
+London.
+Thomas, D.R., 2006. A general inductive approach for analyzing qualitative

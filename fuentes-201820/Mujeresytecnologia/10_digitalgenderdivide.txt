@@ -1,0 +1,1149 @@
+Digital gender divide or technologically empowered women in developing
+countries? A typical case of lies, damned lies, and statistics☆
+Martin Hilbert
+University of Southern California (USC), Annenberg School for Communication, United States
+United Nations Economic Commission for Latin America and the Caribbean (UN-ECLAC), Information Society Programme, DDPE, Chile
+article info synopsis
+Available online 19 August 2011 The discussion about women's access to and use of digital Information and Communication
+Technology (ICT) in developing countries has been inconclusive so far. Some claim that women
+are rather technophobic and that men are much better users of digital tools, while others argue
+that women enthusiastically embrace digital communication. This article puts this question to
+an empirical test. We analyze data sets from 12 Latin American and 13 African countries from
+2005 to 2008. This is believed to be the most extensive empirical study in this field so far. The
+results are surprisingly consistent and revealing: the reason why fewer women access and use
+ICT is a direct result of their unfavorable conditions with respect to employment, education and
+income. When controlling for these variables, women turn out to be more active users of digital
+tools than men. This turns the alleged digital gender divide into an opportunity: given women's
+affinity for ICT, and given that digital technologies are tools that can improve living conditions,
+ICT represents a concrete and tangible opportunity to tackle longstanding challenges of gender
+inequalities in developing countries, including access to employment, income, education and
+health services.
+© 2011 Elsevier Ltd. All rights reserved.
+Introduction
+During the second half of the last century, human kind has
+turned to the “massive task of making our bewildering store
+of knowledge more accessible” (Bush, 1945). The result has
+brought on irrevocable social, productive, political and
+cultural transformations, which are based on a global communication
+infrastructure that includes innovations like the
+Internet, mobile telephony and social networking applications
+in all shapes and sizes. During the beginning of this new
+century, society at large is starting to embrace these new
+tools, changing forever the way we communicate, coordinate
+our activities and organize social interactions (Bell, 1973;
+Castells, 1996; Freeman & Louça, 2001; Negroponte, 1995;
+Perez, 1983; Webster, 1995). At the core is the question of
+access to digital networks, and, in particular, who gets
+empowered and who is informationally marginalized by use
+of these new tools.
+As a contribution to this ongoing discussion, this article
+analyzes the differences between men's and women's access
+to and use of Information and Communication Technology
+(ICT) in developing countries. We start with a literature
+review that shows that some see digital technologies as
+practical and tangible tools for women to overcome longstanding
+inequalities. ICT can help women to gain employment
+(for example through telework or newly created
+information jobs), obtain cost-effective health services and
+education (such as through online courses or software-based
+literacy programs) and to increase their income (such as
+through e-business channels and online transactions). In
+contrast to this glass-half-full outlook stands the pervasive
+Women's Studies International Forum 34 (2011) 479–489
+☆ The author would like to thank the support of Canada's International
+Development Research Centre (IDRC), which has been the driving force
+behind the creation of important statistics throughout the developing world
+for decades. Without the long-term vision, dedication and trust of its
+professionals, like Ben Petrazzini, this, and many other studies of this kind,
+would not exist.
+0277-5395/$ – see front matter © 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.wsif.2011.07.001
+Contents lists available at ScienceDirect
+Women's Studies International Forum
+j o u r n a l h om e p a g e : www. e l s ev i e r. c om / l o c a t e /w s i f
+and persistent counterargument that women are at a natural
+disadvantage to benefit from the digital revolution because
+they are less tech savvy, and more technophobic, and because
+the technology is not built for their needs and intuition. If
+these were the case, the increasing socio-economic importance
+of ICT would add a new dimension to the already
+existing vicious circle between discrimination and women's
+backwardness, which can be expected to be particularly
+severe in developing countries, where four out of five women
+live worldwide. Unfortunately very few of the related studies
+control for potentially confounding variables.1 We know that
+the lack of employment, income and education affect ICT
+usage negatively (e.g. Cullen, 2001; Mossberger, Tolbert, &
+Stansbury, 2003; NTIA, 1999; OSILAC, 2007; Warschauer,
+2003). We also know that women are discriminated against
+in many aspects of social life, including employment, income
+and education. Given these potential confounders, it is not
+clear if being a woman per se has a negative, neutral or
+positive effect on ICT usage. In the first case, the digital
+revolution would pose a severe threat to women. In the latter
+case, the increasing socio-economic importance of ICT would
+pose a unique opportunity: the new tools would be a perfect
+tool to fight existing inequalities between men and women.
+To this point, lack of adequate statistical data had
+prevented us from testing this question empirically. Arguments
+were often based on anecdotal evidence from case
+studies or uncontrolled correlations, which sometimes lead to
+contradictory results. In recent years, statistical institutes and
+academic research centers in the developing world have
+made a significant effort to collect adequate statistical
+information. For this study we employ 25 datasets from 12
+Latin American and 13 African countries (total of 1,176,816
+observations), which allow us to execute a series of
+uncontrolled and controlled empirical tests that will provide
+further insight into this unresolved question.
+What is the digital divide?
+The unfolding of the digital revolution is happening at
+unprecedented speed (for ICT penetration rates during the
+past 15 years, see ITU, 2010). However fast, it is not
+immediate and the related diffusion process follows the
+form of a well-known S-shaped curve, which distinguishes
+between early adopters and latecomers (Rogers, 2003). While
+this process unfolds, a new form of inequality is added to all
+the existing forms of discrimination: an inequality in the
+power to communicate and to process information digitally.
+The term “digital divide” has been coined to refer to this
+concept (e.g. NTIA, 1995, 1999; OECD, 2001).
+Studies on the digital divide differ in their focus and
+methodological approach. Despite their differences, all of
+them answer (part of) the following questions: who (individuals
+vs. organizations/communities, vs. societies/countries/world
+regions, etc.), with which attributes (income,
+education, geography, age, gender, or type of ownership, size,
+profitability, sector, etc.), connect how (pain access vs. usage
+vs. real impact), to what kind of technology (phone, Internet,
+computer, digital TV, etc.) (see Hilbert, 2011). In this article
+we test for one specific attribute of ICT users: their gender.
+The main focus of this article is set on analyzing access to ICT
+in Latin America and Africa, while we also sneak an exploratory
+peak into how men and women use the Internet in Latin
+America. This is important because literature has shown that
+access and usage foster the well-being in multiple aspects of life
+(e.g. Castells, 1996; Cimoli, Hofman, & Mulder, 2010; Hilbert &
+Peres, 2010; Waverman, Meschi, & Fuss, 2005; Webster, 1995).
+Previous research has shown that ICT adoption patterns are
+characterized by the same long established determinants of
+inequality as other aspects of social life, such as those related to
+income, education, skills, employment, geography, age and
+ethnicity, and gender, among others (e.g. Compaine, 2001;
+Cullen, 2001; Hilbert, 2010; Mossberger et al., 2003; OECD,
+2002; OSILAC, 2007; van Dijk, 2005; Warschauer, 2003).
+What do we know about the digital gender divide?
+Let us begin with clarifying that most literature in this
+field refer to ICT access and usage patterns among biologically
+identifiable men and women (sex), not the self-identified
+gender identity of an individual, such as understood in the
+field of gender studies. While it would be very interesting to
+explore the relationship between the digital divide and
+gender identity, the paucity of data on the last variable forces
+us to follow most existing research and equate gender with
+sex in this article.
+During the 1990s, researchers were quick to observe that
+women tend to be latecomers to the digital age (e.g. Dholakia,
+Dholakia, & Pedersen, 1994; NTIA, 1999). As a consequence,
+the new technology was popularly portrayed as a male
+domain (Badagliacco, 1990). Bimber (2000: 2) concluded that
+the gap in ICT usage between women and men “is the product
+of both socioeconomic differences and some combination of
+underlying, gender-specific effects”. Researchers claimed that
+those gender-specific differences had their origins in the fact
+that women underestimated their actual usage skills, which
+lead to lower self-efficacy to use ICT (Busch, 1995; Hargittai &
+Shafer, 2006; Joiner, Messer, Littleton, & Light, 1996), as well
+as in their general attitudes toward computers (Shashaani,
+1994). It was concluded that “men are more interested in
+technology than women, and they are also more tech savvy”
+(Fallows, 2005: 5). In short, women were seen as being more
+likely to be technophobic and were ascribed a certain
+computer anxiety. This type of reasoning is in line with a
+longstanding argument that technology is gendered (Lohan &
+Faulkner, 2004; Puente, 2008). ICTs are seen as yet another
+“toy for the boys” (Faulkner, 2001).
+As more statistics became available and Internet and
+mobile telephony penetration rates began to rise, women
+started to catch up in many developed countries (Rice & Katz,
+2003). In the United States, most new users were women
+around the year 2000 (Cummings & Krout, 2002). Gender
+differences remained, but were smaller (Leggon, 2006) and
+mainly concentrated on marginalized groups, such as ethnic
+minorities (Tolbert, Mossberger, King, & Miller, 2007).
+However, once online, women remained less frequent and
+less intense users of the Internet (Ono & Zavodny, 2003;
+Wasserman & Richmond-Abbott, 2005). The focus of attention
+started to shift towards differences in how men and
+women use ICT (Bonfadelli, 2002). For example, it was found
+that girls use the Internet for instant messaging and chatrooms,
+whereas boys downloaded games and music, engaged
+in online trading, and created Web pages (Lenhart, Lewis, &
+480 M. Hilbert / Women's Studies International Forum 34 (2011) 479–489
+Rainie, 2001; Roberts, Foehr, & Foundation, 2004). Fallows
+(2005: 1) summarized a survey in the United States with the
+conclusion: “men like the internet for the experiences it
+offers, while women like it for the human connections it
+promotes”. As already mentioned, we will look at both
+aspects in our subsequent analysis: access and usage, with a
+focus on the first one.
+Statistical data from the USC led World Internet Project
+(2009)to reconfirm these findings. In Canada, 79% of men and
+75% of women were online in 2007. This difference grows to 56%
+to 46% for citizens of 60 years and older. The study also confirms
+differences in usage. In 2004, Canadian men spent on average
+more time online than women (14.3 to 12.0 h per week). This
+difference increased from 2.3 to 3.5 h in 2007 (18.8 h to 15.3 h).
+As the main reasons for non-usage, Australian women state lack
+of interest (35%), not having a computer or Internet connection
+(26%) or lack of skills (16%). The percentage of men to women
+who use the Internet is reported for the following developed
+countries: Australia: 74% to 71%. Czech Republic: 55% to 46%;
+Hungary: 45% to 39%; Israel: 71% to 64%; New Zealand: 78% to
+77%; Singapore: 69% to 54%; United Kingdom: 68% to 65%. The
+two exceptions to this trend seem to be Sweden (with 75% of
+men online and 78% of women) and the United States (71% to
+73%). However, even in these countries, men are more frequent
+and more intense users. In 2008, men from the U.S. are more
+likely than women to surf the web “at least daily” (54 to 41 %)
+and men spend 1.5 h more than women at their monitors
+reading. In short, differences have become smaller in developed
+countries, but still remain, especially in usage.
+What about women and ICT in developing countries?
+Due to the paucity of adequate statistics about the world's
+poor, technology-related research and respective policy-advice
+is often exclusively focusing on the roughly 20% of the world
+population living in the most industrialized countries,2 while
+the remaining 80% of the global population is frequently
+ignored or inappropriately subsumed under thesefindings. This
+is delicate, because living conditions, opportunities and threats
+differ decisively in developed and developing countries. The
+vast majority of women live in developing countries and they
+often suffer even more gender related discrimination than their
+counterparts in developed countries. At the same time, if ICT
+were to hold a promise to empower women, then this promise
+is much larger in the developing world, given that the lower
+starting point provides for greater potential gains.
+ICT: a threat for women
+Similar to the above-cited data from developed countries
+(World Internet Project, 2009), existing data from developing
+countries show that women are less likely than men to use ICT.
+This leads related research to the conclusion that a digital
+gender divide clearly exists and is a severe threat to women: “In
+many countries such gaps become dramatic, putting women at
+a significant disadvantage” (Hafkin & Huyer, 2007: 33). Similar
+to findings in developed countries, this divide applies to access
+and to the frequency and intensity of usage (Park, 2009).
+Looking for reasons, researchers normally fall back on anecdotal
+case studies and local evidence, which found that women face
+barriers that include lack of access and training, and that they
+were confronted with software and hardware applications that
+did not reflect their female interests and needs (Arun & Arun,
+2002; Best & Maier, 2007; Ng & Mitter, 2005). In this sense, the
+same technophobic arguments that had been raised in the
+developed world during the 1990s, have been transferred to
+women in the developing world in recent years. It is argued that
+women have a negative attitude toward ICT (Varank, 2007) and
+that the introduction of technologies has often implicitly been
+designed to meet the needs of men, not of women (Basu, 2000;
+Hafkin, 2000).
+ICT: an opportunity for women
+In contrary to these findings, some case studies and
+anecdotal evidence show that ICT can and are empowering
+women in developing countries. For example, ICT provide
+women entrepreneurs with access to worldwide e-business
+channels, which can be operated 24 h a day from home in
+real-time (Brodman & Berazneva, 2007; Heeks, Arun, &
+Morgan, 2004; Schaefer Davis, 2007). Ng and Mitter (2005)
+look beyond ICT's contributions to economic well-being, and
+show how ICTs are used by women for the purposes of
+community building and political organization. ICTs enable
+meaningful participation and make female voices heard, as
+proven by the role of digital networks in feminist movements
+(Harcourt, 1999). Others have argued that ICTs have the
+potential to completely redefine traditional gender roles,
+especially for women who have limited skills or who lack the
+resources to invest in higher education (Kelkar & Nathan,
+2002). In short, ICT can be “powerful tools for women to
+overcome discrimination, achieve full equality, well-being
+and participation in the decisions that determine their lives
+and the future of their communities. […] ICT […] opens up a
+direct window for women to the outside world. Information
+flows to them without distortion or any form of censoring,
+and they have access to the same information as their
+counterparts” (Sharma, 2003: 1). However, this potential to
+empower women in the developing world depends on access
+to and actual usage of these technologies, which is a necessary
+first step (see e.g. Scott, 2001).
+How can misleading statistics mask the reality about the gender
+divide?
+We have seen that the literature is inconclusive. We do not
+know if ICTs are a severe threat or an opportunity for women.
+What could be the reason for this apparent contradiction?
+There is a subtle message that can often be read between
+the lines of research related to the digital gender divide. For
+example, Sharma (2003) points out that “women have less
+online access than men, for all the usual gender-related
+reasons—time, money, control, learning opportunities, other
+commitments, prioritizing others' needs”. Arguing that longstanding
+gender-related inequalities are the reason for less
+usage is very different from arguing that women are naturally
+technophobic. It has widely been measured that women
+around the world are discriminated in fields like employment,
+income and education (see e.g. Anand & Sen, 1995). It is
+therefore not clear if these existing inequalities lead to the
+fact that women make less usage of ICT or, if being a woman
+per se has a negative effect on ICT usage. This problem is well
+known in statistics and is treated under the topic of so-called
+M. Hilbert / Women's Studies International Forum 34 (2011) 479–489 481
+“confounding variables” (e.g. Freedman, Purves, & Pisani,
+2007).
+Often the confounder is easy to spot. For example, if
+somebody would realize that children's ICT usage is positively
+correlated to the size of their shoes, most people would become
+suspicious and reason that age, and therefore literacy skills,
+might confound this relation. There is no reason to believe that
+the shoe size of children with the same level of schooling would
+make any significant difference. Often it is not as easy. But the
+cure remains the same: as soon as there is a suspicion of
+confounding variables, it is wise to control for them and to
+compare subjects on the same level of such variables. If the
+result still makes a difference, it is more probable that the
+original variable has explanatory power. If not, the confounder
+made the difference.3
+What does the data say?
+The most frequently analyzed statistics so far have been
+collected by telecommunication administrative authorities
+and have been harmonized by the United Nations Telecommunications
+Union (e.g. ITU, 2010). Traditionally, these
+administrative registers collect the national aggregates of
+the numbers of subscriptions, connections and devices and
+therefore do not allow detailed cross-tabulations with user
+attributes (like gender, income, employment, education, etc.).
+Those are provided by the household surveys that we will use.
+Our databases are both products of the initial seed funding
+of Canada's International Development Research Centre
+(IDRC). In Latin America, IDRC has cooperated since 2002
+with the United Nations Economic Commission for Latin
+America and the Caribbean (ECLAC) to operate OSILAC
+(Observatory for the Information Society in Latin America
+and the Caribbean).4 During the last decade, OSILAC has
+successfully worked with National Statistics Offices all over
+the region to include ICT indicators in existing household
+surveys. Given the large samples of official household
+surveys, this data is very robust (all used sample sizes are
+between 21,000 and 408,000).5 Parts of these databases are
+publicly available (OSILAC, 2009). In Africa, IDRC is cooperating
+with the Research ICT Africa Network,6 which has
+conducted their own household and individual user surveys
+of ICT access and usage between 2007 and 2008 (sample sizes
+between 819 and 2355).7 Despite the smaller sample size,
+this is nonetheless an important effort, as Africa is normally
+considered a black hole for technology related statistics (for
+overview of these surveys see Gillwald & Stork, 2008).
+Controlling correlations in Latin America
+Let us start with a series of simple correlations between
+gender and both, Internet usage and mobile phone usage. It is
+important to underline that we use the question of active usage
+by a specific person as an indicator for access, not the plain
+existence of equipment in a household. We use the Pearson
+correlation coefficient to measure the degree of association
+between two correlation coefficients (e.g. Freedman et al.,
+2007; Williams & Monge, 2001), in our case between being a
+woman and using the Internet.We code in a way that a negative
+correlations (rb0) means that women use less Internet than
+men, while rb0 implies that Internet usage is positively
+correlated with being a woman.8
+A first look at the upper two rows of Table 1 reveals that
+most of the correlations between ICT usage and being a
+woman turn out to be negative. In agreement with previous
+findings, the overall data show that women are less likely
+than men to use the Internet or a mobile phone. In Brazil, for
+example, the region's largest country with over a third of the
+region's GDP and population, being a women is negatively
+correlated with using the Internet (with a correlation
+coefficient of r=−0.022), and with using a mobile phone
+(with r=−0.029).9
+In the following rows of Table 1 show two kinds of the
+inequalities between men and women in percentage points. It
+is shown that there are real inequalities between men and
+women regarding their working status (being employed or selfemployed)
+and their current attendance at an educational
+institution. Continuing with the example of Brazil, 92.2% of all
+men are actively working, compared to only 83.7% of women,
+and 31.6% of all men currently attend an educational establishments,
+compared to 30.8% of all women. These differences do
+not seem to be very large, but let us see what happens when we
+control for them. This can be done with a partial correlation,
+which measures the degree of association between two
+variables when the effects of a third variable are removed
+(see e.g. Williams & Monge, 2001). To be more precise: what is
+the relationship between being a women and ICT usage when
+the effect of work or current schooling is removed?
+Table 1 shows that in the controlled environment, being a
+woman is positively correlated with using the Internet (for
+Brazil r=+0.056) and with using a mobile phone (for Brazil
+r=+0.033). While this correlation is still very low, it is striking
+that this turn-around effect is consistent throughout almost all
+analyzed countries, which represent a very heterogeneous
+group of socio-demographic and cultural societies. There are
+some countries in which women are more active Internet users
+to begin with (Panama, Honduras, Nicaragua) or more active
+mobile phone users (Dominican Republic, Panama, Nicaragua),
+which of course naturally argues in favor of women being more
+active ICT users to begin with. There are also cases in which
+women are not discriminated in the fields of employment status
+(Nicaragua) or current attendance at an educational establishment
+(Panama and Ecuador). This does not affect thelogic of our
+result. The overwhelming majority of the cases show that, when
+controlling for working and educational enrollment conditions,
+women make more use of digital ICT than men. The only
+exception in the 20 changes in tendency that can be observed in
+Table 1 is mobile phone usage in Ecuador: the correlation
+coefficient becomes weaker in the controlled test, but continues
+to stay negative (r=−0.037). This reminds us of the fact that
+social science is not an exact science.
+Let us dig deeper into this question and open up this
+statistical black box to see what actually accounts for these
+results. The first two rows of Table 2 show the actual
+percentages that lead to the previous finding that in most
+countries more men than women use the Internet. Continuing
+with our example of Brazil, 22.0% of men use the Internet
+compared to 20.2% of women. In mobile phone usage the divide
+is at 38.5% to 35.4%. In agreement with the results from Table 1,
+the notable exceptions for Internet usage are Panama,
+Honduras and Nicaragua, and for cell phone users, Dominican
+482 M. Hilbert / Women's Studies International Forum 34 (2011) 479–489
+Republic, Panama and Nicaragua. The following rows show
+what happens if we put men and women on “equal footing”
+regarding their working condition. We only consider men and
+women who are either employed or self-employed, neglecting
+those who are unemployed, retired or stay at home without
+salary. Based on this condition, it turns out that in all countries
+more women than men use ICT actively, again with the sole
+exception of mobile phone usage in Ecuador. In Brazil, only
+22.8% of all working men use the Internet, while 28.5% of all
+working women are online. Only 47.0% of all Brazilian working
+men use a mobile phone, while 50.6% of all working women
+telecommunicate on the go. The same general change in
+direction accounts for ICT when controlled for current
+attendance at an educational establishment. Once in school,
+women turn out to be more active users of digital opportunities
+(35.6% to 36.2% for Internet use in Brazil; 32.5% to 39.9% for
+mobile usage). The exceptions to the general rule for Internet
+usage are again Ecuador, as well as Costa Rica and Dominican
+Republic. Generally speaking, the differences are much more
+pronounced for mobile phone usage than for Internet use. Once
+set on equal footing in terms of employment and education,
+women seem to embrace mobile voice communication quite a
+bit more enthusiastically than men.
+These results seem to indicate that women are the more
+enthusiastic ICT users. However, one could argue that this
+tendency originates in the fact that women are more likely to
+be forced to use computers at work for unsophisticated and
+repetitive secretarial tasks (e.g. Kaplan, 1994). In this case,
+force, not enthusiasm would be the reason for our results.
+Saying it very bluntly, the argument would be that men at
+construction sites do not need Internet access, while female
+secretaries are forced by their employers to execute trivial
+typing jobs and routine office activities, such as banal word
+processing and spreadsheet work. This general tendency could
+also affect ICT-enthusiasm in school, since girls and boys often
+already anticipate their future job. While this sounds like a
+possible hypothesis, this argument cannot explain the detected
+differences in mobile phone usage. Besides, as shown by the
+lower rows in Table 2, working women do not only access the
+Internet when forced to do so by their employers in their
+working environment, but women are also more active online
+users at home, at public access centers or commercial cyber
+cafes, and even at other people's homes. Continuing with our
+example of Brazil, Table 2 confirms that more working women
+use the Internet at their job than men (14.8% to 17.8%), but at
+the same time more women also go online at home (11.7% to
+14.2%) at a communal access center (1.6% to 2.3%), a
+commercial public access center (4.2% to 4.3%) or at the
+home of family and friends (6.2% to 7.4%). While ICT access at
+work might still have a catalyzing role, it can be seen that
+working women also make use of their digital skill outside the
+working environment. Rather than being forced to ICT usage
+against their will by an external force, it seems that women
+naturally enjoy the use of digital communication wherever
+they get the opportunity to do so.
+Women and ICT in Africa
+Let us now compare uncontrolled and controlled usage
+rates in Africa (see Table 3). Sample sizes are much smaller in
+Table 1
+Correlations and controlled correlations of gender with ICT usage in Latin America; working and studying populations by men and women.
+Source: own elaboration, based on
+these surveys and ICT usage rates in Africa are lower, making
+OSILAC, 2009.
+Chile
+2006
+Brazil
+2005
+Uruguay
+2006
+Mexico
+2007
+Paraguay
+2007
+El Salvador
+2006
+Costa Rica
+2005
+Dominican
+Rep. 2005
+Panama
+2007
+Honduras
+2007
+Nicaragua
+2006
+Ecuador
+2006
+Correlation coefficient, r Internet use with being
+a woman
+−0.047
+−0.022
+−0.024
+−0.045
+−0.002/
+−0.023
+−0.032
+−0.033 0.020 0.008 0.004
+−0.026
+Mobile use with being
+a woman
+−0.004
+−0.029 n.a. n.a. n.a. n.a.
+−0.044 0.009 0.011
+−0.029 0.013
+−0.070
+Real world inequalities (in %) Actively working % of men 98.0 92.2 98.7 95.1 88.0 89.3 98.3 93.7 95.8 87.3 88.3 86.5
+% of women 98.0 83.7 96.3 90.4 74.0 79.3 96.5 78.0 85.0 81.3 91.7 64.8
+Attending
+educational
+establishment
+% of men 31.1 31.6 29.6 33.0 44.2 34.5 35.0 34.2 28.6 31.4 34.7 10.8
+% of women 28.2 30.8 27.6 29.3 44.1 30.3 34.2 34.3 29.9 31.2 33.1 11.3
+Correlation coefficient, r: being a woman,
+controlled for working and assisting
+educ. establishment
+Internet use 0.050 0.056 0.047 0.048 0.088 0.030 0.047 0.082 0.148 0.093 0.066 0.007
+Mobile use 0.039 0.033 n.a. n.a. n.a. n.a. 0.019 0.094 0.139 0.069 0.085
+−0.037
+M. Hilbert / Women's Studies International Forum 34 (2011) 479–489 483
+Table 2
+Percentage of man/women that use the Internet and own a mobile phone in Latin America; place of Internet usage, Internet use frequency.
+Source: own elaboration, based on OSILAC, 2009.
+Chile
+2006
+Brazil
+2005
+Uruguay
+2006
+Mexico
+2007
+Paraguay
+2007
+El Salvador
+2006
+Costa Rica
+2005
+Dominican
+Rep. 2005
+Panama
+2007
+Honduras
+2007
+Nicaragua
+2006
+Ecuador
+2006
+Overall ICT
+inequalities
+Internet use Men 39.6 22.0 30.5 24.3 11.3 5.6 23.4 17.1 22.8 9.7 11.6 7.9
+Women 35.1 20.2 28.3 20.6 11.1 4.6 20.8 14.7 24.5 10.2 11.9 6.6
+Mobile use Men 54.2 38.2 n.a. n.a. n.a. n.a 35.0 56.6 45.0 26.1 40.9 41.6
+Women 53.8 35.4 n.a. n.a. n.a. n.a 30.9 57.4 46.1 23.6 42.1 34.8
+Men and women actively working Internet use Men 31.0 22.8 30.9 21.0 10.6 4.6 24.0 17.0 21.1 8.9 10.7 7.3
+Women 36.6 28.5 37.3 25.8 15.1 5.7 30.4 24.7 37.2 15.4 15.1 8.2
+Mobile phone Men 68.9 47.0 n.a. n.a n.a. n.a. 44.2 62.5 53.7 41.3 49.2 49.0
+Women 73.1 50.6 n.a. n.a n.a. n.a. 46.8 71.9 68.3 47.6 56.4 45.2
+Men and women attending
+educational establishment
+Internet use Men 70.2 35.6 49.8 39.2 19.9 11.5 35.8 32.6 42.4 16.9 19.1 26.8
+Women 70.3 36.2 53.1 41.2 23.8 12.6 35.5 29.6 48.5 18.8 22.0 26.1
+Mobile use Men 39.1 32.5 n.a. n.a. n.a. n.a. 29.4 60.7 37.4 13.6 37.7 58.9
+Women 44.2 39.9 n.a. n.a. n.a. n.a. 33.6 66.8 49.7 17.0 41.8 60.5
+Place of Internet usage, given that
+the person is actively working
+At home Men 14.3 11.7 13.6 7.9 3.3 1.4 7.9 3.8 6.7 1.9 0.7 n.a.
+Women 16.4 14.2 16.4 10.2 4.4 1.5 9.4 5.5 11.5 2.9 0.8 n.a.
+At work Men 14.5 14.8 15.4 9.8 4.6 2.0 12.3 7.8 9.8 3.8 4.3 n.a.
+Women 18.1 17.8 18.3 12.9 5.1 2.8 15.5 13.2 19.9 6.3 6.6 n.a.
+Communal public access Men 0.3 1.6 0.5 0.8 n.a. 0.1 0.1 1.7 0.7 0.01 0.0 n.a.
+Women 0.3 2.3 0.8 0.6 n.a. 0.01 0.1 1.2 1.3 0.01 0.1 n.a.
+Commercial public access Men 6.9 4.2 12.3 7.0 3.5 0.9 9.3 7.1 6.9 5.7 5.8 n.a.
+Women 7.6 4.3 14.9 6.9 5.8 1.0 12.1 7.5 10.3 10.1 7.7 n.a.
+Other person's home Men n.a. 6.2 2.6 0.2 0.2 0.01 1.1 4.9 1.1 n.a. 0.2 n.a.
+Women n.a. 7.4 2.8 0.4 0.5 0.01 1.2 5.7 1.5 n.a. 0.1 n.a.
+484 M. Hilbert / Women's Studies International Forum 34 (2011) 479
+–489
+it more difficult to detect differences. While all results of the
+weighted samples turn out to be significant (weighted
+stratified samples with pb0.01), they are less robust than
+the ones from Latin America. Having said this, the general
+tendencies are the same. In agreement with the traditional
+findings of literature, the overall correlation between gender
+and ICT usage shows that in 11 of the 13 countries, a larger
+percentage of men use the Internet than women (with the
+exception of Rwanda and Tanzania, in which women already
+represent the larger share). In Kenya, for example, one of the
+larger and technologically most advanced African countries of
+our sample, 21.1% of all men have been online in 2007/8,
+while only 11.5% of all women use the Internet. 56.0% of all
+men use a mobile phone, vs. only 46.9% of all women.
+Notwithstanding, the following rows of Table 3 show that,
+in general, African women are also less literate10 (in Kenya
+77.2% of men to 68.0% of women), and that fewer women are
+actively working or studying (employed, self-employed or
+full-time student) (81.4% of Kenyan men to 49.9% of women).
+Women also have less income (29.8% of all Kenyan men
+belong to the top 25% income group of the country, while only
+16.6% of all women do).
+On the basis of these characteristics, a new group was
+created. We will refer to it as “women on equal footing”,
+simply for the sake of giving it a name. In this group we only
+consider men and women who are literate, are actively
+working or studying and who belong to the top 25% income
+group.11 Controlling for these three inequalities, we can see
+that the gender divide disappears in most African countries
+for women “on equal footing”. In the case of Kenya, the divide
+in Internet usage is erased at 29.7% for both men and women,
+while women on equal footing turn out to be more active
+mobile phone users (90.0% to 92.7%). When placed on equal
+footing, the ratio of women vs. men turns around for Internet
+usage in four of the 13 analyzed countries (Namibia, Ethiopia,
+Mozambique, Senegal). For another six countries, men
+continue to use the Internet more, but the relative difference
+diminishes in all cases (South Africa, Benin, Botswana, Ghana,
+Uganda, Cote d'Ivoire). For example, in South Africa, in the
+uncontrolled environment, the share of men online is almost
+twice as large (20.2% of men to 11.3% of women), while it
+shrinks to a difference of merely 5% for men and women on
+equal footing (39.9/37.7= 1.05).
+This observed change in tendency is again much more
+pronounced for mobile phone usage. In nine of the 13 countries,
+these controls turn the inequality around.With the exception of
+Senegal and Tanzania, women on equal footing tend to embrace
+mobile telephony more than men.
+How do men and women use the Internet
+As seen during the literature review, studies from developed
+countries reported that men and women use the Internet for
+different ends, which can lead to diverse definition of the digital
+divide. Let us now take a look at the kind of online services used
+in Latin America. This is of particular interest because we have
+already seen that women welcome the use of digital tools;
+therefore, the kinds of services they use might give us hints
+about possible digital opportunities for women (Table 4). The
+first row confirms the previously mentioned finding from
+Table 3
+Percentage of man/women that use the Internet and own a mobile phone; literacy, working and income inequalities; in Africa 2007/08.
+Source: own elaboration, based on Research ICT Africa, 2008.
+developed countries that men seem to be more frequent online
+Kenya Namibia Ethiopia Rwanda Mozambique Senegal Tanzania South Africa Benin Botswana Ghana Uganda Cote d'Ivoire
+Overall ICT inequalities Internet use Men 21.1 11.2 0.9 1.8 1.1 14.4 1.9 20.2 11.9 8.1 7.9 10.1 3.7
+Women 11.5 7.2 0.4 2.1 0.9 6.7 2.3 11.3 5.3 4.0 3.2 4.0 1.1
+Mobile use Men 56.0 53.3 3.7 11.8 21.9 55.1 26.2 56.3 37.9 42.5 60.7 59.4 26.3
+Women 46.9 45.4 2.5 7.5 32.4 26.2 17.6 64.9 20.5 37.9 57.2 58.9 12.2
+Real world inequalities Literate Men 77.2 56.2 33.5 47.1 38.9 33.4 72.5 75.9 42.0 45.1 49.1 77.5 49.9
+Women 68.0 58.5 26.5 40.0 23.5 19.9 67.7 74.4 21.2 38.0 39.8 72.5 25.2
+Actively working/student Men 81.4 58.3 93.0 79.4 86.6 84.4 77.5 66.4 94.0 86.7 89.0 64.8 87.5
+Women 49.8 42.5 32.3 62.8 35.8 53.6 53.9 38.5 49.7 51.6 80.7 43.4 47.0
+Top 25% income Men 29.8 34.2 50.1 30.5 27.2 44.4 39.2 37.0 38.3 32.6 31.3 34.5 32.2
+Women 16.6 17.9 10.7 21.0 15.2 9.3 20.9 17.4 14.5 9.0 19.0 21.1 10.6
+Equal footing Men 25.3 21.4 13.9 16.5 13.8 18.1 25.1 28.5 18.1 14.8 15.0 31.1 21.7
+Women 13.6 12.2 4.4 8.0 2.7 3.0 10.5 12.8 3.8 3.9 8.1 17.8 6.3
+Man and women on equal footing Internet use Men 29.7 26.9 3.8 6.2 2.8 31.0 4.0 39.9 27.6 23.9 26.7 23.9 13.5
+Women 29.7 37.8 6.3 7.6 14.2 37.4 12.6 37.9 26.9 17.5 11.7 17.5 7.4
+Mobile phone Men 90.0 90.3 18.7 39.9 57.7 91.1 56.4 89.9 86.9 84.4 82.3 84.4 62.6
+Women 92.7 93.1 34.3 43.4 92.5 87.9 47.8 94.8 95.9 94.9 94.7 94.9 71.4
+M. Hilbert / Women's Studies International Forum 34 (2011) 479–489 485
+users than women. This accounts for Chile, Uruguay, Costa Rica,
+Dominican Republic and Nicaragua, while in Mexico and
+Honduras more women tend to be online every day. When
+evaluating these statistics, we have to remember that usage
+frequency does not tell us anything about the length of each
+session. Longer sessions could by far offset lower frequency.
+Unfortunately the available statistics do not give us insight into
+the overall intensity of usage.
+When asked about the kinds of services used online, men
+reveal that they are much more enthusiastic about using the
+Internet for entertainment reasons than women. When it
+comes to using digital channels for education and training,
+the data is clear that women tend to make much better use of
+the existing opportunities than men. This is especially
+encouraging when considering the previously presented
+results of female disadvantages in terms of literacy and
+educational attendance throughout the developing world
+(see Tables 1 and 3). It shows that women already started to
+make use of the digital opportunities to fight those existing
+inequalities.
+Table 4 also shows that women still do not yet fully exploit
+many of the other opportunities the digital world provides for
+them. Women are less enthusiastic about applications of ebusiness
+and e-government. The use of e-business and online
+banking channels could provide women with important steps
+to improve their financial independence, while e-government
+services facilitate necessary, but often burdensome interactions
+with public authorities. The use of the Internet for plain
+communication purposes provides a mixed picture, as do the
+statistics on health services. Women from Mexico and
+Dominican Republic are already using online networks to
+improve the health conditions for themselves and those close
+to them. Overall, there still seems to be a large potential to
+take advantage (or maybe create) adequate online content to
+improve living conditions for women in Latin America.
+A word of caution on the presented statistics
+The humorist Mark Twain (1835–1910) has popularized
+the wisdom that “there are three kinds of lies: lies, damned
+lies, and statistics”. This does not only apply to the statistical
+practices of not controlling for confounding variables, such as
+criticized in this article, but a word of caution is also in order
+when interpreting the statistics in the presented tables.
+Given the large sample sizes of the weighted household
+samples, all results turn out to be statistically significant.
+However, all results are based on stratified samples, meaning
+that the survey organizers took the sample according to their
+knowledge about how the population is distributed in a
+particular country. Once collected, stratified samples are
+weighted according to the proportions of the actual society.
+The answers of one survey correspondent from a more
+common socio-demographic group might be multiplied with
+a factor much larger than a person from a minority. This
+weighting turns a small sample into the representative of a
+large population. Nevertheless, it also affects significance
+tests. The theory of significance test is based on random
+sampling, not on stratified samples that are subsequently
+expanded. If the weighted number of cases exceeds the
+sample size, tests of significance tend to be inflated, which is
+our case. Therefore, even though all our results are statistically
+significant, meaning that it is very probable that the
+observed differences between men and women are real and
+not just due to chance, these tests are inflated.
+As a consequence, results that are very close (such as
+49.5% to 50.5% or a correlation of 0.008), have to be taken
+with a large grain of salt, as pure luck of sample drawing
+might play us a trick here. Given the much smaller sample
+size in Africa than in Latin America, the Latin American results
+are more reliable and stable than the African surveys (in the
+Latin American samples each observation was weighted with
+hundreds of people on average, while in Africa, factors of
+thousands were applied). Having said this, differences for one
+country on the decimal level surely would not make a strong
+case by itself. However, the consistency of our results across a
+large number of very heterogeneous societies makes a
+relatively strong case: even though some results are close
+and might be influenced by chance, they tend to show the
+same direction in general. In other words, the presented
+results should be interpreted as a mutually confirming whole,
+while specific results for particular countries might be subject
+to small variations. Particularly close results from one specific
+Table 4
+Frequency of Internet usage; online service used by men and women in Latin America.
+Source: own elaboration, based on OSILAC, 2009.
+Chile
+2006
+Brazil
+2005
+Uruguay
+2006
+Mexico
+2007
+Paraguay
+2007
+El Salvador
+2006
+Costa Rica
+2005
+Dominican
+Rep. 2005
+Panama
+2007
+Honduras
+2007
+Nicaragua
+2006
+Internet users
+that use daily
+Men 39.5 n.a. 25.2 34.3 n.a. n.a. 35.8 36.7 n.a. 33.8 35.6
+Women 34.3 n.a. 22.6 34.5 n.a. n.a. 33.1 30.1 n.a. 34.2 29.0
+Given that the
+person uses
+the Internet
+Entertainment Men 54.7 74.1 49.5 19.9 11.0 5.7 51.5 60.7 4.9 41.7 61.8
+Women 50.5 67.2 34.5 14.2 4.9 1.9 43.2 51.1 1.9 32.8 56.1
+Education and
+training
+Men 12.1 68.4 41.4 41.5 39.7 53.7 58.5 67.6 1.3 60.9 58.7
+Women 12.4 75.0 46.5 44.9 49.3 65.0 66.8 72.5 1.8 63.0 62.3
+Buying and
+contracting
+Men 7.3 16.5 5.8 7.2 2.3 3.7 9.9 10.7 1.4 5.0 3.5
+Women 5.5 10.8 2.6 3.3 1.2 2.5 5.7 5.7 1.2 3.3 2.2
+Online banking Men 7.1 21.7 4.6 2.4 n.a. 2.2 21.8 14.8 0.8 n.a. 5.3
+Women 5.6 16.4 3.0 1.2 n.a. 2.2 17.3 11.4 0.9 n.a. 4.3
+Government
+interaction
+Men 9.9 29.4 n.a. 3.4 n.a. 0.7 n.a. 13.2 0.5 n.a. n.a.
+Women 8.9 25.5 n.a. 2.3 n.a. 0.01 n.a. 9.2 0.2 n.a. n.a.
+Communication Men 58.8 68.8 79.0 48.4 51.8 18.1 73.5 63.1 17.9 69.6 77.8
+Women 60.2 68.5 81.1 49.5 55.7 13.9 74.3 55.0 18.4 71.5 77.6
+Health Men n.a. n.a. n.a. 6.3 1.8 1.8 n.a. 18.7 n.a. n.a. n.a.
+Women n.a. n.a. n.a. 8.9 0.9 1.5 n.a. 25.1 n.a. n.a. n.a.
+486 M. Hilbert / Women's Studies International Forum 34 (2011) 479–489
+country should not be used as a standalone argument and
+might require more detailed sampling and further analysis.
+A small change in mindset can sometimes make a large
+difference
+We have analyzed a very heterogeneous group of 25
+countries, representing different levels of development, geography,
+culture and social structure. According to the United
+Nations Human Development Index (UNDP, 2008), Chile is the
+most developed country of our sample, reaching a rank 40 of
+the 179 countries included in the 2008 Index. Mozambique is
+the least developed with a rank of 175. Independent from these
+differences, our results have been surprisingly consistent: ICT
+per se does not have anything on them that might keep women
+and girls from using it in developing countries. In fact, when
+controlled for existing inequalities, it shows that women
+embrace digital technology more enthusiastically than men.
+One might be tempted to speculate that women are simply
+better communicators and that therefore the use of these
+technologies seems more intuitive for women than for men.
+Unfortunately, the presented data do not tell us why women
+use ICT more than men; they just tell us that this is the case.
+Notwithstanding, women continue to be discriminated in
+many other aspects of social life, including employment,
+literacy and income. These inequalities also throw their
+shadows on ICT usage. More specifically, being a woman is
+positively correlated with ICT usage, and negatively correlated
+with employment, income and education (see Tables 2 and
+3). Uncontrolled correlations mix both effects, resulting in the
+fact that underemployed, underpaid and undereducated
+women use ICT less than men. Traditional discrimination in
+the fields of employment, income and education turn the
+positive correlation between women and ICT into a negative
+one. At the same time, as shown during the literature review,
+ICTs have the potential to provide access to employment,
+education and income. Therefore, ICTs provide women with a
+bootstrapping opportunity to pull themselves out of these
+unfavorable starting conditions. In other words, if woman are
+provided with ICT, digital tools represent an opportunity for
+women to fight longstanding inequalities.
+The resulting logic is schematized in Fig. 1. Traditionally,
+longstanding inequalities prevent women from accessing ICT,
+leading to a vicious circle between digital exclusion, unemployment,
+low income and lacking education. However, once
+having access to ICT, this vicious circle can be turned into a
+virtuous circle, whereas the identified positive attitudes of
+women toward ICT enable them to circumvent and fight
+existing inequalities.
+This finding is by no means the end, but leads to the
+question of how to provide more women with access to digital
+opportunities. For example, Table 2 indicates that communal or
+commercial public access centers might be a viable option (see
+also Maeso & Hilbert, 2006). Others have pointed to the need of
+regulations and incentives to facilitate the actual usage of
+applications that would favor women, such as legislation to
+promote telework (see e.g. Boiarov, 2008). Besides, the
+development of adequate content becomes a major concern,
+especially in key areas such as education (see e.g. RELPE, 2008).
+Summing up, the empirical evidence in this article argues
+for a re-thinking about women and ICT usage. This rethinking
+should also affect policy making, which is unfortunately still
+influenced by the superficial and unsustainable argument that
+women are technophobic. For example, in the final declarations
+of the United Nations World Summit on the Information
+Society (2003–2005), heads of States and governments have
+recognized “that a gender divide exists as part of the digital
+divide in society” (WSIS, 2005) and declared a need for
+“enhancing communication and media literacy for women
+with a view to building the capacity of girls and women to
+understand and to develop ICT content” (WSIS, 2003). These
+statements seem to be based on the idea that women are less
+digitally capable. Based on the results here presented, this is
+not at all the case and a change in mindset seems appropriate.
+These policy statements should rather be reformulated to
+something along the following lines: “a digital gender divide
+exists only as a direct reflection of existing gender-related
+inequalities and policy actions should make use of the natural
+communication skills and media capacities of women and their
+proven embrace of the new digital opportunities to overcome
+longstanding gender inequalities”. Such re-thinking is necessary
+to create policies and projects that truly allow girls and
+women to become equal members of an information society,
+digital society, network society, knowledge society, or simply
+equal members of society, independent from the forename it
+may be given.
+End Notes
+1 A notable exception for the case of the United States is Rice and Katz
+(2003), which, after control, do not detect any significant digital divide
+between men and women. The author is not aware of any controlled studies
+for the digital gender divide on the international level.
+2 In 2006, the member countries of the Organisation for Economic Cooperation
+and Development (OECD), which represents the world's “industrialized
+countries”, was home to 1184 million inhabitants, within a world
+population of 6555 million (18%).
+3 This does not change the fact that children with larger shoes will have better
+ICT usage scores. Same accounts for the case of ICT and women: might be that
+women use ICT less than men, but the question is why: because they are
+women, or because of some other reasons that come with being a woman?
+4 OSILAC: http://www.eclac.org/SocInfo/OSILAC/. 5 Sample sizes: Brazil 2005: 408,148; Chile 2006: 268,873; Costa Rica 2005:
+43,682; Ecuador 2006: 55,666; El Salvador 2006: 68,312; Honduras 2007:
+100,028; Mexico 2007: 21,292; Nicaragua 2006: 40,190; Panama 2007: 48,295;
+Paraguay 2007: 21,053; Dominican Republic 2005: 20,610; Uruguay 2006: 64,164.
+6 Research ICT Africa: http://www.researchICTafrica.net/. 7 Sample sizes: Benin: 1101; Botswana: 818; Cote d'Ivoire: 1112; Ethiopia:
+2355; Ghana: 1092; Kenya: 1461; Mozambique: 1131; Namibia: 885;
+Rwanda: 1078; Senegal: 1081; South Africa: 1771; Tanzania: 1490; Uganda:
+1127.
+WOMEN
+employment income education
+ICT
+positive
+positive
+negative negative negative
+positive
+Source: author’s own elaboration.
+Fig. 1. Fighting longstanding discrimination with digital means. Source:
+author's own elaboration.
+M. Hilbert / Women's Studies International Forum 34 (2011) 479–489 487
+8 Pearson's r is normalized between +1 and −1, where +1 is a perfect
+positive association and −1 is a perfect negative association. A correlation
+near zero indicates that there is no relationship between the two variables.
+9 A second look at the data reveals that the identified correlations are not very
+strong (even though they are all statistically significant, weighted and stratified
+samples with pb0.001). Squaring Pearson's correlation coefficient tells us how
+much of the variation in ICT usage can be explained by variation in being male or
+female. In all cases, less than 0.5% of the variation in ICT usage can be explained
+by gender (for example, in Chile r2=−0.0472=0.2%). There must be much
+more powerful explanatory variables that determine ICT usage than gender.
+10 Literacy was defined by including all respondents that claimed to be able
+to read the newspaper easily and to write a letter easily.
+11 In the case of Africa it is necessary to focus on this high-income group of
+the top-25%, since income levels in general are relatively low (in absolute
+terms) and ICTs are tradable goods with price levels that are only accessible
+to segments that reach a certain absolute level of income (see Hilbert,
+2010).
+References
+Anand, S., & Sen, A. (1995). Gender inequality in human development.
+Occasional paper 19 (Vol. 1995). Presented at the gender inequality in
+human development: Theories and measurement. : United Nations.
+Arun, S., & Arun, T. (2002). ICTs, gender and development: Women in
+software production in Kerala. Journal of International Development, 14
+(1), 39–50.
+Badagliacco, J. M. (1990). Gender and race differences in computing attitudes
+and experience. Social Science Computer Review, 8(1), 42–63.
+Basu, M. (2000). Feminist perspectives and gender link in development: The
+critical role of women's organisations. The Ralph Bunche Institute on the
+United Nations Retrieved August 17, 2009.
+Bell, D. (1973). The coming of post-industrial society. : Basic Books.
+Best, M. L., & Maier, S. G. (2007). Gender, culture and ICT use in rural South
+India. Gender Technology and Development, 11(2), 137–155.
+Bimber, B. (2000). Measuring the gender gap on the internet. Social Science
+Quarterly, 81(3), 868–876.
+Boiarov, S. (2008). Informe sobre legislación y normativa vinculada al
+teletrabajo en América Latina y el Caribe. eLAC2007, goal 5. : United
+Nations ECLAC, Information Society Programme Retrieved August 23,
+2009, from. http://www.cepal.org/socinfo/noticias/noticias/2/32222/
+GdT_eLAC_meta_5.pdf
+Bonfadelli, H. (2002). The internet and knowledge gaps: A theoretical and
+empirical investigation. European Journal of Communication, 17(1),
+65–84.
+Brodman, J., & Berazneva, J. (2007). Transforming opportunities for women
+entrepreneurs. Information Technologies and International Development,
+Special issue on Women's Empowerment and the Information Society, 4(2),
+3–10.
+Busch, T. (1995). Gender differences in self-efficacy and attitudes toward
+computers. Journal of Educational Computing Research, 12(2), 147–158.
+Bush, V. (1945, July). As we may think. The Atlantic Monthly, 76(1) Retrieved
+August 17, 2009, from. http://www.theatlantic.com/doc/194507/bush
+Castells, M. (1996). The rise of the network society. : Blackwell Pub.
+Cimoli,M., Hofman, A., & Mulder, N. (Eds.). (2010). The impact of information and
+communication technologies in Latin America (In Association with the United
+Nations Economic Commission for Latin America and the Caribbean). Edward
+Elgar. Retrieved from http://www.e-elgar.co.uk/Bookentry_Main.lasso?
+id=13996
+Compaine, B. M. (2001). The digital divide: Facing a crisis or creating a myth?
+(illustrated edition). The MIT Press.
+Cullen, R. (2001). Addressing the digital divide. Online Information Review, 25
+(5), 311–320.
+Cummings, J. N., & Kraut, R. (2002). Domesticating computers and the
+Internet. The Information Society: An International Journal, 18(3), 221.
+Dholakia, R. R., Dholakia, N., & Pedersen, B. (1994). Putting a byte in the
+gender gap. American Demographics, 16(12), 20.
+Fallows, D. (2005). How women and men use the internet | pew Internet &
+American life project. : Pew Internet and American life project. Retrieved
+August 16, 2009, from. http://www.pewinternet.org/Reports/2005/
+How-Women-and-Men-Use-the-Internet.aspx
+Faulkner, W. (2001). The technology question in feminism: A view from
+feminist technology studies. Women's Studies International Forum, 24(1),
+79–95.
+Freedman, D., Purves, R., & Pisani, R. (2007). Statistics (4th Edition). : W.W.
+Norton & Co.
+Freeman, C., & Louçã, F. (2001). As time goes by: From the industrial revolutions
+to the information revolution (pp. 407). : Oxford University Press.
+Gillwald, A., & Stork, C. (2008). Towards evidence based ICT policy and regulation:
+ICT access and usage in Africa. (Policy paper 2 no. Vol. 1). ResearchICTAfrica
+(RIA) Retrieved from. http://www.researchictafrica.net
+Hafkin, N. (2000). Convergence of concepts: Gender and ICTs in Africa. In E.
+Rathgeber, & E. Ofwana Adera (Eds.), Gender and the information
+revolution in Africa (pp. chapter 1, document 4). Ottawa: IDRC Retrieved
+August 17, 2009, from. http://www.idrc.ca/en/ev-32939-201-1-
+DO_TOPIC.html
+Hafkin, N., & Huyer, S. (2007). Women and gender in ICT statistics and
+indicators for development. Information Technologies and International
+Development, Special issue on Women's Empowerment and the Information
+Society, 4(2), 25–41.
+Harcourt, W. (Ed.). (1999). Women@Internet (pp. 240). : Palgrave Macmillan.
+Hargittai, E., & Shafer, S. (2006). Differences in actual and perceived online
+skills: The role of gender. Social Science Quarterly, 87(2), 432–448.
+Heeks, R., Arun, S., & Morgan, S. (2004). Researching ICT-based enterprise for
+women in developing countries: A gender perspective. Women's ICTbased
+enterprise for development project. Manchester: Institute for
+Development Policy and Management (IDPM) Retrieved August 17,
+2009, from. http://www.womenictenterprise.org/LivelihoodsResearch.
+doc
+Hilbert, M. (2010). When is cheap, cheap enough to bridge the digital divide?
+Modeling income related structural challenges of technology diffusion in
+Latin America. World Development, 38(5), 756–770.
+Hilbert, M. (2011). The manifold definitions of the digital divide and their
+implications for policy responsibility. inedito.
+Information societies in Latin America and the Caribbean: Development of
+technologies and technologies for development. Hilbert, M., & Peres, W.
+(Eds.). (2010). Santiago: United Nations Economic Commission for Latin
+America and the Caribbean. : ECLAC institutional books Retrieved from.
+http://www.cepal.org/SocInfo/
+ITU (International Telecommunication Union) (2010). Measuring the information
+society 2010 — The ICT development index 2010. Geneva. Retrieved
+August 4, 2010, from. http://www.itu.int/publ/D-IND-ICTOI-2010/en
+Joiner, R., Messer, D., Littleton, K., & Light, P. (1996). Gender, computer
+experience and computer-based problem solving. Computers & Education,
+26(1–3), 179–187.
+Kaplan, R. (1994). The gender gap at the PC keyboard. American Demographics,
+16(1), 18.
+Kelkar, G., & Nathan, D. (2002). Gender relations and technological change in
+Asia. Current Sociology, 50(3), 427–441.
+Leggon, C. (2006). Gender, race/ethnicity, and the digital divide. In M. F. Fox,
+D. G. Johnson, & S. V. Rosser (Eds.), Women, gender, and technology
+(pp. 204). : University of Illinois Press.
+Lenhart, A., Lewis, O., & Rainie, L. (2001). Teenage life online. : Pew Internet &
+American Life Project Retrieved August 16, 2009, from. http://www.
+pewinternet.org/Reports/2001/Teenage-Life-Online.aspx
+Lohan, M., & Faulknet, W. (2004). Masculinities and technologies: Some
+introductory remarks. Men and Masculinities, 6(4), 319–329.
+Maeso, O., & Hilbert, M. (2006). Centros de acceso público a las tecnologías de
+información y comunicación en América Latina: características y desafíos.
+United Nations, Santiago Chile: United Nations ECLAC, Information
+Society Programme Retrieved August 7, 2009, from. http://www.cepal.
+org/SocInfo/publicaciones
+Mossberger, K., Tolbert, C. J., & Stansbury, M. (2003). Virtual inequality:
+Beyond the digital divide (1st ed.). : Georgetown University Press.
+Negroponte, N. (1995). Being digital (pp. 255). : Vintage Books.
+Ng, C., & Mitter, M. S. (2005). Gender and the digital economy: Perspectives
+from the developing world. : SAGE Publications.
+NTIA (National Telecommunications and Information Administration)
+(1995). Falling through the Net: A survey of the “have nots” in rural and
+urban America. Retrieved August 2, 2009, from. http://www.ntia.doc.
+gov/ntiahome/fallingthru.html
+NTIA (National Telecommunications and Information Administration)
+(1999). Falling through the Net: Defining the digital divide. A report on
+the telecommunications and information technology gap in America.
+Revised. : U.S. Government Printing Office, Superintendent of Documents.
+http://www.ntia.doc.gov/ntiahome/fttn99/contents.html
+OECD (Organization for Economic Co-operation and Development) (2001).
+Understanding the digital divide. Paris, France: OECD (Organization for
+Economic Co-operation and Development).
+OECD (Organization for Economic Co-operation and Development) (2002).
+Measuring the information economy 2002 (pp. 94). Paris, France: OECD
+(Organization for Economic Co-operation and Development).
+Ono, H., & Zavodny, M. (2003). Gender and the Internet. Social Science
+Quarterly, 84(1), 111–121.
+OSILAC (Observatory for the Information Society in Latin America and the
+Caribbean) (2007). Monitoring eLAC2007: Progress and current state of
+development of Latin American and Caribbean information societies. United
+Nations, Santiago Chile: United Nations ECLAC, Information Society
+488 M. Hilbert / Women's Studies International Forum 34 (2011) 479–489
+Programme, OSILAC Retrieved August 6, 2009, from. http://www.cepal.
+org/SocInfo/publicaciones
+OSILAC (Observatory for the Information Society in Latin America and the
+Caribbean) (2009). ICT statistical information system — OSILAC. Santiago
+Chile: United Nations ECLAC Retrieved August 5, 2009, from. http://
+www.cepal.org/tic/flash/default.asp?idioma=IN
+Park, S. (2009). Concentration of internet usage and its relation to exposure
+to negative content: Does the gender gap differ among adults and
+adolescents? Women's Studies International Forum, 32(2), 98–107.
+Perez, C. (1983). Structural change and assimilation of new technologies in the
+economic and social systems. online. www.carlotaperez.org Retrieved April
+26, 2009, from. http://www.carlotaperez.org/papers/basic-structuralchange.
+htm#abstractcontents
+Puente, S. N. (2008). From cyberfeminism to technofeminism: From an
+essentialist perspective to social cyberfeminism in certain feminist
+practices in Spain. Women's Studies International Forum, 31(6), 434–440.
+RELPE, (Red Latinoamericana Portales Educativos) (2008). Analisis comparativo
+Portales Educativos Latinoamericanos | RELPE (pp. 35). RELPE Retrieved
+January 20, 2010, from. http://www.relpe.org/relpe/documentos-tecnicos/
+analisis_comparativo_portales.php
+Rice, R. E., & Katz, J. E. (2003). Comparing Internet and mobile phone usage:
+Digital divides of usage, adoption, and dropouts. Telecommunications
+Policy, 27(8–9), 597–623.
+Roberts, D. F., Foehr, U. G., & Foundation, H. J. K. F. (2004). Kids and media in
+America (pp. 380). Cambridge University Press.
+Rogers, E. M. (2003). Diffusion of innovations 5th edition (5th ed.). : Free Press.
+Schaefer Davis, S. (2007). Empowering women weavers? The Internet in
+rural Morocco. Information Technologies and International Development,
+Special issue on Women's Empowerment and the Information Society, 4(2),
+17–23.
+Scott, A. (2001). (In)Forming politics: Processes of feminist activism in the
+information age. Women's Studies International Forum, 24(3–4), 409–421.
+Sharma, U. (2003). Women empowerment through information technology.
+Authors Press.
+Shashaani, L. (1994). Gender-differences in computer experience and its
+influence on computer attitudes. Journal of Educational Computing
+Research, 11(4), 347–367.
+Tolbert, C., Mossberger, K., King, B., & Miller, G. (2007). Are all American
+women making progress online? African–Americans and Latinas.
+Information Technologies and International Development, Special issue on
+Women's Empowerment and the Information Society, 4(2), 61–88.
+UNDP (United Nations Development Programme) (2008). Human development
+report 2007/8. United Nations Development Programme (UNDP)
+Retrieved August 23, 2009, from. http://hdr.undp.org/en/reports/global/
+hdr2007-2008/
+van Dijk, J. A. (2005). The deepening divide: Inequality in the information
+society (1st ed.). Sage Publications, Inc..
+Varank, I. (2007). Effectiveness of quantitative skills, qualitative skills, and
+gender in determining computer skills and attitudes: A causal analysis.
+The Clearing House, 81(2), 71–80.
+Warschauer, M. (2003). Technology and social inclusion: Rethinking the digital
+divide. The MIT Press.
+Wasserman, I. M., & Richmond-Abbott, M. (2005). Gender and the Internet:
+Causes of variation in access, level, and scope of use. Social Science
+Quarterly, 86(1), 252–270.
+Waverman, L., Meschi, M., & Fuss, M. (2005). The impact of telecoms on economic
+growth in developing countries | ICT regulation toolkit (ICT regulation toolkit).
+InfoDev, ITU Retrieved from. http://www.ictregulationtoolkit.org/en/
+Publication.3532.html
+Webster, F. (1995). Theories of the information society. : Routledge.
+Williams, F., & Monge, P. R. (2001). Reasoning with statistics: How to read
+quantitative research (5th ed.). Wadsworth Publishing.
+World Internet Project (2009). World Internet international report 2009. : USC
+Annenberg School Center for the Digital Future Retrieved August 18,
+2009, from. http://store.digitalcenter.org/world-internet-report.html
+WSIS (World Summit on the Information Society) (2003, December). WSIS:
+Plan of action. United Nations Retrieved August 17, 2009, from. http://
+www.itu.int/wsis/docs/geneva/official/poa.html
+WSIS (World Summit on the Information Society) (2005, November). Tunis
+commitment. United Nations Retrieved August 17, 2009, from. http://
+www.itu.int/wsis/docs2/tunis/off/7.html
+M. Hilbert / Women's Studies International Forum 34 (2011) 479–489 489

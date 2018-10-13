@@ -1,0 +1,798 @@
+Women's Studies International Forum
+journal homepage: www.elsevier.com/locate/wsif
+Mutable technology, immutable gender: Qualifying the “co-construction of
+gender and technology” approach
+Adriana Gil-Juáreza
+, Joel Feliub,⁎
+, Anna Vitoresb,1
+aDepartament de Psicologia, Universitat Rovira i Virgili, Campus Sescelades, Edifici W0, 43007 Tarragona, Catalonia, Spain bDepartament de Psicologia Social, Universitat Autònoma de Barcelona, Campus UAB, Edifici B, 08193 Cerdanyola del Vallès, Catalonia, Spain
+ARTICLE INFO
+Keywords:
+Gender
+Technology
+Co-construction
+Performativity
+Gender trouble
+Interpretative flexibility
+ABSTRACT
+In highly technical societies, gender is largely produced in relation to technology. In this article, we explore the
+effects on the construction of gender and technology when groups of parents discuss technological activities. To
+do so, we report the results of a research project conducted in Barcelona, in which fathers and mothers, after
+playing video games with their sons and daughters, expressed their opinions about that activity, the relations
+their sons and daughters have with video games, and their own relationship with technology. The results support
+the idea that gender and technology are discursively and practically in permanent co-construction and have a
+relatively firm relationship that guarantees stability to both. However, we find that when people are confronted
+with facts that contradict the dominant perception that women are technologically unskilled or uninterested, it is
+only technology and not gender that is flexibly interpreted.
+Introduction
+In the fifth episode of the third season of The Big Bang Theory, in
+searching for topics of conversation, the aerospace engineer Howard
+Wolowitz asks Bernadette Rostenkowski, his new friend who is finishing
+a doctorate in microbiology: “And computers? Do you like computers?”
+to which she responds: “I use them, but I don't like them” (Lorre,
+Prady, & Cendrowski, 2009). For some women, computers are something
+tedious to which they can only show their indifference (Anderson,
+Lankshear, Timms, & Courtney, 2008; Kelan, 2007; Rommes, Overbeek,
+Scholte, Engels, & De Kemp, 2007). Nonetheless, Laia, a participant in
+our research, maintains that computing jobs are not technical jobs but
+creative. These are jobs where, in her own words, “you use language to
+create something”. Laia was a unique participant; she appeared to be
+the only woman in a technological company with 120 employees.
+However, instead of seeing herself as less feminine, she has opted to
+redefine computing itself to make it a profession involving a stereotypical
+‘feminine quality’: language. In this move technology — but not
+gender — is flexibly interpreted.
+Within the field of psychology, which is the authors' field, the
+problematic relationship between gender and technology has scarcely
+been attended to (for recent exceptions on digital family or social networking
+sites, see Gordo Lopez, Contreras, & Cassidy, 2015; Dobson,
+2014a, 2014b). However, in recent decades, an entire field has emerged
+with an abundant output highlighting the socially constructed nature of
+technology and its relation to the construction of gendered subjectivities.
+Perspectives such as that of social studies of technology
+(Bijker & Law, 1992; Pinch & Bijker, 1984), by describing the role and
+meaning of technologies in our societies, encourage us to abandon the
+idea that these are neutral constructs that determine our lives with
+straight effects. The social construction of technologies refers to a
+complex assemblage of social relations and processes, which include
+gender, that not only affect their design, development and implementation,
+but that make up their meaning, usability and efficiency.
+As some authors have indicated (Oudshoorn & Pinch, 2003; Pinch &
+Bijker, 1984, 1986), technology may be interpretatively flexible: as
+users also play a part in defining technology, different groups may
+endow it with completely different meanings. For instance, Cockburn
+and Ormrod (1993) showed how the microwave was shaped in a gendered
+way, as different gender roles were projected onto it before,
+during and after its design (cited in Lagesen, 2012). From a constructivist
+view, technology is created in social relationships, carrying
+social meanings and expressing social norms, and so too is gender.
+Therefore, it is not only the machines that get gendered, but also and
+especially their users. As Lagesen argues ‘The most prominent theoretical
+approach in feminist studies of technology has been the idea that
+gender and technology are co-constructed’ (Lagesen, 2012, p.443). As
+Landstrom put it “gender [should not be thought of] as an identity trait
+https://doi.org/10.1016/j.wsif.2017.11.014
+Received 29 October 2016; Received in revised form 15 November 2017; Accepted 28 November 2017
+⁎ Corresponding author.
+1 Present address: Independent Researcher.
+E-mail addresses: adriana.gil@urv.cat (A. Gil-Juárez), joel.feliu@uab.cat (J. Feliu).
+Women's Studies International Forum 66 (2018) 56–62
+Available online 07 December 2017
+0277-5395/ © 2017 Elsevier Ltd. All rights reserved.
+T
+that comes from within the individual and determines their relationships
+with others, but as something emerging in the processes in which
+people and technology are enmeshed.” (2007, p. 10). However, ‘gender
+is generally treated as a stable, pre-given category that shapes the
+technology under scrutiny. It is black-boxed, “the content and behaviour
+of gender relations is assumed to be common knowledge, and
+their meanings are stabilized and no longer need to be considered”
+(Ormrod, 1994: 32)’ (Lagesen, 2012, p. 444). It would appear, then, to
+be fruitful to look at how gender itself is constructed around specific
+technological settings.
+As Judith Butler (1988, 1990) stated, gender is a performative effect
+made up of certain ways of doing and saying that persist. Furthermore,
+it is a contingent effect that must be iterated in order to survive. As
+Pujal and Amigot detailed, identification practices, which imply specific
+performances, are not only gestures, postures and appearances, but
+they also entail the intervention of language and discourses about the
+self: ‘This is what [Butler] calls repeated linguistic interpellation which
+produces a self-recognition and a self-difference in the subject in terms
+of identification-disidentification’ (2010, p. 143). These performative
+effects are produced within a ‘heterosexual matrix’—a linguistically
+constructed worldview that reproduces itself by claiming gendered
+subjects as already having an implied desire for each other (Butler,
+1990), a ‘grid of cultural intelligibility through which bodies, genders,
+and desires are naturalized’ (Butler, 1990: 194). Performativity ‘is
+linked not only to the formation of the subject but also to the production
+of the matter of bodies’ (Barad, 2003, cited in Morison & Macleod,
+2013). Thus, it can be argued that, as language is always language in a
+context, we should explore how it works to position participants in
+relation to technological discourses and with what effects in scenarios
+where identity claims are made around the use of technology.
+One interesting specific scenario may be video gaming practices, as
+it is a familiar technological space where gendered practices around
+technology can be easily observed and discussed by its participants. The
+use of video games is extremely differentiated between boys and girls,
+both in terms of time dedicated to them and appreciation for them (GilJuárez,
+Feliu, & Vitores, 2010; Greenberg, Sherry, Lachlan, Lucas, &
+Holmstrom, 2010; Winn & Heeter, 2009). Unfortunately, as Hayes
+(2008) discussed, the appreciation and command of video games is an
+important factor in encouraging interest in information technology
+expertise. The gender divide in the use of video games has been related
+on several occasions to a decrease in opportunities for women (GilJuárez,
+Vitores, Feliu, & Vall-llovera, 2011; Hayes, 2008; Jenson & de
+Castell, 2005). However, approaching the subject as differences between
+boys and girls in the use of a particular machine, takes two givens
+as an explanation: technology and gender. This means that some
+characteristics of video games would then clash with some essential
+characteristics of women and vice versa. A considerable problem in
+tackling the digital divide in this way is that it assumes as a starting
+point that gender and technology have fixed qualities independent of
+the very situations in which actors are involved and independent of the
+meanings that actors give to these situations — that is, outside the
+particular relationships between users and technologies, and outside
+the accounts that users give of their own use, and that of people around
+them. In this article, we aim to show how both technology and gender
+meanings are not givens, but rather, they are negotiated in the course of
+discussions around its users (Faulkner, 2001; Wajcman, 2010). To do so
+we analysed the accounts of a group of fathers and mothers on the uses
+of and interests in video games by their daughters and sons, as well as
+their own relationship with these games and with new technologies.
+The main goal of the research we undertook was to analyse the
+discourses that construct gender and technology when people discuss
+video gaming in order to describe how both become obvious and unquestionable.
+We did find that reification happened, however not in a
+symmetrical way, since when common understandings of gender and
+technology conflicted during the discussion, technology's meaning became
+more flexible, thus guaranteeing that gender remained unchanged
+and could continue to appear essential and static.
+Method: video gaming and talking about it
+Parents gender their children, as Kane found in her research: “[For
+sons], most parents made efforts to accomplish, and either endorsed or
+felt accountable to, an ideal of masculinity” (Kane, 2006, p. 173). To be
+able to analyse how gender and technology are created and stabilised in
+parents' talk, and to provide a relevant context for discourse on gender
+and technology to emerge meaningfully – i.e. not in abstract talk but in
+talk about specific practices around technology – we organised 6 video
+game workshops for mothers and fathers, their sons and daughters in
+Barcelona, Catalonia, Spain. The workshops took place between April
+and November 2010. They were planned and developed with the collaboration
+of a company specialising in the design and implementation
+of educational and leisure projects: MARINVA. The workshops were one
+hour long, during which mothers and fathers with their sons and
+daughters could simultaneously play four games for 15 min each.
+Games were selected following the criteria that they should be diverse
+in their gendered common associations and in the ways they were to be
+played2
+.
+These workshops took place in different schools and community
+centres in the city providing us with a diverse sample from different
+economic, cultural and educational backgrounds. The distribution of
+Barcelona inhabitants is correlated with household income distribution
+(Barcelona City Council, 2012). The workshops and the discussion
+groups, ordered from the lowest to the highest household income were
+located in: La Teixonera, Horta, Sant Antoni, Sagrada Família and Sant
+Gervasi3
+.
+In total, 37 mothers and fathers with a son or a daughter aged between
+8 and 14 years of age attended the workshops answering a call
+for volunteers in a study of video games. The call was made through the
+usual local practices of each school or community centre, normally a
+flyer given by the staff to the children or a notice posted on the news
+board. After an introduction in which we explained that volunteers
+would participate in research on the use of video games, we explained
+the consent form given to them and asked them to fill it out. We provided
+information on: (a) research; (b) contact details for the research
+team; (c) how the data would be used (conditions and guarantees for
+storage, archiving, exchange and safe use of data); and (d) commitment
+to ethical management of these (confidentiality and anonymity).
+During the time they played, we made observations and took field
+notes for every couple (mother/father with his/her daughter/son)
+participating in each workshop and for each of the games. Their time
+playing the game was videotaped too. Although we acknowledge that
+these observations possibly oriented our current analysis, these data are
+not the subject of this article and are not explicitly handled here.
+When they finished playing, the adults and children were separated
+into two discrete discussion groups (6 children groups and 6 adult
+2 The selection criteria for the games were:
+• That their recommended ages were between 8 and 14 years
+• That 2 players could play them simultaneously (a mother or father and daughter or
+son)
+• That they could be played in 10–15 min
+• That they implied a variety of accessories
+• That both games of competition and cooperation were included.
+4 games were selected according to these criteria:
+• 1 PC game of simulation and cooperation (Spore. Creature creator)
+• 1 Console game created to play in a cooperative group or family (Super Mario
+Galaxy for Nintendo Wii)
+• 1 Console game with traditional gamepads for sports competition (Shaun White
+Snowboarding PlayStation)
+• 1 Console game with an alternative accessory like dance pad (Dance Factory for
+PlayStation). 3 Assuming a figure of 100 for Barcelona global household income index: La Teixonera
+has 71.3, Horta 80, Sant Antoni 94.8, Sagrada Família 95.3 and Sant Gervasi 187.9
+(Barcelona City Council, 2012).
+A. Gil-Juárez et al. Women's Studies International Forum 66 (2018) 56–62
+57
+groups, that is 12 discussion groups in 6 different sessions). We believe
+this arrangement produced very specific discussions, not based on the
+proposal of hypothetical situations but rather tied specifically to the
+experience that fathers, mothers, sons and daughters had just had. The
+discussion groups were transcribed so as not to hinder the actual flow of
+the conversation, employing usual punctuation conventions so that the
+content would be easy to read later on. The data (video sessions, field
+notes, audio records and their transcriptions) have been stored safely
+with access restricted to the research team.
+In this article, we present and discuss only the results for the groups
+made up of adults4
+. In total, the participants comprised 37 adults (26
+women and 11 men), each group comprising between 5 and 8 adults.
+We began the discussion by asking which game they liked best of the
+games they had just played, if they liked playing with their children and
+if they did it at home. The discussion continued with talk of video game
+tastes, their personal experiences with them and regulating their child's
+play. Then we introduced the question of imagining their children
+working in that field and asked them for their practices with technology
+at home (who did what).
+For the analysis, we considered it appropriate to follow some suggestions
+brought forward by Morison and Macleod's (2013) performative-performance
+analytical approach: to look for the common elements
+across discussion groups in terms of discursive resources and also to pay
+attention to trouble and the process of repair. To understand the
+identity work accomplished in an interview, attention must be payed to
+trouble and the process of repair. Trouble can be understood as the
+“difficulties with regard to the onus to remain consistent in narration”
+(Morison & Macleod, 2013, p. 571). Repair can be done in the form of
+correcting a previous position in order to avoid criticism, but also, in
+Butlerian terms, to maintain the illusion of gender as anchored to the
+sexed body. In every group, ideas on gender differences developed relatively
+soon, usually when discussing tastes and developed in the
+discussion about future imagined jobs for the children. In trying to
+account for the apparent sex differences in the behaviour and the
+feelings that emerged during the workshop and its subsequent discussion,
+participants consolidated the gender binary in many ways. The
+final codes could be organised into three categories: “segregated
+worlds”, “different domestic responsibilities” (which included gaming
+with children), and “disaffection from technology”. In short, binary
+gender was reified through the description of two segregated worlds,
+apparently caused by children's individual tastes; through adults taking
+differentiated domestic responsibilities, specifically by fathers playing
+with boys' games (but not with girls' games) and being the common
+solvers of technological issues and by mothers not doing so even when
+they had the ability to engage with technological activities; and through
+mothers not having time to play and feeling hopeless about technology.
+Although the different discussion groups were relatively consensual on
+every one of those aspects, trouble occurred in Laia's group, the only
+woman participant having a technological job. In this case, technology
+was flexibly interpreted to avoid contradicting the gender binary.
+Results
+First, we present the three categories just mentioned organised
+around two major subjects: gaming in itself, as a gendered practice, and
+home, as the space where gendering takes place. After that, we will
+focus on Laia's group's particular interaction.
+Accounting for gender in gaming
+In the words of adult participants, the existence of the gender binary
+was reaffirmed by using the metaphor of men and women inhabiting
+two different worlds. As Carles stated: ‘…the worlds of boys and girls are
+very different…5
+.’ Two worlds whose differences can be observed as they
+live up to customary stereotypes: a peaceful girls' world compared to an
+active and violent boys' world:
+…I have two girls and the games have to be calm, I mean, give them
+games of… a game in which you kill people and… and they're not,
+they're not interested, and on the contrary when my nephews come and
+see the games my daughters… […] they're not interested at all, there are
+no deaths, of course… it's that… Am I right or not? Yes, the worlds of
+boys and girls are very different.
+This two world view paralleled a common practice: the mothers
+from our discussion groups made clear that they hardly ever played
+video games with their children, mainly providing the explanation that
+they had domestic responsibilities to look after. As Elisabet stated: ‘…
+but it's different with the father, because with the mother it's like… ok,
+they're playing, so I'll do some things, it's like… ok, they're busy, I can do
+things that need to be done’. Most fathers, unlike most mothers in the
+groups, told us that they played video games. In fact, fathers considered
+it ‘quality time’ that they shared with their children. Maybe not surprisingly
+some fathers made clear they were very actively involved in
+their sons' games, but that this did not occur so clearly when it concerned
+their daughters' games: ‘I never play with them’ said Xavier. But
+mothers did not play with their daughters either. Therefore, for girls,
+playing video games had easily become an activity that adults did not
+share with them, sending them the message that grown-up women do
+not play.
+In electronic play, as with traditional play, genders are practised,
+tastes and interests are tried out and preferences are established that
+usually coincide with the cultural mandates of gender (Jenson & de
+Castell, 2011; Walkerdine, 2006). Unsurprisingly, the absence of technologies
+in the girl's world looked correct and even desirable:
+but for example, it is interesting too when my daughter's friends come,
+normally they don't play that, but maybe it's because she is a girl, right?
+Maybe it's more a boy thing, right? Playing video games, but the girls
+play, really, like all kids should, they play…they put on dresses, or they
+play theatre, I don't know, things like that (Thomas).
+When girls play ‘like all kids should’, they are normatively constructed
+as appropriate to what is expected of a healthy childhood.
+Remarkably, in this except only girls corresponded to this nostalgic
+construction of a good childhood, the a-technological childhood. The
+‘good girl’ trope (quiet, peaceful, caring) (Walkerdine, 2006) was thus
+re-enacted within the technological practices discourse.
+Sex differences in play and in the feelings involved in play were
+usually organised around statements about children's personal preferences.
+These were considered personal options about which parents
+should not have an opinion, for individual tastes were something to be
+respected. These personal preferences were not seen as provisional
+during the discussion, but established as hard stable facts; they were put
+forward as interests that last over time and were uninterrupted, continuing
+into adulthood. For instance, Susanna said that she has always
+considered herself hopeless with computers, clearly to indicate a stable
+disposition. In fact, when Susanna commented on the only game she
+liked, she recreated an emotional world that was very negatively
+4 Unfortunately, although children's views should also be taken into account, discussions
+in children's groups were not as rich as in parents’. They explained their practices
+and affections rather succinctly, and did not really engage in the discussions as parents
+did, therefore making reliable interpretations practically impossible.
+5 Like this one, the quotes in this article were originally in Catalan or Spanish and were
+translated by the authors. All first names mentioned are not the real names of the participants.
+A. Gil-Juárez et al. Women's Studies International Forum 66 (2018) 56–62
+58
+oriented towards video games:
+So, maybe that's why I like it, right? But I also think that it is very… it's
+very cool, it's the only one that doesn't make me suffer, I mean, that it
+doesn't present…a… yes, a situation of finding myself with something
+that I can't solve, and not… and not enjoy it, you know? That is what
+happens to me with video games, they're too much for me, I don't…I don't
+enjoy them (Susanna)
+Discussants managed to produce arguments that always developed
+in such a way as to confirm the gender dichotomy. This was achieved by
+maintaining that there were differences between men and women in
+practices, uses, tastes, needs and habits and accounting for them as
+individual choices or preferences (Rommes et al., 2007). This in turn
+had the effect of naturalising that difference, anchoring it in the private/individual
+world and not the public/social one. In an argumentative
+context in which categorical differences were denied as such
+and explained by individual preferences, the ‘different worlds’ metaphor
+managed to remain: mothers did not play, girls were not supposed
+to and video games were a possible cause of anxiety and suffering.
+Accounting for gender and technology at home
+Following our question about who does what at home when technological
+stuff is involved, a gendered division of tasks was usually
+described, as appears in other domains (Breen & Cooke, 2005;
+Tremblay, 1997). Three main reasons were offered when the participants
+tried to account for this domestic division: different abilities and
+knowledge, habit or individual interests. Although gender was invisibilised,
+as it did not surfaced explicitly as a possible cause, the resulting
+domestic arrangement was clearly gendered.
+Usually the first account that justified the ‘sexual’ division of technological
+tasks was an account of the different abilities and knowledge
+the members of the couple have. For example, a division of people from
+the “humanities” and people from “science” regarding interests, tastes
+and personal skills overlapped in the interviews with a technological
+divide. Susanna attributed her low skill and interest in new technologies
+to the fact that she was from ‘humanities’: ‘and maybe because I don't
+have that skill, I mean, that matters too, doesn't it? That…that I'm more
+from humanities’. Xavier, in answering the question about who was in
+charge of appliances at home, gave the same explanation, making it
+clear who studied humanities and who studied science, and assuming
+that this explained the home distribution of tasks: ‘In my house I do it
+because I studied science, and my wife studied humanities…’. But even
+when this explanation was not possible, e.g. when both members of the
+couple were ‘science’ people, the symmetry in skills did not change the
+division of tasks. ‘…no, at home we all studied science, but Josep does it
+more than I do, and I… if he does it, then I don't have to worry, I mean I do
+other things, but if he needs me I get involved too, but…’… The justification
+in this case was based on the fact that she did ‘other things’, but what
+finally happened at home was that the male member of the scientific
+couple managed the electronic appliances.
+A different account of another gendered division of tasks emerged
+when both members of the couple shared abilities and knowledge.
+When Laia, the participant with a technological job, told us that: ‘… as
+far as arranging hardware is concerned, I mean apparatuses, my husband
+does it, but I do the I.T. I mean, when it comes to software, I know more than
+he does, and he knows more about equipment than I do’, she shifted to a
+different gendered arrangement: men take care of the hard part of
+technology (hardware or apparatus) and women take care of the soft
+part (software or code) (Guerrier, Evans, Glover, & Wilson, 2009). The
+hardness or softness of technology is a product of discursive negotiations
+and not a given fact. Video games offer a clear example of that as
+they are present on both sides of the hard-soft/code-machine dichotomy,
+and in their manufacturing men are present on both sides of this dichotomy.
+In this case, this hard-soft dichotomy appeared when a
+troubling gendered situation had to be accounted for: Laia actually was
+technology proficient. Situating herself in the soft part of technology
+allowed her to save face (Goffman, 1967) in that situation, maintaining
+both herself and her husband on the ‘correct’ side of the gender binary.
+In a cultural and political context in which public discourse cannot
+explicitly support inequality and thus gender becomes invisible
+(Rommes et al., 2007), this division of tasks brought about more justifications,
+such as habits, as Carles told us:
+… I mostly do the more technological things, but, that doesn't mean my
+wife doesn't do things either… but, it's that, sometimes, we do things out
+of habit, don't we? Electronic things or connecting things, well… it's set in
+stone that I do it, but she could do it perfectly well.
+Or individual interests can also be used to build a justification of this
+division:
+… I don't mean to say that at a given time she couldn't do it, but I think
+that she hasn't needed to do it, and anyway, I think she doesn't like it,
+and it's combined with the fact that, maybe I like it more, you know?…
+(Joachim).
+Under an egalitarian discursive regime, differences in individual
+tastes were used as a justification for inequalities in practice. As per
+‘needs talk’, ‘individual differences’ talk also “allows for value judgments
+and normative relationships to appear as timeless and universal
+facts and lends them moral force” (Lawler, 1999, cited in Morison &
+Macleod, 2013). As pointed out by Rommes et al. (2007), the combination
+of gender egalitarian discourses seen as an accomplished fact
+with the individualist discourse presented by the choice of a profession
+or an activity as something based on interests, tastes and merits, systematically
+hides the consideration of tastes and ‘choices’ as something
+that is affected not only by access to social, cultural and economic resources,
+but also by being part of a society that has different expectations
+for women and men. Similarly to gender discourses, equality
+discourses have also performative consequences. Normative discourses
+about individual differences in tastes embedded in equality discourses
+reiterate assumptions regarding gender-segregated practices, which
+remain intact, albeit unspeakable.
+Technology trouble
+As Morison and Macleod (2013) stated, to understand identity work,
+we must pay attention to trouble and repair. Trouble emerges with the
+difficulties in remaining consistent in narration (Morison & Macleod,
+2013). Repair can then be done by correcting a previous position in
+order to avoid criticism and also to maintain the illusion of gender as
+anchored to the sexed body.
+During the discussions of fathers and mothers, technology changed
+in its nature with relative ease
+Interviewer: Do you imagine her working in the technology industry in the
+future?
+I can't imagine her in that world; I see her focusing on other… more,
+tangible things, because I find all of this to be more unreal, you know? So
+her, no, I can't imagine her like that…(Isabel).
+Whereas technology was presented as not suitable for a mother and
+her daughter, because of it being intangible, in the following excerpt,
+which was produced in the same group shortly after the preceding, it
+was posited as not suitable for women in general, but precisely for the
+opposite reason, for being too manual and concrete. A biological explanation
+emerged in the discussion and the nature of technology was
+apparently adapted to the requirements of the argument:
+- It's different, a woman's brain, there are a lot of studies about it. A
+A. Gil-Juárez et al. Women's Studies International Forum 66 (2018) 56–62
+59
+woman's brain is very different from a man's brain, so the trend is,
+technology, manual skills are another thing that seems to be more aimed
+at men, in the brain…(Jaume)
+Therefore, there seemed to be an implicit consensus about the fixed
+nature of gender that seemingly forced technology to be redefined in
+order to fit into the variety of relationships women have with it. An
+important instance of that occurred when one of the groups was confronted
+with a mother who did work with technology, something that is
+not easily accommodated in current models of femininity (Bury, 2011;
+Faulkner, 2007; Kvande, 1999). It is important to look at the entire
+sequence to see how this evolved during the discussion:
+- It is that it is not…, I mean, the technological part does not have anything
+of a manual technique, let's say (Laia).
+- Yes but tech… (Jaume)
+- It is super-rational, on the one hand, and super… I do believe that precisely
+it combines, with much balance, what is of girls and what is of
+boys, and I believe that few things are so… reflect so many different parts
+of intelligence (Laia).
+- We can't, eh, I mean, particularise, I mean, the fact that there are women
+who work in technology does not mean that, I mean, it's not the general
+rule, I mean, the trend of sexes I think, has been studied quite a lot, hasn't
+it? One thing is the… manual skills, which appear to be stronger in the
+man's brain, and we don't know why… and it's not… but it is stronger
+than other activities that women have. They have qualities that men don't
+have (Jaume).
+- And what qualities do women have? (Laia).
+- I, the job you do, I don't know, eh, but maybe it's more creative than
+technical, is it? (Jaume).
+- Of course, of course (Daniel).
+- No, what's happening is that… (Laia).
+- Because of course, if you do little drawings, and so on, and the result is
+something very pretty… (Jaume).
+- First of all, I do not d[raw]… (Laia).
+- Maybe not…I mean, when I talk about technical, technical-scientif… I
+mean scientific-technical (Jaume).
+- …the procedure matters more to them than the (Isabel).
+- …pure physics, pure engineering… (Jaume).
+- …than the result (Isabel).
+At this point, one of the discussants asked if this was all the time
+allotted as the time was already consumed and the discussion ended
+somewhat abruptly. We closed the discussion group and thanked them
+all. When everybody stood up, Laia approached Jaume and told him:
+- Do you know what happens? They are fundamentally creative careers,
+it's not, you can't say: it's creative and as a result it's not that technical
+(Laia).
+- Bu… (Jaume).
+- No, no, no, but that they are fundamentally creative means that you have
+a language, you have a language and you have to use it to create
+something, and that is what it is to be a… computer specialist (Laia).
+During this sequence, Laia firstly transformed Jaume's assertion that
+technology involves manual skills, stating that on the contrary, it is, on
+the one hand, ‘super-rational’, but she did it without questioning brain
+differences and accepting that there were boys' and girls' parts of intelligence.
+In the controversy, it appeared to be easier to change technology's
+characterisation than the brain's. Following this, Jaume insisted
+on the manual character of technology, therefore making it not
+suitable for women because of brain sex differences. Now technology
+was made tangible, something you deal with, literally, with your hands.
+Nevertheless, Laia's job made the discussion uncomfortable, since she
+was not in an expected professional situation. When Laia attempted to
+question Jaume's statement by asking sarcastically about women
+qualities, she found that her own work within the technology field was
+undermined. Her job in digital post-production of animation became
+drawing pretty pictures. When Laia attempted to defend herself from
+those who questioned that her work was truly technological, her interlocutors
+changed the nature of technology again. Thus, the idea that
+technology was not manual but scientific was developed. If you are a
+woman what you do cannot be technical, or correspondingly, technical
+has to be something different from what you do. The manual nature of
+technology disappeared from Jaume's statements to become “rational”
+(as Laia was arguing before), converting technology into something
+pure, meaning closely linked to pure science, as opposed to an elided
+applied science. Now, technology was changed, in Isabel's words, into
+being more interested in the procedure (abstract) than in the result
+(concrete). This rhetorical strategy managed to maintain gender in its
+place. Technology, something apparently so material and so solid,
+dissolved, deformed, molded and modified itself to the heat of the
+discussion.
+When Laia, who had been debased, took Jaume aside, she did so to
+return technology to the field of the stereotypically feminine: creativity
+and language. A turn was brought about in the nature of that which was
+technical. However, in exchange for this turn, gender was maintained
+as it was. Bringing technology closer to a field reputedly feminine
+preserved femininity as the sphere of creativity and language. This last
+version of technology managed to move it from the field of masculinity
+to that of femininity. In this case, when trouble appeared, a thorough
+work of repair to maintain consistency was undergone. However, as
+maintaining both technology and gender consistency simultaneously
+was impossible, technology unceasingly mutated its character – but not
+so gender. It is arguable that faced with such a dilemma, gender, as
+being much more central to social order, was given priority. The illusion
+of brain differences, as a metonymy of the sexed body, was
+maintained.
+Discussion
+Throughout the different discussion groups, the gender binary was
+kept immutable through: (a) the justification of household task divisions
+due to different interests or habits, even when there is equal
+knowledge; and, (b) the taken for granted different leisure interests
+boys and girls have. However, as shown in our last excerpt, when
+people were confronted with facts that contradicted the dominant
+perception that women are technologically mediocre or uninterested,
+technology and not gender was flexibly interpreted. As Lie (2003)
+synthesizes, apparently people “find it easier to redefine what ICT is
+than to change their own and other people's ideas of gender differences'
+(Lie, 2003: 29). Landström (2007) suggests that it would be beneficial
+to the project of understanding the coproduction of gender and technology
+to conceive feminist theory as a ‘struggle to render more mobile,
+fluid, and transformable the means by which the female subject is
+produced and represented’ (Grosz, 2005, p. 193, cited in Landström,
+2007). Actually, some authors argue that “gender identity seems to be a
+[…] flexible concept as the meaning of masculinity and femininity
+seems to shift between contexts, might be irrelevant or downplayed in a
+situation, or subverted in another” (Nentwich & Kelan, 2014). Although
+it may seem paradoxical, this flexible character apparently does not
+exclude the possibility of its reification.
+The cherished possibility of overthrowing the givens we live by can
+only occur within the same spaces in which domination is produced and
+reproduced. In our highly technical societies, gender is largely produced
+in relation to technology, and it can only be fully resisted
+through this same relation. As co-construction of gender and technology
+proponents suggest, how we understand, perceive and perform
+gender is not only the result of discourses about what it means to be a
+woman or a girl, it is also linked to a technical fabric comprising objects,
+devices and procedures associated with them (Wajcman, 2004).
+These contribute to stabilising and making certain norms, attributes,
+A. Gil-Juárez et al. Women's Studies International Forum 66 (2018) 56–62
+60
+categories, guidelines and ways of life last over time. By describing a
+world in which girls do not have skills or interest in technology, this
+world comes into existence. However, the usual idea of the mutual coconstruction
+and mutual stabilisation of gender and technology
+(Faulkner, 2001; Oudshoorn, Rommes, & Stienstra, 2004; Wajcman,
+1991, 2004) needs to be qualified for it is not a symmetric process.
+In the first two parts of our results section, we have seen that
+Butler's insight – that gender is an appearance constituted through the
+repetition of normative acts that respond to concrete interpellations
+from the discourses in which we live – can be incorporated into a coconstruction
+of gender and technology approach. In addition, following
+our interpretation of the long sequence commented on in the last part of
+the results, we can also wonder with Butler (1997, p. 19) if “that constitution
+is necessarily final or effective”. As Butler stated, these interpellations
+and reiterations may lead to defective repetitions of social
+mandates, which open up transformation possibilities (Pujal & Amigot,
+2010). Laia's effort is not, despite everything, an insignificant effort.
+The mutable citation of technology her presence and positioning generated,
+may pave the path to other possible citations of gender. If, as she
+argues, computing is language and creation then it is incorrectly located
+on the masculine side of the gender dichotomy, according to the prevalent
+stereotypes in the western world. Laia's argument facilitates the
+emergence of a different comprehension of computing, a comprehension
+that removes it from its usual location and allows it to be situated
+in a space shared by everyone regardless of its ascribed gender. In the
+long run, only the emergence of more of these androgynous spaces
+could bring about the breaking up of a dichotomous gendered life.
+In their discursive displaying sex differences were solidified.
+However, the same did not occur with technology; surprisingly, as
+technology is commonly considered to be at least as material and solid
+as a gendered body, if not more so. For this reason, it is not possible to
+establish any plan to resist the gender binary if we do not first understand
+that if technological spaces persist as spaces of great inequality it
+is because while the meaning of technology is flexibly interpreted when
+needed, the meaning of gender is not; on the contrary, technology is
+flexibly interpreted to avoid making gender flexible.
+Conclusions
+According to Landstrom, ‘an analytical asymmetry […] has haunted
+feminist constructivist technology studies from the outset’ (2007, p.
+10). The fact is that while technology has usually been approached in
+these studies as gendered and having different meanings, uses and effects,
+gender itself, even when it is discussed as a social and cultural
+construction, has largely been dealt with as a fixed and evident construction
+(Bray, 2007; Lagesen, 2007; Landström, 2007). Now, it is
+clear why: the gender binary is strongly rooted in technological discourses
+and practices and will not be destabilised if technology is assumed
+as having all the flexibility. However, infusing performativity in
+this field can give us some tools to understand its powers, imagine new
+forms of destabilisation, and maybe avoid reproducing common discourses
+within academic reflection.
+Co-construction of gender and technology approaches could benefit
+from incorporating Butler's work on the performative effects of the
+repetition of social norms and of interpellation: to “make sense of the
+role of technology […] in the re-assembly of how people construct
+themselves and their actions” (Lagesen, 2012, p. 442), and, to avoid
+“the risk of ‘black-boxing’ gender as an analytical tool, which leads to
+‘an artificial analytic closure’ (Gill & Grint, 1995: 20)” (Landström,
+2007, p. 10). In this work, we have considered gender as the result of
+repeating norms and identity speeches made by our participants in
+relation to technology. Probably, the mere presence of a masculine
+designed technology constitutes a permanent reminder of how to act in
+front of it – a permanent interpellation made by technology's presence.
+Actually, technology is also performative in materialising the body, and
+it does so through very effective performances (McKenzie, 2001). The
+efficiency of machines makes efficient the people who work with them;
+they impose their rhythms like in an assembly line, on what they expect
+from you. As Conquergood (2002) remarks if we have to recognize the
+embodied knowledge, ‘the practical knowledge through [which] corporeal
+lives are lived’ (Loxley, 2007, p. 153), we have to acknowledge
+not only the know-how but also the know-who, that is the who does
+what with technology and how they ‘assemble’. As Landstrom comments:
+‘“Assemblage” refigures subjectivity as constituted in complex
+relationships with technology, placing the relationship as the crucial
+mechanism, not identity’ (Landström, 2007 p. 17). When looking closer
+at this assemblage, through our participants' narrations of their and
+their children's relations to technology, we have seen that it is produced
+within a heterosexual matrix and simultaneously within a set of
+equality discourses that silence its gendering. This immutability of
+gender contrasts severely with the mutability of technology.
+Analysing the resistance to the bending of gender categories can be
+politically frustrating but can prove fruitful to avoid essentialist backlashes.
+As ‘talk performs the gender difference that heteronormativity
+requires’ (Landström, 2007, p. 20) feminist claim that things could be
+otherwise needs to rest on accurate accounts of how gender is performed
+by talk in specific contexts. Other talk is possible; however, it is
+not here yet in parenting involving technology.
+Funding
+This work was supported by the Spanish Ministry of Science and
+Innovation (Grant: CSO2008-05203-E/SOC).
+References
+Anderson, N., Lankshear, C., Timms, C., & Courtney, L. (2008). Because it's boring, irrelevant
+and I don't like computers: Why high school girls avoid professionally-oriented
+ICT subjects. Computers & Education, 50(4), 1304–1318.
+Barad, K. (2003). Posthumanist performativity: Toward an understanding of how matter
+comes to matter. Signs, 28, 801–831.
+Barcelona City Council (2012). Statistics > economic statistics > income and finances
+> territorial distribution of household income > evolutive figures
+2000–2012. Retrieved from http://www.bcn.cat/estadistica/angles/dades/
+economia/renda/rdfamiliar/evo/rfbarris.htm.
+Bijker, W. E., & Law, J. (1992). Shaping technology/building society. Studies in sociotechnical
+change. Cambridge, MA: MIT Press.
+Bray, F. (2007). Gender and technology. Annual Review of Anthropology, 36, 1–21.
+Breen, R., & Cooke, L. P. (2005). The persistence of the gendered division of domestic
+labour. European Sociological Review, 21(1), 43–57.
+Bury, R. (2011). She's geeky: The performance of identity among women working in IT.
+International Journal of Gender, Science and Technology, 3(1), 33–53.
+Butler, J. (1988). Performative acts and gender constitution: An essay in phenomenology
+and feminist theory. Theatre Journal, 40, 519–531.
+Butler, J. (1990). Gender trouble: Feminism and the subversion of identity. New York:
+Routledge.
+Butler, J. (1997). Excitable Speech. A politics of the performative. New York: Routledge.
+Cockburn, C., & Ormrod, S. (1993). Gender and technology in the making. London: Sage.
+Conquergood, D. (2002). Performance studies: Interventions and radical research. The
+Drama Review, 46, 145–156.
+Dobson, A. S. (2014a). Performative shamelessness on young women's social network
+sites: Shielding the self and resisting gender melancholia. Feminism & Psychology,
+24(1), 97–114.
+Dobson, A. S. (2014b). Laddishness Online: The possible significations and significance of
+‘performative shamelessness’ for young women in the post-feminist context. Cultural
+Studies, 28(1), 142–164.
+Faulkner, W. (2001). The technology question in feminism: A view from feminist technology
+studies. Women's Studies International Forum, 24(1), 79–95.
+Faulkner, W. (2007). “Nuts and bolts and people”: Gender-troubled engineering identities.
+Social Studies of Science, 37(3), 331–356.
+Gill, R., & Grint, K. (1995). Introduction: The gender-technology relation: Contemporary
+theory and research. In T. Grint, & R. Gill (Eds.). The Gender-Technology Relation:
+Contemporary Theory and Research (pp. 1–28). London: Taylor & Francis.
+Gil-Juárez, A., Feliu, J., & Vitores, A. (2010). Performatividad Tecnológica de Género :
+Explorando la Brecha Digital en el mundo del Videojuego (Gender Technological
+Performativity: Exploring the Digital Divide in Video Gaming). Quaderns de Psicologia,
+12(2), 209–226.
+Gil-Juárez, A., Vitores, A., Feliu, J., & Vall-llovera, M. (2011). Brecha digital de género:
+una revisión y una propuesta (Gender Digital Divide: A review and a proposal).
+Revista Teoría de la Educación: Educación y Cultura en la Sociedad de la Información,
+12(2), 25–53.
+Goffman, E. (1967). Interaction ritual: Essays in face to face behavior. New York: Anchor/
+A. Gil-Juárez et al. Women's Studies International Forum 66 (2018) 56–62
+61
+Doubleday.
+Gordo Lopez, A. J., Contreras, P. P., & Cassidy, P. (2015). The [not so] new digital family:
+Disciplinary functions of representations of children and technology. Feminism &
+Psychology, 25(3), 326–346.
+Greenberg, B. S., Sherry, J., Lachlan, K., Lucas, K., & Holmstrom, A. (2010). Orientations
+to video games among gender and age groups. Simulation and Gaming, 41(2),
+238–259.
+Guerrier, Y., Evans, C., Glover, J., & Wilson, C. (2009). ‘Technical, but not very…’:
+Constructing gendered identities in IT-related employment. Work, Employment and
+Society, 23(3), 494–511.
+Hayes, E. (2008). Girls, gaming, and trajectories of technological expertise. In Y. B. Kafai,
+C. Heeter, J. Denner, & J. Y. Sun (Eds.). Beyond Barbie and Mortal Kombat: New perspectives
+on gender and gaming (pp. 217–229). Cambridge, MA: MIT Press.
+Jenson, J., & de Castell, S. (2005). Her own boss: Gender and the pursuit of incompetent
+play. Proceedings of the Digital Games Research Association Conference, Changing Views:
+World in Play. Retrieved from http://www.digra.org/dl/db/06278.27455.pdf.
+Jenson, J., & de Castell, S. (2011). Girls@Play: An ethnographic study of gender and
+digital gameplay. Feminist Media Studies, 11(2), 167–179.
+Kane, E. W. (2006). “No way my boys are going to be like that!”: Parents' responses to
+children's gender nonconformity. Gender & Society, 20(2), 149–176.
+Kelan, E. K. (2007). Tools and toys: Communicating gendered positions towards technology.
+Information, Communication and Society, 10(3), 358–383.
+Kvande, E. (1999). “In the belly of the beast”: Constructing femininities in engineering
+organizations. European Journal of Women's Studies, 6, 305–328.
+Lagesen, V. A. (2007). The strength of numbers: Strategies to include women into computer
+science. Social Studies of Science, 37(1), 67–92.
+Lagesen, V. A. (2012). Reassembling gender: Actor-network theory (ANT) and the making
+of the technology in gender. Social Studies of Science, 42(3), 442–448.
+Landström, C. (2007). Queering feminist technology studies. Feminist Theory, 8(1), 7–26.
+Lawler, S. (1999). Children need but mothers only want: The power of “needs talk” in the
+constitution of childhood. In J. Seymour, & P. Bagguley (Eds.). Relating intimacies:
+Power and resistance (pp. 64–88). Basingstoke, UK: Macmillan.
+Lie, M. (2003). He, she and It revisited: New perspectives on gender in the information society.
+Oslo: Gyldendal Norsk Forlag.
+Lorre, C., Prady, B., & Cendrowski, M. (2009). The creepy candy coating corollary [television
+series episode]. In P. Chakos (Ed.). The Big Bang Theory. USA: Warner Brothers
+Studios.
+Loxley, J. (2007). Performativity. New York: Routledge.
+McKenzie, J. (2001). Perform or Else: From discipline to performance. New York: Routledge.
+Morison, T., & Macleod, C. (2013). A performative-performance analytical approach:
+Infusing Butlerian theory into the narrative-discursive method. Qualitative Inquiry,
+19(8), 566–577.
+Nentwich, J. C., & Kelan, E. K. (2014). Towards a topology of “doing gender”: An analysis
+of empirical Research and its challenges. Gender, Work & Organization, 21(2),
+121–134.
+Ormrod, S. (1994). Feminist sociology and methodology: Leaky black boxes in gender/
+technology relations. In R. Gill, & K. Grint (Eds.). The Gender–Technology Relation:
+Contemporary Theory and Research (pp. 31–48). London: Taylor and Francis.
+Oudshoorn, N., & Pinch, T. (Eds.). (2003). How users matter: The co-construction of users
+and technology. Cambridge, MA: MIT Press.
+Oudshoorn, N., Rommes, E., & Stienstra, M. (2004). Configuring the user as everybody:
+Gender and design cultures in information and communication technologies. Science,
+Technology & Human Values, 29(1), 30–63.
+Pinch, T. J., & Bijker, W. E. (1984). The social construction of facts and artefacts: Or how
+the sociology of science and the sociology of technology might benefit each other.
+Social Studies of Science, 14(3), 339–441.
+Pinch, T. J., & Bijker, W. E. (1986). Science, relativism and the new sociology of technology:
+Reply to Russell. Social Studies of Science, 16, 347–360.
+Pujal, M., & Amigot, P. (2010). El binarismo de género como dispositivo de poder social,
+corporal y subjetivo. Quaderns de Psicologia, 12(2), 131–148.
+Rommes, E., Overbeek, G., Scholte, R., Engels, R., & De Kemp, R. (2007). ‘I'm not interested
+in computers’: Gender-based occupational choices of adolescents.
+Information, Communication and Society, 10(3), 299–319.
+Tremblay, D. G. (1997). Change and continuity: Transformations in the gendered division
+of labour in a context of technological and organizational change. In A. F. Grundy, D.
+Köhler, V. Oechtering, & U. Petersen (Eds.). Proceedings of the 6th International IFIPConference
+Bonn, Germany. (pp. 293–304).
+Wajcman, J. (1991). Feminism confronts technology. Cambridge: Polity Press.
+Wajcman, J. (2004). Technofeminism. Cambridge: Polity Press.
+Wajcman, J. (2010). Feminist theories of technology. Cambridge Journal of Economics,
+34(1), 143–152.
+Walkerdine, V. (2006). Playing the game: Young girls performing feminity in video game
+play. Feminist Media Studies, 6(4), 519–537.
+Winn, J., & Heeter, C. (2009). Gaming, gender, and time: Who makes time to play? Sex
+Roles, 61(1–2), 1–13.

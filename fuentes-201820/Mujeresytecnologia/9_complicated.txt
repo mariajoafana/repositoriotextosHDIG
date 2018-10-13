@@ -1,0 +1,728 @@
+Complicated Women: Examining
+Methodologies for Understanding the
+Uses of Technology
+PAMELA TAKAYOSHI
+University of Louisville
+In this article, I call for more complicated understandings of the relationship between women
+and technology, arguing that two interpretive frameworks interfere with our current representations
+of women and technology: a reliance on what Paul V. Anderson (1998) has called
+“person-based research” (p. 63) and an either/or framework for thinking about technology.
+Recent scholarship is firmly grounded in an awareness that technologies are always ideological,
+that technologies can be used to both oppressive and empowering ends, and that
+disempowered groups are more likely to be oppressed than empowered by technologies.
+Although composition has developed a complicated understanding of the ideologies of
+technology, we have not focused our attention in a systematic way on the perhaps unique
+relationship of women and technology. I draw on feminist technology theorists’ constructions
+of technology as always ideological but never predetermined in its meanings for users as a
+way of beginning this project.
+computer technologies feminist theory narratives research methodology women
+Aerin appeared in an advanced, computer-based class of mine only through the urging of
+her academic advisor. She resented technology. At the beginning of the course, I asked
+students to articulate their own definitions of technology. In hers, Aerin emphasized the
+impersonal nature of technology “which only works to separate us from other people and
+from the world around us. . . they remove the personal element from human interaction. . .
+I hope the current feminist work being done with technology will return some of its
+humanity.” Although she had very little first-hand experience with computer technologies,
+Aerin came into the course fully embracing a subject position that featured many
+dominant cultural beliefs about women and technology.
+A 1994 Newsweek story by Barbara Kantrowitz about gender and computers shares
+some of the cultural beliefs Aerin held when she began the class. In the article, the Internet
+is characterized as a place where women are not welcomed, and, thus, must establish their
+Direct all correspondence to: Pamela Takayoshi, Department of English, University of Louisville, 315 Humanities
+Building, Louisville, KY 40292. E-mail: ,pdtaka01@athena.louisville.edu..
+Computers and Composition 17, 123–138 (2000) ISSN 8755-4615
+© 2000 Elsevier Science Inc. All rights of reproduction in any form reserved.
+123
+own “all women” spaces to reap the potential benefits of online communications.
+Kantrowitz (1994) wrote that “in general, computer culture is created, defined, and
+controlled by men. Women often feel as welcome as a system crash” (p. 50). Although she
+acknowledged that there are male and female exceptions to this generalization, Kantrowitz
+focused on establishing the fact that the gender gap has been carried into this new medium,
+a gap she viewed as based in large part on the inability of computer culture to respond to
+women’s nurturing, caring, relational sides. A “Sylvia” cartoon accompanying the article
+sums up the article’s message: a girl standing with her arms on either side of her computer
+(with an image of a cat on the monitor) says “My friends and I are teaching dolphins to
+communicate through email” whereas the boy to her left, standing with arms crossed in
+front of a computer (with an image of an alien and spaceship on the monitor), says “I like
+to blow stuff up.”
+Kantrowitz’s (1994) article encapsulates several essentializing cultural narratives about
+gender and technology—including narratives of women as caring, nurturing beings
+interested in love, animals, and interpersonal relationships; of men as aggressive, macho
+conquerors of the universe; and of computer culture as imbued with masculine values of
+sterility, logic, and impersonality. In this way, the article serves as a good example of the
+way traditional definitions of male and female, masculine and feminine are imbricated in
+popular narratives of computers. Although Kantrowitz’s article serves as a good example
+of the gendering of computers in our cultural consciousness, it does little to disrupt these
+gendered constructions. Kantrowitz constructed computers and traditional gender roles as
+fixed and stable.
+Aerin’s experience, however, was more complicated than Kantrowitz’s (1994) discussion
+would lead us to understand. At the beginning of the class, Aerin saw little appeal in
+what she perceived as the alienating, masculinist, and totally foreign world of computers.
+However, as Aerin explored the Internet and the World Wide Web for the first time to
+connect with others in intensely personal ways, her own ideologies of technology had to
+be revised. Through her own experience of computer technologies, Aerin found that
+technology was not the masculinist, impersonal world she had read about and heard about.
+At the same time, she did not totally abandon her desire for personal connection or her
+frustration with the machinery of computers. Instead, she revised the ideologies of
+computers to better fit with those feelings—she telephoned people she met online, she
+uploaded pictures of herself onto her Web page so that online friends could put a face with
+her online presence, she personalized her home page1 to reflect what she saw as her
+feminine values rather than the masculine values of Web culture, and she still wished for
+machines that were better (at connecting people and at creating the spaces she wanted to
+experience online). Further, Aerin’s active use of technology suggests that women’s
+experiences are not seamless and coherent, all negative or all positive. It suggests that for
+women to be comfortable in this virtual terrain, they need to understand their own sense
+of boundaries; recognize that experience is conflicted and contested; and, understanding
+negative experiences as part of the fabric of online communication, persevere.
+Within the composition scholarship on computers, this complicated and sometimes
+contradictory relationship between women and technology has not been fully articulated.
+1 Required of all students in the course.
+124 TAKAYOSHI
+In an article published in 1991, Emily Jessup wrote that “the research on feminism and
+computers in composition instruction completed to date has focused on two central
+areas—the potential of computers to subvert traditional hierarchies and to enfranchise
+diverse populations of learners, and on different attitudes among actual computer users”
+(Jessup, 1991, p. 345). Since that time, research on computers for composition instruction
+has moved away from an accepted optimism to a more critical stance. Theorists of
+computers in composition instruction have increasingly interrogated the failure of computers
+to create the communities and enfranchising structures that were theorized as
+possible for female students in particular. Jessup’s article coincides with Gail Hawisher
+and Cynthia Selfe’s (1991) identification of a “rhetoric of technology” that is primarily
+optimistic, hopeful, and enthusiastic. This rhetoric, “positive in the sense that it reflects the
+high expectations of instructors committed to positive educational reform in their writing
+classes” (p. 57), does not incorporate a critical vision of computers in composition
+classrooms. Composition scholars have answered Hawisher and Selfe’s call for more
+critical examinations of writing technologies by describing the limitations of computers
+and their inability to automatically bring about the hoped-for positive educational reform
+and empowerment of users. Still, very few studies focus specifically on women users. The
+vast body of feminist scholarship on technologies that exists outside composition studies
+suggests that composition studies might benefit a great deal by trying to understand the
+unique relationship women might experience with technology. Rather than providing the
+field with “a full understanding of how the use of technology can affect the social,
+political, and educational environments within which we teach” (Hawisher & Selfe, 1991,
+p. 64), the stories we’ve told in composition studies that do consider women in particular
+as users have notably focused on technology’s tendencies toward supporting gender
+oppression. Rather than offering complex, complicated understandings of how women
+negotiate virtual communications, the existing scholarship has created an alternate,
+although still coherent, vision of women and technology—one in which women are not
+empowered and uplifted by technology’s potentials for rewriting cultural attitudes and
+beliefs. Instead, technology is used in support of the marginalizing, oppressive forces of
+a patriarchal culture. Neither of these kinds of stories explains Aerin’s experiences with
+online communications.
+In this article, I call for more protean constructions and understandings of the relationship
+between women and technology, arguing that two interpretive frameworks
+interfere with more complicated representations of women using technology—a reliance
+on what Paul V. Anderson (1998) has called “person-based research” (p. 63) and an
+either/or framework for thinking about technology. Recent scholarship is firmly grounded
+in an awareness that technologies are always ideological, that technologies can be used to
+both oppressive and empowering ends, and that disempowered groups are more likely to
+be oppressed than empowered by technologies. When considered together, however, the
+narratives we’ve told about women and technology tend to create coherent, although
+competing, visions of technology as either good or bad. Disentangling this knot involves
+first complicating the reliance in our scholarship on teacher-narrated, person-based research,
+pointing to the ways this methodological choice constrains what it is we can know
+about users’ relationships to technology. Once that knot has been untangled, I turn to the
+limitations of either/or thinking about technology, drawing on feminist technology theorists’
+constructions of technology as always ideological but never predetermined in its
+Complicated Women 125
+meanings for users. Unknotting these two different, yet related, problems suggests new
+methodological approaches to understanding women and technology. I believe we can
+disentangle ourselves from the limits these interpretive frameworks place on our understanding
+of women and technology, and more importantly, our understanding of the
+relationships among all students and the technologies that continue to infuse our writing
+curriculum and shape our writing theories.
+THE PROBLEMS OF INTERPRETATION IN PERSON-BASED
+RESEARCH ON WOMEN AND TECHNOLOGY
+Earlier computers and composition scholarship hoped that computer technologies would
+offer alternatives to the oppressive classroom structures that women in particular experienced
+(Flores, 1990; Selfe, 1990). Recent scholarship in computers and composition has
+moved toward a more fully articulated vision of the ideological limits of computer
+technologies. This critically conscious scholarship has attempted to redress the earlier
+vision of computers as inherently positive and empowering for students and teachers by
+offering different narratives that counter those positive claims. Tracing the evolution of
+this critical shift in the scholarship on computers and composition reveals the extent to
+which composition studies has taken very seriously Gail Hawisher and Cynthia Selfe’s
+(1991) assertion that “we can no longer afford simply, and only, to dwell on the best parts,
+to tell stories about the best classroom moments” (p. 61). Stories of the best parts of the
+best classroom moments have been supplemented with stories about less-satisfying
+classroom moments: narratives of victims oppressed by computers used as tools of
+surveillance (Janangelo, 1991), harassment (George, 1989; Kremers, 1988; Regan, 1993;
+Takayoshi, 1994), and erasure of cultural and sexual identity (Regan, 1993; Romano,
+1993).
+Joseph Janangelo’s (1991) story of Ella is a powerful example of narratives of women
+online. Other studies that have built theories upon narratives drawn from the teacher’s own
+experience include Marilyn Cooper and Selfe (1990), Lester Faigley (1992), Marion Fey
+(1994), E. Laurie George (1989), Joyce Kinkead (1987), Alison Regan (1993), Susan
+Romano (1993), Delores Schriner and William Rice (1989), and Takayoshi (1994). I focus
+on Janangelo’s discussion of Ella because it is a good site for examining the problems of
+interpretation that arise in teacher-told, person-based narratives not part of a larger,
+systematic, and planned study. It is also a vividly memorable example of how technology
+can be used against women.2 I rely on Janangelo’s story of Ella to closely read the way
+person-based narrative functions in our discourse about women and technology and, further,
+to build from that discussion a different conception for methodology in computers and
+composition scholarship. Ultimately, then, this discussion does not discount or dismiss the
+significance of any of the studies that rely on the researcher’s own interpretations of her
+2 I have students in my graduate seminar on computers and composition and in the new teacher
+orientation for teaching in my department’s computer classroom read this article. The example of
+Ella is a profoundly disturbing one that generates a great deal of discussion, reflection, and
+motivation for action. Students and teachers regularly ask “What can I do to ensure that something
+like this never happens in my classroom? What can be done to ensure that technology does not work
+against any student in this way?”
+126 TAKAYOSHI
+own classroom. Rather, it should demonstrate the problems in limiting ourselves to this
+kind of representation of ourselves and the students in the classes we teach.
+A first-year college student who had recently moved to the United States from the
+Soviet Union, Ella openly disapproved of the values of her American classmates, which
+fueled the other students’ hostility toward her. On the class conference (an electronic
+writing space where students communicated with one another), someone anonymously
+changed a posting so that it read “Ella sucks.” The postings that followed built upon the
+sentence in increasingly crude ways, with the word “sucks” ultimately being replaced with
+“fucks” and a reference to Ella’s father. Janangelo reported that “When that structure
+became a bore, it was changed to ‘Ella is a. . . ,’ and words such as ‘cunt,’ ‘slut,’ ‘pig,’
+and ‘Commie bitch’ were added” (p. 58). Ella’s peers gendered her, constructing her as
+a sexually active and deviant woman and reducing her to the sum total of her genitalia.
+Janangelo, the teacher as well as the narrator, did not describe what role he played as this
+event took place. Rather, he suggested that he stayed out of the fray: “I explained to my
+students that their bulletin board would be a nonacademic space where they could
+exchange ideas freely. My students had decided that I should be a read-only conference
+participant” (Janangelo, 1991, p. 57).
+Ella’s narrative is a deeply disturbing instance of online communications technology
+that jars us loose from any conception that technology is not ideological or cannot be put
+to strongly ideological uses. It is a situation that screams for immediate consideration by
+teachers and theorists of technological communications—we clearly cannot ignore either
+Ella’s individual experience or the need for theoretical frameworks to help us understand
+what happened as a way of avoiding it again. Janangelo’s narrative, situated within the
+more critical scholarship Hawisher and Selfe (1991) called for, clearly contributes to a
+more complex understanding of technology as neither completely positive nor completely
+negative. However, as in this example, many of the claims made about computer
+technologies within the critical discourse share with the earlier positive rhetoric a reliance
+on classroom stories. Both the positive and the negative stories in computers and
+composition are largely “person-based research [that] includes the publications and
+presentations in which we describe people we’ve encountered in the normal course of our
+professional and personal lives, outside of formally planned investigations” (Anderson,
+1998, p. 63). Although Anderson is concerned with our profession’s collective lack of
+discussion of the ethics of person-based research, his description of person-based research
+as “outside of formally planned investigations” is an important one for my discussion here.
+Computers and composition scholarship has relied on these teacher narratives as a
+methodology for gaining insight about a wide-range of pedagogical and theoretical issues,
+and it has been an important and valid way of knowing and understanding experience.
+Still, there are limits to this way of knowing. Hawisher and Selfe (1991) attributed the lack
+of a complex understanding about technology to a reliance on positive stories about
+technology, but maybe the problem of complexity lies not in the overwhelming positive
+nature of the stories but in a reliance on stories themselves. Maybe the debilitating factor
+is not the quality of the stories (negative or positive) but on the nature of narrative as a
+primary research methodology. Narrative is only one among many other ways of building
+knowledge, and it is a methodology that carries with it special difficulties. At this
+historical moment in our scholarship, as the positive stories of technology are supplemented
+with a recognition of the negative aspects of technology, an awareness of the
+Complicated Women 127
+limitations of narrative as a methodology might move us to explore new questions and
+new areas of concern in technology studies.
+Research methodologists in composition studies have suggested the difficulties in
+interpretation that arise when we rely too heavily on narrative as a methodological stance.
+Teacher-told, person-based narratives assume several interpretive stances: that the teacher
+has an accurate picture of what happens in the classroom, that there is one interpretation
+that makes more sense than other possible interpretations, that students represent themselves
+to teachers honestly and unselfconsciously (without constructing “student” personae),
+and that teachers’ subject positions (that might vary significantly from students’ race,
+class, gender, generational, sexual orientation, and body image positions) do not complicate
+interpretation. Many of the stories we tell in computers and composition scholarship,
+examples of either positive or negative experiences with technology, are told as relatively
+coherent renderings from the teacher’s perspective. In Janangelo’s rendering of Ella’s
+experience, for example, his interpretation of the events (an interpretation of an outsider,
+given that he did not participate in the discussion) is privileged whereas the voices of those
+who engaged in the discussion (including Ella) are not included. He is the teacher,
+selecting this particular instance from innumerable other occurrences that might have
+taken place in that semester. Recognizing that “those who turn other people’s lives into
+texts hold real power” (p. 14), Thomas Newkirk (1996) has argued that researchers have
+an ethical responsibility to complicate their interpretations of events by granting the
+researched “the opportunity to respond to problematical situations” and “offer counterinterpretations
+or provide mitigating information” (p. 13). These mediating forms of
+information can destabilize the coherent and uncontested appearance of interpretation, and
+in this way, underscore that the interpretation (and the events themselves) are constructions
+of meaning.
+Ultimately, these questions of interpretation are questions of power. Patrick Hartwell
+(1987) has argued that the role of narrator has often been available only to teachers and
+researchers, not to students. Citing Cazden and Hymes, he pointed out that “only the
+teacher has narrative rights. . . . We can tell stories, but our students can’t” (p. 14). This
+narrative right becomes an issue of power when the teacher becomes the researcher,
+scholar, published author. Moving through these channels, the interpretation gains institutional
+authority as it passes refereed review, becomes accepted as scholarship, and enters
+the body of a discipline’s received knowledge.
+Feminist research methodologists assert that interpretation is an issue of power by
+exploring the relationship between researcher and researched. Some feminist theorists
+suggest that discussions of power have been difficult to foreground in feminist circles
+because “there is a profound ambivalence about power in feminist theory. . . feminists
+have often relied upon a characterization of power as something evil, dangerous, and
+corrupting” (Kitzinger, 1991, p. 113). In composition studies, a similar discourse exists
+about the assertion of power in the classroom. But to ignore issues of power is to
+disengage rather than develop more enriching and potentially beneficial understandings of
+power. For this reason, feminist methodologists have attacked the issue of power in
+interpretation head-on: “In feminist research, at the very least, both [researcher and
+researched] are to be regarded as having the same status: as participants or collaborators
+in the same enterprise” (Wilkinson, 1986, p. 13). Sue Wilkinson (1986) identified a key
+component of feminist research as “its reflexive and self-reflective quality. . . in which the
+128 TAKAYOSHI
+knower is part of the matrix of what is known” (p. 13). Several questions arise from these
+suggestions about the shape of methodology. When we are presented with a narrative of
+an individual woman’s experiences with technology, we might ask: How would we
+interpret the story if we were given multiple versions of it, competing versions out of
+which a contested, rather than a coherent, impression might arise? How representative is
+the individual’s experience for female computer users? What were the experiences of the
+other women in the class? What were the other experiences of the student?
+Many stories about technology told in composition studies are anecdotal narratives of
+an individual student’s experience with technology, chosen from a semester’s worth of
+stories that were not picked. As Newkirk (1996) argued, “What we often have is research
+as advocacy, a selectively chosen sample of the most convincing examples of student
+success” (p. 12). Although our stories might not always indicate student success, they are
+often selected because they are the stories that most exemplify the point we set out to
+make. What about the stories that we accrue over a semester that don’t fit with our
+conclusions? What might those stories tell us about the conclusions we’ve already made
+in our minds? Reflecting on the ethics of interpretation, Gesa Kirsch and Joy Ritchie
+(1995) suggested that researchers “need to recognize the impossibility of ever fully
+understanding another’s experiences and to question their motives in gathering, selecting,
+and presenting these stories” (p. 13). The motivation for selecting the stories we’ve told
+in computers and composition has not been foregrounded in the scholarship. Although we
+expect empirical researchers to rest their claims on actual data they’ve collected systematically,
+we are less likely to hold narrative claims to similar standards. Why was the
+narrative chosen out of all the possible narratives? Was it representative of many students’
+experiences, or was it such a strikingly discordant feature of the classroom life that it stood
+out? Answers to these questions suggest how differently we might interpret stories of
+classroom moments. We might understand and give weight to representative stories in
+very different ways than we do strikingly discordant ones. Without a recognition of where
+the story fits within the context of the classroom life (or the Listserv activity, or the
+professional discourse), the risk is that the unusual or uncommon experience becomes
+representative of the everyday. This meaning-making dynamic is particularly important to
+think about with regards to stories we’ve told about women and technology.3
+I am particularly curious about the fact that our stories of women and technology tend
+3 The experience of Aerin, the student I began this paper with, suggests the limits of an uncontested
+interpretation. Aerin once told the class that the first thing that happened when she logged onto
+LambdaMOO was that male characters asked her to have sex with them in a private chat room.
+Several of the students, connecting Aerin’s experience to course readings, were outraged. Aerin was
+nonplussed. She told the class, “I just say ‘no, thanks,’ and look for some friends to talk to.” Aerin’s
+response to a seemingly oppressive situation was quite different than the response her peers expected
+and than the way such a narrative might be constructed about her. Aerin’s classmates and I “read”
+her being approached for virtual sex through our own interpretive lenses, and in that movement,
+missed how Aerin herself saw the events. Without asking her how she read the events, we might
+have felt comfortable in our belief that Aerin would see the events the same way we did—as another
+instance of women’s oppression. Aerin, though, as a participant in the culture, did not see it as
+thoroughly gendered because she knew that on this MOO, everyone—male or female presenting—
+was immediately approached for virtual sex the minute they logged in.
+Complicated Women 129
+to be ones in which women are belittled, oppressed, silenced. Although computers and
+composition has moved beyond the binary position of treating technology as either
+positive or negative, why have the stories about women using computer technologies been
+chosen? Are the negative experiences representative of women’s experiences as a whole
+with technology, or are they extreme examples that don’t fit the experience of the majority
+of women? Why are we not looking as a field at more empowering instances of women
+using technology as a way for understanding the protean nature of the relationships
+women affect toward technology? Why are women in the stories often object of study
+rather than subject of action? This issue of agency becomes a significant one in the face
+of essentializing cultural constructions of women and computers such as those represented
+in Kantrowitz’s (1994) Newsweek article—such constructions of powerlessness and lack
+of agency reinscribe patriarchal constructions of “woman” that feminists have battled for
+years. In a patriarchal culture that all too often ignores or does not care about the
+oppression of women and children, the mere existence of negative stories might subvert
+dominant ideologies that relegate women and children to marginal status in systems of
+power. Laura Miller (1995) argued that these disturbing stories are not disruptive to
+cultural systems of power, though, and only reinforce ideologies of women as weaker and
+dependent on the good will of patriarchy to protect them. Miller (1995) warned that
+women, who have the right to expect rigorous prosecution of crimes committed against
+them, should nevertheless be suspicious of a desire for special protections:
+Based as it is on the idea that women are inherently weak and incapable of self-defense and that
+men are innately predatory, it actually reinforces the power imbalance between the sexes, with its
+roots in the concept of women as property, constantly under siege and requiring the vigilant
+protection of their male owners. (p. 53)
+Not only does the call for special protections rely on a patriarchal conception of women
+as weak, fragile, and incapable of protecting themselves, it also implicitly reinforces an
+essentialist vision of women as a quantifiable class sharing similar experiences, beliefs,
+and world views and perpetuates a vision of subjectivity as coherent, singular, and
+cohesive, rather than contested, conflicted, and in continual flux.
+Some recent feminist work in computers and composition complicates these traditional
+categories of “woman” (as a coherent, unconflicted subject) and “women” (as a homogenous
+group). Although for the most part our scholarship has not complicated these
+categories, two studies suggest how complicated the relationship between women and
+technology really is and the direction future research might take in developing more
+complicated and systematic pictures of women and technology. Nancy Kaplan and Eva
+Farrell (1994) have painted a “portrait of young women on the net” (online), that depicts
+the persistence of women in the apparently hostile culture of computer networks. Recognizing
+that most studies involving women and networking “serve to confirm anecdotal
+evidence [that] women frequently feel ignored, silenced, even abused in electronic
+conversations” (online), Kaplan and Farrell (1994) explored, through a study of one group
+of young female users of technology, why some women persist despite the barriers and
+negative experiences they may face. In response to anecdotal evidence, Kaplan and Farrell
+systematically studied the lives of these young women online, telling their stories within
+the context of their relationships with one another and with technology in their lives as a
+whole. Kaplan and Farrell (1994) argued that it is important for theorists to understand
+130 TAKAYOSHI
+why some women like computer networks if we are to construct opportunities that engage
+women in electronic communications. To answer that question, Kaplan and Farrell turned
+to the women themselves, complicating the interpretive lens by relying not only on the
+researcher’s interpretation of the events. Indeed, the identities of the authors suggest one
+way of mediating the problems of interpretation pointed to by Newkirk (1996), Kirsch and
+Ritchie (1995), and others by blurring the line between researcher and researched—
+Kaplan (a composition scholar) and Farrell (Kaplan’s daughter and a member of the group
+of women studied) wrote the article together. Similarly, Pamela Takayoshi, Emily Huot,
+and Meghan Huot (1999) (a composition scholar and her two teenage step-daughters,
+respectively) have worked to incorporate the voices of the researched into the scholarship.
+They explain,
+The collaborative nature of this article underscores the importance of listening to girls’ voices as
+they articulate their negotiation of these technological spaces. In answering Kaplan and Farrell’s
+call to understanding “what attracts some women to electronic environments and what features of
+the activities we engage in sustain us in these new spaces,” we must turn to the women
+themselves. (p. 91)
+This awareness of and explicit concern for constructing engaging practices and listening
+to the women and girls using technology is vitally important at this historical moment if
+women are to have any voice regarding technology’s future shape and role in our society.
+In another study that moves beyond anecdotal, person-based narrative, Hawisher and
+Patricia Sullivan (1998) warned that “feminists must harness the new technologies to
+serve their own just political and social goals” (p. 195). In their study of one all-woman
+Listserv, Hawisher and Sullivan (1998) argued that harnessing acts are possible and were
+visible in the group of women they studied. These harnessing acts—attempts by women
+to create an “e-space of their own”—reflected the varying experiences of the women on
+the Listserv; indeed, one important finding of the study was the heterogeneity of women’s
+experiences with the Listserv. The interpretive strategy of postmodern mapping that
+Hawisher and Sullivan use to relate the women’s stories is a deliberate attempt to resist
+a totalizing narrative: “The terrain of a particular site requires the multiple mappings of
+time, space, and culture. Such varied and simultaneous mappings of e-space resist a
+totalizing vision because of the many paradoxes at work in shaping electronic contexts”
+(p. 178).
+One strand of Listserv conversation that Hawisher and Sullivan (1998) analyzed dealt
+with strategies the women developed for creating a space online despite the harassment
+they experienced and the resistance they felt to their online presence. One woman
+attempted to summarize the participants’ discussion of strategies as a “series of small,
+continuous, potent gestures that say ‘You will not run my world the way you want to; I
+will shape my life, too, in the ways that I want and can.’ This is one of the things I like
+most about women—just because they’re not talking, doesn’t mean they’re not acting, and
+acting effectively as agents of change” (Hawisher & Sullivan, 1998, p. 194). These studies
+suggest that the relationship of women and technology is much more complicated than
+being either negative or positive. The women in these studies persist in otherwise hostile
+technological environments. Their experiences in actively assuming a productive (rather
+than merely consumptive) role in carving out e-spaces of their own suggest the limits we
+place on our understanding when we try to understand women’s relationship to technology
+with reference to an either/or framework. What is interesting is that some women persist
+Complicated Women 131
+when negative things happen—and persist by creating their own responses and using
+technology to support their own values.
+Anecdotal narratives—those stories of classroom occurrences that scholars tell about
+their own classrooms—are rich sources for thinking through pedagogical and theoretical
+problems. Teacher-told, person-based narratives have helped computers and composition
+specialists enter a discussion about women and technology—it was our observations of
+women using technology and our own experiences with technology that led us to reflect
+on the relationship thoughtfully and critically. When this reflective practice relies too
+heavily on the narratives of individual users (being related by the users’ own teachers),
+when conclusions are drawn from one instance to speak to the nature of women’s
+relationship with technology, or when the narrative comes to stand for the nature of
+women and technology rather than as a heuristic for further investigation, however, the
+scholarship presents an unreliable picture of technology and, more seriously, limits how
+we understand students’ negotiations of technology in our own classrooms.
+MOVING OUTSIDE THE “EITHER/OR”: FEMINISM AND THE
+AMBIGUITIES OF TECHNOLOGY
+Within cultural conversations about technology—from advertisements to news magazine
+cover stories—a common way of representing approaches to technology is by reference to
+an either/or narrative structure: Technology is either good or bad. Communication
+technologies, in particular, either help us stay informed or they overload us with too much
+information; they either connect us with like-minded people or they allow harassers to
+track us down; they either make us feel a part of something social or they alienate us. The
+computers and composition discourse, situated as it is within this larger cultural system of
+meaning, must work actively to complicate this either/or structure, which is so ubiquitous
+as to seem natural. Indeed, rather than swinging back and forth between understanding
+technologies as either positive or negative for women users, we might work toward a
+balanced perspective that recognizes technology’s ability to be both at the same time. This
+balanced perspective—one that accounts for and understands both negative and positive
+experiences with technology—exists outside the dualism of optimistic and critical traditions.
+The need for this balanced perspective can be seen in the case of women and
+technology. Whereas narratives of women and technology have thus far fallen into one of
+two camps—either positive or negative—what I am interested in constructing is a position
+for future conceptions of women and technology that avoids this dualistic structure. The
+position I am envisioning is one that articulates negative and positive experiences of
+technology to form a more complex vision of technology. The balanced perspective might
+consider technology as ideological, yet ambiguous, by borrowing at least three arguments
+from feminist theories of technology: First, feminist theorists have articulated the shape
+nondualistic thinking might give considerations of technology; second, feminist critiques
+have articulated the possibilities for thinking of technology as ambiguous, particularly
+within discussions of domestic and reproductive technologies; and third, the feminist
+conception of women’s relationships with technology as ambiguous allows room for both
+empowering and oppressive stories.
+Cognizant of the ways women and women’s interests, work, and concerns have been
+disempowered through their placement in a dualistic structure that consistently values the
+132 TAKAYOSHI
+masculine over the feminine, feminist theorists work to dismantle such cultural dualisms.
+Donna Haraway (1985) identified the way that dualisms structure practices of domination:
+certain dualisms have persisted in Western traditions; they have all been systematic to the logics
+and practices of domination of women, people of color, nature, workers, animals—in short,
+domination of all constituted as others, whose task is to mirror the self. Chief among these
+troubling dualisms are self/other, mind/body, culture/nature, male/female. . . active/passive, right/
+wrong, truth/illusion . . .“ (p. 219)
+The dualistic structuring narrative in the Western tradition is reflected in the construction
+of two opposing stories of technology: either women are encouraged through technology
+to be more participatory and connected or women are oppressed and harassed by
+technology. Haraway (1985) wrote that “high tech culture challenges these dualisms in
+intriguing ways. It is not clear who makes and who is made in the relation between human
+and machine” (p. 219). More than blurring the division between human and machine,
+however, I see high tech culture as inscribing an additional dualism to the list Haraway
+provides: technology/nature. Significantly, women are on the other side of the binary from
+technology. They don’t fit. Stories that depict women in oppressive relationships with
+technology resist techno-utopian conclusions, but they simultaneously enforce the separation
+of women and computers. Stories that imply women will be harassed if they enter
+the “masculinist” world of technology, where they do not rightfully have a place, function
+to keep women from entering those spaces at all. The potential for this blurred relationship,
+then, is mediated by stories that continue to inscribe women as either empowered or
+oppressed by technologies.
+In the same way that violence against women curtails female activity and the threat of
+violence forces women to police themselves,4 stories of women and children harassed
+online can function hegemonically to keep women and children from getting involved
+with technology in the first place—which continues to ensure that online sites are
+predominantly male. At the heart of this struggle is resistance to the role binaries will play
+in our conceptions of computer technologies and the limits of those binaries. Feminist
+critiques of technology offer one pathway out of this either/or by offering a theoretical
+vision of technology use and design as ambiguous. A conception of technology as
+ambiguous moves beyond a vision of technology as merely non-neutral and articulates the
+ways technologies have always been positive and oppressive, oftentimes both at the same
+time. Jan Zimmerman (1981) described this ambiguity of technology when she wrote
+about women’s conflicted and contested position of power vis-a-vis reproductive technologies.
+Whereas technologies such as artificial insemination, in vitro fertilization, birth
+control, and abortion offer more options for women to use in controlling reproduction,
+4 Of the policing function of patriarchy, Adrienne Rich has written that “the undermining of self, of
+a woman’s sense of her right to occupy space and walk freely in the world, is deeply relevant to
+education. . . . The capacity to think independently, to take intellectual risks, to assert ourselves
+mentally, is inseparable from our physical way of being in the world, our feelings of personal
+integrity. If it is dangerous for me to walk home late of an evening from the library, because I am
+a woman and can be raped, how self possessed, how exuberant can I feel as I sit working in that
+library? How much of my working energy is drained by the subliminal knowledge that, as a woman,
+I test my physical right to exist each time I go out alone?” (p. 242).
+Complicated Women 133
+these technologies and others (such as amniocentesis) have at the same time allowed men
+more control over women and their reproductive processes. Zimmerman wrote:
+While such [reproductive] technologies may offer women freedom from childbearing, which has
+been a form of female bondage, they also offer men an unprecedented opportunity to assert
+control over the one aspect of the life process which has eluded them until now. In all other
+aspects of health-care, mechanization and technology has resulted, intentionally or inadvertently,
+in the destruction of female dominance over traditional female spheres of activity. (p. 364)
+Women’s relationship to technology is not simple. In the face of technologies that allow
+them more control over the shape their lives will take, what woman would discount the
+positive potential technology offers her? In a separate discussion of household technologies,
+Zimmerman asked: “How many working mothers have time to wash by hand? How
+many mothers want a return to all-cotton, all-iron clothes? How many want a solar dryer
+so they can hang out the clothes and bring them in?” (p. 362). What woman, in other
+words, wants to (or can envision) renouncing technological developments (even problematic
+ones) to return to pretechnological ways of living and working? Stephen Jay Gould
+(1997) posed the same question in a slightly different way:
+One overarching reason must lead us to prefer modern times to any past, whatever “golden age”
+mythology we may be tempted to embrace: Thanks to medical knowledge and technology, almost
+all of our children will grow up. Read the biography of any Victorian family, however privileged;
+they all knew that a high percentage of their children would die. Whatever the psychological
+defense mechanisms then in place (from religion to wet-nursing), I cannot imagine that the pain
+of loss was any less then than now. This is the best of times—I only pray that we don’t misuse
+technology to make it the worst. (p. 65)
+These commentaries articulate that technology is not a simple case of either/or.
+Technology is a non-neutral but also ambiguous entity. Relying on an understanding of
+technology as non-neutral but ambiguous allows us to construct other lenses through
+which to observe the interactions of students with computer technologies and through
+which to think about the implications technology poses for existing and developing
+theories of writing.
+GATHERING DIFFERENT STORIES FROM
+THESE DIFFERENT POSITIONS
+Complicating the positions we take in telling women’s experiences and in understanding
+technology suggests several avenues our research and scholarship might take. What
+initially drew my thinking to this issue was my reflection as a teacher upon one student’s
+experiences with technology. My interpretation of Aerin’s experiences was a heuristic for
+me, and conversations with her about those experiences emphasized for me that existing
+scholarship on women and technology and my own interpretations were limited in what
+they could offer my understanding as a teacher and scholar. This became especially vivid
+for me one day late in the semester, after Aerin had begun to forge a working relationship
+with technology. She had developed a friendship with a male college student in another
+part of the country. They spent hours talking in a MOO, wrote extended email messages
+to each other, uploaded photos onto their respective Web pages so they could visualize a
+face when they communicated online, and spoke on the phone with one another. After
+several weeks of fairly intense communication, he revealed to her that he had been
+134 TAKAYOSHI
+conducting an online experiment into how personally revealing people would be online
+with strangers. She had been the subject of his study. Although the instance upset Aerin
+(she appeared in class simultaneously crying and raging moments after his revelation),
+what is interesting is that her interest and fascination with computer-mediated communications
+did not end there. Teacher-told narratives of classroom moments involving
+women’s experiences with computer-mediated communications often end at just such a
+moment, capturing only the moment where the woman has been upset, angered, “othered”
+online.
+What happens to the Ellas and Aerins in the weeks after their negative experiences? In
+the weeks after her online involvement, Aerin’s feelings of betrayal and anger fueled her
+growing awareness that computer-mediated communications should be put to better ends.
+Armed with an understanding of the ideologies of computer technologies, Aerin started to
+see the construction of computer-mediated communications as a clubhouse that was not
+friendly to women. Having recognized in her own experience and in the course texts the
+persistence of the gendering of computers and the effect of that gendering, Aerin
+developed a resistant but active posture toward computer culture. In her journal, she
+wrote: “The more women access the web, the more it will become a women-centered
+space. In that it is just like any other system—the more women wrote literature, the more
+literature reflected the concerns of women. So let’s get women on this thing! Activism—
+the real tenet of feminism.” Being familiar with texts that identified and theorized the
+oppressive means to which technology is often put with regards to women, Aerin did not
+interpret the situation personally—her focus in the weeks after her involvement was not
+on herself as an individual but on the way cultural assumptions about women as a group
+informed the material practices of technology. I share this story cautiously, as an
+indication of how my teacher narrative led me to question the value we give teacher-told,
+person-based narratives in our scholarship. I’m not offering Aerin’s story as indicative of
+anything about women’s relationship with technology—I offer it as a place for beginning
+to think about our professional constructions of women and technology. Our existing
+stories about women and technology don’t tell the whole story of many female computer
+users.5 My thinking about Aerin has served as a heuristic for thinking about building
+scholarship that sketches a more systematic and broad-reaching understanding of women
+and technology.
+The existing research on women and computers in composition classes does not
+satisfactorily help me understand what happened to Aerin. It helps me interpret the less
+than empowering aspects of her experiences with technology, but those interpretations are
+ultimately at odds with Aerin’s perseverance in the face of those experiences. Clearly,
+more complex pictures of users’ negotiations with technology are needed. How do users
+5 Indeed, Lisa Gerrard (1997) suggested that although we seem to be carrying what we’ve always
+done into new technological media (like the Internet and World Wide Web), “The computer gives
+us new opportunities to be ourselves” (online). In describing the Web sites of women who actively
+construct themselves online, she suggested an alternative to the story of technology dominating
+women: “The sites of the other twenty-something women I’ve been analyzing lately [are] friendly,
+witty, irreverent, and individual. I don’t know Jenni [the author of one site she examines], but my
+guess is that technology hasn’t changed her: it’s merely given her a new tool for expressing, and
+publicizing, her self” (online).
+Complicated Women 135
+understand and construct their own interactions with technology? What happens outside
+our field of vision; that is, how do students negotiate difficult situations with computer
+technologies outside our classrooms? How do our interpretations of students’ negotiations
+differ from the students’ interpretation of the same events? Like Kaplan and Farrell
+(1994), I believe that an exploration of why and how some women continue to use
+computer technologies is an important part of understanding the potentials of computer
+technologies for all students. How do women users enact agency in using technologies that
+are constructed as and have been oppressive to women users? Answers to these kinds of
+questions seem a necessary part of understanding both the complex relationship users
+develop with computers and our role as computer-using educators in helping students
+negotiate those relationships.
+Composition studies now has a body of work that convincingly articulates the ideological
+nature of computer technologies. Building upon that scholarship, we need to flesh
+out the material forms and effects this ideological nature has on students, teaching, and the
+nature of writing. The ideological nature of computers has been theorized and described
+at a local level, with individual user’s experiences. What questions do those local studies
+suggest for the shape of larger explorations? Thinking about individual student experiences
+as a heuristic can suggest myriad new questions and focuses of study that might lead
+us to the development of specific pedagogical strategies. Not algorithms for teaching with
+technology, but something specific in terms of the kinds of larger patterns we can see
+emerging from users’ experiences with technology. Our work with individual students has
+led us to understand much about the nature of technology in writing classrooms. We now
+need to broaden our focus with the intention of developing an awareness of larger patterns
+of use.
+The nature of technology, as it is experienced by many users, lies somewhere in the
+conjunction between the good aspects and the bad tendencies. As Randi Markussen (1995)
+has argued, “Optimism and pessimism about technology often share the same basic
+assumptions, but we tend to evaluate them differently” (p. 162). Underlying both the
+optimistic and the critical rhetorics of technology lies a faith that technology can be made
+to support our pedagogical and theoretical goals—a faith that is necessary in working to
+weave writing technologies into the fabrics of our classrooms. Increasingly, writing
+theorists cannot ignore the ways that these technologies are woven into the fabric of
+writing across our culture. Drawing these connections (between the optimistic and the
+critical rhetorics) may reveal the intrinsic motivations of composition studies to get
+involved in these discussions.
+Ultimately, I tell Aerin’s story as a way of suggesting the limits we impose on our
+understanding when we rely solely on our own interpretations of the experiences our
+students have with technology. Aerin’s story, too, is incomplete. In writing this article, I
+have shared with Aerin my interpretation of the events. Her responses (that are sometimes
+slightly different versions than mine) and my interpretation of those responses shaped the
+way I present her experiences. Still, my representation of her story seems seamless and
+coherent. This is the danger of the narrative of the classroom moment, which is really only
+one interpretation among many, one possibility among many. Her story—and my telling
+of it—suggest that composition studies needs at this historical moment to develop a more
+systematic and rigorous understanding of the role of teacher-told, person-based narratives
+and the meanings of technology if we are to advance our understanding of the effects of
+136 TAKAYOSHI
+technology on curriculum, students, writing, and the teaching of writing. As scholars
+examine ethical questions regarding representation, teacher–researchers might shift their
+perspective, listen to students’ narratives of the events, and explore student interpretations
+of the events. This shift would allow composition scholarship to begin with narrative as
+a heuristic that suggests several avenues for further systematic exploration and investigation.
+Relying on narrative as heuristic recognizes the centrality of narrative in human
+understanding and knowledge-building while avoiding the reification of narrative as
+Truth. In making these arguments, I am not dismissing the importance of narrative in
+understanding, but I am arguing that narratives be used in different ways. We need to build
+on narrative as a place to begin research rather than narrative as the primary research tool
+itself. Focusing on individual students and situations has been a necessary and important
+part of building a knowledge base, but larger questions have gone unanswered. Answers
+to some questions might best be answered through more systematic studies: For example,
+how and why do women become agents of change? How can my actions and theories as
+a teacher using computer-mediated communications, as a theorist of electronic spaces,
+support this moment? These questions—central to a feminist theory and practice—are
+central also to our involving women in these arenas.
+Pamela Takayoshi is an associate professor and the Director of Computer-Mediated
+Writing at the University of Louisville. She is coeditor (with Kristine Blair) of Feminist
+Cyberscapes: Mapping Gendered Academic Spaces (Ablex, 1999). She is currently engaged
+in a year-long, ethnographic study of a high school writing teacher and her senior writing
+classes.
+REFERENCES
+Anderson, Paul V. (1998). Simple gifts: Ethical issues in the conduct of person-based composition
+research. College Composition and Communication, 49(1), 63–89.
+Cooper, Marilyn, & Selfe, Cynthia, L. (1990). Computer conferences and learning: Authority,
+resistance, and internally persuasive discourse. College English, 52, 847–869.
+Faigley, Lester. (1992). Fragments of rationality: Postmodernity and the subject of composition.
+Pittsburgh, PA: University of Pittsburgh Press.
+Fey, Marion H. (1994). Finding voice through computer communication: A new venue for collaboration.
+Journal of Advanced Composition, 14, 221–238.
+Flores, Mary J. (1990). Computer conferencing: Composing a feminist community of writers. In
+Carolyn Handa (Ed.), Computers and community: Teaching composition in the twenty-first
+century (pp. 106–117). Portsmouth, NH: Boynton/Cook Heinemann.
+George, E. Laurie (1989). Taking women professors seriously: Female authority in the computerized
+classroom. Computers and Composition, 7, 45–52.
+Gerrard, Lisa. (1997). Thoughts on computers, gender, and the body electric. Kairos: A Journal for
+Teachers of Writing in Webbed Environments, 2. Available: http://english.ttu.edu/kairos/2.2/
+index_f.html [Accessed: August 10, 1999].
+Gould, Stephen Jay. (1997, September 28). Sidebar quote. The New York Times Magazine (Special
+Issue: “What Technology Is Doing to Us”), 65.
+Haraway, Donna. (1985). A manifesto for cyborgs: Science, technology, and socialist feminism in
+the 1980s. Socialist Review, 80, 65–105.
+Hartwell, Patrick. (1987). Creating a literate environment in freshman English: Why and how.
+Rhetoric Review, 6, 4–19.
+Complicated Women 137
+Hawisher, Gail E., & Selfe, Cynthia, L. (1991). The rhetoric of technology and the electronic writing
+class. College Composition and Communication, 42, 55–65.
+Hawisher, Gail E., & Sullivan, Patricia. (1998). Women on the networks: Searching for presence in
+online discussions. In Susan Jarratt & Lynn Worsham (Eds.), Feminism and composition
+studies: In other words (pp. 172–197). New York: MLA Press.
+Janangelo, Joseph. (1991). Technopower and technooppression: Some abuses of power and control
+in computer-assisted writing environments. Computers and Composition, 9, 47–64.
+Jessup, Emily. (1991). Feminism and computers in composition instruction. In Gail E. Hawisher &
+Cynthia L. Selfe (Eds.), Evolving perspectives on computers and composition studies:
+Questions for the 1990s (pp. 336–355).Urbana, IL: NCTE Press.
+Kantrowitz, Barbara. (1994, May 16). Men, women, and computers. Newsweek, 48–55.
+Kaplan, Nancy, & Farrell, Eva. (1994). Weavers of webs: A portrait of young women on the Net.
+The Arachnet Electronic Journal of Virtual Culture, 2(3).
+Kinkead, Joyce. (1987). Computer conversation: E-Mail and writing instruction. College Composition
+and Communication, 38, 337–341.
+Kirsch, Gesa, & Ritchie, Joy. (1995). Beyond the personal: Theorizing a politics of location in
+composition research. College Composition and Communication, 46, 7–29.
+Kitzinger, Celia. (1991). Feminism, psychology, and the paradox of power. Feminism and Psychology,
+1, 111–130.
+Kremers, Marshall. (1988). Adams Sherman Hill meets ENFI: An inquiry and a retrospective.
+Computers and Composition, 7, 69–77.
+Markussen, Randi. (1995). Constructing easiness: Historical perspectives on work, computerization,
+and women. In Susan Leigh Star (Ed.), The cultures of computing (pp. 158–180). Oxford:
+Blackwell Publishers.
+Miller, Laura. (1995). Women and children first: Gender and the settling of the electronic frontier.
+In James Brooks & Iain A. Boal (Eds.), Resisting the virtual life: The culture and politics of
+information (pp. 49–58). San Francisco: City Lights Books.
+Newkirk, Thomas. (1996). Seduction and betrayal in qualitative research. In Peter Mortensen &
+Gesa Kirsch (Eds.), Ethics and representation in qualitative studies of literacy (pp. 3–16).
+Urbana, IL: NCTE Press.
+Regan, Alison. (1993). ‘Type normal like the rest of us’: Writing, power, and homophobia in the
+networked composition classroom. Computers and Composition, 10, 11–23.
+Rich, Adrienne. (1979). Taking women students seriously. On lies, secrets, and silence. Selected
+prose 1966–1978 (pp. 237–246). New York: Norton.
+Romano, Susan. (1993). The egalitarianism narrative: Whose story? Whose yardstick? Computers
+and Composition, 10, 5–28.
+Schriner, Delores, & Rice, William. (1989). Computer conferencing and collaborative learning: A
+discourse community at work. College Composition and Communication, 40, 472–478.
+Selfe, Cynthia, L. (1990). Technology in the English classroom: Computers through the lens of
+feminist theory. In Carolyn Handa (Ed.), Computers and community: Teaching composition
+in the twenty-first century (pp. 118–139). Portsmouth, NH: Boynton/Cook Heinemann.
+Takayoshi, Pamela. (1994). Building new networks from the old: Women’s experiences with
+electronic communications. Computers and Composition, 11, 21–35.
+Takayoshi, Pamela; Huot, Emily; & Huot, Meghan. (1999). No boys allowed: The world wide web
+as a clubhouse for girls. Computers and Composition, 16(1), 89–106.
+Wilkinson, Sue. (1986). Feminist social psychology: Developmental theory and practice. Philadelphia:
+Open University Press.
+Zimmerman, Jan. (1981). Technology and the future of women: Haven’t we met somewhere before?
+Women’s Studies International Quarterly, 4, 355–367.
+138 TAKAYOSHI
