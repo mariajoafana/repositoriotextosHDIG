@@ -13,7 +13,8 @@ Tras depurar los términos vacíos (“a”, “no”, “este”, “les”, et
 Respecto a las palabras distintivas, me llamaron la atención términos como “callejero” (referido al arte), “intervenciones”, “minería” (referida a los datos) y “microhistoria”. Creo que ayudan a precisar el contexto de “resistencia” en el que se mueve el reconocimiento de los derechos de las familias de desaparecidos. Considero también que en una futura búsqueda podría analizar corpus de textos más similares entre sí para obtener información detallada sobre algún tema: microhistoria, el concepto de archivo o el arte relacionado con la violencia. 
 
 **Enlace Voyant Tools**
-https://voyant-tools.org/?corpus=11d5d3b005366fe40228f42c24d783ca&stopList=keywords-c839466021c2d9e1ace3816dc7d88d24&view=Reader
+
+https://voyant-tools.org/?corpus=11d5d3b005366fe40228f42c24d783ca&view=cirrus&stopList=keywords-c988d90b37e16434d0df7b70fd2ee4fa&start=999&skipToDocId=c46348a12f15c9e400b51f7290a96081
 
 **Bibliografía**
 
