@@ -1,0 +1,537 @@
+“Guardar como”. La historia y las
+fuentes digitales
+
+“Save as”. History and Digital Sources
+
+Resumen
+
+Este artículo pretende analizar los cambios que
+vive la historia en el mundo digital. En particular,
+se centra sobre la digitalización de las fuentes. Por
+un lado, trata las implicaciones de la conversión
+digital de antiguos documentos escritos; por otro,
+se plantea el significado de aquellas otras que llamamos “nacidas digitales”. El ensayo 
+repasa algunas de las distintas actitudes de los historiadores
+ante esas modificaciones y señala que necesitamos
+atender a sus críticas, pero que también hay otros
+aspectos que debemos estudiar. En suma, defiende
+que la historia digital supone un reto sobre el que
+los historiadores han de reflexionar.
+
+Anaclet Pons
+
+Palabras clave
+Historia, fuentes, archivos, digitalización.
+
+
+“Pensar es olvidar diferencias, es generalizar, abstraer. En el abarrotado mundo
+de Funes no había sino detalles, casi inmediatos”.
+Jorge Luis Borges, “Funes el memorioso”
+
+1.
+La historia es una disciplina que, según se acostumbra a decir, vive en un estado
+de agitación permanente. Sus oscilaciones son algo bien asentado y proceden de su
+propia naturaleza. Las causas son igualmente conocidas. Unas tienen que ver con su
+objeto, pues esta disciplina se ocupa de las variadas e innumerables formas con las
+que se expresa la vida humana en el pasado. Para ello analiza, interpreta e intenta
+comprender un sinfín de huellas, materiales o simbólicas, que han quedado registradas de algún modo. Además, lo hace de muchas maneras, pues el paso del tiempo, las
+cambiantes demandas de la sociedad en la que vive, las distintas preguntas que se
+plantea y los nuevos objetos que van apareciendo exigen aproximaciones al pasado
+que no siempre estuvieron presentes, o no de igual forma, en los historiadores que les
+precedieron. Otras, en ese mismo sentido, se deben a su exigencia omnicomprensiva
+en el terreno académico. Los actos humanos pueden parcelarse y ser estudiados a partir de manifestaciones concretas, pero su complejidad sólo se desentraña cuando se
+tienen en cuenta sus múltiples facetas. Las ideas o la actividad
+económica pueden ser tomadas como objetos de estudio, pero
+su correcto significado remite a esferas mucho más complejas.
+Por eso mismo, la disciplina está atenta y se deja influir por
+otras prácticas siempre vecinas, que muestran maneras pecuraliares de entender qué hacen las personas y cómo lo hacen.
+
+El corolario habitual de estos vaivenes no es la zozobra, sino
+una enorme vitalidad. Hay corrientes o áreas de investigación
+que permanecen más o menos estables, aunque siempre en renovación interna, como la
+historia social o la biografía. Sin embargo, no dejan de aparecer otras distintas, bien sea
+porque nuevos objetos requieren nuestra atención, porque hemos tomado en consideración fuentes que antaño eran ignoradas o porque hemos reparado en perspectivas antes
+desatendidas. Ese aliento constante no carece de riesgos, a pesar de todo. Lo que unos
+entienden como novedad fructífera que puede cambiar nuestra visión del pasado, otros
+lo contemplan como simple moda pasajera que permite ir preparando una concavidad
+en la que anidar profesionalmente. Así, por ejemplo, las distintas variantes de estudios
+culturales o los poscoloniales son juzgados de manera disímil según los casos, sin que su
+perspectiva ni sus resultados obtengan una aceptación unánime. Hay quienes los consideran una aportación fundamental, pero no faltan quienes los consideran inanes.
+En realidad, oscilaciones, modas o cambios no son algo que deba preocupar a quienes
+practican esta forma de estudio, porque en última instancia no importa cómo califiquemos a la historia, sino sólo si es buena o es incorrecta y si está bien o mal escrita. Y
+esto último tiene que ver con los fundamentos que poseemos. Cuando leemos una obra
+que analiza el pasado, otorgamos un juicio positivo, reparando en distintos aspectos.
+Ante todo, nos preguntamos si el relato que leemos sabe transmitir un conocimiento
+significativo de forma metódica e inspirada. Eso implica tener en cuenta varias cosas:
+si el autor conoce las fuentes necesarias para reconstruir el objeto en cuestión, si es
+capaz de interpretarlas adecuadamente y si, además, atiende al consenso historiográfico, repasando lo que otros han concluido o han planteado, al margen de que eso sea
+asumido o cuestionado. Si el historiador desconoce su método, si desatiende los fundamentos de su disciplina, el resultado podrá ser mejor o peor, pero no será una obra
+académica. Si lo respeta y lo sigue, aportará más o menos según su talento, pero su
+trabajo podrá ser considerado como parte del acervo común.
+Las modas, pues, tienen pleno sentido cuando no cuestionan lo que somos, sino
+que hacen que nos veamos (en el pasado) de distinta manera. Cualquiera de nosotros
+puede hacer memoria y citar obras que en su día fueron consideradas experimentos
+extemporáneos, minucias a veces, y que ahora son clásicos. Y lo son porque comparten los mismos condimentos con los que se escriben las grandes obras de referencia.
+¿Acaso son la misma mirada la del Mediterráneo de Fernand Braudel y la del Martin
+Guerre de Natalie Zemon Davis? ¿Son perspectivas idénticas las que permitieron a E.P.
+Thompson abordar a los artesanos ingleses y a Ginzburg descifrar las ideas de un solo
+molinero italiano? ¿Hicieron lo mismo Marc Bloch al estudiar los reyes taumaturgos y
+Jonathan Spence al rescatar a Hu? ¿Es la misma historia universal la que leemos en las
+obras generales de Eric J. Hobsbawn que la que se desprende de los textos de Ranajit Guha
+o Dipesh Chakrabarty? Este último señalaba, por ejemplo, que centrarse en cuestiones
+específicas no es sino otra manera de renegociar las reglas de la disciplina y, por tanto, de
+abordarlas en términos universales. Porque, en su caso y en el de muchos otros, estudiar
+una singularidad es hacerlo sobre algo que se resiste a ser reducido a componente de una
+categoría, tensando así un lenguaje que suele hablar de lo general, desafiando su impulso
+generalizador y anónimo2. Así pues, si la profesión concede que todos ellos son grandes
+historiadores es porque acepta que, más allá de las diferencias, todos cumplen con lo que
+se les debe exigir como practicantes. Por tanto, la moda sólo tiene sentido denigratorio
+cuando lo que queda es sólo apariencia de renovación, con un interior hueco.
+2.
+Las modas existen y una de las más recientes, quizá la más alborotadora, sea la de la
+historia digital. Ante ella nos podemos hacer distintas preguntas y todas ellas muy pertinentes. Quizá no represente un cambio sustancial en la disciplina, porque la mudanza
+sólo suele acometerse cuando hemos tenido que investigar asuntos que no eran los tradicionales. Pero, con todo, merece que reflexionemos sobre algunas de sus derivaciones.
+La principal rémora que arrastra este nuevo campo, como ha señalado Milad
+Doueihi, es la falta de reconocimiento, la fractura que existe entre las disciplinas tradicionales y la realidad cultural que representan las tecnologías de la información y
+la comunicación. Es decir, todos nos hemos digitalizado de manera informal, de modo
+que escribimos con procesadores de texto, nos comunicamos por correo electrónico,
+consultamos información en los buscadores, etcétera. Sin embargo, tratamos ese
+mundo como si sólo fuese “un apéndice, una curiosidad, una distracción, algo superfluo”, que poco o nada tiene que ver con nuestro “verdadero trabajo”. De ahí, pues, que
+sean pocos los humanistas que se preocupan por reflexionar sobre esta nueva realidad:
+“Por razones que aún debemos dilucidar, las ciencias humanas, en cuanto disciplina,
+han sido marginadas de una reflexión cuyos términos centrales y conceptos clave
+derivan, en gran parte, de prácticas humanistas que tienen una historia compleja, a
+menudo ignorada, e incluso completamente olvidada. Como si en
+el entorno político y cultural de hoy la cultura digital estuviese
+disociada de su propio pasado”.
+
+Más aún, continúa Doueihi, lo que realmente sorprende es
+el silencio de los historiadores en este debate; “si bien algunos
+discursos jurídicos y técnicos son destacables, me parece que hay espacio para una
+contribución que no le tema ni a la historia ni incluso a la filología, y que al mismo
+tiempo esté informada y se sienta cómoda en el entorno digital en sí mismo”4.
+Por supuesto, hay muchas cuestiones que se deben debatir, si en verdad deseamos adentrarnos en las implicaciones de ese entorno. Pero demasiadas para tratarlas aquí, porque
+afectan a todos y cada uno de los procesos deontológicos en los que se despliega la tarea
+del historiador y porque, en última instancia, la cultura digital puede hacernos apreciar el
+pasado de forma diferente. Uno de esos aspectos, por ejemplo, es el que se refiere a las fuentes, que no es cosa baladí, porque forma parte de esos fundamentos de los que hablábamos.
+Partamos de una evidencia que en ocasiones parecemos eludir: la historicidad de
+los instrumentos historiográficos. Pensemos en qué fuentes utilizaban y qué historia
+hacían los grandes maestros de las escuelas francesa y alemana de finales del ochocientos. ¿Es esa nuestra manera de entender los documentos o de escribir sobre ellos?
+Mantenemos, como siempre, que son los documentos escritos los que nos sirven de
+referente principal, pero como decía Lucien Febvre también estudiamos el pasado
+“con palabras. Con signos. Con paisajes y con tejas. Con formas de campo y malas
+hierbas. Con eclipses de luna y cabestros. Con exámenes periciales realizados por
+geólogos y análisis de espadas de metal realizados por químicos. En una palabra:
+con todo lo que siendo del hombre depende del hombre, sirve al hombre, expresa al
+hombre, significa la presencia, la actividad, los gustos y las formas
+de ser del hombre”.
+
+Y hemos tenido que aprender a entender todo eso, como ahora
+necesitamos alfabetizarnos con el nuevo entorno. En ese sentido,
+el primer y más obvio elemento que es necesario considerar es el
+de la digitalización de las fuentes conservadas bajos otros soportes.
+Se trata de un proceso que ha recibido una atención muy desigual,
+según se haya aplicado a los archivos o a las bibliotecas.
+
+En cuanto al primer caso, nadie parece poner en cuestión esa contingencia. Todos los investigadores reconocen la utilidad de disponer
+de forma cómoda de los documentos deseados y no son muchos los
+que reflexionan sobre los efectos perversos que ello pueda tener. Sobre
+todo porque es un procedimiento que se ha venido utilizando en las
+últimas décadas, cuando la necesidad de grandes volúmenes de documentación o la imposibilidad de acceder físicamente a ella hacían que
+el interesado optara por solicitar versiones fotocopiadas o microfilmadas. Además, hay
+que reconocer que de momento es más una posibilidad futura que una realidad cercana.
+A pesar de diversos esfuerzos y de lo conseguido en algunos fondos concretos, la mayor
+parte de los grandes archivos están lejos de poder acometer por completo una empresa
+que exige destinar grandes recursos. Como ha señalado Anthony Grafton,
+“incluso el más ambicioso de esos proyectos no es otra cosa que una gota en el
+inexplorado océano del registro pasado de la humanidad. Archives usa, una Web que
+contiene una guía de los archivos americanos, ofrece un listado de cinco mil quinientos depósitos documentales y más de ciento sesenta mil colecciones de fuentes
+primarias. Solamente los u.s. National Archives contienen alrededor de nueve billones
+de ítems. No es probable que podamos ver en línea la totalidad de los archivos de
+los Estados Unidos ni los de cualquier otro país desarrollado en un futuro inmediato
+—por no hablar de las naciones más pobres”.
+
+Por otro lado, hasta ahora hemos asistido a una primera fase en la que la mayor
+parte de los grandes archivos ha iniciado los trabajos de digitalización seleccionando
+alguna de sus “joyas”. La presentación de esas “rarezas” o “tesoros” ha servido como
+ejemplo, pero en realidad ese empeño traduce un concepto de historia monumental,
+donde lo que se glosan son las glorias nacionales, por lo que no ha sido extraño que
+se hayan escogido fechas o celebraciones memorables para mostrar esos avances. Es
+decir, no siempre ha habido voluntad de ofrecer las fuentes que el investigador necesita, sino una pretensión pedagógica, ligada a la reconstrucción de la memoria, muy
+cercana al concepto de historia como maestra de vida o como forjadora de ciudadanos
+comprometidos con la causa nacional o cívica.
+Sea como fuere, cada vez son más los documentos a los que se puede acceder desde
+cualquier terminal de ordenador y éste es un cambio que, como veremos, es bastante significativo. De entrada, lo primero que advertimos es, por supuesto, lo mismo
+que ha sido predicado para todo el entorno digital. Como ha señalado en reiteradas ocasiones el historiador francés Roger
+Chartier, es evidente que la revolución informática está modificando los hábitos de lectura, al tiempo que altera la técnica
+de transmisión de los textos y el soporte en que se comunican.
+Es decir, la revolución del texto electrónico es un compendio nuevo y simultáneo de lo ocurrido en el pasado, pues es “al
+mismo tiempo una revolución de la técnica de producción y de reproducción de textos, una revolución del soporte de lo escrito y una revolución
+de las prácticas de lectura”. Éste es, pues, el contexto en el que nos movemos, con tres
+aspectos que necesariamente han de suponer algún tipo de variación en las fuentes
+digitalizadas: al presentarlas de forma diferente, al conservarlas de otra manera, al
+reproducirlas de un modo distinto y al variar la manera como se dan a leer.
+
+Estas modificaciones explican que hayan sido los historiadores del libro y de la
+lectura quienes mayor atención han prestado al fenómeno digital. Y, en el caso de las
+fuentes, esa vigilancia se ha dirigido sobre todo al proceso de digitalización que ha
+estado llevando a cabo la empresa Google para su proyecto Google Books. Las críticas
+que han planteado son, por otra parte, un ejemplo que podemos extender a cualesquiera otros planes semejantes, salvando las distancias. El adalid de las reticencias
+ha sido el norteamericano Robert Darnton, en su condición de prestigioso historiador y de director de la Biblioteca de Harvard. Digamos, no obstante, que este reputado
+académico no se opone al proceso en sí, sino a la manera como se lleva a cabo. De
+hecho, sus diferentes artículos sobre el asunto se centran sobre
+todo en la condición monopolista que ha ido adquiriendo Google y en las derivaciones de ello.
+
+
+Su primera reticencia remite al hecho de hacer de un bien
+público algo susceptible de convertirse en un negocio privado. A
+su modo de ver, las bibliotecas cumplen con una función evidente
+de fomento del aprendizaje, dispuesto al servicio de todos, mienen The New York Review of Books.
+tras que una empresa se debe a sus accionistas y su finalidad es
+obtener beneficios y repartir dividendos, de modo que es lógico
+pensar que acabe comercializando los contenidos digitalizados.
+
+Robert Darnton piensa sobre todo en las denominadas “Bibliotecas
+de Investigación”, las Research Libraries, muchas de las cuales con tienen fondos históricos valiosísimos, fruto de donaciones y de
+compras, que han ido acumulando a lo largo del tiempo9. Y tiene razón al advertir de los peligros de que este proyecto sea un intrumento 
+para la privatización de conocimientos que pertenecen a la esfera pública. Pero, por otra parte, olvida otros aspectos que conviene destacar.
+
+Ante todo, la venta de este tipo de productos, ateniéndonos a la política de Google, no es algo evidente, al menos para los libros
+de siglos anteriores en los que no hay derechos de autor vigentes.
+
+Así pues, y dado que de momento no hay una iniciativa pública semejante, la decisión
+de Google ha de ser valorada positivamente, incluso aunque eso supusiera algún tipo
+de coste para el lector. Para un investigador norteamericano que tenga fácil acceso, ese
+hipotético pago sería injustificable, como lo sería para el conjunto de la sociedad que ha
+prestado gratuitamente sus fondos para la digitalización. Aun así, los fondos públicos en
+papel estarían igualmente disponibles sin ningún obstáculo. Pero, ¿qué decir de los estudiosos que han de sufragar largos desplazamientos para poderlos consultar?, ¿qué decir
+de aquellos otros que, residiendo en otros continentes, jamás podrán ver esos volúmenes? Para todos éstos, la empresa de Google es una tabla de salvación e incluso estarían
+dispuestos a abonar alguna tasa para poder investigar en esos libros, volúmenes que en
+muchos casos fueron adquiridos en otros países y que tratan de otras historias, de gentes
+que jamás los han leído. Poner a disposición de todo el mundo el mismo tipo de conocimiento contribuye a descentrar la profesión y la disciplina, permitiendo perspectivas
+que necesariamente han de ser diferentes, aunque sólo sea porque muchas de esas obras,
+por ejemplo, ahora mismo no son consultadas por la mayoría de historiadores de otros
+lugares, que incluso pueden desconocer su existencia.
+El propio Darnton es consciente de eso último y reconoce las bondades de Google
+Book Search, una herramienta que permitirá que el saber libresco sea accesible para
+todos de forma nueva, a pesar de la brecha digital, y que abrirá posibilidades de investigación desconocidas. Es decir, Google ofrecerá una ingente cantidad de datos, a los
+que jamás podríamos acceder si no estuvieran digitalizados. En cambio, tiene razón al
+afirmar que ese alud de datos e informaciones puede hacernos caer en la ingenuidad
+positivista, creyendo que la verdad es simplemente ese todo que ahora ya tenemos a
+nuestra disposición y que, en consecuencia, el pasado es recuperable por entero sin
+casi mediación. Y es paradójico que así sea, porque lo que más abunda en esas bibliotecas de investigación son libros y periódicos antiguos, artefactos que construyen
+textualmente la realidad, cada uno a su modo, pero que en ningún caso la retratan,
+como tampoco lo hace ningún otro documento.
+Otro problema que suscita la digitalización es el de los errores que se dan en el proceso de reproducción técnica. Darnton señala que, a pesar de su preocupación por la
+calidad, el resultado no será siempre satisfactorio. A juzgar por los resultados, sabemos
+que en ocasiones la persona encargada se salta páginas o incluye imágenes borrosas. Es
+el mismo juicio que han expresado otros muchos, como por ejemplo Anthony Grafton,
+otro estudioso de la historia del libro. De todos modos, como señala este último historiador, los errores no son ninguna novedad. Hace muchos siglos, cuando los amanuenses
+se sentaban “ante un scriptorium iluminado por la luz solar, el copista podía transcribir
+una ‘u’ como una ‘n’, o la inversa”. Entre los múltiples ejemplos posibles, Grafton nos
+propone uno significativo: teclear la palabra qualitas —“un término importante si se
+trata de filosofía medieval”— en el Google Book Search. Con esa búsqueda se obtiene
+un buen número de resultados, pero también nos devuelve varias respuestas si lo que
+escribimos es el vocablo inexistente “qnalitas”, fruto de un error en el reconocimiento
+óptico de los caracteres escaneados10.
+Esos deslices o incorrecciones afectan también a los “paratextos”, a los denominados metadata, y son tan abundantes que muchos analistas se han referido a ellos con
+mayor o menor mordacidad11. Afectan sobre todo a los elementos externos y desconciertan a quienes no buscan tanto el contenido de un volumen como otros aspectos de
+su materialidad. Son proverbiales y endémicas, por ejemplo, las incorrecciones sobre
+fechas de edición; las clasificaciones incorrectas, atribuyendo un libro a una materia
+con la que nada tiene que ver; la confusión en los títulos; el galimatías de la autoría,
+mezclando autores con editores o prologuistas, etcétera. Es evidente que todos esos
+traspiés oscurecen los logros del proyecto y aminoran su utilidad. Con todo, no se trata
+de ninguna novedad. Quizá lo sea para un bibliotecario concienzudo, pero no para un
+investigador experimentado. Cualquiera que haya visitado un archivo se habrá encontrado con problemas semejantes cuando consulta la catalogación, con legajos que no
+contienen lo que se supone que deben guardar, y a la inversa. Muchos grandes libros de
+historia se han escrito a partir de documentos que el estudioso ha hallado por casualidad, al margen de lo señalado en los índices. Por otra parte, nadie puede pensar que el
+historiador utilizará Google Books tomando como seguro todo lo que recopila. Sea más
+o menos perfecta la digitalización, la tarea del académico es comprobar la certeza de
+todo ese caudal de informaciones, contrastarlo.
+De orden tecnológico es también el problema de la preservación de esos textos.
+Como ha sucedido con otros soportes previos, no tenemos ninguna garantía de que las
+copias ofrecidas por Google vayan a durar. El hardware y el software se desfasan de continuo, con lo que los nuevos sistemas de almacenamiento pueden
+quedar obsoletos en un futuro. Es decir, el libro ha resultado ser menos perecedero que todos los soportes digitales. ¿Quién no
+recuerda los discos flexibles? ¿Cuántos soportes hemos visto
+desfilar desde entonces? De hecho, ni siquiera podemos leer la
+información que guardábamos con aquellos medios, tan populares en los ochenta y noventa, porque nuestros aparatos ya no
+tienen disqueteras para insertarlos, lo cual exige un cambio continuo en las formas de
+guardar nuestros archivos. Como decía Umberto Eco, el nuevo medio digital está más
+preocupado por difundir la información que por preservarla12.
+Con todo, los problemas técnicos no son un reparo de importancia al proceso de
+digitalización de las fuentes ni son algo desconocido para el investigador. El estudioso que ha acudido a un archivo o a una biblioteca lo conoce bien. Todos hemos
+fotocopiado o microfilmado algún documento y, cuando lo hemos tenido a nuestra disposición y hemos pasado a analizarlo, no ha sido extraño que faltara alguna página o
+que fuéramos incapaces de leer una línea o varios párrafos enteros. Por tanto, siempre
+tendremos que contrastar nuestras copias, y para eso está el original. El inconveniente
+está en otro lado. Hasta ahora, el error técnico se podía producir en una copia privada,
+la que uno solicitaba en el archivo al que acudía. Ahora, cuando el proceso de digitalización sea masivo y quizá sin otras alternativas con las que comparar, cualquier
+imprecisión pasa a formar parte del texto que todos leen en las pantallas digitales, y
+así la copia adquiere más fuerza que el original.
+Este último aspecto está conectado con otra de las advertencias que realiza Robert
+Darnton, relacionado nuevamente con el estudio de la historia del libro. Desde esta
+perspectiva, al historiador norteamericano le preocupa que, dada la diversidad de versiones que hay de cada obra, Google digitalice una copia al azar o que una de ellas salga
+beneficiada en su lista de búsquedas. Eso significaría jerarquizar los volúmenes o sus
+distintas ediciones según criterios que desconocemos, seguramente semejantes a los
+que ahora se utilizan para otorgar mayor o menor relevancia a determinados resultados cuando buscamos cualquier cosa en Internet. Es decir, Darnton preferiría que
+la tarea fuera llevada a cabo no sólo por técnicos informáticos, sino por bibliógrafos,
+asegurando así que se cumpliesen ciertos parámetros académicos que facilitarían la
+labor del investigador.
+Por supuesto, tampoco se trata de un inconveniente fundamental. Las copias digitalizadas remiten a volúmenes conservados en un determinado lugar y cumplen las mismas
+funciones que tendrían, a grandes rasgos, para el estudioso que acudiese a esa misma
+biblioteca o al archivo que los ha cedido. Es evidente que disponer de una o pocas copias
+de libre acceso en Internet puede representar ciertos problemas a largo plazo, pues la
+tendencia será posiblemente la de reducir la multiplicidad de versiones a unas cuantas,
+las que podamos descargar en nuestro monitor digital. Sin embargo, es una situación
+semejante a la actual, cuando consultamos sólo lo que tenemos
+más cerca y únicamente nos desplazamos a examinar otros
+ejemplares cuando esto último constituye una tarea inexcusable para la investigación. Y,
+por supuesto, si se tratara de un documento único, como el que se puede albergar en un
+archivo, la decisión de verlo, tocarlo y leerlo dependería de la importancia que tuvieran
+estos procesos físicos para el estudio que estuviéramos realizando.
+En ese sentido, Darnton tiene toda la razón cuando expresa su inquietud por lo que
+perderemos si solamente accedemos a las fuentes de manera indirecta, a través del
+ordenador. El tacto, por ejemplo, es decir, el manoseo, la textura del papel, la calidad de
+la impresión, la cubierta, las frases o comentarios que escribió el lector en un margen,
+etcétera: todos los aspectos físicos del libro preservado en una biblioteca o del informe
+conservado en un archivo proporcionan pistas importantes, que pueden llegar a ser
+determinantes en algunos casos. Ahora bien, eso no es así en todos los casos, porque
+no es lo mismo dedicarse a estudiar la historia del libro y el fenómeno de la lectura
+a finales del siglo xviii en Francia, por poner un ejemplo al uso, que investigar otros
+aspectos en esos mismos lugar y época. Para quien haga lo primero, resulta fundamental rastrear las obras de aquel tiempo y examinarlas detenidamente, una a una si es
+posible, o al menos hacerlo con las que considere más significativas. En cambio, para
+otros el único interés está en lo que dicen esos libros, en su contenido, aunque pueda
+resultarle provechoso el aspecto material del ejemplar consultado. Las ventajas que
+procura la digitalización son infinitas en el segundo caso, pero casi irrelevantes para el
+primero. La única temeridad sería que el estudioso sustituyera la visita a la biblioteca
+por la copia disponible en Internet, algo que no tendría por qué suceder.
+Más preocupante puede resultar quizá la digitalización de un archivo. Las ventajas
+las conocemos, y son innumerables. Pero también hemos de ser conscientes de las
+desventajas, de lo que perderíamos si renunciáramos a la consulta física de los documentos. Porque un archivo no contiene sólo textos, sino que los preserva con un orden
+y una vecindad determinados. Esa ordenación está en el catálogo y se puede reproducir, pero el formato digital puede disolverla, haciendo de cada documento algo aislado.
+En el archivo, un escrito sigue a otro y se conserva en un expediente o en un legajo,
+todo lo cual le da un sentido concreto. Las operaciones son distintas según lo que podamos hacer, pues no es lo mismo buscar una referencia con un buscador dentro de una
+base de datos digital que solicitar al archivero un legajo o una caja en los que no sabemos a ciencia cierta lo que hallaremos. En última instancia, leer un único documento
+descontextualiza la información y el marco al que pertenece ese dato.
+Hay, finalmente, otra cuestión que debe ser considerada, aunque Robert Darnton
+no se detenga en ella. La mayor transformación no está realmente en lo señalado por
+este historiador norteamericano, sino en lo que apuntara Roger Chartier: el hecho
+de que el mundo telemático supone una revolución del soporte de lo escrito y una
+revolución de las prácticas de lectura. En efecto, al modificarse la manera como accedemos al documento se altera también la forma de leer. Si bien hay ciertas cosas
+que sólo se advierten cuando reparamos en la materialidad de un texto, por lo que
+continuaremos recurriendo a ella cuando sea necesario, también hay otras que son
+difíciles de apreciar manoseando y leyendo una obra. Los lingüistas, por ejemplo,
+hace tiempo que han visto las múltiples posibilidades que genera la digitalización de
+textos literarios, porque permite tratarlos de otro modo, leerlos de forma distinta,
+tanto cualitativa como cuantitativamente.
+Robert Darnton, por ejemplo, alude al asunto de la estabilidad textual, señalando
+que ésta nunca existió realmente y que el proyecto de Google, lo que hace es inducirnos a creer lo contrario al digitalizar un determinado ejemplar. Este historiador
+utiliza para demostrarlo las famosas copias First Folio de Shakespeare, señalando la
+importancia que tienen, junto con los cuartos, al no haberse conservado ninguno de
+los manuscritos del autor. Añade que es a partir de esos textos que especialistas de la
+talla de Charlton Hinman y Peter Blayney han reconstruido el proceso de producción
+de algunas de las obras más importantes en lengua inglesa13. Y tiene razón, aunque lo
+que Hinman hizo fue tomar distintas copias para elaborar un texto ideal que jamás
+había existido con anterioridad, algo que también ha ocurrido con otras muchas obras
+clásicas. Pero aquí no se cuestiona esta lectura de los textos, sino si es la única o si el
+entorno digital favorecerá otras. De hecho, no hay más que repasar
+algunas de las nuevas revistas académicas para darse cuenta de las
+alternativas disponibles.
+
+Es decir, el formato digital puede favorecer, por ejemplo, un acercamiento cuantitativo a los textos, al hacer que podamos buscar mecánicamente 
+en ellos todo lo que deseemos. Puede que esa
+facilidad incite a algunos a rescatar lo serial, incluso que se vuelva
+al fetichismo del dígito. Ahora bien, eso no significa recaer necesariamente en aquella
+fiebre metodológica que hizo exclamar a Emmanuel Le Roy Ladurie que la historia
+solo sería científica en tanto fuera cuantificable y que, en consonancia con los tiempos
+que se avecinaban, "el historiador del mañana será programador o no será nada".
+Esta propuesta osada y extrema que ni siquiera su propio portavoz practicó, carece de validez, tampoco hoy en día cuando tendría otra justificación. 
+Cuestión bien distinta es preguntarse si esa mirada cuantitativa que favorecen los ordenadores nos va a acompañar irremediablemente y
+si, al persistir, va a proyectar su influjo sobre la manera como interrogamos al pasado.
+Por otra parte, que haya investigaciones seriales sobre textos que en principio no
+iban a ser objeto de este tratamiento, no debe incomodarnos en absoluto. Y ello porque
+no hay una única perspectiva en nuestras investigaciones, ni siquiera hay una de la
+que podamos decir que supera a todas las demás. Toda investigación se construye, lo
+hacemos cuando elegimos la información que consideramos pertinente, cuando decidimos cómo la vamos a analizar y cuando optamos por exponerla de una determinada
+manera y no de otra. Esas son nuestras prerrogativas, que cada uno emplea a su modo
+según lo que desee tratar, y si concluimos que distintas miradas pueden considerarse
+válidas es porque comparten las mismas normas, una deontología profesional. Así,
+aunque lleven a resultados significativos, ninguna de ellas agotará la complejidad del
+pasado. Es más, unas y otras son igualmente necesarias.
+De todos modos, conviene reparar en uno de esos aspectos. La digitalización permite algo muy simple que tiene mayores consecuencias de las que se advierten a
+simple vista: hace posible que convirtamos cualquier libro en una base de datos en la
+que buscar. Y, como bien saben los promotores de Google, los libros contienen una cantidad ingente de información. De ahí, como ha señalado Roger Chartier, la percepción
+inmediata e ingenua de que cualquier libro, cualquier discurso, es sobre todo una base
+de datos que proporciona “información” a quienes la buscan. Satisfacer esta demanda
+y obtener provecho de ello es el primer objetivo de la compañía californiana, cuya
+finalidad es el negocio y no, al menos en primera instancia, construir una biblioteca
+universal a disposición de la humanidad. Lo que importa, añade el historiador francés,
+es indexar y clasificar datos, así como las palabras clave y los temas que permiten al
+lector consultar más rápidamente los documentos que ofrecen “más posibilidades”16.
+No obstante, dejemos de lado la cuantificación, así como los inconvenientes de
+reducir un texto a su condición numérica. Veámoslo de otro modo, entendiendo que
+el investigador disciplinado conoce su materia, sin dejarse llevar por esa deriva serial.
+Buscar una palabra de Google Books o en cualquier fondo con las mismas características
+del que pudiéramos disponer abre unas perspectivas insospechadas hasta hace unos años. Y eso necesariamente ha de modificar la
+forma
+como leemos los documentos. Pienso en una investigación
+que, junto con otro colega, emprendí hace poco. Este estudio tenía
+distintas derivaciones colaterales, una de las cuales era la difusión
+e importancia del guano del Perú en Europa, sobre todo en España. Ese mismo objeto
+había sido tratado un par de décadas atrás por otros historiadores, con conclusiones
+muy centradas en áreas concretas, a pesar de haber consultado los archivos británicos,
+los más importantes sobre el tema. En nuestro caso, esa visita era innecesaria, pues
+se trataba de un apartado marginal dentro de la investigación. Sin embargo, la simple
+consulta del Google Book Search modificó sustancialmente la manera como veíamos la
+difusión de ese tipo de abono, situándolo en un contexto global, atendiendo a la situación financiera de la república peruana, reparando en quienes negociaban la deuda
+del país, observando las relaciones personales entre los concesionarios británicos del
+guano y los distribuidores españoles, etcétera. Es lo mismo que ocurre cuando uno
+va visitando archivos y reconstruyendo la trama por la que discurre ese objeto que
+investiga. Es decir, ya no se trata de que nuestros resultados fueran mejores o peores ni
+que no visitáramos los archivos o no contáramos con Google Book Search, sino que esta
+herramienta permite que sean distintos, incluso teniendo en cuenta sus limitaciones
+actuales. No hay más que pensar qué ocurriría si el volumen de textos digitalizados
+fuera mayor. Seguro que en cualquier objeto de estudio hay conexiones insospechadas
+que sólo seríamos capaces de descubrir si acudiéramos a todas las bibliotecas o si dispusiéramos de esos libros en nuestras pantallas.
+Este aspecto nos conduce a otro con el que está íntimamente relacionado. La digitalización generaliza el acceso al conocimiento. No se trata tan sólo de la consabida
+democratización del saber en todos sus órdenes, porque la mayor parte de los internautas tal vez no estén interesados en esos textos, y otros muchos, a pesar de las facilidades,
+no podrán costeárselo. Se trata de abrir esos depósitos documentales a todos los investigadores, permitir que puedan consultarlos aun residiendo en lugares muy lejanos. Son
+innumerables los estudiosos que jamás pensarían en realizar el desplazamiento hasta el
+lugar físico en el que se alberga un ejemplar determinado. Eso no hace que su investigación se resienta necesariamente, pero las nuevas posibilidades pueden favorecer un
+tratamiento distinto de su objeto. Ahora mismo, por ejemplo, podemos consultar una
+guía del París o el Londres decimonónicos; también podemos acceder a los informes
+mercantiles que realizaban los cónsules norteamericanos en ese mismo siglo. Quizá esas
+fuentes no tengan nada que ver con los asuntos que investigamos, pero conocer al otro,
+o saber cómo el otro nos describe, nos constituye. El que vive en India o África y estudia
+el pasado colonizado puede desenredar mejor el entramado de lugares y relaciones que hacían de las ciudades metrópolis imperiales,
+entendiendo cómo fueron dominados en el pasado. El que reside en
+un país occidental y se interesa por el dominio colonial obtiene una mejor percepción
+cuando tiene acceso a documentos digitalizados de las culturas precoloniales18. Y eso
+significa, en última instancia, descentralizar la disciplina, descentrarla incluso.
+Hasta ahora el conocimiento textual ha sido asunto casi privativo de los países
+occidentales. Esas bibliotecas de investigación que albergan los libros de los siglos
+pasados están en países occidentales y son consultadas por investigadores occidentales, con contadas excepciones. Son, además, fruto del poder que esos países han tenido
+en el pasado y del que continúan atesorando. De hecho, no hay más que repasar el
+Mapamundi del Online Computer Library Center para ver que, fuera del mundo occidental, las bibliotecas albergan pocos libros, lo cual aumenta aún más el valor del proyecto
+de Google. Digitalizar es, pues, romper de algún modo con ese monopolio, abriendo la
+disciplina a otros interesados.
+Por supuesto, poner a disposición de cualquier investigador esas obras favorece
+otras formas de hacer historia, quizá más interconectadas, más globales. Podemos continuar reduciendo la escala de observación en algunos casos, haciendo historias locales
+o nacionales, pero ahora podremos ver de qué modo nuestro objeto está en relación
+con otros o cómo se sitúa dentro de procesos más generales. No es que eso fuera a
+alterar significativamente la forma como, por ejemplo, Carlo Ginzburg analizó a su
+Menocchio, Natalie Davis a su Martin Guerre o Le Roy ladurie a su Montauillou, pero
+los parentescos posibles, ya anticipados en su momento, pueden multiplicarse ahora y
+dar otro sentido a determinados actos o comportamientos. Las propias historias nacionales, como se ha apuntado, pueden quedar alteradas, al situarlas en contextos mucho
+más amplios o ver cómo procesos que creíamos peculiares no lo son tanto.
+Hay, no obstante, una paradoja en esto último. El proyecto de Google es sobre todo
+anglosajón, de modo que sus resultados pueden favorecer un dominio, mayor si cabe,
+de los planteamientos e intereses que predominan en ese mundo historiográfico. Si
+son esos libros los que van a estar a disposición de todos, serán esos volúmenes los que
+sirvan como referente, ya sea para aprender o para impugnarlos. De ahí, por ejemplo,
+el esfuerzo europeo por construir una alternativa, la llamada Europeana, una recopilación multilingüe de documentos de diverso género, aunque de momento con escasas
+posibilidades de combatir con el gigante norteamericano. En todo
+caso, ambos son iniciativas occidentales que, de momento, acabarán imponiendo su hegemonía textual al resto de historiografías.
+Y, finalmente, queda por recordar un aspecto que ha sido amplia mente estudiado y debatido por los historiadores del libro. Se trata
+de cómo afectarán todos estos cambios a las formas de lectura, en tanto la pantalla y la
+digitalización fomentan un trato discontinuo y segmentado, modificando la relación
+que hemos mantenido con los textos. No es que antes no pudiéramos alterar el proceso
+de lectura según nuestros intereses, pero la singularidad y la coherencia que tienen los
+libros impresos cambian cuando se modifica el soporte material en el que se presentan.
+Se perturba así la conexión entre objetos, géneros y usos, con lo que la materialidad del
+texto ya no nos guía en el orden de los distintos discursos posibles, reunidos todos por
+igual en la misma pantalla y unificados por su apariencia digital. En ese nuevo mundo,
+dice Roger Chartier,
+“los discursos ya no están inscritos en los objetos, que permiten clasificarlos,
+jerarquizarlos y reconocerlos en su propia identidad. Es un mundo de fragmentos
+descontextualizados, yuxtapuestos, de una recomposición indefinida, sin que sea
+necesario o deseado comprender la relación que los inscribe en la obra de la que
+han sido extraídos”.
+
+3.
+La conversión de los materiales depositados en bibliotecas y archivos al soporte
+digital es sólo una parte del proceso al que estamos asistiendo, y ni siquiera es el que
+mayores implicaciones puede tener. Junto a éste, observamos un nuevo tipo de recopilación, la de los variados recursos cuyo origen es propiamente digital: el patrimonio
+born digital. Y no se trata simplemente de una adición, una nueva sección de los catálogos, sino que los modifica, no sólo por su naturaleza, sino por su mismo contenido, algo
+que obliga a repensar el propio archivo.
+Hasta ahora los monasterios, las universidades, las bibliotecas y los propios archivos luchaban contra el olvido, recogiendo aquellos documentos que consideraban más
+significativos, ya fuera para preservar la memoria de lo ocurrido, o por las propias
+necesidades que imponía lo administrado. De ello se derivaba una idea de la historia que podríamos definir como episódica y oficial. Ésta conmemoraba las gestas de
+los grandes hombres o los momentos significativos y recopilaba papeles y más papeles que daban fe de la marcha de los distintos ramos en que se desplegaba el Estado.
+Como se ha recordado tantas veces, las limitaciones físicas y económicas de todas esas
+instituciones y de sus formas de preservación fueron de gran utilidad. Al tiempo que
+ayudaban a recordar, custodiando una determinada memoria del pasado, la filtraban,
+incapaces de resguardar la mayor parte de lo acontecido o dispuestas a descartarlo o rechazarlo parcialmente.
+
+Como consecuencia de lo anterior, los documentos privilegiaban un determinado
+tipo de historia, donde la voz del Estado y de los poderosos se colaba irremediablemente, los vencedores continuaban callando a los vencidos, los que pudieron dejar
+rastro se erguían sobre los de abajo, desaparecidos o reducidos al anonimato. De ahí
+que quienes han querido rescatar a los humildes muchas veces hayan tenido que hacer
+una historia a contrapelo. Como diría Carlo Ginzburg, en esos casos ha sido necesario
+no sólo considerar la intención de quien produjo los textos que conservamos, sino también ir en contra de ella, tomando lo que se insinúa en los documentos, lo opaco, lo que
+registran sin ser comprendido, lo que dejan tras de sí, los testimonios involuntarios,
+las voces incontroladas20. En definitiva, seguir el dictado de uno de los maestros de
+la disciplina, Marc Bloch, cuando señalaba que del pasado acabamos sabiendo mucho
+más de lo que tuvo a bien dejarnos dicho21.
+Hoy en día, la forma como se gestionan los archivos tradicionales no dista mucho de
+la que hemos conocido en el pasado, pero los nuevos medios tecnológicos sí están cambiando algunas cosas, sobre todo porque disponemos de técnicas muy baratas para
+almacenar información y para recuperarla de inmediato. Hasta el punto de que, como ha
+señalado Viktor Mayer-Schönberger, hemos invertido la situación, con lo que recordamos
+por defecto (con toda esa ingente cantidad de información digitalizada), y el olvido es un
+accidente o excepción. Como disponemos de tantos y tan variados contenedores, desde
+ordenadores personales a videocámaras y tarjetas de memoria, pasando por el disco duro
+portátil y los reproductores de distinto signo, no hacemos más que
+llenarlos. Y lo mismo hacen las instituciones y los organismos privados con la memoria digital de Internet, los registros de las tarjetas de
+crédito, los sistemas de reserva de viajes, los operadores de telecomunicaciones, los datos de hacienda o de la seguridad social, etcétera.
+
+El propio Mayer-Schönberger trae a colación el ejemplo de “Funes el memorioso”, el célebre relato de Jorge Luis Borges. Señala hasta qué
+punto el olvido es importante para el acto de pensar y concluye que
+estamos construyendo una memoria colectiva como la de Funes. De
+la memoria externalizada, selectiva y albergada en el archivo hemos
+pasado, pues, a otra promiscua, sin cribar y que nos satura.
+
+Esta sobreabundancia, esta especie de infocaos, podemos abordarla de múltiples maneras, pero me referiré a dos planos distintos
+por lo que se atañe a las fuentes. En primer lugar, a las consecuencias que tiene sobre nuestra propia percepción, como ciudadanos, de lo
+que es relevante y merece ser considerado para escribir historia. Si la nueva memoria
+es digital y está en Internet, entonces por qué no rescatar para ese nuevo archivo lo que
+hasta ahora hemos conservado en privado y pugnar porque nuestra voz sea considerada.
+Stephen Mihm, por ejemplo, nos ha ofrecido un caso típico23. Hasta hace poco, decía, si
+un historiador quería escribir un relato sobre cualquier batalla de la Segunda Guerra
+Mundial, su única opción era hacer las maletas y dirigirse a los archivos pertinentes. Sin
+embargo, hoy las cosas ya no son igual. La visita al archivo es igualmente obligada, pero
+ahora nos ponemos ante la pantalla del ordenador, nos conectamos a Internet y podemos
+encontrar diversas páginas creadas por aficionados. Lo curioso es que no son simples
+descripciones, sino que hay fotografías, objetos personales, diarios y pequeñas biografías de personas que vivieron la contienda. En ocasiones incluso permiten contactar con
+otros individuos, que a su vez atesoran más diarios, fotografías y cartas. Y eso mismo lo
+podemos encontrar referido a acontecimientos o eventos de todo tipo, desde la Guerra
+Civil española hasta las dictaduras americanas, pasando por recuerdos personales sin
+conexión alguna con un proceso colectivo concreto.
+
+
+Quizá esta participación pasiva, esta colaboración tan característica
+del medio digital, no suponga un cambio radical para la investigación
+histórica, pero nos obliga a repensar nuestro trabajo y a reconsiderar
+nuestras fuentes. Desde luego, si acumuláramos los recuerdos de centenares
+o miles de personas sobre un fenómeno concreto, nuestro relato sería distinto del que construiríamos con la única ayuda de la consulta documental a la que estamos habituados. Además, esas contribuciones personales están empezando a ser atendidas desde los propios archivos. El propio Mihm pone un ejemplo bien conocido, aunque hay muchos otros que se podrían citar y que incluso van más allá, porque no sólo pretenden mejorar lo atesorado, sino impugnarlo, crear un registro alternativo de lo sucedido, dando la palabra al que no está allí, al que ha sido silenciado u obviado. El ejemplo se refiere a la iniciativa impulsada a principios de 2008 por la Library of Congress en colaboración con el portal Flickr24. El objeto era poner a disposición de los internautas una parte de sus imágenes, invitándolos a ayudar a la biblioteca norteamericana a clasificar algunas de esas fotografías que guarda en su depósito. Parte de esas miles de instantáneas, de las cuales se desconocía casi todo, fueron en poco tiempo identificadas o completadas por un sinfín de aficionados entusiastas, que en ocasiones las recordaban personalmente.
+
+Por supuesto, se trata de un caso poco habitual, dentro de un proyecto modesto. Esta biblioteca americana alberga más de catorce millones de ítems en su sección "Prints and Photographs", mientras que sólo el fondo "Bain" llega a noventa mil entre fotografías y negativos. La colaboración con Flickr sirve, pues, para mostrar algo de sus fondos, reclamar ayuda y recortar gastos en la catalogación de algunas de esas imágenes. Ahora bien, dentro de su modestia, nos permite ver hasta qué punto la gente está dispuesta a participar en la reconstrucción del pasado, a veces de forma técnica, identificando una imagen, pero lo habitual es que lo haga imponiendo su voz, ofreciendo opiniones que explican la fotografía, aportando alguna anécdota e incluso construyendo al momento un relato, aunque sea en la Wikipedia.
+
+Esos recuerdos o conocimientos de la gente corriente se refieren a algo acontecido hace décadas, pero puede aplicarse con mayores consecuencias a lo que sucede ahora mismo, permitiéndonos capturar la historia mientras se desarrolla. El ejemplo por antonomasia es el September 11 Digital Archive, la primera gran adquisición digital de la Library of Congress26. El proyecto se inició en enero de 2002 en el Center for History and New Media de la George Mason University y pretendía proporcionar un registro digital de lo ocurrido en torno a aquella catástrofe, una iniciativa distinta de lo que entendemos por historia oral tradicional o por museo. En total, reúne más de 150 mil objetos digitales, que incluyen relatos, correos electrónicos (en torno a cuarenta mil), fotografías, grabaciones de audio y vídeo digital, etcétera. Esos materiales proceden, por otra parte, de más de treinta mil contribuyentes individuales y está abierto a cualquiera que desee participar, lo cual hace que sea un archivo muy rico construido a partir de las experiencias, pensamientos y emociones de un amplio espectro de personas de todos los lugares27.
+
+Es complicado determinar cómo se gestiona ese fondo desde un punto de vista archivístico y los controles que se realizan. Porque, pongamos por caso, no es fruto de la labor de un historiador que ha entrevistado, ha preguntado y ha recopilado de manera escrupulosa determinados testimonios. Esa mediación no existe, pues son los propios protagonistas quienes deciden qué y cómo van a mostrar lo que vieron o sintieron en torno al 9/11. De ahí que las contribuciones carezcan de uniformidad, que sean caprichosas y ofrezcan multitud de perspectivas. De hecho, los promotores observaron que algunas imágenes digitales, por ejemplo, habían sido retocadas, pero decidieron mantenerlas al entender que la mentira y la falsificación están presentes en cualquier archivo y que es el investigador el que ha de lidiar con la interpretación de esos documentos, como siempre ha hecho28. Al fin y al cabo, eso forma parte de la experiencia popular sobre el evento y de cómo se transforma en memoria. Por eso mismo, y a pesar de sus enormes ventajas, también es difícil saber cómo será utilizado por los historiadores que ahora o en el futuro deseen escribir sobre aquel atentado29. Es decir, la relación con los archivos digitales, con documentos nacidos ya digitales, plantea dificultades heurísticas y metodológicas que deberemos plantearnos de inmediato.
+
+Esta presencia masiva de los protagonistas del acontecimiento supone, pues, un aumento en la cantidad y la variedad de los materiales históricos. En todo caso, hay dos maneras distintas de recopilar documentos históricos digitales. Una forma, como la del archivo del 9/11 y la de otras muchas iniciativas semejantes, responde a la voluntad de investigadores o instituciones que promueven ese registro, pidiendo a los ciudadanos que respondan a esa demanda y que lo hagan bajo determinados parámetros. Pero no es necesario solicitar contribuciones anónimas, porque éstas se suceden diariamente en un nuevo medio, Internet, y tratan todo tipo de aspectos de nuestra vida actual. Por tanto, todo lo que contiene la red es en sí mismo una fuente de conocimiento futuro, al menos en el caso de que consigamos preservarlo, y plantea asimismo distintos problemas.
+
+Un ejemplo de esta segunda forma de compilar información es el acuerdo al que llegaron los responsables de la red social Twitter y la Library of Congress para donar su archivo digital a esta institución30. Pues bien, si consideramos la cantidad de ítems que alberga el archivo del 9/11, que se cuentan por decenas de miles, imaginemos lo que significa almacenar tweets, teniendo en cuenta que se escriben más de cincuenta millones al día y que su número no para de crecer.
+
+Cualquiera que haya dedicado un momento a leer los mensajes que aparecen en Twitter entenderá lo que supone almacenarlos. A primera vista, es una colección de frases sin sentido, desordenadas y caóticas. Tomadas una a una, nadie diría que puedan servir para mucho. Analizadas en su conjunto pueden revelar, en cambio, aspectos significativos. Además, podríamos convenir en que se trata de textos relativamente espontáneos. La mayor parte de las fuentes que conservamos se han producido tiempo después de ocurrido determinado acontecimiento, de tal modo que están mediadas por la memoria o por las exigencias de la institución que las genera. Eso no significa que los tweets no lo estén. En la medida en que están pensados para divulgarse, su autor decide qué mostrar y cómo quiere aparecer. Así pues, por ejemplo, no necesariamente leemos lo que le ha parecido determinada película a un espectador, sino lo que él quiere que creamos que le ha parecido.
+
+Aun compartiendo siempre una determinada mediación, una determinada construcción, hay diferencias sustanciales entre esos registros y los documentos tradicionales. En primer lugar, nunca hemos dispuesto de tantos y tan variados textos personales. Los diarios y la correspondencia privada siempre han sido escasos y proceden de una elección personal mucho más meditada. La persona que los conserva lo hace con una mayor voluntad de selección, descartando tanto o más que incluyendo, mientras compone un relato con sentido para dar orden y justificación a la vida que se muestra y se quiere preservar. Un tweet no tiene, en principio, nada de eso. Quien lo redacta no lo difunde porque crea (u otros crean) que su personalidad es extraordinaria o porque se prepare para la posteridad. En ese mundo digital, donde el anonimato prolifera, sólo se busca un espacio para exponer la voz y las palabras, a menudo desde la extravagancia. Por otra parte, la documentación privada tradicional nos habla de sujetos destacados, de grandes hombres y mujeres, de gentes de las letras y del dinero, de la política y del ejército, etcétera. Poco sabemos, en cambio, de la gente común, casi nada que haya salido de su boca o de su mano sin otra mediación. Si los vemos es a través de los discursos que otros escriben sobre ellos, ya sean jueces o médicos, policías o religiosos, o bien aparecen amontonados y reducidos a un número en estadísticas e informes. La era digital convierte en común lo que antaño era un documento raro, casi excepcional. Como contrapartida, el tweet se despliega en un soporte nuevo donde la confesión personal es escasa y lo que sabemos del individuo es igualmente exiguo. Así pues, aunque eso no significa que la fuente vaya a determinar necesariamente el tipo de historia que haremos, pues no supone que todos nos vayamos a dedicar a hacer una historia social desde abajo, la nueva tecnología y sus formas de almacenamiento pueden favorecer otros tipos de escritura histórica.
+
+En segundo lugar, el contenido de estos nuevos documentos es distinto al que estamos acostumbrados. Por supuesto, para quien aspire a elaborar una historia anecdótica, el archivo de Twitter es una noticia excelente. De hecho, la favorece, porque relata lo habitual, lo cotidiano, así como lo espectacular, lo episódico. Por tanto, conduce a la disciplina hacia la frivolidad, produciendo más información cuanto más estridente sea el caso o la noticia sobre la que se manifiesta. A su vez, no cabe duda de que será un recurso extraordinario para el estudio de la vida cotidiana, algo que no tiene parangón con lo que hasta ahora conocemos. Contaremos con una gran cantidad de información sobre las pautas de consumo, sobre la recepción de los productos culturales, sobre el comportamiento de los jóvenes, etcétera. ¿Pero qué tipo de vida cotidiana y de quién? Además, no hay selección ni límite, no se guarda lo que parece más significativo, estarán todos los párrafos de todos los usuarios que hayan decidido enviar a la red sus comentarios, pensamientos o reacciones ante cualquier cosa. En cambio, por primera vez podremos ver cómo se reacciona ante los grandes acontecimientos en tiempo real y cómo se los reconstruye en el soporte digital. Cualquier fenómeno, cualquier cataclismo, cualquier noticia significativa es recogida de inmediato y reelaborada, con miles de personas contribuyendo a ello. Es algo que con anterioridad no ocurría, pues como mucho hemos tenido el registro televisivo o fílmico que ha codificado una visión de lo ocurrido.
+
+Twitter, blogs, Facebook, Flickr. ¿Será nuestra tarea más fácil o más difícil en el futuro? Es algo que se preguntan muchos historiadores. Sin duda tendremos mucha más información, pero distinta, nada comparable a la que hasta ahora esperábamos encontrar cuando visitábamos los archivos. Ni siquiera necesitaremos estar allí físicamente. Bastará con que nos conectemos con nuestros ordenadores. El caos está asegurado, pero ese ha sido siempre parte de nuestro cometido: introducir orden, dar sentido a la heterogeneidad de un pasado desaparecido y del que sólo quedan huellas fragmentadas.
+
+Finalmente, la cuestión no es sólo cómo abordaremos esas fuentes, sino si llegarán a conservarse. La Library of Congress empezó su proyecto piloto de digitalizaciones en 1990 (American Memory), aunque el programa completo se inició en 1994 con la previsión de que afectara a cinco millones de ítems (diez años después habían llegado a los diez millones). En 2000 comenzaron a ocuparse de las fuentes nacidas digitales y desde 2008 fueron llegando a distintos acuerdos con Flickr, YouTube, iTunes U, Facebooky Twitter. Europeana empezó mucho más tarde, en 2007, y espera llegar a los diez millones en el verano de 2010, pero en este caso a partir de ítems conservados en distintas bibliotecas y archivos. No obstante, Internet crece a un ritmo cercano al terabyte diario, lo cual equivale a unos quinientos millones de entradas en los blogs, doscientos cincuenta millones de artículos de revistas y miles de clips de video. En su conjunto, la red alberga en torno a veinticinco billones de páginas. Es decir, el asunto es qué ocurrirá con ese mundo digital en constante cambio y qué parte de preservará. Y eso es importante porque ya sabemos el impacto que las nuevas tecnologías han tenido en determinadas revueltas populares o en los procesos electorales.
+
+¿Cómo reaccionar ante todos estos cambios? Es lógica y hasta comprensible, la actitud de la mayoría de historiadores, para quienes el medio digital no plantea ningún problema que no hayamos visto con anterioridad. Una vez que hemos llegado a la conclusión de que el concepto de fuente es muy amplio, tratar con otra nueva no representa ningún problema añadido. Eso es cierto y, en el fondo, la razón está de su lado. El dominio del método disciplinario nos permite aprovechar cualquier testimonio con el que contemos para estudiar el pasado. Pero quizá ahora el cambio sea más importante de lo que a simple vista parece. No se trata exclusivamente de una modificación del soporte en el que almacenamos la información, con las sustanciales consecuencias que de ello se derivan, sino que es esta misma la que cambia, pues ahora ya no guardamos las mismas cosas. Además, ambas alteraciones van unidas, se hacen posibles una a otra. Por eso merece la pena reflexionar sobre el fenómeno, contribuyendo así a plantearnos las formas de la historia en el mundo digital.
+

@@ -1,0 +1,630 @@
+LAS CIENCIAS Y TÉCNICAS HISTORIOGRÁFICAS EN EL CONTEXTO DE LAS HUMANIDADES DIGITALES: OPORTUNIDADES PARA SU DESARROLLO
+Manuel Ramírez-Sánchez
+Universidad de Las Palmas de Gran Canaria
+	
+Es recomendable que, entre las cualidades que debería poseer
+un historiador que desempeña su labor docente e investigadora en
+el contexto universitario, se encuentre la capacidad de conocer la
+tradición historiográfica de su propia disciplina y, sobre todo, tenga
+cierta capacidad prospectiva para poder intuir hacia dónde se encamina –o debería encaminarse– la investigación y la docencia de su
+disciplina. En los últimos quince años hemos asistido a importantes
+cambios en la universidad española, en unos casos provocados
+por las transformaciones derivadas de la convergencia europea,
+pero en muchos casos también debido a la propia evolución de
+nuestra sociedad que, si seguimos las teorías del filósofo polaco
+Zygmunt Bauman, han provocado que nuestras universidades se
+adapten, con más o menos éxito, a esa “modernidad líquida” que
+está transformando incluso nuestro oficio de historiador.
+	
+Ofrecemos este trabajo como modesto homenaje a los
+profesores Pedro Arroyal Espigares y María Teresa Martín Palma
+que, desde su incorporación a la Facultad de Filosofía y Letras
+de la Universidad de Málaga, tanto han hecho para el desarrollode las Ciencias y Técnicas Historiográficas en la Facultad de
+Letras de dicha Universidad. Una labor que, además, en el caso
+del Dr. Arroyal, se ha proyectado más allá del ámbito de la propia
+universidad malacitana, desde las responsabilidades de gestión
+que asumió en la administración central y autonómica, así como
+también al frente de la Sociedad Española de Ciencias y Técnicas
+Historiográficas.
+	
+Sirvan estas páginas como testimonio de gratitud a dos
+historiadores que después de cuatro décadas de labor docente e
+investigadora han afrontado su jubilación administrativa y ceden
+el testigo a quienes continuamos al frente de nuestras ocupaciones
+en la enseñanza e investigación de nuestras materias. Este trabajo
+es fruto de nuestra experiencia en el campo de la aplicación de
+las Tecnologías de la Información y la Comunicación (TIC) en la
+docencia e investigación de la Epigrafía y no hemos encontrado
+mejor lugar para divulgar nuestras reflexiones sobre los retos que
+puede afrontar nuestra disciplina en los próximos años que en
+este homenaje a dos apreciados colegas que han contribuido a
+consolidar nuestras disciplinas en la universidad española.
+
+1. Humanidades Digitales, algo más que un término estratégico
+	
+El término Humanidades Digitales es la traducción directa
+al español del término anglosajón Digital Humanities que, desde
+hace varios años, se ha impuesto a otras expresiones propuestas
+por algunos teóricos para definir un espacio interdisciplinar entre
+las Humanidades y las Tecnologías de la Información y la Comunicación. Frente a otros términos como Humanística computacional
+o Informática humanística, que tuvieron un gran eco, en los años
+noventa del pasado siglo y primeros años del siglo XXI, sobre todo
+entre los colegas italianos, el término Humanidades Digitales coloca en una posición más destacada a nuestras disciplinas y, sobre
+todo, vincula su propia existencia al mundo digital, más allá de
+los aspectos meramente tecnológicos. Como tantos movimientos
+surgidos en el ámbito de nuestras especialidades, las Humanidades Digitales han contado con una evidente carga reivindicativa a
+través de tres manifiestos que, como no podía ser de otra manera,
+han sido difundidos a través de Internet2.
+	
+No es fácil definir qué entendemos por Humanidades
+Digitales, sobre todo cuando su ámbito de actuación trasciende
+las ciencias humanas y mantiene indudables puntos de contacto
+con las ciencias sociales3. La mayoría de los investigadores que
+se han ocupado sobre esta cuestión coinciden en señalar que es
+un terreno interdisciplinar o, como acertadamente ha señalado
+Anaclet Pons, una “tierra de nadie” en la que, a día de hoy, no es
+fácil afirmar si es un “área académica bien delimitada y definida
+dentro de las humanidades o si se trata de un concepto inclusivo
+en el que caben iniciativas diversas que se sitúan en la intersección
+entre estas disciplinas y las tecnologías de la información”4. Es
+evidente que estamos ante algo más que un término estratégico5,
+aunque algunos detractores del mismo lo han tachado más bien
+de oportunista. Además, en él cabe distinguir varios ámbitos
+de especialización: desde la aplicación de las Tecnologías de la
+Información y la Comunicación (TIC) a las propias disciplinas
+humanísticas tradicionales, en nuestro caso las Ciencias y Técnicas
+Historiográficas, como al propio estudio del impacto de las TIC en
+la transformación y replanteamiento del trabajo humanístico6. Se
+trata, además, de un concepto abierto, en constante construcción,
+que tiene como elementos vertebradores su carácter interdisciplinar, la difusión de los resultados en acceso abierto y una cierta
+preeminencia de las investigaciones centradas en el texto, en las
+que tanto la codificación como el análisis textual siguen siendo dos
+áreas que agrupan la mayoría de las investigaciones ya realizadas
+y las que están en curso.
+	
+La situación actual de las Humanidades Digitales en España
+es, en términos comparativos, similar a la que encontramos en otros
+países de nuestro entorno, con excepción del Reino Unido, cuyo liderazgo es indiscutible y, por supuesto, de los Estados Unidos8. Sin
+embargo, esta trayectoria de las Humanidades Digitales en España
+se ha centrado, fundamentalmente, en el ámbito de la Filología, que
+cuenta con una larga tradición de proyectos ya realizados desde
+hace más de una década, así como de publicaciones en este ámbito,
+mucho antes de que se acuñara la denominación de Humanidades
+Digitales para este tipo de estudios9. La institucionalización de
+las HD no se ha producido hasta fechas muy recientes, con la
+creación de la Sociedad Internacional Humanidades Digitales
+Hispánicas (HDH), en 2012, que en julio de 2013 celebró en la
+Universidad de A Coruña el I Congreso Internacional de HDH,
+al que asistieron 104 investigadores procedentes de once países,
+que presentaron sesenta y cuatro contribuciones10. En el momento
+de escribir estas líneas, está prevista la celebración, en octubre de
+2015, del II Congreso Internacional de HDH en la Universidad
+Nacional de Educación a Distancia, organizado por el Laboratorio
+de Investigación de Humanidades Digitales (LINHD) de dicha
+Universidad.
+	
+Igualmente importante, en el proceso de consolidación de
+las HD en España fue la celebración del Congreso Internacional
+Humanidades Digitales: Visibilidad y difusión de la investigación,
+celebrado en la Universidad de Navarra, organizado por el Grupo
+de Investigación Siglo de Oro (GRISO). En sus actas, publicadas
+en abierto a través del repositorio institucional de la Universidad
+de Navarra, se recogen una buena muestra de los intereses de la
+comunidad de investigadores de Humanidades, tanto españoles
+como de otras nacionalidades, en los campos de interés de dicho congreso: blogging académico, visibilidad y difusión de la
+investigación, revistas digitales, edición digital, divulgación y
+bibliotecas digitales12. No menos importante es la presencia de
+una mesa dedicada al entorno digital y el oficio del historiador en
+el XII Congreso de Historia Contemporánea celebrado en Madrid
+en octubre de 2014, coordinada por Matilde Eiroa, Anaclet Pons,
+Irene González, Rocío Velasco de Castro y Ana Torres.
+	
+La visibilidad de las Humanidades Digitales en las publicaciones científicas españolas es, por ahora, muy reducida, aunque
+en los últimos años se han producido algunos avances. Hasta la
+fecha sólo se han publicado dos dosieres dedicados a estos estudios. El primero de ellos se publicó en septiembre de 2014 en la
+revista El profesional de la información, una de las pocas revistas
+españolas especializadas en el ámbito de las ciencias de la documentación que está indexada en bases de datos internacionales.
+Entre los artículos incluidos en este dossier se encontraban dos
+trabajos dedicados a recursos digitales en Epigrafía y Paleografía,
+lo que da cuenta del potencial de estas ciencias historiográficas
+en los entornos digitales14. El segundo dosier dedicado a las HDpublicado en una revista española ha visto la luz en junio de 2015
+en Ínsula: Revista de Letras y Ciencias Humanas, una de las revistas más prestigiosas del hispanismo literario, que goza también
+de una elevada visibilidad internacional. Aunque algunos de los
+artículos que integran este dosier están centrados en estudios de
+caso en el ámbito de los estudios literarios, también se incluyen
+varios trabajos de especial interés más allá del ámbito de las lenguas y literaturas hispánicas, que pueden ser de interés para los
+historiadores que trabajan en el ámbito de la digitalización del
+patrimonio documental y bibliográfico.
+	
+Precisamente desde las ciencias de la documentación se han
+emprendido interesantes proyectos en la formación y divulgación de
+las Humanidades Digitales, especialmente en lo que se refiere a la
+incorporación de las TIC en las prácticas epistémicas de los propios
+humanistas. En España, ante la ausencia de una política más activa
+por la introducción de las mal llamadas “nuevas tecnologías” que
+obliguen a los historiadores a pensar en un contexto digital, superando las habituales prácticas de nuestras disciplinas, ancladas en
+la tradición del pasado siglo, es fácil encontrar mayor receptividad
+entre algunos colegas de Biblioteconomía y Documentación que
+entre los propios historiadores. En este contexto, no es de extrañar
+que muchos humanistas digitales, considerados como unos geeks
+por sus pares, incluso de su misma generación cuando se trata
+de jóvenes investigadores, encuentren más posibilidades para su
+formación y divulgación de la propia investigación en editoriales
+y revistas especializadas que son ajenas a su propia especialidad.
+2. La alfabetización digital en los títulos de grado en Historia
+	
+Es evidente que cualquier estrategia que pretenda incorporar
+las Humanidades Digitales en algún campo de especialización, ya
+sea en las ciencias históricas o en otras ciencias humanas, debe
+afrontar como primer paso la incorporación de las Tecnologías
+de la Información y la Comunicación (TIC) en la formación de
+grado o posgrado. Los docentes que afirman que es una medida
+innecesaria, porque los estudiantes que llegan a nuestras Facultades ingresan con un perfil tecnológico lo suficientemente alto
+como para hacer innecesaria cualquier formación en este campo,
+tan solo están demostrando que su competencia digital es tan baja
+que, frente a ellos, los estudiantes de nuevo ingreso les parecen
+suficientemente formados en esta materia. Pero la realidad, como
+han demostrado varias publicaciones de campo realizadas en los
+últimos años, está muy alejada de esa idílica situación.
+	
+En efecto, los estudiantes de los nuevos grados adaptados al
+EEES, sobre todo aquellos más jóvenes que, aunque nacidos antes
+de la aparición de Google, se han formado en un entorno digital,
+no se caracterizan por mostrar un excesivo interés por optimizar el
+uso de las TIC en su aprendizaje, en muchos casos porque no han
+encontrado estímulos para ello en el propio entorno educativo. Un
+reciente estudio, realizado sobre casi 600 estudiantes de enseñanza
+universitaria entre los cursos 2006-2007 y 2008-2009 de diferentes
+titulaciones del Campus Universitario de Segovia (Universidad
+de Valladolid), ha ofrecido unos resultados muy elocuentes que,
+en gran medida, coinciden con otros estudios similares realizados
+en otras universidades españolas y en algunos países de nuestro
+entorno. El estudio ha mostrado que la gran mayoría de los estudiantes (un 75% de la muestra) se manifiestan o bien apáticos
+y desinteresados, o bien neutrales y pragmáticos en el uso de las
+TIC, en la medida en que consideran que no son una parte significativa ni esencial de su vida, aunque las aceptan en la medida en
+que les pueden ayudar a alcanzar sus objetivos académicos más
+inmediatos17. Además, algunos estudios de caso han demostrado
+que la mayoría de los estudiantes universitarios de nuevo ingreso,
+aunque muestran unos niveles de uso relativamente elevados en
+el manejo de programas y medios digitales relacionados con sus
+actividades extra-académicas (acceso a contenidos digitales en
+Internet, juegos, etc.), así como en las principales suites ofimáticas
+para redactar y exponer sus trabajos académicos (con un menor
+uso de las hojas de cálculo frente a los procesadores de texto),
+presentan unos niveles muy bajos en la capacidad de acceder a la
+información digital, así como en la capacidad de interactuar con
+ella.
+	
+La implantación de los nuevos grados en Historia, en el
+marco del proceso de convergencia europea iniciado en 2004, fue
+aprovechada por algunas universidades españolas para incluir en
+sus planes de estudio las recomendaciones del informe del Tuning
+Project y del Libro Blanco de la Titulación de Historia, publicado
+por la Agencia Nacional de Evaluación y Acreditación (ANECA),
+en materia de alfabetización digital o informacional. Sin embargo,
+como ya hemos explicado en un trabajo anterior, la mayoría de las
+universidades españolas dejaron pasar la oportunidad de incorporar estas competencias en sus planes de estudio, ya fuera a través
+de una materia específica, ya fuera a través de su distribución en
+varias asignaturas de carácter transversal19.
+	
+Entre las universidades que han sabido aprovechar la ocasión
+que brindaba la adaptación a Bolonia cabe destacar la Universidad
+a Distancia de Madrid (UDIMA), que incluyó en el primer semestre
+de todas sus titulaciones una asignatura de formación básica, de
+carácter transversal, denominada “Aprendizaje y Tecnologías de
+la Información y la Comunicación”, de 6 créditos ECTS, con el
+objetivo de que los estudiantes entendieran y explotaran correctamente las actividades de aprendizaje virtual de la UDIMA, y
+además fueran capaces de dominar “las herramientas colaborativas
+y de comunicación que tienen a su disposición”. Otra universidad
+madrileña, en este caso la Universidad Rey Juan Carlos, ha venido ofertando en el primer semestre del Grado en Historia una
+asignatura de formación básica, de 6 créditos ECTS, denominada
+“Informática aplicada a la Historia”, en la que se han incluido los
+contenidos más relacionados más con la alfabetización digital que
+con la informacional propiamente dicha.
+	
+En Cataluña, la Universitat Oberta de Catalunya (UOC) ha
+incluido una asignatura destinada a la alfabetización informacional
+en el primer curso de sus titulaciones que, en el caso concreto del
+Grado en Humanidades, se incluye en el primer curso con el título
+“Competencias en TIC en las ciencias humanas y sociales”, de 6
+créditos ECTS. Entre los objetivos didácticos de la asignatura se
+encuentran la búsqueda y localización de información en la red, el
+tratamiento y elaboración de la información digital, la presentación
+y difusión de la información digital, la adquisición de estrategias
+de comunicación en la red, el dominio de las funciones básicas de
+tecnología digital, la planificación y gestión de un proyecto virtual,
+la adquisición de una actitud digital cívica, así como de habilidades
+trabajo en equipo en red21. Además, la UOC también ha venido
+ofertando un programa de capacitación digital en su Universidad
+Virtual de Verano, en el que se han incluido materias como “Capacitación digital. Web 2.0 y redes sociales”, que incluye un conjunto
+de contenidos breves estructurados en itinerarios formativos que
+mejoren y transformen el esquema competencial de los estudiantes.
+	
+En cambio, la Universidad Rovira i Virgili ha incluido en su
+Grado en Historia una asignatura obligatoria de 6 créditos ECTS
+denominada “Nuevas tecnologías aplicadas a las ciencias humanas”, que se oferta en el segundo semestre del segundo curso. En
+ella se incluyen aquellos contenidos que permiten a los estudiantes
+los conocimientos metodológicos para la realización de trabajos
+de investigación en el campo de las ciencias humanas, estructurados en los siguientes bloques: la búsqueda; la organización de
+los datos y la información; la presentación de los datos; normas
+del trabajo científico; el trabajo científico, nuevas tecnologías
+aplicadas a la Historia del Arte, la Arqueología y la historiografía;
+la socialización del conocimiento científico y la didáctica de las
+ciencias humanas a través de las nuevas tecnologías22.
+	
+Otro buen ejemplo es el Grado en Geografía e Historia de
+la Universidad de Vigo, que ha incluido en el segundo curso una
+asignatura de formación básica llamada “Fuentes de informaciónen Humanidades”, que incluye contenidos de alfabetización digital
+e informacional, organizados en los siguientes bloques: fuentes de
+información general (conceptos y vocabulario básico sobre fuentes de información; fuentes de información general: formatos y
+soportes; transferencia y normalización de la información; fuentes
+de información especializada), recuperación de información en
+Humanidades (necesidades de información y tipología de las fuentes
+primarias y secundarias en Historia, Historia del Arte y Geografía;
+recursos para identificar y localizar información en Humanidades),
+y sistemas de citas y referencias bibliográficas (normas de estilos
+de citas y referencias bibliográficas; gestores bibliográficos).
+	
+El Grado de Historia de la Universidad de Málaga incluye
+entre las materias optativas del tercer curso la asignatura “Acceso
+a las fuentes de información histórica”, que imparte el Área de CC.
+y TT. Historiográficas. Entre los contenidos de dicha asignatura,
+destinada a introducir a los futuros historiadores en los principales
+recursos documentales y bibliográficos, se incluyen contenidos de
+alfabetización digital: fuentes de información en Internet, archivos
+digitales, manejo de entornos personales de aprendizaje (PLE),
+utilización de repositorios institucionales, búsqueda de imágenes
+en Internet, uso de Dialnet y la biblioteca Digital Mundial, así
+como el uso correcto de Wikipedia, entre otros contenidos.
+	
+Finalmente, el Grado en Historia y Patrimonio de la Universidad Jaume I ha incluido en el primer semestre una asignatura
+de formación básica con el título “Nuevas tecnologías para las
+Lenguas y Humanidades”, de 6 créditos ECTS, que ha agrupado
+buena parte de los contenidos de las antiguas asignaturas obligatorias “Informática I” e “Informática II”, de 3 créditos ECTS cada
+una de ellas, de primer y segundo curso de la antigua Licenciatura
+en Humanidades.	
+Frente a estos ejemplos enumerados más arriba, algunas
+universidades han introducido algunos contenidos relacionados
+con la alfabetización digital o informacional en algunas asignaturas de formación básica que se imparten en los primeros cursos
+de los nuevos grados en Historia. Sin embargo, debido a que la
+denominación de estas asignaturas, en muchos casos, es bastante
+heterogénea, se hace necesario analizar la guía docente de cada
+asignatura en cuestión, para poder encontrar recogidos estos contenidos. Señalemos aquí, a modo de ejemplo, la asignatura “Recursos informáticos y métodos cuantitativos en Historia”, materia
+de formación básica del Grado en Historia de la Universidad de
+Barcelona, que incluye entre sus contenidos un bloque dedicado
+a las diferentes aplicaciones y recursos informáticos en el ámbito
+de la Historia: las TIC y la Historia; así como recursos informáticos para la investigación histórica25. Otro botón de muestra es la
+asignatura “Introducción a la Historia”, del grado en Historia de
+la Universidad de La Laguna, que incluye entre los contenidos de
+uno de los temas una introducción a los recursos bibliográficos,
+bases de datos y Dialnet; las pautas para la iniciación en la consulta
+de archivos; la iniciación a la consulta de las guías de archivos
+(estatales, provinciales y locales) a través de Internet, con especial
+referencia al portal Pares.
+	
+Desde hace quince años, el área de Ciencias y Técnicas
+Historiográficas de la Universidad de Las Palmas de Gran Canaria
+ha asumido el reto de liderar el proceso de incorporación de la
+alfabetización digital e informacional entre las enseñanzas de la
+antigua Licenciatura en Historia y del posterior grado en Historia.
+El proceso se inició con la implantación de la asignatura “Introducción a las Ciencias y Técnicas Historiográficas” como materia
+obligatoria que se impartía en el primer curso de la extinguida
+Licenciatura en Historia, desde el curso 2001-2002 hasta el inicio
+del proceso de extinción de dicha titulación, en el curso 20082009, como consecuencia de la implantación del nuevo grado en
+Historia, desde el curso 2009-201027.
+	
+Aunque el descriptor de esta asignatura publicado en el plan
+de estudios de 2001 señalaba como contenidos principales de la
+misma la “iniciación al conocimiento de las principales Ciencias
+y Técnicas Historiográficas y su importancia para el conocimiento histórico”, en realidad los objetivos didácticos fueron mucho
+más ambiciosos, como ya hemos tenido ocasión de explicar en
+otro lugar28. En efecto, además de iniciar a los estudiantes en la
+importancia de las distintas Ciencias y Técnicas Historiográficas
+para el desarrollo de las ciencias históricas, más allá del carácter
+subsidiario al que han sido reducidas en algunas ocasiones, se
+incluyeron contenidos de alfabetización digital dirigidos a enseñar a los estudiantes del primer curso de la extinta Licenciaturaen Historia cómo utilizar los recursos bibliográficos y las fuentes
+escritas en los futuros trabajos de iniciación a la investigación
+que debían afrontar en otras asignaturas. El manejo de las TIC,
+plenamente integrado en el proceso de enseñanza-aprendizaje, así
+como entre las competencias que debían alcanzar los estudiantes,
+supuso una primera experiencia que fue muy bien aceptada por
+los propios alumnos que, por ejemplo, les permitió utilizar en las
+clases de dicha asignatura el aula de informática de la Facultad
+de Geografía e Historia, que hasta la fecha sólo era utilizada por
+los estudiantes de la Licenciatura de Geografía.
+	
+A partir de la experiencia acumulada en esta asignatura,
+desde el área de Ciencias y Técnicas Historiográficas asumimos
+el reto de incorporar la enseñanza de los recursos digitales para
+el estudio e investigación de la Historia en el nuevo grado en
+Historia, en medio de la escasa discusión que se planteaba sobre
+esta cuestión en los principales foros académicos, después de la
+publicación del Libro Blanco del título de grado en Historia29.
+En el nuevo grado en Historia de la Universidad de Las Palmas
+de Gran Canaria, que inició su andadura en el curso académico
+2009-2010 se ha incluido una materia que permite a los estudiantes
+acceder a los métodos y técnicas de investigación en Historia, al
+mismo tiempo que les introduce en los recursos tecnológicos en
+red de utilidad para los historiadores.
+
+La asignatura, que se denomina “Técnicas de Investigación
+en Historia” es una asignatura básica de 6 créditos ECTS que se
+imparte en el primer semestre del primer curso del grado de Historia, exclusivamente en el aula de informática de la Facultad. Al
+impartirse en el primer semestre del grado, permite homogeneizar
+y nivelar los conocimientos que traen consigo los estudiantes desde
+el Bachillerato, sobre todo en cuanto a las técnicas, métodos y
+recursos que van a poder utilizar durante la realización del título.
+La asignatura pretende que los estudiantes conozcan y utilicen las
+herramientas básicas del historiador, no sólo desde el punto de
+vista del acceso a la información, sino también, el uso de los recursos necesarios para el desempeño profesional. En este sentido,
+los alumnos aprenden a utilizar los instrumentos de recopilación
+de información, las técnicas específicas necesarias para estudiar
+documentos de determinados períodos y los métodos y técnicas de
+otras ciencias humanas, iniciándoles en el debate actual sobre la
+historia digital y los medios digitales31. Los objetivos específicos
+que el estudiante debe alcanzar son los siguientes:
+	
+1. Utilizar las Tecnologías de la información y de la comunicación (TIC) aplicadas a la docencia y a la investigación histórica.
+	
+2. Conocer las herramientas informáticas básicas utilizadas
+por los historiadores.
+	
+3. Adquirir estrategias de comunicación en la red, así como
+habilidades de trabajo en equipo a través de herramientas de trabajo
+colaborativo en red.
+	
+4. Trabajar, presentar y difundir la información en formato
+digital.
+	
+5. Planificar y elaborar el trabajo de investigación histórica,
+siguiendo las bases del método científico
+	
+6. Manejar y citar los recursos documentales y bibliográficos, incluyendo los que están en formato digital, con especial
+referencia a los recursos de acceso abierto (Open Access).	
+7. Desarrollar la habilidad de búsqueda de recursos documentales y bibliográficos en la red.
+	
+8. Planificar, desarrollar y gestionar un proyecto digital.
+	
+9. Promover el conocimiento y utilización del software libre.
+	
+10. Adquirir una actitud cívica ante la información y la
+comunicación, promoviendo actitudes en defensa de la privacidad
+de la información, contra el fraude informático y la piratería, entre
+otras.
+	
+Estos objetivos están organizados en el proyecto docente
+de la asignatura a través de seis grandes bloques que, en algún
+caso, se subdividen, a su vez, en diferentes temas en función de
+los contenidos de cada uno de estos bloques. En los dos primeros
+bloques se introduce a los estudiantes en las Tecnologías de la
+Información y la Comunicación (TIC), así como en el uso del
+Campus Virtual de la Universidad de Las Palmas de Gran Canaria, elemento imprescindible para el desarrollo de esta asignatura
+y, en los últimos años, en otras asignaturas del grado32. El tercer
+bloque permite acercar al estudiante al análisis de la investigación,desde el momento en que ésta se inicia hasta cuando se trasmite a
+la sociedad. El resto de los bloques se distribuye atendiendo a los
+diferentes métodos y técnicas utilizadas por el historiador, acercándose a las diferentes herramientas que las nuevas tecnologías
+nos permiten.	
+Los primeros resultados obtenidos en esta asignatura han
+sido analizados en un trabajo anterior, al que remitimos33, y la
+experiencia ha sido utilizada como referencia de la introducción
+de la alfabetización digital e informacional en otras titulaciones
+de la Universidad de Las Palmas de Gran Canaria. Algunas de
+las herramientas digitales que los estudiantes aprenden a utilizar
+en esta asignatura son rentabilizadas en otras materias de cursos
+superiores como, por ejemplo, en las asignaturas “Paleografía”,
+“Epigrafía y Numismática” o “Archivística y Diplomática”, que
+se imparten en el segundo curso del grado, pero sobre todo, en
+la realización de los trabajos de iniciación a la investigación que
+deben afrontar en la mayoría de las asignaturas del grado y, sobre
+todo, en el trabajo de fin de título34.
+3. Las Humanidades Digitales en los títulos de posgrado y
+doctorado en España
+	
+La implantación de las Humanidades Digitales en la estructura de títulos universitarios en España ha sido, hasta la fecha,
+muy escasa y se ha centrado, sobre todo, en la oferta de títulos
+propios. De hecho, el primer título oficial de posgrado que integra
+las Humanidades Digitales en su denominación, ofertado por la
+Universidad de Salamanca, ha empezado a impartirse en el curso
+académico 2015/2016. El primer título de posgrado que integró
+las Humanidades Digitales entre sus contenidos en España fue el
+Máster en Humanidades Digitales que ofertó la Universidad de Castilla-La Mancha (UCLM), del curso académico 2006-2007 al curso
+2010-2011, desde la Escuela Superior de Ingeniería Informática de
+dicha universidad, en el que participaban docentes de la Facultad de
+Humanidades integrados en el Grupo de Investigación “Gestión del
+Conocimiento y Nuevas Tecnologías”. Se trataba de un título propio
+de la UCLM que integraba dos títulos independientes de especialista,
+el primero en “Gestión de contenidos culturales” y el segundo en
+“Digitalización del patrimonio cultural”. Entre los contenidos que
+incluía esta titulación se encontraban las materias siguientes: TIC
+aplicadas a las Humanidades; Gestión de la información; Lenguajes
+de marcado; Ingeniería lingüística; Tratamiento del Texto Literario;
+Sistemas de Información Geográfica; Gestión de Contenidos Digitales; Bibliotecas Digitales; y Tecnología multimedia.
+El primer título oficial que incluye algunos contenidos
+relacionados con las Humanidades Digitales es el Máster Universitario en metodologías humanísticas en la era digital, que oferta
+la Facultad de Filosofía y Letras de la Universidad de Alicante
+desde el curso 2011/2012. Se trata de un título con una contenidos
+mayoritariamente filológicos, ya que estaba coordinado desde el
+área de Filología Latina, perteneciente al Departamento de Prehistoria, Arqueología, Historia Antigua, Filología Griega y Filología
+Latina de dicha Universidad. No se trataba de una apuesta muy
+innovadora, ya que las asignaturas mayoritariamente tenían unos
+contenidos no relacionados directamente con las TIC, aunque
+algunas asignaturas obligatorias sí las incluían: Fundamento y
+evolución del método filológico: de Alejandría a la era digital;
+Búsqueda, creación e investigación de recursos filológico mediante
+las TICs36.
+	
+A partir del curso académico 2013/2014 la Universidad
+Autónoma de Barcelona oferta un Máster en Humanidades Digitales entre sus títulos propios, en el que participan profesores del
+Departamento de Filología Española de dicha Universidad. Sus
+contenidos están centrados en la edición digital de textos, sobre
+todo desde una perspectiva filológica, aunque también se incluyen
+algunas materias más transversales: Principios y métodos de las
+humanidades digitales, Tratamiento de la información, estadística
+y bases de datos; Publicación en red, tratamiento del texto y de
+la imagen; Discurso y universo digital; Cultura y ciencia en red:
+conservación, documentación, comunicación y difusión; Filología
+digital; e Investigar sobre la sociedad y el patrimonio en la era
+digital.
+	
+Por su parte, la Universidad Nacional de Educación a Distancia oferta, desde el curso 2014/2015, el Experto profesional
+en Humanidades Digitales, en la modalidad de enseñanza virtual
+a distancia, un título propio organizado desde el Laboratorio de
+innovación en Humanidades Digitales (LINHD), la Facultad de
+Filología y la Escuela de Informática de dicha Universidad. El
+profesorado que imparte docencia en este título cuenta con una
+dilatada experiencia en la investigación en Humanidades Digitales,
+sobre todo en el tratamiento digital y la edición de textos e imágenes en Literatura y Arte, que queda patente en la propia estructura
+de los contenidos: Introducción a las Humanidades Digitales;
+Introducción a la edición digital de textos: TEI-XML; Tratamientodigital avanzado de textos codificados: lenguajes basados en XML;
+Almacenamiento y gestión de contenidos digitales en Humanidades: introducción a las bases de datos; Web semántica y datos
+enlazados en proyectos de Humanidades Digitales; Estándares y
+sistemas de código abierto en una biblioteca de fondo antiguo;
+Arte y cultura digital y derechos de autor; Gestión y publicación
+de contenidos de HD en web; Visualización de contenidos en
+Humanidades37.
+	
+Finalmente, la Universidad de Salamanca oferta desde el
+curso académico 2015/2016 el Máster Universitario en Patrimonio
+Textual y Humanidades Digitales, en modalidad semipresencial,
+organizado desde la Facultad de Filología y el Instituto de Estudios
+Medievales y Renacentistas (IEMYR), que pretende realizar una
+aproximación crítica al estudio de los textos desde la perspectiva
+de varias lenguas (latín, romance, árabe y hebreo) y de varios
+enfoques, que van desde los aspectos lingüísticos a los literarios,
+pero siempre en la conjugación de los modelos tradicionales de
+investigación y el marco nuevo de las Humanidades Digitales.
+Aunque los contenidos son menos innovadores que los que ofrece
+la UNED en el título propio al que hacíamos referencia más arriba,
+al menos en su denominación, del análisis de las competencias del
+título y de la denominación de algunas materias, cabe inferir que
+se incluyen en ellas contenidos con una clara orientación hacia las
+HD: Transmisión y recepción de los textos I; Formas de transmisión
+del saber; Textos y modelos: producción, canon e interpretación;
+Textualidades digitales; Creación, transmisión y difusión de contenidos digitales; Transmisión y recepción de los textos II.	
+Como se puede apreciar, la mayor parte de la oferta de
+posgrado relativa a Humanidades Digitales en España está vinculada a las especialidades de Filología, en gran parte debido a que
+han sido precisamente los filólogos los primeros introductores de
+las HD en nuestro país. Entre los escasos ejemplos de títulos de
+posgrado en el campo de las Humanidades Digitales en los que
+participan historiadores, se encuentran el título propio de Máster
+en patrimonio virtual, así como los expertos en Virtualización
+del patrimonio y en Restauración virtual, todos ellos ofertados
+por la Universidad de Alicante que, a diferencia de los anteriores
+títulos, están orientados a la fotogrametría, modelado 3D, realidad
+aumentada y virtual39. En estos títulos participan, sobre todo, especialistas de las áreas técnicas (Ingeniería, Informática) y algunos
+historiadores, todos ellos con amplia experiencia en la utilización
+de las TIC en la gestión del patrimonio arqueológico.
+	
+En este campo, tanto la Epigrafía como la Numismática
+tienen un extraordinario potencial para proyectos de catalogación
+y difusión digital, incorporando tecnologías novedosas como la
+modelización 3D. Sobre este particular, hemos tenido la oportunidad de dirigir dos proyectos de innovación científica financiados
+por la Fundación Española para la Ciencia y Tecnología (FECYT),
+perteneciente al Ministerio de Economía y Competitividad del
+Gobierno de España. El resultado de estos proyectos, que es visible
+en su web de difusión, ha sido la realización de la mayor colección
+de inscripciones romanas en 3D que, a día de hoy, existe en el
+mundo, con casi un centenar de piezas procedentes de las colecciones del Museo Arqueológico Nacional (Madrid) y del Museo
+Nacional de Arte Romano (Mérida)40. Además, la tecnología 3D a
+partir de fotografía digital puede extenderse también a otro tipo de
+documentos escritos, además de las inscripciones, lo que supone
+una oportunidad para la realización de proyectos de innovación
+científica también desde la Paleografía y la Diplomática.
+	
+En lo que se refiere a los títulos de doctorado, la oferta
+relacionada con las Humanidades Digitales disponible hoy en
+España se orienta hacia los archivos y bibliotecas en el entorno
+digital, en gran parte aprovechando la orientación que han tomado
+las ciencias de la documentación en la última década, como consecuencia, precisamente, del crecimiento de la formación hacia
+nuevos perfiles profesionales muy relacionados con las tecnologías
+y la información digital. Es en este contexto en el que hay que
+mencionar el Doctorado en Documentación: Archivos y Bibliotecas en el entorno digital que oferta la Universidad Carlos III de
+Madrid, donde se incluyen contenidos de Humanidades Digitales
+vinculados al análisis y gestión del patrimonio documental y
+bibliográfico. Así, entre las líneas de investigación de este Doctorado, se incluyen las siguientes: Humanidades Digitales; Cultura
+escrita: libros y documentos a través de la historia; Archivística y
+gestión de documentos; Técnicas historiográficas; Diplomática,
+conservación, restauración y preservación; Brecha digital; Estructuras y relaciones semánticas en los vocabularios documentales;
+Tecnologías de la Información; Datos abiertos; Datos enlazados;
+Imagen digital; Estándares web basados en XML42.
+	
+Otro de los escasos programas de doctorado que incluyen
+contenidos relacionados con las Humanidades Digitales es el Programa oficial de Doctorado en metodologías humanísticas en la
+era digital, ofertado por la Universidad de Alicante a través de su
+Facultad de Filosofía y Letras y el Centro de Estudios de Doctorado y Posgrado, vinculado al Máster Universitario mencionado
+anteriormente, que incluye entre sus líneas de investigación, las
+siguientes: Comunicación en la era digital; Estética y hermenéutica, ciencia literaria y de las artes y literatura comparada; Filosofía
+y Filología clásica, ciencias del lenguaje y de la historia43.
+	
+En conclusión, se puede apreciar que se trata de una oferta
+formativa de muy reciente implantación en la que, salvo el ejemplo del título propio de la UNED, muy similar en su estructura
+a los contenidos innovadores que integra el Máster en Humanidades Digitales del King’s College de Londres44, se observa un
+peso relativamente escaso de la enseñanza de las habilidades y
+competencias estrictamente digitales. Los efectos de esta formación especializada en los estudiantes que han cursado estas
+titulaciones aún no es visible en la lectura de tesis doctorales que
+hayan supuesto un cambio en el paradigma tradicional de nuestras
+enseñanzas. La primera y, hasta la fecha, única tesis doctoral que
+se ha defendido en España que incluye el término Humanidades
+Digitales en su título es un trabajo relacionado con las metodologías de visualización, representación y comparación de la pintura
+contemporánea45. Sin embargo, desde 2011 se han leído varias tesis
+doctorales que incluyen dicho término en sus descriptores, todas
+ellas relacionadas directamente con la museología.
+
+4. Conclusiones
+	
+Los historiadores estudiamos el pasado y, en ocasiones, el
+ensimismamiento que nos provoca el estudio, en nuestro caso, de
+los testimonios escritos de épocas más o menos pretéritas, nos
+aleja del análisis de la realidad que nos rodea, así como de las
+señales que nos permiten intuir cuál puede ser el futuro de nuestras disciplinas. Aunque es evidente que nadie tiene capacidad, y
+menos aún autoridad, para insinuar siquiera cuál será el futuro de
+la historia y de nuestras especialidades, así como del desarrollo de
+nuestro oficio en el acceso a las fuentes o en la forma de divulgar
+nuestra investigación, consideramos que deberíamos mirar qué
+está sucediendo a nuestro alrededor para poder adivinar, al menos,
+cómo puede afectar a nuestras disciplinas la revolución digital que
+estamos viviendo.
+	
+Desde hace años nos llegan señales desde nuestro entorno
+académico y profesional que parecen dibujar un horizonte poco
+halagüeño para la docencia e investigación en Humanidades, con
+una paulatina pérdida de estudiantes en nuestras titulaciones y
+unos recursos económicos cada vez más menguados para financiar proyectos de investigación básica en nuestras materias. Es en
+este contexto en el que proponemos considerar las Humanidades
+Digitales, más que como una amenaza o un síntoma del declive
+de nuestras disciplinas, como una oportunidad estratégica que nos
+permita poner en valor el extraordinario caudal de investigación
+básica generada en nuestras disciplinas, desde su institucionalización científica en el s. XIX hasta nuestros días.
+	
+Los cambios que se han producido en las últimas décadas
+han superado cualquier expectativa que pudiéramos tener en los
+años ochenta sobre el futuro de la historia, en aquellos tiempos
+en los que ni siquiera nos atrevíamos a imaginar que alguna vez
+hablaríamos de una “historia digital”. Quienes están llamados a
+impulsar el desarrollo de nuestras disciplinas en las próximas décadas son muchos de nuestros actuales estudiantes, que han nacido
+después de 1993 y forman parte de eso que algunos sociólogos
+han denominado “generación Google”. Conviene que, cuanto
+antes, estos estudiantes adquieran las competencias digitales que
+les permitan desarrollar su oficio cuando les cedamos el testigo.
+Y aquellos de nosotros que aún tengamos interés y capacidad para
+afrontar el aprendizaje de estas competencias, debemos asumir
+la responsabilidad que tenemos de transmitir el conocimiento
+acumulado por tantos años de investigación y docencia de nuestras especialidades, sin perder de vista que la tecnología digital
+puede ser uno de nuestros mejores aliados para la supervivencia
+de nuestras disciplinas.
+	
+Estamos convencidos de que los profesionales que desempeñamos nuestra labor docente e investigadora en la universidad
+española en el área de Ciencias y Técnicas Historiográficas podemos asumir el reto de impulsar el cambio de paradigma que
+supone la historia digital. Contamos para ello con la experiencia
+de algunos investigadores en algunos proyectos de digitalización
+del patrimonio documental y bibliográfico, así como en la innovación educativa de nuestras materias. Pero para ello es necesario
+que, además de que algunos investigadores iniciemos cuanto antes
+nuestra actualización profesional en las herramientas digitales,
+comencemos a formar a las futuras generaciones de docentes e
+investigadores en el manejo de las mismas. Para ello es necesaria
+una visión estratégica a medio y largo plazo, pero sobre todo, la
+suma de todos los esfuerzos individuales que hasta ahora se han
+realizado. Si no somos capaces de avanzar en esta dirección, serán los colegas de otras áreas de Humanidades, o incluso de las
+Ciencias Sociales o de las áreas tecnológicas, los que hagan este
+trabajo por nosotros. Y lo que es aún peor, sin contar con nosotros.
+

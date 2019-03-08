@@ -1,0 +1,806 @@
+Tres veces muertos: Narrativas para la justicia y la reparación de la violencia simbólica en el Perú
+
+Lucero de Vivanco
+
+Universidad Alberto Hurtado, Santiago de Chile, Chile
+lvivanco@uahurtado.cl
+
+
+RESUMEN
+Este artículo aborda tres producciones narrativas recientes relacionadas con la construcción
+de memorias en el Perú: los textos Memorias de un soldado desconocido (2012) de Lurgio
+Gavilán Sánchez y Los rendidos (2015) de José Carlos Agüero, y el documental Tempestad
+en los Andes (2014) de Mikael Wiström. El problema que los vincula es la falta de justicia y
+reparación tras el conflicto armado interno entre Sendero Luminoso y el Estado, específicamente,
+respecto de la violencia simbólica. Si bien estas narrativas tienen como uno de sus puntos
+focales la representación de dicho problema, el artículo se pregunta si estas narrativas pueden
+también ofrecerse como oportunidad para la reparación. Las nociones de “afecto” y de “justicia
+restaurativa” apoyan teóricamente la indagación.
+
+Palabras clave: violencia simbólica, memoria social, giro afectivo, justicia restaurativa,
+Sendero Luminoso.
+
+	
+Este artículo forma parte del proyecto de investigación FONDECYT 1150904,
+“Post-narrativas de la violencia: representaciones y desplazamientos de la memoria y la ficción
+en la literatura peruana (2000-2015)”, en el que la autora es investigadora responsable.
+
+
+[La] facultad para comprender los padecimientos ajenos y el deseo
+de evitarlos es el germen de la justicia.
+
+Carlos Amunátegui Perelló
+
+1. Los triplemente muertos
+
+En Mirando al sesgo, un estudio sobre Lacan en interacción con la cultura
+popular, Slavoj Žižek escribe: “las sombras de sus víctimas continuarán
+persiguiéndonos como ‘muertos vivos’ hasta que les demos un entierro
+decente, hasta que integremos el trauma de su muerte en nuestra memoria
+histórica” (48). Señala lo anterior a propósito de dos obras emblemáticas
+de la literatura universal, Antígona y Hamlet, cuyas tragedias nos permiten
+reflexionar acerca de la dificultad de llevar a cabo procesos de simbolización
+cuando los ritos funerarios no se cumplen con propiedad. “El rito funerario
+ejemplifica la simbolización en su forma más pura –subraya Žižek–: a través
+de él, el muerto es inscrito en el texto de la tradición simbólica, se le asegura
+que, a pesar de la muerte, ‘seguirá vivo’ en la memoria de la comunidad” (48).
+Pensar en la figura fantasmal del “muerto vivo” supone reconocer la vida
+del sujeto antes de su muerte. Aunque esto sea obvio para Antígona, para
+Hamlet, o para millones de víctimas de violencia política en el mundo, no lo
+es tanto para miles de peruanas y peruanos que murieron –o sobrevivieron
+a situaciones de extrema violencia y a reiteradas y sistemáticas violaciones
+a los derechos humanos– en el contexto del conflicto armado entre el
+Partido Comunista del Perú Sendero Luminoso (PCP-SL) y el Estado
+peruano (1980-2000), cuya condición radical de marginación económica
+y exclusión social previa al periodo de violencia determinaba una vida
+semejante a la de la muerte simbólica. Esta idea se sostiene a partir de una
+de las “verdades” reveladas el 2003 por el Informe final de la Comisión de la
+Verdad y Reconciliación (CVR): la cifra total de desaparecidos y/o muertos
+que dio a conocer este Informe prácticamente triplicaba la cifra que hasta
+entonces había sido estimada por diversas ONG e instituciones públicas;
+organizaciones que, para agravar los hechos, nunca “construy[eron] una
+lista de víctimas identificadas por sus nombres” (CVR, “Anexo 2”, 22)2.
+“Esto equivale más o menos a decir –reflexionaba en ese momento Mirko
+Lauer– que estos peruanos inexistían para la nación desde mucho antes de
+haber dejado de existir para la realidad”, proponiendo el doloroso sintagma
+de “los doblemente muertos y desaparecidos”, en relación a lo que él
+denominó “la desaparición de la desaparición” (6). La discrepancia entre
+lo que se creía conocer respecto de la violencia y lo que realmente sucedió
+ha sido explicada por Carlos Iván Degregori en términos de una “lejanía
+emocional”, la que propició la “subestimación del fenómeno y […] una cierta
+indiferencia con respecto al tema y al conflicto mismo” (40), indiferencia
+cuya principal responsabilidad fue atribuida por la CVR a la sociedad civil
+y que es expresión de una violencia simbólica (y estructural) anterior al
+conflicto armado. Violencia ejercida sobre sujetos subalternos, excluidos
+de las políticas de Estado, de la épica del progreso y de las prácticas que
+se derivan de los derechos ciudadanos; más aún, sujetos a los que se les ha
+negado su condición de sujetos, como se verá más adelante, razón por la cual
+sus muertes quedaron ocultas para la mayoría de sus connacionales y sus
+nombres no fueron inscritos en ninguna lista de víctimas sino hasta muchos
+años después.
+Una de las iniciativas de desagravio promovidas por la CVR (“Anexo 6”) fue
+la creación del Plan Integral de Reparaciones (PIR), aprobado por decreto ley
+en el 2005. El PIR estableció las acciones del Estado destinadas a resarcir a las
+víctimas de las violaciones a los derechos humanos y canalizar las demandas de
+justicia a través de los tribunales. Sin embargo, pasada ya más de una década de
+la publicación del Informe y de la aprobación del PIR, los procesos de justicia
+y reparación a las víctimas no parecen haber sido plenamente satisfactorios.
+
+El 2013, un informe del Centro Internacional para la Justicia Transicional
+(ICTJ) denunció una “voluntad política insuficiente” (Correa 1) para llevar
+adelante los compromisos relacionados con la justicia transicional y la
+desatención de los distintos gobiernos para cumplir con el PIR. Se asevera
+en el informe del ICTJ que “los resultados han sido limitados en relación con
+los actos de investigación llevados a cabo por los agentes del Estado […] y
+en la garantía de las reparaciones ordenadas por los tribunales” (27). Por su
+parte, al hacer un balance al décimo aniversario de la entrega del Informe
+final de la CVR, Ludwig Huber y Ponciano del Pino expresan su
+preocupación, por los limitados progresos frente a los múltiples
+retos –políticos e institucionales– que depara al país esta historia
+reciente. En general, el tema de la violencia que se vivió ha quedado
+relegado en la agenda de la política pública, del debate político y de
+la reflexión académica. […] Se ve con preocupación el retroceso en
+los juicios por los crímenes y violaciones de los derechos humanos.
+[…] El irrisorio monto de las reparaciones individuales desdice tanto
+la deuda que el Estado tiene con las víctimas como el discurso de
+inclusión social que el actual gobierno realza (10).
+
+Que el Estado se “desdiga” de la deuda que tiene con las víctimas –lo que
+se traduce en falta de justicia– es equivalente a la interrupción del rito
+simbólico que, como apuntaba Žižek, no permitiría cerrar los procesos de
+duelo e integrar a los muertos en la memoria social. Siendo aún más radical,
+no acceder a la justicia es como si las víctimas murieran una vez más, en un
+nuevo acto de violencia simbólica. De este modo, éstas sufren una primera
+muerte –simbólica– por marginación económica y exclusión social, que tuvo
+como una de sus principales consecuencias la invisibilización durante años de
+su condición de víctimas o de su desaparición; una segunda muerte –real– por
+la violencia concreta ejercida por los grupos armados sobre los sujetos y sobre
+las colectividades sociales subalternas; y una tercera muerte –simbólica– por
+una nueva exclusión, esta vez de la justicia transicional. Este hecho parece
+sugerir, ahondando aún más la hipérbole de Mirko Lauer, la categoría de los
+triplemente muertos o desaparecidos.
+
+2. Literatura y memoria: ENTRE LA REPRESENTACIÓN Y LA
+REPARACIÓN
+La literatura peruana, como discurso social y político que participa del
+“reparto de lo sensible” –lugar donde se juega la visibilidad, la participación
+y la legitimidad de los significados que constituyen el común de una sociedad
+(Rancière)–, ha sido una actora fundamental en la elaboración de los eventos
+traumáticos y la construcción de las memorias desde el principio del conflicto
+armado hasta la actualidad. En este sentido, en los últimos cuatro o cinco
+años, ha empezado a aparecer una serie de narrativas –novelas, testimonios,
+documentales, largometrajes– que se hacen cargo de la representación de la
+falta de justicia transicional y, consecuentemente, de la necesidad de subsanar
+las apariciones fantasmáticas de los muertos cuyos rituales de justicia han
+sido insatisfactorios o han estado del todo ausentes.
+Al respecto, si bien la hipótesis general que aquí se plantea es que la
+falta de justicia es en estas narrativas el punto focal de la representación,
+cabe la pregunta de si ellas pueden también ofrecerse como instancia –como
+oportunidad– para la reparación. Si así fuera, y trabajaré con esta hipótesis,
+se puede afirmar que la reparación toma diversas formas según el tipo de
+violencia que provoca la causa judicial. En este sentido, es posible identificar
+dos líneas narrativas paralelas que dialogan con el contexto arriba descrito:
+una relacionada con la reparación de la violencia concreta (“subjetiva”,
+en términos de Žižek) y otra con la reparación de la violencia simbólica.
+Este artículo dejará establecidas ambas líneas pero profundizará, mediante
+tres casos de estudio, en la segunda: las narrativas para la reparación de la
+violencia simbólica en el Perú.
+
+3. MEMORIAS SUCEDÁNEAS
+En efecto, una primera línea se hace cargo de representar –y pretende
+reparar– la violencia concreta o “subjetiva”, como la ha llamado Žižek, un
+tipo de violencia manifiesta y directamente atribuible a un agente concreto,
+a un sujeto claramente identificable, “la violencia de los agentes sociales,
+de los individuos malvados, de los aparatos disciplinados de represión o de
+las multitudes fanáticas” (Sobre la violencia)4. Dentro de esta línea, han
+aparecido muy recientemente algunas novelas que se ofrecen como el lugar de
+simbolización y reparación de esta violencia subjetiva. La forma que toman
+estas narrativas –además de estructurarse fundamentalmente bajo el género
+de la novela y, en el ámbito audiovisual, como cine de ficción– se podría
+frasear en términos de “memorias sucedáneas”. El adjetivo “sucedáneo”
+que acompaña al concepto “memoria” ha sido elegido para extrapolar hacia
+dicho concepto la doble cualidad de lo sucedáneo, a saber, “sustancia que,
+por tener propiedades parecidas a las de otra, puede reemplazarla” (RAE,
+énfasis mío). En este sentido, novelas como Bioy (2012) de Diego Trelles,
+El cerco de Lima (2013) de Óscar Colchado, Eléctrico ardor (2014) de Dany
+Salvatierra, Saber matar, saber morir (2014) de Augusto Higa, y La pasajera
+(2015) y La viajera del viento (2016) de Alonso Cueto; y, por otro lado, las
+películas NN. Sin identidad (2014) de Héctor Gálvez y Magallanes (2015)
+de Salvador del Solar, representan en la ficción asuntos “parecidos” a los
+que el Estado debiera haber resuelto en términos de justicia transicional,
+pero que en las narrativas han sido asumidos por otros actores sociales que
+“reemplazan” al Estado en el rol que éste ha dejado de cumplir. Mediante
+la toma de justicia por cuenta propia, se intentan resarcir aquí asesinatos,
+violaciones u otras vejaciones, visibilizando no solo el desplazamiento de
+la justicia hacia un ámbito no oficial, hacia un ámbito privado, sino también
+–en muchos casos– la producción de un nuevo ciclo de violencia provocada
+por este desplazamiento, junto a la consiguiente, paradójica y más profunda
+necesidad de justicia5.
+Por ejemplo, en la película Magallanes (inspirada en la novela La pasajera
+de Alonso Cueto), un taxista –Magallanes– reconoce a Celina cuando ésta
+sube como pasajera a su vehículo. Magallanes formó parte del ejército
+peruano que combatió a Sendero Luminoso en Ayacucho, circunstancia en la
+que fue testigo de la esclavización sexual de Celina por parte de su coronel.
+Magallanes, probablemente en un proceso de búsqueda de redención personal,
+insiste en “reparar” a Celina mediante una suma de dinero que obtiene al
+extorsionar y posteriormente secuestrar a un empresario, el que resulta ser
+precisamente hijo del Coronel. La intención de reparar a Celina a través
+de iniciativas privadas genera una serie de nuevas violencias. Por un lado,
+violencia física ejercida por el cómplice de Magallanes (otro ex soldado)
+contra el hijo del Coronel durante el plagio: éste no solo es golpeado, sino
+que la película sugiere incluso que es víctima de violación, pagando con la
+misma moneda el delito que cometió su padre. Por otro lado, al final de la
+cinta, el intento de compensar económicamente a Celina, ahora ya por el
+mismo hijo del Coronel, se vuelve una acción retraumatizadora para ella.
+Porque Celina termina por comprender que, para aquellos que quieren hacer la
+reparación, ella como víctima (y la violencia que sufrió) no tiene importancia;
+lo que es importante es “cerrar” el asunto para “limpiar” la conciencia de
+los victimarios. En otras palabras, comprar el perdón, algo impensado si la
+reparación hubiera sido hecha por el Estado. Celina se enfurece en la escena
+final y rechaza la pretendida compensación con un monólogo en quechua que
+no lleva traducción. El espectador, frente a este monólogo que no comprende,
+queda equiparado a los victimarios que quieren compensarla y que tampoco
+entienden la lengua indígena. Este es el mayor gesto que tiene la película para
+involucrar afectivamente al público en las violencias no resueltas.
+Magallanes es una de las narrativas que traen al siglo XXI el problema de
+la justicia ilustrado por Esquilo en el siglo V a.C. En La Orestíada, trilogía
+del poeta griego, una justicia arcaica basada en la sangre y en la venganza
+se impone por la fuerza de la costumbre sobre la casa de Atreo. Esta forma
+de justicia promueve sucesivamente una serie de crímenes que pretenden
+desagraviar el crimen anterior y que solo logran ser contenidos con la
+instauración de un tribunal. En efecto, tras la guerra de Troya, Agamenón
+regresa a casa y es asesinado por su esposa Clitemnestra, quien cree vengar
+con esa acción el sacrificio que Agamenón anteriormente había hecho de su
+común hija Ifigenia, con el propósito de conseguir el favor de los dioses para
+zarpar con sus naves a Troya. Para vengar la muerte de su padre, Orestes, hijo
+de Agamenón, asesina a su madre con la complicidad de su hermana Electra.
+Este acto provoca que las Erinias, furias vengadoras, persigan a Orestes hasta
+el Areópago, donde aceptan finalmente someter el caso al veredicto de un
+tribunal de justicia. El tribunal absuelve a Orestes, terminando con los ciclos
+de violencia justiciera. Es, por lo tanto, la institucionalización social de la
+justicia al interior de la polis lo que permite detener los actos de violencia
+que hasta entonces pretendían redimirse dentro del ámbito de lo privado.
+Se afirma, en este sentido, que “la historia de Orestes constituye, desde el
+pensamiento griego, el fin del ciclo primario de la justicia de sangre, emanada
+de la divinidad y atada al talión, así como el comienzo de la justicia de la
+polis, guiada por un tribunal y el pensamiento humano” (Amunátegui 28). En
+las ficciones que construyen memorias sucedáneas en el Perú, podría decirse
+que la ausencia de justicia o su insuficiente aplicación por parte del Estado
+–y su consiguiente transferencia a manos privadas– provoca una arcaización
+equivalente a la mostrada por el poeta trágico, incrementando las vendettas
+y haciendo evidente la urgencia de que el Estado cumpla sus compromisos
+en este materia.
+
+4. MEMORIAS RESTAURADORAS
+No obstante, el Estado no monopoliza las vías de reparación ni sus respectivas
+representaciones. En este sentido, una segunda línea narrativa que dialoga
+con el contexto se hace cargo de representar y pretende reparar la violencia
+que Žižek ha llamado “simbólica”, es decir, la violencia “relacionada con
+el lenguaje como tal [y] con [la] imposición de cierto universo de sentido”
+(Sobre la violencia 10). Personalmente entiendo “universo de sentido” como
+el conjunto de significados apreciados cultural, social, política y éticamente
+por una determinada colectividad; y la dimensión lingüística de la violencia
+simbólica, en relación con la noción de “discurso” planteada por Foucault:
+como las “prácticas que forman sistemáticamente los objetos de que hablan”
+(81). En el Perú, el universo de sentido en el que se ejerce la violencia
+simbólica ha naturalizado la existencia de ciudadanos no reconocidos como
+tales por el Estado, en la medida en que –conforme al modelo de ciudadanía
+de Thomas Marshall– gran parte de sus derechos civiles, políticos, sociales
+y económicos han sido otorgados, en el mejor de los casos, solo en un plano
+teórico. Consecuentemente, este universo de sentido ha generado como
+resultado histórico ciudadanos sin ciudadanía, invisibilizados en el reparto
+de lo sensible.
+De acuerdo a lo dicho, la hipótesis particular para estas narrativas es que
+el intento de reparación de la violencia simbólica se lleva a cabo a partir
+de la restitución, en el universo de sentido y en el discurso, de los mismos
+elementos de valor simbólico que han sido suprimidos de la experiencia de
+vida de quienes sufrieron este tipo de violencia. Esto significa que es posible
+identificar, en esta segunda línea narrativa, la reposición de identidades,
+ciudadanías, reconocimientos, accesos a la verdad y a la justicia, entre otros,
+como modos de reparar los efectos de la violencia política en su manifestación
+simbólica.
+Frente a la primera línea narrativa aquí llamada “memorias sucedáneas”,
+propongo llamar a ésta “memorias restaurativas”. En esta ocasión, lo que
+sostiene el adjetivo “restaurativo” que califica el concepto de “memoria” está
+en directa relación con el desarrollo reciente de las teorías y prácticas respecto
+de la llamada “justicia restaurativa”. La justicia restaurativa es una forma
+de hacer justicia que renuncia al castigo del delito a secas, para buscar que
+el ofensor se haga parte de la reparación a la víctima y que, con ello, tenga
+la posibilidad a su vez de rehabilitarse. Según la definición de Bazemore y
+Walgrave, la justicia restaurativa es “toda acción orientada principalmente a
+hacer justicia a través de la restauración o reparación del daño causado por el
+delito” (Cit. en Blanco et al. 11). Por su parte, Van Ness y Strong señalan la
+importancia de cuatro valores básicos de la justicia restaurativa: “encuentro,
+reparación, reintegración y participación” (Cit. en Blanco et al. 6). Para
+efectos de este estudio, es necesario mirar en profundidad los elementos que
+componen el primero de ellos:
+Encuentro: consiste en el contacto personal y directo entre víctimas,
+autores y/u otras personas que puedan servir de apoyo a la partes y
+que constituyen sus comunidades de cuidado. Esto requiere que en
+lo posible se den tres elementos adicionales al encuentro entre los
+participantes, a saber: (1) narrativa, es decir, que las partes relaten
+sus versiones del conflicto, desde su propia subjetividad; (2) las
+emociones, eso es, que las partes muestren sus emociones durante
+el encuentro; finalmente, (3) entendimiento mutuo, que implica que
+las partes hablen a la vez que escuchen al otro, y que lo hagan con
+entendimiento, de manera tal que pueda surgir empatía entre ellas.
+Los elementos de encuentro, narrativa y emociones conducen al
+entendimiento y, a su vez, cuando hay entendimiento, las posibilidades
+de alcanzar un acuerdo que satisfaga las necesidades de todos los
+involucrados y que sea practicable o realista se incrementan (13).
+
+En concordancia con la definición anterior, las narrativas que aquí se propone
+leer como memorias restaurativas se construyen de experiencias personales
+marcadas por la subjetividad, y circunscritas en gran medida a emociones y
+afectos. En este sentido, la literatura posibilita un encuentro que en la vida real
+es imposible de generar: en tanto violencia simbólica, en la que la sociedad
+en su conjunto es virtualmente la “ofensora”, el contacto personal y directo
+es impracticable. La literatura opera, entonces, como el lugar potencial para
+dicho encuentro, para el entendimiento y, en última instancia, para que se
+realice el “acto de justicia” con su respectiva reparación. Esto requiere, por
+cierto, que el autor convoque al lector, lo seduzca hacia el conocimiento de
+su experiencia y hacia la comprensión de su pathos; en otras palabras, que
+potencie la receptividad de su texto. Y por parte del lector, que esté dispuesto
+a entrar en este circuito comunicacional afectivo. Las memorias restaurativas
+se ofrecen, entonces, no solo como instancias para la elaboración de diversas
+violencias cometidas, sino también para enmendar ese curso torcido de las
+relaciones sociales en el Perú, que condenó a un sinnúmero de peruanos a
+su triple muerte.
+Las memorias restaurativas tienen como herramientas centrales la experiencia
+de vida y su dimensión afectiva. Lo anterior puede afirmarse en la medida
+en que se constata que estas narrativas se organizan formalmente según los
+“géneros del yo”, tales como el testimonio, la autobiografía, la autoficción,
+el documental autobiográfico o la combinación entre ellos. La utilización
+de géneros del yo y la aproximación afectiva no buscan únicamente lograr
+la simbolización del pasado traumático –dentro del consabido dilema de si
+es posible representar el horror extremo–, buscan también aquella respuesta
+empática de sus receptores descrita a propósito de la justicia restaurativa,
+como parte de sus estrategias para el reconocimiento y la reintegración social.
+Lo hasta aquí expuesto respecto de esta segunda línea narrativa de
+memorias restaurativas, es decir, respecto de las narrativas que representan
+y reparan la violencia simbólica, es lo que sustenta las lecturas que presento
+a continuación de los textos Memorias de un soldado desconocido (2012) de
+Lurgio Gavilán Sánchez y Los rendidos (2015) de José Carlos Agüero; y del
+documental Tempestad en los Andes (2014) de Mikael Wiström.
+
+4.1. Memorias de un soldado desconocido: validarse como sujeto
+Memorias de un soldado desconocido. Autobiografía y antropología de la
+violencia es la narración, en clave autobiográfica, de una experiencia de vida
+cuyo autor y protagonista fue sucesivamente un niño soldado de Sendero
+Luminoso (entre los doce y quince años) y miembro de las filas del Ejército
+que combatieron a dicho grupo subversivo. Lo anterior, que de por sí constituye
+una historia controversial, casi imposible de narrar sin contradicciones y de
+vivir sin huellas traumáticas, se ve intensificado por las siguientes adhesiones
+de Gavilán a una congregación de franciscanos, primero, a la que renuncia
+para formarse como antropólogo en la Universidad de Huamanga, después,
+continuando con un doctorado en la Universidad Iberoamericana de México.
+Es decir, se trata de una vida cuyas afiliaciones transitan por los distintos
+grupos involucrados en el conflicto armado, ya sean estos grupos combatientes
+directos (Sendero Luminoso, ejército), u observadores y generadores de
+conocimiento y opinión (Iglesia, universidad). Cerca de veinte años después
+de haber dejado la zona de guerra y ya finalizada ésta, Gavilán vuelve a
+Ayacucho para cerrar el ejercicio hermenéutico de entender y dar sentido
+a su experiencia de vida. Memorias de un soldado desconocido es el relato
+que resulta de esa retrospectiva vital.
+Durante la década de los ochenta, la literatura que se desarrolló en
+simultáneo al conflicto armado interno estuvo dominada fuertemente
+por la necesidad –del Estado, de la opinión pública– de comprender
+las causas de la violencia y su magnitud. Estas cuestiones pusieron al
+indígena –y a la relación indígena-violencia– en el punto focal de atención,
+y su representación bajo una mirada que lo describía desde afuera y
+que lo aislaba, como individuo y como comunidad, del resto del Perú 6.
+La CVR ha establecido críticamente los esquemas de pensamiento que
+organizaron estas primeras representaciones, sosteniendo que ellas reprodujeron
+un “paradigma indigenista” que “esencializ[ó] las diferencias culturales,
+presentando a los campesinos como reliquias vivientes de un pasado milenario,
+subsistente a pesar de las influencias de la sociedad moderna u occidental”
+(Tomo V, 155). Bajo este paradigma, se construyeron los primeras discursos
+interpretativos de la violencia, tanto dentro del campo cultural como de las
+ciencias sociales. La CVR ha consignado que,
+hacia 1983, dicho razonamiento estaba bastante extendido entre
+diversos sectores de la opinión pública y la intelectualidad. Incluso
+los medios de prensa y los magistrados reprodujeron dicha visión,
+[…] mediante interpretaciones que enfatizaron la diferencia cultural
+de los campesinos quechuas respecto al conjunto del país como
+causa fundamental de la tragedia. Tal perspectiva […] contribuyó
+a […] reforzar la imagen paternalista según la cual los campesinos
+–considerados como seres “extraños” e “incapaces” pero en el fondo
+“buenos”– no podían actuar ni pensar por sí mismos (Tomo V, 155).
+
+Memorias de un soldado desconocido surge como una narración que repara
+los relatos que representaron la violencia desde dicho paradigma; es decir,
+repara esa supuesta incapacidad intelectual, infantilismo, falta de agencia o de
+autonomía de los quechua-hablantes, manifestaciones todas ellas constituyentes
+de violencia simbólica, la que recayó por cierto sobre colectividades ya
+objetivamente violentadas. En estas circunstancias, no es una exageración
+decir que el solo hecho de tomar la palabra para escribir la propia biografía es
+un acto reivindicatorio; este acto conlleva, simbólicamente, la restitución de la
+condición de sujeto mediante la fundación de un sujeto de enunciación y de una
+agencia discursiva. En otras palabras, el texto nos dice que el actor indígena
+de la violencia no será más un objeto pasivo en las interpretaciones que de
+ella se hagan –como lo fue en la década de los ochenta– o en la elaboración
+de las memorias. Aún más, la escalada intelectual de Lurgio Gavilán, desde
+niño quechua-hablante y analfabeto hasta antropólogo formalmente calificado,
+implica una conquista doble, ciudadana y epistemológica, autobiográfica y
+antropológica (como anuncia el título); la conquista de un punto de hablada
+ciudadano que lo emancipa respecto de mediadores culturales de otrora y
+de una voz autorizada en tanto que participa del campo intelectual (de la
+universidad como centro de producción de conocimiento), voz con la que
+quiere incidir en el futuro de la sociedad peruana. Estas dos dimensiones de su
+relato, autobiográfica y antropológica, se hacen explícitas en el epígrafe con
+el que da inicio al mismo: “escribo esta historia para recuperar mi memoria;
+y también para que nunca vuelva a ocurrir algo así en Perú” (49).
+Ahora bien, a pesar de que su testimonio está autorizado por su condición
+de antropólogo (una de sus conquistas), Gavilán no se vale de la vía intelectual
+para relacionarse con su lector sino, fundamentalmente, de la vía afectiva.
+Entiendo lo afectivo, según Lara y Enciso, como una dimensión no racionalizada
+de la experiencia, como un ámbito que se funda en la subjetividad de lo
+“corpóreo, [lo] pre consciente, [lo] energético y otras posibles explicaciones
+lejos-del-significado” (109). Haré hincapié en lo corpóreo por ser la “superficie
+donde se lee la historicidad de los modos de la violencia” (Giorgi 69) y el
+soporte en el que Gavilán la inscribe cotidianamente. Su biografía apela a la
+afectividad mediante una intensidad somática dada por el hambre de todos
+los días, el frío de todos los días, el cansancio de todos los días, la desnudez,
+el castigo físico, la enfermedad, los parásitos, la debilidad, la muerte liminar
+de todos los días. Así, pasajes como “ese día no comimos nada, ni los días
+siguientes. Nuestros estómagos estaban vacíos, solo comíamos sal con
+nevada. Estábamos flacos. Los compañeros comenzaron a toser. Al sexto día
+dos de nuestros compañeros amanecieron muertos” (92-93), son frecuentes
+en su texto. Ya lo decía Beatriz Sarlo en Tiempo pasado: “la narración de la
+experiencia está unida al cuerpo y a la voz, a una presencia real del sujeto
+en la escena del pasado” (29). En un sentido opuesto a la denotación, a la
+explicación, a la linealidad del argumento, a la secuencia lógica, Gavilán se
+expone ante su lector haciendo una condensación de sus energías corporales,
+para ser reconocido por él y para despertar en él su empatía: “siento que el
+tiempo se atraganta en mi vida y este recuerdo me duele y duele; siento en
+los brazos, en las piernas, en el corazón. Siento que el recuerdo se alimenta
+como las pulgas o los piojos blancos que se alimentaron de mi sangre” (164).
+En efecto, el autor propicia un encuentro con su lector; busca que éste se
+afecte, se conmueva, se emocione, comparta su dolor. La noción de afecto, en
+este sentido, se convierte en una categoría que dinamiza las fuerzas sociales
+y vigoriza el tejido que articula lo común, llegando a ser un nuevo factor de
+incidencia en el reparto de lo sensible. Así lo ha planteado Thirft:
+la noción de afecto lleva las connotaciones de intensidad corporal
+y el dinamismo que energetiza las fuerzas de lo social. Esto es, el
+afecto como: pasión social, como pathos, empatía y simpatía, como
+sufrimiento político y trauma afectado por otro, pero también como
+la apertura incondicional y responsable de afectar a otros –de ser
+formado por el contacto con otros– (Cit. en Lara y Enciso 110).
+
+La intersubjetividad subyacente a esta búsqueda de empatía es, según lo
+anterior, un acto político, en tanto que redunda en el ámbito del sujeto particular
+para adherirse a una “causa”: la de los actores directos del conflicto armado,
+específicamente, la de sus actores quechua-hablantes. Es también un acto de
+reparación de la violencia simbólica, al tomar por la fuerza de la palabra y
+la escritura un lugar central en la elaboración de la historia peruana reciente.
+Porque con este acto se repiensa el conflicto armado desde la diferencia
+cultural y se reconfigura la nación imaginada, algo que tal vez no estaba
+en la “intención” del exniño soldado, pero que, sabemos, es frecuente en
+los discursos de épocas recientes, que se inscriben dentro de un “impulso
+afectivo”, como explica Mabel Moraña:
+
+Permeando las relaciones intersubjetivas, la órbita de la domesticidad
+y de la intimidad y adentrándose en todos los niveles de la esfera
+pública, el impulso afectivo […] modela la relación de la comunidad
+con su pasado, las formas de lectura de su presente y la proyección
+hacia el futuro posible, deseado e imaginado en concordancia o en
+oposición a los proyectos dominantes (315).
+
+4.2. Los rendidos: existir en el lenguaje
+
+Entre los sentidos comunes más cuestionados por estas narrativas está el
+de la supuesta transparencia y mutua exclusión de las nociones de víctima
+y victimario. El Registro Único de Víctimas (RUV) elaborado por el
+Consejo de Reparaciones del Ministerio de Justicia y Derechos Humanos
+reconoce esta condición en “las personas […] que sufrieron vulneración de
+sus derechos humanos”, pero señala abiertamente que “no se consideran
+víctimas […] a los miembros de las organizaciones subversivas” 7.
+La polarización entre el perpetrador y el inocente, entre el malo y el bueno,
+se instaló desde los inicios del período de violencia y pervive en las políticas
+de reparación hasta el día de hoy. Una de las características de esta postura
+en la narrativa, especialmente en la publicada antes del Informe de la CVR,
+es que en ella se manifiesta un cierto carácter épico, en el sentido de que
+se establece una verticalidad tal entre los sujetos que se enfrentan en el
+conflicto armado que al menos uno de los comparecientes es despojado de
+su condición de sujeto.
+Las memorias restaurativas aquí estudiadas introducen una complejidad
+mayor en la forma de entender estas nociones: se visibiliza la porosidad
+existente en la frontera entre ambas categorías y se sugiere, por lo tanto, la
+reexaminación de las identidades y roles desempeñados por los distintos
+actores durante el conflicto armado. Uno de los mayores aportes en este
+sentido lo hace el texto Los rendidos. Sobre el don de perdonar de José
+Carlos Agüero, quien introduce las palabras iniciales para un debate que
+hasta ahora no se había podido –o no se había querido– dar en el Perú. Esto
+lo logra Agüero gracias a la naturaleza de su texto y a su particular lugar de
+enunciación. En el primer caso, su testimonio tiene una composición híbrida
+que conjuga autobiografía, ensayo y otros “textos de no-ficción” (13), como
+él mismo afirma. En el segundo caso, su lugar de enunciación es complejo,
+en tanto que Agüero es, por un lado, hijo de padres combatientes de Sendero
+Luminoso ejecutados extrajudicialmente durante la época del terrorismo: su
+madre, al recibir tres balazos por la espalada tras ser detenida por militares;
+su padre, en la cárcel de El Frontón, en lo que se conoce como la “masacre
+de los penales”, que acabó con la vida de más de un centenar de detenidos.
+Por otro lado, además de esta inscripción vital cercana al conflicto, Agüero
+es poeta, historiador, activista de derechos humanos y colaborador de la
+CVR y del Lugar de la memoria, la tolerancia y la inclusión social (LUM).
+Todas estas facetas (biográficas e intelectuales) aportan a la construcción de
+un texto cuyos capítulos abordan temas clave de verdad, memoria, justicia y
+reparación; aunque, como es especialmente su condición de hijo la que marca
+su relato, los capítulos llevan títulos más personales, tales como “Estigma”
+o “Culpa”. En efecto, en sus páginas nos habla de su estigma y su culpa
+por haber sido hijo de quienes perpetraron el mayor daño. Y a pesar de la
+ilegalidad que define las muertes de sus padres, Agüero en Los Rendidos
+no reclama justicia para ellos ni para sí. Por el contrario, lejos de cualquier
+reparación personal, nos habla de su vergüenza dada por la pertinencia y
+legitimidad de una pregunta que el propio autor formula en su texto: “¿A
+cuánta gente mat[aron] mis padres?” (20). La CVR tiene una respuesta para
+ese asunto: el 54% de los muertos o desaparecidos reportados tiene como
+agente responsable a Sendero Luminoso.
+La renuncia explícita a la justicia o a la reparación “oficial” no significa
+que el texto no actúe en el sentido dado a las memorias restaurativas, es decir,
+promoviendo algún tipo de justicia y reparación. Para ello, el texto desmantela
+lo que comúnmente diferencia a la víctima del victimario, específicamente
+cuando se aborda el problema del senderista que ha sufrido tortura, que
+ha sido ejecutado extrajudicialmente o que ha sido desaparecido. Es decir,
+cuando el victimario “por excelencia” sufre las mismas violaciones a los
+Derechos Humanos que las “inocentes” víctimas o las víctimas “puras” o
+“pasivas”. En el Perú, el Plan Integral de Reparaciones establece que “son
+víctimas las personas o grupos […] que hayan sufrido […] desaparición
+forzada, secuestro, ejecución extrajudicial, asesinato, desplazamiento forzoso,
+detención arbitraria, reclutamiento forzado, tortura, violación sexual o muerte” 8.
+Sin embargo, si bien el PIR incluyó a los miembros de las Fuerzas Armadas y
+de los Comités de Autodefensa como posibles víctimas (a pesar de ser también
+perpetradores), excluyó de su universo de beneficiarios individuales a los
+miembros de los grupos subversivos, aun en los casos en los que éstos fueron
+víctimas de violaciones a los Derechos Humanos como las establecidas por
+el PIR. También las ONG “escogieron identificar inocentes de acuerdo con
+ciertos criterios de exclusión, defenderlos solo a ellos y abandonar a todos
+los demás, a los culpables, a la tortura segura, la cárcel, la desaparición y la
+muerte” (Agüero 77). Sobre estas víctimas, nos dice Agüero, al consensuarse
+que no formen parte de las reparaciones, se negoció sobre un derecho humano
+fundamental que no debiera ser negociable. Más aún, el terrorista torturado se
+convierte en un “fantasma”, un “semisujeto”, una víctima “no-enunciable”,
+alejado de la historia y expulsado incluso del lenguaje, como si se tratara
+de una pesadilla o una enfermedad (104). Tras una luz reparatoria, Agüero
+reinserta en el lenguaje esta dimensión de la violencia, sugiriendo la necesidad
+de discutir sobre estas categorías:
+puede valer la pena re-mirar a los culpables, a los traidores, a los
+criminales, a los terroristas, y por contraste también a los héroes, a
+los activistas, a los inocentes y quizá a los que no son nada, a los
+espectadores, los que creen que son el público pasivo en este drama.
+Y revisar nuestro lenguaje, ¿puede este ejercicio tener consecuencias
+sobre nuestra propia mirada, nuestros recuerdos o el modo en que
+los hemos construido?
+
+Este testimonio es, pues, una voz que diverge de los discursos oficiales y de
+gran parte del sentido común que circula en torno a los sucesos del pasado.
+Porque en el Perú lejos se está de que la categoría de víctima promueva
+algún tipo de consenso o de pacto que permita asegurar que la violencia no
+se repetirá en un futuro, dado que la víctima ni siquiera ha sido cabalmente
+definida ni identificada. Agüero lo tiene claro. Y tiene también clara la
+necesidad de introducir el tema en la lucha por la memoria. Desde su lugar de
+enunciación, su estrategia es poner en relieve no solo su experiencia personal
+sino, mediante una serie de relatos particulares, las experiencias personales
+en general: “los pueblos y los barrios están poblados de recuerdos –apunta
+Agüero– y estos nos hablan de personas con experiencias complejas, que
+no se dejan encasillar en las categorías de víctima y perpetrador” (96-97).
+Siempre en la línea del acercamiento afectivo, Agüero –como Gavilán–
+busca afectar a su lector, incomodarlo, conmoverlo –“comprender al otro es
+un poco morir con el otro” (35)–, y con ello lograr una mayor comprensión
+del pasado histórico. Es desde este punto de vista que Agüero realza el
+padecimiento de los que engendraron el padecer y lucha por abrirles un espacio,
+por visibilizarlos, por facilitar el “encuentro social” que abra, aunque sea
+mínimamente, la puerta hacia la reparación simbólica. No hay justificación
+ni victimización en este ejercicio, tan solo un desprotegido llamado a la
+comprensión. “Qué difícil parece –escribe Agüero– aproximarse con ganas
+de comprender un poco a los enemigos o a los culpables. No para estar de
+acuerdo ni para perdonarlos, ni para ganar una batalla ideológica, sino solo
+con ese fin, comprender sin más, sin recompensas extras, sin premios ni
+reconocimiento por ser héroes de la empatía” (35). Y él es el primer sujeto
+coherente con este llamado: aún sabiendo sus identidades, decide no delatar
+a los asesinos de sus padres para “darles la oportunidad a esos hombres
+–explica– de que hereden a sus hijos su mejor versión” (128).
+En términos formales, la aproximación afectiva ha sido transferida sutil y
+cuidadosamente a la retórica del texto. Por un lado, pequeñas frases parecen
+sumarse entre sí para que el relato –en su hibridez– se parezca a un ritual
+de confesión. Así, por ejemplo, sucede varias veces que después de que el
+autor narra un acontecimiento particular de su experiencia de vida, cierra
+dicha sección del texto con frases tales como: “Nada de esto le dije” (40),
+“Tampoco le mostré nada” (41), “No le conté. Por la costumbre de no hablar
+de estas cosas” (41), “Todo eso debo haber sentido así, sentido en el fondo
+de ese bus viejo, solo en mi rincón del mundo” (43), “Los hijos de terroristas
+no tienen derecho a grandes manifestaciones de duelo” (68), “Me despedí.
+Me alejé callado” (90). Esto significa que Agüero está compartiendo sus
+secretos por primera vez: ideas, sentimientos, emociones que en su momento
+se callaron ahora se hacen públicos. Es posible que con esta retórica, como
+en un confesionario, Agüero solicite o suscite algún tipo de perdón para esa
+“culpa” que forma parte de su narrativa. Un perdón que, por cierto, no tiene
+por qué solicitar.
+Por otro lado, más que basarse en afirmaciones, Agüero ha insertado en su
+retórica la pregunta como fórmula para establecer dilemas, crear disyuntivas,
+plantear paradojas, revelar aporías. Porque de eso se trata este libro: de restituir
+en el lenguaje “la duda y su modestia” (17), como dice Agüero, para mirar el
+conflicto armado y sus actores, sin que el lenguaje mismo se convierta en un
+fiero guardián de una supuesta moral superior y conlleve, consecuentemente,
+un juicio y una condena. Se trata de usar “un lenguaje endeble que dice ‘puede
+ser’” (24), y que pide, con el doble gesto de la valentía y la timidez, rendirse
+a la comprensión. Esta es la reparación simbólica que Agüero plantea en este
+texto: instalar en el lenguaje una nueva figura para el sufrimiento en contexto
+de violencia; darle un nombre a este particular “sufriente”, una palabra, una
+existencia en el universo de sentido. Sacar a estas “víctimas-victimarios” de la
+negación, del silencio, de la exclusión, con el único propósito de comprender
+mejor la historia reciente del Perú. Porque, “¿haber pecado vuelve asqueroso
+al pecador –pregunta Agüero–, lo aparta del mundo de los humanos? ¿De
+qué élite de humanos puros?”.
+
+4.3. Tempestad en los andes: descubrir a la víctima
+Entre las tres producciones culturales abordadas en el presente estudio,
+Tempestad en los Andes es, tal vez, la que con mayor fidelidad se ajusta a
+los términos de la justicia restaurativa, especialmente en lo que respecta a
+la valorización del encuentro de narrativas y emociones que conducen al
+entendimiento mutuo.
+En efecto, el documental tiene como protagonista –y voz en off– a Josefin
+Augusta Ekermann, sobrina de Augusta La Torre –“Camarada Norah”–,
+primera esposa de Abimael Guzmán y segunda en la cadena de mando del
+PCP-SL. Josefin, que nació y vive en Suecia, viaja al Perú con el propósito
+de entender lo que pasó durante la época de la violencia. En este contexto,
+le interesa reconstruir la identidad y la trayectoria de su tía Augusta,
+hermana de su padre, quien murió en pleno desarrollo del conflicto armado
+(1988) bajo circunstancias aún no esclarecidas y cuyos restos se encuentran
+desaparecidos. En este viaje, que es la materia constituyente del documental
+y que tiene también algo de autoconocimiento, Josefin se dispone a contrastar
+las épicas versiones de la guerra transmitidas por su familia paterna, a cambio
+de obtener una comprensión más profunda y verdadera de ese periodo de la
+historia peruana.
+El documental presenta otra búsqueda que se desarrolla en paralelo a la de
+Josefin: la de Flor Gonzáles (y su familia), que busca a su hermano Claudio,
+asesinado en la “masacre de los penales” en El Frontón, y cuyos restos están
+también desaparecidos. La búsqueda de Flor no se enfoca únicamente en
+los restos de Claudio, algo que por cierto no se resuelve en el documental,
+sino principalmente en corregir la presunción que vindica a su hermano
+como terrorista. Según Flor, si bien Claudio era una persona cuyos ideales
+se avenían con la ideología de Sendero, su proyecto de vida privilegió lo
+familiar sobre lo político, razón por la que nunca optó por la lucha armada o
+la clandestinidad. Lo anterior se acredita en tanto que la única “prueba” que
+eventualmente vinculaba a Claudio con Sendero Luminoso, como hace saber
+su abogada, es un poema de su autoría titulado “Canto para un combatiente”.
+Es necesario mencionar que Claudio era hijo de un dirigente campesino, líder
+en los movimientos de recuperación de tierras de los años 70. Claudio era
+también estudiante de literatura.
+Como bien ha señalado Pablo Malek, “el antagonismo existente entre estas
+dos personas y el choque entre sus percepciones y realidades es el punto de
+partida de este relato” (79). Lo anterior se funda en los extremos en los que se
+sitúan inicialmente ambas “protagonistas” –contrapartes, interlocutoras– del
+documental. Por un lado, Flor responsabiliza políticamente a Sendero por el
+inicio de la guerra y la consecuente muerte de su hermano, responsabilidad
+que imputa a la familia de Josefin. Por otro lado, Josefin, que si bien busca
+la verdad más allá del relato heroico de su padre, se resiste a los intentos
+que hace Flor para que asuma el daño a nombre de su familia, para lo cual
+indaga en la violencia histórica y estructural de la sociedad peruana como el
+origen posible de una violencia materializada luego por Sendero Luminoso.
+“Claudio y Augusta: dos nombres que nos unen y que son a la vez el abismo
+entre nosotras” (36’28”), dice la voz en off de Josefin.
+El documental es, por lo tanto, el lugar de confrontación de estas versiones
+de la guerra encarnadas en experiencias de vida particulares y en sus respectivas
+subjetividades, pero también su lugar de encuentro y entendimiento mutuo.
+En línea con el documental performativo –que, a diferencia del documental
+tradicional, trasluce sus procesos de construcción y producción (Bruzzi
+186)– y en línea también con un acercamiento conversacional al documental
+–que, a diferencia del acercamiento observacional, privilegia las estrategias
+dialógicas (Navarro 76)– Tempestad en los Andes permite ver la edificación
+del entendimiento entre Josefin y Flor en tanto se desarrolla su relación. El
+final de la película expone una voluntad mutua de comprender y aceptar el
+dolor de la otra, en un contexto de violencia y postviolencia que ha marcado
+y sobrepasado las circunstancias de vida de ambas. Como se muestra a
+continuación, la última conversación del film está “teñida por la temática de
+la reconciliación y el reconocimiento del sufrimiento ajeno y de las culpas
+propias” (Malek 123):
+[Flor:] Yo he sido dura. No puedo negar mi dureza, de repente por
+la experiencia que uno tiene. Viniste a conocer la verdad, a saber
+qué es lo que verdaderamente pasó. Es valiente de tu parte querer
+conocer todo esto […].
+
+[Josefin:] Estar aquí significa mucho para mí. Yo he descubrido [sic]
+mucho de Perú, la guerra, lo que pasó en el campo con los campesinos,
+y es difícil comprender que Augusta era parte de esto también (94’55”).
+
+La impresión de afectividad lograda en este y otros momentos del documental
+se consigue gracias a un conjunto de estrategias representacionales como
+la música, los silencios, las fotos de infancia y juventud, la voz en off del
+personaje principal, entre otras. “La voz en off de Josefin da al espectador
+la impresión de escuchar un relato íntimo, casi epistolar o que se asemeja
+a la narrativa del ‘yo’” (Malke 146). Más aún, mediante la comunicación
+audiovisual, el documental nos muestra la emocionalidad de la protagonista
+como un leitmotiv, encarnada en su cuerpo, por un lado y, por otro lado, en
+su subjetividad. En el primer caso, de manera explícita, son constantes los
+primeros planos en los que aparece Josefin llorando (o intentando contener el
+llanto), gestionando su turbación, mostrando su consternación ante el testimonio
+de las víctimas o sobrepasada por la violencia sin límites de Sendero. En
+el segundo caso, de manera alegórica, la fotografía de la película pone en
+relación la dimensión emocional de las protagonistas con los paisajes que
+contemplan, algo que podría vincularse a la sensibilidad romántica.
+
+Primera escena de Tempestad en los Andes y a la derecha El caminante sobre un
+mar de nubes de Friedrich
+
+En efecto, como en la obra de Caspar David Friedrich, la pequeñez del ser
+humano frente a la inconmensurabilidad de la naturaleza se muestra en
+diversos planos del documental (algunos fotogramas aquí seleccionados). Este
+tipo de experiencia paisajística –experiencia de una naturaleza inabarcable,
+que cautiva y expele al mismo tiempo– es la depositaria de las emociones
+provocadas por la “tempestad” vivida en los Andes, también de una violencia
+inconmensurable para la protagonista, lejana y cercana al mismo tiempo.
+En este sentido, desde la estética romántica, la primera escena de la película
+mostrada arriba en dos fotogramas –la que podría llamarse “Una viajera
+sobre un mar de nubes” dada su cercanía visual y espiritual con la obra de
+Friedrich– nos transmite algo así como un temor abisal y tormentoso en
+Josefin, próxima a iniciar su proceso de búsqueda de la verdad 9.
+
+Protagonistas de Tempestad en los Andes contemplan el mar y, al centro, Atardecer
+con dos hombres de Friedrich
+
+Explica Hauser que “a los románticos no hay nada que se les ofrezca libre
+de conflicto. En todas sus manifestaciones se refleja la problemática de
+su situación histórica y el desgarramiento de sus sentimientos” (195). En
+este documental, al igual que en las pinturas de Friedrich que anteceden y
+suceden este párrafo, el plano del personaje dándole la espalda al espectador
+no tiene como único objetivo mostrar la vulnerabilidad del ser humano al
+entrar en contacto con una historia conflictiva que lo circunda. Es también
+una invitación –de Wiström, en este caso– a que miremos lo mismo que el
+sujeto está mirando. Al compartir el punto focal con la protagonista, nos
+vemos compelidos a compartir su subjetividad, a percibir con ella y a sentir
+con ella, como una forma de ofrecer nuestra empatía y comprensión.
+
+Mujer asomada a la ventana de Friedrich y Josefin asomada a la ventana
+
+	
+Para el título del documental, Tempestad en los Andes, vale la pena recordar –como
+dice Arnold Ruge– que “el romanticismo tiene sus raíces en el tormento del mundo” (Cit. en
+Hauser 189).
+
+Flor “sobre un mar de nubes”
+
+Respecto del documental como instancia posible para la reparación, coincido
+con Malek cuando dice que éste “acaba por matizar el protagonismo y la
+personalidad de Augusta La Torre, quien está presentada como una víctima más
+de Abimael Guzmán en ciertos momentos de la película” (123). En tal sentido,
+Josefin logra algún grado de “reivindicación” para su tía, al menos al aplacar
+en parte la construcción que comúnmente se hace de los senderistas como
+“monstruos” o “locos”; al humanizarla. Pero la gran reparación simbólica es
+definitivamente para Claudio y su familia. En el documental, y tal vez gracias
+a él, Claudio es oficialmente reconocido como víctima del conflicto armado
+interno, paso previo fundamental para acceder a la muy retrasada justicia
+transicional y a las reparaciones que le corresponden por tal categorización.
+El documental registra el momento exacto en el que la abogada de derechos
+humanos entrega a los padres de Claudio un “Certificado de Acreditación”,
+en el que puede leerse:
+El Consejo de Reparaciones certifica que: el ciudadano Claudio
+Gonzales Barbaran […] ha sido inscrito en el Libro Primero del
+Registro único de víctimas […]. Este documento le permite ejercer
+sus derechos como beneficiario del Plan Integral de Reparaciones
+[…]. De este modo, el Estado expresa respeto por la dignidad de la
+persona, reafirma los derechos del ciudadano y se conduele por la
+desprotección y los daños sufridos a raíz de los hechos de violencia
+(93’20”).
+
+De ser un presunto terrorista, Claudio pasa a ser una víctima más del terrorismo
+(de Estado, en este caso), recuperando su dignidad como persona, su condición
+de ciudadano y su derecho a la reparación. Al menos para Claudio, una sola
+muerte.
+
+5. Conclusiones
+Este artículo ha abordado la tarea de revisar de qué modo la literatura y otras
+producciones culturales como la audiovisual se hacen cargo de representar
+el incumplimiento por parte del Estado de sus compromisos de justicia
+transicional tras el periodo de violencia en el Perú. Al respecto, el artículo
+partió con una afirmación y una pregunta. La afirmación estaba referida a
+que, ante la ausencia de instancias oficiales de justicia y reparación, éstas
+toman vías privadas de llevarse a cabo y su manifestación adquiere diversas
+formas según el tipo de violencia de la que se trate. Esta afirmación permitió
+establecer una diferencia entre lo que aquí he llamado memorias sucedáneas,
+cuyos actos privados de reparación de la violencia subjetiva generan nuevos
+ciclos de violencia, y memorias restaurativas, cuyos actos privados de
+reparación de violencia simbólica, asumidos por sujetos cuyas experiencias
+de vida son cercanas al conflicto armado, se han enfocado en la restitución
+de los elementos de valor simbólico violentados.
+La pregunta era, entonces, ya directamente sobre las memorias restaurativas,
+si éstas, además de representar las formas privadas de reparar la violencia,
+podrían ser –de algún modo– efectivamente reparadoras. Al respecto, la
+justicia restaurativa ha permitido pensar los espacios narrativos como lugares
+de encuentro, empatía, comprensión y entendimiento. Pero, en la línea de
+la justicia restaurativa, para que la reparación o el acto simbólico de justicia
+rebase los límites narrativos, debiera verificarse que efectivamente el receptor
+de los textos ha contribuido con su parte, de modo de que se hayan producido
+los encuentros afectivos necesarios para el entendimiento.
+En cuanto a Tempestad en los Andes, no hay duda de que un acto de
+justicia y reparación se realizó gracias al documental. Más ampliamente, el
+propio Wiström ha declarado que “la reacción de la crítica y del público ha
+sido sorprendente en cuanto a la casi unanimidad de reacciones a favor de
+la película […]. Las reacciones del público también claramente nos ha[n]
+indicado el papel importante que una película tal como Tempestad en los Andes
+puede cumplir en todo el proceso nacional de búsqueda de verdad, justicia y
+reconciliación” (Cit. en Malek 173). Respecto de los dos textos, lo que sabemos
+es que la “recepción de ambos libros coincide en el tono celebratorio por la
+representación de voces que hasta el momento no habían sido consideradas
+en los discursos oficiales de la memoria, sobre el conflicto armado”, además
+de que ambos se benefician del auge de las escrituras del yo en el “mercado
+confesional” (Salazar 182). Asimismo, sabemos que los dos textos han tenido
+numerosas y favorables reseñas, reediciones, traducciones, y sus narradores
+han sido incluidos en otros documentales y han sido entrevistados en múltiples
+medios de prensa, escritos y audiovisuales.
+Es decir, en tanto memorias restaurativas, las narrativas para la reparación
+de la violencia simbólica se están tomando cada vez más la palabra y la
+imagen, y nos están interpelando para que observemos la violencia desde otras
+perspectivas, para horadar los sentidos comunes sobre los que se articula la
+violencia simbólica; y, eventualmente, para empezar a modificar los discursos
+y los universos de sentido en los que ésta se produce y reproduce. Gustavo
+Gorriti, periodista peruano que conversó con Josefin en Tempestad en los
+Andes, le decía a su interlocutora: “Estoy seguro [de] que a la gente le ha
+hecho bien hablar contigo” (26’30”). Tal vez esta percepción pueda ampliarse
+a otras narrativas y hacerse extensiva a otros receptores, de modo de reparar
+a los tres veces muertos en el Perú.
+No obstante, es necesario dejar una alerta puesta respecto de la búsqueda de
+empatía en la construcción de memorias, en tanto que las respuestas emotivas
+a la violencia, como bien señalan Denegri y Hibbett, no necesariamente
+promueven los cambios estructurales que la sociedad peruana precisa para
+que nunca más vuelva a repetirse una historia como la reciente.
