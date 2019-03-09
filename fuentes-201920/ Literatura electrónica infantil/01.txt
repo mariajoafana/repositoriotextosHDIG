@@ -1,0 +1,709 @@
+“COMO PODRÍAMOS PENSAR”
+Vannevar Bush
+Versión traducida y comentada por Juan Voutssás para sus cursos escolares. “Las notas y comentarios al
+texto en negritas han sido agregadas por el traductor”
+La presente no ha sido una guerra única y exclusiva de científicos. Ha sido una guerra en la que
+todos hemos desempeñado nuestro papel. Los científicos, haciendo a un lado su consabida
+competencia profesional en aras de una causa común, han compartido entre ellos enormemente y
+han aprendido más, de tal forma que el trabajo compartido ha resultado especialmente
+estimulante para todos. Sin embargo, en estos momentos en que parece que el fin de la guerra se
+aproxima, cabe hacernos la pregunta: ¿a qué se dedicarán los científicos a partir de ahora?
+Para los biólogos, y más particularmente, para los investigadores médicos, la incertidumbre próxima
+será más bien pequeña, pues la guerra apenas les obligó a abandonar sus senderos habituales. De
+hecho, muchos de ellos han podido continuar sus investigaciones en sus mismos familiares
+laboratorios en los que trabajaban en tiempos de paz, y sus objetivos continúan siendo los mismos que
+antes de la guerra.
+Han sido los físicos quienes se han visto apartados abruptamente de su camino habitual, quienes han
+debido abandonar sus investigaciones académicas para dedicarse a la construcción de dispositivos de
+destrucción, y han tenido que discernir nuevos métodos para llevar a cabo las imprevistas tareas que les
+han sido encomendadas. Ellos han desempeñado el papel que les correspondía en la fabricación de
+armas destinadas a derrotar al enemigo, y lo han hecho en estrecha colaboración con físicos
+procedentes de países aliados al nuestro en el conflicto y han sentido la satisfacción de hacerlo
+con éxito. En definitiva, todos los científicos han sido parte de un gran equipo. Pero ahora que la paz
+se aproxima, me pregunto si serán capaces de hallar nuevos horizontes que se encuentren a la altura de
+su categoría.
+¿Cuáles han sido los beneficios duraderos que la raza humana ha obtenido del uso de la ciencia y de
+los nuevos instrumentos que su investigación ha dado como fruto? En primer lugar, éstos han aumentado
+su control sobre su medio ambiente. Han mejorado su comida, su vestido y su refugio; han
+aumentado además su seguridad y lo han liberado, al menos parcialmente, de las ataduras de su
+existencia primitiva. Asimismo, le han proporcionado un creciente conocimiento de sus propios
+procesos biológicos, de modo que progresivamente lo han ido liberando de la enfermedad y han
+incrementado su esperanza de vida. Igualmente, han arrojado luz sobre las interacciones de sus
+funciones psíquicas y fisiológicas, ofreciéndole la promesa de una mayor salud mental.
+Este artículo, cuyo título original fue “As We May Think” fue publicado en julio de 1945 en “The Atlantic
+Monthly”, un mes antes de acabar la segunda guerra mundial, precedido de la siguiente nota del editor: «Como Director
+de la “Oficina para la Investigación y el Desarrollo Científico” del gobierno de los Estados Unidos, el doctor Vannevar Bush
+coordinó a unos seis mil de los más connotados científicos estadounidenses de la época en diversos proyectos
+destinados a aplicar la ciencia al esfuerzo bélico. En este significativo artículo Bush trata de buscar un incentivo para
+esos científicos toda vez que la guerra está a punto de terminar, exhortándolos a inclinar sus esfuerzos a la masiva tarea
+de hacer más accesible la apabullante reserva de conocimiento de la raza humana. Durante años, las invenciones de la
+humanidad han servido para aumentar el poder físico de las personas y no su poder mental. Así, los martillos neumáticos
+que multiplican la fuerza de sus puños; los microscopios que agudizan la visión y los artilugios de detección y
+destrucción constituyen los nuevos resultados, apero no los resultados finales de la ciencia. Ahora, afirma Vannevar
+Bush, tenemos en nuestro poder instrumentos que desarrollados de manera adecuada, pueden proporcionar al género
+humano el acceso y el control sobre el conocimiento que hemos heredado a lo largo de nuestras eras. El
+perfeccionamiento de estos instrumentos de paz deberá constituir el objetivo primordial de nuestros científicos ahora que
+van dejando atrás sus esfuerzos en el terreno bélico. De manera similar al trabajo que Emerson publicó en 1837 en “The
+American Scholar”, este artículo del doctor Vannevar Bush hace un llamado al establecimiento de una nueva relación
+entre el ser humano pensante y la suma de nuestro conocimiento».
+La ciencia ha proporcionado al ser humano las más veloces formas de comunicación entre
+individuos, le ha permitido el registro y almacenamiento de las ideas y le ha otorgado la
+capacidad de manipular este archivo y extraer de él lo necesario para que el conocimiento evolucione y
+perdure a lo largo de toda la existencia del género humano, y no sólo de la vida de sus individuos.
+Hay una enorme y siempre creciente montaña de investigaciones científicas, pero paradójicamente,
+cada vez está más claro que hoy en día nos estamos rezagando debido a nuestra creciente
+especialización. El investigador se encuentra abrumado por los hallazgos y conclusiones de miles de
+colegas, hasta el punto de no disponer de tiempo para revisar, y mucho menos recordar, sus diferentes
+conclusiones a medida que van viendo la luz. Sin embargo, podemos afirmar también que la
+especialización resulta cada vez más necesaria para el progreso y que como consecuencia, el esfuerzo
+de construir puentes entre las distintas disciplinas resulta por lo mismo cada vez más superficial.
+Profesionalmente, nuestros métodos para transmitir y revisar los resultados de las
+investigaciones tienen varias generaciones de antigüedad y hoy por hoy, han dejado de ser adecuados
+a la finalidad que persiguen. Si todo el tiempo acumulado para escribir obras científicas y el
+dedicado a leer aquellas que han escrito los demás pudiese ser cuantificado, la proporción entre
+ambos resultaría apabullante. Todo aquel que tenga como propósito mantenerse al día
+sobre el pensamiento actual por medio de la lectura continua y detallada, incluso
+restringiendo su interés a campos muy específicos del conocimiento, podría llegar a sentirse
+profundamente desencantado si se le demostrase, mediante examen de las fechas de los documentos,
+que parte del esfuerzo realizado durante los meses anteriores ya habría podido estar a su
+disposición con mucha anticipación. Sin ir más lejos, las leyes de la genética que Mendel
+formulara se perdieron durante toda una generación debido a que no llegaron a ser vistas por
+esos pocos científicos de la época capaces de comprenderlas y difundirlas; y este tipo de
+catástrofe continúa repitiéndose hoy en día entre nosotros, ya que logros verdaderamente
+significativos se pierden entre el conglomerado de lo inconsecuente y carente de interés.
+La dificultad parece residir no tanto en que cuanto publicamos resulta irrelevante con
+respecto a la amplitud y variedad de los intereses de hoy en día, sino en que las publicaciones
+han sobrepasado los límites de nuestra capacidad actual de hacer uso de la información que
+contienen. La suma de las experiencias del género humano está creciendo a una tasa
+prodigiosa, y los medios que utilizamos para orientarnos a través del laberinto de informaciones
+hasta llegar a lo que nos es relevante en cada momento son exactamente los mismos que se
+utilizaban en la época de los barcos de velas cuadradas.
+Sin embargo, existen signos de cambio en esta situación, en tanto vamos disponiendo de
+nuevas y poderosas herramientas. Células fotoeléctricas capaces de ver los objetos en un
+sentido físico, fotografía avanzada que puede registrar lo visible e incluso lo que no se ve,
+válvulas eléctricas o “bulbos” capaces de controlar potentes fuerzas por medio del uso de una
+potencia menor que la que un mosquito necesita para batir sus alas, tubos de rayos catódicos
+que vuelven visibles sucesos tan breves que, en comparación, un microsegundo es un largo lapso
+de tiempo, combinaciones de relevadores eléctricos que pueden llevar a cabo secuencias de
+movimientos con mayor confiabilidad y miles de veces más rápido que cualquier ser humano.
+Disponemos ya de un sinnúmero de ayudas de tipo mecánico por medio de las cuales podemos
+efectuar una transformación en los archivos científicos.
+Hace dos siglos, Leibniz concibió una máquina calculadora que ya contemplaba gran parte de las
+características de los recientes dispositivos basados en teclados, pero nunca pudo llevarse a la
+práctica. El entorno económico-tecnológico de su época se lo impedía; en efecto, el trabajo necesario
+para construir en aquella época, anterior a la de Ia producción en masa, un aparato como el que
+Leibniz concibió excedía con mucho el trabajo que tal dispositivo podría ahorrar, puesto que un uso
+amplio de papel y lápiz podría cumplir la misma misión que su invento. Además, la máquina que
+este científico hubiera podido construir en aquella época habría estado expuesta a frecuentes
+averías, por lo que no se hubiera podido depender de ella en absoluto. En aquella época, y
+durante mucho tiempo después, complejidad de un dispositivo y poca confiabilidad eran sinónimos.
+Babbage, contando incluso con un generoso patrocinio económico para su época, tampoco
+pudo llegar a realizar su gran máquina aritmética. Su idea era lo suficientemente sólida, pero el
+costo de construcción y el mantenimiento de un aparato como aquél resultaban enormes por
+entonces. Y es que aun en el supuesto caso de que un faraón del antiguo Egipto dispusiese de
+diseños altamente explícitos y muy detallados de un automóvil, y llegase a comprenderlos en su
+totalidad, habría debido comprometer todos los impuestos de su reino en la construcción de las
+miles de piezas que lo componen, y de todas formas el vehículo se habría estropeado en su
+primer viaje a Gizah.
+Hoy en día se pueden construir máquinas de piezas intercambiables con gran economía de
+esfuerzo. Por más complejo que sea su diseño, las máquinas actuales funcionan con enorme
+grado de confiabilidad. Como testigos están la humilde máquina de escribir, la cámara de cine o el
+automóvil. Los conmutadores eléctricos han dejado de pegarse cuando hemos llegado a comprenderlos
+por completo. Notemos al efecto la conmutación automática telefónica, que a pesar de sus cientos de
+miles de contactos, resulta altamente confiable. Una pequeña rejilla de metal encerrada al vacío en un
+delgado contenedor de cristal, con una pequeña luz brillante -la válvula de vació o “bulbo” que se utiliza en
+los aparatos de radio- se fabrica en la actualidad por cientos de millones de unidades, se distribuye
+por todo el mundo en paquetes y cuando se conecta al soporte adecuado, ¡funciona! La enorme
+cantidad de piezas que lo componen, así como el preciso posicionamiento y alineación necesarios
+durante el proceso de su construcción, habrían mantenido ocupado a un maestro artesano de las antiguos
+cofradías durante meses; y sin embargo hoy en día se fabrica por unos treinta centavos de dólar la pieza. El
+mundo ha entrado en una era de dispositivos complejos pero altamente confiables y económicos a la
+vez. Y algo se ha de derivar, necesariamente, de ello.
+2
+Para que el registro de algo resulte útil a la ciencia, ha de estar en continua ampliación, almacenado
+convenientemente en algún lugar y sobre todo, ha de poder ser consultado. En la actualidad,
+podemos efectuar registros gracias a la escritura y la fotografía y, en menor grado, a la
+impresión. Pero también nos auxiliamos de películas cinematográficas, de discos fonográficos y de
+bobinas magnéticas. Incluso, en el caso de no aparecer nuevos medios para confeccionar archivos, los ya
+existentes se encuentran sumidos en un continuo proceso de modificación y expansión.
+Ciertamente, el progreso en el campo de la fotografía no va a detenerse. Es ya inminente el
+advenimiento de nuevas lentes y materiales más rápidos, de cámaras más automáticas y de películas
+de grano más fino, que contribuirán a la expansión de la idea de la minicámara. Proyectemos a
+continuación esta tendencia en el futuro, hacia un escenario si no inevitable al menos lógico. La
+cámara fotográfica del futuro contendrá, en su parte frontal, un saliente de un tamaño ligeramente
+mayor al de una nuez. Tomará fotografías de tres milímetros cuadrados de superficie, que
+posteriormente deberán ser proyectadas o ampliadas, algo que no es más allá de diez veces más con
+respecto a lo que ya existe en la actualidad. Las lentes serán de foco infinito y funcionarán a
+cualquier distancia a la que se pueda acomodar el ojo humano sin ayuda alguna debido,
+simplemente, a su corta distancia focal. La cámara fotográfica dispondrá asimismo, de una célula
+fotoeléctrica en la ya mencionada protuberancia, similar a la que ya posee al menos una de las
+cámaras existentes en la actualidad. Esta célula fotoeléctrica tendría como misión ajustar amplia y
+automáticamente el tiempo de exposición según los niveles de iluminación. El rollo fotográfico tendrá
+capacidad para unas cien exposiciones, y el resorte que acciona el disparador y corre la película en el
+interior de la cámara quedaría correctamente situado al momento mismo de introducir la película.
+Ésta producirá sus imágenes, sin duda alguna, en color, y es posible que la cámara incluso sea
+estereoscópica, de modo que registre las imágenes por medio de dos lentes separadas entre sí
+como dos ojos de cristal, pues no debemos olvidar que las mejoras en las técnicas
+estereoscópicas están a la vuelta de la esquina. (en efecto, la segunda gran era de la fotografía
+estereoscópica fue de 1945-1960)
+El cable que acciona el obturador de la cámara podría descender a través de la manga del
+operador y llegar hasta sus dedos, de modo que bastaría una ligera presión para tomar la fotografa. Uno
+de los cristales de un par de anteojos comunes podría tener grabado en su parte superior, para que no
+estorbe la visión, un pequeño cuadrado de mira. Cuando un objeto apareciese dentro de sus límites, se
+encontraría convenientemente encuadrado para ser fotografiado. De esta forma, el científico del futuro
+se movería libremente por su laboratorio o por el campo objeto de su estudio y, cada vez que encontrara
+algo digno de retratar, podría oprimir el disparador de su minicámara para fotografiarlo sin apenas un
+audible «click». ¿Suena a fantasía? Pues lo único de fantástico que hay en todo ello es la idea de poder
+tomar tantas fotografías como pudiera resultar útil.
+¿Habrá realmente una fotografía en seco? En la actualidad, este tipo de fotografía se da en
+dos formas. Cuando Brady llevó a cabo sus fotografías de la Guerra Civil estadounidense, la placa
+fotográfica de colodión debía estar húmeda en el momento de la exposición. Actualmente, es necesario que
+esté húmeda durante su revelado. Sin embargo es posible que, en el futuro, no tenga por qué estar
+húmeda en absoluto. Existen desde hace ya algún tiempo películas fotográficas que, impregnadas con
+una emulsión diazoica, no necesitan ser sometidas al proceso del revelado, por lo que la imagen es
+ya visible instantes después de accionarse el disparador de la cámara. (este primer tipo de fotografía
+seca, como puede verse, es la actual técnica de fotografía “polaroid”). Una exposición al vapor de
+amoníaco destruye la emulsión que no ha sido expuesta y permite que la película recién
+sensibilizada pueda observarse aún a la luz del día. En la actualidad este proceso es algo lento, pero
+alguien conseguirá acelerarlo en el futuro ya que con el tamaño del grano de la película no se preven
+problemas que puedan entretener demasiado a los científicos encargados de la investigación en
+materiales fotográficos. Seguramente en muchas ocasiones resultará de gran utilidad el poder disparar
+el obturador de la cámara y ver la fotografía inmediatamente después.
+Otro proceso de fotografía en seco en uso hoy en día es también lento y algo torpe. Desde hace ya
+cincuenta años, algunos papeles impregnados con ciertas sustancias químicas se oscurecen en los
+puntos en los que un flujo eléctrostático los toca. Este cambio en el color del papel se consigue por la
+transformación química que el campo eléctrico produce sobre una sustancia derivada del iodo
+contenida en la emulsión. Por ello, se ha utilizado para elaborar páginas o registros: un apuntador
+que se mueva por toda la superficie del papel puede producir trazos en ella y si el potencial eléctrico
+no se mantiene continuo en el tiempo, la línea puede aumentar o disminuir de grosor de acuerdo con sus
+variaciones.
+Este esquema de elaboración de registros gráficos se utiliza en la actualidad para la transmisión de
+facsímiles. El apuntador dibuja sobre la superficie del papel una serie de líneas con mínimos
+espacios entre una y otra. A medida que se mueve, el potencial eléctrico del apuntador va variando de
+acuerdo a las variaciones de la corriente que, a través de alambres, va recibiendo de la estación
+emisora remota que, a su vez, ha ido convirtiendo en impulsos eléctricos las lecturas de una célula
+fotoeléctrica dedicada a explorar el documento original. En cada instante del proceso, el tono de la
+línea dibujada en el papel del aparato receptor es idéntico al del punto de la imagen que la célula
+fotoeléctrica está leyendo en el documento del aparato emisor. Por tanto, cuando el documento
+original se haya explorado en toda su extensión, se habrá creado en un lugar remoto una
+copia idéntica a él. (esta “segunda técnica” de fotografía en seco mencionada por Bush
+dió origen a dos tecnologías: la del fax y la de la fotocopia)
+Siguiendo este esquema, una célula fotoeléctrica podría observar, línea a línea, una escena real
+análogamente a como lo hace una cámara fotográfica. Este aparato se podría considerar, en realidad,
+como una cámara fotográfica con la característica añadida, si se desea, de poder tomar fotografías a
+una gran distancia. El proceso es lento y la imagen pobre en detalles, pero constituye otra forma de
+fotografía en seco en la que la fotografía está lista en el instante mismo de ser tomada.
+Sería alguien muy osado el que se atreviese a vaticinar que este proceso continuará siendo torpe, lento y
+pobre en detalles en el futuro,. No hay más que pensar que en la actualidad, los equipos de televisión
+transmiten ya dieciséis imágenes por segundo a una calidad razonable. Y este proceso se diferencia
+del mencionado con anterioridad sólo en dos puntos fundamentales: en primer lugar, el registro
+de la imagen se lleva a cabo por medio de un rayo de electrones en movimiento en lugar de
+utilizar un apuntador, por la sencilla razón de que un rayo de electrones puede recorrer la imagen
+a una velocidad mucho mayor que un apuntador. La otra diferencia consiste en que se utiliza una
+pantalla en la que cada punto brilla momentáneamente cuando los electrones lo alcanzan, en
+lugar de un papel tratado o de una película fotográfica cuya superficie queda alterada de manera
+permanente. La velocidad es necesaria en el caso de la televisión, puesto que su finalidad es la de
+transmitir imágenes en movimiento y no estáticas.
+Si se utilizase una película fotográfica tratada en lugar de una pantalla brillante y se
+permitiese al aparato descrito previamente transmitir una imagen aislada en lugar de una
+sucesión de imágenes, obtendríamos como resultado una cámara rápida para fotografía en
+seco. Sería necesario que la película tratada fuese más rápida en su acción que los ejemplos
+presentes, pero es posible que llegue a serlo. La objeción más seria, sin embargo, es que este
+esquema conllevaría el tener que colocar la película en un ambiente al vacío, puesto que el haz
+de electrones se comporta normalmente únicamente en un entorno enrarecido. Esta dificultad
+podría superarse permitiendo al haz de electrones actuar en uno solo de los compartimentos de
+una partición y situando a presión la película en el otro, siempre y cuando esta partición
+permitiese que los electrones se moviesen perpendicularmente a su superficie evitando que
+éstos se esparciesen hacia los lados. Estas particiones ya son susceptibles de ser construidas
+en la actualidad, si bien es cierto que de una manera algo tosca, y es muy poco probable que
+ello limite el desarrollo general de la técnica.
+Al igual que la fotografía seca, la microfotografía aún tiene un largo camino que recorrer. El concepto
+básico de reducir el tamaño de un archivo, para examinarlo posteriormente mediante proyección en
+vez de la simple vista, augura posibilidades demasiado amplias como para ser ignoradas. La
+combinación de proyección óptica y reducción fotográfica está produciendo ya algunos resultados en
+el terreno de los microfilms para fines educativos, y su potencial es altamente sugerente. Hoy en
+día, con el microfilm se pueden emplear reducciones a razón de uno a veinte sin que ello afecte a
+la claridad de la imagen cuando el material se amplía de nuevo para examinarlo. Los límites
+vienen impuestos por el grano de la película, la calidad del sistema óptico y la eficiencia de las fuentes
+de luz utilizadas. Y todos estos factores están mejorando con gran rapidez.
+Asumamos que es posible alcanzar en el futuro una razón de uno a cien e imaginemos
+también una película fotográfica del espesor del papel, aunque podría llegar a usarse otra
+aun más fina. Bajo tales condiciones, se daría un factor de reducción de diez mil a uno entre el
+volumen de un archivo ordinario en forma de libro y su réplica en microfilm. Toda la Enciclopedia
+Británica cabría así en el interior de una caja de cerillos, y una biblioteca de un millón de
+volúmenes podría caber en una esquina de nuestro escritorio. Si, desde la invención de los tipos
+de imprenta móviles, la raza humana ha producido un archivo total, en forma de revistas,
+periódicos, libros, octavillas, folletos publicitarios y correspondencia equivalente a mil millones
+de libros, todo esa ingente cantidad de material, microfilmado, podría acarrearse en una
+camioneta. Por supuesto, la mera compresión no resultaría suficiente; no necesitamos únicamente
+construir y almacenar un archivo, sino también ser capaces de consultarlo, y este aspecto de la
+cuestión será tratado después. Incluso las más grandes bibliotecas modernas no son
+consultadas por todos: sólo unos pocos se aventuran realmente dentro de ella.
+La compresión, sin embargo, resulta de gran importancia cuando entramos a la cuestión de los
+costos. El material para microfilmar la Enciclopedia Británica costaría unos cinco centavos de
+dólar y podría ser enviado por correo por otro centavo. ¿Cuánto costaría imprimir un millón de
+copias? Si tomamos en cuenta que imprimir una sola página de un diario en una prensa rotativa y
+masivamente, cuesta una pequeña fracción de un centavo de dólar, y que todo el material contenido en la
+Enciclopedia Británica podría caber en una hoja de película tamaño carta, con las técnicas de reproducción
+fotográfica del futuro los duplicados en grandes cantidades podrían tener un coste aproximado de
+un centavo de dólar por unidad, dejando los costes de material aparte. ¿Y la preparación de la copia
+original? Esta pregunta nos conduce hasta el siguiente aspecto de nuestra cuestión.
+3
+En la actualidad, para introducir un registro en el archivo utilizamos el método de ejercer presión con un
+lápiz sobre un papel o el de pulsar las teclas de una máquina de escribir. A continuación sigue el
+proceso de compilación y corrección, seguido de un intrincado proceso de composición tipográfica,
+impresión y distribución. Con respecto a la primera etapa del proceso, podemos preguntarnos: ¿dejará
+el autor del futuro de escribir a mano o a máquina para «hablar» directamente con el archivo?. Ya lo
+puede hacer hoy de manera indirecta, hablando a una estenógrafa o a un cilindro de cera o cerámica,
+pero ya existen todos los elementos para, si así lo desea, conseguir que sus palabras habladas den como
+resultado directo un archivo mecanografiado. Todo lo que necesita es utilizar los mecanismos ya existentes
+y alterar su lenguaje.
+En una reciente Exposición Universal, se exhibía una máquina denominada Voder. Una joven
+oprimía las teclas del aparato, y éste emitía un habla audible y reconocible. En ninguna parte del
+proceso entraban en función cuerdas vocales humanas, pues las teclas simplemente procedían a
+combinar vibraciones de origen eléctrico, las que pasaban posteriormente a una bocina. En los
+Laboratorios Bell se encuentra la máquina opuesta al Voder, denominada Vocoder, en la que la
+bocina se sustituye por un micrófono para capturar el sonido. Al hablar a través del micrófono, se puede
+observar cómo se mueven las correspondientes teclas, produciendo texto. Este podría ser entonces uno
+de los elementos del sistema que estamos visualizando en este documento.
+El otro elemento se observa en las máquinas estenográficas o taquígrafos, ese algo
+desconcertante aparato que encontramos usualmente en juntas o reuniones públicas en los cuales
+una señorita oprime lánguidamente las teclas mirando hacia la sala o hacia alguno de los oradores
+con un aire inquietante. Mientras, del estenógrafo surge una larga tira de papel que registra, en un
+lenguaje fonético simplificado, todo lo que se supone que el orador ha dicho durante su intervención. Esta
+larga tira de información será, posteriormente, reescrita en lenguaje ordinario, ya que en su forma
+original resulta ininteligible para los no iniciados. Combinemos los dos anteriores elementos, haciendo
+que sea el Vocoder el que opere el estenógrafo, y obtendremos como resultado una máquina capaz de
+escribir a medida que se habla.
+Es cierto que nuestros lenguajes actuales no están especialmente adaptados a este tipo de
+mecanización. Resulta extraño que los inventores de lenguajes universales no hayan concebido la
+idea de crear un lenguaje que se adapte mejor a la transmisión y la grabación del habla. No obstante,
+la mecanización podría forzar su creación, en especial en el terreno de los estudios científicos, con lo cual
+la jerga científica se convertiría en algo aún menos inteligible para el profano en la materia.
+Podemos hacernos ya una imagen mental del investigador del futuro trabajando en su laboratorio.
+Sus manos están libres, y no está atado a un punto concreto del lugar de modo que, a medida que
+se mueve por su lugar de trabajo y lleva a cabo sus observaciones, va tornando fotografías y
+realizando comentarios. La hora queda automáticamente grabada en ambos tipos de registro, para
+que exista un vínculo entre ellos. Si el científico va a trabajar al campo, puede mantenerse conectado a
+su grabadora por medio de una radio. Con todo ello, por la tarde al revisar sus notas, la grabadora
+registrará también sus comentarios para añadirlos al archivo del proyecto. Tal archivo, junto con
+todas las fotografías tomadas a lo largo de la investigación, podrían ser miniaturizados para ser
+examinados posteriormente mediante proyección.
+De cualquier forma, muchas cosas deben ocurrir durante las investigaciones aparte de los
+procesos de recolección de datos y observaciones, la búsqueda de material de archivo y la inserción
+final del nuevo material en el cuerpo general del archivo común. Ciertamente, no existe ningún
+sustituto mecánico para el pensamiento maduro; el pensamiento creativo y el pensamiento repetitivo
+esencial son muy diferentes, y para éste último ya existen, y podrán existir en el futuro, poderosas
+ayudas mecánicas.
+Sumar una columna de cifras constituye un proceso ligado al pensamiento repetitivo, y hace ya
+buen tiempo que la tarea ha sido delegada a máquinas. Es cierto que la máquina está controlada a
+veces por un teclado, y resulta necesario un cierto tipo de pensamiento para leer las cifras y oprimir
+las correspondientes teclas, pero incluso podría prescindirse de esta tarea, pues ya se han
+construido máquinas capaces de leer, mediante células fotoeléctricas, series de cifras impresas y
+como consecuencia, accionan alguna tecla. En estas máquinas se combina la acción de las celdas
+fotoeléctricas que escanden el texto impreso, la acción de circuitos eléctricos que clasifican las
+variaciones eléctricas resultantes, y la acción de circuitos de relevadores que interpretan el resultado
+para que la acción de los solenoides presione la tecla correspondiente al guarismo leído.
+Todas estas complicaciones resultan necesarias debido a la torpe forma en que hemos aprendido
+a escribir cifras. Si las registrásemos de manera posicional, simplemente mediante la disposición de
+un conjunto de puntos en una tarjeta, los mecanismos automáticos de lectura resultarían
+comparativamente más sencillos. De hecho, si los puntos fuesen agujeros, podríamos utilizar las
+máquinas a base de tarjetas perforadas que Hollerith creó como ayuda para el recuento del censo de
+los Estados Unidos y cuyo uso se encuentra muy extendido hoy en día en el ámbito comercial, hasta
+el punto de que algunos negocios difícilmente podrían operar sin tales máquinas.
+La suma es tan sólo un tipo de operación. Pero el cálculo aritmético conlleva otras operaciones,
+como la resta, la multiplicación y la división, además de algún método para almacenar temporalmente
+los resultados, para removerlos del almacenamiento con el fin de utilizarlos posteriormente y para
+presentar los resultados finales en forma impresa. Actualmente, las máquinas que cumplen tal
+finalidad son de dos tipos: máquinas con teclado para contabilidad y trabajos afines, en las que se
+controla manualmente la introducción de datos y automáticamente su funcionamiento y secuencia de
+operaciones; y máquinas basadas en tarjetas perforadas en las que las distintas operaciones son
+encomendadas a una serie de máquinas diferentes entre las cuales hay intercambio físico de las
+tarjetas. Ambos tipos resultan de gran utilidad, pero si tenemos en cuenta la necesidad de llevar a
+cabo procesos computacionales realmente complejos, hemos de reconocer que ambos se
+encuentran aún en una fase puramente embrionaria. (en efecto, en la fecha que se escribe el
+artículo, sólo existía una computadora experimental, la “Eniac I”, la cual sólo se usaba para
+cálculo de trayectorias balísticas).
+El conteo eléctrico rápido apareció poco después de que los científicos comenzasen a establecer
+la necesidad de contar los rayos cósmicos. Para este propósito, los propios físicos construyeron
+aparatos de válvulas termoiónicas o “bulbos” capaces de contar los impulsos eléctricos a una tasa de
+100,000 por segundo. Las máquinas aritméticas avanzadas del futuro serán de naturaleza eléctrica y
+funcionarán a una velocidad unas 100 veces superior a las de hoy, o quizá aún mayor. (aquí Bush se
+quedó corto. Las máquinas actuales trabajan 40,000 veces más rápido que aquellas en lo que
+respecta a ciclos por segundo).
+Además, serán mucho más versátiles que las máquinas comerciales de hoy en día, por lo que
+podrían ser adaptadas para realizar una amplia variedad de operaciones. Estarán controladas por
+tarjetas o películas, seleccionarán sus propios datos y los manipularán según las instrucciones que les
+hayan sido insertadas, llevarán a cabo complejos cálculos aritméticos a altas velocidades y
+registrarán los resultados de tal forma que resulten fácilmente accesibles para distribución o para una
+posterior manipulación. Tales máquinas tendrán un apetito insaciable: una sola de ellas devorará todas
+las instrucciones y datos provenientes de toda una sala llena de capturistas con teclados, y producirá
+cada pocos minutos hojas y hojas de resultados impresos. Siempre habrá abundancia de cosas que
+calcular en los detallados asuntos de millones de personas haciendo tareas complicadas.
+4
+De cualquier forma, los procesos repetitivos del pensamiento no se encuentran confinados a asuntos
+meramente aritméticos o estadísticos. De hecho, cada vez que combinamos y registramos hechos en
+concordancia con ciertos procesos lógicos establecidos, el aspecto creativo del pensamiento se
+relaciona únicamente con la selección de datos y el proceso a emplear para manejarlos; por ende la
+manipulación posterior es de naturaleza repetitiva y susceptible por ello de ser delegada a una
+máquina. No se ha logrado mucho que digamos en este terreno como podría haberse hecho, más
+allá de los límites de la aritmética, debido fundamentalmente al entorno económico. Las necesidades de
+las empresas y el extenso mercado que las esperaba aseguraron el advenimiento de máquinas
+aritméticas fabricadas en serie en cuanto los métodos de producción resultaron lo suficientemente
+avanzados para ello.
+Con las máquinas para el análisis avanzado no ha ocurrido algo similar. Para ellas no ha
+existido ni existe un amplio mercado puesto que los usuarios de métodos de manipulación de datos
+constituyen tan sólo una pequeña fracción de la población. Sin embargo, ya existen máquinas
+capaces de resolver ecuaciones diferenciales, así como ecuaciones funcionales e integrales. Ya hay
+también numerosas máquinas especializadas, como el sintetizador armónico que predice las mareas.
+En el futuro habrá muchas otras más que aparecerán primero en manos de los científicos en
+cantidades pequeñas.
+Si el razonamiento científico se limitase a los procesos lógicos de la aritmética, no llegaríamos muy
+lejos en nuestro conocimiento del mundo físico. Si eso fuese posible, podríamos intentar dominar el juego
+del póker utilizando solamente la matemática de la probabilidad. Como ejemplo tenemos al ábaco, con
+sus cuentas incrustadas en alambres paralelos, el cual permitió a los árabes formular la
+numeración posicional y el concepto del cero muchos siglos antes que al resto del mundo, y se
+convirtió en una herramienta muy útil, tanto, que hasta el día de hoy se sigue utilizando.
+Hay un largo camino entre el ábaco y la moderna máquina calculadora con teclado, el mismo largo
+camino que entre ésta y las máquinas aritméticas del futuro. Pero ni siquiera estas nuevas máquinas
+conducirán al científico al punto al que necesita llegar. Ciertamente, se deberá asegurar la
+delegación en las máquinas del arduo trabajo que requiere la compleja y detallada manipulación
+matemática de los datos, si deseamos que el cerebro de esos científicos quede libre para canalizarlo a
+tareas mucho más importantes que la mera transformación repetitiva de los datos según reglas
+preestablecidas. Un matemático no es tan sólo una persona capaz de manipular eficientemente cifras; de
+hecho, con frecuencia no lo hace bien. Por lo general no es tampoco la persona que lleva a cabo rápidas
+transformaciones de ecuaciones utilizando el cálculo. El matemático es, esencialmente, una
+persona avezada en el uso de la lógica simbólica a un nivel muy alto y, en especial, alguien que posee un
+juicio intuitivo para la elección de los procesos de manipulación de datos a emplear.
+Este matemático debería poder delegar todo lo demás a sus máquinas aritméticas con la misma
+confianza con la que delega la propulsión de su auto al motor. Sólo entonces serán efectivas las
+matemáticas en la aplicación del creciente conocimiento de la física atómica a la solución de avanzados
+problemas provenientes de los campos de la química, la metalurgia o la biología. Por esta razón, aún
+estamos por ver llegar máquinas que permitan a los científicos manejar problemas matemáticos
+avanzados. Algunas de tales máquinas serán lo suficientemente sofisticadas como para satisfacer al
+más exigente conocedor de los actuales artilugios de nuestra civilización.
+5
+El científico, de cualquier forma, no es la única persona que manipula datos y examina el mundo que
+le rodea utilizando procesos lógicos, si bien es cierto que en ocasiones preserva esta apariencia
+acogiendo bajo este término a cualquier persona que parezca lógica, de forma muy similar a aquella en
+la que un líder sindical británico puede ser elevado a la categoría de caballero. Siempre que un proceso
+lógico de pensamiento pueda ser empleado -es decir, siempre que los pensamientos para esa
+ocasión vayan por un camino aceptado y preestablecido, existe una oportunidad para la máquina-.
+La lógica formal solía ser un instrumento recurrente en manos del profesor que intentaba elevar las
+almas de sus alumnos. En la actualidad, resulta posible construir una máquina capaz de manipular
+premisas preestablecidas según una lógica formal mediante el uso, sencillamente, de circuitos de
+relevadores. Al introducir en tal dispositivo un conjunto de premisas y girar una manivela, éste puede
+ir obteniendo rápidamente una conclusión tras otra. Todas ellas estarán de acuerdo con la ley de la
+lógica, sin más errores de los que se podrían dar en una típica máquina calculadora de teclado.
+La lógica puede convertirse en algo altamente engorroso, por lo que sin duda sería conveniente
+aumentar el nivel de seguridad en su uso. Las máquinas para el análisis de alto nivel han sido,
+generalmente, aquellas capaces de resolver ecuaciones. Ya han comenzado a aparecer ideas para la
+creación de máquinas capaces de transformar ecuaciones y por tanto capaces de reorganizar la relación
+expresada por una ecuación según una lógica estricta y bastante avanzada. El progreso se ha visto
+inhiibido por la excesivamente burda manera en que los matemáticos expresan tales
+relaciones, puesto que emplean un simbolismo que surgió como de cabeza y que resulta muy poco
+coherente, algo verdaderamente extraño en un campo generalmente más lógico.
+Un nuevo simbolismo, probablemente posicional, debe preceder, aparentemente, a la reducción
+de las transformaciones matemáticas a procesos mecánicos. Solamente así, la aplicación de la lógica a
+los asuntos cotidianos irá más allá de la estricta lógica de los matemáticos. En el futuro podríamos
+extraer argumentaciones de una máquina con la misma facilidad con la que hoy en día introducimos
+ventas en una caja registradora. Si bien, esa máquina de lógica no se parecería a las cajas
+registradoras de hoy en día, ni siquiera a los modelos más estilizados
+Y lo mismo ocurre con la manipulación de las ideas y su inserción en un archivo. En este aspecto,
+podemos afirmar que las cosas van de mal en peor con el tiempo, pues somos capaces de
+continuar ampliando indefinidamente la extensión del archivo, pero no nuestra capacidad de
+consultarlo. Este es un aspecto que va mucho más allá de la simple extracción de datos para la
+investigación científica; tiene que ver con la manera en la cual el ser humano saca beneficio de su
+herencia de conocimientos adquiridos. La acción primaria más relevante es la selección, y por ello la
+analizaremos con un poco más detalle. Podríamos tomar en consideración millones de pensamientos
+de gran valor y la suma de experiencias en que se basan, y juntar todo ello dentro de cuatro
+paredes de forma arquitectónica aceptable, pero si el erudito, tras una empeñosa búsqueda, sólo
+pudiese acceder a uno de ellos por semana, lo más probable sería que sus síntesis no estuviesen
+a la altura de las exigencias de su época.
+La selección, en su sentido más amplio, es como un hacha de piedra en manos de un ebanista. Sin
+embargo, en un sentido estricto y en otras áreas, se han llevado a cabo logros a este respecto. Así, el
+personal administrativo de una empresa dada puede insertar en el interior de una máquina
+seleccionadora varios miles de tarjetas perforadas conteniendo datos de los empleados, y al
+establecer un código de selección según una convención preestablecida, tras un breve período, puede
+recibir una lista de todos los empleados que, por ejemplo, viven en Trenton y hablan español. Pero aún
+estos dispositivos pueden resultar lentos cuando se tratase, por ejemplo, de hacer coincidir unas huellas
+dactilares específicas con su equivalente dentro de un archivo de cinco millones. Pronto veremos
+cómo estos dispositivos de selección verán aumentada su velocidad de revisión de datos, que en la
+actualidad es de unos pocos cientos por minuto. Con el uso de microfilms y células fotoeléctricas, esta
+velocidad llegará a alcanzar las mil comprobaciones por segundo, obteniendo también una copia impresa
+de los elementos seleccionados.
+Este proceso, no obstante, es una selección simple: se realiza examinando un registro a la vez
+dentro de los elementos de una amplia colección seleccionando aquellos que cumplen ciertas
+características preestablecidas. Existe una forma de selección que puede quedar mejor ilustrada por el
+ejemplo del sistema telefónico de conmutación automática. Cuando uno marca un número telefónico, la
+máquina selecciona uno de entre un millón de posibles números de destino. Pero no lo hace
+recorriendo todas y cada una de las posibles combinaciones sino que presta atención únicamente
+a la clase definida por el primer dígito del número marcado; luego pasa a la subclase definida
+por el segundo dígito, y así sucesivamente hasta conectar con el receptor marcado. Este proceso
+dura unos pocos segundos, aunque podría ser acelerado si hubiese razones económicas que así lo
+requirieran. Si esto fuese así, se podrían sustituir los conmutadores mecánicos por
+conmutadores basados en válvulas termoiónicas o bulbos, de modo que el proceso total de selección
+podría llevarse a cabo en tan sólo una centésima de segundo. Esto es técnicamente posible, aunque
+nadie querría gastar la cantidad de dinero que esta sustitución de conmutadores requeriría, y la idea
+es aplicable a cualquier otro terreno.
+Tomemos, por ejemplo, el prosaico caso de una gran tienda departamental. Cada vez que se realiza una
+compra con cargo a la cuenta del cliente, debe desencadenarse una serie de eventos. Así, el inventario
+ha de ser revisado y actualizado, debe anotársele la venta al vendedor, la contabilidad general de la
+empresa debe recibir el asiento correspondiente y, lo más importante de todo, ha de cargarse su importe al
+cliente. Hemos ideado un dispositivo centralizado por medio del cual se puede llevar a cabo gran
+parte de estas tareas, y que funciona del siguiente modo: el vendedor coloca en un lugar adecuado del
+sistema la tarjeta de identificación del cliente, su propia tarjeta de identificación y la tarjeta de
+identificación del artículo objeto de la venta, todas ellas convenientemente perforadas. Cuando se
+acciona una palanca, tienen lugar una serie de contactos eléctricos gracias a los agujeros de las tarjetas
+por medio de los que se indica a la máquina central el tipo de operaciones a realizarse, tras lo cual se
+imprime un recibo que el vendedor debe entregar al cliente.
+Pero es posible que existan diez mil clientes con cuenta abierta en esa tienda, por lo que,
+para que toda la operación pueda tener lugar, es necesario que alguien de la oficina central seleccione
+la tarjeta perforada apropiada y la introduzca en el lugar adecuado. Ahí es donde entraría en juego un
+sistema de selección rápida que, en un abrir y cerrar de ojos, sitúe esa tarjeta apropiada en el lugar
+adecuado y la devuelva, tras la venta, a su lugar de origen. Tenemos otra dificultad: alguien debe leer
+el total que aparece en la tarjeta, de modo que la máquina pueda añadir a éste el precio del
+artículo recién comprado. Para ello, podemos asumir la posibilidad de que las tarjetas estuviesen cubiertas
+de película fotográfica seca, del tipo que ya he descrito previamente, de modo que el total pueda ser leído
+por una célula fotoeléctrica y actualizado mediante un haz de electrones.
+Las tarjetas podrían estar miniaturizadas y ocupar en consecuencia muy poco espacio.
+También deben poder trasladarse a gran velocidad, aunque no parecería necesario que recorriesen
+grandes distancias; únicamente aquella que separa su lugar de almacenamiento del lugar en que
+pueden ser leídas por la célula fotoeléctrica y actualizadas por el dispositivo de registro de datos, los
+cuales estarán basados en puntos bajo notación posicional. Al final del mes, una máquina creada al
+efecto leería las tarjetas e imprimiría una factura a nombre de cada uno de los clientes. Mediante el
+uso de válvulas e vacío (bulbos) en vez de piezas mecánicas durante el proceso de conmutación, se
+necesitaría muy poco tiempo, -no más de un segundo- para utilizar cada tarjeta en particular. Si
+se desease, todo el registro de datos sobre la superficie de ésta podría llevarse a cabo por medio de
+puntos magnéticos sobre una placa de acero, en lugar de puntos que han de ser observados
+ópticamente, siguiendo el esquema bajo el que Poulsen registró el habla en un alambre magnetizado.
+Este método tiene como ventajas la simplicidad y la facilidad de borrado. Utilizando la fotografía, sin
+embargo, se podría conseguir proyectar una ampiación del resultado a distancia, por medio de procesos
+ya comunes utilizados en el terreno de las transmisiones televisivas. (la técnica descrita aquí de
+registro de puntos magnéticos, dará origen después al almacenamiento magnético en discos
+duros y flexibles, etcétera.)
+Se puede considerar tambiénesta forma de selección rápida y proyección a distancia para otros
+fines. El ser capaces de seleccionar una tarjeta de entre un millón y situarla frente a un operador en
+sólo un par de segundos, con la posibilidad de añadirle otras anotaciones, resulta muy sugerente.
+Podría resultar de utilidad, por ejemplo, en las bibliotecas, pero eso es otra historia. Lo importante
+no es la velocidad exacta, sino el hecho de que se pueden crear combinaciones entre unos elementos
+tecnológicos y otros. Por ejemplo, se podría hablar ante un micrófono -de la forma que he
+descrito más arriba cuando describí la máquina de escribir controlada por la voz- para activar la
+selección de tarjetas a una velocidad imposible de alcanzar por ningún catálogo. (esta es una
+interesante visión de un catálogo automatizado NO basado en una computadora, sino en una
+seleccionadora de tarjetas)
+6
+El verdadero núcleo del asunto de la selección, no obstante, va más allá de un rezago en la
+adopción de mecanismos por parte de las bibliotecas, o de la falta de desarrollo de dispositivos para
+su utilización dentro de ellas. Nuestra ineptitud a la hora de acceder a los registros de un archivo
+reside mayormente en la artificialidad de los sistemas de indización. Cuando se almacenan datos de
+cualquier tipo, se archivan en orden alfabético o numérico, y la información localiza (cuando se logra)
+siguiéndole la pista descendiendo a través de clases y subclases. Como la información se encuentra en
+un único sitio, a menos que se utilicen duplicados de ella, debe disponerse de ciertas reglas para localizarla
+a través de una ruta; reglas que por cierto resultan ineficientes y engorrosas. Además, una vez
+que se encuentra uno de los elementos buscados, se debe salir del sistema hasta el primer nivel y
+seguir una nueva ruta para buscar otro elemento.
+La mente humana no funciona de esa manera; ella opera por medio de la asociación.
+Cuando tiene un elemento a su alcance, salta instantáneamente al siguiente que es sugerido por
+la asociación de pensamientos, de acuerdo a una intrincada red de senderos de información que
+poseen las células del cerebro. Obviamente, no es su única características los senderos de
+información que no se transitan con frecuencia tienden a desvanecerse: los elementos no son
+del todo permanentes. La memoria, ciertamente, es transitoria. Y sin embargo, la velocidad de
+la acción, lo intrincado de los senderos y la riqueza de detalle en las imágenes mentales nos
+maravillan mucho más que cualquier otra cosa en la naturaleza.
+El ser humano simplemente no puede albergar la esperanza de replicar cabalmente este
+proceso mental artificialmente, pero sí debería ser capaz de aprender de él e, incluso, mejorarlo
+en algunos pequeños detalles, puesto que los archivos construidos por él tienen un carácter más
+permanente. No obstante, la primera idea que se puede extraer de esta analogía tiene que ver
+con la selección, puesto que la selección por asociación, y no por indización, puede ser mecanizada.
+Ciertamente, no podemos esperar que la velocidad flexibilidad con que la mente sigue un sendero
+asociativo pueda ser igualada, pero sí puede superarse de manera decisiva, en cuanto a la
+permanencia y claridad de los elementos resucitados de su almacenamiento.
+Consideremos un futuro dispositivo para uso personal, el cual es una especie de archivo privado
+mecanizado y biblioteca a la vez. Necesita un nombre, y acuñando uno al azar, se me ocurre llamarlo
+«memex». Un «memex» es entonces un dispositivo en el cual un individuo almacena todos sus
+libros, registros y comunicados, y está automatizado de tal forma que puede ser consultado con
+enorme velocidad y flexibilidad. Es una adición enorme e íntima a su propia memoria. (algunos
+autores afirman que «memex» proviene de las palabras “memory extender” o “extensor de la
+memoria”).
+Consiste en un escritorio, pero es al mismo tiempo un artilugio que puede usarse como una
+estación de trabajo a la vez que puede ser operado a control remoto. En la parte superior cuenta con
+pantallas translúcidas, en las cuales el material puede ser desplegado para una conveniente lectura.
+(La televisión no era conocida por el público entonces). Hay un teclado, y grupos de botones y
+palancas; por lo demás su aspecto es el de un escritorio ordinario.
+En un extremo se encuentra el material almacenado para consulta. No hay problema por lo
+voluminoso de la información ya que esta reside en microfilm mejorado. Sólo una parte del interior
+del mémex está dedicado al almacenamiento; el resto es el mecanismo. Aun si el usuario introdujera
+5,000 páginas diarias de materiales le tomaría cientos de años llenar el repositorio, así que puede ser
+generoso e introducir materiales con liberalidad.
+La mayoría de los contenidos del mémex han sido comprados en microfilmes editados previamente
+y listos para su inserción. Libros de todo tipo, imágenes, revistas, periódicos, etcétera son así
+obtenidos y puestos en su lugar. La correspondencia de negocios sigue la misma ruta. Y todavía
+sobra espacio para inserciones de material propio en forma directa. Sobre el mémex, existe una
+pantalla transparente sobre la cual pueden ponerse notas, textos, fotografías, etcétera. La acción de
+un botón hace que sea fotografiado y almacenado en el siguiente espacio disponible en una sección
+de la película del mémex. (excelente definición para 1945 de un no inventado escáner) Se
+utilizará la técnica de fotografía en seco. (así se denominaba en ese entonces a la fotocopia).
+Se ha previsto, por supuesto, la consulta del registro por el usual sistema de indizado. Si el usuario desea
+consultar un cierto libro en particular, introduce su código en el teclado, y la cubierta del libro aparece
+rápidamente ante sus ojos, proyectada en una de sus pantallas. Los códigos frecuentemente usados son
+nemónicos, así que él no consulta a menudo su libro de códigos. No obstante, cuando lo necesita, un simple
+teclazo lo trae a la pantalla para su uso. Además, él tiene botones adicionales para esta tarea. Cuando él
+presiona uno de ellos un poco a la derecha, él pasa las páginas hacia adelante a una gran velocidad, apenas
+visibles lo suficiente para reconocerlas; un poco más de presión al botón hace que pasen 10 páginas a la
+vez, y más presión hace que pasen 100 a la vez. Lo mismo sucede hacia la izquierda, regresando las
+páginas. (en aquel entonces no había caseteras o ningún otro aparato con “ff” o “rew”)
+Un botón especial transfiere al usuario inmediatamente a la primera página del índice. Cualquier libro de
+su colección puede así ser traído y consultado con mucha mayor facilidad que si fuera tomado de un
+estante. Como él dispone de varias pantallas de proyección, puede ver simultáneamente varias obras
+(nótese el uso de “ventanas”). Él puede agregar a esas páginas notas al margen, comentarios, tal como si
+tuviera la página real frente a él, sacando ventaja de algún tipo de fotografía en seco, posiblemente con un
+accesorio tipo pluma de manera similar al teleautógrafo, como el utilizado hoy en día en las salas de espera
+de ferrocarril, gracias al “teleautógrafo”. (este era una especie de “fax” que podía enviar texto
+manuscrito entre estaciones de ferrocarril remotas).
+7
+Todo lo que acabo de describir es bastante convencional, con la sóla excepción de la proyección
+hacia el futuro de los mecanismos y artilugios varios de que disponemos hoy en día. No obstante,
+representa un paso inmediato hacia la indización o archivado de tipo asociativo, cuya idea
+básica consiste en lograr que cada uno de los elementos seleccione o busque, según nuestra
+voluntad, a otro elemento de una manera inmediata y automática. Esta constituye la característica
+esencial del memex; el proceso de enlazar dos elementos distintos entre sí es lo que le otorga su
+verdadera importancia.
+Cuando el usuario está construyendo una pista o sendero de información, le pone un nombre, lo inserta
+en su libro de códigos y lo teclea, tras lo cual aparecen ante su vista, proyectados en dos posiciones
+adyacentes en su pantalla, los dos elementos qué desea ligar. Debajo de cada uno de ellos existe un
+cierto número de espacios vacíos, y un apuntador indica uno de ellos en cada uno de los elementos. El
+usuario, con pulsar tan sólo una tecla, hace que los dos elementos queden enlazados de manera
+permanente. En cada uno de los espacios del código aparece la palabra código. Fuera de la vista del
+usuario, pero también en el espacio del código, es insertado un conjunto de puntos legibles por una
+célula fotoeléctrica y en cada uno de los elementos, tales puntos posicionales indican el número
+de índice del otro.
+De ahí en adelante, cada vez que el usuario tenga a la vista uno de los elementos, puede llamar
+al otro en un instante, con sólo oprimir un botón situado bajo el correspondiente espacio del código.
+Más que eso, una vez que numerosos elementos han sido enlazados entre sí para conformar un
+sendero de información, pueden consultarse uno tras otro, rápida o lentamente según se desee,
+simplemente moviendo una palanca similar a la que se usa para pasar las páginas de un libro. Es
+exactamente igual que si los distintos elementos físicos hubiesen sido colectados a partir de
+fuentes muy separadas entre sí, y luego encuadernados para conformar un nuevo libro. Y todavía
+más: cada uno de esos elementos puede pertenecer a su vez, a múltiples senderos de
+información.
+El propietario del memex, pongamos por caso, está interesado en el origen y las propiedades
+del arco y la flecha; en concreto, está estudiando las razones por las que, al parecer, el arco
+corto turco pareció superior al arco largo de los ingleses durante las escaramuzas de la época de
+las Cruzadas. Almacenados en su memex tiene a su disposición docenas de libros y artículos
+pertinentes para para llevar a cabo su estudio. Para comenzar, consulta una enciclopedia en la
+que encuentra un breve e interesante artículo que decide mantener proyectado en una de sus
+pantallas; sigue con la consulta de un libro de historia y encuentra un elemento de su interés
+que decide enlazar con el artículo de la enciclopedia. Prosigue, de esta manera, construyendo
+un sendero de información compuesto por múltiples elementos singulares. Ocasionalmente,
+inserta un comentario propio, enlazándolo de manera directa al sendero principal que está
+creando o generando una liga a un sendero secundario. Cuando a lo largo de su investigación, al
+usuario le parece lo suficientemente evidente que las propiedades elásticas de los materiales
+disponibles en esa época guardaban una gran relación con las propiedades del arco resultante,
+crea una bifurcación hacia un sendero lateral o cruzado que lo llevará a través de libros de texto
+sobre la elasticidad de los materiales y tablas de constantes físicas. Posteriormente, añade una
+buena porción de sus propias notas para terminar de crear el sendero de información que
+enlaza los elementos de su interés a través del laberinto de la inmensa cantidad de material que
+tiene a su disposición.
+Los senderos de información creados con el memex no se disuelven. Varios años después de esta
+búsqueda, en una charla entre amigos, sale a colación la extraña forma en la que la gente se resiste a
+las innovaciones, incluso a aquellas que tienen un interés vital. Como ejemplo, él recuerda el hecho
+de cómo los europeos fueron muy retiscentes a adoptar el arco corto de los turcos. De hecho, afirma, ha
+construido un sendero de información acerca de ese tema. Una simple tecla de su memex trae ante su
+vista el libro de códigos, y unos teclazos más sitúan en la pantalla el primero de los elementos de su
+sendero de información. Accionando una palanca, se mueve por el sendero a voluntad
+deteniéndose en los elementos interesantes, y de vez en vez, lleva a cabo excursiones por senderos
+laterales al principal. Todo ello constituye un sendero de información muy pertinente a la conversación
+que estaban manteniendo. Como es del interés de su interlocutor, activa el modo de reproducción,
+fotografía todo el sendero de información y se lo pasa a su amigo para que éste a su vez lo introduzca
+en su propio memex y lo conecte con su sendero de información principal.
+8
+Veremos aparecer formas totalmente nuevas de enciclopedias, conteniendo de origen numerosos
+senderos de información preestablecidos, listas para ser introducidas en el memex con la
+capacidad de ser ampliadas por el usuario. Así, el abogado tendrá a su alcance las opiniones y
+decisiones de toda su carrera, así como las de de la experiencia de sus amigos y de las
+autoridades en la materia. El jurista de marcas y patentes tendrá a su disposición toda la información
+relativa a millones de patentes, en la cual ya ha creado los familiares senderos que resulten del interés
+de sus clientes. El médico, confundido por la reacción de un paciente, accederá a los senderos que
+creó al estudiar un caso parecido, y recorrerá rápidamente el archivo de los historiales de casos
+clínicos análogos, así como las referencias cruzadas a los clásicos de la anatomía y la histología. El
+químico, lidiando con la síntesis de un compuesto orgánico tiene a su disposición toda la
+literatura química dentro de su propio laboratorio, con senderos de información que siguen las
+analogías entre distintos compuestos, así como senderos bifurcados que dan cuenta de su
+comportamiento físico y químico.
+El historiador, teniendo ante sí la vasta cronología e historia de un pueblo, establecerá
+paralelismos por medio de un sendero de información que se detiene únicamente en los elementos más
+sobresalientes, pudiendo seguir en cualquier momento senderos contemporáneos que lo conducen a
+través de toda la civilización a una época determinada. Aparecerá una nueva profesión, la de los
+“trazadores de senderos”, es decir, aquellas personas que encuentran placer en la tarea de
+crear senderos de información útiles que transcurran a través de la inmensa masa del archivo total de
+la humanidad. La herencia de los maestros pasará a ser no sólo su contribución al archivo universal, sino
+también los senderos de información que fue estableciendo a lo largo de su vida, y que constituirán
+los cimientos fundamentales de los conocimientos de sus discípulos.
+De este modo, la ciencia puede aplicar las formas en las que el ser humano produce, almacena y
+consulta el archivo de toda nuestra especie. Ciertamente, hubiera sido más llamativo señalar los
+instrumentos del futuro de una manera más espectacular en lugar de limitarnos a los elementos que ya
+conocemos en la actualidad y que ya se encuentran bajo un rápido desarrollo, como aquí se ha hecho.
+Ciertamente, hemos pasado por alto de forma deliberada las dificultades técnicas de todo tipo que
+nuestro pronóstico conlleva, pero también hemos pasado por alto los medios, aún
+desconocidos, que podrían acelerar el progreso técnico de una manera tan explosiva como lo hizo la
+aparición de la válvula termoiónica. Con miras a que la imagen que he descrito no resulte un lugar común
+al ajustarme a los patrones de la época actual, cabe mencionar que lo descrito es tan sólo una de las
+posibilidades de solución que se nos presentan. Con ello no intento pronosticar sino únicamente sugerir
+la posibilidad, pues un pronóstico basado en lo ya conocido está justificado, mientras que lo que se basa
+en lo desconocido no constituye más que una apuesta de naturaleza doble.
+Todos nuestros pasos destinados a la creación o absorción de material relacionado con el archivo
+mundial toman forma a través de alguno de nuestros sentidos: el del tacto cuando operamos sobre
+las teclas, el oral cuando escuchamos o hablamos, o el de la vista cuando leemos. Ahora bien ¿sería
+posible establecer una ruta más directa?
+Sabemos que cuando el ojo ve, toda la información consecuente se transmite al cerebro por medio de
+vibraciones eléctricas a través del canal del nervio óptico. Este proceso es análogo al de las vibraciones
+eléctricas que tienen lugar en el cable de un equipo de televisión: captan la imagen por medio de células
+fotoeléctricas y la transportan hasta la antena del transmisor, quien se encarga de transmitirlas al
+público. Sabemos además que si podemos acercar a ese cable los instrumentos apropiados, no
+necesitaríamos tocarlo para captar las imágenes, ya que es posible captarlas simplemente por medio
+de inducción eléctrica y poder reproducir así la señal que está siendo emitida a través de él, de manera
+similar a cuando se inserta un conector en un cable telefónico para tener acceso a una conversación.
+Los impulsos que fluyen a lo largo de los nervios del brazo de una mecanógrafa transportan
+hasta sus dedos la información que había llegado hasta sus ojos u oídos, con el fin de que los dedos
+opriman la tecla adecuada. ¿sería posible poder interceptar dichos impulsos eléctricos, ya sea en la
+forma original en que la información llegó hasta el cerebro o en la maravillosamente metamorfoseada
+forma en que aquéllas continúan hasta la mano?
+A través de los huesos somos ya capaces de introducir sonidos por medio de los conductos
+nerviosos de las personas sordas que, de ese modo, pueden llegar a oír. De la misma manera ¿no
+sería posible aprender a introducirlos sin el torpe proceso de transformar, en primer lugar, las
+vibraciones eléctricas en vibraciones mecánicas y posteriormente convertirlas de nuevo en
+vibraciones eléctricas? Por medio de un par de electrodos situados en el cráneo de una
+persona, somos capaces de crear gracias al electroencefalógrafo representaciones gráficas de
+tinta sobre papel que guardan cierta relación con los fenómenos eléctricos que tienen lugar en el interior
+del cerebro. Es verdad que todavía tales representaciones gráficas nos resultan ininteligibles,
+excepto cuando indican graves disfunciones en los mecanismos del cerebro, pero ¿quién se atrevería a
+establecer límites respecto al punto al que esta técnica podría llegar en un futuro?
+En el mundo exterior todas las formas de inteligencia, ya estén relacionadas con la vista o con el oído, han
+sido reducidas a variaciones de corriente recorriendo un circuito eléctrico para ser así transmitidas a
+puntos lejanos. En el interior del ser humano se observa el mismo proceso. Por consiguiente, ¿Estaremos
+siempre obligados a pasar por el proceso intermedio de la transformación hacia movimientos
+mecánicos cada vez que queremos pasar de un fenómeno eléctrico a otro? Este es un pensamiento muy
+sugerente pero a duras penas garantiza una predicción que mantenga el contacto con lo real e
+inmediato.
+Presumiblemente, el espíritu humano se elevaría enormemente si fuese capaz de revisar su
+oscuro pasado y de analizar más completa y objetivamente los problemas presentes. La raza
+humana ha creado una civilización tan compleja que le resulta indispensable mecanizar por completo
+sus archivos si desea llevar toda su experiencia a su conclusión lógica en vez de quedarse
+bloqueado por sobrecargar su limitada memoria. Sus excursiones conceptuales podrían resultar
+más placenteras si pudiese recuperar el privilegio de olvidar todas esas cosas que no necesita
+tener a la mano inmediatamente, sin renunciar a la seguridad de poder encontrarlas en el
+momento en que las considerase útiles.
+La ciencia aplicada ha permitido al ser humano construirse hogares bien equipados, y le
+están enseñando a habitarlos saludablemente. Pero también ha puesto a su alcance la posibilidad
+de enfrentar entre sí a muchedumbres con crueles armas de destrucción. Ella también puede
+concederla la capacidad de abarcar la vasta memoria compilada y con ello crecer en la
+sabiduría creada durante toda la experiencia del género humano. Es posible que pueda perecer
+en un conflicto global antes de aprender a utilizar tan vasto archivo para su propio bien, pero
+interrumpir repentinamente este proceso, o perder la esperanza del beneficio en sus
+resultados, parecería ser un paso especialmente desafortunado en la aplicación de la ciencia a
+los deseos y necesidades del ser humano.
+V. B.
+Traducción y comentarios: Juan Voutssás.
+Publicado originalmente como: Bush, Vannevar. “As We May Think”. En: The Atlantic Montly. July 1945;
+Volume 176, No. 1; pp. 101-108.

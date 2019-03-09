@@ -1,0 +1,1446 @@
+HIPERTEXTO, LITERATURA
+Y CIUDAD*
+Jaime Alejandro Rodríguez Ruiz
+Profesor Asociado del Departamento de Literatura
+Doctor en Filología de la UNED
+* Este artículo hace parte de los resultados del proyecto de investigación: ?Teoría práctica y enseñanza del hipertexto de ficción?.
+PALABRAS CLAVE
+Hipertexto y literatura, Literatura y nueva tecnologías, Novela, Novela y ciudad. Narrativa urbana, Narrativa digital
+París. La Defense.Alfonso Solano
+HUMANISTICA
+U N I V E R S I T A S
+54
+This article intends to demonstrate the relationship
+that exists among hipertext, literature and city. For
+it, initially, some characteristics of the hipertext, as
+long as ?enunciation?; are revised; then the
+relationship among the journey that makes the reader
+across the labyrinths and fragments of a hipertexto
+and the risky and disconcerting journey of the literary
+?neonómades? is examined, with base in the notions
+of flat space and I space grooved that DeLeuze and
+Este artículo propone mostrar la relación que existe entre
+hipertexto, literatura y ciudad. Para ello, se revisan
+inicialmente algunas características del hipertexto en
+tanto ?enunciación?, luego se examina la relación entre
+el recorrido que hace el lector por los innumerables
+laberintos y fragmentos de un hipertexto y el recorrido
+azaroso y desconcertante de los personajes literarios
+neonómadas, con base en las nociones de espacio liso
+y espacio estriado que nos proponen DeLeuze y Guattari
+KEYWORDS
+Hipertext and literature, Literature and new technologies, Novel, Novel and city Urban narrative, Digital narrative.
+RESUMEN
+ABSTRACT
+en su libro ?Mil mesetas?. Una vez estudiados esos
+conceptos, se abordan los antecedentes literarios del
+hipertexto, para referenciar enseguida algunas
+manifestaciones del ?vagabundeo nómada? en la
+narrativa contemporánea. Finalmente se describe la
+manera como se concreta la relación hipertexto,
+literatura y ciudad en dos obras del autor del artículo:
+la novela ?Debido Proceso? y el hipermedia narrativo
+?Gabriella Infinita?.
+Guattari propose us in their book ?Mil mesetas?. Once
+studied those concepts, the literary antecedents of the
+hipertexto are approached, to index some
+manifestations of the ?I wander nomómade? in the
+contemporary narrative. Finally is described the way
+like it is summed up the relationship hipertext,
+literature and city in two works of the author? of the
+article: the novel ?Debido Proceso? and the narrative
+hipermedia ?Gabriella Infinita.?
+HUMANISTICA
+U N I V E R S I T A S
+55
+Introducción
+La relación entre hipertexto, literatura
+y ciudad propuesta aquí, nace de las
+ideas expuestas por Jean Clement en
+su artículo: ?El hipertexto: una
+enunciación pionera?. Clément plantea
+que, desde el punto de vista
+comunicativo, el hipertexto constituye
+una expresión muy singular que
+requiere por eso de una reformulación
+retórica para promover, como valor
+agregado frente a otras formas
+tradicionales de comunicación, lo que le
+es más propio y específico: un
+pensamiento divagante y un recorrido
+azaroso del texto por parte del lector.
+Acudiendo a Michel de Certeau,
+Clement propone comparar la
+?lectura? del hipertexto con el recorrido
+que hace un caminante por el espacio
+urbano de la ciudad, expuesto a la vez a
+la seguridad de un mapa y al riesgo de
+la desorientación. Según Clement,
+similarmente el hipertexto exige del
+lector una especie de riesgo que algunas
+veces intenta ser allanado utilizando
+una guía o mapa. Pero tanto en el caso
+del hipertexto como en el del espacio
+urbano, no se trata solamente de seguir
+las indicaciones de las calles o la
+guía de navegación: en cada cruce
+(del hipertexto o de la ciudad) es el
+peatón (o el lector) quien decide qué
+dirección seguirá, dando un rodeo o
+tomando un atajo. Y lo que lo
+estimula a girar a la izquierda o a la
+derecha es ?la alquimia que se
+establece entre los humores del paseante
+y los ambientes de la ciudad?. Recorrer
+un hipertexto es entonces
+?ir a la deriva?.
+De otro lado, la literatura parece
+anticipar esta manera de recorrer
+territorios y de leer textos. Cierta
+tradición literaria estructura historias y
+crea personajes que transitan la ciudad
+moderna de esa manera azarosa e
+intuitiva, y descubren en su trasegar
+verdades insospechadas. Es lo que llama
+el escritor colombiano Mario Mendoza
+?los neonomádas urbanos?, personajes
+vagabundos y callejeros como en el caso
+del cuento de Edgar Alan Poe ?El
+hombre de la multitud?, donde el
+protagonista descubre que es posible
+andar por la ciudad sin ningún objetivo
+definido; o como el protagonista
+narrador de la novela del colombiano
+Fredy Tellez, ?La ciudad Interior?, que
+desarrolla hasta sus últimas
+consecuencias la metáfora; ?escribir es
+como caminar por la ciudad?.
+referenciar algunos manifestaciones del
+?vagabundeo neoómada? en la
+narrativa contemporánea. Finalmente
+mostraré cómo se concreta la relación
+hipertexto, literatura y ciudad en dos
+obras mías: la novela ?Debido Proceso?
+y el hipermedia narrativo ?Gabriella
+Infinita?.
+Una enunciación pionera
+Aunque los sistemas hipertextuales ya
+son formatos muy familiares para el
+común de la gente (gracias al uso
+extenso de la World Wide Web), están
+lejos de encontrarse en presentaciones
+homogéneas, por lo que el lector que se
+enfrenta a uno de ellos generalmente
+debe aprender a navegar por él, como si
+se tratara de la primera vez. En realidad
+todo hipertexto está constituido por una
+red compleja y amplia de contenidos
+fragmentarios y sólo potencialmente
+conexos. La tarea del presentador de
+hipertextos (tanto en cuanto escritor,
+como en cuanto ?editor? de esos
+fragmentos) es la de facilitar sus posibles
+conexiones, cuidando, no obstante, de
+no performar demasiado la libre
+navegación.
+La primera ayuda es la organización
+misma del hipertexto. Una organización
+que debe permitir navegar a través de los
+enlaces que cada lexia sugiere,
+respondiendo a las sugerencias allí
+implícitas o a los intereses particulares.
+Es importante recordar que la
+especificidad del hipertexto está en la
+ausencia de un orden jerárquico fijo, y
+por lo tanto no debe estructurar
+rígidamente el dominio de su lectura;
+debe, más bien, promover el
+En cada cruce (del hipertexto o de
+la ciudad) es el peatón (o el
+lector) quien decide qué dirección
+seguirá, dando un rodeo o
+tomando un atajo.
+Revisaré en primer lugar algunas
+características de esta ?enunciación
+pionera?, para avanzar luego a
+examinar la relación entre el recorrido
+que hace el lector por los innumerables
+laberintos y fragmentos de un hipertexto
+y el recorrido azaroso y desconcertante
+de los personajes literarios neonómadas,
+con base en las nociones de espacio liso
+y espacio estriado que nos proponen
+DeLeuze y Guattari en su libro ?Mil
+mesetas?. Una vez revisados esos
+conceptos, abordaré los antecedentes
+literarios del hipertexto, para luego
+HUMANISTICA
+U N I V E R S I T A S
+56
+descubrimiento de diversas y complejas
+formas de interacción entre los
+fragmentos.
+Existen, siguiendo a Clément, tres
+características retóricas de todo
+hipertexto. La primera es que en todo
+hipertexto nos encontramos con una
+sinécdoque ?creciente?, en la que la
+parte (el fragmento, el recorrido) se
+toma por el todo (el hipertexto en su
+totalidad). Lo que caracteriza al
+hipertexto es la preeminencia de lo local
+sobre lo global. Si bien la mayor parte de
+los sistemas hipertextuales ofrecen una
+vista global de su estructura, esa vista no
+es la del texto, sino la del paratexto. Por
+tanto, para el lector, el hipertexto será
+siempre aquella parte que ha leído, es
+decir una parte de un conjunto extraída
+según su recorrido de lectura, la
+actualización parcial de un texto virtual
+que nunca conocerá en su totalidad.
+Pero en el hipertexto, la sinécdoque es
+una figura dinámica: a partir de un
+fragmento, el lector intenta imaginar el
+todo, sin embargo, cada nuevo
+fragmento o cada nuevo recorrido lo
+obligan a reconfigurar su visión de
+conjunto de una totalidad que jamás se
+manifestará completa. Es muy posible
+por eso que el lector de una obra
+hipertextual no agote nunca la totalidad
+de las lexias que se le ofrecen... y
+tampoco será necesario.
+La otra figura propia de los sistemas
+hipertextuales es el asíndeton, esto es, la
+ausencia de conexiones. Clément
+asegura que esta característica constituye
+la principal problemática del hipertexto
+en cuanto mecanismo para la
+presentación ideas. La deconstrucción
+del discurso que provoca el hipertexto
+tiene como primera consecuencia una
+baja utilización de palabras de conexión
+(conjunciones, adverbios, etc.) y de
+figuras oratorias que encadenan las
+partes del discurso tradicional. Cada
+fragmento del hipertexto ?flota? en la
+pantalla. Su pertenencia a diversos
+recorridos potenciales le prohíbe todo
+vínculo discursivo con los demás
+fragmentos. A diferencia del hipertexto
+de ficción, donde el asíndeton puede
+constituir un recurso estético interesante,
+en el hipertexto informativo, explicativo
+o argumentativo, el asíndeton no es bien
+recibido por el lector, quien necesita
+siempre una justificación intelectual
+para los saltos del pensamiento. La
+solución está en la caracterización de los
+enlaces, que sin sustituir las conexiones
+del discurso, le permite al lector
+anticipar, no el contenido del próximo
+nodo, pero al menos su naturaleza y
+una cierta visibilidad que le facilita
+hacer elecciones motivadas acerca
+de sus recorridos.
+Finalmente está la figura de la metáfora.
+Aplicado al hipertexto, el concepto de
+metáfora permite evidenciar que un
+determinado fragmento se presta a varias
+lecturas en función de los recorridos en
+los que se inscribe. Esa es una de las
+características básicas del hipertexto en
+comparación con el texto impreso. En
+este último, el discurso está fijo en su
+orden impreso. Es cierto, afirma
+Clément, que toda lectura trae a la
+mente el texto ya leído para interpretar el
+que estamos leyendo en relación con él,
+y desde este punto de vista, cada palabra
+está metafóricamente cargada del peso
+del sentido que ha podido tomar
+en otros contextos del mismo libro, de la
+misma obra, o de todas las obras
+previamente leídas. La lectura de lo
+impreso no es tan lineal como parece.
+Pero a la polisemia inherente a la
+lengua, el hipertexto le añade otra, que
+es consustancial a su estructura.
+Cada fragmento está en un cruce de
+Chicago. Ing. Alvaro Alexander Buchel
+HUMANISTICA
+U N I V E R S I T A S
+57
+caminos que hacen uso de él y le
+aportan diversas facetas.
+Quizá sea esa la clave del pensamiento
+hipertextual, asegura Clément:
+un pensamiento en constante devenir,
+un pensamiento potencial, variable y
+cambiante, la progresiva formación
+de la memoria a través de un recorrido
+laberíntico.
+En toda obra hipertextual, el lector
+encontrará estas tres características. No
+sólo le resultará imposible, sino
+innecesario el recorrido por la totalidad
+de las lexias, y por eso tendrá
+constantemente que asumir un papel
+activo para establecer las conexiones y
+los sentidos locales de un conjunto de
+lexias. Muchas veces encontrará
+reiterado un concepto o un contenido,
+pero su lectura momentánea le dará
+siempre una función distinta. No puede
+encontrar como tal una argumentación
+o una hipótesis y en los momentos en
+que esto parezca así, habrá siempre una
+relativización. El lector tendrá que tratar
+los puntos de vista y las estructuras
+conceptuales propuestas como paisajes
+para ser explorados más que como
+posiciones para ser defendidas o
+atacadas. Deberá también potenciar la
+fluidez y la reutilización más que los
+fundamentos y las posiciones definitivas.
+Sólo con estas actitudes será posible para
+él aprovechar al máximo su estructura
+hipertextual... sin morir en el intento.
+Espacio liso y espacio
+estriado
+Según Deleuze y Guattari el espacio
+puede ser definido como estriado o liso a
+partir de la manera como se subordinan
+las líneas o trayectos a los puntos. En el
+espacio estriado son las líneas las que
+están subordinadas a los puntos, en el
+espacio liso en cambio los puntos están
+subordinados al trayecto. En el espacio
+liso la línea provoca el punto, es decir el
+recorrido que se realiza no depende de
+las referencias, como en el caso de los
+trayectos por el desierto o por el mar,
+sino que varían de acuerdo con factores
+más o menos azarosos.
+En el espacio estriado los trayectos están
+perfectamente referenciados e incluso
+medidos y calculados. El espacio
+estriado por excelencia es la ciudad
+occidental, cuya base de diseño es la
+cuadricula.
+Sin embargo Delueze y Guattari nos
+advierten que los espacios no solamente
+se definen por esa relación entre líneas y
+puntos sino también por la ?manera?
+como se recorren esos espacios. Es
+posible entonces recorrer
+?estriadamente? el mar o el desierto, en
+la medida en que quien lo hace cuenta
+con referencias y trayectos
+predeterminados, dados por la ubicación
+en grados de longitud y latitud por
+ejemplo. De la misma manera, es posible
+entonces recorrer ?lisamente? un
+espacio tan cuadriculado como la
+ciudad. Es el caso del vagabundo
+citadino que no tiene a dónde ir y
+recorre las calles al azar, sin ningún
+objetivo determinado y liberado de las
+referencias cotidianas con las que
+manipulamos los espacios para un
+beneficio práctico.
+Esta segunda posibilidad de definición
+de los espacios da lugar a percepciones
+inesperadas. En el caso de los espacios
+estriados, ya sean entendidos como
+espacios delimitados rigurosamente o
+espacios recorridos estriadamente, la
+percepción de la realidad se contrapone
+a la que se deriva de los espacios lisos,
+en los cuales se accede a la realidad a
+través de intuiciones y facultades
+Chicago. Ing. Alvaro Alexander Buchel
+HUMANISTICA
+U N I V E R S I T A S
+58
+sensoriales, en lugar de cálculos o
+planos previamente determinados.
+Un artículo que permite apreciar la
+relación entre estas nociones de espacio
+y el hipertexto es el titulado: ?El
+hipertexto y el soñar con una nueva
+cultura? de Stuart Moulthrop, quien se
+vale precisamente de las propuestas de
+Deleuze y Guattari, para plantear las
+posibilidades y también las limitaciones
+del hipertexto en un horizonte que
+podríamos llamar ?político?.
+Antes que nada, Moulthrop, proclama su
+confianza en que los cambios
+tecnológicos actuales posibilitan la
+reformulación del sujeto y una revisión
+realmente radical de la identidad y de las
+relaciones sociales. Establece, enseguida,
+una primera relación entre rizoma e
+hipertexto, asociando las propiedades del
+hipertexto a lo que Deleuze y Guattari
+han definido como espacios culturales
+lisos, en contraposición con los espacios
+culturales estriados.
+exclusiva, se acerca mucho más a la
+imagen de un espacio liso. Esta
+vinculación entre hipertexto y  espacio
+liso, hace que Moulthrop exprese su
+entusiasmo:
+Así pues, puede que el hipertexto y los
+hipermedios representen la expresión
+del rizoma en el espacio social de la
+escritura. Si es así, podrían muy bien
+pertenecer a nuestros sueños de una
+nueva cultura. Podría resultar
+interesante, sobre todo si se quieren
+formular radicales reivindicaciones
+sociales, argumentar que el
+hipertexto proporciona un laboratorio
+o lugar de origen para una
+alternativa nómada de estructura lisa
+al espacio discursivo de finales del
+capitalismo (Moulthrop, 344).
+Y refuerza esa esperanza con la mención
+de otras reivindicaciones similares: la de
+Ted Nelson, por ejemplo, quien sugiere
+que los medios interactivos fomentarán
+el popularismo y la diseminación del
+conocimiento especializado por redes no
+convencionales o no oficiales. La de Jay
+David Bolter, quien señala la erosión
+gradual de las jerarquías  absolutas en
+occidente y sugiere que las redes y los
+hipermedios asestarán el golpe de
+gracia. O la de Landow, quien sostiene
+que la exigencia de elección articulada
+en el hipertexto producirá un
+respondedor ilustrado y de por sí
+capacitado.
+Antecedentes literarios
+del hipertexto
+Cristoher Keep y Tim McLaughin en su
+?The Electronic Labyrint?, nos hablan
+de una ?tradición de la literatura no
+lineal?. Según estos autores, es posible
+registrar una larga resistencia de los
+escritores a las estructuras cerradas de la
+novela. Muchos textos producidos como
+libros impresos anticipan la narrativa no
+secuencial del ?hiperlibro? y otros
+ofrecen ejemplos particularmente
+instructivos de cómo las formas de
+edición y publicación pueden servir
+como vehículo de expresión artística.
+Keep y McLaughin incluyen como
+ejemplos de tal tradición los siguientes:
+· Tristam Shandy de Sterne
+· En el laberinto de Robbe-Grillet
+· Pale Fire de Nabokov
+· Rayuela de Cotázar
+· At Swim-Two-Birds de O´Brien
+· La exhibición atroz de Ballard
+· El castillo de los destinos cruzados de
+Italo Calvino
+· Diccionario de los Khazars y Paisaje
+pintado con te de Pavic
+Howell, citado por Vouillamoz (81),
+habla de una literatura experimental
+que demuestra la viabilidad de la novela
+no lineal y cita como exponentes a
+Borges (en Ficciones), Pavic (con su
+Diccionario de los Khazars), James Joyce
+(con su Finnegan´s Wake) e Italo
+Calvino (con su ?Si una noche de
+invierno un viajero?). La propia
+Vouillamoz, (69- 99) afirma que existe
+como precedente literario del
+hipertexto el abordaje que la teoría
+literaria ha hecho de las problemáticas
+tanto de la pragmática de la lectura
+como de la idea del texto, especialmente
+el examen de las consecuencias de una
+ruptura de la linealidad discursiva o la
+superación del papel que
+tradicionalmente se le da a la creación y
+a la recepción de obras literarias. Según
+Vouillamoz, todas las teorías literarias
+posmodernas son susceptibles de
+contemplarse a la luz de los avances
+tecnológicos como aportes a la reflexión
+teórica muy próxima a la asociada con
+el paradigma hipermedia.
+Cada fragmento está en un cruce
+de caminos que hacen uso de él y
+le aportan diversas facetas. Quizá
+sea esa la clave del pensamiento
+hipertextual.
+Como se dijo antes, los espacios estriados
+están dominados por la rutina, la
+secuencia y la causalidad. El espacio
+liso, en cambio, se define
+dinámicamente en función de la
+transformación. En la medida en que el
+hipertexto constituye un espacio para la
+improvisación y el descubrimiento,
+donde los usuarios pueden seguir
+múltiples líneas de asociación o
+causalidad, en lugar de tener que seguir
+las prescripciones de una lógica
+HUMANISTICA
+U N I V E R S I T A S
+59
+La crítica posmoderna, el
+posestructuralismo y la estética de la
+recepción introducen presupuestos que
+culminan en la constatación de la
+multiplicidad de significados de la obra
+literaria. Así mismo, autores con Bajtin
+habían demostrado que la obra literaria
+es un producto cultural capaz de
+reproducir las fuerzas activas de un
+determinado momento social y propone
+una lectura dialógica apoyando
+conceptos como la heteregloxia y el
+plulinguismo. También autores como
+Umberto Eco aportan a la idea de un
+texto abierto que tiene una escena muy
+cercana a la práctica concreta de
+hipertexto.
+Algunos otros conceptos acuñados por
+este tipo de teoría como el de
+intertextualidad y transtextualidad
+abonan también el suelo de la necesaria
+reflexión sobre los nuevos paradigmas de
+escritura. Según la teoría de la
+recepción, asistimos a un cambio en la
+fenomenología de la lectura, de modo
+que ésta deja de concebirse como un
+acto pasivo para convertirse en un
+proceso creativo. Pero esta nueva
+percepción del discurso como materia
+expandible, abierta e intertextual y una
+recuperación del lector como agente
+activo en la comunicación literaria
+ponen en crisis el biografismo
+neoromántico heredado del siglo XIX y
+suscitan una reflexión necesaria en
+torno a la figura del autor. La obra
+pierde la protección de su emisor, se
+recompone en una multiplicidad de
+voces y circula ofreciendo infinitas
+posibilidades de interpretación de modo
+que la noción tradicional de autor
+como único regulador en la creación y
+significados queda deconstruido. La
+identidad de la autoría se desdibuja y el
+texto deja de identificarse con
+su autor.
+Estas teorías literarias van a ser también
+un referente necesario en las reflexiones
+que suscita la literatura electrónica
+donde se acentúa la apertura e
+intertextualidad de la obra, donde el
+lector asume una mayor responsabilidad
+co-creativa a través de su interacción
+con el sistema, donde los avances
+informáticos facilitan nuevas formas de
+producción y creación y donde se
+configuran nuevas prácticas del
+ejercicio literario.
+Antecedentes de prácticas literarias que
+hoy se concretan en el hipertexto pueden
+ser los experimentos de los grupos
+OULIPO y ALAMO según los cuales
+estamos ante una vertiente mucho más
+lúdica de la estética de la creación
+literaria en la cual se impone el modo de
+creación basado en la utilización de
+programas informáticos y en la
+combinación aleatoria de estructuras
+lingüísticas. En la medida en que el
+lector se convierte en creador de lo que
+lee, el poder del autor se desdibuja y el
+texto potencia su capacidad
+polisemántica. Estas líneas vienen a
+enmarcar los presupuestos teóricos en
+los que se inscriben los modelos de
+construcción y recepción asociados a la
+aplicación de la tecnología hipermedia
+en la literatura.
+?Cumbres borrascosas?), Alan
+Ligthman (con su ?Los sueños de
+Einstein?), Maurice Blanchot (con su
+?Tomás el oscuro?). Y en cine: ?Duck
+Amuck?, cine de animación (Warner
+Brothers); ?Atrapado en el tiempo?,
+largometraje de Harold Ramis y
+«Parallels», episodio de ?Star Trek:
+The next generation?, dirigido por
+Robert Wimer.
+En todas estas referencias está
+claro que existe una tradición en
+narrativa a la que podríamos calificar,
+siguiendo a Murray, como una narrativa
+con vocación multiforme, esto es,
+narrativas que presentan situaciones o
+argumentos en múltiples versiones que
+serían mutuamente excluyentes en
+nuestra experiencia común.
+Ejemplos de este tipo de multiformidad
+son las estructuras narrativas en las que
+se propone una vida alterna o la
+repetición eterna de un mismo
+instante o la exploración in extenso de
+las consecuencias de una decisión
+en un momento de la vida o el «hacer
+como si» o el ser otro, etc. Las formas
+tradicionales de dar cuenta de estas
+experiencias «virtuales» ya no nos
+sirven y por eso es interesante aceptar
+que la narrativa no lineal, en cuanto
+exposición de mundos virtuales, se
+convierte en una forma muchos más
+acorde con la necesidad de expresar
+estas experiencias.
+Las historias impresas y filmadas llevan
+tiempo intentando superar los formatos
+lineales, y se han esforzado por mostrar
+la percepción de la vida como una suma
+de posibilidades paralelas. La narrativa
+multiforme intenta presentar
+posibilidades simultáneamente para
+permitirnos concebir al mismo tiempo
+múltiples alternativas contradictorias.
+Pero para capturar tales combinatorias
+Por su parte Murray, habla de la no
+linealidad en los medios tradicionales, e
+incluye a Emily Bronte (con su
+La obra pierde la protección de su
+emisor, se recompone en una
+multiplicidad de voces y circula
+ofreciendo infinitas posibilidades
+de interpretación de modo que la
+noción tradicional de autor como
+único regulador en la creación y
+significados queda deconstruido.
+HUMANISTICA
+U N I V E R S I T A S
+60
+no basta con las formas tradicionales: se
+requiere el computador y sus facilidades.
+Novela y ciudad
+En su articulo ?El neonómada vectorial
+en 4 años a bordo de mi mismo de
+Eduardo Zalamea Borda?, el escritor
+Mario Mendoza hace un recuento muy
+completo de la literatura que describe el
+comportamiento de los neonómadas
+urbanos y que yo valoro como una
+muestra anticipatoria de la misma
+necesidad de ?pensamiento a la deriva?
+que los sistemas hipertextuales han
+encarnado en su nueva retórica.
+Menciona por ejemplo la novela
+?Mascaró el cazador americano?, del
+argentino Haroldo Conti, en la que los
+personajes están en perpetuo
+movimiento, debido a que se han
+ingeniado un ?circo? ambulante que se
+convierte en pretexto para cambiar de
+un lugar a otro. De este modo la novela
+empieza a mostrar las posibilidades de
+convertir un espacio sedentario en un
+espacio nómada y múltiple, en función
+de los recorridos que hacen estos
+personajes.
+En el cuento ?El hombre de la
+multitud? de Edgar Alan Poe, un
+personaje persigue a otro a través de las
+calles de Londres con el objetivo de
+averiguar hacia dónde se dirige. El
+descubrimiento que hace el perseguidor
+es que su perseguido no se dirige a
+ninguna parte en particular, o lo que es
+lo mismo que se dirige a todas partes,
+una manera de deconstruir el espacio
+estriado de la ciudad
+En ?Wakefield? de Nathaniel
+Nawthorne, un hombre decide salir de
+su casa para no volver y arrienda una
+pequeña habitación en la calle
+adyacente, desde donde vigila lo que
+ocurre en su casa, construyendo de esta
+manera una existencia paralela.
+Después de 20 años el hombre regresa,
+como si nada hubiera pasado, al primer
+espacio de habitación. Entre tanto
+Wakefield el protagonista ha
+experimentado en todo su rigor la
+marginación del sistema. Si bien ha
+permanecido muy cerca del espacio
+donde el sistema había funcionado a la
+París. La Defense. Alfonso Solano
+HUMANISTICA
+U N I V E R S I T A S
+61
+perfección, en realidad ha estado
+habitando otro mundo.
+Es una situación muy similar a la que
+narra el escritor brasileño, Joao
+Guimaraes Rosa en su cuento ?La
+tercera orilla del río?. En este relato un
+narrador nos va haciendo memoria de
+una situación muy extraña. 30 años
+antes de su narración, su padre ha
+decidido abandonar inexplicablemente
+la casa donde vivía con su familia y
+después de construir una canoa se ha
+internado en el río que está frente a su
+pueblo. Durante esos 30 años no ha
+hecho más que recorrer hacia arriba y
+hacia abajo el río, completamente
+alejado de la lógica de la vida cotidiana.
+Pero ha logrado sobrevivir gracias a una
+especie de temor solidario de su hijo, el
+narrador, quien sin entender las razones
+por las que su padre se ha alejado, se ve
+en la obligación de mantenerlo.
+Después de todo ese tiempo el propio
+narrador se siente atraído por la idea de
+abandonar su mundo cotidiano pero al
+final decide rechazar la invitación que
+su padre, un hombre envejecido y de
+aspecto salvaje después de lo que loa 30
+años de marginación, le ha hecho.
+Como en Wakefield, este narrador siente
+el horror de estar habitado por fuerzas
+internas que lo impulsan a alejarse de
+las certezas y de los espacios calculados y
+medidos de la sociedad.
+En el relato ?Un fragmento de vida? de
+Arthur Hachen, un personaje acosado por
+la vida rutinaria y mediocre que lleva
+decide aventurar, y después de
+aprovisionarse de agua y de víveres
+sale a recorrer la ciudad azarosamente,
+sin proponerse objetivos. Con este
+viaje a la deriva, el personaje descubre ?lo
+otro ?en su propio ser, gracias al recorrido
+de un espacio ?otro?: está
+en el mismo lugar en el que siempre
+ha vivido, pero lo recorre de otra
+manera y así hacia en verdad una
+viaje de autoconocimiento que no habría
+ni siquiera vislumbrado si hubiera
+permanecido en su rutina anterior.
+Estos viajeros, según Mario Mendoza,
+realizan una especie de potenciación de
+la ?lisura? urbana y anuncian nuevas
+formas de experiencia a partir de nuevas
+formas de desplazamiento. La ciudad
+para ellos deja de ser un espacio
+completamente racional y se vuelve un
+espacio que se distribuye y se multiplica
+de una manera insospechada.
+En la novela del colombiano Fredy
+Tellez ?La ciudad Interior?, el narrador
+protagonista agota la metáfora ?escribir
+París. La Defense.Alfonso Solano
+HUMANISTICA
+U N I V E R S I T A S
+62
+es caminar?. Se trata de un hombre que
+recorre varias ciudades europeas y
+paralelamente escribe una novela. A
+medida que avanza en su escritura y en
+su vagabundeo citadino descubre que la
+única manera de escribir
+adecuadamente su obra es
+abandonando las certezas tanto
+racionales como existenciales que ha
+venido acumulando a lo largo de su
+vida, de la misma manera que descubre
+otros matices de la experiencia cuando
+se abandona al vagabundeo azaroso por
+las calles de las ciudades. La noción de
+territorio aplicada al campo de la
+?literatura? actúa aquí como una
+limitante del escritor, quien sólo puede
+narrar lo que ese texto ?camino?
+territorio le ofrece; su escritura
+dependerá ya no del espacio como del
+recorrido: ?Me paré ahí porque yo
+también estaba en un pasaje difícil,
+acordándome de mi manuscrito y sin
+saber que hacer, si continuar escribiendo
+(perdón, paseando, quería decir)??.
+Todos estos ejemplos narrativos
+constituyen anticipaciones de un deseo
+por librarse de las estructuras y certezas
+que han predeterminado la experiencia
+humana en la modernidad. Constituyen
+una especie de resistencia a esa
+predeterminación que tiene quizás un
+paralelo en la concepción de un
+pensamiento divagante por naturaleza
+que el pensar- vivir de la modernidad ha
+limitado a funcionamientos más o menos
+esquemáticos. Lo que muchos teóricos del
+hipertexto han afirmado es que el nuevo
+soporte de expresión hipertextual
+recupera la posibilidad real de poner en
+marcha ese pensamiento divagante y
+asociativo natural en el hombre, y de
+alguna manera concreta lo que el
+ejercicio literario había estado
+denunciando y anticipando a través de
+eras narraciones de neonómadas urbanas.
+E. Botón para interrumpir el
+funcionamiento en el momento
+que se quiera, una vez llegado al
+circuito final: 58-131-58-131,
+etcétera.
+F. En el modelo con cama, este
+botón abre la parte inferior,
+quedando la cama preparada
+Además, atendiendo a las
+previsibles exigencias estéticas
+de los consumidores se han previsto
+modelos especiales de la máquina en
+estilo Luis XV y Luis XVI.
+Estas dos máquinas ilusorias son un
+ejemplo de la interrelación escritortecnolog
+ía-lector que ha existido
+desde la invención de la escritura
+misma, y cuyas profundas
+consecuencias culturales han
+determinado el desarrollo de la
+historia y del pensamiento.
+Con el ?acontecimiento? de la
+escritura hipertextual nos
+enfrentamos con la más reciente
+modalidad de esa triada.
+Tanto el autor, como el soporte de la
+escritura y su recepción se ven
+sometidos a un proceso de
+reconfiguración que abre
+posibilidades inéditas a la
+expresión y al conocimiento.
+Y esta es la convergencia entre el
+científico, Vannevar Bush, y el
+escritor, Julio Cortázar. Ambos
+anticipan la necesidad de nuevos
+medios acordes con nuevas
+realidades y, tal vez, con viejos
+ideales hoy revalorados en las
+formas y en el gusto de
+nuestra época.
+Máquinas interactivas
+(a modo de excurso)
+Fragmento de un artículo inédito de
+Marcela Castro
+En la vuelta al día en ochenta
+mundos, Julio Cortazar hace la
+descripción del prototipo de una
+máquina con aire de triclinio, diván
+comedor usado por los antiguos
+griegos y romanos, que permite leer
+Rayuela en la cama,
+?a fin de no dormirse en otras
+posiciones de luctuosas
+consecuencias?, mientras se tiene a
+la mano el mate o una ginebra.
+Consta de seis botones cada uno con
+una función especial:
+A. Inicia el funcionamiento a partir
+del capítulo 73 (sale la gaveta
+73); al cerrarse esta se abre la
+No.1, y así sucesivamente. Si se
+desea interrumpir la lectura, por
+ejemplo en mitad del capítulo 16,
+debe apretarse el botón antes de
+cerrar esta gaveta
+B. Cuando se quiera reiniciar la
+lectura a partir del momento en
+que se ha interrumpido, bastará
+apretar este botón y reaparecerá
+la gaveta No.16, continuándose el
+proceso.
+C. Suelta todos los resortes, de
+manera que pueda elegirse
+cualquier gaveta con sólo tirar
+de la perilla. Deja de funcionar
+el sistema eléctrico
+D. Botón destinado a la lectura del
+Primer Libro, es decir, del capítulo
+1 al 56 de corrido
+HUMANISTICA
+U N I V E R S I T A S
+63
+Anticipaciones
+hipertextuales en Debido
+Proceso
+Mi novela ?Debido Proceso? (Medellín:
+Eafit, 2000), narra la experiencia de un
+escritor que ha decidido refugiarse en
+una habitación clandestina para escribir
+su novela, mientras la ciudad donde vive
+se encuentra sometida a los rigores de
+una guerra absurda. Podemos afirmar
+que la novela expone dos situaciones
+paralelas, ambas dominadas por una
+?lógica hipertextual?, en los términos
+descritos arriba. Por un lado, la del
+escritor que recorre los laberintos
+indescifrables de la creación y, por el
+otro, la de una ciudad que se deteriora y
+deconstruye así su espacio estriado. Esto
+afirma en su momento Jaime, el escritornarrador,
+respecto al proyecto de
+creación al que se enfrenta:
+Todo se reduce a creer que lo que se
+narra tiene algún sentido, que no es
+una mera evasiva o una estrategia
+para salir del anonimato o para
+cumplir una vaga promesa de
+venganza, porque puede suceder que,
+como a Orfeo, todo esto no tenga más
+sentido que el de llenar ese vacío que
+nos deja la ausencia definitiva de la
+persona amada, y que el canto que
+queremos invocar sea nada menos
+que el de la necesidad de ser amado.
+¿Hasta dónde escribir no nace
+siempre de una necesidad como ésa,
+la del pobre Orfeo? ¿Quién asegura
+que la trascendencia que le damos
+después al acto de escribir no es una
+fingida, acordada por algunos para el
+embaucamiento de los otros?
+Escribimos para otros, para que otros
+nos escuchen, confiamos en la
+continuidad de la vida, en su sentido,
+en su significancia; ¿no es esa misma
+la razón por la que una mujer se liga
+a un hombre después de haber dado
+el sí: para que no se crea que es una
+puta, es decir, una mujer
+in-significante? Y por eso entonces se
+encarga de tapar con palabras y
+promesas y seducciones continuas y
+derrotas múltiples lo que ya no puede
+ocultarse, y se embarca en una
+espiral, a cuyo término está siempre y
+de nuevo el reproche de su hombre:
+solo eres una pobre puta... (70-71).
+Así como el proceso de creación
+literaria es una especie de aventura sin
+referencias intelectuales claras, así una
+ciudad en guerra constituye un espacio
+que pierde sus referencias físicas y
+culturales y por tanto se convierte
+en un espacio liso, riesgoso y expuesto a
+nuevas percepciones. Así como
+Jaime se arriesga en los espacios
+impredecibles de la creación, Ignacio,
+uno de sus personajes, hace un
+recorrido nómada para llegar
+precisamente a su recinto, al recinto
+mismo de la creación:
+Me habló de una cita con su padre,
+de la tranquilidad de su vida en el
+campo ?de donde vino, a mala hora,
+en busca de trabajo a esta ciudad
+imposible?, del ataque de nervios
+que sufrió cuando fue a la morgue a
+ver si encontraba a sus hermanos o a
+su padre que no se comunicaban
+con él desde el día que atacaron
+el barrio donde se había
+instalado, del amigo que mataron
+cuando el ejército lo encontró
+saqueando una tienda de
+paños, del miedo de salir, de las
+horribles visiones que sufría
+todas las noches y del hambre
+que tuvo que soportar
+durante días.
+?Sólo teníamos arroz y panela y algo
+de chocolate que trajo Fernando
+antes de que lo matara el ejército.
+Estábamos sitiados. No podíamos
+salir más allá del barrio porque
+habíamos quedado entre los dos
+fuegos y la lucha por el espacio se
+hizo intensa.
+Lo que muchos teóricos del
+hipertexto han afirmado es que el
+nuevo soporte de expresión
+hipertextual recupera la
+posibilidad real de poner en
+marcha ese pensamiento
+divagante y asociativo natural en
+el hombre, y de alguna manera
+concreta lo que el ejercicio
+literario había estado
+denunciando y anticipando a
+través de eras narraciones de
+neonómadas urbanas.
+Las pocas cosas de las que se enteraba
+sólo alimentaban una visión
+apocalíptica. El acoso del hambre y
+del miedo debió trastornarlo. Sólo así
+me explico que ese muchacho
+campesino, lleno de horror y sin la
+más mínima idea de la geografía de
+la ciudad, haya decidido salir de su
+barrio, cruzar la línea de fuego con
+una pierna herida y alejarse de su
+casa (que si bien debió parecérsele al
+infierno, era un lugar mucho más
+seguro que la calle). Pero lo hizo.
+Debió arrastrase kilómetros antes de
+detenerse (112).
+Pero ?Debido Proceso? también sugiere
+una ?forma hipertextual?. No es
+sólo esa relativización de un
+?principio y un final? que se da cuando
+la novela comienza por el ?resultado?
+HUMANISTICA
+U N I V E R S I T A S
+64
+del proceso creativo de Jaime,
+dislocando así la secuencia de los
+hechos, sino el carácter fragmentario
+mismo, que hace que la obra actúe
+más por sinécdoque que como un ente
+sometido a la estética de la unidad total.
+De otro lado, se aprovecha como
+estrategia narrativa la descripción de los
+cuadros de la mujer, uno de los
+personajes de la obra de Jaime,
+generándose de esta manera una
+especie multimediatismo que sumado a
+las ?canciones?, constituyen dos
+alternativas frente a la narración
+literaria tradicional.
+De este modo, Debido Proceso
+configura una especie de
+anticipación hipertextual e incluso
+hipermedial que el autor, en su
+búsqueda, al fin alcanzará como
+parte de su exploración personal en
+?Gabriella Infinita?.
+Gabriella Infinita:
+hipermedia narrativo
+Un ejemplo muy claro de la relación
+entre hipertexto, literatura y ciudad lo
+constituye mi hipernovela ?Gabriella
+Infinita?. En esta narración, que utiliza
+el hipertexto electrónico como soporte y
+que potencia el multimedia como
+estrategia estética, se propone un
+recorrido nómada del discurso,
+paralelo al que hace la protagonista
+de la historia y que por efecto
+del nuevo formato, debe también
+seguir el lector.
+Este hipermedia narra la historia de
+Federico y Gabriella, jóvenes bogotanos
+de la década de los setenta que se
+encuentran separados por extrañas
+circunstancias. Gabriella es una mujer
+de 22 años. Entra a una habitación. Ha
+llegado hasta allí para recoger las cosas
+que su amante ha abandonado. Apenas,
+unos días antes, ?a la par con el
+recrudecimiento de la guerra en la
+ciudad? y tras una larga pesquisa,
+Gabriella Ángel (es su nombre) se ha
+enterado del paradero actual de
+Federico Soler (su amante).
+Los últimos seis meses han sido para
+ella tiempo de angustia y desconcierto:
+espera un hijo y su estado no sólo le
+impide moverse con ligereza, sino que le
+ha deformado el sentido de realidad. Ha
+padecido la ausencia prolongada e
+inexplicable de su amante y esa
+marginalidad con que la sociedad suele
+desentenderse de una mujer
+abandonada. Además, unos instantes
+antes de su arribo, ha tenido que
+recorrer una ciudad semidestruida, una
+ciudad que nada tiene que ver con las
+imágenes de su vida anterior. En síntesis,
+su vida personal, como la de la
+ciudad ahora, como debió ser la de
+Federico en estos días (por lo que puede
+deducirse ante el terrible desorden de su
+habitación) es un caos. En su
+labor de mudanza, va develando el
+enigma de la ausencia de Federico.
+Cuando al fin descubre lo que ha
+sucedido, queda atrapada en el
+hospedaje, reducida a un estrecho
+espacio y en un total desequilibrio
+mental y emocional.
+Después de un par de días, acosada por
+el hambre, la desesperación y la
+locura, es descubierta finalmente por el
+grupo de personajes del edificio
+adyacente al hospedaje, quienes
+también, y casi simultáneamente, han
+quedado atrapados. Poco después, estos
+«atrapados» entienden que ellos
+mismos no son más que personajes
+de la ficción de Federico, quien ha
+realizado una escaleta para una
+Chicago. Ing. Alvaro Alexander Buchel
+HUMANISTICA
+U N I V E R S I T A S
+65
+obra cinematográfica que jamás
+verá la luz pública.
+Existen tres perspectivas posibles de la
+historia. La perspectiva de
+Gabriella (su recorrido desde la
+búsqueda de Federico hasta el
+descubrimiento de su condición); la
+perspectiva de los atrapados, quienes,
+preocupados por escapar del edificio
+donde han quedado recluidos, no
+descubren su condición sino hacia el
+final; y por último, los escritos de
+Federico que incluyen la historia de
+Gabriella y la de los atrapados.
+Paralelamente se desarrollan otras
+historias: Mujeres (historia sentimental
+de Federico), el Guerrero (historia de un
+esquizofrénico), Dominoes
+(historia de los años sesenta), Voces
+(historia de personajes de la época) y
+semblanza (autobiografía paródica de
+Federico).
+lograda. Fragmentario, descentrado,
+potencialmente interactivo y con
+vocación audiovisual, este texto
+no pudo acomodarse sino parcialmente
+al formato libro. En primer lugar,
+muchos de sus fragmentos no
+lograban articularse al dispositivo
+narrativo tradicional, ya sea porque no
+correspondían al modelo de la narración
+lineal, ya porque su estatuto era
+abiertamente no narrativo. En segundo
+lugar, la novela no tenía un único
+centro: al menos tres historias
+pugnaban por imponerse. Si sumamos
+estos cuatro factores; el carácter
+«prescindible» de los fragmentos no
+narrativos, la falta de una historia
+central y poderosamente articulante, la
+exigencia implícita para que el lector
+llenase estos vacíos con su
+participación (y que consistiría en hacer
+su propio trayecto, escoger el
+centro de la historia, «marginando» las
+otras dos historias, y «consumir» o
+no la información adicional) y las
+pocas opciones que ofrece el medio
+impreso a la interactividad, se entiende
+por qué la novela fue mal valorada.
+Esto opinó un crítico en su momento:
+Creo que hay un interés en entrelazar
+los hilos argumentales creados: los
+hallazgos de Gabriella en la
+habitación de Federico; la aventura
+de los hombres y mujeres atrapados
+en el edificio tras las explosiones; la
+historia misma de Federico, ya no la
+recordada por Gabriella, sino la
+construida por él y que también nos
+deja en el borde de no saber hacia
+dónde es su huida; la historia del
+Guerrero (totalmente desarticulada y
+sin ningún enlace) y la presencia
+implícita del escritor, del creador de
+personajes, que trata de completar en
+algo sus nonatas criaturas con
+La novela ?Debido Proceso?
+expone dos situaciones paralelas:
+Por un lado, la del escritor que
+recorre los laberintos
+indescifrables de la creación y, por
+el otro, la de una ciudad que se
+deteriora y deconstruye así su
+espacio estriado.
+Chicago. Ing. Alvaro Alexander Buchel
+Curiosamente, Gabriella Infinita fue
+primero un intento de novela, luego un
+hipertexto y finalmente el hipermedia
+que ahora se conoce en la red
+(http;//www.gabriella-infinita.net).
+Gabriella infinita, la novela.
+Como toda opera prima, la versión
+novela de Gabriella Infinita es una
+obra ambiciosa pero no suficientemente
+HUMANISTICA
+U N I V E R S I T A S
+66
+algunas explicaciones y sobre el
+sentido de las historias. Ah, el
+sentido... Tal vez desde el diálogo
+entre autor y personajes la novela
+podría rehacer y justificar sus matices
+de escritura...
+Fragmentación, necesidad de
+articulación y enlaces, matices de
+escritura, ausencia de sentido, están
+aquí ya descritas algunas de las
+características del potencial hipertextual
+de la obra. Sólo que ni el autor, ni el
+crítico en su momento (año 1995)
+podían reconocer la alternativa de
+solución que tenía la obra.
+Gabriella Infinita: el hipermedia.
+La versión hipermedia de Gabriella es el
+intento por generar un texto que
+contuviera la mejor solución de algunos
+de sus potenciales hipertextuales y
+audiovisuales. Esto significa que esta
+versión exigió: una nueva
+organización de los fragmentos; la
+reconfiguración del texto; el diseño de
+un nuevo recorrido narrativo, más ágil y
+verosímil; una mejor solución a las
+sugerencias audiovisuales; una interfaz
+más interactiva; y el ensamblaje de
+los distintos elementos, de modo que,
+por su integración, se pudieran
+superar los problemas de las versiones
+novela e hipertexto.
+En cuanto al texto, es importante anotar
+que sufrió dos restricciones. Por
+un lado, hubo, por razones técnicas, que
+sintetizar aquellos textos que se
+convirtieron en voz. Esto implica una
+«pérdida» de información en relación
+con el texto original. De otro lado, la
+organización del texto escrito,
+obligó a la redacción nueva de algunos
+fragmentos, de modo que pudieran
+leerse sin conectores narrativos. Esto
+ocurre en función de la consolidación
+de una estructura no-lineal. El recorrido
+narrativo se redujo a la historia
+de Gabriella y esto también obligó a
+estructurar la narrativa de una manera
+específica.
+algunos casos aporta a la sugerencia
+y a la ambigüedad, en otros, ofrece al
+lector la alternativa audiovisual del
+texto. El conjunto adquiere así unas
+características muy sólidas.
+Cómo deambular por ?Gabriella??
+La primera pantalla de Gabriella Infinita
+muestra una animación en la que
+aparece la figura abstracta de una mujer
+embarazada sobre el fondo de la ciudad
+de Bogotá. La música introduce
+sutilmente el ambiente de «guerra en la
+ciudad» que ambientará la narración.
+Hay una indicación para ir a la pantalla
+«principal».
+En la pantalla principal, aparece el
+título de la obra, el nombre de los
+autores, datos sobre el proyecto y otras
+indicaciones, y la imagen de una
+mujer embarazada; una sencilla
+animación sirve como indicación para
+«entrar». Al hacer click sobre la flecha
+de entrada (o sobre la palabra
+«portada»), se abre otra pantalla que,
+con la imagen de sendas puertas,
+sugiere tres accesos al hipermedia. Al
+pasar el cursor sobre cada una de las
+puertas, estas se entornan y,
+simultáneamente surge una primera
+información que consiste en el título
+(ruinas, mudanza o revelaciones) con el
+que se anticipa de alguna manera el
+ambiente de cada una de estos
+segmentos narrativos. El orden de las
+puertas indica secuencia o continuidad,
+pero no se convierte en una obligación
+del lector seguirla.
+Al hacer click sobre «ruinas» (la
+primera puerta), se abre una nueva
+pantalla. En el extremo inferior
+izquierdo aparecen de nuevo las tres
+puertas, sólo que esta vez, la que
+corresponde a «ruinas» permanece
+En ?Gabriella Infinita?, que
+utiliza el hipertexto electrónico
+como soporte y que potencia el
+multimedia como estrategia
+estética, se propone un recorrido
+nómada del discurso, paralelo al
+que hace la protagonista de la
+historia y que por efecto del nuevo
+formato, debe también seguir el
+lector.
+En cuanto a la interacción del lector,
+ésta se potenció de la siguiente
+manera: primero, consolidando la no
+linealidad del texto. La obra presenta
+ahora tres segmentos narrativos cuya
+secuencialidad apenas se insinúa, pero
+en ningún caso de condiciona. El lector
+puede entonces, desde sólo visitar
+las imágenes, hasta agotar todo el texto
+y el audiovisual. Segundo: se
+ofrece la posibilidad de ir grabando
+distintos recorridos, de modo que el
+lector pueda volverlos a repasar o entrar
+de nuevo por otro camino
+diferente. Obviamente la posibilidad de
+imprimir los textos también se
+ofrece. Es otra manera de facilitar el
+ensamblaje personalizado del lector.
+Finalmente, se ofrece la posibilidad de
+que el lector escriba, ampliando,
+corrigiendo o simplemente colaborando
+con la escritura de la historia misma.
+Todo el trabajo de interfaz audiovisual,
+se integró a una «filosofía» y a
+una «funcionalidad» de la historia. En
+HUMANISTICA
+U N I V E R S I T A S
+67
+siempre entornada, mientras las otras
+dos se muestran cerradas. Al pasar el
+cursor sobre ellas, se abren, e indican el
+destino. Este efecto se mantiene a la
+entrada de cada uno de los otros dos
+segmentos narrativos. El fondo de
+ruinas es la silueta de la ciudad de
+Bogotá, sobre la cual aparecen cuatro
+«botones». Al pasar el cursor sobre estos
+botones, una animación muestra la
+imagen de la mujer embarazada que
+«avanza». Es indudablemente una
+nueva sugerencia de continuidad, que
+aquí tampoco coacciona al lector. Al
+hacer click sobre alguna de las cuatro
+imágenes de la mujer (ya el lector debe
+suponer que es Gabriella), se despliega
+una ventana que se superpone al
+fondo y que contiene un texto. Al abrir
+los cuatro textos, el lector se
+encuentra con la descripción del
+recorrido que Gabriella hace desde su
+apartamento hasta la habitación de
+Federico.
+Al hacer click sobre «mudanza»,
+se abre una ventana que insinúa una
+habitación. Simultáneamente una
+animación permite hacer una
+panorámica del cuarto de Federico. El
+lector deberá pasar el cursor por el fondo
+de la pantalla para poder «encontrar»
+diversos objetos que surgen desde
+distintos lugares de la «habitación» de
+Federico (fotos, papeles, una gabardina,
+cachivaches, una mesa, etc.). Al hacer
+click sobre cada uno de ellos, se
+superpone una ventana de menor
+tamaño que expone una secuencia de
+dos o tres textos. Al leer este conjunto de
+pequeñas secuencias el lector se entera
+de la labor de mudanza de
+Gabriella y de los recuerdos y
+reflexiones que le ocasiona
+el contacto con los objetos
+de Federico.
+Al hacer click sobre «revelaciones», el
+ambiente de fondo de la pantalla se
+hace más oscuro, pero se puede
+comprender que se permanece aún en la
+habitación de Federico. El juego de
+encontrar objetos continúa, pero esta
+vez al hacer click sobre cada uno de
+ellos (una cinta de video, un libro,
+una pantalla de computador, un
+diskette, una carpeta de apuntes, etc.),
+surge una pantalla que se superpone a
+la del fondo y un letrero que narra
+brevemente el encuentro de Gabriella
+con cada objeto, y enseguida una
+indicación de secuencia. Esta es la
+sección donde está concentrado el
+material «audiovisual», aunque
+también hay texto para leer. Un video,
+música, algunos ruidos de fondo y voces,
+constituyen el ambiente narrativo
+de esta parte. Obviamente, aparte de esa
+diferencia de contenidos, esta
+parte de la narrativa sugiere que la
+mudanza de Gabriella se ha convertido
+en un mensaje, en una revelación.
+En revelaciones, se encuentran también
+las tres puertas, pero hay una cuarta
+puerta al extremo inferior derecho. Al
+pasar el cursor, esta puerta se
+entorna y al hacer click sobre ella, se
+abre una nueva ventana en la que
+aparece un «epílogo» de la historia, y la
+posibilidad de escuchar la voz de
+Gabriella. Un texto al final rueda
+automáticamente, indicando el final.
+A manera de orientación para el lector se
+ofrece, en la pantalla principal,
+una descripción del proyecto y un mapa
+La ciudad ha dado origen a un
+tipo de literatura que exige un
+recorrido nómada.
+de los enlaces y de la estructura
+textual de la obra.
+Conclusiones
+La ciudad ha dado origen a un tipo de
+literatura que exige un recorrido
+nómada. El hipertexto permite hacer
+recorridos ?literarios? por espacios lisos,
+es decir, no determinados por una
+secuencia o por ninguna otra
+performatividad (ni siquiera la intención
+creativa del lector, que se disuelve en la
+pura interactividad). La ciudad, igual
+que el hipertexto, se recorre como
+sinécdoque (se percibe
+fragmentariamente), metonimia
+(siempre se siente que falta algo) y
+metáfora (nunca la ciudad es la
+misma). La creatividad literaria es un
+proceso guiado por los recorridos lisos.
+Es en la experiencia del proceso creativo
+mismo donde se experimenta esa especie
+de libertad mental propia de los espacios
+lisos. Y todas estas dimensiones han sido
+entrevistas y conectadas en un proyecto
+creativo que ha recorrido el camino que
+va desde ser un transeúnte más de la
+ciudad hasta ese hacer creativo que pasa
+primero por la novela y se detiene
+fascinado en las posibilidades narrativas
+del hipermedia.
+HUMANISTICA
+U N I V E R S I T A S
+68

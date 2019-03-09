@@ -1,0 +1,638 @@
+EPISTEMOLOGÍA EN LAS JUNTURAS DEL HIPERTEXTO
+EPISTEMOLOGY IN THE JOINTS OF HYPERTEXT
+ENRIQUE FERRARI NIETO
+Universidad de Extremadura
+eferrari79@gmail.com
+RECIBIDO: 11/02/2015
+ACEPTADO: 01/05/2015
+Resumen: Con la tecnología digital se ha vuelto más factible la liberación del texto del contenedor
+físico que es el libro, con su imagen forzada de autónomo, de hermético, con un sentido ya fijado. El
+lenguaje hipertextual, que relaciona (sin el control total del autor) textos diversos a través de sus
+hipervínculos, permite crear explosiones semánticas imprevistas, inéditas, con las combinaciones
+fortuitas que, eventualmente, pueden dar lugar a imágenes originales con las que renovar el lenguaje.
+Como la metáfora y la metonimia (a un tiempo estallido y exposición del significado), tiene una función
+epistemológica: como apertura y vínculo, como acceso a lo simbólico.
+Palabras clave: Informática, literatura, autonomía, metáfora, metonimia.
+Abstract: Digital technology facilitates the independence of the text of the book, which want to seem
+hermetic, with a sense already fixed. The hypertext conects various texts through its hyperlinks
+(without complete control of the author). It can create unexpected semantic explosions: with fortuitous
+combinations that can produce original images, that renew the language. As the metaphor and
+metonymy, has epistemological function: as opening and link, as access to the symbolic.
+Keywords: Computing, literature, autonomy, metaphor, metonymy.
+Los méritos del hipertexto
+No puede ser ingenua una metáfora, sin doblez, como define el diccionario la
+ingenuidad, porque la articulación de significados que aglutina, poniendo uno y
+otro en un mismo espacio, enfrentándolos, para crear un nuevo sentido, le exige
+ese mismo movimiento sobre sí misma: esa flexión, en principio nada candorosa.
+Aunque ese sentido figurado hecho en el instante, como un fogonazo, se vuelve en
+seguida atemporal, olvidada la breve historia de su construcción. Queda
+sedimentado por el uso, por el hábito general de emplear el término sin caer en su
+carácter metafórico, lo que le permite ocultarse, no revelar que su sentido es, en
+realidad, ese mismo pliegue construido en el pasado para acercar, hasta fundir, dos
+sentidos diferentes.
+ENRIQUE FERRARI
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+70
+Con la muerte del libro, que es solo una metáfora, casi una personificación,
+los argumentos más apocalípticos cargan la discusión con el dramatismo del final,
+de lo definitivo: porque no es ya la sustitución de un soporte (y producto) cultural,
+sino su muerte, el término de la vida de algo (casi alguien), que nos ha sido tan
+cercano. Pero descubierta la metáfora, la articulación en el origen de esas dos
+realidades no tan cercanas, la tristeza deja de ser un argumento posible en el plano
+teórico, menos dado a la empatía que el sentimental que, como mínimo, con el
+anuncio de una muerte, se impone un silencio respetuoso. Solo entonces, como
+teoría, para rebatir las penas, cabe intentar otro discurso más honesto (también
+menos generoso) que el panegírico, que pueda, incluso, plantear las ventajas o las
+posibilidades que abre con su muerte el libro de papel. Porque el libro, que ha
+entrado ya en una lenta agonía que parece irreversible, anunciada insistentemente
+por entusiastas y beatos, es solo -con su valor incuestionable- el contenedor físico
+del texto. Hasta ahora, un largo recorrido juntos ha condicionado a uno y otro,
+hasta llegar a (con)fundirlos, pero los mecanismos digitales, al liberar a la
+literatura de su corsé, del encuadernado en papel, han devuelto a cada uno su
+autonomía y, con esta, han permitido un nuevo desarrollo del texto, menos
+limitado en su extensión, y un nuevo trato entre autor y lector que equilibra las
+fuerzas, dándole un rol más activo al segundo, que ya le correspondía antes (toda
+lectura acaba de crear el texto), pero no podía exprimir del todo. El hipertexto,
+paradigma de la literatura de la era informática, llamado a ocupar el lugar del
+muerto, es un conjunto de documentos no jerarquizados conectados a través de
+enlaces que el lector puede activar, eligiendo entre los itinerarios posibles de una
+compleja red de hiperenlaces que el autor -que no ha muerto arrastrado por el libroorganiza
+como diferentes posibilidades. Son varios fragmentos en los que el lector
+puede moverse con cierta libertad, sin un recorrido previamente fijado: Puede
+elegir un orden de los nodos, no hay un principio ni un final para encerrar el relato,
+que crece tanto horizontal como verticalmente, como si los fragmentos fueran
+extensísimas notas a pie de página, aunque la configuración de la red que
+constituye el hipertexto con sus potenciales lecturas permanezca inalterable como
+marco, con un número determinado de enlaces que permiten los saltos narrativos:
+un cerco del que, en principio, con la tecnología actual, el lector usuario no puede
+salir, pero que abarca un terreno enorme, con todos los textos que el autor quiera
+incluir. Con lo que la narración del hipertexto cambia a cada instante, se multiplica
+con sus ramajes, remitiendo al exterior y evitando un centro, un núcleo narrativo.
+Tiene dos riesgos importantes: la sobrecarga de información y la
+desorientación. En la práctica ha sido un fracaso, y es probable que en el futuro se
+diluya en un género mayor que sea hipermedia, con imágenes y sonido, no solo
+con texto. Pero, como el intento más osado en la fragmentación de textos, es la
+EPISTEMOLOGÍA EN LAS JUNTURAS DEL HIPERTEXTO
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+71
+mejor fuente para estudiar, de esa fragmentación, las posibilidades combinatorias
+de los fragmentos, las junturas, los (hiper)enlaces, con su capacidad para generar
+nuevos contextos interpretativos fruto de la embestida de un texto sobre el otro
+para crear posibles sentidos: lo que no ofrecen otros textos fragmentados cuyo
+soporte es el libro de papel, en los que solo hay una disposición elegida por el
+autor, con los fragmentos por lo general consecutivos, con solo una juntura posible
+para articular dos textos, que refuerza la independencia significativa de los
+fragmentos en detrimento del juego combinatorio entre ellos. Con el lenguaje
+hipertextual, en cambio, las junturas potenciales para los distintos fragmentos se
+multiplican, cada una el origen de un diálogo al ensamblar dos textos (por lo
+general dos páginas web), con su disposición, cada uno en su espacio, con una
+transición muchas veces abrupta del primero al segundo sin la referencia, en ese
+momento, del texto completo, que los engloba solo una vez actualizado: Basta con
+pinchar en cualquier hipervínculo para dejar un pasaje en esa misma palabra
+pinchada y llegar a otro, que queda así conectado con el anterior, y luego a otro,
+en una decisión que compete solo al lector, que -es verdad- encuentra sus límites
+en el número de hipervínculos activados por el autor (los hipervínculos
+potenciales), pero que sólo con su lectura, al elegir unas junturas diferentes, crea
+(o co-crea) un texto definitivo con la suma de los distintos fragmentos
+encadenados. El hiperlector se convierte en un demiurgo, el que ordena un material
+existente disperso en la red, justificado con la propuesta de Deleuze y Guattari,
+con su rizoma, con el que sacuden a la obra de arte de cualquier pretensión
+autónoma, de su comprensión como objeto cerrado, independiente, porque, como
+el hablar roto de Unamuno, la materia del libro sería líneas de articulación y líneas
+de fuga, sin objeto ni sujeto, porque se forma necesariamente con las conexiones
+con el exterior, con el afuera del texto. Cualquier punto del rizoma, escriben en
+Mil mesetas Deleuze y Guattari, puede ser conectado con cualquier otro, y debe
+serlo (Deleuze y Guattari 1994: 13). Una intertextualidad que en el libro de papel
+solo podía ser virtual, porque no tenía los mecanismos apropiados para hacerla
+efectiva, pero que en el hipertexto se hace visible, hasta el punto de que, por
+definición (en la propuesta fantasiosa de sus creadores), no puede ser leído hasta
+el final, es infinito, siempre en movimiento con sus hipervínculos, porque no se
+prevé uno último en la red: en teoría, cada palabra podría estar activada como
+hipervínculo, con un crecimiento exponencial de los fragmentos posibles.
+El hipertexto es la constatación, tan tangible en este género, de las
+limitaciones del rol del escritor en la teoría literaria actual. El autor pierde el
+control absoluto de su creación. En el momento actual del desarrollo tecnológico
+de Internet tiene todavía que determinar qué hipervínculos activa pero, al remitir
+estos a páginas web ajenas al hipertexto matriz creado por él, se vuelve imposible
+ENRIQUE FERRARI
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+72
+organizarlo todo minuciosamente con el prurito de mantener la coherencia de la
+trama. O bien, como se hizo al principio, crea un hipertexto muy pequeño, un
+circuito cerrado, sin sacarle ningún provecho a las posibilidades de su mecanismo,
+sin conexiones con el exterior, o bien asume que, una vez iniciado el recorrido,
+puesto en marcha el hipertexto matriz, el control pasa a manos del lector, imposible
+de retener en un circuito tan angosto, de solo unas pocas páginas web, si de verdad
+se quiere un hipertexto pleno, hasta forzar una ruptura con el modelo de la novela:
+ese intento anterior (que fracasó) en los inicios del hipertexto, por imitar su
+construcción a pesar de que la atención constante del lector hacia su mecanismo
+informático, con la activación de los hipervínculos, se vio incompatible con su
+inmersión en la trama, una de las funciones principales (la más popular) de la
+novela: atraer al lector a las andanzas de los personajes de la ficción, en ese
+paréntesis que es la lectura, de su propia realidad. Como advirtió Ortega:
+“Mientras estamos leyendo una novela egregia pueden seguir funcionando los
+mecanismos de nuestro cuerpo, pero eso que hemos llamado ‘nuestra vida’ queda
+literal y radicalmente suspendido. Nos sentimos distraídos de nuestro mundo y
+trasplantados al mundo imaginario de la novela” (Ortega y Gasset 1983: VII, 468-
+470). Incompatible la atención a un tiempo al significado y al significante: a las
+palabras y, más aún, al lenguaje informático html que exige una implicación
+mayor, con los intermediarios entre la historia y el lector más visibles, más difícil
+de pasar a través de ellos sin percatarse de su propio cuerpo: aquello que decía
+Borges de Cervantes: “Le interesaban demasiado los destinos de Quijote y Sancho
+para dejarse distraer por su propia voz” (Borges 2008: I, 237).
+A partir de esa pérdida de control del escritor sobre el producto final, que
+perfila el lector eligiendo el orden de los nexos, es posible una reflexión acerca del
+hipertexto desde su potencial para vincular textos incoherentes entre sí, no
+preparados en principio para sucederle uno a otro, con lo que alteran, con la
+aparición repentina de un nuevo contexto, su sentido. Como herramienta de
+escritura, el lenguaje hipertextual tiene, como el rasgo más destacado, una
+capacidad única para continuar las líneas abiertas del discurso, desarrollándolas
+con la extensión que considere necesaria: en lugar de tener que ir cerrando,
+amputando, las posibilidades verticales, paradigmáticas, que surgen, dejándolas
+como si fueran flecos, para poder continuar el discurso (horizontalmente) sin
+perder al lector por un camino lleno de recovecos, puede dejar abiertas todas las
+posibilidades, recrearse en cada una, simplemente activando un hipervínculo, sin
+perder de vista la morfología del discurso, porque las notas, el contenido extra en
+cada caso, solo aparece si lo quiere el lector. Pero junto a esta cualidad tan valiosa,
+sobre todo para textos de erudición, ofrece también a la hermenéutica ese otro uso,
+más conflictivo, más minoritario, al encadenar fragmentos inconexos creando, de
+EPISTEMOLOGÍA EN LAS JUNTURAS DEL HIPERTEXTO
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+73
+algún modo, explosiones semánticas, nuevas imágenes que pueden llevar a
+renovar el lenguaje, también el lenguaje filosófico, que adolece de un género
+propio.
+El potencial inédito de los fragmentos
+Una comprensión de la realidad menos autocomplaciente, que arranca
+definitivamente con las vanguardias históricas, y, sobre todo, las nuevas
+posibilidades técnicas que ofrecen formatos diferentes al libro, con el desarrollo
+en los últimos cuarenta años de la informática, han alimentado una presentación
+fragmentada de la literatura que, aun siendo minoritaria, ha generado una
+alternativa (de varios frentes) al discurso lineal con el que hasta ahora, con muy
+pocas excepciones, se han estructurado los distintos géneros y formas literarias de
+la prosa. En un principio, para construirse un aparato teórico que pudiera armarlos,
+una poética diferencial, estos intentos por legitimar formas que rompen
+concienzudamente con las normas canonizadas se amarraron a otros esbozos
+(teóricos y prácticos) anteriores, brillantes, pero que no pudieron ser culminados:
+a autoridades, reconocidos literatos en su tiempo, que fueron capaces también de
+no enquistarse con unas fórmulas tan rígidas, como Mallarmé, por ejemplo, con
+su libro total; que intuyeron esas mismas estructuras, aunque no dieron con un
+mecanismo eficaz capaz de concretarlas. Había en ambos casos una misma
+pretensión estética (por cuanto planteaban una alternativa en lo formal) y también
+epistémica (por su cuestionamiento como instrumento de conocimiento) que
+justificarían estos intentos a pesar de las dudas que despertaron sus distintas
+concreciones, por lo general decepcionantes. Pero al centrar las disquisiciones en
+los parentescos, en dar con esas pocas referencias sugerentes y buscarse las
+semejanzas, se pasó por alto, en lo estrictamente técnico (su estructura), que
+tomando como único modelo la novela el texto fragmentado abierto (el que
+concreta el lector con su lectura al dar un orden a los fragmentos) se ve forzado a
+achicar drásticamente su territorio propio, hasta volverlo mínimo por las
+limitaciones inevitables a que le obliga el número tan pequeño de combinaciones
+con sentido, coherentes, como le pide la novela, en el conjunto total de
+posibilidades que salen de la permutación con las distintas partes fragmentadas de
+un texto: de hecho, los intentos de limitar en la práctica estas alternativas no
+deseadas, o no eficaces en el hipertexto, reduciendo el número de posibilidades en
+la elección del lector (el número de enlaces activados), imitando también aquí las
+formas anteriores que ya lo previeron, jugó en contra de su propia justificación
+ENRIQUE FERRARI
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+74
+como forma literaria propia, al infrautilizar su mecanismo único para plantear
+alternativas, otra cosa que la novela.
+Al principio tuvo que ser inevitable buscarle una horma al hipertexto: una
+referencia ya existente, con puntos en común, para poderlo imaginar con un
+cuerpo, para poder darle una forma literaria a un producto muy atado al soporte, a
+lo que podía ofrecerle el lenguaje html de los ordenadores. Pero, replanteado de
+nuevo el género, no hay que volver a Mallarmé, o a Borges, o a Calvino, no hay
+que volver a la novela, no hay que vestirlo con un traje que le queda tan corto,
+cuando sus posibilidades técnicas pueden apuntalarse (y justificarse) antes, en un
+estadio más primario: Con el lenguaje, para la construcción de un texto cualquiera,
+hay que manejarse con un número limitado de elementos, de sintagmas, que cada
+uno reconoce y se apropia, no solo por su coherencia o por una lógica interna
+determinada, sino por el uso que percibe que se hace de estos en su entorno, por la
+frecuencia con que estos sintagmas y sus uniones con otros sintagmas han sido y
+son utilizados, sobre todo por el uso prestigioso de personajes célebres (o
+productos mediáticos) que van fijando las formas futuras. Pero cuando detrás de
+la construcción lingüística hay una pretensión literaria, una voluntad de estilo, de
+ser reconocido el autor frente a otros, las posibles combinaciones obedecen al
+criterio opuesto, y lejos de apoyarse en lo ya escrito, lo ya canonizado por el uso,
+que ha copado el ámbito de lo coherente, lo que se busca en las posiciones de
+vanguardia es abrir nuevos caminos, tanteando en un conjunto mucho mayor otras
+posibilidades en un juego casi matemático, de permutaciones, de ordenaciones
+posibles, que ha buscado sus límites en los textos fragmentados y abiertos, con el
+mayor número de enlaces posibles, donde caben también (son mayoría) las
+posibilidades incongruentes. Lo que escribe Borges en su biblioteca de Babel: “El
+número de símbolos ortográficos es 25. […] Ya se sabe: por una línea razonable o
+una recta noticia hay leguas de insensatas cacofonías, de fárragos verbales y de
+incoherencias” (Borges 2008, I, 560). Estos experimentos literarios de los años 80
+y 90 han quedado convertidos en versiones limitadas al reducir los (hiper)vínculos,
+para domar el potencial de todas las combinaciones posibles, como si fuera una
+demo en la que el autor nunca pierde el control. Pero desechados estos primeros
+intentos, al menos temporalmente, al menos en sus versiones menos ambiciosas,
+queda un potencial significativo en cada conexión dispar del texto, lo que relata
+Borges, con las junturas de los fragmentos, que puede servir como material virgen
+para una reflexión posterior. Pueden funcionar como analogías, con una traslación
+de significados tremendamente sugerente. Como escribió Breton: “Para mí la
+imagen más fuerte es aquella que contiene el más alto grado de arbitrariedad,
+aquella que más tiempo tardamos en traducir a lenguaje práctico” (Breton 1999:
+408). Aunque la mayoría de los vínculos sean para el lector palos de ciego.
+EPISTEMOLOGÍA EN LAS JUNTURAS DEL HIPERTEXTO
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+75
+Frente al hipertexto, en el intento por comprenderlo, caben, entonces,
+ambas actitudes: la que pudo con él, el derrotismo ante el texto incoherente,
+incomprensible cuando es tomado en su totalidad; y también la búsqueda
+entusiasta de una relación hasta entonces desconocida para el lector. Como en una
+de las figuras inverosímiles de Escher, “Relatividad”, de 1953: una escalera o
+diferentes tramos de escalera, con su forma habitual, pero con una disposición
+imposible, con varias perspectivas que, al coincidir en el plano, ponen a prueba en
+el espectador su sentido de la lógica, imposible de mantener con una visión
+general, completa, del dibujo, porque la convivencia simultánea de figuras que
+usan los escalones por sus dos superficies, a un tiempo la superficie de arriba y la
+superficie de abajo, altera el enfoque para crear ese mundo imaginario, absurdo.
+Con las dos alternativas antagónicas en su interpretación: como elemento
+fascinante, como posibilidad inédita, pero también, pasado el entusiasmo, al
+hacerse fuerte el pesimismo, como un elemento estéril. De hecho, en otra de sus
+figuras, en “Subiendo y bajando”, de 1960, Escher echa mano de otra escalera en
+la que coloca varios monjes subiéndola y bajándola a un tiempo: son monjes
+porque quiere indicar, con la expresión en holandés, que su trabajo, después de
+todo, es inútil. Es inevitable la ambivalencia, con el espectro que cubren las
+distintas hermenéuticas posibles, con su confianza máxima o mínima en una
+interpretación universalmente válida, porque una novela autónoma podía
+envalentonar sin problemas una hermenéutica unívoca, segura del sentido que el
+autor había querido encerrar en su pieza hermética; pero el hipertexto, sin tantas
+contenciones, sin ni siquiera un autor único, lo pone más difícil: ante la inseguridad
+que transmiten sus fragmentos sin fijar, desperdigados en Internet, rota esa
+tendencia univocista, se hace claro que la comprensión sea equívoca, que sean
+muchas las respuestas viables, imposible de jerarquizar en un texto tan volátil.
+Pero esa disposición de los elementos en el texto fragmentado revela, por
+el orden trastocado, poco intuitivo para el lector, además de la autonomía más o
+menos significativa de cada fragmento, independiente del texto completo, también
+las posibilidades significativas de los enlaces entre los distintos fragmentos, más
+visibles que nunca: cómo al vincularlos se alteran sus significados o se genera uno
+nuevo que los comprende a los dos, integrándolos, en un movimiento difícil de
+concretar, a veces más cercano a lo metafórico y otras a lo metonímico, en el que
+cada uno de los fragmentos permuta su significado al alterarse su contexto
+semántico con nueva información del otro fragmento con el que interactúa,
+consciente de estar salvando esa distancia, el precipicio entre ambos: una
+estructura dinámica, que es también la de la hermenéutica analógica, una
+estructura integradora, atenta a los fragmentos y al todo que forman, para no caer
+ni de un lado (la hermenéutica unívoca) ni del otro (las hermenéuticas equívocas).
+ENRIQUE FERRARI
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+76
+Porque la estructura del hipertexto, poco locuaz si se la intenta comprender como
+análoga a la narrativa, tiene, como la poesía, una capacidad excepcional para crear
+imágenes y metáforas nuevas con cada uno de sus hiperenlaces. El hipertexto fue
+desechado en su momento porque las conexiones entre los distintos fragmentos, si
+de verdad planteaba tantas opciones como podía ofrecer solamente el sistema
+hipertextual, hacían imposible la trama: incoherente, incontrolable por el autor y
+también por el lector, que se veía incapaz de cerrar una historia. No pudo, en su
+justificación, soltar amarras, colocar a la literatura a la altura de otras artes,
+emancipada de su tradición, de romper los viejos moldes de la trama, con su
+estructura, desde Aristóteles, de principio, nudo y desenlace. Aunque habría
+bastado, en lugar de hacerlo pasar por la imposible coherencia de la trama -lo
+propio de la narrativa-, con destacar las nuevas vías que abría al unir dos elementos
+por primera vez, al crear diálogos inéditos, como en la poesía, cerca del
+surrealismo, del dadaísmo, del creacionismo, etc.
+La pieza trucada de la novela
+No hay un modo único para escribir una novela, demasiado maleable para
+imponerle unas coordenadas, pero desde sus comienzos, con la primera, tuvo ya,
+como un horizonte global, una pretensión de autonomía que se concreta ante el
+lector en su presentación o simulación como entidad ontológica perfectamente
+autónoma, con sus leyes (la idea kantiana), pero también con su territorio: como
+otra cosa que la realidad, como un espacio al margen, como un mundo, con esa
+metáfora tan popular, capaz de acoger durante unas horas al lector. Cervantes, su
+inventor, quiso desde el principio dejar planteado con sus libros una reflexión
+sobre el espacio creado por la ficción, perfectamente cerrado, protegido de
+injerencias externas, donde lo verosímil sustituyera a lo veraz. Un hermetismo que,
+en estos cuatro siglos, a veces ha aflojado un poco, pero otras prueba su resistencia,
+con un mecanismo perfectamente medido para que, en apariencia, nada quede
+fuera de la propia ficción, con ese isomorfismo con el que intenta simular un
+mundo, incluso con su principio y su final; pero que es siempre un artificio, un
+truco que oculta la brecha que a la fuerza deja colarse a la realidad: que revela una
+de sus caras, como objeto real, perteneciente al mundo (sin mayores disquisiciones
+ontológicas) igual que una mesa, aunque tenga, en su otra cara, la capacidad de
+producir significados, como entidad intencional, igual que una persona, como ha
+defendido, por ejemplo, Margolis.
+Cervantes, con un tajo, separa la realidad de la ficción para alejarse del
+exemplum anterior, de la literatura renacentista que (con)fundía la vida y los
+EPISTEMOLOGÍA EN LAS JUNTURAS DEL HIPERTEXTO
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+77
+libros. En El coloquio de los perros hay en un primer plano una reflexión sobre
+una cuestión externa a la novela: qué hacer frente al mal; pero la historia se inserta,
+como la última de las Novelas ejemplares, en otra narración, El casamiento
+engañoso, en la que Campuzano, tras hablarle a su amigo de su boda, le cuenta
+también El coloquio de los perros: lo que hablaron los perros Cipión y Berganza
+la primera noche, que él ya ha escrito en su cartapacio. Con ese marco en el que
+se hace explícito el narrador como personaje de otra narración, Cervantes plantea
+una reflexión más abarcadora que esta primera moral (más evidente) en un
+segundo nivel metaliterario: la relación entre verdad y ficción: una nueva forma
+de interpretar la realidad, porque con El casamiento engañoso como primer
+episodio en la estructura de la novela la reflexión yo no es extraliteraria, sino sobre
+la verdad y la literatura. En el Renacimiento -que él contempla desde la cumbreuna
+y otra se confunden: la vida se modelaba desde las pautas de los libros, que
+quedaban justificados en tanto que enseñaban a los lectores cómo vivir rectamente.
+Para Cervantes, en cambio, lo leído y lo vivido son niveles de realidad no
+equiparables: La literatura, dice, no es vida, es artificio. El casamiento engañoso
+funciona entonces como tema metaliterario al hacer Cervantes del relato del perro
+Berganza la narración de Campuzano a su amigo, como una ficción dentro de otra
+ficción con las que explica los diferentes ámbitos que delimita con esa línea
+divisoria entre el arte y la realidad o la vida. Convierte a la literatura en autónoma;
+la libera de tener que justificarse con los parámetros de cualquier otra actividad. A
+Cervantes le vale con el entretenimiento: lo que escribe en el prólogo al lector: “Te
+digo otra vez, lector amable, que destas novelas que te ofrezco, en ningún modo
+podrás hacer petitoria” (Cervantes 2000: I, 51). Si hablaron o no realmente los
+perros Berganza y Cipión deja de ser relevante, porque lo que lee Peralta no es una
+historia, sino una ficción, donde lo que importa es el artificio. Como le dice el
+licenciado Peralta a Campuzano, después de la lectura: “Señor Alférez, no
+volvamos más a esa disputa. Yo alcanzo el artificio del Coloquio y la invención,
+y basta” (Cervantes 2000: II, 359).
+Planteado en los términos de Vargas Llosa, que ha horadado esta cuestión en
+su producción teórica, la novela pretende competir con la realidad, dotándose con
+una coherencia interna que intenta reproducir la realidad de principio a fin, pero
+con un orden que es, a la fuerza, una invención, una simulación, para poder dar
+con una mirada plena, encapsulando la realidad, reduciendo su escala con una
+trama, para poder entenderla. Como en Cien años de soledad, el paradigma para
+su tesis del deicidio en la novela total (Vargas Llosa 1971: 479-577), porque
+García Márquez suplanta a Dios, construye una realidad total capaz de crear un
+mundo cerrado a la realidad real, con su principio y su fin, autosuficiente, porque
+con la traducción que hace Aureliano Babilonia de los manuscritos acaba el libro
+ENRIQUE FERRARI
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+78
+al tiempo que acaba Macondo (García Márquez 2007: 470-471). Según avanza
+Aureliano en la lectura para llegar en lo escrito al momento que él vive, que está
+viviendo, se van reduciendo los años de anticipación; y lo narrado y lo sucedido
+se aproximan hasta coincidir del todo, porque lo que lee Aureliano Babilonia antes
+de morir es lo que los lectores de la novela han leído hasta ese momento: lo que
+Melquíades escribió, como un personaje, dentro de la propia historia. Con lo que
+el lector descubre que el narrador no era, entonces, un narrador-dios,
+omnipresente, alejado de la realidad ficticia, fuera de la ficción para poder crearla,
+sino un narrador-personaje que narra la historia indirectamente, a través de unos
+manuscritos escritos dentro de la novela. El narrador está dentro de la historia,
+como una pieza más de la realidad ficticia, por lo que va a desaparecer con
+Macondo, destruido junto a lo narrado, para que no haya nada, ni antes ni después,
+fuera de la novela. Escribe Vargas Llosa que en el instante en que el narrador y lo
+narrado coinciden, ambos desaparecen. Entonces sí: la narración sería entonces
+perfectamente autónoma, impermeable a esa realidad real con la que quiere
+competir, a la que no debería nada. Melquíades es creador y creado, porque es el
+narrador, pero un narrador personaje, no el omnisciente que el lector se había
+imaginado, más asimilable al escritor, más deudor de la realidad. Pero ese cambio
+de narrador, de omnisciente a implicado en la ficción, que el lector sólo descubre
+al final, es un truco, una pequeña trampa factible solo porque García Márquez no
+necesita cambiar la persona gramatical de este, con lo que la realidad primaria y
+secundaria, la del narrador-dios y la del contenido ficticio, pueden invertirse y el
+contexto del texto, la realidad exterior en la que debería de estar el narrador,
+desaparece, para que el lector crea que nunca existió. Lo que de hecho se presenta
+ante el lector es un trampantojo: un desdoblamiento del narrador, con el que el
+verdadero narrador (el omnisciente) permanece oculto y solo aparece un
+representante suyo que no es el narrador auténtico, para adecuar así, como escribe
+Vargas Llosa, la estructura de la novela a la ambición de la materia: describir una
+realidad hasta agotarla, de su principio a su fin (Vargas Llosa 1971: 541-542).
+Queda redonda, cerrada, con esa disposición formal para cumplir con la pretensión
+clásica de ser hermética, desde el XVII con Cervantes, y también ahora, con los
+novelistas tardomodernos (la mayoría). Con la dovela perfecta -unas pocas líneasque
+encaja las demás piezas hasta cerrar la novela, dejándola redonda, justificada
+por sí misma, como creadora de un mensaje.
+Pero, consolidada la advertencia o la constatación del Ferdydurke de
+Gombrowicz, cada vez hay más deserciones, más escritores deseosos de liberarse
+de un mecanismo que entienden solo como una opción -no la suya, no la más
+interesante en nuestro tiempo- para configurar una ficción que, además, no ven tan
+EPISTEMOLOGÍA EN LAS JUNTURAS DEL HIPERTEXTO
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+79
+hermética. Escribe Witold Gombrowicz para su prefacio de “Filifor forrado de
+niño”:
+¿No ocurre acaso que cualquier llamada telefónica o cualquier mosca puede
+distraer al lector de la lectura justamente en ese supremo momento en que todas
+las partes y tramas se juntan en la unidad de la solución final? ¿Y si en ese
+momento entrase, digamos, su hermano y dijese algo? La noble labor del
+escritor se echa a perder a causa de una mosca, un hermano, o un teléfono. […]
+¡Para eso, pues, construimos el todo: para que una partícula de la parte del lector
+asimile una partícula de la parte de la obra y solo en parte! (Gombrowicz 2010:
+94).
+Una desproporción entre lo titánico del trabajo y la miseria (con los riesgos)
+en los resultados que insinúa o al menos legitima otro camino más sensato, otro
+producto no tan expuesto, con este tipo de contingencias, a la concentración del
+lector en un solo punto, en un solo momento: El que ha recorrido el hipertexto,
+que sin querer acabar con la novela, ni sustituirla, en lugar de querer explicar la
+realidad con una simulación más manejable que, con la complicidad del lector,
+oculta sus costuras inevitables, lo intenta con otro mecanismo: descentralizado,
+abierto, más apto para combinar perspectivas, que encaja bien, para intentar una
+definición suya, en el marco teórico del rizoma de Deleuze y Guattari y de la teoría
+relacional de Bourriaud. Como lo postulado con la metáfora del rizoma, el
+hipertexto asume también que el libro o la obra literaria no tiene ni objeto ni sujeto,
+sino que está hecho de materias diversamente formadas, por líneas de articulación
+y de fuga con las que establece relaciones con el exterior; que cualquier punto del
+rizoma puede ser conectado con cualquier otro, que puede ser roto, interrumpido,
+y luego recompuesto en cualquier otra parte, en una nueva línea; que, finalmente,
+el libro no es una imagen del mundo, sino que hace rizoma con el mundo. Con los
+rasgos del nuevo arte en los que escarba Bourriaud, el hipertexto es una duración
+por experimentar: más que un espacio simbólico autónomo y privado, un juego de
+relaciones, en el que son las junturas entre los distintos fragmentos las que perfilan
+una fisonomía inconstante.
+Metáfora y metonimia en las junturas del hipertexto
+Las junturas que crean los hipervínculos para conectar los diferentes textos,
+aunque pueden ser abismos, grietas enormes porque entre uno y otro texto no es
+posible un acercamiento, incompatibles entre sí, son también, en unos pocos casos,
+puentes capaces de dar con una conexión original, con una imagen hasta entonces
+ENRIQUE FERRARI
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+80
+desapercibida capaz de espabilar nuevas reflexiones en el usuario lector. Como
+dice en Blanco Nocturno el protagonista de Piglia:
+Nosotros trabajamos con metáforas y con analogías, con el concepto de
+igual a, con los mundos posibles, buscamos la igualdad en la diferencia absoluta
+de lo real. Un orden discontinuo, una forma perfecta. El conocimiento no es el
+develamiento de una esencia oculta sino un enlace, una relación, un parecido
+entre objetos visibles. Por eso -y usó nuevamente la primera persona del
+singular- sólo puedo expresarme con metáforas (Piglia 2010: 243).
+Aunque, aun aceptando este argumento que salva al hipertexto por ese
+porcentaje mínimo de casos exitosos, habría una posible segunda objeción:
+Podrían entenderse los resultados como la obra de un Orbaneja cualquiera, el
+pintor del que habla Don Quijote despectivamente, que ha recuperado Sixto
+Castro, sin un espacio, hasta ahora, en la literatura: El que se pone a trabajar sin
+hoja de ruta: a lo que salga, escribe Cervantes:
+Como hacía Orbaneja, el pintor de Úbeda, al cual preguntándole qué
+pintaba, respondió: «Lo que saliere»; tal vez pintaba un gallo de tal suerte y tan
+mal parecido, que era menester que con letras góticas escribiese junto a él: «este
+es gallo» (Cervantes 1998: II, cap. 3).
+Pero el hipervínculo también puede ser una herramienta de vanguardia, con el
+marco teórico que escribieron dadaístas y surrealistas a principios del XX capaz
+de justificarlo, vinculándolo a ellos, como un nuevo intento de alterar el orden
+lógico de la escritura para explorar nuevas formas que respondan mejor a esa
+concepción de la vida como barullo simultáneo de ruidos, colores y ritmos
+espirituales. Como la escritura automática, nada reflexiva, o la elección azarosa de
+las palabras recortadas de un periódico. Escribía Tristan Tzara:
+La lógica es una complicación. La lógica siempre es falsa. Ella tira de los
+hilos de las nociones, palabras, en su exterior formal, hacia objetivos y centros
+ilusorios. Sus cadenas matan, miriápodo enorme que asfixia a la independencia.
+Casado con la lógica, el arte viviría en el incesto, engullendo, tragándose su
+propia cola siempre su cuerpo, fornicándose en sí mismo, y el genio se volvería
+una pesadilla asfaltada de protestantismo, un monumento, una pila de intestinos
+grisáceos y pesados (Tzara 1999, 197).
+O André Breton: “Escribid lo suficientemente deprisa para no poder refrenaros.
+[…] Confiad en la naturaleza inagotable del murmullo” (Breton 1999: 402). Como
+herederos de los románticos, de la filosofía idealista, la metáfora se constituye para
+EPISTEMOLOGÍA EN LAS JUNTURAS DEL HIPERTEXTO
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+81
+todos ellos en el epicentro de un proceso creador, generador de un arte que no es
+mímesis, sino creación directa del autor, del artista. Como decía Lorca: hija directa
+de la imaginación, nacida a veces a golpe rápido de la intuición alumbrada por la
+lenta angustia del pensamiento. Que trabaja, para Richards y Black, de un modo
+interactivo, no sustitutivo o comparativo, porque es capaz no solo de descubrir
+nuevas analogías, sino de crearlas, hasta construir una nueva realidad o configurar
+un modelo para ver la realidad: una interacción semántica de dos términos que
+tienen una relación sintáctica que, como señala Carmen Bobes, es una propuesta
+abierta a la que solo le pone fin el lector (Bobes 2004: 119): La metáfora viva de
+Ricoeur, con su capacidad única para renovar el lenguaje, porque sigue generando
+conceptos, en un movimiento continuo de refiguración, frente a la posición
+pesimista de Derrida de la metáfora gastada.
+Se crea sentido al fundirse los dos términos de la metáfora en una sola
+referencia que aglutina el contenido semántico de ambos, poniendo sus semas
+dentro de los límites creados de nuevo con uno y otro. De hecho, para Ortega y
+Gasset, la semejanza real entre los dos elementos que se combinan no es más que
+uno de los pasos necesarios para llegar a la comprensión de una coincidencia entre
+ambas partes que es más honda, más decisiva, que esa identidad primera (Ortega
+y Gasset 1983: VI, 257-258). Es una transposición de nombre, una transferencia;
+pero una transferencia que es mutua, en la que, en vez de ocupar uno el lugar del
+otro, se sitúan ambos en un lugar sentimental, el mismo para los dos, al crear un
+nuevo objeto que se presenta in statu nascendi, escribe: la metáfora como
+acontecer. En “Ensayo de estética a manera de prólogo”, de 1914, explica su
+mecanismo desde esa primera articulación de semejanza positiva entre los dos
+elementos. Se sirve de la metáfora (un símil, en realidad) de un poeta catalán, de
+López Picó, del ciprés que “e como l’espectre d’una flama morta”. Para llegar al
+ciprés bello, el nuevo objeto, dice, es necesario realizar dos operaciones: aniquilar
+el ciprés real, como realidad física, y dotarlo de una nueva cualidad que le da el
+carácter de belleza. Para ello, primero se busca otra cosa semejante al ciprés en
+algún punto sin importancia para, apoyándose en esa identidad inesencial, poder
+afirmar su identidad absoluta. La semejanza real –indica Ortega- sirve para
+acentuar la desemejanza real entre ambos elementos. La metáfora lleva implícita
+la conciencia clara de la no-identidad, que funciona como punto de partida para la
+búsqueda no de lo común en ambas imágenes reales, sino del nuevo objeto, del
+ciprés al que se le puede tratar como una llama. La primera operación culmina con
+el aniquilamiento de las cosas en lo que son como imágenes reales: “Al chocar una
+con otra rómpense sus rígidos caparazones y la materia interna, en estado fundente,
+adquiere una blandura de plasma, apto para recibir una nueva forma y estructura”.
+La metáfora, en la segunda de sus operaciones, traslada al hombre a otro mundo
+ENRIQUE FERRARI
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+82
+donde la identidad es posible. Toda imagen tiene dos caras. Una de ellas es imagen
+de esa cosa; la otra, en cuanto imagen, pertenece al hombre que la percibe. Pero
+para ello es necesario que este se sitúe de espaldas a la cosa ciprés y desde ella
+mire hacia dentro de sí mismo y vea al ciprés des-realizándose, transformándose
+en actividad suya, en él mismo, en “yo” -escribe Ortega. En sentimiento, en
+definitiva, como “imagen que es estado ejecutivo mío, como actuación de mi yo”.
+Se tiene que ver el ciprés como una llama, y la llama como un ciprés. Si ambas
+imágenes fuesen opacas se excluirían, pero en el verso de López Picó se puede
+observar una compenetración perfecta (una de las imágenes, sin dejar de ser lo que
+es, puede hallarse en el mismo lugar que la otra), que es posible por la
+transparencia que se verifica en el lugar sentimental de ambas: el sentimientociprés
+y el sentimiento-llama son idénticos. El hombre, el lector, siente una
+identidad, vive ejecutivamente el ser ciprés-llama (Ortega y Gasset 1983: VI, 258-
+261). Las dos realidades identificadas en la metáfora se anulan recíprocamente, se
+desmaterializan y como resultado de la aniquilación surge la irrealidad: “Haciendo
+chocar y anularse realidades obtenemos prodigiosas figuras que no existen en
+ningún mundo” (Ortega y Gasset 1983: 460). De algún modo, la síntesis disyuntiva
+de Deleuze, provocada por el choque no de dos realidades que se suman, o se
+superponen, sino por el campo de intensidad de sus diferencias.
+Con esta comprensión interactiva de la metáfora, el hipertexto, el hipervínculo
+que conecta los dos fragmentos, funciona, con los términos de Pier Aldo Rovatti,
+como apertura y vínculo: no solo apertura, como si fuera una puerta por la que
+penetra, sin más, una nueva luz, ni tampoco solo vínculo, como si la relación
+establecida entre ambos fuera un círculo cerrado de sentido. Más bien sería un
+acceso (con mucho trabajo por delante) a lo simbólico, con el sentido con que
+Gadamer recupera del griego clásico el símbolo: como el fragmento de un utensilio
+de cerámica que el anfitrión daba a su huésped para que en el futuro pudiera
+reconocer y regresar a la misma casa; una unión fragmentada que implica un
+regreso, escribe Rovatti. Porque la metáfora nunca es plena, nunca es absoluta, en
+su desequilibrio entre el término de partida y el término de llegada, entre el peligro,
+sigue Rovatti, de perder la patria y de ser repatriado (Aldo Rovatti 1990: 17-21 y
+56). Como el hipertexto, que puede llegar tan lejos como quiera en cualquier
+punto, pero que siempre puede continuarse, sin llegar a cerrarse, sin poder llegar
+a ser -por su propia definición- pleno: su cara y su cruz como objeto y herramienta
+de comprensión: Aquí el punto de partida para la hermenéutica analógica, ceñida
+a los límites de la analogía, a ese continuum que va ganando intensidad filosófica
+con el paso de la metáfora (que desencadena cada hipervínculo) a la metonimia,
+lo propiamente filosófico, para mantener bajo control la interpretación de un texto
+tan complejo, sin los excesos del univocismo y el equivocismo, jerarquizadas las
+EPISTEMOLOGÍA EN LAS JUNTURAS DEL HIPERTEXTO
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+83
+posibles interpretaciones por esa relación analógica, de semejanza entre elementos
+distintos.
+La metáfora se halla más próxima a la poesía y la metonimia más próxima a la
+prosa, al menos desde Jakobson; pero con el hipertexto no queda claro: como si
+admitiera las dos lecturas, las dos maneras de entender los encadenamientos de
+fragmentos. Como prosa, o como un conjunto heterogéneo de formas en el que se
+impone la prosa, el hipertexto tendría, una vez leído, conformado por el lector al
+elegir los hipervínculos, una disposición narrativa, se leería como narrativa. Pero
+en tanto que la lectura no está concluida, sino que se va desarrollando, puede
+asimilarse a la estructura de la poesía, porque cada fragmento conformado por el
+salto con los hipervínculos de entrada y de salida, que determinan sus relaciones
+en el conjunto del hipertexto, constituye una imagen que pide, al encadenarse con
+otras, una lectura más vertical, tan fragmentada como si fueran versos, atenta no
+tanto a la coherencia final del texto como a esos chispazos, esas descargas, salidos
+del choque de dos lexias unidas por primera vez. El encofrado de novela con el
+que se dio forma a la teoría del hipertexto en sus inicios ha determinado su
+comprensión como narrativa, como prosa; pero entendido como poema, con su
+carácter icónico reforzado, sería más fácil verlo como objeto de la filosofía, de una
+hermenéutica, como la analógica, en el modo con que su iconicidad conecta la
+metáfora con la metonimia, en tanto que, como diría Mauricio Beuchot, nos hace
+lanzar buenas hipótesis, hacer universalizaciones adecuadas a partir del nuevo
+material que el hipertexto es capaz de producir con cada hipervínculo. Porque si,
+como propone Bourriaud en su estética relacional, la función del arte hay que
+buscarla en las relaciones, en las conexiones que pueden generar nuevas
+experiencias estéticas, son los vínculos más que los nodos, la relación de los
+fragmentos más que los fragmentos mismos la aportación sustancial del
+hipertexto: los puentes que generan el nuevo contenido: los tropos que trasladan
+el sentido de cada fragmento al unirlo con otro inesperado.
+Entendida esta colisión como metáfora, queda solo recorrer la distancia que la
+separa de la filosofía, de la metonimia, aunque en el hipertexto esa distancia parece
+menor que en la poesía. Como síntesis de su propuesta, Beuchot escribe:
+A la poesía le compete aludir al ser de una manera atemática, potencial e
+implícita, y a la metafísica de una manera temática, actual y explícita. Pero si
+el ser se encuentra de esa manera virtual en la poesía, tócale a la metafísica
+atender a esa voz, a esa manifestación concreta, para hacerla acceder a la
+universalidad y la abstracción propias de la filosofía (Beuchot 2003: 11).
+ENRIQUE FERRARI
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85
+84
+Como si hubiera que intensificar esa abstracción con el paso de la metáfora
+propia de la poesía o del hipertexto a una analogía más cercana a la metonimia,
+más capacitada para cumplir con su función filosófica. En ambas hay una
+proporcionalidad, aunque es propia en la metonímica e impropia en la metafórica:
+en la metáfora el como se esconde y sirve para fusionar, en tanto que imita y
+sustituye al elemento análogo; en cambio, en la metonimia el como es iconicidad,
+capacidad de abducir, inducir y deducir, porque incluye a la pieza en la totalidad,
+permite hipótesis atinadas, universalizaciones válidas (Beuchot 2003: 69). Ir de la
+razón poética hasta la razón metafísica supone un ejercicio de abstracción que,
+dice Beuchot, no es metafórico sino metonímico. Pero con el hipertexto parte de
+ese camino para su aplicación filosófica está ya recorrido, porque, aunque el enlace
+hipertextual, como en la metáfora, fusionaría los fragmentos relacionados al
+pinchar en el hipervínculo como si fueran dos imágenes, dotándolos de un sentido
+conjunto, tendría, con los dos fragmentos vinculados, un comportamiento más
+próximo a la metonimia que a la metáfora, porque aunque el enlace, con la
+intersección que genera, pueda darle en un primer momento al lector una imagen
+casi inmediata, como un fundido, cada fragmento le da al tropo el carácter
+expositivo, o explicativo, de la prosa, que lo acerca más a un desarrollo filosófico,
+como si fuera la extensión de uno y otro elemento en los dominios del otro,
+explorando sus posibilidades, pero sin desaparecer su viejo sentido, en una
+relación semántica que es de proximidad, de traspasar una linde hasta entonces
+imprevista.
+Bibliografía
+ALDO ROVATTI, Pier, Como la luz tenue. Metáfora y saber, Barcelona, Gedisa,
+1990.
+BEUCHOT, Mauricio, El ser y la poesía. El entrecruce del discurso metafísico y
+el discurso poético, México DF, Universidad Iberoamericana, 2003.
+BOBES, Carmen, La metáfora, Madrid, Gredos, 2004.
+BORGES, Jorge Luis, “La biblioteca de Babel”, Obras completas, Buenos Aires,
+Emecé, tomo 1, 2008.
+BORGES, Jorge Luis, “La supersticiosa ética del lector”, Obras completas,
+Buenos Aires, Emecé, tomo 1, 2008.
+EPISTEMOLOGÍA EN LAS JUNTURAS DEL HIPERTEXTO
+Argumentos de Razón Técnica, nº 18, 2015, pp. 69-85

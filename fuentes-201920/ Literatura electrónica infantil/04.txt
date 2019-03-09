@@ -1,0 +1,825 @@
+EL FUTURO DEL LIBRO y EL LIBRO DEL FUTURO
+Una conversación entre
+Roger Chartier y Antonio Rodríguez de las Heras
+LITTERAE. Cuadernos sobre Cultura Escrita, I (2001)
+EL interés en la Facultad de Humanidades, Comunicación y Documentación de la Universidad
+Carlos III de Madrid por la Historia cultural en general y por la de la Cultura escrita, el libro y la
+lectura en particular, ha ido propiciando la confluencia de proyectos e investigaciones relacionadas
+con ella, no sólo en el Instituto de Cultura y Tecnología y el Seminario LITTERAE sino también en
+el Doctorado en Humanidades, en el que se imparte una especialidad de Historia cultural.
+En colaboración entre LITTERAE y dicho Doctorado se organizo una sesión con los profesores
+Roger Chartier y Antonio Rodríguez de las Heras que, con el formato de una conversación, se
+ocupara de una de las cuestiones que nos han venido interesando en estos años: las
+transformaciones que las tecnologías actuales pueden provocar en el libro, en sus aspectos
+conceptuales y formales, en la función del autor, en la fijación y estructura del texto, en las formas
+de comercialización o en las de apropiación y lectura. Las perspectivas y formaciones de ambos
+especialistas hacían particularmente interesante el contraste de sus puntos de vista en ese diálogo.
+En junio de 2000, se celebro dicha sesión en la Universidad Carlos III de Madrid, moderada y
+presentada por los profesores Emilio Torné y Enrique Villalba. La charla resultó apasionante y
+prolongada, y fue grabada con la intención de publicarla como hacemos ahora en estas páginas. El
+texto fue posteriormente transcrito y editado por LITTERAE (Ananda de Carlos, Vanessa de Cruz,
+Emilio Torné y Enrique Villalba) y después mínimamente revisado por sus autores.
+ANTONIO RODRÍGUEZ DE LAS HERAS: Me parece que podríamos comenzar esta
+conversación tratando de acercarnos a la identidad del libro. ¿Qué lo define a través de sus
+cambios? Desde mi interpretación, el libro es la máquina de memoria más eficaz hasta ahora
+construida para confinar información. Por tanto, independientemente de los cambios materiales
+y morfológicos que se vayan a producir por efecto de la tecnología, tendremos libro si seguimos
+siendo capaces de mantener o mejorar la capacidad del libro códice para confinar información.
+El artificio resultante de la intervención de la actual tecnología en el libro nos dará, casi seguro,
+un libro sin papel, posiblemente sin páginas también, un libro blando (que se podrá actualizar y
+quizá nunca terminar), un libro poliédrico (que se podrá abrir y comenzar a leer por distintas
+caras), un libro hipertextual (en el que los pliegues no estarán ya sobre el soporte sino sobre el
+texto, y que el lector irá desplegando con su lectura)... Pero para mí seguirá siendo libro porque
+cumple su función de confinamiento. Comprendo que una visión más exigente sobre la entidad
+del libro rechace el que sigamos hablando de libro cuando no hay papel, no hay tinta, no hay
+sensación táctil.
+ROGER CHARTIER1: Desde luego, se trata de un tema esencial. Por un lado, estoy de acuerdo con
+usted en que no podemos pensar que el libro sea necesariamente el objeto que reconocemos
+como tal. Desde mi punto de vista, que es el de historiador de la Cultura escrita, es evidente que
+una serie de rollos puede constituir un libro; del mismo modo que llamamos libro al objeto que
+conocemos a partir de los primeros siglos de nuestra era hasta el siglo XX o XXI, con sus hojas
+dobladas, sus páginas y su encuadernación; y podemos pensar, con algunos historiadores de la
+Antigüedad, que tabletas unidas pueden definir un libro. Así, no hay razón para no pensar que
+con la técnica electrónica el libro desaparece.
+Sin embargo, desde otro polo de la reflexión, estimo que, hasta el texto electrónico, ha
+habido algo común a todas estas otras formas de inscripción y transmisión de lo escrito: una
+relación visible e inmedíata, incorporada por parte de los lectores, entre tipos de objetos, clases
+1 ROGER CHARTIER es Director de estudios en l'École des Hautes Études en Sciences Sociales de París y es
+reconocido internacionalmente como uno de los grandes renovadores de la Historia cultural. Especialista en Historia
+social de la Cultura escrita, especialmente en los siglos modernos, sus trabajos —en los que aúna el conocimiento de
+los textos, las formas materiales que los sustentan y las prácticas de apropiación o lectura— son un referente
+internacional. Sin ser hispanista, su conocimiento de nuestra literatura e historiografía, su atención e interés por los
+trabajos e investigaciones que se desarrollan en nuestro país y su afán por darlos a conocer son tan notables como su
+atención a los problemas que los actuales avances tecnológicos plantean en el mundo del libro, de la comunicación, de
+la educación. Sus datos académicos y publicaciones aparecen en la Laudatio pronunciada con motivo de su investidura
+como Doctor Honoris causa y que publicamos en este mismo número.
+de textos y prácticas de lectura. En el mundo de la circulación de los textos, tal y como lo
+conocemos, hay una evidencia que distingue a los géneros discursivos a partir de su propia
+materialidad: una carta no es una revista, que no es un libro o una ficha. Este sistema de
+distinciones materiales y textuales fue incorporado por parte de cada uno de los lectores,
+incluidos los que no pertenecen a los medios culto-letrados, y definía un orden de los discursos
+cuyas diferencias eran inmediatamente visibles a partir de la forma del objeto. Me parece que en
+el mundo digital esto cambia por dos razones.
+La primera es que ahora un único objeto hace aparecer frente al lector todas las clases de
+textos. Textos de naturaleza, géneros y usos muy diferentes aparecen en la superficie de la
+pantalla de un mismo aparato, bien sea el ordenador, el portátil o simplemente el e-book. Esta
+sería una primera discontinuidad, que puede provocar en los lectores de hoy una cierta
+incertidumbre en cuanto a la jerarquía, clasificación, diferenciación entre los repertorios
+textuales, dado que se dan a leer sobre el mismo aparato, lo que no existía ni en la Cultura
+manuscrita ni en la Cultura impresa.
+La segunda razón estriba en que en este aparato las formas visibles de los textos son más o
+menos idénticas y remiten a las decisiones del lector. Es ésta una segunda discontinuidad,
+porque las otras formas de libro se daban a leer a través de una estructuración, de una
+materialidad que remitía a la intención del autor o más frecuentemente a las decisiones del
+editor y eventualmente de los que trabajaban en los talleres tipográficos. Aquí el lector se
+encuentra con un poder sobre la apariencia, la estructura y la identidad del texto que nunca
+encontró antes.
+Pero, a pesar de estas discontinuidades, considero que sí podemos y debemos mantener una
+categoría de libro inclusive en el mundo digital. El desafío planteado hoy en día es el de los
+criterios intelectuales y, más aún, de los dispositivos técnicos que van a permitir esta inmediata
+percepción de las diferencias entre los géneros textuales cuyas formas y cuyo soporte son
+idénticos. Y ésta es una primera pregunta para usted: ¿cómo se puede pensar en el mundo
+digital, cómo se desplazan en el mundo digital las dos referencias que utilizamos implícitamente
+cuando hablamos de un libro? Si le pregunto si usted ha leído el libro de... me refiero
+implícitamente a un objeto que tiene una estructura tal y como la conocemos para el libro
+impreso y me refiero, al mismo tiempo, a la obra que este libro conlleva. En general, si se
+pregunta a alguien si ha leído el libro de... no se refiere inmediatamente a una edición particular,
+sino a una entidad textual. ¿Cómo se puede en la cultura digital, no únicamente mantener, sino
+hacer visible para los lectores este criterio de coherencia, de identidad que llamamos libro? Lo
+que me preocupa detrás de este interrogante es una cierta inquietud o incertidumbre de los
+lectores que fueron acostumbrados a este sistema de relación inmediata entre materialidad de
+los objetos y el género de los textos, y que se enfrentan a una nueva forma de inscripción y
+transmisión de los textos en la que las distinciones tradicionales se borran. ¿Cómo, en su
+opinión, se puede mantener la categoría de libro como entidad textual en una técnica que la
+suprime como materialidad particular?
+ARH: Creo que es imprescindible abandonar desde el principio cualquier tentación de trasladar la
+materialidad del libro a la materialidad de un ordenador. El libro que está llegando no es un
+ordenador, ni siquiera está en el ordenador; tampoco el libro de papel se transforma en un ebook,
+o tableta electrónica, del tamaño de un libro mediano, aunque algunos fabricantes
+pretendan hacérnoslo creer así poniéndole una tapa de cuero. Hay que evitar quedarnos
+enredados en los cables y en los botones y en la carcasa de los aparatos electrónicos, y no pasar
+de ahí; el libro nuevo existirá más allá del ordenador, tendrá su lugar en el espacio digital. Lo
+que sucede es que necesitamos la ventana de una pantalla electrónica para asomarnos a ese
+espacio, sea la pantalla de un ordenador personal, de un e-book, o sea una pantalla flexible y
+manejable como el papel. Al otro lado de la pantalla electrónica ha emergido un nuevo espacio,
+el digital, con propiedades distintas a las de este lado de la pantalla, a las de nuestro espacio
+tridimensional, y muy interesantes por las posibilidades que sugieren. Este espacio se muestra
+como un gran “atractor”, y así se está dando un flujo incesante de objetos, actividades y sucesos
+que pasan al mundo digital. Este fenómeno lleva muy poco tiempo, pero nos impresiona ver la
+cantidad de cosas que ya tienen su lugar en el espacio virtual... y es sólo el comienzo de la
+ocupación y colonización de un territorio en el que estamos aún en sus bordes. Pues bien, un
+objeto de la presencia e importancia del libro no podía quedar al margen de este
+desplazamiento, y ha pasado al otro lado de la pantalla. Como todo lo que entra en un nuevo
+espacio, sus primeros movimientos son torpes e inseguros, y procura seguir el comportamiento
+que le ha servido en el anterior entorno; así, por el momento el libro se recrea en el espacio
+digital a imagen y semejanza del libro de papel, es como si la pantalla fuera un espejo con el
+libro secular en un lado y una copia virtual en el otro. Esto sucede con todas las cosas que están
+pasando al otro lado del espejo, pero en seguida abandonan tal simetría especular y van
+tomando otras formas, hasta entonces insospechadas, más adecuadas al nuevo espacio y, sobre
+todo, aprovechando las posibilidades que abren las nuevas condiciones del mundo digital. De tal
+manera que terminan bien alejadas de sus formas originales. Todos hemos visto cómo ha
+evolucionado el periódico digital: en los primeros tiempos era una copia exacta de la versión en
+papel, pero progresivamente ha ido cambiando hasta tener una forma y organización que nada
+tienen que ver con las del diario que se distribuye en los quioscos, además de nuevas ofertas al
+lector. Lo mismo, creo, que va a suceder con el libro. Por tanto, me gustaría saber si estamos de
+acuerdo los dos en que no debemos identificar libro digital con ordenador, que el ordenador es
+sólo la interfaz material que nos permite acercarnos al libro, y a otras muchas cosas y
+actividades que residen más allá del ordenador, en el espacio digital.
+RC: Desde un punto de vista teórico podría decir que sí, que no hay un ineluctable vínculo entre los
+textos o los libros electrónicos y una clase específica de objeto, de aparato que los vinculan o
+conllevan. Por ejemplo, toda la reflexión que se abrió a partir de la invención de la tinta y del
+papel electrónicos —por la gente del MIT— que proponen por primera vez, de una manera
+accesible al gran público, la idea según la cual, la transmisión electrónica de los textos no
+necesita obligatoriamente el ordenador, cualquiera que sea su forma. Este papel y esta tinta
+“electrónicos” pueden conllevar llegar a leer textos sobre un libro en la forma más clásica o
+sobre un fragmento de un vestido.
+Esto sería desde el punto de vista teórico, pero desde otro punto de vista, que es el de la
+historia de larga duración de las prácticas, es evidente que no se deshace sin más un mundo de
+referencias, de percepciones, de representaciones incorporadas. Para los lectores de hoy, esta
+vinculación entre una materialidad específica y una tipología de los textos esta incorporada,
+interiorizada. Me parece que aquí debemos reflexionar sobre las discrepancias o los desfases
+entre este sistema de representación que tiene esta profundidad histórica y las propuestas de una
+nueva tecnología. En la práctica histórica se sabe muy bien cómo los usos siempre están en un
+desfase en relación con las técnicas, pero en este caso, según usted sugiere, no es únicamente
+una nueva técnica sino una nueva conceptualización de la textualidad, lo que es aún más fuerte.
+De esta manera, me parece que el enfoque teórico-tecnológico no se aplica inmediatamente
+como una realidad sociocultural. Debemos reflexionar sobre esto, para evitar el riesgo de tomar
+lo virtual para lo real; es decir, como si estas definiciones nuevas del texto, este mundo en que
+la materialidad no tiene sentido, fuese ya un mundo presente dentro de las percepciones y
+representaciones de los individuos. Estimo, desde una perspectiva sociocultural, que debemos
+evaluar estos desfases y la importancia de los sistemas incorporados en relación con la
+textualidad.
+Por otra parte —incluso si usted tiene razón, y pienso que realmente la tiene—, también el
+texto electrónico va a encontrarse dentro de una pluralidad de formas de transmisión. No
+podemos encerrar la discusión como si el libro impreso y la computadora fueran equivalentes.
+Por ejemplo, los discursos sobre el e-book encierran una forma de incertidumbre porque un ebook,
+como usted ha dicho, es una agenda, un cuadernillo, una biblioteca, pero no se
+corresponde con el libro. Esto nos muestra el poder de la inercia del vocabulario, y de las
+categorías o representaciones detrás del vocabulario, y cómo éstas se mantienen pese a la
+ruptura fundamental de los conceptos.
+Aun contando con esta pluralidad de soportes, necesariamente un texto se va a leer sobre un
+soporte, una cierta materialidad, cualquiera que sea, incluso si la tinta y el papel electrónico van
+a imprimirse sobre un vestido, una mesa o un códice. Por esto, la cuestión se centra en este
+intento de comprender un texto cuya existencia no se puede ubicar en ningún objeto, pero que
+desde el punto de vista de la apropiación siempre va a darse a leer, o a usar, a través de una
+forma material particular. Aquí estriba la dificultad de vincular el punto de vista teórico y el
+punto de vista socio-cultural.
+ARH: Pero la respuesta a esta cuestión la podemos encontrar si situamos el acto de lectura de un
+libro en pantalla en un entorno más amplio de otras muchas actividades realizadas también en
+pantallas. Es decir, creo que para entender los cambios de actitud y de percepción del texto en
+pantalla habrá que contar con los cambios en otro gran número de actividades y objetos
+residentes en el espacio digital. Quien esté leyendo un libro digital será una persona que quizá
+acaba de hacer una compra en una tienda virtual o se ha encontrado y ha conversado en la
+pantalla con un amigo, y que luego, a lo mejor, asistirá a un curso por la red o a una conferencia
+en directo o en diferido. Este fenómeno creciente de pantallización dará una percepción y
+actuación distintas para lo que ahora somos muy torpes. Se producirá entonces una inevitable
+reflexión y un cambio de concepción respecto a la división que ahora marcamos de forma
+radical entre real y virtual, entre natural y artificial, que borrosificarán las fronteras. Porque
+ahora mantenemos la idea de que cuando nos sentamos ante un ordenador estamos sentados,
+como ya he dicho, ante un espejo, en el que lo original esta aquí, de este lado, y lo virtual esta
+allí, detrás de la pantalla. Esta distancia se irá reduciendo y la frontera de la percepción de uno y
+otro mundo, disolviéndose. Y esto afectará a la forma de entender y tratar el libro.
+RC: Sí, se podría decir como una broma, que ocurre lo mismo que en el Quijote; es decir, como lo
+subrayaba Borges, que la diferencia entre lo que sería real, es decir, el lector, y lo que sería
+virtual, es decir, la historia, es finalmente borrada por Cervantes, porque los protagonistas del
+Quijote han leído la primera parte de la novela, y quizá el lector es un protagonista de ficción,
+de esta manera hay como una amplificación de la posibilidad inscrita en la novela.
+ARH: Desde luego, en cuanto a la difuminación de la barrera entre natural y artificial, el proceso se
+está acelerando en esta época. El ciudadano de la sociedad tecnológica de hoy es un hombre con
+los atributos de “protético” y de “extravertido”. Cada vez más artificios entran en su cuerpo y
+sustituyen, reparan o amplifican algunas de sus partes o funciones en forma de implantes,
+transplantes o prótesis, y, en sentido contrario, también vierte funciones, energía, destrezas, en
+artefactos que las amplifican: muchas de nuestras acciones naturales se prolongan a través de
+máquinas, herramientas, autómatas y se amplifican espectacularmente.
+RC: Sí, pero volvamos a nuestro punto de partida con un ejemplo sobre esta nueva inestabilidad,
+esta nueva difuminación de la frontera para nosotros, hasta ahora, segura, aunque no lo sea
+tanto. Los comentarios tradicionales sobre el texto electrónico, el mundo digital hacen hincapié
+en la plasticidad, la movilidad, la apertura del texto. Estas son las categorías que se utilizan para
+oponer esta nueva textualidad frente a la textualidad impresa o manuscrita que tiene una cierta
+fijeza, que no se abre al lector y que no tiene plasticidad.
+Si estos diagnósticos o criterios de descripción son verdaderos, como usted piensa, existe la
+posibilidad de mantener la definición del libro no como un objeto particular, sino como una
+obra que tiene una identidad particular, que supone una cierta coherencia y que se recibe como
+una entidad textual diferenciada de otras. Lo que me preocupa es la idea según la cual todos los
+textos en el mundo digital son finalmente bancos de datos, es decir, que los fragmentos se
+pueden extraer sin que sea percibible la identidad que define la obra como obra.
+Si es cierto que podemos desplazar el criterio de libro de una forma material a otra y le
+sumamos la ausencia de materialidad del texto, la única materialidad sería la del soporte. Nos
+queda este problema: ¿cómo pensar la identidad de la obra, definida a partir del siglo XVIII
+según los criterios de presencia en la obra de una cierta forma de estilo, sentimiento, ideas?
+Cualquiera que sea la forma de la obra, hay elementos estables que permiten reconocerla como
+obra, es decir, diferente de otras, y como género estético particular. ¿Cómo se mantiene esta
+definición clásica —si debe mantenerse— dentro de un mundo en el que los nuevos criterios de
+descripción que manejamos cada día —de maleabilidad, de movilidad, de plasticidad— ponen
+finalmente en cuestión los criterios de estabilización?
+ARH: En efecto, defiendo que el libro digital será un libro blando, que a partir de un determinado
+tamaño crítico el libro se ofrece al lector, y que el autor seguirá cuidándolo, es decir,
+ampliándolo con más texto, eliminando, retocando o sustituyendo partes. No creo, sin embargo,
+que esto suponga hacer peligrar la identidad de un texto: la memoria es memoria porque no sólo
+retiene sino porque olvida, y por este flujo y reflujo constante de recuerdo y olvido mantenemos
+nuestra identidad a través del tiempo y del espacio. El libro es la mejor máquina de memoria
+que hemos construido y, en consecuencia, procura reproducir el funcionamiento de la memoria
+natural con los medios disponibles en un momento determinado; hasta ahora los soportes
+utilizados no facilitaban la tarea de actualizar el contenido, ya que cualquier cambio significaba
+alterar también el soporte; sólo el soporte pergamino, por su resistencia, posibilitó estas
+acciones, aunque con gran dificultad y limitaciones (recordemos los palimpsestos). En los
+nuevos soportes digitales las acciones sobre la información no dejan ninguna huella en el
+soporte ni residuos. La posibilidad, por tanto, de incorporar esta propiedad de la memoria —la
+actualización de la información— al conjunto de otras propiedades que ya se ha conseguido
+reproducir en el libro, como memoria exenta, es un punto destacado en mi defensa de la
+continuidad del libro en el nuevo entorno tecnológico, en el espacio digital. Recordemos que
+antes de la imprenta, y también en sus primeros tiempos, los libros recogían una obra definitiva,
+que se entregaba al final de un trabajo de pensamiento y de creación, no durante ese proceso.
+Pero a medida que las técnicas de impresión se desarrollaron e hicieron más fácil la producción
+material de libros y que, a la vez, el mercado se intensificaba, el libro ya no sale como obra
+definitiva sino provisional, libro de corta vida que dejara paso a otro del mismo autor en donde
+se recoge parte del anterior, se corrigen otras partes y se añaden novedades. Los libros hoy
+nacen con muy poca ambición de pervivencia y mucha más de hacerse notar durante un espacio
+corto de tiempo. Pues bien, con la edición electrónica se entra en una tercera etapa, en la que el
+libro es abierto y el autor cuida de su mantenimiento como se puede cuidar un jardín,
+arrancando, plantando, cortando. La idea procedente de las dos etapas anteriores por la que el
+autor entrega su obra, realizada con esfuerzo y amor, y se le va irremediablemente de sus manos
+y de su control no tiene por qué mantenerse en el libro digital, ya que el autor no se ve obligado
+a desprenderse, si lo desea, de su obra, que puede seguir perfeccionando. Permítame, profesor
+Chartier, esta exageración: podríamos hablar, entonces, de un libro único para el autor. Y pienso
+que no vendría mal esta contención, a la vista de los excesos de algunos autores. Bueno, esto es
+una broma.
+RC: Usted siempre se ha referido al libro único del autor; es decir, desde el punto de vista de la
+creación, de la escritura. Sin embargo, las observaciones sobre el texto electrónico a menudo
+han tomado otra posición, la del lector-coautor, introduciendo su escritura dentro de una
+escritura ya presente: la del autor. El lector tiene, así, capacidad de mover, borrar, transformar el
+texto. En este caso, la pregunta sería: usted ha supuesto una identidad mantenida a través de las
+reescrituras del libro único, pero ¿qué papel atribuye usted a estos lectores múltiples que pueden
+intervenir?
+Y si entro en el juego de proyección que usted ha planteado aquí, ¿por qué pensar en un
+libro único, y no en un autor único, en un libro escrito de una manera infinita por cada uno? En
+este sentido, la antigua distinción que separa al autor del lector desaparece, no hay más
+posiciones o posturas de autor. El libro único sería el libro de las utopías del XVIII, en muchas
+de ellas aparece un libro único que nadie ha escrito pero que cada uno ha escrito. ¿Por qué
+limitar esta proyección de la imaginación dentro de las categorías clásicas de la diferencia
+autor-lector?
+ARH: En mis anteriores palabras me quedaba en la visión de un libro abierto, por blando, y quizá
+único, que el autor entrega al lector sin desprenderse de él. Pero ahora usted va más lejos y
+habla del libro abierto a la escritura de sus lectores, del libro tejido con múltiples hilos
+procedentes de muchos autores, como se teje una conversación amigable con las intervenciones
+de los contertulios. Cierto que la tecnología actual ha abierto la posibilidad de intervenir al
+receptor sobre la emisión del mensaje, un bucle que ahora comienza a utilizarse más en
+producciones televisivas en las que los espectadores pueden, a través de la red o de los SMS,
+influir de alguna manera en la marcha de lo que esta sucediendo al otro lado de la pantalla. Y
+desde luego que esta interacción va a producir cambios significativos en la producción
+audiovisual y en las actitudes, hasta ahora pasivas, de las personas ante el aparato de televisión.
+Sin embargo creo que fuera de escenarios de entretenimiento, propios de la televisión y de la
+radio, y quizá, más tarde, de la política en esta tribuna audiovisual (encuestas, entrevistas,
+discursos...) la posibilidad de este bucle no se desarrollará tanto. En concreto, la creación de un
+libro, a excepción de libros-foro, enciclopedias en la Red... se sustentará sobre la creatividad y
+esfuerzo de un autor. Lo que sucederá, sin embargo, es que el libro se podrá convertir en el
+núcleo de encuentros y debates de los lectores, y, entonces, la lectura pasará del texto del autor
+al cruce de ideas y comentarios de sus lectores, y todo ello integrado en lo que sería un libro
+digital. Y también el autor, al escuchar a sus lectores, volverá a su texto para retocarlo, para
+seguir su desarrollo por otro camino abierto quizá por el contacto del autor con los lectores. Con
+un texto blando, que no abandona al autor y en el que, si se quiere, puede influir el lector, hay
+un campo muy amplio de experimentación, pero creo que la escritura nos da capacidad de
+diferenciación, de individualizarnos de entornos anónimos, y esto significa una razón de peso
+para que siga habiendo autor. Se desarrollarán experiencias de participación colectiva en la
+creación, pero la escritura seguirá siendo un vehículo imprescindible para la individualización,
+aunque, eso sí, se dará mucha mayor relación entre el autor y sus lectores. Ahora mismo en
+www.elmundolibro.com se esta redactando La novela del 2000, y en la que participo
+periféricamente con una introducción sobre ciberliteratura. Para la realización de esta obra
+intervienen novelistas consagrados y lectores, y se publicará posteriormente también en papel.
+[Se publicó en 2001, en editorial Espasa Calpe, con el título La rebelión de los delfines. La
+novela del 2000]
+RC: Si resulta que a través de dispositivos se va a impedir la introducción del lector dentro del
+texto; y se va a limitar su intervención a los márgenes de este texto sin páginas ¿cómo se
+plantea entonces la relación entre los márgenes abiertos, plásticos, maleables y, por otro lado, el
+texto como estable?
+Curiosamente, la economía de la publicación electrónica busca algo semejante, pero para sus
+propios fines. Me refiero a las securities, las seguridades que, para las grandes empresas
+multimedias, deben impedir a un tiempo la copia del texto y también la introducción del lector
+dentro de la obra. Así, encontramos una confluencia un tanto paradójica entre lo que puede
+salvar la identidad textual referida a una creación singular y, por otro lado, los intereses
+económicos de la publicación electrónica, que suponen que la plasticidad o la movilidad sean
+muy coercionadas para evitar la copia gratuita, la piratería o finalmente la confusión de la obra
+con otros textos.
+¿Cómo ve esta tensión entre la edición electrónica dirigida por las grandes empresas
+multimedía, por ejemplo, Microsoft –particularmente con el e-book, teóricamente “más seguro”
+desde este punto de vista— que busca impedir la copia o el traslado del texto, y lo que usted
+plantea a un nivel completamente diferente porque no es nivel de la empresa, no es el nivel del
+provecho económico, no es el nivel del negocio sino que es un nivel teórico, estético,
+intelectual? ¿Cómo ve la relación o posiblemente el antagonismo entre estas dos virtualidades
+del mundo electrónico?
+ARH: Sí, tiene razón, la tensión existe entre las ideas, los proyectos, y la lógica comercial; es una
+tensión que se viene dando entre creatividad e intereses económicos antes de haber entrado en el
+espacio digital; es una constante en el desarrollo de nuestras sociedades. Y de estos dos
+arrastres, si no necesariamente opuestos si divergentes, sale un vector resultante que nos hace
+avanzar, aunque no sea coincidiendo por ninguno de los dos caminos buscados por las dos
+fuerzas: la creación pura y el dinero. Pero lo que está sucediendo en concreto en el recién
+estrenado mundo digital es que la economía sigue tratando sus productos digitales como si
+fueran entidades semejantes a las de nuestro mundo en tres dimensiones. Sigue presente en
+buena medida la visión especular de la pantalla, de tal manera que aquello que hay al otro lado
+es una copia de lo que tenemos en nuestras manos, y que las leyes y reglas que lo regulan son
+las mismas que aquí. Esta inercia tiene necesariamente los días contados: un caso bien explícito
+es el de la música en la red. El negocio discográfico seguía empeñado en la interpretación de su
+producto como un objeto en donde está enlatada la música, sea éste un CD, una casete o un
+disco de vinilo. Pero la música en la red no necesita quedar encerrada, ofrecerse y distribuirse
+en discos o cintas. Sin embargo, la resistencia de las grandes empresas discográficas, con
+intervenciones legales, a los pioneros que veían otras formas de vender música ha dejado ya
+paso a una confesión de las empresas de que, en efecto, el negocio está en entender otra manera
+radicalmente distinta de hacer negocio con la música en el espacio digital y que oponerse a esto
+es perder tarde o temprano la batalla. Pues bien, como este ejemplo tendrán que venir otros
+muchos: estamos al principio. De todas formas, quiero también aprovechar este turno de palabra
+para apuntar una sospecha acerca de la ubicuidad del libro en un futuro. En estos momentos, por
+problemas principalmente tecnológicos y de inversiones insuficientes en infraestructuras, de
+capacidad de transmisión de la red, se “bajan” los productos, como puede ser el libro
+electrónico, al ordenador personal o al e-book, pero esta endeblez de la Red no se podrá
+mantener mucho tiempo, resulta ridícula. Entonces podrá fructificar la idea de que en el espacio
+digital no es necesario hacer copias de un objeto para hacerte con él. Por ejemplo, el libro
+digital: ahora, cuando lo “bajamos”, traemos una copia a nuestro ordenador, por tanto, en nada
+(a excepción de la velocidad y amplitud de distribución y velocidad de replicado) se diferencia
+del proceso de la imprenta, en el que la ubicuidad del libro, frente al manuscrito, se consigue
+con la facilidad de hacer copias. Pero, con una red de alta velocidad no habrá más que un libro,
+ubicuo, al que desde cualquier punto se podrá acceder para leerlo y que no habrá necesidad de
+hacer copias. Será como tener un libro en un gran facistol, pero es más, sin tener, naturalmente,
+que leer todos la misma página a la vez. Imposible desde este lado de la pantalla; factible al otro
+lado.
+RC: Pero, ¿dónde se lee ese libro que no se “baja” desde una red electrónica o una distribución online?
+¿En una pantalla única ya que hay un libro único?, ¿La Humanidad reunida frente a una
+enorme pantalla?
+ARH: No, no. Me he explicado mal. Si yo “bajo” un libro digital, tengo en mi disco duro una copia
+del existente en un servidor de una editorial. Puedo, por consiguiente, desconectarme de la red y
+seguir con mi libro. Pero si dispongo de una red rápida y barata, no tengo necesidad de
+depositar una copia en el ordenador, basta que vaya leyendo el libro: la página (si el libro tiene
+páginas) permanece en mi pantalla durante el tiempo en que la estoy leyendo, después no reside
+en mi disco duro; ha llegado con un clic del servidor en donde está el único, pero ubicuo, libro,
+queda sostenida la página en mi pantalla y, tras un nuevo clic, desaparece. Es como el streaming
+para los productos audiovisuales: puedo estar viendo un contenido audiovisual que, como si
+fuera una cinta, se encuentra en un servidor, e igualmente otras personas lo están haciendo
+desde otros ordenadores, pero, a diferencia de una emisión de televisión, en que estamos viendo
+todos la misma imagen a la vez, aquí no hay esta obligada sincronía.
+RC: Pero, siguiendo con el argumento, ¿usted no piensa que esa perspectiva es algo idealista? Es
+decir, podemos suponer que todo esto fuese teórica y técnicamente posible, pero estamos en un
+mundo en el que hay intereses, contradicciones, desigualdades; de manera que sería arriesgado
+pensar que porque dispongamos, ahora o pronto, de unas ciertas posibilidades técnicas vayan
+necesariamente a establecerse o a producir efectos positivos.
+Una primera observación sería que no hay un determinismo técnico; en la técnica no hay
+evidencia en sí misma que le de sentido. El resultado, el uso y el efecto de una técnica dada se
+remite a los conflictos, las tensiones y lo que está en juego alrededor de esa técnica. Un punto
+fundamental del famoso ensayo de Walter Benjamin sobre la reproductibilidad mecánica de la
+obra de arte es, precisamente, subrayar que no hay un sentido dentro de la técnica, que
+finalmente la misma técnica puede ayudar al establecimiento de un poder tiránico o a una forma
+de emancipación de los pueblos, como demostraba a propósito de la foto, del cine y de la
+grabación de la voz.
+La segunda sería que en este mundo social, si pensamos en la Humanidad entera, no sólo
+hay una distancia enorme entre los recursos actuales y las posibilidades de acceso económico o
+cultural a este nuevo mundo sino que, además, los intereses económicos que controlan el
+mercado –sea de la publicación electrónica o de los aparatos que conllevan dichas
+publicaciones— no van a aceptar necesariamente otra forma de comunicación, de inscripción,
+de apropiación de los textos electrónicos.
+A eso me refería al hablar de un riesgo de idealismo: pensar que algo que es técnicamente
+posible se va a imponer necesariamente. Sería, por ejemplo, el discurso de Microsoft, en el que
+la evidencia democrática y educativa en la técnica en sí misma, borra o esconde los intereses
+particulares, presentando la inmediatez de la transformación del proceso técnico como un
+bienestar universal. Se esconden así, desde una perspectiva cínica o benevolente, los intereses
+propios de la empresa.
+Hay un riesgo de retomarla con un proyecto completamente distinto pero que finalmente
+podría remitirnos a la misma idea: que la técnica, este mundo que usted describe como posible,
+quizá presente aunque no lo vemos, ya existe, y existe, además, fuera de los conflictos y
+tensiones que quizá vayan en un sentido contrario o intenten apropiársela o utilizarla para fines
+que no son los suyos.
+ARH: Totalmente de acuerdo. La Historia de la ciencia y de la técnica ayuda decisivamente a evitar
+esta simplificación y este determinismo. Con ella vemos los retrasos, las desviaciones, las
+mixtificaciones y, también, mitificaciones de los descubrimientos e inventos por la acción de los
+poderes políticos, académicos, religiosos, militares y económicos. La interpretación del avance
+científico y tecnológico como una línea recta es ingenuo e inaceptable. Evidentemente, pues,
+una posibilidad tecnológica no supone una evolución en ese sentido; en esto no se diferencia la
+evolución artificial de la natural: está hecha de la negación continua de posibilidades. Sin
+embargo, es bien distinto que interpretemos para un corto plazo de tiempo un segmento
+concreto, como puede ser el libro digital. Se puede intentar trazar una tendencia sobre el fondo
+borroso de la incertidumbre. Veamos el comportamiento que la empresa editorial ha tenido con
+respecto a la tecnología informática en estos últimos años. Con simples procesadores de texto, y
+otras aplicaciones de edición, el texto se hacía blando y, por tanto se podía preparar con gran
+facilidad y rapidez al otro lado de la pantalla y luego, una vez concluida esta importante
+operación, traerlo a este lado de la pantalla a través de la impresión sobre soporte de papel.
+Ninguna empresa se resiste hoy a este beneficio. Pero una vez que el texto está en el espacio
+digital, viene la tentación inmediata de por qué volcar en una tirada todos los ejemplares que se
+supone que podrán venderse y no, por el contrario, esperar a que la demanda vaya llegando y a
+medida que se solicita el libro se imprime el ejemplar. Ya hay editoriales que ensayan esta
+reorganización de su producción. Pero hay más, si el texto está ya en el espacio digital,
+disfrutando de propiedades muy atractivas para las necesidades de una editorial como que ya no
+sólo es blando, sino ubicuo, y, por consiguiente, con una logística de distribución radicalmente
+simplificada, ¿por qué no dejar el libro definitivamente en el espacio digital y no traerlo a este
+lado? Y tenemos, entonces, el libro electrónico. Ahora en fase de tanteos pero con las empresas
+decididas a incorporar a su negocio el ensayo del libro electrónico, bien en la pantalla del
+ordenador personal o en tabletas electrónicas diseñadas ex profeso para una lectura más cómoda
+o incluso sobre pantallas ligeras y flexibles como el papel (la tinta electrónica, e-ink). Pues bien,
+¿hemos llegado en cuanto a la evolución del libro por efecto de la tecnología al final? Una vez
+que resida el libro en el espacio digital y se haya desprendido del papel, ¿va a seguir
+manteniendo la forma adquirida en la página? ¿Por qué no surgirán formas nuevas de
+organización del texto?
+RC: En este momento es evidente que las empresas más poderosas buscan con el e-book una forma
+de estabilizar esta evolución que usted describe, porque, por un lado, el e-book es la única
+técnica realmente capaz de evitar la piratería —sin posibilidad de copia, de traslado—, mediante
+la identificación del poseedor. Y por otra parte, el poseedor del objeto se vuelve en cierta
+manera “autor” del texto, pues aunque su nombre no aparece como autor del texto, sí como
+poseedor exclusivo de este texto en una forma que no puede copiar, trasladar, transmitir. Si —
+como ha demostrado la pequeña historia de la novela de Stephen King— los ordenadores no
+pueden impedir técnicamente la piratería, las securities del e-book deben teóricamente
+impedirlo.
+Los esfuerzos se encaminan, de esta manera, a desplazar a los lectores de los libros
+electrónicos, del ordenador —que puede servir para otra forma de comunicación electrónica—,
+hacia el e-book como soporte buscado para la transmisión de las publicaciones electrónicas.
+Creo que es lo que se intenta imponer, lo que se busca, aunque no vaya a parar en este
+momento. Pero no estoy absolutamente seguro de que se vaya a inventar una alternativa
+rápidamente, porque se está trabajando sobre esta forma de estabilización del texto.
+ARH: Me cuesta trabajo creer que el interés por el e -book se deba sólo a que proporciona mayor
+seguridad ante las copias ilegales. Pero aunque así fuera, las consecuencias culturales de esta
+razón económica serán muy importantes y desbordarán el marco estrictamente crematístico. Y
+además, como antes señalaba, ¿no está sucediendo lo mismo con el disco o la cinta de casete?
+RC: Sí, pero el ejemplo de los discos, su fluidez, su posibilidad de apertura, la piratería..., funciona
+más bien como lo que se debe evitar, como contraejemplo. En el texto electrónico todos los
+esfuerzos van en la dirección opuesta: inventar los objetos, aparatos o dispositivos que impidan
+para la publicación electrónica lo que ha sucedido con la transmisión de la música. Es decir,
+aunque son, técnicamente, casos paralelos, las reflexiones de las empresas de publicación
+electrónica y de fabricación de aparatos electrónicos son diferentes: el e-book es el medio más
+fácil descubierto hasta ahora para impedir lo que sucedió en el caso de la música.
+Es, pues, otro ejemplo de la tensión entre los intereses contradictorios por un lado de los
+usureros, los autores, los productores o editores que se especializan o utilizan la publicación
+electrónica o los fabricantes de software o aparatos, y por otro, la reflexión sobre las
+posibilidades abiertas y en parte desconocidas, o virtualmente posibles pero que no se han
+transformado en una realidad técnica accesible. En esta contradicción de intereses hay una
+fuerte tensión, que estaba en el punto de partida de nuestro diálogo.
+ARH: Pero, insisto, ¿usted cree que va a terminar la evolución del libro iniciada con estas
+tecnologías en la implantación del e-book? ¿No se van, pues, a producir más cambios y de más
+calado todavía que el ya importante de leer en una tableta electrónica? Sabiendo, además, que
+en el espacio digital el libro tiene, como tantas otras cosas, unas propiedades nuevas que se
+pueden explotar.
+RC: Usted conoce la respuesta. No lo sé. Lo que me ha llamado la atención, a partir del punto de
+vista de los que abogan por el e-book y sus intereses económicos, es que intentan demostrar que
+es también el interés del autor. Como siempre los editores movilizan la figura del autor cuando
+hay una dificultad, una crisis, o lo que definen como crisis. En el siglo XVIII, los libreros e
+impresores de Londres inventaron el autor para justificar sus derechos tradicionales. El autor
+propietario del texto era la condición para que el impresor o librero que había comprado el texto
+reciba esa propiedad imprescriptible del autor.
+Y ahora, en este mundo que se muestra obsesionado por la piratería, movilizan los derechos
+del autor, pero lo hacen para justificar un intento de estabilizar la transmisión electrónica de
+manera que la piratería sea imposible. La razón por la que creo que no va a abandonarse lo que
+ahora se está buscando —incluso si hay otras posibilidades que parecen menos seguras en
+términos de la fijeza o la estabilidad— es que quizá hay una evidencia de otras posibilidades
+técnicas y que se pueden también inscribir en una perspectiva que va a asegurar los derechos de
+unos y otros, que van a sustituir más rápidamente de lo que pienso al e-book.
+Pero resulta un tanto sorprendente, porque hablamos del e-book como si todo el mundo
+tuviese un e-book, y, sin embargo, es algo relativamente raro, que concierne a una fracción muy
+particular de los lectores. Es una ilusión pensar que porque existe está compartido, pero no es
+esa la realidad sociocultural, no es la realidad socioeconómica. De aquí la dificultad para seguir
+sus pasos, porque una técnica que está únicamente al borde de una primera difusión restringida
+le parece muy anticuada y completamente superada por otras posibilidades... Eso hace difícil la
+reflexión del historiador que suele trabajar con duraciones un poco más largas para describirlas,
+entenderlas o documentarlas. De ahí el placer y la dificultad de la discusión, porque aquí esta
+siempre el choque entre la invención técnica, la imaginación intelectual, y los cambios lentos al
+nivel de las prácticas, en relación con los hábitos incorporados o en relación con las
+desigualdades socioeconómicas o culturales que rigen las prácticas. Quizá no debemos acentuar
+demasiado esta falta de plasticidad y de movimiento de las prácticas, pero existe; y me parece
+que esta discrepancia es la más preocupante, el desafío mayor entre, por un lado, la movilidad
+acelerada de la imaginación —mas aun que de la invención técnica—, y, por otro, lo que resiste
+en el mundo social en cuanto a hábitos, costumbres, prácticas, y que remite al mundo de las
+desigualdades. Se trata de una dimensión que me parece absolutamente fundamental que
+introduzcamos en nuestro diálogo.
+ARH: Desde luego que hay un desajuste muy fuerte entre lo que se vislumbra al mirar al frente y lo
+que se ve al mirar dónde tenemos puestos los pies. Y esta diferencia se acrecienta en este caso
+que nos ocupa, pues la velocidad de cambio es muy grande y parece que todo es inconsistente y
+que cualquier cosa puede llegar. Pero precisamente esta velocidad es la que empuja a la
+imaginación a estar más activa y a ensayar caminos nuevos, actitud que en un entorno más
+reposado, de menor excitación, no se favorecería. La consecuencia es un grave contraste entre
+lo que tenemos y lo que deseamos. Un desequilibrio que ayuda a avanzar o que lleva a
+precipitarse. ¿En qué grado de desequilibrio estamos? Bien, quizá con mi posición me sitúo
+dentro de los que exageran la capacidad de transformación de estas tecnologías, pero me resisto
+a renunciar a que el libro en el espacio digital tiene otras posibilidades de cambio que no se
+limitan a las que se concretan en el e-book. ¿No nos damos cuenta de cómo ha evolucionado el
+periódico digital? Hace muy pocos años la versión en pantalla era un calco de la edición en
+papel. Recuerdo una comida con el editor de un grupo de prensa de este país, durante la que
+insistió con vehemencia en que sus periódicos no pasarían a la Red, pues no era negocio ni tenía
+futuro. Hoy se pueden leer todos en pantalla. ¿Por qué han pasado si no ofrecían ningún
+atractivo? Desde luego los principios eran desconcertantes, pues ya no sólo no había ventajas
+para los dueños de los periódicos sino que tampoco para los lectores, de no estar residiendo en
+las antípodas. Sin embargo, en poco tiempo el periódico convencional se ha roto en el espacio
+digital y ha comenzado a mostrar unas formas distintas de presentar la información, de
+dosificarla, a ofrecer nuevos contenidos, a introducir componentes audiovisuales, a posibilitar
+seguir en tiempo real la marcha de un acontecimiento, a permitir, al lector una mayor
+participación y a facilitar la reunión de los lectores en los foros o la conversación con un
+personaje. Ya en nada se parece a un periódico en papel; es irreconocible. Creo que al libro, una
+vez dentro del espacio digital, y una vez que haya pasado la aduana presentándose como una
+versión virtual del libro secular, le esperan de mano de los creadores transformaciones
+importantes.
+RC: En esa dirección, me parece que el periódico es un ejemplo interesante, porque usted ha
+hablado de la transformación de la estructura textual, que no es una mera copia de la forma
+impresa, sino que inventa su propia lógica, incluso para introducir otros vehículos de la palabra,
+de la escritura. Pero, ¿cómo se articula esta transformación estructural del texto con la
+composición del público y los usos del periódico? Porque estimo que los historiadores, a
+menudo, han hecho una proyección anacrónica, por ejemplo, de las maneras de leer, que son las
+nuestras, como lectores del XX, lectores profesionales, lectores que suelen leer silenciosamente
+y solitariamente y en búsqueda de la interpretación del sentido. Y este modelo de lectura, que
+tiene sus criterios específicos, fue durante mucho tiempo pensado como un modo de lectura
+universal, que se podía proyectar sobre el pasado, olvidando prácticas completamente diversas
+de lectura —voz alta, colectiva, o incluso silenciosa—, que implicaban una relación con lo
+escrito que no es necesariamente hermenéutica. De aquí que desde la Historia de la lectura
+debamos rechazar la proyección retrospectiva anacrónica de un modo específico,
+temporalmente ubicado dentro de la larga duración.
+Existe un riesgo que sería paralelo, que significaría una proyección no anacrónica, sino una
+proyección sociológica que construye una figura muy particular del lector. Es decir, este lector
+del periódico electrónico es un lector que define una comunidad de lectores muy particulares en
+el mundo contemporáneo, son los lectores que necesitan una información inmediata, supongo,
+de la política y de la bolsa, son lectores que viajan y que deben leer el periódico en otro país o
+fuera de casa, en el avión, en el tren..., son lectores con expectativas en relación con el
+contenido del periódico, que no me parecen definir las necesidades ahora —hablo ahora, no sé
+en el futuro— de la mayoría de los lectores.
+Y de esta manera, lo que me inquieta un poco sería un riesgo paralelo al que han encontrado
+los historiadores de la proyección anacrónica de prácticas del presente como si fuesen prácticas
+de todos los tiempos. Aquí nos encontraríamos con la proyección sociológica de comunidades
+de lectores que existen, pero que son minoritarias, como si encarnaran la figura universal del
+lector. Así, entendemos como universal algo muy específico, y el peligro inmediato es el de
+producir una textualidad pensada para esta comunidad restringida, que es tomada como la
+comunidad universal de los lectores. Es un poco el problema de Kant en la Ilustración. La
+Ilustración no es un estado, es un proceso. Quizá, en el siglo XXI, XXII, XXIII, Si todo va bien,
+las dos figuras puedan ajustarse: el nuevo tipo de lector y la comunidad universal de los
+lectores. Pero no es la realidad actual, ¿cómo cree usted que podrían superarse estas
+discrepancias entre una figura del lector ajustado al texto electrónico en todas sus formas y la
+realidad de los lectores, sabiendo que hay mucha gente en nuestro universo que pertenecen al
+mundo del analfabetismo? El riesgo sería no ya el del mundo del analfabetismo reducido, sino
+el de un nuevo iletrismo creciente, que se vería reforzado por la ilusión de la proyección
+sociológica de la cual hablo.
+ARH: El lector del periódico electrónico no existe, se esta haciendo. Ahora hay una cantidad
+mínima de lectores para que la experiencia arranque, pero a medida que también otras
+actividades se vayan realizando en la pantalla se pasará de forma más fácil de una determinada
+tarea en Internet a leer el periódico. La lectura en pantalla es un proceso que vendrá trenzado
+con otras actividades trasladadas a ella y que seguirá el mismo camino que la introducción de
+cualquier otra práctica a lo largo de la historia: extendiéndose más o menos rápidamente,
+dejando espacios sin cubrir, provocando resistencias, deteniéndose al llegar a un punto y, por
+tanto, dejando a unos dentro y a otros fuera, es decir, creando nuevas desigualdades, sobre las
+que luego, por justicia, hay que intervenir. Considero que el problema de la lectura en pantalla
+se debe englobar dentro de otro más general: la división que se producirá en años próximos
+entre quienes su trabajo, además de otras actividades de ocio y relación, se realizará en una
+pantalla y quienes por la naturaleza de su trabajo no podrán hacer esto. Provocara en el interior
+de las sociedades una división más marcada que la dada entre el campo y la ciudad.
+RC: No pienso que los nuevos lectores se creen por sí mismos. No me parece que la técnica o la
+propuesta de una nueva forma generen la capacidad de entrar en este mundo. Creo que se
+necesitan mediaciones, aprendizajes y es la razón por la cual, por ejemplo, resulta paradójico lo
+que se ve en América Latina: el sueño de Internet en cada escuela, cuando hay pueblos a los que
+no llega ni siquiera electricidad. Me parece una ilusión muy grave, porque podría convertirse en
+un dispositivo para echar a los maestros o para suprimirlos. Para mí no tiene sentido introducir
+todo lo que conlleva Internet en el aprendizaje, sin las mediaciones adecuadas. Puedo decir lo
+mismo de las bibliotecas: me parece que técnicamente podrían desaparecer como lugar de
+recepción o transmisión de los textos. Si suponemos que todos los textos que fueron escritos se
+convierten en un texto electrónico, ¿por qué mantener una biblioteca?
+Me parece fundamental comprender que desempeñan papeles que desbordan la forma
+técnica de comunicación de los textos: una función de sociabilidad alrededor del texto, una
+función de aprendizaje del mundo electrónico o incluso una función de conservación. Aunque
+fuesen transformados en textos electrónicos todos los textos del patrimonio textual manuscrito o
+impreso, permanece la necesidad absoluta de mantener el acceso posible a la forma en la que
+circularon antes del momento de su transformación electrónica. De esta manera, me parece que
+el riesgo —aunque, desde luego, esa no es su posición—es el de asumir ciertos discursos que
+parecen técnicamente, intelectualmente, teóricamente bien fundados, pero sirven a fines que van
+casi en un sentido contrario a su propuesta, porque retoman la idea de una evidencia de la
+técnica. Usted tiene razón, las técnicas producen, crean, sus públicos, pero al mismo tiempo no
+es una creación abstracta, se necesitan mediaciones y, es necesario no olvidarlo, aparecen
+resistencias de muy diversa índole.
+ARH: Sí, totalmente de acuerdo, no hay motivo ninguno para discrepar. No creo que en la historia
+haya habido otro momento parecido a éste en cuanto a presión para introducir unas técnicas y
+unas prácticas, para extender el uso de Internet. No creo que haya habido nunca una presión tan
+grande para que ricos y pobres acepten que si no están en Internet no van unos a mantener su
+posición privilegiada y otros a salir de sus problemas. Y esta presión va a producir
+planteamientos ridículos, absurdos, por los contrastes con lo que se dice y pretende y lo que
+realmente hay. Basta escuchar a los políticos, que hace dos días ignoraban estas tecnologías y
+ahora no hay discurso en que no hablen de la sociedad de la información, de la sociedad del
+conocimiento, pero falta un proyecto bien pensado sobre cómo entrar correcta y firmemente en
+ella. En fin, como le decía antes, lo que parece más probable es que en los próximos años
+internamente, en los países avanzados, y entre éstos y los desfavorecidos se abra una brecha a
+causa del desigual acceso a estas tecnologías. Y a la vez, y esta es la paradoja, se presentarán
+unas posibilidades de superación de viejos desequilibrios, que habrá que coger con agilidad e
+imaginación antes de que pase irremediablemente la oportunidad. Hay, pues, que estar muy
+atento en esta situación contradictoria y no tomar la postura recelosa y despectiva ante la
+tecnología, pues puede ser, cogida a tiempo y con habilidad, palanca para remover muchas
+cosas.
+RC: Sería terrible sustituir la división entre analfabetos y letrados por una división entre
+“conectados y desconectados”, sería una nueva forma de debilidad social.
+ARH: Hay, además de éste, otro tema que me parece preocupante, y son las posibles consecuencias
+de la lectura en pantalla. El libro se ha descuadernado. El libro como una unidad, y una
+totalidad, de lectura disponible en tus manos y abierta para tus ojos, que se iba desvelando
+mediante un proceso lento y disciplinado de lectura, se ha perdido. Creo que, por efecto del
+entorno audiovisual, cada vez más caleidoscópico, con secuencias muy cortas, a las nuevas
+generaciones les cuesta leer más un libro desde la primera página a la última, una página desde
+el ángulo superior izquierdo al inferior derecho. Desde los libros de texto de primera y segunda
+enseñanza a los apuntes en la universidad se intensifica esta tendencia. Basta abrir uno de estos
+libros de texto para entender cómo se puede descuadernar el libro sin deshojarlo: cualquiera de
+sus páginas esta fracturada por recuadros, fondos de colores distintos, ilustraciones innecesarias;
+nada anima a que los ojos se deslicen por los cauces de las líneas, sino, más bien, a que salten
+de un lado a otro de la página, a que vayan picando los fragmentos. Me cuesta aceptar, aunque
+los pedagogos tendrán sus razones, y estas estarán bien fundadas, que a los niños, en vez de
+animarlos y dirigirlos en la lectura completa de un libro, se les encargue como deberes que
+hagan fichas, recorten y peguen noticias de periódicos de las que sólo leen el titular o se fijan en
+la fotografía... El resultado es un déficit de horas de lectura y un exceso de tiempo dedicado a
+recortar y pegar. Pero los mayores no nos libramos de esta fractura en la lectura: lo que se llama
+navegación por la red la favorece. Se salta de una página web a otra sin haber concluido su
+lectura, hay un impulso en señalar con el cursor las palabras activas que anuncian enlaces con
+otras páginas antes de terminar el texto que tenemos en pantalla; vence la tentación de la
+curiosidad de ver lo nuevo por llegar a la pantalla que lo que guarda el texto de cada una de
+ellas. Esto es para mí uno de los problemas más serios de la lectura en estos momentos,
+agravado por la lectura en pantalla. Hay que buscar formas de contener el derrame del texto, de
+retener la atención discursiva del lector. Y esta es la labor, precisamente, del nuevo libro en el
+espacio digital: encontrar estrategias nuevas para lograr su función principal —tal como defendí
+al principio de esta conversación—: confinar la información frente a la tendencia al derrame. El
+libro digital, sean cuales sean las formas que al final adquiera, seguirá siendo libro si consigue
+que el lector quede prendido en su discurso, y lo recorra, y lo intente vaciar a través de la lectura
+atenta y continua. Y esto tendrá que pasar por cambios formales —de presentación y
+dosificación del texto— y de organización en el texto —de organización hipertextual—. Ahora
+esta sucediendo todo lo contrario, la información en pantalla empuja a perderse en una maraña
+de enlaces; la información esta derramada, no confinada; si conseguimos recursos,
+concepciones de organización que la confinen, tendremos libro al otro lado de la pantalla. Es
+curioso; considero que desde la pantalla se ha descuadernado el libro (que es decir que se le ha
+hecho perder su principal función, la del confinamiento), pero es en la pantalla en donde confío
+que con nuevas concepciones hay que intentar recuperarlo.
+RC: Su posición me parece original. Desde luego, en la cultura impresa podemos subrayar todas
+estas formas de fragmentación pero, por lo menos, aunque recuerde só1o un pasaje de un libro
+impreso, aunque lea solamente dos o tres páginas, hay algo que se impone de una cierta manera
+a mi práctica, y es la evidencia de la obra. Puedo ignorarla, puedo destruirla pero existe algo en
+esta división, quizá tradicional, entre el lector y el libro, que se da como una evidencia empírica.
+En el mundo digital, ¿cuáles son los criterios que permiten percibir la coherencia de una obra
+que no está producida para la fragmentación? —porque hay otras que están producidas para
+ella—. ¿Cómo se percibe esta existencia o esta identidad particular? Y ¿por qué va a imponer al
+lector una relación más fiel a la intención estética o intelectual que en la cultura impresa?
+ARH: Bien, lo primero que hay que superar para conseguir esta impresión de continuidad en el
+texto es la metáfora de la página. Ha sido hasta ahora extraordinariamente útil imaginar que
+estamos ante una página de papel, aunque lo que realmente tengamos sea una pantalla de
+ordenador. Esta metáfora facilitó la entrada del ordenador personal en el consumo masivo, hace
+dos décadas, pues se ofrecía prácticamente reducido a un procesador de textos que entraba en
+competencia con la máquina de escribir. De tal manera que la interfaz te hacía creer que tenías
+no una pantalla delante, sino una hoja de papel metida en el carro de la máquina. Fue una
+metáfora eficaz que rompió resistencias. Y ya en época más reciente, de nuevo la metáfora de la
+página resulta una idea feliz para introducir masivamente otra actividad: la navegación por
+Internet. La interfaz de la World Wide Web se basa en la idea de que estamos ante un universo
+de páginas enlazadas. Esto ayuda mucho a la intuición para moverse con soltura por una
+información aplastante. Sin embargo, esta insistencia en la metáfora de la página tiene su
+contrapartida, y es que dificulta ver la pantalla como un espacio de escritura y lectura distinto al
+de una hoja de papel. Y, desde luego, la pantalla no es una página. La utilidad de un principio se
+vuelve freno hoy para ensayar otra forma de entender el espacio de la pantalla.
+RC: Es muy interesante lo que usted dice, pero también inquietante para los que desde fuera
+intentan reflexionar sobre esas situaciones. Tradicionalmente, lo que se plantea es la
+inadecuación de las nociones construidas dentro del marco de la cultura impresa a partir del
+XVIII —en términos jurídicos: propiedad literaria, cultural, derechos de autor; en términos
+estéticos: originalidad, singularidad; o en términos biblioteconómicos o descripción
+bibliográfica—, y cómo todas estas nociones, que parecen teóricamente universales, remiten de
+hecho a una forma especifica de la cultura escrita.
+Sin embargo, lo que usted introduce es que las nociones que utilizamos como opuestas y que
+nos obligan a reformular las tradicionales son, según su perspectiva, el objeto mismo de una
+nueva discrepancia. Por ejemplo, el hipertexto que no se corresponde con lo que debería ser y lo
+que empieza ya a ser. De esta manera, estamos ante una reflexión complicada y difícil porque a
+la vez opone las nociones de la textualidad electrónica a las nociones tradicionales para
+describir, clasificar, designar el mundo de los textos. Y, dentro de este sistema de oposiciones,
+hay una segunda, no percibida en algunos casos, que sería la existente entre las nociones más
+adecuadas a esta realidad textual móvil y que inventa cada día nuevas formas —o que debería
+hacerlo— y lo que encontramos cristalizado como un repertorio de términos para describir la
+textualidad electrónica. Creo que no puedo añadir nada a lo que usted ha dicho a propósito del
+futuro posible, deseable desde el punto de vista de la creación o de la lectura del texto
+electrónico.
+La pregunta sería un poco diferente: hasta ahora, cuando ha aparecido una nueva técnica, la
+coexistencia entre una forma antigua y una nueva no ha sido siempre del mismo orden. Si
+pensamos en la invención de la imprenta con Gutenberg vemos cómo sobrevivió el manuscrito
+contra una cierta tradición de la Historia del libro, y no únicamente para la comunicación entre
+individuos o no como forma de ejercicio del poder sino, también, como forma de publicación.
+Igualmente, la forma de publicación manuscrita aparecía como esencial para ciertos públicos e
+incluso géneros. En este sentido, podríamos hablar de una mayor coexistencia entre las dos
+formas de inscripción y comunicación de los textos a como tradicionalmente la historia del libro
+nos lo ha presentado.
+Ahora bien, si atendemos a la invención del códice nos encontramos ante una situación
+distinta. Con la aparición del códice el rollo desapareció en sus formas y usos en la Antigüedad;
+si continuaron utilizándose los rollos durante la Edad Media no fue para los mismos fines que el
+códice —la publicación de textos literarios, teológicos, jurídicos...—, por el contrario, sus usos
+se limitaban a los ámbitos administrativos o archivísticos. Además, estos rollos medievales no
+tenían la misma morfología que los de la Antigüedad.
+De esta manera, la Historia no procura lecciones o enseñanzas, en algunas situaciones una
+nueva forma de inscripción y transmisión de lo escrito sustituye casi completamente a la
+antigua, y en otras nos encontramos ante la coexistencia de ambas formas. Quizá podríamos
+justificar estas dos posibilidades teniendo en cuenta que mientras que en el caso de la invención
+de Gutenberg no se cambió la forma del objeto libro, sí que se hizo con la invención del códice,
+imponiéndose como la forma normal de circulación de los textos. ¿Que le parece la situación
+actual o de las próximas décadas, si no siglos? ¿Le parece que vamos en una dirección más
+cercana a la invención del códice —es decir, que finalmente las otras formas de soporte de la
+textualidad van a desaparecer— o que, como con la invención de Gutenberg, hay ventajas para
+una coexistencia de las modalidades de inscripción de la escritura y de la producción libresca?
+¿Cuál es en su opinión o deseo la dirección?
+En el papel de hombre del pasado que estoy haciendo aquí, encuentro una mayor riqueza en
+la coexistencia de multiplicidad de formas de inscripción y publicación. Por otra parte,
+seguimos conservando el patrimonio textual antiguo conformado a partir de los rollos —casi
+desaparecidos—, de los códices manuscritos acumulados en las bibliotecas y más aún los
+códices impresos. Consideraría una gran perdida para la civilización la imposibilidad de
+comprensión de la 1ógica de creación, transmisión o de apropiación de los textos a través de
+estas formas. Esta podría ser una razón fundamental para pensar que no van a desaparecer las
+bibliotecas. Pero ¿cómo se puede mantener esta relación de inteligibilidad con las formas
+textuales antiguas si desaparecen totalmente de la práctica contemporánea? Si queremos evitar
+errores a la hora de reconstruir el sentido que adquirían las obras cuando se distribuían en la
+forma del rollo, o el sistema de comprensión de un lector de códices, deberíamos reforzar la
+vinculación casi obligada que existe entre la conservación y el acceso al patrimonio textual en
+su primera forma de circulación y la supervivencia en el mundo del lector contemporáneo —y
+en el futuro— del uso de estas formas. ¿Que le parece: invención del códice o invención de la
+imprenta en relación con el texto electrónico?
+ARH: He venido creyendo siempre que por este efecto de la tecnología se está creando una cultura
+dual, basada en la permanencia de los espacios seculares de transmisión de los conocimientos
+—el aula y la página— y en la emergencia del nuevo espacio de la pantalla electrónica. Por un
+lado, el espacio arquitectónico del aula, de la sala de conferencias, y el de la página de un libro
+códice, decreciendo, quizá, en presencia; y, por el otro lado, cada vez más actividades
+culturales, educativas, de formación realizadas en el espacio de la pantalla electrónica, y, así
+mismo, un creciente número de bibliotecas virtuales y de títulos de libros electrónicos y
+digitales. El libro códice irá aumentando su aprecio como objeto y por la posibilidad de una
+relación con el texto y con su soporte distinta a la ofrecida por el texto en el soporte digital. Y el
+acontecimiento de una conferencia o la impartición de unas lecciones en un aula seguirían
+valorándose, como sigue siendo atrayente asistir a un concierto o a un espectáculo deportivo,
+aunque dispongamos de discos o de transmisiones televisivas. Sin embargo, el crecimiento de la
+actividad al otro lado de la pantalla, el deslizamiento de nuestra producción escrita serán tan
+intensos en estos años próximos que resultará difícil contener la tentación de muchos por
+anunciar, una vez más, el final de la etapa del libro sobre papel.
+RC: Yo afirmaría que esta cultura sería más que dual, puesto que finalmente nos encontramos con
+tres formas de inscripción y comunicación de los textos, que podrían mantenerse o reducirse a
+una: una práctica manuscrita, la publicación impresa y, por último, tenemos todas las formas de
+textualidad electrónica, que dibujan caminos diversos que se movilizan para usos
+completamente diferentes. Por tanto, podríamos hablar de la existencia de tres posibilidades
+abiertas, utilizadas, manejadas. A partir de aquí podemos discutir este aspecto de la absorción
+por parte de la tercera —la textualidad electrónica— de los usos y funciones, productos... que
+ya se vinculaban con las dos previas— todo lo referido a una escritura manuscrita, para los otros
+o para sí mismo, y todo lo que se remitía a la publicación impresa—. Entiendo que cada día
+comprobamos esta aceleración de los cambios y la vampirización acelerada por parte de la
+técnica electrónica de las otras formas de escribir.
+Igualmente, como historiador, admito que efectivamente sería absurdo pensar que todas las
+evoluciones respetan los mismos ritmos. Sin embargo, creo que la dimensión que hemos
+subrayado de la inercia de categorías o de la incorporación de prácticas, de hábitos, de gestos,
+no va a desaparecer con el ritmo de la propuesta tecnológica, del cambio de los aparatos y de los
+usos del texto electrónico. Sin embargo, nos encontramos ante el riesgo que supondría una
+fragmentación, y no me refiero tanto a la de los textos sino más bien a una fragmentación de la
+sociedad. Hablo, más concretamente, de la ruptura que se produciría entre los que en sus
+sistemas de representación o en sus hábitos o prácticas pueden seguir, más o menos, este ritmo
+acelerado, frenético de los cambios y los que van a quedarse marginados, por razones diversas,
+si no encuentran las mediaciones ya mencionadas. A través de la discusión teórica sobre la
+convivencia de las tres modalidades de inscripción de la textualidad, realmente estamos
+hablando, implícitamente, de una fractura sociocultural. En este punto nos encontramos ante
+una divergencia, a mi juicio absolutamente necesaria, puesto que como ciudadanos, como
+maestros, tenemos una responsabilidad para evitar que, sin quererlo, la transformación —
+deseable desde otro punto de vista—, del mundo textual produzca una fractura dentro de la
+sociedad, una fractura aún más grande que las que hemos conocido en la larga duración de la
+Cultura escrita.
+ARH: Veo muy posible esta fractura en el seno de las sociedades privilegiadas, las que están
+recibiendo los frutos de la tecnología, pero ya no sólo en lo que se refiere a lo nuevos hábitos y
+formas de lectura y de escritura, sino también en otros niveles de la incorporación de la
+tecnología al trabajo, al entretenimiento, a la producción y acceso culturales... Apuesto por una
+brecha en el interior de las sociedades favorecidas más marcada que la originada por la
+industrialización entre campo y ciudad. En este caso se está abriendo ya entre quienes trabajan
+con información) y quienes no. Los primeros comienzan a liberarse de la disciplina laboral del
+tiempo, en forma de horario, y del espacio, manifestado en forma de necesidad de
+desplazamiento al lugar de trabajo, y a disponer de una facilidad de relación con el mundo
+digital y electrónico muy superiores al resto, lo que les prepara para otras recepciones de los
+usos de estas tecnologías en la vida cotidiana y el entorno doméstico. En relación con la lectura
+y escritura en el espacio electrónico, la educación puede y debe ser el instrumento nivelador y
+difusor de las nuevas formas y de las necesarias nuevas destrezas y actitudes.
+En una dirección distinta, hay otro tema que me interesa traer aquí. ¿Debe la creatividad
+explorar y colonizar el mundo digital? Y mi respuesta sería que, indudablemente, está pendiente
+una entrada decidida de la creatividad en este terreno.
+RC: Pero, ¿a través de qué mecanismos piensa que los autores de ficción o de textos
+argumentativos, demostrativos... van a incorporar estas exigencias teniendo en cuenta que
+aunque el interés sea enorme, a menudo desconocen muchas de estas realidades y
+posibilidades? Finalmente, ¿no sería una visión un poco idealista pensar que la gente va a
+incorporar por sí misma estos requerimientos?
+ARH: No importa aquí apostar por dónde ira el camino de cambio y aparición de lo nuevo, porque
+lo interesante en este momento, y para los argumentos en esta conversación, es que se haga ver
+que una vez que se traslada el libro al otro lado de la pantalla surgen muchas posibilidades de
+que pueda ser tratado de forma distinta. Esto es lo importante, y esto es lo único que ahora se
+puede decir.
+RC: Históricamente observamos cómo los autores que escribían sus textos para ser recogidos en
+códices encontraban muchas dificultades para liberarse de las divisiones textuales del rollo. El
+concepto de libro, en términos de una división textual, a menudo retomaba una división
+material, es decir, una cantidad de texto que anteriormente correspondía a un rollo y que se
+transformaba en un libro en el sentido textual dentro de un códice. Lo mismo le ocurre al libro
+códice impreso para liberarse de las formas del manuscrito, de esta forma fue necesario un siglo
+para inventar formas específicas y más tiempo aún para que los autores incorporaran las nuevas
+posibilidades ofrecidas por el texto impreso.
+Aun suponiendo una aceleración como la que usted describe, pienso que subsistirán
+tensiones como las que acabo de mencionar.
+ARH: La evolución tecnológica acelerada de estos años nos ha llevado a ser cada vez más
+impacientes; los procesos que antes se medían en siglos y se escapaban, por tanto, del
+seguimiento de una generación, ahora algunos se resuelven en muy pocos años; y, sin embargo,
+estos pocos años nos parecen siglos. Acaba de emerger el mundo digital y de iniciarse el
+precipitado de los objetos y actividades de nuestro mundo, llamado natural, al digital; es sólo el
+comienzo, pero ya todos queremos resultados estables y bien concretos, cuando, curiosamente,
+un entorno en cambio tan acelerado hace aumentar la incertidumbre. El libro va a cambiar y, sin
+embargo —esta es mi defensa—, seguiremos reconociéndolo en el otro lado de la pantalla. El
+impulso para su transformación vendrá de la exploración de los creadores, pero también, y con
+mayor urgencia, de la necesidad imperiosa de cambio para que pueda funcionar en el nuevo
+medio. En este umbral en que ahora estamos, creemos que la mejor garantía de supervivencia es
+reproducirlo allí, en el espacio digital, tal como lo tenemos aquí; pero también sabemos que la
+historia nos dice una y otra vez que esto es sólo empeño pasajero, porque las nuevas
+posibilidades romperán la horma de lo seguro y bien probado, para sorprendernos con lo
+inimaginable y, en el caso de la escritura, con su plasticidad para adaptarse y para explotar las
+capacidades expresivas que le proporciona el nuevo medio.
+RC: El futuro del libro y el libro del futuro: tal era el tema que nos propusieron Emilio Torné y
+Enrique Villalba para nuestra conversación. No se si hemos cumplido sus expectaciones. Pero el
+diálogo entre su manera de imaginar un futuro que no esta encerrado de ninguna manera en las
+realidades técnicas o conceptuales del presente y, por otro lado, el inventario de las herencias
+históricas, las desigualdades sociales y culturales, o los conflictos de intereses que rigen las
+apropiaciones de las nuevas posibilidades nos permite pensar sin temor, pero también sin
+ilusión el porvenir de la Cultura escrita. Me parece un buen ejemplo del uso crítico de nuestro
+juicio tal como lo sugería Kant
