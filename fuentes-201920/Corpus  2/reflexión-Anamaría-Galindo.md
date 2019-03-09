@@ -1,5 +1,5 @@
 ---
-titulo: El impacto del streaming en el consumo de generos musicales en Bogotá
+titulo: El impacto del streaming en el consumo de géneros musicales en Bogotá
 fecha: 2019-03-8
 autor:
 - Anamaría Galindo Blanco
