@@ -6,13 +6,13 @@ autor:
 etiquetas: Café, Cafeteros, Colombia, Historia
 ---
 
-Decidí centrar un corpus de texto con diez artículos académicos escritos en español referentes al Café en Colombia. En el momento de pasar los archivos a un formato de texto cometí el error de no eliminar los abstract de cada artículo y  debido a esto la plataforma me arrojó algunas palabras en inglés.  En total analicé un corpus de 10 documentos, 79,068 palabras y 11.465 términos únicos.
+Decidí centrar un corpus de texto con diez artículos académicos escritos en español referentes al Café en Colombia. En el momento de pasar los archivos a un formato de texto cometí el error de no eliminar los "abstracts" de cada artículo y  debido a esto la plataforma me arrojó algunas palabras en inglés.  En total analicé un corpus de 10 documentos, 79,068 palabras y 11.465 términos únicos.
 
-Posteriormente decidí omitir las palabras (a, no, the, of, e, p, and, http, 1, 2, este, más, r, et, in, j), con esto obtuve un mapa de palabras en donde sin duda la principal fue “Café” y las que tienen mayor frecuencia fueron “Colombia”, “Nacional”, “Cafetero”, y  “Producción”. Para una futura consulta considero que debería eliminar excluir la palabra café teniendo en cuenta que es mi temática central y de igual forma palabras en plural que se refieran a un mismo término.
+Posteriormente decidí omitir las palabras (a, no, the, of, e, p, and, http, 1, 2, este, más, r, et, in, j), con esto obtuve un mapa de palabras en donde sin duda la principal fue “Café” y las que tienen mayor frecuencia fueron “Colombia”, “Nacional”, “Cafetero”, y  “Producción”. Para una futura consulta considero que debería excluir la palabra café teniendo en cuenta que es mi temática central y de igual forma eliminar las palabras en plural que se refieran a un mismo término.
 
 Las palabras distintivas que más me llamaron la atención y que considero relevantes para mi proyecto fueron “transferencia”que se refiere a un elemento de tradición y “apropiación” que genera esa conexión emocional y arraigo por el café. 
 
-En conclusión considero que entre más concreto, sobre un tema específico sea el corpus de texto podría ser mucho más útil para así lograr obtener información relevante. 
+En conclusión considero que entre más concreto, sobre un tema específico sea el corpus de texto podría ser mucho más útil para así obtener información relevante. 
 
 **Enlace Voyant Tools**
 
