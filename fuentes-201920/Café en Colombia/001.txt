@@ -1,0 +1,4456 @@
+Finanz. polit. econ., ISSN: 2248-6046, Vol. 8, No. 2, julio-diciembre, 2016, pp. 379-399
+http://dx.doi.org/10.14718/revfinanzpolitecon.2016.8.2.8
+
+Julio César Alonso Cifuentes*
+Daniela Estrada Nates**
+Universidad Icesi,
+Cali, Colombia.
+Recibido: 20 de enero de 2016
+Concepto de evaluación: 26 de mayo de 2016
+Aprobado: 27 de mayo de 2016
+
+Artículo de reflexión
+© 2016 Universidad Católica de Colombia.
+Facultad de Ciencias
+Económicas y Administrativas.
+Todos los derechos reservados
+
+El precio mundial del café y su
+efecto en el precio minorista
+para las cinco principales
+ciudades de Colombia
+RESUMEN
+Este estudio examina la relación entre el precio internacional y el precio
+al por menor del café en las cinco ciudades principales de Colombia. Para ello
+se realizan pruebas de cointegración, de causalidad a la Granger y funciones
+de impulso-respuesta. La evidencia muestra la existencia de una relación de
+largo plazo entre los precios al por menor en las cinco principales ciudades y
+el precio mundial del café. Esta relación tiene una causalidad unidireccional
+del precio internacional a los precios del café al por menor. La magnitud de la
+transmisión del precio mundial permanece 36 meses o más para la mayoría de
+los precios del café al por menor..
+Palabras clave: café, Colombia, cointegración, causalidad a la Granger,
+función impulso-respuesta.
+JEL: A10, C22, Q1
+
+* Doctor en Economía. Profesor y director del
+Centro de Investigación en Economía
+y Finanzas (Cienfi), Facultad de
+Ciencias Administrativas y Económicas,
+Universidad Icesi, Cali, Colombia. Código
+postal: 760031. Correo electrónico:
+jcalonso@icesi.edu.co
+** Estudiante de la Maestría en Economía en
+Universidad Icesi, Cali, Colombia. Joven
+Investigadora del Centro de Investigación
+en Economía y Finanzas (Cienfi) de la
+misma universidad. Correo electrónico:
+destrada@icesi.edu.co
+
+The international coffee price and its effect on the retail
+price for the five main cities in Colombia
+ABSTRACT
+This study examines the relationship between the international coffee
+price and retail coffee prices in the five main cities in Colombia through cointegration tests, Granger causality tests, and impulse-response functions. The
+evidence points to the existence of a long-term relationship between the retail
+prices in the five main cities and the world coffee price. This relationship has
+a unidirectional causality of international coffee prices to retail coffee prices.
+
+379
+
+The magnitude of the transmission of the international global price remains
+for 36 months or more for most retail coffee prices.
+Keywords: coffee, Colombia, cointegration, Granger causality test,
+impulse-response functions.
+
+O preço mundial do café e seu efeito no preço varejista
+para as cinco principais cidades da Colômbia
+RESUMO
+Este estudo examina a relação entre o preço internacional e o preço no
+varejo do café nas cinco cidades principais da Colômbia. Para isso, realizamse testes de cointegração, de causalidade de Granger e funções de impulsoresposta. A evidência mostra a existência de uma relação de longo prazo entre
+os preços no varejo nas cinco principais cidades e o preço internacional do
+café. Essa relação tem uma causalidade unidirecional do preço internacional
+aos preços do café no varejo. A magnitude da transmissão do preço mundial
+permanece 36 meses ou mais para a maioria dos preços do café no varejo.
+Palavras-chave: café, Colômbia, cointegração, causalidade de Granger,
+função impulso-resposta.
+
+380
+Finanz. polit. econ., ISSN 2248-6046, Vol. 8, No. 2, julio-diciembre, 2016, pp. 379-399
+
+EL PRECIO MUNDIAL DEL CAFÉ Y SU EFECTO EN EL PRECIO MINORISTA PARA LAS CINCO PRINCIPALES CIUDADES DE COLOMBIA
+
+INTRODUCCIÓN
+El café ha sido, y continúa siendo, aunque en
+menor medida, uno de los commodities más
+importantes para muchas economías emergentes (Paiva, 2000; Mafusire, Salami, Kamaray y
+Lawson, 2010; Maurice y Davis, 2011). En el caso
+colombiano, según Cano et al. (2012), este ha sido
+uno de los productos que más ha contribuido al
+crecimiento del producto interno bruto (PIB), la
+financiación de la balanza de pagos, el empleo y
+la estabilidad monetaria y cambiaria. Cano et al.
+(2012) encuentran, a través de ejercicios econométricos, que la actividad cafetera, vía consumo,
+impacta más el crecimiento económico que el
+sector minero. Este último es el principal rubro de
+exportación y uno de los grandes generadores de
+ingresos públicos; sin embargo, es un sector que
+solo tiene una participación del 1% en el empleo
+total (Cárdenas y Reina, 2008).
+En contraste, Echavarría, Esguerra, McAllister
+y Robayo (s. f.) reportan que la caficultura tiene
+una participación del 3% del empleo total de país,
+especialmente en la zona rural, donde genera 1 de
+cada 3 empleos; además, es un sector que dinamiza
+la malla productiva de las regiones. Lo anterior la
+convierte en una herramienta que puede ayudar
+a la población rural a mejorar sus condiciones de
+vida, como, de hecho, ha sucedido en otros países
+(Mbowa, Odokonyero y Munyambonera, 2014),
+A pesar de su importancia, Colombia ha
+perdido participación en la producción y exportación del café en el ámbito mundial: pasó de
+ser el tercer productor mundial en 2008 (8,38%
+de participación) a ser el cuarto en 2010 (6,25%
+de participación). Liz, Campo y Herrera (2012)
+reportan que el número de sacos exportados ha
+disminuido; no obstante, las exportaciones en valor
+han presentado una tendencia creciente entre 2000
+y 2011, tanto si se miden en términos corrientes
+como constantes. Asimismo, los autores explican
+que la disponibilidad de sacos para consumo interno ha disminuido, puesto que la producción
+de café se ha visto afectada negativamente por
+
+el cambio climático y la renovación de cultivos.
+Adicionalmente, por el lado de la demanda interna,
+esta presenta tasas de crecimiento positivas desde
+el 20101, aunque se ha caracterizado por estar
+debajo de su nivel potencial (Federación Nacional
+de Cafeteros [FNC], 2010).
+En síntesis, la situación actual del mercado
+interno del café implica un aumento de la demanda
+con una oferta de origen nacional decreciente. Esto
+implica que el mercado interno se está abasteciendo con importaciones de café no procesado, las
+cuales pasaron de 0,1 millones de sacos de 60 kg
+en 2007 a 1,5 millones de sacos en 2012, cifra 15
+veces mayor. Esas importaciones se caracterizan por
+ser de una calidad menor a la del grano colombiano
+y provienen de Perú, Ecuador y Brasil (Liz, Campo y
+Herrera, 2012). Este último país es el principal productor y exportador de café en el mundo.
+Dada esa situación, el objetivo de este artículo es estudiar la magnitud y rapidez con que se
+transmiten los choques del precio internacional
+del café a los precios minoristas en las principales
+ciudades de Colombia. Para lograr tal objetivo, se
+emplearán técnicas estándar de series de tiempo
+que permitan determinar la relación existente entre el precio internacional del café y el precio del
+café a los consumidores en las cinco principales
+ciudades del país.
+Adicionalmente a esta introducción, este
+artículo se organiza en cuatro secciones más.
+En la siguiente se discuten algunas aplicaciones
+empíricas relevantes para nuestro ejercicio; luego
+se describe la aproximación empírica; posteriormente se presentan los datos utilizados; por último,
+se discuten los resultados obtenidos y se presentan
+unos comentarios finales.
+
+1	
+
+Resultado, en parte, del programa Toma Café, una iniciativa
+de la cadena cafetera colombiana para incentivar el consumo interno de café. Los miembros de este programa son:
+Casa Luker, Colcafé, la Federación Nacional de Cafeteros
+de Colombia, Nestlé de Colombia, Torrecafé Águila Roja,
+Toscafé OMA e Industrias Pinto.
+
+381
+
+Julio César Alonso Cifuentes • Daniela Estrada Nates
+
+REVISIÓN DE LA LITERATURA
+RELEVANTE
+La relación entre los precios de dos mercados se conoce en la literatura relacionada como integración
+de los mercados. En esta se encuentran dos tipos
+de análisis: por un lado, aquellos que estudian la
+integración de la cadena de comercialización y la
+relación entre los precios de dos niveles distintos de
+la cadena de distribución (por ejemplo, mayorista y
+minorista) en un mismo lugar geográfico; por otro
+lado, aquellos que investigan la integración espacial de los mercados, caracterizada por entender
+cómo se relaciona el precio de un mismo bien entre
+diferentes espacios geográficos (Alonso y Gallego,
+2010). En este estudio se adopta el primer camino
+y se analiza cómo el precio del café en el mercado mundial afecta el precio del café en el contexto
+local (minoristas), en cada una de las cinco ciudades
+más pobladas de Colombia.
+En el contexto internacional se encuentran
+investigaciones que se concentran en el estudio de
+la integración de la cadena de productos agrícolas
+como la papa, el arroz y el maíz. Por ejemplo, Greb
+et al. (2012) analizan la transmisión de los precios
+internacionales de los cereales como el arroz, el
+maíz y el trigo en los mercados locales de varios
+países emergentes, concentrándose en la región del
+este y oeste de África. Los resultados del modelo
+de corrección de errores estimado implican que,
+en promedio, el 73% de los movimientos del precio internacional son transmitidos a los mercados
+locales en 4,4 meses, 1 mes más rápido que para
+otros grupos de países.
+Por otro lado, esta literatura también se cruza
+con aquella que evalúa la existencia de la Ley de
+Precio Único, que enuncia que en todo momento la
+relación entre dos mercados debe ser tal que solo
+exista una diferencia entre los dos precios igual
+al costo de oportunidad de la intermediación (c);
+es decir, p1t = c + p2t. En otras palabras, dada la
+posibilidad de arbitraje, la diferencia entre el precio
+del bien X en el mercado 1 (p1t) y el precio de ese
+mismo bien en el mercado 2 (p2t) debe ser igual al
+costo de transferir el producto de un mercado a
+
+382
+Finanz. polit. econ., ISSN 2248-6046, Vol. 8, No. 2, julio-diciembre, 2016, pp. 379-399
+
+otro (c) (John, 2014). En su forma débil, esa diferencia debe ser, en valor absoluto, menor o igual
+al costo de transacción.
+El análisis de cointegración entre las series
+de precios es una forma de probar esta ley en
+su forma débil, puesto que evidencia cómo los
+movimientos del precio de un bien no se ajustan
+instantáneamente en todos los mercados, pero
+en el largo plazo sí. Dentro de los costos se encuentran el transporte, la tasa de cambio, la presencia
+de economías de escala y el poder de mercado.
+Este estudio sigue a John (2014) y se concentra en analizar la existencia de una transmisión
+de precios. Este último autor realiza un análisis del
+valor en riesgo (VAR), causalidad a la Granger y funciones de impulso-respuesta para cinco países que
+exportan arroz. Para el caso de Colombia, Alonso y
+Gallego (2011) estudian la integración en la cadena
+de distribución del arroz, la papa y el fríjol en Cali.
+Los autores encuentran que para dicha ciudad no
+hay una relación entre los precios al por mayor y
+al por menor para el arroz y el fríjol. Para el caso
+de la papa sí encuentran integración.
+Por su parte, Alonso, Arcila y Montenegro
+(2015) estudian la relación entre los precios internacionales del azúcar y el precio al consumidor en
+las tres principales ciudades del país. Los autores
+encuentran que no existe relación de largo plazo
+entre el precio internacional del azúcar y el precio
+local.
+Hasta donde tienen conocimiento los autores, no se ha realizado este tipo de estudios para
+el precio del café en Colombia; los estudios que
+existen se han concentrado en investigar la volatilidad que presenta la serie del precio internacional
+del café colombiano a través de modelos Garch y
+Egarch (Ocaris, 2006), o de modelos Tarch para
+estudiar la producción de café (Martínez, 2006).
+El principal objetivo de esos estudios es hallar los
+mejores modelos para hacer pronósticos. Por otro
+lado, los trabajos que estudian la relación de los
+precios en Colombia analizan cómo los movimientos del precio del café internacional colombiano
+afectan al PIB, la inversión y el consumo de los
+hogares y del gobierno (Cano et al., 2012).
+
+=1
+
+EL PRECIO MUNDIAL DEL CAFÉ Y SU EFECTO EN EL PRECIO MINORISTA PARA LAS CINCO PRINCIPALES CIUDADES DE COLOMBIA
+
+APROXIMACIÓN EMPÍRICA
+Para lograr el objetivo de determinar la relación
+entre el precio internacional del café y los precios
+locales, seguiremos de cerca las aproximaciones
+de Tharcisse y Kayitakire (2013) y Alonso, Arcila y
+Montenegro (2015). El primer paso será determinar el orden de integración de las series de precios
+empleando pruebas de raíces unitarias. Se usarán
+las siguientes pruebas: Dickey-Fuller Aumentado
+(ADF) (Dickey y Fuller, 1981; Phillips y Perron, 1988),
+KPSS (Shin, Kwiatkowski, Schmidt y Phillips, 1992;
+Breitung, 1999; Zivot y Andrews, 1992) y HEGY
+(Hylleberg, Engle, Granger y Yoo, 1990).
+Si las series no son estacionarias y tienen
+el mismo orden de integración, se determinará si
+existe o no relación de largo plazo entre el precio
+internacional y el precio minorista en cada una de
+las ciudades, para lo cual se emplearán las pruebas de cointegración de Engle y Granger (1987)
+y Johansen (1988). Si la relación de largo plazo
+existe, el tercer paso será evaluar la existencia de
+causalidad a lo Granger entre las series de precios.
+Además, se emplearán las funciones de impulsorespuesta para cuantificar la magnitud, dirección
+y persistencia de la trasmisión que hay del precio
+internacional del café al precio del café minorista
+para cada una de las ciudades estudiadas. Por último, se estima el modelo de corrección de errores
+para determinar cómo es el ajuste de los precios
+locales a desequilibrios de largo plazo.
+En especial, definamos el vector de precios
+para la ciudad j como
+, donde
+Pj,t es el precio del café minorista para el periodo
+t en la ciudad j (j e {"Barranquilla", Bogotá", "Cali",
+"Cartagena", Medellín"}) y PMUNt corresponde al
+precio mundial del café en el periodo t. La ecuación
+del modelo de corrección de errores que muestra
+el ajuste del precio de la ciudad j a desequilibrios
+de largo plazo será:
+
+∆
+
+, −
+
+∆
+
++ ∑
+∆
+
+,
+
+=
+
+=1
+
+∆
+
++
+
+, −1
+
+−
+
++∑
+
++
+
+	
+
+=1
+
+∆
+
+, −
+
++ ∑
+
+=1
+
+[1]
+
+∑ =1 ∆ ,al− primer
++
++ ∑ elecorresponde
+, = Donde
+, −1 +
+=1 ∆
+mento de multiplicar el vector∆ , =
+y el vector
++ de
+, −1
+
+cointegración normalizado. En la siguiente sección
+se describen los datos que se emplearán para desarrollar esta aproximación metodológica. Todas las
+estimaciones se realizarán empleando el software
+R (R Core Team, 2013).
+
+DATOS
+En este estudio se emplearán precios mensuales
+del café molido, pagados al minorista para el periodo enero de 1999 a diciembre de 2014, para
+las cinco principales ciudades de Colombia en
+número de habitantes: Barranquilla, Bogotá, Cali,
+Cartagena y Medellín. La muestra de precios mensuales nacionales provienen de la base de datos
+del Departamento Administrativo Nacional de
+Estadística (DANE), que es empleada para calcular
+el índice de precios al consumidor y corresponde al
+precio promedio del bien que es registrado por el
+DANE en los diferentes establecimientos de venta
+al detal de cada ciudad.
+Se empleará el precio del café molido y no
+del instantáneo porque según Liz, Campo y Herrera
+(2012), de cada 100 kilos que se venden de café
+en Colombia, 86 son de café molido y los restantes
+son de café instantáneo. Los precios pagados por
+el consumidor al minorista están expresados en
+pesos por libra (500 gr).
+El precio mensual del café internacional
+(PMUN) se obtiene de la Organización Internacional
+del Café (ICO, por sus siglas en inglés). El precio
+internacional es un indicador compuesto que se
+calcula tomando un promedio ponderado de los
+precios de cuatro grupos de café (arábicas suaves
+colombianos, otros arábicas suaves, arábicas naturales brasileños y robustas), en función de sus participaciones relativas en el comercio internacional
+(ICO, 2015). Esta serie está expresada en centavos
+de dólar por libra (453,6 gr)2.
+
+∆2	
++∑
+
+Para hacer +
+comparable el precio internacional y los precios
+−
+minoristas en las ciudades, se transformó el precio internacional a pesos por libra, utilizando la tasa de cambio
+mensual representativa del mercado, la cual se obtuvo del
+Banco de la República de Colombia. Además, se multiplicó
+− +
+la serie
+por 1,102292769 para que la libra internacional
+fuera equivalente
+a la ∑
+libra colombiana.
+∆
++
+∆
++
+
+=1
+
+, −
+
+=1
+
+−
+
+383
+
+Julio César Alonso Cifuentes • Daniela Estrada Nates
+
+Las estadísticas descriptivas de las series del
+café para las ciudades son similares (tabla 1); sin
+embargo, el precio del café al minorista en Cali
+presenta una desviación estándar más pequeña y
+un precio máximo que es en casi 2000 pesos a los
+precios de las otras ciudades.
+Por otra parte, en la tabla 2 se observa una
+alta correlación positiva entre el precio mundial
+del café y el precio del café en las cinco ciudades
+analizadas. Lo anterior podría indicar que hay una
+relación de comovimiento entre las series, o bien,
+podría ser una relación espuria. Esta será verificada
+formalmente utilizando las pruebas de cointegración más adelante.
+
+Como se muestra en la gráfica 1, los precios
+minoristas del café para las ciudades de Colombia
+exhiben el mismo patrón de crecimiento a lo largo de los 16 años estudiados: se observan saltos
+de nivel aproximadamente cada 5 años. En comparación con el precio mundial, la volatilidad de
+estas (con excepción del precio de Cali) es mayor,
+puesto que el coeficiente de variación es de 36,3%
+para Medellín, y mayor a 37% para Barranquilla,
+Bogotá y Cartagena, mientras que el coeficiente de
+variación del precio mundial del café es de 35,8%.
+El precio mundial del café tiene una disminución en el valor por pesos colombianos hasta
+mediados del 2001, y después crece hasta llegar a
+
+Tabla 1.
+
+Estadísticas descriptivas de las series mensuales del precio del café mundial y al minorista para las cinco principales ciudades
+del país, entre enero de 1999 y diciembre de 2014 (pesos por 500 gr)
+Precio del café
+
+n
+
+Media
+
+Desviación
+estándar
+
+Mín.
+
+Máx.
+
+Asimetría
+
+Curtosis
+
+Medellín
+
+192
+
+6210,43
+
+2251,45
+
+2742
+
+9651
+
+0,01
+
+-1,50
+
+Barranquilla
+
+192
+
+6139,97
+
+2276,36
+
+2731
+
+9857
+
+0,16
+
+-1,44
+
+Bogotá
+
+192
+
+6117,94
+
+2312,36
+
+2605
+
+9556
+
+-0,02
+
+-1,55
+
+Cartagena
+
+192
+
+5960,72
+
+2217,84
+
+2648
+
+9628
+
+0,09
+
+-1,50
+
+Cali
+
+192
+
+5665,15
+
+1800,68
+
+2622
+
+7858
+
+-0,24
+
+-1,53
+
+Mundial
+
+192
+
+2376,21
+
+851,17
+
+1057
+
+4660
+
+0,54
+
+-0,22
+
+Fuente: elaboración de los autores a partir de información del DANE, el Banco de la República y la OIC.
+
+Tabla 2.
+
+Correlaciones entre los precios minoristas del café en las cinco principales ciudades colombianas y el precio mundial del café,
+entre enero de 1999 y diciembre de 2014
+Precio del café
+
+Medellín
+
+Barranquilla
+
+Bogotá
+
+Cartagena
+
+Cali
+
+Mundial
+
+Medellín
+
+1
+
+0,995
+
+0,998
+
+0,998
+
+0,984
+
+0,848
+
+Barranquilla
+
+ 
+
+1
+
+0,992
+
+0,998
+
+0,969
+
+0,833
+
+Bogotá
+
+ 
+
+ 
+
+1
+
+0,997
+
+0,989
+
+0,856
+
+Cartagena
+
+ 
+
+ 
+
+ 
+
+1
+
+0,979
+
+0,843
+
+Cali
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+0,856
+
+Mundial
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Fuente: elaboración de los autores a partir de información del DANE, el Banco de la República y la OIC.
+
+384
+Finanz. polit. econ., ISSN 2248-6046, Vol. 8, No. 2, julio-diciembre, 2016, pp. 379-399
+
+EL PRECIO MUNDIAL DEL CAFÉ Y SU EFECTO EN EL PRECIO MINORISTA PARA LAS CINCO PRINCIPALES CIUDADES DE COLOMBIA
+
+Gráfica 1.
+
+Series mensuales de precios del café mundial y al minorista para las cinco principales ciudades del país, entre enero de 1999
+y diciembre de 2014 (pesos por 500 gr)
+Bogotá
+
+5000
+3000
+2005
+
+2010
+
+2015
+
+2000
+
+2010
+Año
+
+Medellín
+
+Barranquilla
+
+7000
+
+9000
+
+2015
+
+5000
+
+Pesos/lb
+
+6000
+0
+
+3000
+
+2000
+
+2005
+
+2010
+
+2015
+
+2000
+
+2005
+
+Año
+
+Año
+
+Cartagena
+
+Cali
+
+2010
+
+2015
+
+2010
+
+2015
+
+5000
+3000
+
+3000
+
+5000
+
+Pesos/lb
+
+7000
+
+9000
+
+9000
+
+2000
+
+7000
+
+Pesos/lb
+
+2005
+
+Año
+
+10000
+
+2000
+
+Pesos/lb
+
+7000
+
+Pesos/lb
+
+3000
+1000
+
+2000
+
+Pesos/lb
+
+4000
+
+9000
+
+5000
+
+Mundial
+
+2000
+
+2005
+
+2010
+Año
+
+2015
+
+2000
+
+2005
+Año
+
+Fuente: elaboración de los autores a partir de información del DANE, el Banco de la República y la OIC.
+
+385
+
+Julio César Alonso Cifuentes • Daniela Estrada Nates
+
+su pico en abril de 2011, momento en el que empieza a descender. El comportamiento anterior, según
+explican Cano et al. (2012), se debe a la relación entre producción, inventarios y consumo. Por el lado
+de la oferta, el cambio climático y el aumento de
+los precios en los combustibles y fertilizantes han
+afectado la producción del café. Por el lado de la
+demanda, se ha experimentado un aumento en el
+consumo de países como Brasil, Rusia e Indonesia.
+
+y Breitung (1999) (tabla 4). Con la prueba KPSS
+(Shin et al., 1992) se rechaza la hipótesis nula de
+no raíz unitaria para el precio minorista del café
+en Barranquilla, Bogotá y Cartagena, con un 90%
+de confianza, y para Cali, con un 95%.
+En los anexos se encuentran los resultados
+de aplicar las pruebas de raíces unitarias Zivot y
+Andrews (1992) y HEGY (Hylleberg et al., 1990). En
+la primera se observa que todas las series tienen
+un posible quiebre estructural: enero de 2005 para
+Cali, febrero de 2009 para Barranquilla, Cartagena
+y Medellín, marzo de 2009 para Bogotá y julio de
+2012 para la serie mundial. Este quiebre estructural
+es tanto de la pendiente como del intercepto para
+todas las series, excepto para el precio del café
+de Cali, donde solo el intercepto fue significativo.
+Además, en todas las series no se rechaza la hipótesis nula de presencia de raíz unitaria. Para la
+prueba de HEGY, no se rechaza la hipótesis nula de
+raíz unitaria convencional y se rechazan todas las
+otras hipótesis con un 99% de confianza; es decir,
+no se encuentran raíces unitarias estacionales.
+Para las segundas diferencias, solo para el
+caso de Cartagena se observa la presencia de una
+segunda raíz unitaria convencional bajo el criterio
+AIC y SIGNF; no obstante, dados los resultados
+obtenidos en las cinco pruebas anteriores para las
+primeras diferencias, se decidió que esta serie era
+
+RESULTADOS
+De acuerdo con las seis pruebas de raíces unitarias realizadas, se encontró que las seis series
+son integradas de orden uno [I(1)]. El número de
+rezagos óptimo para calcular la prueba ADF se
+determinó empleando los criterios de AIC, BIC y
+significancia (SIGNIF) (tabla 3). La prueba ADF no
+permite rechazar la hipótesis nula de presencia de
+raíz unitaria para las series en niveles con ninguno
+de los criterios de información (AIC, BIC y SIGNF);
+la única excepción es la serie del precio mundial
+en niveles, que sí se rechaza con el criterio AIC y
+SIGNF. Para las primeras diferencias sí se rechaza
+con un 99% de confianza la hipótesis nula con los
+tres criterios de información.
+Los resultados anteriores también se obtuvieron con la prueba de Phillips y Perron (1988)
+
+Tabla 3.
+
+Prueba de raíz unitaria ADF para los precios en niveles y en primeras diferencias, mediante los criterios de AIC, BIC
+y significancia (SIGNIF) para la selección del número de rezagos
+Precio del café
+Mundial
+
+Niveles
+AIC
+
+BIC
+
+Primeras diferencias
+SIGNF
+
+AIC
+
+BIC
+
+SIGN
+
+-3,75**
+
+-2,84
+
+-3,75**
+
+-7,73***
+
+-9,99***
+
+-10,16***
+
+Barranquilla
+
+-1,78
+
+-1,25
+
+-1,26
+
+-6,38***
+
+-11,62***
+
+-11,62***
+
+Bogotá
+
+-1,22
+
+-1,01
+
+-1,01
+
+-3,76***
+
+-7,09***
+
+-7,37***
+
+Cali
+
+-1,74
+
+-1,79
+
+-1,81
+
+-9,12***
+
+-9,71***
+
+-10,06***
+
+Cartagena
+
+-1,71
+
+-1,38
+
+-1,49
+
+-4,48***
+
+-10,93***
+
+-10,93***
+
+Medellín
+
+-1,93
+
+-1,01
+
+-2,20
+
+-8,17***
+
+-8,17***
+
+-8,59***
+
+*** Nivel de confianza: 99%; ** nivel de confianza: 95%; * nivel de confianza: 90%.
+Fuente: elaboración de los autores.
+
+386
+Finanz. polit. econ., ISSN 2248-6046, Vol. 8, No. 2, julio-diciembre, 2016, pp. 379-399
+
+EL PRECIO MUNDIAL DEL CAFÉ Y SU EFECTO EN EL PRECIO MINORISTA PARA LAS CINCO PRINCIPALES CIUDADES DE COLOMBIA
+
+Tabla 4.
+
+Pruebas de raíz unitaria PP, KPSS y Breitung para los precios en niveles y en primeras diferencias
+Niveles
+
+Variable
+
+PP
+
+Primeras diferencias
+
+KPSS
+
+Breitung
+
+KPSS
+
+Breitung
+
+-2,6998
+
+0,0815
+
+0,004*
+
+-10,029***
+
+0,0624
+
+0,001**
+
+Barranquilla
+
+-1,426
+
+0,122*
+
+0,007
+
+-12,138
+
+0,115
+
+0,001**
+
+Bogotá
+
+-0,974
+
+0,131*
+
+0,008
+
+-12,362
+
+0,151
+
+0,002**
+
+Cali
+
+-1,139
+
+0,169**
+
+0,010
+
+-10,038
+
+0,145
+
+0,002**
+
+Cartagena
+
+-1,137
+
+0,119*
+
+0,007
+
+-11,248
+
+0,135
+
+0,001**
+
+Medellín
+
+-0,999
+
+0,117
+
+0,007
+
+-8,599
+
+0,150
+
+0,002**
+
+Mundial
+
+PP
+
+*** Nivel de confianza: 99%; ** nivel de confianza: 95%: * nivel de confianza: 90%.
+Fuente: elaboración de los autores.
+
+VAR para Cali y Cartagena las pruebas de ARCH LM
+y Breush-Godfrey señalan signos de heterocedasticidad condicional (ver anexos).
+La prueba de Johansen (1988) evidencia que
+hay una relación de largo plazo entre las series de
+los precios minoristas del café en las principales
+ciudades de Colombia y el precio mundial (tabla 5).
+La misma conclusión se puede obtener con la prueba de Engle y Granger (tabla 6). Dado que todas
+las series del café minorista están cointegradas con
+el precio mundial, se puede realizar la prueba de
+causalidad a lo Granger para todas las parejas de
+precios (tabla 6).
+
+integrada de orden uno. Así, todas las seis pruebas
+de raíces unitarias permiten concluir que las series
+son I(1). En otras palabras, los precios del café,
+tanto en el escenario internacional como nacional,
+verán afectada su trayectoria frente a choques
+inesperados en ellos.
+Para realizar la prueba de cointegración de
+Johansen (1988), se estima un modelo VAR para
+cada ciudad. Se establece el número de rezagos
+empleando criterios de información y posteriormente se realizan pruebas de autocorrelación y
+heteroscedasticidad para cada modelo. En todos
+los casos se logran obtener modelos VAR libres de
+autocorrelación, y solo en el caso de los modelos
+Tabla 5.
+
+Prueba de cointegración de Johansen para el precio mundial y el precio al por menor de cada ciudad
+Intercepto sin tendencia
+λMax.
+
+Variable
+
+λTraza
+
+p
+
+Ho
+
+Estadístico
+
+Ho
+
+Estadístico
+
+p
+
+Ho
+
+Estadístico
+
+Ho
+
+Estadístico
+
+Barranquilla
+
+2
+
+r=0
+
+23,91***
+
+r<=1
+
+4,07
+
+2
+
+r=0
+
+27,99***
+
+r<=1
+
+4,07
+
+Bogotá
+
+2
+
+r=0
+
+24,55***
+
+r<=1
+
+5,10
+
+2
+
+r=0
+
+29,64***
+
+r<=1
+
+5,10
+
+Cali
+
+2
+
+r=0
+
+11,90
+
+r<=1
+
+8,16*
+
+2
+
+r=0
+
+20,06**
+
+r<=1
+
+8,16*
+
+Cartagena
+
+22
+
+r=0
+
+21,40***
+
+r<=1
+
+3,86
+
+22
+
+r=0
+
+22,00**
+
+r<=1
+
+4,21
+
+Medellín
+
+9
+
+r=0
+
+20,09**
+
+r<=1
+
+6,28
+
+9
+
+r=0
+
+26,38***
+
+r<=1
+
+6,28
+
+*** Nivel de confianza: 99%; ** nivel de confianza: 95%: * nivel de confianza: 90%.
+Fuente: elaboración de los autores.
+
+387
+
+Julio César Alonso Cifuentes • Daniela Estrada Nates
+
+Tabla 6.
+
+Prueba de cointegración de Engel y Granger para el precio
+mundial (variable explicativa) y el precio al por menor
+de cada ciudad (variable dependiente), mediante diferentes
+criterios de información para seleccionar el número
+de rezagos óptimo
+Criterio de información
+
+Precio café
+
+BIC
+
+AIC
+
+SIGNF
+
+Barranquilla
+
+-2,576
+
+-3,504**
+
+-3,020
+
+Bogotá
+
+-2,606
+
+-3,458**
+
+-4,141***
+
+Cali
+
+-2,945
+
+-3,518**
+
+-3,170*
+
+Cartagena
+
+-3,240*
+
+-3,456**
+
+-3,670**
+
+Medellín
+
+-3,509**
+
+-4,110***
+
+-4,096***
+
+Valores críticos: -3,066613, -3,368139 y -3,954092, con un nivel
+de significancia al 10%, 5% y 1%, respectivamente.
+Fuente: elaboración de los autores.
+
+Los resultados muestran que no hay una causalidad instantánea entre el precio mundial del café
+y el precio del café minorista en las principales ciudades de Colombia. Por otro lado, sí hay causalidad
+unidireccional de largo plazo del precio mundial del
+
+café hacia el precio del café minorista de todas las
+ciudades (tabla 7). Solo en el caso de Cali se encuentra
+que los precios se mueven con anterioridad al precio
+mundial; de esta manera, se encuentra para Cali una
+causalidad bidireccional a largo plazo entre el precio
+mundial del café y el precio del café minorista.
+A partir de los resultados anteriores, se
+realizaron las funciones de impulso y respuesta
+(gráfica 2). Se observa que un choque inesperado
+de un peso en el precio del café mundial tiene un
+efecto persistente que desaparece lentamente 36
+o más meses después, en el caso de Barranquilla
+y Medellín. Para Bogotá y Cali sucede algo similar,
+solo que los efectos se empiezan a observar en el
+tercer mes. Por último, para Cartagena los cambios
+desaparecen temporalmente en el mes 15 y 31, y
+lo hacen de manera definitiva a partir del mes 33.
+Asimismo, se observa que los efectos en los precios
+del café minorista varían en cuanto a la magnitud:
+son mayores para Barranquilla y Medellín, cuyo
+máximo se encuentra alrededor de los 163 y 149
+pesos, respectivamente, mientras que en Cali el
+máximo está aproximadamente en 60 pesos.
+
+Tabla 7.
+
+Prueba de causalidad de Granger entre el precio mundial y el precio al por menor de cada ciudad
+Ho
+
+Largo plazo
+
+Instantánea
+
+Estadístico
+
+P. valor
+
+Estadístico
+
+P. valor
+
+10,592***
+
+0,000
+
+0,0024
+
+0,9607
+
+6,1283***
+
+0,008
+
+1,8258
+
+0,1766
+
+Precio de Cali
+
+2,7225**
+
+0,046
+
+0,3319
+
+0,5646
+
+Precio de Cartagena
+
+2,5893**
+
+0,033
+
+1,8289
+
+0,1763
+
+Precio de Medellín
+
+3,3124***
+
+0,005
+
+1,8752
+
+0,1709
+
+Precio mundial no causa al:
+Precio de Barranquilla
+Precio de Bogotá
+
+Precio mundial no es causado por
+Precio de Barranquilla
+
+2,0464
+
+0,1868
+
+0,0024
+
+0,9607
+
+Precio de Bogotá
+
+2,2332
+
+0,1342
+
+1,8258
+
+0,1766
+
+5,7379**
+
+0,013
+
+0,3319
+
+0,5646
+
+Precio de Cartagena
+
+0,9492
+
+0,3425
+
+1,8289
+
+0,1763
+
+Precio de Medellín
+
+2,1564
+
+0,072
+
+1,8752
+
+0,1709
+
+Precio de Cali
+
+Valores calculados por medio de bootstrapping, debido a la presencia de heterocedasticidad
+*** Nivel de confianza: 99%; ** nivel de confianza: 95%: * nivel de confianza: 90%.
+Fuente: elaboración de los autores
+
+388
+Finanz. polit. econ., ISSN 2248-6046, Vol. 8, No. 2, julio-diciembre, 2016, pp. 379-399
+
+EL PRECIO MUNDIAL DEL CAFÉ Y SU EFECTO EN EL PRECIO MINORISTA PARA LAS CINCO PRINCIPALES CIUDADES DE COLOMBIA
+
+Gráfica 2.
+
+Respuesta del precio del café minorista de las principales ciudades de Colombia al impulso del precio del café mundial
+(pesos por 500 gr/mes)
+Impulso-respuesta
+
+Función
+
+150
+
+Barranquilla
+
+100
+
+100
+
+0
+
+0
+
+50
+
+50
+
+Bogotá
+
+150
+
+200
+
+200
+
+250
+
+Función
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+0
+
+35
+
+5
+
+10
+
+95 % Bootstrap CI, 100 runs
+
+15
+
+20
+
+25
+
+30
+
+35
+
+95 % Bootstrap CI, 100 runs
+
+Función
+
+100
+Cartagena
+
+50
+
+60
+0
+
+0
+
+20
+
+40
+
+Cali
+
+80
+
+100
+
+150
+
+120
+
+Función
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+0
+
+5
+
+10
+
+95 % Bootstrap CI, 100 runs
+
+15
+
+20
+
+25
+
+30
+
+35
+
+95 % Bootstrap CI, 100 runs
+
+100
+0
+
+50
+
+Medellín
+
+150
+
+200
+
+Función
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+95 % Bootstrap CI, 100 runs
+
+Fuente: elaboración de los autores.
+
+389
+
+Julio César Alonso Cifuentes • Daniela Estrada Nates
+
+Por último, la ecuación estimada para el
+modelo de corrección de errores evidencia que
+la corrección del error es negativa y significativa
+para todas las series; es decir, cuando el precio
+minorista observado en cada una de la ciudades
+está por encima del de equilibrio de largo plazo
+( , −1 es positivo en la expresión [1]), el sistema
+implicará que el precio local caerá para el siguiente
+periodo, de tal manera que el equilibrio de largo
+plazo se restablezca. En especial desviaciones del
+equilibrio de largo plazo para Barranquilla, Bogotá,
+Cali, Cartagena y Medellín son corregidas mensualmente en aproximadamente 2.8, 2.6, 1.7, 2.7 y 2.5
+centavos de peso por cada peso de desequilibrio,
+respectivamente. Esas cifras corresponden al coeficiente del término de corrección de error de la
+ecuación [1]. En otras palabras, dejando todo lo demás constante, un desequilibrio inesperado toma
+en las ciudades de Barranquilla, Bogotá, Cartagena
+y Medellín alrededor de tres años (36 meses) para
+ser corregido. En Cali, se toman 4 años y 9 meses
+aproximadamente; es decir, esta ciudad presenta
+la velocidad de ajuste más baja.
+Dada la ausencia de estudios como el que
+aquí se presenta, para comparar nuestros resultados
+con investigaciones previas es necesario considerar
+documentos que estudian otros bienes agrícolas
+en regiones geográficas diferentes. Los presentes
+resultados son similares a los de Greb et al. (2012)
+para maíz, arroz y trigo en diferentes países de
+África, y a los de Militaru (2014) para las semillas de
+
+girasol y los productos de panadería en Rumania.
+La similitud con estos dos estudios radica en que
+nuestros resultados también implican que los precios internacionales de los bienes agrícolas están
+cointegrados con los precios del minorista para
+los mismos bienes o productos derivados de estos.
+Estos autores también encuentran que la dirección
+de casualidad a la Granger es unidireccional: del
+precio internacional al precio doméstico.
+Por otro lado, hay diferencias en el tiempo de
+respuesta y en la duración que tienen los cambios
+de los precios minoristas ante choques inesperados de los precios internacionales respectivos.
+Por ejemplo, Greb et al. (2012) observan que ante
+cambios de los precios internacionales del maíz,
+arroz y trigo, los precios domésticos en diferentes
+países de África toman alrededor de 2 a 3 meses
+en reaccionar; mientras que en Colombia los cambios en el precio internacional del café afectan de
+inmediato los precios minoristas del café en las
+principales ciudades (gráfica 2).
+Por otro lado, Militaru (2014) examina la relación entre el precio internacional de las semillas de
+girasol y el precio minorista para el aceite de girasol,
+y entre el precio internacional y el precio minorista
+de los productos de panadería (cuyo insumo principal es la harina de trigo). Los autores reportan
+que el ajuste hacia la senda de equilibrio es muy
+rápido: media desviación en el precio internacional
+se corrige en alrededor de 2,3 meses en el caso
+de productos de panadería y de 3,6 meses para el
+
+Tabla 8.
+
+Estimación del modelo de corrección de errores expresado en [1] para cada una de las ciudades
+ΔPj,t
+Intercepto
+
+εj,t-1
+
+Ciudad (j)
+Barranquilla
+
+Bogotá
+
+Cartagena
+
+Cali
+
+Medellín
+
+28,339107***
+
+29,391945***
+
+23,46486*
+
+18,224789**
+
+19,718148**
+
+(3,078)
+
+(3,385)
+
+(1,876)
+
+(2,47)
+
+(2,413)
+
+-0,027973***
+
+-0,025741***
+
+-0,027499*
+
+-0,017407**
+
+-0,02498***
+
+(-3,766)
+
+(-3,521)
+
+(-1,802)
+
+Entre paréntesis se encuentran los t calculados.
+*** Nivel de confianza: 99%; ** nivel de confianza: 95%: * nivel de confianza: 90%.
+Fuente: elaboración de los autores.
+
+390
+Finanz. polit. econ., ISSN 2248-6046, Vol. 8, No. 2, julio-diciembre, 2016, pp. 379-399
+
+(-2,211)
+
+(-3,346)
+
+EL PRECIO MUNDIAL DEL CAFÉ Y SU EFECTO EN EL PRECIO MINORISTA PARA LAS CINCO PRINCIPALES CIUDADES DE COLOMBIA
+
+aceite de girasol. Por el contrario, en Colombia el
+ajuste del precio del café minorista toma entre 3 y
+4 años, dependiendo de la ciudad que se analice.
+Militaru (2014) interpreta el resultado obtenido
+como una posible eficiencia de los mercados, que
+también puede estar reflejando el poder de negociación de los comerciantes en comparación con
+los pequeños agricultores.
+Esa extensa duración de ajuste para el
+caso del precio del café minorista en Colombia
+podría estar relacionado con la administración
+de inventarios por parte de los minoristas. Vavra
+y Goodwin (2005) reportan que los minoristas
+pueden reducir sus precios más lentamente, en
+comparación con la reducción de los precios a nivel
+del productor, para evitar quedarse sin inventario.
+Balke, Brown y Yücel (1998) muestran que los métodos de contabilidad, tales como FIFO (primero
+en entrar primero en salir), podrían causar ajustes
+asimétricos ante los choques de precios externos.
+Wohlgenant (1985) también ha demostrado
+que la duración de los periodos de ajuste de los precios de los alimentos al por mayor y al por menor
+se puede explicar por el manejo de los inventarios.
+También podría estar explicado por altos costos de
+menú, así como por un incremento del riesgo que
+enfrenta el minorista de perder su reputación si
+cambia frecuentemente los precios de los bienes
+que comercializa (Vavra y Goodwin, 2005).
+Antes de finalizar, es importante mencionar
+que nuestros resultados difieren totalmente a los
+de Alonso, Arcila y Montenegro (2015), que encuentran que no existe relación entre los precios
+internacionales del azúcar y el precio al consumidor del azúcar en las tres principales ciudades de
+Colombia.
+
+COMENTARIOS FINALES
+El objetivo de este estudio es determinar la magnitud y rapidez con que se transmiten los choques
+del precio internacional del café a los precios minoristas en las principales ciudades de Colombia.
+Para lograr este objetivo se emplearon pruebas
+de cointegración, de causalidad a lo Granger y
+
+funciones impulso-respuesta. Estas pruebas se
+emplean para comparar cada una de las series de
+precios al consumidor del café molido en las cinco
+principales ciudades de Colombia (Barranquilla,
+Bogotá, Cali, Cartagena y Medellín) con el precio
+mensual internacional del café publicado por la
+Organización Internacional del Café.
+El análisis realizado para el periodo enero de
+1999 a diciembre de 2014 permite concluir que sí
+hay una relación de largo plazo entre los precios
+pagados a los minoristas del café en las cinco principales ciudades de Colombia y el precio internacional del café. Este resultado es importante, pues
+brinda evidencia de la existencia de una integración
+en la cadena del café; es decir, existe relación entre
+lo que ocurre en el mercado internacional y los
+mercados locales a escala minorista.
+Por otra parte, la causalidad va del precio
+internacional hacia el precio pagado por los consumidores a los minoristas, lo que era de esperarse
+en la mayoría de los casos y, de hecho, es lo que
+refleja la literatura sobre el tema. Se encuentra
+también que los precios del café de los minoristas responden de forma diferente ante choques
+inesperados del precio internacional del café; en
+Barranquilla, Bogotá, Cali y Medellín los efectos
+desaparecen después de 36 o más meses, mientras que para los precios minoristas en Cartagena
+desaparecen en un menor periodo.
+Adicionalmente, se encuentra que los precios
+locales tienden a ajustarse al alza si estos están por
+debajo del equilibrio de largo plazo. Ese ajuste al
+equilibrio de largo plazo implica alrededor de tres
+años para todas las ciudades, menos para Cali,
+que presenta una velocidad de ajuste mucho más
+lenta. Lo anterior indica que allí existen fuerzas de
+mercado que no actúan tan rápidamente como en
+las otras. Los resultados anteriores deberían ser tenidos en cuenta por la cadena cafetera colombiana
+dentro de sus planes para incentivar la demanda de
+consumo interno. Este estudio se podría complementar con un análisis de la elasticidad del precio
+de la demanda de café molido a escala minorista
+y de las estrategias de gestión de inventario de los
+minoristas.
+
+391
+
+Julio César Alonso Cifuentes • Daniela Estrada Nates
+
+Por otro lado, el presente análisis compara
+el precio internacional del café convertido a pesos.
+Así, buena parte del resultado obtenido podría
+ser fruto de la relación entre la tasa de cambio y
+el precio local, y no tanto entre el precio internacional en dólares y el local. Más investigación se
+requiere al respecto. Por último, se recomienda
+
+seguir investigando sobre el tema y ahondar en el
+quiebre estructural que experimentaron todas las
+series de los precios al minorista en las ciudades en
+el mismo periodo o un periodo cercano a febrero
+de 2009. En este momento no parece existir una
+buena explicación para dicho quiebre.
+
+REFERENCIAS
+1.	
+
+Alonso, J. C, Arcila, A. y Montenegro, S. (2015). ¿Estabiliza el FEPA los precios locales del azúcar? Icesi
+Economics Working Papers, 4. Recuperado de https://www.icesi.edu.co/departamentos/economia/images/
+IEWP/Icesi%20EWP%202015-4.pdf
+
+2.	
+
+Alonso, J. C. y Gallego, A. I. (2011). Integración de los precios en los canales minorista y mayorista arroz,
+papa y fríjol en la ciudad de Cali. Economía, Gestión y Desarrollo, 10, 79-96.
+
+3.	
+
+Alonso, J. C. y Semaán, P. (2010). Prueba de HEGY en R: una guía. Apuntes de Economía, 23. Recuperado
+de http://www.icesi.edu.co/departamentos/economia/images/hegy.pdf
+
+4.	
+
+Balke, N. S., Brown, S. P. y Yücel, M. K. (1998). Crude oil and gasoline prices: an asymmetric relationship?
+Recuperado de https://www.dallasfed.org/assets/documents/research/er/1998/er9801a.pdf
+
+5.	
+
+Breitung, J. (1999). Some nonparametric tests for unit roots and cointegration. Recuperado de http://edoc.
+hu-berlin.de/series/sfb-373-papers/1999-36/PDF/36.pdf
+
+6.	
+
+Cano, C., Vallejo, C., Caicedo, E., Amador, J. y Tique, E. (2012). El mercado mundial del café y su impacto
+en Colombia. Bogotá: Banco de la República.
+
+7.	
+
+Cárdenas, M. y Reina, M. (2008). La minería en Colombia: impacto socioeconómico y fiscal. Recuperado
+de http://www.fedesarrollo.org.co/wp-content/uploads/2011/08/La-miner?a-en-Colombia-Informe-deFedesarrollo-2008.pdf
+
+8.	
+
+Dickey, D. A. y Fuller, W. A. (1981). Likelihood ratio statistics for autoregressive time series with a unit
+root. Econometrica, 49(4), 057-1072.
+
+9.	
+
+Echavarría, J. J., Esguerra, P., McAllister, D. y Robayo, C. F. (s. f.). Informe de la misión de estudios para la
+competitividad de la caficultura en Colombia. Resumen ejecutivo. Recuperado de http://www.urosario.edu.co/
+Mision-Cafetera/Archivos/Resumen-Ejecutivo-version-definitiva/
+
+10.	
+
+Engle, R. F. y Granger, C. W. (1987). Co-integration and error correction: representation, estimation, and
+testing. Econometrica, 55(2), 251-276.
+
+11.	
+
+Federación Nacional de Cafeteros (FNC) (2010). Toma Café, Programa de Promoción de Consumo de
+Café de Colombia Cadena. Bogotá: Autor.
+
+12.	
+
+Greb, F., Jamora, N., Mengel, C., Von Cramon-Taubadel, S. y Würriehausen, N. (2012). Cereal price transmission from international to domestic markets in Africa. Recuperado de http://goo.gl/GY0J2c
+
+13.	
+
+Hjalmarsson, E. y Österholm, P. (2010). Testing for cointegration using the Johansen methodology when
+variables are near-integrated: Size distortions and partial remedies. Empirical Economics, 39(1), 51-76.
+
+14.	
+
+Hylleberg, S., Engle, R. F., Granger, C. W. J. y Yoo, B. S. (1990). Seasonal integration and cointegration.
+Journal of Econometrics, 44(1-2), 215-238.
+
+15.	
+
+Organización Internacional del Café (ICO) (2015). ICO indicator prices. Recuperado de http://www.
+thecoffeeguide.org/coffeeguide/
+
+392
+Finanz. polit. econ., ISSN 2248-6046, Vol. 8, No. 2, julio-diciembre, 2016, pp. 379-399
+
+EL PRECIO MUNDIAL DEL CAFÉ Y SU EFECTO EN EL PRECIO MINORISTA PARA LAS CINCO PRINCIPALES CIUDADES DE COLOMBIA
+
+16.	
+
+Johansen, S. (1988). Statistical analysis of cointegration vectors. Journal of Economic Dynamics and Control,
+12(2), 231-254.
+
+17.	
+
+John, A. (2014). Price relations between international rice markets. Agricultural and Food Economics,
+2(1), 1-16.
+
+18.	
+
+Liz, J. P., Campo, J. A. y Herrera, J. P. (2012). Estudio sobre el sector del café en Colombia. Bogotá:
+Superintendencia de Industria y Comercio.
+
+19.	
+
+Mafusire, A., Salami, A., Kamara, A. B. y Lawson, F. E. (2010). Coffee production in Africa and the global
+market situation. Commodity Market Brief, 1(2), 1-9.
+
+20.	
+
+Martínez, C. (2006). Pronósticos de producción agrícola. Bogotá: Departamento de Planeación Nacional.
+
+21.	
+
+Maurice, N. y Davis, J. (2011). Unravelling the underlying causes of price volatility in world coffee and
+cocoa commodity markets. Recuperado de https://ideas.repec.org/p/pra/mprapa/43813.html
+
+22.	
+
+Mbowa, S., Odokonyero, T. y Munyambonera, E. (2014). The potential of coffee to uplift people out of
+poverty in Northern Uganda. Recuperado de http://goo.gl/2cKWFt
+
+23.	
+
+Militaru, M. (2014). Transmission of agricultural commodity prices into Romanian food prices. Rumania: Banco
+Nacional de Rumania. Recuperado de http://www.bnr.ro/Studies-3215.aspx
+
+24.	
+
+Ocaris, F. (2006). Modelación de la volatilidad y pronóstico del precio del café. Revista Ingenierías Universidad
+de Medellín, 5(9), 45-58.
+
+25.	
+
+Paiva, P. (2000). Economic and social development in Latin America: the role of coffee. Londres: Organización
+Internacional del Café.
+
+26.	
+
+Phillips, P. y Perron, P. (1988). Testing for a unit root in time series regression. Biometrika, 75(2), 335-346.
+
+27.	
+
+R Core Team. (2013). R: A language and environment for statistical computing. Viena: R Foundation
+for Statistical Computing.
+
+28.	
+
+Shin, Y., Kwiatkowski, D., Schmidt, P. y Phillips, P. C. (1992). Testing the Null hypothesis of stationarity
+against the alternative of a unit root: how sure are we that economic time series are nonstationary? Journal
+of Econometrics, 54, 159-178.
+
+29.	
+
+Tharcisse, N. y Kayitakire, F. (2013). Measuring rice price volatility and transmission in West Africa : How
+important are magnitudes of transmission across countries? Recuperado de http://ecomod.net/system/files/
+Nkunzimana.pdf
+
+30.	
+
+Vavra, P. y Goodwin, B. K. (2005). Analysis of price transmission along the food chain. OECD Food,
+Agriculture and Fisheries Paper, 3. Doi:10.1787/752335872456
+
+31.	
+
+Wohlgenant, M.K. (1985). Competitive storage, rational expectations, and short-run food price determination. American Journal of Agricultural Economics, 67, 739-748.
+
+32.	
+
+Zivot, E. y Andrews, D. (1992). Further evidence on the great crash, the oil price shock, and the unit-root
+hypothesis. Journal of Business & Economic Statistics, 10(3), 251-270.
+
+393
+
+Julio César Alonso Cifuentes • Daniela Estrada Nates
+
+ANEXOS
+Tabla 9.
+
+Prueba de raíz unitaria de Zivot y Andrews para los precios en niveles
+Precio
+
+p
+
+Estadístico t
+
+Periodo de quiebre estructural
+
+Mundial
+
+1
+
+-3,845
+
+Julio de 2012
+
+Barranquilla
+
+1
+
+-2,820
+
+Febrero de 2009
+
+Bogotá
+
+2
+
+-3,008
+
+Marzo de 2009
+
+Cali
+
+4
+
+-3,877
+
+Enero de 2005
+
+Cartagena
+
+1
+
+-3,071
+
+Febrero de 2009
+
+Medellín
+
+1
+
+-3,259
+
+Febrero de 2009
+
+Fuente: elaboración de los autores.
+
+Tabla 10.
+
+Prueba de raíz unitaria de HEGY para los precios en niveles empleando el criterio información AIC
+Mundial
+
+Barranquilla
+
+Bogotá
+
+Cali
+
+Cartagena
+
+Medellín
+
+ 
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+tpi_1
+
+-2,32†
+
+0,1
+
+-2,64†
+
+0,1
+
+	-2,12†
+
+0,1
+
+-1,08†
+
+0,1
+
+-2,14†
+
+0,1
+
+-2,24†
+
+0,1
+
+tpi_2
+
+-3,51
+
+0,01
+
+-2,56
+
+0,01
+
+	-4,29
+
+0,01
+
+-4,14
+
+0,01
+
+-3,47
+
+0,01
+
+-4,73
+
+0,01
+
+Fpi_3:4
+
+12,86
+
+0,01
+
+4,97
+
+0,01
+
+14,55
+
+0,01
+
+15,10
+
+0,01
+
+6,90
+
+0,01
+
+16,03
+
+0,01
+
+Fpi_5:6
+
+20,67
+
+0,01
+
+12,13
+
+0,01
+
+13,12
+
+0,01
+
+15,08
+
+0,01
+
+3,30
+
+0,04
+
+10,65
+
+0,01
+
+Fpi_7:8
+
+5,08
+
+0,01
+
+12,11
+
+0,01
+
+10,51
+
+0,01
+
+10,09
+
+0,01
+
+12,53
+
+0,01
+
+9,84
+
+0,01
+
+Fpi_9:10
+
+8,20
+
+0,01
+
+6,20
+
+0,01
+
+16,54
+
+0,01
+
+12,48
+
+0,01
+
+6,62
+
+0,01
+
+18,05
+
+0,01
+
+Fpi_11:12
+
+7,67
+
+0,01
+
+8,09
+
+0,01
+
+11,06
+
+0,01
+
+10,43
+
+0,01
+
+6,24
+
+0,01
+
+12,20
+
+0,01
+
+Fpi_2:12
+
+79,34
+
+NA
+
+8,67
+
+NA
+
+117,17
+
+NA
+
+275,09
+
+NA
+
+9,13
+
+NA
+
+16,77
+
+NA
+
+Fpi_1:12
+
+86,19
+
+NA
+
+9,29
+
+NA
+
+127,31
+
+NA
+
+252,16
+
+NA
+
+8,82
+
+NA
+
+16,41
+
+NA
+
+† Hipótesis que no se rechazó con el 90% o más de confianza.
+Fuente: elaboración de los autores.
+
+394
+Finanz. polit. econ., ISSN 2248-6046, Vol. 8, No. 2, julio-diciembre, 2016, pp. 379-399
+
+EL PRECIO MUNDIAL DEL CAFÉ Y SU EFECTO EN EL PRECIO MINORISTA PARA LAS CINCO PRINCIPALES CIUDADES DE COLOMBIA
+
+Tabla 11.
+
+Prueba de raíz unitaria estacional HEGY para los precios en niveles, empleando el criterio BIC
+Mundial
+
+Barranquilla
+
+Bogotá
+
+Cali
+
+Cartagena
+
+Medellín
+
+ 
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+tpi_1
+
+-2,99†
+
+0,1
+
+-2,59†
+
+0,1
+
+-1,64†
+
+0,1
+
+-1,53†
+
+0,1
+
+-1,71†
+
+0,1
+
+-1,93†
+
+0,1
+
+tpi_2
+
+-2,91
+
+0,01
+
+-4,05
+
+0,01
+
+-3,87
+
+0,01
+
+-3,99
+
+0,01
+
+-4,48
+
+0,01
+
+-4,60
+
+0,01
+
+Fpi_3:4
+
+20,28
+
+0,01
+
+14,17
+
+0,01
+
+16,34
+
+0,01
+
+14,82
+
+0,01
+
+10,77
+
+0,01
+
+15,54
+
+0,01
+
+Fpi_5:6
+
+17,25
+
+0,01
+
+19,49
+
+0,01
+
+13,47
+
+0,01
+
+15,25
+
+0,01
+
+12,20
+
+0,01
+
+9,25
+
+0,01
+
+Fpi_7:8
+
+8,44
+
+0,01
+
+21,09
+
+0,01
+
+10,40
+
+0,01
+
+12,39
+
+0,01
+
+15,77
+
+0,01
+
+9,51
+
+0,01
+
+Fpi_9:10
+
+18,12
+
+0,01
+
+8,59
+
+0,01
+
+19,58
+
+0,01
+
+15,48
+
+0,01
+
+14,81
+
+0,01
+
+18,19
+
+0,01
+
+Fpi_11:12
+
+15,30
+
+0,01
+
+11,38
+
+0,01
+
+12,25
+
+0,01
+
+12,17
+
+0,01
+
+13,35
+
+0,01
+
+10,50
+
+0,01
+
+Fpi_2:12
+
+202,54
+
+NA
+
+306,63
+
+NA
+
+326,64
+
+NA
+
+337,43
+
+NA
+
+313,04
+
+NA
+
+469,90
+
+NA
+
+Fpi_1:12
+
+186,15
+
+NA
+
+290,94
+
+NA
+
+322,13
+
+NA
+
+329,36
+
+NA
+
+303,61
+
+NA
+
+471,81
+
+NA
+
+† Hipótesis que no se rechazó con el 90% o más de confianza.
+Fuente: elaboración de los autores.
+
+Tabla 12.
+
+Prueba de raíz unitaria estacional HEGY para los precios en niveles, empleando el criterio SIGNF
+Mundial
+
+Barranquilla
+
+Bogotá
+
+Cali
+
+Cartagena
+
+Medellín
+
+ 
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+tpi_1
+
+-3,27†
+
+0,06
+
+-3,11†
+
+0,1
+
+-1,67†
+
+0,1
+
+-1,69†
+
+0,1
+
+-2,47†
+
+0,1
+
+-1,92†
+
+0,1
+
+tpi_2
+
+-3,12
+
+0,01
+
+-3,34
+
+0,01
+
+-3,89
+
+0,01
+
+-4,01
+
+0,01
+
+-3,84
+
+0,01
+
+-5,00
+
+0,01
+
+Fpi_3:4
+
+21,99
+
+0,01
+
+8,90
+
+0,01
+
+16,57
+
+0,01
+
+15,26
+
+0,01
+
+8,05
+
+0,01
+
+19,10
+
+0,01
+
+Fpi_5:6
+
+20,61
+
+0,01
+
+11,65
+
+0,01
+
+13,68
+
+0,01
+
+15,59
+
+0,01
+
+4,09
+
+0,02
+
+11,85
+
+0,01
+
+Fpi_7:8
+
+10,15
+
+0,01
+
+11,87
+
+0,01
+
+10,61
+
+0,01
+
+11,63
+
+0,01
+
+10,56
+
+0,01
+
+13,21
+
+0,01
+
+Fpi_9:10
+
+20,29
+
+0,01
+
+5,62
+
+0,01
+
+19,86
+
+0,01
+
+15,09
+
+0,01
+
+9,76
+
+0,01
+
+20,59
+
+0,01
+
+Fpi_11:12
+
+10,53
+
+0,01
+
+7,46
+
+0,01
+
+12,34
+
+0,01
+
+12,66
+
+0,01
+
+8,75
+
+0,01
+
+15,32
+
+0,01
+
+Fpi_2:12
+
+154,71
+
+NA
+
+9,26
+
+NA
+
+338,22
+
+NA
+
+309,73
+
+NA
+
+9,37
+
+NA
+
+22,00
+
+NA
+
+Fpi_1:12
+
+198,10
+
+NA
+
+9,88
+
+NA
+
+332,11
+
+NA
+
+284,20
+
+NA
+
+9,36
+
+NA
+
+24,66
+
+NA
+
+Hipótesis que no se rechazó con el 90% o más de confianza.
+Fuente: elaboración de los autores.
+
+395
+
+Julio César Alonso Cifuentes • Daniela Estrada Nates
+
+Tabla 13.
+
+Prueba de raíz unitaria estacional HEGY para los precios en primeras diferencias, utilizando el criterio AIC
+Mundial
+
+Barranquilla
+
+Bogotá
+
+Cali
+
+Cartagena
+
+Medellín
+
+ 
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+tpi_1
+
+-3,78
+
+0,01
+
+-2,98
+
+0,03
+
+-2,61†
+
+0,08
+
+-3,63
+
+0,01
+
+-2,19†
+
+0,1
+
+-3,40
+
+0,01
+
+tpi_2
+
+-4,27
+
+0,01
+
+-2,93
+
+0,01
+
+-4,40
+
+0,01
+
+-4,00
+
+0,01
+
+-3,39
+
+0,01
+
+-4,79
+
+0,01
+
+Fpi_3:4
+
+12,81
+
+0,01
+
+4,25
+
+0,02
+
+12,01
+
+0,01
+
+14,03
+
+0,01
+
+7,60
+
+0,01
+
+13,71
+
+0,01
+
+Fpi_5:6
+
+11,60
+
+0,01
+
+11,35
+
+0,01
+
+10,02
+
+0,01
+
+13,59
+
+0,01
+
+2,40
+
+0,09
+
+9,52
+
+0,01
+
+Fpi_7:8
+
+2,82†
+
+0,06
+
+16,00
+
+0,01
+
+10,16
+
+0,01
+
+7,91
+
+0,01
+
+11,04
+
+0,01
+
+10,07
+
+0,01
+
+Fpi_9:10
+
+6,02
+
+0,01
+
+2,84†
+
+0,06
+
+18,20
+
+0,01
+
+8,75
+
+0,01
+
+6,27
+
+0,01
+
+19,24
+
+0,01
+
+Fpi_11:12
+
+3,27
+
+0,04
+
+5,02
+
+0,01
+
+15,37
+
+0,01
+
+10,72
+
+0,01
+
+9,36
+
+0,01
+
+12,80
+
+0,01
+
+Fpi_2:12
+
+14,70
+
+NA
+
+10,36
+
+NA
+
+17,21
+
+NA
+
+14,93
+
+NA
+
+9,70
+
+NA
+
+20,60
+
+NA
+
+Fpi_1:12
+
+15,02
+
+NA
+
+10,45
+
+NA
+
+16,12
+
+NA
+
+14,06
+
+NA
+
+9,57
+
+NA
+
+19,06
+
+NA
+
+† Hipótesis que no se rechazó con el 90% o más de confianza.
+Fuente: elaboración de los autores.
+
+Tabla 14.
+
+Prueba de raíz unitaria estacional HEGY para los precios en primeras diferencias, utilizando el criterio BIC
+Mundial
+
+Barranquilla
+
+Bogotá
+
+Cali
+
+Cartagena
+
+Medellín
+
+ 
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+tpi_1
+
+-3,21
+
+0,02
+
+-2,76†
+
+0,06
+
+-3,15
+
+0,02
+
+-2,81†
+
+0,05
+
+-2,78
+
+0,053
+
+-3,29
+
+0,01
+
+tpi_2
+
+-2,75
+
+0,01
+
+-3,38
+
+0,01
+
+-3,76
+
+0,01
+
+-3,54
+
+0,01
+
+-3,62
+
+0,01
+
+-4,78
+
+0,01
+
+Fpi_3:4
+
+15,80
+
+0,01
+
+9,56
+
+0,01
+
+14,72
+
+0,01
+
+11,29
+
+0,01
+
+8,28
+
+0,01
+
+16,73
+
+0,01
+
+Fpi_5:6
+
+12,60
+
+0,01
+
+11,57
+
+0,01
+
+12,69
+
+0,01
+
+12,77
+
+0,01
+
+9,33
+
+0,01
+
+10,20
+
+0,01
+
+Fpi_7:8
+
+10,40
+
+0,01
+
+13,05
+
+0,01
+
+10,08
+
+0,01
+
+9,19
+
+0,01
+
+10,83
+
+0,01
+
+11,08
+
+0,01
+
+Fpi_9:10
+
+16,81
+
+0,01
+
+6,15
+
+0,01
+
+17,39
+
+0,01
+
+11,75
+
+0,01
+
+8,93
+
+0,01
+
+18,13
+
+0,01
+
+Fpi_11:12
+
+11,88
+
+0,01
+
+9,30
+
+0,01
+
+13,51
+
+0,01
+
+10,75
+
+0,01
+
+11,41
+
+0,01
+
+12,88
+
+0,01
+
+Fpi_2:12
+
+15,68
+
+NA
+
+11,21
+
+NA
+
+16,92
+
+NA
+
+14,37
+
+NA
+
+11,39
+
+NA
+
+20,74
+
+NA
+
+Fpi_1:12
+
+14,79
+
+NA
+
+10,65
+
+NA
+
+16,08
+
+NA
+
+13,63
+
+NA
+
+10,81
+
+NA
+
+19,46
+
+NA
+
+† Hipótesis que no se rechazó con el 90% o más de confianza.
+Fuente: elaboración de los autores.
+
+396
+Finanz. polit. econ., ISSN 2248-6046, Vol. 8, No. 2, julio-diciembre, 2016, pp. 379-399
+
+EL PRECIO MUNDIAL DEL CAFÉ Y SU EFECTO EN EL PRECIO MINORISTA PARA LAS CINCO PRINCIPALES CIUDADES DE COLOMBIA
+
+Tabla 15.
+
+Prueba de raíz unitaria estacional HEGY para los precios en primeras diferencias, utilizando el criterio SIGNF
+Mundial
+
+Barranquilla
+
+Bogotá
+
+Cali
+
+Cartagena
+
+Medellín
+
+ 
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+Stat.
+
+p-valor
+
+tpi_1
+
+-4,34
+
+0,01
+
+-3,04
+
+0,03
+
+-3,62
+
+0,01
+
+-3,65
+
+0,01
+
+-1,58†
+
+0,1
+
+-3,70
+
+0,01
+
+tpi_2
+
+-3,52
+
+0,01
+
+-3,72
+
+0,01
+
+-4,13
+
+0,01
+
+-4,03
+
+0,01
+
+-3,91
+
+0,01
+
+-5,14
+
+0,01
+
+Fpi_3:4
+
+20,34
+
+0,01
+
+12,34
+
+0,01
+
+17,94
+
+0,01
+
+14,36
+
+0,01
+
+8,87
+
+0,01
+
+20,44
+
+0,01
+
+Fpi_5:6
+
+7,83
+
+0,01
+
+14,22
+
+0,01
+
+15,11
+
+0,01
+
+13,98
+
+0,01
+
+5,41
+
+0,01
+
+12,46
+
+0,01
+
+Fpi_7:8
+
+3,07†
+
+0,05
+
+15,38
+
+0,01
+
+13,83
+
+0,01
+
+8,12
+
+0,01
+
+9,96
+
+0,01
+
+14,20
+
+0,01
+
+Fpi_9:10
+
+8,84
+
+0,01
+
+7,21
+
+0,01
+
+20,13
+
+0,01
+
+9,02
+
+0,01
+
+9,98
+
+0,01
+
+21,58
+
+0,01
+
+Fpi_11:12
+
+4,35
+
+0,01
+
+12,34
+
+0,01
+
+19,05
+
+0,01
+
+11,01
+
+0,01
+
+10,29
+
+0,01
+
+17,57
+
+0,01
+
+Fpi_2:12
+
+14,38
+
+NA
+
+13,62
+
+NA
+
+20,85
+
+NA
+
+15,32
+
+NA
+
+11,69
+
+NA
+
+26,35
+
+NA
+
+Fpi_1:12
+
+14,51
+
+NA
+
+12,96
+
+NA
+
+19,78
+
+NA
+
+14,42
+
+NA
+
+10,95
+
+NA
+
+24,68
+
+NA
+
+† Hipótesis que no se rechazó con el 90% o más de confianza.
+Fuente: elaboración de los autores.
+
+Tabla 16.
+
+Prueba de heterocedasticidad y autocorrelación VAR para el precio en nivel de Barranquilla
+Rezagos
+
+ARCH LM
+
+p-valor
+
+BG
+
+p-valor
+
+1
+
+11,20
+
+0,26
+
+3,81
+
+0,43
+
+2
+
+19,41
+
+0,37
+
+5,72
+
+0,68
+
+3
+
+25,84
+
+0,53
+
+11,63
+
+0,48
+
+4
+
+32,80
+
+0,62
+
+17,58
+
+0,35
+
+5
+
+40,60
+
+0,66
+
+20,37
+
+0,44
+
+6
+
+49,25
+
+0,66
+
+24,76
+
+0,42
+
+7
+
+50,95
+
+0,86
+
+27,69
+
+0,48
+
+8
+
+66,44
+
+0,66
+
+35,75
+
+0,30
+
+9
+
+68,98
+
+0,83
+
+37,37
+
+0,41
+
+10
+
+76,02
+
+0,85
+
+49,52
+
+0,14
+
+11
+
+80,52
+
+0,91
+
+50,30
+
+0,24
+
+12
+
+85,13
+
+0,95
+
+55,68
+
+0,21
+
+*** Nivel de confianza: 99%; ** nivel de confianza: 95%; * nivel de confianza: 90%.
+Fuente: elaboración de los autores.
+
+397
+
+Julio César Alonso Cifuentes • Daniela Estrada Nates
+
+Tabla 17.
+
+Prueba de heterocedasticidad y autocorrelación VAR para el precio en nivel de Bogotá
+Rezagos
+
+ARCH LM
+
+p-valor
+
+BG
+
+p-valor
+
+1
+
+14,37
+
+0,11
+
+5,55
+
+0,24
+
+2
+
+27,60
+
+0,07
+
+9,39
+
+0,31
+
+3
+
+30,09
+
+0,31
+
+15,64
+
+0,21
+
+4
+
+35,51
+
+0,49
+
+18,93
+
+0,27
+
+5
+
+38,37
+
+0,75
+
+20,58
+
+0,42
+
+6
+
+46,37
+
+0,76
+
+26,12
+
+0,35
+
+7
+
+52,15
+
+0,83
+
+30,41
+
+0,34
+
+8
+
+66,10
+
+0,67
+
+36,08
+
+0,28
+
+9
+
+66,78
+
+0,87
+
+38,54
+
+0,36
+
+10
+
+68,34
+
+0,96
+
+46,72
+
+0,22
+
+11
+
+74,69
+
+0,97
+
+50,51
+
+0,23
+
+12
+
+91,83
+
+0,87
+
+51,96
+
+0,32
+
+**** Nivel de confianza: 99%; ** nivel de confianza: 95%; * nivel de confianza: 90%.
+
+Fuente: elaboración de los autores.
+
+Tabla 18.
+
+Prueba de heterocedasticidad y autocorrelación VAR para el precio en nivel de Cartagena
+
+Rezagos
+
+ARCH LM
+
+p-valor
+
+BG
+
+1
+
+18,67
+
+0,03**
+
+1,42
+
+0,84
+
+2
+
+25,94
+
+0,10
+
+4,40
+
+0,82
+
+3
+
+31,03
+
+0,27
+
+7,83
+
+0,80
+
+4
+
+37,75
+
+0,39
+
+9,92
+
+0,87
+
+5
+
+43,40
+
+0,54
+
+12,49
+
+0,90
+
+6
+
+46,27
+
+0,76
+
+13,63
+
+0,95
+
+7
+
+51,21
+
+0,86
+
+18,08
+
+0,92
+
+8
+
+66,03
+
+0,68
+
+20,62
+
+0,94
+
+9
+
+72,99
+
+0,73
+
+26,23
+
+0,88
+
+10
+
+78,61
+
+0,80
+
+30,48
+
+0,86
+
+11
+
+83,79
+
+0,86
+
+31,84
+
+0,91
+
+12
+
+95,38
+
+0,80
+
+33,70
+
+0,94
+
+*** Nivel de confianza: 99%; ** nivel de confianza: 95%; * nivel de confianza: 90%.
+Fuente: elaboración de los autores.
+
+398
+Finanz. polit. econ., ISSN 2248-6046, Vol. 8, No. 2, julio-diciembre, 2016, pp. 379-399
+
+p-valor
+
+EL PRECIO MUNDIAL DEL CAFÉ Y SU EFECTO EN EL PRECIO MINORISTA PARA LAS CINCO PRINCIPALES CIUDADES DE COLOMBIA
+
+Tabla 19.
+
+Prueba de heterocedasticidad y autocorrelación VAR para el precio en nivel de Cali
+Rezagos
+
+ARCH LM
+
+p-valor
+
+BG
+
+p-valor
+
+1
+
+54,34
+
+0,00***
+
+2,90
+
+0,57
+
+2
+
+59,06
+
+0,00***
+
+7,73
+
+0,46
+
+3
+
+76,70
+
+0,00***
+
+10,77
+
+0,55
+
+4
+
+81,98
+
+0,00***
+
+28,35
+
+0,03
+
+5
+
+88,74
+
+0,00***
+
+29,91
+
+0,07
+
+6
+
+91,42
+
+0,00***
+
+31,98
+
+0,13
+
+7
+
+93,30
+
+0,01**
+
+38,03
+
+0,10
+
+8
+
+101,95
+
+0,01**
+
+44,13
+
+0,08
+
+9
+
+106,08
+
+0,03**
+
+48,53
+
+0,08
+
+10
+
+111,16
+
+0,06*
+
+52,90
+
+0,08
+
+11
+
+119,51
+
+0,08*
+
+54,34
+
+0,14
+
+12
+
+125,99
+
+0,11
+
+57,07
+
+0,17
+
+*** Nivel de confianza: 99%; ** nivel de confianza: 95%; * nivel de confianza: 90%.
+Fuente: elaboración de los autores.
+
+Tabla 20.
+
+Prueba de heterocedasticidad y autocorrelación VAR para el precio en nivel de Medellín
+Rezagos
+
+ARCH LM
+
+p-valor
+
+BG
+
+p-valor
+
+1
+
+5,96
+
+0,74
+
+5,13
+
+2
+
+9,91
+
+0,93
+
+18,32
+
+0,02**
+
+3
+
+16,41
+
+0,94
+
+18,82
+
+0,09
+
+4
+
+24,30
+
+0,93
+
+20,26
+
+0,21
+
+5
+
+31,03
+
+0,94
+
+23,00
+
+0,29
+
+6
+
+41,04
+
+0,90
+
+35,71
+
+0,06
+
+7
+
+48,69
+
+0,91
+
+40,48
+
+0,06
+
+8
+
+52,71
+
+0,96
+
+43,20
+
+0,09
+
+9
+
+58,20
+
+0,97
+
+45,73
+
+0,13
+
+10
+
+68,29
+
+0,96
+
+48,99
+
+0,16
+
+11
+
+82,86
+
+0,88
+
+60,31
+
+0,05
+
+12
+
+90,63
+
+0,89
+
+62,49
+
+0,08
+
+0,27
+
+*** Nivel de confianza: 99%; ** nivel de confianza: 95%; * nivel de confianza: 90%.
+Fuente: elaboración de los autores.
+
+399
+
+Copyright of Revista Finanzas y Politica Economica is the property of Universidad Catolica
+de Colombia, Facultad de Economia and its content may not be copied or emailed to multiple
+sites or posted to a listserv without the copyright holder's express written permission.
+However, users may print, download, or email articles for individual use.
+
+

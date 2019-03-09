@@ -1,0 +1,650 @@
+Modelo de Diseño para la valoración
+y apropiación social del Patrimonio en
+El Paisaje Cultural Cafetero Colombiano*
+Resumen
+La valoración del paisaje como patrimonio y la apropiación
+social por parte de sus habitantes, posibilitan la sostenibilidad
+económica, social y medioambiental del territorio, puesto que la
+cultura constituye el eje fundamental para el desarrollo integral
+de los pueblos. En el Paisaje Cultural Cafetero de Colombia,
+reconocido por la Unesco como Patrimonio de la Humanidad,
+se ha identificado la necesidad de implementar un proyecto integrador para posibilitar una mayor participación de la comunidad
+en el reconocimiento de sus valores patrimoniales y lograr una
+comunicación efectiva del público mediante la estructuración
+de un modelo de diseño ecoeficiente. El potencial del diseño, y
+su rol de agente de innovación, se presenta como una alternativa importante para facilitar los procesos de apropiación social
+del patrimonio mediante la interacción de las personas con los
+componentes fundamentales que dan sentido y significación a
+la interpretación de los lugares.
+El paisaje cultural como patrimonio es un concepto dinámico
+y holístico que involucra todas las dimensiones espaciales y
+temporales de la habitabilidad y exige una actitud responsable
+y participativa por parte de la colectividad, tanto propia como
+visitante, para garantizar la conservación y permanencia en el
+tiempo de la identidad cultural y la diversidad medioambiental.
+
+Adriana Gómez Alzate.
+Ph.D. en Sostenibilidad,
+Tecnología y Humanismo. Docente Departamento de Diseño
+Visual, Universidad de Caldas.
+Manizales, Colombia.
+Correo electrónico: adriana.
+gomez@ucaldas.edu.co
+
+Recibido: Febrero 2015
+Aprobado: Mayo 2015
+
+Palabras clave:
+Paisaje cultural, patrimonio, sostenibilidad, diseño, interacción,
+apropiación social.
+
+* Artículo resultado de la investigación: “Sostenibilidad del patrimonio urbano en el Paisaje Cultural Cafetero. Aplicación experimental de un
+modelo de diseño ambiental para su valoración en la Ruta Norte de Caldas”. Grupo de investigación DICOVI / Instituto de Investigaciones en
+Ciencias Sociales y Humanas, ICSH / Vicerrectoría de Investigaciones y Postgrados de la Universidad de Caldas.
+
+Revista KEPES Año 12 No. 11 enero-junio 2015, págs. 117-138 ISSN: 1794-7111(Impreso) ISSN: 2462-8115 (En línea)
+DOI: 10.17151/kepes.2015.12.11.7
+
+Revista KEPES, Año 12 No. 11, enero-junio de 2015, págs. 117-138
+
+Design model for social assessment and appropriation of
+heritage in the Coffee Cultural Landscape of Colombian
+Abstract
+
+118
+
+The valuation of the landscape as patrimony and the social appropriation by its inhabitants, facilitate the economic, social and
+environmental sustainability of the territory, given that culture
+constitutes the main focus for the comprehensive development
+of the peoples. In the Coffee Cultural Landscape of Colombia,
+recognized by Unesco as World Heritage, the need to implement an integrated project to enable greater participation of the
+community in the recognition of their patrimonial values, and to
+achieve an effective communication of the public by structuring
+an echo- efficient model has been identified. The potential of the
+design, and its role as an innovation agent, presents itself as an
+important alternative to facilitate the social appropriation of the
+patrimony processes by means of the interaction of people with
+the fundamental components that give sense and significance
+to the interpretation of places.
+The cultural landscape as heritage is a dynamic and holistic
+concept that involves all the spatial and temporary dimensions
+of habitability and demands a responsible and participative attitude from the community, both proper and visitor, to guarantee
+the conservation and permanence in time of the cultural identity
+and the environmental diversity.
+
+Key words:
+Cultural landscape, sustainability, design, interaction, social
+appropriation.
+
+Gómez/ Modelo de diseño para la valoración y apropiación social del patrimonio en el
+Paisaje Cultural Cafetero colombiano
+
+Introducción
+Para la conservación y preservación del paisaje es importante tener un acercamiento desde una mirada integradora cualitativa, que de sentido y valoración a su
+existencia desde la cultura y la sociedad que lo habita y no exclusivamente desde
+las ciencias básicas, pues dejaríamos de lado su razón de ser como paisaje. El
+paisaje como patrimonio debe estar al servicio de la colectividad, manteniendo
+un equilibrio dinámico en su uso, que controle su explotación intensiva pero que
+permita una interacción con la actividad humana, para su aprovechamiento productivo, su disfrute social, su apreciación estética y su valoración medioambiental,
+con un enfoque de sostenibilidad.
+El concepto de Paisaje Cultural se asume por primera vez en la Convención sobre
+el Patrimonio Mundial de la Unesco en el año 1992, donde se define como “la
+representación combinada de la labor de la Naturaleza y el Hombre”, superando las
+primeras concepciones que valoraban simplemente los monumentos, los conjuntos
+de construcciones y sitios con valor histórico, estético, arqueológico o científico,
+para ofrecer una mirada integradora y holística donde el valor del Paisaje Cultural
+está dado por el equilibrio entre las acciones que dan lugar a las manifestaciones
+humanas y a las relaciones del ser humano con su medio natural.
+El Paisaje Cultural Cafetero de Colombia (PCCC), integrado por los departamentos
+de Caldas, Quindío, Risaralda y Norte del Valle, denominado también Ecorregión
+del Eje Cafetero, fue reconocido como Patrimonio de la Humanidad por la Unesco
+(2011) y está incluido en la lista de los bienes patrimoniales del mundo que requieren
+protección especial para su salvaguardia y planes de manejo para su sostenibilidad
+ambiental, económica y social.
+En este sentido las acciones en el paisaje, desde una perspectiva ambiental responsable, socialmente incluyente y culturalmente significativa, contribuyen al
+
+119
+
+Revista KEPES, Año 12 No. 11, enero-junio de 2015, págs. 117-138
+
+desarrollo urbano y rural sostenible de los municipios y ofrecen a la comunidad
+las herramientas para el logro de propósitos comunes que fortalezcan una mirada
+integradora del espacio público como escenario de diálogo y que la cultura sea
+protagonista en las decisiones sobre las intervenciones en el territorio.
+Las idea principal en la cual se basa esta investigación es la de situar la cultura
+en el centro de las políticas de desarrollo sostenible con responsabilidad social y
+ambiental, que propicie la participación ciudadana y establezca mecanismos de
+comunicación abiertos y participativos. Estos conceptos se basan en declaraciones
+como: el Convenio Europeo del Paisaje, Florencia, 2000; la Carta Colombiana
+del Paisaje, 2010; el Plan Nacional de Paisaje Cultural, Madrid, 2012; la Carta
+Iberoamericana del Paisaje Cultural, Encuentro de Cartagena de Indias, noviembre
+de 2012; y la Declaración de Hangzhou, 2013.
+La apropiación social de los valores patrimoniales, culturales y naturales del paisaje, es una estrategia favorable para la sostenibilidad integral de los territorios. La
+reciente Declaración de la Unesco en Hangzhou (Unesco, 2013) dice: La cultura:
+clave para el desarrollo sostenible, es un llamado urgente para que se incorporen
+en las políticas públicas, nuevos planteamientos, que tengan en cuenta:
+
+120
+
+[…] el papel de la cultura como sistema de valores y como recurso y marco para construir un desarrollo
+auténticamente sostenible, la necesidad de aprender de las experiencias de las generaciones pasadas y el
+reconocimiento de la cultura como parte del patrimonio común y local y como fuente de creatividad y
+de renovación.
+
+En ese sentido la propuesta de un Modelo de Diseño resultado de esta investigación, constituye una herramienta de análisis y proyectación en distintas escalas
+de actuación en el paisaje, que través de la mirada y valoración de sus propios
+habitantes, posibilita una visión sistémica y un modelo pedagógico y comunicativo
+para lograr mayor apropiación social del patrimonio natural y cultural y evitar las
+actuaciones que causan deterioro o amenazan su destrucción. Las rutas paisajís-
+
+Gómez/ Modelo de diseño para la valoración y apropiación social del patrimonio en el
+Paisaje Cultural Cafetero colombiano
+
+ticas que surgen del modelo de diseño y su reconocimiento como patrimonio
+posibilitan una mayor integración de los municipios del Eje Cafetero, que desde
+su homogeneidad como Paisaje Cultural, requieren fortalecer sus identidades para
+una mayor responsabilidad compartida que garantice su sostenibilidad cultural,
+ambiental y productiva.
+
+Paisaje cultural + economía cafetera
+La región andina colombiana por sus características geográficas, climáticas y demográficas, presenta una riqueza excepcional en su patrimonio natural y cultural
+que la sitúan entre las más importantes del mundo por su alta biodiversidad natural
+y de gran interés por las manifestaciones de su cultura local. En este territorio, a
+partir de las colonizaciones internas de la segunda mitad del siglo XIX y con la
+idea de fundar ciudades, se asentaron en un paisaje inexplorado de la Cordillera
+Central y Occidental, nuevas poblaciones que mediante una red de caminos de
+arriería dieron origen a la configuración de conjuntos urbanos conectados cultural,
+espacial y comercialmente. (Gómez y Londoño, 1994)
+En medio de un exuberante paisaje de media montaña andina, estas ciudades con
+una alta densidad de población rural alrededor de los centros poblados, fueron
+evolucionando desde los inicios del siglo XX en torno al cultivo y beneficio del
+café. La tradición cafetera, representativa de la economía y la cultura nacional, se
+afianzó desde que el café colombiano fue reconocido como un producto de alta
+calidad en el ámbito mundial, lo cual propició desarrollos urbanos diversos en las
+tres ciudades capitales (Manizales, Pereira y Armenia) y en cerca de 50 municipios
+cafeteros en los cuatro departamentos que conforman el PCCC.
+La red de caminos original ha dado paso a carreteras y autopistas que conectan
+zonas rurales de bosques y fincas cafeteras, con pueblos de trazados urbanos en
+forma de cuadrícula, donde la arquitectura tradicional se conserva aún en gran
+
+121
+
+Revista KEPES, Año 12 No. 11, enero-junio de 2015, págs. 117-138
+
+medida a pesar de la destrucción generalizada por los cambios de paradigmas
+arquitectónicos y constructivos actuales. El sistema constructivo original de bahareque, reconocido por su resistencia, originalidad y economía, resultado de la
+adaptación a las difíciles condiciones topográficas y sísmicas de la zona, utiliza
+un material disponible y fácilmente renovable como es la guadua (Gómez y Londoño, 1985). La fragilidad de este importante patrimonio constituye una amenaza
+debido al rápido deterioro de los centros poblados y a las transformaciones de los
+sistemas constructivos tradicionales que han sufrido las zonas urbanas con mayor
+dinamismo económico y las fincas cafeteras que se renuevan permanentemente.
+Hoy las diferentes rutas por el PCCC conectan las poblaciones que han tenido un
+crecimiento paralelo en el tiempo, en condiciones de emplazamiento vial y urbano
+complejas por la difícil topografía, dando como resultado agrupaciones de gran
+interés paisajístico con características similares en su forma de crecimiento y con
+manifestaciones culturales, dinámicas sociales y demográficas diversas por lo cual
+este paisaje cultural se caracteriza por ser homogéneo en su conjunto y diverso
+en sus particularidades.
+
+122
+
+La puesta en valor de este patrimonio requiere una gestión adecuada para constituirse en una base importante para el desarrollo sostenible capaz de generar
+sinergias de desarrollo tanto en ámbitos urbanos como rurales y lograr un efecto
+multiplicador mutuo. En este sentido, el paisaje elevado a la condición de patrimonio
+podría constituirse como la herramienta para superar la tradicional dualidad entre
+patrimonio natural y cultural, al incorporar un marco integrador.
+Como se enuncia en el documento CONPES para el PCCC1:
+Pese a la riqueza del Patrimonio Cultural Inmaterial, es de señalar que éste presenta riesgos de
+desaparecer dadas las siguientes dificultades: i) Falta de circulación y socialización de las diferentes
+expresiones y manifestaciones culturales; ii) Escasa formación de gestores culturales y de la comunidad en general para la formulación de proyectos culturales de patrimonio inmaterial; y iii) Debilidad
+“El documento CONPES ‘Política para la preservación del paisaje cultural cafetero de Colombia’ tiene como objetivo formular una política
+específica para el PCCC con el propósito de garantizar la preservación de su Valor Universal Excepcional y mejorar las condiciones para la
+sostenibilidad ambiental, cultural, social y económica del territorio” (DNP, 2014, p. 41).
+1
+
+Gómez/ Modelo de diseño para la valoración y apropiación social del patrimonio en el
+Paisaje Cultural Cafetero colombiano
+
+en la articulación institucional pública para el logro del fomento y promoción de la actividad cultural.
+Lo anterior se resume en una falta de apropiación social del patrimonio cultural que contribuye a la
+pérdida de identidad de la población del PCCC. (DNP, 2014, p. 11)
+
+El conocimiento de los aspectos históricos y de desarrollo social, cultural y
+medioambiental de este territorio, ha sido poco divulgado y existe una falta de
+reconocimiento y valoración desde sus propios habitantes, de allí que éste sea
+un paisaje muy vulnerable, porque carece de un proyecto integrador formativo y
+comunicativo para la apropiación del patrimonio por parte de la comunidad que
+lo habita y de quienes son los responsables de su sostenibilidad en el tiempo.
+Para fortalecer los procesos de creación, producción y comercialización de contenidos culturales en la región y dar soporte a la incubación y visibilización de
+iniciativas culturales se propone desde la Universidad de Caldas con el respaldo
+del Ministerio de Cultura, la plataforma ClusterLab del Eje Cafetero2, reconocida
+por el documento CONPES 3803 (febrero 13 de 2014) para la preservación del
+Paisaje Cultural Cafetero colombiano, iniciativa abierta de carácter colaborativo que
+promueve los nuevos enfoques asociativos para la gestión de los emprendimientos
+culturales y posibilita procesos de formación online, intercambio de conocimiento
+y desarrollo de proyectos colaborativos. El ClusterLab es una oportunidad que se
+establece como escenario de encuentro para que empresarios y emprendedores
+del sector cultural, desarrollen y promuevan sus iniciativas en un ambiente de
+formación, experimentación e intercambio abierto.
+
+Paisaje como patrimonio
+A la luz de la declaratoria ante la Unesco, del Paisaje Cultural Cafetero (PCC)
+como Patrimonio de la Humanidad, la apropiación social del patrimonio es uno
+de los aspectos más importantes para implementar en un Plan de Manejo ya que
+la adecuada transmisión y gestión del patrimonio cultural y natural es un recurso
+fundamental para su futuro desarrollo. Según Martínez (2011):
+2 Clúster Cultural del Eje Cafetero: ClusterLab, plataforma de Industrias Creativas del Eje Cafetero. http://www.clusterlab.co
+
+123
+
+Revista KEPES, Año 12 No. 11, enero-junio de 2015, págs. 117-138
+
+El Plan de Manejo del PCC busca lograr que la población se apropie del bien y que el Paisaje se pueda
+conservar de manera sostenible, en armonía con las actividades económicas que desarrollan los agentes en la zona. En este contexto, se establecen como principios para el manejo del Paisaje el bienestar
+económico y social de todos sus habitantes, la apropiación del patrimonio cultural y la sostenibilidad
+ambiental. (p. 63)
+
+La valoración del paisaje como patrimonio, posibilita su reconocimiento por parte
+de la colectividad y de los visitantes, lo cual garantizaría su conservación.
+La interpretación del paisaje es un fenómeno cultural y por lo tanto implica también
+aspectos de la percepción y representación, de información y educación. El paisaje
+en su dimensión sostenible no es solo lo que es, es también lo que no es o ha
+dejado de ser y lo que puede llegar a ser. Un paisaje es cambiante y la capacidad
+de apreciación tiene que ver no solamente con las diferentes formas de ver y de
+sentir de una cultura determinada, sino también con la velocidad y el tiempo que
+transforma cada vez más rápidamente la manera de percibirlos.
+
+124
+
+La valoración del paisaje se presenta en dos esferas diferentes: la de su producción y la de su percepción. El reto está en encontrar la forma de asociarlas para
+construir un eslabón que sea sostenible y que no impida la necesaria evolución
+y apropiación por parte de la comunidad humana, pero que por medio de las
+imágenes perceptibles se pueda lograr un equilibrio en las devastadoras actuaciones que posibiliten un estado deseable de conservación. Se debe incentivar una
+práctica científica del análisis del paisaje por medio de la imagen que estudie el
+fenómeno desde su dimensión social y cultural, para que el impacto de las intervenciones sobre la producción sea tan importante como el impacto de un paisaje
+potencialmente visible.
+Existen paisajes que no necesariamente están bien conservados pero que presentan un enorme potencial por su capacidad morfológica y de intervención, que da
+
+Gómez/ Modelo de diseño para la valoración y apropiación social del patrimonio en el
+Paisaje Cultural Cafetero colombiano
+
+cuenta de la historia de su transformación. Es allí donde se requiere una mirada
+más contemporánea para encontrar paisajes potencialmente visibles y de interés
+cultural. Los paisajes urbanos fuertemente transformados también pueden tener un
+interés por mostrar aspectos de identidad cultural que requieren un acercamiento
+diferente al tradicional y una renovación de la idea de paisaje natural, pues las
+intervenciones humanas han penetrado en cualquier ámbito por más virgen que
+éste parezca.
+Se requiere, para un amplio espectro en la concepción del paisaje como patrimonio, buscar un enfoque más humano, sostenible y consecuente con el medio
+ambiente, donde las acciones que afectan el entorno se planteen con una visión
+de ecoeficiencia humana y donde los principios de respeto por el entorno dan
+importancia fundamental al ser humano y su relación armónica con su contexto
+natural y cultural. De las transformaciones que el ser humano realiza sobre el
+paisaje, el campo ha sufrido con menor grado perturbaciones considerables. Es
+por esto que el paisaje de montaña, a pesar de su transformación ecológica y
+medioambiental por la acción humana, es un patrimonio más perdurable que el
+mismo paisaje construido.
+El paisaje de montaña, característico de las ciudades andinas, debe recuperar lo
+auténtico en su sentido histórico y vivencial, debe integrar el paisaje natural y
+construido y superar las falsas escenografías diseñadas para turistas o para consumidores, las cuales no dejan de ser mercantilismos pasajeros y efímeros. Lo que
+interesa de un paisaje natural o construido es su sentido global, y si bien pueden
+existir aspectos negativos o “antinaturales” que se necesitan superar y que no dejan
+de ser una preocupación constante y amenazante, éstos pueden ser superados con
+acciones donde primen los intereses colectivos y no los privados.
+
+125
+
+Revista KEPES, Año 12 No. 11, enero-junio de 2015, págs. 117-138
+
+Como lo anota Caraballo (2011):
+[…] el patrimonio ambiental y los bienes culturales son una herencia común de la humanidad. El deterioro o pérdida del mismo no es un problema que atañe solo a un país, es la pérdida de una herencia
+común. Aquí se sustenta toda la organización de responsabilidad compartida, la estructuración de listas
+y seguimientos del estado de conservación de los bienes patrimoniales. No es un tema de soberanía local o nacional, es un tema de responsabilidad con toda la humanidad. (p. 16)
+
+Esta visión nos lleva a proponer acciones inmediatas que en el tiempo produzcan
+resultados, porque el paisaje es vulnerable y se deteriora permanentemente, por
+lo cual requiere de un proyecto que sustente coordinadamente la responsabilidad
+compartida por la defensa de su patrimonio.
+A pesar de la universalización de muchos aspectos de la vida del ser humano,
+el paisaje y la cultura local adquieren una nueva fortaleza y valoración, incluso
+se puede observar cómo una cultura mientras más local sea y mejor se relacione
+con su entorno, más universal se concibe y mayor interés adquiere, puesto que la
+autenticidad se convierte hoy en algo muy valioso para la sociedad.
+
+126
+
+El reconocimiento de la espacialidad y la temporalidad del paisaje, como lo plantea
+Kessler (2000), es la verdadera ética del paisaje que deberá integrar en una sola
+visión, una concepción elevada de la moralidad, donde las herramientas para formular soluciones a los problemas físicos y funcionales del ambiente se integren a
+otros aspectos, como los sicológicos y los estéticos. El paisaje, en su sentido ético,
+deberá ser considerado como un patrimonio ambiental, cultural y productivo, en
+constante transformación y cambio, el cual es necesario mantener e intervenir de
+forma integral, interactuando con los grupos sociales que lo habitan. Los aspectos
+funcionales, sicológicos y estéticos deberán estudiarse integralmente en los planes
+y proyectos urbanos, y es primordial encontrar soluciones que permitan, de manera
+sostenible, cambiar el rumbo devastador que ha caracterizado en los últimos años
+las actuaciones en el paisaje.
+
+Gómez/ Modelo de diseño para la valoración y apropiación social del patrimonio en el
+Paisaje Cultural Cafetero colombiano
+
+Modelo de Diseño
+El Modelo de Diseño para la sostenibilidad del patrimonio urbano en los municipios del PCCC, surge del análisis visual del paisaje y constituye un sistema visual
+interactivo conformado por: el Ordenamiento visual de las calles principales y
+los trayectos, los Nodos de interpretación informativos y ambientales, las Rutas
+paisajísticas, las Exposiciones itinerantes y la Plataforma web como repositorio de
+la información, resultado del proceso (Figura 1). El sistema se estructura mediante
+el diseño de la imagen de marca de los municipios y de las rutas, las infografías
+y las cartografías de los itinerarios, el programa señalético y la regulación de los
+avisos comerciales; diseños que se validan y complementan con la participación
+de la comunidad mediante talleres de apropiación social del patrimonio.
+
+127
+
+Figura 1. Mapa conceptual del modelo de diseño. Fuente: elaboración propia.
+
+Revista KEPES, Año 12 No. 11, enero-junio de 2015, págs. 117-138
+
+Los talleres comunitarios hacen parte fundamental de la metodología pedagógica
+de la propuesta y se enfocan en temáticas dirigidas a cuatro grupos diferentes de
+población. Los temas son el paisaje, orientados a niños y niñas a partir del juego;
+el patrimonio, dirigidos a jóvenes mediante el uso de tecnologías; la identidad,
+orientada a emprendedores, comerciantes y guías turísticos para la definición de
+itinerarios y rutas paisajísticas; y talleres sobre la memoria, para adultos mayores
+que por medio de la fotografía hacen narraciones de su pasado. Esta validación
+posibilita la apropiación social del Modelo de Diseño, puesto que los talleres se
+enfocan en el reconocimiento del patrimonio natural y cultural del paisaje, para
+identificar los elementos más característicos de su contexto histórico y geográfico y
+desde su propia mirada reflexionar en torno a las expresiones propias y el reconocimiento y valoración del espacio público por parte de los mismos habitantes. Los
+talleres se realizaron en los municipios de Neira, Salamina y Aguadas en la Ruta
+Norte del departamento de Caldas, los cuales arrojaron resultados significativos
+para la investigación que se propone ampliar a todo el PCCC en etapas posteriores.
+
+Propuesta metodológica
+
+128
+
+Para la implementación del Modelo de Diseño se propone una metodología que
+contempla tres aspectos fundamentales: 1) visión sistémica, 2) escalas de actuación
+y conceptualización, 3) análisis y proyectación. (Gómez y Londoño, 2012)
+1) Visión sistémica. La idea de un sistema es sinónimo de un esquema abstracto;
+un sistema es una abstracción. Para decir que algo es un sistema, se deben definir:
+•	
+•	
+•	
+•	
+
+El comportamiento holístico o integral como se enfoca el sistema.
+Las partes de la estructura que componen el sistema.
+Las interacciones que produce el comportamiento definido.
+El resultado o el modelo en que las interacciones entre las partes produce el
+
+Gómez/ Modelo de diseño para la valoración y apropiación social del patrimonio en el
+Paisaje Cultural Cafetero colombiano
+
+comportamiento holístico.
+2) Escalas de actuación. La escala espacial es un aspecto fundamental en el
+conocimiento del comportamiento del sistema. Para su análisis se recurre a las
+escalas espaciales que están básicamente determinadas por el alcance visual y se
+complementan mutuamente así:
+•	 Escala macro: definida básicamente por el paisaje geográfico y su visualización,
+en el cual las unidades o conjuntos adquieren mayor importancia, frente a
+detalles o elementos individuales.
+•	 Escala media: es la escala de apreciación del ambiente, donde la estructura
+espacial adquiere mayor importancia. Los objetos, los volúmenes, los elementos
+arquitectónicos y las personas se aprecian y se diferencian visualmente.
+•	 Escala micro: referida a ámbitos interiores delimitados espacialmente, es una
+escala personal y contenedora, donde la apreciación visual se presenta más
+en los detalles y las texturas que en las estructuras, es una escala donde la
+comunicación visual, la ergonomía y las relaciones interpersonales adquieren
+mayor interés.
+3) Análisis y proyectación. La cualificación del paisaje implica un conocimiento
+objetivo de la realidad, una experiencia perceptual y una valoración estética. Dicha
+cualificación parte de una conceptualización previa y finaliza con una propuesta
+de diseño que contempla los siguientes pasos:
+•	 Una descripción general de la estructura del sistema, a partir de la identificación
+de su funcionamiento, la clasificación de sus partes constitutivas y sus relaciones.
+•	 Una interpretación de los componentes perceptuales del sistema, definidos
+por medio de la visión como base para conocimiento del entorno y de la
+configuración espacial-sensorial de sus partes.
+•	 Una valoración del comportamiento del sistema a través de sus principales
+características, y de su cualificación.
+
+129
+
+Revista KEPES, Año 12 No. 11, enero-junio de 2015, págs. 117-138
+
+•	 Una proyectación de la dinámica del sistema, en cuanto a la tendencia a la
+estabilidad en el funcionamiento del modelo y su evolución.
+
+Resultados
+La propuesta constituye un sistema interactivo de información e interpretación para
+la sostenibilidad del patrimonio, a partir de una estructura de diseño ecoeficiente
+integrado por los siguientes componentes:
+
+130
+
+•	 Ordenamiento visual: diseño ambiental para recuperación de fachadas, aplicación cromática, parámetros de diseño para avisos comerciales y programa
+señalético.
+•	 Nodos de interpretación del patrimonio cultural y paisajístico, informativos
+y ambientales.
+•	 Rutas paisajísticas: diseño de imagen de marca de las rutas y de los municipios,
+infografías, cartografías, diseño de trayectos e itinerarios.
+•	 Exposiciones itinerantes: carteleras donde se expone a la comunidad el modelo de diseño y los resultados de los talleres pedagógicos de apropiación del
+patrimonio.
+•	 Plataforma web interactiva como repositorio y soporte de información, donde
+converge el desarrollo metodológico de análisis e interpretación y se articulan
+proyectos académicos, sociales y turísticos como resultado del trabajo colaborativo (www.rutasdecaldas.com).
+El modelo de carácter experimental se implementó en la Ruta Norte de Caldas,
+que reúne las características de representatividad como ruta cafetera por su calidad
+paisajística, urbanística, arquitectónica y por su tradición histórica y cultural. De
+esta manera la implementación del modelo contribuye a la sostenibilidad urbana
+del paisaje, porque se convierte en una herramienta que le posibilita a la comunidad una mayor apropiación del patrimonio natural y cultural para su valoración y
+
+Gómez/ Modelo de diseño para la valoración y apropiación social del patrimonio en el
+Paisaje Cultural Cafetero colombiano
+
+conservación, como también para potenciar su desarrollo turístico local, integrado
+con los demás municipios, de una manera planificada e incluyente.
+Este modelo de diseño es colaborativo porque mediante un plan de acciones
+que inicia con el análisis visual y espacial del paisaje, la verificación de diseños
+previamente establecidos y la realización de talleres comunitarios, se valida la información recopilada, se ubican en el mapa los lugares y los itinerarios de mayor
+valor histórico y paisajístico, como también la recolección de relatos, para definir
+los elementos simbólicos, las tradiciones y las expresiones culturales propias que
+otorgan identidad a la comunidad, dando espacio para su participación.
+
+Modelo pedagógico
+Para la validación y apropiación del Modelo de Diseño se proponen talleres pedagógicos de apropiación social con la comunidad, los cuales se enfocan en el
+reconocimiento del patrimonio natural y cultural, para identificar los elementos
+más característicos de su contexto histórico y geográfico, mediante la observación
+directa y la reflexión en torno a las expresiones propias y el reconocimiento del
+paisaje, con las siguientes temáticas:
+•	 Talleres sobre el Paisaje. Orientados a niños y niñas. A partir de la iniciación
+con un juego, se les motiva para reconocer su entorno natural y observar cómo
+perciben su paisaje, el agua, la tierra, el aire, el sonido, el color, las formas,
+mediante dibujos, pinturas y modelados con diferentes materiales. (Figura 2).
+•	 Talleres sobre el Patrimonio. Dirigidos a jóvenes, que desde su mirada y
+mediante el uso de tecnologías para registrar imágenes, sonidos y relatos, con
+tabletas digitales (iPad), identifican las características más representativas de
+su patrimonio cultural local. Para esta actividad se utilizan los recursos del
+ViveLab Manizales (LivingLab)3 mediante el uso de la tecnología digital para la
+3
+
+http://www.vivelabmanizales.com/labs/livinglab/
+
+131
+
+Revista KEPES, Año 12 No. 11, enero-junio de 2015, págs. 117-138
+
+realización del trabajo de campo. Los grupos se dividen por temas específicos
+o por sectores de la localidad, y se les dan las instrucciones para que ellos
+mismos envíen la información a la plataforma web donde se puede visualizar
+el resultado de la búsqueda y posibilitar la continuidad del proceso. (Figura 3).
+•	 Talleres sobre la Identidad. Orientados a adultos, comerciantes, gestores
+culturales y guías de turismo, para definir los itinerarios donde se destaquen
+las manifestaciones culturales más características que identifican la localidad,
+y se realizan mapas de rutas con los nodos principales. Luego de reconocer
+con el grupo los cuatro componentes de la identidad cultural local, como son:
+arquitectura, artesanía, folklore y comida tradicional, se realiza un trabajo de
+campo y se inicia la búsqueda de este tipo de expresiones con la comunidad
+para lo cual se requiere el registro de imágenes, sonidos y relatos con el uso
+del teléfono celular. (Figura 4).
+
+132
+
+•	 Talleres sobre la Memoria. Orientados a adultos mayores. Mediante el aporte
+de álbumes familiares, colecciones especiales de objetos o documentos históricos se obtienen relatos e historias propias de la localidad. Con ellos se inicia
+una dinámica de integración y se realizan sesiones de registro para que ellos
+cuenten sus historias y experiencias a partir de las fotografías y de los objetos.
+Al final se realiza un mural colectivo con los resultados aportados por el grupo
+de participantes. (Figura 5).
+
+Figura 5. Talleres sobre Memoria. Caldas.
+Fuente: elaboración propia.
+
+Figura 4. Talleres sobre Identidad. Fuente: elaboración propia.
+
+Figura 3. Talleres sobre Patrimonio en Neira, Caldas.
+Fuente: elaboración propia.
+
+Figura 2. Talleres sobre Paisaje. Fuente: elaboración propia.
+
+Gómez/ Modelo de diseño para la valoración y apropiación social del patrimonio en el
+Paisaje Cultural Cafetero colombiano
+
+133
+
+Revista KEPES, Año 12 No. 11, enero-junio de 2015, págs. 117-138
+
+Articulación ClusterLab y LivingLab
+Para dar continuidad a la investigación “Sostenibilidad urbana del patrimonio en
+el PCC”, el proyecto se articula con los programas ClusterLab y LivingLab4, que
+posibilitan la participación colectiva mediante el uso de plataformas virtuales que
+facilitan y amplifican los procesos de apropiación social del patrimonio.
+El Clúster Cultural del Eje Cafetero5, con énfasis en el sector de contenidos digitales a través de acciones presenciales y virtuales, es una estrategia para fortalecer
+la cadena productiva de las industrias culturales y creativas que genera empleos
+y recursos dentro del sector económico y facilita la relación con instituciones y
+organizaciones del sector cultural nacional e internacional, para la organización,
+promoción y gestión de las ofertas y el trabajo colaborativo y en red.
+
+134
+
+De manera complementaria el uso de los recursos del ViveLab Manizales, con el
+recurso LivingLab6, posibilitó a la investigación generar comunidades de práctica
+con procesos de investigación/innovación centrados en los usuarios y en sus problemáticas contextuales. En esta línea, el LivingLab establece una relación entre
+las los procesos de co-creación de innovaciones sociales y técnicas para la gestión
+del conocimiento y se fundamenta en la creación de puentes entre la tecnología,
+entre las tecnologías y las personas, lo que obliga a entender las nuevas condiciones de la sociedad actual para proponer acciones acordes con las dinámicas
+contemporáneas.
+
+Programas desarrollados por el Doctorado en Diseño y Creación y la Maestría en Diseño y Creación Interactiva del Departamento de Diseño
+Visual, Facultad de Artes y Humanidades, Universidad de Caldas.
+5
+http://www.clusterlab.co
+6
+http://www.vivelabmanizales.com/labs/livinglab/
+4
+
+Gómez/ Modelo de diseño para la valoración y apropiación social del patrimonio en el
+Paisaje Cultural Cafetero colombiano
+
+Conclusiones
+Para garantizar la sostenibilidad urbana del paisaje en ciudades de media montaña
+andina, más allá de la incidencia que tenga en la planificación urbana o sectorial,
+es necesario incrementar la conciencia ciudadana en relación con la conservación
+de la calidad del paisaje como un patrimonio que le es propio. Una adecuada herramienta metodológica debe permitir conocer cómo es un paisaje determinado,
+qué valores tiene, qué factores lo afectan en función de sus dinámicas económicas,
+sociales y ambientales y cómo evoluciona, para determinar cuál es el paisaje que
+una sociedad desea y cómo conseguirlo.
+El conocimiento y la divulgación del paisaje como patrimonio, promueve la
+conciencia ciudadana, favorece su sostenibilidad y aporta beneficios sociales,
+económicos y ambientales a la colectividad. El paisaje debe considerarse como
+un hecho de interés general, como patrimonio ambiental, cultural y productivo,
+y como una fuente inagotable de conocimiento en constante transformación que
+demanda cada vez mayor compromiso social.
+Para un territorio como el del PCCC, con las necesidades básicas insatisfechas, el
+turismo es sin duda una opción de desarrollo, pero requiere condiciones y preparación previa para evitar la destrucción de su patrimonio, el cual puede resultar
+afectado ante el impacto negativo de grandes operadores turísticos o de empresas
+que no integren a la comunidad en estos procesos. Para lograr un turismo responsable y sostenible es indispensable involucrar y preparar a la comunidad para asumir
+nuevos roles a partir de sus propias visiones y dinámicas internas, sin imposiciones
+externas que afecten su quehacer cotidiano. Es necesario que las comunidades
+conozcan los beneficios de la actividad turística en su territorio, para ofrecer a
+los visitantes una experiencia de alta calidad que genere un desarrollo sostenible
+para la región, de manera colaborativa, con estrategias articuladas de promoción
+y comercialización de la actividad turística.
+
+135
+
+Revista KEPES, Año 12 No. 11, enero-junio de 2015, págs. 117-138
+
+También es fundamental encontrar los mecanismos para facilitar los procesos
+de apropiación social del patrimonio y darle continuidad al trabajo colaborativo,
+mediante las herramientas de creación e interacción y utilizar plataformas virtuales que apoyen la propuesta comunicativa del modelo de diseño. Este modelo
+comunicativo es útil a la comunidad como herramienta para interpretar y valorar
+la configuración visual y espacial del paisaje a escala geográfica y urbana y sus
+posibilidades de cambio y adaptación, que además integra aspectos específicos
+de aplicación gráfica, digital y ambiental, con el fin de identificar parámetros de
+diseño y gestión, acordes con la cultura y el contexto en el cual sucede la habitabilidad del paisaje.
+Es indispensable tener en cuenta la participación de diferentes actores en las intervenciones en el territorio, con el fin de lograr la apropiación y mantenimiento
+de las iniciativas, para que sea la misma comunidad la que lidere la defensa y
+conservación de su patrimonio cultural y ambiental, y de esta manera evitar el
+rápido deterioro y destrucción de los recursos paisajísticos.
+
+136
+
+Este proyecto propone construir y tejer desde la cultura misma el sentido de identidad, con pequeñas acciones que se conviertan en semillas, para propiciar su
+desarrollo sostenible, a una escala donde se posibilite la participación ciudadana.
+Es importante propiciar con la comunidad, proyectos que transformen la opinión
+pública y ejerzan presión política para la preservación del patrimonio cultural y
+ambiental de los municipios.
+
+Referencias
+Caraballo, C. (2011). Patrimonio cultural. Un enfoque diverso comprometido.
+México: Unesco.
+
+Gómez/ Modelo de diseño para la valoración y apropiación social del patrimonio en el
+Paisaje Cultural Cafetero colombiano
+
+Carta Colombiana del Paisaje, 2010. Recuperado de http://iflaonline.org/wpcontent/uploads/2014/03/Colombia2010.pdf
+Carta Iberoamericana del Paisaje Cultural, Encuentro de Cartagena de Indias,
+noviembre de 2012. Recuperado de https://laliniciativablog.files.wordpress.
+com/2013/04/carta-iberoamericana-del-paisaje-cultural.pdf
+Convenio Europeo del Paisaje, Florencia, 2000. Recuperado de http://ipce.mcu.
+es/pdfs/convencion-florencia.pdf
+Departamento Nacional de Planeación (DNP). (2014). Documento CONPES
+3803 de 2014. Recuperado de https://colaboracion.dnp.gov.co/CDT/Conpes/
+Econ%C3%B3micos/3803.pdf
+Gómez, A., & Londoño, F. C. (1985). Guadua y madera. Libro Investigaciones
+PEVAL No. 8. Programas de estudio de Vivienda en América Latina. Universidad
+Nacional de Colombia-Medellín-Manizales.
+________. (1994). Expresión visual en las ciudades del bahareque. Manizales:
+Centro de Investigación y Desarrollo Científico / Universidad de Caldas.
+________. (2012). Paisaje y nuevos territorios (en Red) Cartografías e interacciones
+en entornos visuales y virtuales. Barcelona: Anthropos Editorial.
+Kessler, M. (2000). El paisaje y su sombra. Barcelona: Idea Books.
+Martínez, A. (2011). Paisaje cultural cafetero: un paisaje cultural productivo en
+permanente desarrollo. Colombia: Ministerio de Cultura. Recuperado de http://
+paisajeculturalcafetero.org.co/static/files/cartillaministerio.pdf.pdf
+
+137
+
+Revista KEPES, Año 12 No. 11, enero-junio de 2015, págs. 117-138
+
+Plan Nacional de Paisaje Cultural, Madrid, 2012. Recuperado de http://ipce.mcu.
+es/pdfs/PLAN_NACIONAL_PAISAJE_CULTURAL.pdf
+Unesco. (2011). Coffee Cultural Landscape of Colombia. Recuperado de http://
+whc.unesco.org/en/list/1121
+________. (2013). Declaración de Hangzhou. Recuperado de http://www.unesco.
+org/new/en/culture/themes/culture-and-development/hangzhou-congress/
+Cómo citar este artículo:
+Gómez A, A. (2015). Modelo de diseño para la valoración y apropiación social del Patrimonio en el Paisaje
+Cultural Cafetero colombiano Revista Kepes, 11, 117-138
+
+138
+
+Copyright of Kepes is the property of Universidad de Caldas and its content may not be
+copied or emailed to multiple sites or posted to a listserv without the copyright holder's
+express written permission. However, users may print, download, or email articles for
+individual use.
+
+

@@ -1,0 +1,1048 @@
+Ecofisiología, Metabolismo de Cultivos, Tecnología, Producción y Fisiología de Semillas / Ecophysiology, Crop Metabolism, Technology, Production and Seed Physiology
+Acta Agron. (2015) 64 (4) p 342-348
+
+ISSN 0120-2812 | e-ISSN 2323-0118
+
+doi: http://dx.doi.org/10.15446/acag.v64n4.44641
+
+Efecto de las condiciones de cultivo, las características
+químicas del suelo y el manejo de grano en los atributos
+sensoriales de café (Coffea arabica L.) en taza
+Effect of culture conditions, the chemical characteristics of soil and grain handling in the sensory attributes of coffee (Coffea arabica L.) in cup
+Juan Carlos Suárez Salazar 1*, Engelberto Rodríguez Burgos 2, Ervin Humprey Duran Bautista 2
+Universidad de la Amazonía, Facultad de Ingeniería, Programa Ingeniería Agroecológica. Florencia - Caquetá. Colombia.
+Centro de gestión y desarrollo sostenible surcolombiano Tecnoparque Yamboró. SENA regional Pitalito.
+*
+Autor para correspondencia: juansuarez1@gmail.com
+1
+2
+
+Rec.: 26.07.2014 Acep.:28.10.2014
+
+Resumen
+En 54 fincas cultivadas con café (Coffea arabica L.) en rangos altitudinales, características de plantación y formas
+de beneficio del fruto diferentes, en los municipios de Suaza y Timaná (Departamento del Huila), Colombia, se
+evaluaron la relación entre estas variables de cultivo y manejo con los atributos sensoriales en taza. Para el estudio fueron utilizados el método estadístico Análisis de Correspondencias Múltiples (ACM) y Partial Least Square
+(PLS) para determinar la relación entre los atributos sensoriales y las características del suelo y de manejo de la
+plantación. A través del análisis de varianza multivariado mediante la prueba de Hotelling se encontraron diferencias (P < 0.001) para pH, Ca, Mg, Na, saturación de bases (SB), Al, P, Zn, así mismo, se observaron diferencias (P
+< 0.01) para K, Mn, M.O y B entre los tipos de suelos. En general, el perfil de las tazas fueron de cuerpo medio,
+algunas ácidas e intermedias con atributos sensoriales representativos. La calidad de taza Q3 se relacionó con
+atributos sensoriales como cuerpo, dulzor, balance, sabor, acidez y estos con variables de características de la
+plantación como densidad de siembra (Ds), edad, altura y elementos químicos con azufre (S). Q2 fue una taza
+afectada por el tiempo de la fermentación (horas) y por variables químicas como pH, SB, Ca, Mg además variables
+de manejo como sombra, la cual depende de la altura del sitio en el cual se encuentra el cultivo. Q1, que presentó
+baja calificación en los atributos sensoriales, se relacionó con variables del suelo como Al y Fe.
+Palabras clave: Manejo agronómico, beneficio, estadística multivariada, rangos altitudinales.
+
+Abstract
+the Municipalities of Suaza and Timana (Department of Huila, Colombia) 55 lots located were selected with different altitude ranges, and crop management conditions benefit to evaluate the relationship among soil chemical
+characteristics and sensory attributes driving the cup. The statistical method used was Multiple Correspondence
+Analysis (MCA) and Partial Least Square (PLS) analysis to determine the relationship among the sensory attributes and variable agronomic management and soil parameters. Through multivariate analysis of variance test
+using Hotelling significant differences (P <0,001) for pH, Ca, Mg, Na, base saturation (SB), Al, P, Zn were found,
+also, significant differences (P<0,001) for K, Mn, MO and B were observed among the soil types. The cups were
+half-length, with some acidic and intermediate representative sensory attributes. Q3 related to sensory attributes
+as a body, sweetness, balance, flavor, acidity, and these variables with crop management such as plant density
+(Ds), age, height and chemicals with Sulfur (S). Q2 was affected by management in cup the fermentation process
+and chemical characteristics such as pH, SB, Ca, Mg as well shadow management variables which depends on
+the height at which it is growing. Q1 that had low scores on the sensory attributes related to soil characteristics
+such as Al and Fe.
+Keywords: Agronomic management, benefit, multivariate statistics, altitudinal ranges.
+
+342
+
+Efecto de las condiciones de cultivo, las características químicas del suelo y el manejo
+de grano en los atributos sensoriales de café (Coffea arabica L.) en taza
+
+Introducción
+La calidad de taza de café (Coffea arabica L.) es el
+resultado de los atributos sensoriales que dependen de factores como genotipo, variedad, tipo de
+suelo, condiciones agroecológicas, prácticas agronómicas, de cosecha y poscosecha, torrefacción,
+características propias del cultivo, y procesamiento (Fajardo y Sanz, 2003; Griffin, 2001), así como
+de las características del suelo (Cofenac, 2003).
+Avelino et al. (2002) demostraron los efectos de
+múltiples factores, entre los cuales se incluyen
+altitud, precipitación, acidez del suelo, sombra,
+productividad y los parámetros granulométricos
+del café tostado y molido.
+Actualmente se conocen estudios de la dinámica de la radiación solar en arreglos agroforestales y su interacción con la calidad de café. En
+este sentido, Bosselmann et al. (2009), Vaast et
+al. (2006) y Muschler (2001) realizaron investigaciones para relacionar las características del
+sombrío con la calidad del grano de café. No obstante, no ha sido posible establecer una relación
+significativa entre la radiación y las diferentes
+variables que influyen en los atributos sensoriales
+de este fruto. Los beneficios de la sombra se explican principalmente por una reducción del estrés
+hídrico causado por la exposición a la radiación;
+así mismo, por proporcionar condiciones óptimas
+para una buena maduración (Vaast et al., 2006;
+Muschler, 2001). Avelino et al. (2005) y Figueroa
+(2000) hallaron un efecto positivo en la calidad
+de taza como resultado de la lenta maduración
+del grano, causada por la reducción de la temperatura ambiental a medida que incrementa la
+altitud; contrario a lo reportado por Bosselmann
+et al. (2009) quienes encontraron influencia negativa de la sombra en los atributos sensoriales. El
+objetivo de este estudio fue analizar las relaciones entre las características químicas del suelo,
+condiciones de manejo del cultivo, altura sobre el
+nivel del mar y nivel de sombra con los atributos
+sensoriales relacionados con la calidad de taza
+(Q) en café (Coffea arabica L.).
+
+Tabla 1. Variables para describir las condiciones de los lotes de café en
+fincas del Departamento del sur del Huila, Colombia.
+Tipo de variable
+
+Variable
+
+Unidad
+
+Abrev. o
+símbolo
+
+–
+
+Q
+pH
+
+Calidad de
+
+Calificación por
+
+taza
+
+análisis sensorial
+
+Suelo
+
+Potencial de hidrogeno
+
+–
+
+Potasio
+
+Cmol(+)/kg
+
+Ca
+
+Magnesio
+
+Mg
+
+Sodio
+
+Na
+
+Saturación de bases
+
+%
+
+SB
+
+Aluminio
+
+Cmol(+)/kg
+
+Al
+
+Fosforo
+
+mg/kg
+
+Hierro
+
+Características
+de la plantación
+
+K
+
+Calcio
+
+P
+Fe
+
+Cobre
+
+Cu
+
+Manganeso
+
+Mn
+
+Zinc
+
+Zn
+
+Materia orgánica
+
+MO
+
+Nitrógeno
+
+N
+
+Azufre
+
+S
+
+Boro
+
+B
+
+Variedad
+
+–
+
+Var.
+
+Densidad de plantas
+de café por hectárea
+
+Plantas/ha
+
+Plan/ha
+
+Cobertura arbórea
+
+%
+
+%CA
+
+Edad del cultivo de
+café
+
+Años
+
+Edad
+
+Horas de fermentación
+
+Horas
+
+Horas
+
+Altitud
+
+m
+
+Alt.
+
+Materiales y métodos
+Para el estudio fueron seleccionadas 54 fincas
+pertenecientes a la Asociación de Productores
+Agrícolas en el sur del Departamento del Huila
+(Colombia) ubicadas entre los municipios de
+Suaza y Timaná con un área de influencia del
+estudio de 310 Km2 y diferentes rangos altitudinales, características de plantación y beneficio del
+fruto (Figura 1). Las variables evaluadas in situ y
+los datos recopilados en entrevistas con los agricultores se incluyen en el Tabla 1. El manejo del
+suelo se caracterizaba por lo implementación de
+las tecnologías recomendadas por la Federación
+Nacional de Cafeteros y consistentes en la apli-
+
+Figura 1. Localización de las fincas en el estudio. Sur del Departamento del
+Huila, Colombia.
+
+cación de nitrógeno como urea, fosfato diamónico
+DAP y cloruro de potasio KCl, de acuerdo con el
+esquema propuesto por Sadeghian y Gonzáles
+(2012) para cultivos en producción. En cada una
+de las fincas se seleccionó un lote de café manejado bajo arreglo agroforestal en la cual se tomó
+una muestra de suelo compuesta hasta 15 cm de
+343
+
+Acta Agronómica. 64 (4) 2015, p 342 -348
+
+profundidad, así como también un muestra de
+café cereza siguiendo la metodología propuesta
+por Banegas (2009) y Lara (2005) para realizar el
+análisis de atributos de calidad de taza.
+
+de poscosecha como manejo de grano después de
+la recolección y horas de fermentación.
+
+Calidad de taza (Q)
+
+Para evaluar la calidad de taza (Q) se realizaron
+pruebas de estadística descriptiva para los resultados del análisis de suelos y pruebas sensoriales en taza. Igualmente se construyeron tablas
+de contingencia y se transformaron variables
+cuantitativas a cualitativas para la realización
+de Análisis de Correspondencias Múltiples (ACM)
+utilizando el software libre R versión 2.15. (R
+Development Core Team, 2012) mediante la
+plataforma independiente para análisis estadísticos R Commander (Fox, 2005) basado en el
+paquete FactoMineR (Husson et al., 2012) para
+el análisis exploratorio multivariado. Para crear
+cada una de las tipologías por característica se
+siguió la metodología propuesta por Deheuvels
+et al. (2012), Avelino et al. (2009) y Avelino et al.
+(2006). El ACM es una técnica exploratoria que
+permite representar gráficamente filas y columnas de una tabla de contingencia (Lebart et al.,
+1984). La técnica de ACM también constituye una
+herramienta importante para el análisis de datos
+textuales donde se construyen tablas de contingencia relacionadas con el uso de varios vocablos
+entre distintos textos de cada variable. El ACM
+puede ser interpretado como una técnica complementaria y, a veces, suplementaria del uso de modelos log-lineales para el estudio analítico de las
+relaciones contenidas en tablas de contingencia.
+Este análisis permite explorar gráficamente estas
+relaciones (Balzarini et al., 2008). Para identificar
+diferencias entre tipología de suelo (Su) en cada
+una de las variables químicas se realizó un análisis de varianza multivariada comprobando las
+diferencias mediante la prueba de Hotelling. Al
+final se hizo un análisis de PLS (del inglés Partial
+Least Squares) para determinar la relación entre
+la matriz de las variables químicas del suelo y los
+atributos sensoriales para determinar calidad de
+taza (Q) en café.
+
+Para controlar el efecto del tipo de beneficio,
+el procesamiento de cada una de las muestras
+se hizo utilizando la tecnología Becolsub, en la
+cual el despulpado de la cereza se hace de forma
+directa con eliminación de mieles vs. el sistema
+tradicional donde se controlan el tiempo de fermentación y las formas de beneficio.
+Las características sensoriales de la infusión se
+analizaron mediante un panel de captación compuesto por tres profesionales ‘Q Grader’ del Coffee
+Quality Institute® en el Laboratorio de Calidad de
+Café del Centro de Gestión y Desarrollo Sostenible
+Surcolombiano del Servicio Nacional de Aprendizaje SENA, Pitalito. Las muestras de los granos
+de café (250 g) provenientes de cada lote fueron
+tostadas por 11 minutos a 200 °C hasta alcanzar
+un estándar de color amarillo rojizo. Cada taza
+se preparó utilizando 11 g de café molido en 150
+ml de agua destilada en ebullición, se utilizó
+molienda media y tamaño de partícula 500um.
+El panel se dispuso en cinco repeticiones y los
+atributos fueron calificados utilizando una escala
+de 1 a 10 mediante la metodología propuesta por
+Specialty Coffee Association of America (Lingle,
+2001) para catación. Las variables evaluadas en
+cada una de las tazas fueron: fragancia, aroma,
+acidez, sabor, cuerpo, dulzura y preferencia, para
+obtener la puntuación final y así aceptar y definir
+la calidad de taza (Q).
+
+Parámetros químicos del suelo
+Como parámetros químicos se determinaron:
+pH1:2, Aluminio intercambiable por diferencia de
+titulación de la acidez e hidrógeno intercambiable, materia orgánica (MO), Nitrógeno (N) total por
+Kjeldahl, P asimilable por Bray II. Los nutrientes
+calcio (Ca), magnesio (Mg) y potasio (K) intercambiables fueron determinados por el método de
+extracción por lixiviación con acetato de amonio y
+absorción atómica. El hierro (Fe), cobre (Cu), zinc
+(Zn) y magnesio (Mn) por el método de extracción
+DTPA y absorción atómica.
+
+Relaciones entre características de la
+plantación
+Estas observaciones se hicieron en una encuesta
+realizada entre los productores de cada finca para
+conocer los rendimientos/área (kg/ha) de cada
+lote seleccionado, la variedad cultivada, la densidad de plantas/ha, la cobertura arbórea, la edad
+del cafetal; igualmente se observaron actividades
+
+344
+
+Análisis estadístico de datos
+
+Resultados y discusión
+En el análisis de varianza multivariado se detectaron diferencias (P < 0.001) para pH, Ca, Mg,
+Na, SB, Al, P, Zn y para K, Mn, M.O y B entre los
+tipos de suelos (P <0.001) (Tabla 2). La calidad
+de taza (Q) mostró diferencias en tres niveles en
+atributos como acidez, balance, cuerpo y calificación, donde Q1 y Q3 fueron el grupo de menor
+y mayor calificación, respectivamente (Figura 2).
+En la Figura 3 aparecen las relaciones entre
+los tipos de suelos y la calidad de café, donde
+se observa una relación entre la tipología suelo
+muy ácido, con alto nivel de Al, con bajo nivel de
+Ca, Mg y SB y la calidad de taza Q3. Los suelos
+
+Efecto de las condiciones de cultivo, las características químicas del suelo y el manejo
+de grano en los atributos sensoriales de café (Coffea arabica L.) en taza
+
+Tabla 2. Coeficiente de correlación (P < 0.05) entre características del suelo y atributos sensoriales en taza de café en fincas del sur del Departamento del Huila,
+Colombia.
+Atributo
+
+Característica
+pH
+
+MO
+
+N
+
+P
+
+K
+
+Mg
+
+Ca
+
+Cuerpo
+
+0.17
+
+0.06
+
+0.05
+
+0.05
+
+0.05
+
+0.05
+
+0.20
+
+Acidez
+
+0.05
+
+0.03
+
+0.04
+
+0.05
+
+0.03
+
+0.01
+
+0.28
+
+Balance
+
+0.06
+
+0.10
+
+0.10
+
+0.04
+
+0.003
+
+0.01
+
+Sabor
+
+0.09
+
+0.03
+
+0.03
+
+0.04
+
+0.12
+
+0.14
+
+0.01
+
+0.02
+
+0.03
+
+0.06
+
+Fragancia/
+aroma
+
+0.25
+
+0.04
+
+0.04
+
+0.22
+
+0.30
+
+Dulzor
+
+0.13
+
+0.02
+
+0.03
+
+0.07
+
+0.02
+
+Sabor
+residual
+
+0.0308
+
+Al
+
+Na
+
+S
+
+0.18
+
+0.01
+
+0.03
+
+0.15
+
+0.03
+
+0.04
+
+0.01
+
+0.13
+
+0.14
+
+0.10
+
+0.09
+
+0.08
+
+0.04
+
+0.01
+
+0.21
+
+0.06
+
+0.02
+
+0.04
+
+0.16
+
+0.04
+
+0.20
+
+0.13
+
+0.06
+
+0.03
+
+0.12
+
+0.14
+
+0.18
+
+0.29
+
+0.03
+
+0.16
+
+0.24
+
+0.16
+
+0.13
+
+0.07
+
+0.15
+
+0.0444
+
+0.0338
+
+0.28
+0.12
+
+0.0461
+
+Fe
+
+mentación de grano entre 24 y 48 horas. Estas
+condiciones de manejo y cultivo afectan los atributos sensoriales como lo demuestra la relación
+existente entre Q3 y los lotes que se encuentran
+a más de 1626 m.s.n.m., con una cobertura de
+sombra menor que 20% (Figura 3).
+
+Figura 2. Análisis de correspondencia basada en tablas de contingencia
+entre atributos sensoriales y calidad de taza de café. Fincas del sur del
+Departamento del Huila, Colombia.
+
+Figura 3. Análisis de correspondencia basada en tablas de contingencia de
+características de suelos (Su) y calidad de café (Q). Fincas del sur del Departamento del Huila, Colombia.
+
+moderadamente ácidos, con alto nivel de Fe, Cu,
+Zn y S y bajo nivel de Ca, Mg y SB se relacionaron
+con calidad Q1. Los suelos muy ácidos, con altos
+niveles de Fe, MO y N se relacionaron con calidad
+de taza Q2. Las fincas en el estudio se encuentran
+a bajas alturas con niveles de cobertura arbórea
+(%CA) menor que 20%, densidades de siembra
+entre 4000 y 5200 árboles/ha y tiempos de fer-
+
+A medida que aumenta la altura sobre el nivel
+del mar la temperatura disminuye, lo que favorece
+la prolongación del proceso de maduración del
+café cereza, lo que, a su vez, favorece el mejor
+llenado y peso de grano, una mayor producción de
+éste y una mejor calidad de bebida (Vaast et al.,
+2005b; Wintgens, 2004). Por otra parte, los mayores niveles de nubosidad durante el día en zonas
+con mayores altitudes producen una disminución
+adicional en el aprovechamiento de la radiación,
+por esta razón es común que los niveles de cobertura arbórea en los arreglos agroforestales de café
+disminuyen con el incremento en altura sobre el
+nivel del mar. Las características en la calidad
+física y organoléptica del café se modifican con el
+incremento altitudinal, lo que afecta la calidad de
+taza (Vaast y Bertrand, 2005; Vaast et al., 2005a;
+Figueroa et al., 2000; Buenaventura y Castaño,
+2002; Salazar et al., 2000), por tanto a una mayor
+altitud se desarrollan atributos positivos como
+acidez y aroma, lo que define un mejor sabor y
+calidad de bebida (Vaast et al., 2005a) (Figura 3).
+En la Figura 4 se observa la relación entre
+la calidad de taza Q vs. las características de
+manejo y procesamiento del grano y la variedad
+cultivada. El nivel de correspondencia entre
+la variedad y la calidad de taza Q fue alta (P <
+0.001). La menor calificación (Q1) ocurrió con
+las muestras obtenidas de la variedad Castillo,
+en comparación con las variedades Colombia y
+Caturra que se relacionaron con Q2 y Q3, que
+corresponden a atributos sensoriales intermedio
+y alto, respectivamente. En este sentido Kumar
+et al. (2013) plantean que la variedad Caturra
+se asocia con tazas de mayor cuerpo, sabor y
+acidez, que son características encontradas en
+las tazas Q3. Es posible que esa baja calidad en
+taza sea afectada durante el proceso de beneficio
+
+345
+
+Acta Agronómica. 64 (4) 2015, p 342 -348
+
+se relacionó principalmente con variables de
+características de la plantación como densidad
+de siembra (Ds) y cobertura arbórea (%CA) que
+dependen directamente del rango de altura en
+la que se encuentra el cultivo, lo cual afecta negativamente los atributos sensoriales del grano
+(Figura 5).
+
+Figura 4. Análisis de correspondencia basada en tablas de contingencia entre calidad de taza Q y características de manejo del cultivo del café. Fincas
+del sur del Departamento del Huila, Colombia.
+
+por variables como tiempo de la fermentación relacionada con la remoción de mucílago mediante
+la tecnología Becolsub que elimina el proceso de
+fermentación y simplifica el proceso de beneficio
+húmedo del café.
+El 75.2% de la variabilidad fue explicada al
+correlacionar las variables de atributos sensoriales con la matriz de 21 variables relacionadas
+con la química del suelo, características de la
+plantación y producción de café, encontrando
+una relación directa entre la calidad de café Q3
+y los atributos sensoriales acidez, cuerpo, sabor
+residual, sabor y balance. La calidad de taza Q1
+
+Figura 5. Tri-plot de la correlación entre una matriz de interacción entre
+variables de atributos sensoriales vs. matriz de 21 variables de manejo del
+cultivo y producción de café. Q3 a Q1 de café de buena a baja calidad. Fincas
+del sur del Departamento del Huila, Colombia.
+
+En el Tabla 3 aparecen los coeficientes y los
+niveles de probabilidad de la relación entre variables predictivas y dependientes en relación con la
+calidad de la taza Q. Se encontraron relaciones
+
+Tabla 3. Propiedades de los suelos en fincas en el estudio. Sur del Departamento del Huila, Colombia.
+Suelo 1
+
+Suelo 2
+
+Suelo 3
+
+Suelo 4
+
+Media ± E.E.
+
+Media ± E.E.
+
+Media ± E.E.
+
+Media ± E.E.
+
+pH
+
+4.26±0.08a*
+
+5.72±0.28d
+
+4.65±0.07b
+
+5.18±0.1c
+
+<0.0001
+
+K
+
+1.57±0.31b
+
+1.48±0.39ab
+
+0.57±0.17a
+
+0.56±0.2a
+
+0.0178
+
+Propiedad
+
+Ca
+
+2.81±0.42a
+
+15.77±4.63c
+
+2.97±0.56a
+
+7.23±0.96b
+
+<0.0001
+
+Mg
+
+0.78±0.17a
+
+1.06±0.44ab
+
+0.52±0.08a
+
+2.27±0.37b
+
+<0.0001
+
+Na
+
+0.24±0.01b
+
+0.14±0.01ab
+
+0.1±0.01a
+
+0.13±0.01a
+
+<0.0001
+
+SB%
+
+68.62±3.74a
+
+98.99±0.59b
+
+71.96±3.32b
+
+94.88±1.02a
+
+<0.0001
+
+Al
+
+2.08±0.24c
+
+0.14±0.06ab
+
+1.49±0.18b
+
+0.48±0.1a
+
+<0.0001
+
+P
+
+21.4±4.05ab
+
+57.87±5.89c
+
+32.27±6.14b
+
+12.55±3.66a
+
+0.0001
+
+Fe
+
+92.12±10.8ab
+
+91.98±22.36c
+
+113.18±15.93b
+
+57.55±9.08a
+
+0.05
+
+Cu
+
+0.98±0.25
+
+2.1±0.5
+
+2.19±0.9
+
+1.1±0.24
+
+0.2855
+
+Mn
+
+27.17±3.5b
+
+13.83±4.62ab
+
+26.3±4.91b
+
+12.98±2.58a
+
+0.0395
+
+Zn
+
+2.69±0.43b
+
+6±1.2c
+
+2.33±0.39ab
+
+1.28±0.25a
+
+0.0001
+
+M.O
+
+3.99±0.24a
+
+3.54±0.2ab
+
+5.13±0.22b
+
+3.88±0.47a
+
+0.0054
+
+N
+
+0.2±0.01a
+
+0.18±0.01ab
+
+0.26±0.01b
+
+0.19±0.02a
+
+0.0051
+
+S
+
+8.6±1.34a
+
+15.75±5.38b
+
+6.07±0.62a
+
+6.84±1.23a
+
+0.0165
+
+B
+
+0.66±0.08
+
+0.57±0.26
+
+0.5±0.1
+
+0.6±0.11
+
+0.7039
+
+* Valores en una misma hilera seguidos de letras diferentes son estadísticamente diferentes según la prueba de Hotelling (P < 0.05).
+
+346
+
+P<
+
+Efecto de las condiciones de cultivo, las características químicas del suelo y el manejo
+de grano en los atributos sensoriales de café (Coffea arabica L.) en taza
+
+positivas entre K (P < 0.0308), Na (P < 0.0461) y
+Al (P < 0.0338) con fragancia/aroma; lo que no
+ocurrió entre Ca y acidez en taza (P < 0.0444).
+Rosas et al. (2008) y Avelino et al. (2002) encontraron relaciones similares a las del presente
+estudio entre el nivel de Ca y fragancia/aroma,
+lo que indica que el bajo contenido de Ca en
+el suelo afecta la calidad del grano de café, no
+obstante, estos autores afirman que el exceso
+de Al afecta negativamente a la calidad del café,
+resultados contrarios a los encontrados en el
+presente estudio.
+El efecto de la altitud sobre la calidad de taza
+es atribuido a los cambios en temperatura y humedad. La altitud y la temperatura presentan
+correlaciones negativas, ya que por cada 100 m
+que se ascienden verticalmente la temperatura
+disminuye entre 0.5 y 0.6 ºC (Wintgens, 2004).
+Buenaventura y Castaño (2002) no encontraron
+relación entre el aumento de la altura y la calidad
+de grano de café. Por otra parte, se conoce que algunos elementos tienen efectos negativos directos
+sobre la calidad de taza de café, específicamente
+nitrógeno, potasio y calcio (Avelino et al., 2002)
+y oligoelementos como boro, cloro, molibdeno,
+hierro, entre otros (Bornemisza, 1988).
+
+Conclusión
+La relación entre los atributos sensoriales en
+calidad de taza de café y las características químicas del suelo fue alta, en este sentido los suelos
+ácidos con alto contenido de Fe y Al generaron
+tazas de calidad intermedia Q2 y alta Q3. La calidad de taza Q1 (baja) estuvo asociada con suelos
+moderadamente ácidos, con altos niveles de Cu,
+Zn, S y con bajos de Ca y Mg.
+Se encontró una relación negativa entre la
+acidez en taza con el contenido de Ca y una correlación positiva entre la fragancia/aroma con
+los contenidos de K, Na y Al en el suelo.
+La variedad de café afectó la calidad de taza
+sumado al efecto en el tiempo de fermentación.
+Las mejores calificaciones en atributos sensoriales en taza de café se obtuvieron en áreas a
+mayor altura sobre el nivel del mar y bajo nivel de
+sombra, lo que plantea la necesidad de manejar
+adecuadamente la cobertura arbórea teniendo en
+cuenta la altitud.
+
+Referencias
+Avelino, J.; Barboza, B.; Araya, J. C.; Fonseca, C.;
+Davrieux, F.; Guyot, B.; y Cilas, C. 2005. Effects of
+slope exposure, altitude and yield on coffee quality
+in two altitude terroirs of Costa Rica, Orosí and
+Santa Maria de Dota. Journal of the Science of Food
+and Agriculture, 85(11):1869-1876.
+
+Avelino, J.; Perriot, J.; Guyot, B.; Pineda, C.; Decazy,
+F.; y Cilas, C. 2002. Identifying terroir coffees in
+Honduras. Research and coffee growing. Montpellier. CIRAD. p. 60.
+Avelino, J.; Bouvret, M.E.; Salazar, L.; y Cilas, C. 2009.
+Relationships between agro-ecological factors and
+population densities of Meloidogyne exigua and
+Pratylenchus coffeae sensu lato in coffee roots, in
+Costa Rica. Appl. Soil Ecol. 43:95 - 105.
+Avelinoa, J.; Zelayab, H.; Merlo, A.; Pineda, A.; Ordoñez, M.; y Savary, S. 2006. The intensity of a
+coffee rust epidemic is dependent on production
+situations. Ecol. Model. 197:431 - 447.
+Balzarini, M.G.; Gonzalez, L.; Tablada, M.; Casanoves,
+F.; Di Rienzo, J.A.; y Robledo C. W. 2008. Manual
+del Usuario de InfoStat. Editorial Brujas, Córdoba,
+Argentina. p. 336.
+Banegas, K. 2009. Identificación de las fuentes de
+variación que tienen efecto sobre la calidad del
+café (Coffea arabica) en los municipios de El Paraiso y Alauca, Honduras. Tesis Mag. M.Sc. Centro
+Agronómico Tropical de Investigación y Enseñanza
+(CATIE), Turrialba - Costa Rica. 58 p.
+Bosselmann, A. S.; Dons, K.; Oberthur, T.; Olsen, C.
+S.; Ræbild, A.; y Usma, H. 2009. The influence of
+shade trees on coffee quality in small holder coffee
+agroforestry systems in Southern Colombia. Agric.
+Ecosyst. Environ. 129(103):253 - 260.
+Buenaventura, S. y Castaño, C. 2002. Influencia de la
+altitud en la calidad de bebida de muestras de café
+procedente del ecotopo 206B en Colombia. Revista
+Cenicafé 53(2):119 - 131.
+Bornemisza, E. 1988. Oligoelementos en la nutrición
+del cafeto. En: Curso Regional sobre Nutrición
+Mineral del Café. IICA-Promecafe. San José, Costa
+Rica. p. 135 - 140.
+Cofenac (Consejo Cafetalero Nacional). 2003. Informe
+sobre el Proyecto Caracterización Física y Organoléptica de Cafés Arábigos en los Principales Agroecosistemas del Ecuador, Consejo Cafetero Nacional,
+Manta, Manabi, Ecuador. 248 p.
+Deheuvels, O.; Avelino, J.; Somarriba, E.; y Malezieuxe,
+E. 2012. Vegetation structure and productivity in
+cocoa-based agroforestry systems in Talamanca,
+Costa Rica. Agric. Ecosyst. Environ. 149:181 – 188.
+Fajardo, P. y Sanz, U. 2003. Evaluación de la calidad
+física del café en los procesos de beneficio húmedo
+tradicional y ecológico (Becolsub). Revista Cenicafé.
+54(4):286 - 296.
+Figueroa, P. 2000. Influencia de la variedad y la altitud
+en las características organolépticas y físicas del
+café. En: XIX Simposio Latinoamericano de Caficultura. San José, C.R. p. 493 – 497.
+Fox, J. 2005. The R Commander: A Basic Statistics
+Graphical User Interface to R. JSS 14(9):1 - 42.
+Griffin, M. 2001. Coffee quality and environmental
+conditions. Coffee Research Newsletter 1(3):4 - 6.
+Husson, F.; Josse, J.; Le, S.; y Mazet, J. 2012. FactoMineR: Multivariate Exploratory Data Analysis and
+Data Mining with R. R package version 1.18. En
+http://CRAN.R-project.org/package=FactoMineR.
+Kumar, A.; Ganesh, S; Basavraj, K.; y Mishra, M. K.
+2013. Morphological basis for identification of cup
+quality characteristics in F1 hybrids derived from
+Coffea arabica L. Crosses. India. 173 p.
+
+347
+
+Acta Agronómica. 64 (4) 2015, p 342 -348
+
+Lara, D. 2005. Efectos de la altitud, sombra, producción y fertilización sobre la calidad del café (Coffea
+arabica L. var. Caturra) producido en sistemas
+agroforestales de la zona cafetalera norcentral de
+Nicaragua, Tesis Mag, M,Sc. Centro Agronómico
+Tropical de Investigación y Enseñanza (CATIE).
+Turrialba - Costa Rica. 106 p.
+Lebart, L.; Morineau, A.; y Warwick, K. M. 1984.
+Multivariate Descriptive Statistical Analysis: Correspondence Analysis and Related Techniques for
+Large Matrices. Nueva York: John Wiley & Sons,
+Inc. 198 p.
+Lingle, T. R. 2001. The coffee cuppers handbook – a
+systematic guide to the sensory evaluation of coffees
+flavor. Specialty Coffee Association of America ASIC,
+3rd edition, Long Beach, California p. 1-71.
+Muschler, R. 2001. Shade improves coffee quality in a
+sub-optimal coffee-zone of Costa Rica. Agroforest.
+Syst. 85:131 - 139.
+R Development Core Team. 2012. R: A language and
+environment for statistical computing. R. Foundation for Statistical Computing, Vienna, Austria.
+Disponible en http://www.R-project.org/.
+Rosas, A. J; Escamilla, E. P; y Ruiz, O. R. 2008. Relación de los nutrientes del suelo con las características físicas y sensoriales del café orgánico. Terra
+Latinoamericana 26(4):375 - 384.
+Sadeghian K. S. y Gonzáles, O. H. 2012. Alternativas
+generales de fertilización para cafetales en la etapa
+
+348
+
+de producción. Chinchiná. Centro Nacional de Investigaciones de Café – Cenicafe. Avances Técnicos
+No 424. 8p.
+Salazar, E.; Muschler, R.; Sánchez, V.; y Jiménez, F.
+2000. Calidad de Coffea arabica bajo sombra de
+Erythrina poepiggiana a diferentes elevaciones en
+Costa Rica. Agroforestería en las Américas 7(26):40
+- 42.
+Vaast, P y Bertrand, B. 2005. Date of harvest and altitude influence bean characteristics and beverage
+quality of Coffea arabica in intensive management
+conditions. Hort Sci. 40(2):295-301.
+Vaast, P.; Kanten, V.; Angrand, J.; Aguilar, A.; y Siles,
+P. 2005a. Biophysical interactions between timber
+trees and Arabica coffee in suboptimal conditions
+of Central America. CIRAD, Montpellier, Francia.
+Vaast, P.; Kanten, V.; Siles, P.; Dzib, B.; Franck, N.;
+y Harmand, J. M. 2005b. Shade: A key factor for
+coffee sustainability and quality. 20th International Conference on coffee science ASIC, Bangalore,
+India. 887 p.
+Vaast, P.; Van Kanten, R.; Siles, P.; Dzib, B.; Franck,
+N.; y Harmand, J.M. 2006. Shade: a key factor for
+coffee sustainability and quality, 887-896. ASIC
+2006, Montpellier, Francia.
+Wintgens, J. 2004. Factors influencing the quality of
+green coffee. En: J, Wintgens (ed.). Coffee: growing,
+processing, sustainable production. Alemania, WileyVCH. 798 - 809 p.
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without
+permission.
+
+

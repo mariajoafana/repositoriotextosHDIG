@@ -1,0 +1,719 @@
+73
+
+RESEARCH ARTICLE
+
+Vol. 8 (2) pp. 73-83, julio-diciembre del 2018
+https://doi.org/10.21789/22561498.1405
+
+Dinámica no lineal del mercado del café en
+Colombia
+Non-linear Dynamics of the Coffee Market in Colombia
+
+Cristian Felipe Jiménez Varón
+
+Ingeniero Químico e Industrial de la Universidad Nacional de Colombia sede Manizales
+Grupo de Investigación en Física y Matemáticas con Énfasis en la Formación de Ingenieros
+Profesor de la Universidad Autónoma de Manizales, Colombia
+https://orcid.org/0000-0001-7471-3845
+cristian.jimenezv@autonoma.edu.co
+
+Reinel Tabares Soto
+
+Ingeniero Electrónico de la Universidad Nacional de Colombia sede Manizales, Ingeniero en Sistemas y Computación de la Universidad de Caldas,
+M.Sc. Ingeniería de la Universidad Nacional de Colombia sede Manizales, Colombia
+Grupo de Investigación Automática
+Profesor de la Universidad Autónoma de Manizales, Colombia
+https://orcid.org/0000-0002-4978-5211
+rtabares@autonoma.edu.co
+Fecha de recepción: 1 de noviembre del 2018
+Fecha de aceptación: 22 de noviembre del 2018
+
+Sugerencia de citation: Jiménez-Varón, C. F., & Tabares-Soto, R. (2018). Dinámica no lineal del mercado del café en Colombia.
+Mutis, 8(2), 73-83. doi: http://dx.doi.org/10.21789/22561498.1405
+
+RESUMEN
+El presente artículo tiene como objetivo modelar las variables de oferta, demanda y stock del mercado del café
+verde colombiano comercializado como commodity. A partir de estas variables se formula un modelo de sistemas
+dinámicos usando ecuaciones diferenciales ordinarias, las cuales permiten observar el comportamiento del mercado de este producto. El análisis realizado tiene en cuenta algunos parámetros, como las tasas de exportación
+e importación, estimados a partir de datos históricos sobre el mercado del café reportados por las entidades oficiales. En el documento se muestra la formulación del modelo, seguido por el cálculo de los puntos de equilibrio
+y su estabilidad. Por último, se presenta la simulación de las variables de estado.
+Palabras clave: sistemas dinámicos, modelo matemático, mercado del café.
+
+ABSTRACT 	
+The objective of this paper is to model the supply, demand and stock variables of the Colombian green coffee
+market commercialized as a commodity. Based on these variables, a model of dynamic systems is formulated
+using ordinary differential equations, which allow observing the behavior of the Colombian coffee market. The
+MUTIS, Journal of the Faculty of Sciences and Engineering, Jorge Tadeo Lozano University, is licensed under the Creative Commons 4.0: Attribution - Noncommercial No Derivative Works
+
+74
+
+Dinámica no lineal del mercado del café en Colombia
+
+analysis takes into account some parameters, such as export and import rates, estimated from historical data
+on the coffee market reported by official entities. The document shows the formulation of the model, followed
+by the calculation of the equilibrium points and their stability. Finally, simulation of state variables is presented.
+Keywords: Dynamical systems, mathematical model, coffee market.
+
+INTRODUCCIÓN
+En la actualidad, el mercado del café presenta un
+comportamiento volátil en el tiempo debido a las variables que definen su economía. A causa de esto, en
+las últimas décadas, entidades estatales y privadas
+han desarrollado diferentes investigaciones enfocadas al análisis económico del mercado del café. Estas,
+en su mayoría, han sido investigaciones sociales, económicas y de mercadeo. Sin embargo, desde el campo
+de los sistemas dinámicos no se encuentran suficientes reportes sobre el tema.
+El presente artículo plantea un modelo del mercado
+del café colombiano construido a partir del análisis
+de su panorama nacional e internacional. Este trabajo
+lleva a cabo un estudio de tipo cualitativo con ecuaciones diferenciales, con el objetivo de generar información que pueda ser de utilidad para los agentes
+que toman decisiones en dicho mercado.
+Las variables involucradas en el modelado son: la demanda nacional (caracterizada por el consumo tradicional del café a nivel doméstico), la demanda internacional (proveniente en su mayoría de países norteamericanos y algunos europeos, como Alemania), la
+oferta nacional, las importaciones de café para abastecer parte de la demanda local y el stock de café (bodegas y almacenamiento debido a periodos de cosecha y de recepción de cultivos previo a su exportación
+o comercialización en el mercado nacional) (Lis-Gutiérrez et-al. 2012).
+Después del presente apartado introductorio, el documento se organiza de la siguiente manera: la segunda
+sección explica la construcción del modelo propuesto;
+el tercer apartado presenta el cálculo de puntos de
+equilibrio y el análisis de estabilidad; la cuarta sección
+muestra las simulaciones del modelo; y la quinta sección expone las conclusiones generadas a partir de los
+hallazgos de esta investigación.
+
+CONSTRUCCIÓN DE UN MODELO DEL
+MERCADO ECONÓMICO DEL CAFÉ: INVERSIÓN CONSTANTE EN LA OFERTA
+En esta sección se expondrán los elementos necesarios para comprender las características más relevantes sobre el mercado económico del café arábigo colombiano. Además, se formulará un modelo matemático que desde los sistemas dinámicos permita abstraer características de la realidad del mercado económico del café en Colombia. El modelo estará formado
+por tres ecuaciones diferenciales correspondientes a
+las variables de oferta, demanda y stock. Posteriormente, se considerará una ecuación para la variable
+ventas, la cual se encuentra implícita en la ecuación
+de stock. Una vez formulado el modelo, se realizarán
+los cálculos correspondientes a los puntos de equilibrio y el análisis de su estabilidad. Finalmente, se estudiarán los retratos de fase del sistema.
+Teniendo en cuenta que Osorio, Aramburo y Morales
+(2011) sostienen que es relevante considerar que la
+construcción del modelo y su interpretación se encuentran influenciados por la relación de las variables
+del mismo, el sistema construido para esta investigación se basa en experiencias anteriores para modelar diferentes mercados económicos. Adicionalmente,
+como base del modelo presentado, se considerará el
+modelo propuesto por (Valencia Calvo, et-al, 2016), el
+cual fue aplicado al sector eléctrico colombiano.
+
+Consideraciones generales sobre el modelo
+Las variables consideradas en este trabajo corresponden a políticas actuales del mercado económico del
+café colombiano comercializado como commodity. A
+continuación, se mencionan algunas consideraciones
+para el modelamiento propuesto:
+•	 El modelo considera tres variables de estado: la
+oferta, la demanda y el stock.
+
+• Revista electrónica editada por la Facultad de Ciencias Naturales e Ingeniería de la UJTL
+
+Jiménez-Varón, C., y Tabares-Soto, R. (2018), doi: https://doi.org/10.21789/22561498.1405
+
+75
+
+•	 El modelo considera únicamente el café verde colombiano comercializado como commodity.
+
+res (conocidas simplemente como existencias o stock)
+(ico, 2011).
+
+•	 Como hipótesis de formulación del modelo, se
+consideró la variación del precio como constante,
+es decir, no se considerará el precio como variable
+de estado del modelo aquí descrito.
+•	 La estimación de los parámetros necesarios para
+el modelo (tasas de exportación, importación y
+ventas) son tomados de datos históricos reportados por entidades oficiales de información del
+café tales como la Federación Nacional de Cafeteros (fnc) y la Organización Internacional del Café
+(oic).
+
+Según (Lis-Gutiérrez et al. 2012), con base en reportes
+de la oic, las existencias totales a escala global pasaron de representar 31,58 % en 2005/06 a 17,03 % en
+2009/10, cuya mayor parte correspondió a las existencias de arábica con respecto a la producción de
+esta misma variedad (37,62 % y 21 %, en 2005/06 y
+2009/10, respectivamente). Además, estos autores
+indican que la tendencia decreciente de las existencias puede ser resultado del incremento en el precio
+internacional antes de 2012; hecho que incentivó las
+exportaciones, al igual que el consumo interno de los
+países productores, el cual incrementó 3,6 %.
+
+Caracterización de las variables del modelo
+
+Modelo matemático: ecuaciones del modelo
+
+La oferta de café de Colombia
+
+Ecuación de la oferta
+
+En el mercado económico del café de Colombia, la
+oferta es definida como el total de la producción de
+un año cafetero específico (ico, 2011). Por su parte,
+la oferta exportable corresponde a la oferta total descontando el consumo nacional y las existencias, las
+cuales son necesarias para mantener el flujo de exportaciones, considerando que 80 % del café producido en Colombia tiene como destino los mercados de
+exportación. Adicionalmente, con el fin de abastecer
+la demanda interna, es importante señalar que dentro del inventario se tienen en cuenta las existencias
+de años anteriores (o cosechas no vendidas) y las importaciones (Domínguez, 2013).
+
+Según la (fnc, 2014), el parque cafetero llegó en 2015
+a 941.000 hectáreas conformadas por 4.835 millones de árboles plantados, alcanzando una densidad
+de siembra de 5.484 árboles por hectárea y una edad
+promedio de 7,1 años. Actualmente, el 97 % de las
+plantaciones son tecnificadas, el 83 % están en etapa
+joven y 85 % se encuentra en edad productiva (más de
+2 años). Además, 71 % se encuentran sembradas con
+variedades resistentes a la roya.
+
+Demanda del mercado del café
+En Colombia, la demanda del mercado del café se ve
+influenciada por dos grandes factores: el mercado internacional, y la demanda interna para su consumo
+doméstico. Dicha demanda incluye la compra de café
+verde a otros países productores para abastecer el
+consumo interno, el cual ha mantenido una tendencia
+creciente en los últimos años (Uu & Nam, 2017).
+El stock de café
+En cuanto a las existencias de café, la oic hace una
+diferencia entre existencias retenidas en países importadores (comúnmente denominandas inventarios) y las existencias retenidas en países productoVol. 8 (2) pp. 73-83, Julio-diciembre del 2018
+
+A continuación, se expone la ecuación para la oferta del café arábigo colombiano comercializado como
+commodity. Este análisis se lleva a cabo desde dos
+perspectivas: la producción generada por la capacidad e infraestructura interna y las importaciones de
+café crudo para comercialización interna. La ecuación
+de oferta se muestra a continuación:
+(Ec. 1)
+donde,
+corresponde a la tasa de descenso de la producción,
+representa la oferta
+y
+la tasa de café importado. En esta ecuación la tendencia se considera en descenso a una tasa
+constante, denominada r, pues ante una afectación
+fuerte por alguna enfermedad sobre los cultivos estos tenderían a desaparecer
+La ecuación de la oferta tiene en cuenta dos componentes. El primero está relacionado con la producción
+
+76
+
+Dinámica no lineal del mercado del café en Colombia
+
+generada con la capacidad instalada interna. Este factor es atribuido a las zonas de cultivo de café arábigo
+dentro del terreno colombiano y es influenciado en el
+tiempo por diferentes factores, tales como la broca, la
+roya y la edad de las siembras, variables que afectan
+los cultivos y, por ende, la capacidad de producción
+que finalmente conforma la oferta de café colombiano. Por otra parte, el segundo componente que define la oferta es la tasa de importaciones de café verde
+comprado a otros países productores para satisfacer
+la demanda interna, lo cual resulta de gran relevancia, considerando que, aunque Colombia es un país
+productor, durante la última década las tasas de importación de este producto se han ubicado por encima del 80 % del café consumido a nivel nacional, de
+acuerdo con informes de medios nacionales (Domínguez, 2013).
+Inversión en la oferta
+Por su parte, la oferta es analizada desde dos componentes: la capacidad instalada interna de producción y el café importado para consumo interno. Como
+tercer elemento, se incorpora a la ecuación de oferta
+un término lineal correspondiente a la inversión, ya
+sea realizada por entes gubernamentales o no, lo cual
+permite mejorar la capacidad de producción.
+La ecuación para la inversión de la oferta se muestra
+a continuación:
+(Ec. 2)
+donde,
+corresponde al factor de conversión para la inversión en la oferta y a la inversión en
+infraestructura interna para la producción de café.
+Ecuación de la demanda
+La ecuación de la demanda se construye a partir de
+dos panoramas: el nacional, constituido por políticas
+de consumo local, y el internacional, caracterizado
+por las políticas de exportación del café arábigo colombiano a diferentes clientes. La ecuación de demanda se muestra a continuación:
+
+(Ec. 3)
+
+donde, x_2∈R^+corresponde a la demanda, a∈R+
+es la tasa de consumo interno, b∈R + es la tasa de
+producción de café para exportación, w_1∈R+ es la
+capacidad máxima de demanda nacional (demanda
+interna) y w_2∈R^+ la capacidad máxima de demanda internacional (demanda externa).
+El primer término del miembro derecho corresponde a la demanda nacional de café verde que se comercializará para el consumo doméstico de Colombia, el cual llegó a 1,7 millones de sacos en 2015,
+con un incremento cercano a 4 % frente a 2014
+(fnc, 2014). Este incremento se explica por un aumento en el segmento de los consumidores jóvenes y una mayor frecuencia de consumo diario tanto dentro como fuera del hogar. El segundo término corresponde a la demanda internacional, cuyos
+principales destinos son Estados Unidos (41,7 %),
+seguido de Europa (32,4 %) y Japón (10,5 %); este
+último es considerado el principal cliente para los
+cafés especiales (fnc, 2014). Adicionalmente, resulta pertinente mencionar que la demanda internacional de café representa más del 80 % de la producción nacional y que esta mantiene una baja tasa
+de cambio (parámetro b), pues generalmente la demanda variable está concentrada en el mercado local y la tasa de cambio de la demanda para consumo interno es mayor con respecto a la producción
+(parámetro a).
+Con el fin de simplificar la ecuación para la demanda,
+se tiene que la capacidad de demanda máxima w es
+en total la demanda interna y la externa. Sin embargo,
+esta última es prácticamente su totalidad, por lo cual
+la demanda máxima del modelo se puede aproximar
+a la demanda externa. Así, la ecuación simplificada de
+la demanda obtenida es:
+
+(Ec. 4)
+
+donde x_2R^+ representa la demanda, aR^+ la la tasa
+de consumo interno, bR^+ lala tasa de producción de
+café para exportación y wR^+ la capacidad máxima
+de la demanda.
+	
+
+• Revista electrónica editada por la Facultad de Ciencias Naturales e Ingeniería de la UJTL
+
+Jiménez-Varón, C., y Tabares-Soto, R. (2018), doi: https://doi.org/10.21789/22561498.1405
+
+Ecuación del stock
+Es importante resaltar que la variación de la producción total se ve afectada por las ventas como puede
+evidenciarse en la siguiente fórmula:
+
+De esta manera, es posible generar la siguiente ecuación:
+(Ec. 5)
+donde, x_3∈R corresponde a la variable stock,
+x_1∈R^+ a la oferta, L∈R^+ a la tasa de ventas y x_4∈R
+a las ventas.
+La comercialización del café verde: las ventas
+En el proceso de comercialización del café intervienen
+diferentes agentes del mercado, quienes ocupan un
+papel importante dentro de la cadena de valor de este
+producto. La fnc y el estudio de (Lis-Gutiérrez et al.
+2012), particularmente, mencionan que los principales agentes del mercado son:
+•	 Caficultores. La fnc considera a un caficultor como
+el propietario o poseedor de un predio que cumpla
+con las siguientes condiciones: i) poseer un área
+sembrada igual o superior a media hectárea; y que
+el área señalada cuente con al menos 1.500 árboles plantados (Lis-Gutiérrez et-al., 2012).
+•	 Exportadores. Dentro del mercado del café colombiano, se consideran exportadores a todas aquellas
+firmas que se encargan de la actividad de comercialización extranjera del café verde, el café procesado o cafés especiales producidos en Colombia.
+•	 Empresas torrefactoras. En el mercado del café colombiano, las empresas torrefactoras son aquellas
+encargadas de los procesos de adecuación de los
+granos, descascarillado, tostión y molido del café.
+(Lis-Gutiérrez et-al., 2012), con base en cifras de la oic
+(2011) y la fnc (2011), mencionan que en 2012 existía
+un total de 96 firmas exportadoras, las cuales se localizaban en el 42,4 % de los departamentos (14 de los
+33), con un mayor presencia en la ciudad de Bogotá y
+el departamento de Caldas. La mayoría de dichas fir-
+
+Vol. 8 (2) pp. 73-83, Julio-diciembre del 2018
+
+77
+
+mas exportan café verde (84 de las 96), 50 exportan
+café tostado y 13 café soluble.
+En el año cafetero 2016-17 la producción cafetera colombiana permaneció constante en 14,2 millones de
+sacos anuales. Este comportamiento también lo mantuvo el nivel de consumo interno, el cual estuvo en
+un valor de 1,7 millones de sacos. Finalmente, se observó un leve aumento en el nivel de importaciones
+para consumo interno, el cual pasó de 0,3 millones de
+sacos en 2016 a 0,4 millones en 2017, cifra que no se
+daba desde el 2014, lo cual evidenció un aumento en
+el nivel de exportaciones para el 2017 hacia los 13 millones de sacos anuales fnc (2017).
+La ecuación de ventas
+La ecuación que modela el comportamiento de las
+ventas de café se construye a partir del análisis de dos
+escenarios.
+En el primero, el mercado del café tiene una baja demanda (variable x2) y tanto la oferta (variable x1) como
+el stock (variable x3) superan con exceso la demanda
+del momento. Esta situación (x2 < x1+ x3) se caracteriza
+por una disponibilidad de existencias para ser agotadas y una alta producción con respecto a la demanda, la cual controla las ventas. Además, se señala que
+el precio de venta es denominado normal (parámetro
+Pn), pues deben bajar los precios de venta para que se
+dé la comercialización para así agotar las existencias
+de inventario y posteriormente la producción.
+En el segundo, la demanda es alta y la oferta y el stock
+no alcanzan a satisfacer la demanda de café del momento. Esta situación (x2 > x1+ x3) se caracteriza por
+una demanda alta, por lo tanto, el stock y la oferta no
+alcanzan a satisfacerla, ya que éstas últimas definen
+el proceso de ventas que corresponden a la capacidad de responder la demanda. Así mismo, el precio
+de venta es denominado alto (parámetro Pn), pues el
+proceso de venta se realiza con el mejor postor, aprovechando la situación de escasez del producto.
+Con base a los escenarios mostrados, se obtiene la siguiente ecuación:
+
+(Ec. 6)
+
+78
+
+Dinámica no lineal del mercado del café en Colombia
+
+donde p_nR^+ es el precio normal de venta, p_nR^+
+el precio alto de venta, p_nR^+ la oferta, p_nR^+ representa la demanda, p_nR^+ el stock y p_nR^+ las
+ventas.
+
+Modelo matemático condensado
+La tabla 1 presenta el modelo matemático condensado del mercado del café de Colombia para las variables de estado: oferta, demanda y stock.
+
+Ecuación de oferta
+
+Ecuación de demanda
+
+Ecuación simplificada de la demanda
+
+Ecuación del stock
+
+Ecuación de ventas
+
+Fuente: elaboración propia.
+
+Parámetros utilizados en el modelo
+
+CÁLCULO DE PUNTOS DE EQUILIBRIO
+
+En la tabla 2 se presenta el listado de parámetros utilizados en la formulación del modelo, las descripciones, valor y unidad de cada uno, los cuales son punto
+de referencia para todos los análisis realizados en las
+secciones posteriores.
+
+En esta sección se muestran los cálculos de puntos de
+equilibrio del modelo propuesto en este artículo únicamente para la región
+
+Es necesario tener presente que los parámetros son
+determinados a partir de datos históricos reportados por organismos oficiales del sector cafetero, tales
+como la Federación Nacional de Cafeteros (fnc) y la
+Organización Internacional del Café (oic). En la tabla 2
+vemos una explicación más detallada sobre la obtención de estos parámetros.
+
+Tomando en cuenta el modelo,
+
+(Ec. 7)
+junto con
+
+(Ec. 8)
+• Revista electrónica editada por la Facultad de Ciencias Naturales e Ingeniería de la UJTL
+
+Jiménez-Varón, C., y Tabares-Soto, R. (2018), doi: https://doi.org/10.21789/22561498.1405
+
+79
+
+Tabla 2. Parámetros del modelo del mercado del café de Colombia para las variables de estado: oferta, demanda y stock
+Parámetro
+
+Definición
+
+Símbolo
+
+Valor
+estimado
+
+Unidad
+
+Tasa de descenso de la producción
+
+Caída de la producción debido a factores ajenos a
+la capacidad instalada.
+
+r
+
+0,2962
+
+Millones de sacos de 60 kg/millones de sacos de
+60 kg (adimensional)
+
+Tasa de consumo interno
+
+Expresa la cantidad de la demanda de café que se
+vende en el interior del país.
+
+a
+
+2,2559
+
+Millones de sacos de 60 kg/millones de sacos de
+60 kg (adimensional)
+
+Tasa de producción de café para
+exportación
+
+Expresa la cantidad de café demandada a nivel
+internacional.
+
+b
+
+0,0304
+
+Millones de sacos de 60 kg/millones de sacos de
+60 kg (adimensional)
+
+Tasa de café importado
+
+Expresa la cantidad de café que llega al país para
+consumo interno (importación).
+
+c
+
+0,116
+
+Millones de sacos de 60 kg/millones de sacos de
+60 kg (adimensional)
+
+Tasa de ventas
+
+Crecimiento o decrecimiento de las ventas de
+café por cualquier fuente (mercado externo o
+interno).
+
+L
+
+0,002546
+
+Millones de sacos de 60 kg/millones de sacos de
+60 kg (adimensional)
+
+Factor de conversión para inversión
+en la oferta
+
+Conversión para la inversión en la oferta
+
+λ
+
+0,00252
+
+Millones de sacos de 60 kg/millones de dólares
+
+Inversión en infraestructura interna
+para la producción de café
+
+Inversión en capacidad instalada interna de
+producción.
+
+Y
+
+2.000
+
+Millones de dólares
+
+Precio normal
+
+Precio normal para la función de ventas.
+
+pn
+
+108.68
+
+usd cent/lb
+
+Precio alto
+
+Precio alto para la función de ventas.
+
+ph
+
+169.79
+
+usd cent/lb
+
+Capacidad máxima de demanda
+
+Capacidad máxima de demanda para Colombia.
+
+w
+
+20
+
+Millones de sacos de 60 kg
+
+Fuente: elaboración propia
+
+Para calcular los puntos de equilibrio se procede a resolver el siguiente sistema de ecuaciones diferenciales:
+
+(Ec. 9)
+
+Se debe observar que al estar representada la variable (ventas) como una función definida a tramos, los
+puntos de equilibrio a obtener estarían en dos regiones. En esta sección, solo se considerarán los puntos
+de equilibrio encontrados en la región, obteniendo así
+los siguientes puntos de equilibrio:
+
+Vol. 8 (2) pp. 73-83, Julio-diciembre del 2018
+
+donde,
+
+y
+
+Además, al evaluar el valor de los parámetros se tiene:
+
+80
+
+Dinámica no lineal del mercado del café en Colombia
+
+Al respecto, se debe tener en cuenta que, al estar
+los puntos de equilibrio en la región (x2 > x1+ x3) y al
+considerar que en el equilibrio x1 = x3, los puntos de
+equilibrio P1 y P2 son virtuales, puesto que se encuentran en la superficie de conmutación (Colombo et al.,
+2012; Escobar, 2013).
+Los puntos de equilibrio P1 y P3 no pueden ser aplicados a la realidad de este mercado, pues la oferta no
+puede adquirir valores negativos; es decir, estos puntos de equilibrio son no admisibles (Bernardo et al.,
+2007, 2008; Redondo-Ortegón, 2012).
+
+Determinación de la estabilidad de los puntos
+de equilibrio calculados
+Considerando los puntos de equilibrio determinados
+en la sección anterior, se procede a determinar la estabilidad de los mismos, haciendo uso de la matriz jacobiana y de los teoremas de estabilidad expuestos en
+Bernardo et al. (2008) y Leine y Van-Campen (2006).
+La matriz jacobiana del modelo expuesto en este
+artículo se representa como:
+
+(Ec. 10)
+obteniendo los siguientes valores propios:
+
+Al evaluar los valores de los parámetros y determinar
+el signo de los valores propios se obtiene que λ1 y λ2
+son siempre negativos y que la estabilidad va a depender de λ3:
+•	 Para el punto de equilibrio se tiene: correspondiente a un punto de silla.
+•	 Para el punto de equilibrio se tiene: correspondiente a un punto de equilibrio estable.
+Al ser no admisibles, los puntos de equilibrio no son
+incluidos en el análisis de estabilidad.
+
+SIMULACIONES Y ANÁLISIS DEL MODELO
+OBTENIDO
+A continuación, se muestran algunas simulaciones y
+análisis para el modelo obtenido. Las simulaciones
+fueron realizan para el sistema de ecuaciones diferenciales expuesto en la tabla 1, mediante el programa
+MATLAB®. Para la solución de las ecuaciones diferenciales se utiliza la función ODE45 que ya está implementada en dicha herramienta (Tabares-Soto, 2016).
+A partir de una condición inicial se grafica el comportamiento que presenta las diferentes variables de estado
+del problema. Para la variable oferta se generó la simulación sin tener en cuenta la inversión, incorporando
+posteriormente este parámetro en el modelo (figura 1).
+Considerando el desgaste de la oferta debido a factores como enfermedades de los cultivos y mantenimientos en la industria, entre otros, tanto el gremio
+cafetero como el Gobierno Nacional se ven en la necesidad de invertir para asegurar que la producción
+en este sector alcance los niveles esperados y así evitar que su comportamiento en el tiempo sea decreciente y presente tendencias a la desaparición.
+Teniendo en cuenta que el mercado del café se caracteriza por su rápido dinamismo, las tasas de inversión
+en este sector se hacen cada vez más elevadas en la
+medida que la dinámica de comercialización se agiliza
+como resultado del desgaste de los cultivos, los equipos y la maquinaria. En general, la industria cafetera
+es cada vez mayor, por lo que las iniciativas de inversión que pretenden mejorar la oferta son un factor relevante para este sector.
+En cuanto a la demanda, se puede observar un comportamiento creciente de tipo logístico. En la figura 1 se observa que la variable crece hasta su valor máximo, determinado por el parámetro w, el cual está constituido
+por la demanda nacional más la internacional, siendo
+esta última superior al 80 % del total (Uu & Nam, 2017).
+Finalmente, la variable stock evidencia la disminución de los inventarios disponibles hasta ser agotados. Prontamente, se da la aparición de inventarios
+negativos, lo cual es ocasionado por el aumento de la
+demanda y las ventas efectivas. El inventario negativo
+representa las ventas que se darán debido a las mejoras en la capacidad instalada, lo que compromete
+ventas a futuro.
+
+• Revista electrónica editada por la Facultad de Ciencias Naturales e Ingeniería de la UJTL
+
+Jiménez-Varón, C., y Tabares-Soto, R. (2018), doi: https://doi.org/10.21789/22561498.1405
+
+Figura 1: Simulaciones numéricas respecto del tiempo de las variables oferta sin inversión (superior izquierda), oferta con inversión
+(superior derecha), demanda (inferior izquierda) y stock (inferior derecha)
+
+Fuente: elaboración propia.
+
+Retrato de fase para las variables oferta y demanda
+Se muestra el retrato de fase para el modelo en cuanto
+a las variables de estado oferta y demanda, con el objetivo de interpretar el flujo que adoptan las diferentes trayectorias del sistema al partir de un conjunto ar-
+
+bitrario de condiciones iniciales. En la figura 2 se presenta el retrato de fase para las variables oferta y demanda, en el cual se puede observar cómo, a partir de
+distintas condiciones iniciales, el flujo lleva al sistema a
+conseguir un punto de equilibrio de tipo estable aproximadamente en la coordenada (17, 20) correspondiente al punto de equilibrio obtenido para el modelo.
+
+Figura 2. Retrato de fase de las variables oferta y demanda
+
+Fuente: elaboración propia.
+
+Vol. 8 (2) pp. 73-83, Julio-diciembre del 2018
+
+81
+
+82
+
+Dinámica no lineal del mercado del café en Colombia
+
+CONCLUSIONES
+Este trabajo presentó una revisión detallada de las
+principales variables que afectan el mercado económico del café colombiano, con el propósito de identificar las características más relevantes del mercado
+presentadas en el modelo tridimensional planteado
+para las variables oferta, demanda y stock.
+Por medio de la solución del modelo, se mostraron diferentes análisis para cada una de las variables. Para la
+oferta (x1), se observó que la producción representa un
+componente con gran influencia sobre el mercado, ya
+que la capacidad instalada interna adquiere un comportamiento decreciente en el tiempo, lo que indica
+que en un tiempo finito la oferta tiende a desaparecer debido a cuestiones de mantenimiento y falta de
+inversión.
+Posteriormente, se incorporó un término lineal correspondiente a una inversión constante con el objetivo de modificar el comportamiento de la oferta.
+Luego, se encontró que la demanda para el sector cafetero colombiano es gobernada por la demanda de
+carácter internacional y que permanece en aumento
+hasta su capacidad máxima, dada por el parámetro
+w, permitiendo proponer una ecuación diferencial de
+tipo logístico.
+En este modelo se encuentra que para la región donde
+x2 > x1+ x3 el sistema presenta cuatro puntos de equilibrio, de los cuales dos (P2 y P4) son los únicos admisibles para el modelo, pues los puntos P1 y P3 se obtienen para una oferta con valor negativo, como se mencionó anteriormente.
+En los puntos de equilibrio se obtiene uno de tipo silla
+cuando la demanda es 0, lo que explica que las trayectorias del sistema son salientes en dicho punto. Por
+otro lado, cuando la demanda toma el valor de la capacidad máxima de la misma, correspondiente a 20
+millones de sacos de 60 kg, se obtiene un punto de
+equilibrio de tipo estable, comportamiento señalado
+en el retrato de fase (Guardia et-al., 2011).
+
+REFERENCIAS
+Arias, F. (29 de marzo de 2016). Venta de café
+mueve $3,5 billones en Colombia. El Colombiano.
+Recuperado de http://www.elcolombiano.com/
+negocios/cafe-consumo-sigue-en-aumento-encolombia-XM3824624
+
+Bernardo, M., Budd, C., Champneys, A. R., & Kowalczyk,
+P. (2008). Piecewise-smooth Dynamical systems.
+Theory and Applications. London: Springer-Verlag.
+Bernardo, M., Nordmark, A., Olivar, G., Kuznetsov, Y.
+A., Rinaldi, S., & Gragnani, A. (2007). Discontinuityinduced bifurcations of equilibria in piecewisesmooth and impacting dynamical systems. Physica
+D: Nonlinear Phenomena, 8, 18. doi: 10.1142/
+S0218127403007874
+Colombo, A., Bernardo, M., Hogan, S. J., & Jeffrey, M.
+R. (2012). Bifurcations of piecewise smooth flows:
+Perspectives, methodologies and open problems.
+Physica D: Nonlinear Phenomena, 241(22), 18451860. doi: 10.1016/j.physd.2011.09.017
+Domínguez, J. C. (16 de abril de 2012). Reportan
+aumento de importaciones de café al país. El
+Tiempo. Recuperado de https://www.eltiempo.
+com/archivo/documento/DR-43675.
+Domínguez, J. C. (18 de marzo de 2013). El 80% del
+cafe que bebemos es importado. Portafolio.
+Recuperado
+de
+https://www.portafolio.
+co/negocios/empresas/80-cafe-bebemosimportado-73622.
+Escobar, C. M. (2013). Contribución al estudio de
+los sistemas no suaves (tesis de doctorado).
+Universidad Nacional de Colombia, Manizales.
+Federación Nacional de Cafeteros [fnc] (2004).
+Comportamiento de la Industria Cafetera
+Colombiana 2004. Bogotá: fnc.
+Federación Nacional de Cafeteros [fnc] (2011).
+Comportamiento de la Industria Cafetera
+Colombiana 2011. Bogotá: fnc.
+Guardia, M., Seara, T. M., & Teixeira, M. A. (2011).
+Generic bifurcations of low codimension of planar
+Filippov Systems. Journal of Differential Equations,
+250(4), 1967-2023. doi: 10.1016/j.jde.2010.11.016
+International Coffe Organization [ico]. (2011).
+Informe sobre el mercado de café 2011. London:
+International Cofffee Organization.
+Jiménez-Varón, C. F. (2018). Dinámica no suave en un
+modelo de mercado del café de Colombia (tesis
+
+• Revista electrónica editada por la Facultad de Ciencias Naturales e Ingeniería de la UJTL
+
+Jiménez-Varón, C., y Tabares-Soto, R. (2018), doi: https://doi.org/10.21789/22561498.1405
+
+de maestría). Universidad Nacional de Colombia,
+Manizales.
+Leine, R. I., & van-Campen, D. H. (2006). Bifurcation
+phenomena in non-smooth dynamical systems.
+European Journal of Mechanics, A/Solids, 25(4),
+595-616. doi: 10.1016/j.euromechsol.2006.04.004
+Lis-Gutiérrez, J. P., Campo-Robledo, J. A., & HerreraSaavedra, J. P. (2012). Estudio sobre el sector
+del Café en Colombia (número 5, diciembre).
+Superintendencia de Industria y Comercio.
+Piedrahita-Arcila, I. (2011). Relaciones entre lo local
+y lo global en un contexto rural colombiano: el
+caso de Asprocafé Ingrumá. Diálogos de derecho y
+política, 2(7), 1-20.
+Redondo-Ortegón, J. M. (2012). Modelado de
+mercados de electricidad (tesis de doctorado).
+Universidad Nacional de Colombia, Manizales.
+Tabares-Soto, R. (2016). Programación paralela sobre
+arquitecturas heterogéneas (tesis de maestría).
+Universidad Nacional de Colombia, Manizales.
+Uu, E. E., & Nam, V. (2017). Los precios del café
+llegan a la cifra más alta en cuatro meses , pero
+después bajan debido a que el mercado está bien
+abastecido (agosto 2017). Londres: oic.
+Valencia-Calvo, J., Franco-Cardona, C. J., OlivarTost, G., & Dyner-Rezonzew, I. (2016). Enfoque
+metodológico para el estudio y representación
+de comportamientos complejos en mercados de
+electricidad. Ingeniería y Ciencia, 12(24), 195-220.
+doi: 10.17230/ingciencia.12.24.9
+
+Vol. 8 (2) pp. 73-83, Julio-diciembre del 2018
+
+83
+
+Copyright of Revista Mutis is the property of Revista Mutis and its content may not be copied
+or emailed to multiple sites or posted to a listserv without the copyright holder's express
+written permission. However, users may print, download, or email articles for individual use.
+
+
