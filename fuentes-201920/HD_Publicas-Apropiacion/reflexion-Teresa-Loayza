@@ -1,24 +1,24 @@
 ---
-titulo: Narrativas para la apropiación en las Hunanidades Digitales Públicas
+título: Narrativas para la apropiación en las Hunanidades Digitales Públicas
 fecha: 2019-03-09
 autor:
 - Teresa Loayza Sánchez
 etiquetas: Participación, storytelling, apropiación, narrativas
 ---
 
-Ejercicio de lectura distante a través de Voyant Tools
+**Ejercicio de lectura distante a través de Voyant Tools**
 
 La composición del corpus la hice a partir de tres grupos de fuentes secundarias: los capítulos en dos libros en los que se relaciona el tema de las HD con las humanidades públicas; el segundo con un artículo sobre DH y medios digitales en red, y el tercero a partir de la búsqueda de los términos “public”, “participation”, “appropriation”, “borrowing”, “public history”, “storytelling” y “lab” en Digital Humanities Quarterly. Al hacer el filtro de palabras consideré pertinente retirar “digital” y “humanities”, por ser las más recurrentes, y poder observar otros términos y conceptos. 
 
 En el ejercicio pude observar que, aunque la búsqueda original del corpus estaba más orientada al tema de las humanidades públicas y la participación, el tema se relaciona de manera directa con los medios (media), lo que reafirma la hipótesis de que el tema tiene una relación con las narrativas digitales (y otras). Las diferentes vistas (nubes y termsberries) en diferentes niveles de detalle, permiten evidenciar una relación con diversos ámbitos: 1. Educación (students, university, pedagogy, scholars); 2. metodologías (features, collaborative, research, process, models, practice, analysis, tools); 3. medios y narrativas (media, content, experience, interface, press); 4. humanidades públicas (public, social, culture, space, history, access, people, identity), y un quinto grupo de conceptos que son algunos transversales y otros convergentes que ayudan a pensar en vínculos entre los ámbitos identificados (participation, art, community, use, users, crítical, ways, information, resourses, perspective, different, communication, technology, data, need). 
 
 
-Enlace a Voyant Tools:
+**Enlace a Voyant Tools:**
 
 https://voyant-tools.org/?corpus=5476882286a551d56845b9ee0d007573&stopList=keywords-7774cd3395e67a3ec4383a68f177832f&panels=cirrus,termsberry,trends,summary,bubblelines
 
 
-Bibliografía:
+**Bibliografía:**
 
 
 001.	Warwick, Claire, et al. Digital Humanities in Practice. Facet Publishing, 2012. nlebk, EBSCOhost, pp. 22 – 45. http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=558471&lang=es&site=ehost-live.
