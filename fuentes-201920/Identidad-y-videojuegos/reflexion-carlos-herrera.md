@@ -25,8 +25,8 @@ También puedo concluir que hasta el momento las búsquedas quehe planteado,  es
 
 Es interesante el ejercicio y la herramienta, ya que ayuda a entender ciertas relaciones que pueden pasar desapercibidas al momento de hacer el análisis de los textos.
 
-## Enlace Voyant Tools
-https://voyant-tools.org/?corpus=0511c4b487bf8eaf32b6f54a2eb29b9e&view=corpusset
+## Listado de palabras excluidas
+https://github.com/mariajoafana/repositoriotextosHDIG/blob/master/fuentes-201920/Identidad-y-videojuegos/lista_palabras.txt
 
 ## Enlace Voyant Tools
 https://voyant-tools.org/?corpus=0511c4b487bf8eaf32b6f54a2eb29b9e&view=corpusset
