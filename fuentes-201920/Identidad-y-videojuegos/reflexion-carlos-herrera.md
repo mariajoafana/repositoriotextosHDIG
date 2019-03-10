@@ -21,7 +21,7 @@ Folclor
 
 Y también veo que algunas de mis sospechas son ciertas, ya que algunas de los temas relacionados tienen que ver con la comunicación, la memoria y la sociedad.
 
-También puedo concluir que hasta el momento las búsquedas que he planteado,  están alineadas con mi tema de investigación.
+Finalmente puedo concluir que hasta el momento las búsquedas que he planteado,  están alineadas con mi tema de investigación.
 
 Es interesante el ejercicio y la herramienta, ya que ayuda a entender ciertas relaciones que pueden pasar desapercibidas al momento de hacer el análisis de los textos.
 
