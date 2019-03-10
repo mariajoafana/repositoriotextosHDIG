@@ -11,7 +11,7 @@ En resumen, fueron 11 documentos con un total de 23,235 palabras y 5,393 palabra
 
 Algunas de  palabras más comunes de mi corpus son: videojuego,  cultura, jugador, medio, historia, Lipovetsky, entre otros.
 
-No estoy seguro de si, por la manera en la que hice el ejercicio se podría inferir que palabras excluir en futuras consultas. 
+No estoy seguro si por la manera en la que hice el ejercicio, se podría inferir que palabras excluir en futuras consultas. 
 
 Revisando la lista de *"distinctive words"* y haciendo uso de la herramienta TermsBerry , también de voyant-tools, creo que se pueden identificar los siguientes campo de investigación que están en relación con mi proyecto:
 
@@ -19,9 +19,9 @@ Historia
 
 Folclor
 
-Y también veo que algunas de mis sospechas son ciertas ya que algunas de los temas relacionados tienen que ver con la comunicación, la memoria y la sociedad.
+Y también veo que algunas de mis sospechas son ciertas, ya que algunas de los temas relacionados tienen que ver con la comunicación, la memoria y la sociedad.
 
-También puedo concluir que hasta el momento las búsquedas quehe planteado,  están alineadas con mi tema de investigación.
+También puedo concluir que hasta el momento las búsquedas que he planteado,  están alineadas con mi tema de investigación.
 
 Es interesante el ejercicio y la herramienta, ya que ayuda a entender ciertas relaciones que pueden pasar desapercibidas al momento de hacer el análisis de los textos.
 
