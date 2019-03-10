@@ -28,6 +28,9 @@ Es interesante el ejercicio y la herramienta, ya que ayuda a entender ciertas re
 ## Enlace Voyant Tools
 https://voyant-tools.org/?corpus=0511c4b487bf8eaf32b6f54a2eb29b9e&view=corpusset
 
+## Enlace Voyant Tools
+https://voyant-tools.org/?corpus=0511c4b487bf8eaf32b6f54a2eb29b9e&view=corpusset
+
 ## Bibliografía
 
 **01**  (2017, junio 14). Brevísima historia del videojuego como cultura mediática. Recuperado el 6 de marzo de 2019, de http://www.presura.es/2017/06/14/historia-del-videojuego-cultura-mediatica/
