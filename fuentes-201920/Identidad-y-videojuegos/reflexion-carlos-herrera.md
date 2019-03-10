@@ -1,6 +1,6 @@
 ---
 titulo: Identidad y Videojuegos
-fecha: 2019-03-00
+fecha: 2019-03-09
 autor:
 - Carlos E. Herrera P.
 etiquetas: Identidad, Cultura, Videojuegos
