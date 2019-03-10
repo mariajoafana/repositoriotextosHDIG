@@ -19,7 +19,7 @@ Historia
 
 Folclor
 
-Y también veo que algunas de mis sospechas son ciertas, ya que algunas de los temas relacionados tienen que ver con la comunicación, la memoria y la sociedad.
+Y también veo que algunas de mis sospechas son ciertas, ya que algunos de los temas relacionados tienen que ver con la comunicación, la memoria y la sociedad.
 
 Finalmente puedo concluir que hasta el momento las búsquedas que he planteado,  están alineadas con mi tema de investigación.
 
