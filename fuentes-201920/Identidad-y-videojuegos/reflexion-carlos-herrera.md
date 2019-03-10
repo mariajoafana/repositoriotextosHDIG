@@ -1,5 +1,5 @@
 ---
-titulo: Identidad y Videojuegos
+titulo: Identidad y videojuegos
 fecha: 2019-03-09
 autor:
 - Carlos E. Herrera P.
