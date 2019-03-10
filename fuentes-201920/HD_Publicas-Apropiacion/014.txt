@@ -1,0 +1,788 @@
+
+Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permittedcopyright law.© 2012. Facetor applicableCopyrightunder U.S.
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+Studying users in digital humanities
+
+
+
+
+Claire Warwick
+
+
+
+
+
+Introduction
+
+Until relatively recently, it was unusual to study users in digital humanities. It was often assumed that the resources created in digital humanities would be used by humanities scholars, who were not technically gifted or, perhaps, even luddites. Thus, there was little point asking them what they needed, because they would not know, or their opinion about how a
+
+resource functioned, because they would not care. It was also assumed that technical experts were the people who knew what digital resources should look like, what they should do and how they should work. If developers decided that a tool or resource was a good one, then their opinion was the one that counted, since they understood the details of programming, databases, XML and website building. The plan, then, was to provide good resources for users, tell them what to do and wait for them to adopt digital humanities methods.
+
+   Frustratingly, potential users seemed stubbornly to resist such logic. The uptake of digital resources in the humanities remained somewhat slower than in the sciences. As I have argued elsewhere, the numbers of articles in journals, such as Computers and the Humanities (CHUM) and Literary and Linguistic Computing (LLC) in the 1990s and early 2000s, complaining about why traditional humanities scholars did not use digital humanities techniques or suggesting techniques they might use, grew heavily to outnumber those reporting on the actual adoption of such techniques in the mainstream (Warwick, 2004). Lack of knowledge was sometimes advanced as a possible reason for lack of engagement. During this period, very large amounts of money were spent on initiatives to publicize digital resources for humanities research and teaching. In the UK, this included the Computers
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+and Teaching Initiative (CTI) (Martin, 1996), the Teaching and Learning with Technology Programme (TLTP) (Tiley, 1996) and the Teaching and Learning Technology Support Network (TLTSN) (Doughty, 2001); the Arts and Humanities Data Service (AHDS: www.ahds.ac.uk) also had an advice and outreach role, as well as its core function of data preservation. None of these are now in existence; funders did not feel they had proved sufficiently successful to continue supporting them. Many university libraries and computing services also offered training courses in the use of digital resources for humanities scholars. Yet, the rate of change remained stubbornly slow. Funding bodies also supported digital resources for humanities scholars, with little thought to, or predictions about, levels of possible use because they did not know how such predictions might be made. Such resources often cost hundreds of thousands of pounds, so there was a risk of a severe waste of money and of academic time and energy if a funded resource was then not adopted.
+
+  In the late 1990s, a few of us began to wonder if there might be another cause for the lack of adoption of digital humanities resources. Could it be that users did not adopt resources because they were not useful or did not fit what they would like to do as scholars? Could there be other reasons to do with design, content, presentation or documentation? Initially, I suggested that digital resources available in the late 1990s did not fit the predominant research method of humanities scholars, which is complex reading (Warwick, 2004). Later, empirical studies on the way humanities scholars interact, or fail to interact, with digital resources allowed us to test this hypothesis. This chapter presents an overview of the findings of such work, arranged thematically.
+
+
+What we know about humanities users
+
+Despite some erroneous perceptions in both digital humanities and the computer industry, we know a significant amount about how humanities scholars use information, whether digital or not. Since Stone’s pioneering article in the early 1980s (Stone, 1982), numerous studies of information needs, and some of information behaviour, have been published, both of the humanities as a field and of individual disciplines (Warwick, Terras, et al., 2008). As we have argued in more detail elsewhere (Warwick, Terras, et al.,
+
+2008), these suggest that humanities scholars are not luddites; they simply behave differently from scientists, and many social scientists, when interacting with physical and digital information. Humanities scholars tend
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+to avoid performing systematic keyword searches, although most information systems and digital resources assume this. Instead, they will follow footnotes in texts they are reading (what Ellis calls chaining (1993)) or browse for information. They may even do what Bates calls ‘berry picking’ – in other words, select interesting pieces of information that are particularly germane to the argument they want to make, rather than citing everything written on the subject (Bates, 1989, 1). (We might speculate that this may also become more common in science in the future, when the sheer number of articles published every year exceeds the researcher’s ability to read them all.) They also need a greater range of information, in terms of publication date and type: instead of reading journal articles from the last five years, they may need to consult printed books or manuscripts that are hundreds of years old, as well as images, film, music, maps, museum artefacts and various different types of historical source material (Barrett, 2005). They do not expect to solve a research question comprehensively, but to reinterpret the sources and revise the findings of others: after Crick and Watson, no one tried to redefine the structure of DNA, but articles about Hamlet will probably always be written. They often reread or re?examine sources in a complex, immersive way, rather than searching digital documents for factual information.
+
+  It is evident, therefore, that humanities scholars have different information needs, both on? and offline, than scientists. They are a problematic population to design for, and the field lacks the financial clout of Science, Technical Engineering and Medicine (STEM) subjects, so funding to create resources for their needs is less plentiful and may seem less profitable for commercial publishers. It is, therefore, not surprising that, until recently, most resources have been designed for the majority of users who are not from the humanities. Yet, we might argue that the way they use digital resources is, in fact, closer to the way that the average, non?academic user interacts with digital or printed information. Most of us read for pleasure, may consult a wide range of information resources and don’t conduct systematic keyword searches of recently published scientific literature; thus, a study of humanities user needs may also produce important results relevant to non?professional digital resource use.
+
+
+How to study users
+
+There are numerous methods for studying users, most of which have been developed in the fields of Human?Computer Interaction and Information Studies. There are also many excellent texts describing, in detail, how these
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+may be carried out, for example, Shneiderman and Plaisant (2009), Blandford and Attfield (2010) and Ruecker, Radzikowska and Sinclair (2011). Our approach at UCLDH has been to use a variety of methods, most of them designed to be as naturalistic and unintrusive as possible. Our overall approach is to study use in context; that is, to study what people do in their real life or work activities. This means that we prefer to visit someone in their office (or, in one case, an archaeological dig) and ask them to carry out a real research activity using a digital resource, rather than asking them to perform a set task in an interaction lab. We have used task? based lab testing for some research projects, but, in general, prefer to adopt as naturalistic an approach as possible to avoid the user’s behaviour being prejudiced by unfamiliar conditions.
+
+  Our approach to studying users is to involve them, if possible, from the beginning of the project. Too often user testing, both in academic projects and industry, is left until late in the project; users are only asked for their opinion when the resource is built and a prototype is being tested. This may work, if the users like what has been built for them. However, if they do not, and feedback suggests radical change is necessary, there may not be sufficient funding, time or goodwill from developers to make such modifications. In such cases, the resource either remains unmodified or different researchers may be called in to conduct other tests, in the hope that they will find what the developers want them to discover, not report what users actually need. This is a very dangerous strategy, for reasons that I shall discuss below.
+
+  Thinking about use before a resource is built means studying the users, not the resource; this may be achieved using various methods. We have used interviews to determine what scholars like and dislike about digital resources and how they use information, and we have observed them using existing digital resources. We have asked them to keep diaries of their use of information and digital technologies over periods varying from between a day and a week (Warwick, Terras et al., 2009). This allows us to identify patterns of, and problems with, information usage, about which we can subsequently interview users. We have used surveys and questionnaires about the use of existing resources. We have interviewed the creators of existing, successful resources to see whether it is possible to identify any common features, in terms of design, creation or documentation (this is an unusual approach, and we believe we are the only team to have employed it in digital humanities; but it is an approach that we found very instructive during the Log Analysis of Internet Resources in the Arts and Humanities
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+(LAIRAH) Project) (Warwick, Galina, et al., 2008). All of these methods allow us to build up a picture of what users like and dislike, what they want to do and what they currently cannot achieve. This is then fed back to design teams to inform initial design and prototype ideas.
+
+  When initial ideas are being developed, it is also possible to use models, such as Ruecker’s affordance strength model (Ruecker, Radzikowska and Sinclair (2011): Chapter 3), which allows us to test the potential functionality of a prototype design against some possible uses. At a slightly later stage in development, we can use wire frames and design sketches to run user focus groups. We have also conducted workshops, where users are asked to investigate different digital resources, record their views on paper and then take part in a subsequent focus group discussion. During the LAIRAH project, for example, we presented users with a mixed sample of resources that were either known to be used or neglected, without identifying them, asked them to speculate on which ones where used and comment on their reasons for saying so. This was then followed by a focus?group discussion. This proved a useful way to limit the bias inherent in focus groups, when one or two vocal members of the group may dominate and, thus, skew results. Subsequent examination of the written responses showed that users were willing to be more positive about some resources in writing, than they were in group discussions.
+
+   This variation between what people may say to others and what they will record in private is the reason why it is important to use a variety of different methods in user studies. It is well known that interviewees may say what they think someone may wish to know; thus, they may be more forthcoming if asked to fill in a survey or write down responses to a hands?on workshop session (Smith and Hyman, 1950). This is also why we have used quantitative data from web log analysis, since reported use may differ from what logs record, which may also be attributable to the interviewer effect. In the days before logging software, such as Google Analytics, was routinely used, very few projects or, even, institutions, such as libraries, had any reliable indication of which resources were used. Log data allowed us to determine that up to one?third of digital resources in the humanities remained unused (a very similar level to that of printed material in libraries) (Warwick, Terras et al., 2008) and to indicate the kind of material most commonly searched for. Log analysis can also indicate whether certain parts of a resource are used more often than others and whether this is related to content or design problems (the more clicks away from the index page, the less likely it is that users may find material, for example) (Huntington et al., 2002).
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+  Of course, conducting user studies adds to the cost of developing digital resources. The time required to undertake such activities, especially if they last throughout the project, is considerable. Some projects have, instead, chosen to make use of personae or use cases. Some designers create indicative personae of typical users, giving them names, ages and occupations, and thus suggesting the uses that such a person might make of a resource (Jane is a secondary school teacher in her 30s. She wants to use a museum website to construct some new assignments about Roman food for her year 11 class on classical civilization, for example) (Grudin and Pruitt, 2002). Personae can be a useful tool, if they are constructed as a result of the kind of user studies mentioned above. However, if they are used as a substitute, there is a danger of a kind of self?fulfilling prophecy of use, where functionality is designed for the kind of users the designers want or can imagine. Yet, they cannot be sure that this is the kind of user that the resource will actually attract or that these predicted difficulties are the kind of difficulties that imagined users might face.
+
+  Use cases consist of reports of how a user, or small group of users, is using a given resource or one that is very similar. These are often used to make the case to develop something new or to argue that certain types of interface or functionality may be useful. Once again, these may be used as part of a multimethod user study, as evidence of real usage (Keating and Teehan, 2010). However, if used in isolation, the picture of use may be very partial, unless a very large number of use cases are collected. The behaviour of expert users or early adopters may also be very different from that of a majority of users, yet it is often the interested experts who furnish the use cases. As a result, the need for complex, specialist functionality, or the general enthusiasm in the user population for the resource, may be overstated. Use cases and personae should, therefore, be used with care in a multimethod user study, and should never be a substitute for other, more time?intensive methods.
+
+
+Luddites or critics?
+
+Despite the popular image of the luddite humanities scholar who does not know what they need or how to use it, we have found that users have very complex models of their information needs and environment; they are thoughtful and critical about the affordances of physical and digital resources. This may help to explain why e?journals have been such a success, and e?monographs are still not widely used. Users are aware that a journal
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+article and a book are used in very different ways, even if they do not articulate this until asked. Thus, most of us still prefer to read a book in print, because it is more convenient, but are happy to read a short article on screen or print out a longer one. We also found that humanities users had complex ways of evaluating physical information resources and could tell, simply from the design, publisher or even size of a book, whether it was likely to be useful. It is still difficult for users to find digital analogies for such skills, however, and it remains an important challenge for creators of large digital resources to design tools that will allow users to orientate themselves digitally as well as they can in a physical library. This is the reason for tools such as Amazon’s ‘user recommendation systems’ (users who bought this, also bought … ), but it is far more difficult to deploy such metaphors in an academic setting. Even the question of extent of collections is problematic; physical library users can see how big the shelf is that they are looking at and how many of them there are in a library. It is still very difficult for users to estimate how large a digital resource is and, thus, how comprehensive the results set from their search may be and how much further they need to explore. This is important for humanities users, who value recall over precision and expect to find about 90% of the results from a given search familiar. Nevertheless, we should not assume that humanities users always prefer physical to digital information resources. Users we have studied have found the convenience of digital information delivery as important as those in any other discipline and expressed considerable enthusiasm for the use of digital resources and methods. Difficulties caused by a badly designed interface to a digital collection were no more significant than a library or archive that was cold, cramped, dark or uncomfortable or an unhelpful member of staff. However, they were more likely to put up with difficult physical conditions than persist with a disappointing digital resource. It would seem ridiculous to a humanities scholar to refuse to return to a physical library if a book they hoped to find was not stocked, yet I have often heard digital resources dismissed outright if the contents were not as expected. It is difficult to tell whether this is something inherent in the nature of physical and digital information resources or whether, like the question of transferring information skills from physical to digital libraries, it is a problem of relative unfamiliarity on the part of users and signals the need for further refinement of the digital resource design. We may only find the answer to this question by repeating studies over time and trying to determine whether, and how fast, attitudes change. It is not, however, necessarily a function of being a digital native or immigrant; indeed, a recent
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+study suggests that there is no empirical basis for such assumptions. Rowland’s research suggests that the information literacy of even, what he calls, the ‘Google generation’ is relatively unimpressive (Rowlands et al., 2008, 1). We found that even students who have been trained in information? seeking skills will give up as soon as they have a minimal level of information to complete a task and that they use their relative expertise to determine how little searching is necessary in a given situation, rather than conducting more complex searches to find a more complete result set. If the results of a search seem too complex to evaluate, they may even alter their query to achieve a simpler, less demanding answer. We cannot, therefore, assume that once a younger generation of scholars arrives, their ability to interact with complex digital information will necessarily improve.
+
+   Finding and using digital information seems to have something to do with how important it is to users. Students may not gain expertise gradually, however. The difference noted in the skill levels of young legal professionals, who may only be a few years older than our student sample, is probably because the information tasks they faced at work were more complex and urgent and forced them to suddenly acquire more expertise. However, it does help to explain an interesting phenomenon we found during the LAIRAH project, when we discovered that humanities scholars could be very easily deterred from using digital resources. Numerous factors caused this: confusing interfaces, problems with navigation or searching, a need to download data and use it with another application, content that was incomplete, not extensive enough, of poor quality or not as expected (for example, if a literary resource did not contain appropriate editions, it was considered unacceptable to many users). Yet, we found that if a research task is vital to the individual, and they are convinced that a resource will deliver high quality information, they will persist with a digital resource and force themselves to learn new skills or struggle with a difficult interface or functionality. Thus, we found that some linguistic resources were reported to be very useful, even if poorly designed, dated and difficult to use, because there was nothing better available for specialists in that field. The problem is that the proportion of such determined and persistent users appears to be quite small.
+
+   It has become clear to us, however, that most users will be quick to abandon resources whose quality they are concerned about. This is partly as a result of minor problems that could be relatively easily avoided. Our study of successful digital resources, during the LAIRAH project, suggested that even the name of the resource could make a difference to use. If someone is searching for census data, they may not also think to use the term
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+‘enumerator returns’, and, unless there is very complex metadata, or semantic searching is possible, a resource with a confusing or unusual title may not, therefore, be found. The possible uses of digital resources designed by technical or academic experts were often not evident to potential users. Not everyone, for example, knows what Geographical Information Systems (GIS) are or how they might be employed. This is not a problem for the dedicated expert user, but may mean that a, potentially, much larger audience fails to understand the potential use of some resources (Warwick, Terras, et al., 2008). This is part of what we have called the ‘designer as user problem’ (Warwick, Terras et al., 2008). If digital resources are created by academic or technical experts and user testing is not carried out, the assumption tends to be made that the users of the resource will be just like the creators. The academic creator may assume that everyone will understand what the resource is for and what it contains without much explanation, because it is obvious to them. They may also assume (possibly abetted by technical staff) that complex functionality and search capability is needed to make the resource usable and if they can learn to use such functionality, then anyone can. It may be, however, that most people do not need, or perhaps even like, the complicated functionality and, perhaps, difficult interface necessary to make this possible (Warwick, Galina, et al., 2008). The simple, Google?like search box has become a standard way that users expect to interrogate most collections of information; this is partly because it works. Most users, especially humanities academic users, do not want to have to be trained to use digital resources, regarding it as a waste of time. Some librarians have even alleged, strictly off the record, that they suspect academics do not want to admit ignorance, especially in front of their students, and that this may be a more profound reason for their antipathy to training (for obvious reasons, a source for this cannot be cited). Most technicians, librarians and commercial publishers who market resources at librarians seem to believe that it is important that all resources must have an advanced search function. In fact, numerous studies have shown that most people never use this function (Rieger, 2009). It is, therefore, clear why the model of designer?as?user is not advisable. It may lead to the creation of a resource that is needlessly complex, expensive in developer time, potentially not what users want, and, therefore, at serious risk of being under?used as a result.
+
+
+
+
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+CASE STUDY The LAIRAH Project: log analysis of internet resources in the arts and humanities
+
+
+Claire Warwick, Melissa Terras, Paul Huntington, Nicoleta Pappa, and Isabel Galina, UCL Department of Information Studies
+
+The aim of the LAIRAH survey is to discover what influences the long-term sustainability and use of digital resources in the humanities through the analysis and evaluation of real-time use. We utilized deep log analysis techniques to provide comprehensive, qualitative and robust indicators of digital resource effectiveness. Our aims were to increase understanding of usage patterns of digital humanities resources, aid in the selection of projects for future funding and enable us to develop evaluation measures for new projects. Until we carried out our research, evidence of actual use of projects was anecdotal; no systematic survey had been undertaken, and the characteristics of a project that might predispose it for sustained use had never been studied.
+
+
+Methods
+Phase 1: log analysis
+
+The first phase of the project was deep log analysis: we were the first team ever to analyse web transaction logs to measure user behaviour within digital humanities resources. Transaction and search log files were provided by three online archives that were supported by the Arts and Humanities Research Board (AHRB) (now the Arts and Humanities Research Council (AHRC)): the Arts and Humanities Data Service (AHDS) Arts and Humanities Collection, Humbul Humanities Hub and the Artefact Database for the Creative and Performing Arts. These provided rich data for comparing metrics between subject and resource type. The search logs showed which resources users were interested in and which ones users subsequently visited.
+
+  We analysed at least a year’s worth of transaction log data (a record of webpage use automatically collected by servers) from each resource. This data provided a relatively accurate picture of actual usage, providing: information on the words searched (search logs), the pages viewed (user logs), the website that the user has come from (referrer logs) and basic, but anonymous, user identification tags, time and date stamps.
+
+
+Phase 2: case studies
+
+We selected a sample of 21 projects that the log analysis indicated to have
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+varying levels of use – chosen to give us coverage of different subject disciplines
+
+– to be studied in greater depth. We classified projects as ‘well used’ if the server log data from the AHDS and Humbul portals showed that they had been repeatedly and frequently accessed by a variety of users. We also mounted a questionnaire on these sites and asked which digital resources respondents found most useful. Although most users nominated information resources, such as libraries, archives and reference collections, such as the eDNB, three publicly funded UK research resources were mentioned, and, thus, we added them to the study. We also asked representatives of each AHDS centre to name which resources in their collections they believed were most used. In the case of Sheffield University, the logs showed that a large number of digital projects accessed were based at the Humanities Research Institute (HRI). We therefore conducted interviews about the HRI and its role in fostering the creation of digital humanities resources.
+
+  The projects were studied in detail, including any documentation and reports that could be found on the project’s website, and a representative of each project was interviewed about project development, aims, objectives and their knowledge of subsequent usage. We analysed each project’s content, structure and design. We asked whether it undertook any outreach or user surveys and how the results of surveys were integrated into project design. We also asked what kind of technical advice the project received, whether from institutional support people, from humanities computing centres or from central bodies, like the AHDS. All these measures are intended to determine whether there are any characteristics shared between ‘well used’ projects.
+
+  We also studied projects that appeared to be neglected or underused. A small group of humanities users were asked to investigate a sample of digital resources: half were well used and the others neglected, but their status was not initially revealed. A hands-on investigation was followed by a discussion of factors that might encourage or deter future use of such resources. We aimed to find out whether their lack of use was because users had not heard of a given resource or whether there were more fundamental problems of design or content that would make the resource unsuitable for academic work.
+
+
+Findings
+
+We found that roughly one-third of all projects appeared to be unused. When asked to evaluate unused resources, users were able to identify several problems with design and content. They were deterred from use because of unintuitive interfaces, the need to download data for use in another application, confusion
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+as to what the content might be used for and even a confusing name. They also needed more information about the content of resources, how and why it had been selected and the expertise of the project team.
+
+  Well used projects did share common features that predisposed them to success. The effect of institutional and disciplinary culture in the construction of digital humanities projects was significant. We found that critical mass was vital, as was prestige within a university or the acceptance of digital methods in a subject field. The importance of good project staff and the availability of technical support also proved vital. If a project is to be well used, it was also essential that information about it should be disseminated as widely as possible. The single most common factor in use of a project was a good dissemination strategy. Even amongst well used projects, however, we found areas that might be improved: these included organized user testing, the provision of, and easy access to, documentation, and the lack of updating and maintenance of many resources.
+
+
+
+Recommendations
+
+Digital humanities projects should undertake the following actions:
+
+1. Keep documentation and make it available from the project website, making clear the extent, provenance and selection methods of materials for the resource.
+
+2. Have a clear idea of whom the expected users might be; consult them as soon as possible and maintain contact through the project, via a dedicated e-mail list or website feedback.
+
+3. Carry out formal user surveys and software and interface tests and integrate the results into project design.
+
+4. Have access to good technical support, ideally from a centre of excellence in digital humanities.
+
+5. Recruit staff who have both subject expertise and knowledge of digital humanities techniques, then train them in other specialist techniques as necessary.
+
+6. Maintain and actively update the interface, content and functionality of the resource, and do not simply archive it.
+
+7. Disseminate information widely, both within specialist subject domains and in digital humanities. ?
+
+
+
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+Trust
+
+As we have seen, users need as much information about a resource as possible to understand what it might be useful for. However, underlying much of our research on users is the issue of trust in digital resources and technologies. The more information users can find about a resource, the more they are likely to trust it. As discussed above, humanities scholars have a complex repertoire of information skills that allow them to evaluate traditional information resources. These have grown up over several hundred years of the development of printed academic resources (Vandendorpe, 2009). A prestigious journal name or book publisher tells us that the content has been peer reviewed by other academic experts. Footnotes or references in the text reassure us that the writer has compared their findings with other work in the field and researched other sources. The academic affiliation of the author tells us about their expertise and standing in the field. The methodology of an article tells us how the work has been conducted, for example, how data was selected, sampled and analysed. Digital resources are only beginning to find ways to provide such information. In the LAIRAH report recommendations, we suggested that all digital resources should have a top?level link called ‘About this Project’, or something similar, under which creators should provide as much information as possible about its purpose and how it might be used; what its contents are and how comprehensive they are; if selections have been made from a larger corpus, how this has been done, why, and who has done so; who created the resource and where they are based; how technical decisions were made, for example, about the markup or metadata schema. The more effectively this is done, and the more easily it can be accessed, the more users are likely to trust digital resources. This is likely to become even more important in the near future. The UK’s Research Excellence Framework will now allow digital resources to be submitted in all subject areas and not simply the publications written about them (Higher Education Funding Council for England, 2011). As a result, it will become even more vital that we gain a sense of the rationale for the choices made in the course of digital resource construction, so that assessors can make informed decisions about resource quality and impact in the wider world.
+
+  At present, however, trusted brands are very important. Many digital resources that are most familiar to users, such as e?journals or large digital reference collections, are produced by commercial publishers, who make significant investments in testing the appearance and functionality of their resources. This is also usually the case with digital resources in major
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+cultural heritage organizations, such as museums and galleries. This means that the standard of resource that academic users expect is often higher than most academic projects can manage, especially for interface design. This, coupled with the brand identity of museums and major publishers, reassures users about the quality of the content.
+
+   A pioneering study showed that visitors to websites make judgements about them in fractions of a second. We appear to make up our minds about digital resources too quickly to perform a conscious critical evaluation of it: our gut instinct tells us whether it looks ‘right’. If users sense that something looks ‘wrong’ – which may simply mean that the interface looks unfamiliar, is difficult to use or lacks information about its creation and provenance – users may regard it as untrustworthy, neglect it and revert to more familiar resources, whether printed or digital (Warwick, Terras et al., 2008). This demonstrates why those creating digital projects must design a resource that works easily and looks as impressive as possible. The only way to do this, other than being lucky, is to carry out proper user testing.
+
+  One of the reasons users think that resources look ‘wrong’ is if they seem dated. If they try to use a resource and parts of it no longer work – links are broken, for example – they will lose yet more trust. Commercial resources are updated constantly, to make sure that information is current and the interface functional and consistent with current design trends. The problem for many digital resources based in the academic and cultural heritage sectors is that there may no longer be any funding to perform such updating if the content is freely available and was funded by a fixed?term grant. As we have seen, if users do not feel that a resource is to be trusted, because it appears to be dated, they are reluctant to use it. This is a waste of the (probably) very large amount of money that was spent on its creation. Institutions have only recently begun to develop strategies to deal with this problem.
+
+   This is especially serious for resources that involve crowdsourcing or web 2.0 technologies, where users become an integral part of the research process. For example, the award?winning Transcribe Bentham project, discussed in Chapter 2 of this volume, was funded by a short research grant. However, at the end of its funding period, over 1000 people had already taken part in transcribing manuscripts and become part of a thriving user community. Since this project is an important vector for engagement between UCL researchers and the public, to have closed it and locked out all our volunteers would have been disastrous and contrary to everything that UCL believes in, in terms of outreach and openness. As a result, short?term
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+internal funding had to be provided, while further external funds were sought. UCL recognizes the need both to maintain the infrastructure and to continue the activity with which it is engaging volunteers.
+
+
+Longitudinal studies
+
+Change over time is not something that is very often considered in terms of user studies. They are often carried out at particular points in time, and significant longitudinal studies are relatively rare. There tends to be an assumption, therefore, that user views of digital resources are somewhat fixed. In digital resource creation, one important principle that should be followed, if at all possible, is a cycle of user testing and feedback. Once tests have been carried out and modifications made, it is important to feed back to users what has been done in response to their views. This can either be done by direct communication, in the form of a change log or development blog on the website; an end of project workshop; or another written form of communication with the user community, such as an online newsletter or progress report. An iterative development cycle is, in itself, a useful way to communicate with users. If, for example, a focus group has been carried out to ascertain users’ views of wireframes or design sketches, then a hands?on session with a prototypical system not only helps to indicate whether views initially expressed are true in a working version, but shows that the development decisions taken reflect initial users’ views. Users like to be able to see that changes have been made as a result of their input and will often be very supportive of something that they helped to create. Our work on the VERA Project was an excellent example of this. The following case study gives the full details of the project, our part in which was to study the way that archaeologists use digital technologies in the field, especially to record what they have found.
+
+
+
+
+CASE STUDY The VERA Project
+
+
+Claire Fisher, British Museum, Melissa Terras, UCLDH, and Claire Warwick, UCLDH The Virtual Environments for Research in Archaeology (VERA) Project was funded as part of the Joint Information Systems Committee (JISC) and involved the Department of Archaeology and the School of Systems Engineering at the University of Reading, the York Archaeological Trust and the School of Library, Archive and Information Studies at UCL. The project was based around the
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+University of Reading’s well established excavation at the Roman site of Silchester. The Silchester Insula IX project (www.silchester.rdg.ac.uk/index.html) provided the ideal test-bed for a Virtual Research Environment (VRE) project, because key to the smooth running of this large, urban excavation was the Integrated Archaeological Database (IADB, www.iadb.org.uk/index.htm). Used for recording, analysis, archiving and online publication of archaeological finds, contexts and plans, the IADB allows integrated access to all aspects of the excavation record. It was used to populate the VRE with data generated by a complex urban excavation.
+
+The VERA Project set out to:
+
+1. Investigate how digital input could be used to enhance the process of documenting, utilizing and archiving excavation data.
+
+2. Create a suitable Web portal to provide an enhanced user experience.
+
+3. Develop tools that could be integrated with existing practices of research archaeologists unfamiliar with VREs.
+
+4. Test the tools in a real world setting.
+
+UCL’s role was to ensure that the needs of the archaeologists and associated specialists remained at the heart of developments.
+
+  The VERA IADB usability study was carried out at the 2007 VERA winter workshop at Reading. The development of the IADB has always been driven by its users and has developed alongside their working practices. However, this was the first time that user reactions to the IADB had been formally documented. Participants at the workshop were divided into two groups:
+
+• those with no (or little) experience of using the IADB, designated ‘novice users’
+
+• those who have experience of using the IADB in their work, designated ‘experienced users’.
+
+The usability study provided the team with useful information about user perceptions, plus details of the typical tasks carried out by archaeologists and associated specialists. The novice users felt that they could quite quickly get to grips with the system; the experienced users carried out a wide range of tasks using the IADB and used it at (almost) all stages of various projects.
+
+  The Silchester project utilizes the skills of a large and geographically dispersed group of specialists. Each specialist uses the IADB for varying purposes, and one of the aims of the VERA Project was to enhance the ways in which each
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+researcher uses it. Interviews were carried out to explore how the existing users organize their work; to discuss their experiences of working with the IADB; to find out to what extent the IADB met their needs; and if any changes might make their work easier. The results from these interviews were used and fed into IADB development.
+
+  Excavation data has traditionally been entered into the IADB through manual digitization, usually once the excavation season is over. A key aim of the VERA Project was to investigate the use of information technology (IT) within the context of a field excavation and to ascertain whether it may be appropriated to speed up the process of data recording, entry and access. From 2005 onwards, a number of field trials had been carried out at the Silchester excavation, using a variety of digital recording methods, including digital pens and notebooks and hand-held internet browsers. The 2008 field season focused on the use of digital pens for direct digital data gathering. We used fieldwork observations, user needs discussions, a diary study and an end-of-season questionnaire to analyse user reactions to the digital pens.
+
+  We aimed to observe how well the digital pens fitted in to the workflow of the site and to record user feedback. The discussions provided the framework for creating the end-of-season review for the digital pens. A diary study was used to gather information about different archaeological roles and the way that they are supported by both digital and analogue technologies. These studies allowed the VERA team to explore how the implementation of new technology affected the workflow of the site. Lessons learnt included the central role of the traditional context-recording sheet and the need for any new technology to integrate with existing workflows. ?
+
+
+
+Responses to the new technology
+
+Introducing new ways of working into well established systems can be problematic, especially if the changes include the introduction of unfamiliar technology. UCL’s involvement in the VERA Project illustrates how user case studies, analysis and feedback were used to develop recording systems and virtual research environments that fit into the current workflow of archaeologists and associated specialists.
+
+   The digging season was short – six weeks in the summer of each year – and we studied the dig for three years. This gave us an unusual opportunity to study change over time. Initially, digital methods were only trialled in a small part of the site. We found that they therefore seemed risky and abnormal to most people, and, thus, the methods, and we, were treated with
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+suspicion. Most people were relatively negative about the use of digital technologies – such as digital pens and paper – for finds recording, as opposed to traditional printed context cards. They also felt they had suffered from a lack of training. The following year, digital technologies, predominantly digital pens, were used throughout the site, and we provided training in their use, as well as feedback on what we had learnt the previous year. Diggers became more positive and began to understand the aims of the study, becoming more open to possible changes. In the final year, further improvements were made to the way digital data was entered and maintained as a result of user feedback, and, when other technologies, such as GPS, were introduced, they were adopted much more readily than we might have expected. Users could understand how their feedback had been integrated into the use of technology and that while systems were not perfect, they had improved, and we had made every effort to act upon user comments as far as possible. As a result, they became noticeably more positive about the use of digital technologies in each year of the study. This shows how important it is that users can see how their feedback has been used to improve a system: if they can see progress, it appears that they will make an effort to support the system they created. If it is not exactly what they would have wished, they will make an effort to deal with pragmatic decisions, if they can understand the reasons for them. In the case of Silchester, they understood that the cost of producing a fully digital recording system would have been prohibitive and were, thus, willing to work with a compromise – a semi?digital solution, which, nevertheless, resulted in faster, more accurate data entry than had been possible using manual recording.
+
+
+Conclusion
+
+It is clear, therefore, that we cannot, and must not, try to tell users what they ought to like, need or use. We also cannot expect people to abandon working practices instantly when they have suited them well over many years and, in some humanities fields, generations. As we saw at Silchester, if users are consulted, and researchers take the time to understand their working culture and how digital resources fit into it, there is the possibility that attitudes to, and levels of, digital resource use may change. However, we must ensure that users know what they need, to complete their work successfully. If digital resources fit well with what they want to do with them, users will adopt them. Attitudes to digital resources have changed massively in the last
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+decade, with far greater use of the internet for information seeking and the widespread uptake of resources, such as digital reference resources and e? journals. This is surely because they fit well with what humanities academics would like to do. For example, e?books have recently become more popular, because a new generation of digital reading devices are as light as a paperback, with screens that are more comfortable to read from than earlier e?readers. Thus, users are far more likely to adopt them, because they fit well with their usual reading behaviour and have notable advantages, such as the ability to carry several hundred ‘books’ in a small, light device.
+
+  The aim of those of us designing resources in digital humanities, therefore, remains analogous to this. We must understand the needs and behaviours of users. As a result of this understanding, we must design resources that fit well with what our users already do, while providing advantages in terms of convenience, speed of access, storage capacity and innovative information tools that digital publication affords. If we do so, there is every chance that such resources will be used and will help to make possible new kinds of scholarship that would be inconceivable without digital content, tools and delivery mechanisms.
+
+
+Bibliography
+
+Attfield, S., Blandford, A. and Dowell, J. (2003) Information Seeking in the Context of Writing: a design psychology interpretation of the ‘problematic situation’, Journal of Documentation, 59 (4), 430–53.
+
+Barrett, A. (2005) The Information Seeking Habits of Graduate Student Researchers in the Humanities, The Journal of Academic Librarianship, 31 (4), 324–31.
+
+Bates, M. (1989) The Design of Browsing and Berrypicking Techniques for the Online Search Interface, Online Information Review, 13 (5), 407–24.
+
+Bates, M. (1996) Document Familiarity in Relation to Relevance, Information Retrieval Theory, and Bradford’s Law: the Getty Online Searching Project Report No. 5, Information Processing & Management, 32 (6), 697–707.
+
+Bates, M. (2002) The Cascade of Interactions in the Digital Library Interface, Information Processing & Management, 38 (3), 381–400.
+
+Blandford, A. and Attfield, S. (2010) Interacting with Information, Morgan & Claypool.
+
+Blandford, A., Rimmer, J. and Warwick, C. (2006) Experiences of the Library in the Digital Age, http://www.uclic.ucl.ac.uk/annb/docs/abjrcwCCDTpreprint.pdf. Brown, S., Nonneke, B., Ruecker, S. and Warwick, C. (2009) Studying Orlando’s
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+Interfaces, paper presented at SDH/SEMI 2009, Carleton University, Ottawa, Canada.
+
+Brown, S., Ross, R., Gerrard, D. and Greengrass, M. (2007) RePAH A User Requirements Analysis for Portals in the Arts and Humanities, Arts and Humanities Research Council.
+
+Doughty, G. (2001) Teaching and Learning Technology Support Network,
+
+www.elec.gla.ac.uk/TLTSN/.
+
+Ellis, D. (1993) A Comparison of the Information Seeking Patterns of Researchers in the Physical and Social Sciences, Journal of Documentation, 49 (4), 356–69.
+
+Grudin, J. and Pruitt, J. (2002) Personas, Participatory Design and Product Development: an infrastructure for engagement, Proceedings of Participation and Design Conference (PDC2002), pp. 144–61, http://research.microsoft.com/en? us/um/people/jgrudin/.
+
+Higher Education Funding Council for England (2011) Assessment Framework and Guidance on Submissions, HEFCE.
+
+Huntington, P., Nicholas, D., Williams, P. and Gunter, B. (2002) Characterising the Health Information Consumer: an examination of the health information sources used by digital television users, Libri, 52 (1), 16–27.
+
+Jones, C., Ramanau, R., Cross, S. and Healing, G. (2010) Net Generation or Digital Natives: is there a distinct new generation entering university?, Computers and Education, 54 (3), 722–32.
+
+Keating, J. and Teehan, A. (2010) Appropriate Use Case Modeling for Humanities Documents, Literary and Linguistic Computing, 25 (4), 381–91.
+
+Lindgaard, G., Dudek, C., Fernandes, G. and Brown, J. (2005) Attention Web Designers: you have 50 milliseconds to make a good first impression, Behaviour & Information Technology, 25 (2), 115–26.
+
+Makri, S. Blandford, A., Gow, J., Rimmer, J., Warwick, C. and Buchanan, G. (2007) A Library or Just Another Information Resource? A case study of users’ mental models of traditional and digital libraries, JASIST, 58 (3), 433–45.
+
+Martin, J. (1996) The Computers in Teaching Initiative, Ariadne, Issue 5, www.ariadne.ac.uk/issue5/cti/.
+
+O’Hara, K., Smith, F., Newman, W. and Sellen, A. (1998) Student Readers’ Use of Library Documents: implications for library technologies, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, Los Angeles, CA, pp. 233–40, New York, ACM Press.
+
+Rieger, O. (2009) Search Engine Use Behavior of Students and Faculty: user perceptions and implications for future research, First Monday, 14 (12).
+
+Rimmer, J., Warwick, C., Blandford, A., Gow, J. and Buchanan, G. (2008) An Examination of the Physical and Digital Qualities of Humanities Research,
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+Information Processing and Management, 44 (3), 1374–92.
+
+Rowlands, I., Nicholas, D., Williams, P., Huntington, P., Fieldhouse, M., Gunter, B., Withey, R., Jamali, H., Dobrowolski, T. and Tenopir, C. (2008) The Google Generation: the information behaviour of the researcher of the future, Aslib Proceedings, 60 (4), 290–310.
+
+Ruecker, S., Radzikowska, M. and Sinclair, S. (2011) Visual Interface Design for Digital Cultural Heritage, Ashgate.
+
+Shneiderman, B. and Plaisant, C. (2009) Designing the User Interface, Pearson. Smith, H. and Hyman, R. (1950) The Biasing Effect of Interviewer Expectations on
+
+Survey Results, Public Opinion Quarterly, 14 (3), 491–506.
+
+Stone, S. (1982) Humanities Scholars: information needs and uses, Journal of Documentation, 38 (4), 292–313.
+
+Tiley, J. (1996) TLTP: The Teaching and Learning with Technology Programme, http://www.ariadne.ac.uk/issue4/tltp.
+
+Vandendorpe, C. (2009) From Papyrus to Hypertext: toward a universal digital library, University of Illinois Press.
+
+Warwick, C. (2004) Print Scholarship and Digital Resources. In Schreibman, S., Siemens, R. and Unsworth, J. (eds), A Companion to Digital Humanities, Blackwell.
+
+Warwick, C., Terras, M., Huntington, P., Pappa, N. and Galina, I. (2007) The LAIRAH Project: log analysis of digital resources in the arts and humanities. Final report to the Arts and Humanities Research Council, www.ucl.ac.uk/infostudies/claire?warwick/publications/LAIRAHreport.pdf.
+
+Warwick, C., Galina, I., Terras, M., Huntington, P. and Pappa, N. (2008) The Master Builders: LAIRAH research on good practice in the construction of digital humanities projects, Literary and Linguistic Computing, 23 (3), 383–96.
+
+Warwick, C., Terras, M., Huntington, P. and Pappa, N. (2008) If You Build It Will They Come? The LAIRAH Study: quantifying the use of online resources in the arts and humanities through statistical analysis of user log data, Literary and Linguistic Computing, 23 (1), 85–102.
+
+Warwick, C., Rimmer, J., Blandford, A., Gow, J. and Buchanan, G. (2009) Cognitive Economy and Satisficing in Information Seeking: a longitudinal study of undergraduate information behaviour, Journal of the American Society for Information Science and Technology, 60 (12), 2402–15.
+
+Warwick, C., Terras, M., Fisher, C., Baker, M., O’Riordan, E., Grove, M. et al. (2009) iTrench: a study of user reactions to the use of information technology in field archaeology, Literary and Linguistic Computing, 24 (2), 211–24.
+
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+Social media for digital humanities and
+community engagement
+
+
+Claire Ross
+
+
+
+
+
+Introduction
+
+Since their introduction, social media sites and applications have attracted millions of users and have had a profound effect on behaviour, with many users integrating these resources into their daily practices. Social participatory media, such as social networks, blogs and podcasts, are increasingly attracting the attention of academic researchers and educational
+
+institutions. Because of the ease of use, social media offers the opportunity for powerful information sharing, collaboration, participation and community engagement. Despite this, currently, there is limited knowledge within academia of who is accessing and utilizing social media and crowdsourcing applications and for what purpose.
+
+   The digital humanities community was an early adopter of social media, utilizing it for scholarly communication, collaboration and dissemination. For early adopters in the digital humanities community, social media applications have quickly become a part of everyday digital life and, as such, risk either remaining unexamined or, worse, dismissed as a mundane or damaging phenomenon of little significance (Warwick, 2011). Work being undertaken at the UCL Centre for Digital Humanities (UCLDH) seeks to establish the study of various social networking technologies, such as microblogging and crowdsourcing, as an important element of digital humanities discourse. In order to understand how these tools and services are transforming scholarly practices, UCLDH is harnessing a range of social media applications, in order to investigate the use of social media in digital humanities, including conference backchannels, crowdsourcing and co?curation between research communities and the public. UCLDH projects, such as Transcribe Bentham1 and QRator,2 demonstrate that such technologies may be used in an academic
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+context to change how scholars interact with each other and how they make their research available to those outside academia.
+
+  This chapter presents a range of social media activities for digital humanities research, highlights the development of social media projects at the heart of UCLDH and stresses the opportunities and challenges of utilizing social media and crowdsourcing in an academic context to enhance community engagement.
+
+
+Social media in academia
+
+Social media refers to a collection of web based technologies and services, situated in the open and participatory culture of the internet, characterized by community participation, collaboration and sharing of information online: ‘The key aspect of a social software tool is that it involves wider participation in the creation of information which is shared’ (Minocha, 2009, 12). Wikipedia describes social media as:
+
+An umbrella term that defines the various activities that integrate technology, social interaction, and the construction of words, pictures, videos and audio. This interaction, and the manner in which information is presented, depends on the varied perspectives and ‘building’ of shared meaning, as people share their stories, and understandings.3
+
+Social software and Web 2.0 are other terms used to describe tools and platforms that enable similar user interaction. The term ‘Web 2.0’ is attributed to Tim O’Reilly (2005) to describe the second phase of the web. This phase saw online communications shift from what had typically been one?way commun? ication (e?mail, for example, is foremost a tool of one?to?one messaging) to a many?to?many style interaction. It has been variously described as the ‘age of participation’ (Schwartz, 2005), the ‘age of engagement’ (Cary and Jeffery, 2006) and an ‘authorship society’ (Rushkoff, 2005).
+
+   Many Web 2.0 services (blogging, microblogging, photo sharing, social bookmarking, social networking and wikis) are now referred to as social media. They have been used to facilitate research tasks and collaborative projects by a number of institutions. Social media encompasses a wide set of functional characteristics, within the context of computer?mediated communication and networked digital media. It uses audio, images, video and location?based services as channels to encourage, facilitate and provoke social interaction and user participation. Social media should not focus on the
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+ROSS: SOCIAL MEDIA FOR DIGITAL HUMANITIES AND COMMUNITY ENGAGEMENT
+
+
+technology, but the activity that is undertaken. Johnson et al. (2010, 13) agree, stating: ‘Collectively, social media are above all the voice of the audience, endlessly expressive and creative’. While key technological features are fairly consistent, the customs that emerge from social media are varied.
+
+  The Online Computer Library Center (OCLC) states: ‘while interaction occurs on social media sites, the primary purpose of the site is to publish and share content’ (2007, 15). These characteristics point to increased possibilities for academic publication, as well as encouraging mechanisms for content production, communication and collaboration. Social media has been used to facilitate research tasks and collaborative projects by a number of institutions. In the last few years, much has been written about the ways these tools are changing scholarly practice (Johnson et al., 2010; BECTA/Crook et al. 2008; Davis and Good, 2009). Social tools have the potential to contribute something to the traditional research process; they also have the potential to challenge the ways in which research is done, as social media can confront and develop current ideas and practice (RIN, 2011). Indeed, scholarly communication and discourse in a digital environment are beginning to highlight the fact that traditional barriers between formal and informal scholarly communication are now permeable. It has been argued that engagement in social media environments provides more avenues for self?representation, expression or reflection and more organized forms of collaboration and knowledge building (Conole and Alevizou, 2010; BECTA/Crook et al., 2008). There has been a huge growth in interest from scholars, and social software is now being used at every stage of the research life?cycle (CIBER, 2010). Yet, while awareness of social media among members of the academic community is high, there is still a large gap between awareness and actual regular use of tools.
+
+  Surveys undertaken on the use of social media within universities can provide an indication of the level of uptake (JISC, 2008; Smith, Salaway and Caruso, 2009; Smith and Caruso, 2010; Lam and Ritzen, 2008). Collectively, they suggest that uptake is occurring, but that it is not yet extensive across all aspects of research and teaching provisions. Chapman and Russell’s (2009) study on the current and active users of Web 2.0 – focusing on staff, students, tools and services in UK higher education (HE) institutions – found that active use appears to be still largely centred on early adopters, although students were more likely to be users. As the report states, an increasing proportion of new students to higher education (HE) are already using social media, but this does not apply to everyone; Web 2.0 digital literacy (and illiteracy) is still an issue that needs to be addressed (Chapman
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+and Russell, 2009). Even in teaching and learning, the impact of new technologies has not been as widespread or transformative as predicted (Pearce et al., 2010; Conole, 2004; Blin and Munro, 2008). Not all Web 2.0 tools and services are used to the same extent, and, some services, for example, blogs, microblogging and tagging, are more popular than others. It is important to caution against overgeneralizations from these surveys, in terms of extrapolating the uptake of both formal and informal Web 2.0 tools, as it is difficult to draw comparative conclusions systematically from surveys that use different research instruments.
+
+  Despite the potential applications of technologies in an academic context, their use raises some fundamental issues. There are some perceived barriers to uptake of social media applications in academia. One major barrier is lack of clarity, even among some frequent users, as to what the benefits might be. Other barriers evident from the literature include: concerns about expect? ations, experiences and competencies, with respect to using social media technologies (Conole and Alevizou, 2010); the perception that the use of these tools requires a large time investment; humanities scholars, in particular, feel they do not have the time to learn how to use them (Ross, Terras and Warwick, 2010); caution about trust issues, in terms of producing and sharing research in a medium which, as of yet, has no standardized way to formally attribute authorship; a lack of authority in an environment where anyone can comment, and it is difficult to determine whether contributions are valid or authoritative (RIN, 2011).
+
+  In the context of this last point, there is some fear that the quality of public and academic discussion and debate is being undermined. Keen (2007) and Carr (2010) have suggested that social media and the ubiquitous use of the internet are potentially damaging to our thinking, our culture and our society in general. There is also a perceived lack of confidence that appropriate instructional structures are in place to support these activities and an inherent scepticism as to whether these technologies will actually make a difference to academic practice. Identification and understanding of the barriers to broader uptake is essential, so that strategies can be devised to overcome them. While adoption of social media applications is growing in academia, there is a need to address these issues in a systematic way (Chapman and Russell, 2009; OECD, 2009).
+
+  Social media practices are beginning to have a direct impact upon scholarly dissemination. The ability to disseminate research widely, quickly and effectively is often cited as a key reason for academics to utilize social media (RIN, 2011). New practices are emerging in informal, online based
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+social communication spaces, outpacing development of practice within the formal modes of academic publishing. Many academics are using social media informally to facilitate opportunities for open exchange and presenting new ideas; SlideShare4 and Scribd5 are examples of how scholars are leveraging digital media to distribute informal scholarship. This enables other academics to access research as it happens and to participate in dialogue about research practice, which suggests that social media tools are creating a culture of openness in scholarship (Tatum and Jankowski, 2010).
+
+  In spite of some innovative features in online publishing, the structure of journal articles, books and monographs remains very much unchanged (Tatum and Jankowski, 2010). It has been suggested that traditional formats of scholarly publishing need to be re?addressed in light of the impact of social media applications, in particular, the way peer review is conducted (Fitzpatrick, 2009; 2010). Several innovative studies have been initiated to challenge traditional publishing formats, by creating an open form of peer review, in order to demonstrate how social media and open communication can transform formal academic publishing practice. Nature conducted an experimental trial with open peer review in 2006,6 and Shakespeare Quarterly completed one in 2010, using a software program developed by MediaCommons7 (Fitzpatrick, 2010). These projects are a step towards developing openness in scholarly communication; however, this is an issue that warrants further research. This chapter will now present an overview of three social media activities for digital humanities research, highlighting how, in an academic context, there are opportunities and challenges involved in utilizing social media and crowdsourcing, in order to enhance community engagement.
+
+
+Social media for harnessing the wisdom of the crowd
+
+The compound word ‘crowdsourcing’ combines ‘crowd’, in the sense of ‘the wisdom of crowds’ (Surowiecki, 2004), and ‘outsourcing’. The latter was defined by Jeff Howe, in 2006, as ‘the act of a company or institution taking a function once performed by employees and outsourcing it to an undefined (and generally large) network of people in the form of an open call’ (Howe, 2006). Wikipedia – itself heavily dependent on crowd?sourced content – defines crowdsourcing as: ‘Taking tasks traditionally performed by an employee or contractor, and outsourcing them to a group of people or community, through an “open call” to a large group of people (a crowd) asking for contributions’(http://en.wikipedia.org/wiki/Crowdsourcing).
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+  It is argued that the capability of a complex system, such as a crowd, is much better than a single system or individual, as it can produce a kind of shared or group intelligence, based on collaboration or competition of the many individuals in this group (Kapetanios, 2008). However, in order to attain the ‘wisdom of the crowds’, Surowiecki (2004) argues that four requirements must be fulfilled:
+
+1. Diversity: the crowd includes people with different backgrounds and perspectives.
+
+2. Independence: each participant makes their decision, independent of the others.
+
+3. Decentralization: the decisions are based on local and specific knowledge of the individuals, rather than of a central planner.
+
+4. Aggregation: a function that turns individual judgements into a collective decision.
+
+Crowdsourcing is an increasingly popular way of gathering content within an academic environment. Several authors have been working on a classification of crowdsourcing projects. For instance, Dawson’s ‘Crowdsourcing landscape’ (2010) organizes crowdsourcing sites into 15 categories, which illustrate the breadth of crowdsourcing initiatives. Rose Holley (2010) provides a valuable overview of the definition and purpose of crowdsourcing and its relevance to libraries and examines several recent large?scale participatory projects to identify common characteristics for success. Numerous academics, however, assert that crowdsourcing, and the use of Wikipedia, in particular, is not appropriate for scholarly settings, due to its amateur and community? based nature (Black, 2007; Achterman, 2005; McArthur, 2006). These viewpoints do not take into consideration Wikipedia’s ability to mediate a dialogue between differing perspectives held by contributors on any given subject. The ability to transform information and promote dialogue between disparate users provides Wikipedia with a definite advantage over traditional printed and static online content (Black, 2007; Deuze, 2006; Bryant, Forte and Bruckman, 2005; Lih, 2004). Recent research also indicates that Wikipedia is equal to, or even outperforms, comparable conventionally edited encyclopedias, in terms of accuracy (Giles, 2005; Besiki et al., 2008; Rajagopalan et al., 2010). The Australian Newspapers Digitisation Program,8 Galaxy Zoo9 and other Zooniverse10 projects are often highlighted as key examples of academic crowdsourcing (Hannay, 2010; Holley, 2010).
+
+Within UCLDH, we have been investigating the use of crowdsourcing as
+
+
+Account: undeloan
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+a tool for aiding academic transcription and for stimulating public engagement with UCL’s archive collections. Transcribe Bentham is a participatory project to test the feasibility of outsourcing the work of manuscript transcription to the general public, as the case study below sets out.
+
+
+
+
+CASE STUDY Transcribe Bentham: crowdsourcing in practice
+
+
+Tim Causer, Faculty of Laws, University College London, Justin Tonra, Department of English, University of Virginia, and Valerie Wallace, Center for History and Economics, Harvard University
+
+The Bentham Project at University College London has harnessed the power of crowdsourcing to facilitate the transcription of the manuscript papers of Jeremy Bentham (1748–1832), the great philosopher and reformer. UCL Library houses 60,000 of Bentham’s manuscripts, the majority of which have never been properly studied. The purpose of the Bentham Project is to produce a new authoritative edition of Bentham’s works – the Collected Works of Jeremy Bentham – based partly on transcripts of these papers. The Project has been active since 1959, and, since then, around 20,000 of Bentham’s papers have been transcribed and 28 volumes of his works have been published. The Project aims to produce around 70 volumes in total, and around 40,000 papers remain untranscribed.
+
+  The Bentham Papers Transcription Initiative, or Transcribe Bentham for short, was established in 2010 to quicken the pace of transcription, speed up publication, widen access to Bentham’s papers, raise awareness of Bentham’s ideas and contribute to the long-term preservation of this priceless collection in UCL Library’s digital repository. Transcribe Bentham outsources manuscript transcription – a task originally performed by skilled researchers – to members of the public, who require no special training or background knowledge to log on and participate. Transcribe Bentham was funded by the Arts and Humanities Research Council for one year.
+
+  In order to begin the process of crowdsourcing the transcription of Bentham’s manuscripts, two components were vital: high-resolution digital images of the manuscripts, which were photographed by UCL Learning and Media Services, and a tool to allow users to transcribe the text. The transcription tool was developed with simplicity in mind. Users type their submissions into a plain-text box, with the option of adding some basic formatting to their transcriptions. By highlighting a piece of text or a position in the text, and by clicking a button on
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+the transcription toolbar, users are able to identify particular characteristics of the manuscripts. These include spatial and organizational features, such as line breaks, page breaks, headings and paragraphs; linguistic features, like notes, unusual spellings and foreign-language text; compositional features, such as additions and deletions; and interpretive decisions about questionable readings and illegible text. This TEI (Text Encoding Initiative) XML encoding adds a further layer of depth and complexity to the transcripts, helping to render them searchable in a thorough and categorical fashion.
+
+  When a user completes a transcription and submits it for moderation, it is checked for textual accuracy and encoding consistency by a member of the project staff. If the transcript is deemed to be completed to a satisfactory degree, the transcript is locked to prevent further editing (though the formatted transcript remains available to view). If the moderator decides that the submitted transcript is incomplete, and could be improved with further editing from users, it remains available for editing on the Transcription Desk. Completed transcripts are uploaded to the digital collection of Bentham’s papers maintained by UCL Library and are viewable alongside the respective manuscript images; they will also, eventually, form the basis of printed volumes of Bentham’s collected works.
+
+  As manuscript transcription, particularly the transcription of Bentham’s difficult handwriting, is a complex task, the project team aimed to create a cohesive and dedicated community of mutually supportive and loyal transcribers, rather than a crowd of one-time users. The strategy to build a dedicated user community was twofold. First, the team devised a far-reaching publicity campaign to raise awareness of the project and to recruit transcribers; second, the team designed a user-friendly, easily navigable interface, in order to retain users, while facilitating communication between users and staff. The interface which hosts the manuscript images and transcription tool is a customized Mediawiki. It not only provides the means of integrating the essential components of the Transcription Desk, but also allows for the inclusion of guidelines for users, project documentation, a discussion forum and social media that enables interaction and discussion. A reward system and progress bars help to sustain user motivation.
+
+  During its six-month testing period, Transcribe Bentham attracted 1207 registered users (excluding administration and project staff and seven blocked spam accounts), who cumulatively transcribed 1009 manuscripts, of which 569 – or 56% – were deemed to be complete and, thus, locked to prevent further editing. Progress has continued since the end of the testing period, and, as of 3 June 2011, 1273 volunteers have registered with the project. One thousand four
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+hundred and seventeen manuscripts have been transcribed, of which 1179 – or 83% – are complete; the proportion of completed transcripts has risen, partly due to the growing experience of volunteers and partly due to project staff working through and signing off on previously incomplete transcripts.
+
+  During the six-month testing period, the Transcription Desk received a total of 15,354 visits from 7441 unique visitors or an average of 84 visits from 41 unique visitors per day. The publication of a feature article in the New York Times (NYT) on 27 December 2010 had a vital and enduring impact upon Transcribe Bentham. It is helpful, therefore, to consider the project’s testing period as having two distinct parts: period one, or the pre-NYT period, covering 8 September 2010 to 26 December 2010 (110 days); and period two, or the post-NYT period, covering 27 December 2010 to 8 March 2011 (72 days). Remarkably, 30% of all visits to the transcription desk during the six-month testing period came between 27 December 2010 and 4 January 2011.
+
+  Over the six-month testing period as a whole, volunteers transcribed an average of 35 manuscripts each week. It is estimated that if this rate were maintained, around 1800 transcripts could be produced by Transcribe Bentham volunteers in 12 months. These figures might seem unremarkable when compared to the results of other crowdsourcing initiatives, such as Galaxy Zoo, which has successfully built up a community of 250,000 users, who have classified over 100 million galaxies. However, transcribing Bentham’s papers is complex and time-consuming. Volunteers are asked to transcribe and encode manuscripts which are usually several hundred – and, occasionally, several thousand – words in length, in which text is frequently at various angles and which can be complicated further by deletions, marginalia, interlinear additions and so on. During the six-month testing period, Transcribe Bentham’s volunteers have produced around 5% of the 20,000 manuscripts transcribed by Bentham Project staff during 50 years; assuming that the average length of a manuscript is 250 words, volunteers have transcribed an estimated 250,000 words. As of 3 June 2011, volunteers have – on the same estimation – transcribed about 355,000 words.
+
+  Transcribe Bentham’s long-term future is secure, and the Transcription Desk will remain available for the foreseeable future. The project will continue, therefore, to have a significant impact in several fields. It has raised awareness of Bentham’s life and thought and produced transcripts which will contribute to the editorial work of the Bentham Project, including publication of printed editions of important Bentham texts and the creation of an invaluable, fully searchable digital collection, freely available on the web. The transcription tool behind the project will be released as a package on an Open Source basis for other projects to customize. Transcribe Bentham has also publicized
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+collaborative manuscript transcription widely, garnering a great deal of attention from the media and blogs, and has recently been honoured with an Award of Distinction in the prestigious Prix Ars Electronica. ?
+
+
+Social media for enhancing a community of practice
+
+A community of practice is formed by people of a shared domain, who engage in a process of collective learning by interacting on an ongoing basis (Wenger, 1998; Wenger, McDermott and Synder, 2002). The concept of ‘communities of practice’, developed by Lave and Wenger (1991), can be distinguished by five key features: their purpose, personnel, the nature of their boundaries, cohesive factors and longevity (Wenger, McDermott and Synder, 2002, 42). Social networks, work and research practice can have a significant impact on any community’s engagement with new technology systems (Dunker, 2002; Kling, 1999; Theng, 2002; Cunningham, 2002) and academic communities of practice are no exception. Digital humanities can be regarded as a community of practice, as Terras (2006) demonstrated. There is an identifiable community operating in the fields of computing and the humanities (Terras, 2006, 242), because the discipline is made up of individuals who self?select, on the basis of a unified sense of purpose and ‘expertise or passion for a topic’ (Wenger, McDermott and Synder, 2002, 42), which become cohesive factors. Utilizing social media to support communities of practice can assist the effective sharing of knowledge across departmental, institutional and discipline boundaries, thus promoting collaboration and co?ordination, while also increasing productivity and organizational performance (Millen, Fontaine and Muller, 2002; Mojta, 2002).
+
+   The ‘community of practice’ approach highlights how technologies that support information use can produce richer knowledge, which can be empowering (Wenger, 1998). One such technology is that of blogging. There has been a lot of discussion about academic blogging practice (Walker, 2006; Davies and Merchant, 2007); over the past few years, there has been a sharp rise in the number of academics who use blogging for scholarly communication. Microblogging, a variant of blogging, which allows users to quickly post short updates to websites, such as twitter.com, has recently emerged as a dominant form of information interchange and interaction for academic communities. The simplicity of publishing short updates, in various situations and in a fluid social network based on subscriptions and response, makes microblogging a groundbreaking communication method that can be seen as a hybrid of blogging, instant messaging, social
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+networking and status notifications.
+
+  Within UCLDH, we have been investigating the use of microblogging for enhancing an academic community of practice. This project highlights the implications of utilizing Twitter as an international academic conference backchannel, using the International Digital Humanities community as a case study, taking, as its focus, postings to Twitter during three different international conferences in 2009.
+
+
+
+
+CASE STUDY Babble or backchannel: conference tweeting in practice
+
+
+Claire Ross, Melissa Terras, Claire Warwick and Anne Welsh, UCL Department of Information Studies
+
+Microblogging, with special emphasis on Twitter.com11 – the best known microblogging service – is increasingly used as a means of extending commentary and discussion during academic conferences. This digital ‘backchannel’ communication (non-verbal, real-time communication, which does not interrupt a presenter or event: Ynge, 1970) is becoming more prevalent at academic conferences, in educational use and in organizational settings, as it allows for the ‘spontaneous co-construction of digital artefacts’ (Costa et al., 2008, 1). Such communication usually involves notetaking, sharing resources and individuals’ real-time reactions to events. The study of digital humanities conference tweets provides an insight into the digital humanities community of practice and into precisely how academics use Twitter in a conference based setting.
+
+  Formal conference presentations still mainly occur in a traditional setting; a divided space with a ‘front’ area for the speaker and a larger ‘back’ area for the audience, implying a single focus of attention. There is a growing body of literature describing problems with a traditional conference setting: lack of feedback, nervousness about asking questions and a single speaker paradigm (Anderson et al., 2003; Reinhardt et al., 2009). The use of a digital backchannel, such as Twitter, positioned in contrast with the formal or official conference programme, can address this, providing an irregular or unofficial means of communication (McCarthy and Boyd, 2005), which changes the dynamics of the room from a one-to-many transmission to a many-to-many interaction, without disrupting the main channel communication.
+
+  Digital humanists have, historically, been quick to adopt emergent media to aid their own tasks. This study analysed the use of Twitter as a backchannel for digital humanities’ conferences, focusing on three different physical conference settings held from June to September 2009 (Digital Humanities, 2009; That Camp,
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+2009; and Digital Resources in the Arts and Humanities, 2009). During the conferences, unofficial Twitter backchannels were established, using conference specific hashtags (#dh09, #thatcamp and #drha09, #drha2009)12 to enable visible commentary and discussion. The resulting corpus of individual ‘tweets’ provides a rich dataset, allowing analysis of the use of Twitter in an academic setting. It is possible to gain an insight into the user intentions of the digital humanities Twitter community through open-coded content analysis. To understand the interactions and user intentions of Twitter backchannel users, it was necessary to categorize the tweets. Tweets were manually labelled into seven categories: asking organizational questions; comments on presentations; discussions and conversations; establishing an online presence; jotting down notes; sharing resources; and unknown. The majority of tweets in the corpus fell into the category of jotting down notes, triggered predominately by the front channel presentation, suggesting that participants are sharing experiences and, to a degree, co-constructing knowledge. What is surprising is the lack of direct commentary on presentations. Although Reinhardt et al. (2009) argue that Twitter enables thematic debates and offers a digital backchannel for further discussion and commentary, the tweet data suggests that this does not appear to have happened to a significant extent at the digital humanities’ conferences. This raises the question of whether a Twitter-enabled backchannel promotes more of an opportunity for users to establish an online presence and enhance their digital identity, rather than encouraging a participatory conference culture. Nevertheless, jotting down notes can be considered an active contribution to the community, enabling the expansion of communication and participation in the event.
+
+  Participation inequality has been observed in other collaborative online environments for more than a decade (Nielsen, 2006; Anderson, 2008) and would seem to apply to Twitter. A high amount of users produced only one Tweet during the three conferences, which lends support to the notion of a 90:9:1 rule (Nielsen, 2006) for new social media, where 90% of users are lurkers, 9% of users contribute from time to time and 1% participate a lot and account for the majority of contributions. The fact that this is demonstrated in the corpus suggests that despite the close-knit nature of the fairly small digital humanities researcher community, it may also be somewhat intimidating for those new to the field, conference or Twitter itself.
+
+  When looking at the corpus of Tweets, one striking characteristic of the content is that conference hashtagged Twitter activity does not constitute a single distributed conversation, but, rather, multiple monologues and a few intermittent, discontinuous, loosely joined dialogues, which users enter and exit
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+at will. It is possible to suggest that beyond being a tool for writing and communicating, microblogging platforms may serve as foundations for building or enhancing a community of practice. Digital technology is often suggested as a tool to support communities of practice (see Wenger, White and Smith, 2009; Yardi, 2008; Adams, Blandford and Lunt, 2005). Microblogging as a digital backchannel can be suggested as being such a tool, by facilitating a forum for community related discussion, resulting in great levels of reflections, discourse, deep content knowledge (Yardi, 2006) and distributed expertise throughout the community. Such collective interaction and learning results in the improvement of the knowledge of each individual in the community and contributes to the development of the knowledge within the domain. For this reason, this method can be regarded as promising for academic environments, in facilitating informal communication, learning and the co-construction of knowledge.
+
+  The use of Twitter as a platform for conference backchannels enables the community to expand communication and participation of events amongst its members. This enhanced participation allows the digital humanities community to co-create knowledge, ensuring that the ‘collaborative knowledge of the community is greater than any individual knowledge’ (Johnson et al., 2010, 31). The Twitter enabled backchannel constitutes a complex multidirectional discursive space, in which the conference participants make notes, share resources, hold discussions and ask questions, as well as establishing a clear, individual online presence. The predominance of notetaking suggests that the digital humanities community could be classed as social reporters, commenting on the conference presentations for outsiders, rather than collaborating during the conference. There was also a tendency for a small group of users to produce the majority of tweets, interacting with each other about other matters. This suggests the small, friendly nature of the digital humanities researcher community, but may also be somewhat intimidating for those new to the field or conference.
+
+  With the increasing prevalence of Twitter in academic conference environments, it is possible to present digital backchannel communication as a viable tool for the co-construction of knowledge within a community of practice. However, this argument is by no means complete or definitive. Those who participate in digital backchannel communication at conferences, whether organizers, speakers or attendees, must understand and confront their visibility, issues of user awareness and potential negative factors, in order to influence the use of the Twitter enabled backchannel as an effective conference tool which fully encourages a participatory conference culture. The Twitter enabled backchannel thus raises some interesting questions about the nature of
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+conference participation and whether or not it is helped or hindered by a digital backchannel. Rather than pointless babble, the Twitter record produced at each conference provides important evidence regarding how digital humanities – as a community of practice – function and interact. ?
+
+
+Social media for co-construction of knowledge
+
+As more academic institutions begin to utilize social media in both research and teaching practice, the emphasis on social media research is changing from whether academia should participate in the social web, to how to best use it effectively to engage academic and non?academic audiences in an online dialogue. There has been an increasing focus on the role that universities can play in contributing to engaging the public in academic research (see NCCPE, 2011). Public engagement in academia is often described as a ‘cluster’ of activities, including, but not restricted to, learning, programmes and research, which address specific social, economic and political needs (Hall, 2010). In recent years, an increasingly wide range of public?facing activities have become prominent, particularly in science communication. However, the objectives, meanings and practices covered by the umbrella term ‘public engagement’ are becoming more fluid and are now characterized by a considerable degree of under?definition and overlap. The Department for Innovation, Universities and Skills (DIUS) define public engagement as:
+
+an umbrella term that encompasses many kinds of activity including science festivals, centres, museums, and cafes, media, consultations,
+
+feedback techniques, and public dialogue. Any good engagement activity should involve aspects of listening and interaction. (DIUS, 2008, 20)
+
+whereas the National Co?ordinating Centre for Public Engagement (NCCPE) offers a more general definition of public engagement, which is applied across academia or higher education:
+
+Public engagement brings research and higher education institutions together with the public. It generates mutual benefit – with all parties learning from each other through sharing knowledge, expertise and skills. Done well, it builds trust, understanding and collaboration, and increases the institution’s relevance to, and impact on, civil society. (NCCPE, 2009)
+
+Interestingly the majority of public engagement initiatives within UK
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+universities focus on face?to?face engagement, rather than using social media as an outlet.
+
+   UCL Centre for Digital Humanities, alongside the Centre for Advanced Spatial Analysis (CASA),13 UCL Museums and Collections14 and the UCL Public Engagement Unit,15 have set out to develop the area of social media research for public engagement. Social media technologies are being used to integrate digital humanities research within and beyond academia; involve the general public in digital resource creation and design; and apply digital technologies to cultural heritage. The QRator project, in particular, demonstrates that such technologies may be used in an academic context to change the way that scholars interact with each other and make their research available to those outside academia. The QRator project aims to stress the necessity of engaging visitors actively in the creation of their own interpretations of museum collections, alongside academic researchers.
+
+
+
+
+CASE STUDY QRator Project: enhancing co-creation of content in practice
+
+
+Claire Ross, UCL Department of Information Studies, and Steven Gray, UCL Centre for Advanced Spatial Analysis
+
+Emergent mobile technologies and the proliferation of social media tools offer museum professionals new ways of engaging visitors with their collections. Museum audiences are no longer ‘passive recipients of wisdom from on high, but want to participate, to question, to take part as equals, and to receive as high a standard of service as would be offered at any other type of leisure site’.16 UCL’s QRator project is exploring how handheld mobile devices, social media software and interactive digital labels can create new models for public engagement, personal meaning-making and the construction of narrative opportunities inside museum spaces.
+
+  The QRator project is located within the emerging technical and cultural phenomenon known as ‘The Internet of Things’: the technical and cultural shift that is anticipated as society moves to a ubiquitous form of computing, in which every device is ‘on’ and connected, in some way, to the internet. The project is based around technology developed at the Centre for Advanced Spatial Analysis, UCL, and is an extension of the ‘Tales of Things’ project (www.talesofthings.com), which has developed a ‘method for cataloguing physical objects online which could make museums and galleries a more interactive experience’ (Giles, 2010), via means of QR tags.
+
+
+
+
+
+© 2012. Facet Publishing. All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. orcopyright law.Copyrightapplicable
+
+
+
+
+  QRator provides the opportunity to move the discussion of objects from the museum label onto users’ mobile phones, allowing the creation of a sustainable, world-leading model for two-way public interaction in museum spaces. UCL’s Grant Museum of Zoology houses one of the country’s oldest and most important natural history collections. The Grant Museum has a strong history as a teaching collection, but also functions as a key gateway for the public to engage with academic issues in innovative ways. The project aims to genuinely empower members of the public within the Grant Museum, by allowing them to become the ‘curators’. QRator is an iPad based system that allows visitors and academic researchers to share their views on an exhibition and discuss provocative questions about the ways museums operate and the role of science in society. The iPads are linked to an online database, allowing the public to view ‘curated’ information and, most notably, to send back their own interpretation and views, via an iPad application. Unique to the UCL technology is the ability to ‘write’ back to the QR codes. This allows members of the public to type in their thoughts and interpretations of the object and click ‘send’. Similar in nature to sending a text message or a tweet, the system will enable the Grant Museum to become a true forum for academic-public debate, using low cost, readily available technology, enabling the public to collaborate and discuss object interpretation with museum curators and academic research-ers. QRator encourages visitors to tackle big questions in the life sciences and engage with the way museums work. Questions include: ‘Should human and animal remains be treated any differently?’ And ‘every medicinal drug you have ever taken was tested on animals. Is this a necessary evil?’ Visitors can examine museum specimens, before leaving their interpretation on an iPad to create a digital ‘living’ label that other visitors can read and respond to. Visitor narratives subsequently become part of the museum objects’ history and, ultimately, the display itself, via the interactive label system, allowing the display of comments and information directly next to the museum objects.
+
+  Many visitors expect, or want, to engage with a subject physically, as well as personally (Adams, Luke and Moussouri, 2004; Falk and Dierking, 2000). Visitors see interactive technology as an important stimulus for learning and engagement (Falk et al., 2002; Black, 2005), empowering users to construct their own narratives, in response to museum exhibits. Beyond expected content synthesis, these immersive activities can stimulate learning. Engaged within this immersive environment, museum objects become rich sources of innovation and personal growth (Fisher and Twiss-Garrity, 2007). When visitors experience a museum which actively encourages individual narrative construction, their activity is directed not towards the acquisition or receipt of the information
+
+
