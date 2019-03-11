@@ -1,0 +1,1159 @@
+62
+
+La lectura crítica en Internet
+
+La lectura crítica en Internet
+Beatriz Fainholc*
+bfainhol@speedy.com.ar
+
+Resumen
+
+Introducción
+
+En este artículo se expone, en primer lugar, la importancia que actualmente tiene la Internet como una
+de las principales tecnologías de la información y la
+comunicación (TIC’s), y su impacto en la enseñanza
+y práctica de la lectura crítica que se realiza a través
+de este soporte. El concepto tradicional de lectura, y
+en particular de la lectura crítica, es replanteado ante la hipertextualidad, interactividad, conectividad e
+intertextualidad que se presenta en la Internet, proponiendo no sólo un nuevo concepto sino una propuesta metodológica abierta - no taxativa - acerca de
+la práctica de una lectura crítica en Internet, en la
+cual se consideren las competencias que el usuario
+debe desarrollar para aprender a leer- decodificar y
+entender- a través de ella y propiciar la reflexión,
+aplicación y producción de nuevo conocimiento.
+
+La articulación de las TICs es un acontecimiento histórico-cultural sin precedentes, según Castells, M.
+(1994)1, que penetra todos los dominios de la vida
+cotidiana cuya centralidad es ser parte indisoluble de
+tal entretejido social. Representa cierto salto cualitativo por sus aplicaciones científicas, económico-financieras, comerciales, etcétera, de calidad creciente y a
+un costo decreciente aunque no exentos de múltiples controversias.
+
+* Directora del Centro de Diseño, Producción
+y Evaluación de Recursos Multimediales
+para el Aprendizaje (CEDIPROE).
+1 CASTELLS, M. "Flujos, redes e identidades:
+una teoría crítica de la sociedad informacional". En A.A.V.V.: Nuevas perspectivas
+críticas en educación. Ed. Paidós, Barcelona, 1994.
+
+Tecnología y Comunicación Educativas No. 37
+
+El estadio de telemática actual de Internet, no es
+la centralidad del conocimiento solamente, sino la
+innovación en la aplicación del conocimiento en la
+generación de saber en un circuito infinito de flujos
+retroalimentados de modo acumulativo .
+Por ello, la difusión de tecnología amplía su poder
+al ser apropiada y redefinida por personas y organizaciones en múltiples y variadas tramas interactivas,
+que reconfiguran redes infinitas.
+
+Se trata así primero de configurar y consolidar las
+habilidades de lectura y navegación, para luego
+transferirlas a diversas situaciones de interacción del
+modo más autónomo y recreador posible.
+Como se percibe, es un tema o contenido que
+debería interesar a todos los ciudadanos/as, consumidores/as o usuarios de nuestra sociedad, más allá
+de sólo a los profesionales de la educación y disciplinas afines, ya que la interacción con Internet, atraviesa casi toda la vida cotidiana actual.
+De ello trata este aporte donde además de describirse las características del lenguaje de la red electrónica, recordamos las características de la lectura
+en general, profundizamos qué significa leer en Internet, cómo son estas prácticas de lectura según diversas funcionalidades que deberían cumplirse en la
+red, si se persigue producir lectores críticos.
+
+Beatriz Fainholc
+
+Como las TICs están orientadas según procesos
+(Castells, op.cit.), el núcleo de las transformaciones
+referidas a las tecnologías del procesamiento y la
+comunicación de la información, apuntan a la dimensión cognitiva de personas y organizaciones
+que deberían tener equipos y programas disponibles o a crearse, no funcionarían o se subutilizarían
+al no disponerse de esta “fuente de energía”.
+
+Las TICs así, no son sólo simples herramientas, sino procesos productores y consumidores que desafiarán y extenderán la mente humana. No pueden
+ser entendidas como instancias aisladas de innovación tecnológica, sino como la expresión y resultado
+sinérgico de liderazgos históricos con proyectos de
+inversión socio-económico-culturales diversos, en
+condiciones históricas específicas, que introducen
+nuevos caminos aunque éstos sean acumulativos
+históricamente.
+Pena que “el lado oscuro de esta aventura tecnológica” es que ha estado atada a ambiciones sin freno y conflictos mundiales –entrelazados al fenómeno
+de la globalizacióni (Canclini, N, 1995)2– percibidos
+hoy como variables de una articulación no muy feliz
+por parte de cada sociedad, grupo o cultura, y que
+desde su especificidad, deberían condicionar su introducción, uso y trayectoria tecnológicas.
+Frente a las TICs, la enseñanza y práctica de la
+lectura en dicho soporte se convierte en un tema crucial y cada vez más necesario de tener
+en la mira si se entiende que las personas cada vez interactuarán más de modo virtual y
+global , es decir a través de la lectura en los
+soportes de convergencia tecnológica e interacción electrónica.
+De este modo, para interactuar y exprimir estos
+nuevos soportes y lenguajes, deberían desarrollarse
+capacidades para explotar cabalmente no sólo el
+potencial de las TICs sino la potencialidad de aprendizaje múltiple que caracterizan a las personas, si se
+desea que logren una comprensión profunda y en
+lo posible, crítica de los mensajes a los que acceden
+y con los cuales interactúan.
+
+i Globalización: conjunto articulado de
+procesos de dimensiones económicas
+(desterritorialización, acuerdos comerciales regionales, libre flujo de capitales,
+transformación de estructuras ocupacionales, etcétera), políticas (creación de
+estructuras y figuras jurídico-políticas supranacionales, arbitrajes, etcétera) y culturales –de soporte tecnológico o no–
+que acompañan e impulsan los cambios
+arriba nombrados, en tramas y procesos
+comunicacionales que no siempre se
+ven acompañadas por equidades diversas, respeto cultural, etcétera.
+2 CANCLINI G, N. "Consumidores y ciudadanos". Edit. Grijalbo, México, 1995.
+
+Enero-junio de 2003
+
+63
+
+La lectura crítica en Internet
+
+64
+
+También se propone un modelo de análisis para
+la realización de la lectura crítica en este soporte,
+para utilizar adecuadamente los sitios de Internet en
+general, para lo cual se presenta como “Sugerencias
+para un trabajo posterior”, un instrumento de evaluación para la aplicación por parte del lector.
+
+La red Internet
+Las TICs, y entre ellas, Internet presentan grandes
+promesas pero también riesgos o limitaciones según Burbules y Calister3 para proyectos de intervención comunicativos para una enseñanza sustantiva
+e innovación genuinas.
+Las propuestas de Internet, muchas transformadas en programas educativos online o virtuales, reclaman recuperar y consolidar el valor pedagógico y
+el sentido formativo en todas sus dimensiones. La
+centralidad así, es fortalecer las potencialidades de
+los usuarios como sujetos de aprendizaje para su-
+
+perar su estadio de simples consumidores de mercancías, a perceptores críticos de productos simbólico-tecnológicos, lo que remite al desarrollo y a la
+práctica de competencias de variado tipo. Las mismas concurren a fortificar cualidades éticas básicas
+hacia la emancipación, la solidaridad y la reflexividad
+en los saberes.
+Impulsar proyectos socioculturales y tecnológicoeducativos potentes que formen a lectores críticos y
+elaboradores de conocimiento, –además de ser una
+transformación cultural que los tiempos reclaman, –
+propone una transformación de las propuestas curriculares al articular todas las formas narrativas y códigos semiológicos. Se constituye en una obligación
+enseñar a leer y entender de modo comprensivo y
+crítico, los registros de los nuevos lenguajes –hipermediales de Internet– en esta época de cambio vertiginoso.
+Como es de suponer, los procesos de socialización en esta nueva dimensión se posibilitan a través
+de los fenómenos de interacción social e interactividad pedagógica (Fainholc, B. 1999)4 soportados
+por los procesos de la lectura.
+
+Una conceptualización de lectura
+Cuando una persona lee, predice, anticipa, apuesta... por ello, la lectura es un proceso constante de
+elaboración y verificación donde las predicciones
+conducen a la construcción de una interpretación.
+No habrá que olvidar que muchas veces este proceso incluye prejuicios, conceptos erróneos, etcétera, que refuerzan conocimientos vulgares que
+necesitan ser deconstruidos...
+
+3 BURBULES, N. Y CALLISTER, T.: "Educación: riesgos y promesas de las nuevas
+tecnologías de la información". Ed. Gránica, Buenos Aires, 2001.
+4 FAINHOLC, B.: "Interactividad en educación a distancia". Ed. Paidós. Buenos
+Aires.
+
+Tecnología y Comunicación Educativas No. 37
+
+Aunque nuestra sociedad aún presenta agudas
+inequidades respecto a un acceso igualitario para el
+aprendizaje de la lectura y de la escritura en general, lo que se ve agudizado en los nuevos soportes
+tecnológicos, es la necesidad de aprender a leer
+–decodificar y entender– las TICs deberán conducir
+a prácticas diferentes de lectura. Se trata de superar
+el simple “escaneo de siluetas en Internet” que se
+realiza a modo de lectura, para propiciar y facilitar
+lecturas no sólo de acceso a obras producidas por
+otros, sino para su reflexión y aplicación y, más adelante, a la producción de otras nuevas.
+Leer implica la capacidad de apropiación o aprendizaje, la comprensión, la comunicación y la expresión de la persona que lo practica. También es un
+acto recreativo al resemantizar nuevos significados
+con una dosis de placer que brinda a quien lo lleva
+a cabo al desarrollar el gusto por lo leído y, en el largo plazo, por la lectura en general con proyecciones
+en lo más profundo de su ser.
+
+2. Crítica o provocadora de segundas y terceras
+lecturas para la deconstrucción, análisis o desmonte cultural, ideológico, semiológico, etcétera, de los elementos “ocultos e implícitos” que
+aparecen naturalizados en un texto producido y
+distribuido por soporte electrónico de las TICs.
+
+Beatriz Fainholc
+
+tas, ya que sabemos que no se garantiza por si
+misma y de modo espontáneo, la activación de
+todo el potencial comunicativo y expresivo de
+una persona.
+
+Todo esto será posible si la persona puede leer, porque aprendió a leer y porque alguien dedicó tiempo
+y esfuerzo enseñándole a leer.
+Las TICs ofrecen como nunca antes alternativas
+promisorias pero dependerá de nuestros supuestos
+en nuestras "cabezas bien puestas" según Morin, E.
+(1999)6 para materializar una "buena práctica" de
+la misma, según la utilización que hagamos de ellas.
+
+Se entiende por lectura, –dentro del esquema
+transaccional e interactivo (Rumelhart, 1986)5 que
+supera al clásico–, como el proceso situado, recíproco y de interfusión entre el lector/a y texto donde la
+síntesis es el significado que construye la comprensión o el sentido de la lectura que produce el lector.
+El texto se enriquece por las transformaciones que
+los esquemas cognitivos y el afecto de la práctica
+del lector está llevando a cabo. Es decir, el significado que tiene para el usuario lector no es una copia
+réplica del significado que el autor ha establecido,
+sino una reconstrucción, interjuego del texto en su
+forma y contenido, los conocimientos y las experiencias previas que posee el sujeto lector –entre
+ellas– de socialización en el código en que se expresa el texto y, sus objetivos frente a esa lectura.
+Por lo tanto, se trata de un sistema abierto donde
+la centralidad se halla en la variación en y de la interpretación que practica cada persona que lee.
+La producción de conocimiento para poder participar en la "sociedad del conocimiento" se basa en
+poseer las competencias socio cognitivas y tecnológicas favorecedoras de lecturas comprensiva y crítica, las que se conceptualizan así:
+
+En la era digital de Internet con el fuerte desarrollo
+de estas nuevas tecnologías, las amenazas de desbordes a pesar de sus novísimas e ilimitadas posibilidades, de crecimiento, no deben menospreciarse.
+Si se quieren y necesitan personas críticas, resultado de una educación de calidad, debe apuntarse
+a la apropiación de las TICs en interacción con situaciones pedagógicas potentes.
+
+Internet y su código simbólico
+Internet es un artificio tecnológico –que implica convergencia tecnológica, virtualidad, simulación, etcétera–, se constituye en un entorno de aprendizaje con
+diseño, desarrollo y evaluación de experiencias reales de aprendizaje, cuando incluya actividades educativas que desencadenan procesos reflexivos a
+través de la mediación telemática.
+La singularidad del código simbólico de Internet,
+del estilo en que presenta los contenidos, de sus
+5 RUMELHART, D. y McClelland, J. "Pararell
+distributed processing". Cambridge,
+Mitt. Press. 1986.
+6 MORIN, E.: "La cabeza bien puesta".
+Ed. Nueva Visión, Buenos Aires, 1999.
+
+1. Comprensiva: incluye habilidades comunicacionales, entre otras, de control de la ansiedad, desarrollo de la concentración y una atención
+respetuosa de lo diverso, interés en el otro, empatía con las argumentaciones vertidas en diverso formato, además del dominio de las
+posibilidades técnicas de las nuevas herramien-
+
+Enero-junio de 2003
+
+65
+
+La lectura crítica en Internet
+
+66
+
+modos de narrar o relatar las cosas del mundo, etcétera, invita a resaltar algunas de sus características,
+(Ríos Ariza, J., de la Serna, M., 2000)7 que definen
+y determinan la naturaleza de la comunicación tanto
+desde el punto de vista del contenido como desde el punto de vista de la forma.
+Aquí es necesario tener en cuenta, por un lado lo
+referido a los contenidos o mensajes (lo que dice) y
+por otro lado, se incluye el modo en que se estructura, organiza y simboliza tal contenido (cómo es presentado) para también hacer referencia al uso que
+del mismo realiza el usuario (cómo y para qué es
+empleado) dentro de un contexto histórico-cultural.
+Veamos desde el punto de vista de la forma,
+donde es necesario reconocer las características semiológicas de Internet de:
+1 Hipertextualidad como el fenómeno posibilitado por la convergencia tecnológica actual que
+subsume todos los lenguajes simbólicos al digital o de la informática actual, que permite la articulación y combinación de diferentes textos
+presentados en formatos diversos y que según
+la demanda del lector, provoca en este usuario
+una lectura no secuencial o por enlaces de nodos, llamada navegación.
+2 Interactividad que supone la posibilidad de una
+relación social recíproca o intercomunicativa, entre personas y grupos, posibilitada por la existencia de elementos tecnológicos de hardware y
+software, y si se trata de situaciones educativas,
+se suma su potencialidad pedagógica, de interponer acciones y actividades –personales e interpersonales– planificadas didácticamente que
+favorecen el desarrollo y comprensión de conceptos, procedimientos y actitudes características en un entorno educativo.
+
+7 RÍOS ARIZA, J., DE LA SERNA, M.:
+"Nuevas tecnologías de la información
+y de la comunicación aplicadas a la
+educación", Ed. Aljibe, Málaga, España,
+2000.
+
+3 Conectividad: se manifiesta en la tecnología de
+redes y establece la posibilidad de comunicación infinita en red de redes –Internet o intranets–. Coadyuva a la interactividad remota a fin
+de acceder a materiales hipermediales y en general a ofertas de diverso tipo donde cada vez
+tienen mayor presencia programas de educación a distancia, e-Learning, etcétera, en escuelas y universidades.
+4 Intertextualidad: Conjunto de relaciones que
+un texto establece con otros de diversa elaboración, que a su vez, existen como discursos autónomos y que por enlaces , realizados por un
+usuario, resultan en procesos que construyen
+significados diferentes (o semiosis). Se vincula a
+la creación de sentidos nuevos a través de la
+práctica de la lectura de los más diversos relatos
+que por su enlace, logran uno nuevo o potencial respecto de los anteriores y del que se pueden extraer otros significados.
+A su vez, desde el punto de vista del contenido,
+los atributos mencionados antes, posibilitan y comprenden varios elementos como la búsqueda permanente de información o contenido variado entre
+los nodos enlazados de modo sintáctico, semántico
+y gramatical según demanda o interés del lector/
+navegante, que requiere claridad y concreción en la
+búsqueda del contenido y así reducir su ambigüedad y polisemia.
+También contribuye a reconocer el uso de conceptos y figuras como elementos estereotipados típicos
+de una comunicación rápida y supergeneralizada,
+
+Tecnología y Comunicación Educativas No. 37
+
+Para poder utilizar Internet, las personas deben
+comprender el proceso de construcción del conocimiento a través de las reglas de producción del sistema comunicacional semiológico y tecnológico
+sostenido en dicho soporte. Abrir programas y archivos, seleccionar las distintas opciones de un programa, guardar y recuperar información y comunicarse
+por diferentes vías telemáticas, implican comandos
+que necesitan de una adecuada comprensión procedimental para su uso.
+
+–bien conocida en ciertos programas de TV;– o incluir alertas en el abuso de una animación debido a
+la fuerza de la presencia de la imagen en movimiento que, por su gran similitud física con los hechos
+reales que representa, exacerba su redundancia, etcétera.
+El entorno, muchas veces caotizado de Internet
+facilita la oportunidad de distribuir mensajes sesgados, la creación y la utilización de tópicos que refuerzan los clichés y esquematizaciones sociales.
+Aquí es donde aparece el interés educativo más
+preeminente del trabajo con la red, por su potencial
+desmitificador en una socialización reflexiva. La pantalla de la PC, además de mostrar, alecciona a través
+de un "modelo de sociedad", a través de su locuacidad, super-elaborada, enlazada y de articulación
+de códigos simultáneos, que más que profundizar
+sentidos, los sobrevuela.
+
+Beatriz Fainholc
+
+Poner orden a la realidad, organizar los conceptos,
+ampliar clasificaciones iniciales generalizar en estructuras cada vez más flexibles es un proceso que se
+pone en marcha a partir de necesidades de entender la realidad, a los otros, etcétera, y se motoriza
+por la lectura en diferentes soportes y a través de diferentes códigos simbólicos.
+
+Desde lo verbo-icónico escrito se accede a la información a través de enlaces para una decodificación de marcas gráficas, íconos, metáforas que
+aparecen en el diseño de la interface, a través de
+pistas, índices, etcétera, que se brindan al lector para la construcción del significado, siempre y cuando
+posea algún desarrollo de las competencias que se
+lo posibiliten. Por lo tanto los diversos usuarios se
+enfrentarán a palabras clave o “llave” que son los
+nodos con enlaces de oraciones tópicas, multimedias, etcétera. También la diagramación, la puntuación y/o la entonación si tuviera audio o música,
+influyen en esta labor.
+La interrelación texto/contexto es inseparable para la comprensión; y la interpretación que de un texto se haga –en este caso en Internet– variará según
+dicha relación. La conjunción entre texto y contexto,
+entre significante y significado es lo que nos permite comprender un texto al alcanzar la estructura profunda que la persona construye con interlocutores
+locales y remotos.
+
+La lectura crítica en Internet: su práctica
+como evaluación potencial
+Las personas interactúan en un medio dado, cuando entretejen redes de significación cada vez más
+complejas y en la medida en que conceptualizan la
+realidad circundante. Estos procesos en su mayor
+parte se dan a través de la práctica de la lectura.
+Conceptualizar es un proceso lógico complejo por
+el que nos apropiamos de los objetos por conocer.
+Apropiarnos no es nombrar ni reconocer, sino poder
+reconstruir los elementos, las conceptualizaciones,
+las relaciones, interrelaciones, cualidades y determinaciones que los constituyen.
+
+Enero-junio de 2003
+
+67
+
+68
+
+La lectura crítica en Internet
+
+La lectura en Internet
+Se trata de una actividad cognitiva y perceptual de
+navegación, por la cual vivimos lo imaginario de las
+mediaciones culturales (Barbero, 1986),8 se focalizan, reconocen y apropian elementos característicos
+de diseños arbóreos para reconstruir por navegación, una trama narrativa.
+Es producto de un proceso gradual y progresivo
+de aprendizaje que culmina con el dominio de la hipertextualidad. Desde la etapa pre-textual donde la
+persona según Chartier “ojea”, “surfea”, degusta en
+interacciones lúdicas erráticas, pasa a una etapa intermedia donde domina hipertextos breves, concretos, claros y con gráficos sencillos, para que en una
+lectura activa o informativa, de búsqueda puntual de
+información transite a la etapa de lectura inspirada:
+de diálogo, descubrimiento, etcétera, también estructurada o dirigida, sintética, de confrontación con
+dominio de la lectura hipertextual.
+Esta práctica activa de lectura se da en textos largos, complejos y abstractos, donde el lector aplica
+competencias estratégicas y sobretodo la “lectura
+lateral” para llevar a cabo enlaces (links) ricos conducentes a la construcción de sentido.
+La lectura estratégica “en línea” es el resultado del
+proceso interactivo perceptual y de interpretación
+global donde se integra información: léxica, sintáctica, pragmática, esquemática, audiovisual, gráfica e
+interpretativa, por procesos distributivos en línea
+apelando a destrezas o procedimientos unos más
+automáticos o reflexivos que otros , durante y después de la lectura de un texto en Internet.
+Asimismo, la lectura hipertextual propicia cuatro
+tipos de lectura: vertical que es la que establece el
+sujeto; direccional o dada por el acceso idiosincrático a la información; secuenciada porque dos o más
+contenidos relacionados en la red aparecen en la
+misma pantalla; lateral producto de la cantidad de
+8 BARBERO, M. "De los medios a las
+mediaciones". Ed. G. Gili, Barcelona,
+1986.
+9 HABERMAS, J. "Teoría de la acción comunicativa." Ed. Taurus, Madrid, 2 Tomos. 1987.
+
+enlaces que, a la demanda puede realizar el sujeto
+según la demanda de información requerida (pero
+que al mismo tiempo, oculta otra).
+Como se percibe, aquí interviene lo selectivo referido al contenido lógico-simbólico cuanto lo tecnológico con los programas informáticos que
+posibilitan los links, animaciones, conectividad, etcétera. A ello se sumará lo socio-emocional idiosincrático como lo por la pertenencia a un grupo cultural,
+etcétera.
+El espacio de la lectura no es neutro ni indiferenciado, sino que los sujetos son “perceptores” que
+recortan activamente lo que leen y enlazan según
+sus preferencias y marcos mentales, según busquen goce estético, estímulos perceptuales, además de contenidos científicos o curriculares;
+comunicarse y compartir con otros (conocidos o
+no). Es dable recordar que en esta interacción de
+múltiples “inter subjetividades” se configura nuestra
+subjetividad.
+Por lo tanto, leer en Internet constituye la habilidad
+para interpretar y producir sentidos válidos y valiosos
+en un registro nuevo en términos semiológicos, histórico-culturales y tecnológicos, conformados en
+una red.
+La necesidad de desarrollar habilidades comunicativas referidas al buen escribir, hablar, escuchar y
+leer en este código simbólico de convergencia tecnológica es central a fin de poder no sólo trasmitir/
+expresar contenidos, sino resignificarlos, si se trata
+de integrar personas al medio social histórico-cultural contemporáneo y recrearlo.
+
+Las competencias para leer en Internet
+Se trata del desarrollo y consolidación de las competencias tecnológicas y socio comunicativas del orden de lo transversal, sin dejar de mencionar que las
+mismas se hallan sostenidas por “estrategias” particulares que se presentan en el esquema que sigue.
+Primero recordemos que una competencia es una
+capacidad compleja construida por distintos grados
+de integración de saberes previos y de aprendizajes
+inteligentes a partir de la interacción con herramientas y artefactos en situaciones diversas. Incluye un
+sistema abstracto de reglas, perteneciente a la “pragmática universal”, según Habermas, J.9 según un
+momento histórico y la demanda social específica,
+postura que supera el eficientismo, el procedimentalismo y el formalismo abstractos. Una estrategia
+apunta a procedimientos, métodos, técnicas que implican pasos regulares o medianamente estables para alguna realización con objetivos controlados.
+Entonces las competencias y estrategias necesarias
+para leer en Internet son:
+
+Tecnología y Comunicación Educativas No. 37
+
+Referidas al "saber hacer reflexivo"
+en el campo tecnológico informático y telemático de modo
+metacognitivo y crítico.
+
+2. Competencias comunicativas
+
+3. Estrategias
+
+Métodos, procedimientos, técnicas
+que implican pasos regulares y
+estables para realización objetiva
+controlada.
+
+l
+
+Saber hacer y operar con eficiencia, eficacia y
+pertinencia.
+
+l
+
+Implica procedimientos y actitudes relacionados
+a una racionalidad instrumental.
+
+l
+
+Supone una capacidad para comprender el
+mundo con una mirada crítica y no sólo operar
+equipos con efectividad.
+
+l
+
+Reconstruir el sistema general de reglas que permite leer, escribir, comprender, generar discursos con desempeños específicos según área.
+
+l
+
+Aplicar procedimientos efectivos para la comunicación en general y telemática en especial.
+
+l
+
+Actitudes proactivas y asertivas para la expresión
+y la comprensión.
+
+l
+
+Transferencia de capacidades de autoaprendizaje, autoevaluación y razonamiento fluido para la
+navegación en Internet.
+
+l
+
+Para el desarrollo, regulación y supervisión de la
+comprensión lectora en textos no secuenciales.
+
+l
+
+Dominar aspectos gráficos digitales, de búsqueda, discriminación, clasificación y jerarquización
+de información; dominio lingüístico textual y de
+otros lenguajes. simbólicos .
+
+Beatriz Fainholc
+
+1. Competencias tecnológicas
+
+No restringidas a algo específico
+en la red, sino de enseñanza
+transversal.
+La competencia tecnológica implica:
+l
+
+Saber hacer y operar con eficiencia, eficacia y pertinencia.
+
+l
+
+Implica procedimientos y actitudes relacionados a una racionalidad instrumental.
+
+l
+
+Supone una capacidad para comprender el mundo con una mirada crítica y no sólo operar equipos con efectividad.
+
+Se trata de aquellas competencias referidas al “saber hacer reflexivo” del campo del saber hacer informático y telemático-educativo en especial, del desarrollo metacognitivo, de la búsqueda de la autoconfianza y la guía para crítica, entre otros rasgos.
+
+Enero-junio de 2003
+
+69
+
+70
+
+La lectura crítica en Internet
+
+Leer para aprender en Internet
+luego de aprender a leer en Internet
+La lectura comprensiva es la actividad protagónica
+de una persona que realiza para construir una interpretación en base a un texto, no extrayendo o deduciendo o copiando su sentido, sino reinterpretándolo.
+Esta apreciación es aplicable a cualquier tipo de soporte textual por la intervención activa de un sujeto
+que procesa, atribuye y negocia significados.
+Contribuyen a este proceso los objetivos e intenciones que presiden y motorizan una lectura guiada
+de lectura virtual aunando los conocimientos previos
+y esquemas conceptuales del lector, la sapiencia de
+mínimos saberes informáticos y su motivación frente
+al esfuerzo cognitivo que debe ejecutar con cierta garantía de éxito al interactuar en línea. Se propone la
+siguiente ayuda:
+
+Objetivos de lectura ¿para qué leer?
+
+En general la aproximación veloz y acrítica penetración en Internet en la vida social cotidiana está
+sobrevolando el delicado y complejo tema de
+aprender y enseñar no sólo la decodificación del
+lenguaje simbólico que lo sustenta sino la veracidad
+o seriedad de las fuentes que se brindan en los buscadores de Internet.
+En las prácticas pedagógicas actuales se está dejando de lado o librada al azar, la enseñanza de los
+ítems enunciados, esperando –sin ninguna argumentación seria y rigurosa– que los sujetos en general, y los estudiantes en especial aprenderán
+solos o espontáneamente todo aquello que necesitan para construir, saber en los nuevos entornos, sin
+que se les enseñe.
+Sin despreciar todo el conjunto de elementos
+brindados por la socialización en la educación infor-
+
+Ejemplos de textos virtuales
+
+Para obtener información, ya sea general o bien, una
+información precisa.
+
+Noticias del periódico www.lanacion.com.ar
+http://news.bbc.co.uk
+Museos www.metmuseum.org
+http://mistral.culture.fr/louvre/louvrea.htm
+base de datos, glosarios.
+
+Para adquirir conocimientos específicos sobre un ámbito,
+tema o consulta a expertos.
+
+Libros y revistas especializadas,
+Diccionarios http://www.dictionary.com
+y enciclopedias http://www.thesaurus.com
+http://www.bbc.co.uk/education/webwise
+www.artcyclopedia.com
+
+Para software gratuitos
+
+http://www.completelyfreesoftware.com
+También incluye agendas, consignas, etc.
+
+Para disfrutar, por placer.
+
+Para facilitar información o comunicarse por placer con
+otros.
+
+Para acercarse a asociaciones,
+listas de correo y grupos de noticias.
+
+Animaciones, cuentos, poesías, novelas, arte, música.
+http://wwar.com
+http://www.kodak.co.uk
+Envío de cartas, noticias, un poema, dibujos, animaciones, etcétera.
+http://www.liszt.com
+http://www.barrysclipart.com
+http://wwwaln.org
+http://www.ed.psu.edu/acsde/deos/deos
+
+Para jugar y entretenerse con el propio lenguaje.
+
+Juegos, crucigramas, adivinanzas
+www.leer.org.ar
+www.cartoonnetwork.com.ar
+
+Para ejecutar acciones reales y simuladas.
+
+Instrucciones, resolver problemas, etcétera.
+www.ctuar.org.ar
+www.ventrella.com/Alifealife.html
+www.flightgear.org
+
+Tecnología y Comunicación Educativas No. 37
+
+1 No siempre los textos con que interactúan los
+usuarios son adecuados a su nivel representacional, conocimientos previos, etcétera, lo que
+imposibilita el desarrollo de su autonomía como
+lectores independientes y constructores de saber, además del desperdicio o uso restrictivo
+que de los recursos que se le ofrecen para realizar sus predicciones, hipotetizaciones o contrastaciones
+
+La centralidad se halla en el andamiaje por parte
+de facilitadores para que los usuarios se apropien
+más y mejor de este contenido conceptual y procedimental.
+
+2 No es lo mismo leer-navegar para buscar una
+información determinada que para formarse
+una idea global del contenido, que para transmitirlo a otra persona o comprender profundamente un tema para rendir una prueba. El
+estudiante deberá utilizar diversas estrategias,
+que él aprenderá a superar o compensar obstáculos, no ignorar los problemas, pedir auxilio para no interrumpir o desertar de dicha lectura
+
+Especial énfasis en la lectura comprensiva en Internet, poseen la enseñanza de las estrategias de
+planificación y control para que esta lectura en soportes veloces y complejos sea realmente productiva y fortifique su autorregulación o autonomía.
+Por lo tanto, predicciones e inferencias tienen
+una importancia crucial no sólo en relación a la
+construcción del significado sino para una búsqueda de la exactitud de la información y sobretodo para el logro de la autorregulación y la coherencia de
+todo el proceso emprendido.
+En otro orden de cosas, existen otros temas interesantes relacionados a la socialización, aprendizaje y enseñanza del lenguaje de Internet y su
+lectura, que únicamente mencionaremos:
+
+Beatriz Fainholc
+
+mal en la mediación tecnológico-educativa y psicosociocultural que la caracteriza, si se desea superar
+el estadio de “scanneo actual de siluetas”, encarnada en la lectura superficial en Internet, merece un
+tiempo de aprendizaje y de presencia en las prácticas de enseñanza contemporáneas sobretodo, para
+cumplir con los requisitos de brindar una educación
+de calidad para todos como una búsqueda de equidad y de calidad educativa.
+
+3 Para que alguien se sienta implicado en la actividad lectora en Internet, ésta deberá tener sentido para aquél, pero para atribuirle sentido, ese
+sujeto debe saber lo que debe realizar debe
+sentirse competente para ello y que la tarea le
+resulte a atractiva. No siempre lo que puede ser
+un reto interesante para uno lo es para otros, ya
+que puede transformarse en una seria carga
+que provoca frustración y abandono. De este
+modo, habría que diferenciar un lector “novato”
+de uno “experto” como ya se apuntará.
+
+La lectrura crítica en Internet
+A partir del antecedente de una lectura desmitificadora, realizada para los –MCS– medios de comunicación social (Gutiérrez y Prieto Castillo, 1974),10
+se retoma y amplifica este soporte, también siguiendo las orientaciones de Burbules y Calister
+(op.cit), entre otros.
+La necesidad de análisis y reflexión sobre lo que
+se mira y ve, se oye, escucha e interactúa local y
+globalmente, surge como un deseo de dominio
+más profundo del tema a través de lo simbólico,
+gramatical y técnico de su lenguaje y mediación.
+Realizar segundas o terceras lecturas robustece protagonismos y autonomías, confrontaciones veraces
+y reales intercambios formativos de los usuarios lectores/as.
+10 GUTIÉRREZ, F. y PRIETO, D. "Pedagogía de los medios de comunicación
+social" en "La pedagogía del lenguaje
+total". Ed. Humanitas, Buenos Aires.
+1974.
+
+Enero-junio de 2003
+
+71
+
+La lectura crítica en Internet
+
+72
+
+La propuesta de esta metodología abierta –no taxativa– acerca de la práctica de una lectura crítica en
+Internet que trata de provocar la interactividad pedagógica protagónica, debería transitar por los momentos que se enuncian a continuación, a fin que
+los usuarios la vivencien. Se trata de:
+A. Lectura denotativa
+Por la denotación se da comienzo al estudio analítico del núcleo temático del sitio de Internet. A través
+de esta lectura se establece el primer paso de la toma de conciencia de una realidad que necesita ser
+objetivada. Esta realidad, desde este momento se
+constituye en un objeto a conocer por parte de los
+participantes en este proceso. Por este motivo la
+lectura denotativa de Internet no puede quedar reducida a una simple enumeración y descripción de
+la realidad o visión intelectual de la misma, si bien
+ello es importante.
+El objetivo primordial de la denotación es el comienzo del análisis y de la reflexión crítica. El conocimiento ha de ser visto no como una acumulación
+de saberes, sino más bien como una mirada crítica
+de la realidad. En este sentido, se diferenciarán los
+dominios “edu”, “com”, “gob”, “org”, “net”, etcétera,
+ya que cada uno de ellos persigue objetivos diferentes y muchos de ellos no responden a planteamientos de educación.
+He aquí el objetivo primordial de la denotación. Si
+el estudiante no logra captar este sentido o significado, no hay real posibilidad pedagógica posterior.
+Hablar de educación en Internet al margen de este objetivo primordial es autoengañarse. Es preciso
+que el propio estudiante desenmascare esos modelos.
+B. Lectura connotativa
+La lectura connotativa de la realidad es importante
+y muy conveniente para que el proceso se desate
+en forma subjetiva ya que es el inicio de la problematización tanto individual como grupal.
+Todos los aportes subjetivos individuales y grupales serán aceptados como válidos, es decir, como
+reflejo de una realidad subjetiva y por lo tanto ninguna debe ser rechazada.
+En la connotación no importan tanto el o los objetivos conocidos en cuanto los sujetos que conocen. Interesa poner en juego los intereses, valores,
+connotaciones ideológicas, emociones y sensaciones de los participantes. Se trata que las "elecciones
+subjetivas" que sirvan como pistas; engranajes que,
+en cierta medida impulsen a los participantes hacia
+
+Tecnología y Comunicación Educativas No. 37
+
+nuevas dimensiones, algunas de las cuales es posible que ni siquiera hayan sido previstas. Ya desde
+este primer momento comienzan a "criticarse" los
+objetivos prefijados en el sitio o página de Internet.
+Tal vez parezca contradictorio en una metodología
+dar tanta importancia a lo ilógico, a lo intuitivo y en
+cierta forma a lo irracional como interviniente en el
+trabajo científico. Los aportes del procesamiento de
+la información por parte del hemisferio derecho del
+cerebro, las mediaciones y el peso de lo socioemocional en las interacciones son necesarios para llegar a lo racional o complementar lo racional desde
+lo creativo, liberar el espíritu de sus inhibiciones y
+crear un ambiente de libertad y espontaneidad.
+El proceso desatado con la problematización de
+la lectura connotativa tiene que llevar a un enfrentamiento con la realidad de modo tal que desencadene una reflexión crítica. Si se hace así, el éxito de los
+dos pasos siguientes está asegurado. No habrá dificultades, en primer lugar, en relación con la lectura
+estructural y en segundo lugar, habrán quedado al
+"descubierto" aquellos temas que realmente interesan a los participantes.
+Para llegar al significado es preciso que los estudiantes puedan "leer" los significantes que Internet
+les ofrece, ya que estamos frente a un problema de
+semiótica social.
+C. Lectura estructural
+Por la lectura estructural se apunta a encontrar el
+significado contextualizado. Se busca el máximo de
+causas, razones y consecuencias. Por eso interesa,
+
+A nadie se le escapa la importancia de la elección
+realizada por el autor que ha seleccionado, jerarquizado, relacionado y representado unos elementos en detrimento de otros, así como su intencionalidad, la cual
+influirá también en la veracidad de la información.
+La reflexión crítica de la lectura estructural sigue los
+siguientes pasos de:
+1. A la pregunta ¿qué es esto? Corresponde la reflexión crítica sobre las causas y efectos tanto del
+todo, como de cada uno de los elementos del
+todo presentado en el sitio. Se reflexionará sobre
+las causas y los efectos del objeto de estudio
+que se comenzó a analizar antes. Todo puede
+ser cuestionado y todo debe cuestionarse.
+2. En segundo lugar, es necesario un razonamiento crítico de la racionalidad estructural. Sabemos
+que una estructura no está constituida por la
+adición de elementos diseñados en un sitio, sino más bien por las relaciones que guardan entre sí. La reflexión crítica más importante no es
+tanto sobre los elementos –realizada en el paso
+anterior– cuanto sobre las relaciones de los mis-
+
+mos elementos que conforman la estructura del
+sitio, objeto de estudio.
+Se trata de reflexionar sobre las propiedades que
+son fruto de la diferente relación establecida dentro
+de un sitio determinado. Se analizará cómo nuevas
+relaciones o enlaces entre nodos determinan significados o efectos diferentes que, a su vez, son causa de otro proceso de relaciones distintas.
+En resumen, se trata de encontrar el significado
+de tal estructura presentada virtualmente en Internet
+como una realidad social a través de las diferentes
+formas de comunicación que provoca.
+
+Beatriz Fainholc
+
+no sólo el núcleo en sí, sino todo cuanto tenga relación con él: se interesa muy especialmente por el
+autor o los autores si están citados o no, su procedencia y calificación, las características tecnológicas,
+socioculturales, económicas, científicas, etcétera, del
+sitio en general y de la procedencia de su diseño.
+Es, por tanto, indispensable una visión crítica del
+"aquí y ahora" del núcleo, del autor y del contexto
+que presenta el sitio.
+
+D. Lectura creativa o producción alternativa
+Se trata de actividades de lectura con una fuerte carga cognitiva y metacognitiva no sólo interesantes en
+sí mismas de llevar a cabo, sino altamente educadoras o liberadoras de reflexión y producción creativa
+al estimular la real crítica y la producción alternativa
+utilizando el código del lenguaje de Internet.
+De este modo, el objetivo es realizar otra versión
+distinta a la presentada, o sea, crear un nuevo sitio
+para resolver un problema o satisfacer una necesidad para contextos particulares, y según necesidades específicas.
+La imaginación que caracteriza a los usuarios –estudiantes, profesores, etcétera– otorgará y añadirá
+actividades y sugerencias como elementos creativos
+a este modelo propuesto.
+A fin de cuentas se trata de animar al usuario –estudiante, maestro o profesor– al uso de este lenguaje electrónico del modo más expresivo y creativo
+posible, luego de su apropiación. Es decir, cómo una
+fuente más de expresión y de producción de información elaborada desde la perspectiva de la construcción crítica de saber que parte y se profundiza
+desde su práctica.
+Recuérdese que no se trata al lenguaje de Internet como otro contenido más, sino como un código
+de comunicación que habrá que desmitificar y
+aprender para desarrollar competencias específicas
+de lectura si se desea profundizar el entendimiento
+de las situaciones interactivas en Internet para luego
+llegar una producción alternativa de interacción electrónica según contenido.
+La primera fuente de creatividad es la expresión
+personal o auto expresión vital, no estereotipada, es
+decir, a modo del cultivo de los modos de expresión
+y que consiste en enseñar a las personas a “hacer”
+links, diagramas de contenidos, mapas de navegación, sonidos, imágenes, movimientos, etcétera, uti-
+
+Enero-junio de 2003
+
+73
+
+74
+
+La lectura crítica en Internet
+
+lizando las herramientas o artificios de Internet y de
+las TICs en general.
+Es la posibilidad de autoexpresión que apunta a
+la ruptura de los viejos estereotipos de los MCS como los nuevos de las TIC, ya que encierran un enorme potencial de creatividad y que deberían
+provocar al desarrollo personal y grupal para desarrollar a actores y no meros espectadores de la comunicación. Interesa no tanto el "qué", sino el
+"cómo" de las formas expresivas.
+
+gias poderosas que ayuden al usuario a leer, analizar y comprender de modo activo, vinculando su
+propio conocimiento con sus objetivos con los textos mismos. Por ello mostramos los siguientes
+ejemplos:
+1. Una de las estrategias usadas con más frecuencia
+para ayudar a estos fines es adoptar un objetivo
+y una postura activa frente a la lectura informativa: el KWL y su contraparte más individual el KWL
+(OGLE, D., 2001) 11.
+
+Finalmente: puestos a producir, la primera opción
+es: ¿lo digo hablando o escribiendo, filmando o
+usando Dream Weaver? Por lo cual debo pensar en
+qué comunicaré, a quién, para qué, dónde, cuándo,
+de qué modo o con qué recursos, lo que llevará a
+producir y comprender el texto de manera especial.
+Es bueno percibir así que un sin fín de habilidades (comunicativas, simbólicas, tecnológicas, etcétera) son necesarias para satisfacer la necesidad de
+comunicarse con el desarrollo de un nuevo lenguaje que no debe perder de vista su esencia social,
+cultural, pragmática, ni tampoco desestima su naturaleza intrínseca para vehiculizar conceptos, opiniones, ideas, sentimientos, valores, entre otras.
+
+La participación interactiva en la lectura
+en Internet: algunos ejemplos
+El incremento del uso de la Internet como fuente de
+información aumenta la necesidad de la práctica de
+una lectura crítica y una evaluación de textos, dado
+que muchos sitios en la Web no cuentan con instancias correctoras previas a su publicación y/o presentan la información de modo bastante sesgado.
+En nuestra sociedad se selecciona cada vez más
+material informativo para la posterior lectura personal por lo cual es necesario maximizar la veracidad
+y pertinencia del material informativo, con estrate-
+
+Las iniciales corresponden al inglés Know (qué
+sabemos), Want to learn (qué queremos saber)
+y Learn/Still need to know (qué aprendimos/
+qué necesitamos conocer aún).
+Estas tres categorías se colocan en una tabla de
+tres columnas. Antes de comenzar la lectura, se
+indaga acerca de los conocimientos previos y luego, se hace una lista de un "torbellino de ideas"
+producido por los participantes, induciéndose así
+un rango de nuevas ideas entre ellos.
+Cuando se logra un acuerdo con ciertos puntos, el
+facilitador puede formular el desacuerdo a modo
+de preguntas, colocándolas en la segunda columna de la planilla o en la pizarra bajo la columna
+–qué queremos saber– donde se ayuda a los participantes a activar el conocimiento que ya tienen
+respecto de lo que resultará relevante para la lectura de tal texto/s en Internet y también se los va
+ayudando a pensar de qué otras formas puede
+estar organizada la información.
+Durante la interacción/ navegación/ lectura, se
+escribe la información en la tercera columna
+–qué aprendimos– que incluye las nuevas ideas/procedimientos encontrados, las respuestas a
+sus preguntas y las nuevas preguntas que puedan surgir.
+
+Ejemplo de formato:
+11OGLE, D., 2001. Revista Latinoamericana de Lectura. Lectura y vida, Año
+22, Diciembre 2001. Buenos Aires,
+Ogle, 1991; Carr y Ogle, (1987).
+
+GRÁFICO DE KWL
+Qué sabemos
+
+Qué queremos saber
+
+Qué aprendimos /
+Qué necesitamos conocer aún
+
+Categorías de información:
+1.
+2.
+3.
+4.
+5.
+
+Tecnología y Comunicación Educativas No. 37
+
+Fuentes de información a utilizar
+
+El KWL+ incorpora el componente de reorganizar la propia información del usuario en
+una agenda gráfica.king at a great web site" [en línea]. http://www.ala.org/parentspage/greatsites/criteria.html
+[consulta: March, 1999].
+
+2. Los usuarios leen los textos de modo pasivo, como si toda la información tuviera la misma importancia o sin prestar atención a rasgos o ideas
+fundantes del texto, autor. Un modo de provocar
+mayor participación, es ayudar a los usuarios a
+que hagan "preguntas al autor, al sitio, etcétera".
+Esta propuesta de discusión desarrollada por
+Beck y sus colegas (1997) muy vinculada a nuestra lectura estructural y crítica, apunta a las siguientes preguntas:
+l
+
+¿Cuál es el mensaje del autor?
+
+l
+
+¿Se pueden entender bien las ideas del autor?
+
+l
+
+¿De qué otra manera se pudo haber escrito/diseñado/presentado/linkeado esto?
+
+l
+
+¿Estoy de acuerdo con el autor?
+
+l
+
+¿Es importante este asunto?
+
+l
+
+¿Son buenos los ejemplos que se dan? etcétera.
+
+Por lo tanto, se puede concluir que merece guiar el
+aprendizaje de la lectura y el análisis de los textos informativos en Internet para aprender con éxito.
+Vale la pena enseñar estos procedimientos (u
+otros a inventarse) que ayudarán a encarar una
+variedad de tareas y de materiales de aprendizaje
+que colaboran con los usuarios a reconocer que
+es necesario planear el trabajo, que se necesitan
+estrategias para seleccionar previamente según la
+tarea, los objetivos de aprendizaje y los materiales
+disponibles en Internet.
+
+Beatriz Fainholc
+
+La investigación indica que cuanto más trabajan
+los estudiantes con las ideas y procedimientos de
+un texto, más probable será que las recuerden
+más tarde. Simplemente leer no basta. Utilizar estrategias como KWL+ refuerza las diferentes formas en que los alumnos pueden encarar el
+aprendizaje de modo más efectivo.
+
+Sugerencias para el trabajo posterior
+Se presenta a continuación el instrumento que utiliza el CEDIPROE y la Cátedra de Tecnología Educativa de la Universidad Nacional de La Plata, Buenos
+Aires –cuya profesora titular es quien suscribe esta
+contribución– para invitar a los lectores de este
+aporte, que lo apliquen en diversas realidades y
+usuarios. Sería interesante compartir con ustedes
+sus impresiones y contrastes, por lo cual esperamos
+sus comentarios al cedima@ciudad.com.ar
+
+Enero-junio de 2003
+
+75
+
+La PRÁCTICA de la LECTURA CRÍTICA en INTERNET
+Este cuestionario tiene como objetivo que usted tome conciencia a cerca de su interactividad en un sitio de Internet o lo que es
+lo mismo, reconocer los elementos que permiten la navegación dentro de él y, en consecuencia, practica la lectura en un soporte electrónico.
+La prueba es autorregulada por lo que le rogamos su mayor franqueza, ya que ello redundará en el logro de su auto dominio, control y criticidad en los nuevos entornos de aprendizaje. GRACIAS!
+Nombre y apellido:
+E-Mail:
+Sitio visitado: URL:
+Objetivo de la visita / interacción:
+Nombre página principal:
+Exponga su opinión sobre la lectura / navegación:
+
+Institución
+
+76
+Si
+
+Generales
+1. ¿El nombre del sitio es adecuado?
+2. ¿Le ahorra tiempo su búsqueda?
+3. ¿La página principal está enlazada?
+4. ¿En todas las páginas aparecen insertados "encabezados" para que el sitio no pierda su sentido de pertenencia?
+5. ¿El sitio está "mantenido" o actualizado?
+6. ¿Las imágenes influyen / demoran en la descarga?
+7. ¿El sitio remite a un contexto nacional, regional, etcétera, específico?
+Navegación
+1. ¿Aparece una estructura clara del sitio que le facilita la interactividad del curso?
+2. ¿Le facilita un menú fijo con enlaces rápidos y fáciles a las opciones relevante y del sitio?
+3. ¿Existe un índice del curso o mapa de navegación facilitador?
+4. ¿Hay nodos que no están linkeadós?
+5. ¿Los hipervínculos que remiten a secciones del texto, le facilitaron la lectura?
+6. ¿Los elementos gráficos para la navegación, le facilitaron la lectura?
+7. ¿El uso de sustantivos o frases cortas para enlazar textos diversos, ayudan la comprensión?
+8. ¿Usted puede anticipar el contenido de pasaje de un link a otro?
+9. ¿Mantener color, forma, frase corta, etcétera, le ayuda a leer?
+Diseño gráfico
+1. ¿Los planos de las páginas están inteligente o racionalmente usados desde el punto de vista del diseño gráfico?
+2. ¿El diseño de las páginas hace que sean cortas y concisas?
+3. ¿El tipo de letra seleccionado es coherente?
+4. ¿Le permite fluidez en la lectura?
+5. ¿Las imágenes presentadas ayudan a la comprensión del tema?
+6. ¿El tamaño de las imágenes enlazadas es correcto?
+Lectura
+1. ¿Provoca y mantiene su interés durante la lectura?
+2. ¿El lenguaje es rico y cuidado?
+3. ¿Puede leer sin auxilio de programas auxiliares?
+4. ¿Las imágenes de fondo y sus colores perturban la lectura del texto?
+5. ¿Los elementos visuales, auditivos, applets, etcétera, se constituyen en textos alternativos?
+6. ¿Complementan el texto escrito facilitando la comprensión?
+7. ¿Los colores de contraste / vinculados le ayudan a identificar ideas / conceptos centrales?
+8. ¿La ortografía y gramática del texto escrito es correcta?
+
+Tecnología y Comunicación Educativas No. 37
+
+NO
+
+Porqué
+
+ALA's ALSC Children and Technology Committee.
+"Selection Criteria: How to tell if you are looking at
+a great web site" [en línea]. http://www.ala.org/parentspage/greatsites/criteria.html [consulta: March,
+1999].
+
+Fainholc, B. (2000). “Curso de tecnología educativa apropiada en Internet”, en Revista Iberoamericana de Educación a Distancia. Vol. 3, No. 2,
+Diciembre, Madrid.
+Fainholc, B. (2000). Hacia una mediación e interactividad pedagógica en los diseños de sitios educativos de interés, Publicación CEDIPROE.
+
+Alliende, F. y Condemarin, M. (1986). La lectura:
+teoría, evaluación y desarrollo. Santiago, Editorial Andres Bello.
+
+Goodfellow, J. M.; "Technology and the Production
+of Meaning", [en línea] http://www.wolfenet.com/~jmg/index.html, s/d.
+
+Alonso Tapia, J. Y Col. (1992). Leer, comprender y
+pensar. Nuevas estrategias y técnicas de evaluación.
+Madrid, CIDE.
+
+Grassian, Esther. "Thinking Critically About World
+Wide Web Resources" [en línea] [http://www.library.ucla.edu/libraries/college/instruct/web/critical.htm] [March, 1999].
+
+Anagnostelis, B. (1998) "Thinking critically about
+information on the Web". [en línea]. Royal Free Hospital School of Medicine. www.litc.sbu.ac.uk/publications/vine/104/article69.htm
+Anagnostelis, Betsy, Alison Cooke, and Alison
+McNab. "Thinking Critically about information on
+the web" [en línea] http://litc.sbu.ac.uk/publications/vine/104/article69.html [consulta: April
+1999].
+Beltran Llera, J. y Segovia Olmo, F. (1999). El aula inteligente. España, Editorial Espasa Calpe.
+Burbules, N., Callister, T. "Who Lives Here? Access
+to and Credibility Within Cyberspace" [en línea] http://faculty.ed.uiuc.edu/burbules/ncb/papers/who_lives_here.html [consulta: February, 1999].
+Cangelosi, A., Greco, A. & Harnad, S. (2002).
+“Symbol Grounding and the Symbolic Theft Hypothesis”. [en línea] In: Cangelosi, A. & Parisi, D. (Eds.)
+Simulating the Evolution of Language. London,
+Springer.
+http://www.cogsci.soton.ac.uk/~harnad/Papers/Harnad/harnad01.cangelosi-greco.pdf
+http://cogprints.soton.ac.uk/documents/disk0/00/00/21/32/index.html
+Cardona, G. (1994). Antropología de la Escritura.
+Barcelona, Editorial Gedisa.
+Dubois, M.E. (1989). El proceso de lectura: de la
+teoría a la práctica. Buenos Aires, Editorial Aique.
+Fainholc, B. (1996). Nuevas tecnologías de la información y la comunicación en la Enseñanza. Buenos
+Aires, Editorial Aique.
+Fainholc, B. (1998). Un proceso de lectura para el
+desarrollo de Personas Inteligentes. Trabajo presentado en el Congreso Internacional de lectura. Feria
+Internacional del Libro, Buenos Aires.
+
+Beatriz Fainholc
+
+Referencias bibliográficas
+
+Greer, Toni, et al "An Educators' Guide to Credibility and Web Evaluation" [en línea] [http://lrs.ed.uiuc.edu/wp/credibility/index.html]
+[consulta:1999]
+Gutiérrez, F. y Prieto, D. (1974). Pedagogía de los
+Medios de Comunicación Social. En La pedagogía
+del lenguaje total, Buenos. Aires: Editorial. Humanitas.
+Hamman, R. "The Role of Fantasy in the Construction of the On-line Other: a selection of interviews
+and participant observations from cyberspace", [en
+línea] http://www.socio.demon.co.uk/fantasy.html,
+s/d
+Henderson, John. "ICYouSee: T is for Thinking,"
+[http://www.ithaca.edu/library/Training/hott.html]
+[consulta: March, 1999].
+Hoffman, J. (1992). Critical reading/thinking
+across the curriculum: Using I-Charts to support
+learning. Language Arts, 69.
+Jones, Debra. "Untangling the Web". "Critical Thinking in an Online World". [http://www.library.ucsb.edu/untangle/jones.html] [consulta: April 1999].
+Landow, G. (1995). Hipertexto: la convergencia de
+la teoría contemporánea y la tecnología. Buenos Aires, Editorial Paidós.
+Livingston, K., Andrews, J., & Harnad, S. (1998).
+“Categorical Perception Effects Induced by Category Learning. Journal of Experimental Psychology:
+Learning, Memory, and Cognition” [en línea] 24(3)
+732-753
+http://www.cogsci.soton.ac.uk/~harnad/Papers/Harnad/
+McKenzie, J. "Beyond Edutainment and Technotainment".
+
+Enero-junio de 2003
+
+77
+
+78
+
+November, Alan. "The Web". "Teaching Zack to
+Think". [en línea] [http://www.anovember.com/articles/zack.html] [April 1999].
+
+Rogoff, B. (1984). Adult assistance of children´s
+learning. En T.E. RAPHAEL (ed.), The context of
+school - based litteracy. México: Editorial Trillas.
+
+Marinckovich, J.; Moran, P. y Benitez, R. (1999).
+La enseñanza de la escritura en el aula. Chile, Universidad Católica de Valparaíso.
+
+Romero Silvina. "La computadora como recursos
+alfabetizador", en Revista Lectura y vida, Año 23,
+Marzo 2002.
+
+Monereo, C. (1990). Las estrategias de aprendizaje
+en la educación formal. Infancia y aprendizaje, No.
+50, 3-25.
+
+Rosenblatt, L. y Flower, C. "Textos en contexto: Los
+procesos de lectura y escritura. La teoría transaccional de la lectura y la escritura. La teoría de la redacción como proceso cognitivo", en Revista Lectura y
+vida, Buenos Aires, 1996.
+
+Moran, P. (1999). Hacia el perfil de una competencia textual argumentativa: Una perspectiva pragma retórica. En Parodi, G. (ed). Discurso, cognición y
+educación. Chile: Ediciones Universitarias de Valparaíso.
+Ogle, D. (1991). The know, want know, learn strategy. En D. Muth (ed.), Children´s comprehension of
+text: Research and practice. Newark: DE, International Reading Association.
+Ogle, D. (2000). Make it visual. En M. McLaughlin y
+M.E. Vogt (eds.). Creativity and innovation in content area learning. Norwood: MA, Christopher - Gordon Publisher.
+Perez Tornero, J.M. (2002). Comunicación y educación en la sociedad de la información. España,
+Editorial Paidós.
+Pozo, J. (1990). Estrategias de aprendizaje. En Coll,
+C., Palacios, J. y Marchesi, A. (comps.). Desarrollo
+psicológico y educación II, Madrid: Editorial Alianza.
+Pressley, M. (1998) Cómo enseñar a leer. Barcelona, Editorial Paidós.
+Quintero, N.; Cortondo, P. y otros (1993). A la hora de leer y escribir ... textos. Buenos Aires, Editorial
+Aique.
+
+Sanchez Miguel, E. (1993). Los textos expositivos.
+Madrid, Editorial Santillana.
+Scagnoli, N. (2002). Evaluación de Recursos en Internet. Buenos Aires, Publicación CEDIPROE.
+Sloboda, J. (1986). La lectura: un estudio de casos
+de habilidades cognitivas. En Gellalty, A., La inteligencia hábil. Buenos Aires: Editorial Aique.
+Smith, F. (1983) Comprensión de la lectura. México, Editorial Trillas.
+Sole, I. (2001). Estrategias de Lectura. Barcelona,
+Editorial ICE – Grao.
+Van Dijk, T. (1988). Texto y contexto. Madrid, Editorial Cátedra.
+Van Dijk, T. (1993-94). “Modelos en la memoria. El
+papel de las representaciones de la situación en el
+procesamiento del discurso”, en Revista Latina de
+Pensamiento y lenguaje.
+Vygotsky, L.S. (1988). El desarrollo de los procesos
+psicológicos superiores. Crítica. Barcelona, Grupo
+Editorial Grijalbo.
+
+Tecnologías de información y comunicación,
+y educación a distancia:
+Desafíos en el desarrollo de América Latina
+Especialmente preparado para los miembros del CREAD
+
+Del 26 al 29 de agosto de 2003
+Puerto Plata, República Dominicana
+Universidad Abierta para adultos (UAPA)
+
+Co-organizadores Institucionales
+Secretaría de Estado de Educación superior, Ciencia y Tecnología de la República Dominicana (SEESCYT)
+Miembros del CREAD en la República Dominicana
+Universidad acción Pro-Educación y Cultura (UNAPEC)
+Pontificia Universidad Católica Madre y Maestra (PUCMM)
+Universidad del Caribe (UNICARIBE)
+Universidad de la Tercera Edad (UTE)
+
+Instituciones de apoyo miembros del CREAD
+COSTA RICA
+Universidad Estatal a Distancia (UNED)
+ECUADOR
+Universidad Técnica Particular de Loja (UTPL)
+MÉXICO
+Instituto Latinoamericano de la Comunicación Educativa (ILCE)
+PUERTO RICO
+Sistema Universitario Ana G. Méndez
+USA
+The Pennsylvania State University
+
+Actividad auspiciada por
+Banco Interamericano de Desarrollo (BID)
+Organización de los Estados Americanos (OEA)
+Virtul Educa
+
+

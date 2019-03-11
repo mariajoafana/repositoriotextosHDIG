@@ -1,0 +1,519 @@
+D O S S I E R
+
+l Manuel
+
+Area y Teresa Pessoa
+La Laguna (España) y Coimbra (Portugal)
+
+Recibido: 24-06-2011 / Revisado: 26-07-2011
+Aceptado: 12-09-2011 / Publicado: 01-03-2012
+http://dx.doi.org/10.3916/C38-2012-02-01
+
+De lo sólido a lo líquido:
+las nuevas alfabetizaciones ante
+los cambios culturales de la Web 2.0
+From Solid to Liquid: New Literacies to the Cultural Changes of Web 2.0
+RESUMEN
+En este artículo se propone un modelo de nuevas alfabetizaciones para la formación de la ciudadanía de la sociedad
+digital. Usando la metáfora de Bauman se hace referencia a la oposición entre la cultura «sólida» predominante en
+los siglos XIX y XX con la cultura de la información «líquida» en la que la Web 2.0 tiene efectos muy relevantes
+sobre múltiples planos de nuestra cultura actual. En un primer momento, se examinan las principales características
+de la Web 2.0 definiéndola en relación a seis grandes dimensiones o planos que se entrecruzan y son simultáneos:
+la Web 2.0 como la biblioteca universal, como mercado global, como un puzzle gigante de hipertextos, como una
+plaza pública de comunicación e interacción social, como un territorio de expresión multimedia y audiovisual, y
+como múltiples entornos virtuales interactivos. En una segunda parte, se propone un modelo teórico de la alfabetización del ciudadano ante esta cultura digital que consta de dos ejes o planos básicos: el primero referido a los ámbitos o dimensiones de la alfabetización, y el segundo a las competencias de aprendizaje (instrumentales, cognitivointelectuales, sociocomunicacionales, emocionales y axiológicas) a desarrollar en los sujetos. Por último, se defiende
+que las nuevas alfabetizaciones son un derecho de los individuos y una condición necesaria para un desarrollo social
+y democrático de la sociedad en el siglo XXI.
+ABSTRACT
+This paper proposes a model for developing new literacies of citizenship in the digital society. Using Bauman’s
+metaphor, we contrast the ‘solid’ culture of the 19th and 20th centuries to the «liquid» information culture of the 21st
+century in which Web 2.0 plays a fundamental role and affects many aspects of our culture. We first review the
+main features of Web 2.0 through six major dimensions: as a universal library, global market, as a giant hypertext
+jigsaw puzzle, a public space for social communities, a territory for multimedia and audiovisual expression, and as a
+space for multiple virtual interactive environments. In the second part, we propose an integrated theoretical model
+of literacy for the citizen. This model is based on two pillars: the areas or dimensions of literacy, and the competences (instrumental, cognitive-intellectual, socio-communicative, emotional and axiological) to be developed in citizens.
+Finally we contend that the new literacies amount to a civic right and a necessary condition for social development
+and a more democratic society in the 21st century.
+PALABRAS CLAVE / KEYWORDS
+Web 2.0, cultura digital, alfabetización, nuevas alfabetizaciones, alfabetizaciones múltiples, competencias, Internet.
+Web 2.0, digital culture, literacy, new literacies, multi-literacy, competences, Internet, ICT.
+v Dr. Manuel Area Moreira es Catedrático del Departamento Didáctica e Investigación Educativa 
+
+de la Facultad de Educación de la Universidad de La Laguna (España) (manarea@gmail.com).
+v Dra. Maria Teresa Ribeiro Pessoa es Profesora Auxiliar de la Facultad de Psicología y
+Ciencias de la Educación de la Universidad de Coimbra (Portugal) (tpessoa@fpce.uc.pt).
+Comunicar, nº 38, v. XIX, 2012, Revista Científica de Educomunicación; ISSN: 1134-3478; páginas 13-20
+www.revistacomunicar.com
+
+Comunicar, 38, XIX, 2012
+
+14
+
+1. Introducción: De la cultura sólida a la información líquida
+Hablar de lo sólido y lo líquido es una metáfora
+(Bauman, 2006), para caracterizar los procesos de
+cambio sociocultural actuales, impulsados por la omnipresencia de las tecnologías de la información y comunicación. La metáfora nos sugiere que el tiempo actual
+–su cultura digital– es un fluido de producción de información y conocimiento inestable, en permanente
+cambio, en constante transformación, como contraposición a la producción cultural desarrollada –principalmente en Occidente a lo largo de los siglos XIX y XX–
+donde primó la estabilidad e inalterabilidad de lo físico, de lo material, de lo sólido.
+Internet, y especialmente la denominada Web 2.0,
+ha trastocado las reglas de juego tradicionales de elaboración, distribución y consumo de la cultura. Por
+ello, los objetos culturales que fueron creados a lo largo del siglo XX (las publicaciones impresas, las salas
+cinematográficas, los discos y cassettes, las fotografías,
+etc.) están desapareciendo. Las TIC han provocado,
+o al menos han acelerado, una revolución de amplio
+alcance en nuestra civilización que gira en torno a la
+transformación de los mecanismos de producción, almacenamiento, difusión y acceso a la información; en
+las formas y los flujos comunicativos entre las personas; así como en los lenguajes expresivos y de representación de la cultura y el conocimiento. Los nuevos
+tiempos han generado nuevos actores (Internet, la
+telefonía móvil, los videojuegos y demás artilugios digitales) que están cambiando nuestra experiencia en
+múltiples aspectos: en el ocio, en las comunicaciones
+personales, en el aprendizaje, en el trabajo, etc. Lo
+digital es una experiencia líquida bien diferenciada de
+la experiencia de consumo y adquisición de la cultura
+sólida y, en consecuencia, precisa de nuevos enfoques
+y modelos de alfabetización y aprendizaje.
+
+que es una realidad excesivamente difusa, cambiante
+e inestable como para ser acotada en una definición
+precisa. En el artículo primigenio sobre la Web 2.0,
+O´Réilly (2005) ya enunció algunas de sus características más destacables: la Web 2.0 es más una plataforma de servicios que de software; es una arquitectura
+de participación, escalabilidad del coste-beneficio,
+transformaciones y remezclas de datos y de sus fuentes; software no atado a un único dispositivo, y aprovechamiento de la inteligencia colectiva.
+Desde nuestro punto de vista, la Red, es decir, el
+estadio actual de desarrollo de las telecomunicaciones
+y de la WWW, conocida genéricamente como la
+Web 2.0, pudiéramos caracterizarla en función de
+seis grandes parámetros o dimensiones de producción,
+consumo y difusión de la cultura que son coexistentes,
+se entrecruzan y se desarrollan de forma paralela. Es
+decir, la Web 2.0 es, simultáneamente, una biblioteca
+universal, un mercado global, un gigantesco puzzle de
+piezas informativas conectadas hipertextualmente, una
+plaza pública de encuentro y comunicación de personas que forman comunidades sociales, es un territorio
+donde prima la comunicación multimedia y audiovisual, así como la diversidad de entornos virtuales interactivos. La información en la Red es abundante, multimedia, fragmentada y construida socialmente en entornos tecnológicos. Lo digital es líquido y, en consecuencia, requiere nuevas alfabetizaciones a los ciudadanos del siglo XXI que les capaciten para actuar
+como sujetos autónomos, críticos y cultos en el ciberespacio.
+• La web como biblioteca universal: la sobreabundancia de información genera «infoxicación». Uno
+de los fenómenos más destacables de este comienzo
+del siglo XXI es la sobreabundancia de información
+generada por el incremento exponencial de la misma,
+
+2. La Web 2.0: la
+información líquida invade nuestra
+existencia
+Existe una amplia literatura que
+ha intentado definir
+y caracterizar qué
+es la Web 2.0 y sus
+efectos en múltiples
+planos de nuestra
+cultura señalándose
+© ISSN: 1134-3478 • e-ISSN: 1988-3293 • Páginas 13-20
+
+que es amplificada y difundida a gran escala por los
+servicios requieren de recursos humanos cualificados,
+múltiples y variados medios y tecnologías. Es lo que se
+o si se prefiere alfabetizados, de modo que posean las
+conoce como «infoxicación» (Benito-Ruiz, 2009), en
+competencias adecuadas para producir, gestionar y
+el sentido de que el cúmulo y excesiva cantidad de
+consumir productos basados en la gestión de informadatos genera, inevitablemente, una saturación o intoxición. Pero, también es muy relevante la formación o
+cación informacional que provoca que muchos sujetos
+alfabetización del cliente, del usuario, del consumidor
+tengan una visión confusa, ininteligible y de densa
+de los productos on-line de modo que conozca sus deopacidad sobre la realidad que les rodea (sea local,
+rechos y formas de actuar en las webs. En consecuennacional o mundial). Ésta es una de las paradojas culcia, la alfabetización también es la formación de los
+turales más representativas de nuestra época: disponetrabajadores de la industria digital y de los ciudadanos
+mos de los recursos y medios para la accesibilidad a la
+como consumidores responsables.
+información, pero la limitada capacidad de procesa• La fragmentación de la cultura: el triunfo del mimiento de la mente humana provoca que el umbral de
+crocontenido. La cultura de la Web 2.0 es fragmentacomprensibilidad de los acontecimientos se vea sobreda, es como un puzzle de microcontenidos, donde el
+pasado por la excesiva cantidad de información que recibimos. Por ello, distintos autores
+afirman que la sociedad de la
+La alfabetización debe representar un proceso de desarrollo
+información no significa necesariamente una sociedad de
+de una identidad como sujeto en el territorio digital, que se
+mayor conocimiento. Una cocaracterice por la apropiación significativa de las competensa son los datos y otra bien distinta es la capacidad de intercias intelectuales, sociales y éticas necesarias para interpretarlos, darles sentido y significado útil para ciertos proactuar con la información y para recrearla de un modo
+pósitos. Esto último es transcrítico y emancipador. La meta de la alfabetización será
+formar los datos informativos
+en conocimiento, en saber emdesarrollar en cada sujeto la capacidad para que pueda
+plear la información al servicio
+de la resolución de un probleactuar y participar de forma autónoma, culta y crítica en la
+ma. Aquí reside una de las mecultura del ciberespacio, y en consecuencia, es un derecho
+tas más relevantes de lo que
+significa ser un sujeto alfabetiy una necesidad de todos y de cada uno de los ciudadanos
+zado en la cultura digital.
+• La web como mercado
+de la sociedad informacional.
+o zoco digital: la información
+como materia prima de la nueva economía. La información
+ha pasado a convertirse en la
+materia prima de importantes sectores económicos de
+individuo debe construir su propio relato de experienla denominada nueva economía o capitalismo digital.
+cia en los entornos digitales. La cultura vehiculada a
+Las compras on-line, la gestión de servicios con las adtravés de las redes son piezas cortas, breves, separadas
+ministraciones públicas, la comunicación vía Internet
+unas de otras, pero entrelazadas mediante vínculos
+con empresas, asociaciones, entidades gubernamentapara su consumo rápido. Cada unidad u objeto cultules, el chequeo y gestión de nuestras finanzas o activiral (una canción, un post, un comentario en un foro,
+dades comerciales… son ya una realidad en nuestra
+un vídeo, un texto, una foto…) puede ser consumida
+existencia. Las industrias de la información y de servipor el usuario de forma aislada del contexto en el que
+cios on-line en sus múltiples formas se están convirlo produjo el autor, otorgándole, en consecuencia,
+tiendo en uno de los sectores estratégicos en la prootro significado diferente del original, puede ser reducción de la riqueza de un país. La Web 2.0 es cada
+mezclada con otras piezas generadas por otros autores
+vez más un espacio virtual de transacciones económiconfigurando de este modo una experiencia única y
+cas. Por ello, este tipo de empresas o instituciones de
+personal por parte del sujeto que navega. Componer
+© ISSN: 1134-3478 • e-ISSN: 1988-3293• Páginas 13-20
+
+Comunicar, 38, XIX, 2012
+
+15
+
+Comunicar, 38, XIX, 2012
+
+16
+
+una página web, un blog, una wiki, se parece más al
+proceso de armar un collage que al de elaborar una
+obra cohesionada y cerrada en sí misma.
+La comunicación en la Web 2.0 está provocando
+la extensión y consolidación de la «cultura del telegrama» que son potenciados por las características de
+interacción social de la telefonía móvil, de los blogs y
+de las redes sociales. Frente a la cultura epistolar del
+pasado hoy prima la economía de las palabras, y la
+urgencia en hacerlas llegar pronto al destinatario. Esto
+significa que nos estamos atrofiando como sujetos que
+dominan las formas expresivas para la redacción de
+textos prolongados y extensos, coherentemente argumentados y que estén construidos siguiendo una secuencia de inicio, desarrollo y conclusión (Carr,
+
+NIng, Flickr, Twitter o Facebook– tienen el potencial
+de que cualquier individuo pueda interaccionar y
+compartir información con muchas personas, de forma
+fácil, en directo y sin intermediarios. Internet no es solo
+un entramado global de máquinas o herramientas tecnológicas, es sobre todo un espacio de comunicación
+social, es una plaza pública de encuentro e intercambio de seres humanos que comparten unas mismas aficiones, intereses, problemáticas, o afectos. Las redes
+sociales generan lazos emocionales de pertenencia a
+un determinado colectivo o grupo social con el que
+interaccionamos.
+Las redes sociales, además de tener un poderoso
+potencial para el ocio y la comunicación informal también tienen utilidades profesionales, formativas o de
+aprendizaje ya que configuran
+comunidades de práctica. Esta
+dualidad del potencial de las
+Los nuevos tiempos han generado nuevos actores –Internet,
+redes sociales se manifiesta en
+múltiples planos, a veces diverla telefonía móvil, los videojuegos y demás artilugios digitagentes y aparentemente contradictorios. Por una parte,
+les– que están cambiando nuestra experiencia en múltiples
+generan fenómenos de moviliaspectos: en el ocio, en las comunicaciones personales, en el
+zación política y social, como
+ha ocurrido en las revoluciones
+aprendizaje, en el trabajo, etc. Lo digital es una experiencia
+del norte de África, o recientemente en España. Por otra, las
+líquida bien diferenciada de la experiencia de consumo y
+redes también responden a
+adquisición de la cultura sólida y, en consecuencia, precisa
+una tendencia hacia un cierto
+exhibicionismo a través de la
+de nuevos enfoques y modelos de alfabetización y
+tecnología como es el caso de
+comportamientos juveniles en
+aprendizaje.
+Facebook, Tuenti o Twitter
+donde es habitual una exhibición de las opiniones, fotografí2010). La mayoría de los textos de las redes sociales,
+as, canciones, páginas web, etc. a los demás (que en
+por el contrario son breves, espontáneos, cortos y
+lenguaje correcto se dice que son «amigos»). La alfapoco meditados. Es el triunfo de la inmediatez comubetización, en consecuencia, tiene que plantearse esta
+nicativa frente a la reflexión intelectual. Es el triunfo de
+dualidad, de modo que forme a los sujetos para su
+la escritura del SMS, y no del texto narrativo. La alfasocialización en comunidades virtuales, mediante el
+betización por tanto debe cultivar las competencias
+desarrollo de competencias de comunicación, donde
+para que un sujeto domine distintos lenguajes (sean
+primen la empatía, los valores democráticos y la cootextuales, audiovisuales, icónicos o sonoros) en diverperación con los otros, así como la conciencia de lo
+sas formas expresivas (microcontenidos, narraciones o
+que debe ser público y/o privado.
+hipertextos)
+• La web es un territorio creciente de expresión
+• La web como ágora pública de comunicación:
+multimedia y audiovisual. Cada vez más, la web se
+las redes sociales. La Web 2.0 muchos la denominan
+llena de imágenes, sonidos, animaciones, películas,
+como la red social en el sentido de que nos permite
+audiovisuales. Internet ya no es solo un ciberespacio
+estar en contacto permanente con otros usuarios y de
+de textos o documentos para leer. Ahora, de forma
+este modo, construir comunidades o grupos de comumás creciente la Web 2.0 es un lugar donde publicar
+nicación horizontal (Flores, 2009; Haro, 2010). Estas
+y comunicarse mediante fotos, videoclips, presentacioredes o comunidades virtuales –tipo Tuenti, Hi5,
+nes o cualquier otro archivo multimedia. El lenguaje
+© ISSN: 1134-3478 • e-ISSN: 1988-3293 • Páginas 13-20
+
+iconográfico y audiovisual está inundando los procesos
+comunicativos de la Red y ello requiere la alfabetización de los sujetos tanto como consumidores de este
+tipo de productos como en su formación como emisores de forma que posean las competencias expresivas
+para expresarse con los formatos multimedia y los lenguajes audiovisuales. Al respecto existe una importante
+tradición derivada de la denominada educación audiovisual y de la educación mediática que tiene mucho
+que aportar a este tipo de procesos alfabetizadores
+(Gutiérrez, 2003; 2010; Aparici, 2010).
+• La web como ecosistema artificial para la experiencia humana. Internet y demás tecnologías digitales
+están permitiendo construir un medio ambiente artificial que posibilita tener experiencias sensoriales en
+entornos tridimensionales o de mezcla entre lo empírico y lo digital, como es el caso de la denominada realidad aumentada (Cawood & Fiala, 2008). La tecnología media entre nuestra percepción individual como
+sujetos y la realidad representada en la misma, hasta tal
+punto que llega a mezclarse lo virtual y lo empírico generando «mundos virtuales» a través de plataformas
+on-line como Secondlife, Torque o OpenSim (Cherbakov, 2009). Estos mundos artificialmente construidos no solo permiten generar un avatar o personaje
+que nos representa, sino también vivenciar intensas
+emociones de comunicación e interacción social. La
+narrativa y experiencia interactiva humano-máquina
+que han propiciado los videojuegos están favoreciendo un nuevo tipo de experiencia cultural que requiere
+una formación o alfabetización específica (Sedeño,
+2010).
+3. Nuevas alfabetizaciones para la ciudadanía de
+la cultura de la Web 2.0
+Como estamos sugiriendo, los hipertextos, los gráficos en 3D, los mundos virtuales, los videoclips, las
+simulaciones, la comunicación en tiempo real y simultánea entre varios sujetos a través de un ordenador, las
+comunidades humanas virtuales o redes sociales, la
+videoconferencia, los mensajes y correos escritos a través de telefonía móvil o de Internet, la navegación a
+través de la WWW, las presentaciones multimedia,
+entre otras, representan un caleidoscopio de códigos
+expresivos y acciones comunicativas bien diferenciadas de lo que es la comunicación a través de la escritura y lectura en documentos de papel.
+Al respecto, desde hace casi una década, viene
+produciéndose una literatura sobre la alfabetización
+que, recogiendo por una parte, la tradición representada por el enfoque liberador y dialógico de Freire, y
+el enfoque de formación democrática del ciudadano
+© ISSN: 1134-3478 • e-ISSN: 1988-3293 • Páginas 13-20
+
+de Dewey, y, por otra, las aportaciones de la educación mediática crítica (critical media education) están
+pretendiendo elaborar una teoría de la alfabetización
+para la cultura digital. Al respecto, existen propuestas
+altamente influyentes, como el concepto de «multialfabetización» (Cope & Kalantzis, 2009), de «nuevas alfabetizaciones» (Lankshear & Knobel, 2009) o de Alfin –alfabetización informacional (Bawden, 2001)–
+impulsadas desde los ámbitos bibliotecarios y de documentación. Asimismo, también han aparecido distintos
+conceptos que adjetivizan la alfabetización del tiempo
+digital como «alfabetización tecnológica», «alfabetización mediática», «alfabetización digital», «alfabetización
+multimedia», o «alfabetización informacional» puede
+verse en Gutiérrez (2010), donde coinciden que la
+alfabetización ante la tecnología digital es un proceso
+más complejo que la mera capacitación en el manejo
+del hardware y el software y que lo relevante es la
+alfabetización ante los nuevos códigos y formas comunicativas de la cultura digital. Distintos autores (Gutiérrez, 2003; Snyder, 2004; Monereo & al., 2005;
+Tyner, 2008; Merchant, 2009; Leahy & Dolan, 2010)
+han abordado esta cuestión poniendo de manifiesto
+que la adquisición de destrezas de uso inteligente de
+las nuevas tecnologías pasa, al menos, por el dominio
+instrumental de las mismas junto con la adquisición de
+competencias relacionadas con la búsqueda, análisis,
+selección y comunicación de datos e informaciones
+cara a que el alumno transforme la información en conocimiento, que se convierta en un «prosumer» –productor y consumidor activo de información, así como
+que desarrolle las competencias de interacción comunicativa en entornos digitales. O dicho de otro modo,
+que tenga la competencia de apropiarse y otorgar significado a la densa información disponible en la Red y
+representada a través de múltiples lenguajes expresivos. Apropiación del significado y expresión multimodal serían los nuevos términos de los viejos conceptos
+de leer y escribir tradicionales en todo proceso alfabetizador. Pero, desde nuestra visión, hace falta ir más
+allá e incorporar nuevos elementos a los señalados en
+la formulación de una propuesta teórica para la alfabetización ante los cambios culturales derivados del
+desarrollo de la Web 2.0.
+A continuación ofrecemos las líneas maestras o
+arquitectura básica de un modelo de alfabetización
+integrado para la formación del ciudadano de la sociedad digital. Hemos conjugado por una parte, los ámbitos o dimensiones de aprendizaje sobre los distintos
+planos o escenarios que representa la Web 2.0 y que
+hemos identificado en el apartado anterior. Y por otra,
+las competencias y habilidades implicadas en todo pro-
+
+Comunicar, 38, XIX, 2012
+
+17
+
+Comunicar, 38, XIX, 2012
+
+18
+
+ceso alfabetizador como son la adquisición de competencias instrumentales, cognitivo-intelectuales, sociocomunicacionales, axiológicas y emocionales. El proceso alfabetizador implica, en consecuencia, el cruce
+de las competencias de aprendizaje con las dimensiones o contenidos de acción sobre la Web 2.0 con la
+finalidad de desarrollar –o facilitar la construcción– en
+el sujeto de una identidad digital como ciudadano que
+es capaz de actuar como persona culta, autónoma, crítica y con valores democráticos. La representación de
+este modelo integrador de la alfabetización puede
+verse en la figura.
+
+3.1. Los ámbitos o dimensiones de aprendizaje
+ante la Web 2.0
+El primer elemento o pilar de este modelo de alfabetización se refiere a qué es lo que debe saber hacer
+un sujeto alfabetizado con relación al uso de la Web
+2.0. Para ello, ofrecemos un cuadro resumen en el
+que hemos identificado las seis dimensiones de la
+Web 2.0 anteriormente expuestas (biblioteca universal, mercado global, microcontenidos enlazados hipertextualmente, comunicación multimedia, redes sociales y entornos virtuales) describiendo los ámbitos de
+aprendizaje que debe propiciar cualquier plan, proyecto o programa alfabetizador del tiempo actual.
+Estos seis ámbitos o dimensiones representan los «con-
+
+tenidos» de la alfabetización ya que la formación plena
+e integrada de un ciudadano del siglo XXI requiere
+que éste sepa actuar y participar de forma activa en los
+múltiples planos que se entrecruzan en la Web 2.0
+(ver tabla de la página siguiente).
+3.2. Las competencias implicadas en la alfabetización ante la cultura digital
+El segundo elemento o pilar de este modelo teórico de la alfabetización se refiere a la identificación de
+los ámbitos competenciales del aprendizaje del sujeto.
+En ocasiones anteriores hemos abordado esta cuestión
+(Area, 2001; Area & al.,
+2008) identificando cuatro ámbitos competenciales: instrumental, cognitivo, sociocomunicacional
+y axiológico. En el modelo que presentamos en
+este artículo hemos añadido una nueva competencia al proceso alfabetizador: la referida al ámbito emocional (Ibarrola e
+Iriarte, 2010). De este
+modo, el modelo educativo integral y globalizador para la alfabetización
+en el uso de las tecnologías de la información y
+comunicación requiere el
+desarrollo de cinco ámbitos competenciales que
+se desarrollan simultáneamente en el sujeto
+que aprende:
+• Competencia instrumental: relativa al dominio técnico de cada tecnología y de sus procedimientos lógicos de uso. Es decir, adquirir el conocimiento práctico y habilidades para el uso del hardware
+(montar, instalar y utilizar los distintos periféricos y
+aparatos informáticos) y del software o programas informáticos (bien del sistema operativo, de aplicaciones, de navegación por Internet, de comunicación,
+etc.).
+• Competencia cognitivo-intelectual: relativa a la
+adquisición de los conocimientos y habilidades cognitivas específicas que permitan buscar, seleccionar,
+analizar, interpretar y recrear la enorme cantidad de
+información a la que se accede a través de las nuevas
+tecnologías así como comunicarse con otras personas
+© ISSN: 1134-3478 • e-ISSN: 1988-3293 • Páginas 13-20
+
+mediante los recursos digitales. Es decir, aprender a
+utilizar de forma inteligente la información tanto para
+acceder a la misma, otorgarle significado, analizarla
+críticamente y reconstruirla personalmente.
+• Competencia sociocomunicacional: relativa al
+desarrollo de un conjunto de habilidades relacionadas
+con la creación de textos de naturaleza diversa (hipertextuales, audiovisuales, icónicos, tridimensionales,
+etc.), difundirlos a través de diversos lenguajes y poder
+establecer comunicaciones fluidas con otros sujetos a
+través de las tecnologías. Asimismo supone adquirir y
+desarrollar normas de comportamiento que impliquen
+una actitud social positiva hacia los demás como
+puede ser el trabajo colaborativo, el respeto y la empatía en redes sociales.
+• Competencia axiológica: relativa a la toma de
+conciencia de que las tecnologías de la información y
+comunicación no son asépticas ni neutrales desde un
+punto de vista social, sino que las mismas inciden significativamente en el entorno cultural y político de
+nuestra sociedad, así como a la adquisición de valores
+éticos y democráticos con relación al uso de la información y de la tecnología evitando conductas de
+comunicación socialmente negativas.
+
+© ISSN: 1134-3478 • e-ISSN: 1988-3293 • Páginas 13-20
+
+• Competencia emocional: relativa al conjunto de
+afectos, sentimientos y pulsiones emocionales provocadas por la experiencia en los entornos digitales. Éstas tienen lugar bien con las acciones desarrolladas en
+escenarios virtuales, como pueden ser los videojuegos,
+o bien con la comunicación interpersonal en redes
+sociales. La alfabetización de esta dimensión tiene que
+ver con el aprendizaje del control de emociones negativas, con el desarrollo de la empatía y con la construcción de una identidad digital caracterizada por el
+equilibrio afectivo-personal en el uso de las TIC.
+4. Conclusión
+La finalidad de la alfabetización es ayudar al sujeto
+a construirse una identidad digital como ciudadano
+autónomo, culto y democrático en la Red. La alfabetización en general, y de modo particular la denominada alfabetización digital, debemos analizarla como un
+problema sociocultural vinculado con la formación de
+la ciudadanía, y debiera plantearse como uno de los
+retos más relevantes para las políticas de las instituciones educativas destinadas a la igualdad de oportunidades en el acceso a la cultura. La educación, sea en
+escenarios formales como las escuelas, o no formales
+como las bibliotecas, los
+centros juveniles, los culturales o el
+asociacionismo, además
+de ofrecer un
+acceso igualitario a la tecnología debiera formar –o
+alfabetizar– a
+los ciudadanos para que
+sean sujetos
+más cultos,
+responsables
+y críticos, ya
+que el conocimiento es una
+condición
+necesaria
+para el ejercicio consciente
+de la libertad
+individual y
+para el desa-
+
+Comunicar, 38, XIX, 2012
+
+19
+
+Comunicar, 38, XIX, 2012
+
+20
+
+rrollo pleno de la democracia. Equidad en el acceso y
+capacitación para el conocimiento crítico son las dos
+caras de la alfabetización en el uso de las tecnologías
+digitales. Por ello, la alfabetización no debemos entenderla solamente como un problema de educación formal, sino también de aprendizaje informal.
+En definitiva, la alfabetización en la cultura digital
+o líquida de la Web 2.0 es algo más complejo que el
+mero aprendizaje del uso de las herramientas de software social (blogs, wikis, redes, y demás recursos del
+«cloud computing»). La alfabetización, desde esta perspectiva, debe representar un proceso de desarrollo de
+una identidad como sujeto en el territorio digital, que
+se caracterice por la apropiación significativa de las
+competencias intelectuales, sociales y éticas necesarias
+para interactuar con la información y para recrearla de
+un modo crítico y emancipador. La meta de la alfabetización será desarrollar en cada sujeto la capacidad
+para que pueda actuar y participar de forma autónoma, culta y crítica en la cultura del ciberespacio, y en
+consecuencia, es un derecho y una necesidad de
+todos y de cada uno de los ciudadanos de la sociedad
+informacional. Sin alfabetización no podrá existir desarrollo social armonioso en la sociedad del siglo XXI.
+Sin población culta –es decir, que posea una cultura
+sólida– no habrá una sociedad líquida que sea democrática e inteligente.
+Referencias
+
+ALEXANDER, B. (2008). Web 2.0 and Emergent Multiliteracies.
+Theory Into Practice, 47; 150-160.
+APARICI, R. (Coord.) (2010). Educomunicación: más allá del 2.0.
+Barcelona: Gedisa.
+AREA, M. (2001). La alfabetización en la cultura y tecnología digital:
+La tensión entre mercado y democracia. In AREA, M. (Coord.).
+Educar en la sociedad de la información. Bilbao: Descleé de Brouwer.
+AREA, M.; GROS, B. & MARZAL, M.A. (2008). Alfabetizaciones y
+tecnologías de la información y comunicación. Madrid: Síntesis.
+BAUMAN, Z. (2006). Modernidad líquida. Buenos Aires: Fondo de
+Cultura Económica.
+BAWDEN, D. (2001). Information and Digital Literacies: A Review of
+Concepts. Journal of Documentation, 57, 2; 218-259. Versión castellana en Anales de Documentación. (www.um.es/fccd/anales/ad05/ad0521.pdf) (09-08-2011).
+BENITO-RUIZ, E. (2009). Infoxication 2.0. In THOMAS, M. (Ed.).
+Handbook of Research on Web 2.0 and Second. Language Learning. Pennsylvania: IGI-InfoSci; 60-79. (http://storage.vuzit.com/public/a7l/Draft2ok_Ruiz.pdf) (08-03-2011).
+
+CARR, N. (2010). ¿Qué está haciendo Internet con nuestras mentes
+superficiales? Madrid: Taurus.
+CAWOOD, S. & FIALA, M. (2008). Augmented Reality. A Practical
+Guide. O´Reilly (http://oreilly.com/catalog/9781934356036) (0602-2011).
+CHERBAKOV, L. & AL. (2009). Virtual Spaces: Enabling Immersive
+Collaborative Enterprise. Part 1: Introduction to the opportunities
+and technologies. USA: DeveloperWorks (www.ibm.com/developerworks/webservices/library/ws-virtualspaces/index.html?S_TACT=105AGX04&S_CMP=EDU#rate) (06-04-2011).
+COPE, B. & KALANTZIS, M. (2009). Multiliteracies: New Literacies,
+New Learning. Pedagogies: An International Journal, 4; 3; 164195. (www.aab.es/aab/images/stories/Boletin/98_99/3.pdf) (09-082011).
+FLORES, J.M. (2009). Nuevos modelos de comunicación, perfiles y
+tendencias en las redes sociales. Comunicar, 33; 73-81 (http://dx.doi.org/10.3916/c33-2009-02-007).
+GUTIÉRREZ, A. (2003). Alfabetización digital. Algo más que ratones y teclas. Barcelona: Gedisa.
+GUTIÉRREZ, A. (2010). Creación multimedia y alfabetización en la
+era digital. In APARICI. R. (Coord.). Educomunicación: más allá del
+2.0. Barcelona: Gedisa.
+HARO, J.J. (2010). Redes sociales en educación. Madrid: Anaya.
+IBARROLA, S. & IRIARTE, C. (2010). Las emociones y la mejora del
+proceso comunicativo en la mediación. In Various: En Educar para
+la comunicación y la cooperación social. Pamplona: Consejo Audiovisual de Navarra. (wwww.consejoaudiovisualdenavarra.es/publicaciones/documents/sextapublicacion.pdf#page=203) (11-52011).
+KELLNER, D. & SHARE, J. (2007). Critical Media Literacy is Not an
+Option. Learn Inquiry 1; 59-69.
+LANKSHEAR, C. & KNOBEL, M. (2009). Nuevos alfabetismos. Su
+práctica cotidiana y su aprendizaje en el aula. Morata: Madrid.
+LEAHY, D. & DOLAN, D. (2010). Digital Literacy: A Vital Competence for 2010? In REYNOLDS, N. & TURCSÁNYI-SZABÓ, M. (Eds.).
+Key Competencies in the Knowledge Society. Berlin: Springer, IFIP
+AICT 324; 210-221. (www.springerlink.com/content/b2q8814521274838/fulltext.pdf) (01-09-2011).
+MERCHANT, G. (2009). Web 2.0, New Literacies, and the Idea of
+Learning through Participation English Teaching. Practice and Critique. December, 2009, 8, 3; 107-122.
+MONEREO, C. & AL. (2005). Internet y competencias básicas. Aprender a colaborar, a comunicarse, a participar, a aprender. Barcelona:
+Graó.
+O’REILLY, T. (2005). What Is Web 2.0: Design Patterns and Business Models for the Next Generation of Software. (ww.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web20.html).
+SEDEÑO, A.M. (2010). Videojuegos como dispositivos culturales: las
+competencias espaciales en educación. Comunicar 34, XVII; 183189 (http://dx.doi.org/10.3916/C34-2010-03-18).
+SNYDER, I. (Comp.) (2004). Alfabetismos digitales. Comunicación,
+innovación y educación en la era electrónica. Málaga: Aljibe.
+TYNER, K. (2008). Audiencias, intertextualidad y nueva alfabetización en medios. Comunicar, 30, XV; 79-85.
+
+© ISSN: 1134-3478 • e-ISSN: 1988-3293 • Páginas 13-20
+
+

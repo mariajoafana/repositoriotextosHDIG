@@ -1,0 +1,235 @@
+RUSC. Universities and Knowledge Society
+Journal
+E-ISSN: 1698-580X
+dbindexing@uoc.edu
+Universitat Oberta de Catalunya
+España
+
+Freire, Juan
+Presentación. Monográfico "Cultura digital y prácticas creativas en educación"
+RUSC. Universities and Knowledge Society Journal, vol. 6, núm. 1, marzo, 2009
+Universitat Oberta de Catalunya
+Barcelona, España
+
+Disponible en: http://www.redalyc.org/articulo.oa?id=78011179007
+
+Cómo citar el artículo
+Número completo
+Más información del artículo
+Página de la revista en redalyc.org
+
+Sistema de Información Científica
+Red de Revistas Científicas de América Latina, el Caribe, España y Portugal
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+
+http://rusc.uoc.edu
+
+Monográfico
+«Contenidos educativos en abierto»
+presentación
+
+Monográfico
+Prácticas
+y recursos
+de educación
+«Cultura digital
+y prácticas
+creativas
+abierta:
+la hoja de ruta OLCOS 2012
+en educación»
+artículo
+
+Juan Freire
+(coord.)
+Guntram
+Geser
+Profesor titular de la Universidad de A Coruña
+
+Sociedad red y cultura digital
+La irrupción de la tecnología digital en general y de Internet en particular, en los últimos años, ha provocado cambios extraordinariamente relevantes en nuestra sociedad, configurando lo que podríamos definir como un
+nuevo paradigma cultural. Se han modificado los comportamientos individuales y los modelos organizativos y,
+especialmente, aquellos procesos que afectan a la producción, distribución y uso de conocimiento y, por tanto, a
+la comunicación. En estos cambios es muy importante el papel de la tecnología digital dado que, por una parte,
+reduce los costes de comunicación y producción de conocimiento y, al tiempo, Internet incorpora en su propio
+diseño el modelo organizativo en red. Es la interacción de ciudadanía, organizaciones y tecnología la que configura
+la sociedad red.
+La educación, como proceso basado en conocimiento, comunicación e interacciones sociales se ha visto afectada
+de forma radical por la emergencia de la cultura digital que ha transformado a sus actores, profesores y estudiantes,
+provocando la necesidad de cambios en las propias instituciones educativas. Este número monográfico sobre «Cultura digital y prácticas creativas en educación» pretende desarrollar un análisis de las prácticas creativas y colaborativas digitales centrándonos en los usos de la web 2.0 y sus evoluciones tecnológicas y sociales en la educación. Esta
+transformación supone un reto esencial dado que, a pesar de que vivimos ya en una sociedad red, siguen existiendo
+muchos espacios, que afectan a una parte de los ciudadanos –y de las elites que gobiernan nuestras instituciones–
+«desconectados» que desconocen la naturaleza de estos cambios y, como consecuencia, manifiestan en muchos casos
+temores y resistencias a esta transformación.
+Pero, además, este proceso de cambio es multidimensional y, así, mientras las instituciones tradicionales intentan, con mayor o menor éxito, integrar tecnologías, una parte de la comunidad educativa explora ya nuevos caminos
+al margen de las instituciones al entender que no nos enfrentamos sólo ni principalmente a un reto tecnológico,
+sino a un cambio cultural en que la tecnología actúa como facilitadora, al tiempo que permite a los actores implicados independizarse en gran medida de las estructuras organizativas convencionales (que en muchas ocasiones
+actúan como barreras para la colaboración). Por tanto, coexisten, en muchas ocasiones de modo conflictivo, en
+estos momentos formas convencionales de educación, en las que la tecnología tiene mayor o menor implantación,
+con otros tipos de modelos radicalmente diferentes al convencional y unas comunidades de práctica empoderadas
+gracias a la irrupción de la tecnología digital que desarrollan formas de aprendizaje basadas en una actitud «do it
+yourself» (DIY; «hágalo usted mismo»). Estas actitudes, comunidades y usos de la tecnología son tan antiguos como
+la propia Internet, pero han vivido un extraordinario desarrollo en los últimos años, a partir de 2003, en paralelo
+con la explosión de la web 2.0.
+
+rusc vol. 6 n.º 1 (2009) | issn 1698-580x
+
+http://rusc.uoc.edu
+
+Monográfico «Cultura digital y prácticas creativas en educación»
+
+Evolución tecnológica
+En las universidades abundaron en la década de 1990 (y continuaron su predominio en los inicios del siglo xxi) los learning
+management systems (LMS) basados en sistemas cerrados que integran diferentes utilidades de gestión de contenidos y
+personas (estudiantes). Son herramientas disponibles comercialmente y dotadas de numerosas funcionalidades, aunque de
+difícil aprendizaje. Su propia arquitectura hace muy complicada su adaptación a necesidades específicas fuera de las predefinidas por el propio sistema. Por último, al ser sistemas cerrados, «atrapan» a sus usuarios, que cuando deciden cambiar a
+otro tipo de plataformas no pueden, en muchos casos, exportar su información o lo hacen con grandes dificultades.
+Muchas universidades pasaron, en los últimos años, por varias fases en el uso de los LMS. Inicialmente, muchas
+intentaron desarrollos propios que tuvieron una vida corta al comprobar la dificultad de mantener un ritmo y calidad de
+desarrollo comparables a los de comunidades abiertas o iniciativas privadas. Así, por ejemplo, a finales de los noventa, surge
+el antecesor de Blackboard, WebCT, como una iniciativa comercial que es adoptada por muchas universidades españolas.
+Pero el elevado coste de este tipo de plataformas hace que muchas universidades en España hayan ido abandonando estos
+LMS comerciales para utilizar plataformas abiertas y basadas en software libre como Moodle.
+Sin embargo, todas las funcionalidades propias de los LMS convencionales pueden ser desarrolladas también con
+herramientas de la web 2.0 que permiten la creación, gestión, colaboración y publicación. Además, estas herramientas son
+de código abierto y/o presentan API abiertas, y por tanto permiten su personalización e integración, son gratuitas o de
+coste muy bajo, su aprendizaje es fácil y se pueden adaptar de modo sencillo y rápido a necesidades específicas, sin que se
+necesiten grandes conocimientos técnicos. Por último, en oposición a los LMS basados en una arquitectura centralizada y
+controlada por la institución educativa, la web 2.0 vive en «la nube» en múltiples servidores y servicios externos.
+Esta transformación tecnológica acompaña y, en cierta medida, provoca otros procesos de cambio cultural mucho más
+relevantes que describía brevemente más arriba. Por ejemplo, la adopción de herramientas de la web 2.0 descentralizadas
+genera un conflicto entre instituciones y usuarios al modificarse las estructuras de control sobre los contenidos y las
+actividades de las personas. En todo caso, la transición de sistemas cerrados a abiertos y de arquitecturas centralizadas a
+distribuidas facilita el fortalecimiento de formas de aprendizaje en las que se prima la iniciativa del estudiante y sus capacidades creativas e innovadoras. Así, los estudiantes en estos nuevos modelos deben actuar cada vez más como socios y pares
+del profesor en la construcción de conocimiento como una estrategia de aprendizaje. Los estudiantes han de participar
+activamente en el proceso de aprendizaje, y colaborar tanto entre ellos como con los profesores trabajando tanto individualmente como en equipo. Los profesores cambian radicalmente sus funciones tradicionales, al tiempo que se diversifican
+las formas en que participan en el proceso de aprendizaje tomando papeles de consultores y facilitadores de información,
+facilitadores del aprendizaje, diseñadores de medios, moderadores y tutores virtuales y/o presenciales, orientadores, y evaluadores continuos. A pesar de este papel de evaluadores, que no desaparece, el proceso de evaluación se hace en realidad
+más transparente y objetivo al introducir objetivos que pueden ser evaluados externamente (por ejemplo, que los artículos
+de Wikipedia alcancen un determinado estatus).
+
+Medios digitales y aprendizaje formal e informal
+Pero no todo el proceso educativo que experimenta una persona, ni mucho menos, es dependiente del aprendizaje formal
+y de las instituciones educativas. De nuevo, Internet surge como plataforma donde se desarrollan procesos de aprendizaje
+informal que no pueden ser ya eludidos por el sistema educativo. Esta es una nueva fuente de conflictos y oportunidades
+que debe ser gestionada adecuadamente, pero existe una brecha entre la realidad cotidiana y la visión de esa realidad que
+se maneja habitualmente en los debates públicos. Mientras sectores crecientes de la población viven cada vez con mayor
+intensidad «vidas digitales» en las que, en su realidad cotidiana, la tecnología y los medios digitales son esenciales, existe
+una fuerte percepción de que Internet es una fuente de innumerables peligros y un factor de degradación de nuestra vida
+social y nuestra cultura. Es especialmente preocupante esta divergencia en el caso de los jóvenes que, por una parte, son
+usuarios intensivos de la tecnología que incorporan a su cultura y prácticas, y finalmente a su aprendizaje, pero al tiempo
+son los sujetos pasivos sobre los que vuelca su preocupación la sociedad a través de la educación. No es posible ya diseñar
+estrategias educativas eficaces y adaptadas a la era digital de espaldas a estas nuevas realidades.
+rusc vol. 6 n.º 1 (2009) | issn 1698-580x
+
+http://rusc.uoc.edu
+
+Monográfico «Cultura digital y prácticas creativas en educación»
+
+El conocimiento de la realidad es una parte esencial de la solución y, al fin, empiezan a aparecer evidencias relevantes
+procedentes de las ciencias sociales que nos informan sobre las formas en que los jóvenes utilizan y aprenden con los
+medios digitales. La reciente publicación de los resultados del proyecto Digital Youth Research (Kid’s Informal Learming
+with Digital Media),www1 que forma parte de la Digital Media and Learning Initiative de la Fundación MacArthur, ha
+permitido aportar información detallada sobre los usos que los jóvenes hacen de los medios digitales y el papel que juega
+Internet en su aprendizaje tanto dentro de las instituciones educativas como, especialmente, en el «mundo exterior».
+Entre las conclusiones de este proyecto, cabe destacar las evidencias que indican que los medios digitales se usan de un
+modo intenso y ubicuo para relacionarse en dos tipos de comunidades y redes. Por una parte, nos encontramos con las redes
+locales de «amigos» asociadas, normalmente, a actividades y organizaciones locales; estas «comunidades online íntimas a
+tiempo completo» se comunican mediante llamadas desde móviles, SMS y mensajería instantánea en los periodos del día
+en los que no se encuentran en el mismo lugar físico. Por otra parte, surgen las redes de interés, de alcance global y donde se
+relacionan con otras personas (jóvenes y adultos) con intereses similares, independientemente de su localización geográfica.
+En estas segundas redes es donde se desarrollan especialmente las capacidades creativas (escritura, video...) y proporcionan
+un canal para ganar visibilidad y reputación entre sus pares. En las redes de interés, surgen formas de participación que
+conforman un aprendizaje informal, al margen de las instituciones educativas, basado en la colaboración con otros usuarios
+(una forma de educación P2P) y en el ensayo y error, la exploración y el bricolaje.
+Por tanto, los jóvenes adquieren, principalmente, sus competencias digitales y habilidades tecnológicas en estos espacios
+digitales informales y su actividad es eminentemente social y apasionada. A diferencia del aula, los jóvenes prefieren los
+espacios digitales por la autonomía y libertad que les proporciona, y porque el estatus y la autoridad vienen determinados
+por sus habilidades y no por una jerarquía preestablecida.
+Lo realmente relevante de este proyecto son las implicaciones que sus resultados tienen para el diseño de la educación
+y los nuevos papeles que deben jugar las instituciones educativas, que deben facilitar este proceso de aprendizaje crítico de
+modo que los estudiantes adquieran las competencias imprescindibles para desenvolverse en la sociedad contemporánea.
+Para este objetivo, se debe aceptar la experimentación y exploración social que caracteriza a los medios digitales. La educación sucede ya más fuera que dentro de las aulas y, por tanto, las instituciones tradicionales deben saber adaptarse y ser
+útiles en este nuevo contexto. Con todo, las instituciones educativas y las familias siguen siendo relevantes. El uso de la
+tecnología no provoca, de modo determinista, el desarrollo de ciertas competencias por los jóvenes. Podríamos identificar
+dos formas de experiencia en Internet. Para muchos jóvenes, Internet es un gran espacio basura de banners, sitios con
+información inexacta y con intenciones exclusivamente comerciales. Es precisamente la actitud y el trabajo de padres y
+educadores la que puede marcar la diferencia, y hacer que los jóvenes pasen de perder el tiempo en este tipo de Internet a
+utilizar los espacios de aprendizaje y socialización que también existen en la Red.
+
+Cinco visiones de la cultura digital y las prácticas creativas en educación
+Los cinco artículos que componen este monográfico abordan, desde diferentes puntos de vista, y combinando el análisis
+teórico con los casos prácticos, los cambios que la cultura digital genera en los procesos educativos; para ello, se aborda
+tanto la función de la tecnología como los puntos de vista sociales y comunicativos.
+Aníbal de la Torre, en «Nuevos perfiles en el alumnado: la creatividad en nativos digitales competentes y expertos
+rutinarios», parte de la premisa de que la sociedad demanda nuevos perfiles profesionales y responsabilidades ciudadanas
+para las que es preciso desarrollar competencias comunicativas basadas en los medios sociales digitales. Este proceso, sin
+embargo, no está predeterminado por la tecnología ni es sólo ni principalmente una cuestión instrumental. Ese es el nuevo
+reto que deben afrontar las instituciones educativas y, especialmente, aquellas situadas en las fases iniciales del proceso
+formativo, como las que analiza este autor en su artículo.
+Tíscar Lara, en «El papel de la universidad en la construcción de su identidad digital», analiza las transformaciones que
+operan por la emergencia de la cultura digital y el nuevo papel que puede y debe desempeñar la universidad. En concreto,
+este artículo se detiene en el análisis de lo que la autora considera los elementos característicos de la cultura digital: la
+[www1] http://digitalyouth.ischool.berkeley.edu/
+rusc vol. 6 n.º 1 (2009) | issn 1698-580x
+
+http://rusc.uoc.edu
+
+Monográfico «Cultura digital y prácticas creativas en educación»
+
+participación, la remediación y el bricolaje. En este sentido, se propone una transformación radical para convertir la universidad en un papel de comisariado.
+Enrique Dans, en «Educación online: plataformas educativas y el dilema de la apertura», analiza la evolución tecnológica, las herramientas y plataformas educativas, que han acompañado a la irrupción de la cultura digital en el entorno
+educativo. Por una parte, los Learning Management Systems se han desarrollado bajo dos modelos, cerrado y abierto. Pero
+la innovación más relevante es la aparición de las herramientas distribuidas propias de la web 2.0 y la «computación en la
+nube», que provoca la práctica desaparición de las plataformas como tales y, en ese proceso, un cambio en las estrategias
+institucionales y en su propio papel como gestores de contenidos y de conocimiento.
+Jim Groom y Brian Lamb, en «La ineducación del tecnólogo», a partir de análisis de casos, dibujan un panorama de
+las transformaciones experimentadas por el aprendizaje universitario y, en particular, de los modelos abiertos y basados
+en la colaboración. El artículo constituye en sí mismo un experimento de traslación de la narrativa blog al mundo de las
+publicaciones académicas. A través de una colección de casos, se narra lo que los autores denominan una «revolución» que
+sucede en los márgenes del sistema universitario. Comunidades de profesores y estudiantes están empezando a usar las
+herramientas y contenidos abiertos y distribuidos propios de la web 2.0 como plataformas de aprendizaje en red en las que
+los roles de profesores y estudiantes se transforman radicalmente.
+Por último, Alejandro Piscitelli, en «Facebook. Esa reiterada tensión entre la sobrepromesa y la invención de nuevos
+mundos», realiza uno de los primeros análisis sobre el potencial de uno de los servicios de redes sociales más populares,
+Facebook, como plataforma para la alfabetización digital y mediática. Por lo emergente de este fenómeno, este artículo
+tiene mucho de exploración de escenarios de futuro y al tiempo de reflexión sobre la confrontación y/o sinergias entre el
+aprendizaje formal e informal. Pero, además, este artículo tiene el interés de adentrarse en las incertidumbres que genera la
+aparición continua de nuevos servicios tecnológicos susceptibles de provocar cambios culturales importantes, pero también
+de desaparecer del espacio público digital tras un breve periodo de atención intensa.
+
+rusc vol. 6 n.º 1 (2009) | issn 1698-580x
+
+http://rusc.uoc.edu
+
+Monográfico «Cultura digital y prácticas creativas en educación»
+
+	
+
+Esta obra está bajo la licencia Reconocimiento-NoComercial-SinObraDerivada 3.0 España de Creative Commons.
+Así pues, se permite la copia, distribución y comunicación pública siempre y cuando se cite el autor de esta obra y la
+fuente (Revista de Universidad y Sociedad del Conocimiento - RUSC) y el uso concreto no tenga finalidad comercial.
+No se pueden hacer usos comerciales ni obras derivadas. La licencia completa se puede consultar en: <http://
+creativecommons.org/licenses/by-nc-nd/3.0/es/>
+
+Sobre el autor
+Juan Freire
+Profesor titular de la Universidad de A Coruña
+Facultad de Ciencias, Universidade da Coruña
+Campus da Zapateira, s/n
+15071 A Coruña
+jfreire@udc.es
+Doctor en Biología y profesor titular de la Universidad de A Coruña en la que fue decano de la Facultad de
+Ciencias. Dirige el grupo de investigación en Recursos Marinos y Pesquerías que desarrolla numerosos proyectos de
+I+D. Cuenta con casi un centenar de publicaciones en revistas científicas internacionales, y participa asiduamente
+en conferencias y grupos de trabajo relacionados con esta temática. Colabora como consultor con empresas,
+administraciones públicas y ONG en temas de sostenibilidad y gestión ambiental. Ha participado en la creación
+de dos iniciativas empresariales de tipo spin-off nacidas de su trabajo de investigación dentro de la universidad.
+Actualmente, es fellow de e-Cultura, empresa dedicada a la gestión cultural para el desarrollo territorial. Desarrolla
+proyectos y consultoría sobre innovación y estrategia en redes y organizaciones, en especial explorando el papel de
+la tecnología y los modelos de código abierto en las redes sociales, las universidades, las empresas y las ciudades.
+Colabora con el medio digital Soitu.es. Más información en: http://juanfreire.net
+
+rusc vol. 6 n.º 1 (2009) | issn 1698-580x
+
+

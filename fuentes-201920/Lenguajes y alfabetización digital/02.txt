@@ -1,0 +1,825 @@
+Revista Interamericana de Bibliotecología
+ISSN: 0120-0976
+revinbi@bibliotecologia.udea.edu.co
+Universidad de Antioquia
+Colombia
+
+Villa Orrego, Nora Helena
+Propuesta de alfabetización visual para estudiantes de educación básica apoyada en recursos
+hipermediales: Un aporte a la comprensión lectora
+Revista Interamericana de Bibliotecología, vol. 31, núm. 1, enero-junio, 2008, pp. 207-225
+Universidad de Antioquia
+Medellín, Colombia
+
+Disponible en: http://www.redalyc.org/articulo.oa?id=179014347009
+
+Cómo citar el artículo
+Número completo
+Más información del artículo
+Página de la revista en redalyc.org
+
+Sistema de Información Científica
+Red de Revistas Científicas de América Latina, el Caribe, España y Portugal
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+
+Pr
+opuesta de alfabetización visual para estudiantes
+Propuesta
+de educación básica apoyada en recursos
+hipermediales. Un aporte a la comprensión lectora*
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+Nora Helena Villa Orrego
+
+**
+
+Resumen
+Frecuentemente los docentes ocupan una parte significativa de su tiempo en promover en los estudiantes la comprensión de textos verbales como parte fundamental del proceso de enseñanza-aprendizaje, relegando a un segundo plano las imágenes que los acompañan. Esta actitud esta asociada a una
+concepción tradicional de la comprensión lectora pese a que las imágenes ocupan un lugar destacado
+en las fuentes actuales de información y que en muchas ocasiones son portadoras de información
+diferente a la de los textos verbales. Este artículo expone los lineamientos básicos sobre los cuales se
+iniciaron los estudios acerca de la alfabetización visual y analiza el impacto de una propuesta de
+alfabetización visual en la comprensión lectora. Finalmente, describe los aspectos técnicos que se
+tuvieron en cuenta en la elaboración de un entorno hipermedial diseñado específicamente con el
+propósito de favorecer la lectura de imágenes en estudiantes de educación básica.
+Palabras claves: alfabetización visual, comprensión lectora, entorno hipermedial.
+Cómo citar este artículo: VILLA ORREGO, Nora Helena. Propuesta de alfabetización visual
+para estudiantes de educación básica apoyada en recursos hipermediales. Un aporte a la comprensión lectora. Revista Interamericana de Bibliotecología. Ene.-Jun. 2008, vol. 31, no. 1,
+p. 207-225.
+Artículo recibido: 10 de abril de 2008. Aprobado: 3 de junio de 2008.
+
+Abstract
+Frequently, teachers invest a great deal of time in promoting the comprehension of verbal texts by
+students as a fundamental part of the teaching-learning process, and relegate the accompanying
+images to a second place. This attitude is associated to a traditional conception of reading
+comprehension, in spite of the fact that images occupy a salient place in current information sources
+and that in many occasions they carry information different to the verbal texts. This article presents
+the basic rationale over which studies regarding visual literacy were initiated and analyzes the impact
+of a proposal for visual literacy in reading comprehension. Finally, it describes the technical aspects
+○
+
+*
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+Este artículo se deriva del proyecto de investigación, concluido recientemente, Formulación y experimentación de una
+propuesta de alfabetización visual para estudiantes de educación básica, apoyada en recursos hipermediales, financiado por Colciencias y la Universidad de Antioquia, Medellín, Colombia. Desarrollada entre 2006 y 2008.
+
+** Investigadora principal. Comunicadora Social –Periodista, profesora de la Facultad de Comunicaciones de la Universidad
+de Antioquia. Integrante del grupo de investigación Didáctica y Nuevas Tecnologías y candidata a Doctora en Educación
+de la Facultad de Educación de la Universidad de Antioquia, Medellín, Colombia. noravillaorrego@gmail.com
+
+207
+
+Rev. Interam. Bibliot. Medellín (Colombia) Vol. 31 No. 1 enero-junio de 2008. ISSN 0120-0976
+
+that were taken into account in the elaboration of a hypermedia environment designed specifically
+with the purpose of favoring the reading of images in elementary school students.
+Key words: visual literacy, reading comprehension, hypermedia environment
+How to cite this article: VILLA ORREGO, Nora Helena. Proposal for visual literacy based on
+hypermedia resources for elementary school students. A contribution for the reading comprehension.
+Revista Interamericana de Bibliotecología. Ene.-Jun. 2008, vol. 31, no. 1, p. 207-225.
+
+oducción
+Intr
+Introducción
+Las tecnologías de la información y de la comunicación (TIC), han creado un
+escenario propicio para la exhibición de la imagen como portadora autónoma de
+significados. Aunque su aparición continúa coincidiendo con la de los textos verbales,
+su rol es cada vez más protagónico. Los medios a través de los cuales se produce
+y difunde la información en la actualidad, se caracterizan por la variedad de
+lenguajes que emplean, dentro de los que se encuentra el lenguaje visual. Por tal
+razón, los estudiantes no sólo deberían estar en capacidad de comprender los textos
+verbales, sino también las imágenes que observan, develar sus posibles significados
+e integrarlos a los que provienen de los textos verbales lo cual enriquecería
+considerablemente el proceso de comprensión lectora.
+La lectura de los textos verbales exige al lector prepararse sistemáticamente y
+mejorar su desempeño lector de manera paulatina a lo largo de la vida, después de
+interiorizar y emplear en diferentes contextos de lectura una serie de reglas
+aprendidas previamente. De igual forma, la lectura de los textos icónicos supone
+un conocimiento previo de los elementos que constituyen el lenguaje visual y de la
+manera en la que se integran dichos elementos en la producción de mensajes.
+Concebir la imagen como texto implica tener en cuenta los ámbitos en los que se
+llevan a cabo actualmente los procesos de lecto-escritura y las consideraciones
+que deben servir de guía a la producción de cualquier clase de recurso o material
+de apoyo docente orientado a fortalecer las intervenciones escolares que tengan
+como objetivo la lectura de la imagen.
+
+Lineamientos básicos sobre la alfabetización visual
+Los estudios sobre la alfabetización visual se iniciaron en Estados Unidos. Poco
+antes de que comenzara la década de los setenta, autores como Debes, Williams,
+Ross, Turbayne, Wendt y Nibeck tuvieron la idea de reunir a un grupo de
+profesionales para intercambiar posiciones sobre diferentes aspectos de la educación
+y, de manera más específica, de la comunicación. Lineamientos como: 1) el lenguaje
+visual existe; 2) las personas pueden pensar visualmente; 3) las personas pueden y
+
+208
+
+Nora Helena Villa Orrego / Propuesta de alfabetización visual para estudiantes de educación básica...
+
+deben aprender a expresarse visualmente se convirtieron en las ideas básicas
+alrededor de las cuales giraron algunos de los postulados sobre el tema que tuvieron
+lugar en lo sucesivo. [10]
+En Europa, los aportes teóricos sobre la alfabetización visual fueron precedidos
+por una serie de trabajos sobre la imagen que abarcaron casi toda la década de los
+setentas. En 1974 surgió la escuela italiana liderada por Nazareno Taddei, quien
+después de desarrollar un tratado de teoría cinematográfica y de la imagen, propuso
+un esquema metodológico de análisis estructural de la misma. En 1973, Anne Marie
+Thibault-Laulan impulsó en Francia la escuela de alfabetización visual, más orientada
+a la recopilación de diversos estudios sobre teoría de la imagen. Su motivación fue
+compartida por teóricos españoles interesados en realizar aportes en el área. La
+lectura de la imagen [2] [25], la imagen didáctica, la semiótica visual y la
+alfabetización visual [20][28][8][15] se constituyeron en los principales ejes
+temáticos.
+Uno de los postulados de mayor vigencia, y que explica más claramente los
+fines de la alfabetización visual, es que “La persona alfabetizada visualmente no
+sólo es capaz de identificar los elementos constitutivos de las imágenes, sino también
+lo que las imágenes representan, el sistema simbólico usado y la descripción de
+una experiencia o evento visual”. Diversos autores coinciden en afirmar que la
+alfabetización visual es un grupo de competencias que permiten interpretar y
+componer mensajes visuales [1] [24] [23] [20] [28] [8][15]. La alfabetización visual proporciona una serie de pautas que les permitirán acceder a una comprensión
+más integral del conocimiento y de lo que las rodea.
+
+Impacto de una pr
+opuesta de alfabetización
+propuesta
+visual en la comprensión lectora
+Desde 1991, año en el que se da inicio a la evaluación de la educación básica en
+Colombia, hasta la actualidad, el área de lenguaje ha sido objeto de evaluación. En
+las pruebas que se han aplicado desde entonces se destacan como aspectos comunes
+la inclusión de los textos verbales y no verbales y el interés en que el tipo de
+preguntas aludan a textos similares a los de los contextos reales con los que el
+estudiante está en contacto permanente tanto en los ámbitos escolares como en
+los extra-escolares. [5]
+Las imágenes han hecho su aparición durante siglos en los materiales y
+estrategias didácticas empleadas en la escuela primaria y secundaria; sin embargo,
+esta condición no se constituye en una garantía de que los estudiantes tiendan a
+desarrollar de manera espontánea competencias específicas que les permitan
+
+209
+
+Rev. Interam. Bibliot. Medellín (Colombia) Vol. 31 No. 1 enero-junio de 2008. ISSN 0120-0976
+
+extraer los significados que provienen de las imágenes que observan. Comprender
+y expresar en forma oral la información que circula a través de diferentes sistemas
+de comunicación no verbal como historietas, imágenes fijas, viñetas, mapas,
+diagramas y pictogramas, identificar su temática, ordenar y completar secuencias
+gráficas; relacionar gráficas con texto escrito; caracterizar el funcionamiento de
+algunos códigos no verbales y su uso en situaciones comunicativas auténticas, son
+algunas de las competencias en lenguaje que se espera posea un estudiante en
+quinto grado de primaria. [16]
+En niveles de educación más avanzados abordar la lectura de la imagen tiene
+implicaciones más relevantes en tanto las imágenes cumplen con más frecuencia
+las funciones informativa y vicarial, fundamentales en el aprendizaje. Al terminar
+la educación básica, los estudiantes deberían concebir la imagen como un elemento
+importante de significación que les permite interactuar con el texto verbal, captar
+sus significados, decodificar cualquier signo, y hacer explícitos los contenidos del
+mismo; deben comprender, interpretar, analizar y producir diferentes tipos de texto.
+[16] [5] Estas consideraciones relacionadas con el lenguaje visual están dentro de
+los niveles de competencia y desempeño propuestos para el área de lenguaje. Los
+textos icónicos contienen diversos significados, por lo cual se espera que el estudiante
+sea capaz de realizar las interpretaciones posibles frente a una imagen, no sólo
+como un elemento que aporta información adicional a la que posee el texto verbal,
+sino como un texto en sí mismo susceptible de análisis y lectura.
+Los criterios evaluativos mencionados exigen a los docentes de lecto-escritura
+conocer la morfosintaxis y la semántica del lenguaje visual, llevar a cabo
+intervenciones didácticas orientadas a la lectura de los textos icónicos y emplear
+materiales específicos para abordar esta temática. Desafortunadamente, en la
+mayoría de los casos los docentes no han recibido como parte de su formación los
+referentes conceptuales suficientes para dimensionar el valor que tiene la imagen
+en los procesos de lecto-escritura, a lo que se suma la escasez de recursos didácticos
+que los orienten y apoyen en la tarea de enseñar a leer imágenes. Por las razones
+anteriormente expuestas resulta pertinente formular una propuesta de alfabetización
+visual orientada a favorecer la comprensión de los textos icónicos.
+
+Pr
+opuesta de alfabetización visual
+Propuesta
+La propuesta de alfabetización visual pretende constituirse en un referente
+básico para todo aquel que desee abordar la imagen como un elemento importante
+de significación, pero de manera especial para los docentes del área de lectoescritura. A continuación se presenta un esbozo de las consideraciones teóricas
+básicas que se tuvieron en cuenta durante su formulación.
+
+210
+
+Nora Helena Villa Orrego / Propuesta de alfabetización visual para estudiantes de educación básica...
+
+Toda imagen está constituida por una serie de elementos que, articulados de
+una forma determinada, pueden llegar a transmitir diversos mensajes. Para realizar
+lo que podría llamarse una lectura literal de la imagen es necesario, aparte de
+establecer una serie de relaciones entre lo representado y la realidad a la que se
+refiere, conocer la morfosintaxis y la semántica del lenguaje visual, es decir, los
+elementos constitutivos de la imagen y la manera en la que se articulan tales
+elementos para dotar de significado la composición visual en la que se hayan
+inmersos.
+Abordar la sintaxis de la imagen implica referirse a tres categorías: elementos
+morfológicos, dinámicos y escalares. Los elementos morfológicos son el punto, la
+línea, el color, la forma, la textura y el plano; los elementos dinámicos son el
+movimiento, el ritmo y la tensión; y los elementos escalares son la dimensión, la
+escala y la proporción. La identificación de estos elementos brinda al neolector la
+posibilidad de expresarse con mayor propiedad acerca de las imágenes que observa,
+aunque este nivel de lectura implica únicamente la descripción de cada uno de
+estos elementos y de la manera en la que se presentan en la imagen, lo cual equivale
+a descubrir el significado denotativo de la imagen. [9][3] [26]
+Lo que podría equipararse a una lectura inferencial consiste en expresar los
+significados de la imagen, para lo cual es necesario integrar a la descripción inicial
+de los elementos constitutivos de la misma, una serie de referentes culturales,
+como la época de la que data, el autor, el movimiento artístico en el que se registra,
+el contexto en el que se exhibe y los propósitos comunicativos para los que fue
+creada. Develar el significado connotativo de una imagen es relativamente complejo,
+pero es posible si el observador comienza por plantearse una serie de
+cuestionamientos básicos relacionados con los personajes y su tamaño, los objetos
+y sus usos, las posturas, el vestuario, los lugares, y los símbolos presentes en la
+imagen. [3][27][7]
+La lectura de la imagen es el resultado de la integración de dos ejercicios analíticos que, en la práctica, se llevan a cabo casi de manera simultánea. Los elementos que podrían dar lugar a un significado denotativo cobran especial valor en la
+búsqueda del significado connotativo, por ejemplo, la variación en el tono, la yuxtaposición o superposición de colores, la desproporción de los objetos o de alguno de
+los personajes con respecto a los demás, podría transmitir un mensaje implícito
+particular. El significado denotativo y el connotativo se integran de manera armónica en una lectura global de la imagen.
+
+Entorno hipermedial
+La formulación de la propuesta de alfabetización visual desembocó en la elaboración de un entorno hipermedial que pone a disposición del usuario, en cada una
+
+211
+
+Rev. Interam. Bibliot. Medellín (Colombia) Vol. 31 No. 1 enero-junio de 2008. ISSN 0120-0976
+
+de sus secciones, una serie de insumos y pautas para abordar la lectura de imágenes, y que conjuga la no linealidad y la estructuración a través de nodos del hipertexto,
+con las posibilidades de interacción y de diversidad de lenguajes de la multimedia.
+Un entorno hipermedial es un ambiente dinámico en el que se conjugan las características del hipertexto y de la multimedia en un solo sistema en el que todas las
+partes constitutivas están integradas entre sí.
+En este tipo de recurso las palabras pueden aparecer como narraciones (audios),
+textos emergentes, o textos lineales; las imágenes pueden ser fijas (dibujos, ilustraciones, pinturas o fotografías) o móviles (animaciones o vídeos). Como sostiene
+Landow “La expresión hipermedia simplemente amplía la noción de texto hipertextual
+al incluir información visual, sonora, animación y otras formas de información” [11,
+p. 15]. Para la elaboración del material se consideraron las teorías relacionadas
+con la temática específica, mencionadas en apartados anteriores, con el aprendizaje multimedial [12][18][13][21], y con el diseño y evaluación de programas
+multimedia e hipermedia. [17] [19][22][4][6]
+
+Características
+Una de las principales características del entorno es la interactividad, dada en
+este caso por las facilidades que tiene el usuario de encontrar información en el
+material, pautas para analizarla, y actividades sugeridas para poner en contexto lo
+aprendido y autoevaluarse. Esta dinámica invita al usuario a la toma permanente
+de decisiones y propicia un alto nivel de participación a través del control que
+ejerce el usuario sobre la interfaz. La información está distribuida equilibradamente
+según el objetivo de aprendizaje de cada sección, y según el lenguaje en el que se
+presenta la información. La navegación puede producirse de dos formas: una guiada, relativamente lineal; y una abierta, no lineal. El usuario escoge la que prefiera.
+Esta decisión se tomó teniendo en cuenta que, en materiales de este tipo, los usuarios inexpertos tienden a confundirse cuando no se les plantea una ruta a seguir, y
+que los expertos demandan mayores posibilidades de interactividad. [19]
+
+Estructura
+La interfaz de usuario es un entorno en tercera dimensión compuesto por cinco
+salas y cuatro zonas. En él se conjugan imágenes fijas, diseñadas específicamente
+para contribuir a la comprensión de determinados conceptos, o provenientes de
+diversas fuentes; una colección de audios producidos a partir de textos previamente evaluados y mezclados posteriormente con una serie de piezas musicales o
+efectos de sonido; diversas animaciones y un vídeo corto. Los contenidos del entorno fueron elaborados de acuerdo con el nivel de escolaridad de los usuarios
+
+212
+
+Nora Helena Villa Orrego / Propuesta de alfabetización visual para estudiantes de educación básica...
+
+potenciales, el lenguaje utilizado se adaptó convenientemente con la idea de promover el reconocimiento y empleo de los términos específicos. La estructura de
+cada sección del entorno, así como los propósitos de formación que persigue, se
+describen a continuación.
+Cada apartado del entorno está vinculado a los demás por medio de un menú
+general y un submenú específico que complementan la información suministrada
+al usuario a través de los links principales a los que se enlazan textos, imágenes y
+audios, diseñados con propósitos formativos específicos.
+
+Figura 1
+Cada uno de los puntos que se observan en la gráfica (Ver Figura 1), sobre el
+fondo verde, corresponde a una sala o zona diferente. Se trata del mapa de navegación.
+Cuando el usuario hace clic sobre cada uno de los puntos del mapa, emerge el
+nombre de la sala o zona a la que se dirige, como se aprecia a continuación (Ver
+Figura 2).
+
+Figura 2
+
+213
+
+Rev. Interam. Bibliot. Medellín (Colombia) Vol. 31 No. 1 enero-junio de 2008. ISSN 0120-0976
+
+Para comenzar a ver la aplicación o ir a la sala o zona siguiente o anterior, el
+usuario debe hacer clic sobre las flechas izquierda o derecha, que se encuentran a
+cada uno de los lados del mapa de navegación (Ver Figura 3).
+
+Figura 3
+En la parte inferior izquierda del mapa de navegación hay dos botones. El primero de ellos sirve para acceder a información adicional sobre el tema de la sala o
+zona en la que se encuentra el usuario; el segundo permite escuchar nuevamente
+cualquiera de los audios del entorno. En la parte inferior derecha del mapa de
+navegación hay dos botones más. El primero de ellos permite al usuario obtener
+información clave sobre el tema de la sala o zona en la que está; el segundo
+sugiere actividades vinculadas a las temáticas específicas del entorno. A continuación aparecen los botones en el orden mencionado (Ver Figura 4).
+
+Figura 4
+Sala de cine: se consideró importante mostrar al usuario parte de la riqueza
+del lenguaje visual y el vínculo que, desde tiempos remotos, ha existido entre el
+hombre y la imagen, a través de la presentación, en las instalaciones de un pequeño teatro, de un breve documental sobre el valor de la imagen en la historia evolutiva del hombre; en él están integradas animaciones e imágenes fijas, articuladas a
+una estructura narrativa dinámica que, sumada a una serie de audios y de textos,
+homologa la producción audiovisual. (Ver Figura 5).
+
+214
+
+Nora Helena Villa Orrego / Propuesta de alfabetización visual para estudiantes de educación básica...
+
+Figura 5
+Zona de ambientación: explora las diferentes acepciones de imagen. Se trata
+de una vitrina compuesta por tres compartimentos, en cada uno de los cuales hay
+tres imágenes relacionadas con una acepción diferente. El primer conjunto de
+imágenes revela el carácter representacional de la imagen; el segundo, plantea la
+relación antiquísima de la imagen con lo divino y su trascendencia sociocultural; y
+el tercero, hace referencia a la capacidad de la imagen para recrear espacios y
+seres fantásticos. Cada uno de los compartimentos de la vitrina contiene ejemplos
+claros de las acepciones correspondientes. Esta zona está precedida por un apartado introductorio en el que se alude a la visión. (Ver Figura 6).
+
+Figura 6
+
+215
+
+Rev. Interam. Bibliot. Medellín (Colombia) Vol. 31 No. 1 enero-junio de 2008. ISSN 0120-0976
+
+Zona de clasificación: analiza los diferentes tipos de imágenes según su grado de iconicidad, la cantidad de significados que pueden transmitir, la dimensión de
+movimiento y su función. Para ilustrar el primer apartado se escogió una fotografía, la cual fue sometida a diferentes procesos de edición de tal forma que pasara
+de un alto nivel de iconicidad a uno bajo; para abordar los conceptos de monosemia
+y polisemia se escogieron las imágenes de una serie de ventanas en las que se
+aprecian cargas significativas distintas; para dar a conocer las imágenes fijas y
+móviles, se muestra una serie de fotografías en las que pueden verse vehículos
+estáticos o en movimiento, el congelado y el barrido de fondo son algunos de los
+efectos que se muestran a propósito de esta temática; y para explorar las funciones de la imagen, se escogió una imagen publicitaria, una didáctica y una informativa, por tratarse de las más próximas al entorno académico o social de los estudiantes. (Ver Figura 7).
+
+Figura 7
+Sala de documentación: se trata de una pared giratoria compuesta por tres
+lados. El primer lado de la pared se refiere a los elementos morfológicos de la
+imagen: punto, línea, forma, color, textura y plano; el segundo lado presenta los
+elementos dinámicos: el movimiento, el ritmo y la tensión; y el tercer lado corresponde a los elementos escalares: dimensión, escala y proporción. Para acceder al
+contenido de cada uno de los elementos, el usuario debe hacer un clic en la imagen
+de acceso correspondiente. De inmediato se despliega una secuencia de imágenes
+relacionadas y el audio respectivo. Cada una de las imágenes tiene un pie de
+imagen en el que aparecen los datos del autor, el título de la obra y un comentario.
+El pantallazo siguiente corresponde al primer lado de la pared giratoria y las imágenes que aparecen en ella (de izquierda a derecha) se constituyen en el link que
+permite acceder a los contenidos relacionados con el punto, la línea, la forma, el
+color, la textura y el plano, respectivamente. (Ver Figura 8)
+
+216
+
+Nora Helena Villa Orrego / Propuesta de alfabetización visual para estudiantes de educación básica...
+
+Figura 8
+Zona de descanso: mediante una animación se le presenta al usuario un ejemplo de integración de cada uno de los elementos constitutivos del lenguaje visual
+partiendo del punto, seguido de la línea y pasando por la textura hasta llegar a los
+elementos más complejos como el movimiento y el plano. Al observar la animación, el usuario podrá establecer diferentes asociaciones de acuerdo con la temática a la que haya accedido previamente. Cuanta más familiaridad tenga el usuario
+con el lenguaje visual en el momento en el que observe la animación, mayores
+asociaciones podrá establecer con la temática, lo que contribuirá a su proceso de
+apreciación integral de la morfosintaxis de la imagen. Más que una zona de descanso es un espacio para la apreciación del lenguaje visual. (Ver Figura 9).
+
+Figura 9
+
+217
+
+Rev. Interam. Bibliot. Medellín (Colombia) Vol. 31 No. 1 enero-junio de 2008. ISSN 0120-0976
+
+Sala de lectura: en esta sección se presentan cuatro lecturas tipo de la imagen. La primera imagen es una fotografía en blanco y negro de la segunda guerra
+mundial; la segunda es una obra famosa del arte universal; la tercera es una pintura de temática escolar, y la cuarta es la ilustración de un libro de cuentos. Se
+escogieron estas imágenes por la diversidad de técnicas empleadas para producirlas, de temáticas que abordan, y de fuentes de las que fueron extraídas. Los procedimientos de análisis sugeridos para encontrar los significados denotativo y
+connotativo de cada una de estas imágenes se dan a conocer por medio de audios
+y animaciones. (Ver Figura 10).
+
+Figura 10
+Sala de juego: el usuario tiene la posibilidad de evaluar su capacidad para
+identificar los elementos constitutivos del alfabeto visual. Al dar inicio al juego, se
+despliegan cuatro imágenes, y con ellas una pareja de palabras que corresponden
+a dos de los elementos mencionados, por ejemplo color-forma, dimensión-textura.
+El usuario debe hacer clic sobre la imagen en la que se destacan dichos elementos.
+El grupo de imágenes varía siempre de forma aleatoria, pero finita, por lo cual el
+usuario aprende a identificar progresivamente los elementos destacados de una
+imagen con respecto a los demás elementos que la constituyen. El programa le
+informa al usuario si acertó o no en su elección y lo anima a seguir jugando. Además el jugador conoce su porcentaje de aciertos al salir de la sala de juego. (Ver
+Figura 11).
+
+218
+
+Nora Helena Villa Orrego / Propuesta de alfabetización visual para estudiantes de educación básica...
+
+Figura 11
+Zona de creación: es un taller para la elaboración de composiciones visuales.
+El usuario tiene a su disposición una paleta de imágenes prediseñadas distribuidas
+en diferentes categorías (personas, animales, objetos, paisajes, medios de transporte, naturaleza); una paleta de opciones que le permiten pixelar, delinear, texturizar,
+girar, colorear, aumentar, o disminuir cada uno de los dibujos que ha insertado en el
+tablero de composición que hace las veces de hoja en blanco. También puede
+darle al dibujo la sensación de movimiento, hacer que sobrepase el límite de la
+representación, deshacer lo que ha insertado, o borrarlo todo. En un botón alterno
+se le dan a conocer al usuario algunas claves básicas de composición, como el
+equilibro, la ley de los tercios, y el contraste entre otras. En un botón adicional se
+sugieren temas de composición, aunque el usuario puede aprovechar esta zona de
+la manera que prefiera. (Ver Figura 12).
+
+Figura 12
+
+219
+
+Rev. Interam. Bibliot. Medellín (Colombia) Vol. 31 No. 1 enero-junio de 2008. ISSN 0120-0976
+
+Sala de redacción: se recrean dos espacios, el primero un escritorio en el cual
+el usuario accede a un libro que contiene algunos textos compuestos por imágenes
+y palabras. En el siguiente se recrea un escritorio en el que hay un computador en
+el que aparecen textos en los que se integran imágenes y palabras. Dichos textos
+tienen un nivel de complejidad superior al de los anteriores. En ambos casos se le
+brindan al usuario pautas para que aprenda a extraer información proveniente del
+texto y de la imagen, descubra los significados de cada uno, y los integre en una
+comprensión global de los textos. (Ver Figura 13).
+
+Figura 13
+Fuente: http://www.medellin.gov.co/alcaldia/jst/modulos/N_admon/camppolvora
+Todas las imágenes constitutivas del entorno que fueron extraídas de alguna
+fuente en Internet, tienen un enlace que le permite al usuario saber de dónde se
+extrajo la imagen y apreciarla en sus dimensiones y contexto reales. Las actividades presentadas en las secciones que dan opción de escribir o de crear composiciones visuales permiten el almacenamiento o la impresión de las producciones.
+Además, en cada una de las salas y zonas el usuario tiene la posibilidad de acceder
+a información adicional relacionada con la temática, a los audios de todo el entorno, a un resumen que tiene como propósito recordar al usuario lo esencial, y a una
+serie de actividades propuestas para llevarlas a cabo en contextos escolares y
+extraescolares con el apoyo de materiales impresos o digitales.
+
+Metodología
+El proyecto se desarrolló durante tres fases. En la primera, se optó por un
+análisis documental, con el propósito de formular una propuesta de alfabetización
+
+220
+
+Nora Helena Villa Orrego / Propuesta de alfabetización visual para estudiantes de educación básica...
+
+visual cuyos fundamentos teóricos pudieran transferirse a los contenidos del entorno que habría de elaborarse. En la segunda fase se llevó a cabo el diseño, búsqueda, creación y adaptación de cada uno de los insumos que debían integrarse en el
+entorno, para lo cual se contó con el apoyo de un profesional en diseño, un ilustrador, y un programador.
+Cada uno de los textos destinados a ser contenidos textuales, audios o imágenes fijas que se incluirían en el material, fueron sometidos a dos procesos evaluativos;
+el primero antes de ser integrados, y el segundo después de la integración. Los
+procesos de evaluación consistieron en el juicio de dos expertos, los cuales conceptuaron sobre la pertinencia de los aspectos abordados en el material, y en un
+ejercicio piloto de comprensión de lectura realizado con un grupo de estudiantes
+del mismo nivel de escolaridad que el de los usuarios potenciales.
+En la tercera fase se procedió a experimentar el material con un grupo de
+estudiantes en ocasión de las intervenciones propias de la propuesta de alfabetización visual. Participaron en esta etapa del proceso 32 estudiantes de séptimo grado
+de una institución pública, previa evaluación de la disposición de los administradores y del personal docente de varias instituciones de este nivel de educación. Los
+sujetos de la muestra participaron durante tres meses en la propuesta de alfabetización visual, con una intensidad semanal de cuatro horas, en un aula experimental
+de la que dispone el grupo de investigación “Didáctica y Nuevas Tecnologías” en
+la Sede de Investigación Universitaria SIU. En esta investigación se utilizó un
+diseño cuasi-experimental con un solo grupo y aplicaciones de pruebas pretest y
+postest para cada una de las variables.
+
+Resultados
+Como puede inferirse de la intención formativa de cada una de las zonas y
+salas que constituyen el entorno, los procesos de lectura y escritura deben estar
+ligados a un ambiente de aprendizaje que promueva el redescubrimiento de las
+funciones del lenguaje visual, bajo la convicción de que un proceso de comprensión
+adecuado se refleja posteriormente en un proceso de producción satisfactorio.
+“Estos dos procesos –comprensión y producción– suponen la presencia de actividades cognitivas básicas como la abstracción, el análisis, la síntesis, la inferencia,
+la inducción, la deducción, la comparación, la asociación. Así entonces, una formación en lenguaje que presume el desarrollo de estos procesos mentales en interacción
+con el contexto socio-cultural, no sólo posibilita a las personas la inserción en cualquier contexto social, sino que interviene de manera crucial en los procesos de
+categorización del mundo, de organización de los pensamientos y acciones, y de
+construcción de la identidad individual y social”. [14, p. 21].
+
+221
+
+Rev. Interam. Bibliot. Medellín (Colombia) Vol. 31 No. 1 enero-junio de 2008. ISSN 0120-0976
+
+Después de la obtención de los resultados y de su sistematización, se compararon los puntajes inicial y final obtenidos por los estudiantes en las pruebas respectivas mediante la aplicación de la prueba t de Student para muestras dependientes,
+ya que los mismos sujetos de la muestra integraron el grupo experimental y el
+grupo control. El análisis estadístico respectivo permitió observar que, después de
+su participación en la propuesta, los estudiantes elevaron su capacidad para identificar los elementos morfosintácticos de las imágenes y su capacidad para leer
+imágenes, lograron avances en cuanto a la lectura de textos compuestos por palabras e imágenes, y se afianzaron en la búsqueda de los significados connotativos
+de las imágenes.
+En esta última dimensión de la lectura de imágenes se observó que los estudiantes partieron de un nivel básico, pasaron durante la experiencia por un nivel
+medio, y la mayoría de ellos alcanzaron un nivel avanzado al concluir la experimentación. Los estudiantes lograron expresarse en los términos adecuados (lenguaje
+especializado) sobre las imágenes que observaron, lo cual propició y cualificó su
+expresión oral. Finalmente, podría decirse que, en atención a los resultados obtenidos, a largo plazo esta propuesta podría impactar de manera positiva la competencia lectora de los estudiantes de otras instituciones en las que se replique la experiencia.
+
+Discusión
+La elaboración de un entorno hipermedial con propósitos formativos implica la
+elaboración de cada uno de los insumos que deben integrarse en función de unos
+parámetros conceptuales, didácticos y operativos preestablecidos, de manera que,
+después de la integración final, el producto no se perciba como la sumatoria de
+insumos diseñados independientemente, sino como un material integral e integrado, un todo que se constituya en un ambiente de aprendizaje idóneo.
+A pesar de que en el entorno hipermedial mencionado se emplean modelos y
+estrategias para abordar la lectura de la imagen, este material no tiene un carácter
+prescriptivo, sino más bien orientador, en tanto las posibilidades para que los estudiantes consigan afianzar sus destrezas en la lectura de la imagen son infinitas y
+deben ser exploradas por los docentes y estudiantes como continuación de ésta o
+de cualquier otra intervención básica sobre el lenguaje visual, mediante la interacción
+en diversos contextos.
+
+Conclusiones
+La lectura de la imagen implica mucho más que seguir una serie de procedimientos. Los neolectores deben estar preparados para identificar los elementos
+
+222
+
+Nora Helena Villa Orrego / Propuesta de alfabetización visual para estudiantes de educación básica...
+
+constitutivos de las imágenes y la manera en la que se relacionan entre sí, hasta
+descubrir, de manera más acertada, sus significados denotativos y connotativos, lo
+cual les permitirá realizar lecturas mucho más ricas, no sólo de los textos verbales
+o icónicos, sino también del entorno que les rodea.
+Los ejercicios de lectura de imágenes deben articularse, en la medida de lo
+posible, a los de lectura de los textos verbales. Sin embargo, los docentes deben
+tener presente que los estudiantes han de desempeñarse como lectores competentes en un mundo en el que las palabras y las imágenes no siempre van unidas, ni
+comunican las mismas cosas, sino que se relacionan de formas diversas y contribuyen de manera contundente y específica al desarrollo del conocimiento.
+Emprender procesos orientados a promover la alfabetización visual implica asumir
+una concepción más abarcadora de la comprensión lectora y partir de una reflexión sobre la clase de textos que se producen y difunden en la actualidad y sobre
+los soportes a través de los cuales se llevan a cabo una serie de intercambios
+sociales y científicos. Los recursos hipermediales, utilizados como materiales de
+apoyo en diferentes intervenciones didácticas, incentivan en los usuarios la toma
+de decisiones, potencian su motivación, combinan distintos lenguajes y favorecen
+el desarrollo de competencias específicas. Además, contribuyen a que los usuarios
+inexpertos se familiaricen con las estructuras narrativas propias de este tipo de
+materiales.
+Es preciso que los objetivos de cualquier iniciativa orientada a favorecer el
+desarrollo de competencias en lectura de imágenes, partan de motivaciones
+didácticas reales y de la convicción de que no se trata de desplazar los textos
+verbales debido a la atracción que producen los icónicos. La idea es lograr que los
+estudiantes obtengan ganancias de una lectura crítica integrada y que ambas clases de texto cumplan con eficacia los propósitos comunicativos con los que han
+sido creados.
+
+Referencias bibliográficas
+1.
+
+AANSTOOS, J. Visual literacy: an overview. Computer society. Applied Imagery Pattern Recognition Workshop. Proceedings. (32: 15-17 Oct. 2003)
+s.e.: 2003, p. 189–193.
+
+2.
+
+ALONSO, M. & MATILLA, L. Imágenes en acción: análisis y práctica
+de la expresión audiovisual en la escuela activa. Madrid: Akal, 1990
+
+3.
+
+APARICI, R.y GARCÍA-MATILLA, A. Lectura de Imágenes. 3 ed. Madrid:
+Ediciones de la Torre, 1998
+
+223
+
+Rev. Interam. Bibliot. Medellín (Colombia) Vol. 31 No. 1 enero-junio de 2008. ISSN 0120-0976
+
+4.
+
+BARROSO, J. & ROMERO, R. La informática, los multimedia y los hipertextos
+en la enseñanza. En: CABERO ALMENARA, Julio, coord. Nuevas
+tecnologías aplicadas a la educación. Madrid: Mc Graw-Hill; Interamericana
+de España, S.A.U., 2007.
+
+5.
+
+CASTILLO BALLÉN, M; et al. Sobre las pruebas saber y de Estado:
+una mirada a su fundamentación y orientación de los instrumentos en
+lenguaje. Bogotá: Instituto Colombiano para el Fomento de la Educación
+Superior, ICFES, 2007.
+
+6.
+
+CATALDI, Z. Evaluación de programas hipermedia educativos de producto
+final y en un contexto similar al de aplicación. [En línea] Revista
+Latinoamericana de Tecnología Educativa. 2005, vol. 4, no.2, p. 27-52.
+Disponible
+en:
+http://campusvirtual.unex.es/cala/editio/
+index.php?journal=relatec&page=index [Consulta: 18 de junio de 2008]
+
+7.
+
+CHORDÁ, F. De lo visible a lo virtual. Una metodología del análisis
+artístico. Barcelona: Anthropos Editorial, 2004.
+
+8.
+
+DÍAZ, C. Alfabeto gráfico, alfabetización visual. Madrid: Ediciones de la
+Torre, 1990.
+
+9.
+
+DONDIS, D. A. La sintaxis de la imagen. Introducción al alfabeto visual.
+Barcelona: Editorial Gustavo Gili, 2003.
+
+10. FLORY, J. Visual literacy: a vital skill in the process or rhetorical criticism.
+Atlanta, Georgia: paper presented at the annual meeting of Southern
+Speech communication association. (Atlanta: April 4-7 1978)
+11. LANDOW, G. P. Hipertexto. La convergencia de la teoría crítica
+contemporánea y la tecnología. Barcelona: Paidós, 1995.
+12. MAYER, R. Multimedia learning: are we asking the right questions? Educational Psychologist. 1997, vol.32, p.1–19.
+13. MAYER, R.E., MORENO, R. Aids to computer-based multimedia learning.
+Learning and Instruction. 2002, vol. 12, no.1, p. 107-119.
+14. MINISTERIO DE EDUCACIÓN NACIONAL. Estándares Básicos de
+Competencias en Lenguaje, Matemáticas, Ciencias y Ciudadanas Guía
+sobre lo que los estudiantes deben saber y saber hacer con lo que
+aprenden. Bogotá: Ministerio de Educación Nacional, 2006.
+15. ORTEGA, J. y FERNÁNDEZ DE HARO, E. Alfabetización visual y
+desarrollo de la inteligencia. Programa de intervención didáctica basado
+en el entrenamiento de capacidades perceptivo-visuales, grafomotrices
+
+224
+
+Nora Helena Villa Orrego / Propuesta de alfabetización visual para estudiantes de educación básica...
+
+y de lectura crítico-analítica de la imagen. Granada: Fundación Educación
+y Futuro, 1996.
+16. PÉREZ ABRIL, M. Evaluar para transformar aportes de las pruebas
+saber al trabajo en el aula. Una mirada a los fundamentos e instrumentos
+de lenguaje 2002 – 2003. Bogotá: Ministerio de Educación Nacional (MEN)
+e Instituto Colombiano para el Fomento de la Educación Superior, ICFES,
+2003.
+17. PÉREZ, T; et al. Hipermedia, adaptación, constructivismo e instructivismo.
+Inteligencia Artificial. [En línea] Revista Iberoamericana de Inteligencia
+Artificial. 2001, vol. 5, no. 12. p. 29-38. Disponible en: http://erevista.aepia.org/
+[Consulta: 12 de junio de 2008]
+18. SADOSKY, M. & PAIVIO, A. Imagery and text. A dual coding theory of
+reading and writing. Mahwah, NJ: Lawrence Erlbaum Associates, 2001.
+19. SÁNCHEZ DE SERGIO, A. y HERNÁNDEZ, F. Problemas compartidos!
+la experiencia de legos y expertos con los multimedia sobre arte. Arte,
+Individuo y Sociedad. 2001, no. 13: p.11-23.
+20. SANTOS, M. Imagen y educación. Buenos Aires: Editorial Magisterio Río
+de la Plata, 1998.
+21. SCHNOTZ, W. y BANNERT M. Construction and interference in learning
+from multiple representation. Learning and Instruction. 2003, vol.13, no.2,
+p.141-156.
+22. SCHNOTZ, W. Aprendizaje multimedia desde una perspectiva cognitiva.
+Boletín Red Estatal de Docencia Universitaria, 2002, vol.2, no.2.
+23. TADDEI, N. Educar con la imagen. Madrid: Marova, 1979.
+24. THIBAUL- LAULAN, A. M. Imagen y comunicación. Valencia: Editorial
+Fernando Torres, 1973.
+25. VILCHES, L. La lectura de la imagen. Prensa, cine y televisión. Barcelona:
+Ediciones Paidós Ibérica, 1984.
+26. VILLAFAÑE, J. Introducción a la teoría de la imagen. Madrid: Pirámide,
+2003.
+27. WOODFORD, S. Introducción a la historia del arte. Cómo mirar un
+cuadro. Barcelona: Editorial Gustavo Gili, 1993.
+28. ZUNZUNEGUI, S. Pensar la imagen. 3 ed. Madrid: Cátedra, 1995.
+
+225
+
+

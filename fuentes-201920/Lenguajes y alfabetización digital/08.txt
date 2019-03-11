@@ -1,0 +1,1067 @@
+Íkala, revista de lenguaje y cultura
+ISSN: 0123-3432
+revistaikala@udea.edu.co
+Universidad de Antioquia
+Colombia
+
+Barragán Gómez, Rafael; Gómez Moreno, Wilson
+El lenguaje de la imagen y el desarrollo de la actitud crítica en el aula: propuesta didáctica para la
+lectura de signos visuales
+Íkala, revista de lenguaje y cultura, vol. 17, núm. 1, enero-abril, 2012, pp. 79-92
+Universidad de Antioquia
+Medellín, Colombia
+
+Disponible en: http://www.redalyc.org/articulo.oa?id=255024135006
+
+Cómo citar el artículo
+Número completo
+Más información del artículo
+Página de la revista en redalyc.org
+
+Sistema de Información Científica
+Red de Revistas Científicas de América Latina, el Caribe, España y Portugal
+Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+
+Julian Ramírez
+
+El lenguaje de la imagen y el desarrollo de la
+actitud crítica en el aula: propuesta didáctica
+para la lectura de signos visuales
+
+[The Language of Images and the Development of Critical Attitudes in the Classrooms: A Didactic Proposal for the Reading of Visual Signs]
+
+Rafael Barragán Gómez
+holds a master’s degree in Semiotic
+Studies from Universidad Industrial de
+Santander. He currently works as full
+time professor at Escuela de Idiomas
+of Universidad Industrial de Santander,
+Bucaramanga-Colombia. Mailing
+address: calle 10 # 34-15, Apto. 804,
+Torre 3, Torres de los Pinos, Barrio los
+Pinos, Bucaramanga, Colombia.
+Email: rbarraga@uis.edu.co
+Wilson Gómez Moreno
+holds a master’s degree in Education with emphasis in Reading and
+Writing from Pontificia Universidad Javeriana Convenio UNAB. He
+currently works as full time professor at Escuela de Idiomas of
+Universidad Industrial de Santander,
+Bucaramanga-Colombia.
+Email: wilgomor@uis.edu.co
+
+RESUMEN
+Dentro del proyecto de investigación titulado “Didáctica de la imagen”, financiado
+por la Vicerrectoría de Investigaciones y Extensión de la Universidad Industrial de
+Santander (código5229), se ha planteado en una primera etapa la necesidad de realizar una labor interpretativa de la relación entre los imaginarios y las prácticas de un
+grupo de maestros en relación con la imagen visual (o para ser más exactos, con los
+signos visuales). Simultáneamente con los resultados obtenidos en este proyecto,
+se han venido construyendo las bases de una didáctica específica que permita abordar este tipo de sistemas de significación, ya no como simples medios para facilitar
+la comprensión de nociones abstractas por parte de los estudiantes, sino también
+como objetos de enseñanza y aprendizaje cuya interpretación presupone procesos
+complejos de pensamiento. Por esta razón el presente artículo sintetiza, en primer
+lugar, una base teórica para sustentar las complejas operaciones cognoscitivas involucradas en la lectura de un tipo particular de imagen (caricaturas) y establece
+las consecuencias de estos procesos en el concepto de alfabetización que aún tiene
+fuerte arraigo en la escuela; en segundo lugar, intenta ejemplificar la tesis anterior a
+partir de una propuesta didáctica general orientada al análisis de una serie de signos
+visuales que, como las caricaturas, buscan persuadir mediante el empleo de operaciones retóricas diversas. Todo esto, tiene como objetivo demostrar que la lectura
+de imágenes está en capacidad de promover la actitud crítica en los estudiantes en la
+misma medida en que lo hace la lectura del texto escrito.
+Palabras clave: Imagen, didáctica, lectura, retórica visual, caricatura
+
+ABSTRACT
+As a part of the project “Didactic of the Image”, supported by Vicerrectoría de
+Investigaciones y Extensión de la Universidad Industrial de Santander (code 5229),
+of the need for an interpretative study of the relationship between the imaginary
+and the teaching performance of educators concerning the visual image (or to
+be exact, concerning the visual signs) has been proposed. Based on the findings
+derived from this ethnographic work, we aspire to lay the foundations of a specific
+didactic method which can address this type of signification systems, not only as
+instruments that facilitate the apprehension of abstract notions by the students, but
+also as teaching and learning objects whose understanding implies complex thought
+processes. For this reason, this article proposes, firstly, a proposes, firstly a theoretical
+basis which supports the complex cognitive operations involved in the reading of any
+image; secondly, it attempts to corroborate the above thesis ascribing an argumentative
+nature to a kind of image— specifically to the political cartoon, considered text and
+discourse by virtue of its tendency to use sophisticated rhetorical operations inherent
+to the visual signs—all with the aim to argue that reading images is a process that also
+promotes critical thought among students in the same way that written texts do
+Key words: Image, didactics, reading, visual rethorics, cartoon
+
+Recibido: 13-09-11 / Revisado: 12-01-12 / Aceptado: 18-02-12 / Publicado: 01-04-12
+
+79
+
+Íkala
+
+Rafael Barragán Gómez, Wilson Gómez Moreno
+
+1. INTRODUCCIÓN
+Cuando se habla de procesos de lectura existe la
+tendencia a limitarlos a la interpretación de textos
+escritos. Incluso, autores reconocidos como W.
+Ong (2000) consideran que no es posible hablar
+de lectura más allá de los sistemas ideográficos, silábicos o alfabéticos tradicionales.
+
+80
+
+No obstante, tanto la comprensión como la interpretación de textos soportados fundamentalmente
+en signos visuales, entendidos como auténticos ejercicios de lectura, son opciones perfectamente
+plausibles, pues implican procesos cognoscitivos
+tan complejos como los requeridos en la lectura
+del texto alfabético, como veremos a continuación.
+Lo anterior, y el hecho de que los textos de naturaleza visual sustentados en elementos icónicos (o
+signos visuales, que es el nombre establecido por la
+semiótica) no sean nuevos en la cultura, y que su
+incidencia en la lectura lineal del texto escrito aún
+esté por determinarse, invita a abordar estos lenguajes de manera rigurosa y sistemática (Groupe
+µ, 1993, Beuchot, 2007, González, 1986).1 En la
+segunda parte se intentarán explicar las nociones
+de alfabetización visual y las implicaciones de esta
+en la escuela.
+Parece que no hay duda sobre el importante rol desempeñado por la imagen visual a lo largo de la historia
+y su incuestionable influencia sobre la sociedad moderna. Como afirma G. Sönesson (2004) “nuestra
+sociedad de información es una sociedad de imágenes” pero con la particularidad de que esta “sociedad
+de imágenes es por primera vez en la historia, una
+sociedad de información”. Pero consideramos que
+dos factores: el cultural y el epistemológico, han
+ejercido una enorme influencia en la desconfianza
+mostrada por los sistemas educativos y la denominada “gran cultura” hacia los lenguajes basados
+primordialmente en signos visuales en la formación
+de los ciudadanos.
+1 En adelante, siempre que nos refiramos a la imagen,
+
+aludiremos a textos apoyados más que todo en los denominados
+signos visuales, de naturaleza fundamentalmente icónica tal
+y como la aborda el Groupe µ (1993), debemos precisar que
+
+En cuanto al primer factor, el hecho de que la imagen visual actúe como soporte por excelencia de los
+medios masivos de comunicación y que una cierta
+“cultura aristocrática”, al decir de U. Eco, haya establecido una diferencia entre una cultura alta y una
+cultura baja, y recluido esta última al ámbito de los
+medios masivos, puede ser la causa de que su papel
+formativo haya sido desestimado con bastante frecuencia por las instituciones educativas:
+Si la cultura es un hecho aristocrático, cultivo celoso,
+asiduo y solitario de una interioridad refinada que
+se opone la vulgaridad de la muchedumbre […],
+la mera idea de una cultura compartida por todos,
+producida de modo que se adapte a todos, es un
+contrasentido monstruoso. La cultura de masas es
+la anticultura. […] la cultura de masas no es signo
+de una aberración transitoria y limitada, sino que llega
+a constituir el signo de una caída irrecuperable,
+ante la cual el hombre de cultura […] no puede
+expresarse más que en términos de Apocalipsis
+(2010, p. 30).
+
+Como el concepto de formación ha estado aparejado
+al de gran cultura y esta no se asimila por fuera de
+la lectura de los libros agrupados en un canon, la
+cultura popular sintetizada casi siempre en la televisión y los juegos de video aparece como la gran
+enemiga de la verdadera educación pues no se concibe por fuera de la lectura del texto escrito. Pero
+no parece que nos hayamos dado cuenta de que,
+como afirma Simone (2001, p. 88), antes que una
+pérdida de la capacidad de pensar “lo que ha tomado el relevo en la formación de conocimientos no
+ha sido la televisión, sino algo más radical, es decir,
+una modalidad perceptiva que he llamado visión
+no-alfabética”.
+En lo que respecta al campo de la imagen y los lenguajes apoyados en ella, es evidente la agudización
+de la distancia que existe entre el currículo oficial
+y los imaginarios de los estudiantes: “es realmente
+inaudito que la mayoría de los jóvenes pasen por
+la escuela sin que apenas gocen de oportunidades
+la categoría de lo visual excede los límites de lo meramente
+icónico (al respecto, ver las explicaciones de M. Beuchot,
+2007 y C. González, 1986).
+
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 79-92, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+Íkala
+
+El lenguaje de la imagen y el desarrollo de la actitud crítica en el aula: propuesta didáctica para la lectura de signos visuales
+
+para estudiar y comprometerse con las formas
+contemporáneas más significativas de la cultura y
+la comunicación” (Buckingham, 2005, p. 12). Es la
+clásica frontera entre las formas de conocimiento escolar y extraescolar, con la consecuencia de que en
+esta disociación la educación formal tiende a ser
+desplazada como referente principal en la educación de los ciudadanos.
+Adicionalmente a este factor eminentemente
+cultural, existe el epistemológico que puede resumirse en que el pensamiento occidental ha
+separado percepción de cognición, con la consecuente reducción de la primera a la condición de
+simple actividad mecánica de registro pasivo de estímulos externos, lo que ha conducido a reafirmar
+la creencia de que la interpretación de signos visuales no supera los límites de la percepción sensorial.
+Para defender este punto de vista en el apartado
+siguiente este documento se apoyará en la idea de
+“pensamiento visual” desarrollada por Arnheim.
+
+definido como la competencia mediática2 o la
+alfabetización visual3, nociones que serán desarrolladas con más detenimiento en el apartado
+siguiente.
+Este documento aspira a justificar, en primer lugar,
+la necesidad de introducir el análisis y la producción de imágenes en los planeamientos didácticos
+del área de Lengua Castellana (o incluso como un
+área autónoma) y lo hará a partir de una síntesis
+de algunas nociones de “alfabetización visual” elaborada por diversos autores, y de “pensamiento
+visual” de R. Arnheim (1998) que intenta exponer la compleja actividad cognoscitiva involucrada
+en el procesamiento de la imagen por parte de un
+sujeto humano. Seguidamente, ejemplificará estos
+“principios” con una propuesta didáctica aplicada
+a un tipo concreto de imagen, la caricatura, la cual
+puede considerarse como un texto argumentativo
+en sentido estricto que actúa como detonante de
+operaciones cognoscitivas altamente complejas
+gracias a su riqueza semántica y expresiva.
+
+Provisionalmente podríamos responsabilizar a estos
+factores de la subvaloración o, incluso, la estigma- 2. LA IMAGEN: UN RETO PARA LA ESCUELA
+tización que han hecho las escuelas de los lenguajes
+no verbales —como erróneamente los denominan Conviene resaltar que
+los Estándares y los Lineamientos para el área de
+Los niños viven en un mundo visual complejo
+Lengua Castellana— Barragán, 2005), situación que
+y, más que las generaciones anteriores, bajo un
+parece confirmarse por la escasa teorización sobre esconstante bombardeo de estímulos visuales. Y sin
+tos códigos en el currículo (MEN, 1998 y 2003).
+embargo, muy pocos maestros se toman el tiempo
+para ayudarlos a ordenar, reconocer y comprender
+Esto explica la dificultad de que la enseñanza de
+las muchas formas de información visual que
+estos sistemas semióticos en la educación formal se
+encuentran, ciertamente no del mismo modo en
+abra paso, no como asunto de un área en especial,
+que tratan con el texto escrito (Arizpe y Styles,
+sino como campo autónomo que es transversal a
+2004, pp. 26-27).
+todo el sistema educativo.
+La imagen siempre ha sido una herramienta eficaz
+Sin una aproximación sistemática desde lo teórico en los procesos de comunicación; sin embargo,
+a los problemas y retos planteados por la imagen las maneras de producirla y movilizarla han camal pensamiento, esta seguirá confinada a seguir biado, pues el desarrollo de medios tecnológicos
+sirviendo sólo como recurso didáctico para la en- permite que en nuestra época esta sufra un proceso
+señanza, en lugar de ser un objeto de estudio que de densificación, es decir, de expansión de su prepermita desarrollar lo que algunos autores ya han sencia en espacios tanto públicos como íntimos.
+2 Según José Ignacio Aguaded (2002, p. 37), la competencia
+
+mediática es “la capacidad que tiene cualquier ciudadano de
+conocer, comprender, interpretar y valorar de una forma
+creativa los mensajes de los medios”.
+
+3 Para conocer el origen y desarrollo de este concepto, ver
+
+Arizpe, E., y Styles, M. (2004), en especial el capítulo 2
+“Procesos, marcos de referencia y modelos de alfabetización
+visual”.
+
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 79-92, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+81
+
+Íkala
+
+82
+
+Rafael Barragán Gómez, Wilson Gómez Moreno
+
+emotividad y a la carencia de racionalidad, la
+Si antiguamente la creación de una imagen era
+escuela y las instituciones culturales tienden
+trabajo exclusivo de artistas o de genios que dedia menudo a un exceso de racionalidad, por lo
+caban mucho tiempo a elaborar un producto que
+menos comparativamente respecto a la carencia
+era original y réplica simultáneamente, hoy las tecde emotividad. En otras palabras, los excesos que
+nologías digitales permiten que una imagen pueda
+los críticos radicales denuncian en los medios
+de masas audiovisuales se corresponden con los
+ser reproducida hasta el infinito. La tecnología no
+déficits que se detectan en la escuela y en la cultura
+sólo nos ha convertido en consumidores voraces de
+oficial. (2000, p. 24)
+imágenes, sino que también nos ha dado la posibilidad de ser creadores.
+Nuestros estudiantes, hijos de su tiempo a fin de
+Hay quienes aseguran que vivimos en un mundo cuentas, son consumidores eficientes de esa cultura
+gobernado por la imagen, y aunque esta afirmación del espectáculo y aunque ello pueda encerrar maparezca ya un cliché, debemos admitir que buena los augurios para la continuidad de la escuela, los
+parte de los procesos de intercambio masivo de maestros no podemos seguir al margen de la reainformación están apoyados en el impacto de los si- lidad o asumiendo posturas tan ingenuas como la
+gnos visuales. La televisión, la Internet, la publicidad de aquellos que suponen que la solución es alejar a las
+afianzada en el uso de las imágenes fijas y en mov- nuevas generaciones de las máquinas, como si el
+imiento saturan todas las esferas de la vida diaria. problema fuera la tecnología y no la industria de
+Adicionalmente, los dibujos animados, los juegos poder que de ella se beneficia. Los medios de producen 3D, las consolas de Xbox, Playstation 2, las
+ción de información están al servicio de los grupos
+maravillosas creaciones del cine animado, por citar
+algunos ejemplos, nos están demostrando que la dominantes, luego, si aceptamos la idea de que los
+imagen no sólo es un intento exitoso de reproduc- medios se apoyan en la imagen, tendríamos que
+ción o deformación de la realidad, sino que es, en aceptar que esas imágenes, independientemente del
+esencia, una forma de representación de la reali- soporte en que se manifiesten, están cargadas de un
+fuerte contenido ideológico puesto al servicio de
+dad, es decir, opera como mediador.
+esos grupos de poder.
+J. Ferrés insiste en que ese avance vertiginoso de los
+medios de información y de comunicación apoyados Sólo de esta manera puede entenderse la conexión
+en el uso de la imagen nos ha insertado en lo que él estrecha entre el rol de la educación y la actitud
+del ciudadano frente a poderes tan avasalladores
+denomina “la cultura del espectáculo”:
+como el de los medios; no en vano, Buckingham,
+La omnipresencia de las cámaras ha transformado
+al plantear su idea de “educación mediática”, proel mundo entero en un inmenso plató. La simple
+pone que el objetivo de esta no consiste en una
+presencia de una cámara y de unos focos comporta
+protección contra los medios, sino en una prepaque cualquier persona pueda acabar sintiéndose un
+ración para ellos, pues a los estudiantes hay que
+actor, un intérprete. […] el espectáculo impregna
+hasta tal punto la vida de los ciudadanos que en
+“capacitarlos para que decidan por su cuenta con
+las sociedades más desarrolladas han acabado por
+conocimiento de causa” (2005, p. 35). Tal vez esta
+convertirse en espectáculo desde la política, con sus
+idea de educación en los medios se desprenda de la
+impresionantes shows electorales, hasta la religión,
+de “alfabetización visual”. Según Arizpe y Styles fue
+como demuestra el relieve que han ido adquiriendo
+Debes (1968) quien empleó por primera vez dicha
+en Estados Unidos los predicadores electrónicos.
+(2000, p.21)
+expresión para referirse a una persona “visualmente letrada” como aquella capaz de “discriminar e
+Esa cultura, continúa Ferrés, se puede definir interpretar las acciones, objetos y símbolos visibles,
+“recurriendo a cinco grandes rasgos diferenciales: la naturales o artificiales que encontrase en su medio”
+potencialización de lo sensorial, de lo narrativo, de lo (2004, p. 74).
+dinámico, de lo emotivo y de lo sensacional”. (2000, p. 21)
+Pero esta definición es bastante reduccionista y las
+Si los medios de masas tienden al exceso de
+
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 79-92, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+Íkala
+
+El lenguaje de la imagen y el desarrollo de la actitud crítica en el aula: propuesta didáctica para la lectura de signos visuales
+
+mismas autoras citan a Raney (1997) para quien la Con base en estas ideas, puede resumirse en este
+alfabetización visual
+punto que la imagen es un producto social y como
+tal vehicula sistemas de creencias. No hay imá[…] es la historia de pensar sobre lo que significan
+genes neutras puesto que obedecen a un proceso
+las imágenes y los objetos: cómo se unen, cómo
+intencional que no coincide necesariamente con los
+respondemos a ellos o los interpretamos, cómo pueusos que el creador u otros sujetos hacen de ella.
+den funcionar como modos de pensamiento y cómo
+se ubican en las sociedades que los crearon (2004,
+Esto ya tiene unas implicaciones pedagógicas y
+p. 76).
+didácticas: por un lado, se redefine el papel de la
+educación y, por el otro, se introduce el problePuede apreciarse en la definición anterior la imma de la circulación y el consumo de la imagen en
+plicación de factores no sólo cognoscitivos y
+la sociedad contemporánea con miras a desarrofisiológicos, sino también sociales e históricos,
+llar el pensamiento crítico en los educandos.
+pues Raney sostiene que la alfabetización visual
+contiene cinco dimensiones: sensibilidad percepti- Debe anotarse que el éxito de la imagen frente a los
+va, hábito cultural, conocimiento crítico, apertura demás sistemas de comunicación, especialmente
+estética y elocuencia visual.
+frente al código verbal/escrito, es apabullante y lo
+es en esencia por una aparente economía cognitiva:
+Esta definición encaja en la idea de “alfabetización
+cultural” de J.P. Gee, que resulta ser coherente con
+Las tecnologías de la comunicación audiovisual
+juegan a favor de la concreción, más que de la
+la propuesta didáctica que se esbozará adelante por
+abstracción. Las invenciones del alfabeto y de
+cuanto la tarea del maestro no se circunscribe al
+la imprenta habían instaurado una cultura en la
+desarrollo de la capacidad para leer o escribir texque la realidad era conceptualizada: abstracción
+tos o, en otras palabras, a la habilidad cognoscitiva
+sobre abstracción. En la comunicación escrita
+para traducir unos signos gráficos en sus equivalenlos significantes son abstractos, y en este sentido
+tan sólo tiene valor como mediación, como
+tes sonoros, sino, y ante todo, en la inmersión del
+proceso previo e inevitable en el camino hacia el
+sujeto en unas “prácticas sociales histórica y cultusignificado. En la comunicación audiovisual, en
+ralmente contextualizadas de las que la lectura y
+cambio, los significantes son concretos y tienen
+la escritura son sólo elementos, elementos que se
+un valor autónomo, un interés intrínseco, por sí
+sitúan de forma diferente en distintas prácticas somismos. La representación puede perder entonces
+su valor de signo para convertirse en una realidad
+ciales”. (2005, p. 57)
+Más adelante analizaremos de qué manera la
+postulación de la idea de lectura y escritura de
+imágenes tiene como corolario el replanteamiento del concepto de alfabetización, pues incluso el
+medio del libro y su correlato tradicional, es decir,
+el modo de la escritura, se funden —gracias al avance
+de las nuevas tecnologías y la penetración de los medios masivos— en una nueva forma de difusión de
+la información: la multitextualidad; y un nuevo
+soporte para estos textos: la multimodalidad. La
+primera se refiere al texto que combina distintos
+medios de producción de significados (un libro
+electrónico donde se combinan libro y pantalla,
+por ejemplo) y, la segunda, a la utilización de muchos modos (distintos o unidos a la escritura) en
+objetos textuales variados (Kress, 2005).
+
+autónoma. Y más cuando los significantes no
+hacen referencia a realidad alguna. En estos casos
+—cada vez más frecuentes— lo único que cuenta
+es el flujo incesante de impresiones momentáneas,
+instantáneas, fugaces. Esta tendencia al predominio
+de lo concreto sobre lo abstracto en la comunicación
+audiovisual suele traducirse en una hegemonía de
+lo material y, en consecuencia, de la apariencia,
+de lo que se puede ver y oír: la apariencia física de
+los personajes, los vestuarios y los maquillajes, los
+entornos físicos, los objetos. (Kress, 2005, p. 25)
+
+Pero si nos conformásemos con esta posición de
+Kress, reduciríamos precisamente el efecto de la
+imagen al ámbito de lo sensorial y emotivo. El acto
+de la percepción también involucra un acto de la
+imaginación, pues el acto de ver, que casi siempre es
+un acto de mirar, se sustenta en las imágenes pasadas e
+inevitablemente en una anticipación sustentada en
+
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 79-92, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+83
+
+Íkala
+
+Rafael Barragán Gómez, Wilson Gómez Moreno
+
+el deseo (Wunenburger, 2005, p. 25).
+De lo dicho hasta aquí se podrían plantear tres grandes retos para el aula: primero, la obligación de que
+los maestros se eduquen en el lenguaje de la imagen
+si quieren propiciar el desarrollo de procesos
+eficientes de interpretación de los códigos visuales en sus estudiantes. Segundo, que se admita la
+necesidad de considerar la imagen como hecho
+socio-cultural y, tercero, la reafirmación de que los
+procesos de lectura de imágenes entrañan procesos
+complejos de pensamiento.4 Desarrollemos a continuación cada uno de tales retos.
+
+84
+
+En cuanto al primero, en la medida en que profundizamos en la comprensión de lo que significa la
+didáctica, avanzamos, por lo menos en apariencia,
+en la idea de que, estrictamente, no tiene sentido
+hablar de una didáctica general que pueda servir
+como guía o referencia para aplicar a cualquier tipo
+de conocimiento. Un buen número de maestros
+coinciden en que la naturaleza de cada campo del
+saber determina las maneras como puede ser enseñado. De allí se deriva una consecuencia: nadie
+puede enseñar un conocimiento que no maneja
+a plenitud. Para que un maestro pueda conducir a
+sus estudiantes en la interpretación de textos visuales
+debe ser un consumidor crítico y activo de imágenes, un cinéfilo y, de ser posible, un creador.
+Si bien la escuela ha avanzado en la compresión
+de los procesos de lectura de lo verbal/escrito, y
+la imagen es efectivamente un texto, es imprescindible reconocer que la lectura de una imagen
+demanda una compresión eficiente de la semántica, la gramática y la sintaxis propias de los textos
+visuales (Arizpe y Styles, 2004; Vilches, 1988 y
+Aumont, 1992).
+
+como tal está impregnada de un contenido ideológico, es decir, construye, reproduce, legitima
+y confronta determinados sistemas de creencias
+socialmente compartidos. La realidad de las imágenes como vehículos ideológicos las convierte en
+objeto ideal para el desarrollo de una “conciencia
+crítica” en los ciudadanos, pero no en el sentido
+de un rechazo radical de la imagen y los medios,
+o de negación de todas aquellas manifestaciones
+que no se enmarquen en la “alta cultura” de la que
+nos habla Eco en la referencia inicial, sino del desarrollo de la autonomía para decidir qué y por qué
+se consume cierto tipo de textos. Siguiendo a Buckingham (2005) podríamos resumir la conciencia
+crítica como una forma de pensar los medios, más
+allá del análisis formal de sus mensajes, vinculándolos con las propias vivencias de quien se expone
+a ellos. Es en este lugar donde las imágenes pueden
+servir como fuente de reflexión sobre los propios
+estereotipos e imaginarios. De esta manera se desarrolla una capacidad para controlar y justificar las
+propias decisiones5.
+En cuanto al tercer factor y, precisamente por sus
+efectos persuasivos, la imagen es un recurso eficaz para el desarrollo de procesos complejos de
+pensamiento. En la interpretación de los signos
+visuales no sólo se llevan a cabo procesos receptivos
+donde el sujeto es pasivo sino que, adicionalmente,
+están implicadas operaciones cognoscitivas que,
+en nuestra tradición, han estado circunscritas a
+los procesos mentales. Procesos tales como: exploración activa, selección, captación de lo esencial,
+abstracción, análisis, síntesis, completamiento,
+corrección, comparación, solución de problemas,
+combinación, separación y puesta en contexto, se
+efectúan cuando percibimos y no se limitan a la esfera de los procesos mentales (Arnheim, 1998, p. 27).
+
+En cuanto al segundo reto, es necesario comprender que la imagen es un producto socio-cultural y Esto conduce forzosamente a una ampliación
+4 Entendemos por procesos complejos de pensamiento
+
+aquellos que, en el caso de la educación, son la base
+del desarrollo de habilidades del pensamiento y suelen
+asociarse a la inteligencia como capacidad para: clasificar
+patrones, modificar adaptativamente la conducta (o
+aprender), razonar deductivamente (inferir), razonar
+
+inductivamente (generalizar), desarrollar y utilizar
+modelos conceptuales y entender. cf. Nickerson, Perkins
+y Smith (1998, pp. 26-37).
+5 Buckingham desarrolla ampliamente esta idea en el capítulo
+siete (2005, pp. 171-194).
+
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 79-92, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+Íkala
+
+El lenguaje de la imagen y el desarrollo de la actitud crítica en el aula: propuesta didáctica para la lectura de signos visuales
+
+de la definición de la idea de cognición, que en
+adelante debería abarcar “todas las operaciones
+mentales implicadas en la recepción, almacenaje y procesamiento de información: percepción
+sensorial, memoria, pensamiento, aprendizaje”
+(Arnheim, 1998, p. 28). La percepción sería, pues,
+mucho más que aquello que los sentidos reciben en
+el momento en que el medio exterior los estimula.
+La primacía de la visión dentro de los demás sentidos se debe a que proporciona información mucho
+más rica sobre los objetos y acontecimientos del
+mundo exterior; por ello es medio “primordial
+del pensamiento”. Al surgir en función de la supervivencia y no como instrumento de la cognición
+por la cognición misma, la visión tiene fines y es
+selectiva. En consecuencia, la visión no registra pasivamente realidades externas, más bien, impone un
+orden conceptual al material percibido. Esto explica
+las características de la percepción del color y de las
+formas.
+La forma que surge como resultado de la percepción no es un mero registro mecánico como el de
+la imagen óptica proyectada en la retina; antes
+bien, ella resulta de contrastar formas extraídas de
+un conocimiento cultural e imponerlas a los registros ópticos: “un objeto contemplado por alguien
+es realmente percibido en la medida en que se lo
+adecue a alguna forma percibida”. (Arnheim, 1998,
+p. 41)
+
+se refiere nunca a una forma única e individual, sino
+más bien a la clase de pauta en la que el percepto
+consiste. (1998, p. 42)
+
+Finalmente, y para que no se deduzca que las operaciones perceptivas a nivel visual están circunscritas
+a procesos de orden fisiológico, es conveniente
+considerar que la percepción lleva tiempo, exige
+aprendizaje y este se ubica necesariamente en un
+contexto cultural. La captación de una forma no
+se da solamente por la repetida exposición a ella.
+Así como la percepción de formas depende de las
+características de cada especie y del grado de
+adiestramiento del espectador, también la cultura
+impone formas de ver. Es lo que se ha denominado
+la educación de la mirada.
+Este último factor encuentra su mejor ejemplo en el
+fenómeno de la perspectiva. Esta, nacida en el Renacimiento, introduce el punto de vista del espectador
+con lo cual se crea el método de observación.6 Es el
+origen de la distinción entre ver y mirar. Esta última
+está situada en unas coordenadas espacio-temporales, es decir, su naturaleza es histórica. Hemos
+llegado pues, al campo de lo visual, en sentido estricto. Algo muy distinto de lo perceptivo. Esta es
+la razón por la cual tantos expertos rechazan aquel
+lugar común que afirma que “una imagen vale más
+que mil palabras”, pues la imagen no se da porque
+sí ni en condiciones de total aislamiento, razón por
+la cual su interpretación siempre va a estar determinada por las coordenadas espacio-temporales en
+que es producida y comprendida.
+
+Es bien importante este aspecto referido a la percepción de la forma, pues es allí donde Arnheim
+argumenta que los perceptos son, en realidad, con- Para ilustrar la idea que hemos venido afirmando
+a lo largo de este escrito (que la interpretación de
+ceptos:
+cualquier imagen involucra un proceso intelectivo tan complejo como los que acontecen en la
+Las pautas de formas percibidas […] tienen dos
+propiedades que las capacitan para desempeñar el
+lectura de textos alfabéticos), presentaremos un
+papel de conceptos visuales: poseen generalidad y
+tipo particular de textos visuales: las caricaturas.
+son fácilmente identificables. […] ningún percepto
+Fundamentalmente, nos apoyamos en la sospecha
+6 “Es verdad que la vista es un sentido privilegiado, que dota
+
+al mundo de una especie de estructura que hace inteligible
+las cosas, que las coloca en su lugar; pero también es cierto
+que asumir un punto de vista es tomar una posición , y con
+la asignación de posiciones se cae en una cierta falsificación,
+pues el observador se sabe alejado de lo que observa, ajeno a
+
+ello; el mundo se convierte en un mundo creado desde el punto
+de vista del observador, y éste sabe que no sólo está fuera, sino
+también en una posición fija. El privilegio del sentido de la
+vista da por resultado el alejamiento del hombre del mundo y
+de su conversión en espectador”. (González 1986, p. 12)
+
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 79-92, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+85
+
+Íkala
+
+Rafael Barragán Gómez, Wilson Gómez Moreno
+
+de que esta clase de imágenes, ricas en una amplia
+gama de recursos retóricos y sobrecargadas de valor
+simbólico e ideológico, postulan un ideal de lector
+crítico, sagaz y analítico, que no solamente debe
+emocionarse o reír, sino también, asumir una postura política y ética ante el reto que le plantea el
+texto caricaturesco.
+3. UN MODELO DIDÁCTICO PARA EL
+ANÁLISIS DE TEXTOS VISUALES: EL
+CASO DE LA CARICATURA
+La caricatura, como texto visual por excelencia,
+también demanda unas operaciones cognoscitivas
+altamente complejas que atañen no sólo a la esfera
+de lo psicológico, sino también cultural.
+
+86
+
+estereotipos ya consolidados que cada grupo tiene
+sobre los otros. En este sentido, no concibe la caricatura como un texto que intente persuadir, sino
+como un elemento marginal que refuerza los hechos noticiosos del día a día. Este efecto se logra
+por la renuncia al desplazamiento de los elementos
+mágicos y míticos hacia un lenguaje sustentado en
+la metáfora, pues si el mito ofrece
+Una explicación de los hechos de la naturaleza, la
+metáfora hábilmente aplicada presentará al menos
+una explicación imaginaria de los acontecimientos
+del mundo. De ahí que nada sea más característico
+de la sátira pictórica que su conservadurismo,
+la tendencia a recurrir al mismo viejo fondo de
+motivos y estereotipos. (p. 200)
+
+Bien sea porque los dibujos analizados por Gombrich no parecen mostrar unas imágenes satíricas
+cuya pretensión sobrepase el deseo de “facilitar”
+la comprensión de una situación política o social
+compleja mediante ilustraciones sencillas, o bien
+porque no podemos apreciar en el libro de referencia una gama más amplia de caricaturas con mayor
+elaboración conceptual y estética, es indudable
+que este tipo de imágenes, si somos consecuentes
+con las ideas planteadas desde el comienzo de este
+escrito, pueden arrogarse una intención persuaGombrich (2003) sostiene que la caricatura, o lo siva derivada, precisamente, del empleo sofisticado
+que él denomina, la sátira política, ya desde el siglo de recursos retóricos que no buscan otra cosa que
+XVI, se sirvió originalmente de la figura del dia- “vincular lo familiar con lo no familiar”, para usar
+blo. El tema constante era el del personaje objeto palabras del mismo Gombrich (2003).
+de la sátira, o anatema, conducido al infierno por
+Satanás. Pero lo que en un principio fue parte de la Esto sólo es posible mediante el recurso a operautilización del mito con fines de adoctrinamiento, ciones retóricas que demandan procesos complejos
+se transformó en metáfora, lo cual se refleja en la de pensamiento que van desde la movilización de
+asociación entre el Mal y los políticos a los que se un saber sobre el mundo (entiéndase, historia), pasan
+atacaba con virulencia. A este respecto, Gombrich por el reconocimiento de unos signos propios de
+(2003, p. 190) escribe que su amigo Ernst Kris se un código y llegan hasta la conexión entre unos sigrefería a la sátira política “como un instrumento de nificantes con unos elementos de contenido.
+impulsos hostiles”.
+Debe enfatizarse que gracias a las operaciones
+Al analizar detalladamente el desarrollo de la sátira retóricas que le son propias, la caricatura funge
+política que, al alcanzar un cierto grado de estetici- como un texto de naturaleza argumentativa; es
+dad, pasa a llamarse caricatura en sentido estricto, decir, el texto construido con caricaturas, como
+Gombrich (2003) afirma que la pretensión real de las práctica discursiva, tiene una intención comucaricaturas no va más allá de la potenciación del sen- nicativa que va más allá de la información o
+tido de pertenencia a un grupo y del refuerzo de los exposición. Sus características formales, el conUna de nuestras definiciones de la caricatura pasa
+por concebirla como un género de la expresión
+gráfica donde predominan signos visuales. Estos
+son considerados signos en tanto correlacionan
+ciertas formas convencionales (plano de la expresión) muy específicas con unos significados (plano
+del contenido), todo ello en el marco de conocimientos enciclopédicos y referentes culturales del
+lector, bajo ciertas condiciones específicas.
+
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 79-92, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+Íkala
+
+El lenguaje de la imagen y el desarrollo de la actitud crítica en el aula: propuesta didáctica para la lectura de signos visuales
+
+texto donde se produce (normalmente dentro de A manera de síntesis podemos decir que la retórica
+las páginas de opinión de medios de circulación ma- es
+siva) y los contenidos que aborda, lo convierten en
+Un arte explícitamente visual […] hace transitar
+un instrumento de debate político e ideológico cuya
+el discurso de la palabra a la imagen. […] la
+influencia en la esfera de lo público es impredeciimagen argumento es una esquematización, una
+ble, mas no desdeñable. Consideramos que estos
+representación global de la situación discursiva.
+Representación que es también la del productor y de
+rasgos son comunes a otros tipos de signos visuales
+su público: de sus actitudes y comportamientos, de sus
+gráficos, pero nos concentraremos en las caricatuinterrelaciones y del contexto, es decir, de los supuestos
+ras para poder dar una idea general de cómo podría
+culturales. La imagen como esquematización
+plantearse una propuesta didáctica en esta direces portadora de lo verosímil más que de la verdad
+ción.
+(Rojas, 2006, p. 457).
+Es notable esta disposición casi que “natural” de
+la caricatura para la argumentación, es decir, para
+buscar la adhesión de amplias audiencias a unas
+tesis determinadas, porque es allí donde las operaciones retóricas cumplen con su función ideológica,
+más allá de la simple representación de la realidad. Esta
+característica no le viene por el texto escrito que suele
+acompañarla, pues es bastante frecuente que la caricatura sólo acuda a la escritura como simple mecanismo
+de refuerzo de una idea claramente expresada con
+los recursos propios de la imagen, sino porque en
+ella, a diferencia de lo que ocurre en la fotografía, el
+cine y aún en la pintura, las operaciones retóricas no
+se basan en la búsqueda del “efecto de realidad” del
+que hablara Barthes (1974), sino en una transgresión enérgica de esa realidad circundante, pues otra
+de las características de la caricatura es la actualidad
+y vigencia de sus contenidos.
+Se hace necesario precisar qué entendemos por retórica. Básicamente, es el mecanismo que produce
+una ruptura frente a las expectativas que albergamos
+frente a un texto con el fin de persuadir, modificar
+una actitud o un comportamiento.7 Es lo que ocurre, por ejemplo, cuando en un comercial se presenta
+un relato que parece una noticia y que, simultáneamente, oculta su interés en persuadir al consumidor
+para que adquiera un bien determinado.
+7 La semiótica del signo visual define la Retórica como
+
+“la superposición dialéctica de un grado concebido sobre
+un grado percibido de un elemento manifestado en un
+enunciado”. Por ejemplo, en el verso de Saint-John Perse
+“la cama rehecha de arenas que chorrean” hay una alotopía
+(desviación) entre “cama” y “arena” y el contexto impone la
+
+Al privilegiar su función persuasiva, la caricatura se
+concentra en el argumento. Rojas afirma que “una
+figura es argumentativa si su empleo, que provoca
+un cambio de perspectiva, parece normal respecto
+a la nueva situación sugerida” (Rojas, 2006, p. 458).
+Esta es, en nuestra opinión, la fractura o quiebre
+que la semiótica ha postulado, la cual exige al lector
+la construcción de un vínculo imaginativo entre un
+estado de cosas presente y uno figurado. Este giro
+o fractura se da porque se mezclan categorías de lo
+visual tales como: la clase de construcción (que es
+la que determina la diferencia entre una fotografía y
+una pintura), con la clase de función (que es la que
+determina la diferencia, por ejemplo, entre la propaganda, con su objetivo de vender algo, y la sátira,
+que ridiculiza algo), con las clases de circulación
+(lo que diferencia el cartel de la foto en el periódico), tal y como lo ejemplifica Sönesson (2004,
+p. 5). Así, cuando, por ejemplo, la imagen de La
+Monalisa aparece impresa en cientos de camisetas,
+se han mezclado estos órdenes o categorías de lo
+visual y se ha instalado una ruptura o fractura retórica.
+En la caricatura, como en cualquier texto visual,
+estas fracturas o quiebres de las expectativas que
+tenemos como producto de nuestra experiencia
+y conocimiento del mundo cotidiano son parte
+superposición del grado concebido “playa” en el percibido
+“cama”. El proceso es como sigue: producción de una
+desviación o alotopía, identificación y nueva evaluación de
+la desviación. Estas operaciones no se hacen al azar sino que
+siguen leyes muy estrictas” (Groupe µ, 1993, p. 32).
+
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 79-92, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+87
+
+Íkala
+
+Rafael Barragán Gómez, Wilson Gómez Moreno
+
+esencial y constitutiva de su función semiótica (es
+decir, las figuras que en el plano de la expresión y
+del contenido establecen una correlación significativa) y contribuyen solidariamente a crear un
+conjunto expresivo variado y rico con múltiples
+posibilidades para el creador.
+
+Figura 1
+
+Basados en Rojas (2006), se ejemplificarán algunos efectos retóricos, desde los más habituales,
+hasta los más elaborados, en un grupo de caricaturas para, al final, plantear algunas estrategias
+que podrían contribuir a una utilización más
+productiva de estos elementos en los procesos
+de formación de ciudadanos críticos, analíticos y
+sensibles en un lenguaje que tradicionalmente ha
+estado confinado a una función meramente expositiva, pues
+
+88
+
+Más generalmente, la cuestión de la persuasión se
+plantea desde que la información se convierte en
+uno de los elementos esenciales de la sociedad.
+Informar participa ya por eso de la persuasión,
+pues «hacer pasar información» implica con mucha
+frecuencia la voluntad de iniciar un mínimo de
+adhesión, con mira a conformar con ello su acción.
+La persuasión es pues un hecho social. (Bellenger,
+1999, p. 15)
+
+La figura 1 mezcla varias operaciones retóricas: reproduce, por un lado, la figura metonímica de un
+monumento ampliamente reconocido que encarna
+el valor de la libertad y, por otro, el estereotipo de
+un dirigente atraído por el señuelo que le presenta
+el gigante del Norte.
+Figura 2
+
+La siguiente muestra de caricaturas servirá para
+ejemplificar la idea de retórica visual desarrollada
+hasta este momento y de la exigencia que hacen estas imágenes a todo aquel que se enfrente a ellas. Se
+trata de algunas obras del humorista gráfico mexicano Paco Calderón, nacido en 1959 y cuya obra
+goza de alta estimación dentro del mundo cultural mexicano por su agudeza política. Casi toda su
+obra está dedicada a cuestionar las formas de ejercicio de la política en México. Las imágenes fueron
+obtenidas del sitio web del autor.
+La operación retórica planteada en la figura 2 es la
+analogía. Esta figura establece una correspondencia entre dos zonas de lo real, hasta entonces
+separadas, de tal manera que puede transferirse a
+una zona las cualidades reconocidas de la otra. En
+este caso, la sátira hace aparecer al político mexicano de izquierda Andrés Manuel López Obrador,
+conocido en el medio local como AMLO, con dos
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 79-92, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+Íkala
+
+El lenguaje de la imagen y el desarrollo de la actitud crítica en el aula: propuesta didáctica para la lectura de signos visuales
+
+de los personajes más siniestros de la filmografía completa allí el círculo de la lectura que es un proceso
+hollywoodense de terror. Puede apreciarse, una vez donde se relacionan lector, texto y contexto:
+más, que la sátira política más dura busca relacioEl hecho de asumir la caricatura como texto y, en
+nar al objeto de la crítica con el mal.
+consecuencia, como el producto de unas prácticas
+discursivas, implica también la presencia de
+un enunciador que, en un acto de enunciación
+concreto, postula o prefigura un enunciatario, un
+sujeto discursivo de ciertas características a quien
+va dirigido el mensaje. Esto determina que unas
+caricaturas demanden una clase particular de saber
+enciclopédico y que estén elaboradas con unos
+significantes particulares. (Gómez y Barragán,
+2007)
+
+Figura 3
+
+De lo anterior se deduce la necesidad de que el
+análisis profundice en las condiciones de producción de la imagen. A continuación presentamos
+un instrumento experimental que puede orientar
+el análisis critico de la caricatura a partir de tres
+La estulticia, la tosquedad y la vulgaridad de la clamomentos: análisis del contexto (condiciones de
+se política quedan magistralmente representadas
+producción), análisis de composición (sintaxis de
+en esta metáfora visual de la figura 3 que, muy al
+la imagen) y lectura inferencial.
+estilo de la fábula, satiriza las medidas económicas
+desacertadas en épocas de crisis gracias a la animalización.
+El ejercicio anterior permite la integración de diversas áreas del conocimiento, pues la caricatura siempre
+estará estructurada multidimensionalmente: es un
+medio de representación (dimensión simbólica), es
+una forma de conocimiento (dimensión psicológica); se refiere a una época en particular (dimensión
+socio-cultural) y asume posiciones evaluativas de
+la realidad (dimensión axiológica). Un aprovechamiento de la imagen que no pierda de vista tales
+dimensiones, contribuirá sin duda a lo que se ha
+denominado formación integral y desarrollo de actitudes críticas.
+Pero la propuesta didáctica debe ir más allá de la identificación de las operaciones retóricas, por lo que debe
+incluir la consideración de los elementos formales
+(líneas, trazos, marcas especiales, viñetas, perspectiva,
+relación escritura/imagen, entre otros) y el hecho de
+que la caricatura demanda, en general, un lector informado sobre el contexto en el cual se producen estos
+discursos; es decir, como todo texto, al postular un
+enunciatario, se convierte en práctica discursiva. Se
+
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 79-92, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+89
+
+Íkala
+
+Rafael Barragán Gómez, Wilson Gómez Moreno
+
+Análisis de la composición
+Descripción de los recursos *Siguiendo a Dondis (2008)
+básicos de la composición: los elementos básicos de la
+(Línea, punto, color, efectos comunicación visual son: el
+de luz ––tono––, dirección, punto, la línea, el contorno
+textura, etc.)*
+dirección, tono, color,
+textura, escala, dimensión
+Escenario y personajes: y movimiento.
+elementos del entorno, objetos,
+rol de los personajes dentro del
+escenario, rasgos expresivos
+destacados, cualidades físicas,
+posturas corporales, forma de
+vestir de los personajes.
+
+90
+
+Estructura narrativa. ¿Se
+cuenta una historia? ¿Cuál es la
+secuencia narrativa? ¿Cuántas
+viñetas? sentidos de lectura
+de los cuadros, planos, ángulos
+de composición y encuadre,
+profundidad de campo.
+Texto verbal. (si aparece)
+¿Duplica la información que
+proporciona la imagen ––
+redundancia––? ¿El texto
+agrega una información adicional
+o establece una relación de
+contraste para sugerir otros
+contenidos?
+Elementos paralingüísticos
+(Elementos que refuerzan los
+matices fonéticos y psicológicos
+de lo personajes). Características
+de los trazos que encuadran las
+expresiones de los participantes
+en los diálogos. Letras o globos
+temblorosos, trazos gruesos
+o enérgicos, tamaño y rasgos
+expresivos de las letras, etc.
+
+Lectura inferencial
+Recursos retóricos: Hipérbole, alegoría, metonimia,
+metáfora visual, personificación, etc.
+Estructuras narrativas sutiles (situaciones que no se
+cuentan de forma explícita pero se infieren de la imagen)
+Hipótesis sobre los posibles enunciados que propone
+el caricaturista, argumentos.
+
+4 .CONCLUSIONES
+De lo expuesto a lo largo de este documento, sintetizaremos algunas cuestiones que podrían servir como
+insumo para fundamentar estrategias didácticas concretas que promuevan el aprovechamiento de los
+signos visuales en el aula.
+En primer lugar, se hace necesaria una ampliación
+del concepto de lectura, pues la tradición científico-filosófica occidental y las prácticas educativas
+tradicionales no contemplan la posibilidad de que
+las imágenes —asumidas en su dimensión textual
+y discursiva— puedan ser abordadas como objetos
+de enseñanza y de aprendizaje orientados a desarrollar habilidades superiores de pensamiento. La
+noción de “literacia” debe trascender los textos sustentados en la escritura alfabética, como se explicó
+en el apartado dos.
+Adicionalmente, es plausible que una clase de imágenes como las caricaturas puedan reclamar para
+sí el estatuto de textos argumentativos, en virtud
+del alto nivel de complejidad semántica que las
+define tanto formal como socioculturalmente.
+Se pasa con ello de la consideración de la imagen
+como una mera representación más o menos fiel de
+la realidad, y sin otro propósito comunicativo que
+el de impactar o afectar la sensibilidad de quien la
+interpreta, a una repotenciación de su valor como
+agente de procesos de pensamiento formal con pleno derecho a existir dentro del currículo.
+Se pueden argüir más razones en favor de este argumento: el hecho de que los signos visuales casi
+
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 75-88, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+Íkala
+
+El lenguaje de la imagen y el desarrollo de la actitud crítica en el aula: propuesta didáctica para la lectura de signos visuales
+
+siempre hayan estado vinculados a la creatividad
+y dado que esta, erróneamente, ha sido separada
+de la postura crítica, su interpretación suele circunscribirse a la esfera del goce estético (proceso
+excluido también de manera ingenua de la esfera
+de lo cognoscitivo). Con ello se pasa por alto que
+“el pensamiento crítico es una condición necesaria,
+aunque no suficiente, de la creatividad” (Nickerson, Perkins y Smith, 1998, p. 110).
+
+les, no podría arrojar resultados favorables para el
+desarrollo de habilidades intelectuales complejas,
+si los agentes involucrados en el proceso educativo
+no pasan de ser consumidores acríticos de imágenes o usuarios poco reflexivos de los fenómenos
+visuales a ser productores de estos lenguajes. Con
+ello se revalida el principio didáctico según el cual
+nadie puede enseñar aquello que no sabe hacer y
+se refuerza la idea general de que es poco probable
+que un lector asuma posiciones críticas cuando igFinalmente, podemos afirmar que cualquier incur- nora los mecanismos esenciales que posibilitan la
+sión desde la pedagogía y la didáctica en el poco producción de sentido en un sistema de significaestudiado campo de la imagen y los signos visua- ción particular.
+REFERENCIAS
+Aguaded, J. (2002). Enseñar a ver televisión: de la caja
+mágica al ojo crítico. En ININCO, La televisión:
+¿enemiga o aliada?, Caracas, Venezuela:
+Universidad Central de Venezuela.
+Arizpe, E., & Styles, M. (2004). Lectura de imágenes.
+Los niños interpretan textos visuales. México,
+D.F.: Fondo de Cultura Económica.
+Arnheim, R. (1998). El pensamiento visual. Barcelona,
+España: Paidós.
+Aumont, J. (1992). La imagen. Barcelona, España:
+Paidós.
+Barragán, R. (2005). Presencia de los lenguajes no
+verbales en el área de lengua castellana. En
+Vásquez, F. (ed.). La didáctica de la lengua:
+estado de la discusión en Colombia (pp. 253-262).
+Cali, Colombia: Universidad del Valle-ICFES.
+Barthes, R. (1974). La semiología. Buenos Aires:
+Tiempo Contemporáneo.
+Beuchot, M. (2007). Interpretación, analogía e
+iconicidad. En Lizarazo, D. (ed.). Semántica de
+las imágenes, figuración, fantasía e iconicidad
+(pp.15-28). México, D.F: Siglo XXI.
+Bellenger, L. (1999). La persuasión. México, D.F.:
+Fondo de Cultura Económica.
+Buckingham, D. (2005). Educación en medios.
+Alfabetización,
+aprendizaje
+y
+cultura
+contemporánea. Barcelona, España: Paidós.
+Dondis, D. (2008). La sintaxis de la imagen. Introducción
+al alfabeto visual. Barcelona, España: Gustavo
+Gili.
+Eco, U. (2010). Apocalípticos e integrados. Barcelona,
+
+España: Debolsillo.
+Ferrés, J. (2000). Educar en una cultura del espectáculo.
+Barcelona, España: Paidós.
+Gee, J. (2005). La ideología en los discursos. Madrid,
+España: Morata.
+Gombrich, E. (2003). Los usos de las imágenes.
+Estudios sobre la función social del arte y la
+comunicación visual. México, D.F.: Fondo de
+Cultura Económica.
+Gómez, W., & Barragán, R. (2007). La caricatura como
+herramienta para el desarrollo del pensamiento
+crítico. En Aragón, G., Kostina, I., Pérez, M.,
+& Rincón, G. (eds.). Perspectivas sobre la
+enseñanza de la lengua materna, las lenguas y la
+literatura. Memorias del congreso Perspectivas
+sobre la enseñanza de la lengua materna, las
+lenguas y la literatura. Universidad del Valle.
+González, C. (1986). Imagen y sentido, elementos para
+una semiótica visual. México, D.F.: UNAM.
+Groupe µ. (1993). Tratado del signo visual. Madrid,
+España: Cátedra.
+Kress, G. (2005). El alfabetismo en la era de los nuevos
+medios de comunicación. Málaga, España: Aljibe.
+MEN. (1998). Lineamientos curriculares. Lengua
+castellana. Bogotá, Colombia: Magisterio.
+MEN. (2003). Estándares básicos de calidad en
+matemáticas y lenguaje. Bogotá, Colombia:
+Ministerio de Educación Nacional.
+Nickerson, R., Perkins, D. & Smith, E. (1998). Enseñar
+a pensar. Aspectos de la aptitud intelectual.
+
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 79-92, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+91
+
+Íkala
+
+Rafael Barragán Gómez, Wilson Gómez Moreno
+
+Barcelona, España: Paidós.
+
+mx/anteriores/n38/gsonesson.html
+
+Ong, W. (2000). Oralidad y escritura. Tecnologías
+de la palabra, México, D.F.: Fondo de Cultura
+Económica.
+Rojas, M. (2006). El imaginario. Civilización y cultura
+del siglo XXI. Buenos Aires, Argentina: Prometeo.
+Simone, R. (2001). La tercera fase. Formas de saber que
+estamos perdiendo. Madrid, España: Taurus.
+Sönesson, G. (2004). De la reproducción mecánica
+a la producción digital. Semiótica cultural en
+la sociedad de imágenes. Razón y Palabra, 38.
+Recuperado de http://www.razonypalabra.org.
+
+Vilches, L. (1988). La lectura de la imagen: prensa, cine,
+televisión. Barcelona, España: Paidós, Barcelona.
+Wunenburger, J. (2005). La vida de las imágenes.
+Buenos Aires, Argentina: Jorge Baudino EditoresUniversidad Nacional de San Martín.
+
+How to reference this article: Barragán, R, &
+Gómez, W. (2012). El lenguaje de la imagen y el
+desarrollo de la actitud crítica en el aula: propuesta
+didáctica para la lectura de signos visuales. Íkala,
+revista de lenguaje y cultura, 17(1), 79-92.
+
+92
+
+Medellín – Colombia, Vol. 17, Issue 1 (January–April 2012), PP. 79-92, ISSN 0123-3432
+www.udea.edu.co/ikala
+
+
