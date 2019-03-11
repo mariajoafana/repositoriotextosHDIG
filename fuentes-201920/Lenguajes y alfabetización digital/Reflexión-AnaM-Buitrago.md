@@ -1,4 +1,5 @@
 Colecciones de fuentes secundarias en texto plano para ejercicios de lectura distante del módulo de humanidades digitales de la clase de VIsiones de Investigación y Creación de la Maestría en Humanidades Digitales de la Universidad de los Andes (Colombia)
+
 Para el proyecto de investigación Seres críticos: lenguajes y memorias; en la acotación del estado del arte se sometieron 10 textos a la herramienta Voyan Tools con el fin de precisar términos y marcar palabras claves. Los resultados muestran detalles que guian la búsqueda y dan pautas para la consecución de material preciso. 
 
 El análisis muestra una recurrencia amplia en palabras como: "comunicación", "educación", "campo" y "social" está ultima en singular y plural, aspecto que muestra desde el inicio que debe excluirse este término pues es evidente, los dos primeros en efecto son parte de la temática central y del objetivo principal de la investigación, la cual, esta inmersa en el campo educativo.
