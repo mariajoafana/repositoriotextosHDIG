@@ -1,0 +1,805 @@
+Cubrimiento periodístico y visibilidad del feminicidio en El Heraldo (Barranquilla, Colombia)
+
+Pamela Flores Prieto.Investigación & Desarrollo; Barranquilla Tomo 25, N.º 1, 
+La investigación se propuso, apoyada en un estudio de caso, caracterizar los relatos producidos por el diario El Heraldo de Barranquilla (Colombia) sobre feminicidios con base en las guías para el cubrimiento no sexista de la violencia de género y los principios de la Comunicación para la solidaridad con el fin de establecer qué tanto estos se evidencian en el cubrimiento de estos hechos. El análisis se centró en 10 noticias referidas a dos de los doce feminicidios cubiertos por el diario durante 2015. Los resultados muestran que El Heraldo visibiliza la violencia de género y señala la poca repercusión que tienen estos delitos en el sistema judicial. Sin embargo, se encontró poca contextualización y ausencia de estrategias para producir sanción social y solidaridad. El reto es un periodismo que genere una ciudadanía activa, de modo que el feminicidio se asuma como un problema público y social. 
+Palabras clave: Periodismo, feminicidio, discriminación, derechos de la mujer.
+Introducción
+Según el Observatorio de Igualdad de Género de América Latina
+y el Caribe, entre 2010 y 2015, 12 países de la región tipificaron
+el feminicidio como un delito específico que agrava el homicidio,
+sumándose a los 4 países que habían legislado ya antes de 2010
+(ver: http://oig.cepal.org/sites/default/files/notaigualdad_17_0.pdf).
+A pesar de ello, las cifras de violencia contra las mujeres siguen
+siendo extremadamente altas, como lo prueban las declaraciones de
+la Cepal durante la inauguración de la XIII Conferencia Regional
+sobre la Mujer de América Latina y el Caribe, realizada en octubre
+de 2016 en Montevideo: “Cada día mueren en promedio 12 mujeres
+en América Latina y el Caribe víctimas de feminicidio” (ver: http://
+www.alterinfos.org/spip.php?article7712).
+La “Declaración sobre la eliminación de la violencia contra la
+mujer” (Asamblea General de la ONU 48/104 del 20 de diciembre
+de 1993) define la violencia de género como “todo acto de violencia
+basado en la pertenencia al sexo femenino que tenga… como resultado
+un daño o sufrimiento físico, sexual o psicológico…” (Artículo
+1); y reconoce también que la mujer “tiene derecho… al goce y la
+protección de todos los derechos humanos y libertades fundamentales
+(artículo 3). No obstante, las violaciones a estos derechos son
+constantes. Y aunque según las estadísticas de ONU Mujeres en
+2014, la tasa de feminicidios en Colombia es de las más bajas de
+América Latina (ver http://www.alterinfos.org/spip.php?article7712),
+las declaraciones dadas al canal RCN el 8 de marzo de 2016 por el
+Director del Instituto de Medicina Legal afirman que en 2015 “cada
+13 minutos una mujer [fue] víctima de agresión”; y alertó sobre el
+aumento de la violencia sexual e intrafamiliar en el país.
+La importancia dada al fenómeno en las legislaciones y la
+persistencia de la violencia muestran que las leyes por sí solas no
+transforman nunca las prácticas y los comportamientos sociales. Y
+que el origen de estas situaciones hay que buscarlo en las representaciones
+sociales, heredadas y asumidas acríticamente, sobre el
+papel de la mujer en la sociedad y sobre cómo deben ser las relaciones entre los géneros. Y aunque los medios de comunicación no
+han creado estas representaciones, sí han sido importantes en su
+transmisión y reproducción. Como afirma Vallejo (2005), “la representación
+que hacen los medios de la violencia contra la mujer
+reflejaría y permitiría… identificar aquellas imágenes, estereotipos
+y actitudes que dominan actualmente en el conjunto mayor de la
+sociedad” (p.7). Y dado que los periodistas no son ajenos a su contexto
+sino que, como cualquier persona, han interiorizado creencias
+y valoraciones durante sus vidas, es necesario reflexionar sobre las
+representaciones de género que subyacen en sus mensajes con el fin
+de que los medios contribuyan a transformar la sociedad.
+Con este propósito se han creado manuales con orientaciones
+específicas para ejercer un periodismo con perspectiva de género
+que contribuya a cambiar las representaciones sobre el rol de
+la mujer en la sociedad y guías sobre el tratamiento de los medios
+a la violencia de género y la discriminación a la mujer que eviten
+seguir perpetuando representaciones que legitiman y justifican estos
+delitos. Estos documentos coinciden en varios puntos, difieren
+en otros, pero en lo fundamental promueven la conciencia en los
+periodistas sobre sus propias representaciones y sus consecuencias y
+dan consejos puntuales para presentar los hechos de modo que no
+se reproduzca la desigual relación entre los hombres y las mujeres.
+De ahí que enfoques como la Comunicación para la solidaridad
+(González Álvarez, 2010), según el cual es preciso lograr que
+el abuso y la violencia produzcan una solidaridad activa; o lo que
+desde la pedagogía Katz denomina “the bystander approach” (ver
+http://www.mvpstrat.com/the-bystander-approach/) hagan un llamado
+a un papel más activo en la transformación de las representaciones
+sociales. En el caso del periodismo, se trataría de abandonar
+la apuesta por la “objetividad” para tomar partido por la defensa de
+los sectores más vulnerables.
+La situación extrema de violencia contra la mujer la constituye,
+sin duda, el feminicidio. Sin embargo, este tipo de asesinato
+no es un hecho aislado; por el contrario, es el resultado de una
+cadena de violencias que, lamentablemente, solo llama la atención cuando termina en muerte. El reconocimiento del feminicidio por
+los medios es un fenómeno nuevo. En Perú, por ejemplo, la guía
+del Ministerio de la Mujer dice: “El feminicidio es reconocido y
+titulado como tal por los medios de comunicación local en abril
+de 2009, en el marco de una campaña de sensibilización sobre esta
+problemática realizada por el Ministerio” (2011, p. 21). Este reconocimiento
+implica construir mayor conciencia de los contextos en
+donde se generan estos hechos y de los antecedentes que anuncian
+estos desenlaces para que la muerte no sea un final inevitable y, mucho
+menos, justificable. Sin embargo, además de los estereotipos de
+género, nociones como la objetividad periodística, lo que constituye
+noticia y lo que no, y la rapidez de las rutinas productivas dificultan
+que los medios transformen las representaciones existentes y generen
+sanción social.
+La investigación se propuso, a partir de un estudio de caso,
+caracterizar los relatos producidos por El Heraldo sobre feminicidios
+con base en las propuestas contenidas en las guías para el cubrimiento
+de la violencia de género y en los principios de la Comunicación
+para la solidaridad con el fin de establecer qué tanto utilizan
+recursos para generar una ciudadanía activa contra el feminicidio.
+Así, describimos, por un lado, los fallos que los periodistas evitan
+o no y, por el otro, los recursos que utilizan o no para construir
+solidaridad. Para ello, se cruzaron las características de la Comunicación
+para la solidaridad con las principales orientaciones presentadas
+por tres guías publicadas en lengua española y se obtuvieron
+los indicadores que se aplicaron a cada noticia.
+El Heraldo es el diario más importante y más leído en la región
+Caribe colombiana (ver http://www.elcolombiano.com/antioquia/elcolombiano-
+el-tercer-diario-mas-leido-de-colombia-KF2007279) y
+el quinto a nivel nacional. Su gran cantidad de lectores hace que
+incida en la transformación de las representaciones sobre cualquier
+tema en esta región del país. Por tanto, es fundamental conocer qué
+tipo de representaciones comunica.
+¿Qué es el feminicidio?
+Aunque los términos femicide y feminicide ya existían en el siglo
+XIX, su uso no se popularizó hasta que las feministas de los años
+setenta los impusieron para señalar lo que Diana Russell llamó “la
+política sexual del asesinato”. Como afirmó Russell en el Tribunal de
+Crímenes en contra de las Mujeres en Bruselas en 1976, el feminicidio
+ha estado presente en la historia desde la quema de brujas hasta
+el asesinato de mujeres por el honor. Sin embargo, la definición de
+Russell no es universalmente aceptada y dentro de los movimientos
+feministas se dan debates que señalan diferencias en las acepciones
+del término en virtud de las motivaciones, la intencionalidad o
+quien comete el asesinato.
+Estos debates tienen interés en los medios académicos. Pero a
+la hora de transformar las representaciones sociales y de abordar la
+problemática de un periodismo no sexista, se requieren definiciones
+claras que contribuyan a que la sociedad tome una posición frente
+a las agresiones que sufren las mujeres por causa de las inequidades
+de género legitimadas socialmente. En este sentido, los manuales y
+guías dirigidos a mejorar las prácticas periodísticas en temas de género
+acogen la definición de la ONU citada anteriormente, la cual
+coincide con la dada por Russell (2006): “el asesinato de mujeres
+por hombres por ser mujeres” (p. 76). Es decir, cuando se pretende
+justificar la muerte de una mujer a manos de un hombre con representaciones
+sociales excluyentes del género femenino que están
+validadas social y culturalmente e incluso, a veces, jurídicamente.
+Medios y perspectiva de género
+La investigación sobre género y medios tiene en lengua española
+una tradición más corta que en el ámbito anglosajón, en donde desde
+los 60, bajo el influjo de la Segunda Ola Feminista, se analizaron
+los contenidos mediáticos y sus audiencias desde la perspectiva de
+género. Una lista total de trabajos sería imposible, la cual además,
+como muestra van Zoonen (1994), estaría caracterizada por una
+enorme heterogeneidad. Así, solo en la década de los 90, trabajos como el de Paglia (1990) y el de Faludi (1991) muestran “las luchas
+culturales que se desarrollan en las sociedades contemporáneas del
+Primer Mundo acerca de la naturaleza de la feminidad, la masculinidad
+y el feminismo” (van Zoonen, 1994, p. 5) y, en consecuencia,
+de las maneras como los medios deberían abordar las cuestiones de
+género; y estas luchas “no solo se dan en el terreno de lo simbólico
+de los medios masivos y las artes sino en el área de la existencia
+humana” (p. 5). Como señalan Barrett y Philips (citado por van
+Zoonen, p. 3) tendencias como el feminismo negro y el psicoanálisis
+han minado la univocidad de las luchas feministas y han mostrado
+la heterogeneidad de los acercamientos y propuestas. Igualmente, la
+producción de medios es inseparable de “las complejas interacciones
+entre las restricciones de las estructuras institucionales, organizacionales/
+corporativas…” (Carter y Steiner, 2003, p.16), ya que
+temas como los costos de producción, la publicidad, las audiencias,
+las censuras implícitas o explícitas inciden en los abordajes que se
+elijan, incluido el modo de asumir la perspectiva de género.
+La conciencia sobre estas limitaciones y sobre el hecho de
+que se tienen representaciones sociales heredadas de las cuales no se
+es del todo consciente ha llevado a la elaboración de manuales que
+orienten sobre formas de comunicar que conlleven una perspectiva
+de género. Así, las agremiaciones de periodistas, las instituciones
+que defienden los derechos humanos y los movimientos feministas
+han producido, en conjunto o en forma independiente, manuales
+que permitan discernir de manera eficaz y clara cuándo se están
+perpetuando las desigualdades que mantienen a la mujer en una
+situación de desventaja social. En lengua española algunos de estos
+manuales son: “Comunicación con perspectiva de género: Manual
+de Estilo para una comunicación incluyente” de la Radiotelevisión
+Canaria (2012). “Por un periodismo no sexista. Pautas para comunicar
+desde una perspectiva de género”, Chile. “Manual de Género
+para periodistas”. Área del PNUD en América Latina. “Hacia la
+construcción de un periodismo no sexista” CIMAC, Unesco, (2009).
+“Otras miradas para construir, comunicar y analizar la información” de la Red colombiana de periodistas con visión de género (2011). En este último se afirma:
+
+De manera consciente o inconsciente, los medios de comunicación
+replican muchos de los estereotipos de género que circulan en
+todos los espacios y relaciones sociales. Con frecuencia, se representan
+y muestran a las mujeres en situaciones de subordinación
+o menor relevancia que a los hombres. Se continúa asociando la
+feminidad con la delicadeza, la debilidad, la emotividad, la belleza
+física, la dependencia y la necesidad de protección; por su lado,
+la masculinidad se asocia con la fuerza, el poder, la inteligencia,
+la valentía, la potencia sexual, la independencia y la protección.
+Estos estereotipos atentan contra la dignidad, la igualdad y la libertad
+de las personas; sobre todo porque la sociedad “castiga” a
+las mujeres y a los hombres que se niegan a seguir el estereotipo
+y se arriesgan a vivir de acuerdo a sus propias convicciones y decisiones
+(p. 12).
+
+Estos manuales muestran que “el problema del sexismo en el
+lenguaje ha sido ampliamente reconocido” y que “necesitamos los
+instrumentos para superarlo” (Manual de CIMAC, p. 2). Esos instrumentos
+se hacen aún más urgentes cuando se cubren hechos de
+violencia producida por “el problema del sexismo”. Es posible que la
+totalizante sentencia de López Díez (2007), “La violencia de género
+se construye día a día a través de los relatos que elaboran los medios
+de comunicación” (p. 98), parezca exagerada. Sin embargo, diversas
+investigaciones (Gallego, s. f.; Carter et al., 2003; Our Watch, 2015)
+muestran que los medios no siempre presentan la violencia de género
+de modo que contribuya a disminuir y, en últimas, a terminar
+con este problema. Por ejemplo, la investigación realizada por Our
+Watch, sobre la cual el diario The Guardian publicó un informe en
+noviembre de 2015, afirma que no solo en Australia sino en todo
+el mundo, “la información sobre violencia contra las mujeres que
+desafía en lugar de reforzar las normas culturales y sociales sobre
+el género, es todavía minoritaria”. Pero no se trata solo de lo que se
+dice o de cómo se dice. Buiten y Salo (2007) afirman que hay que
+buscar los silencios ya que, con frecuencia, los actos de violencia se atribuyen a una “patología individual en lugar de a la misoginia
+alimentada por las existentes relaciones de género” (p. 115).
+Por eso, a los manuales descritos se han sumado guías que
+tratan específicamente del cubrimiento de la violencia de género.
+Es decir, que las mismas agremiaciones periodísticas y las instituciones
+que trabajan por el fortalecimiento de los derechos son
+conscientes de que todavía hay mucho trabajo pendiente con miras
+a lograr relatos equitativos, y de que se necesitan pautas para construir
+nuevas formas de abordar la violencia de género y transformar
+las prácticas periodísticas.
+Este trabajo, que implica una labor de concientización por
+parte de los periodistas, ha traído, sin duda, cambios en las maneras
+de cubrir estos hechos. En Colombia, por ejemplo, Ariza señala
+en un estudio basado en dos diarios de la ciudad de Medellín (El
+Colombiano y La Chiva) que, al hacer un análisis de contenido de las
+noticias relacionadas con violencia de parejas, es posible percibir en
+ambos casos una evolución entre 2001 y 2008, desde representaciones
+sociales hegemónicas y justificativas a representaciones polémicas
+y contradictorias. Esta transformación paulatina es importante,
+ya que
+en el contexto social colombiano, los estereotipos sexistas, racistas
+o clasistas divulgados en los medios, pueden reforzar representaciones
+hegemónicas que orientan las acciones de los funcionarios
+de instituciones gubernamentales y repercutir de forma negativa
+en las acciones emprendidas para la prevención y manejo de todos
+los tipos de violencia, incluyendo por supuesto la que se ejerce a
+diario contra las mujeres. (Ariza, 2011, p. 139).
+Por esto, las organizaciones que trabajan para construir medios
+comprometidos con la equidad consideran que lo fundamental
+es alinearse en programas de tolerancia cero a la violencia. Dice
+López Díez (2007):
+La profesión periodística debe ser consciente de los patrones culturales
+todavía hoy existentes que ni siquiera detectan los contenidos
+que embellecen, mitigan y disculpan actuaciones masculinas reprobables y punibles… Estos significados construidos por las
+representaciones desde los medios de comunicación, influyen sobre
+la percepción social, decidiendo una actitud de los individuos que
+tendrá una influencia innegable sobre su comportamiento. (p.79).
+
+Es claro que estas guías no pueden ser fundamentalistas, y
+que existen discrepancias entre ellas. Por eso se denominan guías
+y, en última instancia, cada periodista deberá hacer su propia reflexión
+y asumir las directrices que considere que sirven mejor a la
+equidad. Lo importante es abrir el debate y asumir la violencia de
+género como un problema social no privado que merece la atención
+de los medios y la solidaridad de la comunidad.
+En este sentido, uno de los proyectos centrales de “Our
+Watch” es el “National Media Engagement Project”, a través del
+cual se invita a los medios a “mejorar la calidad de la información
+sobre la violencia contra mujeres y niños y a aumentar la conciencia
+de los impactos que tienen los estereotipos de género y la
+desigualdad” (www.ourwatch.org.au/News-media). A nivel global,
+la International Women’s Media Foundation lleva más de 20 años
+trabajando para fortalecer el rol de las mujeres en las comunicaciones
+con la convicción de que entre más mujeres hagan parte de los
+medios, mayor atención recibirán las problemáticas de género y las
+perspectivas serán más incluyentes. (www.iwmf.org).
+En el contexto colombiano podemos destacar la campaña ¡Párala
+ya! Nada justifica la violencia contra las mujeres, adelantada en el
+departamento del Cesar por la Fundación Carboandes y el Círculo
+de Periodistas de Valledupar (CPV) con el fin de sensibilizar y formar
+en temas de género a funcionarios públicos, periodistas, mujeres
+líderes, profesionales de instituciones educativas para que se
+vuelvan multiplicadores de equidad de género en el departamento,
+lo cual muestra el liderazgo de los periodistas en la construcción de
+nuevas representaciones de las relaciones entre hombres y mujeres.
+Un recorrido por las guías muestra que existen elementos
+comunes que constituyen la pauta básica para el ejercicio de un
+periodismo libre de prejuicios de género que, por tanto, condene el
+feminicidio. Estos elementos pueden sintetizarse así:
+
+• Ser conscientes de que el lenguaje no es neutral y de
+que estamos acostumbrados a un lenguaje sexista y
+discriminatorio.
+• Reflexionar sobre los estereotipos heredados y cómo los
+medios los perpetúan.
+• Contextualizar la violencia de género como producto de
+una sociedad inequitativa y como la violación a derechos
+fundamentales.
+• Evitar oraciones o expresiones que justifiquen o relativicen
+la violencia de género.
+• Nunca culpar a la víctima.
+• No describir los atributos físicos de la víctima para explicar
+la agresión.
+• No hacer del agresor el protagonista ni dar voz a quienes
+relativicen sus acciones.
+• No faltar a la presunción de inocencia hasta que la justicia
+dé un fallo.
+• Orientar adónde acudir para enfrentar la situación.
+• No mostrar la violencia de género como una situación
+definitiva.
+• Contar con el testimonio de personas expertas que expliquen
+la complejidad de esta problemática más que con
+testimonios de las familias que no aportan al problema.
+
+La construcción de unos indicadores de análisis
+Con el propósito de examinar qué tanto las noticias sobre feminicidios
+de El Heraldo de Barranquilla contribuyen a generar nuevos relatos y a promover una conducta activa contra este flagelo en una
+sociedad profundamente patriarcal se realizó un estudio de caso,
+basado en el seguimiento realizado por el diario a dos feminicidios
+ocurridos en 2015. Pérez Serrano (citado en Berrío, p. 4) señala que
+el estudio de caso es particularista, descriptivo, heurístico e inductivo.
+Esto significa, entre otros aspectos, que “es una estrategia encaminada
+a la toma de decisiones” y que “se basa en el razonamiento
+inductivo para generar hipótesis y descubrir relaciones y conceptos
+a partir del sistema minucioso donde tiene lugar el caso”, lo cual
+coincide con los fines de este trabajo, ya que se buscan unos resultados
+que permitan hacer conciencia de relaciones y representaciones
+no conscientes en el cubrimiento de estos hechos; presentar factores
+silenciados; y crear directrices que orienten a los periodistas para
+generar sanción social y ciudadanía activa por parte de los lectores.
+Para seleccionar las noticias se hizo un muestreo por conveniencia
+y se tomaron dos de los doce feminicidios cubiertos por El
+Heraldo durante 2015, específicamente, el cuarto (caso A) y el último
+(caso B). La búsqueda dio 3 noticias para el caso A y 6 para el
+B a este se añadió una noticia marcada por el diario como “relacionada”,
+lo que dio un total de 10 noticias. Para crear los indicadores
+de análisis se tomaron las seis características de la Comunicación
+para la solidaridad y las orientaciones obtenidas de cuatro guías
+seleccionadas en lengua española:
+• “Guía para el tratamiento Informativo de la Violencia de
+Género” del Consejo Audiovisual de Andalucía, España.
+• “Guía. Violencia basada en Género y generaciones.
+Orientaciones para la cobertura periodística”. Proyecto
+Uruguay.
+• “Pautas para el tratamiento informativo adecuado de la
+violencia contra la mujer en los medios de comunicación
+social”, del Ministerio de la Mujer y Desarrollo Social,
+Perú, 2011.
+
+• “Derechos humanos, violencia contra las mujeres y feminicidio.
+Guía para periodistas. CIDEM.
+Tal como muestra el siguiente cuadro, el cruce entre los principios
+de Comunicación para la solidaridad y las orientaciones de las
+guías arrojó los indicadores de análisis.
+
+Cada noticia se analizó desde cada indicador. Igualmente, se
+verificó qué tanto la secuencia noticiosa contribuye a generar sanción
+social y una ciudadanía activa.
+
+Visibilidad y contexto: A medio camino entre “la ira
+y el intenso dolor” y el lenguaje de los derechos
+
+En términos generales, hay un esfuerzo por parte del diario
+por visibilizar la problemática de violencia de género y por crear
+conciencia acerca de la magnitud del problema, así como de la poca
+repercusión que tiene la violencia de género en el sistema de justicia.
+Sin embargo, hace falta un mayor compromiso para contribuir a
+la transformación de las representaciones sociales sobre la violencia
+de género y para sensibilizar a la opinión pública sobre estos hechos
+como un problema social. Existe un intento de contextualización al
+presentar el hecho como parte de una lista que crece, “es el cuarto
+feminicidio del año en el Atlántico” (A1), lo cual ayuda a comprender
+que no se trata de un hecho aislado sino de una problemática
+social y aporta a establecer la magnitud del problema. Lo mismo
+ocurre en el caso B cuando se señala que “en lo que va del año, han matado a 20 mujeres en este departamento y seis de los casos se enmarcan
+dentro del feminicidio” (B5). Sin embargo, el seguimiento
+es pobre. El caso A tiene 2 noticias, el 7 y 8 de marzo, y se hace
+referencia al mismo en noticia de 11 de octubre, en la cual se hace
+un recuento de los feminicidios ocurridos en el departamento del
+Atlántico durante el año, sin aportar ningún dato nuevo excepto
+que el acusado está preso esperando condena. El caso B tuvo mayor
+seguimiento. Sin embargo, el cubrimiento fortalece la idea de que
+se trata de un problema privado: “Se trató de un problema entre
+pareja porque ella no quería vivir más con él”; y de que la víctima
+de alguna manera habría provocado la situación: “al parecer había
+conocido a alguien y no quería continuar más la relación” (B2). Así,
+en el caso de las motivaciones o justificaciones, los periodistas deben
+ser más cuidadosos al hablar de los celos del agresor (ver A2 y 3). Si
+bien se contextualizan como una acusación de la familia de la víctima
+al victimario no como pretexto, mencionarlos puede conducir a
+favorecer al agresor o crear empatía hacia él por parte de la opinión
+pública. Más aun, en la noticia B1 se incumple la orientación de
+no dar testimonios positivos del agresor cuando se reproducen las
+palabras de la hermana de un victimario quien afirma que él “no
+es agresivo”.
+Por otra parte, describir la relación de la pareja como una
+“historia de amor que culminó en tragedia”, la cual “empezó a florecer
+en el barrio 12 de Septiembre….” (B1) resulta insultante para
+la víctima. En primer lugar, hay que evitar cualquier tipo de expresión
+que embellezca la situación, ya que relativiza la magnitud
+del delito. En segundo lugar, la transformación de representaciones
+sociales implica entender que la posesividad no tiene que ver con
+el amor, por tanto, esa expresión es inapropiada en el contexto del
+crimen. Por último, el término florecer implica un desarrollo positivo
+cuando lo que se narra en las siguientes noticias son los 10 años
+“tormentosos” que la víctima vivió con el agresor, según testimonio
+de las hermanas de ella (B5). De esta manera, la noticia B1 constituye
+un buen ejemplo de cómo no cubrir un feminicidio si queremos
+posicionar la perspectiva de los derechos en la sociedad. En este sentido, hay que recordar que es importante que no se comunique
+al lector que se trató de un crimen pasional. Esta perspectiva corresponde
+a la visión machista que justificó por siglos, y justifica
+todavía en muchos contextos la muerte de una mujer a manos de
+su pareja. Posicionar el término violencia de género, tal como lo
+propone la guía “Por un periodismo no sexista” (p. 15) es una tarea
+fundamental de los medios de comunicación.
+Contextualizar la noticia no es simplemente situarla en el
+tiempo y en el espacio. Contextualizar significa inscribir el feminicidio
+en unas concepciones y en unas prácticas dependientes de las
+relaciones de poder tradicionalmente establecidas en nuestra sociedad.
+La” Guía para los medios de Comunicación del Ministerio de
+la Mujer y Desarrollo Social del Perú” dice al respecto:
+La violencia contra la mujer refleja una relación de desequilibrio
+de poder donde el hombre ejerce la violencia contra la mujer para
+mantener el control o dominio sobre lo que considera alguien de
+su propiedad, o cuando ella intenta moverse de su condición de
+subordinación. (2011, p. 35).
+En las noticias objeto de este estudio, este desequilibrio se
+hace evidente, ya que en los casos estudiados, los hombres se niegan
+a aceptar una decisión de sus parejas que contradice su voluntad.
+Sin embargo, la noticia no hace claridad acerca de los celos (caso
+A) como un sentimiento asociado a la posesividad; mientras que
+el no aceptar que “ella no quería vivir más con él”, o que “había
+conocido a alguien” (caso B), implica un constreñimiento a la libertad
+del sujeto. En ambas situaciones, las mujeres son sometidas a
+comportamientos que ignoran sus derechos y las noticias no hacen
+esa claridad. Es necesario, por tanto, que los periodistas se apropien
+del lenguaje de los derechos y que se haga visible que aun antes
+del feminicidio se estaban vulnerando los derechos de la mujer por
+parte de su pareja. Igualmente, es necesario apropiarse del término
+feminicidio. En las noticias no hay claridad de que la muerte sucede
+como consecuencia de la relación inequitativa entre un hombre y una mujer. No basta con hacer uso del término, hay que implicar lo
+que el término señala.
+Contextualizar significa, también, indagar por los hechos
+anteriores a la muerte para establecer patrones que permitan a las
+mujeres y a sus allegados leer el suceso antes de que ocurra. La
+violencia de género ha dejado de ser un asunto privado de la pareja
+para convertirse en un problema social de salud pública. Eso significa
+que cualquiera alrededor puede intervenir y que ante declaraciones
+descorazonadas como la de la madre de una de las víctimas,
+quien había advertido a su hija “que con ese mismo [revólver] la iba
+a matar” (A3), hay que hacer llamados para que quienes están cerca
+de las posibles víctimas busquen ayuda, aun cuando las afectadas
+pretendan no requerirla. En este sentido, los testimonios de familiares
+y amigos pueden tener alguna utilidad pública. De lo contrario,
+solo fortalecen la idea de que se trata de un drama privado.
+El feminicidio casi nunca es resultado del primer enfrentamiento
+entre una pareja. Por el contrario, es el fin de un proceso que
+incluye insultos, chantajes, amenazas, golpes, a veces violaciones.
+Los medios pueden hacer una labor pedagógica invaluable si reconstruyen
+los hechos anteriores al feminicidio, ilustrando a las mujeres
+y a sus allegados para que reconozcan las señales que pueden
+conducir a la violencia extrema. Además, es necesario dar directrices
+claras de adónde acudir, a qué teléfonos llamar, en qué horarios,
+qué evidencias llevar, qué tipo de ayuda se brinda, información de
+la cual carecen estas noticias. Hay que explicar las leyes que existen
+para que la ciudadanía las conozca y haga uso de ellas. Si se informa
+que “la Secretaría presta atención psicosocial y psicojurídica” (A3),
+hay que explicar qué significan esos términos. Este tipo de información
+está ausente en las noticias estudiadas.
+La “Guía para el Tratamiento Informativo de la Violencia de
+Género” del Consejo Audiovisual de Andalucía afirma que hay que
+evitar “aquellos datos que fomenten la idea falsa de que la violencia
+de género está asociada a factores sociales, económicos o culturales”
+(p. 4). Estas afirmaciones se hacen, quizás, desde una mal entendida
+“corrección política” que se esfuerza por evitar una presunta discriminación. Pero quienes redactan las guías no pueden ignorar
+las evidencias estadísticas si pretenden que los medios contribuyan
+a alertar a las potenciales víctimas y, en últimas, sirvan para
+eliminar la violencia de género. Y esta, en Colombia, como sucede
+en otros países, sí está asociada a factores sociales, económicos o
+culturales, factores que es indispensable evaluar para entender en
+qué contextos son más vulnerables las mujeres. “La mujer que en
+Colombia es víctima de feminicidio… suele estar entre los 20 y los
+24 años; la mayoría no tiene más que estudios de primaria, algunos
+años de secundaria y, al momento de su muerte eran solteras o con
+unión libre” (ver http://images.et.eltiempo.digital/politica/justicia/
+feminicidios-en-colombia/15856225). En el mismo sentido, una noticia
+publicada el 9 de junio de 2012 en El Heraldo, afirma que “la
+violencia contra las mujeres se da en todos los estratos, pero el 87
+% de las denuncias corresponden a los estratos más bajos”. Eludir
+estas realidades con el pretexto de no discriminar no ayuda a las
+mujeres en situación de riesgo. Por el contrario, puede hacerlas más
+vulnerables.
+Por otra parte, hay que admitir que las mujeres que necesitan
+que el Estado les brinde opciones de vida para enfrentar la violencia
+de género son aquellas que no cuentan con medios económicos y
+sociales para salir de la situación de riesgo por cuenta propia y de su
+familia. La guía “Por un periodismo no sexista”, sección “La violencia
+no es un hecho aislado”, afirma:
+Cada vez que revelamos como noticia una situación de violencia
+de género, tenemos la oportunidad de dejar en evidencia que en
+vez de hechos privados y aislados, éstos responden a un fenómeno
+social-cultural que afecta a todo el país, que tiene patrones que se
+repiten y que es posible cambiar. (p. 17).
+En las noticias objeto de este estudio, la revisión muestra que
+este problema se presenta con mayor frecuencia en las clases menos
+favorecidas. En las noticias analizadas, las ocupaciones de los protagonistas
+son “mototaxista y voluntaria de la Defensa Civil” y “bicitaxista
+y empleada doméstica”. ¿Qué significan para ellos palabras como psicosocial y psicojurídica? ¿Están pensando los periodistas
+en prestar un servicio a las potenciales víctimas cuando escriben?
+Además, no hay información sobre dónde se ofrece esta atención
+y cómo se accede a ella. Todos los manuales revisados insisten en
+que esta información debe ser visible, sencilla e incluir teléfonos y
+direcciones.
+La contextualización implica, además, ilustrar sobre las consecuencias
+sociales de la violencia de género. Para el periodismo,
+tal como lo practicamos en la actualidad, este relato se inicia con el
+asesinato y termina con la condena. Sin embargo, así como hemos
+considerado mostrar el antes, también es indispensable mostrar el
+después. Por ejemplo, la víctima del caso A tenía 3 hijos pequeños,
+quienes quedaron a cargo de la abuela. ¿Qué consecuencias ha tenido
+para ellos lo ocurrido? ¿Tiene el Estado servicios de asesorías
+psicológica para los hijos de las mujeres víctimas de feminicidio
+que son víctimas ellos mismos también? Mostrar estas situaciones,
+de manera respetuosa y con asesoría de expertos, puede contribuir
+a que madres en peligro entiendan que no solo son responsables de
+sus vidas sino de las de los menores que dependen de ellas. Y a que
+quienes han quedado encargadas de los hijos de las víctimas, sepan
+que no están solas y que deben buscar asesoría para manejar una
+situación extremadamente traumática. Aún más, si estos servicios
+no existen, el periodismo debe visibilizar esta carencia.
+Igualmente, las guías insisten en no mostrar la violencia de
+género como irremediable. A través de los siglos, hombres y mujeres
+han interiorizado la desigualdad. Cuando la pareja no cambia junta,
+cuando las dos partes no aceptan que las mujeres tienen derecho a
+tomar decisiones sobre su vida, los hombres intentan mantener el
+poder mediante la fuerza. Este relato es la base de toda violencia
+de género, y hay que visibilizarlo. También hay que visibilizar, y
+en esto también coinciden las guías, historias de mujeres que han
+escapado a la violencia de pareja y han reconstruido sus vidas.
+Es preciso también advertir el peligro de visibilizar sin una
+comunicación que genere una actitud activa en la ciudadanía. Es
+decir, que visibilizar es problemático cuando puede conducir a que la audiencia se familiarice con la violencia y, además, se sienta impotente
+ante la inequidad de quienes deberían impartir justicia. La
+Comunicación para la solidaridad es insistente en resaltar el papel
+sensibilizador del periodista.
+Por ello, si bien los periodistas no determinan el comportamiento
+del sistema judicial, sí pueden señalar las deficiencias. En
+la noticia B7 se anota la escasa sanción penal que han recibido los
+casos de violencia de género en el Atlántico. Así, de 490 casos de
+violencia intrafamiliar atendidos en 2015 por la Secretaría de la
+Mujer, solo dos recibieron condenas. El primero fue descrito como el
+de un hombre que agredió a su expareja y, “tras llegar a un acuerdo
+con la Fiscalía el juez… lo condenó a 48 meses de prisión… pero
+fue dejado en libertad tras pagar una caución económica equivalente
+al diez por ciento de un salario mínimo…” (B7). Al segundo,
+condenado a 36 meses de prisión, también “se le dejó en libertad
+luego de que el juez le concediera la suspensión condicional de la
+ejecución de la pena”. Estos hechos merecen por parte de los medios
+sanción social para los agresores y para los jueces. Y los periodistas
+deben indagar en qué se han basado estas decisiones, por qué han
+quedado en libertad los agresores y qué seguimiento se hace para
+evitar acciones más lamentables.
+El cubrimiento del hecho no puede finalizar con el dictamen
+judicial. Los jueces, como miembros de la sociedad, comparten muchas
+veces estereotipos de género que inciden en sus decisiones y acciones.
+El periodismo está en la obligación de hacer el seguimiento
+a esas decisiones y acciones con el fin de revelar si están aplicando
+justicia y propiciando la igualdad o si, por el contrario, el sistema
+judicial perpetúa la inequidad y la violencia de género.
+Por último, es importante incluir testimonios de expertos
+que contribuyan a desmontar estereotipos que, sin intención, pueden
+reproducir testimonios de familiares, vecinos o amigos que no
+han realizado un proceso de revisión de las concepciones heredadas.
+Este tipo de testimonios está ausente en las noticias analizadas.
+En síntesis, podemos afirmar que si bien el cubrimiento del
+feminicidio se ha hecho más cuidadoso y responsable, todavía subla audiencia se familiarice con la violencia y, además, se sienta impotente
+ante la inequidad de quienes deberían impartir justicia. La
+Comunicación para la solidaridad es insistente en resaltar el papel
+sensibilizador del periodista.
+Por ello, si bien los periodistas no determinan el comportamiento
+del sistema judicial, sí pueden señalar las deficiencias. En
+la noticia B7 se anota la escasa sanción penal que han recibido los
+casos de violencia de género en el Atlántico. Así, de 490 casos de
+violencia intrafamiliar atendidos en 2015 por la Secretaría de la
+Mujer, solo dos recibieron condenas. El primero fue descrito como el
+de un hombre que agredió a su expareja y, “tras llegar a un acuerdo
+con la Fiscalía el juez… lo condenó a 48 meses de prisión… pero
+fue dejado en libertad tras pagar una caución económica equivalente
+al diez por ciento de un salario mínimo…” (B7). Al segundo,
+condenado a 36 meses de prisión, también “se le dejó en libertad
+luego de que el juez le concediera la suspensión condicional de la
+ejecución de la pena”. Estos hechos merecen por parte de los medios
+sanción social para los agresores y para los jueces. Y los periodistas
+deben indagar en qué se han basado estas decisiones, por qué han
+quedado en libertad los agresores y qué seguimiento se hace para
+evitar acciones más lamentables.
+El cubrimiento del hecho no puede finalizar con el dictamen
+judicial. Los jueces, como miembros de la sociedad, comparten muchas
+veces estereotipos de género que inciden en sus decisiones y acciones.
+El periodismo está en la obligación de hacer el seguimiento
+a esas decisiones y acciones con el fin de revelar si están aplicando
+justicia y propiciando la igualdad o si, por el contrario, el sistema
+judicial perpetúa la inequidad y la violencia de género.
+Por último, es importante incluir testimonios de expertos
+que contribuyan a desmontar estereotipos que, sin intención, pueden
+reproducir testimonios de familiares, vecinos o amigos que no
+han realizado un proceso de revisión de las concepciones heredadas.
+Este tipo de testimonios está ausente en las noticias analizadas.
+En síntesis, podemos afirmar que si bien el cubrimiento del
+feminicidio se ha hecho más cuidadoso y responsable, todavía subyacen concepciones heredadas que colocan estas noticias a medio camino entre las concepciones que justificaban “la ira y el intenso dolor” y el lenguaje de los derechos.
+
+Conclusiones
+El Manual de la Red Colombiana de Periodistas con Visión de Género
+(2011) pregunta: “Las mujeres hemos cambiado. ¿Ha cambiado
+la sociedad?” (p. 54). Lo cierto es que la sociedad cambia con lentitud,
+porque es una sociedad organizada por hombres en la cual
+las mujeres apenas empiezan a tomar el poder. Y a lo largo de la
+historia ningún grupo ha abandonado el poder sin luchar. Así que
+muchos hombres, en mayor o menor medida, luchan desde el Estado,
+desde los medios, desde sus casas por mantener el poder que se
+les escapa. Lo cierto es también que muchos hombres se suman al
+cambio. Muchos piensan que es una lucha justa, como tantos blancos
+encontraron justas las luchas de los negros; como tantos aristócratas
+encontraron razonables las demandas de la burguesía; como
+tantos heterosexuales apoyan los derechos de los homosexuales. Y
+muchos de estos hombres son periodistas y desde su trabajo buscan
+contar de forma diferente la violencia de género.
+Las guías periodísticas son eso, guías y su utilidad es innegable.
+Pero es la sensibilidad del periodista la que debe revelarse en la
+noticia, transformando su pretendida objetividad en solidaridad. En
+el caso de El Heraldo, hemos mostrado que hay interés en visibilizar
+la violencia de género, en no reproducir estereotipos ni en culpar
+a las víctimas, pero que todavía subyacen concepciones machistas
+que no permiten la construcción de nuevos relatos más equitativos.
+Igualmente, hemos visto que falta conciencia de los derechos de las
+mujeres como sujetos con capacidad para decidir sobre sus vidas.
+Mientras ese ser humano que es el periodista no se apropie del lenguaje
+de los derechos, sus relatos seguirán comunicando relaciones
+desiguales de poder. Igualmente, hemos visto que hay que ser más
+puntuales en aspectos prácticos relacionados con las instancias de
+ayuda que tienen las mujeres sometidas a la violencia de género.
+Por último, es necesario desarrollar estrategias de comunicación solidaria para posicionar un periodismo que no se ocupe solo de lo
+que no hay que hacer, sino de generar una ciudadanía activa ante la
+desigualdad y la violencia, para que el feminicidio se asuma como
+un problema de todos y no solo del Estado, las organizaciones feministas
+o las familias de las víctimas.
+
+Noticias analizadas
+Colina, W. y Arteta, C. (2015, 11de octubre) Homicidios de mujeres
+aumentan 41% en Barranquilla. El Heraldo. Recuperado el
+14 de diciembre de 2015 de http://www.elheraldo.co/judicial/
+homicidios-de-mujeres-aumentan-41-en-barranquilla-222049
+Colina, William. (2016, 17 de mayo). Primera condena por feminicidio
+en el Atlántico. El Heraldo. Recuperado el 2
+de junio de 2016 de http://www.elheraldo.co/judicial/
+primera-condena-por-feminicidio-en-el-atlantico-261026.
+Colina, William (2016, 18 de mayo). Él no la dejaba ir: hermanas de
+víctima de feminicidio en Galapa El Heraldo. Recuperado el 2 de
+junio de 2016 de http://www.elheraldo.co/judicial/el-no-la-dejabair-
+hermanas-de-victima-de-feminicidio-en-galapa-261354
+Colina, William (2016, 23 de mayo). Solo 2 de 490 casos de violencia
+intrafamiliar en el Atlántico terminaron en condenas. El Heraldo.
+Recuperado el 2 junio de 2016 de http://www.elheraldo.co/judicial/
+solo-2-de-490-casos-de-violencia-intrafamiliar-en-2015-terminaron-
+en-condenas-262172 ,
+Colina, William (2016, 10 de junio). Confeso feminicida deberá
+purgar 36 años de prisión El Heraldo. Recuperado el
+12 de junio de 2016 de http://www.elheraldo.co/judicial/
+confeso-feminicida-debera-purgar-36-anos-de-prision-265663
+Corcho, Germán (2015, 30 de diciembre). Se entrega autor
+de uxoricidio en Galapa El Heraldo. Recuperado el 22
+de marzo de 2016 de http://www.elheraldo.co/judicial/
+se-entrega-autor-de-uxoricidio-en-galapa-236160
+Corcho, Germán (2015, 31de diciembre). A la cárcel por cometer
+feminicidio en Galapa. El Heraldo. Recuperado el 22
+de marzo de 2016 de http://www.elheraldo.co/judicial/
+la-carcel-por-cometer-feminicidio-en-galapa-236294
+investigación & desarrollo vol 25, n° 1 (2017) págs. 23-48 45
+issn 2011-7574 (on line)
+Cubrimiento periodístico y visibilidad del feminicidio
+en El Heraldo (Barranquilla, Colombia): Estudio de caso
+De la Hoz Rendón, A. (2016, 13 de mayo). La crítica situación de la violencia
+de género debatida en El Heraldo: http://www.elheraldo.co/
+local/la-critica-situacion-de-la-violencia-de-genero-debatida-enel-
+heraldo-260405
+Jiménez, H. y Ospino, D. (2015, 8 de marzo). Mujer de 22 años, cuarto
+feminicidio del año en el Atlántico. El Heraldo. Recuperado el 14
+de diciembre de 2015 de http://www.elheraldo.co/judicial/mujerde-
+22-anos-cuarto-feminicidio-del-ano-en-atlantico-186799
+Mujeres: Víctimas de una sociedad violenta en la Región Caribe. El Heraldo.
+Recuperado el 14 de diciembre de 2015http://www.elheraldo.
+co/region/mujeres-victimas-de-una-sociedad-violenta-en-laregion-
+caribe-70597
+Polo, C. (2015, 26 de diciembre). Hombre asesina a su pareja
+con unas tijeras en Galapa. El Heraldo. Recuperado el
+18 de marzo de 2016 de http://www.elheraldo.co/judicial/
+hombre-asesina-su-pareja-con-unas-tijeras-en-galapa-235360
+Prensa atlanticense ahora con enfoque de género. (2015, 5 de mayo).
+Recuperado enero 24, 2016 de http://www.lametronoticia.com/
+prensa-atlanticense-ahora-con-enfoque-de-genero/
+Redacción. En vísperas de la celebración del Día de la Mujer asesina su
+compañera y se entrega a la policía (2015, 7 de marzo). El Heraldo.
+Recuperado el 14 de diciembre de 2015 de http://www.elheraldo.
+co/judicial/en-visperas-de-la-celebracion-del-dia-de-la-mujer-asesina-
+su-companera-y-se-entrega-la
+Referencias
+AAVV (2015). Landscapes. Media representations of violence against women
+and their children. State of Knowledge Paper. Sydney: ANROWS.
+Recuperado el 24 de enero de 2016 de https://www.ourwatch.org.
+au/getmedia/339a9055-16fb-4d57-8cb3-3d2a2f9c5fa1/Media-representations-
+of-violence-against-women-state-knowledge-paper.
+pdf.aspx
+Alberti et al. (s.f.) Por un periodismo no sexista. Pautas para comunicar desde
+una perspectiva de género en Chile. Santiago: Unesco Oficina Regional,
+Universidad Diego Portales, Universidad de Chile, Colegio de
+Periodistas de Chile. Recuperado el 24 de enero de 2016 de http:// unesdoc.unesco.org/images/0019/001901/190143s.pdf “América
+Latina - Violencia de género no cede”. Recuperado el 14 de diciembre
+de 2016 de http://www.alterinfos.org/spip.php?article7712
+Ariza Sosa, G. (2011). La violencia en las relaciones de pareja en Medellín
+y sus representaciones sociales. Tesis doctoral. Universidad Nacional
+de Colombia. Consultado Recuperado el 24 de enero de 2016 de
+http://www.bdigital.unal.edu.co/4187/.
+Berrío del Castillo et al. (s.f.). El estudio de casos. Universidad Autónoma de
+Madrid. Recuperado el 14 de diciembre de 2015 de https://www.
+uam.es/personal_pdi/stmaria/jmurillo/InvestigacionEE/Presentaciones/
+Est_Casos_doc.pdf
+Buiten, D. y Salo, E. (2007). Silences stifling transformation: Misogyny
+and gender-based violence in the media Agenda, 21(71), 115-121.
+Carter, C. y Steiner, L. (2003). Critical readings: Media and gender. Mc-
+Graw-Hill Education (UK).
+“Cada tres días ocurre un feminicidio en Colombia”. Recuperado el 8 de
+septiembre de 2015 de http://images.et.eltiempo.digital/politica/
+justicia/feminicidios-en-colombia/15856225
+Comunicación con perspectiva de género: Manual de Estilo para una comunicación
+incluyente” de la Radiotelevisión Canaria. (2012). Recuperado
+el 20 de diciembre de 2015 de http://www.rtvc.es/corporativa/
+documentos/MANUAL%20DE%20ESTILO%20CPG%20
+RTVC.pdf.
+Declaración sobre la eliminación de la violencia contra la mujer (Asamblea General
+de la ONU 48/104 del 20 de diciembre de 1993). Recuperado
+el 10 de diciembre de 2015. http://www.acnur.org/fileadmin/
+scripts/doc.php?file=fileadmin/Documentos/BDL/2002/1286
+“Derechos humanos, violencia contra las mujeres y feminicidio. Guía para
+periodistas. CIDEM. Recuperado el 10 de diciembre de 2015 de
+file:///C:/Users/Asus/Downloads/feminicidio-guia-periodistas.pdf
+“El Colombiano es el tercer diario más leído de Colombia” Recuperado
+el 10 de diciembre de 2015 de http://www.elcolombiano.com/
+antioquia/el-colombiano-el-tercer-diario-mas-leido-de-colombia-
+KF2007279)
+Gallego, J. “De reinas a ciudadanas: Género, comunicación y cambio
+social. En Memorias Segundas Jornadas sobre Mujeres y Medios deComunicación (pp. 5-26). Larrondo y Meso (editores). Universidad
+del País Vasco.
+González Álvarez, M. I. (2010). Comunicación para la solidaridad: Las ONG
+y el papel de la Comunicación social y periodística en la sensibilización de
+la opinión pública y el desarrollo. (Tesis doctoral). Universidad Complutense,
+Madrid. Recuperada el 28 de enero de 2015 de http://
+eprints.ucm.es/11633/
+González Álvarez, M. I. (2012). La profesionalización de la Comunicación
+para la solidaridad: Diagnóstico y propuestas para el sector
+en España”. Cuadernos de Información y Comunicación, 17, 239-253.
+Recuperada el 28 de enero de 2015.
+Guía para el tratamiento Informativo de la Violencia de Género. Consejo
+Audiovisual de Andalucía. Recuperado el 18 de enero de 2015.
+http://www.consejoaudiovisualdeandalucia.es/sites/default/files/recomendacion/
+pdf/1606/guia_violencia_de_genero.pdf
+Guía. Violencia basada en Género y generaciones Orientaciones para la
+cobertura periodística (Uruguay). Recuperado el enero de 18 de
+2015 de http://www.inmujeres.gub.uy/innovaportal/file/40816/1/
+guiaperio.pdf
+“Informe regional sobre el examen y la evaluación de la Declaración y la
+Plataforma de Acción de Beijing y el documento final del vigesimotercer
+período extraordinario de sesiones de la Asamblea General
+(2000) en los países de América Latina y el Caribe” (2015).
+Cepal.
+López Diez, P. (2007). “¿Cómo tratan la violencia de género los medios de
+comunicación?” En J. F. Plaza y C. Delgado (eds.), Género y comunicación.
+(pp. 73-101). Madrid: Editorial Fundamentos.
+Manual de Género para periodistas. Área del PNUD en América Latina.
+Recuperado el 18 de enero de 2016 de http://www.ciem.ucr.ac.cr/
+sites/default/files/2016-10/manual-de-genero-para-periodistaspnud.
+pdf.
+MPV Strategies. The Bystander approach página web Recuperado el 20 de marzo
+de 2015 de http://www.mvpstrat.com/the-bystander-approach/
+Observatorio de Igualdad de Género de América Latina y el Caribe. “El
+femicidio o feminicidio como tipo específico de delito en las legislaciones
+nacionales de América Latina: un proceso en curso”.
+Nota para la Igualdad N°17 Julio de 2015. Cepal. Recuperado el 12 de diciembre de 2015 de http://oig.cepal.org/sites/default/files/
+notaigualdad_17_0.pdf
+Our Watch.News and Media. Recuperado el 19 de diciembre de 2015 de
+http://www.ourwatch.org.au/News-media
+Ministerio de la Mujer y Desarrollo Social, Perú (2011). Pautas para el
+tratamiento informativo adecuado de la violencia contra la mujer
+en los medios de comunicación social. Recuperado el 18 de enero
+de 2015 de http://www.mimp.gob.pe/files/programas_nacionales/
+pncvfs/pautasparaeltratamiento.pdf
+Noticias RCN (2016, 8 de marzo). Preocupantes cifras sobre violencia
+contra la mujer en Colombia. Recuperado el 13 de
+mayo de 2016 de http://www.noticiasrcn.com/nacional-pais/
+preocupantes-cifras-violencia-contra-mujer-colombia
+Red Colombiana de Periodistas con visión de género. UNFPA: Fundación
+Acción Comunicar. (2011). Otras miradas para construir, comunicar
+y analizar la información. Bogotá. Recuperado el 14 de diciembre
+de 2015 de http://unfpa.org.co/wp-content/uploads/2013/09/
+Cartilla-red-periodistas-web.pdf
+Russell, D. E. H. (2001). “Definición de feminicidio y conceptos relacionados”,
+pp. 73-98. En: Feminicidio una perspectiva global. Russell, D.
+& Harmes, R. (eds). México, Universidad Autónoma de México.
+Vallejo, C. (2005). Representación de la violencia contra las mujeres en la prensa
+española (El País/El Mundo) desde una perspectiva crítica de género.
+(Tesis doctoral). Universidad Pompeu Fabra, Barcelona. Consultada
+en: http://www.dissoc.org/recursos/tesis/Tesis_Vallejo.pdf
+Van Zoonen, L. (1994, 2006). Feminist Media Studies (volumen 9). Sage.
+Recuperado el 19 de diciembre de 2015
+Violence against women a national emergency, say Our Watch campaigners.
+The Guardian https://www.theguardian.com/world/2014/
+sep/05/violence-against-women-a-national-emergency-say-ourwatch-
+campaigners
+Women’s Media Foundation www.iwmf.org Recuperado el 24 de enero
+de 2016.
+
