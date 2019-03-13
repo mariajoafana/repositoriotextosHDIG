@@ -18,6 +18,24 @@ Enlace del ejercicio en Voyant Tools https://voyant-tools.org/?corpus=06f1d6af47
 
 **Bibliografía**
 
-01 Schreibman et. al. 2008 Schreibman, Susan, Ray Siemens, and John Unsworth. 2008. “Introduction.” In A Companion to Digital Humanities. John Wiley & Sons.
+01 Burbano, A., & Páramo, P. (2011). Género Y Espacialidad: Análisis De Factores Que Condicionan La Equidad En El Espacio Público Urbano. Universitas Psychologica, 10(1), 61-70.
 
-02 Prensky 2001 Prensky, Marc. 2001. “Digital Natives, Digital Immigrants Part 1.” On the Horizon 9 (5): 1–6.
+02 Castorena-Sáenz, N. (2018). Angustias de la transformación: un acercamiento al proceso de transformación hombre-mujer desde la subalternidad y el borde. En La ventana. Revista de estudios de género, 5(47), 178-206. Disponible en http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-94362018000100178&lng=es&tlng=es.
+
+03 Estévez, A. (2018). Biopolítica y necropolítica: ¿constitutivos u opuestos?. En Espiral Estudios Sobre Estado Y Sociedad, 25(73), 9-43. 
+
+04 Massey, D. (1994). Space, Place And Gender.  Cambridge. Polity Press.
+
+05 Toro, J, & Ochoa, M. (2017). Violencia de género y ciudad: cartografías feministas del temor y el miedo. En Sociedad y Economía, (32), 65-84. Disponible en http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1657-63572017000100065&lng=en&tlng=es. 
+
+06 Valencia, S. (2014). Capitalismo gore. En Debate Feminista, 50(Núm. 1), 51-76. 
+
+07 Valencia, S. (2014). Teoría transfeminista para el análisis de la violencia machista y la reconstrucción no-violenta del tejido social en el México contemporáneo. En  Universitas Humanística, (78), 65-88. Retrieved March 12, 2019, from http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-48072014000200004&lng=en&tlng=es. 
+
+08 Valencia, S. (2013). $udacas, €uracas, norteca$ y otras metáforas del capitalismo gore. En Debate Feminista, 48(01), 94-111.
+
+09 Vendrell, J. (2012).Sobre lo Trans: aportaciones desde la antropología. En Cuicuilco (19),  ;Mayo agosto, 2012. Disponible en https://www.redalyc.org/articulo.oa?id=35126359008 ¿
+
+10 Vendrell, J. (2009). ¿Corregir el cuerpo o cambiar el sistema? La transexualidad ante el orden de género. En Sociológica (México), 24(69), 61-78Disponible en http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-01732009000100004&lng=es&tlng=es. 
+
+11 Villanueva Jordán, I. (2017). "Yo soy una Drag Queen, no soy cualquier loco". Representaciones del dragqueenismo en Lima, Perú. En Península, 12(2), 95-118. 
