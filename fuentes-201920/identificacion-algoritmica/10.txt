@@ -1,0 +1,864 @@
+Critical Sociology 36(1) 131-150
+http://crs.sagepub.com
+
+Digital Epidermalization: Race, Identity and Biometrics
+Simone Browne
+University of Texas at Austin, Texas, USA
+
+Abstract
+This article considers the ways in which what Paul Gilroy terms ‘epidermal thinking’ operates in
+the discourses surrounding certain surveillance practices and their applications, with a focus on
+identification documents and biometric technologies in particular. My aim is not to re-ontologize
+race, but instead to outline the notion of digital epidermalization, stemming from Frantz Fanon’s
+concept of epidermalization, as it allows for thinking through race, ontological insecurity and the
+ways in which the body materializes with and against biometric technologies. I examine key
+research in surveillance studies, governmental policy documents concerning biometric enabled
+identification documents and the 2003 ‘deportation’ to India of a Canadian citizen through the
+issuance of an expedited removal order by the US Immigration and Naturalization Services. By
+interrogating how digital epidermalization gains meaning and is put into practice, this article seeks
+to posit a space for refusals of such epidermal thinking through a critical biometric consciousness.
+Keywords
+biometrics, biometric technology, race, racialization, surveillance
+
+Introduction
+On 26 January 2003 Berna Cruz, a Canadian citizen, was detained and questioned by
+US Immigration and Naturalization Service (INS) officials at Chicago’s O’Hare
+International Airport, and subsequently ‘deported’ to India. After returning from a three
+week vacation in India, Cruz was scheduled to take a connecting flight from Chicago to
+Toronto. On arrival in Chicago, she met with a US Customs official who, upon examining Cruz’s Canadian passport, deemed it ‘funky’ and claimed that it contained unspecified chemicals. In a later interview with a reporter from the Toronto Star newspaper,
+Cruz stated that she was subjected to questioning, including: ‘How come your name is
+not Singh?’, ‘What is a toonie?’,1 ‘Why do you have a Latin name?’, ‘Aren’t you smart
+Copyright © The Author(s), 2009. Reprints and Permissions:
+http://www.sage.pub.co.uk/journals.permissions.nav
+
+DOI: 10.1177/0896920509347144
+
+132
+
+Critical Sociology 36(1)
+
+using a Spanish name?’ and ‘Did you buy this passport in Sri Lanka?’ (Rankin 2003).
+This line of questioning reveals how nation profiling operates at international border
+crossings. In this case, Sri Lanka is imagined as producing suspect identification to facilitate illicit travel. Cruz provided numerous identity documents for the INS officials,
+including her Province of Ontario Driver’s Licence, Ontario Health Card and a letter of
+employment from her employer, which she had in her possession at the time. The INS
+officials told Cruz that her passport was forged. In this case, Cruz was subject to the
+customs officer’s ‘nationalizing gaze’ (Löfgren 1999) that situated her as not Canadian. In
+the Toronto Star interview, Cruz stated that she was given the option of either being sent
+to India or to jail, and that her repeated requests to contact Canadian officials were
+ignored. Instead, her passport was cut and each page was marked ‘expedited removal’. An
+expedited removal order, once issued at the prerogative of a customs official, cannot be
+contested. Cruz was placed on a Kuwaiti Airlines flight to India. Cruz was eventually
+issued an emergency passport that was affixed to her damaged one through the Canadian
+consulate in Dubai, where officials verified that her now defaced passport was not counterfeit or altered but was indeed genuine (Cruz 2003). In regard to Cruz’s ordeal, US
+Congressman Joseph Crowley wrote a letter to then US Secretary of Homeland Security
+Tom Ridge about Cruz’s encounter, demanding an explanation about the situation. The
+response from the Department of Homeland Security: ‘colour of skin is not the issue.
+The issue at hand is the document’, and ‘what she perceives as abuse was mistaken for
+her own malfeasance in attempting to enter with an altered document’ (Sperry 2003).
+Identification documents serve as a key technology in the contemporary management
+of human mobility, security applications and consumer transactions, particularly those
+that are state sanctioned. By putting identity into practice, identification documents,
+such as photo enhanced credit cards and more so passports, not only codify gender, race
+and often citizenship, but they also help to organize understandings of security, the
+nation and its material and discursive borders. In this article, I consider the ways in which
+what Paul Gilroy terms ‘epidermal thinking’ (1997: 195) operates in the discourses surrounding certain surveillance practices and their applications, with a focus on identification documents and biometric technologies in particular. Epidermal thinking marks the
+epistemologies concerning sight and the racialized body. My intent here is not in defense
+of ‘race-thinking’ (Gilroy 2000: 30), nor is it an effort to re-ontologize race, but to situate biometric technology as a technique through which the cultural production and the
+visual economy of race can be understood. Following Eugene Thacker’s call for a ‘critical
+genomic consciousness’ (2005: 172) in relation to biotechnology, what I am suggesting
+here is that we must engage a critical biometric consciousness as well. A critical biometric consciousness entails informed public debate, accountability by the state and the private sector and sees biometric technology as a human technology, where the ownership
+of and access to one’s own body data and other intellectual property that is generated
+from one’s body data must be understood as a human right.
+This article is organized as follows. First, I discuss the notion of digital epidermalization. Stemming from Frantz Fanon’s concept of epidermalization, I suggest that digital
+epidermalization allows for thinking through race, ontological insecurity and the
+
+Browne: Digital Epidermalization
+
+133
+
+body made biometric. Following this, I review key thinking in surveillance studies and
+the governing of the self. Such a discussion considers the market-oriented, governing
+principles of neo-liberal capitalism to understand this moment of the integration of
+the military, the private sector and the state in for-profit identity management. This
+integration marks the ascendance of a global, ‘identity-industrial complex’ (Browne
+2005, 2007). I suggest that this focus on identity is not only about new technologies of
+surveillance and governance at the border, but it is also about the neo-pastoral governing
+of the responsible and ‘enterprising self ’ (Rose 1992). Next, in order to examine some
+of the governmental discourses regarding race, identification documents and biometric
+technologies, I examine the proposal of a national identity card to be issued to all
+Canadians. Last, I return to the 2003 expedited removal to India of Canadian citizen
+Berna Cruz for what it reveals regarding racial purging and understanding the border,
+the document and discretionary power. In this way, this article approaches surveillance
+studies with a critical theorizing on race.
+
+Dark Matter, White Prototypicality2
+Paul Gilroy observes that where previously the idea of race was produced as that which
+is anatomical, where a certain and essential ‘truth’ was said to be written on the body,
+scopic and microscopic regimes of seeing (for example, genomics, ultrasonography, neuroimaging, computed tomography) are laying bare the previously unseen at increasingly
+intimate scales (1997, 2000). The highly mediated production of ‘truth’ and racial discourse through scientific method that relied on cultural production and representation,
+myth and colonial project-making has been augmented by ways and technologies of seeing that have the minute as their focus. Gilroy suggests that ‘the observational habits that
+have been associated with the consolidation of today’s nano-science might also facilitate
+the development of an emphatically postracial humanism’ (2000: 37). My intervention
+is not to negate this potentially progressive moment that Gilroy alerts us to, but to claim
+that unlike the technological advances that Gilroy accounts for, with biometrics, the
+racialized body is not ‘nothing more than an incidental moment in the transmission of
+code and information’ (Gilroy, 2000: 36). Instead, it is these moments of observation,
+calibration and application that can reveal themselves as racializing. Often with certain
+biometric technologies and their attendant ‘observational habits’ this potentially postracial humanism is elided.
+What I attend to in this article are these moments of observation, calibration and
+application through the use of Gilroy’s assertion that the pseudoscientific enterprise of
+truth-seeking in racial difference, where the intention is ‘to make the mute body disclose
+the truth of its racial identities’, can be more fully comprehended through the Fanonian
+concept of epidermalization (1997: 195).3 For Fanon, epidermalization is a way of thinking
+the ontological insecurity of the racial body as it experiences its ‘being through others’
+(1967: 109). This disassociation between ‘the self and of the world’ (1967: 111) is experienced through, but not solely, the skin. Differentiated through that which is porous – the
+
+134
+
+Critical Sociology 36(1)
+
+skin – a surface perceptive to touch, the body is dissected, fixed ‘and woven out of a
+thousand details, anecdotes and stories’ (1967: 111), denied its specificity, and in so
+becomes negatively racialized. Beyond the surface of Fanon’s corporeal schema – ‘a definitive structuring of the self and of the world’ (1967: 111) rather than an imposition – we
+find the historic-racial schema that allows for the ontological insecurity of a body made
+out of place. It is the making of the body as out of place, an attempt to deny its capacity
+for humanness, which makes for the productive power of epidermalization. I am taking
+epidermalization here not solely by its cutaneous understanding, but as the Fanonian
+contact moment of fracture of the body from its humanness, refracted into a new subject position (‘Look, a Negro!’, or an ‘illegal alien’, or some other negatively racialized
+subject position). It is the interpellating gaze of the moment of contact that produces
+these moments of fracture for the racial Other, indeed making and marking one as racial
+Other, experiencing its ‘being through others’ (1967: 109). This is not to say that by
+being object to the gaze one is interpellated into a completely passive, negated object,
+existing only as objection. Instead, Fanon offers insightful corrective to theorizing
+moments and spaces of contact and lived objectification, where instead the racial subject’s
+humanness is already established, and identities are realized and constructed by the self;
+where the consciousness of the racialized subject ‘does not hold itself out of lack. It is.’
+(1967: 135) So this making of ‘out of placeness’ must be read also as indicative and
+productive of what Katherine McKittrick terms ‘the deep spaces of black geographies’
+(2006: 25).4 These deep spaces are rooted in what Rinaldo Walcott calls ‘a diasporic
+sensibility’ where geography must also be understood as political, ‘related, in various
+resistances and responses, to an internationalist ethic and solidarity that refuses current
+transnational capital’s organization of our lives’ (2006: 88). Such refusals and solidarity
+mark the productive possibilities of alternatives to epidermal thinking.5
+How can epidermalization, as a concept, be made useful at a scale of digitized code? I
+suggest here that we come to think of the concept of digital epidermalization when we
+conceptualize the body made biometric. By digitized code I am referring to the possibilities of identification that are said to come with certain biometric technologies, where
+algorithms are the computational means through which the body, or more specifically
+parts and pieces of it, are mathematically coded as data, making for unique templates for
+computers to then sort by relying on a searchable database (on-line or one-to-many/1:N
+identification), or to verify the identity of the bearer of the document within which the
+unique biometric is encoded. The latter is termed one-to-one/1:1 or off-line verification.
+Popular biometric surveillance technologies include iris and retinal scans, hand geometry,
+fingerprint data, facial and vascular patterns, and gait recognition. In simple terms,
+biometrics is a technology of measuring the living body. The application of this technology is in the verification and identification practices that enable the body to function as
+evidence. Identities, in these digitizing instances, must also be thought through their
+construction within discourse, understood, following Stuart Hall, as ‘produced in specific
+historical and institutional sites within specific discursive formations and practices, by
+specific enunciative strategies’ (1996: 4). The notion of a body made out of place, or
+
+Browne: Digital Epidermalization
+
+135
+
+made ontologically insecure, is useful when thinking through the moments of contact
+enacted at the ‘institutional sites’ of international border crossings and spaces of the
+internal borders of the state, such as the voting booth and other sites and moments where
+identification, and increasingly biometric identification, is required to speak the ‘truth’
+of and for muted bodies. These sites and moments are productive of, and often necessitate ontological insecurity, where ‘the body is surrounded by an atmosphere of certain
+uncertainty’ (Fanon 1967: 111). This atmosphere of certain uncertainty is part of what
+Lewis Gordon refers to as ‘the problematic of a denied subjectivity’ (2004: 3). On this,
+Gordon is worth quoting at length:
+Fanon’s insight, shared by Du Bois, is that there is no inner subjectivity, where there is
+no being, where there is no one there, and where there is no link to another subjectivity
+as ward, as guardian, or owner, then all is permitted. Since in fact there is an Other human
+being in the denied relationship, evidenced by, say, antiblack racism, what this means is
+that there is a subjectivity that is experiencing a world in which all is permitted against
+him or her. (2004: 3)
+
+For Gordon, this is a structured violence where ‘all is permitted’ and where this structured violence is productive of and produced by a certain white normativity. Meaning
+that whiteness is made normative, and in so being, raceless, or what David Theo
+Goldberg terms ‘racially invisible’ (1997: 83). What Gordon insightfully terms the
+‘notion of white prototypicality’ (2004: 4) is the enabling condition of the structured violence of ‘the dialectics of recognition’ (2004: 3). What I am suggesting here is that this
+prototypical whiteness is one facet of the cultural and technological logic that informs
+many instances of the practices of biometrics and the visual economy of recognition and
+verification that accompany these practices. Practices here are taken to include research
+and development (R&D), applications, and governmental rationalization. Digital
+epidermalization is the exercise of power cast by the disembodied gaze of certain
+surveillance technologies (for example, identity card and e-passport verification machines)
+that can be employed to do the work of alienating the subject by producing a ‘truth’
+about the body and one’s identity (or identities) despite the subject’s claims.
+To understand the practices of white prototypicality, I turn to some recent statements
+appearing in publications in biometrics R&D, as they are telling of industry concerns
+and specifications. For example, Nanavati et al. note that in comparative testing with
+control groups, higher failure to enrol rates (FTE) appear with those whose fingerprints
+are said to be unmeasurable. They state:
+Elderly users often have very faint fingerprints and may have poorer circulation than
+younger users. Construction workers and artisans are more likely to have highly worn
+fingerprints, to the point where ridges are nearly nonexistent. Users of Pacific
+Rim/Asian descent may have faint fingerprint ridges – especially female users.
+(2002: 36–7, emphasis mine).
+
+136
+
+Critical Sociology 36(1)
+
+Could these systems be calibrated to allow for cutaneous gender detection? Further,
+Nanavati et al. note that facial scan technology may produce higher FTE rates for ‘very
+dark-skinned users’, not due to ‘lack of distinctive features, of course, but to the quality
+of images provided to the facial-scan system by video cameras optimized for lighterskinned users’ (2002: 37).6 In this way, the technology privileges whiteness, or at least
+lightness, in its use of lighting. This same logic of prototypical whiteness is seemingly
+present in earlier models of iris-scan technology that were based on 8-bit grayscale image
+capture, allowing for 256 shades of gray but leaving very dark irises ‘clustered at one end
+of the spectrum’ (Nanavati et al. 2002: 37).7 The distribution of this spectrum’s 256
+shades of gray is made possible only through the unambiguous black-white binary; the
+contrapuntal extremes that anchor the spectrum leaving the dark matter clustered at one
+end. Such epidermal thinking is present in other research on facial recognition technology
+where ‘the facial feature quantities (spacing between eyes, turn up of the eyes, thickness of
+mouth etc.) are classified’; it is suggested that systems ‘can search for faces with a certain
+feature, if the degree of the feature quantity is designated’ (Lao and Kawade 2004: 346).
+Here, the possibilities for digital epidermalization are revealed.
+
+Working the Body Wholesale
+Centralized databases are techniques for knowing the body and behavioral traits through
+the accumulation of records, whether transactional records or body records.8 Here, the
+body is worked wholesale through databases that provide a means by which to cluster
+individuals into certain segments, sometimes with the purposes of identifying risks,
+potential markets, or both. Not all databases are state-run. Some are the domain of market research companies and information brokers such as US-based Acxiom, others are
+repositories of traveller information such as Galileo International Incorporated, while
+some are credit reporting agencies such as Equifax and TransUnion. All of these companies are profit driven and traffic in information. Increasingly, these database companies
+are working in tandem with the state, law enforcement and the military.9 My situating of
+the ID cards, passports and their networked relation to databases leading to possibilities
+of profiling through patterns and ‘raceless racism’10 might appear speculative but often it
+is only a matter of time before what was speculation materializes as truth. For example,
+the 2006 announcement of the Automated Targeting System by US Homeland Security
+that has assigned risk profiles, so called ‘terror scores’, to millions of unwitting travellers
+since 2002 based on methods of payment, frequent flyer records, gender, seating and
+meal preferences, such as the choice of a halal meal. Here the traveller is profiled through
+his patterns and the inclusion of frequent flyer records marks the collusion of commercial
+entities with this practice of identity management.
+Another component of this system of knowing and governing databased bodies is the
+manufacturers that develop and produce identity documents and the hardware and
+software that support their use. My use of the term ‘bodies’ here, rather than ‘people’ or
+‘individuals’ is not to deny ontological validity to those to whom these documents are
+
+Browne: Digital Epidermalization
+
+137
+
+issued, instead ‘bodies’ points to the ways that identity documents fragment individuals
+into bodies and more specifically body components and features (sex, height, hair color,
+eye color, and technology that could digitize permanent physical features) for the
+purposes of reading, sorting, or categorizing the body, and sometimes for profiling and
+pre-emption. Identity documents and the dossiers that accompany them are one of the
+techniques that organize categories of state subjecthood, such as the citizen, the undocumented, the temporary work visa holder, the certificate of Indian status cardholder or
+the Canadian permanent resident (Browne 2005). The application procedures to obtain
+such documents and the use of ID documents are about border control and self-control,
+where the successful card applicant is realized as responsible, strategizing, rational choicemaking, and self-controlled.11 In this way, application procedures function as both
+neo-liberal and neo-pastoral governance practices.
+A key ideology involved in the practices and arrangement of border control and selfcontrol is that of neo-liberalism. Neo-liberalism has been explained as a ‘choice obsessed
+discourse’ (Valverde 1996: 364) where the idea of enterprise models of governance is
+found not only within the state, but extends to the subject as well. Here the individual is
+understood as conducting herself in enterprising and entrepreneurial ways through a discourse of rights and freedoms (Rose 1992, 1993). So people are tasked with becoming
+entrepreneurs of themselves (Lemke 2001). As a form of governmentality, neo-liberalism
+is premised on market values structuring the ways of being of institutions and of social
+actors. It is a rationality where governance is sought through the market, where even the
+state is organized to ‘think and behave like a market actor’ (Brown 2003: 3). This often
+means pursuing public-private partnerships, such as trusted traveller programs.
+Considering neo-liberal governmentality as an enterprise model of governance, where
+enterprise forms of governance have as their objective market accountability, autonomization of its subjects, and extending the market model throughout society leads me to ask:
+what do enterprise models of governance look like at the border? In asking this question,
+I am mindful of Mariana Valverde’s caution against totalizing analyses of liberal governance that neglect to reflect on how illiberal logics of rule are often equal parts of what
+constitutes liberalism (1996: 138). Here governance might take the shape of liberalism
+and ‘non-liberal’ practices such as patriarchy, despotism and racism. Instead, Valverde calls
+for an approach that takes into account the limits and instabilities of liberal governance
+and suggests looking at how space, specifically how the reliance of liberal governance on
+‘common-sense assumptions about spatially based difference’, works to naturalize relations
+of rule that have both liberal and illiberal logics (1996: 368). For example, the developments of racist taxonomies of colonized spaces and the people who inhabit them as a
+rationale for the application of specific techniques when governing ‘the passions in hot
+climates’ at the same time as liberal governance is purportedly happening in the so-called
+moderate climates of the metropole (1996: 368). Or the ‘illiberal logic’ of rule at international border crossings, where one’s crossing depends on the prerogative of the inspection
+agent, whether human or machine. Following Valverde, space should serve as a conceptual tool that could allow for theorists within the writings on neo-liberal governmentality
+to understand how contradictory modes of governance necessarily work in tandem. This
+
+138
+
+Critical Sociology 36(1)
+
+is a useful way to think about the state border as a site where the various administrative
+and bureaucratic techniques that support it (databases, passports, visas, identification
+cards and their application procedures) reveal contradictory modes of governance for those
+who cross or attempt to cross it. Increasingly, the border must be understood as a transactional and often automated space with multiple locations, including electronic databases. Also, we must understand the border as enacted at the scale of the body.
+David Lyon suggests that bodily surveillance is not a new phenomenon. He has illustrated how the pseudo-science of criminal anthropometry ‘claimed that body shapes,
+especially the head, could spontaneously reveal the unlawful proclivities of the person’
+(2001: 291). It is worth noting here that the ‘statistical knowledge of anthropometry’
+(Li et al. 2004: 173) is still being invoked in biometric technology R&D. As Li et al.
+suggest, ‘the difference of Races is obvious, and it is the core field of research of anthropology. Anthropometry is a key technique to find out this difference and abstract the
+regulation from this difference’ (2004: 173). As the theoretical basis from which to
+develop a facial computational model that could qualify difference to allow for identity
+authentification, Li et al. claim: ‘as a result of using the statistical information of the
+Mongolian Race’s feature, our method is suitable to be used in the north of China’ (2004:
+178). Claims such as these demonstrate that some advances in biometric authentification
+are organized around the idea of race or epidermal thinking.
+Similar to Lyon in asserting that bodily surveillance is by no means a new occurrence,
+Christian Parenti discusses the surveillance system of the plantation of the Antebellum South
+of the United States and names the information technologies of the written slave pass,
+organized slave patrols and wanted posters for runaways as key features of the surveillance
+practices of this system (2003). Parenti situates plantation surveillance as the earliest form
+of surveillance practices in the Americas. The following two excerpts from Born in Slavery:
+Slave Narratives from the Federal Writers’ Project, 1936–1938 detail the disciplinary practices
+of the slave pass system. In the plantation system, mobility and its restriction for enslaved
+Africans, served as an exercise of power. Given this, mobility needed to be tightly regulated
+by slave owners in order for the owners to maintain control:
+By 1845 there were many laws on the Statute books of Georgia concerning the duties of
+patrols … Every member of the patrol was required to arrest all slaves found outside their
+master’s domain without a pass, or who was not in company with some white person. He
+was empowered to whip such slave with twenty lashes. [Georgia Narratives] (Work
+Projects Administration 1941a: 322)
+The pattie-rollers was something else. I heard folks say they would beat the daylights
+almost out of you if they caught you without no pass. [Georgia Narratives] (Work
+Projects Administration 1941b: 241)12
+
+Slave branding was one of the key technologies of the trans-Atlantic slave trade. As
+Hortense Spillers emphasizes, this trafficking marked a violent ‘theft of the body’ rendering
+the captive body ‘a territory of cultural and political maneuver’ (2003: 206). Branding
+
+Browne: Digital Epidermalization
+
+139
+
+was a practice and, borrowing from Hall, an enunciative strategy through which enslaved
+people were signified as property and commodities to be bought and sold. At the scale of
+skin, the captive body was made site of political and economic maneuver through the use
+of hot irons to sear the flesh. The brand, often the crest of the sovereign, was a stamp of
+commodity, a signifier of bondage and of the relation of the body to its said owner. For
+the Dutch West India Company, these marks of identification were used to identify those
+who were enslaved, distinguishing them from those enslaved by the English, the French
+or other slaveholding entities (Hartman 2007). Enslaved persons were marked with
+numbers and letters that identified them as being part of a particular ship’s cargo. This
+practice also worked as a system of identification that enabled surveillance. So with this
+permanent marking on the flesh, one could hardly escape the identity given to them as
+commodity, strictly in an economic sense. These markings form the earliest imprint of
+mass state and corporate tracking of people through registration tied to bodily identification. Slave branding, operated in the plantation system as a practice of punishment,
+accounting and of making the already hyper-visible body legible.13 Branding, as a means
+of knowing the body, was a pre-emptive practice marking one as recognizable outside of
+the plantation site, whether outside through escape or other means. Surveillance practices
+such as those mentioned above point to the longer history of boundary maintenance
+occurring at the site of the body. Current biometric technologies and slave branding are
+not one and the same; however, when we think of our contemporary moment where ‘suspect’ citizens, trusted travellers, prisoners and others are having their bodies informationalized by way of biometric surveillance – sometimes voluntarily and sometimes
+without consent or awareness – and then stored in large-scale databases – some owned
+by the state and some owned by private interests – we can find histories of these accountings and inventories of the bodies in slave registers, slave branding and the slave vessel
+manifests that served insurance purposes. My suggestion here is that questioning the
+historically present workings of branding, the body and race, particularly in regard to
+biometrics, could allow for a critical rethinking of our moments of contact with our
+increasingly technological border.
+Movement, especially that across internationally recognized borders, brings contact
+with strangers. Often such contact calls identities into question. Lyon situates passports,
+driver’s licenses, credit cards and other documents as symbols of what he terms the
+‘stable self ’ that work to prove our identities (2001: 305). These symbols of the stable
+self function on two levels. While serving as proof of identity, they also provide our
+connection to a surveillance regime that classifies and monitors the movement of bodies,
+as well as those movements that are ‘bodyless’ (2001: 305). The term ‘bodyless’ points to
+the interactions and transactions, often electronic, which are taking place in porous areas
+such as cyberspace, credit bureau databases, and automated health, library patron and
+telephone records. Lyon suggests that ‘body surveillance reduces identity questions to
+what can be found in the text of the body itself ’ (2001: 306). With the body as text, risk
+management and assessment are assured through what is said to be an authoritative truth.
+Given this, ‘data from the object of the body rather than speech from the acting subject’
+(2001: 306) are taken as authoritative truth, as in the use of DNA samples to convict
+
+140
+
+Critical Sociology 36(1)
+
+those accused of a crime with bodily evidence. Certain ID documents symbolize the stable
+self. Once the self can be certified by the state as stable, an increased freedom of mobility
+and stability can be granted. However, this increased freedom of mobility is accompanied
+by an increasing integration of the stable self into a surveillance regime that monitors,
+tracks, classifies, and often takes the shape of the database.
+Body data, including that which is biographical, that is profiled, circulates and is
+traded within and between databases is often marked by gender, nation, region, race and
+other categories where the life-chances of many, as Lyon notes, are:
+more circumscribed by the categories into which they fall. For some, those categories are
+particularly prejudicial, restricting them from consumer choices because of credit ratings,
+or, more insidiously, relegating them to second-class status because of their color or
+ethnic background (2003: 675).
+
+Similarly, Goldberg employs the term ‘raceless racism’ to describe the practice of
+media technologies facilitating certain codes of determination, or techniques of governing
+populations, that are difficult to address but could have racist effects.
+
+Arithmetics of the Skin
+When Canada’s former Minister of Citizenship and Immigration Denis Coderre
+launched a national debate by recommending that identity cards be issued to all
+Canadians, he noted that ‘identity has taken on a new prominence’ (2003) since the
+events of 11 September 2001. He suggested that debating an identity card would provide
+the opportunity ‘to clarify what it means to be a citizen, a Canadian’ (2003). Speaking
+about identity, Coderre highlighted its importance and stated:
+As a matter of fact, if I can quote James Baldwin, the US author from Harlem who was
+a tremendous activist, he said, ‘An identity is questioned only when it is menaced,’ and
+that’s it. I believe the time has come to decide what to believe as to what an identity is
+and how we can protect it. (2003)
+
+In the following excerpt from this Standing Committee on Citizenship and
+Immigration meeting held in Ottawa, Canada, Coderre sets forth his agenda on identity
+based on post-11 September 2001 security imperatives regarding mobility and document
+integrity, where the production of insecurity, as a practice that invokes certain anxieties
+around terror, is linked to identity theft and the events of 11 September 2001. Standing
+Committee meetings are social events that represent and constitute a particular kind of
+political and discursive space. By political and discursive space I mean a space in which
+certain participants are produced and positioned as subjects with rights to speak and be
+heard, some are positioned as subjects with interests to represent, some are produced as
+having expertise, while other individuals and groups are just talked about. It is important
+
+Browne: Digital Epidermalization
+
+141
+
+to note here that this is a governmental space where discourse is understood as operating
+beyond texts and what is said, and where discourse is also understood as produced by
+power and also constitutive of it. My aim here is not to isolate texts and practices from
+their material context, but rather to explore the ways in which texts and practices are
+produced by, and are constitutive of, relations of power. I use italics to underscore the key
+terms from these verbatim excerpts that I analyze below.
+Hon. Denis Coderre (Minister of Citizenship and Immigration): … In the aftermath
+of the terrorist attacks in the United States on September 11, 2001, identity has taken a
+new prominence in countries around the world. Canada has been no different.
+Canadians have come to see the ability to establish identity as an important element of
+personal and collective security.
+While the new focus on a positive proof of identity is partially rooted in the aftermath of
+the terrorist attacks, other forces are at play. Identity theft is seen as a serious and growing
+problem in Canada.
+Within a few years, or maybe much sooner, the ability of Canadian citizens and
+permanent residents to cross international borders will depend increasingly on the
+integrity of their travel documents. The integrity of those documents will be determined by
+the strength of the identity documents on which they are issued.
+… Closer to home, the United States is reviewing their requirements for travellers
+coming into their country. The time when Canadians and permanent residents could be
+confident of crossing the border into the United States solely on the basis of a valid driver’s
+licence may well be over. This is happening at a time when Canada does not have an
+explicit official national identity policy or an identity system. (Standing Committee on
+Citizenship and Immigration 2003)
+
+The concept of ‘being Canadian’ and the ‘confidence’ attributed to the rights of mobility
+that come with such status is understood as being tenuous and evolving. Coderre notes
+that the ability to sustain confidence in ‘being Canadian’, particularly during the crossing
+of international borders, is dependent on document integrity. The repetitive use of the
+words ‘integrity’ and ‘identity’, collocated with ‘travel documents’, ‘proof’, ‘establish’, ‘theft’
+and ‘terrorist attacks’, demonstrate the functioning of the discourse of border control. By
+way of repetition, a discursive link is established between these terms. In other words,
+within the discourse of border control, document integrity is advanced as one solution
+to terror. Significantly, Coderre alludes to the devaluation of certain status documents
+(‘crossing the border into the United States solely on the basis of a valid driver’s licence
+may well be over’). This devaluation of identity documents opens a space for the ‘explicit
+official national identity policy or an identity system’ that Coderre advanced. It is evident
+from the above excerpt that this proposed national system would be shaped by US security
+imperatives. The discussion of US security imperatives, biometrics and race continued:
+
+142
+
+Critical Sociology 36(1)
+Ms. Madeleine Dalphond-Guiral (Laval Centre, Bloc Québécois): … If the Americans
+insisted that our ID card list a person’s birth place, would you be prepared to go against
+them on this?
+Mr. Denis Coderre: I won’t give you a pat answer such as ‘I’ll cross that bridge when I
+come to it’, since I think I’ve already made my position quite clear about racial profiling
+and stuff like that. One thing is certain, however. I do think this card could serve as a
+prevention tool. Basically, every person has his or her own unique identity. Biometric
+identifiers such as facial recognition, iris scans and fingerprints eliminate any need for
+listing the card holder’s birth place.
+… In my opinion, the use of biometric identifiers will prevent some problems that could
+arise if disclosure of a person’s place of birth was requested. This is an extremely
+important issue to debate.
+
+Coderre employs an authoritative voice with his mention of declarative sentences
+(‘One thing is certain’ and ‘every person has his or her own unique identity’) in his discussion of the function of biometric identifiers. It is made quite clear from these statements that Coderre understands biometric technology as a means to counter, in his own
+words, ‘racial profiling and stuff like that’. However, I suggest that the disembodied gaze
+cast by surveillance technologies also does the sorting work of nationalizing, and by
+extension racializing. This is especially so when race is codified by way of country code,
+offering a certain geography of race. Or when facial recognition technology is calibrated
+to only cull matches from within specified racial and gendered groupings, leading to high
+FTE rates for some groupings, as discussed earlier. The application of surveillance technologies in this way leads to questions concerning the idea that gender and race can be
+specified, and also, how transgendered and intersexed people ‘fit’ into this algorithmic
+equation. There is a certain assumption with these technologies that categories of gender
+identity are clear cut, that a machine can be programmed to assign gender categories or
+what bodies and body parts ‘should’ signify.14 Such technologies certainly can be applied
+to determine who has access to movement and stability, and to other rights. Following
+Anne Balsamo here, I am suggesting that we question the effects that certain technologies (in this case, ID cards, databases and biometrics) have on ‘cultural enactments of
+gender’ (1996: 9) and how such technologies are ‘ideologically shaped by the operation
+of gender interests and, consequently, how they serve to reinforce traditional gendered
+patterns of power and authority’ (1996: 10).
+Later in this Committee meeting the topics of identity, the ‘Canadian way’ and
+biometrics continued.
+Ms. Libby Davies (Vancouver East, New Democratic Party): … I was curious in
+listening to your remarks when you said, ‘We are also seeking to clarify what it means
+to be a citizen, a Canadian’, and, ‘Establishing one’s identity goes to the very essence of
+these questions.’
+
+Browne: Digital Epidermalization
+
+143
+
+I guess I’d like to challenge you on that a bit, because what right does the state have to
+determine someone’‘s identity? That’s an issue that comes from us individually, from our
+experience, and from our background or whatever. So the very notion that the state
+would have enormous power to establish this identity ...
+And you’re raising the question here that it wouldn’t just be for specific purposes, but
+somehow it goes to the heart of what it means to be a Canadian. So I have a lot of
+difficulty with this. …
+Mr. Denis Coderre: /…/ Frankly, I believe that biometrics doesn’t have a race, and doesn’t
+have a religion. Using biometric matching, we want to know if the person or cardholder
+and the card itself are the same. We won’t look at the colour of the skin; we want to know
+mathematically if the thumbprint fits.
+That’s why I believe it’s a prevention tool. But I also believe that because it’s so sensitive
+and it doesn’t belong to the state, but to the individual, we should have this kind of
+debate. Sometimes it’s better to have these kinds of issues among ourselves and to decide
+among ourselves what kind of a future we want to shape than to ask ‘What do you think?
+This is what we will do.’
+Identity, Canadian citizenship, is so important that I want to make sure that when those
+individuals go through certain borders, they will be protected, so that it means something
+to be a Canadian citizen.
+
+How does race operate in biometrics? How does race operate in the above excerpt? Can
+it be said, as Coderre put it, that ‘biometrics doesn’t have a race’? Although a programmed
+algorithmic code, biometric information is said not to be information about the person
+but, according to the Citizenship and Immigration Canada policy document Building a
+Nation, ‘information of the person’ (2002). The history of surveillance technologies
+demonstrates how such technologies have been deployed in methods where disciplinary
+power is used to organize individuals into racialized categories (Cole 2001). Whether
+such organizing continues today through the racialization of algorithmic code is important
+to question here when considering Coderre’s statements, along with Nanavati et al.’s
+R&D, discussed above, regarding FTE rates for unmeasurable fingerprints. In the above
+Standing Committee excerpt, Coderre’s declarative sentences (‘We won’t look at the
+colour of the skin’ and ‘we want to know mathematically if the thumbprint fits’) demonstrate how nominalization, where agents of processes are absented from the text, operates.
+These statements obscure the actual people that are the border guards and that mediate
+encounters and their outcomes at international borders, ports and airports. Coderre
+implies a certain neutrality with these technologies and their applications; however, the
+customs officials who verify documents and who ‘see if the thumbprint fits’ may not
+always be as objective as Coderre purported these technologies to be, and in this way
+enable digital epidermalization by way of these technologies.
+
+144
+
+Critical Sociology 36(1)
+
+How do we understand the body once it is made into data? What are the underlying
+assumptions with surveillance technologies, such as passport verification machines, facial
+recognition software or fingerprint template technology? There is the notion that these
+technologies are infallible and that they are objectivist technologies which assume a
+mathematical precision, without error or bias on the part of the computer programmers
+who calibrate the search parameters of these machines or on the part of those who read
+these templates to make decisions, such as the decision in 2004 in which US citizen
+Brandon Mayfield was wrongfully determined to be involved with the Madrid, Spain
+train bombings based on a latent fingerprint (Cole 2006). Although verification
+machines now do the work of sorting the bearers of identity documents, these machines
+are designed and operated by real people to sort real people. It is through the human
+aspects of this process of sorting that the digitized, biometric body is brought into view.
+Through this process of visualizing and sorting, the digitized body and in effect its material, human counterpart could be epidermalized, becoming the target of, using Minister
+Coderre’s words here, ‘racial profiling and stuff like that’. The ‘stuff like that’ could take
+the form of Berna Cruz’s expedited removal discussed earlier. At the time, her passport
+would not have contained the contactless integrated circuit that would allow for biometric storage and identification. However, with her passport judged counterfeit and
+‘funky’ by the US Customs official, coupled with the line of questioning that she was
+subject to, emblematic of Hall’s ‘enunciative strategies’, would a biometric undo this
+making of the body as out of place? Even when she produced other symbols of what Lyon
+calls the ‘stable self ’ (her driver’s license and health card) she was still subjected to the discretionary power of the border guard. Cruz’s ordeal was further detailed in a letter she
+wrote to then Prime Minister of Canada, Jean Chrétien. In that letter, Cruz cited that the
+INS official told her that the photo in her passport was not hers, that ‘she eagerly wants
+to be a Canadian citizen’ and was asked: ‘You’d better tell us the truth. How much did
+you pay for this passport’ and ‘Are you fearful of someone back home? Is that why you
+left India?’ (Cruz 2003).
+For Cruz, the border was not merely a space of transit but also a space of purging. To
+‘purge’ has bodily, hygienic and religious connotations, with the root of the word ‘purge’
+stemming from the Latin purgare – to make pure, to cleanse of guilt, sin and impurities.
+As detailed by Mark Salter, a ‘confessionary complex’ (2007) is enacted at international
+border crossings where the traveller is incited to speak the truth through rites, rituals and
+customs. For example, filling out customs forms, declaring goods and, among other
+practices, following the directive not to joke about bombs or to tell other risky untruths.
+These rites of confession and the directives in various airport pre-boarding passenger
+screening zones – from the ‘no joking’ signage and the instructions obliging travellers to
+purge themselves of liquids, gels and other prohibited items, to the communicating of
+color coded threat advisories by way of overhead public address – all reveal the workings
+of neo-pastoral power at the border. This is a power that is individualizing, beneficent and
+‘essentially exercised over a multiplicity in movement’ (Foucault 2007: 125). That it is a
+power mediated by new technologies of bodily surveillance that enable post-11 September
+2001 mandates concerning security, marks its neo-pastoral formation. The salvivic
+
+Browne: Digital Epidermalization
+
+145
+
+moment here should offer more, however, than merely having one’s shoes, belts and
+sometimes laptops returned after undergoing trace detection procedures.15 The border,
+where the non-sterile is said to become sterile (Fuller and Harley 2004) is a space where
+certain travellers can be purged, and it is one of the sites where, I argue, the state does its
+racial and gendered purging. This notion of racial purging at the border exemplifies how
+certain rules and rights are only applied to some, where those who do the sorting work
+(in this particular case, customs officials) ultimately dictate the outcomes of the application
+of identification technologies. For Cruz, the nationalizing gaze of the border control
+official sorted her into a particular category (not trusted traveller), and discounted her
+Canadian passport and other identity documents by deeming them counterfeit. This case
+reveals how agents of processes (in this case, the border services officers) can mediate the
+application of surveillance technologies in racially specific ways, and where, as Gordon
+notes, a structured violence exists in which ‘all is permitted’ (2004).
+
+Conclusion
+In his meeting with the Standing Committee, quoting James Baldwin, Canadian
+Immigration Minister Denis Coderre stated: ‘an identity is questioned only when it is
+menaced.’ Baldwin’s writings continue: ‘as when the mighty begin to fall, or when the
+wretched begin to rise, or when the stranger enters the gates, never, thereafter, to be a
+stranger: the stranger’s presence making you the stranger, less to the stranger than to
+yourself ’ (1976: 80). Who is made stranger at international border crossings? Through
+the usual script of confession (what is the purpose of your travel? what do you do for a
+living? are you bringing any goods in with you?), and increasing procedural delays due to
+anti-liquid policies, the application of trace detection technologies and secondary
+security screening selection, many travellers undergo a certain amount of ontological
+insecurity at the border, particularly at airports. This is an institutional site where almost
+everybody is treated with suspicion at one time or another, although some may be
+marked as more suspicious than others. Given this, self-making as responsible or not
+risky is necessary at the border. Would a biometric passport make one more secure, more
+trusted and less of a stranger?16 Importantly, would it offer a challenge to the discretionary
+power of the border guard (such as that faced by Berna Cruz) or could it further enable
+the racialization of risk at the border?
+Understanding how biometrics are rationalized through governmental policy making
+and industry specification and texts provides a means to falsify the idea that certain surveillance technologies and their application are always neutral regarding race and other
+categories of determination. Examining biometric practices and surveillance in this way
+is instructive and it invites us to understand the social relations and prevailing discourses
+that are part of the enabling conditions of certain technologies. Where systems of
+classification that rely on visual economies of race are, as Sylvia Wynter aptly puts it,
+‘increasingly becoming automated’ allowing for ‘the great masses of people who have
+to be cast out’ (Thomas 2006), such casting out or FTE must be attended to critically,
+
+146
+
+Critical Sociology 36(1)
+
+given the privacy concerns surrounding file sharing and the current extra-constitutional
+treatment of those who are deemed by the state as ‘risk’ to the state. It is at the border –
+territory, epidermal and digital – a site where certain bodies are cast out and made out of
+place, that a critical biometric consciousness and the possibilities suggested by what
+Gilroy terms an ‘alternative, metaphysical humanism premised on face-to-face relations
+between different actors – being of equal worth – as preferable to the problems of inhumanity that raciology creates’ (2000: 41) can be realized. It is precisely this casting out
+that incites such a consciousness and rethinking that seeks our linked subjectivity as no
+alternative, but as Fanon puts it, ‘one right alone: that of demanding human behaviour
+from the other’ (1967: 229).
+
+Acknowledgements
+Special thanks go to Ben Carrington, Shoshana Magnet, Katherine McKittrick and João
+Costa Vargas for their constructive comments and valuable suggestions, and to the
+anonymous reviewers. I am also grateful to my dissertation committee members: Kari
+Dehli, Roxana Ng, Alissa Trotz and David Lyon for their critical readings of earlier drafts
+that make up parts of this article. Previous versions of this article were presented at the
+April 2007 HASTAC Electronic Techtonics: Thinking at the Interface Conference at
+Duke University and at the ‘Race and Citizenship’ Conference for Citizenship Studies at
+Wayne State University in March 2007. I would like to thank the participants for their
+comments. All shortcomings, however, are mine.
+
+Notes
+1 ‘Toonie’ is the term for the Canadian two-dollar coin.
+2 The terms ‘dark matter’ and ‘white prototypicality’ are borrowed from Lewis R. Gordon’s discussion
+of double consciousness (2004).
+3 It is important to note Gilroy’s use of the plural form here, as it speaks to the pluralities of identity at
+different spaces, locations and contexts. Further, this use of the plural exposes the fiction of this said
+fixity of identity, race and other social and political constructions. Similarly, for Stuart Hall, identities
+are ‘points of temporary attachments’ (1996: 6), thereby signalling the multiple ways in which identities
+must be understood. In a later version of Gilroy’s essay appearing as the chapter ‘The Crisis of “Race”
+and Raciology’ in Against Race: Imagining Political Culture Beyond the Color Line, the sentence reads:
+‘Let me propose that the dismal orders of power and differentiation – defined by their persistent intention
+to make the mute body disclose and conform to the truths of its racial identity – can be roughly
+periodized’ (2000: 46). Here, ‘identity’ is singular, conforming – or not – to many truths.
+4 I would also like to suggest here an understanding of ‘out of place’ as having subversive potential,
+being agential. I am referring here to the term’s usage in many Caribbean contexts, such as the
+Trinidadian saying ‘fast and out of place’ as being ‘intolerably impertinent’ or bold-face (Allsopp and
+Allsopp 2003). Similarly, the Jamaican ‘facety’, as employed by poet Louise Bennett or ‘Miss Lou’ in
+‘Independence’ (1966), speaks to acts of subversion:
+
+Browne: Digital Epidermalization
+
+147
+
+Matty sey it mean we facety
+Stan’ up pon we dignity,
+An we don’t allow nobody
+Fe teck libarty wid we.
+Such obtrusiveness in ‘not knowing one’s distance’ is taken here to be a rejection of lived objectification,
+and as a refusal to stay in one’s place.
+5 For a detailed discussion of how skin operates as a means of social differentiation and ‘a border that
+feels’, see Sara Ahmed (2000: 45).
+6 See Joseph Pugliese for further discussion of FTE rates and the notion that certain biometric
+technologies are ‘infrastructurally calibrated to whiteness’ (2005: 5).
+7 Current technology allows for iris image capture to be ‘digitally processed into a 512 byte IrisCode®
+record’. BI2 Technologies. URL (consulted 15 January 2007): http://www.bi2technologies.com/bi2technologies.html
+8 For example, the Gang Intervention Network (GangNet) is a police database that compiles those
+who are said to be gang members or to have gang affiliations. Developed by Irvine, California based
+Orion Scientific Systems in 1991, this database allows its users to view profiles, links to associates,
+vehicles, tattoos, field interviews and virtual photo line-ups. The program also includes a gang-slang
+dictionary, facial recognition technology, and can make use of commercial geographic information
+systems to allow for the spatial mapping of information held in the database. GangNet is presently
+being used by the Toronto Police Services and by the Peel Region police force in Ontario, Canada.
+9 For example, the LexisNexis partnership with the US Government using the LexisNexis developed
+Accurint® Federal Information Sharing application. The LexisNexis company website boasts that
+their ‘products and services will help you uncover fraudulent transactions, prevent identity theft, find
+missing children, track down terrorists, prosecute white collar criminals, and make intelligent hiring
+decisions’. LexisNexis. Products and Services for Risk Management. URL (consulted 10 April 2006):
+http://www.lexisnexis.com/riskmanagement
+10 David Theo Goldberg raised the term ‘raceless racism’ to address the example of one’s address, credit
+rating and other markers influencing one’s ability to conduct internet based purchases, a vehicle for
+example, with or without raced treatment on the part of the seller, such as discriminatory pricing
+practices. Gender is also an important influencing marker here. ‘Technology in the Service of Humanities’
+discussion on 24 August 2006 at the Seminar in Experimental Critical Theory: TechnoSpheres/FutureS
+of Thinking at the University of California Humanities Research Institute, Irvine, California.
+11 In the case of the permanent resident card I argue that the successful applicant is one who produces
+herself as a trusted traveller, and by extension a ‘responsible immigrant’. Meaning one who can
+account for employment, residences, detailed comings and goings, and who can provide a Canadian
+citizen as guarantor to verify her claims. Given the particular requirements for the card, a successful
+applicant must demonstrate her ability to govern her movement in a state-sanctioned manner or be
+subject to a special review through the Quality Assurance Program. Applicants are required to account
+for their travels outside of Canada, where only certain types of travel are sanctioned under the residency requirements, such as those while accompanied by a Canadian citizen or while in the employ
+of a Canadian company. So the successful card applicant must strategize as an economic, rational actor,
+for example, by venturing outside of the state only for travel that is state sanctioned and calculating
+the probable consequences for travel that does not fall under that category (Browne 2005).
+12 This transcription of Will Sheets’ quote is not as it appears in the original, where the transcriptionist’s
+choice of matching sound to written text in an exaggerated, stereotyped vernacular, I feel, reflects the
+racial logic of the time of the interview.
+
+148
+
+Critical Sociology 36(1)
+
+13 However, enslaved people were able to re-purpose this brutal technology of identification by using
+these violences done to the skin as means to re-establish kinship ties (see Hartman 2007). Such repurposing of branding for social networking intents reveal the limit of acts of dehumanization.
+Counter practices such as this and numerous others suggest that dehumanization was not fully
+achieved on an affective level.
+14 For example, the Citizenship and Immigration Canada Report, Building a Nation, in advocating for
+biometrics states: ‘We start with the use of photo identification, proposed as a security feature for
+the new card. The first thing to note is that human beings are not particularly acute at recognizing
+individuals from photograph identification, particularly across cultural lines. Moreover, glasses, hairstyles and (for men) facial hair may change, which may lead to questions even when the holder of
+the card is genuine’ (2002, emphasis mine). It is interesting to note here that biometric identifiers
+are suggested by the Committee as a means to solve detection problems resulting from human
+beings not being acute at recognizing individuals from photographs. My argument is that what is
+suggested here is that digitized body data can be worked wholesale as a technology to secure accurate
+and, presumably, for fixed race and gender detection. Moreover, it is a system where it is apparently
+understood that only men have facial hair.
+15 Trace detection technology is used to determine, if any, the chemical signature of different types of
+explosives left as residue on an individual’s body, clothing or possessions.
+16 The privacy and vulnerability concerns with this technology are many. While developments in biometric encryption technology are allowing for more secure application (see Cavoukian and Stoianov
+2007), large scale application of, for example, face recognition technology, are not always proven
+effective (See Kosmerlj et al. 2006).
+
+References
+Ahmed, S. (2000) Strange Encounters. Routledge: London.
+Allsopp, R. and Allsopp, J. (2003) Dictionary of Caribbean English Usage. University of the West Indies
+Press: Cave Hill.
+Baldwin, J. (1976) The Devil Finds Work, Essays. Delta: New York, NY.
+Balsamo, A. (1998) Technologies of the Gendered Body: Reading Cyborg Women. Duke University Press:
+Durham, NC.
+Bennett, L. (1966) ‘Independence’. Jamaica Labrish: Jamaican Dialect Poems. Kingston, Jamaica: Sangter’s
+Bookstore Limited.
+Brown, W. (2003) Neo-liberalism and the End of Liberal Democracy. Theory and Event 7(1). URL (consulted
+17 February 2006): http:/muse.jhu.edu/journals/theory_and_event/v007/7.1brown.html
+Browne, S. (2005) Getting Carded: Border Control and the Politics of Canada’s Permanent Resident
+Card. Citizenship Studies 9(4): 423–38.
+Browne, S. (2007) Trusted Travellers: The Identity-Industrial Complex, Race and Canada’s Permanent
+Resident Card. University of Toronto: (unpublished) PhD dissertation.
+Cavoukian, A. and Stoianov, A. (2007) Biometric Encryption: A Positive-Sum Technology that Achieves
+Strong Authentification. Security AND Privacy. Information and Privacy Commissioner/Ontario:
+Toronto.
+Citizenship and Immigration Canada (2002) Building a Nation: The Regulations under the
+Immigration and Refugee Protection Act. URL (consulted 20 October 2003): http://www.parl.gc.ca/
+InfoComDoc/37/1/CIMM/Studies/Reports/cimmrp04/13-chap5-e.html
+
+Browne: Digital Epidermalization
+
+149
+
+Coderre, D. (2003) Why Discuss a National Identity Card? Minister’s Speech. Appearance before the
+Standing Committee on Citizenship and Immigration, 6 February 2003. URL (consulted February
+2003): http://www.cic.gc.ca/english/press/speech/id-card.html
+Cole, S.A. (2001) Suspect Identities: A History of Fingerprinting and Criminal Identification. Harvard
+University Press: Cambridge, MA.
+Cole, S. A. (2006) Brandon Mayfield, Suspect. J. Knechtel (ed.) Suspect, pp. 170–85. MIT Press:
+Cambridge, MA.
+Cruz, B. (2003) Letter to the Right Honourable Jean Chrétien, Prime Minister of Canada. 10 February
+2003.
+Fanon, F. (1967) Black Skin, White Masks. Grove Press: New York, NY.
+Foucault, M. (2007) Security, Territory, Population: Lectures at the Collège de France, 1977–78. Translated
+by G. Burchell. Palgrave Macmillan: New York, NY.
+Fuller, G. and Harley, R. (2004) Aviopolis: A Book about Airports. Black Dog Publishing: London.
+Gilroy, P. (1997) Scales and Eyes: ‘Race’ Making Difference. S. Golding (ed.) Eight Technologies of Otherness,
+pp. 190–96. Routledge: London.
+Gilroy, P. (2000) Against Race: Imagining Political Culture beyond the Color Line. Harvard University
+Press: Cambridge, MA.
+Goldberg, D.T. (1997) Racial Subjects: Writing on Race in America. Routledge: New York, NY.
+Gordon, L.R. (2004) Is the Human a Teleological Suspension of Man?: Phenomenological Exploration
+of Sylvia Wynter’s Fanonian and Biodicean Reflections. URL (consulted 29 March 2008):
+http://web.ics.purdue.edu/~mmichau/
+Hall, S. (1996) Introduction: Who Needs Identity? S. Hall and P. Du Gay (eds) Questions of Cultural
+Identity, pp. 1–17. Sage: London.
+Hartman, S. (2007) Lose Your Mother: A Journey along the Atlantic Slave Route. Farrar, Straus and Giroux:
+New York, NY.
+Kosmerlj, M., Fladsrud, T., Hjelmås, E. and Snekkenes, E. (2006) Face Recognition Issues in Border
+Control Environment. D. Zhang and A.K. Jain (eds) Advances in Biometrics, pp. 33–9. Springer:
+Berlin.
+Lao, S. and Kawade, M. (2004) Vision-Based Face Understanding Technologies and Their Applications.
+Stan Z. Li et al. (eds) Advances in Biometric Person Authentication, pp. 339–48. Springer: Berlin.
+Lemke, T. (2001) The Birth of Bio-Politics: Michel Foucault’s Lecture at the Collège de France on
+Neo-Liberal Governmentality. Economy and Society 20(2): 190–207.
+Li, H., Zhou, M. and Geng, G. (2004) Facial Pose Estimation Based on the Mongolian Race’s Feature
+Characteristic from Monocular Image. S.Z. Li et al. (eds) Advances in Biometric Person Authentication,
+pp. 172–8. Springer: Berlin.
+Löfgren, O. (1999) Crossing Borders: The Nationalization of Anxiety. Ethnologia Scandinavica: A Journal
+for Nordic Ethnology (29): 5–27.
+Lyon, D. (2001) Under My Skin: From Identification Papers to Body Surveillance. J. Caplan and
+J. Torpey (eds) Documenting Individual Identity: The Development of State Practices in the Modern
+World, pp. 291–310. Princeton University Press: Princeton, NJ.
+Lyon, D. (2003) Technology vs. ‘Terrorism’: Circuits of City Surveillance since September 11th.
+International Journal of Urban and Regional Research 27(3): 666–78.
+McKittrick, K. (2006) Demonic Grounds: Black Women and the Cartographies of Struggle. University of
+Minnesota Press: Minneapolis, MN.
+Nanavati, S., Thieme, M. and Nanavati, R. (2002) Biometrics: Identity Verification in a Networked World.
+Wiley: New York, NY.
+
+150
+
+Critical Sociology 36(1)
+
+Parenti, C. (2003) The Soft Cage: Surveillance in America, from Slavery to the War on Terrorism. Basic
+Books: New York, NY.
+Pugliese, J. (2005) In Silico Race and the Heteronomy of Biometric Proxies: Biometrics in the Context
+of Civilian Life, Border Security and Counter-Terrorism Laws. Australian Feminist Law Journal 23:
+1–32.
+Rankin, J. (2003) Canadian in Passport Fiasco. Toronto Star 14 February 2003: A1.
+Rose, N. (1992) Governing the Enterprising Self. P. Heelas and P. Morris (eds) The Values of Enterprise
+Culture: The Moral Debate, pp. 141–64. Routledge: London.
+Rose, N. (1993) Government, Authority and Expertise in Advanced Liberalism. Economy and Society
+22(3): 283–99.
+Salter, M. (2007) Governmentalities of an Airport: Heterotopia and Confession. International Political
+Sociology 1(1): 49–65.
+Sperry, P. (2003) Homeland Insecurity: The Case of the ‘Funky’ Passport, Officials Say Deported Indian
+Woman Falsely Claiming ‘Abuse’. World Net Daily. URL (consulted 4 November 2003): http://www.
+worldnetdaily.com/news/article.asp?ARTICLE_ID=31634
+Spillers, H.J. (2003) Black, White, and in Color: Essays on American Literature and Culture. University of
+Chicago Press: Chicago, IL.
+Standing Committee on Citizenship and Immigration (2003) Minutes of Proceedings and Evidence:
+Evidence. House of Commons, 37th Parliament 2nd Session, 6 February. URL (consulted 22 April
+2003): http://www.parl.gc.ca
+Thacker, E. (2005) The Global Genome: Biotechnology, Politics and Culture. MIT Press: Boston, MA.
+Thomas, G. (2006) Proud Flesh Inter/Views: Sylvia Wynter. Proudflesh: A New Afrikan Journal of Culture,
+Politics & Consciousness 4. URL (consulted 16 October 2007): http:/www.proudfleshjournal.com/
+issue4/winter.html
+Valverde, M. (1996) ‘Despotism’ and Ethical Liberal Governance. Economy and Society 25(3): 357–72.
+Walcott, R. (2006) Land to Light On? Mapping Reparations in a Time of Transnationality. M. Margaroni
+and E. Yiannopoulou (eds) Metaphoricity in the Politics of Mobility, pp. 87–99. Rodopi: New York, NY.
+Work Projects Administration (1941a) Georgia Narratives, Volume IV, Part IV. Born in Slavery: Slave
+Narratives from the Federal Writers’ Project, 1936–8. URL (consulted 30 August 2009 at Manuscript
+and Prints and Photographs Divisions of the Library of Congress. Washington, DC): http://memory.
+loc.gov/ammem/snhtml/snhome.html
+Work Projects Administration (1941b) ‘Plantation life as viewed by ex-slave Will Sheets’. Georgia
+Narratives, Volume IV, Part III. Born in Slavery: Slave Narratives from the Federal Writers’ Project,
+1936–8. URL (consulted 30 August 2009 at Manuscript and Prints and Photographs Divisions of the
+Library of Congress. Washington, DC): http://memory.loc.gov/ammem/snhtml/snhome.html
+
+For correspondence: Department of Sociology, University of Texas at Austin, 1 University Station
+A1700, Austin, TX, USA 78702. Email: sbrowne@austin.utexas.edu
+
+

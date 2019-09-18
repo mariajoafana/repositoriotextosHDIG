@@ -1,0 +1,1136 @@
+Looking at Shirley, the Ultimate Norm:
+Colour Balance, Image Technologies,
+and Cognitive Equity
+Lorna Roth
+Concordia University
+Abstract: Until recently, due to a light-skin bias embedded in colour film stock
+emulsions and digital camera design, the rendering of non-Caucasian skin tones
+was highly deficient and required the development of compensatory practices
+and technology improvements to redress its shortcomings. Using the emblematic “Shirley” norm reference card as a central metaphor reflecting the changing
+state of race relations/aesthetics, this essay analytically traces the colour adjustment processes in the industries of visual representation and identifies some prototypical changes in the field. The author contextualizes the history of these
+changes using three theoretical categories: the ‘technological unconscious’
+(Vaccari, 1981), ‘dysconsciousness’ (King, 2001), and an original concept of
+‘cognitive equity,’ which is proposed as an intelligent strategy for creating and
+promoting equity by inscribing a wider dynamic range of skin tones into image
+technologies, products, and emergent practices in the visual industries.
+Keywords: Colour balance; Norm reference cards; Dynamic range; Technological
+unconscious; Dysconsciousness; Cognitive equity; Cultural studies
+Résumé : Jusqu’à récemment, en raison d’un préjugé favorisant la peau claire dans
+les films couleurs et dans la conception des caméras numériques, la reproduction
+des couleurs de peaux non-caucasiennes a été très déficiente, exigeant le
+développement de diverses techniques de compensation et d’amélioration. Utilisant
+la carte de référence normative « Shirley » comme métaphore pour refléter
+l'évolution des rapports entre les races et leurs pratiques esthétiques, cet essai
+analyse les processus d’ajustement de la couleur dans les industries de la
+représentation visuelle et identifie certains prototypes de changements dans le
+domaine. L’auteur situe ces changements historiquement en se rapportant à trois
+concepts théoriques : « l’inconscient technologique » (Vaccari, 1981), la
+« dysconscience » (« dysconsciousness » – King, 2001), et un concept original,
+« l’équité cognitive », proposé comme stratégie intelligente pour créer et
+Lorna Roth teaches and publishes on matters related to minorities, race, media, and cross-cultural
+communications. She is an Associate Professor in the Department of Communication Studies at
+Concordia University, 7141 Sherbrooke St. West, CJ 4.325, Montréal, QC H4B 1R6. Email:
+lorna.roth@gmail.com.
+
+Canadian Journal of Communication, Vol 34 (2009) 111-136
+©2009 Canadian Journal of Communication Corporation
+
+112
+
+Canadian Journal of Communication, Vol 34 (1)
+promouvoir l'équité en inscrivant un plus grand éventail de couleurs de peau dans
+les technologies et produits de l'image et dans les pratiques émergeantes des
+industries visuelles.
+Mots clés : Balance de couleur; Cartes de référence normatives; Gamme
+dynamique; Inconscient technologique; Dysconscience; Équité cognitive; Études
+culturelles
+
+In a conversation with NHK (Japanese national broadcasting service)
+video engineer Toru Hasegawa in New York City, his first words to me
+were, “American television is discriminatory because it is biased against
+Japanese skin tones.” He further informed me that this is kept quite quiet
+because the Japanese do not want North Americans working in television
+production in Japan to feel uncomfortable.
+(Toru [Tom] Hasegawa, Video Engineer,
+NHK [Japan Broadcasting Corporation],
+New York, NY, personal communication, May 27, 1996)
+There are several stages to colour balancing a television camera. First,
+two bar-line cards—one in black and white showing the greyscale, the
+other in colour—are placed in turn before the cameras to measure the
+accuracy and saturation of the luminance and colour portrayal. Their
+resulting video signals are viewed and adjusted on a waveform monitor
+and vectorscope to eliminate any distortion. Next, studio cameras are
+matched for evenness of colour representation. Technicians then turn to
+the human eye for a subjective colour test, rationalized on the basis that
+the human eye perceives colour differently from the way it appears on a
+vectorscope. According to Jan Kasoff, an NBC colour-television cameraman on the program Saturday Night Live, it is at this point that “a good
+VCR person will have a colour girl stand in front of the cameras and stay
+there while the technicians focus on her flesh tones to do their fine
+adjustments to balance the cameras. This colour girl is always white.”
+(Jan Kasoff, former Cameraman, NBC, New York, NY,
+personal communication, November 20, 1994)
+
+“Skin-colour balance” in still photography printing refers historically to a process
+in which a norm reference card showing a “Caucasian”1 woman wearing a
+colourful, high-contrast dress is used as a basis for measuring and calibrating the
+skin tones on the photograph being printed. The light skin tones of these
+women—named “Shirley” by male industry users after the name of the first
+colour test-strip-card model—have been the recognized skin ideal standard for
+most North American analogue photo labs since the early part of the twentieth
+century and they continue to function as the dominant norm. Figures 1 and 2 are
+typical of widely-circulated Shirley cards used in most North American analogue
+photo labs until very recently.
+
+Roth / Looking at Shirley, the Ultimate Norm: Colour Balance
+
+Figure 1
+Polaroid Shirley card (Printed with
+permission of Polaroid)
+
+113
+
+Figure 2
+Traditional Kodak Shirley card
+(Printed with permission of Kodak)
+
+The colour-TV industry in North America also had its version of “Shirley” in
+the form of a white porcelain “China Girl” in use until the 1950s, at which time it
+was replaced by BBC cardboard flesh-tone cards especially designed for compatibility with National Television System Committee (NTSC) and Phase Alternating
+Line (PAL) broadcast technologies
+(http://www.videointerchange.com
+/color_correction1.htm). The official
+name for this flesh-tone reference card is
+BBC Chart 61P. It is used in conjunction
+with a chip chart in all NTSC broadcasting networks. For PAL-based technologies, BBC Test Card F is used in over 30
+nations around the globe. It pictures the
+daughter of its designer, George Hersee
+of the BBC.2 This girl-image does not
+Figure 3
+differ much in the lightness of complexBBC Flesh-tone Reference Chart.
+ion or ethnic appearance3 from the other
+(Photo credit: Lorna Roth)
+Shirley cards in circulation at photo labs
+at the time of its release.
+Neither Toru Hasegawa nor “Shirley” (in any of her manifestations) would
+be surprised to learn that relatively few scholarly studies have examined the technological apparatus, the institutional structures and mechanisms that manufacture
+representation itself, particularly with regard to the reproduction of skin tones.
+Nor, until very recently, have many mainstream North American–based manufacturers of ordinary consumer items even attempted to replicate the colours of skin
+for non-“Caucasians” in their product lines. Current, more inclusive arrays of
+
+114
+
+Canadian Journal of Communication, Vol 34 (1)
+
+skin hues in products of colour such as band-aids, mannequins, dolls, practice
+heads for hairdressers, nylon stockings, make-up, crayons, film stocks, and television screens have been the result of multiple historical factors, including
+(though not always) demands from the civil rights movement for more colourappropriate products. Other factors include regional, national, and global industrial responses to consumer demands for transracial mainstreaming of ethnic and
+racially coded products; negative consumer reactions to the division of product
+lines into those available for the “White”4 population and those available for the
+“ethnic or racialized” market; reduced profits for manufacturers using the strategy of “add-on” multicultural and multiracial product versions; and a marketreactive reading of the burgeoning field of “Whiteness” and other skin-colour
+studies in the last few decades (Delgado & Stefancic, 2001; Fanon, 1967; Griffin,
+1962; Hale, 1998; Hill, 1997; Roediger, 1998; Russell, Wilson, & Hall, 1992, and
+many others writing in the field of critical race studies). As target-market shifts
+have taken place in industry, they have been documented quietly within the manufacturers’ company-research corpus, but few have been the subject of anything
+more than internal market studies, the aim of which has been to expand sales.
+Most have been ignored by scholarly researchers.
+On the other hand, in the academic world, the political, social, and cultural
+recognition of “Whiteness” as “but one skin colour among many” has been
+acknowledged by popular scholars in numerous disciplines, including sociology,
+ethnic studies, fine arts, film studies, and design arts (see Griffin, 1962, virtually
+all of the writings of Stuart Hall, bell hooks [1989, 1990, 1992], and many others).
+Their research has informed their analyses of the experience of living in skins of
+many colours and of the history of race relations and configurations of racialized
+power, and it has enabled them to rewrite histories, sociology, politics, and global
+relations from multiple racial and cultural perspectives.
+Though the available academic literature is wide-ranging, it is surprising that
+relatively few of these scholars have focused their research on the skin-tone biases
+within the actual apparatuses of visual reproduction. Among the few that have,
+Jean-Louis Comolli and Paul Narboni (1971a, b), and Comolli (1977, 1986) have
+recognized and elaborated an ideological bias within the cinematic apparatus, Brian
+Winston (1985, 1996) has noted the White skin colour biases within the chemistry
+of film processing, and Richard Dyer, in his book White (1997), has focused on the
+norm of Whiteness within gendered, artistic, and filmic technologies and practices
+and its implications in terms of power relations. Russell, Wilson, and Hall (1992)
+have critiqued what they call “The Colour Complex,” that is, the negative psychological impacts and personal psychic scars of intraracial discrimination on people
+with darker skin colours, attributed to the consequences of the prevalent belief that
+power and privilege should be ascribed to those with lighter skin. They, too, have
+pointed out discriminatory practices within society and the media, not only from the
+perspective of who is present on screens and in texts, but also in the context of how
+African-Americans have been expected either to fulfill the minstrel stereotype or to
+appear as close as possible to the White aesthetic of beauty.
+Although not widely circulated outside of the university sphere, these and
+other studies are worthy contributions to a deconstructive analysis of the privi-
+
+Roth / Looking at Shirley, the Ultimate Norm: Colour Balance
+
+115
+
+leged role that “Whiteness” has played in history, social and power relations,
+knowledge production/dissemination, and some aesthetic practices. However,
+none of the aforementioned scholars have extended their critique of privilege to
+examine the degree to which industries of visual representation, including alternative media (TV, video, film, photography), are responding to or ignoring public and economic pressures to colour-modify their technologies. Their theoretical
+focus tends to remain on representational codes constructed with(in) existing
+technologies.
+Although I have researched multiple adjustments to flesh-tone-based colour
+products and technologies in the last decade, the core of my argument for this
+article stems from the experience of chemical- and digital-based photographers
+and their subjects’ critiques. Central to this article is a series of Shirley images
+that can be seen as emblematic of the state of race-relations/aesthetics in the
+industries of visual representation and the gradual shifts in technology targeted at
+improving the sensitivity of film emulsions and dynamic ranges (the difference
+between the lightest and the darkest of colours) in the digital media sphere. I am
+interested in two levels of historical analysis in the domain of colour balancing
+imagery. The first is that of the technical challenges presented by the limitations
+within imaging technologies and the ways in which an ensemble of practices
+emerged to address these deficiencies with reference to human skin tone reproduction quality. These deficiencies include the difficulty of imaging high contrasts in skin tones within the same screen shot—for example, a very
+dark-skinned person sitting next to a very pale-skinned person—and the lack of
+establishment and design of appropriate lighting and make-up for peoples of
+darker skin colours.
+The lighting and make-up challenges have been tackled with a series of
+compensatory practices, which have addressed the issues with some level of success. The difficulty of colour balancing two extremely different skin tones in the
+same screen or on paper has been less successful. As you shall see from the
+material I have gathered for this article, the process of recognizing this challenge
+in 1959 and of informing a major film producer, Kodak, of the difficulty of
+achieving high-quality photo prints with multiracial content precipitated a
+lengthy socio-technical journey, which is not yet complete. In the digital camera
+environment, Philips (now Thomson Multimedia Broadcast Solutions) in Breda,
+the Netherlands, took up this challenge in the 1990s with its television studio
+cameras and has probably made the most progress to date on extending the
+dynamic range of its cameras. Philips’ contribution to the solution of the contrast
+problem will be elaborated upon in the latter half of this article.5
+The second level of analysis is cultural and racial in origin. Between 1959
+and the present, there have been innumerable versions of Shirley as she has
+crossed the decades, continents, and skin colour lines. In this article, images of
+North American and Japanese Shirleys are seen as transforming to reflect the prevailing norms of skin colour beauty in the period in which the labs were using
+them. I shall argue here that the anthropological and sociological content of these
+images has always been emblematic of the period in which they were circulating.
+They reflect and reveal an order of domination and have had a social and psycho-
+
+116
+
+Canadian Journal of Communication, Vol 34 (1)
+
+logical impact (Thierry Le Brun, Independent Cinematographer and Sociologist,
+Montreal, personal communication, January 7, 2009).
+The relationship between the social and the technical in this story—how each
+randomly drove the other to redefine its object of interest—has been serendipitous. Although as a scholar, I would have preferred to have seen a patterned,
+ongoing attempt to improve skin rendition technologies by the various research
+labs, what history reveals instead is a random and messy search, based on ad hoc
+feedback from surprising publics. Peoples of colour, whose embodied imagery
+would have benefited from a more sensitive chemical emulsion in the case of still
+photography and a more dynamic range in the case of digital technology, were not
+the constituency group leading the visual engineers and scientists to further
+explore the dynamic range of their company’s film products. In the second part
+of this article, the randomness of this effort will be revealed.
+On a broader level, my reflections respond to the following key questions:
+What kinds of knowledge about human skin colour in the form of racialized
+imagery are manufacturers constructing and defending through the marketing of
+their “presumed innocent” products? What is the corporate stake in investing in
+or changing a colour aesthetic of Whiteness? What have been the precipitating
+factors that inspired companies to make recent skin colour modifications? Where
+are skin colour adjustments in chemical and digital photography taking place?
+How have colour balance procedures evolved since the 1970s in the techniques
+and social practices of photo cultures in North America and Japan? What are the
+larger socio-political and economic implications of colour balancing products and
+procedures?
+About Shirley
+Shirley’s skin became an industry standard in North American photo labs that
+were dominated by male employees in the 1940s and 1950s. It is no surprise then
+that the person who was imaged on a Shirley card would have had a look and a
+skin colour to conform to a popular masculinist notion of beauty, likely defined
+from a Western/European perspective. Alone or in groups, men wearing coloured
+shirts with similar skin-tone ranges and hair colours to those of female Shirleys
+could have worked as effectively as a reference standard—especially if they had
+had beards or moustaches. These actually might have provided technicians with
+the practice to deal more effectively with the contrast issue. Yet I have discovered
+few adult male reference images in my search through labs in the U.S., Canada,
+Britain, and Japan. The most gender-inclusive images I have found are those of
+either kids or brides and grooms used by Kodak in Japan and numerous companies in North America.6 Consequently, at the very same time that technical and
+aesthetic decisions were being made by photo labs with regard to what constituted a “beautiful” skin colour norm, there emerged a masculinist collection of
+sexy female imagery to tinker with, pin up on lab walls, and use in the colour balancing process. This gendered bias is likely to continue until male visual designers begin to unstick themselves from the very powerful patterns of social relations
+into which they have been conditioned or until more women enter the labs and
+take on positions of power.
+
+Roth / Looking at Shirley, the Ultimate Norm: Colour Balance
+
+117
+
+The disappearance of the “technological unconscious”
+(Vaccari, 1981)
+In the early histories of photo and television technologies, it was possible to consider their design and the ensemble of production techniques and methods surrounding them as ideologically neutral. Until about the mid-1960s, it was probably
+assumed by most users that visual media were designed to “naturally” reproduce
+all skin tones equally well. As experience with the use of these photo technologies
+expanded to international markets, non-“Caucasian” communities identified shortcomings and became more critical and questioning of their visual quality.
+Problems for the African-American community, for example, have included reproduction of facial images without details, lighting challenges, and ashen-looking
+facial skin colours contrasted strikingly with the whites of eyes and teeth.
+From a more technical perspective, evidence has been accumulating that the
+reason for these deficiencies is that film chemistry, photo lab procedures, video
+screen colour balancing practices, and digital cameras in general were originally
+developed with a global assumption of “Whiteness” embedded within their architectures and expected ensemble of practices. What had become a “White”-biased
+international standard for the ideal flesh tone had been used as a barometer against
+which the flesh tones of Blacks, Asians, First Peoples, and other “peoples of
+colour” had been read negatively as an aggravation—a deviation from this invisible norm. This, along with cross-cultural skin-colour-preference tests conducted
+by film manufacturers such as Kodak and Fuji, had confirmed an international
+preference for light complexions within the global consumer photo markets. The
+virtual public silence in Kodak’s and Fuji’s institutional discourses and professional literature on alternatives to traditional ways of colour balancing analogue
+prints is the most concrete evidence we have of this institutional oversight and
+resistance to change.7
+It was from within the broader social context of professional visual technology users that new practices emerged. These included special lighting methods
+for Black skin, as well as trial-and-error colour balance techniques to compensate
+for the challenges of shooting and printing contrasting skin colours from within
+the same screen frame. Photographers of African-American and Asian subjects,
+who had developed methods for dealing with these “problems” independently,
+began to share their knowledge with each other and with the public some time
+around the late 1950s, at around the same time Kodak was experiencing some
+criticism of its photo emulsions regarding this very issue.
+In what follows, I shall focus on the (inter)national driving forces that provoked Kodak, in particular, to rethink and redesign the range of its chemical representation of brown tones and to later multiracialize its Shirley card as a gesture
+of inclusiveness to its broadening consumer photo markets.
+The colour adjustment process
+The case of still photography
+Colour photography is not bound to be “faithful” to the natural world.
+Choices are made in the development and production of photographic
+materials. (Winston, 1996)
+
+118
+
+Canadian Journal of Communication, Vol 34 (1)
+
+In the last decade, it has become clear to those who seek out this information that
+the chemistry for stock colour film for still cameras was designed originally with
+a positive bias toward “Caucasian” skin tones because of its high level of reflectivity (Personal interviews with multiple chemists and film designers at Kodak,
+Rochester, NY, 1995; Winston, 1985, 1996). This is not surprising, given that the
+dominant market in the early days of photography was perceived to be that of
+“Caucasians” by Kodak, the main film manufacturer in North America. This did
+not have to be the case. Had NASA, the U.S. intelligence service, or meteorological scientists already completed their research on photography of low-light areas
+at the time of the popular development of still photography, the evolution of film
+chemistry might have unfolded quite differently, as Brian Harris, lighting technician at the Black Entertainment Television (BET) network, pointed out to me
+(Brian Harris, Lighting Engineer, Black Entertainment Television, Washington,
+DC, personal communication, July 3, 1997).
+Film emulsions could have been designed initially with more sensitivity to
+the continuum of yellow, brown, and reddish
+skin tones, but the design process would have
+had to be motivated by a recognition of the
+need for an extended dynamic range. At the
+time film emulsions were developing, the target consumer market would have been
+“Caucasians” in a segregated political scene;
+their skin tones would have been less likely to
+be the basis for thinking about dynamic
+range, because most subjects in a photograph
+would either have been all light-skinned or all
+darker-skinned. Thus, this was not an element
+of social consideration for film chemists. It
+was also believed at the time that physics was
+physics, chemistry was chemistry, and science was based on reasoned decisions without consideration of cultural or racial
+subtleties. It is now becoming acknowledged
+Figure 4
+more widely within the industry that refineTwo children in Senegal,
+ments to the chemistry of film emulsions
+(Natalie Le Brun [Right] and
+have never been issues of physics or chemGuilado Sarr (or her sister)
+istry exclusively, but have been the result of
+[Left]). Circa 1973. Kodak film
+cultural choices as well.
+(125ASA) used with Canon
+Five key issues were responsible for raiscamera. An example of the
+ing the level of awareness of Kodak research
+challenge of photographing
+scientists and image technology developers
+highly contrasted skin colours with regard to skin colour reproduction in
+in the same frame and the diffi- North America and elsewhere. The first had
+culty of later recognizing who
+to do with the identification of problems in
+is in the photo. (Courtesy of
+the 50s, when their film was being used for
+Olivier Le Brun, Paris, France)
+school graduation and class photos.
+
+Roth / Looking at Shirley, the Ultimate Norm: Colour Balance
+
+119
+
+According to Jim Rice, the challenge became apparent only when students with
+contrasting skin colours were to be photographed in the same image frame (Jim
+Rice, former Technical Sales Representative and Marketing Manager, Kodak, and
+current McGee Endowed Professor, Rochester Institute of Technology,
+Rochester, NY, personal communication, August 18, 1995). When each student
+was photographed alone, differences in skin tones were easily accommodated
+through compensatory lighting and a range of technical adjustments learned
+through experience, but when a group portrait was set up and children of all races
+and ethnicities were photographed together, these techniques could not resolve
+the problem of the film bias in favour of “Caucasian” skin. Consequently, the picture results showed details on the White children’s faces, but erased the contours
+and particularities of the faces of children with darker skin, except for the whites
+of their eyes and teeth. Parents complained about this situation and demanded a
+wider continuum of darker skin tones.
+Figure 4 is another example of this phenomenon. This photo of two children
+in Senegal in the early seventies demonstrates that even years after complaints of
+uneven qualities apparent in images of dark and light skins, the issue remained
+uncorrected.
+Kodak’s drive to increase the dynamic range of its film products was motivated by two other (seemingly irrelevant) issues. These had to do with the photography of brown objects. Here is Kathy Connor’s description of the experience
+of Earl Kage, former head of the Color Photo Studio at Kodak Park in the 60s and
+70s, and former Manager of Kodak Research studios:
+Well, he said that it was interesting, that in the mid-sixties and seventies
+there was a coincidental problem that the company was facing. Two of
+their biggest professional accounts were, he didn’t name the company,
+but somebody said that they made chocolate candies. . . . Apparently, in
+reproducing chocolate candies, Kodak was receiving complaints that
+they weren’t getting the right brown tones on the chocolates. Also, furniture manufacturers were complaining that stains and wood grains in
+their advertisement photos were not true to life, and that they weren’t
+appropriate, so the chemists did some work on that. Earl also said to a
+certain extent, that research to improve those professional markets and
+addressing their questions helped them to do a little bit better with ethnic skin colours. I was amazed. (Kathy Connor, Executive, Kodak,
+Rochester, NY, personal communication, August 16, 1995)
+In his own words, Earl Kage remarked to me:
+In the 4 x 5, 5 x 7, or even 8 x 10 colour transparency area that manufacturers of furniture were using to display their wares and to advertise their
+furniture for catalogues, they were having a good deal of difficulty in
+demonstrating the subtle differences of certain woods. Now, whether it
+was maple vs. oak vs. a couple of dark woods, this couldn’t be distinguished in the photographs. This was also about the same time that we
+got some interesting observations from chocolate manufacturers who, in
+displaying Whitman’s chocolate or whatever the names were in any case,
+the subtle variations between the dark and bittersweet and milk choco-
+
+120
+
+Canadian Journal of Communication, Vol 34 (1)
+
+lates weren’t as discernible and so some modifications were tried and
+consequently my little department became quite fat with chocolate,
+because what was in the front of the camera was consumed at the end of
+the shoot. (Earl Kage, former Manager, Kodak Research Studios,
+Rochester, NY, personal communication, August 21, 1995)
+It is indeed interesting that the improvement of dark skin colour reproduction
+came about quite incidentally in this context, and Kage later admitted his own
+surprise at this submerged historical point. “Yes,” he noted, “it is fascinating that
+this has never been said before, because it was never Black flesh that was
+addressed as a serious problem that I knew of at the time” (Earl Kage, former
+Manager, Kodak Research Studios, Rochester, NY, personal communication,
+August 21, 1995). Other than parents complaining about graduation photos, Kage
+did not recall pressures from the Black community to improve the image quality
+of Kodak’s product. This is surprising in many ways. One would have thought
+that during the height of the civil rights movement in the 1960s and 70s, attention
+might have been turned to Kodak to demand better recognition of the communities’ skin specificities. There were some economic conflicts between Kodak and
+its labourers in the 60s, many of whom were African-Americans, but the quality
+of the photo product was not contested in an organized manner by the Black communities, as far as I could discover. It is more likely that at the time, it was
+assumed by the public that such things were based on science and could not be
+changed, and so battles were fought on issues of economics, poverty, and other
+civil rights matters that were of higher priority to the African-American and
+African-Canadian communities.
+The fourth and fifth factors motivating Kodak were the obvious desires to
+make some impact on the Japanese film stock market, which was strongly linked
+to Fuji films, and to extend its market to the global community. By the mid-90s,
+the Japanese had used data from their own colour preference tests to redesign the
+look of their Shirleys for their still photography labs. The new reference card look
+for analogue and digital photography, as well as video, was imagery of Japanese
+women with light yellow skin, although for their current television work, they
+also still use the BBC flesh tone card. Here, the Japanese Shirley for TV is
+described in detail by Toru Hasegawa:
+She is a Japanese lady, black hair, wearing a kind of light blue sweater,
+white shirt and the background is a kind of light gray. This picture is
+standard for NHK, Japanese TV stations. Every TV station uses the same
+photo to adjust their cameras. That is why NHK and some of the commercial TV stations appear almost the same. (Toru [Tom] Hasegawa,
+Video Engineer, NHK [Japan Broadcasting Corporation], New York, NY,
+personal communication, May 27, 1996)
+Even though most of NHK’s and Fuji’s current Shirley images have been
+facially ethnicized with the skin tone still remaining on the lighter end of the
+spectrum, the act of changing the cards showed their will to culturalize/indigenize
+their visual standards to match the dominant aesthetic of the widest population
+they serve: the Japanese and Asian markets. Figures 5 and 6 show images of
+Shirley (single and in bride and groom format) which are intended to reflect the
+
+Roth / Looking at Shirley, the Ultimate Norm: Colour Balance
+
+121
+
+ethnic majority and the preferred skin tones in two of the dominant Japanese
+industries of visual representation, that of Fuji Film and Kodak, Japan. These
+have been widely circulating since the mid-nineties in Japan.
+
+Figure 5
+Fuji’s mannequin Shirley
+(Photo credit: Lorna Roth)
+
+Figure 6
+Kodak Japan’s bride and groom card
+(Photo credit: Lorna Roth)
+
+Ongoing international skin colour preference tests conducted by Kodak have
+also generated much data useful in informing Kodak film chemists and “designers” of the skin colour biases preferred in different parts of the world. This information has shaped Kodak’s geography of emulsions, which conform to these
+preferences, rather than to considerations of exact reproduction. The industry
+term used for this business choice is “optimum reproduction” (Winston, 1996).
+For this accommodation, film inventory is batched by region and distributed in
+accordance with these researched preferences. Although there are no explicit
+signs on Kodak’s film boxes of where each target market is located geographically, the film is coded numerically to indicate countries or regions. So, for example, in 1996, several Kodak sources indicated the regional codes to be as follows:
+#1–U.S. & Canada; #2–Latin America, Central America, South America, and
+Mexico; #3–Asia Pacific, China, and Japan (often treated as a separate entity);
+#4–Europe, Middle East, Africa, India.
+Ongoing developments
+Skin-tone rendition was further clarified with Kodak’s VeriColor portrait film
+series, which has continued to expand its range of brown-ness and Black tones.
+VeriColor III, a professional portrait film developed in the early 80s by Richard
+Wien and his team at Kodak Park, was particularly notable for its flexible accommodation of a range of skin colours. Gold Max, a very popular consumer film,
+was also a leap forward in this regard from most previous films on the market: it
+was referred to at Kodak initially as being able “to photograph the details of a
+
+122
+
+Canadian Journal of Communication, Vol 34 (1)
+
+dark horse in low light” (Richard Wien, Executive, Kodak, Rochester, NY, personal communication, August 18, 1995). With my interest in the filming techniques applicable to darker skins, I take this to be a coded message, informing the
+public that this is “the right film for photographing ‘peoples of colour.’”
+Finally, there have been some cultural changes over time to the Shirley norm
+reference cards to make them more inclusive. From the single “Caucasian”
+woman surrounded by the necessary colour balancing information codes,
+Kodak’s Shirley has evolved into an image of three women with different skin
+colours, dressed fashionably in brightly contrasted clothing.
+As seen in Figure 7, the women are
+visibly of “Caucasian,” Asian, and African
+descent, though each of them has a fairly
+light complexion. That being said, the use
+of this multiracial norm reference card by
+some of the major photo-chemical labs is
+concrete recognition that they are invested
+financially and intellectually in addressing
+a multiracial clientele and are no longer
+willing to use trial-and-error techniques on
+a case-by-case basis to find the appropriate
+colour balancing methods for processing
+images of non-“Caucasians.” Some resistance to changing over to the multiracial
+reference is evident in the fact that
+although it was designed in 1995, it still
+sells at a rather high premium, and it took a
+Figure 7
+Kodak’s multiracial Shirley card – few years to become available through
+major photo lab suppliers. Consequently,
+North America (Printed with
+many laboratories have still not switched
+permission of Kodak)
+cards, and it has not yet penetrated the
+global market. Ironically, at about the same time as the multinational film stock
+companies began to recognize the diversity of skin tones within their Shirley
+imagery, it became a lot easier to design one’s own norm reference images digitally, so it is no longer as invaluable a product as it once was.
+Whether the decision to stick with the traditional image in North American
+analogue photo labs is based on financial or sociocultural considerations would
+require more corporate lab research and analysis. This might be important sociocultural research, as it would provide us with a concrete barometer reading as to
+how racially marked issues are being treated in the current daily practices of
+North American photo laboratories.
+How does Shirley fare in the digital media sphere?
+In the digital media sphere of the Internet, there are many Shirley cards circulating. One such digital card, which reinforces the common, almost universal preference for light skin as an international photo standard, is DuPont’s Digital
+WaterProof image of a Black female with a very light complexion who parallels
+the existing “Caucasian” Shirley prototypes. She is seen beside narrow stripes
+
+Roth / Looking at Shirley, the Ultimate Norm: Colour Balance
+
+123
+
+and squares of digital colours, as well as the
+grey scale. Another colour balance image
+(online and in paper form), which initially
+came with Adobe Illustrator’s Photoshop
+software program and is shown in Figure 8,
+is that of a Latin American–looking woman,
+conjuring up memories of Carmen Miranda8
+with a fanned headdress containing a basket
+of exotic fruits, playing what looks like a
+mandolin. She is standing in front of a grey
+background, beside a set of colour bars.
+Adobe has exoticized its Shirley’s fashion
+look. However, though she is Latino in
+appearance, the skin colour of this woman is
+no darker than that of a typical “Caucasian”
+female. Thus, despite the ethnicization of the
+Figure 8
+Adobe “Shirley’s” facial features, the light- Adobe Illustrator’s Shirley card
+ness of complexion attests to the reappear(Printed with permission
+ance and re-privileging of the “look” of
+of Adobe)
+Whiteness as a beauty norm in this “internationally ideal” photo.
+It is important here to recognize the variation of skin tones within each racial
+and ethnic community and the intraracial or intraethnic hierarchy of skin-tone
+preferences from lightness to darkness. Aside from its impact on film manufacturers, the almost universal preference for light and pale skin has motivated discriminatory behaviours. As well, it has been a factor in the production of multiple
+consumer items, such as skin bleach, lighter make-ups, and sun-blocks that contain skin bleach as an essential ingredient in most Asian countries.
+In the last three years, two more complex cards have begun to circulate in the
+digital sector. These expand upon the Kodak multiracial card and offer both concrete recognition of some of the critical issues with which photographers of peoples of colour have struggled and a solution to some of the obstacles they have
+met in the past.
+The first is a colour card in which there is a multiplicity of images, including
+face shots of four young children with varying skin colours (two children are
+“Caucasian,” one is of African descent, the other is Asian). The current source of
+this card is http://www.inkjetart.com/custom. As evident from Figure 9, the
+grouping of various images of brightly coloured objects and colour palettes surrounding the images of the children of different races offers a technical improvement over the existing single- or three-person norm reference cards, as it
+represents a wider range of colour subtleties to which the technician can refer.
+Figure 10, part of the Getty Images Collection, is an excellent example of an
+international reference tool that would have been useful to the Kodak photographer doing graduation photos in the 1950s. It contains several charts and images
+of people of “Caucasian,” Asian, and African descent, as well as a kangaroo and
+a variety of bright-coloured household items. What makes this reference image
+
+124
+
+Canadian Journal of Communication, Vol 34 (1)
+
+distinctive is both its sociocultural inclusivity and its vast skin colour range: it has
+by far the best dynamic range technically of the colour balance photos in circulation that I have researched. Furthermore, it is freely distributed over the Web and
+only requires an informal user agreement with its copyright owner.
+
+Figure 9
+Four-child colour card. This image
+is a rather progressive recognition of
+multiracialism as a global social current. (Printed with permission of
+Dry Creek Photo)
+
+Figure 10
+Image commonly used for calibration
+verification. Located within the Getty
+Collection of photos on the Internet9
+(Printed with permission of
+Dry Creek Photo)
+
+Has the expansion of racial imagery and discourses into the cyber-world confounded questions of race relations as it transposes them from the political to the
+virtually personal, from imagery coded by others to that which can be coded more
+democratically, by all of us? The trend of custom-designing individual Shirleys
+based on the specific needs of the photographer and subjects will no doubt
+expand as computer software for digital image manipulation becomes more
+affordable and popular. This will make a significant difference to independent
+photographers. That said, I would argue strongly that as more skin-tone-range
+choices open up and as colour standards for digital monitors and printing evolve,
+there will likely be little difference in the actual content of skin-tone colour balance cards in the analogue and digital printing sectors. In both cases, despite the
+recognition of ethnic subjects, lighter skins will likely prevail on most of the reference cards for social and normative reasons. Consequently, it is in these sociocultural domains that we need to focus our attention to understand more
+effectively the relationship between social cognition, the technologies we use,
+and the practices that emerge from this linkage.
+As noted above, international preferences for lighter skin tones are well documented in the photo literature and are very central to the research of sociologist
+
+Roth / Looking at Shirley, the Ultimate Norm: Colour Balance
+
+125
+
+Ron Hall (1994), who is responsible for inventing the term “the bleaching syndrome.” As he used it originally, this referred to the internalizing of light skin as
+a dominant cultural criterion of beauty and “as the ideal point of reference for full
+assimilation into American society” (Hall, 1995, p. 172). Since his early case
+studies in 1994, Hall has replicated his research around the world and has concluded that the attraction to lighter skins is almost universal in scope. His research
+results concur with that done by film manufacturers, to which I have already
+alluded, as well as with the famous doll study by Kenneth Clark (1955) that was
+undertaken in the 1940s to assess the psychological effects of segregation on
+Black children. In Clark’s study, Black children were asked to identify the preferred skin colour of their favourite dolls and almost all chose the lighter-skinned
+ones, stating that they were prettier and better, while the Black-skinned dolls were
+considered bad and ugly.
+Cultural reasons for this attitude differ. They include socialization into the
+norm of “lightness as beautiful” through literature, the media, and the dominant
+discourses of Western art and aesthetics; associative links among power, prestige,
+and light skin; historical intraracial discrimination between African-American
+slaves who worked indoors and those who worked the fields and were exposed to
+the sun, with the former having more prestige; beauty products targeted to lighter
+skins, marketed in countries with large populations of Blacks; Asian women’s
+dislike of the sun, motivated by a desire to retain fair and pinkish skin; the capture of a particular cosmetic market based on the strong desire of women to
+change their skin’s look and their willingness to pay the material, physical, and
+psychological costs for investing in a new and lighter embodied aesthetic; and
+consumer acquiescence to marketing techniques of multinational producers of
+“skin lightening” products. Whatever the rationale, the sales profits made for skin
+bleach creams in Africa, Asia, and North and South America attest consistently to
+this dominant aesthetic, despite “Black is beautiful” campaigns that appear to be
+superficially successful.10
+Neither Clark’s nor Hall’s work specifically addresses issues of photo technologies in relation to light skins. It was never their consideration, but in taking
+a distant look at the social field and period (from the mid–twentieth century into
+the twenty-first) in which they were conducting their research, I find that there is
+a strong correlation between the attitudinal spirit of the times and its intimate connection with the development of film emulsions that favoured White skins, lightskinned Shirley card content, and race relations/aesthetics as embedded within
+the images of these anonymous working women.
+Whiteness challenged
+As is apparent from these examples, my empirical case study research confirms
+strongly that in photographic industries of visual representation, a White, gendered reference point has been central to the thinking and decision-making about
+film design and practice. The evidence I have accumulated indicates that how our
+everyday technologies and products function, and what they favour and ignore,
+has been coloured by the reference points, assumptions, and invisible norms of
+the cultural intermediaries involved in their design and marketing, most of whom
+have been “Caucasian” men. This “flesh tone imperialism” (Thierry Le Brun,
+
+126
+
+Canadian Journal of Communication, Vol 34 (1)
+
+Independent Cinematographer and Sociologist, Montreal, November 27, 2006)
+typifies an aspect of the technological unconscious—an apparent lack of awareness of the dominance of Whiteness in the cognitive patterns of those key people
+framing the tools of visual reproduction by decision and design. It informs us significantly of the need to recognize how deeply embedded in our cognitive
+processes the naturalization of Whiteness and sexism remains.
+If resistance to this bias is to be mobilized, and I want to argue that it can be,
+it follows that technologies, products of colour, and designers involved in their
+creation can no longer be configured naively as neutral or innocent. On the other
+hand, I do not want to take a conspiratorial perspective by arguing that designers
+set out deliberately to privilege Whiteness within their image technologies and
+ensemble of photo practices. I prefer to take a more nuanced position by suggesting that technologists involved in the creation of a range of popular media and
+products have likely acquiesced to what Joyce E. King has called “dysconscious
+racism” (King, 2001). This kind of racism “tacitly accepts dominant white norms
+and privileges. Dysconscious racism is not the absence of consciousness (that is,
+not unconsciousness) but an impaired consciousness or distorted way of thinking
+about race as compared to, for example, critical consciousness” (King, 2001,
+p. 295). It is much like an occasional, but passing, consciousness of the subtle
+racial implications embedded in practices, objects, institutions, and policies, and
+it represents “an uncritical habit of mind (including perceptions, attitudes,
+assumptions, and beliefs) that justifies inequity and exploitation by accepting the
+existing order of things as given” (p. 296).
+Dysconsciousness, in relation to race issues, is a semi-consciousness of both
+the overt (open, explicit) and inferential (latent) aspects of racism, although it
+tends to operate more frequently in the context of the latter. By this, I mean that
+it is linked to
+those apparently naturalized representations of events and situations
+relating to race, whether “factual” or “fictional,” which have racist premises and propositions inscribed in them as a set of unquestioned assumptions. These enable racist statements to be formulated without ever
+bringing into awareness the racist predicates on which the statements are
+grounded. (Hall, 1990, p. 13)
+Seen in the context of Hall’s broader notion of ideology, dysconsciousness can
+best be understood “in terms of structures, practices, and discourses and not as simply something which emanates from certain individual human beings” (Hall, 1990,
+p. 7). In other words, it is symbolic of a set of complex, often contradictory, social
+relations and is best not considered as the personal inclinations of an individual,
+though that is where we most often see and hear its manifestation (Hall, 1990).
+The invisibility and the silences about race and racisms in society become
+most apparent when a contrasting presence comes into our consciousness. It is
+then that we realize our blind spots. Hall notes the difficulty of developing a theory and methodology that would teach us to attend not to what people say about
+race, but rather to what we do not say about it (Hall, 1992). I would extend this
+to attend to what is not visibly specified about race, such as the assumption of the
+Whiteness norm and the small shifts being undertaken quietly by corporations to
+
+Roth / Looking at Shirley, the Ultimate Norm: Colour Balance
+
+127
+
+accommodate pressures to become more inclusive in their production processes
+and marketing practices. Although they appear to be insignificant initially, these
+silences and absences inform and frame our knowledge of race relations at this
+stage of history. If a society is driven by representation, as Comolli suggests—
+that is, if the social machine manufactures representations—it also manufactures
+itself from representations, the latter operative at once as means, matter, and condition of sociality (Comolli, 1977, 1986; Comolli & Narboni, 1971a, 1971b). We,
+as subjects, are formed through specific cultural and racial modes of visuality.
+Pieterse (1992) argues that “the single most important feature of representations of otherness is the role they play in establishing and maintaining social
+inequality” (p. 234). If the histories of a variety of skin-tone technologies and products make Pieterse’s point apparent, I believe that this state of affairs is attributable
+largely to the absence of a technical foundation enabling the public development
+and dissemination of multicultural and multiracial images, representations, and
+products. My goal in this paper and in my current book project, Colour Balance:
+Race, Technologies, and “Intelligent Design,” is precisely this: to explore the history and current possibilities for the foundations of a collective, anti-racist common
+sense to guide the (re)design of our technologies and products of colour. In itself,
+this is not enough to provoke deep cognitive change, but as a complement to antiracist institutional and legislative measures in democratic societies, it may stimulate a revision of our existing technological infrastructure and practices. Studying
+and challenging the back-room decision-making processes of technical enterprises
+that establish parity-impeding cultural norms may begin to address some of the
+issues that I am raising here (Fraser, 2000). Further, it may help to “de-institutionalize patterns of cultural value that impede parity of participation and to replace
+them with patterns that foster it” (Fraser, 2000, p. 5).
+Like Fraser, my work “focuses attention on the social arrangements where
+the barriers to participation are located, rather than restricting attention exclusively to the domain of cultural representation” (Fraser, 2000, p. 7).
+Toward a theory of cognitive equity
+It is clear that skin colour continues to matter universally. It matters in identity
+formation; it matters in politics; it matters in the everyday negotiations of institutional and social life. It is my contention that simply acknowledging racial
+minorities through multicultural legislation, policies, and practices is not enough
+to instigate shifts in the sociocultural perceptions of the majority of people. What
+I am talking about here is a way of beginning to undo the psychological damage
+of exclusion (Fanon, 1967) at a very fundamental level and constructing a new or
+alternative set of body skin colour norms to represent images of success, belonging, and inclusivity.
+Conceptually, I would like to introduce the notion of “cognitive equity”—
+that is, a new way of understanding racial equity issues that does not only revolve
+around statistics, legislation, or access to institutions, but rather inscribes directly
+a vision of multicultural and multiracial equity into technologies, products, and
+emergent practices in their usage. This is a concept in progress, which I am
+exploring more deeply by examining the decision discourses around organizational skin colour adjustments, industry policies, and racial minority–initiated
+
+128
+
+Canadian Journal of Communication, Vol 34 (1)
+
+visual decolonization processes. Is there some sense of a drive toward cognitive
+equity that is behind the colour adjustment process, or are corporations engaging
+in the exercise for the sake of appearing to be “politically correct,” as so much of
+the media coverage on these issues tends to focus on? For example, Binney &
+Smith kept sample videos of the media coverage when they launched their People
+Pack/Multination and Multicultural crayon and marker collections in the early
+1990s. Without exception, every media channel raised the notion and framed the
+story as one of political correctness (Eric Zebley, Public Relations Co-ordinator,
+Binney & Smith, Easton, PA, personal communication, June 10, 1996).
+The target of cognitive equity goes beyond political correctness and the
+repair mode of design, which encompasses “fitting or camoflaging” minorities
+into already existing values of Whiteness, such as painting “Caucasion-featured
+mannequins Black or Yellow to symbolically appear “ethnic.” However, unlike
+affirmative action and legislative tools, cognitive equity cannot be measured and
+circumscribed in social science or statistical terms, because it cannot yet make
+comparable claims for social justice.
+Rather, I am conceiving of it as an enabling socialization process that first
+aims to open up narrow and distorted cognitive associations around skin colour
+to close scrutiny. Second, the cognitive equity strategy would broaden and publicly recognize the range and subtleties of all skin colours by normalizing them
+within the context of an anti-racist commonsense knowledge framework reflected
+within technlogies, ordinary products, education curriculum, and the media. I
+would suggest that this important cognitive shift has the potential to establish
+facilitative conditions for the development of a more democratically and chromatically pluralistic society.
+I believe that the potential building blocks of cognitive equity will be located
+in small and subtle changes in our taken-for-granted perceptions and behaviours,
+resulting from an active demand for a wider range of socially imagined possibilities for inclusiveness. In the still photography case study presented here, visually
+distinguishing male and female models with a range of skin tones as a revised
+international norm in the colour balance process might provoke a new way of
+looking at and appreciating the beauty of flesh tone variations. In other words, I
+am arguing that the range of skin tones should become the new international
+norm. At a deeper cognitive level, this change would encourage the ideological
+repositioning of the beauty, power, and privilege linkage that is biased toward
+Whiteness and “Caucasian-ness” to occupy only one space within the continuum
+of many skin colour and ethnocultural norms. The goal of cognitive equity might
+also stimulate our thinking about the (re)design process for technologies and
+products of colour. It could support the creation of an infinite array of visual possibilities for the purposes of identification, self-representation, and participation
+in the production of a “colour balanced” world in which all skin colours could
+matter in more just and equitable terms.
+It is at this foundational, conceptual level that I am focusing my thinking,
+because I believe it is here that we can begin to challenge the vestiges of our neocolonial approach to visual representation and chip away at the remaining resistances to normative, institutional, and economic changes in the social and political
+
+Roth / Looking at Shirley, the Ultimate Norm: Colour Balance
+
+129
+
+apparatus. Legislated principles of equality rights, complemented by cognitive
+equity–based visual tools and products, could act as intelligent, but subtle, interventions in the sociocultural, educational, and economic spheres. Not only could
+cognitive equity–based visual tools support new conditions of possibility, guiding the (re)construction of a more equitable, colour balanced society, but they
+could also claim the defining feature of “quality” as equal to diversity and adaptability. It seems to me that in our current sociocultural and political environment,
+in which diversity discourses are so predominant and in which flexibility of
+thinking is so necessary, the production and marketing of visual tools that could
+provide us with a continuum of norms, and which in themselves promote an equitable vision of racial and ethnic relations, would be a smart strategy of social
+intervention that we cannot afford to bypass at this time.
+Who has taken up (or will take up) this technical and cognitive design challenge in the industries of visual representation?
+The colour adjustment process
+Skin on television
+Skin tone reproduction is not just science. It has to deal with the psychology of how people WANT to look (Jan Van Rooy, Senior video camera
+designer, Philips Electronics (now Thomson), and holder of patent number US 5,428,402 as inventor of automatic skin-tone detection; personal
+communication, September 10, 1997)
+
+Our cameras in this building are made by Ikegami Tushinki, which is a
+Japanese company. They build a camera and they set it at their factory,
+looking at a Japanese person, which arguably has different skin tones
+than a North American “Caucasian” person. RCA builds TK47 here in
+New Jersey, and sets it up looking at “Caucasians.” The people in Japan
+looking at a Japanese person say, “Jeez, this camera looks great.” The
+person in America looking at a North American “Caucasian” says, “This
+camera looks great.” But send them to each other and they are not going
+to look so hot to the other person, because again it is the difference in the
+spectrum, the difference in the light that is being reflected off of the person’s skin. . . . . I suppose the camera has been optimized for a certain
+skin tone. Again, it is not a matter of cultural bias or maliciousness; it is
+just a matter of you set it to what looks good to you and in relation to
+who was sitting in front of the camera at the time it was manufactured
+and preset (Marc Ogden, Video Engineer, CBS, New York, NY; personal
+communication, May 26, 1996)
+The interrelation of lighting, make-up, and video colour balance are three
+critical knowledge factors in television broadcasting. When a Black, an Asian,
+and a White person are shot together in one image, especially if one is wearing
+white or black clothing, again the challenge is to create realistic and pleasing
+images that are appropriately colour balanced. As television content has become
+more racially integrated over the years, technical challenges to old ways of doing
+things have begun to emerge. The BBC’s Flesh-tone Reference Chart, developed
+
+130
+
+Canadian Journal of Communication, Vol 34 (1)
+
+in England as a way of representing good light reflectance for “Caucasian” skin,
+is no longer acceptable as the only tool for colour balancing at networks such as
+Black Entertainment Television or Univision (Hispanic television network in the
+U.S.) when it comes to calibration measurements for African-Americans,
+Hispanics, Asians, indigenous peoples, and those with darker skin colours. It continues to be utilized in North America and Europe, however, because it is considered a technical baseline marker for reflective skin tones and has some
+comparative pertinence to other coloured skins due to the black hair of the
+woman being in extreme contrast to her white skin.
+When I spoke with video engineers at CBS and NBC in New York, I was told
+that the issues around colour balance are purely technical, based on physics, and
+involve the exact colour matching of reflective skins among several studio cameras. My questions about the international standard reference for colour balance
+being a “Caucasian” woman were taken seriously, but responded to with concern
+that I might be leading them to the delicate territory of political correctness,
+where they did not want to go. To them, “physics is physics,” and they have
+learned to manoeuvre the supplementary tools of colour balancing to meet their
+needs. If a Black person’s skin details do not show adequately, special make-up
+or lighting techniques are used to highlight their faces until their images are technically pleasing to the eye. This is not always an easy task.
+What follows is a short anecdote relayed to me by one of Philips’/Thomson’s
+top camera designers, illustrating that reliance on these auxiliary methods of
+colour balancing is not always the best route:
+Without telling stories out of school, I know that when Whoopi Goldberg
+had her talk show, they had Sony BVP-90s and the camera that was on
+her was completely differently adjusted from the camera that was for the
+guest. Because of her skin darkness, it was very difficult for the camera
+to see her correctly, and they had to do all kinds of things to tweak it
+around to make her image look right, but when they put that camera on
+the other person, it looked horrible. I think she is almost at the extreme
+level of darkness of black people. (Greg Pine, Camera Designer and
+Company Philosopher, Philips Electronics, Breda, the Netherlands; personal communication, September 10, 1997)
+Perhaps because they were situated at the margins of North American interests or due to their smaller institutional investment in traditional ways of doing
+things, designers at Philips/Thomson headquartered in Breda, the Netherlands,
+could more easily respond to the evident challenges that the range of skin tones
+was raising for American television practitioners. Here, cutting-edge video electronics specialists were being given the financial and technical resources with
+which to create technologies that would solve problems related to transracial marketing. Greg Pine and Jan Van Rooy had been very conscious of skin colour over
+the years. They are two video camera designers who began working at Philips
+Electronics in the late 80s and were important pioneers in thinking about and
+responding to the challenging issues about which I am writing through the
+redesign of a set of studio cameras (the LDK series) that enabled more sensitive
+consideration of skin colour variations.
+
+Roth / Looking at Shirley, the Ultimate Norm: Colour Balance
+
+131
+
+After becoming familiar with the Clark (1955) research on African-American
+girls’ preferences for dolls with lighter skin-tones, they began to recognize the
+inherent bias in the tools that they were using to represent flesh colours on television. Pine suggested that it might be interesting to develop two skin tone contour controls on a single camera, in respect of the fact that on many news shows,
+there are two anchors with different racial backgrounds. He and Van Rooy set out
+to consider conceptually and practically how they could address these challenges.
+Van Rooy, Senior Video Designer at the time, came up with a prototype camera
+in the early 90s, in which there were two separate memory settings and storage
+areas for skin-tones.
+Without going into the technical specifications of the LDK studio camera
+series, which can be seen on the Web (Thomson Multimedia Broadcast Solutions,
+n.d.), suffice it to say that international minority communities expressed great
+interest in Philips’ cameras and have been using them whenever it is financially
+possible. In particular, Black Entertainment Television and other networks around
+the world where producers and audiences are of mixed races appreciate the advantages this innovative camera with dual contours offers. Not only does the camera
+allow the user to do two colour balance processes within the same frame, it also
+has electronic make-up tools for the two skin tones. Like current versions of
+Photoshop, the LDK series of cameras can erase age lines, wrinkles, and blemishes
+from a variety of skin-tones and is able to provide those being imaged with more
+pleasing and aesthetic views of themselves. Van Rooy holds the patent on the integration of automatic skin-tone-detection technology and won an Emmy for it,
+along with Ikegami, which shared some of its development process in the early
+nineties.11 He looks forward to the
+refinement and expansion of these two
+separate memory settings in the future.
+If I had stopped asking questions
+after my “big network” interviews in
+New York and had not approached
+international camera designers and their
+constituency communities to hear what
+they had to say about colour balancing,
+I would not have learned about the
+Philips solution to the contrast issue,
+Figure 11
+BET’s dependency on their cameras, Japanese television reference image.
+and the skin-tone-detection technology
+(Photo credit: Lorna Roth)
+innovations. My interview with Toru
+Hasegawa was enlightening as well. It was from him that I learned of the yellowskin-colour bias in Japanese television (see Figure 11), both in its balancing calibration preferences and in its pre-set colour temperatures. When televisions are
+made for export, they are pre-set to the preferred colour temperature biases of
+North America and Europe; when they are manufactured for Japanese consumption, they are pre-set to the researched skin-colour tastes of the average Japanese.
+These are important and fascinating ways in which cultural decisions have become
+embedded in technologies that are presented to the public as “neutral.”
+
+132
+
+Canadian Journal of Communication, Vol 34 (1)
+
+What my findings led me to was the deepening of the most important question driving my research about image technology design: is physics just physics,
+after all? And when will the mediation of cultural choices in the process of design
+become more explicitly acceptable on an international scale? Why do we continue to mystify the conception and design of technologies and their ensemble of
+cultural and racial practices around skin colour and the calibration process?
+Concluding reflections: Beyond Shirley
+Within the digital marketplace, Philips/Thomson and Ikegami were the first in the
+industry to risk large sums of investment capital in the recognition of a future
+multiracial market that will very likely expand over time as industrial globalization captures and maintains the norm in business practices. Other camera and
+photo companies have followed suit and are now far more conscious of the need
+for dynamic range in their cameras. The proliferation of multiracial Shirley cards
+by Fuji, Kodak, and other suppliers of photographic apparatus parallel this recognition in their industries’ social field. The dual-skin-contour camera feature,
+which can colour balance two skin tones within the same image, comes closer to
+a technology that would enable cognitive equity than any other that I have seen
+to date. This is more than an incremental step in opening up representational practices to a form of inclusiveness that is designed into the technology itself; it is a
+leap forward, initiated quietly from outside of the mainstream geographies of the
+visual industries. Typically, innovation has come from the margins.
+Beyond the image industries, the multiracialization of other flesh tone
+objects, such as the Crayola crayons’ multicultural collection, the ethnicization
+of the common store mannequin and children’s dolls, the skin colour ranges
+now available in hearing aids and other prosthetics, and the darkening of tonal
+ranges available in the make-up industries, each contribute in their own small
+way to the social and cultural possibilities of achieving cognitive equity sometime in the future. In addition to diversity studies and anti-racist education, public institutional changes based on equality rights legislation, cultural and racial
+inclusiveness within the industries of visual representation and journalism, as
+well as the very recent (2008) sea change in American presidential politics, will
+these technical shifts encourage the development of an unspoken but embedded
+anti-racist common sense and consciousness? There are no guarantees.
+However, in contemplating the words of anthropologist Margaret Visser, “The
+extent to which we take everyday objects for granted is the precise extent to
+which they govern and inform our lives” (Visser, 1986), I would like to suggest
+that the more open we become to new possibilities for racial inclusiveness in
+commonplace objects and technologies, the closer we will likely get to building a next generation whose social and cultural cognitive processes will be multiracial in scope and practice. Acknowledgment and explicit discussion about
+the ethnocultural and racial choices we embed within our technologies, products, and practices will, I hope, serve the purpose of raising our consciousness
+about how important it is to transform the way we think about, engage with, and
+act upon the “historical fixtures of our existence” (Walter Benjamin, as cited in
+Kearney, 1994, p. 153).
+
+Roth / Looking at Shirley, the Ultimate Norm: Colour Balance
+
+133
+
+Acknowledgments
+I would like to thank the following people for their invaluable support for this
+project: Thierry Le Brun for hours of stimulating discussion and feedback; Didier
+Giovannangeli for his critical eye and thoughtfulness in the feedback and editing
+process; Michael Lithgow for his persistence in getting permissions for publication of the photos for this article; and all of the research assistants whose thorough and exploratory research made this work a much richer experience than it
+would have been without them. In particular, these are Carole Leah Dawe,
+Christiana Abraham, Naomi Angel, Ricardo Andres Wicker, and Eloisa Aquino.
+To Richard Wien, Howard Kay, Alex Hoffard, Grant Bailey, and Jaleen Grove, I
+am grateful for your contribution of colour cards to my search for the ultimate
+norm. I would also like to note the valuable and thoughtful feedback I received
+from the anonymous readers to whom this paper was sent for peer review. Finally,
+I would like to acknowledge both Concordia University and SSHRC for their
+generous support of the Colour Balance Project over the years.
+1. The term “Caucasian,” referring to the “White race” and coined in 1795 by Johann Friedrich
+Blumenbach (1752–1840), an influential German scholar at the time, is a contested, troubling,
+and obsolete term of racial classification that is no longer recognized as having scientific validity
+(Painter, 2003). However, in the industries of visual representation, “White” people continue to
+be called “Caucasian.” I apologize in advance to those who might be offended by the name, but
+I am using it to be consistent with the terminology still in active use in the industry. As an
+acknowledgment of the problematic aspect of this word, it (as well as the term non-“Caucasian”)
+is used within quotation marks throughout this paper.
+
+Notes
+
+2. For further information and to view several images of BBC calibration cards, see the following
+URL: http://www.videointerchange.com/color_correction1.htm.
+
+3. There is neither scholarly nor colloquial consensus on the popular meaning of terms like “ethnic,”
+“multicultural,” and “multiracial.” I use them in the following manner: Ethnicity is a category that
+describes people: (a) who share a unique culture and who have undergone a common cultural
+socialization in that mother culture; and (b) who identify with an ancestral group that has shared
+a distinct culture, but who have themselves often been brought up in or moved to another culture
+(Isajiw, 1979). When I refer to multicultural constituency groups, I am pointing to communities
+whose origins are from a broad range of countries, not the one in which they are dwelling currently. They are often considered outsiders or “others” and fall under the rubric of national multicultural policies and legislation targeting integration and inclusiveness within a culture that is
+new to them. Multiracialism is similar to multiculturalism and refers to the factor that community
+members’ skin colours are as diverse as their countries of origin. Multiculturalism policies can
+therefore refer to an ethnically diverse society in which all members have similar skin colours,
+i.e., they appear to pass within the range of “Caucasian” skin tones. Multiracialism policies take
+diverse skin tones into account and make skin tone an apparent category of difference, as in the
+Canadian Broadcasting Act (Canada, 1991), for example.
+4. Please note the complexity of the term “White” when referring to skin colour: it is a social construct. It often denotes a skin colour that can be a darker brown than a light Black skin tone; thus,
+it is important to recognize the breadth of its variation within ethnically and territorially defined
+groups. (Here, I would like to thank one of the peer reviewers for emphasizing this point.)
+
+5. At the time that these innovations and interviews took place, Thomson Multimedia Broadcast
+Solutions headquartered in Breda, the Netherlands, was called Philips. To be respectful of and
+consistent with the historical period in which the design adjustments took place, I am choosing to
+refer to the company by its original name/Thomson, as in Philips/Thomson.
+6. In the latter series of photo cards, the age-old contrast issue is yet again duplicated with the black
+tuxedo against a white shirt and the white wedding gown against a contrasting background.
+7. Kodak and Fuji are being used here as examples. I do not wish to imply that alternative film emulsion companies, such as Ilford and Agfa, among others, did anything differently in this regard.
+
+134
+
+Canadian Journal of Communication, Vol 34 (1)
+
+8. Carmen Miranda (1909–1955) was a Portuguese-born Brazilian singer who became famous for
+performing while wearing a tropical fruit–laden hat. Her iconic image became associated with the
+United Fruit Company and the “Good Neighbor” policy of the U.S. in the 1930s. Images of
+Carmen Miranda can be found on Google Images. http://images.google.ca/images
+?gbv=2&hl=en&q=carmen+miranda&btnG=Search+Images (Viewed on February 27, 2009).
+9. The Getty test image is found on the Web under “printer test images” on the following page:
+http://www.drycreekphoto.com/tools/index.html. You will find it in the JPEG format (3 MB) two
+thirds of the way down the page after you click Color Management Tools and Utilities.
+
+10. The exception to Hall’s findings is in the attraction of some “Caucasians” to the tanning process
+in all of its manifestations, from sun-bathing (despite knowledge of its correlation to skin cancer)
+to the popularity of tanning salons and sprays. There is an abundance of information about this
+phenomenon on the Web.
+11. van Rooy (2004) has stated: “Just for the record: The Emmy for skin tone contours was shared
+between Philips and Ikegami. I am the inventor of automatic skin tone detection (pat nr US
+5,428,402) that was the basis of our Emmy. But the original inventor of skin contours was
+Mr. Hunt of RCA, I think in 1984 (US 4,506,293). Actually he deserves the Emmy for the original idea. We, Ikegami and Philips, got it for the implementation.”
+
+Personal Interviews
+
+Connor, Kathy. (1995, August 16). Executive. Kodak. Rochester, NY.
+Harris, Brian. (1997, July 3). Lighting engineer for Black Entertainment Television.
+Washington, D.C.
+Hasegawa, Toru (Tom). (1996, May 27. Video engineer from NHK, National Broadcasting
+System, Japan. New York City, NY.
+Kage, Earl. (1995, August 21). Former Manager of Kodak Research Studios. Rochester,
+NY.
+Kassoff, Jan (1994, November 20). NBC Cameraman. New York, NY.
+Le Brun, Thierry. (2006, November 27; 2009 January 7). Independent cinematographer
+and sociologist. Montreal, QC.
+Ogden, Marc. (1996, May 26). CBS video engineer. Rochester, NY.
+Pine, Greg. (1997, September 10). Camera designer and company philosopher. Philips
+Electronics (now Thomson). Breda, the Netherlands.
+Rice, Jim. (1995, August 18). Former Technical Sales Representative and Marketing
+Manager of Kodak, and McGee Endowed Professor at Rochester Institute of
+Technology. Rochester, NY.
+Wien, Richard. (1995, August 18). Executive, Kodak. Rochester, NY.
+van Rooy, Jan. (1997, September 10). Senior video camera designer, Philips Electronics
+(now Thomson). Breda, the Netherlands.
+Zebley, Eric. (1996, June 10). Public Relations Co-ordinator at Binney & Smith (makers
+of Crayola products). Easton, PA.
+
+Telephone Interview
+
+Hoffard, Alex. (2006, April 7). Independent Photographer. Hong Kong.
+
+Test-Card Images
+
+BBC test card samples for video color correction. URL: http://www.videointerchange.com
+/color_correction1.htm [January 15, 2009].
+Four-child colour card. URL: http://www.inkjetart.com/custom [January 15, 2009].
+
+Roth / Looking at Shirley, the Ultimate Norm: Colour Balance
+
+135
+
+Dry Creek Getty test image. URL: http://www.drycreekphoto.com/tools/index.html
+[January 15, 2009]. [Getty Images: http://legacycreative.gettyimages.com/en-us
+/marketing/services/Getty_Images_Test_Image.jpg].
+Canada. (1991, June 4). Broadcasting Act, 1991, c. 11, B-9.01.
+Clark, Kenneth. (1955). Prejudice and your child. Boston, MA: Beacon Press.
+Comolli, Jean-Louis. (1977). Technique and ideology: Camera, perspective, depth of field.
+In P. Erens & B. Horrigan (Eds.), Film reader 2 (pp. 128-140). Evanston, IL:
+Northwestern University.
+Comolli, Jean-Louis. (1986). Technique and ideology: Camera, perspective, depth of field
+(Parts 3 & 4). In P. Rosen (Ed.), Narrative, apparatus, ideology: A film theory
+reader (Diana Matias, Trans.), (pp. 421-443). New York, NY: Columbia
+University Press. (Revisions in translation by Marcia Butzel & Philip Rosen)
+Comolli, Jean-Louis, & Narboni, Jean. (1971a). Cinema/ideology/criticism (Susan
+Bennett, Trans.). Screen, 12(1), 27-36.
+Comolli, Jean-Louis, & Narboni, Jean. (1971b). Cinema/ideology/criticism (2) (Susan
+Bennett, Trans.). Screen, 12, 145-155.
+Delgado, Richard, & Stefancic, Jean. (2001). Critical race theory: An introduction. New
+York, NY: New York University Press.
+Dyer, Richard. (1997). White. London: Routledge Press.
+Fanon, Frantz. (1967). Black skin, white masks. New York, NY: Grove Press.
+Fraser, Nancy. (2000, May-June). Rethinking recognition. New Left Review, 3. URL:
+http://www.newleftreview.org/?view=2248 [January 15, 2009].
+Griffin, John Howard. (1962). Black Like Me. New York: A Signet Book
+Hale, Grace Elizabeth. (1998). Making Whiteness: The Culture of Segregation in the
+South, 1890 – 1940. New York: Vintage Books.
+Hall, Ron E. (1994). The bleaching syndrome: Implications of light skin for Hispanic
+American assimilation. Hispanic Journal of Behavioral Sciences, 16(3), 405-418.
+Hall, Ron E. (1995). The bleaching syndrome: African Americans’ response to cultural
+domination vis-à-vis skin color. Journal of Black Studies, 26(2), 172-184.
+Hall, Stuart. (1990). The whites of their eyes: Racist ideologies and the media. In M.
+Alvarado & J. O. Thompson (Eds.), The media reader, (pp. 7 – 23. London, UK:
+British Film Institute.
+Hall, Stuart. (1992). Race, culture, and communications: Looking backward and forward
+at cultural studies. Rethinking MARXISM, 5(1), 10-18.
+Hill, Mike. (Ed.). 1997. Whiteness – A Critical Reader. New York: New York University
+Press.
+hooks, bell. 1989. Talking Back: Thinking Feminist, Thinking Black. 1st ed. Toronto:
+Between the Lines.
+hooks, bell. 1990. Yearning: Race, Class and Cultural Politics. 1st ed. Toronto: Betweenthe-Lines.
+hooks, bell. 1992. Black Looks: Race and Representation. Boston: South End Press.
+hooks, bell. 1996. Reel to Real: Race, Sex, and Class at the Movies. New York: Routledge.
+Isajiw, Wsevolod W. (1979). Definitions of ethnicity. Toronto, ON: The Multicultural
+History Society of Ontario.
+
+References
+
+136
+
+Canadian Journal of Communication, Vol 34 (1)
+
+Kearney, Richard. (1994). Walter Benjamin. In Modern movements in European philosophy: Phenomenology, critical theory, structuralism (pp. 151-168). Manchester,
+UK: Manchester University Press,.
+King, Joyce E. (2001). Dysconscious racism: Ideology, identity, and the miseducation of
+teachers. In E. Cashmore & J. Jennings (Eds.), Racism: Essential readings
+(pp. 295-303). London, UK: Sage Publications.
+Painter, Nell Irvin. (November 7-8, 2003). Why White people are called “Caucasian?”
+Subsection of collective degradation: Slavery and the construction of race. In
+Proceedings of the fifth annual Gilder Lehrman Center international conference at
+Yale University (pp. 1-37). New Haven, CT. URL: http://www.yale.edu/glc/events
+/race/Painter.pdf.
+Pieterse, Jan Nederveen. (1992). White on black: Images of Africa and Blacks in western
+popular culture. New Haven, CT: Yale University Press.
+Roediger, David R. (Ed.). 1998. Black on white: Black writers on what it means to be
+white. New York: Schocken Books.
+Russell, Kathy, Midge Wilson and Ronald Hall. 1992. The colour complex: The politics of
+skin colour among African Americans. New York: Doubleday.
+Thomson Multimedia Broadcast Solutions. (n.d.). LDK 20 television camera series specifications. URL: http://www.thomsongrassvalley.com/docs/Brochures/cameras
+/ldk20/3122-787-33900.pdf [January 15, 2009].
+Vaccari, Franco. (1981). La photographie et l’inconscient technologique. Paris, France:
+Créatis.
+van Rooy, Jan. (2004, May 14). F-900 skin detail adjustment advice [Discussion board
+statement]. URL: http://www.cinematography.net/edited-pages/%5Bcml-hdtv
+%5D%20F-900%20skin%20detail%20adjustment%20advice.htm [January 15,
+2009].
+Visser, Margaret. (1986). Much depends on dinner. Toronto, ON: McClelland & Stewart.
+Winston, Brian. (1985). A whole technology of dyeing: A note on ideology and the apparatus of the chromatic moving image. Daedalus, 114(4), 105-123.
+Winston, Brian. (1996). Technologies of seeing: Photography, cinematography and television. London, UK: British Film Institute (BFI Publishing).
+
+
