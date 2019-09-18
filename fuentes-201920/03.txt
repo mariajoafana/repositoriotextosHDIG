@@ -1,0 +1,853 @@
+Article
+
+Drone Vision
+	  
+
+Daniel Greene
+University of Maryland, US.
+dgreene1@umd.edu
+
+Abstract
+What does the drone want? What does the drone need? Such questions, posed explicitly and implicitly by anthropomorphized
+drones in contemporary popular culture, may seem like distractions from more pressing political and empirical projects addressing
+the Global War on Terror (GWOT). But the artifacts posing these questions offer a different way of viewing contemporary
+surveillance and violence that helps decouple the work of drones from justifications for drone warfare, and reveals the broader
+technological and political network of which drones are the most immediate manifestation. This article explores ‘drone vision’ a
+globally distributed apparatus for finding, researching, fixing and killing targets of the GWOT, and situates dramatizations of it
+within recent new materialist theoretical debates in surveillance and security studies. I model the tactic of ‘seeing like a drone’ in
+order to map the networks that support it. This tactic reveals a disconnect between the materials and discourses of drone vision, a
+disconnect I historicize within a new, imperial visual culture of war distinct from its modernist, disciplinary predecessor. I then
+explore two specific attempts to see like a drone: the drone art of London designer James Bridle and the Tumblr satire Texts from
+Drone. I conclude by returning to drone anthropomorphism as a technique for mapping the apparatus of drone vision, arguing that
+drone meme arises precisely in response to these new subjects of war, as a method to call their diverse, often hidden, materials to
+a public accounting.
+
+Introduction
+The US is conducting a global, targeted-killing campaign using unmanned aerial vehicles (UAVs),
+popularly called ‘drones.’ The Obama administration uses two main justifications for drone warfare: the
+2001 Authorization of Military Force’s (AUMF) global mandate to pursue terrorist threats to the US and
+the situational constraints of pursuing specific targets in isolated regions beyond the control of a state
+government and beyond the reach of manned missions. President Obama (2013), in his first major public
+defense of drone warfare, called them a “precise” tactic “smartly and proportionally” applied, with a lower
+risk of civilian casualties or blowback compared to conventional airstrikes or manned missions. Within
+these new historical conditions, the drone itself has become a pop cultural figure, part of what Brighenti
+(2010) calls the ‘ideoscape’ produced by surveillance systems. The pop cultural figure of the drone,
+especially the explicit anthropomorphization of it, registers the disconnect between the materials of drone
+warfare and the ‘smart war’ discourse justifying it. From the point of view of the drone, rather than the
+view from Washington, it is clear that the materials—the surveillance networks, local allies, data analysis,
+and more—required to direct the drone’s gaze against an enemy of the state rarely come together in the
+precise manner described by the ‘smart war’ discourse—with errors measured in corpses.
+
+Greene, D. 2015. Drone Vision. Surveillance & Society 13(2): 233-249.
+http://www.surveillance-and-society.org | ISSN: 1477-7487
+© The author, 2015 | Licensed to the Surveillance Studies Network under a Creative Commons
+Attribution Non-Commercial No Derivatives license.
+
+Greene: Drone Vision
+
+This is not mere hypocrisy on the part of the humans involved, a messy reality counterposed to bloodless
+press releases. Drone anthropomorphism shows how the materials of what I call ‘drone vision,’ the
+techniques for visualizing and acting on the world specific to drone warfare, produce the ‘smart war’
+discourse justifying them, and rely on it to excuse their violence. This anthropomorphism also helps us see
+the network of less-visible materials—cell phone signals, a global system of US military bases, blurred
+military, intelligence, and contractor roles—on which the drone relies. Starting from the drone and moving
+outward to ask what it needs to do its work and what it wants from that work, as I do below, can show
+how and why 185 soldiers, analysts, and contractors would co-operate across continents to, for example,
+bomb a Waziristani grandmother.
+As Wall and Monahan note, the drone is “a prism for theorizing the technological politics of warfare and
+governance” (2011: 250). The drone sees human life through a calculus of targetability, and its trajectory
+shows GWOT (Global War on Terror) logics expanding into new battlefields (e.g., Somalia, Yemen) and
+zones of governance (e.g., domestic policing). Drone-centric cultural production is then a political
+provocation, a demand to see the world as drones do and ask how and why they do so. This might come in
+the form of the Drones reality show portrayed in Alex Rivera’s Sleep Dealer (2008), Afghani war rugs
+newly fitted with drone silhouettes (NPR 2015), the drone’s eye view in social media performance art like
+Dronestagram, or the internet satire of murder-via-text-message Texts from Drone. Humans can never
+really empathize with a drone, but with the right push we can approximate the work of drone vision and
+the networks that sustain it.
+This pop cultural construct is a reaction to a new way of making war; a new matrix of violence that
+combines the seemingly global expansion of the battlefield with the power of an advanced military to
+narrow its focus to a single person in some of the most remote, impoverished areas of the globe. Some
+critics argue that the pop cultural figure of the drone, and especially the tendency to anthropomorphize the
+drone as a character in a military drama, is in fact a distraction from these new matrices of violence.
+Gregory (2014) writes that, “the critical response to drones is unduly preoccupied with the technical (or
+techno-cultural) object—the drone—and virtually ignores these wider dispositions and propensities”
+(2014: 07). And even some of the artists Gregory critiques agree! James Bridle wants his work, reviewed
+below, to provoke a collective debate about surveillance culture. He hopes that “we can expand this
+conversation to those other areas and not just make it about weird sexy planes” (Bucher 2013). This article
+counters these arguments, showing how seemingly naïve questions about what those weird sexy planes
+want and need expand our political imaginary to grasp the work of these new networks of violence and
+surveillance.
+In what follows, I first define drone vision and situate dramatizations of it within recent new materialist
+theoretical debates in Surveillance Studies and security studies. Then I model the tactic of ‘seeing like a
+drone’ in order to map the networks that support it. This tactic reveals a disconnect between the materials
+and discourses of drone vision, a disconnect I historicize within a new, imperial visual culture of war
+distinct from its modernist, disciplinary predecessor. I then explore two specific attempts to see like a
+drone: the work of London designer James Bridle and the Tumblr satire Texts from Drone. The latter lacks
+Bridle’s polish, but better anthropomorphizes drone vision in order to show the drone’s wants and needs,
+including its reliance on the smart war discourse to produce the target-rich environment in which it
+thrives. I conclude by arguing that drone meme arises precisely in response to these new subjects of war,
+the apparatus of drone vision, as a method to call their diverse, often hidden, materials to a public
+accounting.
+Political and Theoretical Context
+The AUMF was passed by the US Congress three days after the September 11th (9/11) attacks with only a
+single dissenting vote. It empowers the US military to pursue Al-Qaeda, the Taliban, and ‘associated
+
+Surveillance & Society 13(2)
+
+234
+
+Greene: Drone Vision
+
+forces’ wherever they might be in order to defend against future attacks. This is a new development in
+war-making, where the declared enemy is not a bounded nation-state, or even a certain community, but a
+concept: Islamic fundamentalist terrorism (Currier 2013b). This campaign has produced not only a new
+mixing, both culturally and technologically, of military and intelligence roles but a new legal doctrine
+justifying the targeted killing of those suspected of planning a future attack on the US or collaborating
+with such suspects (Krasmann 2012).
+Prior to 9/11, drones were largely employed for surveillance and then only sparingly, so as to not risk
+publicly violating national sovereignty. Early on in the Afghanistan campaign, targeted killings were
+largely still carried out by US black-ops soldiers or local intermediaries. The Bush administration
+gradually ramped up the use of drones in surveillance and, to a lesser degree, attacks on high-value targets
+(Scahill 2013). Especially after the election of President Barack Obama, this workload was shifted to the
+drone. One of the primary appeals of these technologies is their ability to shift from Intelligence,
+Surveillance, and Reconnaissance (ISR) roles to hunter-killer roles as the operation calls for it. This
+flexibility meant that the Obama administration could use the drone to bypass the legal battles and
+international political blowback of the Bush-era black-site interrogation network, focusing anti-terror
+operations on the ‘kill’ portion of the ‘kill, capture, or detain’ tactical playbook (Bromwich 2015). The
+campaign was increasingly viewed through drone vision.
+Drone vision is a globally distributed apparatus for finding, researching, fixing and killing targets of the
+GWOT. It is a technique of control, rather than discipline. Where disciplinary regimes were based on
+enforcing spatial boundaries and managing life within them, control travels with its object, speeding or
+blocking its progress, changing the access codes to pain and pleasure based on the needs of network
+architects (Deleuze 1992). Drone vision, as a particular technique of control, monitors subjects’
+movements and habits, calculating the probability of their becoming a ‘threat’ and tailoring the solution
+based on that probability. Gregory describes this as the “individuation of killing,” where war-making and
+intelligence-gathering become indistinguishable; killing becomes an act of security that requires judging
+each target individually; a specific data-profile is produced of each potential target, even anonymous ones;
+and which “impels the war to go wherever the individual-as-target goes” (2014). It is a probabilistic
+assessment of a given threat and the appropriate response, reliant on a wildly contingent assemblage of
+material actors and a discourse of global policing.
+The artistic responses to this new mode of violence, reviewed below, appear alongside a renaissance of
+new materialist philosophies that, in different ways, argue for the agency of nonhuman materials, their
+effects on human action and thinking, and their distinct ontological statuses. Such theoretical currents
+include Latour’s sociological actor-network theory (1993), the object-oriented ontology school associated
+with figures like Harman (2002) and Bogost (2012), and the process-oriented feminist materialisms of
+Bennett (2009) and Barad (2007). My approach here is largely based on the latter. Bennett’s specific
+method of ‘strategic anthropomorphism’ directly applies to the pop cultural artifacts at hand and her
+general approach of outlining the emergent results of different materials arranged in assemblage allows us
+to see the drone not as an isolated technological marvel but the tip of Empire’s spear, the point at which
+the dispersed materials of the war machine can be seen coming together.
+Much new materialist theorizing argues that materials are not just blank slates for human discourse.
+Rather, discourse is actively bounded and shaped by the very objects it addresses. Aradau (2010) for
+example, draws on Barad to argue that the ‘critical infrastructure’ designation today delimits the space of
+state intervention to those infrastructures circulating international capital, where in earlier regimes the
+designation delimited the built environment of the ‘good society.’ Importantly, these historical shifts are
+partly produced by the changing capacities and locations of the infrastructure in question: an electrical
+network stretching across the EU becomes ‘critical,’ an aging sewer or bridge network does not. In a
+similar vein, I explore how the ‘drone lobby’s’ attempt to produce a discourse of drone vision distinct
+
+Surveillance & Society 13(2)
+
+235
+
+Greene: Drone Vision
+
+from the GWOT is constantly stymied by the stubborn materiality of drone vision. Anthropomorphic
+drone art reveals that the technology is native to a particular form of violence.
+This method of seeing like a drone shows that the GWOT is exactly what a drone wants—they are made
+for each other. But seeing like a drone also shows what the drone needs in order to see and act on the
+world, the wider technological and political network on which it relies. In this way, drones, Walters
+(2014) argues, manifest a specific dingpolitik: their technological affordances call to account not only the
+people affected by them, but the different people, stories, and materials which make a particular drone
+strike possible. This is a public, a space for political debate, assembled by the work of the drone. Walters
+uses Israeli drone strikes in Gaza, and the Human Rights Watch report on their civilian casualties, mainly
+as an example of how security studies might address dingpolitik—especially in settings beyond the
+Latourian laboratory. But his point that the Gazan strikes show the need for a more thorough accounting
+for absent presences in dingpolitik seems especially pertinent to the human and nonhuman participants
+that drone art might call into a public accounting: “[Q]uite often an object will shape public understanding
+and the dynamic of a controversy not by virtue of its immediate presence within the assembly, but through
+its trace, shadow, rumor or phantom” (2014: 112). With this in mind, the anthropomorphic art reviewed
+below would appear not to be, as Gregory argues, a distraction from the broader technological and
+political shifts of individuated war. Rather, they are dispersed attempts to register those shifts and call the
+massive, hidden apparatus powering them to account by means of their most visible representative, the
+clearest signal that something has changed: The drone. How can we see this apparatus at work?
+Mapping Empire
+You can load a washed-out Instagram image of Tappi Village from above via the Dronestagram app
+(Bridle 2012a). No official military rationale has been released for why Momina Bibi, a 67-year-old
+grandmother in North Waziristan, was killed in a field by a US drone missile strike on the eve of Eid alAdha. But by tracing the materials of her death outward, we can begin to see the general orientation of the
+apparatus targeting her.
+The US National Security Agency’s Counter-Terrorism Mission-Aligned Cell regularly intercepts emails
+and cell phone metadata as they are sent, through a combination of remote signal monitoring and direct
+access to telecommunications infrastructure. The disposition of this global surveillance network is
+visualized through the BOUNDLESSINFORMANT ‘heat map’—with the Federally Administrated Tribal
+Areas of Pakistan a priority target (Greenwald and MacAskill 2013). This cloud-based analysis software,
+and other NSA surveillance programs, requires massive amounts of processing power and storage
+capacity, and so enormous server farms are built in rural Utah, with a demand for electricity equivalent to
+that of 65,000 homes (Berkes 2013). This global apparatus perhaps tracked a target’s cell phone into
+Bibi’s house, where she might have prepared a meal for some young men who lived in the area, or into her
+garden, where someone took a call before driving away. But a threat was identified in the pattern of
+contacts and a team of at least 59 operators cooperate to launch a pair of drones—either from a military
+base installed in Afghanistan after the 2001 invasion, or a CIA base in Pakistan taken up once Al Qaeda
+fled from Afghanistan into Waziristan (Scahill and Greenwald 2014; Gregory 2011b). A Ku-band satellite
+link connects the drone to receivers in Rammstein Air Force base in Germany, and from there underwater
+fiber optics branch out to other points in the network.
+The drones are likely gray MQ-1 Predators; 27-feet-long with 47-foot wingspans, weighing a little over
+two tons, propellers powered by an Austrian-built Rotax engine, allowing them to reach a cruising altitude
+of 15,000 feet for up to 14 hours. It takes about 23 weeks for General Atomics to fabricate a Predator in
+San Diego. They are piloted remotely, by a team of 43 joystick navigators and support staff in Nevada
+who may have been watching the area for days, getting to know the village by video feed. After the
+mission the pilots will leave the base and perhaps go to the grocery store or their daughter’s soccer
+
+Surveillance & Society 13(2)
+
+236
+
+Greene: Drone Vision
+
+practice. They report levels of stress disorders as high as those flying over warzones in the flesh (Dao
+2013). Another group of 83, distributed between a CENTCOM base at Al Udeied Air Base in Qatar and
+an analysis center in the US, pore over the video feeds, satellite imagery and other surveillance data
+assembled around the target and advise the pilots as they move (Gregory 2011a).
+Bibi’s grandson Zubair had noticed drones in the sky days prior (Devereaux 2013), perhaps recognizing
+their silhouette or the low buzz that leads anxious locals to call them machar—mosquitos (Hussain 2013).
+When one of the three onboard cameras streaming video reaches the target area, a judge advocate general
+validates the target and the commander on duty issues the order to fire. Calipers release one of two 100pound AGM-114 ‘fire and forget’ Hellfire missiles from beneath a wing. The solid-fuel missile engine
+kicks in with a burst of flame. One 18-pound metal-core warhead strikes Bibi’s body directly and
+explodes. Two more follow. Shrapnel flies outward, striking Zubair and his sister Nabeela. Some cows
+and goats intended for an Eid sacrifice are also killed. The drones circle above and return home. The blast
+area is scrutinized in Qatar and the US and a strike report filed in Nevada. Over the next week, anonymous
+Pakistani military officials will be quoted in the press saying four militants were killed (Devereaux 2013).
+And so an assemblage built of satellites, cables, newspapers, secrets, servers, deserts, spies, cell phones,
+lawyers, and missiles comes together just-so at the point of the drone, leaving a dead grandmother in its
+wake. At present, 116 people have pressed the Javascript-enabled heart icon on Instagram to ‘like’ the
+image—fewer than the global team required to carry out the strike.
+Rules for Drones
+Former presidential counter-terrorism advisor, and current Director of the CIA, John Brennan was one of
+the first US officials to publicly defend the use of drones for targeted killings. His defense rested not just
+on international law, or the ethics of ‘just war’ reasoning, but the ‘wise’ choice of employing the drone.
+The weapon itself is not only a symbol of a smart approach to war, but something making war smarter:
+“It’s this surgical precision, the ability, with laser-like focus, to eliminate the cancerous tumor called an alQaida terrorist while limiting damage to the tissue around it, that makes this counterterrorism tool so
+essential” (2012). In reality, this apparatus relies on a series of contingent material relations that must
+come together just-so in order for a strike to to occur. Even then, strikes regularly fail to hit any target or
+strike the ‘wrong’ target—like Momina Bibi. By looking at the carnage from the perspective of the drone,
+we can begin to tease out the relations between the ‘smart war’ discourse and actual materialization of
+drone vision above Bibi’s garden. The disconnect is excused and maintained by a GWOT discourse that is
+both universal in its mandate and precise in its application.
+In 2008, Barack Obama campaigned against the imperial excesses of the Bush administration (Welch and
+Mooney 2008). Once in power, this pragmatism manifested not as a retreat from the GWOT but a shift in
+tactics. The previous administration’s secretive kill-or-capture campaign, reliant on black site prisons and
+torture tactics decried by human rights activists, was largely replaced by a targeted killing campaign in
+which drones were the chief weapon.1 In Pakistan alone, the CIA under the Bush administration launched
+51 drone strikes between 2004 and 2009 (Bureau of Investigative Journalism 2011), while the CIA under
+the Obama administration launched 339 such strikes between 2009 and 2014 (Bureau of Investigative
+Journalism 2014). Part of the appeal of drone warfare is the degree to which the decision to kill is made by
+the president or his senior advisors in the CIA and JSOC. This centralization was one of the chief legacies
+of Brennan’s tenure as counter-terrorism advisor. In 2012, frightened by the prospect of a Romney
+presidency which might not exercise the same degree of control—control which, it should be noted, has
+1
+Currier (2013a) writes, “Administration officials have said in speeches that militants are targeted for killing when they pose an
+imminent threat to the U.S. and capture isn’t feasible. But killing appears to be far more common than capture, and accounts of
+strikes don’t generally shed light on ‘imminent’ or ‘feasible.’ Cases involving secret, overseas captures under Obama show the
+political and diplomatic quandaries in deciding how and where a suspect could be picked up.”
+
+Surveillance & Society 13(2)
+
+237
+
+Greene: Drone Vision
+
+led to the death of between 168 and 200 children in Pakistan alone—the administration codified its
+targeted killing policy into a ‘disposition matrix,’ a database dictating who could be killed, where, when,
+by what, and by whose authority (Miller 2012).
+While the discourse supporting the targeted killing campaign relies on a universal justice system precisely
+targeting clear threats, its material practice looks much like the ‘disposition matrix’ guiding it: contingent
+on local political agreements, the availability of different weapons and the capacity to launch and recover
+them, and degrees of guilt that vary from an identified operational leader to a target assumed to be
+involved in a terrorist network based on their social network, emails, and schedule (Miller 2012).
+Individuated and adaptive in operation.
+That contingency is justified by an administrative logic that assures guilt after the fact—all military-age
+male casualties are classified in military documents as terrorist collaborators even if they weren’t intended
+targets (Elliot 2012). These deaths are viewed through the irreproachable logic of drone vision: guilty
+criminals, cleansed by precision fire. Even while the materials of this logic are radically contingent and
+notoriously faulty, as the child casualties suggest.
+Maps for Empire
+Hardt and Negri’s theory of Empire, the global form of power which succeeds the disciplinary state
+through networks of technological control, has been criticized for its Euro-centric focus on knowledge
+workers and Western legal forms (e.g., Ong 2006: 1-30). Even if imperial rule is not as global or
+consistent as Hardt and Negri argue, drone warfare would still appear to be a clear concretization of
+actually-existing Empire. But importantly, theory here does not match practice: a discourse of seamless
+global policing only ever functions through hasty political negotiations, overzealous surveillance
+networks, and glitchy weapons.
+Drone vision succeeds previous modes of state vision which forced complex local customs or landscapes
+to fit a standard grid that supported centralized industrial planning. In Seeing Like a State (1998), Scott
+groups these diverse forms of state planning under the label of “authoritarian high modernism”: forcing
+the complex reality of the territory into a shape that fit the gridded map. It generally failed; the
+paradigmatic example being neat rows of mono-cropped trees optimized for timber production dying after
+a generation, bereft of the ecological diversity that helps a forest thrive.
+This state vision strives for fixity and inevitably fails, because it cannot account for what Scott calls metis,
+the practical, local knowledge that grows from experience and exceeds the rigid social experiments of
+authoritarian high modernism. The practice of imperial sovereignty, of which drone vision could be
+considered one concrete manifestation, is different. Rather than administering, say, a colonial outpost as a
+dysfunctional social unit whose different people, streets, and crops must be fitted to a grid, imperial
+sovereignty manages difference, modulating its approach in response to changing conditions ‘on the
+ground’ (Hardt and Negri 2009: 199-200). The drone, for example, plays a variety of roles within its ISR
+charge, shifting from surveillance to ‘kinetic’ operations in minutes depending on the intelligence
+gathered on the ground and analyzed a continent or two away.
+Errors inevitably arise from such quick, pragmatic shifts, errors measured in bodies like Bibi’s. Obama
+expresses regret that these errors have occurred but holds that everything is done to prevent them, that a
+rigorous set of checks and balances are in place in a campaign where “doing nothing is not an option.”
+Such checks and balances—the network of analysis and judicial review explored earlier—are framed not
+as a limit on imperial power, but the justification for its global mandate. “America does not take strikes to
+punish individuals; we act against terrorists who pose a continuing and imminent threat to the American
+people, and when there are no other governments capable of effectively addressing the threat,” Obama
+
+Surveillance & Society 13(2)
+
+238
+
+Greene: Drone Vision
+
+says (2013). The precision practice of drone vision, at least according to the discourse justifying it, is
+exactly what allows it to operate anywhere, anytime. A global network of individuated violence is the only
+thing that can practically determine the difference between ‘individual’ and ‘terrorist,’ a difference that is
+not static but continually changing in response to new data and new strategic demands.
+The drone itself is the tip of Empire’s spear. And it can be made to tell a story about what it wants from
+the world and what it needs to get that, different from what Obama or Brennan or its manufacturers say
+they want and need, and, I would argue, a truer representation of Empire’s means and ends. This is what
+the naïve, pop-cultural anthropomorphization of the drone strives for as a political tactic. But it does not
+always succeed.
+Seeing Like a Drone
+James Bridle is a London-based designer and a leading figure in the New Aesthetic movement, whose
+artists focus on contemporary disjunctures between human and machine vision. His traveling exhibit, ‘A
+Quiet Disposition,’ displayed several pieces dramatizing drone vision.
+Dronestagram: The Drone’s Eye View is Bridle’s best-known work. It collects satellite imagery of dronestrike locations and labels them with information from The Bureau of Investigative Journalism about the
+killing, inserting austere images of desert landscapes and body count figures into the smooth flow of
+Instagram’s photo-sharing social media feed. Bridle’s sees drone vision as a product of “the technology
+that was supposed to bring us closer together [now] used to obscure and obfuscate” and wants to take “the
+names of places most of us will never see” and make them “a little bit more visible, a little closer. A little
+more real” (Bridle 2012b).
+
+Figure 1
+
+Figure 1 is a good example: an explanation for an otherwise unremarkable aerial view, and a visualization
+of North Waziristan for Western audiences who are assumed to imagine the GWOT occurring in a vague
+
+Surveillance & Society 13(2)
+
+239
+
+Greene: Drone Vision
+
+‘over there.’ It is a detached image, bloodless and schematic, that performs imperial surveillance in order
+to make visible imperial violence.
+The bare details beg to be filled in by a narrative-minded viewer: why Mosaki? What relation does that
+place have with the previous image from a Waziri bazaar or the next image from the Yemeni mountains?
+Writers such as Maly (2013) have tried to answer these questions, assembling the stories of families,
+tribes, kill orders, bases, and treaties into a narrative converging at the site of the strike. The carefully
+selected and cropped images often center on strong lines—roads, airstrips, fields—that lead into and out of
+the frame, giving the sense of a wandering eye caught in transit, just as drone targets so often are.
+Bridle aims for empathy with those targeted by drone strikes but Dronestagram is too sterile to humanize.
+It pictures violence not at the level of bloody aftermath but from the view of the drone itself, tracking a
+target-rich landscape before missiles are loosed. If any empathy is produced it is with the work of drone
+vision.
+Demonstrating the perspective of the watcher to the watched is a fairly common trope in anti-surveillance
+art. Raul Gshrey’s (2010) work is emblematic in this regard. His composite mask of the ‘typical
+Frankfurter’ allows people to see and wear the results of facial-recognition software and to refuse
+identification by the same, while his “(re)action spaces” mark out the views and blindspots of local CCTV
+cameras. Bridle’s attempts at awareness-raising are similar, and they mark the goals of his project as being
+specifically anti-surveillance, rather than anti-war.
+Where Dronestagram dramatizes a drone’s-eye-view in order to build the narrative that makes that view
+possible, Bridle’s Watching the Watchers (2013) turns drone vision back on its own apparatus. Watching
+the Watchers (fig. 2) features satellite imagery of drone bases, including drones taking off, landing, and,
+rarely, being cared for by actual humans. Again, the images are well-composed with strong through-lines,
+in neutral grays and browns. Like atomic microscope imagery of dust or microchips, these pictures can
+pass as inoffensive coffee-shop art if passers-by don’t pause to ask what exactly is being pictured and
+why.
+
+Figure 2
+
+This bloodlessness contrasts with traditional exposés of the war machine in action used to shock and
+appall, such as the Haeberle photos of the My Lai massacre. There is not even a hint of the destructive
+power the drones might wield. Instead we see drones at home. Viewed from the same visual scale as the
+drone’s-eye-view in Dronestagram, the images become a family photo album of imperial infrastructure,
+with pictures of relatives in Nevada, Djibouti, and Afghanistan. Sometimes bigger, older siblings—
+bombers and jets—share the space.
+Like any family album, the details of Watching the Watchers—where the drones are going, what goes on
+in each building—are only known to a select few and, bereft of those details, the images remain strikingly
+banal. On the other hand, the title hints at the global victory of imperial networks: no one is outside the
+
+Surveillance & Society 13(2)
+
+240
+
+Greene: Drone Vision
+
+view of Empire, even its weapons. The same GPS and satellite imaging technologies developed for
+imperial wars can also be their mirror. The clean composition and strong through-lines shows that the
+images are carefully selected and cropped, but the scale and scope promises a vision more powerful and
+penetrating than any one human could offer—this becomes especially clear in the images which stare
+through pixellated clouds or down on to military bases in Yemen to which few civilians could hope to
+gain entry.
+Dronestagram and Watching the Watchers are both promises that drone vision cannot outpace the
+practices which enable it in the first place. They take the discourse of drone vision—its world-spanning
+capacity to track and fix threats—at its word and turn that discourse against itself: only a drone’s eye view
+can police the drones, the watchers must be watched by the watchdogs they built. That discourse is not
+challenged, only hacked for a brief moment and turned against itself. Reassurances over the infallibility of
+drone vision are the reassurances of Empire—to find and strike with unerring precision. Indeed, when US
+Ambassador Anne Patterson first began to protest the US military’s strikes into sovereign Pakistan,
+Special Ops “commandos brought her a Predator console so she could witness a raid in real time” (Priest
+and Arkin 2011). Empathy with that console, not its targets, is what Dronestagram and Watching the
+Watchers produces in the hopes of subversion.
+Bridle’s stated goal is to make visible the otherwise invisible. The (presumably Western, gallery-going)
+public’s complicity in or inurement to the world-spanning surveillance is the major point of critique—not
+the death visited on the ground. His “weird sexy planes” comment marks the drone as secondary to ‘the
+issues.’ But those “weird sexy planes” are already very real for those who live under threat of a missile
+strike depending on the company the keep. Drones are ‘absent,’ ‘invisible,’ ‘unmanned’ only within the
+press release announcing the attack, not in the carrying-out of the attack and certainly not for its targets. It
+is clear that Bridle is focused more on the idea of technology then the work of technology. He says this
+work is important because “Stuff that would have been entirely secret previously, now exists as objects in
+the world” (Bucher 2013). Secret for whom?
+Bridle mistakes the discourse of drone vision, the story of seamless, imperial visual supremacy, for its
+operation. The violence remains ‘over there,’ the GWOT remains a ‘smart war.’ But the pervasion and
+precision of drone vision’s discourse does not match its material practice: all the many things which must
+fit together in a just-so assemblage in order for a strike to happen, let alone for it to succeed. Beyond the
+treaties, surveillance, and commands which must come together in order for a drone to operate in a given
+country, the machines themselves are spectacularly fallible. Drones crash, often: more than any other
+aircraft in the US military’s arsenal and at triple the rate of the fleet-wide average (McGarry 2012). Over
+400 US drones have crashed since 2001, with operators behind two crashes telling “investigators that their
+respective planes had been ‘possessed’ and plagued by ‘demons’” (Whitlock 2014). Iranian military
+engineers reported reconfiguring a US drone’s GPS coordinates so that it landed in Iran when it thought it
+was in Afghanistan (Peterson and Faramarzi 2011. A drone flying in Somalia can have its flight disrupted
+by a cat rustling through the servers of Creech Air Force Base in Nevada (Weinberger 2010).
+So-called ‘signature strikes,’ which may make up the majority of drone strikes, identify targets based on
+patterns of behavior and do not require intelligence on the target’s identity or whether they are connected
+with Al Qaeda affiliates (Miller 2013). Signatures include being a military-aged male who has had contact
+with suspected terrorists, or attended large gatherings in surveilled areas. Attempts to make up for a
+botched first strike have ended up killing emergency medical personnel and other rescuers in so-called
+‘double taps’ (Currier 2013a: “Everything We Know”).
+A former JSOC planner speaking to reporter Jeremy Scahill about a strike that failed to kill Anwar alAwlaki with ten or eleven missiles said that with this “top down imagery...You can’t see shit. You’re
+looking down at ants moving. All they saw were vehicles and the people in the vehicles were smart”
+
+Surveillance & Society 13(2)
+
+241
+
+Greene: Drone Vision
+
+(Scahill 2013: 455). The Bureau of Investigative Journalism, using both US and local sources, estimates
+that between 446 and 1,049 civilians have been killed in drone strikes in Yemen, Pakistan, and Somalia—
+countries with which the US is not in a declared war.
+‘Drone vision’ is of course more than just the view seen from one Reaper’s cameras, it is the entire
+apparatus supporting that viewpoint and acting through it. That apparatus fails regularly, but these failures
+in practice are justified by the global policing discourse of the AUMF. This is why lawyers are present at
+every stage of the process: if discourse and action were perfectly symmetrical, then the justice of any
+specific killing would be guaranteed in advance. Instead, as Krasmann (2012) notes, a new legal discourse
+must be produced to justify the process.
+If the drone is the spearhead of Empire, it is important to separate the ideal vision of that design from its
+contingent materiality. The practice of drone vision bears little resemblance to how US special forces
+describe the drone apparatus: “Kill TV” (Flynn et al. 2008), “The Unblinking Eye,” “persistent stare
+capability” (Newsweek 2008). That practice is ridden with glitches, errors, and twitchy pilots; the
+consequences for which are measured in corpses. Bridle’s art makes a spectacle of “The Unblinking Eye”
+in a promise that machine vision can match machine vision and master it, but glosses over the frequent
+failure of the assemblage to come together in the desired fashion: the drone’s on-board cameras, the GPS
+network, surveillance of the target area, military treaties, different targeting rationales for different
+military and intelligence forces, and all the vagaries of weather which might aid or disrupt a strike.
+God Tricks and Vision Metaphors
+Despite Dronestagram’s, and the US military’s, promise to the contrary, there is no way to occupy the
+drone’s eye view. To try to do so is to embrace the discourse of drone vision, rather than the work of it.
+Science fiction author and critic Bruce Sterling argues that the New Aesthetic avoids this work, hunting
+for provocative examples of an encroaching machine-readable reality instead of grappling with the
+experience of living in one. Sterling says of the New Aesthetic’s repeated interest in algorithmicallygenerated camouflage:
+Dazzle camouflage has nothing to do with “machine vision.” Machines are incapable
+of a state of mind like “dazzle.” Camou is all about human vision. Glitches and
+corruption artifacts aren’t “machine vision,” either. Those are the failures of machine
+processing, and failures of machine displays built for human vision.
+(2012)
+The New Aesthetic, he argues, hunts for mythic nonhuman others to display as evidence of an invasion
+that isn’t actually happening. It does not actually generate an aesthetic, but poses digital artifacts as
+producing one.
+Sterling is skeptical of any attempt to identify with the perspective of machines, labeling the New
+Aesthetic an act of wishful projection. But this critique, an aesthetic parallel to Derek Gregory’s political
+one above, forecloses the sort of playful art which might wear the mask of the machine, wink knowingly
+from beneath it, and act out a role in order to reveal a perspective or a set of actions that might otherwise
+go unnoticed—a nonhuman melodrama. Anthropomorphism need not be an illusion that makes machines
+speak on human terms and obscures how things actually work. It can be, in Bennett’s framing, a
+deliberately naïve methodology of ‘strategic anthropomorphism’ that might “render manifest” the swirl of
+nonhuman activity which we might otherwise miss—trash that is ‘out of sight out of mind,’ a war that is at
+once over here and ‘over there’ (Bennett 2009: 17).
+
+Surveillance & Society 13(2)
+
+242
+
+Greene: Drone Vision
+
+We strategically anthropomorphize all the time. ‘If these walls could talk’ gestures not towards a potential
+conversation with paint but towards the value gained from understanding human life on a different time
+scale, or towards the sort of intimate violence enabled by an architectural and legal assemblage called
+‘privacy.’ Dramatizing the life of a drone, or any nonhuman, need not be a power fantasy echoing the
+discourse of visual supremacy that justifies Empire. Bennett writes, “Maybe it is worth running the risks
+associated with anthropomorphizing (superstition, the divination of nature, romanticism) because it, oddly
+enough, works against anthropocentrism: a chord is struck between person and thing, and I am no longer
+above or outside a nonhuman ‘environment’” (Bennett 2009: 120). Taking this risk allows us to ask what
+the drone wants from the world and what it needs to get it, and thus trace the shape of the war machine
+which moves the drone into place and distinguish that movement from official narratives of it.
+Sterling is right to critique Bridle and The New Aesthetic more broadly for approaching the machine as
+myth instead of as a machine; but there is great aesthetic and political potential in anthropomorphizing the
+drone to expose it not as a tool or as a sentient threat but as an actor in the assemblage called The Global
+War on Terror. By lending the drone personality, by playing up its contingent drone-ness, we can see that
+just as the drone serves Empire, so does Empire serve the drone—producing it by the hundreds, giving it a
+reason to be and space to roam.
+DONTSAYDRONES
+As Western media increasingly focused on the civilian casualties from US drone strikes, science fiction
+writer Adam Rothstein wrote “There is no such thing as drones. They’re a meme” (2013). He argued that
+while Predators, Reapers, Global Hawks, Dragon Eyes, and other UAVs with specific equipment, tasks,
+and routines circulate throughout the US military, the generic ‘drone’ is a mythic figure of autonomous
+death robots floating somewhere overhead. The goal of drone fiction is to force the science fictional into
+the actual by joining the drone meme to the specific work of UAVs, to make the drone war visceral for
+those who haven’t seen the bodies or touched the consoles. He cites a drone-centric portion of Teju Cole’s
+‘small fates’ Twitter poetry as an example: “Call me Ishmael. I was a young man of military age. I was
+immolated at my wedding. My parents are inconsolable” (2013).
+Drone fiction keeps drones strange, against attempts by Obama and others to normalize them, while
+bringing that strangeness down to Earth. This is not work that the drone lobby wants done. The word
+‘drone’ appears nowhere in the Mission & Main Goals of the US Congress’ “Unmanned Systems Caucus”
+(2014). At the industry’s 2013 trade show, Michael Toscano, president and CEO of the Association of
+Unmanned Vehicle Systems International (AUVSI), told a reporter:
+We don’t call them drones...When most people hear the word ‘drone,’ you think military,
+you think hostile, you think large and you think autonomous. There’s a total
+misconception. And every time the media uses it, you’re not portraying good
+information.
+Even the trade show’s Wi-Fi password was “DONTSAYDRONES” (Stangler 2013). The drone lobby’s
+rationale for killing the meme is first that an unmanned system is an entire apparatus, not just the machine
+in the air; second, that ‘drone’ connotes an unthinking insect lacking the precision offered by their
+products;2 and third that there is an enormous civilian market for unarmed unmanned systems. Despite
+this, aviation industry analysts at The Teal Group (2013) and IBIS (McBee 2012) estimate that national
+armed forces will still be the industry’s primary customers over the next ten years, owing largely to the
+prohibitive cost of manufacture and the industry’s reliance on defense contracts, and that the US military
+will continue to control the vast majority of the world’s drones. The drone meme persists alongside the
+2
+
+Many thanks to my second anonymous reviewer for this valuable point.
+
+Surveillance & Society 13(2)
+
+243
+
+Greene: Drone Vision
+
+technology’s persistent militarization. The drone lobby resists ‘drone’ while working to provide exactly
+what the drone needs to continue its work—not just manufacture and lobbying, but training pilots and
+analysts, as well as directly staffing missions. As Air Force vice chief of staff General Phillip Breedlove
+notes, “Our No. 1 manning problem in the Air Force is manning our unmanned platforms.” This practice
+rose to public view after the killing of 15 Afghan civilians in a 2010 drone strike, partly due to an SAIC
+contractor misidentifying them as hostile insurgents (Cloud 2011).
+The fiction that best captures these machines as actors in the assemblage of Empire, as drones and not
+UAVs, is the Texts from Drone tumblog (Bucci and Aheram 2012). Begun as an anti-imperialist satire of
+the viral meme Texts From Hillary, which had Secretary of State Hillary Clinton running global
+diplomacy through no-nonsense text messages, most Texts From Drone posts (fig. 3) feature a quick,
+facetious text message from a human (usually Obama or Clinton) to ‘D-Ron,’ who responds in a juvenile
+combination of Web slang, hip-hop lyrics, and violent glee. Others (fig. 4) feature drone strike targets,
+including teenage drone victim Abdulrahman Al-Awlaki asking “Why’d you kill my dad?,” texting in fear
+or frustration and receiving tone-deaf responses like “Lol you betta hide son ur next.” Hosting on Tumblr
+allows readers to submit their own versions of the meme, a democratizing practice in line with other antisurveillance art which asks its audience to help trace the contours of an apparatus which no human can
+map alone (e.g., Brighenti 2010). As a satire of Texts from Hillary, the message is clear: both the
+welcoming face of US liberalism and the sterner side of its realpolitik rely on a targeted killing regime
+with global reach and few restrictions. But this basic point could be made by any political cartoon. The
+real power of Texts From Drone is the degree to which D-Ron himself is made an actor in the work of
+Empire, rather than a mute instrument of its policy. He celebrates, without any pretense of military
+gravitas or regret over mistaken targets, his role as global police.
+
+Figure 3 (left) and Figure 4 (right)
+
+Texts From Drone emphasizes the independence of the drone from those picking its targets. When Obama
+texts D-Ron, “yo i gotta be the smiley face for empire can u handle this,” D-Ron responds “HYFR” (Hell
+Yeah Fuckin’ Right). Here the drone is an ally, not an instrument. D-Ron has his own goals, his own
+motivations, his own language distinct from that of Obama. They are not reducible to each other. The
+Surveillance & Society 13(2)
+
+244
+
+Greene: Drone Vision
+
+visual repetition of target or politician texting the same Reaper on the runway3 stresses at once the
+consistent cooperation between heads of state and weapons of state and their different ways of seeing the
+world and acting in it. Texts from Drone’s strategic anthropomorphism both extends the realm of what we
+might consider to be the politics of the executive branch (i.e., managing war every day, instead of only in
+moments of crisis) and highlights the special role of the drone in it.
+By emphasizing how these different actors relate in the GWOT assemblage, these blunt visuals recognize
+that the ‘smart war’ doctrine through which Obama justifies targeted killings is distinct from but related to
+the very material way drone makers, and D-Ron himself, insert themselves into the conflict. Where the
+former is sanitized, as far as Western diplomats and media accounts are concerned, and unerringly
+accurate in their precise, global pursuit of the ‘bad guys,’ the latter is messy, local, and often somewhat
+autonomous from the stated goals of anti-Al Qaeda operations.4 Toscano’s industry would not be booming
+unless much of the world presented a target-rich environment for their products. His sector’s success relies
+on a mismatch between the materials of war and the discourse justifying it. If the work of the GWOT
+perfectly matched the discourse of drone vision—the infallible precision of the ‘Unblinking Eye’—then its
+slate of targets posing an immediate threat, and thus the need for drones to find and kill them, would be
+much more limited.
+Texts From Drone is at once absurd in its anthropomorphism and deadly serious in its concern for drone
+targets. Its point is not that humans have gone astray in delegating surveillance and warfare to
+conscienceless automatons. Indeed, one of the surprising results of drone vision is that pilots and analysts
+feel an immediate, visceral contact with ground troops and so end up seeing threats where there were none
+(Gregory 2011a). The Reaper itself cannot feel, nor can it choose targets on its own or pull the trigger on
+its own. No one believes that drones send emoticon-filled text messages. Rather, by momentarily lending
+the drone this juvenile humanity, we see that it has been designed and deployed to thrive in a particular set
+of political conditions where boots on the ground are more of a diplomatic risk then bombs in the sky,
+where intelligence gathering is a military action and vice versa, and where armaments need to be flexible
+enough to track lone targets for days.
+Toscano and the AUVSI frame their industry’s activity as responding to subjective consumer demand and
+elide their role in creating the political conditions which D-Ron and his friends need to thrive. This
+includes lobbying for more military appropriations, for a wider share of domestic airspace, and for an
+increased role in policing the US-Mexico border (Barry 2013). This is exactly what D-Ron wants and so
+something like D-Ron is the last thing the drone industry wants to see: not an instrument that can be
+slotted into any potential use but an autonomous weapon produced from and producing in turn the GWOT.
+D-Ron frequently eyes new spaces to work: whether bombing Iran, or policing American protestors.
+These posts lack the gruesome images others include, but their proximity to them anticipates Finn and
+Wright’s (2012) argument that expanding the scope of drone vision into border security or domestic
+policing is not a neutral transfer of technology between domains. The weight of drones’ attention
+overwhelmingly falls on ‘the usual suspects’ (e.g., racial minorities, poor migrants, anti-state protestors),
+no matter where they find themselves. Technology transfer is always also cultural transfer. The visual
+habits of individuated targeting and judgment carry over even when drones are re-tasked to humanitarian
+efforts; another market where the drone lobby sees strong growth potential (Sandvik and Lohne 2014).
+
+3
+
+Originally taken by photographer Brian William Jones at Creech Air Force Base in Nevada, February 2008
+http://prometheus.med.utah.edu/~bwjones/2008/02/creech-afb-uav-operations/.
+4
+In Somalia for example, the drone campaign began only after a series of violent, failed US alliances with local militias and the
+Ethiopian army in an attempt to dislodge the Islamic Courts Union from power. That patchwork alliance of conservative religious
+groups had restored some measure of order to the capital Mogadishu after years of sectarian combat, and even re-opened the
+international airport. The fundamentalist terrorist group al-Shabaab, now linked with al-Qaeda, formed during the Ethiopian
+invasion as moderates fled the country. See Scahill (2013) and also Wa Ngugi (2013).
+
+Surveillance & Society 13(2)
+
+245
+
+Greene: Drone Vision
+
+The tumblog’s news images and drone portraits do precisely what Rothstein asked drone fiction to do and
+what Bridle’s work cannot: make visceral the science fictional, show that there is really blood on the
+drone and not just the hands of the pilot. Despite the news articles and body counts tagged to
+Dronestagram images, the distance between its visual supremacy and life on the ground is too great to
+bridge, repeating Obama’s ‘smart war’ discourse. By leaving the discourse in place and refusing to play
+with the drone itself, its very droneness, Bridle cannot make the drone anything but, as Rothstein writes,
+“an archetype of uncanny and deadly technology” (2013). D-Ron, however, is not an archetype, no
+“weird, sexy plane.” His fiction is deliberately disingenuous, a tactical exaggeration of something very
+real.
+The AUVSI and the Congressional Unmanned Systems Caucus—which D-Ron calls his “big fat
+caucus”—are now the clearest examples of the drone being made to speak in public, as a precision system
+friendly to multiple territories and uses. D-Ron offers an antagonistic alternative, revealing his ongoing
+role as Empire’s spear, the point at which Presidents, lobbyists, surveillance networks, and pilot come
+together to strike at weddings, road trips, and gardens.
+Conclusion: New Subjects of War
+A horizontal perspective on agency, where humans are not permanently, ontologically prior to or above
+nonhumans, does not name drones or Presidents as independent agents. Texts from Drone strategically
+anthropomorphizes; it deliberately dramatizes and overstates the case against smart war cleanly managed
+and justified by the war-makers. By showing what the drone wants and needs, it calls to account the lessvisible pieces of the imperial apparatus supporting it: arms manufacturers, pork-barrel politics, extradition
+treaties, disposition matrices, etc. Technical and political mediation no longer precedes anonymously but
+in visible alliances borne of the historical moment. Given Toscano’s hard-line stance against the word
+‘drone,’ it would seem the AUVSI already sees this sort of strategic anthropomorphism as a threat. Human
+rights activists such as Code Pink have already begun emphasizing these networks that cohere at the point
+of the drone. As part of the 2013 National Anti-Drone Day of Action, they flew a toy drone over the home
+of General Atomics’ CEO Neal Blue. The police confiscated it, calling it a threat to public safety
+(Ungerleieder 2013).
+But while industry lobbyists overstate the role unmanned aerial vehicles may play in near-future nonmilitary settings, they do have a point in arguing that the meme ‘drone’ is a specific political-technological
+assemblage bigger than any single Predator or Reaper. A strategically anthropomorphized critique of
+drone vision, like Texts from Drone, focuses not on the drone or the person making the kill list, but the
+new subject, that assemblage of drone vision, that emerges at their intersection. This is the approach
+Latour takes in deconstructing the contradictory slogans of ‘guns kill people’ and ‘people kill people, not
+guns’:
+You are different with a gun in hand; the gun is different with you holding it. You are
+another subject because you hold the gun; the gun is another object because it has
+entered into a relationship with you. The gun is no longer the gun-in-the-armory or the
+gun-in-the-drawer or the gun-in-the-pocket, but the gun-in-your-hand, aimed at
+someone who is screaming. What is true of the subject, of the gunman, is as true of the
+object, of the gun that is held. A good citizen becomes a criminal, a bad guy becomes a
+worse guy; a silent gun becomes a fired gun, a new gun becomes a used gun, a sporting
+gun becomes a weapon.
+(Latour 1994)
+Texts from Drone’s critique, then, is less ‘people don’t kill people, drones kill people’ than ‘this is the
+drone we get in the world we have and this is the work it does.’ The drone base, positioned in states weak
+
+Surveillance & Society 13(2)
+
+246
+
+Greene: Drone Vision
+
+enough for the United States to claim independent land but not so weak that they don’t mind drones
+falling out of the sky,5 may look like, or build on, Cold War proxy garrisons but have a different set of
+capacities and a directives—exemplified by the drone itself. The drone president fighting Terror may look
+and sound like the atomic president fighting Communism, with a series of shifting alliances dedicated to
+one Manichean goal, but would Obama’s micromanagement of the drone ‘playbook,’ of who lives and
+who dies at the other end of a Hellfire missile in Waziristan, have been possible in the Reagan era? This
+particular materialist approach changes the political tactics and ethical concerns addressed to surveillance
+systems, the parties and tools called to public account. It pushes, for example, a normative theory of
+surveillance modeled on the just war tradition (Macnish 2014), to ask how technologies of surveillance
+affect who is surveilling whom, why, and where; and what unintended consequences resulting from new
+materials introduced into the process.
+The drone vision dramatized in Dronestagram or Texts From Drone is a new development from the
+‘authoritarian high modernism’ which ordered its territories into neat rows. This imperial lens is built of
+control technologies—flexible, variegated, and responsive. Mapping this apparatus means identifying the
+many actors cooperating and competing in it. It means understanding the drone as drone, and not just a
+tool armed and aimed by Empire. This does not absolve humans to place responsibility on some sentient,
+independent machine. As Bennett (2009: 101) notes, a focus on distributed agency has as its goal not
+“identifying objects to blame” or their competing intentions, but, rather, “responding to harms” and
+drawing wider maps of consequences. Focusing on the work of the drone itself allows us to separate the
+materials of the GWOT from its stated intentions. Asking, naïvely, what the drone wants from that work
+and what it needs to do that work, reveals the broader apparatus that exercises drone vision, with broader
+consequences for civil liberties, national sovereignty, and human rights that expand outwards from the
+specific violence of the drone strike. The proliferation of anthropomorphic drone art registers this epochal
+shift in surveillance and violence through its most visible representative. Like other surveillance art, work
+like Bridle’s and Texts From Drone “provide[s] new vocabulary or even symbols...which inspire people to
+rethink positions and to come up with their own strategy” (Gürses et al. 2010: 172). Naive attempts to see
+like a drone can, of course, never fully succeed, but they can and should provoke new empirical and
+political habits of thought that redraw our maps of contemporary violence and surveillance.
+Acknowledgments
+Many thanks to Paul Jaeger for his guidance with early research, and to Jason Farman and Daniel Joseph for their feedback on
+later drafts.
+
+References
+Aradau, Claudia. 2010. “Security That Matters: Critical Infrastructure and Objects of Protection.” Security Dialogue 41 (5): 491514
+Barad, Karen. 2007. Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Durham,
+NC: Duke University Press.
+Barry, Tom. 2013. “The Political Economy of Drones: Drone Boosterism Trumps Oversight in Congress.” Counterpunch, May
+01. Accessed February 10, 2015: http://www.counterpunch.org/2013/05/01/the-political-economy-ofdrones/?utm_source=rss&utm_medium=rss&utm_campaign=the-political-economy-of-drones
+Bennett, Jane. 2009. Vibrant Matter: A Political Ecology of Things. Durham, NC: Duke University Press.
+Berkes, Howard. 2013. “Amid Data Controversy, NSA Builds Its Biggest Data Farm.” National Public Radio, March 10.
+Accessed August 5, 2014 http://www.npr.org/2013/06/10/190160772/amid-data-controversy-nsa-builds-its-biggestdata-farm
+Bogost, Ian. 2012. Alien Phenomenology, or, What It's Like to be a Thing. Minneapolis, MN: University of Minnesota Press.
+Brennan, John O. 2012. “The Efficacy and Ethics of US Counterterrorism Strategy.” Remarks delivered at the Wilson Center,
+April 30. Accessed February 10: http://www.wilsoncenter.org/event/the-efficacy-and-ethics-us-counterterrorismstrategy
+Bridle, James. 2012a. Dronestagram: Tappi Village, Pakistan. http://instagram.com/p/RLXTZIrB6s/.
+5
+
+Lemmonier Air Force Base in Djibouti, for example, is a staging area for much of the Air Force’s air strikes in East Africa and
+the Arabian Peninsula but the takeoff area is also a commercial airstrip. The US was recently forced to move its drone fleet “to a
+makeshift airstrip in a more remote part of the country” after a string of recent crashes (Whitlock and Miller 2013).
+
+Surveillance & Society 13(2)
+
+247
+
+Greene: Drone Vision
+
+Bridle, James. 2012b. “Dronestagram: The Drone's Eye View.” BookTwo, November 8. Accessed on January 14, 2014:
+http://booktwo.org/notebook/dronestagram-drones-eye-view/.
+Bridle, James. 2013. “Watching the Watchers.” Short Term Memory Loss. Accessed January 14, 2014:
+http://shorttermmemoryloss.com/portfolio/project/watching-the-watchers/.
+Brighenti, Andrea Mubi. 2010. “Artveillance: At the Crossroads of Art and Surveillance.” Surveillance & Society 7(2): 175-186.
+Bromwich, David. 2015. “Working the Dark Side.” London Review of Books 31(1): 15-16.
+Bucci, Anthony and Jayel Aheram. 2012. “Texts from Drone.” Accessed January 14, 2013:
+http://textsfrompredatordrone.tumblr.com/.
+Bucher, Taina. 2013. “Machine Vision: James Bridle on Drones, Bots, and the New Aesthetic.” Furtherfield, October 16.
+Accessed January 14, 2014: http://www.furtherfield.org/features/interviews/machine-visions-james-bridle-drones-botsand-new-aesthetic.
+The Bureau of Investigative Journalism. 2011. “The Bush Years: Pakistan Strikes 2004-2009”, Get the Data: Drone Wars, August
+10. Accessed March 14, 2014: http://www.thebureauinvestigates.com/2011/08/10/the-bush-years-2004-2009/.
+The Bureau of Investigative Journalism. 2014. “Casualty Estimates,” Get the Data: Drone Wars,
+http://www.thebureauinvestigates.com/category/projects/drones/drones-graphs/ Accessed August 6, 2014:
+http://www.thebureauinvestigates.com/2011/08/10/the-bush-years-2004-2009/.
+Cloud, David S. 2011. “Civilian Contractors Playing Key Roles in US Drone Operations.” Los Angeles Times, December 29.
+Accessed February 10, 2014: http://articles.latimes.com/2011/dec/29/world/la-fg-drones-civilians-20111230.
+Cole, Teju. 2013. “Seven Short Stories About Drones,” The New Inquiry, January 14. Accessed January 30, 2013:
+http://thenewinquiry.com/blogs/dtake/seven-short-stories-about-drones/.
+Congressional Unmanned Systems Caucus. 2014. “Mission and Main Goals.” Accessed January 14, 2014:
+http://unmannedsystemscaucus.mckeon.house.gov/about/purpose-mission-goals.shtml.
+Currier, Cora. 2013a. “Everything We Know So Far About Drone Strikes.” ProPublica, February 5. accessed August 20, 2014:
+http://www.propublica.org/article/everything-we-know-so-far-about-drone-strikes.
+Currier, Cora. 2013b. “Who Are We At War With? That’s Classified” ProPublica, July 26. Accessed July 1 2014
+http://www.propublica.org/article/who-are-we-at-war-with-thats-classified.
+Dao, James. 2013. “Drone Pilots are Found To Get Stress Disorders Much As Those in Combat Do.” The New York Times,
+February 22. Accessed August 1 2014 http://www.nytimes.com/2013/02/23/us/drone-pilots-found-to-get-stressdisorders-much-as-those-in-combat-do.html?_r=0.
+Deleuze, Gilles. 1992. “Postscript on the Societies of Control.” October: 3-7.
+Devereaux, Ryan. 2013. “Family of Grandmother Killed in US Drone Strike Arrive For Congress Visit.” The Guardian, October
+27. Accessed May 20, 2015: http://www.theguardian.com/world/2013/oct/27/drones-attack-pakistan-family-rehmancongress.
+Elliot, Justin. 2012. “Dissecting Obama's Standards on Drone Deaths.” ProPublica, June 5. Accessed August 1, 2014:
+http://www.propublica.org/article/dissecting-obamas-standard-on-drone-strike-deaths.
+Finn, Rachel L. and David Wright. 2012. “Unmanned Aircraft Systems: Surveillance, Ethics, and Privacy in Civil Applications.”
+Computer Law & Security Review 28 (2): 184-194
+Flynn, Michael, Rich Juergens, and Thomas Cantrell. 2008. “Employing ISR SOF Best Practices.” Joint Forces Quarterly 50: 5661.
+Gürses, Seda, Manu Luksch and Michelle Teran. 2010. “Trialogue on Interventions in Surveillance Space: Seda Gürses in
+conversation with Michelle Teran and Manu Luksch.” Surveillance & Society 7(2): 165-174.
+Greenwald, Glenn and Ewen MacAskill. 2013. “Boundless Informant: the NSA’s secret tool to track global surveillance data.”
+The Guardian, June 11. Accessed August 1 2014: http://www.theguardian.com/world/2013/jun/08/nsa-boundlessinformant-global-datamining.
+Gregory, Derek. 2011a. “From a View to Kill: Drones and Late Modern War.” Theory, Culture & Society 28 (7-8): 188-215.
+Gregory, Derek. 2011b. “The Everywhere War.” The Geographical Journal 177 (3): 238-250.
+Gregory, Derek. 2014. “Drone Geographies.” Radical Philosophy 183: 7-19.
+Gshrey, Raul. 2010. “Contemporary Closed Circuits – Subversive Dialogues: Artistic Strategies against Surveillance.”
+Surveillance & Society 7(2): 144-164.
+Harman, Graham. 2002. Tool-being: Heidegger and the Metaphysics of Objects. Peru, IL: Open Court Publishing.
+Hardt, Michael and Antonio Negri. 2009. Empire. Cambridge, MA: Harvard University Press.
+Hussain, Nasser. 2013. “The Sound of Terror: Phenomenology of a Drone Strike.” The Boston Review, October 16. Accessed July
+30, 2014: http://www.bostonreview.net/world/hussain-drone-phenomenology.
+Krasmann, Susanne. 2012. “Targeted Killing and Its Law: On a Mutually Constitutive Relationship.” Leiden Journal of
+International Law 25: 665-682.
+Latour, Bruno. 1993. We Have Never Been Modern. Translated by Catherine Porter. Cambridge, MA: Harvard University Press.
+Latour, Bruno. 1994. “On Technical Mediation.” Common Knowledge 3(2): 29-64.
+Macnish, Kevin. 2014. “Just Surveillance: Towards a Normative Theory of Surveillance.” Surveillance & Society 12(1): 142-153.
+Maly, Tim. 2013. “OB298: A Preliminary Atlas of a Drone Strike Landscapes.” Quiet Babylon. Accessed July 30, 2014:
+http://quietbabylon.com/2013/ob298-a-preliminary-atlas-of-drone-strike-landscapes-2/.
+McBee, Josh. 2012. :IBISWorld Industry Report OD4424: Unmanned Aerial Vehicle (UAV) Manufacturing in the US.”
+IBISWorld.
+
+Surveillance & Society 13(2)
+
+248
+
+Greene: Drone Vision
+
+McGarry, Brendan. 2012. “Drones Most Accident-Prone U.S. Air Force Craft: BGOV Barometer.” Bloomberg News, June 18.
+Accessed January 14, 2014: http://www.businessweek.com/news/2012-06-18/drones-most-accident-prone-u-dot-s-dotair-force-craft-bgov-barometer.
+Miller, Greg. 2012. “Plan For Hunting Terrorists Signals U.S. Intends to Keep Adding Names to Kill Lists,” The Washington
+Post, October 23. Accessed May 20, 2015: http://www.washingtonpost.com/world/national-security/plan-for-huntingterrorists-signals-us-intends-to-keep-adding-names-to-kill-lists/2012/10/23/4789b2ae-18b3-11e2-a55c39408fbe6a4b_story.html.
+Miller, Greg. 2013. “Lawmakers Propose Giving Federal Judges Role in Drone Strikes, But Hurdles Await.” The Washington
+Post, February 8. Accessed May 20, 2015: http://www.washingtonpost.com/world/national-security/proposal-to-givefederal-judges-a-role-in-drone-strikes-faces-hurdles/2013/02/08/66f53508-721a-11e2-8b8d-e0b59a1b8e2a_story.html.
+Newsweek Staff. 2008. “Military UAVs: Up in the Sky, An Unblinking Eye.” Newsweek. May 31. Accessed August 1, 2013:
+http://www.newsweek.com/military-uavs-sky-unblinking-eye-89463.
+NPR Staff. 2015. “‘War Rugs’ Reflect Afghanistan's Long History with Conflict,’ All Things Considered February 07. Accessed
+February 10: http://www.npr.org/2015/02/07/384576113/war-rugs-reflect-afghanistans-long-history-with-conflict.
+Obama, Barack. 2013. Remarks by the President at the National Defense University. White House Office of the Press Secretary,
+May 23.
+Ong, Aihwa. 2006. Neoliberalism as Exception: Mutations in Citizenship and Sovereignty. Durham, NC: Duke University Press.
+Peterson, Scott and Payam Faramarzi. 2011. “Exclusive: Iran hijacked US drone, says Iranian engineer.” The Christian Science
+Monitor, December 15. Accessed September 9, 2013: http://www.csmonitor.com/World/MiddleEast/2011/1215/Exclusive-Iran-hijacked-US-drone-says-Iranian-engineer-Video
+Priest, Dana and William Arkin. 2011. “‘Top Secret America’: A Look At The Military's Joint Special Operations Command.”
+The Washington Post, September 2. Accessed May 20, 2015: http://www.washingtonpost.com/world/nationalsecurity/top-secret-america-a-look-at-the-militarys-joint-special-operationscommand/2011/08/30/gIQAvYuAxJ_story.html.
+Rothstein, Adam. 2013. “How to Write Drone Fiction.” The State, January 20. Accessed January 30, 2013:
+http://www.thestate.ae/how-to-write-drone-fiction/.
+Sandvik, Kristin Bergtora and Kjersti Lohne. 2014. “The Rise of the Humanitarian Drone: Giving Content to an Emerging
+Concept.” Millenium 43 (1): 145-164.
+Scahill, Jeremy. 2013. Dirty Wars: The World is a Battlefield. New York: Nation Books.
+Scahill, Jeremy and Glenn Greenwald. 2014. “The NSA’s Secret Role in the US Assassination Program.” The Intercept, February
+10. Accessed August 1, 2014: https://firstlook.org/theintercept/article/2014/02/10/the-nsas-secret-role/.
+Scott, James C. 1998. Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed. New Haven, CT:
+Yale University Press.
+Stangler, Cole. 2013. “The Drone Boom.” In These Times, August 16. Accessed August 17 2013:
+http://inthesetimes.com/article/15476/the_drone_boom/.
+Sterling, Bruce. 2012. “An Essay on the New Aesthetic.” Wired, April 2. Accessed May 7 2012:
+http://www.wired.com/beyond_the_beyond/2012/04/an-essay-on-the-new-aesthetic/.
+The Teal Group. 2013. “The Teal Group Predicts Worldwide UAV Market Will Total $89 Billion in Its 2013 UAV Market
+Profile and Forecast.” Press Release, June 17. Accessed August 17, 2013: http://tealgroup.com/index.php/about-tealgroup-corporation/press-releases/94-2013-uav-press-release.
+Ungerleieder, Neal. 2013. “CODEPINK To Fly Drone Over Predator Manufacturer's Mansion.” Fast Company, April 5. Accessed
+January 14, 2014: http://www.fastcompany.com/3007952/fast-feed/codepink-fly-drone-over-predator-manufacturersmansion.
+Wall, Tyler and Torin Monahan. 2011. “Surveillance and Violence from Afar: The politics of Drones and Liminal SecurityScapes.” Theoretical Criminology 15 (3): 239-254.
+Walters, Williams. 2014. “Drone Strikes, Dingpolitik, and Beyond: Furthering the Debate on Materiality and Security.” Security
+Dialoguge 45 (2): 101-118.
+Wa Ngugi, Mukoma. 2013. “How Al-Shabaab was Born.” The Guardian, October 4. Accessed May 20, 2015:
+http://www.theguardian.com/world/2013/oct/04/kenya-westgate-mall-attacks.
+Weinberger, Sharon. 2010. “In Cat Vs. Drone, Cat Wins.” AOL News. Accessed September 7 2013:
+http://www.aolnews.com/world/article/in-cat-vs-drone-cat-wins/19450090.
+Welch, Alex and Chris Mooney. 2008. “McCain, Obama in Heated Exchange Over Iraq.” CNN, February 28. Accessed March 14,
+2014: http://www.cnn.com/2008/POLITICS/02/27/mccain.obama.iraq/.
+Whitlock, Craig. 2014. “When Drones Fall From the Sky.” The Washington Post, June 20.
+http://www.aolnews.com/world/article/in-cat-vs-drone-cat-wins/19450090.
+Whitlock, Craig and Greg Miller. 2013. “U.S. Moves Drone Fleet From Camp Lemonnier to Ease Djibouti’s Safety Concerns.”
+The Washington Post, September 24. Accessed May 20, 2015: http://www.washingtonpost.com/world/nationalsecurity/drone-safety-concerns-force-us-to-move-large-fleet-from-camp-lemonnier-in-djibouti/2013/09/24/955518c4213c-11e3-a03d-abbedc3a047c_story.html.
+
+Surveillance & Society 13(2)
+
+249
+
+

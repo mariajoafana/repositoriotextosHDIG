@@ -1,0 +1,1067 @@
+Human-Computer Insurrection
+
+arXiv:1908.06167v1 [cs.CY] 10 Aug 2019
+
+Notes on an Anarchist HCI
+Os Keyes∗
+University of Washington
+Seattle, WA, USA
+okeyes@uw.edu
+
+Josephine Hoy∗
+University of Washington
+Seattle, WA, USA
+joeyhoy@uw.edu
+
+Margaret Drouhard∗
+University of Washington
+Seattle, WA, USA
+mdrouhard@acm.org
+
+ABSTRACT
+2019), May 4–9, 2019, Glasgow, Scotland, UK. ACM, New York, NY,
+USA, 13 pages. https://doi.org/10.1145/3290605.3300569
+The HCI community has worked to expand and improve our
+consideration of the societal implications of our work and
+1 INTRODUCTION
+our corresponding responsibilities. Despite this increased
+engagement, HCI continues to lack an explicitly articulated
+"You are ultimately—consciously or unconpolitic, which we argue re-inscribes and ampliﬁes systemic
+sciously—salesmen for a delusive ballet in
+oppression. In this paper, we set out an explicit political vithe ideas of democracy, equal opportunity
+sion of an HCI grounded in emancipatory autonomy—an anand free enterprise among people who haven’t
+archist HCI, aimed at dismantling all oppressive systems by
+the possibility of proﬁting from these." [74]
+mandating suspicion of and a reckoning with imbalanced
+The last few decades have seen HCI take a turn to examdistributions of power. We outline some of the principles
+ine the societal implications of our work: who is included
+and accountability mechanisms that constitute an anarchist
+[10, 68, 71, 79], what values it promotes or embodies [56, 57,
+HCI. We oﬀer a potential framework for radically reorient129], and how we respond (or do not) to social shifts [93].
+ing the ﬁeld towards creating preﬁgurative counterpower—systems
+While this is politically-motivated work, HCI has tended to
+and spaces that exemplify the world we wish to see, as we
+avoid making our politics explicit [15, 89]. The result has
+go about building the revolution in increment.
+not been the absence of a politic, but an "implicit neoliberalism" [41, 47].
+CCS CONCEPTS
+In this paper, we oﬀer an explicitly political HCI—an an• Human-centered computing → HCI design and evalarchist HCI —that reorients the ﬁeld around the central prinuation methods; HCI theory, concepts and models; •
+ciples of autonomy and the justiﬁcation or elimination of
+Social and professional topics → Political speech; Culpower, with the aim of eliminating oppression. We explore
+tural characteristics; Race and ethnicity; Gender;
+the consequences that such a reorientation would have for
+our ﬁeld’s norms in relation to the wider systems of the
+KEYWORDS
+world and the communities in which we engage. Finally, we
+anarchism; anti-capitalism; autonomy; power; intersectionpresent some mechanisms to move the ﬁeld forward and
+ality; oppression; social change; preﬁgurative politics; dehold ourselves and each other accountable for the impacts
+sign; theory
+of our work.
+ACM Reference Format:
+Os Keyes, Josephine Hoy, and Margaret Drouhard. 2019. HumanComputer Insurrection: Notes on an Anarchist HCI. In CHI Conference on Human Factors in Computing Systems Proceedings (CHI
+∗ All authors contributed equally to this work and consider it a collective
+creation. Intellectual property is theft.
+
+Permission to make digital or hard copies of part or all of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for proﬁt or commercial advantage and that copies
+bear this notice and the full citation on the ﬁrst page. Copyrights for thirdparty components of this work must be honored. For all other uses, contact
+the owner/author(s).
+CHI 2019, May 4–9, 2019, Glasgow, Scotland, UK
+© 2019 Copyright held by the owner/author(s).
+ACM ISBN 978-1-4503-5970-2/19/05.
+https://doi.org/10.1145/3290605.3300569
+
+2 CRITICAL WORK IN HCI
+"A critical technical practice will, at least
+for the foreseeable future, require a split identity – one foot planted in the craft work of
+design and the other foot planted in the reﬂexive work of critique. Successfully spanning these borderlands...will require [work
+to] support the exploration of alternative work
+practices that will inevitably seem strange
+to insiders and outsiders alike. This strangeness will not always be comfortable, but it
+will be productive nonetheless, both in the
+esoteric terms of the technical ﬁeld itself and
+in the esoteric terms by which we ultimately
+
+of design models (hackathons, IDEO, etc.) may limit consideration around design culture by enforcing the idea of the
+design process as the “producer of certain kinds of designAs part of the "third wave" of HCI, our ﬁeld is engaged
+ers: creative, self-suﬃcient individuals” [120]. Not only do
+in an ongoing "turn to the social", described by Rogers as
+these conceptions of design challenge popular narratives of
+an increasing consideration of the social implications of our
+the types of artifacts design should produce; they also call
+work [118]. The depth of our engagement with this has been
+into question the way the methods and pedagogy of design
+limited by our position: HCI straddles both the academy
+have been bounded. Irani’s work on IDEO’s "design think(which frequently shies away from explicitly political poing" model notes how it "articulates a racialized understandsitions [23]) and industry (often driven by principles and
+ing of labor, judgment, and the subject and attempts to mainpractices that contraindicate positive social change [135]).
+tain whiteness at the apex of global hierarchies of labor" [77].
+One potential path through these problems is a critical apLuiza Prado de O. Martins presents a related critique, femiproach to HCI: using theories that feature social, ethical and
+nist speculative design, calling out the risk inherent in claimcultural considerations, along with mechanisms to critique
+ing an “apolitical” position, namely, contributing to the stainteraction designs and expose their consequences [118]. Bardzell tus quo of hierarchies and oppressions, and she cites the
+and Bardzell present such an approach in an overview of
+particular classism, elitism, and racism that have been prophumanistic HCI, which they deﬁne as "any HCI research or
+agated through speculative and critical design (SCD). As an
+practice that deploys humanistic epistemologies...and method- alternative, Prado proposes approaching SCD from an inologies (e.g., critical analysis of designs, processes, and imtersectional feminist lens in order to explicitly critique and
+plementations; historical genealogies; conceptual analysis;
+challenge oppressive power structures [100].
+emancipatory criticism) in service of HCI processes, theoThere are myriad other movements: queer HCI [92], postries, methods, agenda setting, and practices" [16]. Referenccapitalist HCI [47], and anti-oppressive design [136], each
+ing Marxist, feminist, postcolonial and psychoanalytic methproviding their own critiques of HCI’s dominant "technochauods of analysis, the Bardzells include within humanistic HCI
+vinism" [29] and neoliberal ideology. This critical scholaran "emancipatory HCI", one which is "oriented toward exship has sometimes resulted in practical applications and
+posing and eradicating one or more forms of bondage and
+tools, including Dimond’s work on "Hollaback!" (and "femoppression, including structural racism, poverty, sexual reinist HCI for real") [39, 40], Alsheikh et al.’s exploration of
+pression, colonialism, and other forces/eﬀects of the hegepostcolonial technology contexts [9], and Fox and Le Danmonic status quo" [15]. This work draws from components
+tec’s “Community Historians” project [51].
+of Shaowen Bardzell’s earlier work on feminist HCI, in parAlong with many activists on the ground, these researchers
+ticular her original conceptualisations of "pluralism, particiand others have applied their respective critical lenses to
+pation, advocacy, ecology, embodiment, and self-disclosure" [17]. nurture, support, and hold themselves accountable to the
+Another approach, postcolonial HCI, is exempliﬁed by the
+communities in which they live and work. Nevertheless, as
+works of Lilly Irani [78]. Postcolonial HCI considers and dewith most HCI scholarship, the politics in almost all of these
+constructs how colonialism’s cultural legacy appears and
+critical works are implicit rather than directly explicated.
+persists in computing after the termination of colonialism’s
+Allowing our political stances to remain unspoken has
+formal structures [111]. In contrast to HCI’s traditional foconstrained our ability to question and challenge the consecus on "ubiquitous" methods, theories and technologies [7,
+quences of the work we put into the world. Further, this si42], postcolonial HCI includes critiques of the way actions
+lence creates stumbling blocks for critique and accountabiltaken to help the "developing" world often follow the path of
+ity mechanisms. We argue it is imperative that members of
+capital and private interests. Additionally, it explicitly and
+the HCI community articulate the respective political founactively concerns itself with power relations [78]. In condations of their work, explicitly addressing (a) what state of
+trast to capitalism and ubiquity, postcolonial HCI researchers
+the world is necessary for the work to realize its intended
+propose approaches based on social justice [139], the ceneﬀect, and (b) what worlds are advanced by its execution.
+tring of indigenous knowledge and users [8], and the develWe believe such articulations would strengthen the foundaopment of design paradigms explicitly made, rooted and detion of these and other critical works, weaving them into
+ployed in local communities, contexts and knowledge [127,
+a coherent and explicit politic of HCI. Building on Linehan
+150].
+& Kirman’s "anarCHI" paper [95], along with Asad et al.’s
+Along similar lines, Avle et al. push back strongly against
+"preﬁgurative design" [12], we outline our vision of one such
+the idea of “universal” or “rational” design methods, expressexplicit articulation: an anarchist HCI.
+ing particular concern for how these models may reinscribe
+colonial relationships [13]. Rosner considers how similar types
+evaluate a technical ﬁeld’s contribution to
+society." [2]
+
+3
+
+WHAT IS ANARCHISM?
+“Love labour, hate mastery, and avoid relationship with the government” [128]
+
+A person confronted with the term “anarchist” may ﬁnd
+themselves thinking of black-clad, bomb-throwing radicals
+seeking the destruction of society, an image stemming from
+the campaigns of “propaganda of the deed” in the 1880s [103].
+But anarchism is far broader than that brief Eurocentric moment in time, constituting a diverse ﬁeld (not school) of thought
+aiming to “root out and eradicate all coercive, hierarchical
+social relations, and dream up and establish consensual, egalitarian ones in every instance” [105]. Speaking generally, anarchism concerns itself with power and autonomy. Two core
+principles of anarchist thought are that autonomy can only
+be attained through ensuring a consensual basis for power
+relations, and that human dignity is fundamentally compromised in the absence of autonomy.
+So what does this mean in practice? As with any political
+movement, the answer varies from person to person: anarchist thought covers a broad range of perspectives, philosophies and approaches to autonomy, an appropriate choice
+given the value of autonomy. In this paper we focus on social anarchism, also known as libertarian socialism,1 both
+because of its long theoretical history and the way in which
+its central principles align with the power-critical and anticapitalist nature of the HCI works from which we draw. In
+contrast, individualist anarchism (which sees complete individualism without social responsibilities as the ultimate
+source of dignity) has often been critiqued speciﬁcally for
+failing to engage with power and the "free market", leading
+ultimately to the resumption of the status quo [24, 64, 107].
+One of the major components of social anarchist thought
+relates to capitalism. As mentioned, anarchism is centred
+on autonomy and dignity—and is consequently concerned
+with the distribution of power. To social anarchists, capitalism’s existence fundamentally undermines autonomy and
+human dignity by embodying unfair power relations [14].
+Due to its dependence on the commodiﬁcation, exchange
+and accrual of goods, capitalism guarantees both inequality
+between people and a lack of essential resources for some.
+This is not just an incidental or occasional side-eﬀect of
+a capitalist system—it is both inevitable and by design, because one cannot have a purchaser without an unmet need,
+or accrual without disparity [59].
+
+1 We would love to discuss other approaches to anarchism, but self-declared
+
+anarcho-capitalists “should be given no more consideration than [other]
+oxymorons such as a free slave or the living dead” [14], and the only
+anarcho-primitivist known to not consider literacy a cardinal sin has been
+in maximum-security prison since 1998 [81].
+
+At ﬁrst glance, then, social anarchism appears to simply
+be Marxism. And, indeed, social anarchism has a long history of drawing from Marxist thought (and vice versa) since
+the First International [124]. But there is a crucial diﬀerence:
+Marxism assumes the neutrality of the state, and that the
+oppression that stems from it is a consequence only of the
+social class that runs it. A "dictatorship of the proletariat",
+as opposed to one of the landowning classes, is all that is
+needed to turn it towards the good of humanity [105].
+But anarchists, as discussed, require that every system
+of power—not just capital—justify the ways it compromises
+individual autonomy for collective autonomy. While some
+forms of social anarchism discuss shallow hierarchies as an
+example of such a justiﬁed compromise, social anarchists
+are unanimous in seeing the state as fundamentally dangerous. A state is inherently coercive and involuntary [151],
+necessarily (by creating a distinction between those vested
+with power and those giving power up) creates an underclass, and ultimately and inevitably shifts towards centring
+its own survival over that of any individual citizen under
+it [138]. Once again, this is not incidental; it is inherent [125].
+This coercion and guarantee of oppression does not change
+if the state is organised with a purportedly communist economy interwoven, or premised on a diﬀerent kind of dictatorship [66].
+Instead social anarchists advocate, as Cindy Milstein puts
+it, “consensual, egalitarian [social relations] in every instance" [105],
+particularly in the form of communalism, self-governing voluntary associations [28], and autonomous
+zones [80]. The product of a person’s work should be owned
+by themself [94]; the tools used to undertake this work should
+be shared by the community in which it takes place.
+Forming these relations, and toppling unjust power structures, is the path towards autonomy and dignity. This work
+transcends the elimination of state and capital. Imperialism,
+racism, sexism, ableism, transphobia and other systems of
+oppression—systems which underlie and buttress more formal structures—do not just vanish when the more formalised
+structures that weaponise them do [53]. There is no dignity
+in a world that lacks capitalism but still features ubiquitous
+bigotry. For this reason, anarchism has a long historical integration with feminist thought [14, 58, 61], queer liberation [1, 85], anti-racist and anti-imperialist ideologies [87,
+142] and the intersection thereof [43, 80, 119]. Despite its
+stereotype as a static form of European thought [99], anarchism has provided part of the theoretical basis for the work
+of Krishnavarma and Gandhi in India [48], the Zapatistas
+in Mexico [96], and the political philosophy underpinning
+the Democratic Federation of Northern Syria (commonly
+known as Rojava) [91]. In the current era of late-stage capitalism and globalisation, a resurgent anarchism (integrated
+with other locally-contingent political philosophies across
+
+(4) This work must be done in a way responsive to local
+Africa [102], Asia [73], and the Americas [62, 96]) has acted
+conditions, and in a fashion that is incremental, seekto bring together those to whom existing mechanisms of soing to build the revolution by creating spaces in the
+cial order have lost legitimacy [83], and encouraged the crehere and now that embody those values.
+ation of small-scale collectives as well as large-scale political
+action [116]. As these examples demonstrate, anarchism is
+easily hybridised; with its focus on autonomy comes a focus
+on community-appropriate and community-determined apSo what would a ﬁeld of HCI that is responsive to and
+proaches to change and governance. In many respects, anarbuilt around these principles look like? Primarily, it would
+chism is merely "the newest member of a global family that
+be dedicated to building preﬁgurative counterpower: creating
+includes numerous historical and present day communal soconstantly-justiﬁed spaces that embody autonomous, anticieties and struggles against authority" [145]: even Hobbes
+oppressive values as a means to build the revolution in insaw it as the natural state of human society [114].
+crement. This work requires that we, the HCI community,
+To many, a world lacking states or capitalism sounds utopian—but
+re-examine our core values and radically alter the ways we
+anarchists trend towards the pragmatic and applied, away
+enact these values in our relationships with each other and
+from deep theory. The focus on human dignity and autonthe world. While we do not wish to prescribe a single path
+omy means that the application of anarchist principles to
+toward this revolution, we elaborate three interconnected
+the organisation of day-to-day life cannot wait for some
+threads where we see a need for these relations to be transfar-oﬀ revolution: it must be enacted in the here and now,
+formed.
+through preﬁgurative politics [75, 147]. The revolution comes
+The ﬁrst and broadest area of scope is our relation with
+not on a single day but through the creation of autonomous
+the world, deﬁned as the ecological (in the traditional sense)
+spaces and forms of organisation, wherever they can take
+and infrastructural aspects of human existence. Here we would
+root, both to provide what limited respite they can and bebe expected to centre concerns of sustainability, autonomy
+cause it is through creating these zones—through invalidatand control, particularly with regards to how we understand
+ing the claim that hierarchies of power are necessary, and
+the full range of impacts of our work and the nature of the
+through building the counterpower of institutions that oﬀer
+systems we support.
+alternatives to non-consensual power relations—that we go
+Secondly, we will need to reshape our inter-community
+about "forming the structure of the new society within the
+relationships. Over the course of our work, HCI researchers
+shell of the old" [152].
+engage with various individuals and communities—our “participants.” An anarchist HCI would approach these sorts of
+interactions with the intent of allowing appropriate meth4 TOWARD AN ANARCHIST HCI
+ods and tools to derive from a particular context [44]. We
+"Any signiﬁcant attempt to decentralize marecognize that communities and environments are best unjor political and technological institutions...could
+derstood from within, rather than through a technochauvinonly happen by overcoming what would surely
+istic lens or “view from nowhere” [69]. We would rely on
+be powerful resistance to any such policy. It
+methods that are aware of how design and technology have
+would require something of a revolution." [149]
+been used to marginalise, and the oppressive nature of the
+systems we participate in—methods that actively work to
+In summary, then, a social anarchist view of the world is
+unpick that use and participation [35, 136].
+that:
+The last area, though ﬁrst in terms of the work we have to
+(1) Human dignity is greatest when human autonomy is
+do, is intra-community relations: how we as HCI researchers
+greatest, and consequently when social relationships
+and practitioners relate to each other, and the structures we
+are entered into consensually;
+help develop and in which we participate. An anarchist HCI
+(2) Any relationship of power should be held in suspicion
+centres power and self-determination: correspondingly, it
+and continuously justiﬁed, and both a capitalist ecowould necessitate a re-evaluation of inclusivity in our ﬁeld
+nomic system and a state system of governance fail to
+and of the voices privileged in the processes of design and
+justify their excesses;
+research. It would require that we demonstratively exam(3) The solution is the dissolution of both in favour of sysine systems of oppression and work to undermine them,
+tems which maximise human autonomy, in a way that
+including those relating to gender [71], colonisation [79],
+centrally recognises all forms of power, including the
+racism [68], disability [130], and class. An anarchist HCI reimplicit systems of power such as race, gender, disabilquires an intersectional lens to avoid ﬂattening the experiity and class which underlie formal power structures,
+ences of marginalized peoples [37, 123]. It would also likely
+and seeks to eliminate them;
+
+produce new ways of organising, communicating and meeting that are governed by and accessible to the communities
+concerned.
+An anarchist HCI is not merely a conceptual frame. Given
+its emphasis on preﬁgurative counterpower, it demands to
+be brought into being. It demands mechanisms for accountability and justiﬁcation, adapted to our local context. It demands explicit demonstration that our work is conducted as
+accomplices rather than overseers and does not act to reinforce systems of power and oppression; and that we came
+“with empty hands and a desire to unbuild walls” [90].
+Global relations
+Given HCI’s global reach, a political approach to our work
+must consider the world: the rest of the planet and the (often out of sight) communities and systems that comprise it.
+Speciﬁcally, we need to address how HCI’s working practices often presume the universalism of our perspectives,
+and depend on structures that necessitate the exploitation
+of labour and resources.
+An anarchist HCI is premised on autonomy, not only at
+the person-to-person level but also of diﬀerent communities, cultures and contexts. A base requirement of this is an
+assumption of inherent legitimacy—that diﬀering ways of
+being are valid ways of being. One cannot have both autonomy and the exclusive centring of one particular epistemic
+position. Yet dishearteningly, even within areas of HCI that
+feature liberatory rhetoric, we ﬁnd a universalist stance. By
+this we mean that researchers assume their epistemic framings or their experiences within their communal and cultural contexts are "the" human experience. As an example
+we can take Gender HCI [19], a subﬁeld concerned with the
+ways that gendered diﬀerences in socialisation make themselves known in technology being more- or less-accessible
+for diﬀerently gendered populations. In theory an anarchist
+approach to HCI would easily take root here; we care about
+power and oppression, and diﬀerences in technological access which replicate pre-existing inequalities are a quintessential example of that oppression.
+But in practice, Gender HCI is constrained by a particularly narrow vision of gender, and one it treats as universal; with few exceptions [9, 27, 117, 144], gender is seen
+as an essentialist binary in which there are two categories,
+male and female, with corresponding social and anatomical
+categories, to which research on gendered diﬀerences performed in a Western, academic context is broadly applicable.
+This approach fundamentally ignores, amongst other things,
+non-Western models of gender [20, 21, 108], and the existence of transgender people [71, 82]. Gender HCI research is
+also frequently undertaken within corporate working environments that assume (or sometimes depend on) top-down
+
+action and hierarchy [30, 31], then assumed to be generalisable to "software" or "gender". In both cases the result is the
+same—research premised on universalism that, as a consequence, implicitly delegitimises other ways of being.
+An anarchist HCI must shrug oﬀ this implicit universalism, not just in relation to gender but in relation to any
+attribute of a context or individual, in favour of a pluralistic approach in which we interact with other communities
+on their terms, with an expectation that their members are
+those best-equipped to deﬁne and describe the diﬃculties
+being faced. In the case of gender, there are several examples
+of this approach being done—in particular Alsheikh et al’s
+work on intimacy in Arab contexts, and Alex Ahmed’s work
+on trans-inclusive interaction design [4, 9]. Nonetheless, we
+have (as other papers note) much progress to make [84, 123].
+HCI’s dependence on exploitative global structures can be
+seen if we examine the predominant cultural conception and
+practices of making, which often feature an emancipatory
+rhetoric of enabling people to autonomously identify their
+needs and respond to them. Gone are (or will be) the days of
+mass-produced, industrialised consumer products and tools;
+instead, every home will feature a 3D printer that allows
+its inhabitants to construct items adapted to their speciﬁc
+use. In theory one might think an anarchist HCI would grab
+making with both hands as an example of emancipation; after all, don’t we have self-determination? A reduction in the
+inequality of power relations? A reduction in the power of
+capitalism?
+But the problem comes with making’s relation to the rest
+of the world: one must ask how emancipatory a technology
+is, how much autonomy it induces when, for example, it
+overwhelmingly remains the preserve of those who are already most free. One must also take an ecological and anticolonial bent, as parts of both HCI and anarchism have
+already done [126, 134], and look at the work practices on
+which making is premised: if a 3D printer is in every house, a
+truly inhumane amount of copper must have been extracted.
+And "inhumane" and "extracted" are the right words, because
+mining is a literally exploitative activity and one that, under
+capitalism, promotes and perpetuates vast inequalities and
+injustices. In Chile, which produces a vast amount of the
+world’s copper, the power structures that underpinned mining—some literally originating in colonial slave labour—were
+trivially adapted to solidify Pinochet’s military dictatorship [54].
+There is no separating out our advocacy and development of
+making from the costs that making entails—from the ways
+that, whatever the emancipatory rhetoric around it, it demands the legitimisation and use of exploitative systems
+that, beyond their already inhumane day-to-day cost, are so
+easily twisted into acts of genocide.
+This is not speciﬁc to making—indeed, one could argue
+the computer in Human-Computer Interaction means that
+
+some amount of exploitation or practical scarcity is inevitable [36],which are already being prototyped [11, 106, 122]; more genwhatever improvements transpire in ecologically-friendly
+erally, it would include open source appropriate technolomining [60]. Nor is our concern solely about ecology: we
+gies (OSATs)—technologies designed to be low-cost (ﬁnanare simply using copper mining as an example of the global
+cially and ecologically), ethically sound, and based around
+infrastructures that our technology plugs (idiomatically and
+open source software and hardware so that local communiliterally) into. Our point is that our ﬁeld’s existence fuels
+ties can adapt them to their needs [110].
+oppressive systems [86]. This is an inevitable outcome of
+But design processes in such an environment have to foinfrastructures under capitalism, and even absent capitalcus on the needs of the communities as deﬁned by those
+ism, infrastructure enacts control and hegemony [26, 109];
+communities: the world contains too many examples of what
+this is nowhere more apparent than in the infrastructures
+Meredith Broussard calls "technochauvinism" [29]—the deHCI researchers actively help build [98, 141]. Consequently
+ployment of technical solutions against the will or desire
+from both an anti-oppressive and autonomous perspective,
+of the people subject to them—for us to be anything but
+an anarchist HCI is at least highly suspicious of and at most
+cynical of a top-down approach, even absent an anarchist
+actively opposed to centralised infrastructure. We should
+framework [29, 38]. Our relationship with local communiavoid making it; we should, wherever possible, avoid particities should be one in which we defer, recognising the cenpating in it; we should, wherever necessary, actively seek to
+trality of local knowledge in developing local solutions. This
+unmake it. Winner is right when he says that, absent centralconsists not only of standalone approaches such as co-design[50],
+isation, infrastructure and the lopsided beneﬁts that come
+which has been used for large-scale community engagement [12,
+along with it will be harder to attain, or in some cases im51], but also the adoption of frameworks that recognise prepossible [149].
+existing power relationships and oppression. An example of
+such a framework is Costanza-Chock’s Design Justice (which,
+Inter-community relations
+interestingly, draws on the example of Zapatismo, a politic
+Despite the pessimistic note above, we do not mean to sugthat synthesises anarchist principles with indigenous phigest that an anarchist HCI inherently opposes all infrastruclosophy [34]). Design Justice prioritises "projects that chaltures. Our goal is simply to avoid centralised infrastructure,
+lenge the matrix of domination" [35], focusing on addressand challenge systems that accrue power at the expense of
+ing oppression in an intersectional manner (as do many strains
+human dignity. Given how infrastructures perpetuate their
+of anarchism [119]). Design Justice also aligns with social
+existences and amplify the values encoded within them [67]—and anarchist principles of autonomy and self-determination due
+so are often weaponised for the purposes of hegemony and
+to its focus on local and contextual solutions.
+cultural imperialism [141]—an anarchist HCI requires the
+Whether rooted in design theory or anarchist theory,
+constant mapping and justiﬁcation of infrastructures’ power
+localism-based approaches to design and infrastructure pose
+dynamics. Systems that cannot be justiﬁed should be suptheir own challenges: aside from eﬃciencies of scale, issues
+planted.
+such as privacy and harassment are potentially harder to
+In practice this may initially result in a reduction in infrashandle in infrastructure without centralised oversight [65].
+tructure, with associated reductions in the easy transmisAnd there is always the question of who writes the stansion of information and goods, but that is largely because of
+dards that underpin this infrastructure; how easy it is to
+how far (as Winner notes) the pendulum has swung in the
+reconﬁgure nodes of, say, a distributed internet, to organdirection of centralisation [149]. As a prominent example,
+ise a new network based on new principles. While these
+Ashwin Mathew has tracked how the internet itself is not
+(and myriad other) challenges should not be downplayed
+only centralised but designed to be centralised [101].
+and must be confronted head-on, distributed and localised
+In the long term, there are other ways of running things.
+infrastructure presents an opportunity to build counterpower
+Our concern is not organisation but who gets to deﬁne the
+by creating autonomous spaces not subject to the centralised
+terms under which things are organised, and how consencontrol that is inherent to much of modern computing [112].
+sual participation in and departure from systems is: with
+autonomy and decentralisation. Rather than an absence of
+technologies, we are talking about technologies built in a
+Intra-community relations
+way that centres the communities using them and avoids
+But building this counterpower requires us to engage in prereserving for some third party the powers to modify, adapt,
+ﬁgurative work: to ﬁrst organise our own community in
+and repair; about design processes in which the members of
+alignment with the values of self-determination and consenthat community are treated not as participants but as accomsual, self-organised relations and interactions. We must not
+plices. In infrastructural terms, that could (to continue the
+only reckon with our contributions to power imbalances in
+example of the internet) look like distributed replacements,
+
+the wider world, but also look unceasingly inward, interrogating how power manifests in our own relationships with
+each other. It is not possible for us to participate in the making of meaningfully diﬀerent spaces if we are replicating the
+same dynamics that have brought us to this point.
+We must recognise that our community does not begin
+any of this work from a “neutral” position (as if that were
+even possible). From a queer, feminist, anticolonial or critical race perspective, our ﬁeld’s norms and methods are inherently laced through with patriarchal, cisnormative, heteronormative beliefs that assume a white and western view
+of the world. Consider Ahmed et al.’s reﬂective piece on
+writing for an ACM magazine, in which the ACM, while accepting ad revenue from the U.S. National Security Agency,
+censored the phrase “sex worker” from an accepted piece
+about technologies for sex workers, with the argument that
+“ACM is not a political organization” [5]. Consider the demographics of sex work, and so who, precisely, experiences the
+most harm from the ACM’s deliberate refusal to discuss the
+existence and rights of sex workers, and sex as a topic. Consider how decisions around language marginalise alreadyvulnerable people, and that our ﬁeld already features critiques of its approach to such issues [22, 137].
+More broadly, an examination of our community’s priorities, as communicated by the SIGCHI strategic initiatives [133],
+raises some diﬃcult questions. For example: if distributing
+our work beyond our community is a “core part” of our
+values, how do we reconcile that with the ACM charging
+$1,700 to make a paper “Open Access”? With community
+standards under which making this paper available costs
+as much as one of the laptops on which it was written? If
+we care about "local and global HCI", what does it say that
+even CHI Indonesia publishes its schedule and proceedings
+in English [33]? What does it say that our annual plan dictates a minimum of 3 of the next 5 CHIs be held in Europe
+and North America [140]? How do we reconcile an initiative aimed at “supporting and promoting diversity in all its
+forms”, with spending $14,000 on inclusion events at our
+conferences in 2017 [131], and the same year, $24,000 on a
+communications consultant for "messaging" [104]? A possible explanation for the gap between stated ideals and outcomes can be found in a survey of conference steering committee representatives, where respondents ranked inclusion
+programming as 5th of 8 possible priorities, estimating an investment of 12 volunteer hours to achieve the steering committees’ expectations [132].
+An anarchist HCI would demand a reconﬁguration of these
+failed states, centring access and inclusion. This is not work
+that will be completed simply by declaring ourselves anarchists—see the (often justiﬁed) critiques of "manarchism" [25,
+72]—but an anarchist perspective, with its focus on power
+and dignity as ﬁrst-order principles of analysis, gives us a
+
+stronger basis from which to build. This is not work that can
+justiﬁably be placed on the shoulders of those who need it.
+We cannot accept diversity initiatives that take the form, as
+they do in so much of the academy, of demanding marginalised
+scholars shoulder the burden of repairing the structural inequities that permeate our institutions [6], or tokenise us in
+surface-level diversity initiatives that primarily exist for the
+purpose of public relations [3].
+This must be about more than just bodies: it is not diversity if we only accept marginalised people who are stripped
+of the epistemic models that underpin experiences of being Other, or have the work they draw from those models
+held to an unequal standard of legitimacy [55]. This must
+be about plural ways of contributing; plural ways of being
+present. We would explore diﬀerent ways of structuring how
+we gather and conference—whether expensive and exclusive gatherings of researchers who (speaking practically) have
+either the employment beneﬁts to attend, contributed a grantsupported paper, or both, act fundamentally as barriers to
+inclusion and as inducements to inequality. We might look
+at distributing conferences in their entirety, enabling participation from disparate locations and disparate contexts;
+we could reorient conferences from closed spaces to open
+ones, with scholars travelling to talk to the public about their
+work. We could create avenues for publishing that do not operate on the premise that only in English can legitimate science be performed. And if those outside are not interested in
+participating, when allowed to deﬁne the terms of that participation, HCI can hardly argue its work is emancipatory
+or empowering.
+5 ACCOUNTING FOR HCI
+"We must recognize that ethics requires us
+to risk ourselves precisely at moments of unknowingness, when what forms us diverges
+from what lies before us, when our willingness to become undone in relation to others constitutes our chance of becoming human." [32]
+If we want our work to challenge structures of oppression
+and support human dignity, we are obligated to continually
+interrogate ways in which our practices and outputs require,
+perpetuate, or amplify power inequalities. We must work to
+ensure our technologies actively contribute to (rather than
+detract from) human autonomy and dignity. Toward these
+ends, we propose some accountability processes for an anarchist HCI.
+An anarchist HCI necessarily rejects the premise of a “neutral technology” [63]. Like many HCI and critical theorists [45,
+46, 88, 143, 148], an anarchist HCI seeks to surface the implicit and explicit politics of HCI contributions. While we
+
+often expect HCI work to include a researcher stance or
+reﬂexive statement in relation to the work, anarchist HCI
+demands a robust and critical accounting of how we and
+our work relate to any power structures that oppress people
+or deprive them of agency. This might manifest as comprehensive, publicly accessible documentation of requirements,
+intentions, and methods for novel designs—documentation
+that proactively demonstrates that the proposed interventions, at a minimum, do not reinforce oppressive power structures.
+We propose that anarchist HCI should actively contribute
+to the building of counterpower. Rather than yielding “responsibility for enabling human ﬂourishing [to] state and
+corporate actors” [93], we argue that it is necessary to actively build systems that undermine such actors, recognising the way that technology metastasises capitalism and the
+state’s worst intentions and vice versa [49, 97, 98]. Some
+promising recent work toward these ends include Baumer
+& Silberman’s proposal not to design [18], or Pierce’s suggestion that we “undesign”—inhibit or foreclose—particular
+capabilities of technology [113].
+Given the inevitability of exploitation under capitalism
+and the state, all work should aﬃrmatively show that it preﬁgures autonomy and dignity. In other words, that the methods and outputs were driven by the interests and desires of
+the individuals and communities impacted by the work—not
+by funders’ implicit or explicit expectations. We use "desires", with its implications of subjective, internally-known
+and validated truth, intentionally: work cannot be undertaken without the active consent and participation of these
+communities.
+One way to incorporate this active consent and participation could be a “right of participant response” to research
+ﬁndings and design interventions. In other words, researchers
+have the ongoing responsibility to provide the research to
+participants in a comprehensible form. Participants’ responses
+to the work will be considered inherently valid (i.e., they
+do not require the aﬃrmation of academics), and these responses should be included in whatever form(s) and venue(s)
+the research is disseminated. Through such an accountability mechanism we might remake HCI to privilege impacted
+communities. This remaking would contribute to more equitable inter- and intra-community distribution of both participation and the beneﬁts and burdens of design [35]. A
+related accountability practice could be to alter the peer review process to include community reviewers who can evaluate work intended for publication based on their experiences and comment on the appropriateness of the work’s
+methods, outcomes and consequences. Equitable distribution of beneﬁts and burdens would also necessitate that those
+community reviewers be compensated fairly for their labour.
+
+These mechanisms would also necessitate that we produce and share knowledge in formats and settings that are
+appropriate for a given context. It would no longer be considered legitimate for knowledge to be cloistered in the academy, locked behind paywalls or gates, or for academic scholars to be perceived as the sole or primary sources of knowledge production and arbiters of human experience. Rather,
+in alignment with feminist epistemologies, anarchist HCI
+would consider knowledge to be situated in particular contexts [69, 70], and would require that the outputs of any
+knowledge-producing activities or HCI interventions be created in collaboration with and in forms accessible to the
+communities concerned. Fox and Rosner have put forward
+one of the forms that dissemination of research might take [52],
+but we would argue that when the community is truly the locus of power, the idea of “dissemination” of knowledge may
+no longer have coherence at all. Instead, communities would
+determine how to articulate the shared meanings produced
+during knowledge-making work.
+We wish to reiterate that these accountability mechanisms
+are only part of the work: we have an obligation to institute
+them but also, as stated, to move beyond them, actively collaborating with communities to break existing systems of
+injustice and build the world we wish to see. These mechanisms are necessary because they are preﬁgurative; they are
+not, in and of themselves, suﬃcient.
+6 DISCUSSION
+"We’re setting out from a point of extreme
+isolation, of extreme weakness. An insurrectional process must be built from the ground
+up. Nothing appears less likely than an insurrection, but nothing is more necessary." [76]
+A number of movements within HCI have been working
+toward situating communities as the locus of power and the
+arbiters of meaning and value in HCI. We argue that our failure to realize these ideals stems from an inability to reconcile our political rhetoric and critical lenses with the power
+structures under which we operate. The most promising solution to this dissonance is a rededication of our ﬁeld towards building preﬁgurative counterpower.
+The justiﬁcations, principles, and mechanisms of an anarchist HCI can be used to guide our work and determine
+whether we are, as a ﬁeld or individuals, in concordance
+with our ideals. In outlining these tenets, we do not claim
+to have created this work out of whole cloth; as discussed,
+much of this work is already being done. What we oﬀer is
+an articulation of where this work overlaps—what principles underlie much of it—and an articulation of processes
+towards accountability. Most importantly, we are drawing a
+line in the sand, and oﬀering a vision of a present in which
+
+nothing is treated as ﬁxed, and by consequence, everything
+is treated as possible.
+This is an anarchist vision, but it is not the anarchist vision, nor the only political vision HCI could take. In her comments on Linehan & Kirman’s "anarCHI" alt.chi paper, Lilly
+Irani raised rhetorical questions which we would, slightly
+rephrased, replicate: what kind of research would you do if
+you were doing socialist CHI, or libertarian CHI [95]? What
+kinds of research or practice would feature in a diﬀerent anarchist HCI?
+While we have our own biases, believing in a particular
+political vision centred on autonomy and then mandating
+its adoption would be the height of hypocrisy. In our view, it
+would violate the anarchist principles we have outlined to
+dictate either speciﬁc implementations or speciﬁc practices
+toward enacting anarchist HCI. Rather, as we have articulated, we view communities as the rightful decision-makers
+and loci of power, as they are the entities that can assess
+their own needs and must live with the consequences of
+any interventions. Part of our aim in this work—and ideally an ongoing process in which the HCI community will
+engage—is a deliberate creation of space. We might envision a rupture in oppressive design paradigms that continually widens as individuals and collectives establish the aims,
+principles, and practices to architect the worlds they wish
+to see. It is worth considering that, despite our proposed reforms to how our community functions, we have no guarantee that it is salvageable: that it can feature equitable power
+relations while even vaguely resembling its current form.
+A HCI that centres anti-oppression work and rejects capital and the state will look very diﬀerent from how it does
+now—and may simply not be possible.
+But if research into ways of being and organising—and,
+for that matter, the ease of drawing on so much of HCI in
+forming an anarchist vision—shows us anything, it is that
+we already have the tools. What normative society often
+sees as "alternate" or "traditional" ways of conﬁguring our
+communities and spaces are frequently anarchistic in nature [75, 102, 115, 146]; what we see as cutting-edge HCI
+frequently lends itself to, or in some cases (we would argue)
+necessitates, an anarchistic approach to structural change.
+We don’t mean to undersell the diﬃculty or complexity of
+our task: we are proposing confrontation with vast systems
+of power. But it is clear at this point that these systems do
+not work for most of the world: that the only honest alternative to confronting them is acknowledging our ﬁeld’s claims
+about working for the good of humanity to be a lie.
+7
+
+CONCLUSION
+"Remember this: We be many and they be
+few. They need us more than we need them.
+
+Another world is not only possible, she is
+on her way. On a quiet day, I can hear her
+breathing." [121]
+We have presented a vision for a remaking of HCI, one
+that synthesises theories, methods and ﬁelds of study that
+focus on the dignity, not eﬃciency, of humanity. With this
+remaking, designers and technologists are no longer gatekeepers of knowledge or production; we are potential (rather
+than necessary) collaborators. Our focus is on those marginalised
+by the way things are, and how we can participate as willing
+accomplices in the destruction of the perverse machinery
+that perpetuates this state of aﬀairs. In serving as accomplices, we may ﬁnd our vocational knowledge and output is
+valued as secondary to the contributions and perspectives
+we can oﬀer as individuals, or as members of our communities.
+We have no certainty as to what happens upon the adoption of an anarchist HCI: what the knock-on eﬀects are of
+radically remaking our ﬁeld to prioritise autonomy, self-determination
+and the justiﬁcation or reconﬁguration of power. But we can
+only ﬁnd out by drawing this line in the sand: by asking
+members of our ﬁeld to either justify the way things are or
+join us in changing them. We cannot force you to participate,
+nor would we want to. All we can do is ask you to decide.
+Which future do you want to help build?
+8 ACKNOWLEDGEMENTS
+We dedicate this paper to those before and around us: to the
+International Workers of the World; to the Comité de vigilance de Montmartre; to the martyrs of the Columna Durruti; to the residents of KPAM, Fejuve, MAREZ, and Rojava.
+To Sucheta Goshal; to Noe Itō; to Janelle M. Robinson; to
+Stefon Alexander; to Margret Wander. To those who dared
+to make spaces where hope could grow, and those who continue to do so.
+REFERENCES
+[1] Martha Ackelsberg. 2013. Queering Anarchism: Addressing and undressing power and desire. AK Press.
+[2] Philip Agre. 1997. Toward a Critical Technical Practice: Lessons
+Learned in Trying to reform AI. Social Science, Technical Systems
+and Cooperative Work: Beyond the Great Divide. Erlbaum (1997).
+[3] Alex Ahmed. 2018. Beyond diversity. Commun. ACM 61, 7 (June
+2018), 30–32.
+[4] Alex A Ahmed. 2017. Trans Competent Interaction Design: A Qualitative Study on Voice, Identity, and Technology. Interacting with
+Computers 30, 1 (Nov. 2017), 53–71.
+[5] Alex A. Ahmed, Teresa Almeida, Judeth Oden Choi, Jon Pincus, and Kelly Ireland. 2018.
+What’s at Issue: Sex, Stigma,
+and Politics in ACM Publishing. In Extended Abstracts of the
+2018 CHI Conference on Human Factors in Computing Systems
+(CHI EA ’18). ACM, New York, NY, USA, Article alt07, 10 pages.
+https://doi.org/10.1145/3170427.3188400
+
+[6] Sara Ahmed. 2012. On being included: Racism and diversity in institutional life. Duke University Press.
+[7] Syed Ishtiaque Ahmed, Nusrat Jahan Mim, and Steven J. Jackson. 2015.
+Residual Mobilities: Infrastructural Displacement
+and Post-Colonial Computing in Bangladesh. In Proceedings of
+the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI ’15). ACM, New York, NY, USA, 437–446.
+https://doi.org/10.1145/2702123.2702573
+[8] Yoko Akama, Seth Keen, and Peter West. 2016.
+Speculative Design and Heterogeneity in Indigenous Nation Building.
+In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS ’16). ACM, New York, NY, USA, 895–899.
+https://doi.org/10.1145/2901790.2901852
+[9] Tamara Alsheikh, Jennifer A Rode, and Siân E Lindley. 2011. (Whose)
+value-sensitive design - a study of long-distance relationships in an
+Arabic cultural context. ACM Conference on Computer Supported Cooperative Work (2011).
+[10] Gustavo Amagno. 2012. The Role of HCI in the Construction of Disability. BCS Human Computer Interaction Conference (Aug. 2012), 1–
+4.
+[11] Panayotis Antoniadis. 2016. Local networks for local interactions:
+Four reasons why and a way forward. First Monday 21, 12 (2016).
+[12] Mariam Asad, Christopher A. Le Dantec, Becky Nielsen, and Kate
+Diedrick. 2017. Creating a Sociotechnical API: Designing City-Scale
+Community Engagement. In Proceedings of the 2017 CHI Conference
+on Human Factors in Computing Systems (CHI ’17). ACM, New York,
+NY, USA, 2295–2306. https://doi.org/10.1145/3025453.3025963
+[13] Seyram Avle, Silvia Lindtner, and Kaiton Williams. 2017. How Methods Make Designers. In Proceedings of the 2017 CHI Conference on
+Human Factors in Computing Systems. ACM, 472–483.
+[14] Normand Baillargeon. 2014. Order Without Power. Seven Stories
+Press.
+[15] Jeﬀrey Bardzell and Shaowen Bardzell. 2015. Humanistic HCI. Synthesis Lectures on Human-Centered Informatics 8, 4 (2015), 1–185.
+[16] Jeﬀrey Bardzell and Shaowen Bardzell. 2016. Humanistic HCI. interactions 23, 2 (Feb. 2016), 20–29. https://doi.org/10.1145/2888576
+[17] Shaowen Bardzell. 2010. Feminist HCI: Taking Stock and Outlining
+an Agenda for Design. In Proceedings of the SIGCHI Conference on
+Human Factors in Computing Systems (CHI ’10). ACM, New York, NY,
+USA, 1301–1310. https://doi.org/10.1145/1753326.1753521
+[18] Eric P.S. Baumer and M. Six Silberman. 2011. When the Implication is
+Not to Design (Technology). In Proceedings of the SIGCHI Conference
+on Human Factors in Computing Systems (CHI ’11). ACM, New York,
+NY, USA, 2271–2274. https://doi.org/10.1145/1978942.1979275
+[19] Laura Beckwith and Margaret M Burnett. 2004. Gender - An Important Factor in End-User Programming Environments?.. In 2004
+IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC). IEEE, 107–114.
+[20] Niko Besnier and Kalissa Alexeyeﬀ. 2014. Gender on the Edge. University of Hawaii Press.
+[21] Saugata Bhaduri and Indrani Mukherjee. 2015. Transcultural Negotiations of Gender. Springer, New Delhi.
+[22] Nicola J Bidwell. 2016. Decolonising HCI and interaction design discourse. XRDS: Crossroads, The ACM Magazine for Students 22, 4 (June
+2016), 22–27.
+[23] Wiebe E Bijker. 1997. Of bicycles, bakelites, and bulbs: Toward a theory
+of sociotechnical change. MIT press.
+[24] Murray Bookchin. 1995. Social anarchism or lifestyle anarchism: an
+unbridgeable chasm. AK Press Edinburgh.
+[25] Chiara Bottici. 2017. Bodies in plural: Towards an anarcha-feminist
+manifesto. Thesis Eleven 142, 1 (Oct. 2017), 91–111.
+[26] Geoﬀrey C Bowker and Susan Leigh Star. 2000. Invisible Mediators of
+Action: Classiﬁcation and the Ubiquity of Standards. Mind, Culture,
+
+and Activity 7, 1-2 (May 2000), 147–163.
+[27] Samantha Breslin and Bimlesh Wadhwa. 2014. Exploring Nuanced
+Gender Perspectives Within the HCI Community. In Proceedings
+of the India HCI 2014 Conference on Human Computer Interaction
+(IndiaHCI ’14). ACM, New York, NY, USA, Article 45, 10 pages.
+https://doi.org/10.1145/2676702.2676709
+[28] Émilie Breton, Sandra Jeppesen, Anna Kruzynski, and Rachel Sarrasin. 2012. Preﬁgurative self-governance and self-organization: the
+inﬂuence of antiauthoritarian (pro) feminist, radical queer and antiracist networks in Quebec. Organize (2012), 156–173.
+[29] Meredith Broussard. 2018. Artiﬁcial Unintelligence: How Computers
+Misunderstand the World. MIT Press.
+[30] Margaret Burnett, Robin Counts, Ronette Lawrence, and Hannah
+Hanson. 2017. Gender HCl and microsoft: Highlights from a longitudinal study. In 2017 IEEE Symposium on Visual Languages and
+Human-Centric Computing (VL/HCC). IEEE, 139–143.
+[31] Margaret Burnett, Anicia Peters, Charles Hill, and Noha Elarief. 2016.
+Finding Gender-Inclusiveness Software Issues with GenderMag: A
+Field Investigation. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI ’16). ACM, New York, NY,
+USA, 2586–2598. https://doi.org/10.1145/2858036.2858274
+[32] Judith Butler. 2005. Giving an account of oneself. Oxford University
+Press.
+[33] CHIuXiD. 2018. Schedule.
+Retrieved September 18, 2018 from
+https://web.archive.org/web/20180919072618/http://2018.chiuxid.org/schedule/
+[34] Sasha Costanza-Chock. 2018. Design Justice, AI, and Escape from
+the Matrix of Domination. Journal of Design and Science (2018).
+[35] Sasha Costanza-Chock. 2018. Design Justice: towards an intersectional feminist framework for design theory and practice. Design
+Research Society (March 2018), 1–14.
+[36] Kate Crawford and Vladan Joler. 2018. Anatomy of an AI System.
+Retrieved September 18, 2018 from https://anatomyof.ai/
+[37] Kimberle Crenshaw. 1989. Demarginalizing the intersection of race
+and sex: A black feminist critique of antidiscrimination doctrine,
+feminist theory and antiracist politics. University of Chicago Legal
+Forum (1989), 139.
+[38] Roderic N. Crooks. 0.
+Times Thirty: Access, Maintenance,
+and Justice.
+Science, Technology, & Human Values 0, 0 (0),
+0162243918783053.
+https://doi.org/10.1177/0162243918783053
+arXiv:https://doi.org/10.1177/0162243918783053
+[39] Jill Patrice Dimond. 2012. Feminist HCI for Real. Ph.D. Dissertation.
+Georgia Institute of Technology.
+[40] Jill P. Dimond, Michaelanne Dye, Daphne Larose, and Amy S. Bruckman. 2013. Hollaback!: The Role of Storytelling Online in a Social
+Movement Organization. In Proceedings of the 2013 Conference on
+Computer Supported Cooperative Work (CSCW ’13). ACM, New York,
+NY, USA, 477–490. https://doi.org/10.1145/2441776.2441831
+[41] Paul Dourish. 2010. HCI and Environmental Sustainability: The Politics of Design and the Design of Politics. In Proceedings of the 8th
+ACM Conference on Designing Interactive Systems (DIS ’10). ACM,
+New York, NY, USA, 1–10. https://doi.org/10.1145/1858171.1858173
+[42] Paul Dourish and Scott D. Mainwaring. 2012. Ubicomp’s Colonial Impulse. In Proceedings of the 2012 ACM Conference on Ubiquitous Computing (UbiComp ’12). ACM, New York, NY, USA, 133–142.
+https://doi.org/10.1145/2370216.2370238
+[43] Francis Dupuis-Déri. 2016. Is the State Part of the Matrix of Domination and Intersectionality? An Anarchist Inquiry. Anarchist Studies
+24, 1 (2016).
+[44] Sheena Erete, Aarti Israni, and Tawanna Dillahunt. 2018. An Intersectional Approach to Designing in the Margins. Interactions 25, 3
+(April 2018), 66–69. https://doi.org/10.1145/3194349
+
+[45] Daniel Fallman. 2011. The New Good: Exploring the Potential of
+Philosophy of Technology to Contribute to Human-computer Interaction. In Proceedings of the SIGCHI Conference on Human Factors in
+Computing Systems (CHI ’11). ACM, New York, NY, USA, 1051–1060.
+https://doi.org/10.1145/1978942.1979099
+[46] Andrew Feenberg. 2010. Between Reason and Experience: Essays in
+Technology and Modernity. MIT Press.
+[47] Tom Feltwell, Shaun Lawson, Enrique Encinas, Conor Linehan, Ben
+Kirman, Deborah Maxwell, Tom Jenkins, and Stacey Kuznetsov. 2018.
+"Grand Visions" for Post-Capitalist Human-Computer Interaction. In
+Extended Abstracts of the 2018 CHI Conference on Human Factors in
+Computing Systems (CHI EA ’18). ACM, New York, NY, USA, Article
+W04, 8 pages. https://doi.org/10.1145/3170427.3170609
+[48] Harald Fischer-Tiné. 2015. Shyamji Krishnavarma: Sanskrit, Sociology and Anti-Imperialism. Routledge.
+[49] Eran Fisher. 2010. Media and New Capitalism in the Digital Age.
+Springer, New York.
+[50] Christiane Floyd, Wolf-Michael Mehl, Fanny-Michaela Reisin, Gerhard Schmidt, and Gregor Wolf. 1989. Out of Scandinavia: Alternative Approaches to Software Design and System Development.
+Human-Computer Interaction 4, 4 (1989), 253–350.
+[51] Sarah Fox and Christopher Le Dantec. 2014. Community Historians: Scaﬀolding Community Engagement Through Culture and
+Heritage. In Proceedings of the 2014 Conference on Designing Interactive Systems (DIS ’14). ACM, New York, NY, USA, 785–794.
+https://doi.org/10.1145/2598510.2598563
+[52] Sarah Fox and Daniela K Rosner. 2016. Continuing the Dialogue:
+Bringing Research Accounts Back into the Field. In Proceedings of the
+2016 CHI Conference on Human Factors in Computing Systems. ACM,
+1426–1430.
+[53] Benjamin Franks, Nathan Jun, and Leonard Williams. 2018. Anarchism: A Conceptual Approach. Routledge.
+[54] Lessie Jo Frazier. 2007. Salt in the Sand: Memory, Violence, and the
+Nation-state in Chile, 1890 to the Present. Duke University Press.
+[55] Miranda Fricker. 2007. Epistemic Injustice: Power and the ethics of
+knowing. Oxford University Press.
+[56] Batya Friedman, David G Hendry, and Alan Borning. 2017. A Survey of Value Sensitive Design Methods. Foundations and Trends in
+Human–Computer Interaction 11, 2 (2017), 63–125.
+[57] Batya Friedman, Peter H Kahn Jr, and Alan Borning. 2002. Value
+Sensitive Design: Theory and Methods. Technical Report.
+[58] Jane Gavin-Hebert. 2011. Plural Desires: Feminist Epistemology as
+Anarchist Praxis. Ph.D. Dissertation. Saint Mary’s University.
+[59] Peter Gelderloos. 2018. Anarchy Works. The Anarchist Library.
+[60] Juan Gentina and Fernando Acevedo. 2016. Copper Bioleaching in
+Chile. Minerals 6, 1 (March 2016), 23–9.
+[61] Emma Goldman, Voltairine de Cleyre, Roxanne Dunbar-Ortiz, and
+Jo Freeman. 2012. Quiet Rumours: An Anarcha-Feminist Reader. AK
+Press.
+[62] Alfredo Gómez-Muller. 2008. Anarquismo y anarcosindicalismo en
+América Latina. La Carreta Editores EU.
+[63] Uri Gordon. 2009. Anarchism and the Politics of Technology.
+WorkingUSA 12, 3 (Sept. 2009), 489–503.
+[64] David Graeber. 2013. The democracy project: A history, a crisis, a movement. Spiegel & Grau.
+[65] Benjamin Greschbach, Gunnar Kreitz, and Sonja Buchegger. 2012.
+The devil is in the metadata - New privacy challenges in Decentralised Online Social Networks. PerCom Workshops (2012), 333–339.
+[66] Daniel Guerin and Mary Klopper. 1970. Anarchism. NYU Press.
+[67] Ian Hacking. 1996. The looping eﬀects of human kinds. In Causal
+Cognition. Oxford University Press, 351–383.
+
+[68] David Hankerson, Jennifer A Rode, Andrea R Marshall, Jennifer
+Booker, Houda El Mimouni, and Imani Walker. 2016. Does Technology Have Race?. In Conference on Human Factors in Computing
+Systems. ACM Press, New York, New York, USA, 473–486.
+[69] Donna Haraway. 1988. Situated Knowledges: The Science Question
+in Feminism and the Privilege of Partial Perspective. Feminist studies
+14, 3 (1988), 575–599.
+[70] Steve Harrison, Phoebe Sengers, and Deborah Tatar. 2011. Making
+epistemological trouble: Third-paradigm HCI as successor science.
+Interacting with Computers 23, 5 (2011), 385–392.
+[71] Gillian R Hayes and Oliver L Haimson. 2015. Toward Trans Inclusion in Feminist HCI. In Conference on Human Factors in Computing
+Systems. 8–11.
+[72] Rose Erin Holyoak. 2015. Young Women’s Gendered Subjectivity and
+Agency in Social Movement Activism Thesis submitted for the degree of
+Doctor of Philosophy at the University of Leicester by Rose Erin Holyoak
+BA (Derby), MA (Nottingham) Department of Sociology University of
+Leicester March 2015. Ph.D. Dissertation. University of Leicester.
+[73] Dongyoun Hwang. 2016. Anarchism in Korea: Independence, Transnationalism, and the Question of National Development, 1919-1984.
+SUNY Press.
+[74] Ivan Illich. 1968. To hell with good intentions. In Conference on InterAmerican Student Projects.
+[75] Anthony James Elliot Ince. 2010. Organising anarchy: spatial strategy preﬁguration and the politics of everyday life. Ph.D. Dissertation.
+Queen Mary, University of London.
+[76] Comité invisible. 2009. The coming insurrection. Semiotext.
+[77] Lilly Irani. 2018. “Design Thinking”: Defending Silicon Valley at
+the Apex of Global Labor Hierarchies. Catalyst: Feminism, Theory,
+Technoscience 4, 1 (May 2018), 1–19.
+[78] Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip, and Rebecca E.
+Grinter. 2010. Postcolonial Computing: A Lens on Design and Development. In Proceedings of the SIGCHI Conference on Human Factors in
+Computing Systems (CHI ’10). ACM, New York, NY, USA, 1311–1320.
+https://doi.org/10.1145/1753326.1753522
+[79] Lilly C. Irani and M. Six Silberman. 2016.
+Stories We Tell
+About Labor: Turkopticon and the Trouble with "Design". In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI ’16). ACM, New York, NY, USA, 4573–4586.
+https://doi.org/10.1145/2858036.2858592
+[80] Sandra Jeppesen. 2010.
+Queer anarchist autonomous zones
+and publics: Direct action vomiting against homonormative consumerism. Sexualities 13, 4 (2010), 463–478.
+[81] Theodore John Kaczynski. 1995. Industrial society and its future.
+Washington Post.
+[82] Gopinaath Kannabiran. 2011. Themself: Critical Analysis of Gender
+in Facebook. CHI (2011), 1–6.
+[83] Kim Kelly. 2018.
+Anarchy: What It Is and Why Pop
+Culture Loves It.
+Retrieved September 12, 2018 from
+https://www.teenvogue.com/story/anarchy-explained-what-it-is-why-pop-culture-l
+[84] Os Keyes. 2018. The Misgendering Machines: Trans/HCI Implications of Automatic Gender Recognition. Proc. ACM Hum.Comput. Interact. 2, CSCW, Article 88 (Nov. 2018), 22 pages.
+https://doi.org/10.1145/3274357
+[85] Terence Kissack. 2008. Free Comrades: Anarchism and Homosexuality
+in the United States, 0895-0907. AK Press.
+[86] Brian Larkin. 2013. The Politics and Poetics of Infrastructure. Annual
+Review of Anthropology 42, 1 (Oct. 2013), 327–343.
+[87] Jackie Lasky. 2011. Indigenism, anarchism, feminism: an emerging
+framework for exploring post-imperial futures. Aﬃnities: A Journal
+of Radical Theory, Culture, and Action (2011).
+[88] Bruno Latour. 1992. Where are the Missing Masses? The Sociology
+of a Few Mundane Artifacts. In Shaping Technology - Building Society.
+
+Studies in Sociotechnical Change. MIT Press, 225–259.
+[112] Jenny Pickerill and Paul Chatterton. 2016. Notes towards au[89] Jonathan Lazar, Julio Abascal, Simone Barbosa, Jeremy Barksdale,
+tonomous geographies: creation, resistance and self-management as
+Batya Friedman, Jens Grossklags, Jan Gulliksen, Jeﬀ Johnson, Tom
+survival tactics. Progress in Human Geography 30, 6 (July 2016), 730–
+McEwan, Loïc Martínez-Normand, Wibke Michalk, Janice Tsai, Ger746.
+rit van der Veer, Hans Axelson, Ake Walldius, Gill Whitney, Marco
+[113] James Pierce. 2012. Undesigning Technology: Considering the NegaWinckler, Volker Wulf, Elizabeth F Churchill, Lorrie Cranor, Janet
+tion of Design by Design. In Proceedings of the SIGCHI Conference on
+Davis, Alan Hedge, Harry Hochheiser, Juan Pablo Hourcade, ClayHuman Factors in Computing Systems (CHI ’12). ACM, New York, NY,
+ton Lewis, Lisa Nathan, Fabio Paterno, Blake Reid, Whitney QuesenUSA, 957–966. https://doi.org/10.1145/2207676.2208540
+bery, Ted Selker, and Brian Wentz. 2016. Human–Computer Inter[114] Mark Purcell. 2016. For democracy: Planning and publics without
+action and International Public Policymaking: A Framework for Unthe state. Planning Theory 15, 4 (Oct. 2016), 386–401.
+derstanding and Taking Future Actions. Foundations and Trends in
+[115] Mark Purcell. 2017. Our Own Power to Act. Planning Theory &
+Human–Computer Interaction 9, 2 (2016), 69–149.
+Practice (Oct. 2017), 1–5.
+[90] Ursula K Le Guin. 2015. The dispossessed. Hachette UK.
+[116] Jonathan Purkis and James Bowen. 2013. Changing Anarchism. Ox[91] Michiel Leezenberg. 2017. The ambiguities of democratic autonomy:
+ford University Press.
+the Kurdish movement in Turkey and Rojava. Southeast European
+[117] Jennifer A. Rode. 2011.
+A Theoretical Agenda for Femand Black Sea Studies (Feb. 2017), 0–0.
+inist HCI.
+Interact. Comput. 23, 5 (Sept. 2011), 393–400.
+[92] Ann Light. 2011. HCI as heterodoxy: Technologies of identity and the
+https://doi.org/10.1016/j.intcom.2011.04.005
+queering of interaction with computers. Interacting with Computers
+[118] Yvonne Rogers. 2012. HCI Theory: Classical, Modern, and Contem23, 5 (Sept. 2011), 430–438.
+porary. Synthesis Lectures on Human-Centered Informatics 5, 2 (2012),
+[93] Ann Light, Alison Powell, and Irina Shklovski. 2017. Design for Ex1–129.
+https://doi.org/10.2200/S00418ED1V01Y201205HCI014
+istential Crisis in the Anthropocene Age. In ACM International ConarXiv:http://dx.doi.org/10.2200/S00418ED1V01Y201205HCI014
+ference on Communities & Technology. ACM Press, New York, New
+[119] J Rogue and Abbey Volcano. 2012. Insurrection at the intersecYork, USA, 270–279.
+tions: Feminism, intersectionality, and anarchism. In Quiet rumors:
+[94] Albert S Lindemann. 1984. A history of European socialism. Yale
+An anarcha-feminist reader, Jan Fagerberg, David C. Mowery, and
+University Press.
+Richard R. Nelson (Eds.). AK Press Oakland, CA, 43–46.
+[95] Conor Linehan and Ben Kirman. 2014. Never mind the bollocks, i
+[120] Daniela K Rosner. 2018. Critical Fabulations: Reworking the Methods
+wanna be anarCHI. In the extended abstracts of the 32nd annual ACM
+and Margins of Design. MIT Press.
+conference. ACM Press, New York, New York, USA, 741–748.
+[121] Arundhati Roy. 2003. War Talk. South End Press.
+[96] Staughton Lynd and Andrej Grubacic. 2008. Wobblies and Zapatistas.
+[122] Arjuna Sathiaseelan, Liang Wang, Andrius Aucinas, Gareth Tyson,
+PM Press.
+and Jon Crowcroft. 2015. SCANDEX: Service Centric Network[97] David Lyon. 2003. Surveillance technology and surveillance society.
+ing for Challenged Decentralised Networks. In Proceedings of the
+Modernity and technology (2003), 161–83.
+2015 Workshop on Do-it-yourself Networking: An Interdisciplinary
+[98] Astrid Mager. 2012. Algorithmic ideology: How capitalist society
+Approach (DIYNetworking ’15). ACM, New York, NY, USA, 15–20.
+shapes search engines. Information, Communication & Society 15, 5
+https://doi.org/10.1145/2753488.2753490
+(June 2012), 769–787.
+[123] Ari Schlesinger, W. Keith Edwards, and Rebecca E. Grinter. 2017.
+[99] Peter Marshall. 2018. Demanding the Impossible: A History of AnIntersectional HCI: Engaging Identity Through Gender, Race, and
+archism. (Sept. 2018), 1–1169.
+Class. In Proceedings of the 2017 CHI Conference on Human Factors in
+[100] Luiza Prado de O Martins. 2014. Privilege and oppression: Towards
+Computing Systems (CHI ’17). ACM, New York, NY, USA, 5412–5427.
+a feminist speculative design. Proceedings of DRS (2014), 980–990.
+https://doi.org/10.1145/3025453.3025766
+[101] Ashwin J Mathew. 2016. The myth of the decentralised internet. In[124] Michael Schmidt. 2009. Black Flame: The Revolutionary Class
+ternet Policy Review (Sept. 2016).
+Politics of Anarchism and Syndicalism (Counter-Power, Volume 1).
+[102] Sam Mbah and Chaz Bufe. 2014. African Anarchism. See Sharp Press.
+(2009).
+[103] Paul McLaughlin. 2016. Anarchism and Authority. Routledge.
+[125] Michael Schmidt. 2013. Cartography of Revolutionary Anarchism. AK
+[104] Helena Mentis. 2017.
+Executive Committee MeetPress.
+ing Notes.
+Retrieved September 18, 2018 from
+[126] Deric Shannon. 2016. Intersectionality, ecology, food: Conﬂict thehttps://web.archive.org/web/20180919075058-/https://sigchi.org/wp-content/uploads/2017/03/SIGCHI-EC-meeting-notes-201507-presentation.pdf
+ory’s missing lens. In Emergent Possibilities for Global Sustainability:
+[105] Cindy Milstein. 2010. Anarchism and Its Aspirations. AK Press.
+Intersections of Race, Class and Gender. Routledge, 39–49.
+[106] F Musiani. 2014. Decentralised Internet governance: The case of a
+[127] Grace Shaw, Margot Brereton, and Paul Roe. 2014.
+Mobile
+’peer-to-peer cloud’. Internet Policy Review (2014).
+Phone Use in Australian Indigenous Communities: Future Path[107] Robert Nozick. 1974. Anarchy, State and Utopia. Basic Books.
+ways for HCI4D. In Proceedings of the 26th Australian Computer[108] Oyèrónké. Oyěwùmí. 1997. The Invention of Women. U of Minnesota
+Human Interaction Conference on Designing Futures: The Future
+Press.
+of Design (OzCHI ’14). ACM, New York, NY, USA, 480–483.
+[109] Elena Parmiggiani and Helena Karasti. 2018. Surfacing the Arctic:
+https://doi.org/10.1145/2686612.2686688
+Politics of Participation in Infrastructuring. In Proceedings of the 15th
+[128] Shemaya. 189. Pirkei Avot. In Mishnah, Judah HaNasi (Ed.). ChapParticipatory Design Conference: Short Papers, Situated Actions, Workter 1.
+shops and Tutorial - Volume 2 (PDC ’18). ACM, New York, NY, USA,
+[129] Katie Shilton. 2018. Values and Ethics in Human-Computer InteracArticle 7, 5 pages. https://doi.org/10.1145/3210604.3210625
+tion. Foundations and Trends in Human–Computer Interaction 12, 2
+[110] Joshua M Pearce. 2012. The case for open source appropriate technol(2018), 107–171.
+ogy. Environment, Development and Sustainability 14, 3 (Jan. 2012),
+[130] Kristen Shinohara, Cynthia L. Bennett, and Jacob O. Wobbrock.
+425–431.
+2016. How Designing for People With and Without Disabili[111] Kavita Philip, Lilly Irani, and Paul Dourish. 2010. Postcolonial Comties Shapes Student Design Thinking. In Proceedings of the 18th
+puting. Science, Technology, & Human Values 37, 1 (Nov. 2010), 3–29.
+
+[131]
+
+[132]
+
+[133]
+
+[134]
+
+[135]
+[136]
+[137]
+
+[138]
+[139]
+[140]
+
+International ACM SIGACCESS Conference on Computers and Ac[141] Siva Vaidhyanathan. 2012. The Googlization of Everything. Univercessibility (ASSETS ’16). ACM, New York, NY, USA, 229–237.
+sity of California Press.
+https://doi.org/10.1145/2982142.2982158
+[142] Lucien van der Walt. 2005. Towards a history of anarchist antiSIGCHI. 2018. Internationalisation, Diversity and Inclusion events
+imperialism. Against the War and Terrorism (2005).
+at Sponsored Conferences.
+Retrieved September 18, 2018 from
+[143] Peter-Paul Verbeek. 2011. Moralizing technology: Understanding and
+https://web.archive.org/web/20180919195612/https://sigchi.org/2017/06/internationalisation%2Ddiversity%2Dand%2Dinclusion%2Devents%2Dat%2Dsponsored-confer
+Designing the Morality of Things. University of Chicago Press.
+SIGCHI.
+2018.
+SIGCHI
+Conferences
+Re[144] Mihaela Vorvoreanu, Lingyi Zhang, Yun-Han Huang, Claudia Hilderport.
+Retrieved September 19, 2018 from
+brand, Zoe Steine-Hanson, and Margaret Burnett. 2019. rom Genhttps://web.archive.org/web/20180920073001/’-’https://sigchi.org/wp-content/uploads/2018/05/SIGCHI-Conferences-Report-for-Members-May-2018.pdf
+der Biases to Gender-Inclusive Design: An Empirical InvestigaSIGCHI. 2018.
+SIGCHI EC Values and Strategic Inition. In Proceedings of the 2019 CHI Conference on Human Factiatives.
+Retrieved September 18, 2018 from
+tors in Computing Systems (CHI ’19). ACM, New York, NY, USA.
+https://web.archive.org/web/20180919195610/’-’https://sigchi.org/2018/09/sigchi-ec-values-and-strategic-initiatives/
+https://doi.org/10.1145/3290605.3300283
+M. Six Silberman, Lisa Nathan, Bran Knowles, Roy Bendor, Adrian
+[145] Robert White. 2004. Post Colonial Anarchism: Essays on Race, ReClear, Maria Håkansson, Tawanna Dillahunt, and Jennifer Mankoﬀ.
+pression and Culture in Communities of Color, 1999–2004.
+2014. Next Steps for Sustainable HCI. interactions 21, 5 (Sept. 2014),
+[146] Richard J White and Colin C Williams. 2012. The Pervasive Nature of
+66–69. https://doi.org/10.1145/2651820
+Heterodox Economic Spaces at a Time of Neoliberal Crisis: Towards
+Else Skold and Frederik Larsen. 2018. Design for Proﬁt or Prosperity?
+a “Postneoliberal” Anarchist Future. Antipode 44, 5 (July 2012), 1625–
+Proceedings of DRS2018 (2018), 158.
+1644.
+Thomas Smyth and Jill Dimond. 2014. Anti-oppressive Design. in[147] Matthew Wilson. 2014. Rules Without Rulers: The Possibilities and
+teractions 21, 6 (Oct. 2014), 68–71. https://doi.org/10.1145/2668969
+Limits of Anarchism. John Hunt Publishing.
+Fiona Ssozi-Mugarura, Thomas Reitmaier, Anja Venter, and
+[148] Langdon Winner. 1980. Do Artifacts Have Politics? Daedalus 109, 1
+Edwin Blake. 2016.
+Enough with ’In-The-Wild’. In Proceed(1980), 121–136.
+ings of the First African Conference on Human Computer In[149] Langdon Winner. 2010. The Whale and the Reactor. University of
+teraction (AfriCHI’16). ACM, New York, NY, USA, 182–186.
+Chicago Press.
+https://doi.org/10.1145/2998581.2998601
+[150] Heike Winschiers-Theophilus and Nicola J Bidwell. 2013. Toward
+Judith Suissa. 2018. Anarchism and Education: A philosophical peran Afro-Centric Indigenous HCI Paradigm. International Journal of
+spective. (Sept. 2018), 1–252.
+Human-Computer Interaction 29, 4 (March 2013), 243–255.
+Huatong Sun. 2013. Critical Design Sensibility in Postcolonial Con[151] Robert Paul Wolﬀ. 1970. In Defense of Anarchism. University of Calditions. AoIR Selected Papers of Internet Research 3, 0 (Oct. 2013).
+ifornia Press.
+[152] International Workers of the World. 2018.
+Preamble, ConLoren Terveen, Helena Mentis, Aaron Quigley, and Philippe
+stitution and General Bylaws of the International WorkPalanque. 2018. The evolution of SIGCHI conferences and the fuers of the World.
+Retrieved September 21, 2018 from
+ture of CHI. Interactions 25, 5 (Aug. 2018), 84–85.
+https://web.archive.org/web/20180606234641/https://www.iww.org/PDF/Constitution
+
+
