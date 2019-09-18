@@ -5,20 +5,20 @@ autor: Hugo Idárraga
 etiquetas: algoritmo, imagen, identificación, clasificación, control, visibilidad
 ---
 
-En los artículos escogidos, las palabras más comunes fueron: data; new; social; drone; human; power; identity; work; surveillance; technology.
+En los artículos escogidos, las palabras más comunes fueron: **data; new; social; drone; human; power; identity; work; surveillance; technology.**
 
 Más que excluir alguna palabra, creo que la búsqueda me exige pensar en otros términos que son importantes para la investigación. Pienso por ejemplo en power, human, surveillance, como palabras que debo tener en cuenta a la hora de escoger los términos claves en mis búsquedas. 
 
 La verdad tuve una experiencia muy diferente a lo que suponen las preguntas de este ejercicio. Antes que sentir que debo acotar mis búsquedas, lo que creo que es debo ampliarlas un poco más. Tal vez un problema tiene que ver con que esas palabras debo emplearlas en búsquedas de campos muy específicos para que puedan ser útiles. Además, creo que hay que hacer el ejercicio con un corpus de fuentes mucho más grande, pues tal vez los artículos escogidos para este ejercicio están muy enfocados en algunos de los subtemas de mi investigación. Integrando otros artículos que abarquen otros temas creo que puedo obtener una información o un análisis más eficaz para evaluar mis palabras claves y los alcances de mis búsquedas.
 
 
-Vínculo a Voyant Tools: https://voyant-tools.org/?corpus=9544cadf4289ac6888c76178b42a2c34
+**Vínculo a Voyant Tools:** https://voyant-tools.org/?corpus=9544cadf4289ac6888c76178b42a2c34
 
-Fuentes:
+**Fuentes:**
 
-– 01: Andrejevic, M. (2015). FCJ-187 The droning of experience. The Fibreculture Journal, (25 2015: Apps and Affect).
+1. Andrejevic, M. (2015). FCJ-187 The droning of experience. The Fibreculture Journal, (25 2015: Apps and Affect).
 
-– 02: Van Dijck, J. (2014). Datafication, dataism and dataveillance: Big Data between scientific paradigm and ideology. Surveillance & Society, 12(2), 197-208.
+2. Van Dijck, J. (2014). Datafication, dataism and dataveillance: Big Data between scientific paradigm and ideology. Surveillance & Society, 12(2), 197-208.
 
 – 03: Greene, D. (2015). Drone vision. Surveillance & Society, 13(2), 233-249.
 
