@@ -1,3 +1,10 @@
+---
+titulo: Identificación algorítmica
+fecha: 2019-18-9
+autor: Hugo Idárraga
+etiquetas: algoritmo, imagen, identificación, clasificación, control, visibilidad
+---
+
 En los artículos escogidos, las palabras más comunes fueron: data; new; social; drone; human; power; identity; work; surveillance; technology.
 
 Más que excluir alguna palabra, creo que la búsqueda me exige pensar en otros términos que son importantes para la investigación. Pienso por ejemplo en power, human, surveillance, como palabras que debo tener en cuenta a la hora de escoger los términos claves en mis búsquedas. 
