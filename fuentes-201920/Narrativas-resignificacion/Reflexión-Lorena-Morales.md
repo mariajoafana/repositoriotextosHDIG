@@ -1,11 +1,12 @@
 ---
-Título: Historias invisibles en un “lugar” visible. 
+titulo: Historias invisibles en un “lugar” visible 
 Memorias individuales y colectivas que resignifican el espacio patrimonial del Parque-Hacienda Montes
-Fecha: 17 de septiembre 2019
-Autor:
+fecha: 17 de septiembre 2019
+autor:
 - Magda Lorena Morales
 etiquetas: Historia pública, patrimonio, narrativas
 ---
+
 
 #Reflexión
 Luego del trabajo con la herramienta Voyant Tools, las palabras más frecuentes en el corpus de documentos son: cultural, 
