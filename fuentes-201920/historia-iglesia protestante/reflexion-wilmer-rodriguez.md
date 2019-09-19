@@ -8,7 +8,7 @@ Las palabras más frecuentes, después del análisis de Voyant – tools, son ig
  
 Enlace Voyant Tools: 
 
-https://voyant-tools.org/?corpus=91a1ed339e40ab22a2ec318cbb21c719&stopList=keyw
+https://voyant-tools.org/?corpus=91a1ed339e40ab22a2ec318cbb21c719&stopList=keywords-8a42cb46fdc7a232c0a7620f61791f15&panels=cirrus,reader,trends,summary,contexts
 
 Textos utilizados:
 
