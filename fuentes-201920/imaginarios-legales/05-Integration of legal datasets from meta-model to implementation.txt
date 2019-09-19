@@ -1,0 +1,358 @@
+Integration of legal datasets: from meta-model to implementation
+
+ 
+
+
+
+
+ABSTRACT
+ 
+Gioele Barabucci Department of Computer Science and Engineering University of Bologna barabucc@cs.unibo.it
+Francesco Poggi Department of Computer Science and Engineering University of Bologna fpoggi@cs.unibo.it
+ 
+Angelo Di Iorio Department of Computer Science and Engineering University of Bologna diiorio@cs.unibo.it
+Fabio Vitali Department of Computer Science and Engineering University of Bologna fabio@cs.unibo.it
+multiple KBs store information about the same entity, it is hard to
+ 
+This paper presents ALLOT, an ontology based on Akoma Ntoso to describe entities referenced in legal documents. The focus is on the use of ALLOT to bridge heterogeneous knowledge bases. We present some experiments in integrating heterogeneous legal datasets through ALLOT. We also discuss the lessons learned in the development of this ontology, lessons that can highlight some issues with the current landscape of legal formats and data.
+Categories and Subject Descriptors
+H.2.4 [Database management]: Systems—Distributed databases;
+H.3.3 [Information storage and retrieval]: Information search and retrieval—Query formulation
+General Terms
+Design
+Keywords
+legal ontology, knowledge base query, ontology alignment, entity description, linked data, ALLOT.
+1. INTRODUCTION
+More and more governments are now publishing their documents and proceedings in freely available knowledge bases (KBs), often as Linked Data silos [23]. In theory, this approach makes it possi- ble to connect and integrate such legal data with other sources, by exploiting ontologies and Semantic Web technologies. In reality, the interoperability between these knowledge bases is reduced by the fact that most of them are based on their own ad-hoc ontology, often based on existing DB structures. This means that, even if
+
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. To copy otherwise, to republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee.
+iiWAS2013, December 2-4 2013, Vienna, Austria Copyright 2013 ACM 978-1-4503-2113-6/13/12 ...$15.00.
+ 
+query these KBs in a simple way and, thus, to exploit this knowl- edge in an automated way.
+A possible solution to this problem would be the development of a meta-ontology that creates an uniform view on the available knowledge bases. Other ontologies such as Metalex+LKIF [10] have been proposed as meta-ontologies for the legal domain, but they are full-fledged ontologies, not simple unification layers.
+This paper discusses an alternative solution based on a minimal- ist and pragmatic approach. It presents ALLOT, a proof-of-concept ontology that describes the entities that are present in legal docu- ments (e.g., people, events, roles, etc.), whose main purpose is to link together knowledge bases based on different ontologies. AL- LOT is based around the principles of Akoma Ntoso non-ontology, i.e., the use of few, disjoint and very abstract top level classes (TLCs). ALLOT formalizes the Akoma Ntoso TLCs in a set of OWL classes, then implements these classes in terms of other well- known ontologies (FOAF, LKIF, WordNet, etc.). This approach leads to the creation of an ontology that is very simple, yet ready to be used as part of a more interconnected Linked Data ecosystem.
+The use of ALLOT is a first step towards the construction of a solid and sound Web of Data [8] for the legal field. By integrating information from different KBs it is possible to retrieve complex information on large amounts of data through simple query using Allot, as this paper illustrates.
+Another goal of this paper is to report our experience in building ALLOT with the current semantic technologies (OWL and RDF) and to distill some lessons learned on developing datasets for the legal domain.
+The discussion is then structured as follows. In section 2 we go through the most prominent legal ontologies, focusing on their relation to external entities; in section 3 we give an overview of the Akoma Ntoso standard, its idea of non-ontology and the way it deals with external entities; in section 4 we present ALLOT and show, in section 5, how ALLOT can be used in conjunction with existing legal ontologies; learned guidelines are summarized in sec- tion 6, before the conclusions.
+2. LEGAL AND PARA-LEGAL ONTOLOGIES
+The construction and integration of legal ontologies is a hot re- search topic. Legal ontologies are usually divided in two cate-
+ 
+gories: core and domain-specific. Ontologies in the former group describe the “common conceptual denominator of the field” [15] and provide definitions of general legal concepts such as norm, le- gal role, legal entity, while ontologies in the latter group cover more context-oriented concepts such us punishment (useful when dealing with criminal law), work of mind (useful in copyright regulations) and similar abstract ideas peculiar to certain fields. The overall picture is completed by top/upper ontologies that define even more abstract notions (e.g. place, event, change, containment) referred by core/domain ontologies.
+We propose an orthogonal classification of legal ontologies cen- tered around their relation to legal sources and external entities. In particular, we divide them in three groups: document-centric, content-centric and integration-centric.
+2.1 Document-centric ontologies
+We classify as document-centric those ontologies whose main goal is to describe the documental part of the legal documents. In particular, document-centric ontologies are used to model the evo- lution of legal sources, from their creation through their modifica- tions and steps in the legal processes they belong to.
+It is not a case that such ontologies usually exploit bibliographic models already established outside the legal domain. The most common approach relies on the IFLA’s Functional Requirements for Bibliographic Records (FRBR) [24]. FRBR is a general model for describing the evolution of any document. It works for both physical and digital resources, and it is not tied up with a particular metadata schema.
+The refinement of the FRBR levels in the context of legislative documents was first proposed in the MetaLex Ontology [9]. Met- aLex is a generic and extensible framework for the XML encoding of the structure of, and metadata about, legal sources. It also in- cludes an ontology that classifies bibliographic entities using the FRBR layers and defines different types of reference between such entities. Great relevance is given to events and actions in order to model the activities of creation, publishing and revision (amend- ment) of legislative documents. MetaLex also acts as the base for other ontologies, for example for the description of amendments in the data published by legislation.gov.uk initiative.
+Some document-centric are domain-specific. For instance, the Ontology of Greek Public Administration [29] describes the doc- uments and entities managed within the administrative office, and deals with peculiarities of this context.
+2.2 Content-centric ontologies
+Most of the existing legal ontologies can be classified as content- centric. These ontologies primarily define legal concepts carried by legal sources, these concepts are used to identify and make ex- plicit the meaning that can be found in the legal text present inside a document. Some of the things they describe are the relations between different concepts (e.g. “abigeat” is a particular kind of “theft”). They are particularly important as they form the basis for legal knowledge acquisition and legal reasoning.
+One of the most relevant to our work is LKIF-Core Ontology [20]. The Legal Knowledge Interchange Format (LKIF) is a for- mat enabling the translation between legal knowledge bases, that use their own models and formalisms. Within the overall initia- tive, a central role is played by a core ontology that acts as main reference for such translation processes. The ontology defines ‘ba- sic concepts of law’ and is organized in three levels, each covering orthogonal aspects of the domain of interest: Top, Intensional and Legal. The upper level is borrowed from the upper level of the LRI-Core ontology. The intentional level of LKIF-Core models the
+ 
+behavior of agents, while the legal one introduces domain-specific concepts such as rights, powers, norms, legal agents, etc.
+CLO (Core Legal Ontology) [18] is another widely adopted content-centric core ontology. It defines legal entities and rela- tions by exploiting classes and properties from the DOLCE foun- dational ontology [25]. The internal organization in three levels (Top-level, Core and Domain-specific), as well as its overall goal, makes CLO similar to LKIF-Core. The fact that the upper level uses a foundational approach is a very important difference. CLO is strongly based on the rich axiomatization and reification pro- vided by DOLCE, and is an extremely powerful logically-sound framework.
+While the ontologies mentioned so far define core concepts, other content-centric ontologies focus on specific domains. For instance, the ontology of Dutch criminal law, called OCN.NL [4], describes concepts related to depositions and hearings and ‘anchors’ these concepts to more general ones defined in LRI-Core.
+2.3 Integration-centric ontologies
+The third group includes ontologies that give much relevance to the integration of legal sources and concepts to external entities, that exist outside the legal domain and are independent of it. These ontologies are widely used, for instance, to model organizations and people involved in the creation and consumption of legal in- formation. The Parliament Ontology (PARL) [3] and Central Gov- ernment Ontology (CGOV) [1] are two examples developed within the data.gov.uk initiative: they respectively model the organization of the UK Parliament and the Central Government. The nature of these ontologies led designers to reuse straightforwardly the FOAF (Fried of a Friend) ontology [11] to model people, their activities and their relationships with other people and documents. A similar approach has been used for the formalization of “Ontologia della Camera dei Deputati” (OCD) that describes the organization of the Chamber of Deputies in the Italian Republic [2].
+In all these cases, designers need to align different ontologies and express relations among terms and concepts: terms are sometimes used in different contexts with slightly different meanings, in other cases apparently different terms refer to the same concept, in others a term is a specialization of another one, and so on. A very common solution, adopted by the aforementioned projects as well, consists of reusing the SKOS vocabulary [7] to express those relations.
+This last point help us introducing another branch of legal on- tologies we classify as integration-centric: the ‘lexical ontologies’. A lexical ontology consists of a set of terms related to each other by semantic relations – such as hyperonymy, meronymy, instance- of, etc. – and aggregated in ‘synset’ when they refer to the same concept. Such ontologies, even if not rigorous and powerful as a formal ones, are able to capture the most relevant and used con- cepts in a given domain. One of the most relevant is Jur-IWN (Jur- ItalWordnet) [28]. The project aims at extending EuroWordnet, the European counterpart of WordNet, with legal information. It de- fines a large set of legal terms that can be recognized within texts and related to each other. These concepts are directly mapped into the main entities of CLO.
+The integration between textual resources and core ontologies have also been successfully exploited for micro-ontologies merging [15]. In this paper, authors propose a construction method to build legal ontologies by merging small sets of entities and relations (i.e. micro-ontologies) that describe a narrow domain-specific context, and by aligning them to the CLO core ontology.
+Notice that most of the ontologies we mentioned falls exclusively in one category. For instance, an ontology for criminal law might be classified as content-centric as it define concepts that are rel-
+ 
+evant even outside the legal documents they are referred by (for instance crime, punishment, court, etc.) but also document-centric as it defines notions like act, article, comma for modeling the legal sources where a criminal law was published in.
+3. THE AKOMA NTOSO FRAMEWORK AND NON-ONTOLOGY
+Akoma Ntoso is an open XML standard for parliamentary, leg- islative and judiciary documents [6][5]. The documents are strongly organized in layers, each addressing a specific problem. The text layer provides a faithful representation of the original content of the legal text, the structure layer provides a hierarchical organization of the parts present in the text layers, the metadata layer enriches un- derlying layers with ontological information so that semantic data can be shared and semantic tools can perform automatic reasoning on them. One of the peculiar features of Akoma Ntoso metadata layer is the ability to record multiple (and even contrasting) inter- pretations of the same legal text; this feature make Akoma Ntoso documents extremely rich sources of legal information, not only plain legal texts.
+The Akoma Ntoso specifications, instead of forcing document authors to stick to one particular ontology, specify a very broad set of general guidelines that an ontology should conform to in order to be used in conjunction with Akoma Ntoso documents. We nick- name these informal guidelines the Akoma Ntoso non-ontology. The goal of this section is to recap these guidelines and to provide some background for the following discussion about ALLOT.
+3.1 TLC: Top Level Classes
+The informal ontological structure defined by Akoma Ntoso for representing metadata is grounded in a basic set of concepts called Top Level Classes (TLC) 1 The word “informally” is used because, on purpose, there is no mandated, exhaustive and shared ontology that defines these classes and the relation among them: what exists is a guideline that allows users (especially producers) of Akoma Ntoso documents to develop their own ontology according to their particular needs or to adopt one of the already existing ontologies, as long as compatible with the principles behind the TLC.
+These top level classes do not have a formal definition, they only have a broad description, useful to identify in very general terms what is their purpose and how one TLC differs from another.
+All this informality is needed to allow a great degree of flexibility in what can be expressed in the metadata layer of Akoma Ntoso documents, in order to adapt any legal document to many different ontological representation of concepts. It is the duty of a third party (e.g. the document creator or the document users) to associate a clear and formal semantics to each class using a specific formalism (e.g. OWL). This semantical detachment is an important feature that allows Akoma Ntoso to maintain documents understandable and consumable independently from the passing of time: future toolmakers (“The ‘future toolmaker’ is 10 years old now.” [26]) will have clues about the intended meaning of a marker even in the unfortunate case the formal ontology is no longer available.
+Any ontology that is used to model an Akoma Ntoso knowledge base must be compatible with its non-ontology. Compatibility with the non-ontology is a straightforward concept: an ontology is com- patible as long as it is possible to associate every TLC to at least one of its “class” and this does not cause any “inconsistency”. In this definition the terms “class” and “inconsistency” must be interpreted
+ 
+1http://www.akomantoso.org/release-notes/
+akoma-ntoso-3.0-schema/naming-conventions-1/ uri-of-non-document-entities
+ 
+in a very liberal way. In lay terms, a class is a way to group individ- uals and inconsistency is a state of unrecoverable error in an auto- mated reasoner. The exact meaning of these two terms depends on the technology used to implement the ontology: in OWL “classes” refers to a class and “inconsistency” to a Description Logic incon- sistency, in Topic Maps “class” would be topic types and the mean- ing of “inconsistency” would depend on the tool used to defined the consistency constraints.
+The basic set of concepts required by Akoma Ntoso are the TLC: Top Level Classes. There are 14 top level classes: 10 main TLC used to describe external resources and 4 document-related TLC based on FRBR.
+The 10 main top level classes allow document creators to identify individual entities present in the document:
+Concept any non-tangible notion or idea: e.g. “the approval of an act”, “peace”, “child”.
+Event something that “happened”, “will happen”, “may happen”or “have lasted”: e.g. “World War II”, “the coming into force of act 27”, “Sunday 26th of August 2012”.
+Organization a recognizable group of individuals; organizations can be formal or informal, have a strong degree of internal or- ganization or be completely anarchic, have their own name or be anonymous, have their own legal status or be impromptu groups: e.g. “the workers’ union”, “France”, “the Socialist party”, “the proponents of bill 103/32”.
+Person a human being, regardless whether they are alive or de- ceased, named or unnamed, fictional or real: e.g. “John Doe”, “the person with ID RSSMRA72H12L116B”.
+Place a location that can be referred to also using geographical coordinates: e.g. “the Rio river”, “Marrakesh“.
+Process a series of actions or steps directed to some end: e.g. “the approval of act 317”, “the election of the 11th president of the senate”.
+Reference a reference to a resource; usually the resources refer- enced are other documents, at one of the FRBR level.
+Role a part played by a person, an organization or an agent in gen- eral, in a certain situation: e.g. “member of parliament”, “speaker”, “head of office”, “bill proposer”.
+Term a word or group of words whose meaning is defined in a for- mal and precise manner: e.g. “opening sentence”, “rebuttal”, “impeachment”.
+Object anything that can referred to but that does not fit the other top level classes.
+There are also 4 additional document-related top level classes that mimic the FRBR group-1 abstraction levels: Work, Expression, Manifestation and Item.
+These TLCs have been devised in such a way that choosing which TLC fits which entity is an obvious decision in all cases except the most intricate and perverse.
+Another of the main points behind the use of TLCs instead of complete and more refined ontologies is that this solution allows for a gradual evolution of the tools that operate over Akoma Ntoso documents. Having to describe each reference in terms of a TLC creates a minimal set of semantic data that can be used as a starting point to reason over these documents. With this small set of asser- tions even the simplest tools can answer basic queries like “what
+ 
+are the people referenced in this document?”. With a little more effort, smarter tools can extract more information from the same references (for instance dereferencing the entities’ URIs) and an- swer more complex queries like “what are the people referenced in this document that do not belong the the Lib party?”. Tools that are even more smart can use external KBs to link these assertions to related assertions in other datasets, making it possible to reason over the all the ontological information made available.
+The simplicity of the TLC model allows systems to start from the basics, using simple tools and simple ontologies to describe the resources they references, and later, when the need arises, to switch over to more powerful tools and complicated ontologies.
+3.2 The Akoma Ntoso naming convention
+The independence of Akoma Ntoso from a specific ontology is only part of its design. Further flexibility, maintainability and long- term preservation are guaranteed by the way Akoma Ntoso deals with external entities. Instead of adopting an immutable naming structure, Akoma Ntoso implements a flexible scheme. Its naming convention is actually built on top of the non-ontology and TLC. Although Akoma Ntoso documents’ authors are not forced to fol- low a precise ontology, in fact, they are still required to identify external entities with one of the top level classes described above. Users are required to indicate one of these classes for each exter- nal entity (as type of the reference). This fact creates a minimal basis of knowledge made available to tools that operate on these documents.
+URIs are built using the following scheme:
+/ontology/{top level class} /{global name} .
+Each URI starts with the fixed part /ontology/. This first com- ponent identifies the pointed resource as an entity that is not a doc- ument (the Akoma Ntoso naming convention requires every docu- ment URI to begin with the identifier of the issuing country). The second part of the URI identifies which top level class the entity belongs to. The last part is a global name used to identify the ex- act entity we are referring to. Designers are free to use their own schemes but global names must, as the whole URI, be univoque identifiers: an entity can be referred to by more than one global name, but each global name must always identify the same entity, in every context.
+A resolution layer completes the picture. Its role is to link the URIs used in the documents to concrete entities (when available). Two types of mechanisms can be used: a redirection service or a mapping dataset. The redirection service maintains internally a set of mappings from the published URIs to the latest or most refined versions of the entities being referenced, and uses chains of HTTP 3xx redirects to resolve URIs. The other mechanism consists in the publication of the mapping database in an open format: clients are informed of all the mappings between the published URIs and the URIs where the entity data can be found (for instance through the owl:sameAs property) and can directly retrieve the right resources.
+4. ALLOT: A LIGHT LEGAL ONTOLOGY ON TLC
+ALLOT is a proof-of-concept ontology we developed based on the Akoma Ntoso non-ontology following the associated guidelines and best practices; it is available at http://akn.web.cs.unibo. it/allot/. The ALLOT ontology is meant to be used to describe in detail the references present in Akoma Ntoso documents, both documental and non-documental references. ALLOT can also be used to bridge KBs extracted from Akoma Ntoso documents to KBs that use other ontologies such as Metalex or PARL (data.gov.uk):
+ 
+ALLOT integration
+Metalex OCD ...
+integration integration 
+ALLOT test data
+
+ALLOT implementation
+
+ALLOT core FRBR DC Terms ...
+  FOAF LKIF 
+Figure 1: ALLOT layers
+one of the objectives of this work is indeed to make a first step towards the construction of a Web of Data [8] in the legal field. By integrating information from different KBs it is possible to retrieve complex information on large amounts of data in a single way using Allot, as shown in 5.4.
+ALLOT is composed of three layers, depicted in figure 1: core (where the TLC are declared and documented), implementation (where the TLC are implemented in terms of well known ontologies such as FOAF or SKOS) and external integration (small ontologies used to align the ALLOT implementation to existing datasets based on other ontologies). As expected, ALLOT uses the naming con- ventions discussed in the previous section and it is strongly tied up with the TLC.
+In addition to these layers, there is also a test dataset that con- tains test data and examples. This dataset contains many entities described using the ALLOT ontology. We used this dataset to check the consistency of our ontology during its development. This dataset also constitutes a set of examples that can be used by im- plementers to see how the various pieces of the ALLOT implemen- tation fit together and how to create similar datasets from internal databases.
+4.1 The core layer
+The core layer is a basic transposition of the TLCs in OWL classes. It contains one OWL class for each TLC and few other properties. It also documents what is the intended use of each TLC. The classes and properties included in this layer form the basic classification made available by any ALLOT-based dataset; query writers can be sure that every knowledge base based on AL- LOT contains at least this “skeleton” of organization.
+From a conceptual point of view, this layer is equivalent to the non-ontology described in section §3.1.
+From a more technical point of view, the ontology that real- izes this layer exploits at least one of the advanced features of OWL2: name punning. All the top level classes are both OWL classes and individuals of the class allot:Concept.  The ratio- nale behind this is to allow designers to distinguish between, for example, the concept of what is a process (represented by the class allot:Process itself) from the concrete instances of these pro- cesses, i.e. the approval of act 345 (represented by individuals of type allot:Process).
+4.2 The implementation layer
+The implementation layer is the main component of ALLOT. Its role is to give a more precise definition to the top level classes orig- inally defined in the core layer. These layers make ALLOT-based datasets interoperable with current semantic web and linked data datasets.
+In practice, each top level class has been linked to similar classes
+ 
+ 
+Figure 2: ALLOT core layer
+
+  
+Figure 3: ALLOT implementation layer
+from other ontologies, for example the TLC Person has been linked to FOAF Person and the birth of a person has been described in terms of BIO Events [14], as can be seen in figure 4.
+Various kinds of “links” have been used: in some cases a TLC has been made subclass of other external classes; in other cases class or property equivalences have been used; in yet other cases external classes have been used as ranges or domains of newly de- fined properties. Various ontologies and vocabularies have been used: FOAF to describe people, BIO for biological events (i.e. birth and death), LKIF-core for intervals that can interoperate with other legal knowledge bases, PRO [30] for transient roles, FRBR [12] for documents, DC Terms [27] for various accessory datatypes, etc. In addition to these external ontologies, some definitions has been de- veloped from scratch as we have found no published ontology that could satisfy our criteria for fitness.
+The development of this layer has been quite challenging: most of the ontologies we wanted to use to increase the interoperability of ALLOT-based datasets cannot be used together without mak- ing the datasets inconsistent, as we will show later in this section.
+ 
+2This and the following RDF examples are written in Manchester Syntax [21]. Some well-known prefixes are not shown in these examples: the complete list is available at http://akn.web.cs. unibo.it/allot/prefixes
+ 
+Prefix :  allot :  < http :// akn . web . cs . unibo . it
+' / allot />
+Prefix :  test :  < http :// akn . web . cs . unibo . it /
+' allot / test >
+In d iv id u al : test : ke . susan - doe -
+' i2 8 i1 9 k 5 9 3 8 2 f
+Types :
+allot : Person Facts :
+bio : birth test : birth - ke . susan - doe -
+' i28i19k59382f ,
+allot : name test : name -2 - ke . susan - doe -
+' i28i19k59382f ,
+allot : name test : name - ke . susan - doe -
+' i28i19k59382f ,
+allot : role  test : member - of - parliament -
+'→ ke . susan - doe - i2 8 i1 9 k 5 9 3 8 2 f
+Figure 4: Example of an ALLOT Person individual2
+These incompatibilities and issues made impossible the direct use of these external ontologies. Some of the notable adjustments we made are related to the use of context objects (modeled after the Sit- uation design pattern [17]) to keep track of properties whose value can change in the future, for instance names or political affiliations; an example of such context objects can be found in the ALLOT characterization of persons’ names, as show in the example in fig- ure 5. People in ALLOT are individuals of the FOAF:Person class. In the FOAF model each person having more than one family name is described by attaching multiple foaf:familyName properties to a FOAF:Person individual. The problem with this approach is that one does not know when each of these name is or had been valid. On the other hand, in the ALLOT model each person (that is still a FOAF:Person) has one or more contextualized name ob- jects that hold all the name information (the context of such ob- jects can be an interval of time, a place or a social environment). This creates a problem: if we were to reuse the foaf:familyName property to link the contextualized names to the string with the ac- tual surname, the reasoners could conclude that a contextualized name object, being the subject of a foaf:familyName assertion, is also a FOAF:Person leading to an inconsistency. In this case we did not reuse the foaf:familyName property and implemented our own set of name properties. We could have created a property chain that stated the equivalence between foaf:familyName and allot:name + allot:familyName but OWL does not allow the use of data properties in property chains.
+In some cases we were able to use existing ontologies without too many problems because their underlying conceptual model was similar to that of ALLOT. For example, roles are described using a mixture of PRO roles and a pool of ad-hoc roles created for the legal domain. Similarly, we described the various TLC FRBR classes as equivalent to their respective classes in the SPAR FRBR ontology, without the need for any additional modification.
+4.3 The external integration layer
+The external integration layer of ALLOT is the piece that makes it possible to link knowledge bases modeled on ALLOT with knowl- edge bases modeled on other ontologies. It also allows the use of ALLOT as a single conceptual model to be used to query different knowledge bases.
+Without links to other external ontologies, knowledge bases based on ALLOT would be hard to be used in conjunction with other knowledge bases, exactly as it happens now when trying to use together data from a Metalex KB and a PARL KB. However, it
+ 
+Prefix :  allot :  < http :// akn . web . cs . unibo . it
+' / allot />
+Prefix :  test :  < http :// akn . web . cs . unibo . it /
+' allot / test >
+In d iv id u al : test : ke . susan - doe -
+' i2 8 i1 9 k 5 9 3 8 2 f
+Types :
+allot : Person Facts :
+allot : name test : name - ke . susan - doe -
+' i28i19k59382f ,
+allot : name test : name -2 - ke . susan - doe -
+'→ i2 8 i1 9 k 5 9 3 8 2 f
+In d iv id u al : test : name - ke . susan - doe -
+' i2 8 i1 9 k 5 9 3 8 2 f
+Types :
+allot : N am eIn C o n tex t Facts :
+allot : interval test : interval - name - ke .
+' susan - doe - i28i19k59382f , allot : g iv en N am e " Susan ", allot : fam ily N am e " Doe "
+In d iv id u al : test : name -2 - ke . susan - doe -
+' i2 8 i1 9 k 5 9 3 8 2 f
+A n n o tatio n s :
+rdfs : com m ent " The name Susan Doe got
+' after her first m arriage ." Types :
+allot : N am eIn C o n tex t Facts :
+allot : interval test : interval - name -2 -
+' ke . susan - doe - i28i19k59382f , allot : g iv en N am e " Susan ", allot : fam ily N am e " Smith "
+Figure 5: Record for Susan Doe in ALLOT
+
+is of paramount importance to have a mechanism in place that can make all these datasets talk to each other. Interoperability is espe- cially important when dealing with current international law: many of the entities and documents referenced in local law are often de- rived from international treaties or directives, or they refer to the same supranational entities. All these common entities could act as joining points for datasets, making it possible to query not only na- tional or regional knowledge bases but also foreign datasets. How- ever, this kind of interoperability requires that the datasets share part of their underlying ontologies or that their ontologies have been aligned somehow. The external integration layer of ALLOT solves this problem acting as a N-to-1 converter, making it possible to query these datasets as if they where originally based on ALLOT. The integration layer of ALLOT is composed of independent modules, i.e. small ontologies that describe how to align ALLOT to other existing ontologies, connecting classes and properties of an external ontology to their equivalent in ALLOT. Each of these mod- ules is specialized in linking ALLOT to a precise ontology, using the most appropriate techniques. There are various techniques that can be used to link knowledge bases based on different ontologies: sameAs and equivalentClass relations, alignments made using specialized alignment ontologies, the generation of new statements using SPARQL CONSTRUCT, etc.; the modules we developed, de-
+scribed in section 5, combine many of these techniques.
+The main reason to have this integration layer separated from the main parts of ALLOT (i.e., the core and implementation layers) is the will to keep ALLOT small and understandable. In order to use
+ 
+ALLOT together with other knowledge bases, it is necessary to deal with many other ontologies; to support all these ontologies directly inside ALLOT would greatly reduce the simplicity of the ontology and make it hard to maintain. Another reason for this separation is that it allows the development of independent modules that can be taken into account only as necessary, avoiding the possible inco- herence that may arise when dealing with incompatible ontologies.
+5. LINKING ALLOT TO EXISTING ONTOLOGIES
+The alignment of ALLOT to other ontologies is not a trivial task, as in general are ontology alignments. As usual, the main difficulty arises from the fact that the ontologies already in use in publicly available KBs use very different concepts. Not only the concepts are different, often the use of certain concept also implies the cre- ation of intermediary entities that have no equivalent in other on- tologies.
+In each of the linking modules we developed, we used various techniques to address the problems we faced. For example, the alignment with Metalex has been done using SKOS properties to describe the relation between ALLOT classes and properties to the respective classes and properties in Metalex. This has been made possible by the fact that Metalex and ALLOT share a core set of concepts. For the OCD (Ontologia Camera Deputati) ontology [2] we developed, instead, a set of SPARQL CONSTRUCT queries to translate the available OCD individuals into equivalent individu- als modeled using ALLOT. This more complex and less clean ap- proach has been forced by the great conceptual distance between ALLOT and OCD. All the modules of the integration layer are available at http://akn.web.cs.unibo.it/allot-ext/.
+5.1 SKOS alignment to Metalex
+Metalex covers only part of the TLCs and, thus, of the ALLOT ontology: it deals only with documents as bibliographic things and events. Moreover, the conceptual model that underlies the Metalex ontology is very different from that of ALLOT: none of its classes, properties and implied relations have exact equivalents in ALLOT. The problem here is that, although, there is certain degree of over- lap between the concepts expressed in Metalex and those of AL- LOT, none of these similarities match the technical and semantic constraints imposed by OWL relationships such as equivalent- Class or sameAs.
+Thus, to document and preserve the similarities that exist be- tween Metalex and ALLOT, we followed the recommendations of ‘Ontology matching’ [16] and used SKOS properties to express in broad terms what is the relations between the classes of Metalex and those of ALLOT. For example we state that metalex:Event skos:narrowMatch allot:Event. In other words, we state that, even if it is not possible to create a mathematically precise relation between these two classes, tools should know that the definition of what is considered a allot:Event is similar but narrower than that of what constitutes a metalex:Event.
+While these SKOS annotations are not directly usable by DL reasoners, there are additional tools and API (such as [13]) that can help automated analysis system in the use of datasets that contain heterogeneous data, partly based on Metalex and partly based on ALLOT, allowing fuzzy matching between entities based on these two different ontologies.
+5.2 SPARQL alignment to OCD
+The alignment of ALLOT with OCD was not straightforward. There exist many intrinsic differences between these models that
+ 
+make a direct translation between them practically impossible. First of all, the ontology mixes the concept of person with that of role. For example, there are 10 different deputies whose name is “Gior- gio La Malfa”, all with different titles, descriptions and duties, yet they all have the same birth date. An example of such record is shown in figure figure 6, in this case his mandate for the 15th Ital- ian legislature. Obviously the real meaning behind all these records is that there is a person called “Giorgio La Malfa” that has been elected 10 times in the Camera. While this is easy to understand for a human being, it is very hard for a computer program to “col- lapse” all this slightly different records into a single one without resorting to ad-hoc fixes valid only for this dataset. Another prob- lem is the way this ontology deals with memberships: similarly to people records, details about groups and affiliations are recorded in many different yet equivalent assertions, making the dataset unnec- essarily big and impossible to navigate using standard tools.
+The design of OCD shows clearly that it has been extracted di- rectly from a relational DB whose design has, in turn, been de- veloped “organically” over the years. This fact how some positive effects (it is probably very easy for the IT department of the Italian parliament to create and update these datasets) but also some grave drawbacks. For instance, the table with the list of Presidents of the Italian Republic has been turned into a class (direct subclass of owl:Thing) and their rows made instances of that class, confusing the concept of role with that of person, but also creating a very flat class structure that does not reflect the relation between the various classes of roles and events.
+Prefix :  ocd :  < http :// dati . camera . it / ocd /> In d iv id u al : ocd : deputato . rdf / d3240_ 15
+Types :
+ocd : deputato Facts :
+foaf : gender  " male ",     foaf : firstN am e  " G IO R G IO ", foaf : surnam e  " LA  MALFA ",    dc : title  " G IO R G IO  LA  MALFA ,  XV
+' L eg islatu ra della R ep u b b lica ", rdfs : label  " G IO R G IO  LA  MALFA ,  XV
+' L eg islatu ra della R ep u b b lica ", ocd : rif_ leg ocd : leg islatu ra . rdf /
+' repubblica_    15    , ocd : rif_ in carico ocd : incarico . rdf /
+' i3 3 2 _ 3 2 4 0 _ 2 8 _ 2 0 0 7 0 4 1 9 ,
+ocd : aderisce  _ : http :// dati . camera . it /
+'→ ocd / deputato . rdf # ader1
+In d iv id u al :  _ : http :// dati . camera . it / ocd /
+' deputato . rdf # ader1 Facts :
+ocd : co m p o n en te _ : http :// dati . cam era . it
+' / ocd / deputato . rdf # mem2 , ocd : rif_ g ru p p o P arlam en tare  ocd :
+' g ru p p o P arlam en tare . rdf / gr332 , rdfs : label  " MISTO
+'→  (0 3 .0 5 .2 0 0 6 -2 8 .0 4 .2 0 0 8 ) "
+Figure 6: OCD: a member of parliament record
+Another problem that can be seen in the organization of OCD is the extreme redundancy of data and the lack of connection be- tween related records. For instance, the record in figure 6 shows that the mandate of "Giorgio La Malfa” in the 15th Italian legis- lature (whose URI is deputato.rdf/d3240_15) is not linked in any way to the person “Giorgio La Malfa” (whose URI is per- sona.rdf/p3240), elected several times as Deputy. At the same time, information about the mandate itself are kept in a
+ 
+separate entity,  identified by the URI mandatoCamera.rdf/ mc8_3240_19790617.
+Regardless of the quality of the OCD, to work with it is manda- tory if one is interested in using the data made available by the Italian lower chamber of the Parliament, as that is the ontology used to model their datasets. Given the irreconcilable differences in the way OCD and ALLOT model entities, we linked these two ontologies using mini-datasets generated on the fly using SPARQL CONSTRUCT. Basically, a SPARQL query is used to interrogate the OCD repository. Once the data is returned it is converted into a set of ALLOT-based assertions. These new assertions will then be used to query ALLOT-based datasets and the OCD dataset at the same time using a single query.
+To illustrate this technique, we will query the dataset about a member of parliament. As already pointed out, the crucial point is that the OCD dataset contains multiple instances, one for each time that a person has been elected. This information is actually redun- dant and not completely matching the ALLOT model: one should rather define a role “Deputy” and indicate the context (legislature and time period) a person was given that role. ALLOT assertions stating that a person was given a role (of Deputy) in a specific time frame can be generated straightforwardly. The TLC classes involved in such statements would be: allot:Person, directly mapped into ocd:person, and allot:Role, to indicate the role of Deputy, linked by the property allot:RoleInContext of the class allot:Person. The snippet in figure 7 shows the SPARQL query to achieve this goal with the OCD dataset.
+PR EFIX ocd : < http :// dati . cam era . it / ocd
+' />
+PR EFIX allot : < http :// akn . web . cs . unibo
+' . it / allot /> C O N S T R U C T {
+? person a allot : Person ; allot : name ? n am eIn C tx ; allot : role ? ro leIn C tx .
+? ro leIn C tx a allot : R o leIn C o n tex t ; allot : roleT ype  allot :
+' m em b er_ o f_ p arliam en t  .
+? nam eIn C tx a allot : n am eIn C o n tex t ; allot : g iv en n am e  ? firstN am e  ; allot : fam ily n am e  ? surnam e  .  }
+WHERE {
+? it_dep a ocd : deputato ; foaf : firstN am e ? firstN am e  ; foaf : surnam e  ? surnam e  .
+BIND  ( URI ( CO NCA T (" http :// akn . web . cs .
+' unibo . it / allot - ext / it - parl /" , ?
+' firstName ,  "_ ",  ? surnam e ))  AS  ?
+' person ) .
+BIND  ( URI ( CO NCA T (" http :// akn . web . cs .
+' unibo . it / allot - ext / it - parl / name -" ,
+' ? firstName ,  "_ ",  ? surnam e ))  AS  ?
+' n am eIn C tx ) .
+BIND  ( URI ( CO NCA T (" http :// akn . web . cs .
+'→ unibo . it / allot - ext / it - parl / role -" ,
+'→ ? firstName ,  "_ ",  ? surname ,  " -" ,
+'→ substr ( str ( rand () ) , 3 , 15) )) AS ?
+'→ ro leIn C tx ) . }
+Figure 7: Example of SPARQL CONSTRUCT query for ALLOT-OCD
+We used a similar approach to align other (flat) pieces of data with the ALLOT hierarchical data model. The same conversion, for instance, was applied to model the government assignments (processing the property ocd:rif_incaricoGoverno connected to the class ocd:incaricoGoverno) or the membership of a
+ 
+Deputy to a Parliamentary group and/or to a Parliamentary com- mittee. Space limits prevent us to go into details of such align- ment. Some interesting issues, for instance, have also been raised by the translation of places and biographic information, as well as the normalization of missing data. Further details can be found in the online version of this ontology module.
+5.3 SPARQL alignment to PARL
+As already discussed, data.gov.uk is an initiative of the UK gov- ernment for the publication of various pieces of data. Of particular interest is the data about the parliament, its members and their roles. Such data is published based on the PARL ontology [3].
+The structure of the parliamentary data published on data.gov.uk does not resemble neither the DB-like structure of OCD nor the more abstract model of ALLOT. As in the OCD case, new entities must be generated to be able to integrate ALLOT to PARL.
+The integration process for PARL differs from that OCD in one key point: the need to enrich the data with external pieces of infor- mation. For instance, for each member of the parliament data.gov.uk publishes only the name and the party membership. Other infor- mation, such as birth date or the duration of the mandates, must be retrieved from external sources, for example from DBPedia3 or TheyWorkForYou4.
+After adding this information to the data described in PARL, we proceeded with the integration with ALLOT in a manner similar to what we did with the OCD alignment. For example, the SPARQL excerpt in figure 8 shows the alignment of the some biographic information such as name, surname and date of birth.
+PR EFIX  allot :  < http :// akn . web . cs . unibo . it /
+' allot />
+PR EFIX  parl :  < http :// referen ce . data . gov . uk
+' / def / p arliam en t /> C O N S T R U C T {
+? person a allot : Person ; allot : name ? n am eIn C tx ; allot : role ? roleIn C tx .
+? ro leIn C tx a allot : R o leIn C o n tex t ; allot : roleT ype  allot :
+' m em b er_ o f_ p arliam en t  .
+? nam eIn C tx a allot : n am eIn C o n tex t ; allot : g iv en n am e  ? firstN am e  ; allot : fam ily n am e  ? lastnam e  .  }
+WHERE {
+? uk _ m em b er foaf : name ? uk_ nam e ; foaf : firstN am e  ? firstn am e  ; foaf : lastN am e  ? lastnam e  ; parl : p arty M em b erO f  ? party  .
+BIND  ( URI ( CO NCA T (" http :// akn . web . cs .
+' unibo . it / allot - ext / uk - parl /" , ?
+' firstName ,  "_ ",  ? surnam e ))  AS  ?
+' person ) .
+BIND  ( URI ( CO NCA T (" http :// akn . web . cs .
+' unibo . it / allot - ext / uk - parl / name -" ,
+' ? firstName ,  "_ ",  ? surnam e ))  AS  ?
+' n am eIn C tx ) .
+BIND  ( URI ( CO NCA T (" http :// akn . web . cs .
+'→ unibo . it / allot - ext / uk - parl / role -" ,
+'→ ? firstName ,  "_ ",  ? lastname ,  " -" ,
+'→ substr ( str ( rand () ) , 3 , 15) )) AS ?
+'→ ro leIn C tx ) . }
+Figure 8: Excerpt of the integration module for data.gov.uk
+3http://dbpedia.org/
+4http://www.theyworkforyou.com/
+ 
+5.4 Using ALLOT to query heterogeneous sources
+It is possible to exploit ALLOT and the modules of its exter- nal integration layer to query datasets modeled on different ontolo- gies in an uniform way. First, the various modules are applied and ALLOT-compatible statements are made generated from the avail- able data. Then, the queries are performed using only the classes, the properties and the conceptual structure of ALLOT. This allows for the definition of queries that must not be revised in case new datasets with new ontologies are added to the set of available KBs. An example of query made to heterogeneous datasets is show in figure 9. The query in that figure returns the list of member of Par- liament under 40 years of age. The same query can return entities from both the UK parliamentary data (thanks to the module excerpt shown in figure 8) and from the IT parliamentary data (thanks to the
+module shown in the previous section).
+PR EFIX  allot :  < http :// akn . web . cs . unibo . it /
+' allot />    SE LEC T  D IS T IN C T  ? p WHERE {
+? p a allot : Person ; allot : name  ? firstN am e  ; allot : surnam e  ? lastN am e  ; bio : event [
+a  bio : Birth  ;   bio : date ? b irth D ate
+] .
+FILTE R ( ? b irth D ate >= "1972 -01 -01"^^ xsd
+'→ : date ) }
+Figure 9: ALLOT query for members of parliaments under-40
+6. LESSONS LEARNED AND OPEN ISSUES
+ALLOT is one of the first experiments of following the Akoma Ntoso schema to build an ontology. In this section we dis- cuss which are the main lessons we learned form this experience, distilling some guidelines to designers of legal ontologies.
+L0 - Link ontologies to existing ones A widely accepted requisite of current ontologies is to be “compatible” or “linkable” with other ontologies employed nowadays in the Linked Data world and existing data silos. For example it is fundamental to have a way to relate people’s instances to FOAF classes, as there is widespread support for those classes in many tools. Although there are issues in creating effective links between some ontologies, as discussed in the previous section, it is a good practice to reuse shared ontologies, especially for basic types and classes. ALLOT, for instance, uses several mod- ules to define places, events, datatypes and so on.
+L1 - Use entities/relations Another problematic detail, often not addressed in current ontologies, is the fact that most of the entities properties are not rigid and immutable, they can change as time passes by. Some of these properties can change frequently, for example an MP political association, while others can change more rarely, but it is important to record these changes even as infrequent as they are. The most common of such properties is a person name. Person names are often regarded as “rigid”entities/relations: one of the most innovative aspects of ALLOT is its support for prop- erties that change as the time passes by. Although most of the entities properties are not rigid and immutable, this is often
+ 
+not addressed or undervalued in current ontologies. Tempo- ral roles, such as being a member of parliament, are very clear examples of this issue: they are often erroneously cod- ified using a subclass relation instead of an association be- tween a time-bound role record and a person record. This latter solution, implemented by ALLOT through context ob- jects, gives designers much more flexibility and expressivity. Notice that such an approach is also worth adopting for those properties that change more rarely but need to be recorded even as infrequent as they are. The case of person name is meaningful. A common mistake made when dealing with name changes is to modify the record of the person, over- writing the old name with the new one. This is a bad practice because, first, it loses information that may be important and, second, it fails to show that a change have happened. For properties that can change in time (most of them can) it is important to contextualize such properties with time bound- aries (as shown in section 4). Similar considerations can be made for subclass relations: it is common to see things like MemberOfParliament as subclass of Person. While it is true that every member of parliament is a Person5, to be a member of parliament is not a rigid property of a person, a property that does not change as time passes by6. Given that “to be a member of parliament” is a temporary position, it is better described as an association of a time-bound role to a person rather than as a specialization of the class.
+L2 - Adopt patterns Legal design patterns[17] proved to be help- ful for ALLOT. In general, it is helpful for every new on- tology to take into account modern modeling methodologies such as OntoClean [19]: although these methodologies have some difficulties in modeling certain relations, it might be useful to start the development using them and then make exception to their prescriptions only later in the development process. The adoption of patterns within ALLOT is also con- nected with the aforementioned issue of contextualized prop- erties. Contextualizing requires designers to add intermedi- ate classes and relations to the ontology. The same recur- ring schema has to be used for different properties. So, why implementing it each time? Why not using a solution that proved to be successful in other contexts? The adoption of the situation pattern is in fact a glaring example of how legal patterns help designers.
+L3 - Separate linking ontologies Another key aspect of ALLOT is its capability of bridging heterogeneous KBs. A set of separate alignment modules are in fact available in the third (merging) layer of the ontology. The fact that such a layer is distinct from the other ones and, in turn, is composed of small alignment ontologies is an effective solution in terms of maintainability, readability and testability. New modules can be easily added to this schema and, more important, spe- cific alignment issues and peculiarities of each KB can be studied separately (even by different designers and teams) and the same linking ontologies can be reused. A similar approach has been adopted by other ontologies too. For in- stance, YAGOS27 is an independent ontology that defines links and rules to refer to DBPedia, and LEXVO8 ontology:
+ 
+5except, maybe, for some senators during Caligula’s reign in an- cient Rome
+6although some politicians try their best to make this come true
+7http://www.mpi-inf.mpg.de/yago-naga/yago/
+applications.html
+8http://www.lexvo.org/linkeddata/resources.html
+ 
+While it is important to link to each other datasets based on different ontologies, to do so with current technologies is an almost impossible task and makes the ontologies much more complex than they should be. Instead of embedding the link- ing information inside an ontology, we found that the use of small, external modules focused on the integration between a single pair of ontologies is a much better solution: it results in smaller ontologies that are easier to understand and mod- ify, it permits the support of ontologies that would otherwise be incompatibles, it allows the use of specific techniques to address the peculiarities of the targeted ontology.
+The development of ALLOT highlighted also some problems that are still open or that could (and should) be solved in a more elegant and linear way. Some limitations of the current technologies have great impact on these issues:
+P1 - Contextualization A last problem that developers of new on- tologies should address is the fact that most of the assertions that can be extracted from legal documents are not universal truths. These assertions are assertions made by a particular actor (say, the author of the document) in a precise context (a particular version of the document) at a precise time (the date and time of the document). As already discussed, there is no standardized way to record and transmit this information in current semantic technologies; ad-hoc descriptions must be devised and used, possibly following some of the already ex- isting design patterns [22]. A possible justification for the fact that many ontologies do not tackle all these problems is that current semantic technologies like RDF or OWL lack the features needed to express in a simple way the kind of state- ments these details require. Design patterns and other tech- nological workaround are often used to overcome the lack of such features. The problem with these workarounds is that they are harder to use compared to their simpler coun- terparts that cannot preserve all the information contained in the original legal text. However, the understandable de- signers’ desire to keep the ontologies “easy” for their users, make them stick to the simplest features of the current tech- nologies, leaving out all the refinements that are needed to properly address the problem of contextualization.
+P2 - Verbosity and intermediate entities the ability of expressing contexts and time-bound information has a remarkable draw- back for ALLOT and, in general, for all ontologies that fol- low similar approaches: the explosion of intermediate enti- ties and relations. Yet, design patterns define guidelines and do not require designers to invent new conceptual schemas but the actual creation of classes, relations and tuples is still a tedious and error-prone process. Our experience on AL- LOT confirmed this issue that, we believe, remains one of the main obstacles to the creation and exploitation of fully expressive KBs.
+P3 - Entangled alignment the minimalistic approach of ALLOT and TLC was an important step towards the integration of heterogeneous KBs. On the other hand, we experienced a lot of difficulties to align some ontologies, because of their intrinsic model and differences with ALLOT. The example of the SPARQL-based alignment with OCD is particularly meaningful. We eventually managed to query both the on- tologies as a single knowledge-base but we had to write com- plex CONSTRUCT queries to capture slight differences be- tween classes. This is a quite common scenario that hinders the integration of KBs in practice.
+ 
+7. CONCLUSIONS
+The main obstacle to a more effective integration of legal KBs still remains the heterogeneity of these resources. It is not only a matter of formats but also a problem of intrinsic incompatibility: in several cases radically different views of the world are employed, making it very hard or even impossible to link entities in a dataset with entities in other datasets.
+In this paper we presented ALLOT, a lightweight ontology de- signed on top of the Akoma Ntoso guidelines. The key idea of ALLOT, and the overall “non-ontology” approach, is to simplify heavily the model used to store and query resources. The paper reports our experience in adopting this approach and highlights its strengths and issues. The direction looks very promising: some issues - such as the management of time-bound entities and rela- tions - are brilliantly solved by ALLOT, others are still complex and need further improvements, others depend on intrinsic weak- nesses of current technologies. Our hope is that future technologies will have more expressive features to make it possible to express in simple ways all the accurate data that can be extracted from legal texts. As future development of our work, we also plan to extend the set of KBs managed by our approach (e.g. to all European datasets available), and to study the possibility of automating part of the integration process.
+8. REFERENCES
+[1] CGOV: Central government ontology, an ontology of UK central government. http:
+//reference.data.gov.uk/def/central-government.
+[2] Ontologia Camera dei Deputati, an ontology for the Italian Chamber of Deputies. http://data.camera.it/data/en/.
+[3] PARL: Parliament ontology, an ontology of UK parliament.
+http://reference.data.gov.uk/def/parliament/.
+[4] ABDULLATIF, J. B., BREUKER, J., ELHAG, A., PETKOV, E., AND WINKELS, R. Ontologies for legal information serving and knowledge management. In Proceedings of JURIX 2002 (2002), IOS Press, pp. 73–82.
+[5] BARABUCCI, G., CERVONE, L., DI IORIO, A.,
+PALMIRANI, M., PERONI, S., AND VITALI, F. Managing
+semantics in XML vocabularies: An experience in the legal and legislative domain. In Balisage Series on Markup Technologies (2010), vol. 5.
+[6] BARABUCCI, G., CERVONE, L., PALMIRANI, M., PERONI, S., AND VITALI, F. Multi-layer markup and ontological structures in Akoma Ntoso. In AI Approaches to the Complexity of Legal Systems: Proceedings of AICOL 2009 (2010), vol. 6237 of LNCS, Springer-Verlag, pp. 133–149.
+[7] BECHHOFER, S., AND MILES, A. SKOS Simple Knowledge Organization System Reference. Recommendation, W3C, Aug. 2009. http://www.w3.org/ TR/2009/REC-skos-reference-20090818/.
+[8] BIZER, C., HEATH, T., AND BERNERS-LEE, T. Linked data-the story so far. International Journal on Semantic Web and Information Systems (IJSWIS) 5, 3 (2009), 1–22.
+[9] BOER, A., HOEKSTRA, R. J., MAAT, E. D., VITALI, F., PALMIRANI, M., AND RATAI, B. Metalex: Open XML interchange format for legal and legislative resources. CWA 15710:2007 Metalex 1, 2010.
+[10] BOER, A., RADBOUD, W., AND VITALI, F. Metalex XML and the Legal Knowledge Interchange Format. In
+ 
+Computable Models of the Law, vol. 4884 of LNCS. 2008, pp. 21–41.
+[11] BRICKLEY, D., AND MILLER, L. FOAF Vocabulary Specification 0.98. Tech. rep., August 2010.
+[12] CICCARESE, P., AND PERONI, S. Essential FRBR in OWL2 DL, 2011. http://purl.org/spar/frbr.
+[13] DAVID, J., EUZENAT, J., SCHARFFE, F., AND DOS
+SANTOS, C. T. The alignment API 4.0. Semantic Web 2, 1 (2011), 3–10.
+[14] DAVIS, I., AND GALBRAITH, D. BIO: A vocabulary for biographical information. http://vocab.org/bio/0.1/.
+[15] DESPRESS, S., AND SZULMAN, S. Merging of legal micro-ontologies from europen directives. Artif. Intell. Law 15, 2 (June 2007), 187–200.
+[16] EUZENAT, J., AND SHVAIKO, P. Ontology matching. Springer-Verlag, Heidelberg (DE), 2007.
+[17] GANGEMI, A. Law, Ontologies and the Semantic Web. IOS Press, 2009, ch. Introducing pattern-based design for legal ontologies, pp. 53–71.
+[18] GANGEMI, A., SAGRI, M.-T., AND TISCORNIA, D. A constructive framework for legal ontologies. In Law and the Semantic Web (2003), pp. 97–124.
+[19] GUARINO, N., AND WELTY, C. Ontological analysis of taxonomic relationships. In Proceedings of ER 2000 (2000), Springer-Verlag, pp. 210–224.
+[20] HOEKSTRA, R., BREUKER, J., BELLO, M. D., AND BOER,
+A. Law, Ontologies and the Semantic Web. IOS Press, 2009, ch. LKIF Core: Principled Ontology Development for the Legal Domain, pp. 21–52.
+[21] HORRIDGE, M., AND PATEL-SCHNEIDER, P. F. Owl 2 web ontology language manchester syntax (second edition). Tech. rep., W3C, 2012.
+[22] HUITFELDT, C., PERONI, S., AND VITALI, F. Documents as timed abstract objects. to appear in the Proceedings of Balisage Series on Markup Technologies, The Markup Conference 2012 (2012).
+[23] LATHROP, D., AND RUMA, L. Open Government: Collaboration, Transparency, and Participation in Practice. O’Reilly Media, Inc., 2010.
+[24] MADISON, O. M. The IFLA Functional Requirements for Bibliographic Records: International standards for universal bibliographic control. Library Resources & Technical Services 44, 3 (July 2000), 153–159.
+[25] MASOLO, C., VIEU, L., BOTTAZZI, E., CATENACCI, C., FERRARIO, R., GANGEMI, A., AND GUARINO, N. Social roles and their descriptions. AAAI Press, pp. 267–277.
+[26] PALMIRANI, M., AND VITALI, F. Akoma Ntoso users.
+http://www.akomantoso.org/ akoma-ntoso-in-detail/users.
+[27] POWELL, A., NILSSON, M., NAEVE, A., AND JOHNSTON,
+P. Dublin Core metadata initiative: Abstract model, 2005.
+[28] SAGRI, M.-T., AND TISCORNIA, D. Metadata for content description in legal information. In Proceedings of DEXA ’03 (2003), IEEE Computer Society, pp. 745–752.
+[29] SAVVAS, I., AND BASSILIADES, N. A process-oriented ontology-based knowledge management system for facilitating operational procedures in public administration. Expert Syst. Appl. 36, 3 (Apr. 2009), 4467–4478.
+[30] SHOTTON, D., AND PERONI, S. PRO, the publishing roles ontology, 2012. http://purl.org/spar/pro.
