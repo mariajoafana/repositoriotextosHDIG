@@ -41,6 +41,6 @@ Citación de fuentes
 
 9 Moraña, Mabel
 2012. “El Ojo que Llora: biopolítica, nudos de la memoria y arte público en el Perú de hoy”. En Latinoamérica. Revista de estudios Latinoamericanos No 54. México D.F.: Centro de Investigaciones sobre América Latina y el Caribe de la UNAM, pp. 183 – 216
-10 Reategui, Félix
 
+10 Reategui, Félix
 2010. Los sitios de la memoria: procesos sociales de la conmemoración en el Perú. Lima: Pontificia Universidad Católica del Perú Instituto de Democracia y Derechos Humanos. 
