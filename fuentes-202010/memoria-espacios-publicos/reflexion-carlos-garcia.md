@@ -1,5 +1,5 @@
 ---
-titulo: 
+titulo: Geografía de la memoria del conflicto armado interno peruano en la ciudad de Lima
 fecha: 2020-05-20
 autor:
 - Carlos García Lazo
