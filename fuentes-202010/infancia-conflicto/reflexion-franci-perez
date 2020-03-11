@@ -1,34 +1,46 @@
 ---
-titulo: Narrativas de la infancia en el conflicto armado
-fecha: 2020-03-11
+titulo: Geografía de la memoria del conflicto armado interno peruano en la ciudad de Lima
+fecha: 2020-05-20
 autor:
-- Franci Pérez
-etiquetas: infancia, conflicto, niños, derechos
+- Carlos García Lazo
+etiquetas: Memoria, Espacios Públicos, marcación territorial
 ---
 
 Reflexión:
-¿Cuáles son las palabras más comunes en tus artículos?
-Las palabras más comunes en mis artículos son conflicto, niños, armado y vida.
-¿Hay palabras que excluiría en futuras consultas sobre tu tema? 
-Comportamientos criminales, tierra, apropiación, trayectorias.
-Al revisar la lista de "distinctive words", ¿podría organizar bajo una etiqueta común algunas "palabras distintivas" para identificar campos de investigación con los que dialoga su proyecto? 
 
-En general, ¿ve alguna forma de acotar sus búsquedas y/o tema de investigación después de hacer el ejercicio?
-Enlace de Voyant Tools:
-https://voyant-tools.org/?corpus=b9c8d8efd99c1013364bd8c70d1f289a&stopList=keywords-18a79c8352721574d38947d1c395f7e1&panels=cirrus,reader,trends,summary,correlations
-Citación de fuentes:
-	01 Alvarado, S., Ospina-Alvarado, M., Patiño, J., & Arroyo, A. (2018). CONTEXTO DE CONFLICTO ARMADO COLOMBIANO DESDE LAS VOCES DE LA PRIMERA INFANCIA, LA NIÑEZ Y LAS FAMILIAS EN CONDICIÓN DE DESPLAZAMIENTO. En Ospina-Alvarado M., Vázquez M., & Domínguez M. (Eds.), Juventudes e infancias en el escenario latinoamericano y caribeño actual (pp. 177-198). Ciudad de Buenos Aires, Argentina: CLACSO. Consultado el 11 de marzo de 2020 en www.jstor.org/stable/j.ctvfjd17k.11
-	02 García, D. (2015). Introducción. En Juguetes e infancias: La consolidación de una sensibilidad moderna sobre los niños en Colombia, 1840 – 1950 (pp. Xi-Xxii). Bogotá, D.C., Colombia: Universidad de los Andes, Colombia. doi:10.7440/j.ctt18z4grt.4
-	03 García, D. (2015). Sensibilidades cruzadas sobre los juguetes y los niños en Colombia, segunda mitad del siglo XIX. En Juguetes e infancias: La consolidación de una sensibilidad moderna sobre los niños en Colombia, 1840 – 1950 (pp. 1-30). Bogotá, D.C., Colombia: Universidad de los Andes, Colombia. doi:10.7440/j.ctt18z4grt.5
-	04 Ila, P., & Dueñas, T. (2016). La inclusión de las voces de los niños, niñas y adolescentes en la reconstrucción de memoria histórica. En Arango G. (Ed.), Narrativas de experiencia en educación y pedagogía de la memoria (pp. 369-394). Ciudad de Buenos Aires, Argentina: CLACSO. doi:10.2307/j.ctvtxw30v.18
-	05 Da Silva Ramos, M. (2019). Apropiación de artefactos tecnológicos en la niñez mediante un modelo narrativo y colaborativo. En Rivoir A. & Morales M. (Eds.), Tecnologías digitales: Miradas críticas de la apropiación en América Latina (pp. 161-174). Ciudad de Buenos Aires, Argentina: CLACSO. doi:10.2307/j.ctvt6rmh6.13
-	06 Gómez, O., Talero, A., & Pérez, F. (2018). ¿QUÉ JÓVENES RURALES DEJA EL CONFLICTO ARMADO COLOMBIANO?: RETOS EN TIEMPOS DE POSACUERDO. En Vázquez M., Ospina-Alvarado M., & Domínguez M. (Eds.), Juventudes e infancias en el escenario latinoamericano y caribeño actual (pp. 199-220). Ciudad de Buenos Aires, Argentina: CLACSO. Consultado el 11 de marzo de 2020 de www.jstor.org/stable/j.ctvfjd17k.12
-	07 Martínez-Guerra, G. (2010). Conclusiones. En Los caminos a la violencia: Vinculación y trayectorias de los niños en los grupos armados ilegales en Colombia (pp. 101-104). Bogotá, D. C., Colombia: Universidad de los Andes, Colombia. doi:10.7440/j.ctt1c3sp0n.9
-	08 Cabanzo, A. B. R. (2013). Infancias, nuevos repertorios tecnológicos y formación. Signo y pensamiento, 32(63), 52-68.
-	09 Medina, F. A. R. (2013). Conflicto armado, escuela, derechos humanos y DIH en Colombia. Análisis político, 26(77), 57-84.
-	10 Picón, Y. R., & Plazas, Y. C. (2008). El juego de la guerra, niños, niñas y adolescentes en el conflicto armado en Colombia. Tabula Rasa, (8), 197-210.
-	11 Bohórquez, R. M. C. (2012). Los rastros del conflicto colombiano y las políticas para niñas, niños y jóvenes desvinculados de grupos armados. Trabajo social (Universidad Nacional de Colombia), (14), 117-126.
+Las palabras más comunes en mi análisis de textos son memoria, lugar o lugares, espacio o espacios e historia. Otra palabra que queda sonando dentro de la herramienta de visualización de textos es la palabra ‘comunidad’ y la palabra 'patrimonio'. Respondiendo a la segunda pregunta del ejercicio excluiría la palabra violencia pues considero que no aporta mucho a la búsqueda de sentido o significación de los memoriales. Dentro de las ‘distintive words’ aparecen palabras que me parecen interesantes ligadas 'lugarización’ y ‘geografía’. 
+Intentando hacer un postulado con los resultados del ejercicio se me ocurre lo siguiente: los memoriales del conflicto armado interno en Perú son parte de un proceso de reconciliación con la comunidad que se da en espacios públicos. Menciono aquí el término ‘reconciliación’ pues en mi primer corpus salía dentro de las palabras destacadas. Ahora me parece que más que ahondar en ese término debo explorar la idea de memoria como marca territorial en espacios públicos. Así mismo tengo que profundizar en el sentido de los memoriales como parte del patrimonio histórico de un lugar, que es un concepto que va saliendo en la herramienta de Voyant Tools que marca palabras destacadas y se conjuga con algunos términos que encuentro en la lectura de Silvina Fabri cuando habla de 'lugarización de la memoria'. 
 
-Copie y pegue el encabezado al comienzo de su texto de reflexión sobre el corpus de documentos. Haga clic en el botón de edición y copie el formato. 
 
-[YAML](https://es.wikipedia.org/wiki/YAML) es un formato de serialización de datos legible por humanos inspirado en lenguajes como XML, C, Python y Perl.
+Enlace de Voyant Tools: https://voyant-tools.org/?corpus=304f4a23d7a6459cf04bd18e1c895c41&stopList=keywords-51e7be248caf0f90fae046d67c50bd67&panels=cirrus,reader,trends,summary,contexts
+
+Citación de fuentes
+1 Patiño Zuluaga, Evelyn y Herrera Valencia, Ana Cristina. 
+2019. Lugares de memoria: objetos de estudio y reflexión del patrimonio cultural. En La Tadeo Dearte No 5, Bogotá: Editorial UTADEO https://revistas.utadeo.edu.co/index.php/ltd/article/view/1584/1547
+
+2 Hamman, Johanna.
+2012. “Lima: espacio público en transición. La plaza de la democracia 2006”. En On the W@terfront No 21, Barcelona: Polis Research Centre Universidad de Barcelona, pp. 83 – 96. 
+
+3 Fox, Hans.
+2005. “De lo cotidiano a lo trascendente en la ciudad”. En Urbano Vol. 8 No 11, Concepción: Departamento de Planificación y Diseño Urbano de la Universidad del Bío-Bío, pp. 22 – 27. 
+
+4 Jelin, Elizabeth y Victoria Langland. 
+2003. Las marcas territoriales como nexo entre pasado y presente. En Elizabeth Jelin y Victoria Langland. Monumentos, memoriales y marcas territoriales. Buenos Aires: Siglo XXI, pp 1 – 16.
+
+5 Fabri, Silvina. 
+2013. “Lugares de memoria y marcación territorial: sobre la recuperación de los centros clandestinos de detención en Argentina y los lugares de memoria en España”. En Cuadernos de Geografía, Bogotá: Revista Colombiana de Geografía No 22, pp. 93 - 108.
+
+6 Rozas, María Angélica
+2017. “La importancia de visibilizar la memoria: museos de la memoria en Colombia, Perú y Chile”. En Tradición No 17, Lima: Universidad Ricardo Palma, pp. 153 – 159.
+
+7 García, Jacobo
+2009. “Lugares, paisajes y políticas de memoria: una lectura geográfica”. En Boletín de la Asociación Española de Geografía (AGE) No 51, Madrid: Asociación Española de Geografía, pp. 175-202.
+
+8 Fabri, Silvina
+2018. “El arte conmemorativo en el proceso de lugarización de la memoria: la construcción simbólica y narrativa en el predio Quinta Seré, Morón, Buenos Aires”. En Perspectiva Geográfica No 23. Buenos Aires, pp., 143 - 159.
+
+9 Moraña, Mabel
+2012. “El Ojo que Llora: biopolítica, nudos de la memoria y arte público en el Perú de hoy”. En Latinoamérica. Revista de estudios Latinoamericanos No 54. México D.F.: Centro de Investigaciones sobre América Latina y el Caribe de la UNAM, pp. 183 – 216
+
+10 Reategui, Félix
+2010. Los sitios de la memoria: procesos sociales de la conmemoración en el Perú. Lima: Pontificia Universidad Católica del Perú Instituto de Democracia y Derechos Humanos. 
