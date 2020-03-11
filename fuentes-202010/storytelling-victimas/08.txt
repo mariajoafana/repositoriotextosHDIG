@@ -1,0 +1,1161 @@
+bs_bs_banner
+
+International Journal of Mental Health Nursing (2016) 25, 183–193
+
+doi: 10.1111/inm.12206
+
+Review
+
+How digital storytelling is used in mental health: A
+scoping review
+Nadia De Vecchi,1,2 Amanda Kenny,1 Virginia Dickson-Swift1 and Susan Kidd1,2
+1
+
+La Trobe Rural Health School, College of Science, Health, and Engineering, La Trobe University, and 2Bendigo Health,
+Psychiatric Services, Bendigo, Victoria, Australia
+
+ABSTRACT: The creative arts can be used to support stakeholders of mental health services to communicate and share their lived experience. Digital storytelling is one method that has been used to capture
+people’s lived experience. In this scoping review, we were interested in mapping how digital storytelling
+has been used in mental health, and to identify gaps in the literature. Nine databases were searched to
+identify peer reviewed literature published between January 2000 and August 2015; 15 articles were
+included in the review. The articles were categorized across four broad areas: educational interventions,
+learning skills, learning about other people’s lived experience, and learning about personal lived experience. We identify that while digital storytelling has potential as a participatory process to promote mutual
+understanding of and empathy towards lived experiences in mental health, there is a dearth of research in
+this area. More research is needed on the use of digital storytelling in mental health to determine its
+effectiveness in progressing a recovery orientation in service provision that is built on solidarity and a
+social justice agenda.
+KEY WORDS: digital storytelling, education, lived experience, mental health, review, stories.
+
+INTRODUCTION
+The purpose of this scoping review was to map the literature on the use of digital storytelling in mental health.
+Digital storytelling is a creative arts process that is used to
+capture personal stories, using images and sound in a three
+to ﬁve minute digital clip (Lambert 2010). While the creative arts have been used in mental health to capture the
+lived experience of mental health consumers and carers
+(Cobb & Negash 2010; Ricks et al. 2014), less is known
+about newer forms of creative arts such as digital
+storytelling.
+
+Background
+Consumers and carers of mental health services should be
+engaged in health service planning, design, delivery and
+evaluation (Australian Government 2012; Her Majesty’s
+Correspondence: Nadia De Vecchi, College of Science, Health and
+Engineering, La Trobe Rural Health School, La Trobe University,
+Bendigo, Vic. 3552, Australia. Email: ndevecchi@students.latrobe.edu.au
+Prof. Amanda Kenny
+Dr. Virginia Dickson-Swift
+Accepted November 2015; published online February 21 2016.
+
+© 2016 Australian College of Mental Health Nurses Inc.
+
+Government Department of Health 2012; Le Boutillier
+et al. 2011; Mental Health Commission of Canada 2012),
+but identifying ways for this to occur is challenging. Systemic prejudice, within a healthcare system dominated by
+rationalist and objective forms of evidence can render the
+experiences of consumers and carers less important than
+the knowledge of health managers and those who deliver
+services (Holley et al. 2012; Kidd et al. 2014).
+Within the literature, a range of creative art forms such
+as photography, visual art, writing, music, drama, and ﬁlm
+have been deemed useful in capturing the lived experience
+of people who use mental health services (Cobb & Negash
+2010; Ricks et al. 2014). In a study conducted in the USA,
+researchers used the Photovoice methodology to elicit
+emotionally laden stories from people with lived experience
+of long term mental illness to use in healthcare education
+(Thompson et al. 2008). Researchers in Sweden have developed a creative art activity where consumers of mental
+health services paint trees to symbolize and reﬂect on aspects of their past, present and future life stories to generate future possibilities (Gunnarsson et al. 2010). To
+communicate research ﬁndings from Canada that explored
+
+184
+
+N. D. VECCHI ET AL.
+
+the experience of people living with dementia and their
+daughters, Mitchell et al. (2006) developed a play that
+viewers living with dementia, carers and healthcare professionals found profoundly enlightening and reinforcing of
+their personal experience.
+Within the creative arts space, storytelling has been used
+to capture lived experiences and to help people make
+meaning of their healthcare experiences (Frank 2013).
+Authors argue that the art of storytelling and the stories that
+are produced engage listeners in the personal experiences
+of others (Gidman 2013; Haigh & Hardy 2011). In mental
+health, there are suggestions that the use of storytelling
+can support people to articulate their thoughts and feelings
+in a creative and accessible manner (Clark & Rossiter 2008;
+White 2011); however, storytelling has seldom been used to
+access lived experience perspectives (Rigg & Murphy
+2013).
+Our interest in digital storytelling in mental health stems
+from the potential of storytelling to engage listeners in the
+personal experience of others (Gidman 2013; Haigh &
+Hardy 2011), but moves beyond traditional approaches of
+storytelling, to those that are framed within the digital space.
+It is argued that digital stories, produced within a workshop
+of several days through group creative processes, supports
+the production and sharing of “compelling accounts of experience” (Gubrium 2009, p. 186). Authors suggest that the
+process of digital story creation may support dialogue that
+enables deeper understanding and adoption of lived experience perspectives in policy making (Gubrium et al. 2014a).
+Researchers in other areas of healthcare have found that digital storytelling is a useful process for capturing the lived experience of people marginalized in healthcare services and
+society (Gubrium et al. 2014a; Harper et al. 2012; Hill
+2008). Given the purported beneﬁts of digital storytelling,
+we were interested in identifying how and in what areas it
+has been used in mental health.
+
+METHODS
+Study design
+The methodological stages of scoping reviews outlined by
+Arksey and O’Malley (2005) guided this review. Researchers have identiﬁed several reasons for undertaking
+scoping reviews, including systematic mapping, and
+
+synthesizing and summarizing the broad knowledge base
+on a speciﬁed subject when little research exists (Arksey &
+O’Malley 2005; Levac et al. 2010). Given the emergent nature of digital storytelling in healthcare, it was deemed pertinent to map and summarize what was known about the
+use of digital storytelling in mental health, and identify gaps
+in the literature.
+Consistent with recent recommendations on the conduct of scoping reviews, comment is made on the types
+and sources of literature reviewed, to clarify the gaps in
+knowledge and make recommendations for the future use
+of digital storytelling in mental health (Daudt et al. 2013;
+Levac et al. 2010; Pham et al. 2014). The ﬁrst ﬁve stages
+outlined by Arksey and O’Malley (2005) were used to guide
+the scoping review because they support the conduct of a
+systematic, transparent and replicable approach and increase the reliability of the ﬁndings (Mays et al. 2001).
+The ﬁrst ﬁve stages comprise the following: identify the research question; identify relevant literature; select studies;
+chart studies; summarize, collate and report the ﬁndings
+(Arksey & O’Malley 2005, p. 22).
+Step 1: Identify the research question
+The research question, “What is currently known about
+how digital storytelling is used in mental health?” was developed with a sufﬁciently broad scope to ensure a wide range
+of literature would be identiﬁed (Arksey & O’Malley 2005).
+Mental health was deﬁned broadly, to include people
+experiencing a range of mental health conditions, including
+psychosis, complex responses to trauma, dual diagnosis,
+psychosocial disability, dementia and anxiety. Literature detailing the use of digital storytelling in therapy, mental
+health promotion, and for eliciting stories of resilience was
+included.
+Step 2: Identify relevant literature
+The search was performed in August 2015 with the assistance of a senior research assistant with expertise in
+conducting scoping review searches. The search terms were
+developed from key words in the research question and
+from relevant articles located in an initial Google Scholar
+search. The search terms are presented in Table 1.
+Boolean strings were developed to include truncated
+words to broaden the search by including terms with the
+
+TABLE 1: Search terms for digital storytelling in mental health
+Population
+
+Intervention
+
+“health” OR “mental health” OR “psych*” OR “mental illness” OR
+“therap*” OR “resilience”
+
+AND “digital storytelling” OR “digital story telling” OR “digital story-telling” OR
+“digital story” OR “digital stories”
+
+© 2016 Australian College of Mental Health Nurses Inc.
+
+DIGITAL STORYTELLING IN MENTAL HEALTH
+
+same root words. Nine search engines were chosen as they
+provided an extensive coverage of the health science literature: Proquest Central, Medline, CINAHL, Expanded Academic, SCOPUS, PsycINFO, PsycARTICLES, Web of
+Science and Informit. Limits set included: the timeframe
+of January 2000 to August 2015, English language only
+and peer reviewed. The timeframe chosen was based on
+the initial Google Scholar search that identiﬁed a dearth
+of literature on digital storytelling in (mental) health before
+these dates. This search was not included in the review because of the difﬁculty in replicating searches using Google
+Scholar (Gustini & Boulos 2013). Consistent with Arksey
+and O’Malley’s (2005) approach, the team developed inclusion and exclusion criteria and these are presented in
+Table 2.
+Step 3: Select studies
+Applying the developed search strategy in the speciﬁed
+databases identiﬁed 809 potential articles on digital storytelling in mental health. After duplicates were removed,
+657 articles remained. An initial reading of the title, key
+words, abstract, and full text, when no abstract existed,
+was undertaken. Reading the articles in this manner against
+inclusion and exclusion criteria identiﬁed 39 potential articles on digital storytelling in mental health. Two authors
+(NDV, SK) undertook an in-depth reading of the full text
+of the 39 articles and discussed the relevance of the articles
+to mental health. This resulted in the inclusion of 15 articles
+in the scoping review.
+Twenty four of the articles were excluded because they
+did not meet the inclusion criteria. Of those excluded, 21
+reported on the use of digital storytelling with Indigenous
+people (10), populations marginalized by society (9), or in
+online education of nursing students (2). While mental
+health was referred to in all of these articles, their main
+focus was in other areas of healthcare and education. In
+the remaining three articles, authors mentioned digital
+storytelling and mental health but did not focus on either
+of these aspects within the article.
+
+185
+
+Step 4: Chart studies
+Using a descriptive and analytical method recommended by Arksey and O’Malley (2005), we charted relevant information from the reviewed literature that best
+answered the review question. The information charted
+included: author(s), publication date and location; aim and
+intervention; methods, design and sample; and key
+ﬁndings/issues. Our data charting is presented in Table 3.
+Step 5: Summarize, collate and report the ﬁndings
+In this ﬁfth step, Arksey and O’Malley (2005) propose
+that ﬁndings are reported in a structured narrative format
+that presents an overview of the reviewed literature in a
+manner that answers the research question. In the results
+below, the included articles are summarized into a report
+that collates the location, dates, journals that published
+the articles, population and settings, and types of articles
+reviewed. In charting the key ﬁndings/issues of the
+reviewed literature, common themes emerged on the use
+of digital storytelling in mental health. These common
+themes were categorized across four broad areas that described the current use of digital storytelling in mental
+health: educational interventions, learning skills, learning
+about other people’s lived experience, and learning about
+personal lived experience.
+
+DISCUSSION
+Of the literature reviewed, most were sourced from Western
+countries: Australia (2), Canada (3), New Zealand (1), UK
+(4), the USA (4), with one exception from Zimbabwe. All
+but one of the articles was published on or after 2010
+(1), 2011 (3), 2013 (5), 2014 (3), and 2015 (2), the exception was published in 2008. The peer reviewed journals
+that published articles on digital storytelling in mental
+health were from a broad range of disciplines. These included mental health services and mental health nursing
+(4), qualitative research (3), psychology (2), and one each
+
+TABLE 2: Inclusion and exclusion criteria
+Criteria
+Language
+Country
+Focus
+
+Digital storytelling included in title,
+key words, abstract or full text
+Publication type
+
+Inclusion
+
+Exclusion
+
+English
+All
+Mental health: people experiencing psychosis,
+complex responses to trauma, dual diagnosis,
+psychosocial disability, dementia and anxiety
+Included
+
+Other
+None
+Other area of health
+
+Peer-reviewed
+
+Non-peer reviewed
+
+© 2016 Australian College of Mental Health Nurses Inc.
+
+Not included
+
+186
+
+N. D. VECCHI ET AL.
+
+TABLE 3: Data charting
+Author/year/location
+
+Aim/intervention
+
+Method/design/sample
+
+Key ﬁndings/issues
+
+1. Beltrán & Begun 2014.
+New Zealand
+
+Explores the lived
+experience of Maori
+people who participated
+in a digital storytelling
+workshop where
+stories of resilience
+amidst historical
+trauma were made.
+
+Indigenous methodology.
+Six people were recruited
+from a university, and
+attended psycho-education
+and a digital storytelling
+workshop. Five were
+interviewed. Interviews
+were analyzed qualitatively.
+
+2. Coleman et al.
+2010. UK
+
+Assesses the efﬁcacy
+of using digital stories
+to express young
+people’s perceptions
+of the world and
+life to address binge
+drinking culture.
+
+3. Cunsolo Willox et al.
+2013. Canada
+
+Examines Indigenous
+(mental) health and
+wellbeing in relation
+to climate change
+using digital storytelling
+as a data collection
+tool.
+
+Quasi-experimental
+intervention study. Youth
+in three sites received
+intervention; fourth used
+as control site. Evaluated
+using questionnaire at
+pre, post and 6 months
+after.
+Community driven
+digital storytelling
+method. Case study
+where 26 digital
+storyteller’s and 10
+viewers where
+interviewed about
+the process and the
+stories.
+
+4. Evans & Jones 2008.
+Wales, UK
+
+Describes attending
+a conference with
+consumers, carers
+and staff of an early
+intervention service
+to show digital stories
+about experiences
+of psychosis.
+
+5. Ferrari et al. 2015.
+Canada
+
+Evaluates a digital
+storytelling workshop
+that made stories about
+pathways to care in
+early onset psychosis
+from consumers,
+carers and staff.
+
+6. Goodman & Newman
+2014. USA
+
+Examines effects of
+digital and oral
+storytelling to reduce
+effects of stress,
+anxiety, depression
+and anger in
+young women.
+
+Participants described the process as a
+medicinal transformative healing tool to
+reconcile present cultural issues in the context
+of past trauma. The group experience was safe,
+supportive and connected. Digital storytelling
+was a useful tool for protecting Indigenous
+cultural knowledge and promoting positive
+personal and group mental health. Important
+to consider conﬁdentiality and safety with
+dissemination.
+Effect small but may have prevented
+increases in drinking by stabilizing attitudes
+towards drunkenness. Knowledge of binge
+drinking and effects of alcohol increased.
+Impacts of intervention short term not
+sustained long term. Digital stories should be
+considered as part of a long-term intervention
+with this cohort.
+Participants found digital storytelling a
+creative process, promoting sharing,
+exploration and dialogue about traumatic
+lived experiences. The process and stories
+supported healing and transformation. The
+audience can be transported into the
+storyteller’s world. Digital medium enhances
+connection across multiple stakeholders to
+preserve culture. Need to avoid the
+perpetuation of negative stereotyping to
+audiences.
+The digital storytelling process and sharing of
+stories was healing for consumers, carers and
+staff. Using technology is appropriate with
+younger people to elicit nuanced experiences.
+Conference people thought stories would be
+useful to educate healthcare students and
+providers, and children; technology supports
+wide distribution. Consent needs to be
+ongoing because people are identiﬁable.
+Digital storytelling used to transfer
+knowledge. Participants described the group
+process as safe and promoting connection
+with others. The process was experienced as
+a healing, therapeutic creative art form,
+promoting self-expression, reﬂection, sharing
+and release of troubling emotions.
+Ownership of personal stories was
+empowering.
+Reduction in all measures from participation
+in the process of both storytelling groups.
+Creative forms of storytelling (digital
+storytelling, photos, oral) are useful tools to
+support adolescent women talking about and
+reducing their experiences of stress.
+
+Five consumers and
+one carer made stories.
+Describes reasons for
+making digital stories
+and the process of
+showing stories at the
+Network for Psychiatric
+Nursing Research
+conference.
+Qualitative research.
+11 people responded to
+a survey that evaluated
+the digital storytelling
+workshop in terms of
+their healing potential
+identiﬁed in a prior
+showing of the stories.
+Quasi-experimental
+intervention study.
+Two groups of
+adolescent women,
+n = 60. Evaluated using
+pre and post-tests of
+stress, depression,
+anxiety and anger.
+
+(Continues)
+
+© 2016 Australian College of Mental Health Nurses Inc.
+
+DIGITAL STORYTELLING IN MENTAL HEALTH
+
+187
+
+TABLE 3: (Continued)
+Author/year/location
+
+Aim/intervention
+
+Method/design/sample
+
+Key ﬁndings/issues
+
+7. Lenette & Boddy 2013.
+Australia
+
+Examines efﬁcacy
+of visual methods in
+eliciting stories of
+resilience of single
+refugee women
+to support mental
+health.
+
+Ethnography using
+intersectional approach.
+Three out of eight
+women consented to
+make digital stories
+and be interviewed.
+
+8. Matthews & Sunderland 2013.
+Australia
+
+Analyzes issues on the
+limited use of digital
+stories from people
+with disabilities as
+evidence in policy
+and healthcare.
+
+Discussion paper that
+uses literature to support
+author’s contentions.
+
+9. Rice et al. 2015. Canada
+
+Discusses project Re•Vision
+that aims to use
+art-based research
+to advance a social
+justice agenda.
+
+Uses embodiment
+theory to explore digital
+storytelling as a tool to
+change ideas about
+disability in policy makers,
+service providers and
+educators.
+
+10. Sawyer & Willis 2011. USA
+
+Digital storytelling
+used as a reﬂective
+tool to address poor
+social behaviours in
+children.
+
+11. Spector et al. 2011. UK
+
+Consumer experiences
+of making digital stories
+for a staff training module
+to improve understanding
+of the experience of
+inpatient care.
+
+Descriptive paper.
+30 high school and
+counselling students
+made stories. Shared
+with children on social
+media to develop a
+dialogue.
+Qualitative research.
+Five consumers made
+ten digital stories, which
+were shown to staff.
+Consumers participated
+in a focus group.
+
+Digital storytelling process enabled
+collaborative and authentic sharing of
+nuanced narratives of resilience. The
+process built strengths and illuminated
+abilities. Some women declined to
+participate because they found the
+process intrusive. Issues include
+ownership versus privacy.
+Digital storytelling supports people
+marginalized in society to challenge
+stereotype notions of disability. Process and
+product can be therapeutic,
+empowering and promotes connection,
+communication and social justice. Digital
+stories support sharing of and listening to
+others experiences, useful in education
+about reﬂective practice. Listening across
+difference is challenging and must be
+scaffolded.
+Digital storytelling supports a multiplicity of
+voices to be heard to expand and challenge
+singular narratives of disability. Healthcare
+providers and educators can be positively
+inﬂuenced by the new meanings of disability
+that emerge. The process supports healthcare
+providers to be open to change by promoting
+dialogue and understanding of others lived
+experiences.
+No formal evaluation. Process may be a
+useful therapeutic tool in education to
+explore self-expression and experience to
+encourage healthier responses to stress.
+
+12. Stenhouse et al. 2013. UK
+
+Digital storytelling
+method with people
+living with early stage dementia.
+
+Seven people and one
+carer made stories as a
+learning package for
+student nurses. Author
+reﬂections on the experience.
+
+13. Wexler 2011. USA
+
+Describes data
+generation process
+
+Community based
+participatory research.
+
+Consumers described the digital storytelling
+process as therapeutic but support was
+needed because past trauma could be
+triggered. Authentic personal accounts that
+could advance staff understanding of the
+complexity of the lived experience of mental
+illness and promote discussion on difﬁcult
+issues. Possible use in therapy for other
+consumers. Stories were
+valued by staff and enabled reﬂection on
+practice.
+Consumers faced difﬁculty in developing a
+story, anxiety about using technology, reading
+and speaking. However, positive changes
+occurred over the workshop. Person centred
+facilitation important. Process supported
+engagement, achievement, self expression
+and built relationships.
+Digital stories reﬂected on lessons from
+Elders/adults, and presented new personal,
+(Continues)
+
+© 2016 Australian College of Mental Health Nurses Inc.
+
+188
+
+N. D. VECCHI ET AL.
+
+TABLE 3: (Continued)
+Aim/intervention
+
+Method/design/sample
+
+Key ﬁndings/issues
+
+with Alaskan people
+focused on improving
+cultural identity and resilience.
+
+Interviews and focus
+groups with 11 Elders
+and adults, youth
+attended. Seven youth
+made digital stories,
+interviewed on
+research process.
+
+14. Wexler et al. 2013. USA
+
+Describes digital
+storytelling with
+youth from
+Northwest Alaska to
+promote wellbeing
+and as a suicide
+prevention tool.
+
+Community based
+participatory research.
+432 youths made 566
+digital stories. Evaluated
+in exit survey and
+interviews with n = 27.
+
+15. Willis et al. 2014. Zimbabwe
+
+Evaluates digital
+storytelling as a therapeutic
+process and tool to
+support HIV positive
+adolescents to
+develop coping strategies.
+
+Narrative participatory
+method. 12 youth made
+digital stories. Data
+collected in ﬁeld notes,
+two youth focus groups
+and one with carers.
+
+community and cultural identity that
+strengthened intergenerational bonds.
+Digital stories were useful advocacy tools
+to promote awareness of personal and
+community youth needs. Authors described
+the digital stories as suicide preventions tools
+that showed strengths and coping strategies
+that youth could reﬂect on in their down
+times.
+The digital storytelling workshops were
+meaningful; supported self-expression and
+reﬂection on life stories. Technological skills
+were developed. The digital stories showed
+positive aspects of Indigenous culture and
+personal relationships and strengthened
+intergenerational bonds. Showing stories
+locally and online promoted a cultural identity
+beyond stereotypes. Digital storytelling
+supported personal and cultural identity.
+Storytellers found the digital storytelling
+process therapeutic. It enabled reﬂection
+on their life experiences, transformation from
+negative to positive perspectives and an
+appreciation of the challenges the youth had
+mastered. Carers were able to understand
+youth life experiences on a profound level.
+Participants thought digital stories would be
+useful education and advocacy tools. Process is
+limited by time.
+
+Author/year/location
+
+for health promotion, media studies, storytelling in society, disability, alcohol and drug, and child services.
+The reviewed articles included populations of people living with mental health issues in early psychosis intervention
+services (Evans & Jones 2008; Ferrari et al. 2015), an acute
+inpatient unit (Spector et al. 2011), a dementia unit
+(Stenhouse et al. 2013), and unspeciﬁed community settings
+(Matthews & Sunderland 2013; Rice et al. 2015). Three articles focused on the narratives of Indigenous Alaskan people
+(Cunsolo Willox et al. 2013; Wexler 2011; Wexler et al. 2013)
+and one with Maori people in New Zealand (Beltrán &
+Begun 2014). The remaining articles focused on populations
+marginalized in society, including school age children with
+social issues (Coleman et al. 2010; Goodman & Newman
+2014; Sawyer & Willis 2011), young people with a diagnosis
+of HIV in Africa (Willis et al. 2014), and single refugee
+women living in Australia (Lenette & Boddy 2013).
+Of the included articles, two used quasi-experimental
+research methods (Coleman et al. 2010; Goodman &
+Newman 2014). In eight of the articles, a range of qualitative research methods were used, including Indigenous
+methodology, case study, visual ethnography, community
+
+and narrative based participatory research, and unspeciﬁed qualitative approaches (Beltrán & Begun 2014;
+Cunsolo Willox et al. 2013; Ferrari et al. 2015; Lenette
+& Boddy 2013; Spector et al. 2011; Wexler 2011; Wexler
+et al. 2013; Willis et al. 2014). In two of the articles, authors stated that they were using digital storytelling as a
+methodology and method (Cunsolo Willox et al. 2013;
+Stenhouse et al. 2013). Of the remaining four, two were
+discussion papers (Matthews & Sunderland 2013; Rice
+et al. 2015) and two presented descriptions of projects
+with no formal evaluation (Evans & Jones 2008; Sawyer
+& Willis 2011).
+
+Uses of digital storytelling in mental health
+Educational interventions
+
+In four articles, digital storytelling and digital stories were
+used as educational interventions in school settings with
+young people. In these studies, the process and product
+of digital storytelling supported young people to reﬂect on
+their lives, identify personal coping strategies and positive
+life experiences, and learn from their peers and personal
+perspectives. In two separate studies, digital stories made
+© 2016 Australian College of Mental Health Nurses Inc.
+
+DIGITAL STORYTELLING IN MENTAL HEALTH
+
+by older students were shown to younger people to teach
+them about the dangers of alcohol (Coleman et al. 2010)
+and appropriate social behaviour (Sawyer & Willis 2011).
+The purpose was to support young people in developing
+coping strategies and social skills. Reported outcomes stemming from the intervention in the quasi-experimental study
+by Coleman et al. (2010) were minimal and none were reported in the second pilot study (Sawyer & Willis 2011).
+However, the researchers concluded that digital stories
+were useful tools in long-term educational strategies with
+this cohort (Coleman et al. 2010; Sawyer & Willis 2011).
+In another quasi-experimental study, researchers found
+that the participatory process of digital storytelling supported
+young women to learn to cope with individual experiences of
+anxiety and stress (Goodman & Newman 2014). Researchers, in a fourth study, found that digital storytelling
+was an appropriate technological intervention for Indigenous
+Alaskan youth and promoted understanding of positive life
+events and relationships. The digital stories were deemed
+useful in suicide prevention as “hope kits” (Wexler et al.
+2013, p. 617). This was because when young people shared
+their digital stories with adults who were supportive, stronger
+protective intergenerational bonds developed (Wexler 2011;
+Wexler et al. 2013). The young people were also able to
+watch the stories when in a sad mood to remind themselves
+of “key reasons for living” (Wexler et al. 2013, p. 618).
+Learning skills
+
+The second broad area outlines the function of digital storytelling as a process of learning. During the process of making digital stories, people were enabled to gain skills in
+digital literacy, technology, ﬁlm and photography, as well
+as story development and communication (Beltrán &
+Begun 2014; Cunsolo Willox et al. 2013; Stenhouse et al.
+2013; Wexler 2011; Wexler et al. 2013; Willis et al. 2014).
+The acquisition of skills was described in three articles as
+improving people’s sense of connection to their community, self-conﬁdence, self-efﬁcacy and personal achievement (Stenhouse et al. 2013; Wexler et al. 2013; Willis
+et al. 2014). However, the process of learning was challenging and burdensome for some (Cunsolo Willox et al. 2013;
+Lenette & Boddy 2013; Stenhouse et al. 2013; Wexler
+et al. 2013). Stenhouse et al. (2013) described their process
+as person centred, focusing on the person and their needs.
+They stated that working alongside people in this way encouraged their learning.
+Learning about other people’s lived experience
+
+The third grouping was supporting people to learn about
+other people’s life experiences. In six of the included
+© 2016 Australian College of Mental Health Nurses Inc.
+
+189
+
+articles, the authors outlined the use of digital storytelling
+in the education of healthcare students, providers, educators and policy makers about the experience of living with
+a diagnosis of a mental illness (Evans & Jones 2008; Ferrari
+et al. 2015; Matthews & Sunderland 2013; Rice et al. 2015;
+Spector et al. 2011; Stenhouse et al. 2013). The process of
+making digital stories with consumers enabled healthcare
+personnel to develop empathy with consumers because
+they were able to share perspectives and connect on a universal emotional human level (Ferrari et al. 2015; Rice et al.
+2015). Showing digital stories, that exempliﬁed a range of
+consumer lived experience to this audience, was seen to
+challenge the societal stereotype that perpetuates the
+stigma and shame experienced by people living with a diagnosis (Matthews & Sunderland 2013; Rice et al. 2015), because the stories emphasized people’s shared humanity
+(Rice et al. 2015). Including digital stories on consumer
+lived experience in education was thought to support reﬂective practice, dialogue and an understanding of the complexity and diversity of the experience of living with a
+diagnosis (Matthews & Sunderland 2013; Rice et al. 2015;
+Spector et al. 2011).
+It was argued that the effect of digital stories to momentarily transport the viewer into the lifeworld of the person
+and community (Cunsolo Willox et al. 2013, p. 137) could
+support the development of policy, practice and education
+that incorporates consumer perspectives (Matthews &
+Sunderland 2013; Rice et al. 2015).
+In three articles, the authors described how these aspects of digital stories were used to advocate for community
+and organisational resources to support people’s mental
+health (Cunsolo Willox et al. 2013; Wexler et al. 2013; Willis
+et al. 2014). However, enabling people in positions of
+power to understand and act upon the messages contained
+in digital stories requires their listening to be supported, because the stories often challenge their world view
+(Matthews & Sunderland 2013). The ease of sharing digital
+stories to a local, national and international online audience
+was described in two articles as empowering, because people could communicate positive accounts of a particular culture to outside audiences that undermined stereotypes and
+was protective of Indigenous mental health (Cunsolo Willox
+et al. 2013; Wexler et al. 2013). However, the authors emphasized that caution must be exercised in what stories
+are shown to avoid perpetuating societal stereotypes
+(Cunsolo Willox et al. 2013).
+In ﬁve of the reviewed articles, authors identiﬁed that
+sharing digital stories with carers and community members
+facilitated understanding of the suffering, resilience, and
+personal and community needs of the person that could
+promote mental health in both (Beltrán & Begun 2014;
+
+190
+
+Lenette & Boddy 2013; Wexler 2011; Wexler et al. 2013;
+Willis et al. 2014). The process of making and sharing digital
+stories with other consumers, signiﬁcant others and
+healthcare professionals were described as therapeutic,
+healing and transformational (Beltrán & Begun 2014;
+Cunsolo Willox et al. 2013; Ferrari et al. 2015; Spector
+et al. 2011; Willis et al. 2014). This was because it provided a safe and creative opportunity for people to remember, reﬂect, discuss, connect and learn about
+people in their community and care (Beltrán & Begun
+2014; Cunsolo Willox et al. 2013; Evans & Jones 2008;
+Ferrari et al. 2015; Rice et al. 2015; Spector et al. 2011;
+Wexler 2011; Willis et al. 2014). These aspects of the digital storytelling process enabled participants to empathize
+with others because they could identify with or relate to
+other people’s experience (Beltrán & Begun 2014;
+Cunsolo Willox et al. 2013; Evans & Jones 2008; Ferrari
+et al. 2015; Rice et al. 2015; Spector et al. 2011;
+Stenhouse et al. 2013; Wexler 2011; Willis et al. 2014).
+Gaining a deep understanding and recognition of the
+other person’s lived experience built and strengthened
+empathic relationships, social connections, community
+and solidarity between consumers, carers and healthcare
+professionals (Evans & Jones 2008; Ferrari et al. 2015;
+Rice et al. 2015; Stenhouse et al. 2013); an important factor in recovery oriented service provision (Evans & Jones
+2008).
+
+Learning about personal lived experience
+
+Authors of 12 of the reviewed articles commented on the
+capacity of digital storytelling to enhance learning and understanding of personal lived experience. Watching digital
+stories made by others and discussing them in a group supported young people to understand their experience of excessive alcohol consumption (Coleman et al. 2010).
+Participating in a safe, supportive, participatory and democratic group was seen as important because it supported
+personal stories to evolve naturally (Beltrán & Begun
+2014). Understanding of personal lived experience was enhanced because people could ﬁnd and share their own story
+in their own time, and express and explore personal beliefs,
+values and experiences in relation to others’ stories and
+feedback (Beltrán & Begun 2014; Cunsolo Willox et al.
+2013; Ferrari et al. 2015; Spector et al. 2011). The creative
+group process promoted reﬂection on lived experience, and
+different personal meanings were derived from the close
+re-examination, re-interpretation and re-framing of experiences (Beltrán & Begun 2014; Cunsolo Willox et al. 2013;
+Evans & Jones 2008; Ferrari et al. 2015; Spector et al.
+2011; Willis et al. 2014).
+
+N. D. VECCHI ET AL.
+
+People described the process as enabling them to view
+their own experience from a different, richer, and more
+personally capable position (Ferrari et al. 2015; Spector
+et al. 2011; Willis et al. 2014) because they could relate to
+other people’s stories (Beltrán & Begun 2014; Ferrari
+et al. 2015; Spector et al. 2011). Life events and experiences
+could be connected into a cohesive and understandable
+whole (Lenette & Boddy 2013), using multiple media
+sources to facilitate the process of re-construction (Evans
+& Jones 2008; Ferrari et al. 2015). However, support was
+needed because people could be re-traumatized (Spector
+et al. 2011). Facilitator and group support enabled people
+living with dementia to reveal their understanding of the
+impact of their decline on themselves, their carers, their
+independence and social relationships (Stenhouse et al.
+2013). For Indigenous youth, learning stemmed from reﬂection on and a deep appreciation of self in relation to land
+and culture (Wexler 2011; Wexler et al. 2013).
+When healthcare professionals and consumers made
+digital stories in a group, professionals were enabled to express and release traumatic, often unresolved work-related
+experiences (Ferrari et al. 2015; Rice et al. 2015). Their willingness to be exposed and vulnerable during the group process supported their understanding of and empathy
+towards their own and consumer lived experiences (Rice
+et al. 2015). Overall, seven studies from the included articles identiﬁed digital storytelling as a creative and therapeutic group learning process (Beltrán & Begun 2014, Cunsolo
+Willox et al. 2013; Evans & Jones 2008; Ferrari et al. 2015;
+Rice et al. 2015; Spector et al. 2011; Willis et al. 2014).
+
+Implications for research in mental health
+In this scoping review, we were interested in mapping the
+potential use of digital storytelling in mental health, and
+identifying how and in what areas it has been used. Digital
+storytelling in mental health provides opportunities for
+learning across several areas, including acquiring skills in
+digital literacy and communication, as an educational intervention learning tool, and in understanding other people’s
+and personal lived experiences of mental health and service
+provision. The value of using digital storytelling in mental
+health services has been in developing empathy and unity
+between stakeholders to strengthen a recovery orientation
+in service provision. However, in nine of the articles included in this scoping review, the authors focused on the
+mental health of people not involved with mental health
+services. The focus of these nine studies was on the mental
+health of Indigenous people, young people with social
+issues and other populations considered to be vulnerable
+within society.
+© 2016 Australian College of Mental Health Nurses Inc.
+
+DIGITAL STORYTELLING IN MENTAL HEALTH
+
+To date, there has been little research that focuses on
+the use of digital storytelling with stakeholders of mental
+health services, and only six were located to include in this
+study. Of these six, only three of the articles presented research ﬁndings from studies conducted in the area (Ferrari
+et al. 2015; Spector et al. 2011; Stenhouse et al. 2013). The
+remaining three offered a descriptive overview of the use
+of digital storytelling in policy-making (Matthews & Sunderland 2013) or a description of digital storytelling projects with
+people in mental health services (Evans & Jones 2008; Rice
+et al. 2015). These ﬁndings indicate that there is a gap in the
+literature pertaining to research conducted on the collaborative use of digital storytelling in mental health services with
+consumers, carers and healthcare professionals.
+This is an important omission in the research literature,
+given the potential value of (digital) storytelling to progress
+the development of empathic relationships between stakeholders of mental health services through a mutual understanding and appreciation of different lived experience
+perspectives (Evans & Jones 2008; Ferrari et al. 2015;
+Gunnarsson et al. 2010; Gwinner & Ward 2015; Moran
+et al. 2012; Place et al. 2011; Rice et al. 2015; Sethi 2013;
+Spector et al. 2011). Scholars argue that the arts can be used
+to promote mutual respect for each other’s lived experience, which has the potential to promote culture change
+in mental health services towards a recovery orientation
+(Crawford et al. 2013). This gap in the literature represents
+a missed opportunity for using the process and product of
+digital storytelling to advance an agenda for service provision and recovery that is built upon community, solidarity
+and social justice. These outcomes have the power to undermine the divisive ‘us and them’ culture in mental health
+services and transform service provision. More research is
+needed in this important area of mental health service provision that uses the participatory process of digital storytelling to progress this agenda.
+Several issues concerning the ethics of making digital
+stories with people considered vulnerable in society must
+be emphasized. An ethical tension exists between the need
+for ownership of voice and identiﬁcation (Cunsolo Willox
+et al. 2013; Lenette & Boddy 2013; Spector et al. 2011),
+and the need for conﬁdentiality and non-exploitation of
+people represented in digital stories (Cunsolo Willox et al.
+2013; Evans & Jones 2008; Lenette & Boddy 2013; Willis
+et al. 2014). These factors become important if showing digital stories in public media and online platforms. There is a
+need to initiate ongoing discussion about the ethics of representation and consent with storytellers to protect the privacy of people featured in digital stories (Cunsolo Willox
+et al. 2013; Evans & Jones 2008; Gubrium et al. 2014b),
+while not undermining autonomy, and the pride people
+© 2016 Australian College of Mental Health Nurses Inc.
+
+191
+
+experience in sharing a digital story of importance to them
+(Cunsolo Willox et al. 2013; Lenette & Boddy 2013;
+Spector et al. 2011).
+
+Limitations of the study
+While a number of search terms and databases were used in
+the scoping review, it is possible that using different search
+terms and databases may have identiﬁed different articles
+on the use of digital storytelling in mental health, leading
+to different results. It is also possible that researcher fatigue
+resulted in relevant articles being missed in the initial
+search. However, using two researchers to review and select the articles to be included in the review is a strength
+of the study, consistent with recommendations from recent
+methods outlined by scholars on the conduct of scoping reviews (Arksey & O’Malley 2005; Levac et al. 2010). The relatively small number of articles identiﬁed as relevant to the
+review, makes it difﬁcult to make strong recommendations
+on the use of digital storytelling in mental health. However,
+these ﬁndings are consistent with the uses of digital storytelling in other areas of healthcare. The use of the methodological stages of scoping reviews, as outlined by Arksey and
+O’Malley has contributed towards the replicability and reliability of the ﬁndings.
+
+CONCLUSIONS
+Digital storytelling is an emerging method in mental health
+research, education and practice as exempliﬁed in this scoping review of articles published in peer reviewed journals.
+The importance of digital storytelling in enabling learning
+across a range of areas important in mental healthcare cannot be underestimated. The potential power of the digital
+storytelling process for enabling consumers, carers and
+healthcare professionals to work together to learn about,
+understand and empathize with each other’s lived experience has implications for the development of recovery oriented mental health services. However, the lack of uptake
+of this method in research in mental health services represents a potential missed opportunity for progressing these
+important relational, dialogical and solidarity building aspects of the process and product of digital storytelling.
+More research is needed that explores the potential of digital storytelling to foster a recovery orientation that is based
+on empathy, community and solidarity between stakeholders to progress a social justice agenda in mental health
+service provision.
+
+DISCLOSURE STATEMENT
+The authors declare that they have no competing interests.
+
+192
+
+ACKNOWLEDGEMENT
+The authors declare that no ﬁnancial institution or funding
+was involved in this study.
+
+REFERENCES
+Arksey, H. & O’Malley, L. (2005). Scoping studies: Towards a
+methodological framework. International Journal of Social Research Methodology, 8(1), 19–32.
+Australian Government (2012). The Roadmap for National Mental
+Health Reform 2012–2022. Council of Australian Governments
+(Ed), Canberra: Australian Government. [Cited 28 July 2015].
+Available from: URL: http://www.coag.gov.au/node/482.
+Beltrán, R. & Begun, S. (2014). ‘It is medicine’: Narratives of
+healing from the Aotearoa Digital Storytelling as Indigenous
+Media Project (ADSIMP). Psychology and Developing Societies, 26(2), 155–179.
+Clark, M. C. & Rossiter, M. (2008). Narrative learning in adulthood. New Directions for Adult and Continuing Education,
+2008(119), 61–70.
+Cobb, R. A. & Negash, S. (2010). Altered book making as a form of
+art therapy: A narrative approach. Journal of Family Psychotherapy, 21(1), 54–69.
+Coleman, L., Ramm, J. & Cooke, R. (2010). The effectiveness of
+an innovative intervention aimed at reducing binge drinking
+among young people: Results from a pilot study. Drugs: Education, Prevention and Policy, 17(4), 413–430.
+Crawford, P., Lewis, L., Brown, B. & Manning, N. (2013). Creative practice as mutual recovery in mental health. The Mental
+Health Review, 18(2), 55–64.
+Cunsolo Willox, A., Harper, S. L., Edge, V. L. & ‘My Word’: Storytelling, Digital Media Lab & Rigolet Inuit Community Government (2013). Storytelling in a digital age: Digital storytelling
+as an emerging narrative method for preserving and promoting
+indigenous oral wisdom. Qualitative Research, 13(2), 127–147.
+Daudt, H., Van Mossel, C. & Scott, S. (2013). Enhancing the scoping study methodology: A large, inter-professional team’s experience with Arksey and O’Malley’s framework. BMC Medical
+Research Methodology, 13, 48–57.
+Evans, A. & Jones, G. H. (2008). Hope, help and recovery. Mental
+Health Practice, 11, 32–37.
+Ferrari, M., Rice, C. & McKenzie, K. (2015). ACE Pathways Project: Therapeutic catharsis in digital storytelling. Psychiatric
+Services, 66(5), 556.
+Frank, A. (2013). . The wounded story teller, 2nd edn. Chicago, IL:
+The University of Chicago Press.
+Gidman, J. (2013). Listening to stories: Valuing knowledge from
+patient experience. Nurse Education in Practice, 13(3),
+192–196.
+Goodman, R. & Newman, D. (2014). Testing a digital storytelling
+intervention to reduce stress in adolescent females. Storytelling, Self, Society, 10(2), 177–193.
+Gubrium, A. (2009). Digital storytelling: An emergent method for
+health promotion research and practice. Health Promotion
+Practice, 10(2), 186–191.
+
+N. D. VECCHI ET AL.
+Gubrium, A. C., Krause, E. L. & Jernigan, K. (2014a). Strategic
+authenticity and voice: New ways of seeing and being seen as
+young mothers through digital storytelling. Sexuality Research
+and Social Policy, 11(4), 337–347.
+Gubrium, A. C., Hill, A. L. & Flicker, S. (2014b). A situated practice of ethics for participatory visual and digital methods in public health research and practice: A focus on digital storytelling.
+American Journal of Public Health, 104(9), 1606–1614.
+Gunnarsson, A. B., Peterson, K., Leufstadius, C., Jansson, J.-Å. &
+Eklund, M. (2010). Client perceptions of the Tree Theme
+Method™: A structured intervention based on storytelling
+and creative activities. Scandinavian Journal of Occupational
+Therapy, 17(3), 200–208.
+Gustini, G. & Boulos, M. N. K. (2013). Google Scholar is not
+enough to be used alone for systematic reviews. Online Journal
+of Public Health Informatics, 5(2), 1–10.
+Gwinner, K. & Ward, L. (2015). Storytelling, safeguarding, treatment, and responsibility: Attributes of recovery in psychiatric
+intensive care units. Journal of Psychiatric Intensive Care, 11
+(2), 105–118.
+Haigh, C. & Hardy, P. (2011). Tell me a story - A conceptual exploration of storytelling in healthcare education. Nurse Education
+Today, 31(4), 408–411.
+Harper, S. L., Edge, V. L. & Cunsolo Willox, A. (2012). ‘Changing
+Climate, Changing health, Changing stories’ proﬁle: Using an
+EcoHealth approach to explore impacts of climate change on
+Inuit health. EcoHealth, 9(1), 89–101.
+Her Majesty’s Government Department of Health (2012). No
+health without mental health. A cross-government mental
+health outcomes strategy for people of all ages. [Cited 18 August 2015]. Available from: URL: https://www.gov.uk/government/uploads/system/uploads/attachment_data/ﬁle/213761/
+dh_124058.pdf.
+Hill, A. L. (2008). ‘Learn from my story’: A participatory media initiative for Ugandan women affected by obstetric ﬁstula.
+Agenda, 77, 48–68.
+Holley, L. C., Stromwall, L. K. & Bashor, K. H. (2012).
+Reconceptualizing stigma: Toward a critical anti-oppression
+paradigm. Stigma Research and Action, 2(2), 51–61.
+Kidd, S., Kenny, A. & McKinstry, C. (2014). From experience to
+action in recovery-oriented mental health practice: A ﬁrst person inquiry. Action Research, 12(4), 357–373.
+Lambert, J. (2010). Digital storytelling cookbook California, USA:
+Digital Diner Press.
+Le Boutillier, C., Leamy, M., Bird, V. J., Davidson, L., Williams, J.
+& Slade, M. (2011). What does recovery mean? A qualitative
+analysis of international recovery-oriented practice guidelines.
+Psychiatric Services, 16(12), 1470–1476.
+Lenette, C. & Boddy, J. (2013). Visual ethnography and refugee
+women: Nuanced understandings of lived experiences. Qualitative Research Journal, 13(1), 72–89.
+Levac, D., Colquhoun, H. & O’Brien, K. K. (2010). Scoping studies: Advancing the methodology. Implementation Science, 5(1),
+69–78.
+Matthews, N. & Sunderland, N. (2013). Digital life-story narratives
+as data for policy makers and practitioners: Thinking through
+methodologies for large-scale multimedia qualitative datasets.
+Journal of Broadcasting & Electronic Media, 57(1), 97–114.
+© 2016 Australian College of Mental Health Nurses Inc.
+
+DIGITAL STORYTELLING IN MENTAL HEALTH
+Mays, N., Roberts, E. & Popay, J. (2001). Synthesising research evidence. In: N. Fulop, P. Allen, A. Clark & N. Black (Eds),
+Studying the organisation and delivery of health services: Research methods (pp. 188-220). London: Routledge.
+Mental Health Commission of Canada (2012). Changing directions, changing lives: The mental health strategy for Canada.
+Calgary, AB: Author. [Cited 18 August 2015]. Available from:
+URL: http://www.mentalhealthcommission.ca/English/system/
+ﬁles/private/MHStrategy_Strategy_ENG_0.pdf.
+Mitchell, G. J., Jonas-Simpson, C. & Ivonoffski, V. (2006). Research-based theatre: The making of I’m Still Here! Nursing
+Science Quarterly, 19(3), 198–206.
+Moran, G. S., Russinova, Z., Gidugu, V., Yim, J. Y. & Sprague, C.
+(2012). Beneﬁts and mechanisms of recovery among peer providers with psychiatric illnesses. Qualitative Health Research,
+22(3), 304–319.
+Pham, M. T., Rajić, A., Greig, J. D., Sargeant, J. M., Papadopoulos,
+A. & McEwen, S. A. (2014). A scoping review of scoping reviews: Advancing the approach and enhancing the consistency.
+Research Synthesis Methods, 5(4), 371–385.
+Place, C., Foxcroft, R. & Shaw, J. (2011). Telling stories and hearing
+voices: Narrative work with voice hearers in acute care. Journal
+of Psychiatric & Mental Health Nursing, 18(9), 837–842.
+Rice, C., Chandler, E., Harrison, E., Liddiard, K. & Ferrari, M.
+(2015). Project Re•Vision: Disability at the edges of representation. Disability and Society, 30(4), 513–527.
+Ricks, L., Kitchens, S., Goodrich, T. & Hancock, E. (2014). My
+story: The use of Narrative Therapy in individual and group
+counseling. Journal of Creativity in Mental Health, 9(1),
+99–110.
+Rigg, K. K. & Murphy, J. W. (2013). Storylines as a neglected tool
+for mental health service providers and researchers. International Journal of Mental Health and Addiction, 11(4), 431–440.
+
+© 2016 Australian College of Mental Health Nurses Inc.
+
+193
+Sawyer, C. B. & Willis, J. M. (2011). Introducing digital storytelling to inﬂuence the behavior of children and adolescents. Journal of Creativity in Mental Health, 6(4), 274–283.
+Sethi, B. (2013). Reclaiming self. Journal of Progressive Human
+Services, 24(3), 175–186.
+Spector, R., Smojkis, M. & Chilton, L. (2011). Service-user involvement in a ward staff training project: Participants’ experiences of making digital stories. Clinical Psychology Forum,
+(220), 49–53.
+Stenhouse, R., Tait, J., Hardy, P. & Sumner, T. (2013). Dangling
+conversations: Reﬂections on the process of creating digital
+stories during a workshop with people with early-stage dementia. Journal of Psychiatric & Mental Health Nursing, 20(2),
+134–141.
+Thompson, N. C., Hunter, E. E., Murray, L., Ninci, L., Rolfs, E.
+M. & Pallikkathayil, L. (2008). The experience of living with
+chronic mental illness: A Photovoice study. Perspectives in Psychiatric Care, 44(1), 14–24.
+Wexler, L. (2011). Intergenerational dialogue exchange and action: Introducing a community-based participatory approach
+to connect youth, adults and elders in an Alaskan Native community. International Journal of Qualitative Methods, 10(3),
+248–264.
+Wexler, L., Gubrium, A., Grifﬁn, M. & DiFulvio, G. (2013). Promoting positive youth development and highlighting reasons
+for living in Northwest Alaska through digital storytelling.
+Health Promotion Practice, 14(4), 617–623.
+Willis, N., Frewin, L., Miller, A., Dziwa, C., Mavhu, W. & Cowan,
+F. (2014). “My story”—HIV positive adolescents tell their story
+through ﬁlm. Children and Youth Services Review, 45,
+129–136.
+White, M. (2011). Narrative Practice: Continuing the Conversations. New York, NY: W. W. Norton & Company, Inc.
+
+

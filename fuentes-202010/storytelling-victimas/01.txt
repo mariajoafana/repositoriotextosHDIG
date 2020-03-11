@@ -1,0 +1,1360 @@
+JILL STAUFFER
+
+E T H I C A L
+
+L O N E L I N E S S
+
+the injustice of not being heard
+
+E t h i c a l
+
+L o n e l i n e s s
+
+published with a grant from
+
+figure foundation
+comes an adjournment of sorrow
+
+E t h i c a l
+
+L o n e l i n e s s
+
+the injustice of not being heard
+
+Jill Stauffer
+
+Columbia University Press
+
+New York
+
+Columbia University Press
+Publishers Since 1893
+New York Chichester, West Sussex
+cup.columbia.edu
+“Notes Toward a Supreme Fiction” from The Collected Poems of Wallace Stevens by
+Wallace Stevens © 1954 by Wallace Stevens and copyright renewed 1982 by Holly
+Stevens. Used by permission of Alfred A. Knopf, an imprint of the Knopf Doubleday
+Publishing Group, a division of Random House LLC. All rights reserved.
+
+Copyright © 2015 Columbia University Press
+All rights reserved
+Library of Congress Cataloging-in-Publication Data
+Stauffer, Jill, 1966–
+Ethical loneliness : the injustice of not being heard / Jill Stauffer.
+pages cm
+Includes bibliographical references and index.
+ISBN 978-0-231-17150-2 (cloth : alk. paper) — ISBN 978-0-231-53873-2 (e-book)
+1. Loneliness—Philosophy. 2. Loneliness—Moral and ethical aspects.
+3. Persecution. 4. Oppression (Psychology) I. Title.
+B105.L65S73 2015
+172'.1—dc23
+2015001677
+
+Columbia University Press books are printed on permanent and durable acid-free paper.
+This book is printed on paper with recycled content.
+Printed in the United States of America
+c 10 9 8 7 6 5 4 3 2 1
+COVER IMAGE: KÄTHE KOLLWITZ, THE WIDOW I FROM WAR © ARS
+COVER DESIGN: CHANG jaE LEE
+References to websites (URLs) were accurate at the time of writing. Neither the
+author nor Columbia University Press is responsible for URLs that may have expired
+or changed since the manuscript was prepared.
+
+The tortured person never ceases to be amazed that all those things one may,
+according to inclination, call his soul, or his mind, or his consciousness, or
+his identity, are destroyed when there is that cracking and splintering in the
+shoulder joints.
+—Jean Améry
+
+The word I means here I am, answering for everything and for everyone.
+—Emmanuel Levinas
+
+But the difficultest rigor is forthwith,
+On the image of what we see, to catch from that
+Irrational moment its unreasoning,
+As when the sun comes rising, when the sea
+Clears deeply, when the moon hangs on the wall
+Of heaven-haven. These are not things transformed.
+Yet we are shaken by them as if they were.
+We reason about them with a later reason.
+...
+We reason of these things with later reason.
+And we make of what we see, what we see clearly
+And have seen, a place dependent on ourselves.
+—Wallace Stevens
+
+Contents
+
+Acknowledgments ix
+List of Abbreviations xiii
+
+Introduction 1
+1. Ethical Loneliness 9
+2. Repair 34
+3. Hearing 69
+4. Revision 112
+5. Desert 142
+Epilogue 171
+Notes 173
+Index 209
+
+Acknowledgments
+
+In Beyond Good and Evil, Nietzsche wrote, “A thought comes when ‘it’
+wishes, and not when ‘I’ wish, so that it is a falsification of the facts of the
+case to say that the subject ‘I’ is the condition of the predicate ‘think.’ ” I
+think about that a lot. It means, among other things, that the ideas of this
+book owe much to many interlocutors—a large number of persons, the
+conditions in which I live, even the passing of time. Nietzsche’s reminder
+is also reflected in the themes of the book, from Jean Améry learning in
+the hardest way imaginable that the life of the mind is not possible absent human community, to how, in the writing of the book, the ideas took
+their most interesting turns when I pushed myself to translate the argument for widely different audiences, to how none of this would have been
+possible absent the gift (and luxury) of time for writing.
+It began when Oona Eisenstadt invited me to present a paper at a colloquium on contemporary Jewish philosophy at Pomona College in December 2010. I thought to myself, “I am not qualified for this.” Oona insisted, and so I revised my thought and said to myself, “I suppose it is time
+
+x Acknowledgments
+
+for me to figure out how to put Jean Améry in conversation with Levinas.”
+That paper was my first draft of the concept of ethical loneliness.
+A second push came from Peter Rush at the Law School at the University of Melbourne in Australia, who asked me to give a plenary address at
+a July 2011 conference called “Affective States of International Criminal
+Justice.” Looking at loneliness and legal response to violence through the
+lens of affect and its transfer helped me refine my argument about the self’s
+intersubjective formation. The participants in the conference, a response to
+my paper by Shaun McVeigh, and the faculty and graduate students at
+Melbourne engaged with the work in progress in deeply helpful ways.
+Then I was invited, in October 2011, to speak at a conference honoring the work of Linda Ross Meyer, where engaging with the serious challenge her work on mercy poses to the gut sense I was developing that resentment could also be restorative led me to begin to develop the ideas
+about hearing that are so central to this book’s argument.
+I owe singular thanks to James Martel, Claire Katz, and Gustavus
+Stadler, all of whom read the full manuscript and offered helpful support
+and critique—each showed me in different ways both what I knew I was
+doing with the book and what I didn’t. Each moved me with the intelligence and generosity of their comments, and opened windows for me into
+my own thinking.
+I am also indebted to two anonymous reviewers for Columbia University Press, whose vital comments advanced my thinking about some aspects of the project, and to Wendy Lochner and Christine Dunbar, for
+supporting this book and shepherding it through the publishing process.
+Donovan Schaefer, Raji Mohan, Tina Zwarg, Lisa McCormick, and Gus
+Stadler—all members of a faculty seminar on affect theory at the Hurford Center for the Arts and Humanities at Haverford College—read early
+versions of the chapters on ethical loneliness and revision, and their comments helped me think through the project during a key stage in my writing of it. Finally, most of the book came into being during a sabbatical
+leave provided by Haverford College. I used to think I could make writing happen no matter what constraints the outside world threw at me.
+Having a year to sink deeply into a demanding project taught me that
+some forms of thinking and writing need that buffer of space and time
+around them. To recast Nietzsche’s counsel: thought doesn’t come when
+I’m ready for it, it comes when it is ready—but that means one needs to
+provide a space where it might arrive.
+
+Acknowledgments
+
+xi
+
+During the years I worked on this book, I was invited to present work
+from it at Bard College’s Human Rights Project lecture series, Yale Law
+School’s Human Rights Workshop, a conference at McGill University on
+“The Art and Politics of Irony,” Johns Hopkins University’s WGS workshop on “Law and Loss,” a colloquium on “Law’s Counter-Archive” at
+the Birkbeck School of Law at the University of London, Rowan University’s “Theorizing Rowan” series, and as a plenary address at the 2014
+meeting of the North American Levinas Society. Every audience I encountered pushed the ideas along in productive and illuminating ways.
+I also presented work in progress at meetings of the Association for
+the Study of Law, Culture and the Humanities, an interdisciplinary group
+that has been an important intellectual home for me; the Levinas Research
+Seminar, another rigorous and generative scholarly community; the
+Critical Legal Studies conferences in Stockholm, Sweden, and Belfast,
+Northern Ireland—so full of the best kinds of challenge to settled
+thought; the Society for Phenomenology and Existential Philosophy, a
+philosophical home; and the American Political Science Association,
+where I am always reminded of how far work in political theory can extend. Every meeting I attended illuminated for me how important it is for
+working scholars to talk to one another about matters large and small.
+Further thanks go to Katie Ulrich, a student of mine at Haverford College, who engaged with this work very smartly in a senior seminar and
+then agreed to take on the thankless (but thankfully paid) task of hunting
+down, regularizing, and formatting the citations for the manuscript. She
+did a better job than I would have done and saved me an immense amount
+of time and stress in doing so.
+Other friends and colleagues whose conversation and critique helped
+make this book what it is include Sara Kendall, Jennifer Culbert, Stewart
+Motha, Martin Kavka, Alison Young, Roger Berkowitz, Mark Antaki, Andrew Friedman, Sam Moyn, Linda Ross Meyer, John Drabinski, Diane
+Perpich, Joshua Ramey, Dave Eggers, Gayle Salamon, Anne Murphy, P. J.
+Brendese, Deborah Achtenberg, and Juliet Rogers, and the teachers and
+mentors who challenged and supported me as I made my way to this point:
+Marianne Constable, Judith Butler, Peter Fitzpatrick, Philippe Nonet, and
+David Cohen.
+Early versions of this work appeared in print as “Speaking Truth to
+Reconciliation: Political Transition, Recovery, and the Work of Time,” Humanity 4, no. 1 (2013): 27–48, and “A Hearing: Forgiveness, Resentment,
+
+xii Acknowledgments
+
+and Recovery in Law,” Quinnipiac Law Review 30, no. 3 (2012): 517–26.
+Ideas from those two articles appear throughout this book, and I’ve
+added a note corresponding to the first sentence of sections that rely heavily on earlier material to indicate my debt to those publications. A couple
+of themes from another article of mine, “How Much Does That Weigh?
+Levinas and the Possibility of Human Rights,” originally published in the
+Turkish journal MonoKL 8–9 (2010): 661–74, also appear in the book
+(and also with a corresponding note where they appear).
+It isn’t just intellectual conditions—research money, library support,
+engaged students, generous colleagues, all of which I was lucky to have—
+that make a book possible but also the wider world that forms a backdrop to the life of the mind. And so I also owe immense thanks to the
+people I’ve long relied on most—those who actively contribute to building a shared world worth living in. My parents—Randy Stauffer (much
+missed) and Cheryle Stauffer—have always believed in me. The passing
+of time has shown me how much that matters. It has been a kind of
+strength, a well-built world I could fall back on, one that in no small measure made me who I am. My extended kin include my best-ever sister
+Natalie Kidder, Anne Stauffer, Evany Thomas, Liz Dunn, Heidi Pollock,
+Caroleen Beatty, Sunny Haire, Marilyn Fontenrose, Marco Baroz, Scott
+Kidder, and Ramsay Kidder. And then there is Gustavus Stadler, the one
+who arrived when I least expected, taught me how to rely on someone,
+and stayed.
+
+Abbreviations
+
+ANC
+African National Congress
+CONADEP National Commission on the Disappearance of Persons
+(Argentina)
+DRC
+Democratic Republic of the Congo
+EEEC
+Extraordinary Chambers in the Courts of Cambodia
+ICC
+International Criminal Court
+ICTR
+International Criminal Tribunal for Rwanda
+ICTY
+International Criminal Tribunal for the former Yugoslavia
+LRA
+Lord’s Resistance Army
+MK
+Umkhonto we Sizwe (armed wing of the ANC)
+NAGPRA Native American Graves Protection and Repatriation Act
+SCSL
+Special Court for Sierra Leone
+TRC
+Truth and Reconciliation Commission (South Africa)
+
+E t h i c a l
+
+L o n e l i n e s s
+
+Introduction
+The experience of persecution was, at the very bottom, that of an extreme
+loneliness. At stake for me is the release from the abandonment that has
+persisted from that time until today.
+—Jean Améry, “Resentments”
+
+Jean Améry wrote those lines in 1965, twenty years after he was freed
+from the Bergen-Belsen concentration camp. He describes an abandonment that the passing of time, on its own, does not remedy. In what follows I want to distinguish that kind of loneliness from the solitude or
+aloneness undergone by someone who can still rely on broad social support. Améry was subjected to an ethical loneliness. Ethical loneliness is
+the isolation one feels when one, as a violated person or as one member
+of a persecuted group, has been abandoned by humanity, or by those who
+have power over one’s life’s possibilities. It is a condition undergone by
+persons who have been unjustly treated and dehumanized by human beings and political structures, who emerge from that injustice only to find
+that the surrounding world will not listen to or cannot properly hear their
+testimony—their claims about what they suffered and about what is now
+owed them—on their own terms. So ethical loneliness is the experience
+of having been abandoned by humanity compounded by the experience of
+not being heard. Such loneliness is so named because it is a form of social
+
+2 Introduction
+
+abandonment that can be imposed only by multiple ethical lapses on the
+part of human beings residing in the surrounding world.
+The main argument of the book is that this form of loneliness is widespread, that it is caused not only by dehumanization, oppression, and
+abandonment but also by the failure of just-minded people to hear well—
+from those who have suffered—what recovery or reconciliation after
+massive violence or long-standing injustice would require. Such failures of
+hearing haunt sites where the goal is political transition, reconciliation,
+or forgiveness. As such, unassuaged ethical loneliness has political ramifications. But beyond that instrumental concern, failure to hear will matter to those who do not listen and those who are not heard, not only because stories without an audience do not survive but also because being
+heard or ignored impacts how the past resonates in the present—it affects
+human processes of revision. “Revision” refers not to the lies of revisionist history but to how human beings live their pasts in the present moment, with different events carrying varying amounts of significance at
+different times. To take a mundane example: it may be devastating for a
+teenager to be unpopular in high school, but for someone who has aged
+well into adulthood, her independence and personal achievements have
+likely rewritten that history, finding in it some of the sources of strength
+she needed in order to succeed. Her vision of the past’s meaning for the
+present will likely differ from that of someone who was a star athlete in
+college but who hasn’t felt that much glory has been achieved since then.
+A history stays with both of them, though differently. This is also a common experience of aging, where dogmatic certainties of youth may become either more nuanced or less committed over time, or where things
+that didn’t seem to matter at a younger age suddenly present themselves
+in an urgency that only collected years can put before us. In any of these
+cases, we may think we are the outcome of the choices we have made,
+but our choices will be only one part of the story of how we become the
+selves we are. Social conditions; friends, families, and strangers; cultural
+values; chance encounters; environmental factors—all of these and more
+will play a role. We are shaped by the worlds in which we subsist. Someone who lives among others who value athletic achievement, financial
+gain, or some other kind of fame higher than success at raising children
+may be more likely to devalue her current life (of raising children) than
+would one surrounded by people whose main aim is to be part of a thriving family. Someone who chooses a creative path that isn’t well supported
+
+Introduction 3
+
+by capitalist market forces may feel that she is fortunate, brave, silly, or a
+failure—depending at least in part on how her choices resonate in her surroundings. Someone who has chosen to pursue an office job or the life of
+the mind without marriage or children may, if surrounded mainly by thriving families, find herself feeling that her life is simply invisible where she
+lives, especially if the past and present history of her social setting offers
+few guides and little support for an alternative path.
+These are small things, tiny heartaches. I begin with mundane examples—and return to that level on occasion throughout the book—in
+order to demonstrate, and keep it firm in our minds, that this book full of
+stories of violence and injustice is also describing the human condition:
+our intersubjective reliance on one another. When I employ an everyday
+example to clarify a concept that then gets used to explain something
+much more dire, it is always to remind us that I am not describing things
+that can happen only to others or to people in desperate circumstances. It
+is part of the human condition that abandonments and abuses affect us
+as deeply as they do, and it starts with everyday losses that are less serious but that may underscore for us—if we take the time to look—our
+vulnerability, our false ideas about our autonomy, and what matters
+about the autonomy we do have. It is possible for each of us to think differently about how we come to be who we are, have what we have, and,
+accordingly, what we owe to the larger world. The mind-sets, views, and
+affective relations of human beings living in a shared world make a difference in what each of us thinks is possible, fitting, or just. A vast revolution can occur in that tiny space. It matters what stories we tell ourselves
+about these things. What is true in the preceding example about career choices is also true in cycles of violence, where even if retaliation
+is thought to be a “natural” response, what that will mean in a lived context—whether it will be violent, measured, world building, or world destroying—will be influenced by the attitudes of other human beings whose
+interactions make up the lived world we share for better and for worse.
+Important aspects of how the past is lived in the present are beyond
+the capacity of an individual to choose or control. Where the stakes are
+higher, for a survivor of political oppression or anyone whose past is impacted by trauma, it will matter that current social and political conditions affect what kinds of revision are possible. Recovery may be easier for
+someone with broad social support, who knows both that, though she was
+once victimized, she is now safe and that her neighbors and the officials
+
+4 Introduction
+
+who enforce laws are committed to equal justice, than it is for someone
+who has survived brutal treatment but lives in a community where her
+harms haven’t been addressed, are dismissed as part of a past that
+should be buried, or aren’t widely declared to be harms worthy of redress.
+For those whose pasts are haunted by injustice, revision can be a lifesaving human capacity. But some conditions make positive revisions possible, while others make negative ones more likely. Institutions may influence these conditions for better and for worse, but they cannot change
+them on their own.
+It isn’t only our choices that make us who we are. Selves and worlds
+are built by human interactions—affective, reasoned, chosen, and unchosen. Those forces are the backdrop to the worlds we build and in which
+we reside. Autonomy and liberty mean something only in spaces where
+they are respected. One aim of the book will be to show that this means
+responsibility for justice and recovery is, rather than a narrow legal concern, the very broadest of obligations. The past cannot be changed, but it
+can resound in the present moment in vastly different ways, some of them
+more hospitable to human thriving than others. It is everyone’s job to
+author conditions where repair is possible.
+In chapter 1 I develop an account of ethical loneliness. Using Jean
+Améry’s reflections on being tortured and interned in concentration camps,
+Levinasian phenomenology, and evidence from various forms of testimony,
+I show how isolation and loneliness are part of the human condition, but
+particular uses of them actively remove some persons from that condition, dehumanizing them. The argument relies on an idea that selfhood is
+intersubjective, and thus it may come into conflict with the sovereignty of
+self assumed by some versions of liberal political theory, especially the tradition attached to institutional legality—which is the traditional site for
+theorizing reconciliation or transition after political violence. This is a
+tough line to tread, since I am concerned less with liberal political theory
+as it is practiced by careful thinkers of that tradition and more with widespread deeply held assumptions (almost bodily senses of truth) about
+what selves are, what responsibility is, and so on, that are inherited from
+a broad kind of Western liberalism. It’s in the air and the water, you might
+say, to think that an uncomplicated autonomy is a natural and therefore
+nonnegotiable trait of human beings. I want to complicate that, allowing
+us to see autonomy as one outcome of the relation between human beings rather than as a predetermined boundary between them. Jean Améry’s
+
+Introduction 5
+
+reflections on torture, abandonment, and the life of the mind set us on
+that path.
+I use the work of Emmanuel Levinas to develop the account of ethical
+loneliness and the cooperatively authored self. The self’s liberty still
+matters. But I’ll argue that we cannot properly appreciate how that liberty
+is accomplished if we approach selves as if they were self-sufficient monads.
+Indeed there are harms—and remedies—that are rendered utterly inscrutable if we limit ourselves to thinking that a human self can experience
+meaningful autonomy separate from social conditions where many others recognize that self’s autonomy. Selves are formed intersubjectively, in
+the presence of others, for better and worse and regardless of whether any
+of us would have willed it to be this way. Acknowledging that brings us
+closer to understanding how selves and worlds can be destroyed by human
+violence, and why human beings can be wounded—not only physically—
+in such deep and lasting ways. Being abandoned by those who have the
+power to help produces a loneliness more profound than simple isolation. That is why practices of political transition, reconciliation, or recovery should always aim to do more than rebuild the formal equality or
+political autonomy of persons. The “form” of equality offered in the context of individualist institutions cannot, on its own, remedy a harm made
+possible only by widespread neglect of human responsiveness.
+Viewing recovery through the lens of ethical loneliness helps to balance
+a tendency to settle too quickly into ideas about autonomy, self-sufficiency,
+or sovereignty, formal equality, liberty as the capacity to choose one’s
+commitments, all enshrined in what gets called the rule of law. Those assumptions find their way into the design of international institutions like
+criminal tribunals, international courts, and truth commissions. And they
+haunt the practices of political reconciliation and transitional justice.
+The focus on ethical loneliness gives me a way to change the subject.
+Instead of talking about procedure, legality, and blame, I focus on how
+abandonment and loss are achieved and how they may be alleviated or
+compensated. In doing so I emphasize harms undergone more than wrongs
+inflicted. To set the context for the stakes of that shift, chapter 2 follows
+a tangent to the main argument, because its course is currently central to
+questions of reconciliation and recovery. In chapter 2, I discuss the retributive and reparative goals of postconflict trials and truth commissions.
+Courts focus on individual criminal responsibility—the culpability of the
+autonomous self—even for crimes that are possible only against a backdrop
+
+6 Introduction
+
+of widespread indifference and abuse. Truth commissions uncover the
+broader details of an unjust past but often get caught between the conflicting goals of nation building and individual recovery. Chapter 2 does justice
+to how important trials and truth commissions can be as local and international responses to grave harm but also shows the limits to thinking
+about the harms of dehumanization and abandonment only in terms of
+crime, individual responsibility, or nation building. It also uncovers a lack
+of substantial proof for the contention that these proceedings are cathartic
+or healing for survivors. My aim is, while acknowledging everything that is
+awe-inspiring about the responsive international, domestic, and hybrid institutions that have been created in the past few decades, to begin to focus
+also on what we don’t know and what these institutions can’t do.
+And so I situate the discussion of trials and truth commissions in a
+larger conversation about repair. Whenever we settle on a course of repair, we ought first to consider what repair is, the ethics of how repair
+proceeds, who gets to decide what needs to be fixed, and whether there
+are things that cannot or should not be repaired. Repair, after all, is not a
+neutral practice. It is an intervention preceded by decisions made about
+value. It will matter whose voices get heard when those decisions are made.
+Chapter 3 then turns its ear to hearing. In it I discuss how unintended
+ironies surface wherever institutions designed for hearing fail to hear well,
+and I show how the effects of those ironies tend to weigh most heavily on
+those with the least power to endure bad outcomes. Relying on testimony
+delivered in diverse settings—South Africa, Argentina, Holocaust archives,
+Native American dealings with U.S. legal proceedings, American prisons,
+the International Criminal Tribunal for the former Yugoslavia—I show
+failed attempts at listening and discuss some of the reasons why even a
+supportive audience might fail to hear well. The difference between communication—which always involves risk and uncertainty—and knowledge
+as fact emerges as key to understanding what is at stake in listening to
+the testimony of those who have been abandoned. Levinas’s work will help
+here as well, showing how communication is rooted as much in our
+precognitive response to others as it is in its instrumental use to convey
+stable meanings. Described this way, responsibility appears not as a form of
+culpability but as a duty to respond not backed by the security of set rules.
+Responding well to others, especially survivors of wrongdoing, may require that we open ourselves to hearing something other than what we
+expect or want to hear, even when what we hear threatens our ideas about
+
+Introduction 7
+
+how the world is ordered—as listening to survivor testimony might do.
+Only a self capable of being jolted out of its mundane complacency is up
+to the task of both hearing what repair demands and helping to invent
+new responses to harms that no preexisting remedy fully comprehends.
+That form of listening may also more readily come to understand why
+the liberal story about culpability—that we are responsible only for acts
+we author and intend—cannot fix, or even adequately address, the most
+grievous harms human beings face (and create). And that will open a space
+where we might ask why Western legality so often fails to listen for its
+own failures. The stakes are high here, because when no one listens, stories get lost. But unaddressed harms do not disappear. They remain, and
+they color the affective relations between persons and communities, haunting the official sites of transition and reconciliation.
+Chapter 4 looks at revision as a human capacity. As I mentioned earlier, by “revision” I mean the different ways in which a past can be lived
+in a present moment. For those struggling to rebuild selves, lives, and
+worlds after extended conflict or grave harm, some revisions render the
+present more livable than it otherwise would have been. Others fail to release the present moment from past harm, so that “now” seems to lack
+the capacity to offer a future. The chapter explores the relationship between resentment, forgiveness, time, and recovery for beings (such as ourselves) for whom revision is possible, defining “revisionary practice” as
+a way of making the past more livable in the present moment.1 Key to
+chapter 4 is Jean Améry’s refusal to forgive and his principled defense of
+his continued resentment against both forgiveness and the specter of Nietzschean ressentiment. His resistance helps us see the difference between
+reconciliation with other persons and reconciliation with time. Reconciliation with time reflects the desire, separate from any will to renew a
+relationship with an enemy, to be able to live with what the past has been.
+Nietzsche might say we can learn to “will backwards” on our own, but
+survivors of violence (and probably most of the rest of us) will likely need
+more than our own will to accomplish that. A survivor will need broad
+social support that functions as a promise that, though she was once abandoned by humanity, that will not be allowed to happen again. That is an
+aspect of world building, which is a cooperative enterprise, not a solitary
+endeavor. Accordingly, chapter 4 also shows why concepts of individual
+criminal responsibility and bystander innocence do not actively build
+worlds but rather, at best, reflect a world already built to support the
+
+8 Introduction
+
+liberal individual. Rebuilding destroyed selves and worlds requires more
+than that, which is only one reason why autonomous subjects with comfortable “self-sufficient” lives may also need to focus revisionary practices
+on their own selves before justice can be seen to be done.
+Chapter 5 revisits retribution’s roots in the Latin verb tribuere to recapture the word’s wider history, arguing that calls for retribution always
+reflect a sense that something has been unjustly taken and that a balance
+must be put right. One must redo, offer again, something that should have
+remained intact. Retribution is thus a revisionary practice. In many circumstances the punishment of perpetrators is not sufficient to accomplish
+such a goal. That is why retribution needn’t appear as an antonym of repair: in some cases its best goal is tribuere: to bestow, confer, grant, allow,
+or devote something deserved to one who deserves it. In this reading,
+“desert” applies not only to perpetrators but also to victims and the surrounding society. As such, “reparative retribution” repays those harmed
+for their harm. It offers compensation for loss. In addition to opening up
+our sense of the meaning of the word, defining retribution in this way also
+helps us understand why anger and resentment are not only negative affects: they express a person’s righteous indignation at being treated unjustly and so may be important positive expressions of a relationship to
+the past, present, and future that is both reasoned and affective.
+The chapter looks at cases from the United States, Argentina, Uganda,
+and South Africa where existing categories of response do not do justice
+to victims, to perpetrators, or to the larger unjust system in which those
+affected find themselves and considers alternatives to existing institutions
+that may be capable of addressing these harmful legacies more thoroughly.
+Each of the cases discussed shows that, though it will never be possible to
+hear everything—communication is fragile—what will matter in many settings is whether people who listen will, while paying attention to what is
+said, also watch out for what is not being heard. It will be important for
+those who listen to reflect on the limits to what they already know and
+how that affects what they are able to hear. Perhaps then people and the
+institutions they design will be able to listen for their own failures—and
+thus begin to live up to what justice after complex conflict or long-standing
+injustice demands.
+The book then ends with a short meditation on how the relationship
+between selves, time, and other selves impacts our ideas and practices of
+justice and recovery.
+
+1
+Ethical Loneliness
+
+Ethical loneliness is the experience of being abandoned by humanity compounded by the experience of not being heard. This chapter advances a
+phenomenology of sorts, describing how we are formed as selves and how
+this bears on ethical loneliness. Two thinkers who had deep experience of
+abandonment—Jean Améry and Emmanuel Levinas—are integral both
+to the philosophical structure of the argument and to its affective contour.
+
+Stories
+We tell ourselves stories all the time about the kinds of selves we are. We’re
+good at singing, bad at cooking. We are well loved by others, or maybe
+we are not. We are independent—no one’s going to tell us what to do. Or
+we can’t imagine who we would be separate from a loved one. We love
+cats, or dogs, or we think animals aren’t meant to be domesticated. We
+are the type to nurture others, or maybe we tend to show them tough love.
+We need the help of others, or we don’t. We identify with a gender, race,
+
+10
+
+Ethical Loneliness
+
+social class. We succeed. We fail. We belong, or we don’t. We tell ourselves
+these stories. They may or may not be true. We may believe them whether
+or not they are true and whether or not they are good for us. In part these
+stories form who we are, again whether or not they are true or good
+for us.
+Where do the stories come from? They come from our experience of
+the world, of course, and from our sense of who we are. But they also
+come from what other people say to us, from the values and truths produced by whatever cultures surround us, and from unspoken affective interactions between persons living alongside one another. For many of us,
+a deeply embedded story of who we are names us sovereign. We are autonomous selves, capable of consenting—or refusing to consent—to the
+conditions in which we live. Of course, many of us who tell ourselves that
+story also know that it leaves out part of the plot, since we didn’t get to
+give birth to ourselves in a world we designed.1 Instead, we landed, defenseless and in need of care, in a world already under way and as such
+full of rules, values, practices, and truths that we did not choose. If we
+are sovereign, it is in a dependent kind of way. Of course we know that.
+In this chapter and those that follow I want to highlight moments when
+we may forget to know that. “We”: a broad and large but not universal
+kind of first person plural made up of people who care about justice but
+whose lives have been lived mostly in a world safely taken for granted as
+benign—if not for everyone, at least for “us.” I ask how well “we” know
+the limits to our autonomy not in order to rehearse another argument
+about free will or determinism but to draw attention to justice. Assumptions about the self’s sovereignty are deeply embedded in prevalent ideas
+about justice. This is easily recognizable in the idea that we are responsible only for things we’ve done and intended, that we are blameworthy
+when we act with free will against standards we’ve accepted as our own,
+and that we lack culpability if we did not act freely or had no way of
+knowing what the rules require. There is nothing wrong with that idea
+on the face of it. But behind it lurk some problems, and I don’t mean only
+the deservedly pervasively discussed ones about how social, political, and
+economic conditions undermine free will. There is something about the
+idea of autonomy that limits the stories we tell ourselves about who we
+are. And so we don’t see very well who we are in certain circumstances.
+And so we may find ourselves developing strange ideas about how to proceed. That might be fine if all it meant is that we are deluded about our
+
+Ethical Loneliness
+
+11
+
+own selves. But I said I want to draw our attention to justice. I suspect
+that when we limit the stories we tell ourselves about what autonomy
+means for the kinds of beings we are, we miss something that matters more
+than a personal delusion might. If we misunderstand what autonomy is
+and what conditions its successful exercise requires, we may fail to comprehend how the selves and worlds of some human beings can be destroyed by other human beings. That might mean that we will have no
+idea how to listen to those who survive such harrowing loss. And, because
+we don’t hear, we fail to learn something about the limits to our own autonomy and, more important, simply don’t understand what conditions
+make successful recovery or reconciliation more or less likely after worlddestroying events. Finally, we won’t see how very unjust it is to believe, in
+some circumstances, that we are responsible only for what we’ve done and
+intended.
+
+Destruction
+At the beginning of his essay “At the Mind’s Limits,” Jean Améry admits
+that “the little word ‘I’ will have to appear here more often than I like,
+namely wherever I cannot take for granted that others have shared my
+personal experience.”2 How many of us have shared his experience? Raised
+in Austria, half Jewish and half Catholic by birth, a secular intellectual
+with a love of philosophy, he fled Austria in 1938 for France and then
+Belgium, where he spent time in the Belgian Resistance. Then came arrest, torture, and years in Auschwitz, Buchenwald, and Bergen-Belsen.
+Having changed his birth name, Hans Maier, to the Gallicized anagram
+Améry, after liberation he remained in exile, a writer composing in German but, for many years, refusing all German and Austrian outlets. Not
+many share his experience, not only because it is his own but also because
+it is made up of many layers of imposed isolation. It is that isolation—his
+ethical loneliness—that we need to understand in order to see what it was
+he sought to overcome in the postwar years, and what that search can
+tell us about the limits and possibilities of reconciliation.
+At this historical moment some might not remember that there was a
+time after World War II when the Holocaust was not yet named or widely
+acknowledged for what it was.3 Jean Améry committed suicide in 1978,
+at about the time Germany began to deal with its Nazi past in ways that
+stretched beyond the legalism of the Nuremberg and Auschwitz trials and
+
+12
+
+Ethical Loneliness
+
+into public consciousness by means of monuments, memorial sites, and
+civic education. Ruth Kluger, another survivor of the camps, describes in
+her memoir various of her experiences trying to communicate about her
+past in the United States in the years after World War II. Attending Hunter
+College in the 1940s, she found that in the consciousness of the Americans she encountered, “the Holocaust had no name yet, and hence it wasn’t
+even an idea, only an event: among the other disasters of the Second World
+War, a lot of Jews had died.”4 It was not widely known that there had
+been a concerted effort to eliminate a group of people from the earth. Anton Gill shows how, between 1945 and the Eichmann trial (1961), even
+in Israel there was a tremendous silence around the Holocaust, an unwillingness to hear survivors’ stories.5 That puts Améry’s struggle in a wider
+context: his resistance to forgiveness was in part a way to demand a
+wider recognition of the specific harms he had suffered, since no preexisting general term would capture adequately the horror of what he survived.
+As Kluger puts it, “A concept without a name is like a stray dog or feral
+cat. To domesticate it, you have to call it something.”6 Améry’s resistance
+to the passing of time seeks a proper name for what happened to him.
+What happened to Améry? I’ve already said that he was arrested, tortured, and interned in concentration camps. Readers understand what
+those things are. But those who have never been beaten, tortured, or otherwise dehumanized may lack the kind of understanding that brings to
+the fore the harm of these crimes. Améry himself admits that he thought
+he knew what was in store for him after his arrest. He had heard about
+beatings and torture and had prepared himself for the possibility that such
+things might befall him: “I regarded myself . . . as an old, hardened expert on the system, its men and its methods. . . . I thought there could be
+nothing new for me in this area. What would take place would then have
+to be incorporated into the relevant literature, as it were. Prison, interrogation, blows, torture; in the end, most probably death.”7 That police
+officers in both fascist and nonfascist states sometimes strike those they
+arrest is common knowledge, and often the public doesn’t even protest,
+whether because they believe that those who get arrested are “bad guys”
+or they think physical abuse may be necessary to police interrogation, or
+they are certain such things could never happen to them. In all those cases,
+the idea of police brutality is just that—an abstraction. Améry thought
+his theoretical knowledge of what was in store for him had prepared him.
+But all that evaporated in the face of what he calls “the first blow”:
+
+Ethical Loneliness
+
+13
+
+Simple blows, which really are entirely incommensurable with actual
+torture, may almost never create a far-reaching echo among the public, but for the person who suffers them they are still experiences that
+leave deep marks. . . . The first blow brings home to the prisoner
+that he is helpless, and thus it already contains in the bud everything
+that is to come.
+(27)
+
+Améry learned firsthand that no amount of knowledge can prepare a person for what physical abuse does. As he puts it, it turns a human being
+into a body. It does that in part by demonstrating to a person that he is
+powerless. That is why, though a gulf separates a punch in the face from
+torture, the first blow already begins to teach torture’s lesson about power.
+For Améry, the reality of the first blow, rather than emerging as an interruption of the concrete everyday, reveals everyday life to be mostly a “codified abstraction,” something that keeps us from standing “face to face
+with the event and, with it, reality” (26). The blow is real; daily life is
+abstract. He writes, “What one tends to call ‘normal life’ may coincide with
+anticipatory imagination and trivial statement” (26); the outcomes of our
+everyday actions tend to correspond with our expectations because of
+how mundane details get codified by our unreflective adherence to norms.
+As Jamie O’Connell points out,
+most people possess a basic sense of security in the world: they go
+through daily life fairly confident that they will not be subjected to
+emotional or physical attack without warning, except perhaps in
+places they know to be particularly dangerous. Brutal abuse by another human being can shatter this, leaving the survivor constantly
+terrified of being subjected to the same torment again.8
+
+For those who have never been left truly helpless, most of life passes without much demand that they confront the risks and responsibilities they
+incur simply by existing. For that reason, Améry takes issue with Arendt’s
+thesis on the “banality” of evil: “When an event places the most extreme
+demands on us, one ought not speak of banality. For at this point there is
+no longer any abstraction and never an imaginative power that could even
+approach its reality.”9 Here Améry (like many others) misunderstands Arendt’s meaning in using the term; he would likely agree that part of what
+was evil about how Nazis and many ordinary Germans treated Jewish
+
+14
+
+Ethical Loneliness
+
+persons was its banality—the everyday ease with which they dehumanized people without applying moral categories. But Améry’s point is that
+the inescapable reality of violence cannot be called banal by those who
+suffer it. He argues that, while it may have been initially shocking to him
+that Gestapo officers possessed, in addition to pistols and leather coats,
+ordinary faces, his treatment by those officers destroyed in him “all abstractive imagination,” converting them back into faces of evil because of
+“how evil overlays and exceeds banality” (25).
+He was beaten by the police officers who arrested him. He didn’t give
+up any information, at least in part because he had no information to give
+up: his unit of the Resistance was organized in such a way that operatives
+did not know the names or locations of other operatives. And so he was
+transferred to Fort Breendonk, where he was tortured. Here is his initial
+description of what happened:
+In the bunker there hung from the vaulted ceiling a chain that above
+ran into a roll. At its bottom end it bore a heavy, broadly curved iron
+hook. I was led to the instrument. The hook gripped into the shackle
+that held my hands together behind my back. Then I was raised with
+the chain until I hung about a meter over the floor. In such a position, or
+rather, when hanging this way, with your hands behind your back, for a
+short time you can hold at half-oblique through muscular force. During these few minutes, when you are already expending your utmost
+strength, when sweat has already appeared on your forehead and lips,
+and you are breathing in gasps, you will not answer any questions.
+Accomplices? Addresses? Meeting places? You hardly hear it. All your
+life is gathered in a single, limited area of the body, the shoulder
+joints, and it does not react; for it exhausts itself completely in the
+expenditure of energy. But this cannot last long, even with people
+who have a strong physical condition. As for me, I had to give up
+rather quickly. And now there was a crackling and splintering in my
+shoulders that my body has not forgotten until this hour. The balls
+sprang from their sockets. My own body weight caused luxation; I
+fell into a void and now hung by my dislocated arms, which had
+been torn high from behind and were now twisted over my head.
+Torture, from Latin torquere, to twist. What visual instruction in
+etymology! At the same time, the blows from the horsewhip showered
+
+Ethical Loneliness
+
+15
+
+down upon my body, and some of them sliced cleanly through the light
+summer trousers that I was wearing on this twenty-third of July 1943.
+(32–33)
+
+He points out that this is not the worst torture that can befall a captive.
+But he was broken, and not only because his shoulders were dislocated.
+Harm, when it is imposed by another human being, leaving neither hope
+of the self’s resistance or another’s assistance, may destroy a self: “You
+yourself suffer on your body the counter-man that your fellow man became. If no help can be expected, this physical overwhelming by the other
+then becomes an existential consummation of destruction altogether” (28).
+Dehumanization is a common enough word, used to classify certain
+forms of bad treatment whereby human beings are deprived of their status as human beings, and it can describe many different kinds of bad treatment, so it may be necessary to describe further this particular denial of
+humanity, because understanding what dehumanizes also helps us determine what we take a human being to be. What Améry lost was his capacity to expect just treatment or help in the absence of such treatment. He
+writes that when harm is inflicted “against which there can be no defense
+and which no helping hand will ward off, a part of our life ends and it
+can never again be revived” (29). He calls what he underwent “the border violation of my self by the other, which can be neither neutralized by
+the expectation of help nor rectified through resistance” (33). He also
+names it a death—a death that was then drawn out over years of abuse
+and deprivation in concentration camps, where he was beaten, starved,
+forced to work without adequate clothing in freezing temperatures and
+to witness the deaths of his comrades. His humanity was denied consistently for years.
+Améry tells us multiple times that his sovereignty was violated and that
+he never recovered: “Frail in the face of violence, yelling out in pain, awaiting no help, capable of no resistance” (33). But it is important to note
+that in the narrative he constructs, what is irreparable about what befell
+him is made up of equal parts loss of sovereignty and despair of all help.
+Human beings are always autonomous and dependent at the same time.
+If dehumanization destroys in a human being the capacity to expect help
+or just treatment, then part of what we take humanity to encompass is
+that the expectation of help or just treatment should be rewarded. That
+
+16
+
+Ethical Loneliness
+
+means that even beings who call themselves sovereign should know that
+they will need the help of others if that sovereignty is to be meaningful—
+sovereignty always relies on others who acknowledge its worth and thus
+observe its boundaries. Dehumanization is, in part, the refusal of that response. Sovereignty is dependence.10
+
+Dependence
+Améry writes, “I don’t know if the person who is beaten by the police
+loses human dignity. Yet I am certain that with the very first blow that
+descends on him he loses something we will perhaps temporarily call ‘trust
+in the world.’ ”11 Trust in the world consists, for Améry, in “the certainty
+that by reason of written or unwritten social contracts the other person
+will spare me—or, more precisely stated, that he will respect my physical,
+and with it also my metaphysical, being” (28). He adds, “The expectation
+of help, the certainty of help, is indeed one of the fundamental experiences
+of human beings, and probably also of animals” (28).
+Emmanuel Levinas points out that philosophers tend to think that truth
+consists in an “exhibition of being,” the revelation of something that exists and is verifiably true. But, he continues, when philosophers stop there,
+they fail to ask what shows itself in truth and who looks.12 This has something to do with the ability to make and hear cries for help. Levinas
+writes, “Why does research take form as a question? How is it that the
+‘what?’ . . . becomes a demand and a prayer, a special language inserting
+into the ‘communication’ of the given an appeal for help, for aid addressed
+to another?”13 Something exists; its existence is intelligible, truth, a given.
+And yet we still have questions about it. Such questions assume an interlocutor, someone who listens and responds and, in doing so, helps to confirm both the reality of the world and standards of shared living—everything from the “tiny ethics” of social etiquette to injunctions against
+murder and abuse. Questions and their assumed interlocutors thus open
+up a whole world beyond curiosity and research, leading us fairly directly
+to conditions necessary for human beings inhabiting a shared world. In a
+discussion of how he felt his intellectual life slipping away in the camps,
+Améry describes how some lines from Hölderlin’s poetry occur to him
+during a march on a cold evening but no longer affect him as they once did:
+“Perhaps the Hölderlin feeling, encased in psychic humus, would have
+surfaced if a comrade had been present whose mood would have been
+
+Ethical Loneliness
+
+17
+
+somewhat similar and to whom I could have recited the stanza. The worst
+was that one did not have this comrade.”14 Améry’s point was not that
+there were no other intellectuals in the camp but that for those who were
+there, it was difficult to sustain a belief in the reality of the life of the
+mind. Of the various poetic and philosophical sources of meaning that
+had once sustained him he writes, “Where they still meant something they
+appeared trivial, and where they were not trivial they no longer meant
+anything” (19). Améry had lost, among other things, the experience of
+intellectual inspiration that, for the person whose humanity has not been
+disregarded, seems private and, more significant, independent of others.
+His love of the life of the mind had gone missing not because he was kept
+from his studies but because the conditions imposed on him removed
+him from human community. Otherwise put, Améry is compelled to use
+the “little word ‘I’ ” not because of an intellectual solitude, something he
+might have defined for himself in the work of thinking, such that he was
+in some way master of his own thoughts, his own inner life. What narrows his experience to an “I” is something more like a forced existential
+isolation. He had been abandoned by humanity.
+Améry felt his love of the life of the mind slipping away in the camps.
+Levinas reveals that what feels like intellectual solitude to a free person is
+already a form of community: research takes form as a question, and a
+question addresses itself to others. That is an existential as much as an
+ethical truth.
+
+Existing
+It is easy enough to take one’s own existence for granted. What would be
+the point or even the mechanism of “taking for granted” anything if I
+did not exist to do so? But there are conditions—or moods, or modes of
+attunement—that, if we examine them, reveal a human being’s resistance
+to existence, to the fact that one is. Fatigue, weariness, indolence, these
+are positions taken with regard to existence. But the “taking” of a position, in these instances, doesn’t feel like volition, as states like indolence
+and fatigue tend to arise against one’s will. In Existence and Existents
+Levinas writes, “In weariness [la lassitude] existence is like the reminder
+of a commitment to exist, with all the seriousness and harshness of an
+unrevokable contract.”15 Self that I am, I’m stuck here in this body. Existence is a bond from which there is no release.
+
+18
+
+Ethical Loneliness
+
+And yet we resist it. We look for escapes from being—and sometimes
+we find them for a moment in intoxication, aesthetic contemplation, sex,
+or other distractions. We find ways to release ourselves from the weight
+of existence. When Levinas points out that we all long to escape “being,”
+he does not mean that we want to die. Death and suicide are ways out, of
+course. But for those who do live on, existing in the mode of resistance to
+that existence reveals something about the kinds of beings we are.
+It’s not that in every case of resistance we have chosen to resist. This
+isn’t about rational or irrational choice. The refusal of existence is not a
+theoretical refusal—or is not only that. Not an autonomous decision, it
+is the event of refusal rather than the thought of refusal. Levinas describes
+the distinction as follows:
+When we take fatigue and indolence [la fatigue et la paresse] as contents [of thoughts], we do not see what is effected in them—or of what
+they are an impotent nonacceptance. Their whole reality is made up
+of that refusal. To take them as contents of the mind is to start by situating them in the flux of consciousness as “psychic realities,” and
+then to ascribe to them, as a secondary property . . . an intention of
+refusal, a refusing thought. It is to interpret the event of refusal which
+they are in their very production . . . as a theoretical refusal.
+(11)
+
+When we think fatigue is the content of a thought, we give ourselves too
+much agency—we think we have fatigued intentions. But that mistakes
+what the event of fatigue is. An example: as most writers know, procrastination is not primarily the content of a thought but is rather the event
+of resistance to a weight one wishes to shed. I don’t think to myself,
+“I am going to put off doing what I should be doing, what on some level
+I even want to be doing.” Rather, I find myself in the midst of a refusal,
+failing to do what I aim to do. Procrastination is more mood than intention. If we think of weariness as the thought of weariness, and refusal to
+act as a decision we’ve made, that may help us blame ourselves and others for inaction. Such an account aligns nicely with retributive theories of
+justice and volitional theories of the subject, and both of those have important contributions to make to our ideas about selves and justice. But
+it leaves us with an incomplete picture of the kind of being a human being is. After all, how often do I get to decide to be tired of something? It’s
+not that a weary being is lazy or has failed to make key decisions—or at
+
+Ethical Loneliness
+
+19
+
+least it is not only that—but that in moments of weariness, fatigue, and
+indolence, the weight of existence asserts itself.
+Levinas takes the analysis a step further and says that when the weight
+of existence asserts itself, it allows us—if we take note—to look at existence rather than taking it for granted. Levinas writes, “Fatigue is not a
+cancellation of one’s contract with being. The delay it involves is an inscription in existence, but what is peculiar to this inscription, its sort of
+hesitation, enables us to surprise it, to catch sight of the operation of assuming which the existence that is taken up already always involves” (25).
+If I pay attention to it, my lack of intention in the matter of my fatigue or
+procrastination might teach me something important about what a self is
+and how it is formed. When I am happy, full of energy, or simply up to
+the task at hand, existence does not strike me as a problem, does not strike
+me at all. It remains in the background. But I am not always happy or up
+to the task at hand, and in those moments I may experience existence as
+a weight—something that remains despite anything I will—but also as
+something that I must take up at every moment whether I will it or not.
+When I pause and consider that, I see existence: my resistance to it, the
+inevitable failure of that refusal, the need to take it up again each moment, and what, together, those things mean. There is a whole lot that is
+unchosen at the heart of a self’s liberty. My sovereignty depends.
+I might do nothing rather than the something demanded of the present
+instant: going to work, grading papers, cooking a meal, calling a friend,
+getting off the couch. In other words, I might lag behind the present moment rather than taking it up. But the moment will occur anyway. It’s not
+that I somehow fail to be a self if I remain on the couch. When I am in the
+mode of fatigue, I may wish I didn’t have to go on in the present moment.
+But life will go on—either in the mode of my taking it up or in the mode
+of my refusal to do so. If I remain in the mode of (willed or unwitting)
+refusal, indolence “may inhere in the act that is being realized, in which
+case the performance rolls on as on an ill-paved road, jolted about by instants each of which is a beginning all over again” (13). We all know
+such moments, sometimes making up whole days or weeks. We lag behind whatever present moment we are faced with, and so, rather than successfully avoiding our existence, we live it in the mode of bumbling, halfass, wishful thinking or failure. Indolence “is a being afraid to live which
+is nevertheless a life” (17). Existence is mine, and each moment is a
+new beginning, beckoning me to take it on. That’s freedom. But, again,
+
+20
+
+Ethical Loneliness
+
+my refusal to take up an instant is destined to fail. That’s finite freedom.
+No escape.
+Still, the sense of a freedom more than finite seizes us regularly. Levinas writes that “our first feeling, our ineradicable illusion, is a feeling or
+illusion of freedom” (44), and he suggests that this feeling comes from our
+relationship to intelligibility, the way things present themselves to us in
+the light of the world. What could be more obvious than my freedom to
+interact or not interact with objects in my surroundings? If I want to eat
+the apple sitting in a bowl in my kitchen, I’ll reach out and do so. And if
+I don’t, I won’t, and so perhaps I am sovereign with regard to apples in
+my kitchen. Objects leave us room to reach toward them but also to withdraw from them. An object in light “comes from an exterior already
+apprehended and comes into being as though it came from us, as though
+commanded by our freedom” (41)—or so the Cartesian account assumes.
+“It is a way of relating to events while still being able to not be caught up
+in them. To be a subject is to be a power of unending withdrawal, an
+ability always to find oneself behind what happens to one” (42). Here we
+find the subject who is so confident that conditions will offer her a space
+of intelligibility that she does not even know that this belief requires
+confidence, or belief. She merely thinks that is what the world is.
+It may be possible to live a whole life without having that confidence
+interrupted. One might call that the goal of liberal political theory, to provide or defend conditions where confidence in the intelligibility of the
+world may thrive. Those are not bad goals! We should note, however, that
+sites where such confidence remains secure are unequally portioned out
+across space, time, and other ways of dividing up worlds. What Levinas
+and Améry describe complicates the assumed inevitability of that security. If we pay heed, their descriptions may make it more difficult to take
+an easy autonomy for granted. We may see that the sovereign feeling sometimes possessed by human beings is not an essence but a product of human
+interaction. And that might open us up to recognizing a form of liberty—
+or even of law—that is a responsibility rather than an abstract freedom.
+If any of us has meaningful freedoms or legal protections—or if any of us
+lack them—that is the outcome not only of institutions but of a range of
+human relationships where responsibility is diffuse and not easily capturable in a story that focuses on consent to being governed and culpability
+for individual wrongdoing.
+
+Ethical Loneliness
+
+21
+
+Groups of human beings can design just institutions, and they can also
+create dehumanizing conditions. Améry writes, “The Flemish SS-man Wajs,
+who—inspired by his German masters—beat me on the head with a
+shovel whenever I didn’t work fast enough felt the tool to be an extension of his hand and the blows to be emanations of his psycho-physical
+dynamics.”16 What Améry means (in addition to making a jab at Heidegger’s amoral phenomenology of tool use and perhaps also at his infamous membership in the Nazi Party) is that Wajs did not think of his actions in moral terms. He simply used a tool to do a job, and his job as he
+saw it was to beat a man over the head with a shovel.
+Levinas composed most of Existence and Existents during his five years
+of captivity during World War II. He was more fortunate than Améry,
+but to say so strains the meaning of the word “fortunate.”17 Because he
+was naturalized as a French citizen and fighting in the French army,
+he was sent to the Jewish barracks of a forced-labor camp rather than to
+an extermination camp. He wasn’t tortured, and he still had access to some
+books and to simple games played with fellow captives, but he writes, of
+that time, that “free” men, women, and children all “stripped us of our
+human skin. We were subhuman, a gang of apes.”18 He also describes his
+sense of abandonment and the attendant difficulty of retaining the life of
+the mind: “A small inner murmur, the strength and wretchedness of persecuted people, reminded us of our essences as thinking creatures, but we
+were no longer part of the world.”19 Emerging from captivity meant learning that his whole family in Lithuania had been murdered by Nazis with
+machine guns. He had lost the major part of what built his world. In such
+conditions it may be difficult to reclaim one’s identity: who is left to corroborate it? His solace would be that his wife and daughter survived, and
+they were able to begin to rebuild a life together. He rarely wrote about
+this time of his life, but the dedication in French and English to Otherwise Than Being reads, “To the memory of those who were closest among
+the six million assassinated by the National Socialists, and of the millions
+on millions of all confessions and all nations, victims of the same hatred
+of the other man, the same anti-semitism.”20 Below that dedication is
+inscribed, in Hebrew, “To the memory of my father and master, Rabbi
+Yehiel son of Abraham the Levite, my mother and guide, Dvora daughter of
+Rabbi Moshe, my brothers Dov son of Rabbi Yehiel the Levite and Aminadav son of Yehiel the Levite, my father-in-law Rabbi Shmuel son of
+
+22
+
+Ethical Loneliness
+
+Rabbi Gershon the Levite and my mother in law Malka daughter of Rabbi
+Chaim. May their souls be clutched in the link of life.”21 He prefaces his
+major work with both a general statement about victims of hatred or indifference and a personal record of the losses those forces imposed on his
+life. His philosophy is animated by the need to address the cause of those
+losses.
+It is easy enough to take existence for granted if your life is easy enough
+that you are able to do so. Margaret Walker writes, “Some of us who have
+the good fortune to live in the safer parts of orderly societies in peaceful
+times are able to float down a stream of largely unreflective concern with
+implicit confidence that people will behave as they should in countless
+contexts.”22 That is how daily life can become what Améry called it—a
+“codified abstraction.” Millions of human beings do not have that form of
+freedom. But even the easiest life will be punctuated by fatigue, weariness,
+and indolence. And those resistances may reveal to those who choose to
+look a relation to time and other beings that both redefines what a self is
+and helps us understand that selves and worlds are not essences but are,
+rather, cooperatively authored achievements and, as such, may be destroyed. That knowledge in turn clarifies a truth that is unintelligible if
+we define the self as simply autonomous: it shows why all of us—not only
+perpetrators of harms—all of us are responsible both for rebuilding destroyed selves and worlds and preventing their destruction in the first
+place.
+
+The Self
+Human selves differ in some respects from other objects in the world,
+which is why it is often harder to feel sovereign over another person than
+it is over apples in one’s kitchen.23 Other human beings might tell themselves different stories than I would tell, about themselves or about me.
+They might have different practices, resist my thoughts and plans, or they
+might challenge my assumptions about myself, others, and the world. We
+may tell ourselves we are sovereign selves because we wish that were true,
+or because we’ve been taught that it is true, but surely we also do that
+(when we do) because it is part of how we experience the world: most of
+the time, other people do not perfectly control us, and we do not perfectly
+control other people. Each of us has our own powers of liberty. In other
+words, our selves may be cooperatively authored, but we are also auto-
+
+Ethical Loneliness
+
+23
+
+nomos: we “give the law to ourselves.”24 At any given moment, the law
+you give to yourself may not be one I have chosen. And we both may have
+to reckon with what that means. But that does not land us back in a site
+where autonomy amounts to the kind of self-sufficiency that gets to choose
+what will affect the self.
+Levinas, in his later work Otherwise Than Being, describes the human
+self as compound, made up of parts we might call self, ego, and me, all
+residing in a bodily frame that is vulnerable and undeniably affected
+by others.25 He theorizes that subjectivity is subjection to other human
+beings: the subject is a hostage, persecuted by the other, bearing infinite
+responsibility and owed nothing in return—an alarming set of assertions.
+Instead of describing an always-already autonomous being that is by
+definition free to make decisions about right and value unaffected by
+others, Levinas gives us a subject formed in heteronomy and responsive to
+others long before freedom is possible. His intent is not to deny our freedom but to draw attention to the vulnerability that defines us as embodied beings and thus bears on what freedom can be for us.
+Here is roughly how self-formation “works” for Levinas: The “me” part
+of the self senses the demand of an other, responds despite itself, and thus
+is pressed by a responsibility it never chose. And so it tries to escape. It
+flees into itself to evade the demands of responsibility. But when the “me”
+retreats into the self, it finds the ego there already having taken up residence. That movement of the “me” into the self interrupts the sovereignty
+that the ego formerly thought it possessed. Note that this self-revelation
+occurs in interior space but is put in motion by what is not-me—“the
+other”—and thus I am “ego” and “me” and “other” all at once, deep within
+myself. I am separate and invaded at the same time. The ego will still insist
+on its existential solitude and will operate as if it were perfectly autonomous, owing nothing it didn’t choose to owe. But the “me” will continuously interrupt the ego’s assertion of independence, because it will keep
+trying to retreat inward to escape the demands placed on it by the presence of others—and all of this transpires fairly constantly in waves of
+affectivity wrought by human sense.26
+Levinas’s description of the human self helps to counter a tendency to
+accept an unproblematic autonomy as the defining feature of humanity.
+If the self just is defined as exposed, vulnerable, and formed in part in
+relation to others, it may make it more intelligible for us why human
+beings are able to destroy the selves and worlds of other human beings.
+
+24
+
+Ethical Loneliness
+
+It also does justice to the depth of the attachments we form, since vulnerability is not only a negative asset: it may open us to abuse, oppression,
+and death, but it also makes possible friendship, solidarity, and love. It is
+deeply engrained in the Western self to define its relation to others in terms
+of its autonomy: others are out there and I choose to interact with them
+from within the protected site of my self. Levinas describes the encounter
+otherwise, arguing that the presence of others
+signifies not the disclosure of a given and its reception, but the exposure of me to the other, prior to every decision. There is a claim laid
+on the same by the other in the core of myself, the extreme tension of
+the command exercised by the other in me over me, a traumatic hold
+of the other on the same, which does not give the same the time to
+await the other.27
+
+It isn’t that I find myself at the start fully self-sufficient and capable of
+deciding for or against solidarity with others. Rather, others have already
+laid claim on me, called me to respond to them before I am able to choose
+to be affected. Self-formation is like a trauma striking against a self that
+would be autonomous. That may give us a richer sense of what it means
+to be a human being in general, but it also speaks directly to the sense of
+self inhabited by survivors of violence, who may find it more difficult to
+give themselves the useful fiction of autonomy. As Judith Herman puts
+it, “Traumatic events destroy the victim’s fundamental assumptions about
+the safety of the world, the positive value of the self, and the meaningful
+order of creation.”28 A trauma survivor’s sense of the self’s independence
+has been interrupted by violence. That sense is part of what should be restored by transitional justice or reconciliative efforts. But just as law cannot tell us whether or not we should obey law, autonomy cannot instruct
+us in how to restore it where it has been lost or never gained in the first
+place.
+
+Ethical Loneliness
+Let’s consider Levinas’ description the self’s finite freedom and its relation to others again, this time with a view to describing ethical loneliness.
+In Existence and Existents, Levinas begins by drawing our attention to
+the impersonality of what he calls the there is. It is the brute fact of exis-
+
+Ethical Loneliness
+
+25
+
+tence, indifferent to human plans, and yet always there rumbling in the
+background. These are the conditions in which a human being becomes
+something substantive against the backdrop of impersonal existence. A
+human being, unlike a chair or a sandwich, can take on her own being
+and thereby become a substance that carries existence, a consciousness
+bearing stable attributes. Levinas writes: “It is this coming out of a self,
+this appropriation of existence by an existent, which the ‘I’ is [qu’est le
+«je»].”29 So each of us attains possession of the first-person pronoun “I”
+by turning the event of our self into the substance of our self, by taking
+on the present moment freely: by doing something and being something
+other than a chair or a sandwich.
+However, this assuming of Being is not a simple freedom, because the
+self finds itself stuck in an existential solitude. No matter how broad a
+freedom your consciousness might devise, it is unceasingly riveted to your
+own self. Self and ego, body and mind, these are one. As Levinas puts it,
+“the freedom which is accomplished in cognition does not free the mind
+from every fate.”30
+So, I am stuck with myself, alone in my human frame. But the formation of my self occurs as a desire for escape from that solitude. I want
+out. But every attempt at standing outside the self—say, in sex, intoxication, sleep, reading, or viewing art, and so on—leads one back to the self.
+Indeed, every attempt at ec-stasis is made by means of the materiality of
+the body, and so the means of escape is also the ultimate reminder of one’s
+being riveted, without parole, to one’s own existence: you finish, sober up,
+or wake up right there in the same inescapable location: your self. The
+desire to escape the self is endless because it is impossible.
+But therein lies a hope. I am riveted to my own existential solitude. But
+the other, an other human being, opens doors that would not exist in a
+world without others. That is true because the other human being is
+exterior to me in a way different from the way a sandwich or a chair is
+exterior to me. An other human being has her own self, his own solitude,
+and thus the space between us is intersubjective space, freighted with a
+giving of signs that precedes communication in language, as well as the
+possibility of bringing “me” out of myself and into a world.
+So, we have (1) the indifference of brute existence, (2) human beings
+transcending brute existence by taking on the present moment and becoming selves, (3) selves finding themselves stuck with themselves, unable to
+escape but desiring escape, and (4) a way out offered by the presence of
+
+26
+
+Ethical Loneliness
+
+others. A self is not truly in a world until consciousness becomes communication. Research takes form as a question.
+In the camps Améry lost his intellectual solitude, his love of the life of
+the mind, but that was not the measure of his ethical loneliness. Torture,
+internment, and dehumanization forced on him a condition of existential
+solitude—stuck-in-himself—but one where the way out offered by another
+human being was refused to him. Ethical loneliness begins when a human
+being, because of abuse or neglect, has been refused the human relation
+necessary for self-formation and thus is unable to take on the present moment freely.
+
+Stories, Part 2
+In 1980 in South Africa, Charity Kondile’s son was killed by Dirk Coetzee
+and members of a counterinsurgency unit of the police.31 More than ten
+years passed between her son, Sizwe’s, disappearance and her learning
+what had befallen him. One day Mrs. Kondile picked up a newspaper
+reporting on testimony at a commission put together to investigate that
+police unit. She read there that her son had been apprehended, tortured
+to the point of having a brain hemorrhage, given poison to kill him, which
+didn’t work, then transported to a remote farm and shot, and finally
+burned in a fire. In her testimony before the South African Truth and
+Reconciliation Commission (TRC) she says,
+Well Dirk Coetzee goes on further to say that when he died, they put
+his body on a pile of wood with a tyre near the Komatiepoort River
+at night, where it took them nine hours to burn his body. Dirk Coetzee further states that twice they were burning his body, the flesh was
+smelling good, and they were having beers at the time. So it was like
+a braai [barbecue] to them.32
+
+Her testimony also covers how the lives of her family were transformed
+by their loss: Sizwe’s sister suffering from depressive psychosis, a brother
+so depressed he cannot take care of himself, a child left fatherless, and
+Mrs. Kondile herself, the mother, who, instead of being supported by the
+surrounding community, was treated like a traitor when her son disappeared because those who knew him too quickly assumed he had betrayed
+his cause. As she puts it,
+
+Ethical Loneliness
+
+27
+
+I was very disappointed to learn that people who had been so friendly
+to my son about six months [before he disappeared] should have
+turned against him so soon, and according to Mark Antony, when he
+says, “Oh judgment thou art fled to brutish [beasts] and men have
+lost their reason,” that’s a quotation I taught, that it seems . . . when
+I’m so anguished, looking for him, these people would not sympathize
+with me, they would still think I was telling lies.33
+
+It is a dynamic story of loss. Mrs. Kondile did not only lose a son. She
+lost the sense that she could expect that she and her loved ones would be
+protected from harm. She also lost the security of living in a community
+where she could trust that, if she were to be harmed, she would be helped,
+and her harms recompensed. Like Améry, she lost the sense both that she
+could expect just treatment and that she would be offered help if treated
+unjustly. She lost a world, and so she lost some of the conditions necessary for coherent self-formation.
+Susan Brison took a walk by herself on a rural lane in France one day,
+where she was hit from behind, forced to the side of the road, beaten, and
+raped. Her attacker then tried to strangle her to death multiple times,
+dragging her into a ravine and leaving her there for dead. Recovery from
+such treatment is more than a nursing of wounds—and of those she had
+plenty: multiple head injuries, a fractured trachea, a body covered with
+scratches and bruises, and both her eyes swollen shut.34 Brison writes of the
+experience, “I had ventured outside the human community, landed beyond
+the moral universe, beyond the realm of predictable events and comprehensible actions, and I didn’t know how to get back” (ix–x). Extreme violence delivered a message to her: that her self’s own sovereignty remains
+intact only as long as others observe its boundaries. And so she, like Améry,
+lost her trust in the world: “The fact that I could be walking down a quiet,
+sunlit country road at one moment and be battling a murderous attacker
+the next undermined my most fundamental assumptions about the world”
+(26). This is the trauma of loss of safety. In particular, it is the loss of the
+sense the lucky among us have that other human beings will treat us as
+human beings rather than as objects to be disposed of or abused at will.
+Brison learned this from being attacked. But the message was delivered
+in all its complexity as she worked to recover. She discovered that her new
+self had to be one that was painfully aware that selves are “both autonomous and socially dependent, vulnerable enough to be undone by
+
+28
+
+Ethical Loneliness
+
+violence and yet resilient enough to be reconstructed with the help of empathic others” (38)—and that getting the help of others is a complicated
+thing. Not only in cases of rape but also in muggings, cancer diagnoses,
+and bad fortune in general there is a will in the human self to believe it
+could not happen to “me” and so a distancing of that self from a hard
+truth of any trauma story: that it could happen to anyone.35 Schooled in
+the idea of personal autonomy, we don’t easily receive lessons about “the
+limits of the individual’s capacity to control her own self-definition.”36
+We are vulnerable creatures prey to harm, and most of our fellow beings
+on whom these evils befall do nothing to deserve them. But we want to
+believe it could not happen to us, so we may look for “reasons” why it
+has happened to someone else, and we may even avoid those who have
+been mistreated. Brison mentions how various of her extended family
+and friends, who would surely have sent cards if she were hospitalized
+for an appendectomy, remained silent.37 If asked to defend themselves,
+each one of them would, we can guess, surely say that she or he did not
+know what to say in response to such a grave harm. But if the murderous
+twentieth and twenty-first centuries have taught us anything, surely it is
+that saying or doing nothing is another harm. Brison writes, “Each time
+someone failed to respond, I felt as though I were alone again in the ravine, dying, screaming. And still no one could hear me. Or, worse, they
+heard me, but refused to help.”38
+Returning to the moment of trauma is a symptom of trauma. But if
+such trauma is caused in part by a failure of protection, and failure of
+protection indicts not only those who inflicted harm but also all those
+who contribute to the world where such harms happen in widespread or
+systematic ways, then we are all responsible—to varying degrees—for
+recovery from and prevention of such harms. Lack of response to harm is
+what rendered Améry unable to move forward. In particular he could not
+forget “the sight of the Germans on a small passenger platform where,
+from the cattle cars of our deportation train, the corpses had been unloaded and piled up; not on a single one of their stony faces was I able to
+detect an expression of abhorrence.”39 Those bystanders may have been
+bigoted and full of hatred, they may have thought Jews were subhuman,
+or they may instead have been afraid to show any discomfort with what
+was happening in a totalitarian state where whatever Hitler ordered was
+law. The point to take away from this, in this instance, is that it doesn’t
+matter to Améry what drives their indifference, just as it may not matter
+
+Ethical Loneliness
+
+29
+
+to Brison what led some of her friends and family to ignore her injuries
+and fail to hear her story, or to Kondile what made her neighbors call her
+son a traitor and fail to help her through a terrible ordeal. Having undergone an unjust injury at the hands of other human beings, Améry, Kondile, and Brison needed to have the wrongness of what befell them confirmed and denounced, not mainly by legal institutions or perpetrators but
+by the surrounding society in which they would have to live henceforth.
+They all needed help rebuilding a destroyed world. Walker argues that
+“victims of wrongful harm often experience as much or more rage, resentment, indignation, or humiliation in response to the failure of other
+people and institutions to come to their aid, acknowledge their injury,
+reaffirm standards, place blame appropriately on wrongdoers, and offer
+some forms of solace, safety and relief as victims experience toward the
+original wrongdoer.”40 That is a way of saying that survivors seek release
+from ethical loneliness, the sense of having been abandoned by humanity.
+They want the harms they have undergone to be heard and the wrongness of them affirmed in a lasting way not only by the perpetrators but
+also by the surrounding society. They seek the help of others to reassure
+them that they are living in a world with others, one where they will be
+protected when they are under threat. Only in conditions such as those
+might they be able to take existence for granted, or take on the present
+moment freely.
+The reasons why support systems failed in these three cases are of
+course very different given the different cultural and historical contexts.
+But we can observe something about the failures that caused feelings of
+abandonment in these differently situated persons. Each person testifies
+to having been pushed beyond the confines of the shared human world
+into a space of abandonment by violence or oppression. Each experiences
+a difficulty in getting the story she or he most wants to tell heard on its
+own terms. And each person, while singular and deserving of justice on
+that scale, surely stands for a wider experience of failure and abandonment that also requires redress. All of that will matter to a discourse
+of reconciliation. As the handbook Reconciliation after Violent Conflict
+puts it,
+Good democratic politics—even the best politics—only work when relationships between the various actors are positive enough to permit
+basic trust, respect and cooperation. Bad relationships—those still
+
+30
+
+Ethical Loneliness
+
+built on distrust, suspicion, fear, accusation, even ignorance—will effectively and eventually destroy any political system based on respect
+for human rights and democratic structures.41
+
+In every scene of reconciliation there is a complicated series of bad relationships. Trials, truth commissions, and like institutions can’t change
+them on their own, and unless those relationships can be transformed, law
+and the truth are not sufficient to get the job of reconciliation done. Continuing ethical loneliness is one expression of a failure after grave harm
+to restore—or, in many cases, to build for the first time—social relationships or, at the very least, conditions of meaningful safety.
+
+Loneliness
+Recovery from mass violence and historic injustice is a complex affair, especially since recent scientific and psychological research has also shown
+that what is true of trauma is also true of loneliness: it rewrites genetic
+codes and hormonal signals, causes illness, and slows ability to recover.42
+It negatively impacts one’s trust in the world. In 1958 Frieda FrommReichmann argued that loneliness was at the heart of most mental illness,
+but that loneliness is not the solitude of the writer, the isolation of the
+artist, or the seclusion of the person waiting to recover from illness—
+rather, it is the want of intimacy. Since then psychologists have shown that
+closeted gay men suffering from AIDS-related illnesses are more likely to
+die quickly than those who have a support system; that college freshmen
+are the most unhappy not when they have few friends but when they have
+no close friends; that social exclusion, even if it is only imagined, lights
+up the same part of the brain where physical pain is expressed; that
+babies who are not held and cared for show irregular brain development;
+that baby monkeys kept isolated from their mothers and all other
+monkeys do not develop the ability to mingle with other monkeys; that in
+monkeys kept from their mothers for the first four months of life immunity-related genes are suppressed; but that when those monkeys are delivered over to foster care, “about half of their genetic deviations vanished”;
+and so on.43 There is something telling about this, that even once we have
+read the studies relying on listening to excluded persons or scanning the
+brains of people isolated by social forces, some would still want the kind
+
+Ethical Loneliness
+
+31
+
+of proof that comes from abusive treatment of animals—and all this, for
+what? To prove that we need one another.
+And so, while I might agree with the conclusions of scientists who have
+shown that the dorsal anterior cingulate cortex of the brain lights up
+equally when we are rejected as when we are physically harmed—meaning that the affective component of pain is similar in both situations—I
+doubt we need to isolate baby monkeys in order to prove that we are
+caught in the sway of our relations to others both affectively and rationally. After all, “a study of 8000 identical Dutch twins found that, if one
+twin reported feeling lonely and unloved, the other twin would report the
+same thing 48 percent of the time. This figure held so steady across pairs
+of twins . . . that researchers concluded that it had to reflect genetic, not
+environmental influence.”44 But even if that study gives us an accurate picture of how genes might influence human loneliness, 52 percent of what
+makes twins (or anyone else) grow up lonely comes from the surrounding world.45 And so, the surrounding world is likely to make all the
+difference.
+There is a loneliness that comes from being alone, from losing love or
+a loved one, or from feeling out of step with one’s surroundings. That loneliness, whether fleeting or desperate, still has a world. Other people may
+recognize it and offer help. Social support may compensate for loss. It
+would be a category mistake to equate such loneliness with the abandonment undergone by those whose selves and world have been destroyed
+by human violence. Améry and Kondile—and, to a lesser extent, Brison—
+had multiple layers of isolation imposed on them. The differences in extent come not from what harms befell them but from the surrounding
+world’s response: for Brison, a successful court case and sexual violence
+support groups helped her rebuild a world where she could live, even if
+she would never fully regain the sense of safety she once had. But even
+Brison experienced what for Améry and Kondile truly compounded their
+devastation: the silence and inaction of others. There are layers of betrayal
+in all these cases. Some of Brison’s friends and relatives stood by her, listened carefully to her painful story, and lent support over the long period
+required for recovery. But some did not. Kondile’s loss was orchestrated
+not only by the police who killed her son and the government that authorized that killing but also by members of her community who believed he
+was a traitor and officials both of the government and of community or-
+
+32
+
+Ethical Loneliness
+
+ganizations who did not apologize for treating her family unjustly. Améry’s
+continuing resentment was aimed not only at those who participated
+in his destruction but also at those who stood by while it happened, the
+younger generation that seemed to him to be sick of hearing about what
+their parents had done, and even at the silence of many of his fellow
+camp survivors. In all three cases, many of those who acted wrongly—or
+who simply did not contribute to rebuilding selves and worlds—are not
+what the law would call perpetrators. Neighbors, friends, relatives, the
+next generation, even fellow survivors, most of them people who never
+intended harm—all implicated. And so all three cases point to why responsibility for rebuilding worlds and selves after conflict must fall widely
+rather than focusing narrowly on law’s story about criminal culpability.
+I’ll develop this point throughout the book.
+Améry, Kondile, and Brison all have some choice in how they tell the
+stories of what happened to them, to themselves and to others. But they
+lack control over what stories will be heard and who will listen—even
+when they speak to themselves. That is true of all of us, but, as chapter 3
+shows, how this affects us varies according to power and luck. If stories
+lack support, they may begin to seem unreal, even to those who lived them.
+Human life, even in its privacy, relies on a cooperatively authored world.
+For those whose world has been destroyed, the absence of a willing audience is a second harm compounding the original violation.46 Ending up
+pinned to the wrong story or no story at all might make recovery impossible, tying futures to past injuries. As Levinas has shown, research takes
+form as a question. Even my capacity to own my own intellectual solitude relies on my ability to trust that I am part of a world and that I can
+expect just treatment and help when I need it; it is already a form of sociality. Barbara Hernnstein Smith has written that narrative consists of
+“someone telling someone else something that happened.”47 It is not accomplished by a person acting alone. Susan Brison adds that narrative “is
+a social interaction—actual or imagined or anticipated or remembered—
+in which what gets told is shaped by the (perceived) interests of the listeners, by what the listeners want to know and also by what they cannot
+or will not hear.”48 A survivor whose story cannot or will not be heard
+is likely also someone whose harms have not yet been addressed. And if
+that is true, it is likely also true that social conditions do not yet exist
+that would make successful political transition or societal reconciliation
+possible.
+
+Ethical Loneliness
+
+33
+
+Nietzsche says a similar thing in a different way. He admits that we
+don’t get to choose all our influences, and that those influences work on
+us in ways we do and do not consciously note. In Daybreak he writes,
+“Out of damp and gloomy days, out of solitude, out of loveless words
+directed at us, conclusions grow up in us like fungus: one morning they
+are there, we know not how, and they gaze upon us.”49 We aren’t sole
+masters of who we are—we are molded by our relations to others. Those
+relations and the larger world form us, and then we find others within ourselves (as Levinas also describes), judging us for who we are and aren’t, in
+ways that may or may not be fair. We tell these stories to ourselves at least
+in part because our selves and worlds are cooperatively authored things.
+But Nietzsche also writes the following: “Woe to the thinker who is
+not the gardener but only the soil of the plants that grow up in him.”50
+You can take what is given, what you didn’t get to choose, and live with
+it in many different ways. As chapter 4 shows, this means that the past is
+subject to revisions that may make the present moment more—or less—
+livable for those whose unjust pasts should have been otherwise. Nietzsche
+would have each of us create new worlds by the sheer power of our individual wills. But capacity to do that may also vary according to power
+and luck. (Indeed, Nietzsche, Améry, and Brison all had deep experience
+of the kind of “unreflective concern” that allows a person to take existence for granted before they underwent harm—or, in Nietzsche’s case,
+illness. Many survivors have never had the liberty of that experience, and
+so the stories they tell say different things—as we will see in chapters 3
+and 5.) So maybe what we aim to do, when we undertake a revisionary
+practice like a truth commission, transitional justice, or any of the various alternatives to those that spring up wherever harm needs repair, is to
+create conditions where all have equal power, each to be gardener of her
+own self. But, as the analysis of ethical loneliness begins to show, and the
+next chapters demonstrate, it will take more than the rule of law, individual responsibility, or faith in the liberatory power of political autonomy to make that possible.
+
+
