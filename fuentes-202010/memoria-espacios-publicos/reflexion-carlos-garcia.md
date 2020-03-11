@@ -15,6 +15,7 @@ Intentando hacer un postulado con los resultados del ejercicio se me ocurre lo s
 Enlace de Voyant Tools: https://voyant-tools.org/?corpus=304f4a23d7a6459cf04bd18e1c895c41&stopList=keywords-51e7be248caf0f90fae046d67c50bd67&panels=cirrus,reader,trends,summary,contexts
 
 Citación de fuentes
+
 1 Patiño Zuluaga, Evelyn y Herrera Valencia, Ana Cristina. 
 2019. Lugares de memoria: objetos de estudio y reflexión del patrimonio cultural. En La Tadeo Dearte No 5, Bogotá: Editorial UTADEO https://revistas.utadeo.edu.co/index.php/ltd/article/view/1584/1547
 
