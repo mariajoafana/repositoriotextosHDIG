@@ -8,13 +8,8 @@ etiquetas: Infancia, Conflicto, Niños, Derechos
 
 Reflexión:
 
-¿Cuáles son las palabras más comunes en tus artículos?
-Las palabras más comunes en mis artículos son conflicto, niños, armado y vida.
-¿Hay palabras que excluiría en futuras consultas sobre tu tema? 
-Comportamientos criminales, tierra, apropiación, trayectorias.
-Al revisar la lista de "distinctive words", ¿podría organizar bajo una etiqueta común algunas "palabras distintivas" para identificar campos de investigación con los que dialoga su proyecto? 
-
-En general, ¿ve alguna forma de acotar sus búsquedas y/o tema de investigación después de hacer el ejercicio?
+Las palabras más comunes en mis artículos son conflicto, niños, armado y vida. Considero que las palabras comportamientos criminales, tierra, apropiación y trayectorias criminales no aportan a la construcción de las narrativas desde los niños que estuvieron en el conflicto armado, sino que me generan un sesgo en la búsqueda y por ende desvían mi interés principal en los relatos de los niños desvinculados de la guerra. Revisando la lista de palabras que aparecen en "distinctive words" puedo identificar conexiones entre los artículos revisados en tanto que se establecen conversaciones entre palabras como memoria, encuentros, vida, juguetes, apropiación, generaciones, entre otras. Lo que me invita a pensar en un escenario más desde la recuperación emocional y la reconfiguración de los significados que hoy tiene para nosotros pensar en los niños y niñas que hicieron parte del conflicto armado del país.
+Después de hacer el ejercicio veo la necesidad de reducir categorías en mis búsquedas para empezar a definir lo que pretendo decir sobre lo narrativo y poder entender desde dónde o con qué objeto poder conectarlo con los niños, sus derechos y el conflicto armado.
 
 Enlace de Voyant Tools:
 
