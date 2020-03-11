@@ -1,0 +1,419 @@
+CLACSO
+
+Chapter Title: Apropiación de artefactos tecnológicos en la niñez mediante un modelo
+narrativo y colaborativo
+Chapter Author(s): Mónica Elena Da Silva Ramos
+Book Title: Tecnologías digitales
+Book Subtitle: Miradas críticas de la apropiación en América Latina
+Book Editor(s): Ana Laura Rivoir, María Julia Morales
+Published by: CLACSO. (2019)
+Stable URL: https://www.jstor.org/stable/j.ctvt6rmh6.13
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+This book is licensed under a Creative Commons Attribution-NonCommercialNoDerivatives 4.0 International License (CC BY-NC-ND 4.0). To view a copy of this license,
+visit https://creativecommons.org/licenses/by-nc-nd/4.0/.
+
+CLACSO is collaborating with JSTOR to digitize, preserve and extend access to Tecnologías
+digitales
+
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Apropiación de artefactos tecnológicos
+en la niñez mediante un modelo narrativo
+y colaborativo
+Mónica Elena Da Silva Ramos*1**
+
+Introducción
+A partir del año 2012 y hasta la fecha, desde la Facultad de Psicología
+de la Universidad de la República Oriental del Uruguay hemos desarrollado diversas investigaciones basadas en el Modelo Quinta Dimensión (5D). Dicho modelo integra narrativa, colaboración y el uso
+de diferentes artefactos tecnológicos con niños y niñas, combinando
+investigación e intervención.
+La disponibilidad tecnológica brindada por el Plan Ceibal (2010)
+fue uno de los soportes que permitió el desarrollo y avance de nuestros estudios, ya que la presencia de TIC en las escuelas y a nivel comunitario dieron apoyo para el desarrollo de nuestro trabajo. Las
+investigaciones desarrolladas han buscado mejorar las condiciones
+* Mónica Elena Da Silva Ramos. Doctora. Universidad de la República. dasilvamon@
+gmail.com
+** Reconocimientos. Integrantes de los proyectos de investigación: Lic. Estela Rivero Vidal; Mag. Beatriz Falero, Mag. Andrea Viera y Mag. Nicolás Chiarino.
+
+161
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Mónica Elena Da Silva Ramos
+
+de vida de la niñez mediante propuestas situadas, atentas a las necesidades específicas de la población con las que se trabaja.
+El Modelo 5D, fue creado por Michael Cole (1996) en California
+Estados Unidos, con el objetivo de generar procesos de inclusión
+educativa, social y cultural de los niños, niñas y familias que llegaban al territorio norteamericano tras procesos migratorios. Dicho
+modelo implicó la construcción de significados compartidos, donde
+las Tecnologías de la Información y comunicación (TIC) fueron pensadas como mediadoras en la creación de cultura. El autor concibe
+al Modelo 5D como una herramienta para la gestión de la diversidad
+cultural y la inclusión social, utilizando las TIC orientadas a metas
+significativas y construidas colectivamente.
+Los estudios que integran el Modelo 5D se basan en el enfoque
+teórico-metodológico de la psicología cultural, que privilegia el contexto donde los sujetos participan, el sentido, la construcción social
+de significados, así como la elaboración que se realiza sobre la apropiación de los diferentes artefactos culturales, en un momento histórico concreto (De la Mata y Cubero, 2003).
+Esta corriente de la psicología busca explicar las relaciones entre la acción humana, el funcionamiento mental, el desarrollo humano y las situaciones culturales, institucionales e históricas en las
+que se da ese funcionamiento (Wertsch, 1991). Parte de la idea que la
+mente y la cultura se constituyen mutuamente, y que “[...] la unidad
+de análisis es la vivencia o el modo cómo las personas valoran, perciben, interpretan aquello que les sucede y les rodea” (Esteban-Guitart, 2008:7). Michael Cole (2006) plantea que la cultura es un medio
+entretejido conjuntamente a través del cual se desenvuelve la vida
+humana. Esteban-Guitart lo sintetiza diciendo “[...] la cultura se entiende como símbolos compartidos, conceptos, significados, prácticas que definen y se generan a través de unidades culturales como la
+familia, el barrio, una comunidad o un país” (2008:10).
+Los procesos de apropiación de artefactos tecnológicos en la infancia, desde esta perspectiva, requieren de algunas distinciones
+con los términos asimilación e interiorización. Leontiev (1981) es un
+162
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Apropiación de artefactos tecnológicos en la niñez …
+
+referente que propone reemplazar el concepto piagetiano de asimilación por el de apropiación. Plantea pasar de una metáfora que se
+refiere a la biología mediante el término asimilación, a una metáfora
+sociohistórica como lo sugiere el término apropiación, siendo acorde con lo que sucede entre los niños, niñas, adultos y el Modelo 5D.
+Los aportes de Rogoff (1993) sobre apropiación y de Wertsch (1991)
+sobre mastery, retoman la concepción de interiorización de Vigotsky
+(1988) y dan un paso más, tratando de avanzar y actualizar sus ideas,
+manteniendo una perspectiva sociocultural.
+Rogoff (1993) propone, a partir de la idea de participación guiada,
+sustituir el término interiorización por el de apropiación. Acentúa el
+carácter dinámico de las relaciones, concibiendo a los niños y niñas
+como sujetos activos que participan y se transforman en la dinámica
+intersubjetiva en la que median objetos. La idea de interdependencia
+y roles activos que se transforman en las interacciones sociales son
+centrales en la propuesta de la autora. En este sentido la apropiación
+se liga directamente al propio proceso de transformación, donde los
+sujetos van cambiando a medida que se ajustan y regulan en la actividad en la que participan. Otro elemento interesante que hay que
+resaltar es la relación temporal vinculada a la idea de apropiación.
+Ya que considera que los aspectos que se activan en las relaciones del
+presente son una extensión de sucesos y/o acontecimientos previos
+y se dirigen hacia procesos vinculados a metas que serán ejecutadas
+en un futuro. Existe una continuidad en los cambios que se suceden
+mediante los procesos de apropiación, están vinculados a un pasado
+y generan las bases para otros cambios futuros. Además integran la
+dimensión personal, interpersonal y cultural, entendiendo que existe una mutua constitución en estos diferentes planos.
+Wertsch al igual que Rogoff integra los niveles sociocultural, interpersonal e individual en los procesos de transformación y desarrollo. Se aparta de las ideas dualistas entre lo externo y lo interno,
+centrándose en el rol activo de los sujetos, por ello prefiere hablar
+de dominio, o cómo los sujetos logran dominar objetos o construir
+sus destrezas. Destacamos como aporte el interés por los procesos
+163
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Mónica Elena Da Silva Ramos
+
+y procedimientos de transformación que hacen que un sujeto logre
+construir determinados dominios o destrezas. La idea de acción mediada descentra la mirada del proceso sólo en el individuo o en el
+instrumento de mediación, permitiendo visualizar la relación entre
+ellos. El dominio de los procesos de mediación también dependerá
+de los marcos sociales, culturales e institucionales en los que participan los sujetos.
+En los tres proyectos de investigación inspirados en el Modelo 5D
+que desarrollamos en Uruguay, se propició la construcción de símbolos compartidos, conceptos, significados y prácticas que se fueron
+definiendo con las distintas personas que participaron. Adaptamos
+dicho Modelo a las características locales dada su flexibilidad, buscamos crear una microcultura, basada en la perspectiva vygotskiana (1988) de una psicología concreta, que supone que los participantes y la práctica en la actividad van “evolucionando y cambiando”.
+También desde los aportes de Bruner (1990) valoramos los procesos
+narrativos como constructores de significados, que son parte de la
+cultura que se crea.
+En cuanto a la integración de las TIC, las propuestas buscaron generar procesos de apropiación desde una posición que las entendió
+como una oportunidad y a la vez sostuvo una vigilancia ética, en el
+entendido que también han generado nuevas desigualdades a partir
+de su existencia (Rivoir, 2009). Sostenemos que las TIC no son artefactos inocuos y que es importante atender a las intencionalidades
+con las que se incluyen en los proyectos. Por ello, hemos dado especial importancia a su uso en función de las necesidades específicas
+de las diferentes poblaciones, enlazadas a una propuesta narrativa
+y colaborativa, con la intencionalidad de aportar a generar procesos
+de inclusión. Las TIC fueron parte de nuestro trabajo como dinamizadoras de los procesos colaborativos y se unieron a un andamiaje
+de técnicas, recursos y estrategias educativas. Es así que las entendemos como parte de los artefactos tecnológicos, es decir tejidas en
+un sistema real y simbólico, donde conforman un objeto híbrido de
+recursos del Modelo 5D.
+164
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Apropiación de artefactos tecnológicos en la niñez …
+
+A continuación se describe brevemente el modelo y algunos resultados de las tres investigaciones desarrolladas, donde concebimos
+que la apropiación de los artefactos tecnológicos se construye a partir de su función de medición en el trabajo colaborativo y narrativo.
+
+Estructura y desarrollo del Modelo 5D
+Las investigaciones mediante el Modelo 5D se desarrollaron en diferentes contextos, en un centro barrial en el departamento de Canelones, en una escuela especial y en una escuela común en el departamento de Montevideo. En las tres investigaciones, el Modelo 5D
+mantuvo principios orientadores, pero se realizaron los ajustes necesarios dadas las necesidades específicas de los diferentes contextos y
+la población que participó.
+Entre los principios que orientaron las investigaciones se destaca que las actividades fueron vinculadas a la comunidad de trabajo,
+con el fin de que fueran significativas y en conexión con los objetivos
+comunitarios o institucionales. Los familiares, niños y niñas fueron
+respetados y considerados interlocutores con capacidad para formular y seguir los objetivos, y por lo tanto transformar la actividad.
+Los conocimientos producidos fueron parte de un proceso social, basados en la participación, la colaboración y la diversidad (Lalueza,
+Crespo y Luque, 2009).
+Por otro lado, la estructura colaborativa y narrativa del Modelo
+5D se organiza en base a los siguientes artefactos:
+Un personaje mágico. Figura misteriosa que se comunicó de diferentes maneras con los niños y niñas y los invitó e impulso al juego.
+La figura del personaje mágico permitió estimular la imaginación y
+el razonamiento de los niños y niñas, ayudó a mediar en conflictos y
+a proponer las reglas del juego. Mediante este personaje se construyó el hilo narrativo del Modelo 5D que dio continuidad y sentido a
+toda la actividad. Los niños y niñas se comunicaban con él y lo contactaron mediante un buzón enviándole cartas y también de forma
+165
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Mónica Elena Da Silva Ramos
+
+virtual utilizando un foro, chat o correo electrónico. La práctica de
+comunicar el progreso de las actividades a una persona que no estuvo presente físicamente promovió habilidades comunicativas, cognitivas y sociales.
+Artefacto central y organizador del Modelo 5D, laberinto. El laberinto fue el artefacto coordinador central de la propuesta y tuvo una
+representación virtual y real. Mediante el mismo se introdujo a los
+niños y niñas en el uso de las TIC en la actividad, con la colaboración
+de estudiantes universitarios en procura de la resolución de tareas
+o misiones que el personaje les proponía. Cada actividad tenía una
+guía de tarea que aclaraba que hacer una vez que comenzaba el juego. Los niños y niñas, junto al estudiante universitario, hacían un recorrido (“viaje”) a lo largo de los días que participaban en el laberinto
+del Modelo 5D. Como función primordial, el laberinto promovió la
+toma de decisiones y planificación de las acciones que permitieron
+seguir en el juego. Es el estructurador del recorrido y, por lo tanto,
+se diseñó en función de las características, la historia del mago y las
+necesidades de cada contexto.
+Esta estructura y principios formaron parte de las tres investigaciones que se presentan a continuación.
+El proyecto “Apropiación de las TIC en la infancia y su impacto en
+la comunidad: posibilidades y límites del modelo colaborativo Quinta Dimensión en un contexto de vulnerabilidad social en Uruguay”
+(Da Silva, 2018), tuvo por objetivo diseñar, implementar y analizar el
+Modelo 5D en un contexto comunitario desfavorecido en Uruguay,
+con la finalidad de generar procesos de apropiación de las TIC, desde
+el uso con sentido construido localmente. Se basó en una estrategia
+de investigación acción, donde fue fundamental la participación de
+agentes de la comunidad para generar y sostener la investigación. En
+cuanto al proceso de trabajo con TIC el estudio buscó trascender la
+dimensión de uso y la mirada instrumental del dominio tecnológico
+y producir conocimiento sobre los procesos de apropiación mediante una propuesta situada en la localidad, con y para la infancia. Mediante el estudio se desarrolló estrategias de integración de la cultura
+166
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Apropiación de artefactos tecnológicos en la niñez …
+
+local, un uso con sentido de TIC, con base en necesidades y resolución de problemas que involucró a la población local participante.
+Abordó los procesos de interacción, aprendizaje y apropiación, a la
+vez que analizó el impacto, las limitaciones y potencialidades que se
+presentaron en el estudio. Un elemento de importancia fue pensar
+los procesos de apropiación colaborativa mediante la creación de
+estrategias de integración de la cultura local, para ello se recuperó
+la historia local, los lugares sociales, ambientales y recreativos significativos para los participantes del proyectos. Los procesos de apropiación se sostuvieron a partir de su concepción de naturaleza dual,
+materiales y simbólicos. El estudio dimensionó que la apropiación
+en la infancia requiere de la creación de espacios donde convergen
+intereses y se construye pertenencia, confianza, lazos afectivos, a
+partir de una propuesta centrada en una narrativa situada, con desafíos y colaborativa. Una propuesta que entiende la apropiación a
+partir de habilitar la construcción de sentidos con otros, centrada en
+la transformación de los implicados y sus contextos. La apropiación
+en este estudio implicó la construcción de pertenencia, membrecía,
+valoración de los recursos sociales y naturales comunitarios, donde
+los niños y las niñas construyen su vida cotidiana e identidad.
+En paralelo y con base en esta investigación se desarrolló otro
+estudio denominado “Inclusión social y educativa a través del Modelo 5D de niños y niñas con discapacidad en la Escuela Especial en
+Montevideo” (Viera, Da Silva y Falero 2014). Esta investigación estuvo orientado a promover la apropiación de herramientas culturales
+y mejorar el aprendizaje de los niños y niñas con discapacidad en
+un contexto de participación no evaluativa. El estudio mostró cambios en la interacción de los niños y niñas con los estudiantes universitarios que participaron como ayudantes en la investigación, se
+registró incremento en la comunicación y la intersubjetividad. La
+interacción pasó del intercambio gestual o verbal al uso de herramientas y códigos compartidos. La confianza desarrollada a través
+del vínculo de trabajo y el conocimiento favoreció el despliegue de
+diferentes estrategias de comunicación entre las duplas estudiante
+167
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Mónica Elena Da Silva Ramos
+
+universitario-niña/niño. También se observó un impacto positivo
+del Modelo 5D en la cultura escolar (maestras, directoras, técnicos)
+con diferentes grados de incorporación de la propuesta en cada escuela que se desarrolló. En lo que refiere al uso de las TIC, se presentó
+como desafío repensar el uso de la tecnología desde las características, singularidades y diferencias de los niños y niñas con discapacidad. Esta investigación destacó el uso de pulsadores, teclados adaptados, plataforma moodle, y diferentes recursos disponibles como la
+posibilidad de ampliar texto e imagen con la función lupa. También
+se realizaron actualizaciones periódicas a las versiones más estables de moodle; plug-in accesibilidad; simplificación de acceso en el
+sistema de autenticación; utilización de pictogramas para enlazar
+elementos, integración de software Edilim y definiciones de diseño
+gráfico adecuadas a la población. Todos estos aspectos facilitaron
+como mediadores en el proceso de trabajo en las escuelas especiales
+en las que se llevó adelante el estudio, mejorando los recursos disponibles para la accesibilidad de los niños y niñas con discapacidad. El
+proceso de apropiación estuvo relacionado con la búsqueda creativa
+de diferentes recursos que permitieron a los niños y niñas mayores
+posibilidades comunicativas y creativas. Las investigadoras y los estudiantes universitarios fueron agentes activos de este proceso, en
+función de las necesidades de la población con la que se trabajó. Podemos decir que la apropiación aquí tiene dos planos, por un lado
+con la población infantil, la narrativa de la propuesta y el uso con
+sentido requirió recursos tecnológicos apropiados para los niños y
+niñas con discapacidad, lo que mejoró los niveles de comunicación
+y expresividad de necesidades; por otro lado, la búsqueda de mejora
+de las condiciones de la población infantil con discapacidad generó
+un proceso de especialización en el equipo de investigación que implicó mayores niveles de selección y criterios para el uso tecnológico.
+El proyecto colaboró en revisar el lugar asignado a la infancia con
+discapacidad en las escuelas, generando un sistema de actividad que
+buscó alterar algunos funcionamientos repetitivos, hegemónicos y
+alienantes.
+168
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Apropiación de artefactos tecnológicos en la niñez …
+
+El último proyecto, se inició en 2018 y continúa en la actualidad
+bajo el nombre “Inclusión educativa en contextos de interculturalidad mediante el Modelo colaborativo Quinta Dimensión” (Da Silva y
+Rivero, 2019). Tiene por objetivo contribuir a generar conocimientos
+sobre los procesos de inclusión educativa de la niñez migrante, mediante el diseño y la implementación del Modelo 5D con la finalidad
+de construir un aula intercultural. Dado el actual contexto mundial
+y latinoamericano en particular, durante la última década, Uruguay
+comienza a ser un país receptor de población que principalmente
+por motivos económicos, políticos, sociales y culturales llegan del
+exterior con el ánimo de vivir en el país. Estos movimientos migratorios son sur-sur, personas de países latinoamericanos de migración
+no tradicional para nuestra sociedad: Cuba, República Dominicana,
+Perú, Venezuela, Colombia y Haití.
+Dentro de los resultados primarios del proyecto se destaca que,
+trabajar para la construcción de una propuesta intercultural e inclusiva requiere establecer mutualidades que se alejaron de construcciones compensatorias o ideas centradas en ubicar a los niños
+y niñas migrantes como sujetos carentes. La mirada estuvo centrada
+en ubicarlos como sujetos de derecho, constructores de ciudadanía
+y de una convivencia articulada desde las diferencias. Construir una
+propuesta basada en la colaboración supuso valorar las capacidades
+y los intercambios posibles. Lo que requirió trabajar para un diálogo
+intercultural desde una posición de mutua legitimidad y reconocimiento, considerando a los niños y niñas sujetos con agencia propia
+y no objetos. En relación a los artefactos tecnológicos, fueron pensadas desde la esfera de los procesos de apropiación colaborativa, donde la negociación, el compartir y tener una utilidad con sentido, se
+acordó como estrategia para su uso. Constituyó un trabajo arduo y de
+permanente vigilancia, ya que las lógicas de usos individualizadas se
+colaban permanentemente. También estuvo presente los tiempos en
+el acceso a las TIC, ya que los niños y niñas recién llegados a Uruguay
+no acceden rápidamente a los artefactos tecnológicos que brinda el
+Plan Ceibal. Las posibilidades de compartir entre los niños y niñas
+169
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Mónica Elena Da Silva Ramos
+
+que tienen las computadoras y los que no, es en sí todo un proceso de
+trabajo importante. A medida que se iba profundizando en el vínculo
+entre los niños, niñas y el equipo de investigadoras, aumentó el compromiso, el sentido de pertenencia, la participación en la actividad, y
+el uso colaborativo de las TIC . Colaboración y narrativa permitieron
+explorar la frontera entre lo imaginario y la realidad, propiciando un
+espacio para procesar entre niños, niñas y adultos las dificultades de
+encuentros interculturales. Transitando con las ayuda de artefactos
+tecnológicos como mediadores desde las fronteras hacia la potencia
+de las diferencias, dotando de sentido los encuentros.
+
+Reflexiones
+En los tres proyectos los procesos de apropiación cobran diferentes
+acentos en función de la población, el contexto y las particularidades de implementación del Modelo 5D. Lo que prevalece es el uso de
+la tecnología como mediadores en los procesos colaborativos y en el
+sentido constructivo de la narrativa. En el primer proyecto, la apropiación colaborativa de artefactos tecnológicos se enlaza a la construcción de sentido de pertenencia comunitaria de los niños y niñas
+de la localidad de estudio. En el segundo, la apropiación de artefactos
+está asociada a mejorar las posibilidades comunicativas de los niños
+y niñas con discapacidad, para ampliar sus posibilidades como sujetos de emisión de comunicación. En el último proyecto, el acento está
+en los artefactos tecnológicos como mediadores de la colaboración
+para posibilitar procesos de encuentros interculturales. Los tres proyectos ponen relevancia en modos de existir con la tecnología como
+parte del engranaje de una propuesta pedagógica sustentada en el
+Modelo 5D.
+El escenario natural de encuentro con los niños y niñas es mediante el juego y en el mismo se establece las posibilidades de habitar y vivir un espacio cargado de imaginación y donde los artefactos
+tecnológicos son parte del tejido narrativo que implica jugar. Las tres
+170
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Apropiación de artefactos tecnológicos en la niñez …
+
+investigaciones nos invitan a pensar la apropiación tecnológica sustentada en una estructura real y simbólica, también como proceso
+de interacción participativa que permite otorgar significado propio a
+los contenidos y a las actividades (Crook, 1998).
+Otro elemento importante es que los procesos de apropiación
+desde la estructura del Modelo 5D requiere de adultos comprometidos en los proyectos con una intencionalidad lúdica y pedagógica en
+la que se pueda desplegar la creatividad y la autenticidad del encuentro con tecnologías. Esto no implica la construcción de un contexto
+idealizado para promover la apropiación, por el contrario requiere
+de la generación de procesos auténticos, los cuales están cargados
+de tensiones y desafíos. Es en las relaciones cotidianas donde aparece el compromiso, la curiosidad e imaginación, elementos esenciales que nutren las actividades, las cargan de emociones y las tornan
+motivadoras. El Modelo 5D se basa en estas ideas y busca generar
+una comunidad de práctica, que evoluciona según la implicación,
+participación y compromiso que se va construyendo. Los procesos de
+apropiación requieren intercambios, negociación y también tensiones que permitan situar a los niños y niñas en el proceso que implica
+la construcción de algo propio, pero que necesariamente requiere la
+vivencia con los otros.
+Estos proyectos nos han llevado a cuestionar algunos planteos
+como interiorización o asimilación y nos acercamos a pensar en
+procesos dialógicos, cargados de emociones y situados a partir de
+vivencias singulares. Por eso se insiste que, el Modelo 5D nos permite pensar en una comunidad de práctica que habilita procesos de
+construcción, participación y apropiación de artefactos, desde una
+propuesta alternativa, sustentada en una narrativa colectiva y que se
+transforma a partir de la incidencia de sus integrantes.
+Para finalizar, sin pretender verdades absolutas, sólo cabe mencionar que el mercado hegemónico digital porta también una idea
+de juego, consumo e intercambios basada en plataformas tecnológicas altamente sofisticadas y en permanente cambio. Las tecnologías para los niños y niñas son un nicho del mercado de consumo
+171
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Mónica Elena Da Silva Ramos
+
+en permanente cambio y actualización. Muchos niños y niñas están
+atentos a este mercado que muchas veces no les permite, ni a ellos, ni
+a sus adultos de referencia poder dilucidar para qué, por qué y cómo
+del mundo tecnológico.
+El margen de desigualdad entre los que pueden acceder a esas tecnologías y los que no, aumenta en función de las posibilidades de acceso económico. Incluso las últimas consolas de videojuegos para los
+niños y niñas que pueden acceder, configuran un escenario de juego
+protervo desde la lógica del consumo y en muchos casos de soledad
+frente a las pantallas.
+Para los niños y niñas que no acceden a esos consumos, se construyen propuestas orientadas a un uso instrumental de tecnologías
+que terminan generando un proceso de inclusión digital perversa. Se
+crea una estructura de acceso, pero al servicio de un mercado laboral
+del futuro incierto, no en función de procesos propios de los niños y
+niñas. Construir otros modos de estar con los artefactos tecnológicos, pensar en los procesos de apropiación a partir de proyectos con
+una intencionalidad pedagógica que integran procesos narrativos y
+colaborativos y que permiten jugar, fantasear, crear e imaginar, se
+torna en una tarea necesaria en los diferentes ámbitos en los que
+transitan los niños y niñas.
+
+Referencias bibliográficas
+Bruner, J. (1990). Actos de significado. Más allá de la revolución cognitiva.
+(Madrid, España: Alianza Editorial 2000).
+Cole, M. (1996). Cultural psychology: A once and future discipline. (Cambridge, Inglaterra: Harvard University Press).
+172
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Apropiación de artefactos tecnológicos en la niñez …
+
+Cole, M. y The Distributed Literacy Consortium (2006). The Fifth Dimension. (New York: Russell Sage Foundation).
+Crook, Ch. (1998). Ordenadores y aprendizaje colaborativo. (Madrid, España: Ministerio de Educación y Cultura y Ediciones Morata).
+Da Silva, M. (2018). Apropiación de las TIC en la infancia y su impacto
+en la comunidad: posibilidades y límites del modelo educativo Quinta
+Dimensión en un contexto de vulnerabilidad social en Uruguay (tesis
+doctoral). Doctorado en Educación y TIC, Universitat Oberta de Catalunya, Barcelona.
+Da Silva M. y Rivero E., (2018). Proyecto: Construyendo ciudadanía digital mediante la creación de un espacio intercultural en la Ciudad Vieja
+de Montevideo. Comisión Sectorial de Extensión y Actividades en el Medio de la Universidad de la República Oriental del Uruguay.
+De la Mata, M. L., y Cubero, M. (2003).” Cultural Psychology: Approaches
+to the study of the relationship between mind and culture”. Infancia y
+Aprendizaje,26(2), 181-99.
+Esteban-Guitart, M. (2008). Hacia una psicología cultural. Origen, desarrollo y perspectivas. Fundamentos en Humanidades, 9(18), 7-23.
+Lalueza, J.L., Crespo,I., y Luque, M.J. (2009). El projecte Shere Rom: espais
+educatius d´ús de les noves tecnologies per al desenvolupament comunitari. Barcelona Societat, Nº 14, 129-36.
+PLAN CEIBAL (2010). Informe de monitoreo y evaluación de impacto
+social del Plan Ceibal. Resumen Ejecutivo 2010. El Plan Ceibal a 2010:
+avances y desafíos. Recuperado de http://www.ceibal.edu.uy/es
+Rivoir, A. L. (2009). Innovación para la inclusión digital. El Plan Ceibal en
+Uruguay. Mediaciones sociales. Revista de Ciencias Sociales y de la Comunicación, vol.4, 299-328.
+Rogoff, B. (1993). The cultural nature of human development.( Nueva York,
+EU: Oxford University Press).
+Viera, A., Da Silva, M., y Falero, B. (2014). “La Quinta Dimensión en el
+contexto de la Educación Especial en Uruguay”, Ponencia presentada en
+
+173
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Mónica Elena Da Silva Ramos
+
+UC-Links Annual Conference. Universidad de California, Berkeley, EU, 6
+al 8 de marzo.
+Vygotsky, L. S. (1988). El desarrollo de los procesos psicológicos superiores.
+(Madrid, España: Grijalbo).
+Wertsch, J.V. (1991). Voices of the mind. (Londres, Reino Unido: Harvester
+Wheatsheaf).
+
+174
+This content downloaded from 157.253.50.51 on Sat, 29 Feb 2020 02:44:03 UTC
+All use subject to https://about.jstor.org/terms
+
+
