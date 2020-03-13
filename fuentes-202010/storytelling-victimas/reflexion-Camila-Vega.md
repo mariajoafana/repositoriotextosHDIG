@@ -1,9 +1,9 @@
 ---
 titulo: Después del conflicto: historias de resiliencia
-fecha: 2020-03-11
+fecha: 2020-03-10
 autor:
-- Camila Vega 
-etiquetas: Mujeres, storytelling, resiliencia
+- Camila Vega
+etiquetas: storytelling, mujeres, resiliencia, conflicto armado
 ---
 
 ¿Cuáles son las palabras más comunes en tus artículos?
