@@ -1,0 +1,51 @@
+---
+titulo: Participación femenina en el cine colombiano
+fecha: 2020-10-01
+autor:
+- Isabel Valdés Arias
+etiquetas: cine, género, colombia, visualización
+---
+
+
+Las 10 palabras más comunes del corpus son: directoras; colombiano; años; colombia; social; producción; género; película; 2012; historia.
+
+En este análisis, a parte de unas cuantas proposiciones, excluí las palabras “cine” y “mujeres”, ya que el corpus versaba sobre estos temas. Excluiría adicionalmente “colombia” o “colombiano”, pues la investigación se sitúa en este país, a pesar de que amplié la bibliografía a referentes latinoamericanos. 
+
+Se pueden identificar algunos campos de investigación que dialogan con mi proyecto tales como el de género, primero, que está reflejado en las palabras “género”, “feminismo”, e incluso otras que permiten darle un enfoque como “derechos”, cuyo contexto está atado a los derechos de las mujeres, y “violencia”, ligado a la violencia de género principalmente. El segundo campo de investigación es el cinematográfico, pero atado a su ejercicio. Esto se ve reflejado con palabras como “directora”, “producción” (que contextualmente no se enfocan en el cargo, sino en la creación, el oficio), “industria” y “cineastas”.
+
+Así mismo, identifico la temporalidad como campo de estudio en sí mismo al tener palabras como “años”, “historia” y años específicos que van desde el 2007 hasta el 2018. En particular el 2012, que es uno de los más comunes, es un año relevante en tanto que se expide la Ley de Filmación o Ley 1556, la cual fomenta el territorio nacional como escenario para el rodaje de producciones cinematográficas. Finalmente, asociaría otro campo de investigación al de temáticas con mirada femenina al unir palabras como “social”, “relaciones” (con quienes les rodean), “drama” (como género cinematográfico) y “cultura”.
+
+Este análisis me invita a la posibilidad de acotar la participación femenina en el cine colombiano a un solo cargo, el de dirección, dejando de lado la jerarquía entera de roles en el espacio cinematográfico. Así mismo, me convoca a, por un lado, analizar las tendencias temáticas de las directoras colombianas y, por otro lado, los hitos históricos en la ley colombiana que permitieron su participación.
+
+
+Visualización en Voyant Tools:
+
+https://voyant-tools.org/?corpus=ae91a76c8887c35e8280cd685d42aaec&stopList=keywords-ecef98ca29a5d0257c953ef5bfd4df2e&panels=corpusterms,reader,trends,summary,contexts
+
+
+Bibliografía:
+
+01 Guarini, C. (2019). Women in Film Industry. el caso argentino.Por un nuevo paradigma. Ic-Contornos del NO-REVISTA DE INDUSTRIAS CULTURALES
+AÑO III, N° 3, Junio de 2019
+
+02 Carpio-Manickam, M. (2019). Annette Scholz y Marta Álvarez (Eds.). Cineastas emergentes. Mujeres en el cine del siglo XXI. Madrid: Iberoamericana, 2018, 306 páginas. Revista De Filología Y Lingüística De La Universidad De Costa Rica, 45(2), 305-310.
+
+03 Torres San Martin, P. (2018). Mujeres detrás de cámara. Una historia de conquistas y victorias en el cine latinoamericano. revista NUEVA SOCIEDAD No 218, noviembre-diciembre de 2008, ISSN: 0251-3552, <www.nuso.org>.
+
+04 Bernárdez-Rodal, A., Padilla-Castillo, G. (2018). “Mujeres cineastas y mujeres representadas en el cine comercial español (2001-2016)”. Revista Latina de Comunicación Social, 73, pp. 1247 a 1266.
+
+05 Martínez Tejedor, M. C. (2007-2008). Mujeres al otro lado de la cámara (¿Dónde están las directoras de cine?). Espacio, Tiempo y Forma, Serie VII, H. a del Arte, t. 20-21, págs. 315-340.
+
+06 Gómez Ramírez, C. A. (2012). MUJER Y DERECHO EN EL CINE COLOMBIANO DE 2011 Y 2012. Facultad de Derecho, UNIVERSIDAD MILITAR NUEVA GRANADA.
+
+07 Gallesgos Vargas, J., Rivera George, I. (2018) Luces, cámara, acción: la participación de las mujeres en el cine mexicano. X Congreso virtual sobre Historia de las Mujeres, págs. 265-280.
+
+08 Oliveros, C., & Gómez, C. A. (2013). La feminidad en el cine colombiano de 2011 y 2012. Revista Prolegómenos. Derechos y Valores, 16, 32, 221-234.
+
+09 Correa, J. (2002). La constitución del cine colombiano como objeto de estudio: entre los estudios cinematográficos y los estudios culturales.  Congreso Estudios culturales en Colombia: trayectorias, tendencias y perspectivas. Pontificia Universidad Javeriana.
+
+10 Núñez Domínguez, T. &. Vera Balanza, M. T. (2020). Directoras de cine argentinas y españolas. Una década re-creando imaginarios. Cuadernos.info, (46), 96-128.
+
+11 Waigandt, A. (2012). Cine hecho por mujeres: características y evolución. https://comunicarigualdad.com.ar/cine-hecho-por-mujeres-caracteristicas-y-evolucion/
+
+12 Rivera-Betancur, J. (2014). ¿Va el cine colombiano hacia su madurez? Análisis de 10 años de ley de cine en Colombia. Anagramas Volumen 13, No 25 pp. 127-144 ISSN 1692-2522 Julio-Diciembre de 2014. 202 p. Medellín, Colombia.
