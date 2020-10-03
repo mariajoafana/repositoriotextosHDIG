@@ -1,0 +1,1059 @@
+Feminismos indignados ante la justicia:
+la conversación digital en el caso de 'La Manada'
+Resumen
+Este artículo examina la conversación en Twitter surgida a raíz de la sentencia de “La
+Manada”, poniendo en relación un poder público, el judicial, con uno de los movimientos
+sociales más activos, el feminismo. Con este fin, se aplica una metodología de estudio
+de caso sustentada en una aproximación empírica de Análisis de Redes Sociales útiles
+para distinguir entre una indignación espontánea y otra estratégica, infiriendo que los
+feminismos tienen aún muchas alianzas que explorar.
+Abstract
+This paper examines the online conversation on Twitter resulting from the court ruling in the
+‘La Manada’ case, linking the judiciary to feminism, currently one of the most active social
+movements. To this end, a case study methodological based on an empirical approach to
+social network analysis was employed. Both of them are useful for distinguishing between
+spontaneous and strategic indignation and, therefore, for inferring that feminisms still have
+many alliances to explore.
+212 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+Palabras clave
+Feminismo, movimientos sociales, ciberactivismo, Twitter, datos masivos, justicia.
+Keywords
+Feminism, social movements, ciberactivism, Twitter, big data, justice.
+Sumario
+1. Introducción
+1.1 Justicia y feminismo
+1.2 Twitter y ciberactivismo
+1.3 Contexto del caso de estudio
+2. Marco metodológico
+2.1 Objetivo e hipótesis
+2.2 Procedimiento analítico
+3. Resultados
+3.1 Aproximación general a la red
+3.2 Descripción de las comunidades
+4. Conclusiones y discusión
+5. Bibliografía
+Sumary
+1. Introduction
+1.1 Justice and feminism
+1.2 Twitter and cyberactivism
+1.3 Context of the case study
+2. Methodological framework
+2.1 Objective and assumptions
+2.2 Analytical procedure
+3. Results
+3.1 General approach to the network
+3.2 Description of the communities
+4. Discussion and conclusions
+5. Bibliography
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 213E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+1. Introducción
+Los estados de opinión en torno a los poderes públicos que
+interactúan en el espacio público han sido analizados y abordados a través
+de distintas disciplinas en los últimos años. En esta línea, esta investigación
+analiza la conversación digital generada en Twitter en torno al caso de “La
+Manada”. La selección de esta red social para el estudio tiene en cuenta su
+condición demostrada como escenario de acción social capaz de contribuir a
+la construcción de marcos explicativos y generadores de la realidad que nos
+rodea (Criado, 2012; Baggiolini y Castro, 2016; Martínez, 2017).
+El interés del caso seleccionado para el estudio deriva de su utilidad
+para poner en relación uno de los poderes públicos más importantes,
+la Administración de Justicia, con la red social Twitter, a la que diversas
+investigaciones catalogan también como una de las plataformas sociales con
+mayor influencia política demostrada (Gutiérrez-Rubí, 2016). Este estudio se
+inserta, además, en un contexto social caracterizado por la consolidación
+de nuevas esferas de discusión multidisciplinares y multiculturales (Perelló,
+2018), encarnadas en las redes sociales digitales. Éstas han contribuido a la
+fiscalización, monitorización e intervención en la vida pública y política de la
+ciudadanía (Gutiérrez-Rubí, 2018). Cabría tener en cuenta, asimismo, que la
+investigación se ha desarrollado en un momento en el que el sistema judicial
+español experimenta una particular exposición pública.
+Esta investigación busca así ofrecer una visión original y útil para
+poner el foco en una nueva forma ineludible de escrutinio social al que se
+prestan los poderes que participan en el espacio público. En ese sentido, Twitter
+es, a día de hoy, un escenario de acción social claro donde, sin necesidad de
+planificaciones estratégicas previas, la gente interactúa libremente, creando
+identidades y tejiendo comunidades. Precisamente, esta investigación focaliza
+su interés en la conversación digital en Twitter porque en ésta priman la
+espontaneidad y la inmediatez, lo que fomenta un intercambio fluido de la
+conversación y debate político (Campos-Domínguez, 2017).
+Con el objetivo de explicar cómo caracteriza el feminismo el poder
+judicial en el contexto del caso analizado (sentencia judicial del caso “La
+Manada”) y qué tipos de conversación genera en torno al referido suceso, la
+investigación empírica se sustenta en una metodología inductiva y exploratoria 
+214 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+propia y novedosa que combina el Análisis Semántico y el Análisis de Redes
+Sociales aplicadas a datos descargados directamente de Twitter. El análisis
+combina así más de tres millones de interacciones en esta red social.
+1.1 Justicia y feminismo
+Las ideas de libertad y justicia han servido de motor del movimiento
+feminista desde su nacimiento. Son estos ideales, precisamente, los que abonan
+también el sustrato del derecho. Con todo, lejos de contribuir a su defensa y
+fortalecimiento, la conflictividad inherente que vive el derecho puede también
+conseguir una total anulación de estos presupuestos (Costa, 2014).
+Desde las Ciencias Sociales se afirma que el acceso a la justicia es
+particularmente difícil para las mujeres, tanto en lo que se refiere a su ejercicio,
+como a las consecuencias que se derivan de su aplicación para los sujetos
+del derecho. Esta afirmación viene reforzada, por ejemplo, por estudios
+y documentos elaborados en torno al acceso a la justicia de la población
+mundial, como el publicado por la Organización de las Naciones Unidas (ONU)
+en el año 2012, “Principios y directrices de las Naciones Unidas sobre el acceso
+a la asistencia jurídica en los sistemas de justicia penal”. Dicho documento
+reconoce la dificultad de las mujeres en el acceso a la asistencia jurídica e
+insta a incluir la perspectiva de género en sus sistemas judiciales. Diversas
+aportaciones para una jurisprudencia de corte feminista han abogado por una
+epistemología y “método jurídico-feminista” que incluya el punto de vista de
+las mujeres en aspectos decisivos del Derecho, tales como los valores legales,
+el concepto de justicia o la lógica jurídica (Smart, 2000; Motta y Sáez, 2008;
+Duhacek, 2014). Lato sensu, estas corrientes abogan también por impulsar
+transformaciones en el ámbito jurídico a partir de pequeños cambios sociales.
+De hecho, el sistema judicial que regula los derechos individuales y colectivos
+de una sociedad es uno de los principales objetivos de las reivindicaciones
+feministas. No en vano, como define Valcárcel (2016), el feminismo es “aquella
+tradición política de la modernidad, igualitaria y democrática, que mantiene
+que ningún individuo de la especie humana debe ser excluido de cualquier bien
+y de ningún derecho a causa de su sexo”.
+Según las investigaciones del feminismo jurídico referidas, las
+circunstancias que interactúan para dificultar el acceso de las mujeres a la 
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 215E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+justicia responden a las limitaciones del objeto del derecho mismo, como
+consecuencia del sesgo androcéntrico, aunque habría otros condicionantes,
+como el clasismo, el racismo o el heterocentrismo (Costa, 2014). En palabras
+de la investigadora Malena Costa (2014), las producciones del área jurídica
+feminista se formulan desde la convicción de que el discurso del derecho
+tiende a ignorar a las mujeres, sus experiencias, intereses y contribuciones.
+Según continúa esta autora, el sesgo androcéntrico no solo alcanza a las
+teorías, sino que también se deja sentir o habita en las instituciones que
+aplican y confieren de legitimidad al conocimiento jurídico.
+1.2 Twitter y ciberactivismo
+La aparición y consolidación de Internet a finales del siglo XX y
+a principios del XXI otorgó a los movimientos feministas de una nueva
+herramienta paralela y autónoma ante la omnipotencia de los medios de
+comunicación tradicionales, poniendo las bases del ciberfeminismo (Pozner,
+2003; Kelly, 2005). El auge de las redes sociales (Twitter, Facebook, Yotube,
+etc.) propicia, a posteriori, una etapa donde los movimientos sociales
+obtienen una herramienta decisiva como el ciberactivismo para mejorar su
+visibilidad mediada y articular o desarrollar sus luchas (Thompson, 2005;
+Earl y Kimport, 2011; Bruns et al., 2015). Este nuevo contexto fue determinante
+en lo que varias autoras denominan la irrupción actual de la “cuarta oleada”
+feminista (Locke, Lawthon y Lyons, 2018).
+En ese sentido, actualmente los movimientos sociales tienen
+herramientas para interpelar continuamente y públicamente a los poderes
+públicos que gobiernan un Estado, afrontando estos una forma de escrutinio
+social renovado. En ese sentido, Twitter ha sido especialmente distinguido
+como un espacio virtual con una dimensión tecnológica-dialógica y social
+especialmente útil para interrelacionar y agrupar dialógicamente a
+actores diversos (personas, grupos u organizaciones) que, funcionando a
+la manera de nodos o puntos de contacto, comparten intereses y pueden
+construir de manera colectiva determinados sentidos y luchas (Baggiolini
+y Castro, 2016).
+Para Arroyas, Martínez y Berná (2018), Twitter presenta características
+comunicativas específicas -inmediatez, impacto mediático, movilización, 
+216 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+simplificación del mensaje- que promueven interacciones e identificaciones
+colectivas con un importante componente emotivo, hasta tal punto que,
+según estos mismos autores, Twitter favorece el desarrollo de marcos de
+referencia ideológicos con eficacia movilizadora. Esta idea viene a reforzar la
+ya clásica reflexión de Fleischman (2004) de principios de siglo, según la cual el
+activismo sustentado en la interactividad mediática no sustituía otras formas
+de participación política tradicionales, sino que las reforzaba. En contraste,
+Hermida y Hernández-Santaolalla (2016) aportan visiones más críticas
+cuando apuntan que, pese a que las plataformas online sirven como altavoz y
+amplifican los mensajes de activistas, tienen evidentes limitaciones y no dejan
+de estar a merced del propio sistema que pretende cuestionarse.
+Volviendo al contexto actual, Twitter es, además, un medio de
+comunicación que permite prescindir de intermediarios o gatekeepers
+tradicionales, generalmente masculinizados en sus direcciones y puestos de
+responsabilidad (Criado, 2012). Este factor se une al hecho de que existen
+clases medias digitalizadas con mayor nivel educativo, representadas por
+mujeres que han engrosado un movimiento feminista que ha sabido combinar
+trazos intergeneracionales con nuevas formas de participación de manera
+sugerente (Simón, 2018).
+En ese sentido, se entiende que la incorporación de las redes
+digitales haya alterado sustancialmente las formas de comunicación y
+organización en el seno de los movimientos sociales (Martínez, 2017). A
+este respecto, Baggiolini y Castro (2016) destacan el valor de la red social
+Twitter por encima de otras como Facebook, por su capacidad para poner
+en valor las principales estrategias de la comunicación digital (convergencia,
+relato transmedia, viralización y gestión de contenidos). Para estos mismos
+autores, una evidencia indiscutible del valor social y discursivo de Twitter
+sería la proliferación acontecida en los últimos años de fenómenos sociales
+como la primavera árabe, el 15M español (Martínez, 2017) y otros vinculados
+directamente a interacciones discursivas a través de hashtags relacionados,
+en muchos casos, con el movimiento feminista en diversos países del mundo,
+como #Occupywallstreet, #BlackLivesMatter, #yosoy132 o #NiunaMenos
+(Argentina) (Laudano, 2017).
+Importantes campañas feministas en Twitter partiendo del empleo
+de hashtags han sido analizadas recientemente por numerosos autores como 
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 217E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+Jinsook (2017), Turley y Fisher (2018). En ese sentido, la comunidad científica
+se interroga actualmente sobre la verdadera eficacia de esta herramienta de
+comunicación vinculada con la tecnología. Existen perspectivas optimistas
+como la de Arroyas-Langa et al. (2018) que confirman la capacidad de Twitter
+para expandir mensajes, abrir debates y crear comunidad de afinidad
+política. Entre las voces menos optimistas, existen visiones críticas que
+aluden a su escasa utilidad para promover colectividades fuertes y profundas
+(Zafra, 2010; Rendueles, 2013; Fotopoulou, 2014; Shulevitz y Traister, 2014;
+Caro-Castaño, 2015), por su alto componente de individualidad.
+En España concretamente, Twitter es hoy un claro espacio de acción
+social que ha representado una de las principales arenas donde reflejar
+el malestar y la indignación feminista respecto al poder judicial, caso que
+evidencian los hashtags vinculados a la sentencia de “La Manada”. Ello justifica
+el interés de este estudio por conocer la conversación de diversos grupos e
+individualidades en Twitter en relación a este caso, visualizando alianzas y
+aportando datos contrastables que permitan apuntar nuevas caracterizaciones
+para el feminismo en un contexto social crecientemente tecnologizado.
+En este contexto investigador, el artículo que se presenta se
+enmarca en la corriente de estudios feministas que intentan aportar luz
+sobre el nuevo paradigma social, conformado al calor de elementos tan
+determinantes en la actualidad como los nuevos movimientos sociales, la
+irrupción de internet en todas las esferas de nuestras vidas o la creciente
+participación de las mujeres en el espacio público. En ese sentido, este trabajo
+pone el foco sobre esos tres elementos y utiliza una de las plataformas con
+mayor tendencia entre las redes sociales a emplazar debates de mayor
+carácter político. De hecho, tal y como reconoce Perelló (2018), Twitter ha
+pasado de ser un espacio donde se trataban temas triviales, a convertirse
+rápidamente en un foro para debatir sobre noticias, con una orientación
+muy particular hacia el activismo.
+Especifícamente, este trabajo centra su interés en los hashtags
+#EstaEsNuestraManada, #EsUnaGuerra, #JusticiaPatriarcal, #LaManada,
+#NoEsAbusoesViolación, #NoEsNo y #YoSíTeCreo. A partir de estos, el estudio
+ha buscado profundizar en los elementos de la conversación digital referente
+al ámbito judicial mediante técnicas de Análisis de Redes Sociales y de
+Análisis Semántico, según se detalla en el siguiente apartado.
+218 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+1.3 Contexto del caso
+Las perspectivas jurídico-feministas aludidas en la introducción
+quedaron simbolizadas con fuerza en España como consecuencia de la
+sentencia emitida por parte de la Audiencia Provincial de Navarra el 26 de
+abril de 2018, en relación a la agresión sexual de cinco sevillanos a una mujer
+durante las fiestas de Pamplona (San Fermín) de 2016. Dicha sentencia judicial
+juzgó la agresión como “abuso sexual” y encontró una considerable oposición
+de la opinión pública representada por diversos sectores sociales, judiciales
+y políticos, quienes caracterizaban el ataque como “violación”. La sentencia
+condenaba a los jóvenes a nueve años de prisión y les absolvía de otros delitos
+vinculados a grabaciones con dispositivos móviles y robo con intimidación.
+La explosión de indignación social, política y de las mujeres
+generada por la sentencia de este caso debe ser entendida en un contexto de
+creciente efervescencia feminista, el cual encuentra sus antecedentes en las
+movilizaciones con motivo del 8 de marzo de 2018 y la primera huelga feminista
+desde la etapa de la Transición. Varias y diversas voces catalogaron de exitoso
+todo el proceso de preparación y ejecución de la huelga, llegando a ubicar
+a España en el “epicentro del tsunami” (Simon, 2018), con un feminismo que
+recoge la movilización y reflexión en torno a movimientos más globales como
+#MeToo y con capacidad para construir un movimiento más activo y movilizado
+que en otros países. Según Martínez-Bascuñán (2018), académica y directora
+de opinión del diario El País, se trata de “una nueva fuerza transformadora que
+podría representar la cuarta ola feminista”.
+Con todo, estas movilizaciones presentaban lazos conceptuales
+y culturales con la Spanish Revolution simbolizada por el movimiento
+de indignación del 15M en el año 2011. Asimismo, la irritación feminista
+evidenciada por el caso de “La Manada” estuvo alimentada por otros
+factores, como la indignación social continuada ante los incesantes casos de
+violencia de género en España.
+A este respecto, aunque comparte características y vínculos con
+los movimientos feministas de otros contextos geográficos, el feminismo en
+España ha evidenciado tradicionalmente una génesis y un devenir particular.
+De hecho, el movimiento feminista en España, entendido como un movimiento
+organizado, resulta bastante tardío y data de la época posfranquista o de
+Transición democrática (1976-1979). Aunque se trató de una etapa breve, 
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 219E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+resultó muy intensa y se caracterizó por importantes acciones en la calle,
+de carácter colorista y expresivo (manifestaciones multitudinarias, huelgas,
+encierros y sentadas, etc.) que le confirieron un carácter muy particular
+(Larumbe, 2002), además de una visibilización social y mediática.
+Hoy, los feminismos en España cuentan con nuevos canales para
+trasladar su mensaje y concienciar de las desigualdades de género desde
+perspectivas muy diferentes, como la que introduce este artículo, vinculada al
+ámbito jurídico y social. A este respecto, resulta indudable el valor de Internet
+y de las redes sociales para configurar una red y unas relaciones sociales que
+contribuyan a que los feminismos organicen convocatorias de gran afluencia y
+con un amplio apoyo social, ya que tal y como teoriza Candón-Mena (2011) en
+torno a las expectativas para actuar en acciones de protesta, la percepción de
+que la protesta será masiva hace masiva la protesta.
+2. Marco metodológico
+Esta investigación se desarrolla a partir de una aproximación
+inductiva derivada del tipo de técnica de exploración de datos empleada
+en la fase de estudio empírico. Esta técnica se centra en dar cuenta de las
+interacciones estratégicas que se establecen en el seno del feminismo en
+relación a este caso y en el ámbito específico de Twitter. Las características
+de cada comunidad participante en la conversación y su descripción se han
+inferido a partir de dichas interacciones, y no de categorías preestablecidas
+(como las utilizadas tradicionalmente en técnicas como la encuesta). Es, pues,
+la interacción el núcleo analítico básico, y no el individuo.
+Cabe destacar que las interacciones sociales han constituido
+históricamente un objeto teórico central en las ciencias sociales (Simmel,
+1908; Mead, 1934; Homans, 1958; White, 199 y 2008), aunque han
+permanecido ampliamente infrautilizadas a nivel empírico. Por citar un
+ejemplo ilustrativo, es más eficiente preguntarle a alguien por su opinión,
+que estudiar sus relaciones en clave política. Los planteamientos estadísticos
+tradicionales implican, por tanto, un grado elevado de reduccionismo y de
+pérdida de oportunidades para poder transitar en explicaciones de corte
+macro (Estados, grandes grupos sociales, minorías trasnacionales, etc.) y 
+220 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+micro (comunidades, individuos, parejas, etc.). En palabras de Latour (2010),
+cuando se hace trabajo de campo se tiende a poner el foco en el individuo lo
+menos posible para pasar tan rápido como se pueda a los datos agregados
+que ya no van a ser desagregables.
+En vista del interés por evitar, en la medida de lo posible, desarrollos
+empíricos reduccionistas y con la intención de capturar la diversidad y
+riqueza de fenómenos sociales tan dinámicos como los feminismos, esta
+investigación ofrece un abordaje metodológico que representa, en sí mismo,
+una propuesta de método propia o ex profeso en el ámbito del Análisis de
+Redes Sociales. Su originalidad reside concretamente en la utilización de
+técnicas de análisis aplicadas al paradigma de los datos masivos (Big Data),
+las cuales permiten abrir la “caja negra” de las interacciones, posibilitando su
+tránsito de objeto teórico a objeto empírico.
+2.1 Objetivo e hipótesis
+Partiendo de la base teórico-metodológica descrita, esta
+investigación persigue como objetivo principal la comprensión de diversos
+flujos comunicativos en Twitter producidos al calor de la sentencia judicial
+del caso de “La Manada”. De hecho, se considera que la descripción de
+conversaciones digitales construidas al calor de eventos relevantes en
+la sociedad ayuda a comprender mejor el contexto social en el que estos
+suceden o la propia realidad en sí misma. En este caso, el objetivo principal
+es comprender cómo se comportan los feminismos en una red social como
+Twitter, qué interacciones activa, los tipos de contenido que comparte o las
+relaciones que emergen de las interacciones. Todo ello, mientras se “dialoga”
+digitalmente en torno a uno de los sucesos que más visibiliza en la opinión
+pública a uno de los tres poderes públicos: el judicial. El estudio ha buscado
+también conocer qué comunidades emergen de la conversación digital, qué
+ámbito temporal y liderazgos definen a estas comunidades y qué relatos o
+microrrelatos teje cada comunidad.
+Partimos, además, de la premisa de que los poderes públicos deben
+afrontar actualmente un nuevo escrutinio social, encarnado en la influencia
+que ejercen las redes sociales en la opinión pública. Tradicionalmente, los
+medios han jugado un papel necesario en la conformación de la opinión 
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 221E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+pública y esa es una de las razones para haber sido considerados “el cuarto
+poder” (Marqués, 2017). Cabe interrogarse, pues, si la influencia que ejercen
+los movimientos sociales en la opinión pública a través de las redes sociales
+puede contribuir a que éstas se erijan como un quinto poder. Diversas voces
+aseguran que estamos asistiendo, así, al nacimiento de un nuevo poder, el de
+las redes sociales (Zapata, 2018) en el nuevo paradigma de la comunicación,
+profusamente analizado por Castells (2009).
+Según la hipótesis principal de esta investigación, en este tipo de
+sucesos de gran cobertura mediática y movilización social, Twitter sirve
+como plataforma para albergar en su seno interacciones dialógicas. Estas
+pueden ser, por un lado, de carácter espontáneo, fugaz y aislado, y por otro,
+interacciones más ideológicas y reflexiones más organizadas endosadas
+en el seno de colectivos estructurados. En ese sentido, confluirían relatos
+sobre el poder judicial construidos desde perspectivas más personales
+y emocionales, conjugándose con interacciones más reflexivas y
+enriqueciendo visiones más estratégicas a largo plazo que podría buscar el
+conjunto del feminismo más organizado. De confirmarse este aspecto, los
+poderes públicos se prestarían, en el nuevo paradigma de la comunicación,
+a un escrutinio popular que conjuga movimientos más organizados con
+perspectivas más banales que influirían considerablemente en la opinión
+que la sociedad tiene de los mismos.
+2.2. Procedimiento analítico
+Los resultados que ofrece este trabajo forman parte de un proyecto
+de investigación más amplio sobre la aportación de las redes sociales al
+nuevo paradigma de la comunicación social y política. Dicho proyecto ha
+llevado a cabo un proceso de monitorización ininterrumpida de diversos
+eventos relacionados con los feminismos y su conversación digital en Twitter,
+mediante la herramienta Twitter Capture and Analysis Toolset, desarrollada
+por Digital Methods Initiative (DMI-TCAT) de la Universidad de Amsterdam
+(Borra y Rieder, 2014).
+En relación a este evento concreto se descargaron 3.317.888 tuits,
+capturados en dos periodos diferenciados, coincidentes con dos momentos
+determinantes en el relato judicial, encarnados en dos noticias diferenciadas: 
+222 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+noticia 11
+ (entre el 26 de abril y el 17 de mayo) y noticia 22
+ (entre el 21 de junio
+y el 13 de julio). Los datos que sirven para este análisis son los capturados,
+pues, en dos periodos de igual duración y similar nivel de actividad3
+, y que
+representan dos momentos determinantes jurídicamente y mediáticamente
+en este caso.
+Para la captura de datos se realizó una monitorización de palabras
+clave (“abuso sexual”, “código penal”, “la justicia”, “San Fermín”, “violación”
+y “violar”) y también de hashtags (#EstaEsNuestraManada, #EsUnaGuerra,
+#JusticiaPatriarcal, #LaManada, #NoEsAbusoEsViolacion, #NoEsNo y
+#YoSiTeCreo). Al ser muchos de estos términos genéricos y ambivalentes
+(un tuit sobre el “código penal” no tiene por qué tratar, por ejemplo, sobre
+el juicio a los cinco hombres), se utilizaron métodos de tratamiento de dato
+para el filtraje.
+Del total de datos, se consideraron de interés para esta investigación
+aquellos que contenían algún tipo de referencia a la justicia. De esta forma,
+para la conformación de la muestra final se tuvieron en cuenta 247.019 tuits
+publicados por 123.427 usuarios diferentes. Estos datos fueron analizados
+mediante una estrategia de Análisis de Redes Sociales y posteriormente
+cruzados con la matriz original que contiene los tuits capturados. Se detalla
+a continuación esta estrategia metodológica y las técnicas específicas que
+se aplicaron.
+En primer lugar, se sintetizó un grafo de red mediante DMI-TCAT, en
+el que cada actor o nodo representó un participante de la conversación, y
+cada conexión o arista una interacción de tipo mención en Twitter: un retuit,
+una respuesta directa o una interpelación dentro de un tuit regular.
+En segundo lugar, se introdujo la red exportada al software Gephi
+(Bastian et al., 2009) y se interpretó como una red dirigida (las aristas tienen
+un origen y un fin) y ponderada (las aristas pueden representar una sola
+interacción o varias de ellas).
+1 El 26 de abril la Audiencia de Navarra publica la sentencia.
+2 El 21 de junio La Audiencia de Navarra anuncia libertad provisional para los cinco
+miembros de ‘la manada’ bajo fianza de 6.000 euros.
+3 El equipo investigador decide trabajar con los datos obtenidos durante tres semanas
+porque el nivel de actividad tiende a desparecer durante los últimos días de captura.
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 223E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+En tercer lugar, se calculó la media de conexiones por usuario en
+la red (grado medio ponderado) y la porción de conexiones establecidas
+respecto a las conexiones posibles (densidad de la red), para poder
+determinar algunas características estructurales de la conversación, como
+la cohesión entre sus actores.
+En cuarto lugar, se calculó el grado de entrada ponderado de cada
+actor o nodo mediante Gephi. Dicho grado de entrada hace referencia al
+número de menciones hechas hacia cada usuario. Así, por citar un ejemplo,
+un @usuario que haya sido mencionado 23 veces en el conjunto de la
+conversación tendrá un grado de entrada de 23 en el conjunto de la red.
+Finalmente, se aplicó el algoritmo de detección comunitaria Louvain
+Multilevel (Blondel et al., 2008) para identificar comunidades en el grafo que
+respondieran a diferentes conversaciones identificables en los datos. Este
+algoritmo se aplicó aleatoriamente y considerando que la red es ponderada.
+Los nodos de la red se fueron agrupados secuencialmente y se evaluó
+permanentemente la ganancia o pérdida en el estadístico de Modularidad
+de Mark Newman (2004), métrica que evalúa la calidad descriptiva de una
+partición comunitaria midiendo la porción de conexiones entre actores que
+caen dentro de dichos módulos. La partición comunitaria resultante puede ser
+evaluada mediante el mismo estadístico: una Modularidad mayor que 0,3 se
+considerará matemáticamente significativa.
+La red en su conjunto es representada visualmente mediante un
+grafo, y sus comunidades son destacadas. Asimismo, se procedió a la
+descripción de cada módulo o comunidad por separado, destacando de
+ellas los siguientes elementos:
+Número de actores que contiene la red y el porcentaje respecto al
+total de actores.
+El tiempo de la conversación, destacando el número de impactos
+capturados en abril, mayo, junio y julio, teniendo en cuenta que los
+meses de mayor captura global son abril y junio.
+Los 10 líderes de cada comunidad en términos de Grado de Entrada,
+es decir el Top 10 @cuentas mencionadas. El indicador adjunto a cada 
+224 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+actor es el grado de entrada, el número total de menciones recibidas
+en toda la red.
+Los contenidos más compartidos en la comunidad se exponen en el
+ranking Top 5-tuits. El indicador adjunto a cada tuit es la saliencia
+de cada tuit en cada comunidad (porcentaje de interacciones que
+comparten cada contenido en el seno de la comunidad): un tuit
+tendrá una saliencia del 100% si es el único compartido, y del 10%
+si se ha compartido 10 veces en una red con 100 interacciones.
+3. Resultados
+3.1 Aproximación general a la Red
+La conversación capturada ha sido transformada a un grafo de red
+que contiene un total de 113.983 actores y 206.691 conexiones ponderadas
+que resumen un total de 320.676 interacciones. Cada actor de la red está
+conectado de media a 1,97 actores más, lo cual dibuja un escenario de
+conexiones muy escasas. Las cifras de densidad indican que solamente
+el 0,002% de las posibles conexiones entre actores se han materializado,
+sugiriendo que aún hay muchas interpelaciones estratégicas pendientes a
+explorar por parte del feminismo en su conjunto.
+Tras la aplicación del algoritmo Louvain Multilevel (Blondel et al., 2008)
+de detección comunitaria, se han identificado un total de 3.118 comunidades
+diferentes con una Modularidad del 0,67. Se trata de un número relativamente
+grande de comunidades, muchas de ellas compuestas por díadas y tríadas
+de actores (interacciones breves), habitual por otro lado en estrategias
+analíticas de datos masivos, contando con una muy buena cifra relativa a la
+modularidad. De entre las más de 3.000 comunidades identificadas, se ha
+fijado el umbral para aquellas que contienen al menos al 2% de los nodos, un
+total de 14, representadas en la siguiente imagen (figura 1)4
+.
+4 Los números de las comunidades han sido aleatoriamente asignados por el algoritmo
+y no han de interpretarse ordinalmente. Las comunidades han sido nominadas por los
+autores en función de sus características y actores.
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 225E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+FIGURA 1. Grafo de red y leyenda tras el filtraje de sus 14 comunidades más
+importantes
+Fuente: Elaborado por Gephi y editado por los autores
+COMUNIDAD NOMBRE ASIGNADO
+945 Izquierda española e independentismo
+507 Republicanismo
+627 Feminismo madrileño
+1315 Alt right y masculinismo
+336 Anticapitalistas de Podemos e IU
+1605 Comunidad chilena
+169 Feministas, comunistas, LGTBI
+32 Indignados, Podemos
+1469 Artistas famosos
+315 PSOE
+316 Coordinadoras feministas
+438 Profesionales feministas
+1224 Manifestación feminista en Madrid
+1130 Tweetstars de izquierdas e independentistas
+226 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+El grafo de red dibuja un claro escenario de centro-periferia.
+Comunidades como la 945, la 507 o la 627, entre otras, representan el
+núcleo duro de la conversación. Entre ellas hay un intercambio significativo
+de conexiones: la información fluye y las comunidades están en contacto.
+Por el contrario, comunidades como la 1315 o la 1469 muestran un patrón de
+aislamiento periférico: son comunidades fundamentalmente impermeables
+a los contenidos compartidos en las demás, aunque no estén totalmente
+segregadas. En la siguiente tabla (tabla 1) esquematizamos el volumen de cada
+comunidad cuyas características exploramos por separado seguidamente:
+En la conversación digital examinada, donde aparecen relacionados
+uno de los poderes públicos y uno de los movimientos sociales de mayor
+pujanza, se observan tres tipos de macrorrelatos. Estos han sido construidos
+TABLA 1. Descripción de las comunidades (usuarios y porcentaje de nodos
+de la red)
+Fuente: Elaboración propia
+COMUNIDAD / NOMBRE ASIGNADO No
+ USUARIOS PORCENTAJE
+Izquierda Española e independentismo 9836 8.63%
+Republicanismo 9751 8.55%
+Feminismo madrileño 8701 7.63%
+Alt right y masculinismo 7798 6.84%
+Anticapitalistas de Podemos e IU 4789 4.20%
+Comunidad chilena 4035 3.54%
+Feministas, Comunistas, LGTBI 3959 3.47%
+Indignados, Podemos 3680 3.23%
+Artistas famosos 3574 3.14%
+PSOE 2605 2.29%
+Coordinadoras feministas 2571 2.26%
+Profesionales feministas 2356 2.07%
+Manifestación feminist en Madrid 2317 2.03%
+Tweetstars de izquierdas e independentistas 2281 2.00%
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 227E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+por perfiles que interactúan en esta conversación, muchos de los cuales
+pertenecen a la comunidad de los movimientos feministas:
+Macrorrelato 1: la justicia es mala para las mujeres, en tanto que
+sujeto social autónomo y diferenciado.
+Macrorrelato 2: la justicia es mala para España en general, sin
+diferencias, para todos los sujetos sociales.
+Macrorrelato 3: la justicia es buena y el resto de discursos es
+equivocado y sin fundamento (tercer relato que, sin embargo, está
+aislado o es relativamente ajeno al feminismo y a todos los agentes
+que lo apoyan e interactúan con él).
+A diferencia del tercer macrorrelato, los dos primeros se ubican
+en el centro de la conversación-interacción (Véase grafo), evidenciando
+sinergias dialógicas y unidad de acción en la semiperiferia (por ejemplo,
+compartiendo fotografías de los agresores). Asimismo, nos encontramos
+con varios contenidos que estructuran simultáneamente los relatos de cada
+clúster sobre el sistema judicial español, constituyendo dichos clústeres en
+polos narrativos.
+3.2 Descripción de las comunidades
+Comunidad 945 - Izquierda española e independentismo
+La comunidad más grande de la red comprende 9.836 actores, el
+8,63% del total (figura 2). Entre sus líderes en grado de entrada (los
+más mencionados) destacan periodistas vinculados a la izquierda
+española y al independentismo catalán. Se trata de una comunidad
+estable en el tiempo, activa durante todo el período monitorizado.
+Los contenidos que se comparten ponen en duda el criterio de
+los tribunales españoles. También aluden positivamente a los
+informativos de Canal Sur Televisión (televisión pública autonómica
+de Andalucía), que publicaron las caras de los cinco hombres junto 
+228 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+a sus nombres, y se comparten rumores relativos a entrevistas
+televisivas a los mismos.
+Comunidad 507 - Republicanismo
+La segunda comunidad en importancia comprende a 9.751 actores,
+el 8,55% del total (figura 3). Entre los usuarios más mencionados nos
+encontramos, principalmente, con activistas y partidarios de la III
+República Española. La comunidad es estable en el tiempo, pero
+más activa durante el período de junio.
+Se comparten críticas hacia el abogado de los acusados y hacia el
+sistema judicial en su conjunto. También se difunden movilizaciones
+e iniciativas virales orientadas a publicar las caras de los hombres.
+FIGURA 2. Indicadores destacados de la comunidad 945 -
+Izquierda española e independentismo
+Fuente: Elaborado por Tableau Public y editado por los autores
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 229E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+Es la comunidad cuyos tuits principales tienen menos saliencia, lo
+que evidencia un contexto complejo con multiplicidad de relatos.
+Comunidad 627 - Feminismo madrileño
+La tercera comunidad en importancia aglutina a 8.701 actores, el
+7,63% del total (figura 4). Se advierte un componente ideológico y
+geográfico muy potente entre los principales actores del clúster: se
+trata, en su mayoría, de cuentas de Twitter relativas a plataformas y
+grupos feministas madrileños. Como la comunidad anterior, es estable
+en el tiempo, pero ligeramente más activa durante junio, cuando se
+conoció la decisión de la Audiencia Provincial de Navarra que liberó
+provisionalmente a los miembros de La Manada. En este clúster
+destacan dos cuentas colectivas. Éstas se centran en reivindicaciones
+FIGURA 3. Indicadores destacados de la comunidad 507 - Republicanismo
+Fuente: Elaborado por Tableau Public y editado por los autores
+230 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+feministas que aglutinan un alto porcentaje de las conversaciones.
+Los contenidos difundidos tienen que ver, fundamentalmente, con
+varias movilizaciones alentadas directamente por los grupos que
+lideran el clúster. Se trata de una comunidad con contenidos gráficos
+muy abundantes, de carácter eminentemente autorreferencial, en
+la que se critica la Justicia como eje de la propia manifestación.
+Comunidad 1315 - Alt Right y masculinismo
+La cuarta comunidad, claramente diferente al resto y aislada,
+congrega a 7.798 actores, el 6,84% del total (figura 5). Los contenidos
+circularon fundamentalmente durante el mes de abril, cuando se
+conoció la sentencia por abuso y no por violación. Se intuye una
+FIGURA 4. Indicadores destacados de la comunidad 627 -
+Feminismo madrileño
+Fuente: Elaborado por Tableau Public y editado por los autores
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 231E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+“incursión” en un debate exógeno que se replica con mucha menos
+intensidad en el mes de junio, probablemente como consecuencia
+de su aislamiento en el periodo anterior.
+Los microrrelatos del clúster son diversos y heterogéneos,
+presentados con un estilo “desacomplejado” y no influido por
+una supuesta corrección política. Así, se critica al feminismo en
+su conjunto, a la ministra de Defensa Margarita Robles, a los
+refugiados, e incluso al dirigente de la izquierda independentista
+vasca Arnaldo Otegi. No se observa, como en otros casos, una línea
+argumental clara y precisa relativa a la Justicia, al feminismo o a
+los cinco miembros de “La Manada”, sino más bien una oposición
+genérica a cuantos se indignaron con la sentencia y la posterior
+liberación provisional.
+FIGURA 5. Indicadores destacados de la comunidad 1315 - Alt Right y
+masculinismo
+Fuente: Elaborado por Tableau Public y editado por los autores
+232 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+Comunidad 336 - Anticapitalistas de Podemos e Izquierda Unida
+La quinta comunidad cuenta con 4.789 actores, el 4,20% del total
+(figura 6). Destacan referencias políticas como Teresa Rodríguez
+(Podemos Andalucía) o Alberto Garzón (Izquierda Unida), además
+de cuentas relativas a Podemos y, sobre todo, Izquierda Unida (IU).
+Comunidad claramente estructurada en clave ideológica y partidaria.
+Su actividad se produce tanto como consecuencia de la sentencia
+(abril) como de la liberación provisional (junio) de los cinco hombres.
+Se habla de movilizaciones alentadas por Podemos e IU, entro otros
+agentes, y también se anima a participar en ellas, compartiendo
+esta característica con otros clústeres. Este alentar a la movilización
+simboliza la crítica específica de este clúster hacia el sistema
+judicial español, al hablar de la violencia institucional como una
+FIGURA 6. Indicadores destacados de la comunidad 336 -
+Anticapitalistas de Podemos e IU
+Fuente: Elaborado por Tableau Public y editado por los autores
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 233E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+herramienta de implementación del sistema judicial patriarcal. Los
+principales tuits vinculados a este clúster amplían el concepto de
+víctima asociado a un caso particular y extienden esta noción a
+todas las mujeres, en tanto que víctimas conjuntas de un sistema
+judicial injusto. En consecuencia, la Justicia ejerce de victimario.
+Comunidad 1605 - Comunidad chilena
+La sexta comunidad agrupa a 4.035 actores, el 3,54% del total (figura
+7), teniendo en común que muchos de sus actores son chilenos. La
+comunidad tiene su pico de actividad durante el mes de abril, y
+mantiene después una actividad de perfil bajo pero más o menos
+constante. Se trata de un caso de viralización de contenidos eventual,
+efectuada por gente sin un especial interés en la noticia.
+FIGURA 7. Indicadores destacados de la comunidad 1605 -
+Comunidad chilena
+Fuente: Elaborado por Tableau Public y editado por los autores
+234 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+Desde la perspectiva de los contenidos es una comunidad espuria:
+muchos de los contenidos que se comparten no tienen que ver con el
+caso, sino que se refieren a cuestiones chilenas. Sin embargo, el tuit
+más saliente del clúster (saliencia cercana al 30%), es muy relevante
+en tanto que sirve para viralizar las caras de los cinco miembros de
+“La Manada”.
+Se trata de un clúster transnacional, en el que se evidencian sinergias
+feministas que transcienden los Estados. Los tuits de este clúster
+ponen de manifiesto la particular utilidad de las redes sociales
+para la fácil y rápida viralización de contenidos, entendiendo esta
+viralización como adhesión vehemente de apoyos globales que
+trascienden fronteras geográficas e, incluso, ideológicas, llegando
+a fomentar, si cabe, nuevas formas de militancia.
+Comunidad 169 - Feministas, comunistas, LGTBI5
+La séptima comunidad en importancia reúne a 3.050 actores, el
+3,47% del total. En ella se hallan cuentas relativas a ciberactivistas
+feministas, además de comunistas o LGTBI. A diferencia del clúster
+627, evidencia un alto grado de politización, si bien, a diferencia del
+clúster 336, no se identifica con ninguna sigla política específica.
+La actividad de la comunidad se produce esencialmente en junio,
+a consecuencia de la liberación provisional de los miembros de
+“La Manada”.
+La comunidad se constituye esencialmente alrededor de dos tuits,
+que juntos suman más del 66% de la saliencia del clúster. El primero
+reza “Hablarán las calles”, y lo acompaña una fotografía en la que
+se lee: “La Manada son 8: 5 violadores y 3 jueces” (figura 8). El
+segundo subraya también el concepto de impunidad (figura 9). Éste
+es el clúster que ofrece con mayor claridad una idea del victimario
+dual asociado a este caso, al englobar, al mismo nivel, tanto a los
+cinco acusados, como a los magistrados y al sistema judicial.
+5 A partir de esta comunidad se prescinde de las figuras de indicadores.
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 235E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+Comunidad 32 - Indignados, Podemos
+La octava comunidad más grande cuenta con 3.680 actores, el 3,23%
+de la red. La actividad de la comunidad sobresale el mes de junio.
+FIGURA 8. Fotografía incluida en el primer tuit del ranking (@CristinaAgell)
+FIGURA 9. Captura del segundo tuit con mayor protagonismo
+en la comunidad 169
+Fuente: Twitter
+236 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+La principal protagonista es la periodista @vmm7773, que recibe
+ocho veces más menciones que el segundo actor más importante,
+el líder de Podemos, Pablo Iglesias. En relación a éste, cabe destacar
+que pese a tener un gran número de seguidores y un evidente peso
+político, su participación en este caso resulta poco sobresaliente o
+comedida, entre otros motivos, por la escasa contestación recibida.
+En la comunidad se relata indignación hacia las decisiones de los
+jueces, e incluso se difunde una iniciativa de Change.org para pedir
+la inhabilitación de los magistrados. Por otro lado, también se pueden
+observar comentarios que apuntan hacia la degradada imagen del
+poder judicial y hacia una necesaria reforma del mismo en su conjunto.
+Comunidad 1469 - Artistas famosos
+La novena comunidad en importancia congrega a 3.574 actores, el
+3,14% de la red.Sus líderes son artistas famosos, sobre todo músicos,
+que critican la sentencia. La actividad de la comunidad se concentra
+en el periodo de abril.
+Así, esta comunidad recoge la solidaridad con la víctima de diversos
+artistas, que expresan desde su subjetividad y en primera persona
+su rechazo a la sentencia con palabras cargadas de sentimiento,
+reivindicando, de la misma forma, el eslogan #NoEsNo. Después
+de la comunidad relativa a la Alt Right, se trata del clúster más
+periférico de la red. Una de las interpretaciones de este hecho es
+que el feminismo no parece necesitar declaraciones de personas
+famosas, lo cual abre la reflexión sobre si nos encontramos ante un
+movimiento post-icónico. Este clúster toma como único victimario a
+“La Manad”a, por lo que no se replica en junio cuando la indignación
+se dirige también hacia los magistrados.
+Comunidad 315 - Partido Socialista Obrero Español (PSOE)
+La décima comunidad de la red la configuran 2.605 actores, el
+2,29% del total. Entre sus líderes, miembros y cuentas destacadas
+del PSOE. Su actividad se desarrolla tanto en abril como en junio. Se
+trata de una comunidad estable: hay interpelaciones mutuas en los
+dos momentos analizados. 
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 237E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+La crítica estructurada en la comunidad no es hacia el sistema
+judicial en su conjunto, tal y como se advierte en el tuit con más
+saliencia donde se apoya al ministerio fiscal. También se comparten
+contenidos relativos a las movilizaciones en Madrid y Pamplona,
+entre otros lugares.
+Comunidad 316 - Coordinadoras feministas
+Esta comunidad agrupa a 2.571 actores, el 2,26% de la red. Sus
+principales líderes en grado de entrada son grupos y coordinadoras
+feministas de toda España. La actividad del clúster es constante,
+más destacada en junio.
+En contraste con la comunidad anterior, de tamaño parecido,
+aquí sí se cuestiona en su conjunto y muy duramente el sistema
+judicial español. No en vano, es posible advertir que la narrativa
+de este clúster introduce un cambio cualitativo en el relato: pasa a
+considerar la injusticia a la que aluden otros clústeres como un sujeto
+de “ataque”, lo que introduce nuevos elementos en el debate. La
+escritora y activista feminista vasca Irantzu Varela aboga en Pikara
+Magazine por la autodefensa feminista al margen del sistema judicial,
+en un artículo ampliamente difundido en el clúster. En él, también se
+difunden concentraciones en diferentes puntos del Estado.
+En contraste con otros clústeres, se hace evidente la llamada a la
+reflexión y a la acción por parte del feminismo, no solamente como
+reacción a la indignación, sino también como estrategia de lucha y
+de avance en los derechos de las mujeres, mostrando de manera
+específica al feminismo como un “movimiento en la calle”.
+Comunidad 438 - Profesionales feministas
+La siguiente comunidad cuenta con 2.356 actores, el 2,07% del total.
+Destaca la actriz, entre otras ocupaciones, Leticia Dolera (figura
+10). En un segundo plano nos encontramos con varios perfiles de
+profesionales que se autodefinen como feministas: comunicadoras,
+psicólogas, artistas, etcétera.
+Se discute la sentencia y la perspectiva adoptada por los magistrados
+y se subraya la situación de impunidad de los cinco miembros de La 
+238 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+Manada. Es común entre los contenidos asociados a esta comunidad
+la difusión de movilizaciones.
+Comunidad 1224 - Manifestación feminista en Madrid
+La decimotercera comunidad de la red agrupa 2.317 actores, el
+2,03% del total. La actualmente suspendida cuenta del grupo
+Rebelión Feminista es la más difundida en el clúster. Su actividad se
+concentra en el mes de abril.
+Un solo tuit con la imagen de una movilización en Madrid acumula el
+71,01% de la saliencia. Además de alusiones a la manifestación, en el
+clúster se cuestiona el criterio utilizado en la emisión de la sentencia.
+Comunidad 1130 - Tweetstars de izquierdas e independentistas
+Es la comunidad más pequeña que supera el umbral fijado del 2% de
+actores de la red y cuenta con 2.281 actores. Sus líderes son tuiteros
+de izquierdas famosos por su ironía y capacidad de viralización. La
+actividad de la comunidad se produce en los dos periodos clave del
+análisis (abril y junio).
+FIGURA 10.Captura del segundo tuit con mayor protagonismo
+en la comunidad 438
+Fuente: Twitter
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 239E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+La ironía y el humor ácido dominan los contenidos del clúster, en
+el que se utilizan todo tipo de recursos retóricos y estilísticos para
+criticar el sistema judicial y los poderes del Estado en su conjunto. Se
+destacan también otros momentos críticos recientes para la Justicia
+española, como el referéndum catalán del 1 de octubre de 2017.
+4. Conclusiones y discusión
+Este caso se suma a aquellos que demuestran que Twitter es
+una herramienta comunicativa empleada con fines alternativos por los
+feminismos para, entre otras cuestiones, dar visibilidad a sus reivindicaciones
+y manifestaciones colectivas en la calle. Es, sobre todo, un espacio de
+visibilización y debate interno, con sus propios liderazgos independientemente
+de los que existen offline. En ese sentido, contribuye a alimentar la
+movilización y salvar la atención mediática demasiado coyuntural o puntual
+que han ofrecido históricamente los medios tradicionales a este movimiento
+(Larumbe, 2002).
+El caso examinado se desarrolla en un contexto feminista globalizado
+al que se ha dado en llamar ‘cuarta oleada’, por detrás del feminismo
+ilustrado de los siglos XVII y XVIII, el sufragista del siglo XIX y principios del
+siglo XX y el liberacional de los años sesenta y setenta. Tras la pérdida de su
+potencial movilizador en las últimas tres décadas (Schneider, 1988; Epstein,
+2002), esta cuarta oleada feminista se ha visto indudablemente favorecida
+por el avance tecnológico, simbolizado por la Web y por las múltiples
+colectividades virtuales que alberga este medio. Estas comunidades en red se
+ven reforzadas por las posibilidades de una expresión más libre que permite
+que múltiples voces individuales dialoguen y construyan sujetos colectivos en
+torno a determinadas campañas o hashtags, caso de Twitter.
+El llamado hashtivismo feminista se ha convertido, de hecho, en una
+seña de identidad del tipo de lucha indignada que caracteriza a esta cuarta
+oleada feminista de nuestros tiempos. Igualmente, podría entenderse como
+un símbolo de la renovación generacional en la lucha feminista (Gillis, Howie y
+Munford, 2004). Un cambio en la práctica, más que en la teoría feminista, que
+lleva a un sentir feminista más individualizado (Budgeon, 2001; Braithwaite, 
+240 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+2002), surgido a partir de vivencias subjetivas, pero que aplica como nunca
+la máxima feminista de “lo personal es político” y que trasciende el sujeto
+individual para construir un sujeto colectivo de lucha.
+El fenómeno #MeToo, surgido en Estados Unidos, se ha convertido
+ya en paradigma y precursor de este nuevo movimiento de mujeres de corte
+postfeminista que aparece abonado por la sensación de indefensión ante
+un sistema político, social y judicial incapaz de hacer frente a las injusticias
+del patriarcado.
+Al calor de estas tendencias, las reacciones surgidas en España con
+motivo de la sentencia del caso de ‘La Manada’ y de la huelga feminista del 8
+de marzo de 2018 han marcado también un punto de inflexión en la agenda
+feminista global, despertando una conciencia enérgica que se moviliza,
+de manera particular, por problemas cruciales en la agenda feminista
+tradicional, como la violencia contra las mujeres en todas sus formas. En
+suma, como evidencia el caso que centra este trabajo, el feminismo destaca
+en nuestros días por ser un movimiento de acción capaz de condicionar
+estados de opinión y de indignación alimentados por múltiples injusticias
+de género para las que no parece existir una respuesta adecuada en las
+instituciones, no así en las calles y en las redes sociales.
+Desde un punto de vista general, la conversación digital examinada
+demuestra que la indignación en torno a este caso judicial de alto
+impacto social y mediático anida principalmente en movimientos sociales
+transformadores: republicanismo español, usuarios que comparten la
+narrativa de los llamados “movimientos de indignación” surgidos en España
+años atrás, formaciones y usuarios comunistas, e incluso grupos y personas
+interrelacionadas que destacan por defender el independentismo catalán.
+Todo ello parece indicar que las alianzas que se erigen tienen carácter
+estructural y una clara vocación de construir el antagonismo al estado de
+derecho liberal que, en este caso, encarna el poder judicial.
+En este punto recuperamos la hipótesis que guía esta investigación
+y que clasificaba las interacciones de usuarios y usuarias en esta red en
+función de su aportación a la evolución del propio movimiento feminista en
+España. Se determinaban así dos tipos de interacciones: por un lado, las de
+carácter “espontáneo, fugaz, aislado”; y por otro, las formas de participar
+más relacionadas con “lo ideológico, lo organizado y lo estructurado”. 
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 241E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+Los datos demuestran que en la conversación digital en torno a este
+caso existe una convivencia de lo espontáneo y lo estratégico en permanente
+tensión. Es decir, hay muchas personas y organizaciones que participan sin
+grandes pretensiones ideológicas y lo hacen de forma etérea; y, efectivamente,
+por otro lado, existen interacciones de perfiles o usuarias de otro tipo, con
+carácter más profundo y perdurable en la reflexión general del movimiento.
+La combinación de ambas formas de interactuar arroja una
+convivencia y una cierta tensión entre lo etéreo o más superficial y lo más
+profundo o dialéctico. Dicha combinación en las conversaciones digitales puede
+considerarse positiva, siempre y cuando los movimientos sociales tengan la
+capacidad de aprovechar los distintos roles en las conversaciones. Los perfiles
+que participan como referentes de la conversación, con interacciones más
+allá del mero retuit de un contenido exitoso, o con reflexiones más duraderas,
+contribuyen a que los debates estratégicos de los feminismos evolucionen.
+Por otra parte, aquellos perfiles asignados a comunidades más
+“banales” contribuyen a visibilizar ciertas reivindicaciones, pero, sobre todo,
+pueden representar al paso previo a una participación más ideologizada.
+Esta reflexión contrasta con la línea defendida por autores como SampedroBlanco (2011), a saber, que la ciudadanía acaba convirtiendo en rutinas
+sus usos tecnológicos y que los cauces de participación tecnopolíticos
+inaugurados en 2004 se han ido convirtiendo en diques que frenan las
+multitudes y las burocratizan. Sin embargo, también es cierto que este
+último perfil de participante es a quien el feminismo más organizado podría
+interpelar en este tipo de eventos, para abstraerles de dicha “banalidad” y
+conseguir que participen en espacios más dialécticos y contribuyan a que los
+marcos de interpretación de las realidades y de los postulados privilegiados
+por los feminismos sean hegemónicos.
+Por otro lado, este trabajo se suma a aquellos que opinan que
+los poderes que interactúan en el espacio público deben considerar las
+conversaciones digitales que surgen al calor de distintos acontecimientos:
+por la influencia que sus diálogos e interacciones tienen en la opinión pública
+y la realidad construida en determinado contexto social. En línea con esta
+reflexión y refiriéndonos al caso estudiado, el sistema judicial español se
+ha enfrentado a una firme, extensa y poliédrica crítica desde perspectivas
+feministas en Twitter tras la sentencia del caso “La Manada”, lo que sin duda 
+242 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+ofrece elementos para la reflexión tanto por parte del propio poder judicial,
+como por parte de los investigadores del ámbito de la comunicación social. Los
+poderes públicos se prestarían, en el nuevo paradigma de la comunicación,
+a un escrutinio popular que conjuga movimientos más organizados con
+perspectivas más banales que influirían considerablemente en la opinión que
+la sociedad tiene de los mismos.
+La reflexión que ha de guiar futuras investigaciones, pues, gira en
+torno a si las conversaciones digitales que canalizan la indignación en diversos
+eventos sirven realmente para hacer evolucionar a los feminismos. En caso de
+priorizar la hipótesis de que no son beneficiosas para sus postulados, se estaría
+reforzando la idea de una consolidación de una suerte de “feminismo banal”,
+que gana espacio en el ámbito digital y en el espacio público. Los trabajos
+que la comunidad científica debe realizar pueden girar en torno a la idea de
+si aprovecha el feminismo más organizado la movilización relacionada con
+ciertos eventos para debatir y ganar espacios dialécticos en nuestra sociedad.
+Como último aspecto a destacar, cabría apuntar a la necesidad
+o conveniencia de avanzar con estudios futuros sobre el modo en el que
+la conversación digital contribuye a generar una identidad colectiva
+feminista que, a su vez, permita crear un sentimiento de pertenencia, un
+interrogante aplicable también a otros movimientos sociales y políticos de
+calado. Por sentimiento de pertenencia cabe entender valores y objetivos
+estratégicamente compartidos útiles para generar verdaderos cambios.
+En contraste, el estudio permite realizar también una reflexión en términos
+opuestos, al plantear si esta conversación digital no puede contribuir también
+a que los feminismos vivan una suerte de dispersión hacia perspectivas más
+banales o superficiales.
+5. Bibliografía
+––––––– Arroyas-Langa, E.; Martínez-Martínez, H. y Berná-Sicilia, C. (2018).
+Twitter como espacio alternativo a la esfera política institucional. Análisis
+retórico de las estrategias discursivas de Podemos durante la moción
+de censura contra Rajoy. En Segarra, J. Actas de las Jornadas Científicas
+sobre Análisis del discurso en un entorno transmedia. Universidad de
+Alicante.
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 243E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+––––––– Baggiolini, L. y Castro, S. (2016). Las redes de la política: universo narrativo,
+campañas y microrrelato en Twitter. Inmediaciones de la Comunicación,
+11, 159-180.
+––––––– Bastian M., Heymann S. y Jacomy M. (2009). Gephi: an open source
+software for exploring and manipulating networks. International AAAI
+Conference on Weblogs and Social Media.
+––––––– Blondel, V. D., Guillaume, J. L., Lambiotte, R. y Lefebvre, E. (2008).
+Fast unfolding of communities in large networks. Journal of Statistical
+Mechanics: Theory and Experiment, 10, 10008-10020.
+––––––– Borra E. y Rieder B. (2014). Programmed method: developing a toolset
+for capturing and analyzing tweets. Aslib Journal of Information
+Management, v. 66, n. 3, 262-278.
+––––––– Braithwaite, A. (2002) The personal, the political, third-wave and
+postfeminisms. Feminist Theory, v. 3 (3), 335-344.
+––––––– Bruns, A., Enli, G., Skogerbø, E., Larsonn, A. y Christensen, C. (2015). The
+Routledge Companion to Social Media and Politics. London: Routledge.
+––––––– Budgeon, S. (2001). Emergent Feminist Identities. Young Women and the
+Practice of Micropolitics. The European Journal of Women’s Studies, vol. 8
+(1), pp. 7– 28.
+––––––– Campos-Domínguez, Eva (2017). Twitter y la comunicación política. El
+profesional dela información, v. 26, 5, pp. 785-793.
+––––––– Candón-Mena, J. (2011). Internet en movimiento: Nuevos movimientos
+sociales y nuevos medios en la sociedad de la información. Tesis Doctoral.
+Facultad de CC. de la Información, Universidad Complutense de Madrid.
+––––––– Caro-Castaño, L. (2015). Construir y comunicar un “nosotras” feminista
+desde los Medios Sociales. Una reflexión acerca del “Feminismo del
+Hashtag”. Commons, Revista de Comunicación y Ciudadanía Digital, v. 4,
+n. 2, pp. 124-154.
+––––––– Castells, M. (2009). Comunicación y poder. Alianza editorial. Madrid.
+244 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+––––––– Costa, M. (2014). Igualdad y Derecho en los feminismos jurídicos. Tesis
+doctoral. Facultad de Filosofía y Letras de la Universidad de Buenos Aires
+(Estudios de Género).
+––––––– Criado, C. (2012). Mujeres sin poder en los medios de comunicación. Tesis
+de pregrado. Universitat Jaume I, Castellón.
+––––––– Duhacek, D. G. (2014). The Women’s Court: A feminist approach to in/
+justice. European Journal of Women Studies, v. 22, 2, pp. 159-176.
+––––––– Earl, J.; Kimport, K. (2011). Digitally Enabled Social Change: Activism in the
+Internet Age. Cambridge: MIT Press.
+––––––– Epstein, Barbara (2002). Feminist consciousness after the women’s
+movement. Monthly Review 54 (4), pp. 31-37
+––––––– Fleischman, L. (2004). Internet y movimientos sociales: comunicación en
+los movimientos de resistencia global. IAMCR.
+––––––– Fotopoulou, A. (2014). Digital and networked by default?
+Women’sorganisations and the social imaginary of networked feminism.
+New Media & Society, pp. 1-17.
+––––––– Gillis, S., Howie, G., y Munford, R.(eds) (2004) Third wave feminism: a
+critical exploration. New York: Palgrave McMillan.
+––––––– Gutiérrez-Rubí, A. (2018). La batalla política se libra en Twitter. Revista Ethic.
+Disponible en: https://ethic.es/2018/04/batalla-politica-se-libra-twitter/
+---- (2016). El debate en Twitter. Micropolítica. El País. Disponible en:
+https://blogs.elpais.com/micropolitica/2016/09/el-debate-en-twitter.html
+––––––– Hermida, A., Hernández-Santaolalla, V. (2016). Ambigüedades del
+empoderamiento ciudadano en el contexto tecnopolítica. IC-Revista
+Científica de Información y Comunicación, n. 13, 263-280.
+––––––– Hidalgo. T. y Rodríguez, R. (Ed.) (2017). Actas de las Jornadas Científicas
+Internacionales sobre Análisis del discurso en un entorno transmedia.
+Alicante: Colección Mundo Digital de Revista Mediterránea de
+Comunicación.
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 245E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+––––––– Homans, G. C. (1958). Social Behavior as Exchange. American Journal of
+Sociology, n. 63, 597-606.
+––––––– Jinsook, K. (2017). #iamafeminist as the “mother tag”: Feminist
+identification and activism against misogyny on twitter in south korea.
+(2017). Feminist Media Studies, 17:5, 804-820.
+––––––– Kelly, E. A. (2005). A new generation of feminism? Reflections on the third
+wave. New political science, 27(2), 233-244.
+––––––– Larumbe, M. A. (2002). El movimiento feminista o la globalización de una
+lucha con historia. En: Larumbe, M. A. & Vicén, M. J. (Ed.). Interculturalismo
+y Mujer. Huesca: Instituto de Estudios Altoaragoneses, 89-114.
+––––––– Latour, B. (2010). Networks, Societies, Spheres: Reflections of an Actornetwork Theorist. International Seminar on Network Theory: Network
+Multidimensionality in the Digital Age, 1-18.
+––––––– Laudano, C. N. (2017). Movilizaciones #Niunamenos y #Vivasnosqueremos
+en Argentina. Entre el activismo digital y #Elfeminismolohizo. Seminario
+Internacional Fazendo Gênero, 11 & 13th Women’s Worlds Congress (Anais
+Eletrônicos), Florianópolis.
+––––––– Locke, Abigail; Lawthom, Rebecca; Lyons, Antonia (2018). “Social Media
+Platforms as complex and contradictory spaces form feminisms: Visibility,
+opportunity, power, resistance and activism”. Feminism & Psychology,
+28(1), 3-10.
+––––––– Marqués, J. (2017). Las redes sociales, ¿el quinto poder? Eneb.es.
+Disponible en: https://eneb.es/actualidad-eneb/las-redes-sociales_-elquinto-poder/
+––––––– Martínez-Bascuñan, M. (2018). La Cuarta Ola. El País. Recuperado
+el 3 de mayo de El País: https://elpais.com/elpais/2018/03/02/
+opinion/1519991912_481447.html
+––––––– Martínez, H. (2017). La construcción discursiva de la identidad en los
+nuevos movimientos sociales: el caso español del 15M. Tesis Doctoral.
+Murcia: UCAM.
+246 Julen Orbegozo Terradillos / Jordi Morales i Grass / Ainara Larrondo Ureta IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247] E-ISSN: 2173-1071
+––––––– Mead, G. H. (2009) [1934]. Mind, Self, and Society: From the Standpoint of
+a Social Behaviorist. Chicago: University of Chicago Press.
+––––––– Motta, C. y Saéz, M. (Eds.). (2008). La mirada de los jueces. Género en la
+jurisprudencia feminista. Bogotá: Siglo del Hombre Editores.
+––––––– Newman, M. (2004). Finding and evaluating community structure in
+networks. Physical Review, 69, 026113.
+––––––– Perelló, M. (2018). The use of new media and ICT by social movements in
+contemporary processes of political activism. Tesis doctoral. Barcelona:
+Universitat Ramon Llull.
+––––––– Pozner, J. L. (2003). The “big lie”: False feminist death syndrome, profit,
+and the media. Catching a wave: Reclaiming feminism for the 21st century.
+Lebanon, NH: University Press of New England.
+––––––– Rendueles, C. (2013). Sociofobia. El cambio político en la era de la utopía
+radical. Madrid: Capitán Swing Libros.
+––––––– Reverter, S. (2001). “Reflexiones en torno al Ciberfeminismo”. Asparkia, n.
+12, 35-52.
+––––––– Sampedro-Blanco, V. (2011). Cibercampaña. cauces y diques para
+la participación. las elecciones generales de 2008 y su proyección
+tecnopolítica. Editorial Complutense: Madrid.
+––––––– Simmel, G. 1971 [1908] On individuality and Social Forms. Chicago:
+University of Chicago Press.
+––––––– Simón, P. (2018). España, epicentro feminista. El País. Recuperado el
+3 de mayo de 2019 de El País: https://elpais.com/elpais/2018/03/08/
+opinion/1520530199_894317.html
+––––––– Smart, C. (2000). La teoría feminista y el discurso jurídico. En Birgin,
+H. (Ed.). El Derecho en el Género y el Género en el Derecho, pp. 31-77.
+Madrid: Biblos.
+––––––– Schneider, Beth E. (1988). “Political generations and the contemporary
+women’s movement”. Sociological Inquiry 58: 4-21.
+selecta
+FEMINISMOS INDIGNADOS ANTE LA JUSTICIA 247E-ISSN: 2173-1071 IC – Revista Científica de Información y Comunicación 16 (2019) [pp. 211-247]
+––––––– Shulevitz, R.; Traister, R. (2014). We are all feminists now. New Republic, v.
+245, n. 16, pp. 14-23.
+––––––– Thompson, J. B. (2005). La nueva visibilidad. Papers, 78, 11-30.
+––––––– Turley, E., Fisher, J. (2018). Tweeting back while shouting back: Social
+media and feminist activism. Feminism & Psychology. V.. 28, 1, 128-132.
+––––––– Valcárcel, A. (2016). El feminismo. Contrastes. Revista Internacional de
+Filosofía.
+––––––– White, H. (1992). Identity and Control: A Structural Theory os Social Action.
+Princeton: Princeton University Press.
+---- (2008). Identity and Control: How Social Formations Emerge.
+Princeton: Princeton University Press.
+––––––– Zafra, R. (2010). Un cuarto propio conectado. (Ciber)espacio y (auto)
+gestión del yo. Madrid: Fórcola.
+––––––– Zapata, J. (2018). El quinto poder: Influencia e impacto mediático de los
+usuarios de redes sociales. CIC: 4to Boletín Del Centro De Investigación De
+La Creatividad UCAL. v. 1.
+Copyright of IC: Revista Científica de Información y Comunicación is the property of
+Universidad de Sevilla, Departamento de Periodismo and its con

@@ -1,0 +1,695 @@
+Tecnopolítica, recientes movimientos sociales globales e Internet. Una década
+de protestas ciudadanas1
+Salomé Sola-Morales2
+, Jesús Sabariego Gómez3
+Recibido: 29 de octubre de 2019 / Aceptado: 24 de abril de 2020 Open peer reviews
+Resumen. El objetivo de este trabajo es problematizar la relación entre tecnología y política como un elemento diferenciador
+en la definición de los recientes movimientos sociales globales (RMSG), categoría propuesta a partir de una nueva
+disciplina científica: la tecnopolítica. Las protestas ciudadanas que surgieron en 2011 no pueden entenderse sin el papel
+desempeñado por Internet, las redes sociales y los servicios de mensajería privada. Estas herramientas digitales fueron clave
+en la configuración estratégica e identitaria de tales movimientos sociales. Este artículo propone la categoría epistémica
+de RMSG, que pretende ir más allá de la teoría de los movimientos sociales dominante en las últimas décadas. Mediante
+una metodología de análisis cualitativo, se sientan las bases de esta nueva categoría. La principal conclusión a la que se
+ha llegado es que estos movimientos tienen en común una serie de componentes generacionales, digitales y globales y la
+tecnopolítica es esencial para su comprensión y análisis.
+Palabras clave: comunicación política; medios sociales; mediación; movimientos sociales; tecnologías de la información
+y la comunicación (TIC)
+[en] Technopolitics, recent global social movements, and the Internet. A decade of
+citizen protests
+Abstract. This work aims to problematize the links between technology and politics as a differentiating element in
+the definition of recent global social movements (RMSG). This category is proposed from a new scientific discipline:
+technopolitics. The citizen protests that emerged in 2011 cannot be understood without the role played by the Internet, social
+media and private messaging services. These digital tools were key in its strategic and identity configuration. With the aim
+to go beyond the theory of social movements that has dominated in recent decades, the epistemic category of RMSG is
+proposed. In this article, by means of a qualitative methodology, the foundation of this new concept is analyzed. The main
+conclusion which has been reached is that RMSG have in common a series of generational, digital and global components
+and technopolitics is essential to analyze them.
+Keywords: information and communication technologies (TIC); mediation; political communication; social media; social
+movements.
+Sumario. 1. Introducción. 2. Metodología. 3. De los viejos a los recientes, pasando por los nuevos y los novísimos
+movimientos sociales. 4. Resultados: Características de los recientes movimientos sociales globales (RMSG). 5. Discusión:
+el alcance de la tecnopolítica, una perspectiva crítica. 6. Conclusiones. 7. Referencias.
+Cómo citar: Sola-Morales, S.; Sabariego Gómez, J. (2020). Tecnopolítica, recientes movimientos sociales globales e Internet. Una década de protestas ciudadanas. Teknokultura. Revista de Cultura Digital y Movimientos Sociales, 17(2), 195-203.
+1
+	 Fuentes de financiación: Proyecto CIBERMOV (2016): Plan Estatal de I+D+I, España. Proyecto DEMOCRIGHTS (2014): Fundación para la Ciencia y la Tecnología, Portugal y Fondo Social Europeo. Proyecto DICYT (2014-2016), Departamento de Investigaciones Científicas y Tecnológicas
+y Vicerrectoría de Investigaciones de la Universidad de Santiago de Chile, Chile. Proyecto Technopolitics MSCA 2019, Ref. 887796. 2
+	 Universidad de Sevilla (España).
+E-mail: ssolamorales@us.es 3
+	 Universidad de Coímbra (Portugal).
+E-mail: sabariego@ces.uc.pt
+Teknokultura. Revista de Cultura Digital y Movimientos Sociales
+ISSNe: 1549-2230
+http://dx.doi.org/10.5209/TEKN.66241
+1. Introducción
+La austeridad, la depresión económica, la corrupción
+política además de la ausencia de perspectivas para
+jóvenes y ciudadanos de todas las edades, entre otros
+aspectos, han dado lugar, en la últimas décadas (2010-
+2020), a la implosión de movimientos sociales y protestas sin precedentes en África, Europa, Asia y América (Benski, Langman, Perugorría y Tejerina, 2013;
+Crouch, 2011; Dufour, Nez y Ancelovici, 2016; Ortiz,
+A DES/PROPÓSITO DE
+196 Sola-Morales, S.; Sabariego Gómez, J. Teknokultura 17(2) 2020: 195-203
+Burke, Berrada y Cortés, 2013; Pochet y Degryse, 2013;
+Schömann y Clauwaert, 2012; Streeck, 2013). A pesar
+de seguir avanzando y mantenerse prácticamente intacto, el sistema neoliberal se encuentra sumergido en una
+crisis de legitimidad, resultado de la creación y ampliación de la desigualdad socioeconómica observada en la
+sociedad contemporánea. Lo que ha bloqueado la movilidad social y ha generado un aumento en la precariedad
+(Benksi et al, 2013, p. 544). Hecho que dificulta la vida
+de ciudadanos a nivel global.
+Las protestas y movimientos sociales surgidos desde el año 2010 han confrontado a las élites políticas y
+económicas, dejando en evidencia las debilidades de un
+modelo societal, incapaz de satisfacer las necesidades
+prometidas bajo el emblema del Estado de bienestar
+(Aguiló y Sabariego, 2016).
+Si algo tienen en común movimientos como el Occupy, el 15M español, los movimientos de las llamadas
+Primavera árabe (2010-2013), la Primavera Chilena, el
+#YoSoy132, el Nuit debut o el Gilet jaunes francés, la
+Geração à rasca en Portugal, el movimiento Pase Libre
+en Brasil –además de su carácter participativo y horizontal– es la estrategia política puesta en marcha en cada
+uno de ellos, mediada en gran parte por la tecnología
+(Sabariego, 2018; Sierra y Gravante, 2017). El activismo llevado a cabo en cada caso ha compaginado diferentes formas de comunicación, organización y acción
+colectiva online y offline. En este sentido, vale la pena
+cuestionar cuáles son las características de estos llamados nuevos, novísimos o como aquí se defienden recientes movimientos sociales globales (RMSG) y preguntarse cuál es el alcance de la tecnopolítica en los mismos.
+2. Metodología
+La necesidad de construir una nueva categoría epistémica surge del propio desarrollo de una disciplina transdisciplinar, como la tecnopolítica, propuesta por autores como Sierra y Gravante (2018) o Sabariego (2018).
+Se trata de una disciplina entendida a partir del análisis
+de las apropiaciones, mediaciones e interacciones, así
+como por el uso que se hace de las tecnologías, especialmente de las redes, medios de comunicación social
+y de los servicios de mensajería privada e Internet por
+parte de movimientos sociales globales, con una finalidad política.
+Este trabajo es uno de los resultados preliminares de
+tres proyectos de investigación (uno en curso4 y dos finalizados5
+) en los que se ha implementado una metodología cualitativa, a partir del diseño de un multi-método
+integrado por entrevistas en profundidad, grupos de
+4
+	 Proyecto CIBERMOV, del Plan Estatal de I+D+I (España) de 2016. 5
+	 Se trata, por un lado, del proyecto DEMOCRIGHTS, una investigación de carácter postdoctoral financiada por la Fundación para la
+Ciencia y la Tecnología (Portugal) en su convocatoria de 2014, a
+través del Fondo Social Europeo y, por otro, del Proyecto DICYT
+(2014-2016), titulado: “Participación de los jóvenes chilenos en la
+vida democrática. Impacto de los nuevos medios de comunicación”,
+código: 398899SM. Financiado por el Departamento de Investigaciones Científicas y Tecnológicas y Vicerrectoría de Investigaciones
+de la Universidad de Santiago de Chile y del cual la Dra. Salomé
+Sola-Morales fue la investigadora principal.
+discusión, etnografía digital y observación participante,
+además del análisis del discurso de los participantes y
+activistas de los movimientos estudiados. El desarrollo
+de esta investigación permite evaluar las potencialidades y los desafíos que han surgido a partir de las apropiaciones políticas y mediaciones digitales de las redes sociales. Se ha reflexionado, especialmente, en la relación
+que se crea entre la acción colectiva y la impugnación de
+la democracia representativa liberal.
+Mediante el mapeo de los principales elementos,
+prácticas, narraciones y estrategias llevadas a cabo por
+los principales actores de los movimientos en el espacio
+virtual, se cuestiona el rol de la tecnopolítica. Es decir,
+se ha cuestionado el lugar que la tecnología digital está
+ocupando a nivel estratégico, no sólo en relación a la
+acción colectiva de los recientes movimientos sociales
+globales, sino también en relación a su potencial identitario y transformador: proceso especialmente reseñable
+en lo que se refiere a las prácticas democráticas en los
+contextos objeto de análisis (España, Portugal y Chile).
+El principal objetivo de este artículo es, por tanto,
+reflexionar y proponer una nueva categoría epistémica
+–más allá de la teoría sobre los movimientos sociales dominante en las últimas décadas– desde la tecnopolítica.
+Valga indicar que para ello se ha partido de los resultados empíricos obtenidos en los proyectos de investigación mencionados a través de las siguientes técnicas:
+–	 Grupos de discusión y entrevistas a activistas
+y ciudadanos comprometidos en acciones de
+protesta y representantes políticos de los movimientos sociales acontecidos en Portugal, España y Chile.
+–	 Etnografía digital de las interacciones y sitios
+online de dichos movimientos (15M, Movimento 12 de março, Primavera Chilena) así como
+el análisis de datos a partir de Computer-Aided
+Qualitative Data Analysis (CAQDAS).
+–	 Entrevistassemi-estructuradas a activistasimplicados en estos procesos en torno a la constitución de los movimientos, sus reivindicaciones,
+organización de protestas y expectativas sobre
+los efectos producidos, entre otros actores privilegiados en el contexto de la movilización analizado, incluyendo académicos que han trabajado
+en esta temática o en temáticas análogas.
+Los datos obtenidos se triangularon con los datos publicados por los medios de comunicación digitales hegemónicos y de mayor tirada de los casos estudiados desde
+mayo a noviembre de 2011. La estrategia metodológica
+se sustentó en la teoría crítica del discurso y un cruce
+entre la teoría fundamentada y la teoría e investigación
+comprometidas destacando los argumentos propuestos
+por los movimientos analizados y sus respectivas acciones e interacciones digitales desencadenadas.
+Los resultados, ofrecidos aún de manera preliminar
+en este artículo, han servido para establecer una serie
+de diálogos abiertos sobre los movimientos estudiados
+incluyendo a los beneficiarios de dichos proyectos, tanto
+en el ámbito académico como en la sociedad en general. Los datos han sido desagregados en razón de género 
+Sola-Morales, S.; Sabariego Gómez, J. Teknokultura 17(2) 2020: 195-203 197
+en el propio diseño de la investigación y los métodos
+presentándose las principales conclusiones de carácter
+teórico en relación a lo expuesto.
+3. De los viejos a los recientes, pasando por los nuevos
+y los novísimos movimientos sociales
+Existe una abundante literatura científica dedicada al estudio de los movimientos sociales desde el ámbito de la
+Ciencia Política. Especialmente desde la década de 1970
+–con la aparición de los llamados ‘nuevos movimientos
+sociales’– se ha ido consolidando un área de estudio específica y muy fructífera (Della Porta y Diani, 1999; Tarrow, 2011) sobre estos actores políticos colectivos que
+buscan el cambio social (Tufte, 2017).
+Se ha investigado mucho acerca de las llamadas
+‘instituciones inventadas’ (Tilly, 2004, p. 14), motivadas por una volición consciente, objetivos y creencias
+(Wikinson, 1971), con repertorios y recursos orientados
+a la integración simbólica y un bajo nivel de especialización de roles. La acción de estos actores sociales busca
+–mediante la protesta y la crítica– la modificación de
+agendas, culturas, imaginarios, prácticas y estructuras
+políticas (Markov, 1996).
+Tradicionalmente en los Estados Unidos, la resource mobilization theory se focalizó en el ‘cómo’, es decir, en el análisis de las dimensiones organizativas, la
+captación de recursos o la consecución de intereses de
+los movimientos (Ibarra y Letamendia, 2006). Por su
+parte, en Europa, el análisis se centró en el ‘por qué’,
+es decir, en la búsqueda de explicaciones sobre el origen de los movimientos o en la manera de plantear las
+demandas (Ibarra y Letamendia, 2006). En las últimas
+décadas se ha tendido a integrar las dos posiciones
+buscando respuesta a ambas preguntas y ofreciendo
+análisis más holísticos de la realidad (Della Porta y
+Diani, 1999; Tarrow, 2001), que han incluido el análisis de las identidades, la cultura, las emociones, los
+procesos políticos, las estructuras de oportunidades
+(McAdam, Tarrow y Tilly, 2001) o los encuadres de
+la acción colectiva (Hunt, Bendford y Snow, 1994).
+Para Tilly (2004), la perspectiva histórica es fundamental en el análisis de cualquier movimiento social.
+Por lo que es necesario preguntarse: ¿cuáles son sus orígenes y transformaciones a lo largo del tiempo?, ¿qué
+procesos sociales provocan o impiden su proliferación?,
+¿cómo interactúan con otras formas de política? y ¿qué
+causa cambios en el seno de los mismos? Por ello, es
+fundamental analizarlos en su contexto y teniendo en
+consideración su relación, interacción e intersección con
+otros actores políticos, procesos sociales, contextos culturales, etc.
+Si en algo hay consenso entre los investigadores es
+en que los movimientos sociales son un actor político
+clave (Foweraker, 1995), que no se debe confundir con
+otros actores como los sindicatos, las asociaciones de
+interés o grupos de presión ni con los partidos políticos.
+No obstante, muchas veces las fronteras entre todas estas denominaciones no están claras en la práctica (Pastor, 2006).
+A lo largo de la historia, diferentes movimientos
+sociales han irrumpido con demandas y estrategias
+acordes a sus necesidades de cambio y transformación
+social (Norris, 2002). Así, el movimiento obrero, los
+movimientos nacionalistas, los feministas, los pacifistas, los ecologistas, los movimientos por los derechos civiles o anti-globalización son solo algunos de
+los más destacados movimientos que han defendido
+derechos fundamentales y han luchado por el cambio
+político y social.
+A la hora de distinguir entre actores y fenómenos,
+tradicionalmente, se ha distinguido entre ‘viejos’ y ‘nuevos’(Calhoun, 2002). Los primeros, en palabras de Pastor (2006), surgen mientras el capitalismo se desarrolla,
+en un contexto de industrialización; y los segundos aparecen en un contexto de crisis de la Modernidad, alertando de algunas de las contradicciones, desigualdades o
+consecuencias de la sociedad industrial y reaccionando
+ante injusticias que afectan a gran parte de la sociedad
+(Paredes, 2013).
+Esta distinción parece no acoger algunas experiencias post-modernas, motivo por el cual se ha llegado a
+describir algunos de estos nuevos movimientos como
+‘novísimos’ (Madrid, 2002), es decir, aquellos que han
+surgido a partir de mediados de los 90’, con un carácter
+multidimensional (Pastor, 2006, p. 136).
+En ocasiones algunos movimientos tienen características de uno u otro tipo a la vez. Por lo que los considerados ‘nuevos’ presentan muchas veces rasgos de los ‘viejos’. Eulau (citado en Dalton y Kuchler, 1992) o Brand
+(1992), han señalado que los nuevos enfoques no son
+más que una restauración de algunos viejos modos de
+ver las cosas. En otras palabras, los ‘nuevos’ movimientos sociales deberían ser considerados como una nueva
+oleada que atiende más a razones de tipo contextual e
+histórico.
+La elaboración de categorías como la de recientes
+movimientos sociales globales (RMSG) (Sabariego,
+2018), tiene como contexto la oleada mundial de protestas llevadas a cabo desde 2011. Eventos que tienen
+como elemento diferenciador el uso extensivo de las tecnologías digitales, a partir de la tecnopolítica (Sierra y
+Gravante, 2017 y Sabariego, 2018), es decir:
+La apropiación de las redes sociales de Internet por
+parte de los movimientos sociales con una finalidad
+política, que redefine los propios términos, medios y
+fines de esta, así como sus conflictos inherentes, en
+aras a, entre otras cuestiones, la visibilidad de una
+agenda inexistente en los medios de comunicación
+de masas antes de su aparición (Sabariego, 2018,
+p. 76).
+4. Resultados: características de los recientes
+movimientos sociales globales (RMSG)
+La oleada de protestas acontecidas en todo el mundo
+desde 2011, se caracteriza por enmarcarse en la nueva
+tendencia de movimientos sociales que va más allá de
+los ‘viejos movimientos sociales’ (movimiento obrero y
+198 Sola-Morales, S.; Sabariego Gómez, J. Teknokultura 17(2) 2020: 195-203
+campesino principalmente) y de los llamados ‘nuevos
+movimientos sociales’(ecologista, feminista, antiautoritario, etc.), si bien en ocasiones algunas de sus prácticas
+pudieran asemejarse o darse de manera sincrónica con
+tipos anteriores e incluso estar integrados por activistas
+de los anteriores. Lo que define a los RMSG es la centralidad del uso de la tecnología con una finalidad política
+en su acción. No sólo de forma comunicativa, sino estratégica e identitaria (Sabariego, 2019).
+Las protestas ciudadanas iniciadas en la década de
+2010 se han caracterizado por devolver a los movimientos sociales una centralidad económica que los nuevos
+movimientos de carácter cultural, territorial, ambiental
+o social habían, en cierta medida, desplazado (Alguacil,
+2012). La lucha contra la precarización, el desempleo, la
+austeridad, los recortes, motivados por las crisis económicas y financieras, ponen de manifiesto los problemas
+de un sistema –el neoliberal–, el cual provoca desigualdad y serias dificultades para la vida, incluso en estados
+tradicionalmente del bienestar. Junto a esta pulsión indignada y airada contra el sistema económico y político
+emerge una demanda muy clara que es la de recuperar la
+democracia. Los ciudadanos ocupan las plazas y toman
+las calles, están interesados en retomar su espacio deliberativo y participativo, recobran la palabra y alzan la
+voz porque quieren alcanzar o recuperar la democracia
+verdadera o real, según puede leerse en sus manifiestos
+digitales.
+A la luz de los resultados obtenidos en el análisis de
+los casos español, portugués y chileno, se puede concluir que inescindiblemente unido a la tecnopolítica, estos movimientos sociales –como casos paradigmáticos–
+tienen además como elementos distintivos más relevantes las siguientes tres características, que se explican a
+continuación:
+a) Carácter generacional
+b) Carácter digital
+c) Carácter global
+4.1. Carácter generacional
+Es bien conocido que los jóvenes son los que más utilizan las herramientas tecnológicas hoy en día. Un reciente estudio comparado de 11 países pone de manifiesto
+que los jóvenes y las personas con mayor nivel educativo son las que más utilizan Internet (Pew Research Center, 2019).
+Algunos investigadores han manifestado que los
+movimientos estudiantiles carecen de impacto sustancial, ya que las demandas de los estudiantes no tienen
+un efecto directo en la economía, la política o la legislación (DeGroot, 1998). En Student Protest. The
+Sixties and After, el autor se refiere a los efectos de
+las protestas estudiantiles como un ‘legado’, sin considerar que los objetivos conseguidos fueran logros
+en sí mismos (DeGroot, 1998, p. 9). Justamente, algunas protestas estudiantiles acontecidas en la década
+de 1960 (como las de mayo del 1968 en Francia, las
+de Japón en 1960 o las de México en 1968), así como
+otras en 1980 en Corea o China en 1989, por citar
+solo unas pocas, tuvieron un dudoso impacto político y sangrientas consecuencias. Este hecho plantea la
+seria dificultad de identificar si efectivamente fueron
+exitosas o no (Sola-Morales, 2016). DeGroot describe a los estudiantes como una élite minoritaria que a
+su juicio no puede obtener el apoyo por parte de un
+grupo más amplio:
+La gran debilidad de las protestas estudiantiles es
+que son llevadas a cabo por estudiantes. Son, casi
+por definición, jóvenes, imprudentes y tienden a la
+inmadurez. Habitualmente exponen una visión ingenua del mundo y emplean tácticas que, debido a su
+falta de experiencia, fracasan a la hora de tener en
+cuenta la cruel realidad del poder institucional (DeGroot, 2010, p. 682).
+En las últimas décadas varios movimientos estudiantiles europeos y latinoamericanos –especialmente– han
+asumido un papel destacado en la vida social y política
+de sus respectivas naciones, manifestando que ni son inmaduros, ni imprudentes. Justamente, si se mencionan
+algunos eventos tales como los cambios políticos en
+Ecuador en 1963, las caídas de los regímenes de Ecuador y Bolivia en 1964, las revueltas en Colombia en
+1966, las protestas contra la dictadura militar en Brasil
+o los motines de Río de Janeiro durante 1968, se plantea
+la cuestión de si estos movimientos estudiantiles pueden
+producir alguna consecuencia en la sociedad.
+En una línea bastante opuesta a la defendida por
+DeGroot (1998), otros investigadores han afirmado que
+los movimientos estudiantiles latinoamericanos son de
+los más activos y poderosos en términos políticos (Fischer, 1963). Los jóvenes “existen, pueden nombrarse,
+son fuertes y difícilmente manipulables” (Treré, 2013,
+p. 55) y, sobre todo, son clave en las movilizaciones
+ciudadanas. La juventud –como han sugerido Henao y
+Pinilla, (2009)– es un actor clave en la transformación
+del espectro cultural político y no puede ser desdeñada.
+Algunas movilizaciones estudiantiles acontecidas
+en Chile desde el año 2006 (Revolución Pingüina) y,
+especialmente las protestas de 2011 (Primavera chilena), que contaron con más de un 70% de apoyo de la
+ciudadanía del país, han generado importantes cambios
+políticos que afectan a la instituciones y a la legislación
+chilena (Sola-Morales, 2016). El hecho de que varios
+voceros o líderes del movimiento en 2011 llegaran a ser
+diputados en el Gobierno ha sido trascendental a nivel
+político. Primero, porque nunca antes hubo candidatos
+tan jóvenes en el hemiciclo (Camila Vallejo, de 28 años,
+representando al Partido Comunista de Chile, o Giorgio Jackson, de 29, candidato independiente). Segundo,
+porque que estos jóvenes llegaron a ser agentes clave
+en la política del país. Además, el debate público que el
+movimiento estudiantil instauró en la ciudadanía –que
+llegó al Congreso– provocó una serie de cambios en la
+legislación educativa, inamovible desde la dictadura de
+Pinochet. Estos cambios se materializaron en proyectos
+de ley como el que modifica la Ley Nº 20.882, de Presupuestos del Sector Público del año 2016, conocida como
+‘Ley de Gratuidad’, que fue impulsada por el partido
+Nueva Mayoría –coalición entre el Partido Demócra-
+Sola-Morales, S.; Sabariego Gómez, J. Teknokultura 17(2) 2020: 195-203 199
+ta Cristiano (PDC), el Partido Socialista (PS), Partido
+Radical Socialdemócrata (PRSD), el Partido por la Democracia (PPD), el Partido Comunista de Chile (PCCh),
+la Izquierda Ciudadana (IC) y el Movimiento Amplio
+Social (MAS)–. Muchos de estos partidos estaban vinculados a las federaciones de estudiantes y mantenían
+un diálogo fluido con los representantes (Sola-Morales,
+2016).
+El movimiento #YoSoy132 mexicano, que fue iniciado por estudiantes “indignados, conectados y democráticos” (Fernández, 2013), generó un debate público
+acerca de las limitaciones en el sistema comunicacional
+mexicano. Lo que suscitó gran apoyo de la ciudadanía,
+en general, y derivó en una reforma de las telecomunicaciones, por ejemplo.
+Es obvio, que tanto en los casos vividos en Chile
+como en México no resultaron trascendentales. Ni Bachelet, en Chile, ni Peña Nieto, en México, cumplieron
+las demandas de los estudiantes. No obstante, sin movilizaciones quizás ni se hubieran producido ni el debate
+público ni mucho menos el institucional (Sola-Morales,
+2016).
+Tanto en el caso portugués (Geraçao à Rasca y
+otros movimientos del Movimento 12 de Março), como
+en el chileno o el mexicano, los jóvenes caracterizados
+como ‘generación 2.0’ (Feixa, Portillo, Urteaga, González y Aguilera, 2012), ‘generación conectada’ (Herrera, 2012) o ‘generación millennial’ (Serchuk, 2011),
+–actuando de forma muy similar a otros movimientos
+como el #Occupy o los indignados del 15M español–,
+fueron clave en el desarrollo del nuevo paradigma, en
+lo que a activismo y participación ciudadana se refiere.
+Un fenómeno que se dio, en gran medida, por la utilización de las tecnologías de la información y la comunicación (TIC), especialmente, las redes y medios de
+comunicación sociales de Internet y también los servicios de mensajería privada.
+4.2. Carácter digital
+Una de las características más relevantes de estas protestas es su dimensión narrativa, como diría Gerbaudo
+(2012), dado que se encuentran mediadas digitalmente.
+Los RMSG se apropiaron de las redes sociales e Internet
+(Baumgarten, 2013), algo que fue fundamental, “frente
+al silencio inicial de los medios de comunicación de masas o la posterior criminalización” (Sabariego, 2018, p.
+77) de estos (e.g., 15M español, el M12M portugués o el
+gilet jaunes francés).
+Las redes sociales son clave en el origen y desarrollo de numerosos movimientos sociales contemporáneos
+(Gerbaudo, 2017), y están transformando la vida política
+(Cotarelo y Crespo, 2012). Incluso pueden redimensionar conceptos clásicos como el de ciudadanía, participación, movilización o democracia (Subirats, 2002).
+Desde el movimiento neozapatista, el uso de Internet
+se ha convertido en una herramienta fundamental en las
+protestas ciudadanas generando un ciclo internacional
+de movilizaciones y una comunidad global, que desde
+diferentes lugares del mundo reclama sobre cuestiones
+diversas pero bajo un mismo fondo: la lucha contra la
+precariedad, el neoliberalismo y la recuperación de la
+democracia.
+A pesar de que hay investigadores que afirman que
+las redes están siendo sobreestimadas (McChesney,
+2013; Morozov, 2009), lo cierto es que el papel cada
+vez más relevante de los nuevos medios de comunicación entre los jóvenes ha llevado a un debate sobre la
+potencialidad de Internet, como medio de comunicación
+político que incentiva, especialmente, la participación
+juvenil (Banaji y Buckinjam, 2010; Karakaya, 2005) y
+mejora la democracia (Lebkowsky, 1997).
+Internet es hoy en día una apuesta organizativa, participativa y de empoderamiento clave en cualquier movimiento social. Las redes son clave en el desarrollo de las
+nuevas formas de activismo (Breuer 2012; Gerbaudo,
+2012), al formar parte y complementar la acción política
+tradicional. Por ello, la participación ciudadana y la movilización social no pueden ser entendidas y analizadas
+sin tener presente el alcance de la tecnopolítica (Rodotà,
+1997; Sabariego, 2017, 2018; Sierra y Gravante, 2017;
+Toret, 2013), la cual “permite traducir la complejidad
+que rodea la integración de las nuevas tecnologías en
+la dinámica de poder” (Kurban, Peña-López y Haberer,
+2017, p. 3), que se da entre actores sociales y prácticas
+políticas.
+Los actuales “novísimos” movimientos sociales
+(Madrid, 2002) o RMSG (Sabariego, 2017, 2018), que
+defendemos aquí, atienden a lógicas que transitan entre los ‘viejos’ y ‘nuevos’ movimientos y que, en ocasiones, van más allá de ambos. A través de las redes,
+los actores de las protestas pudieron expresar opiniones
+contra-hegemónicas, canalizar críticas, denunciar los
+abusos de poder de las autoridades y programar y organizar acciones reivindicativas (Ortiz-Galindo, 2015) de
+forma virtual, hecho novedoso por las implicaciones que
+tiene sobre la organización y la participación política,
+especialmente.
+4.3. Carácter global
+La apropiación y la mediación de las redes sociales en
+Internet, así como de los servicios de mensajería privada, por parte de los movimientos sociales, con una finalidad política, redefine los propios términos, medios
+y fines de este tipo de escenarios, así como sus conflictos relacionados con la visibilidad de una agenda global o con sus particularidades locales. Algo hasta ahora
+inexistente en los medios de comunicación de masas,
+antes de la aparición de este tipo de escenarios digitales. Podemos considerar que estas luchas poseen una
+dimensión global narrativa, transmediada digitalmente
+(Gerbaudo, 2012), dada la extensión de la esfera pública
+que encarnan las redes sociales de Internet. Para el caso
+de los RMSG se puede verificar en todos los casos estudiados la conexión con otros movimientos conectados
+que emergen desde 2011, así como un uso tecnopolítico
+de las redes sociales.
+Los RMSG poco o nada tienen que ver con contextos anteriores. No obstante, muchos de ellos se nutren
+y han participado de experiencias previas (Razquin,
+2015). Un rasgo de su configuración es la eminente
+200 Sola-Morales, S.; Sabariego Gómez, J. Teknokultura 17(2) 2020: 195-203
+adscripción urbana, de clase media castigada por las
+políticas de austeridad y los recortes justificados por la
+crisis económica. Sus integrantes poseen formación superior en infinidad de casos (véase el Movimento Precários Inflexíveis o la Geração à Rasca en Portugal,
+integrantes del M12M), principalmente estudiantes
+universitarios, pertenecientes a la llamada generación
+millennial (Serchuk, 2011), a pesar de la diversidad y
+heterogeneidad de los mismos.
+Los RMSG tienen un prólogo en los que acontecieron
+en Islandia y Grecia en 2008 y las acciones de ‘tomar’
+las plazas en el Máshreq y Oriente Próximo desde 2010
+(Aguiló y Sabariego, 2016). Este escenario nos permite vislumbrar algunas cuestiones que los diferencian de
+otros movimientos anteriores, a pesar de su diversidad
+y heterogeneidad. Los RMSG deben su impacto a las
+redes sociales de Internet, a Twitter (Gerbaudo, 2012) y
+Facebook, especialmente, pero, sobre todo, al uso global
+de estas herramientas.
+El aumento paulatino, la multiplicación y, sobre
+todo, la replicación exponencial de las protestas en la esfera global sólo puede entenderse desde el uso masivo y
+extensivo de estas (Bennett y Segerberg, 2011), no sólo
+como instrumento comunicativo, sino también como
+elemento aglutinador, estratégico y organizativo además
+de simbólico, identitario, expresivo y cognitivo (Sierra y
+Gravante, 2017), especialmente en el sur global.
+Si hay un rasgo común en los RMSG, que los diferencie de otros movimientos anteriores en el tiempo, es
+el carácter global de la apropiación tecnopolítica de las
+redes. En una época de capitalismo cognitivo (Blondeau,
+Whiteford, Vercellone, Kyrou, Corsani, Rullani, Moulier Boutang, y Lazzarato, 2004) y economía digital, lo
+aquí expuesto supone el intento de apropiación de los
+medios de producción digitales. Paradójicamente, Facebook y Twitter han crecido exponencialmente al calor
+de las primaveras árabes, no sólo en número de usuarios
+y perfiles, sino también en el imaginario popular como
+herramientas tecnopolíticas para la reivindicación de la
+democracia a nivel global.
+5. Discusión: el alcance de la tecnopolítica, una
+perspectiva crítica
+El debate sobre el impacto de Internet en la ciudadanía,
+la participación y la democracia ha transitado muchas
+veces de manera dicotómica entre posiciones optimistas
+y utópicas (De Sola Pool, 1983; Negroponte, 1995) y
+posiciones pesimistas o escépticas (McChesney, 2013;
+Morozov, 2009). La clásica discusión entre apocalípticos e integrados, propuesta por Eco (1995), parece haberse traducido en la era digital en una confrontación
+entre libertad de información frente a secretismo y vigilancia (Rumold, 2015), y en una lucha entre tecnoutópicos y tecno-pesimistas o ciberoptimistas y ciberescepticos (Resina de la Fuente, 2010), que bien idealizan
+o bien alertan sobre los peligros de Internet. Y es que el
+efecto o influencia de la tecnología sobre la política y la
+democracia ha planteado muchos claro-oscuros, como
+resultado de su carácter emancipador u opresor.
+La abundante literatura publicada pone de manifiesto la necesidad de proponer abordajes completos que
+eviten los reduccionismos tecnológicos. La dialéctica
+entre tecnología y política que propone la tecnopolítica
+no es un movimiento unidireccional, desde la tecnología
+a la política, ni tampoco desde la política a la tecnología. El análisis de los procesos y fenómenos políticos es
+complejo y atiende a una multiplicidad de causas. Por
+ello, aquí se propone analizar los movimientos sociales asumiendo una perspectiva crítica (Morozov, 2018)
+e interdisciplinar, que tenga presente tanto los factores
+políticos como los factores históricos, los factores sociales, los ideológicos y los culturales, comunicativos y
+tecnológicos.
+Pero, ¿qué se entiende por tecnopolítica? Este concepto ha sido utilizado por numerosos investigadores
+en las últimas décadas, otorgándole diferentes sentidos
+desde sus primeras apariciones a finales de los noventa
+(Lebkowski, 1997; Rodotà, 1997) hasta publicaciones
+más recientes (Sabariego, 2017; Sierra, 2018; Toret,
+2013, 2015).
+Se pueden hallar principalmente dos líneas de trabajo, como han sugerido Kurban, Peña-López y Haberer
+(2017). Por un lado, aquella que los autores denominan
+‘centralizada’ y por otro, la llamada ‘distribuida’. En el
+primer enfoque, la tecnopolítica se aplica de arriba a
+abajo y la tecnología es utilizada para mejorar la gobernanza y el gobierno. Aquí se adoptarían prácticas como
+el voto, la campaña o la petición electrónica (Reddick,
+2010). En el segundo enfoque, se destaca el potencial
+subversivo de las tecnologías en la medida que facilitan
+y aceleran procesos como el de creación de ideas, medios o contenidos para participar en la política formal,
+así como la creación de comunidades ajenas a las instituciones formales (Fuster y Subirats, 2012).
+Más allá de plantear diferencias entre estos dos paradigmas propuestos por Kurban, Peña-López y Haberer
+(2017), lo que se sostiene en el marco de este artículo
+es que la tecnopolítica es un fenómeno complejo que no
+se puede describir como la simple suma de tecnología
+y política. En cierta medida ambos procesos se dan de
+manera interrelacionada y, por supuesto, co-implicada
+y dialéctica.
+Uno de los elementos más relevantes del concepto de
+tecnopolítica es su potencial emancipador. Tal y como
+sugiere Rodotà (1997), éste tiene la capacidad de mejorar la forma de hacer política, dado que incorpora a los
+ciudadanos en los procesos de toma de decisiones, incrementando la participación, transparencia y deliberación.
+También Edwards y Hecht (2010) y Kellner, (2001) han
+remarcado esta capacidad de empoderar a los actores o
+de generar nuevas dinámicas de poder. En este sentido,
+la tecnopolítica sería el “uso táctico y estratégico de herramientas digitales para la organización, comunicación y
+acción colectiva” (Toret, 2013, p. 3). Desde esta perspectiva, el énfasis se da, primero, a los procesos en los que
+la política es mediada por la tecnología y viceversa; y,
+segundo, a los actores, que son los que protagonizan y dan
+uso a la tecnología en contextos necesariamente políticos.
+Las redes y medios sociales de Internet pueden servir
+para mejorar la democracia, ofreciendo mayor transpa-
+Sola-Morales, S.; Sabariego Gómez, J. Teknokultura 17(2) 2020: 195-203 201
+rencia, incrementando la participación y aumentando la
+diversidad de voces o haciendo el debate público más
+rico. Kurban, Peña-López y Haberer (2017), han señalado que los escenarios digitales actuales tienen efectos en
+el ámbito comunicativo, en el jurídico, en el organizativo o en el institucional. Y además, las organizaciones
+que las utilizan adquieren identidad política.
+Pero las redes sociales y los escenarios digitales actuales también pueden funcionar como armas de control, que censuran voces, que monopolizan el discurso,
+manipulan o engañan. En la época de las fake news, Internet se ha convertido en un espacio en el que tienen
+cabida movimientos que apuestan por “democratizar la
+democracia” (Sousa Santos, 2016) y están a favor del
+progreso, movimientos que defienden la solidaridad y
+luchan por ideales universales, basados en el respeto y
+la solidaridad, pero también han aparecido movimientos
+autoritarios, populistas o reaccionarios (Cortina, 2017;
+Hernández-Santaolalla y Sola-Morales, 2019). En Internet existen agrupaciones que generan prácticas como el
+flooding, el trolling, el spamming, el impostoring (Suler
+y Phillips, 2009), el online shaming y el derailing o desorientación y reorientación del debate (Poland, 2016),
+que no son más que formas que atentan, impiden o bloquean de una forma u otra el diálogo.
+Resulta fundamental tener en consideración el carácter simbólico, ideológico, discursivo y narrativo de los
+procesos de activismo digital. Todo ello, independientemente, de que se trate de protestas aisladas o de acciones
+enmarcadas en movimientos sociales más amplios. A
+este respecto, la comunicación es una de las actividades
+definitorias de cualquier movimiento social y no se produce de manera aislada sino contextualizada y mediada
+(Martín Barbero, 1987). Las cuestiones que han rescatado las teorizaciones más recientes (Sabariego, 2017;
+Sierra y Gravante, 2018) sobre la apropiación tecnopolítica ciudadana de las tecnologías y escenarios digitales
+como herramientas de mudanza social, van dirigidas al
+espacio que puede ocupar el concepto antes mencionado
+como disciplina académica, enlazada directamente con
+los conocimientos situados que generan los RMSG desde su praxis. Ello, en una suerte de datactivismo (Milan
+y Gutiérrez, 2017), frente a la apropiación hegemónica
+de estos.
+El análisis de las prácticas tecnopolíticas no puede
+ser tecnodeterminista (Fotopoulou, 2016; Gerbaudo,
+2017) y reducirse al estudio de las herramientas utilizadas. Es preciso explorar los usos, las prácticas, las
+narrativas, las costumbres, los valores, las relaciones y
+las experiencias vividas por los activistas sean éticas o
+estéticas; así como considerar los contextos sociales y
+culturales en los que dichas prácticas se enmarcan.
+6. Conclusiones
+A la luz de los resultados obtenidos se puede establecer,
+que los RMSG han contribuido, a través de su apropiación y mediación tecnopolítica, a la creación de prácticas colectivas y espacios instituyentes de lo común
+como principio político, capaz de generar experiencias
+democráticas de alta intensidad frente a la democracia
+de bajísima intensidad que venimos padeciendo por la
+apropiación neoliberal de esta en las últimas décadas.
+La tecnopolítica es el principio que define la acción
+de los RMSG y, al mismo tiempo, es una disciplina compleja, crítica, heterogénea y transdisciplinar que permite
+su análisis. Desde ambas perspectivas se entrecruzan
+múltiples praxis, lo que posibilita una traducción viva
+y constante de estos procesos heterogéneos y diversos
+que, paradójicamente, ni siquiera caben en la lógica lineal y el tiempo monocorde y constante –que anula los
+contextos o privilegia los contextos-sin-contextos y los
+tiempos-sin-tiempos.
+Es deseable huir de la tecnoretórica, que traduce las
+propias lógicas del discurso hegemónico en torno a Internet y el activismo digital, prescindiendo del cuerpo
+a cuerpo y del ‘ruido de las asambleas’, en palabras de
+Barber (1984). Una perspectiva que critica las visiones
+utópicas, en las que las máquinas de la revolución industrial son sustituidas en la globalización por el continuum
+de las tecnologías –las redes sociales y el archivo (memoria) y gestión de datos masivos (Big Data)–, entendidas como herramientas de emancipación acríticamente
+ensalzadas.
+En definitiva, es preciso aportar una mirada que vaya
+más allá de la apología de los usos tecnológicos en sí,
+que no pierda de vista y profundice en los contextos en
+que estas prácticas de apropiación y experiencia se producen. Un enfoque que enfatice más en la praxis, en las
+relaciones e interacciones entre los protagonistas y los
+actores, sin perder de vista las biografías, las narrativas,
+las costumbres, los valores y los símbolos, las éticas y
+las estéticas.
+7. Referencias
+Aguiló, A. y Sabariego, J. (2016). Epistemologies of the South and local elections in Spain: towards politics based on the
+commons? Historia Actual Online, 2(40), 95-111.
+Alguacil, J. (2012). Nuevos movimientos sociales: nuevas perspectivas, nuevas experiencias, nuevos desafíos. Polis, 17.
+Recuperado de http://journals.openedition.org/polis/4554.
+Banaji, S., y Buckinham, D. (2010). Young people, the Internet, and civic participation: an.
+	 overview of key findings from the CivicWeb Project. International Journal of Learning and Media, 2(1), 15-24.
+Baumgarten, B. (2013). Geração à Rasca and beyond: Mobilizations in Portugal after 12 March 2011. Current Sociology, 61(4),
+457-73.
+Barber, B. (1984). Strong Democracy: Participatory Politics for a New Age. Berkeley: California University Press.
+Bennett, W. L. y Segerberg, A. (2011). The logic of connective action. Digital media and the personalization of contentious
+politics. Information, Communication & Society, 15(5). Monograph: A decade in Internet time: the dynamics of the Internet
+and society, 739-768.
+202 Sola-Morales, S.; Sabariego Gómez, J. Teknokultura 17(2) 2020: 195-203
+Benski, T., Langman, L., Perugorría, I., y Tejerina, B. (2013). From the streets and squares to social movement studies: What have
+we learned? Current Sociology, 61(4), 541-561. https://doi.org/10.1177/0011392113479753.
+Blondeau, O., Whiteford, N. D., Vercellone, C., Kyrou, A., Corsani, A., Rullani, E., Moulier. Boutang, Y., y Lazzarato, M. (2004).
+Capitalismo cognitivo, propiedad intelectual y creación colectiva. Madrid: Traficantes de Sueños.
+Brand, K.-W. (1992). Aspectos cíclicos de los nuevos movimientos sociales: fases de crítica cultural y ciclos de movilización del
+nuevo radicalismo de clases medias. En Los nuevos movimientos sociales (R. Dalton y M. Kuechler, pp. 47-70). Valencia:
+Edicions Alfons El Magnànim.
+Breuer, A. (2012). The Role of Social Media in Mobilizing Political Protest: Evidence from the Tunisian Revolution. (German
+Development Institute Discussion Paper 10/2012, Deutsches Institut für Entwicklungspolitik, DIE). Recuperado de https://
+ssrn.com/abstract=2179030.
+Calhoun, G. (2002). Los nuevos movimientos sociales de comienzos del siglo XIX. En Protesta social, repertorios y ciclos de
+acción colectiva (M. Traugott, pp. 193-241). Barcelona: Hacer.
+Cortina, A. (2017). Prólogo. En L. Alfonso y V. Vázquez. Sobre la libertad de expresión y el discurso del odio (pp. 5-11). Sevilla:
+Athenaica.
+Cotarelo, R., y Crespo, I. (Comp.) (2012). La comunicación política y las nuevas tecnologías. Madrid: Catarata.
+Crouch, C. (2011). The Strange Non-death of Neoliberalism. Cambridge: Polity Press.
+De Sola Pool, I. (1983). Technologies of Freedom. Cam-bridge, Mass.: Harvard University Press.
+Dalton, R.J. y Kuechler, M. (1992). Los nuevos movimientos sociales. Valencia: Editorial Alfons el Magnànim, Generalitat
+Valenciana y Diputació Provincial de València.
+DeGroot, G. (1998). Student Protest. The Sixties and After. Londres y Nueva York: Longman.
+Dufour, P., Nez, H., y Ancelovici, M. (2016). From the indignados to occupy: Prospects for.
+comparison. En Street Politics in the Age of Austerity: From Indignados to Occupy (M. Ancelovici, P. Dufour, y H. Nez, pp. 11-
+40). Amsterdam: Amsterdam University Press.
+Eco, U. (1995). Apocalípticos e integrados. Barcelona: Busquets.
+Feixa, C., Portillo, M., Urteaga, M., González, Y., y Aguilera, O. (2012). From Generation X to Generation @. Transitional traces
+and youth identities in Latin America. En Maping a Youth Culture in Motion Generation X Goes Global. (Ch. Henseler, pp.
+268-292). London & New York: Routledge.
+Fernández,A. M. (2013). Indignados y conectados: juventud, comunicación y política. Memorias electrónicas del XXV Encuentro
+Nacional Asociación Mexicana Investigadores de la Comunicación 2013. Democracia, Comunicación y Movimientos
+Sociales, Facultad de Ciencias Políticas y Sociales de la UAEM/AMIC, 13 y 14 junio, Toluca.
+Fischer, J. (1963). The University Student in South East Asia. Minerva, 2(1), 39-53.
+Fotopoulou, A. (2016). Digital and networked by default? Women’s organisations and the social imaginary of networked
+feminism. New Media and Society, 18(6), 1-17. https://doi.org/10.1177/1461444814552264.
+Foweraker, J. (1995). Theorizing Social Movements. Londres: Pluto Press.
+Fuster, M., y Subirats, J. (2012). Crisis de representación y de participación. ¿Son las comunidades virtuales nuevas formas de
+agregación y de participación ciudadana? Arbos. Ciencia, pensamiento y cultura, 188(756), 641-656. Recuperado de http://
+arbor.revistas.csic.es/index.php/arbor/article/view/1491.
+Gerbaudo, P. (2017). The Mask and the Flag. Populism, Citizenism and Global Protest. London: Hurst Publishers.
+Gerbaudo, P. (2012). Tweets and the Streets: Social Media and Contemporary Activism. London: Pluto Press.
+Henao, J., y Pinilla, E. (2009). Jóvenes y ciudadanías en Colombia: entre la politización social y la participación institucional.
+Revista Latinoamericana de Ciencias Sociales, Niñez y Juventud, 7(2), 1405-1437.
+Hernández-Santaolalla, V., y Sola-Morales, S. (2019). Postverdad y discurso intimidatorio en Twitter durante el referéndum
+catalán del 1-O. Observatorio, 13(1), 102-121. https://doi.org/10.15847/obsOBS13120191356.
+Herrera, L. (2012). Youth and Citizenship in the Digital Age: A View from Egypt. Harvard. Educational Review, 82(3), 333-352.
+Hunt, S., Benford, R. D., y Snow, D. A. (1994). Identity Fields: Framing Processes and the Social Construction of movement
+Identities. En New Social Movements: From Ideology to Identity (E. Laraña, H. Johnston y J. R. Gusfield, pp. 185-208).
+Philadelphia: Temple University Press.
+Ibarra, P., y Letamendia, F. (2006). Movimientos sociales. En Manual de Ciencia Política (M. Caminal Badía, y X. Torrens, pp.
+377-410). Madrid: Tecnos.
+Karakaya, R. (2005). The Internet and the Political Participation. European Journal of Communication, 20(4), 435-559.
+Kurban, C., Peña López, I., Haberer, M. (2017). “What is Technopolitics? A conceptual schema for understanding politics in the
+digital age”. IDP. Revista de Internet, Derecho y Política, 24, 3-20. UOC. Recuperado de https://www.redalyc.org/articulo.
+oa?id=788/78850913002.
+Lebkowsky, J. (1997). TechnoPolitic. 21C, Melbourne: The Commission.
+Madrid, A. (2002). El bienestar del voluntariado. Reflexiones en torno a la institucionalización de la colaboración social gratuita.
+En El reto de la participación. Movimientos sociales y organizaciones (J. M. Robles, pp. 365-390). Boadilla del Monte,
+Madrid: Mínimo tránsito/Antonio Machado Libros.
+Martín Barbero, J. (1987). De los medios a las mediaciones. México: Gustavo Gili.
+McAdam, D., Tarrow, S., y Tilly, Ch. (2005). Dinámica de la contienda política. Barcelona: Hacer.
+McChesney, R. W. (2013). Digital Disconnect: How Capitalism is Turning the Internet Against Democracy. New York, NY: New
+Press.
+Milan, S. y Gutiérrez, M. (2017). Technopolitics in the Age of Big Data. En Networks, Movements & Technopolitics in Latin
+America: Critical Analysis and Current Challenges, (F. Sierra y T. Gravante, Tommaso, pp. 95-109). Londres: Palgrave
+Macmillan.
+Morozov, E. (2018). Capitalismo Big Tech: ¿Welfare o neofeudalismo? Madrid: Enclave de libros.
+Morozov, E. (2009). Downside to the Twitter revolution. Dissent, 56(4), 10-14.
+Negroponte, N. (1995). Being Digital. New York: Alfred A. Knopf.
+Sola-Morales, S.; Sabariego Gómez, J. Teknokultura 17(2) 2020: 195-203 203
+Norris, P. (2002). Democratic Phoenix. Reinventing Political Activism. Cambridge: Cambridge University Press.
+Ortiz, I., Burke, S., Berrada, M., y Cortés, H. (2013). World Protests 2000-2013. New York: Friedrich Ebert Foundation.
+Ortiz-Galindo, R. (2015). Los cibermovimientos sociales. Un nuevo entorno comunicativo para la movilización en la era de
+Internet. En Comunicación, redes y poder (L. Castellón y A. Guillier, pp. 305-330). Santiago: RIL Editores.
+Pastor, J. (2006). Los movimientos sociales: De la crítica de la modernidad a la denuncia de la globalización. Psychosocial
+Intervention, 15(2), 133-147.
+Pew Research Center (March 2019), Mobile Connectivity in Emerging Economies. Recuperado de https://www.pewinternet.
+org/2019/03/07/use-of-smartphones-and-social-media-is-common-across-most-emerging-economies/#sortable-table.
+Pochet, P., y Degryse, Ch. (2013). Monetary Union and the Stakes for Democracy and Social Policy, Transfer, 19(1), 103‑116.
+Poland, B. (2016). Haters. Harassment, Abuse, and Violence Online. Lincoln (NE): Potomac Books.
+Razquin, A. (2015). Desbordamientos y viaje hacia la izquierda. Prehistoria del movimiento 15M: de #Nolesvotes a Democracia
+Real Ya. Daimon, 54, 51-70.
+Reddick, C. G. (Ed.) (2010). Politics, Democracy and E-Government: Participation and Service Delivery. Hershey, PA: IGI
+Global. https://doi.org/10.4018/978-1-61520-933-0.
+Resina de la Fuente, J. (2010). Ciberpolítica, redes sociales y nuevas movilizaciones en España: el impacto digital en los procesos
+de deliberación y participación ciudadana. Mediaciones Sociales, 7(2), 143-164.
+Rodotà, S. (1997). Tecnopolítica. La democrazia e le nuove tecnologie della comunicazione. Roma: Laterza.
+Rumold, M. (2015). The Freedom of Information Act and the Fight Against Secret Surveillance. Law 55, 161. Recuperado de
+http://digitalcommons.law.scu.edu/lawreview/vol55/iss1/4.
+Sabariego, J. (2017). Tecnopolítica y Recientes Movimientos Sociales Globales. En Demodiversidad. Imaginar nuevas
+posibilidades democráticas (B. de Sousa Santos y J. M. Mendes, pp. 391-416). Madrid: Akal.
+Sabariego, J. (2018). Recientes Movimientos Sociales Globales y tecnopolítica desde las Epistemologías del Sur. Pensamiento al
+margen. Revista digital, 8, 74-89.
+Sabariego, J. (2019). The Impact of Recent Global Social Movements of Southern Europe on Public Awareness of Democracy
+and Human Rights in the European Union: A Technopolitical Approach. En Social Welfare Issues in Southern Europe (M.
+Brown y M. Briguglio, pp. 35-47). London: Routledge.
+Schömann, I., y Clauwaert, S. (2012) The Crisis and National Labour Law Reforms: A Mapping Exercice, Working Paper
+Brussels: European Trade Union Institute.
+Serchuk, D. (2011). Move over Boomers! The Millennial Generation Has Occupied Wall Street. Forbes on-line. Recuperado
+de https://www.forbes.com/sites/daveserchuk/2011/10/13/the-millennial-generation-has-occupied-wall-street/#28eff4e55c7c
+Sierra, F., y Gravante, T. (2017). Tecnopolítica en America Latina y el Caribe. Salamanca: Comunicación Social.
+Sola-Morales, S. (2016). Las redes sociales y los nuevos movimientos estudiantiles latinoamericanos. La “Primavera chilena” y
+el “YoSoy132”. IC Journal. Revista Científica de Información y Comunicación. Monográfico: Visualidades en tensión: entre
+la emancipación y el control, 13, 153-193. http://dx.doi.org/10.12795/IC.2016.i01.05.
+Sousa Santos, B. (2016). La difícil democracia. Una mirada desde la periferia europea. Madrid: Akal.
+Streeck, W. (2013). Democratic Capitalism and its contradictions. En Politics in the Age of Austerity (W. Streeck y A. Schäfer,
+pp. 262‑287). Cambridge: Polity Press.
+Subirats, J. (2002). Los dilemas de una relación inevitable. Innovación democrática y tecnologías de la información y de la
+comunicación. En Democracia digital. Límites y oportunidades (H. Cairo Carou, pp. 89-113). Madrid: Trotta.
+Suler, J. R., y Phillips, W. L. (2009). The bad boys of cyberspace: deviant behavior in a multimedia chat community.
+Cyberpsychology & Behavior, 1(3), 275-294. https://doi.org/10.1089/cpb.1998.1.275.
+Tarrow, S. (2011). Power in movement: social movements and contentious politics. New York: Cambridge University Press.
+Tilly, Ch. (2004). Social Movements, 1768-2004. Londres: Paradigm Publishers.
+Toret, J. (2013). (Coord.) Tecnopolítica: la potencia de las multitudes conectadas. El sistema red 15M, un nuevo paradigma de la
+política distribuida. IN3 Working Paper Series, UOC Barcelona.
+Toret, J. (coord.) (2015). Tecnopolítica y 15M. La potencia de las multitudes conectadas. Un estudio sobre la gestación y explosión
+del 15M. Barcelona: UOC.
+Treré, E. (2013).#YoSoy132: la experiencia de los nuevos movimientos sociales en México y el papel de las redes sociales desde
+una perspectiva crítica. Educación Social. Revista de Intervención Socioeducativa, 55, 112-121.
+Tufte, T. (2017). Communication and social change: A citizen perspective. Malden, MA: Polity.

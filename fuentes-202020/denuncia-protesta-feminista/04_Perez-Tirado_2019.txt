@@ -1,0 +1,897 @@
+Feminismo, discurso mediático y percepción social
+Irene Pérez–Tirado1
+Resumen: En 2017, la eclosión de las reivindicaciones feministas irrumpió con firmeza en
+el foco de los debates de la opinión pública. Ante esta realidad, este estudio considera
+que la comunicación del mensaje del movimiento feminista y la percepción social del mismo exigen mayor exploración, reflexión y clarificación. Los medios de comunicación (en
+adelante, MMCC) no solo proyectan, sino que construyen la realidad y modulan nuestras
+percepciones en torno a aspectos como el que aquí se estudia. Para analizar la incidencia
+de las reivindicaciones sociales, se aplica el Análisis Crítico del Discurso (en adelante, ACD)
+a un corpus seleccionado de artículos de prensa. Igualmente es preciso calibrar y analizar
+la percepción social que la ciudadanía tiene de los fenómenos que acontecen. El feminismo,
+a pesar de abogar por unos principios de evidente equidad y tras varios siglos de pedagogía, continúa resultando un término confuso y generador de sentimientos ambivalentes.
+Palabras clave: Feminismo, medios de comunicación, discurso, percepción social.
+Fecha de recepción: 9 de febrero de 2019.
+Fecha de admisión definitiva: 8 de abril de 2019.
+1
+ Universidad de Deusto. Estudiante pre–doctoral en DDHH.
+Revista de Fomento Social 74/1 (2019), 51–75
+Feminism, media discourse and social
+perception
+Abstract: In 2017, the emergence of feminist demands burst into the focus of public
+opinion debates. In the face of this reality,
+Féminisme, discours médiatique et perception sociale
+Résumé: En 2017, l’émergence des revendications féministes a fait irruption dans
+les débats d’opinion publique. Face à cette 
+52
+Feminismo, discurso mediático y percepción social
+ESTUDIOS
+1. Introducción
+En 2017, «Feminismo» fue el término elegido por los editores del diccionario
+estadounidense Merriam–Webster, como la palabra del año. La eclosión de las
+reivindicaciones feministas ha irrumpido con firmeza en el foco de los debates de
+la opinión pública.
+En el panorama internacional, la masiva revelación y denuncia de abusos golpeó
+el corazón del mundo cinematográfico en Hollywood y se gestó el movimiento de
+denuncia #metoo. A raíz de las acusaciones de abusos sexuales contra el productor
+Harvey Weinstein, se unieron a la reivindicación más personas, en su mayoría
+mujeres, con el fin de visibilizar la magnitud de este problema. El simbólico hashtag (#metoo) fue la iniciativa de sororidad que compartieron todas las personas
+denunciantes de estos abusos.
+En el ámbito estatal, la fuerza con la que el 8M (8 de marzo de 2018) recorrió las
+calles, sentenció un hito histórico. Con solo un antecedente de similares característhis study considers that the communication
+of the feminist movement’s message and its
+social perception require greater exploration,
+reflection and clarification. The media not
+only project, but also construct reality and
+modulate our perceptions around aspects
+such as the one studied here. A Critical
+Discourse Analysis is applied to a selected
+corpus of press articles in order to analyze
+the incidence of social demands. It is also
+necessary to calibrate and analyze the
+social perception that citizens have of the
+phenomena that occur. Feminism, in spite of
+its advocacy of principles of evident equity
+and after several centuries of spreading its
+teachings, continues to be a confusing term
+that generates ambivalent feelings.
+Key words: Feminism, media, discourse, social
+perception.
+réalité, cette étude considère que la communication du message du mouvement féministe
+et de sa perception sociale ont besoin d’une
+plus grande exploration, réflexion et clarification. Les médias non seulement projettent,
+mais construisent aussi la réalité et modulent
+nos perceptions autour d’aspects tels que
+celui étudié ici. Afin d’analyser l’incidence
+des revendications sociales, l’Analyse du
+Discours Critique est appliquée à un corpus
+sélectionné d’articles de presse. Il est également nécessaire de calibrer et d’analyser la
+perception sociale que les citoyens ont des
+phénomènes qui se produisent. Le féminisme,
+malgré ses revendications des principes
+d’équité évidente et après plusieurs siècles
+de diffusion de ses enseignements, continue
+d’être un terme déroutant qui génère des
+sentiments ambivalents.
+Mots clé: Féminisme, médias, discours, perception sociale.
+Revista de Fomento Social 74/1 (2019) 53
+Irene Pérez–Tirado
+ticas, este tuvo lugar en Islandia en 1975, cuando el 90% de las mujeres hicieron
+huelga para manifestarse en contra de la desigualdad de género, paralizando
+el país. Aquí, el 8M también gozó de un apoyo cívico masivo y se vivió como
+una iniciativa vibrante en primera línea de la atención mediática. Este episodio, y
+otros, como el caso de “La Manada” (nombre con el que se conoce el suceso de
+violencia sexual que tuvo lugar en Pamplona en julio de 2016), han avivado el
+ímpetu de las protestas feministas.
+La revivificación del propio concepto de «feminismo» también se vislumbra en datos.
+Consultando Google Trends se puede apreciar que (1) las búsquedas relativas a
+este término aumentaron considerablemente durante el mes de marzo de 2018,
+alcanzando su pico entre los días 4–10 de dicho mes.
+Por otro lado, en la comparativa entre regiones, País Vasco y Madrid son los
+territorios desde los que se realizó un mayor número de consultas (2).
+FIGURA 1. Resultados búsqueda concepto “feminismo” (1) (2)
+Fuente: Google Trends.
+Así pues, y a modo de introducción, esta tesis se construyó alrededor de una
+pregunta concreta:
+¿Cómo se construye el discurso mediático en torno al feminismo y cómo está percibiendo la sociedad este fenómeno social?
+54
+Feminismo, discurso mediático y percepción social
+ESTUDIOS
+Comenzando por dar una definición teórica del término «feminismo», este queda
+delimitado por Victoria Sau en el Diccionario ideológico feminista como:
+Movimiento social y político que se inicia formalmente a finales del siglo XVIII y que
+supone la toma de conciencia de las mujeres como grupo o colectivo humano, de la
+opresión, dominación y explotación de que han sido y son objeto por parte del colectivo
+de varones en el seno de patriarcado bajo sus distintas fases históricas de modelo de
+producción, lo cual las mueve a la acción para la liberación de su sexo con todas las
+transformaciones de la sociedad que aquélla requiera (p. 121).
+El feminismo surgió hace tres siglos y como dice Amelia Valcárcel (1991), es un
+«hijo no querido de la Ilustración». Desde aquel disruptivo episodio de la historia,
+de revolución política, cultural e intelectual, y hasta nuestros días, se comenzaron
+a formular preguntas como ¿por qué las mujeres están discriminadas?, ¿cuál es
+el origen de esta exclusión? y ¿cómo se puede combatir? Ya fraguado como movimiento social, este bebe de un discurso político que se fundamenta en la justicia
+social. Pero a pesar de abogar por unos principios de evidente equidad y tras varios
+siglos de pedagogía feminista, este término sigue resultando confuso y generador
+de sentimientos ambivalentes.
+Parte de la responsabilidad de esta realidad simbólica ambigua construida alrededor del feminismo recae en los MMCC. En el seno de una sociedad supuestamente
+hiperinformada, estos tienen un rol fundamental en la construcción simbólica de la
+realidad y no son pocos los estudios que advierten que la exposición al discurso
+mediático ha podido ser un factor crucial en la negativa representación e interiorización del mismo (Zucker, 2004).
+Los MMCC no solo son productores/reproductores ideológicos, sino que además
+influyen en la legitimación social de la realidad.
+Es por ello que aplicar el ACD a algunos textos sobre el movimiento feminista
+publicados en prensa puede resultar muy esclarecedor. Esta metodología basada
+en la teoría de Teun A. van Dijk, presupone que los discursos periodísticos no son
+objetivos porque siempre hay una ideología implícita en los mismos. Por tanto,
+aplicando esta herramienta de análisis, podría vislumbrarse la tendencia ideológica
+e influencia del contexto.
+Con el propósito de contribuir al paradigma socio–cognitivo vinculado al feminismo,
+resulta necesario por tanto explorar la transformación social que el movimiento
+social impulsa desde el discurso y el lenguaje, ya que será a partir del mensaje
+recibido desde donde construiremos el imaginario colectivo que gira en torno al
+movimiento feminista. 
+Revista de Fomento Social 74/1 (2019) 55
+Irene Pérez–Tirado
+En estas circunstancias, la sociedad también es responsable y solo construyendo
+una ciudadanía crítica se puede conseguir consolidar una opinión pública coherente y responsable.
+Ante esta situación, es preciso calibrar y analizar la percepción social que la
+ciudadanía tiene de los fenómenos que acontecen. Los estudios de percepción
+social donde se “monitoriza” cómo se está entendiendo el cambio o cuáles son
+las preocupaciones y retos a futuro resultan herramientas de consulta de gran
+relevancia. En este punto se pretenderá comprender qué conocimientos poseemos sobre el movimiento feminista, qué sentimientos nos provoca y qué actitudes
+mostramos ante ello.
+En este ejercicio de análisis, será esencial tener presente la realidad política/económica/social del momento, así como las peculiaridades propias de un contexto de
+incertidumbre en este resurgido ciclo de protesta feminista. Este análisis sociológico
+conecta con los intereses de la Unión Europea ya que una de las prioridades de
+la estrategia «Horizonte 2020» recae en financiar proyectos de investigación e
+innovación dedicados a retos de calado social. En relación con ello, uno de los
+objetivos específicos del programa se define como Europa en un mundo cambiante:
+Sociedades inclusivas, innovadoras y reflexivas y es aquí donde encajaría el debate
+de esta investigación. La brecha salarial, la conciliación familiar, la violencia de
+género o la educación son algunas de las luchas reivindicadas desde el feminismo
+que repuntan con brío en la actualidad. Incuestionablemente, estas reclamaciones
+constituyen retos de la propia UE que como ente demanda nuevas ideas, estrategias
+de gobernanza e innovación social para darles respuesta en el seno de una crisis
+estructural, social y política de carácter global.
+Ante este general esbozo de la justificación de la propuesta de estudio, queda
+patente la relevancia de este movimiento social y el interés por seguir avanzando
+en los estudios del mismo. Pero si se me permite aludir a cuestiones personales para
+complementar la motivación que me lleva a defender este estudio, debo señalar a
+mi etapa de formación universitaria en la que no pude detectar a ningún/a docente
+que, en carreras de cáliz tan social como son Periodismo o Ciencias Políticas, nos
+hablase de feminismo. Del mismo modo en mis compañeros/as de generación
+también pude distinguir cierta ausencia de sensibilidad feminista.
+Esto me anima a seguir trabajando en pos de la visibilidad y la comprensión de
+uno de los fenómenos sociales más importantes de los últimos siglos.
+Tras lo anteriormente expuesto, se puede concluir que este estudio considera que
+la comunicación del mensaje del movimiento feminista y la percepción social del 
+56
+Feminismo, discurso mediático y percepción social
+ESTUDIOS
+mismo exigen mayor exploración, reflexión y clarificación. El primer objeto de
+análisis se centrará así pues en el tratamiento que exhibió la prensa en torno a este
+fenómeno social. Posteriormente, se tratará de descubrir cuál es el modo en el que
+la gente entiende la filosofía del movimiento y cómo están viviendo este momento.
+Así mismo, resulta interesante indagar en la actualidad de este fenómeno social
+acotado en el terreno de la Comunidad Autónoma de Euskadi (en adelante, CAE)
+ya que la idiosincrasia propia de este territorio podría arrojar resultados diversos
+a los obtenidos en otros lugares del mundo.
+El ya citado florecido feminismo quedó materializado en una jornada como la del
+8 de marzo en la que el nivel de participación fue desbordante, el debate social
+generalizado y la sororidad femenina ilusionante. Según datos facilitados por
+los sindicatos, el paro habría sido secundado por 5,3 millones de trabajadoras
+y trabajadores. Así mismo, las calles de, no solo las ciudades más importantes
+del país, sino también de pueblos en los que la movilización feminista no tenía
+precedentes, se llenaron de manifestantes.
+Ante lo que fue un irrebatible momento histórico hace falta ahora identificar si
+también es un esperanzador punto de inflexión con respuestas a preguntas como
+estas: ¿Es un año diferente? ¿Es el año de las mujeres? ¿Realmente estamos ante
+un momento histórico? ¿Se está fraguando la 4ª ola feminista?
+En este contexto, esta investigación de metodología mixta tiene el propósito de
+describir, teorizar y mejorar el alcance del mensaje del movimiento feminista como
+sujeto de comunicación.
+2. Revisión literaria
+La realidad actual del panorama sociopolítico parece estar experimentando una
+revivificación del interés por el feminismo. Una cuestionada «4º» ola para ciertas/
+os teóricas/os que se ha fraguado en los medios sociales digitales (Hasmath, 2014;
+Phillips & Cree, 2014).
+Los picos de reivindicación no se dan de manera aleatoria, sino que responden a
+ciertos periodos históricos. Se trata de los llamados ciclos de protesta, los cuales
+en el devenir natural de los movimientos sociales alternan con periodos de menor
+visibilidad, pero igual relevancia. Son lo que Alberto Melucci (1994) acuñó como
+períodos de latencia, en los que el conflicto y las reivindicaciones, lejos de estar
+apagados, se mantienen silenciados. 
+Revista de Fomento Social 74/1 (2019) 57
+Irene Pérez–Tirado
+Conectando esta realidad en el desarrollo de los fenómenos sociales con el feminismo, Rossi (1982) afirmó que en el movimiento se da un ciclo generacional de
+disminuida visibilidad de su acción política (“Quiet periods”), que separa cada
+ola feminista por 50 años, o dos generaciones.
+2.1. Feminismo
+Tal y como defiende Freedman (2001), resulta complejo describir qué significa el
+movimiento feminista ya que no se da una definición compartida del mismo. A
+pesar de ello, a continuación, se apuntan algunas descripciones para aterrizar
+este fenómeno social. Bell Hooks (2000), señala: “simplemente, el feminismo es un
+movimiento para acabar con el sexismo, la explotación sexista y la opresión” (p. 1).
+Recurriendo a las palabras de Chapman (1914), este decía de la ideología feminista, pretender “una rebelión a escala mundial contra todas las barreras artificiales
+que las leyes y las tradiciones interponen entre las mujeres y la libertad humana”
+(citado en Cacace, 2006, p. 28)
+En relación con esto, cabe puntualizar que las ideologías son las ideas sociales que
+comparte un determinado grupo social (Van Dijk, 2003) y, por tanto, representan
+principios ocultos de cognición social, es decir, un esquema mental definido por
+ciertos intereses. En lo referente al feminismo, este pertenece a un tipo de ideología
+positiva y no dominante.
+Ya habiendo dado algunas definiciones y puntualizaciones de este fenómeno social,
+el feminismo es uno de los movimientos sociales e ideológicos más influyente de
+los últimos siglos (Facio, 1999; Sendón de León, 2000).
+Así mismo, en el devenir de estos años de lucha feminista se ha hecho patente
+que como decía Kate Millet (1970) lo personal es político, por lo que la esfera
+privada ha quedado ligada a una necesaria reivindicación pública basada en la
+justicia social.
+Pero a pesar de que las pretensiones del movimiento han pivotado alrededor este
+principio de justicia, este ha padecido desde sus orígenes un estigmatizado imaginario social. Durante la mayor parte de su historia el feminismo ha tenido que
+lidiar con una negativa representación que ha calado en el imaginario colectivo
+de la sociedad. 
+58
+Feminismo, discurso mediático y percepción social
+ESTUDIOS
+A consecuencia de todo ello, el rechazo social a la identidad feminista ha resultado
+algo histórico y los estereotipos negativos han estado históricamente vinculados
+con el movimiento.
+2.2. Medios de comunicación
+En torno al feminismo y a las mujeres (o personas) que militan en este movimiento
+se ha fraguado un negativo estereotipo cultural y es aquí donde, según algunos
+autores, los MMCC han tenido una responsabilidad destacada (Rhode, 1995).
+Como señala Douglas (1994) en los 70s la palabra feminismo se convirtió en una
+«dirty word» (palabra–sucia) señalando a las feministas como personas desviadas,
+«man–hating» (odia–hombres) y radicales que amenazaban el orden establecido
+(p.165). Apoyando esta premisa, Lull, Mulac y Rosen (1983) demostraron en su
+estudio que las personas que se identificaban con los principios del movimiento
+feminista veían menos la tv que los sujetos que no lo hacían.
+En un artículo publicado por Zucker (2004), la autora aseguraba que el acercamiento al feminismo a través de la educación, las relaciones o luchas personales
+son condiciones favorables para la identidad feminista, mientras que la exposición
+a los MMCC y la asociación del feminismo con el extremismo son barreras a la
+identificación con este movimiento social.
+La investigación de Faludi (1991) también asegura que la esfera mediática ha
+apoyado la reacción antifeminista. Del mismo modo, en un intento disuasorio,
+estos también han dado a entender que “no es necesaria más acción feminista”
+(Schneider 1988, p. 11)
+A este respecto Esteban Morán Torres considera que: “No cabe la neutralidad, el
+tratamiento aséptico de la noticia en el periodismo de opinión. Para bien o para
+mal, el comentarista, el editorialista, el crítico y el columnista están dirigiendo al
+público en una dirección determinada” (1998, p. 11). También Castells (2009)
+hace alusión al poder intrínseco en los medios los cuales son el espacio donde se
+fragua la representación del poder.
+Las autoras de El sexo de la noticia defienden que: “la elección de un titular, de
+una ilustración que acompaña un texto, de una palabra, del adjetivo usado en la
+descripción o calificación de una persona, del estilo y de la forma como se hable
+de quien protagoniza los hechos, también forman parte de esta producción social
+que es siempre dinámica y cambiante” (2000, p. 4).
+Revista de Fomento Social 74/1 (2019) 59
+Irene Pérez–Tirado
+Ya férreamente reconocido el poder del discurso mediático, este también es capaz
+de difundir la filosofía del movimiento feminista a la sociedad. Llevar a cabo este
+ejercicio supone defender los cambios sociales que exige el feminismo para construir
+una sociedad más igualitaria con respecto al género (Boix, 2002).
+Con lo anteriormente expuesto, y través de un ACD, se pretenderán identificar e
+interpretar los mensajes relativos al feminismo. El ACD ofrece minuciosos análisis de
+las estructuras y estrategias del texto y de la relación de este con el contexto social
+y político en el que ha sido producido. Este tipo de estudios ayuda a esclarecer
+la orientación argumentativa intrínseca al texto cuya intencionalidad es procurar
+la aceptación o el rechazo de una representación social concreta. Y es que como
+ya postularon autores/as como el filósofo Foucault (1983) o la teórica feminista
+Butler (1990), es fundamental tener presente la importancia en el uso del lenguaje.
+Así pues, entendemos que en un tiempo de transformación como el actual, en
+el que el debate feminista está bajo el foco mediático, es esencial analizar los
+discursos que recibimos.
+En algunos de ellos se podrán entrever intenciones de perpetuar el orden imperante,
+de resistir ante lo que se percibe como una amenaza feminista.
+Así pues, y como defienden Van den Brink y Benschop (2014) es necesario detectar
+las estrategias de quienes pretenden mantener el poder de inclusión y exclusión,
+ya que las desigualdades estructurales de género persistirán siempre y cuando
+sigan manifestándose estas resistencias.
+A propósito de esa reflexión, resulta interesante la cita de Rosa Montero: “Cada
+cambio importante origina una respuesta retrógrada; cada avance una añoranza
+de involución” (Montero, 2018, p. 80).
+2.3. Percepción social
+Pero tan necesario resulta entender la intencionalidad de los discursos en el universo
+simbólico de la audiencia como comprender cuál es el modo en el que la sociedad
+está percibiendo ese cambio, quizá histórico.
+Desde hace décadas, se han configurado varias escalas para medir las actitudes e
+identidad feministas. Por aportar unas pinceladas de las conclusiones extraídas en
+algunos de estos estudios, una de las afirmaciones más compartidas sería que las 
+60
+Feminismo, discurso mediático y percepción social
+ESTUDIOS
+reacciones antifeministas estarían en parte causadas por lo que ellas denominan
+la justificación del sistema (Yeung, Kay y Peach, 2014).
+En relación con esto, resulta relevante señalar que la identidad social se forma
+en función de la pertenencia o no a diversos grupos. Como Tajfel y Turner (1989)
+argumentaban, las personas, en su intención por formar parte del grupo, procurarán tener identidad social positiva y no negativa.
+Haciendo alusión a las investigaciones de percepción social del feminismo consultadas por el momento, se puede destacar que, a pesar de llevar más de 80 años
+estudiándose esta temática, en el contexto español han sido notablemente escasas.
+La práctica totalidad de los estudios se han llevado a cabo en EEUU existiendo
+pocas referencias relevantes fuera de este espacio. Así mismo, entre los antecedentes impera la metodología cuantitativa en formato cuestionario por su mayor
+facilidad de aplicación. No fue hasta 2003 cuando Pamela Aronson se acercó al
+estudio del feminismo de forma exclusivamente cualitativa. Otro aspecto a tener
+en cuenta es que muchas escalas han sido aplicadas a muestras de participantes
+sesgados, centrándose especialmente en mujeres de perfil universitario como en
+el estudio de Zucker (2004).
+Se puede concluir por tanto que lo fenómenos y cambios que irrumpen en el panorama social son definidos, reproducidos, evaluados y sometidos a juicio en textos
+y discursos orales que serán transmitidos a la opinión pública. Es por ello que la
+percepción social de un determinado fenómeno y, por ende, las actitudes que se
+desarrollan hacia el mismo, están influenciadas por el mensaje que reproducen
+los MMCC y la realidad simbólica que construyen. Y es que en un contexto como
+el actual, en el que según Carter (2012) las identidades (individuales y colectivas)
+son flexibles, cambiantes, fluidas o, cómo calificaría Bauman (1999) líquidas, este
+estudio resulta de especial interés.
+Revista de Fomento Social 74/1 (2019) 61
+Irene Pérez–Tirado
+3. Objetivos e hipótesis
+3.1. Objetivos generales y específicos
+Los objetivos generales y específicos que esta investigación se propone alcanzar son:
+1. Analizar de manera crítica el discurso mediático transmitido por los medios
+informativos impresos en torno al feminismo.
+a) Realizar un análisis cuantitativo contrastivo de prensa.
+b) Analizar en profundidad el tratamiento del feminismo en prensa (léxico
+valorativo, tendencia ideológica, prejuicios, etc.)
+2. Conocer cuál es la percepción social de la población de la CAE sobre el movimiento feminista, y qué opina sobre cómo reflejan los medios informativos
+impresos este fenómeno.
+a) Conocer el consumo de medios de la población de la CAE.
+b) Sondear qué conocimientos posee, qué sentimientos les provoca y qué
+actitudes muestra la sociedad vasca hacia el feminismo.
+c) Analizar la percepción que tiene la sociedad vasca del tratamiento del
+movimiento feminista en prensa.
+3.2. Hipótesis
+Como ya se ha señalado anteriormente, la tesis despertó en torno a esta pregunta
+general:
+¿Cómo se construye el discurso mediático en torno al feminismo y cómo está percibiendo la sociedad este fenómeno social?
+En base a ello, las hipótesis que vertebran este estudio serían:
+– La respuesta de los MMCC en su discurso mediático hacia los avances del
+feminismo muestra ciertas resistencias y oposición al cambio.
+– La percepción social del momento actual del feminismo es confusa y la adhesión
+de la etiqueta feminista sigue resultando cuestionada.
+62
+Feminismo, discurso mediático y percepción social
+ESTUDIOS
+4. Metodología
+Para alcanzar los objetivos indicados se establecerán 5 fases en las que combinaremos diversos métodos de investigación para dar respuesta a nuestras cuestiones
+iniciales.
+Comenzando por una fotografía de la situación actual en la comunicación/percepción del mensaje feminista, se realizará seguidamente un estudio de caso del
+discurso periodístico. Posteriormente se tratará de ahondar en la percepción social
+del feminismo y así construir finalmente un diagnóstico que monitorice como se
+está emitiendo/recibiendo el mensaje.
+En definitiva, una simbiosis metodológica que aúne revisión documental, junto
+con revisión empírica (ACD, cuestionario, entrevistas y grupo de discusión) para
+confluir en una argumentación lo más teorizada posible en torno a este fenómeno
+social en constante trasformación.
+A continuación, se desarrollan más detalladamente los objetivos, la metodología
+y los resultados previstos en cada una de las etapas planificadas.
+4.1. Fase 1. Revisión documental
+En primer lugar, nos aproximaremos al Estado de la cuestión de nuestro tema
+sometido a análisis mediante la pertinente y rigurosa revisión bibliográfica.
+En esta recuperación documental exploraremos determinados conceptos clave a
+los que nos aproximaremos teóricamente. Así mismo, recopilaremos los estudios
+más relevantes sobre feminismo y discurso mediático, así como aquellos que de
+una forma innovadora y eficaz hayan llevado a cabo análisis de percepción social
+de este fenómeno social.
+4.2. Fase 2. Revisión empírica (I): ACD (Discurso Mediático)
+En esta etapa se intentará analizar, de manera crítica, el discurso mediático producido en la prensa más consumida en la CAE. Para ello se seleccionará un corpus
+compuesto por escritos del género de opinión (editoriales, artículos de opinión,
+viñetas y cartas al director) publicados durante los meses de enero, febrero y marzo de 2018. Los periódicos a consultar serán los de mayor tirada en el territorio 
+Revista de Fomento Social 74/1 (2019) 63
+Irene Pérez–Tirado
+según el Estudio General de Medios, 2018, comprendiendo El Correo, Deia, Gara
+y las tiradas de El País y El Mundo en la CAE. Esta muestra de publicaciones se
+examinará siguiendo el ACD, metodología basada en la teoría de Teun A. van Dijk.
+4.3. Fase 3. Revisión empírica (II): Cuestionario (Percepción Social)
+Una vez esbozado el modo en el que la prensa construye su discurso mediático se
+pondrá el foco en cómo, la sociedad vasca, percibe el feminismo.
+La estrategia de esta fase está por ser definida pero quizá se dé la posibilidad
+de lanzar nuestras cuestiones dentro del Deusto barómetro llevado a cabo por el
+Equipo de Deusto Valores Sociales. De no ser posible, se estudiarán otros modos
+de aplicar esta metodología. En cualquier caso, la muestra formada por (x00) individuos sería estadísticamente representativa y configuraría una selección aleatoria
+de hogares y cuotas de sexo y edad de la población residente en Euskadi. Las
+variables sometidas a análisis podrían estructurarse en 3 bloques temáticos básicos:
+a) Conocimiento sobre el movimiento feminista (valores/ objetivos)
+b) Percepción del activismo feminista (beneficios/ inconvenientes, etc.)
+c) Participación en el movimiento o en la filosofía del mismo
+4.4. Fase 4. Revisión empírica (III): Entrevistas y Grupos de discusión
+Tras esta aproximación masiva al conocimiento de la percepción social, está
+previsto complementar esta metodología cuantitativa con una versión cualitativa
+de respuestas que dote de mayor profundidad a la comprensión de esta realidad.
+La intencionalidad de incluir esta metodología es analizar en mayor profundidad
+los discursos de las personas, así como obtener más información con la que interpretar los datos obtenidos en el cuestionario.
+Para ello se realizarán algunas entrevistas en profundidad, así como grupo de
+discusión:
+a) Entrevistas en profundidad
+En un primer balance hemos estimado que (6) entrevistas en profundidad de
+carácter semiestructurado serán suficientes. Estas/os informantes serán figuras 
+64
+Feminismo, discurso mediático y percepción social
+ESTUDIOS
+clave, principalmente personal académico, profesionales de los MMCC y personal
+político o institucional.
+b) Grupo de discusión
+A continuación, y con el objetivo de contrastar e interpretar los resultados obtenidos
+anteriormente se tiene previsto realizar (1) grupo de discusión. La dinámica grupal
+seguirá las dimensiones tratadas en el guion temático de la encuesta y el grupo
+estará configurado en paridad de género. Así mismo, la sesión será grabada en
+audio y se transcribirá literalmente para posteriormente ser interpretada.
+4.5. Fin de proyecto
+Por último, se llevará a cabo un ejercicio final de reflexión de las ideas generadas
+a lo largo del proyecto. En todo el proceso de recopilación y manipulación de la
+información obtenida se tendrán en cuenta las recomendaciones sugeridas por Strauss
+y Corbin (1990, p. 17) los cuales consideran que, para analizar críticamente una
+situación, se debe estar dotado de sensibilidad social y teórica, defenderse desde
+una distancia analítica y, a su vez, recurrir a su experiencia y conocimiento teórico.
+A priori, la ambición de este proyecto es, tal y como señalaba la ilustración, articular una simbiosis metodológica que aúne revisión literaria y revisión empírica
+para confluir en una argumentación lo más teorizada posible. La investigación
+será de carácter mixto, en una pretensión de utilizar las fortalezas de los métodos
+cualitativos y cuantitativos en combinación y, así, minimizando sus debilidades.
+Así pues, se pretende aglutinar datos, indicadores, estadísticas, narrativas, discursos, etc. y con ello realizar una lectura ética de esta realidad. Posteriormente,
+apoyándonos en lo obtenido en el trabajo de campo y, siguiendo los preceptos de
+la Teoría Fundamentada (Strauss y Corbin 1990), se tratarán de construir teorías,
+hipótesis, conceptos y proposiciones, resultando esta combinación una metodología
+idónea para explorar en profundidad un determinado fenómeno social como es el
+feminismo. Nuestro propósito será por tanto entender e interpretar una determinada realidad, una realidad compleja, pero además de algún modo cuantificarla y
+por tanto pretenderemos, no solo descubrir, sino además construir conocimiento.
+El siguiente cuadro recoge una estimación de los trabajos previstos en cada una
+de las fases.
+Revista de Fomento Social 74/1 (2019) 65
+Irene Pérez–Tirado
+FIGURA 2. Resumen fases previstas
+1.1. Objetivos 2.1. Objetivos 3.1. Objetivos 4.1. Objetivos 5.1. Objetivos
+3.2. Metodología cuantitativa 5.2. Metodología
+2.2. Metodología 4.2. Metodología cualitativa
+1.2. Metodología documental
+3.3. Resultados fase
+5.3. Resultados investigación
+1.3. Resultados fase 4.3. Resultados fase
+2.3. Resultados fase
+FASE 1
+Revisión documental
+Estudio del estado del arte,
+realizando una revisión
+teórica actualizada sobre:
+a) MT discurso mediático
+sobre feminismo
+b) MT sobre percepción
+social del feminismo
+Interés conceptos como:
+- Discurso, lenguaje
+- Poder (asimetría)
+- Imaginario/ Imagologías
+- Mandatos de género
+- Percepción social
+Comunicación y feminismo
+Elaborar un informe
+que recoja resultados,
+discusión,
+conclusiones,
+limitaciones estudio y
+futuras líneas de
+investigacón.
+Estructuración y
+reflexión sobre la
+información recogida
+y el conocimiento
+generado en las fases
+anteriores
+Informe final sobre la
+realidad de la comunicación
+del mensaje feminista y su
+percepción social en
+Euskadi. Retos y propuestas
+1.Recopilación y revisión:
+BBDD, documentos, etc.
+2.Análisis/reflexión fuentes
+secundarias.
+3.Detección
+vacio/demarcación tema
+Capítulo (s) :
+a) Edo cuestión estudios sobre
+feminismo y discurso
+b) Edo cuestión estudios sobre
+feminismo y percepción social
+FASE 2
+Revisión empírica
+(I)
+FASE 4
+Revisión empírica (III)
+ENTREVISTAS en
+PROFUNDIDAD
+Contraste con expertos:
+(2) Personal académico
+(2) Profesionales MMCC
+(2) Personal político/
+instit.
+Capítulo (s) de diseño y muestra de los
+resultados de las entrevistas/ G. de discusión
+FASE 3
+Revisión empírica
+(II)
+Limitaciones estudio
+Realización 6
+entrevistas
+Realización 1
+G.de discusión
+FASE 5
+Fin proyecto
+Estudio piloto para
+pensar estructura
+dinámica grupal:
+Grupos de discusión
+Estudio piloto para escoger
+variables/ diseñar/ validar
+instrumentos previos:
+Guión cuestionario
+CUESTIONARIO
+Estudio de la percepción social
+del feminismo.
+(Por definir: DeustoBarómetro
+de DVS o definir perfil
+muestra concreta.)
+Realización (x00)
+cuestionarios
+Capítulo de diseño y muestra
+de los resultados del
+cuestionario.
+GRUPOS de
+DISCUSIÓN
+Grupo de discusión
+con expertos para
+contraste/interpretación de resultados.
+Diseño futuras líneas
+de investigación
+ANÁLISIS CRÍTICO DEL
+DISCURSO (ACD)
+-Análisis crítico del discurso
+mediático emitido desde la
+prensa de la CAE sobre el
+feminismo.
+-El léxico del feminismo
+Análisis Crítico del Discurso
+(Teun A. van Dijk)
+Corpus:
+-Género Opinión: editoriales,
+artículos de opinión, viñetas y
+cartas al director
+-Prensa: El Correo, Deia, Gara,
+El País (CAE), El Mundo (CAE)
+-Periodo: enero, febrero, marzo
+Capítulo sobre el
+tratamiento del fenómeno
+feminista en el discurso
+periodístico
+Estudio piloto para
+escoger variables/
+diseñar/ validar
+instrumentos previos:
+Guión entrevista
+Fuente: elaboración propia.
+5. Resultados esperados
+Esta investigación se enmarca en el proyecto de una tesis doctoral y por tanto
+los resultados de cada uno de los tres estudios planteados irán dando luz a las
+cuestiones apuntadas al inicio.
+Con la breve revisión de literatura presentada, la pertinente exposición de los
+objetivos e hipótesis y el trazado de la simbiosis metodológica diseñada se ha
+pretendido situar el fenómeno social a estudio, el feminismo, y dar a conocer las
+inquietudes que surgen alrededor de esta investigación.
+No se trata por tanto de una presentación de respuestas (o resultados) sino más bien
+de preguntas, las cuales tendrán una doble misión de guía y soporte del resto de
+la investigación. Es por ello que consideraba esencial compartirlo con especialistas
+en la materia como los/las asistentes a este encuentro donde cualquier sugerencia
+o recomendación será bien agradecida.
+66
+Feminismo, discurso mediático y percepción social
+ESTUDIOS
+A continuación, se presentará un ejemplo de los avances conseguidos por el momento en el primero de los estudios de esta investigación.
+5.1. Ejemplo de Análisis del Discurso mediático
+En lo referente al tratamiento del Movimiento Feminista por parte de los MMCC se
+puede intuir el cambio en un doble sentido: cuantitativo y cualitativo.
+La atención mediática ha centrado el foco en el feminismo al otorgarle, en el último año, una mayor cobertura a los asuntos vinculados con este fenómeno social.
+El feminismo resulta noticiable quedando consolidado en la agenda mediática y
+por ende en las rutinas productivas de los/las periodistas. Ante este repunte de
+visibilidad del movimiento, este cobrará mayor relevancia para la opinión pública
+quedando evidenciado el efecto «agenda setting».
+En cuanto al análisis cualitativo, el ACD revelará el modo en el que los profesionales que en esta esfera ocupan el discurso mediático (élite), trata el feminismo
+para lo cual se escogerán ciertas estrategias (o premisas). El corpus de artículos
+de opinión seleccionado pasará por el tamiz de dichas estrategias para entender
+qué se dice sobre el feminismo y cómo se dice.
+Existe, por tanto, consenso al señalar que el 2017 supuso un año de punto de
+inflexión en el repunte del tratamiento mediático de esta lucha social. Como se ha
+comentado con anterioridad fueron varios los casos «key event» o caso índice)
+que despertaron dicho cambio.
+Además, el periodismo de opinión es un espacio de exposición abierta de diferentes
+posturas ideológicas por medio del instrumento lingüístico y ante ello se intentará
+vislumbrar si se muestra resistencia o apoyo al cambio.
+Así mismo, en el análisis a este corpus de artículos sería interesante revelar el
+género de los/las periodistas que tienen su autoría. Según un reciente estudio
+llevado a cabo en enero de 2018 por la consultora de Comunicación y Relaciones
+Públicas, Planner Media donde analizaron 3000 piezas de opinión, solo el 21%
+de las mismas estaban escritas por mujeres.
+Este dato revela una evidente infrarrepresentación de las profesionales en la sección
+de opinión lo cual implica que el control del discurso público en este ámbito y,
+por ende, la opinión dominante sea la de los hombres. La capacidad de impacto
+social y la responsabilidad que recae sobre los/las profesionales de los MMCC 
+Revista de Fomento Social 74/1 (2019) 67
+Irene Pérez–Tirado
+en la creación de imaginarios colectivos deben tener presente el riesgo de caer en
+un sesgo androcéntrico al narrar la realidad.
+En este intento por detectar y examinar los elementos de poder y desigualdad
+que se transmiten en el lenguaje y componen los discursos se han seleccionado
+6 artículos a modo de ejemplo de lo que posteriormente se hará con las piezas
+recopiladas para este estudio.
+5.1.1. Corpus
+La breve muestra de artículos analizados para esta ejemplificación es la siguiente:
+– Cayetana Álvarez de Toledo: “No a la guerra” (El Mundo, 8 de marzo de
+2018).
+– Federico Jiménez Losantos: “Femicomunismo” (A) (El Mundo, 5 de marzo de
+2018) y “Que salga Tania” (B) (El Mundo, 7 de marzo de 2018).
+– J. Rodríguez: “Sin novedad en casa, cariño” (Deia, 9 de marzo de 2018).
+– Félix de Azúa: “Burradas” (El País, 13 de febrero de 2018).
+– Poirier, Agnès:” Deneuve y el feminismo de las francesas” (El País, 22 de enero
+de 208).
+5.1.2. Estrategias
+Las tres estrategias (o premisas) 2aplicadas en el análisis de estos artículos de
+opinión son:
+1. Tratar como “anómalo”, “irracional”, “infantil”, o, simplemente, falto de lógica el
+argumento que no reproduce, acepta o comparte lo que estos autores piensan.
+2. Desvirtuar el debate acerca del feminismo con exageraciones, imprecisiones y
+caracterizaciones que perpetúan los tópicos.
+3. Sustituir los argumentos elaborados por expresiones y prácticas lingüísticas que
+denigran a las mujeres y reproducen estereotipos sexistas.
+2
+ Estas estrategias (o premisas) fueron diseñadas por la investigadora María Pilar Rodríguez Pérez
+(Universidad de Deusto) para una comunicación presentada bajo el título «Resistencias al movimiento
+#MeToo: respuestas en la prensa española de opinión al manifiesto de intelectuales francesas».
+68
+Feminismo, discurso mediático y percepción social
+ESTUDIOS
+5.1.3. Ejemplo ACD
+1. Tratar como “anómalo”, “irracional”, “infantil”, o, simplemente, falto de lógica
+el argumento que no reproduce, acepta o comparte lo que estos autores piensan.
+La asimetría de poder también puede presentarse en forma de relaciones discursivas. El lenguaje y, por tanto, el discurso, es poder y en el caso que nos atañe
+recae sobre una élite. Esta élite está conformada por profesionales acreditados
+del mundo de la comunicación donde su puesto les asegura el control social del
+discurso, así como un amplio sector de la sociedad como audiencia. Desde esta
+posición de dominio de los recursos podrán ejercer un control discursivo de los
+actos lingüísticos mediante la persuasión como forma de ejercer el poder (Chomsky
+y Herman, 1988). De este modo, serán capaces de trasmitir su propio ideario,
+adjetivando la realidad de un modo afín a sus propias creencias.
+Hace ya unos años que el movimiento feminista empezó a derrapar hacia un victimismo
+pueril, puritano y paralizante. Su retórica es puro helio inyectado en la realidad (…)
+Digámoslo sobriamente: para ser una mujer no hace falta actuar como un hombre. Ni
+tampoco llorar como un bebé (…) Nada hay más paralizante, contrario al pleno despliegue
+del potencial de una mujer, que el victimismo. Y nada más peligroso para la convivencia
+y la salud democráticas. El victimismo es uno de los peores vicios de nuestro tiempo. Está
+vinculado a la infantilización del mundo contemporáneo y su principal efecto político
+es el populismo. Para un demagogo de medio pelo o coleta el paraíso son millones de
+víctimas necesitadas de un salvador. Sí, de un macho. Y bien alfa. (Álvarez de Toledo)
+Por otro lado, y entre las personas que no secundan la filosofía feminista podrían
+estar aquellas que justifican su rechazo por la identificación del movimiento con
+las feministas radicales de la segunda ola y además reconocen en el mismo, problemas de imagen.
+Parodiando a Stleg Larsson, diríase que las femicomunistas de cartilla son mujeres que
+odian a las mujeres, a las reales, que ni aceptan su sexismo, ni odian a todos los hombres,
+ni van a dejar de cuidar a sus madres un día porque ellas lo manden. ¡Y mira que les
+gusta mandar! (Jiménez Losantos /A)
+Si en lugar de leer libros feministas leyera un poco de literatura habría podido elegir
+otra palabra, “portavocisa”, que no habría levantado la menor suspicacia. ¿No tenemos
+poetisa y sacerdotisa? Pues portavocisa sería un palabro estupendo. (Azúa)
+2. Desvirtuar el debate acerca del feminismo con exageraciones, imprecisiones y
+caracterizaciones que perpetúan los tópicos.
+Los MMCC son agentes de dos procesos: identitarios y de legitimación. Por un lado,
+generadores de subjetividad e inter–subjetividad ya que los procesos identitarios 
+Revista de Fomento Social 74/1 (2019) 69
+Irene Pérez–Tirado
+requieren del reconocimiento propio y de los demás. Y por otro, constituyentes
+de un espacio de legitimación social y simbólica puesto que son transmisores de
+valores, ideas y normas de conducta. Por lo tanto, el proceso de aceptación social será más idónea cuando la adhesión a una etiqueta determinada me facilite
+la pertenencia al grupo. En la creación del imaginario colectivo que envuelve al
+movimiento feminista estarán inmersos los MMCC.
+La murga retrofeminista sería reducible a un bongo más de la orquesta antisistema si no
+tuviera consecuencias. Y si esas consecuencias no fueran tan negativas: el victimismo y
+la guerra de sexos. Como proclama el manifiesto que un grupo de mujeres presentamos
+anteayer, no nacemos víctimas. Y sobre todo no lo hacemos en España. (Álvarez de Toledo)
+Hacía mucho tiempo que no se proponía como banderín de enganche para una huelga general de la mitad de la humanidad sita en España (nada menos) un texto tan
+grotesco, tan contrario a la Historia, la Gramática, el sentido común y el sentir general
+de las mujeres como el que alguna célula femicomunista ha alumbrado para el día 8
+de marzo, homoheterotranshuelga a la que se ha sumado el arzobispo de Madrid en
+nombre de la Virgen María (…) El femicomunismo habla, teóricamente, en nombre de
+todas las mujeres, pero va en contra de lo que hace y dice la mayoría de las mujeres
+reales. (Jiménez Losantos /A)
+En los últimos 20 años, aproximadamente, ha surgido un nuevo feminismo francés, importado de Estados Unidos, que ha adoptado esa paranoia antimasculina que describía
+Beauvoir y que nos es bastante ajena. Se ha apoderado de #MeToo en Francia y se ha
+manifestado ruidosamente contra la carta encabezada por Deneuve. (Poirier)
+3. Sustituir los argumentos elaborados por expresiones y prácticas lingüísticas que
+denigran a las mujeres y reproducen estereotipos sexistas.
+Puede ser que durante algunos años los MMCC hayan trasmitido un tramposo
+ideario feminista/ post–feminista en torno al papel de la mujer. Parece que, al
+menos en la ficción, las mujeres hubieran alcanzado la igualdad. Esta corriente, si
+bien pudo haber calado en el entorno mediático y, por ende, en parte del imaginario social no así ha sido en el ámbito académico donde sus detractores/as han
+sido mayoría. En el argumentario producido por algunos/as periodistas, puede
+apreciarse dicha ideología y cierta intención de denigrar a la mujer y a su lucha.
+Casos de mujeres asesinadas o agredidas son exhibidos como prueba de la violencia
+intrínseca del hombre y del sistema. Se obvia la posibilidad de que las mujeres queramos
+trabajar a tiempo parcial, como en la hiperigualitarista Holanda. Las estadísticas se
+inflan hasta pintar un infierno labora, de mujeres explotadas y humilladas por sus jefes
+y colegas. ¿Y total para qué? La exageración no impulsa el progreso (…). Esta huelga
+no es a favor de la mujer, sino en contra del hombre. “¡No, no!”, bramarán. Pero, a
+ver, ¿contra quién si no protestan? ¿Quién es el culpable de la discriminación? Si no es
+la Virgen María, será San José. Y eso que, en su caso, no hubo ni mano en la rodilla. 
+70
+Feminismo, discurso mediático y percepción social
+ESTUDIOS
+A falta de enemigos reales, el nuevo feminismo ha decidido librar una guerra contra un
+espectro. Weinstein es un hombre raro entre los hombres, porque, ¡incluso entre los hombres!, lo raro es ser un criminal. Un piropo no es una agresión sexual. Y los sentimientos
+no son hechos. Esto último lo digo por la encuesta de El País según la cual un tercio de
+las mujeres españolas se ha “sentido” acosada alguna vez (…) A nadie le interesa una
+guerra de sexos. Y desde luego no nos interesa a las mujeres. Primero, porque la fuerza
+no es nuestro fuerte. Salvo que consigamos emascular a nuestros enemigos, hacerlos a
+todos peluditos y suaves como un Platero metrosexual. (Álvarez de Toledo)
+Digo relevantes por su trayectoria profesional de muchas décadas, no por llevar dos años
+en un puesto destacado pero dependiente del Macho Alfa (refiriéndose a Irene Montero),
+que es quien pone cargos y reparte cargas (…). «Será muy difícil que se visibilice en el
+Congreso que hay mujeres que estamos haciendo huelga y parando», dijo la diputada,
+que espero no cobre el tiempo que no trabaja, porque todos le pagamos el sueldo para
+que trabaje. Para montar numeritos, a la calle y en domingo (…) ¿Quiere Montero que
+se visibilice a las huelguistas de la bancada que pastorea? Es fácil: que salga Tania
+Sánchez de detrás de la columna. No al burka de estuco. No al cobrador de Teherán.
+(Jiménez Losantos /B)
+ESTIMADA cariño mío. Ayer te vi en el informativo de la noche bañándote en la Plaza
+Moyua con unas amigas y supuse que llegarías a casa tarde después de ese día tan
+reivindicativo del que disfrutaste. Te dejo esta nota para informarte de que todo ha ido
+bien. Llevé a los niños al colegio sin desayunar porque no encontré el Cola Cao, pero les
+compré pistachos en un chino. Por cierto, ¡no me habías dicho que les habíamos cambiado
+de centro! (…) Me telefoneó una señora al trabajo cuando se la encontró en la cama.
+¿Quién es y por qué tiene llave de nuestro piso? ¿Quizá tu madre o una interina? Si no
+es así, tenemos que llamar a la Ertzaintza y cambiar la cerradura (…). Al final, cenamos
+pepinillos con donuts, y la niña, que es muy simpática cuando coge confianza, se puso
+mala. Para que le bajara la fiebre, le di unas pastillas de la marca Lacasitos que había
+en el botiquín. Bueno, a la noche hablamos. Ya no hacéis más huelgas hasta el año que
+viene ¿verdad? Es para organizarme un poco. Un beso. (Rodríguez)
+Al aplicar estos tres criterio o estrategias de análisis a la muestra de artículos
+seleccionada pueden apreciarse ciertas resistencias generadas ante el avance del
+movimiento feminista. Las reacciones negativas a este repunte del feminismo se
+muestran en una abierta y declarada reticencia a simpatizar con el movimiento.
+Además, este crítico posicionamiento vendrá siendo definido en este caso por los/
+as profesionales medios, autores/as de estos artículos, los/as cuales pertenecen
+a un grupo privilegiado. Así pues, se dará un ejemplo más donde la élite detenta
+el poder discursivo.
+Revista de Fomento Social 74/1 (2019) 71
+Irene Pérez–Tirado
+6. Conclusiones
+Citando de nuevo a van Dijk (1996, p. 84–85), el poder se expresa, reproduce
+y legitima a través del lenguaje. Es a partir de aquí desde donde se construirán
+modelos mentales personales de los acontecimientos. Por ende, y como defiende
+Castells, los MMCC construyen y reproducen el poder y por eso desde ellos es
+posible aceptar, cuestionar o rechazar el statu quo hegemónico. Por otro lado,
+también recaerá sobre la audiencia la responsabilidad de sanear el discurso
+público ya que este imaginario se construye a través de la interacción individual.
+Ante esta responsabilidad dual de los MMCC y la sociedad, se ha fraguado la razón
+de ser de esta investigación desde la que se pretenderá averiguar cómo se emite/
+recibe el mensaje sobre el feminismo para comprender el imaginario construido
+alrededor de este controvertido concepto. Como decía Karl Marx “lo concreto es
+concreto porque es la síntesis de múltiples determinaciones” (Marx, 2007, p. 24).
+Con esta reflexión quería defender la idea de que la explicación profunda de un
+fenómeno no deriva de sus atributos superficiales sino de sus raíces y estructuras, así
+como de diversos factores, que son los que configuran la realidad que percibimos.
+En este punto, el feminismo será un movimiento comprometido con la reconstrucción
+de la identidad de la mujer (Castells, 1996). Como sujeto social tendrá un papel
+destacado en la gestión de la acción colectiva que se moviliza por este cambio
+cultural, de valores, actitudes y principios, además de ser un agente de producción
+de información y signos culturales (Melucci, 2001).
+Al feminismo, le precedieron décadas en los que adherirse esta etiqueta resultaba
+poco frecuente e incómodo. Ahora las rutinas periodísticas y la cultura popular
+parecen acoger con renovado entusiasmo el interés por esta doctrina. En unos
+tiempos en los que el feminismo es tendencia, se tendrá presente la peligrosa inercia
+que tendría caer en un feminismo vacuo o banal en el intento de este movimiento
+social por hacerse universal y tratar de reclutar el máximo número de personas
+posibles. Simplificar el mensaje del feminismo puede ser un arma de doble filo
+que conviene analizar.
+Ante esta realidad conviene ser exigentes con lo que como espectadores/as consumimos ya que lo que podría ser una cínica estrategia de marketing o, por el
+contrario, una apología disuasoria del movimiento, estaría enviando un mensaje
+distorsionado.
+Y es ahora, en este contexto, de aparentes grandes oportunidades para el movimiento feminista, cuando este debe tener la capacidad reflexiva oportuna para 
+72
+Feminismo, discurso mediático y percepción social
+ESTUDIOS
+dar viabilidad a sus reivindicaciones y estrategias lo cual nunca será posible sin,
+lo que Inglehart (1992) acuñó como, una movilización cognitiva de la sociedad.
+Así pues, la finalidad última de esta investigación será aportar reflexión teórica al
+feminismo, así como generar apoyo empírico al debate actual. En este proceso se
+tendrá presente la idiosincrasia propia de la Comunidad Autónoma de Euskadi,
+demarcación geográfica de la muestra del estudio de percepción social sobre
+feminismo.
+Cerramos recordando la acertada reflexión de Amelia Valcárcel, ”del feminismo
+siempre se dice que es un recién nacido y que ya está muerto” (citado en Varela,
+2013, p. 14) … quedando expectantes ante lo que depare esta ola de posibles
+cambios.
+7. Referencias
+ALTÉS, E.; BACH, M.; GALLEGO, J.; PLUJÀ, M. y PUIG, M. (2000) El sexo de la noticia,
+Barcelona: Icaria.
+BAUMAN, Z. (1999) Modernindad líquida. Acerca de lo leve y lo líquido, Buenos
+Aires, Fondo de Cultura Económica.
+BOIX, M. (2002) «Feminismos, comunicación y tecnologías de la información. El
+periódico feminista: Mujeres en Red». Recuperado de: http://www.mujeresenred.
+net/m_boix–feminismo_y_comunicacion.html [consultado el 08–05–2018].
+BUTLER, J. (1990) Gender trouble, Londres: Routledge.
+CACACE, M. (2006) Mujeres jóvenes y feminismo: valores, cultura y comportamientos
+frente a frente, Madrid: Narcea.
+CARTER, J. (Ed.) (2012) Postmodernity and the fragmentation of welfare, Londres:
+Routledge.
+CASTELLS, M. (1996) La era de la información. El poder de la identidad, vol. 2,
+159–269, Alianza Editorial.
+— (2009) Communication Power, Oxford y Nueva York, Oxford UP.
+Revista de Fomento Social 74/1 (2019) 73
+Irene Pérez–Tirado
+CHOMSKY, N. y HERMAN, E. S, (1988) Los guardianes de la libertad (título original,
+en inglés, Manufacturing Consent: The Political Economy of the Mass Media) (1ª
+edición), Barcelona: Crítica.
+DOUGLAS, S. J. (1994) Where the girls are: Growing up female with the mass media,
+Nueva York: Times Books.
+FACIO, A. (1999). «Feminismo, género y patriarcado: Lectura de Apoyo» 1. Recuperado de: http://justiciaygenero.org.mx/wp–content/uploads/2015/04/
+Feminismo–género–ypatriarcado.–Alda–Facio.pdf
+FALUDI, S. (1991) Backlash the undeclared war against American women, Nueva
+York: Crown Publishers.
+FOUCAULT, M. (1983) «The subject and power: Afterword», en DREYFUS, H. L. y
+RABINOW, R. (Eds.), Michel Foucault (2ª ed.), (pp. 208–227), Chicago: University
+of Chicago Press.
+FREEDMAN, J. (2001) Feminism, Philadelphia: Open University Press.
+HASMATH, R. (2014) «The discursive construction and performance of gendered
+identity on social media». Recuperado de: http://works.bepress.com/rhasmath/24
+HOOKS, B. (2000) Feminism is for everybody, Londres: South End Press.
+INGLEHART, R. (1992) «Valores, ideología y movilización cognitiva en los nuevos
+movimientos sociales» en DALTON, R. J. y M. KUECHLER (comp. 1992): Los nuevos
+movimientos sociales: un reto al orden político, València: Alfons el Magnànim.
+LULL, J., MULAC, A., y ROSEN, S. L. (1983) «Feminism as a predictor of mass media
+use», Sex Roles 9, 165–177.
+MARX, K. (2007) Elementos fundamentales para la crítica de la economía política
+(Grundise) (1857–1858) (7ª), Madrid: Siglo XXI.
+MELUCCI, A. (1994) «Asumir un compromiso: identidad y movilización en los movimientos sociales», Zona Abierta 69.
+— (2001): «¿Qué hay de nuevo en los movimientos sociales?», en LARAÑA, E. y
+GUSFIELD, J. (eds.): Los nuevos movimientos sociales. De la ideología a la identidad,
+Madrid, CIS, 119–149.
+74
+Feminismo, discurso mediático y percepción social
+ESTUDIOS
+MILLETT, K. (2010) Política sexual, Madrid: Cátedra.
+MONTERO, R. (2018) «Dos pasos para atrás o para adelante», El País Semanal
+(11–2–2018).
+MORÁN, E. (1998) Géneros del periodismo de opinión. Crítica, comentario, columna,
+editorial, Pamplona: Universidad de Navarra.
+PHILLIPS, R., y CREE, V. E. (2014) «What does the ‘fourth wave’ mean for teaching
+feminism in 21st century social work?», Social Work Education the International
+Journal, 1–14. doi:10.1080/02615479.2014.885007
+RHODE, D. L. (1995) «Media images, feminist issues», Signs 20, 685–710.
+ROSSI, A. (1982) Feminists in politics, Nueva York: Academic.
+SAU, V. (2000) Diccionario ideológico feminist, vol. I, Barcelona, Icaria.
+SCHNEIDER, B. (1988) «Political Generations in the Contemporary Women’s Movement», Sociological Inquiry 58, 4–21.
+SENDÓN, V. (2000) «¿Qué es el feminismo de la diferencia?: Una visión muy
+personal», El periódico feminista: Mujeres en Red. Recuperado de: http://www.
+mujeresenred.net/IMG/article_PDF/article_a1985.pdf
+STRAUSS, A. y CORBIN, J. (1990) Basics of qualitative research: Grounded theory
+procedures and techniques, Newbury Park, CA: Sage.
+SWIRSKY, J. M. y ANGELONE, D. J. (2014) «Femi–Nazis and Bra Burning Crazies: A
+qualitative evaluation of contemporary beliefs about feminism», Current Psychology
+33, 229–245.
+TAJFEL, H. y TURNER, J. C. (1989) «La teoría de la identidad social de la conducta
+intergrupal», en MORALES, J. F. y HUICI, C., Lecturas de Psicología Social, pp. 225–259,
+Madrid: UNED. (Trabajo original publicado en 1985).
+VALCÁRCEL, A. (1991) Sexo y filosofía. Sobre “mujer” y “poder”, Barcelona:
+Anthopos.
+— (2001) La memoria colectiva y los retos del feminismo, Naciones Unidas, Chile.
+Revista de Fomento Social 74/1 (2019) 75
+Irene Pérez–Tirado
+VAN DIJK, T. (1996) «Discourse, power and access», en CALDAS–COULTHARD C. R. y
+COULTHARD, M. (eds.), Texts and practices, 84–104, Londres: Routledge.
+— (1999) «El análisis crítico del discurso», Anthropos 186, 23–36.
+— (2003) Ideología y discurso, Barcelona: Ariel.
+VAN DER BRINK, M. y BENSCHOP, Y. (2014) «Gender in Academic Networking: The
+Role of Gatekeepers in Professorial Recruitment», Journal of Management Studies
+51(3), 460–492.
+VARELA, N. (2013) Feminismo para principiantes, Barcelona: Penguin Random House.
+YEUNG, A. W. Y., KAY, A. C. y PEACH, J. M. (2014) «Anti–feminist backlash: The role
+of system justification in the rejection of feminism», Group Processes & Intergroup
+Relations 17(4), 474–484.
+ZUCKER, A. N. (2004) «Disavowing social identities: What it means when women
+say, “I’m not a feminist, but…”», Psychology of Women Quarterly 28 (4), 423–435.

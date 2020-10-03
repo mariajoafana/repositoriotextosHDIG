@@ -1,0 +1,890 @@
+Ciberactivismo y olas de agitación comunicativa.
+Consideraciones etnográficas
+Cyber-activism and Waves of Communication Agitation:
+Ethnographic Considerations
+Ciberativismo e ondas de agitação comunicativa
+Considerações etnográficas
+Nicolás Aguilar-Forero
+Fecha de recepción: 18 de febrero de 2017
+dossier
+Fecha de aceptación: 14 de julio de 2017
+Resumen
+En este artículo se presentan algunos resultados de un trabajo etnográfico colaborativo, multisituado y
+experimental que tuvo lugar durante los años 2012 y 2014, y que giró en torno a las prácticas comunicativas de la organización Hijos e Hijas por la Identidad y la Justicia contra el Olvido y el Silencio
+(H.I.J.O.S.). En particular, se analizan las características del ciberactivismo del nodo de H.I.J.O.S. en
+Bogotá y se ilustra cómo la apropiación politizada de distintas plataformas de Internet por parte de
+este colectivo favorece la circulación de contenidos, la coordinación de acciones e incluso la transformación constructiva de sus conflictos internos. El análisis, desarrollado en diálogo con ciertas claves
+interpretativas derivadas de la antropología de los mundos virtuales, pretende además promover una
+reflexión acerca de los desplazamientos necesarios y los retos del trabajo etnográfico, de cara al estudio
+del ciberactivismo en el mundo contemporáneo.
+Descriptores: ciberactivismo; trabajo etnográfico; tecnologías digitales; plataformas de Internet; antropología virtual.
+Abstract
+In this article I present the results of a multi-sited, collaborative and experimental ethnographic
+study that took place between 2012 and 2014. It was focused the communication practices of
+the organization Sons and Daughters for Identity and Justice and Against Forgetting and Silence
+(H.I.J.O.S. in Spanish). In particular, the analysis in this article focuses on the characteristics of the
+cyber activism of the Bogota based chapter of H.I.J.O.S. as an example of the politicized appropriation of distinctive online platforms by this group to share content, coordinate activities and for
+the resolution and transformation of internal conflicts. The analysis, developed in dialogue with key
+concepts from the anthropology of virtual worlds, attempts to promote reflection on the necessary
+displacements and the challenges of ethnographic fieldwork, in the context of the study of cyber
+activism in the contemporary world.
+Nicolás J.C. Aguilar-Forero. Doctor en Ciencias Sociales, Niñez y Juventud por la Universidad de Manizales, Colombia. Profesor e investigador en la Universidad de los Andes, Colombia.
+* nj.aguilar1902@uniandes.edu.co
+ISSN: 1390-1249
+DOI: http://dx.doi.org/10.17141/iconos.59.2017.2595
+124
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+Keywords: cyber-activism; ethnographic fieldwork; digital technology; online platforms; virtual anthropology.
+Resumo
+Neste artigo apresentam-se alguns resultados de um trabalho etnográfico colaborativo, multisituado e
+experimental que teve lugar durante os anos 2012 e 2014, e que girou em torno às práticas comunicativas da organização Filhos e Filhas pela Identidade e a Justiça contra o Olvido e o Silêncio (H.I.J.O.S.).
+Em particular, se analisam as características do ciberativismo de H.I.J.O.S. em Bogotá e se ilustra como
+a apropriação politizada de diversas plataformas de Internet por este grupo favorece a circulação de
+conteúdos, a coordenação de ações e até mesmo a transformação construtiva dos seus conflitos internos. A análise desenvolvida em diálogo com certas chaves interpretativas derivadas da antropologia dos
+mundos virtuais pretende também promover uma reflexão sobre as mudanças necessárias e os desafios
+do trabalho etnográfico de frente ao estudo do ciberativismo no mundo contemporâneo.
+Descritores: ciberativismo; trabalho etnográfico; tecnologias digitais; plataformas de Internet; antropologia virtual.
+El ciberactivismo, asociado con usos y apropiaciones diversas de tecnologías
+digitales que potencian la acción colectiva, ocupa un lugar central en las sociedades contemporáneas. Como señala Rueda (2013), si bien los nuevos repertorios tecnológicos son formas predominantes de producción y control, al mismo
+tiempo son dispositivos con potencialidad para la expansión de la subjetividad, la
+toma de la palabra, la cultura política y el ejercicio ciudadano o ciberciudadano. En
+efecto, la comunicación mediada por tecnologías digitales es catalizadora de la creatividad político-cultural, de la invención de lenguajes expresivos y de otras maneras de
+decir, afectar o incidir en los demás. Lo anterior ha sido comprendido por movimientos sociales y experiencias de acción colectiva juvenil que, desde hace algunos años, se
+han apropiado de redes sociales como Twitter o Facebook, promoviendo usos creativos de blogs, páginas web, plataformas de trabajo colaborativo, listas de correo electrónico, mensajería instantánea, entre otros. La Primavera Árabe, los Indignados, los
+movimientos estudiantiles en América Latina o los movimientos Occupy son algunos
+de los ejemplos más visibles y recientes de la disrupción política juvenil que, a través
+del ciberactivismo, ha impulsado cambios políticos, económicos y socioculturales.1
+Tales oleadas de revueltas sociales y agitaciones comunicativas que se hicieron presentes en 2011 –y reaparecieron con nuevas intensidades y formas en 2013 y 2016–
+prometen nuevas mareas en un mundo cada vez más desigual, injusto, xenófobo,
+predador de su entorno, cuyo viraje hacia la derecha del espectro político es cada vez
+más evidente. Ante este panorama, surgen las siguientes preguntas: ¿cómo investigar
+1 El ciberactivismo puede ser oficialista y liberal en términos ideológicos (ligado con la garantía de derechos, el fortalecimiento del Estado o el mejoramiento del sistema), o puede ser más radical: queer, anticolonialista y anticapitalista
+(Grau 2016; Emejulu y Mcgregor 2017). En cualquier caso, no cabe duda de que el ciberactivismo apunta a promover
+el cambio político, económico y sociocultural, con niveles variables de radicalidad.
+125
+ÍCONOS 59 • 2017 • pp. 123-148
+Ciberactivismo y olas de agitación comunicativa. Consideraciones etnográficas
+tales experiencias de acción colectiva con protagonismo juvenil que se mueven en
+los pliegues online/offline? ¿Qué desplazamientos se requieren para abordar ciberactivismos que, como se ilustra más adelante, redefinen los espacios, tiempos e incluso
+relaciones sociales? ¿Cómo repensar el “trabajo de campo” cuando el “campo” del
+ciberactivismo no está delimitado, localizado ni asociado con un grupo o “cultura”
+definida? A continuación, se abordan tales interrogantes a partir de la descripción de
+la propuesta metodológica que soportó una investigación sobre las prácticas comunicativas de H.I.J.O.S. Bogotá. Luego se exponen algunos resultados derivados del
+trabajo etnográfico desarrollado, con el fin de propiciar la reflexión en torno a los
+retos de la etnografía para el estudio del ciberactivismo en el mundo actual.
+El trabajo etnográfico: desplazamientos necesarios
+en contextos de ciberactivismo
+Durante los años 2012 y 2014, desarrollé una investigación doctoral sobre las prácticas comunicativas de dos experiencias organizativas juveniles que han trabajado en
+Colombia a favor de los derechos humanos, la memoria histórica y la construcción
+de paz: Hijos e hijas por la Identidad y la Justicia contra el Olvido y el Silencio
+(H.I.J.O.S.) y Contagio Comunicación Multimedia.2
+ Esta investigación se basó en
+una aproximación etnográfica colaborativa (Rappaport 2007; Rappaport y Ramos
+2005) y militante (Scheper-Hughes 1995a; Juris 2007) en la que, como investigador,
+me identifiqué plenamente con los interlocutores del colectivo y me esforcé por superar la distinción entre activismo e investigación: entre los actores políticos y los “académicos” que los “investigan”. Tal enfoque de investigación “se concretó en más de
+un año de participación en varias movilizaciones, actos conmemorativos, reuniones
+internas y encuentros formativos, entre otras acciones e intervenciones de H.I.J.O.S.
+que tuvieron lugar entre noviembre de 2012 y mayo de 2014” (Aguilar-Forero y
+Muñoz 2015, 1027) en la ciudad de Bogotá.
+En este estudio, quise entender la etnografía no como la descripción de “otra”
+realidad o cultura, ajena y distante, sino como un enfoque relevante para comprender
+contextos a los que ya pertenecía, y en los que convergen sujetos con posicionamientos distintos pero políticamente articulables (Clifford 2003). Asimismo, más que un
+conjunto de técnicas o el producto escrito que se deriva del análisis e interpretación
+de datos, entendí la etnografía como una mediación en la que se articulan consideraciones teóricas, metodológicas y epistemológicas (incluso ontológicas), con prácticas
+2 Si bien la investigación se desarrolló con dos experiencias organizativas, el presente artículo se centra en H.I.J.O.S.
+Bogotá, colectivo que desde el año 2006 reúne a jóvenes que han puesto en marcha “iniciativas de construcción de
+memoria, de lucha contra la impunidad y de trabajo a favor de la solución pacífica del conflicto sociopolítico y armado en Colombia” (Aguilar-Forero 2016, 90).
+126
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+y relaciones situadas en múltiples lugares de posible conocimiento etnográfico, y
+“modeladas por relaciones politizadas de colaboración” (Marcus 2008, 34). Desde
+esta comprensión, me propuse analizar los usos y apropiaciones de tecnologías digitales en contextos de activismo, evitando categorías preconcebidas y valorando la
+propia perspectiva de las personas “que las incorporan en su vida cotidiana y que las
+manejan y las crean” (Ardèvol y Lanzeni 2014, 33).
+Por lo tanto, aunque en el corazón del estudio gravitó un tipo de investigación
+colaborativa y militante, el devenir de la práctica investigativa me acercó al terreno de
+la antropología digital, también denominada antropología de los mundos virtuales
+(Boellstorff 2012; Boellstorff 2016; Ardèvol y Lanzeni 2014). Este campo agrupa diversas perspectivas, temas y problemas relacionados con lo digital, entendido “como
+un proceso relacionado con las unidades de información que circulan entre nosotros
+en diferentes formatos, generando con ello continuidades y discontinuidades en las
+formas de hacer, pensar y experimentar cosas como las relaciones sociales, el arte, la
+política” (Ardèvol y Lanzeni 2014, 14). Como parte de este campo, mi trabajo contribuye y se suma específicamente al creciente número de etnografías y estudios que
+han abordado las relaciones entre medios digitales y movimientos sociales (Barbas
+2015; Treré 2013; Fernández-Planells 2013; Juris 2012), con especial énfasis en colectivos juveniles (Valderrama 2013; Aguilera 2006).
+Para llevar a cabo la investigación, fueron necesarios tres desplazamientos en la
+concepción y práctica del trabajo etnográfico. En primer lugar, se requirió de un tránsito de la concepción de “campo” como unidad y espacio físico claramente definido
+a la comprensión del mismo como ensamblaje de flujos, relaciones, actores y prácticas físico-virtuales que pueden ser rastreadas, interpretadas y experimentadas. Desde
+esta perspectiva, el campo se amplía e incorpora los múltiples mundos virtuales que
+habilita Internet (redes sociales, correo electrónico, páginas web, etc.), en los que el
+investigador participa transitando por diversos entornos sociotécnicos y siendo parte
+de las mismas prácticas que investiga (Ardèvol y Gómez 2009).
+Esta concepción de campo es coherente con el activismo juvenil, el cual se mueve
+por diversos espacios y pasa simultáneamente por las calles, plazas, cuerpos y por los
+muchos lugares de Internet, en lo que podríamos llamar una acción política multisituada mas no necesariamente desterritorializada. Por esta razón, la etnografía de
+los activismos y ciberactivismos juveniles debe ser igualmente multisituada (Marcus
+2001), de manera que no se pliegue solo a los mundos físicos o solamente a los virtuales y responda así a una acción política juvenil en la que los contextos online y offline
+se cruzan e hibridan constantemente (Treré 2013). Como explica Marcus (2001),
+“la investigación multilocal está diseñada alrededor de cadenas, sendas, tramas, conjunciones o yuxtaposiciones de locaciones en las cuales el etnógrafo establece alguna
+forma de presencia, literal o física, con una lógica explícita de asociación o conexión
+entre sitios” (118).
+127
+ÍCONOS 59 • 2017 • pp. 123-148
+Ciberactivismo y olas de agitación comunicativa. Consideraciones etnográficas
+Así pues, el trabajo de campo en este tipo de aproximación multisituada (o multilocal) se expresa como una búsqueda de datos significativos en diversos espacios y
+mediante estrategias de recolección de datos online y offline, que problematizan la distinción entre “lo real” y “lo virtual”. Como bien señala Boellstorff (2016), lo virtual
+es real pues todo lo que acontece en los mundos virtuales como aprender idiomas o
+perder dinero a través de plataformas online no es para nada “irreal”. Esta falsa oposición entre lo virtual (o lo digital) y lo real no permite comprender la diversidad de
+maneras como la realidad se presenta en y a través de lo digital; razón por la cual, de
+lo que se trata es de “seguir a las personas” (Marcus 2001, 106) teniendo en cuenta
+que estas circulan, a veces simultáneamente, por locaciones físicas y virtuales reales
+que implican formas variables de inmersión social.
+Cabe destacar que en este tipo de aproximación no todos los sitios o locaciones
+son tratados con la misma intensidad o a través de un conjunto uniforme de técnicas.
+De hecho, una de las grandes virtudes de las técnicas etnográficas es que pueden ser
+adaptadas según contextos y tiempos particulares (Boellstorff 2012). En la investigación que desarrollé, por ejemplo, se incluyeron las técnicas que se consideraron más
+favorables no solo según el momento en el que se encontraba el trabajo o las necesidades emergentes, sino también según los lugares y sus especificidades. Del mismo
+modo, al cambiar los lugares también cambiaron ligeramente las posiciones de sujeto
+o, en otras palabras, se asumieron roles o identidades distintas. Al decir de Marcus
+(2001), la investigación multilocal es también una “práctica de constante movilidad
+del posicionamiento en términos de las afinidades cambiantes del etnógrafo-activista,
+de las afiliaciones con respecto a (y distancias de) aquellos con los que interactúa en
+diferentes sitios” (123).
+Con esta base, en la investigación desarrollada combiné técnicas como la observación participante (o mejor “participación observante” debido al predominio otorgado
+a la participación en distintos contextos online y offline) con entrevistas semiestructuradas a expertos en los campos de la antropología y sociología de la juventud: Florencia Saintout,3
+ Marcelo Urresti,4
+ Pablo Vommaro,5
+ Samanta Cassareto,6
+ entre otros.
+Además de estas entrevistas que fueron implementadas durante el período de tiempo
+de pasantía doctoral que realicé con el Equipo de Estudios de Políticas y Juventudes
+(EPoJu) del Instituto de Investigaciones Gino Germani (Facultad de Ciencias Sociales, Universidad de Buenos Aires –UBA–), como parte del trabajo de campo puse
+en marcha un “análisis de contenido, ante la constatación de que buena parte de la
+interacción a través de Internet se expresa en textos que pueden ser interpretables y
+3 Doctora en Ciencias Sociales por FLACSO. Decana de la Facultad de Periodismo y Comunicación Social de la Universidad Nacional de La Plata, Argentina.
+4 Sociólogo y Filósofo por la Universidad de Buenos Aires (UBA). Investigador del Instituto Gino Germani, UBA.
+5 Doctor en Ciencias Sociales por la UBA e investigador asistente del CONICET.
+6 Historiadora con estudios de posgrado en Antropología en París I. Docente de la Facultad de Filosofía y Letras, UBA.
+128
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+decodificables” (Aguilar-Forero 2016, 93). Igualmente, mientras en la vida offline
+me apoyé en la participación observante y privilegié la interacción y comunicación
+directa, para el trabajo en los mundos virtuales mantuve un rol algo más distante y
+“anónimo”, relacionado con la navegación en los espacios de Internet y con el análisis
+de contenidos escritos o audiovisuales.
+De esta manera, realicé dicho análisis de los siguientes documentos y plataformas
+de H.I.J.O.S. Bogotá: 1) 14 relatorías de las reuniones y eventos que tuvieron lugar
+durante el período de tiempo del estudio; 2) tres comunicados públicos; 3) 119
+mensajes del correo electrónico grupal; 4) dos Fan Page de Facebook administradas
+por integrantes del colectivo;7 5) una cuenta de Twitter;8
+ 6) un blog;9
+ 7) un canal
+de YouTube;10 y 8) una página web.11 El análisis de contenido se realizó con base en
+López-Aranguren (1989) y en especial en tres de los principios de clasificación que
+propone: 1) el principio de “materia, tema o asunto” que responde al interrogante
+más elemental ¿de qué trata la comunicación? 2) El principio de “objetivo o meta”
+que permite identificar “para qué” o con qué propósito se establece determinada pieza o producto comunicativo. 3) El principio de “mecanismo o recurso” que se refiere
+a “cómo dice la comunicación lo que dice”, es decir, a los mecanismos y recursos
+narrativos, expositivos o argumentativos que son utilizados.
+Ahora bien, el segundo desplazamiento necesario consistió en modificar de manera estructural las relaciones entre los sujetos de la investigación. En gran parte debido
+a que desde mucho antes del estudio ya compartía afinidades, amistades y propósitos
+comunes con los integrantes del colectivo, la investigación no se realizó sobre sus
+actores o experiencias sino con y desde las mismas, haciendo parte de sus prácticas
+político-comunicativas, colaborando con sus formas de acción colectiva y aportando
+a la producción de memorias disidentes desde el trabajo político e intelectual. En este
+sentido, si bien mi trabajo dialoga con las etnografías multisituadas y con las etnografías de los mundos virtuales, encuentra su sustento en modalidades de etnografía
+crítica, colaborativa y militante en las que no se distingue entre trabajo académico y
+acción política, o entre investigación e intervención.12
+Por lo tanto, quise confrontar la pretensión de una mirada distante y “neutral”
+propia de formas convencionales de “hacer ciencia o etnografía” que esconden las
+simpatías e implicancias detrás “del narrador invisible y omnipresente en tercera per7 Disponibles en:
+http://goo.gl/r7BPLO
+http://goo.gl/vF5Vgf
+8 @hijosenBogota
+9 hijosenbogota.blogspot.com.co
+10 http://goo.gl/AlMc6p
+11 www.hijosbogota.org
+12 El trabajo de Juris (2007 y 2012) constituye el referente que más aportó a mi estudio, en lo que respecta a este tipo
+de etnografía políticamente comprometida con experiencias de movilización y ciberactivismo.
+129
+ÍCONOS 59 • 2017 • pp. 123-148
+Ciberactivismo y olas de agitación comunicativa. Consideraciones etnográficas
+sona” (Scheper-Hughes 1995b, 35). En su lugar abordé “lo concreto desde lo concreto”, es decir, desde el cuerpo y la experiencia directa circulando por múltiples contextos físico-virtuales y compartiendo vivencias atravesadas por afectos, empatías y
+relaciones sociales que procuraron basarse en la solidaridad y horizontalidad. Solo así
+fue posible sustraer las capacidades intelectuales de las dinámicas de productividad
+académica, del individualismo y del afán por encontrar créditos y beneficios personales, para aliarlas con la acción colectiva instituyente y transformadora, y encaminarlas
+“hacia el encuentro con el acontecimiento creativo” (Malo 2004, 15).
+Ligado con el punto anterior, el tercer desplazamiento estuvo asociado con la
+centralidad otorgada a la experimentación en el trabajo etnográfico desarrollado. En
+efecto, el resultado del mismo no es la expresión de una secuencia protocolizada de
+acciones implementadas a partir de unas decisiones estables y fijadas de antemano.
+Frente a la investigación disciplinada acostumbrada a trazar el camino que se ha de
+seguir (Haber 2011), en esta investigación busqué experimentar en el recorrido, transitar por trayectos paralelos y no siempre lineales, ir y venir entre teorías y prácticas
+políticas, dejarme atravesar por las realidades en lugar de ajustarlas a mis deseos o
+propósitos preestablecidos. En el corazón de este trabajo, gravitó un tipo de investigación indisciplinada, una “no-metodología” que permitió con mayor tranquilidad
+“seguir todas aquellas posibilidades que el camino olvida, que el protocolo obstruye,
+que el método reprime” (Haber 2011, 29). Más que fases o actividades lineales y secuenciales, el trabajo etnográfico en contextos de ciberactivismo deviene un proceso
+en el que convergen trayectos (a veces inciertos), así como aciertos, desaciertos, acciones y contradicciones propias de las contingencias de toda investigación.
+La distancia frente a los procedimientos canónicos de la investigación científica y
+frente a las relaciones de poder verticales que, como parte de ésta tradicionalmente
+se han reproducido, acercaron entonces mi trabajo a lo experimental, en el sentido
+propuesto por George Marcus: 20 años después del viraje producido por Writing
+Culture (Clifford y Marcus 1986) que impulsó la creación de textos experimentales,
+“desordenados”, dialógicos y polifónicos con el fin de cuestionar las políticas de la
+representación y la autoridad etnográfica, este antropólogo norteamericano llamó la
+atención sobre la necesidad de ir más allá de los “experimentos textuales” y “volver a
+imbricarse con el material y el trabajo de campo, propiamente dicho” (Marcus 2008,
+32).13 En esta línea, lo experimental en mi trabajo puede encontrarse en la puesta en marcha de una aproximación etnográfica colaborativa, multisituada, abierta a
+13 El antropólogo colombiano Luis Guillermo Vasco (2002 y 2007) también destacó la importancia de descentrar la
+autoridad etnográfica no solo mediante formas de escritura dialógicas y polifónicas sino directamente en el mundo
+social, a través de trabajos solidarios en los que se modifiquen las relaciones de poder propias de la etnografía clásica
+y se sitúe al proceso investigativo al servicio de los intereses de quienes tradicionalmente han sido el objeto de estudio
+de la antropología: los indígenas. Tal gesto experimental lo puso en práctica en su trabajo con varios grupos indígenas
+colombianos desde mucho antes del surgimiento, durante la década de 1980, de lo que algunos han llamado la “antropología posmoderna” (Reynoso 2003).
+130
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+curiosidades itinerantes y basada en un trabajo de campo en el que las conexiones,
+prácticas y relaciones “no estaban dadas, sino que fueron encontradas” (Marcus 2008,
+32). Tal abordaje condujo a múltiples hallazgos relevantes, algunos de los cuales se
+exponen a continuación en diálogo con ciertas claves interpretativas derivadas de la
+antropología de los mundos virtuales.
+El ciberactivismo de H.I.J.O.S. Bogotá: de mareas
+y plataformas de Internet
+El análisis de contenido y la participación observante que realicé en distintos contextos online y offline me permitieron identificar algunos aspectos significativos del
+ciberactivismo de H.I.J.O.S. Bogotá. Se puede afirmar que las plataformas utilizadas
+por esta experiencia organizativa tienen dos usos fundamentales. Por una parte, están
+las plataformas con las que se busca convocar de manera más amplia, crear o expandir
+redes y aumentar la visibilidad y la presencia pública. Aquí contamos las Fan Page
+de Facebook con el nombre del colectivo, la cuenta de Twitter, el blog, el canal de
+YouTube y la página web. Por otra parte, están las plataformas necesarias para las
+comunicaciones internas y la coordinación de acciones propias de la organización
+(reuniones, intervenciones, encuentros informales) entre las que se encuentran un
+correo electrónico interno y un grupo en Whatsapp.
+En el caso del primer conjunto de herramientas, las redes sociales ocupan un
+lugar destacado. Al permitir una amplia visibilidad y conexión con los más de 5
+mil amigos o seguidores que están afiliados, estas redes se muestran como espacios
+estratégicos para la comunicación y el ciberactivismo por la memoria y contra la impunidad. Durante el período de tiempo del estudio, en ellas circuló información de
+interés para tales contactos, como artículos de opinión, noticias sobre condenas o el
+estado de ciertos procesos judiciales, campañas contra la impunidad, informes sobre
+la situación de derechos humanos en Colombia, mensajes de solidaridad, denuncias
+y comunicados públicos, notas sobre actividades realizadas en otros países por organizaciones cercanas y contenidos publicados por colectivos hermanos: H.I.J.O.S.
+Paraguay, H.I.J.O.S. Guatemala e H.I.J.O.S. Barcelona, especialmente. También se
+difundieron con frecuencia invitaciones o convocatorias a eventos, tales como conferencias, diplomados, homenajes, exposiciones, conciertos, cineforos, actos político-culturales, encuentros de víctimas y acciones colectivas por la memoria: plantones, movilizaciones, conmemoraciones públicas, entre otras.
+Una de las particularidades de estas redes, además de estar diseñadas para la circulación de mensajes de corta extensión, es que son transmediales, en tanto posibilitan
+la combinación simultánea y complementaria de distintos lenguajes, medios y plataformas (Scolari 2013). Por ejemplo, en Facebook circulan fotografías, contenidos 
+131
+ÍCONOS 59 • 2017 • pp. 123-148
+Ciberactivismo y olas de agitación comunicativa. Consideraciones etnográficas
+audiovisuales y textos que conducen a otras plataformas o son interdependientes con
+ellas, lo cual amplía su poder comunicativo. Mensajes cortos que se publican en esta
+red los días de conmemoración de algún asesinato tales como “Hoy recordamos a
+Elsa Alvarado y Mario Calderón”14 están acompañados por un link que remite a la
+página web de H.I.J.O.S. en donde se amplía y desarrolla la información. De esta
+manera, tales plataformas no operan como mundos virtuales distintos y excluyentes
+sino como espacios interdependientes de inmersión social, basados en continuidades
+y en flujos rizomáticos de información (Boellstorff 2016).
+Otra de las fortalezas de estos espacios es que propician formas de comunicación
+interactivas, expresadas en la posibilidad que tienen los usuarios de compartir y comentar las publicaciones. Ante estas, los internautas pueden manifestar su agrado
+(“me gusta”), dejar un comentario, enviarlas a sus amigos o publicarlas en su propio
+perfil. Si bien el “me gusta” se ha convertido en una acción que muchos realizan a
+veces de forma “mecánica” o para mostrarse ante los demás como “solidarios con las
+causas justas” aunque en realidad no las conozcan o participen de ellas, compartir y
+comentar contenidos deja ver de manera más clara cierto nivel de pensamiento crítico y apropiación política del ciberespacio. Tomar el tiempo para reenviar o circular
+ciertos contenidos y para leer otras publicaciones y entrar en conversación con ellas
+evidencia una suerte de politización en el uso y apropiación de estas plataformas que
+no todos la experimentan, o lo hacen con intensidades diversas.
+A propósito, como señaló el sociólogo argentino Marcelo Urresti (2014, entrevista), quien ha trabajado con profundidad el tema de las ciberculturas juveniles (Urresti
+2008), hay ciberactivistas de baja y de alta intensidad. Algunos, de baja intensidad,
+son circuladores de contenidos que reenvían masivamente todo lo que reciben relacionado con aquellas temáticas que les conciernen, interesan, indignan o afectan.
+Otros reenvían pero de manera selectiva, clasificando la información de acuerdo con
+los perfiles de sus contactos. Algunos más, ya de media intensidad, no solo clasifican
+sino califican, es decir, comentan, debaten e interactúan con otros en torno a contenidos. Por último, los ciberactivistas de alta intensidad pueden trabajar produciendo
+herramientas o desarrollando tecnologías y plataformas: diseñadores de redes independientes, programadores de software libre, generadores de contenidos, ente otros.
+Cabe destacar que la lectura de Urresti confronta otras interpretaciones como
+aquella en la que se traza una distinción entre el “activismo real” y el “clicktivismo”,
+también llamado “slacktivismo” (por la mezcla de las palabras en inglés slacker y activism). En efecto, para algunos autores como Chiluwa y Ifukor (2015), el activismo
+14 El 19 de mayo de 1997 un comando paramilitar irrumpió en la madrugada en el apartamento de Mario Calderón
+y Elsa Alvarado, quienes residían en Bogotá y eran integrantes del Centro de Investigaciones y Educación Popular
+(CINEP). Los sujetos, que dijeron pertenecer a la Fiscalía y actuaron por órdenes del jefe paramilitar Carlos Castaño
+y con participación directa e indirecta de la fuerza pública, asesinaron a Mario y a Elsa, junto con el padre de Elsa,
+Carlos Alvarado Pantoja. Al respecto se puede consultar:
+http://goo.gl/xXiyE9
+132
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+en línea debe complementarse con acciones prácticas por fuera de la web para evitar
+reducirse al slacktivismo, es decir, a acciones online que implican bajo riesgo, costo y
+esfuerzo; prácticas que, como los “clics” para apoyar causas, si bien pueden generar
+conciencia en otros, muchas veces no trascienden el hecho de otorgar algún tipo de
+satisfacción emocional a las personas comprometidas con tal actividad. En contraste
+con esta lectura y en términos de Urresti, el ciberactivismo implica intensidades diferentes, o en otras palabras, niveles variables de participación que pueden ir desde los
+likes (“me gusta”) y el consumo crítico de contenidos, hasta el manejo de los lenguajes
+complejos de la programación.
+Pero para volver a las redes sociales, se puede señalar que una más de sus fortalezas tiene que ver con que ciertas prácticas que les son inherentes (likes, compartir
+o comentar contenidos) quedan registradas como parte de la publicación, lo cual
+permite a quienes administran los espacios medir el impacto, la interacción y los
+seguidores con los que cuentan. Estos registros que acompañan las publicaciones
+dan cuenta de la materialidad de la imagen digital (fotos, videos, textos) como objeto de información (Ardèvol y Gómez 2009) cuyas inscripciones permiten también
+anticipar los posibles efectos de futuras acciones. Durante el año 2013, por ejemplo,
+en las redes de H.I.J.O.S. Bogotá los comunicados y las convocatorias para acciones
+colectivas contaron con una importante acogida, reflejada en el elevado número de
+likes, de comentarios y de veces compartidas. En especial, el cine-foro que tuvo lugar
+el 23 de mayo de 2013 en el que se proyectó y discutió el documental Checkpoint
+Rock-Canciones desde Palestina dirigido por Fermín Muguruza (músico y artista vasco
+comprometido con la resistencia y la memoria de los pueblos), fue compartido por
+126 personas, número significativo que anticipó la buena asistencia que finalmente
+se obtuvo en el evento.
+Igualmente el análisis de los comentarios publicados en espacios como Twitter y
+Facebook me permitió identificar que el uso de dichas redes sociales desborda tanto
+lo informativo como la acción de convocatoria, y llega a estar relacionado con la “generación de sentimientos de pertenencia e identificación” (Valderrama 2013, 129).
+En tales redes, las publicaciones hechas por H.I.J.O.S. están acompañadas de comentarios de los internautas en los que se plasman agradecimientos, mensajes de apoyo y
+solidaridad y toda clase de saludos, felicitaciones y arengas a favor de la justicia y en
+contra de la impunidad. La expresión de emociones compartidas (rabia, indignación,
+tristeza, deseos de justicia, anhelos), las opiniones sobre los contenidos, las discusiones alrededor de los mismos y en general las interacciones e intercambios mediante
+los cuales se coproducen estos espacios favorecen la construcción de entramados de
+identificación, pertenencia y solidaridad mucho más amplios de los que ya están establecidos entre los integrantes del colectivo.
+Ahora bien, un elemento que llama la atención y que debe exaltarse es que el
+uso de las redes sociales potencia el efecto comunicativo que cobija las acciones co-
+133
+ÍCONOS 59 • 2017 • pp. 123-148
+Ciberactivismo y olas de agitación comunicativa. Consideraciones etnográficas
+lectivas, las cuales pasan por varios estadios y espacios, y cuentan con intensidades
+variables. Por ejemplo, buena parte de las acciones colectivas que realiza H.I.J.O.S.
+Bogotá como plantones, intervenciones artísticas, movilizaciones o actos de memoria
+se comienzan a gestar a través de intercambios de mensajes vía correo electrónico en
+los que se definen aspectos operativos y logísticos, se diseñan los volantes de convocatoria y luego se difunden a través de las distintas plataformas, en especial vía redes
+sociales, correo y blog. Se requiere de pocas personas y de pocas interacciones en Internet para darle vida a una acción colectiva que puede alcanzar grandes escalas. Hay
+algo aquí que siguiendo a Escobar (2010) resuena con los principios de complejidad
+y auto-organización, referidos a procesos en los que agentes desde comienzos simples
+pueden originar la sofisticación y la organización-acción en escalas superiores. Así,
+la interacción dinámica de algunos agentes que politizan la web puede generar un
+macrocomportamiento o estructura visible ligada con la lógica de las redes, la conectividad y la complejidad, mucho más que con los órdenes de arriba/abajo.
+Luego de estos comienzos online, la acción colectiva se expande hacia contextos
+offline y se materializa en las intervenciones que tienen lugar en espacios públicos
+(marchas, conmemoraciones, actos culturales, entre otros), con las que se logra llegar
+a otros actores que, si bien no hicieron parte de la planeación de la acción, pueden
+verse afectados por sus efectos estéticos, emotivos y comunicativos. No obstante,
+la acción colectiva no se agota allí, pues su poder comunicativo se proyecta nuevamente a los mundos virtuales a través de la circulación de videos, fotografías, notas
+informativas y demás contenidos relacionados con las acciones realizadas. Difundir
+al máximo en las redes sociales y demás plataformas de Internet el registro de las
+actividades que se realizaron es parte constitutiva de las mismas, pues de no hacerse
+el posible impacto de las acciones colectivas, se ve truncado al no aprovecharse lo
+suficiente su energía constituyente. El ciberactivismo, entonces, opera como mareas
+que vienen y van, como una ola que, en lugar de seguir un camino teleológico desde
+lo online a lo offline, adquiere velocidades y direcciones inusitadas al transitar por
+múltiples contextos, por múltiples mundos físicos y virtuales, por múltiples cuerpos
+interconectados (Boellstorff 2016).
+En las redes sociales, esta difusión se hace a partir de textos breves, con fotografías
+de apoyo, acompañados por un enlace que conduce a los lugares en los que se amplía la información: el blog y la página web. También pueden remitir a YouTube, en
+donde se encuentran los videos de las actividades efectuadas. El canal de YouTube de
+H.I.J.O.S. Bogotá es crucial para tal efecto, pues en él están disponibles cerca de 30
+videos, entre intervenciones realizadas, homenajes y documentales producidos por el
+colectivo bajo su concepto creativo ligado con la estética de las cartas de la memoria.15
+15 “Las cartas de la memoria y de la impunidad hacen parte de la serie titulada Cartas para algo más que un juego. Se
+trata de piezas comunicativas que Alejandra Gaviria S., integrante de H.I.J.O.S. en Bogotá, ha puesto al servicio
+del pensamiento, la acción y la identidad del colectivo” (Aguilar-Forero 2016, 94). La estética de dichas cartas, que 
+134
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+Desde luego, los mundos virtuales no tienen la misma forma y función. En contraste
+con las redes sociales, la página web y el blog son poco potentes en cuanto a intercambio de ideas, interacciones o debates sobre contenidos. Los comentarios en estas
+plataformas son reducidos y no se evidencia su aporte para el fortalecimiento de los
+cordones más amplios de apoyo y colaboración.
+A pesar de ello, coincido con Urresti (2014, entrevista) en la distinción que
+plantea entre redes sociales y páginas web. Las primeras son espacios en los que
+los contenidos publicados por el colectivo pueden ser intervenidos, modificados o
+coproducidos por otros, lo cual promueve la interacción dinámica pero reduce la
+posibilidad de control sobre sus efectos y disminuye el sentido de propiedad sobre
+el espacio, pues parecería que siempre se está en un lugar ajeno. En cambio, la
+página web de una agrupación política es su sitio virtual, un lugar percibido como
+propio y sobre el cual se tiene mucho más control en términos de los contenidos
+publicados o circulados.
+Algo similar sucede con el blog. El blog de H.I.J.O.S. Bogotá cuenta con una
+página principal en donde se publica información más detallada sobre las actividades
+que se realizan, así como comunicados, denuncias públicas e invitaciones para distintas acciones y eventos. En esta página principal también se puede consultar información del perfil de H.I.J.O.S. Bogotá, el número de seguidores que tiene y enlaces
+que conducen a las páginas web de organizaciones cercanas. Además de la página
+principal, el blog cuenta con un espacio en el que se publican los videos producidos
+por el colectivo, una galería fotográfica y un espacio más en el que se puede consultar
+las cartas de la memoria que también circulan en redes sociales.
+Cabe destacar que en el blog se puede consultar las cartas de la memoria y también de la impunidad. Mientras las primeras cuentan con una fotografía de la persona
+recordada, un mensaje, corazones rojos, una letra alusiva a las palabras del mensaje
+(P de paz en el ejemplo incluido a la izquierda, en la página siguiente), y en algunos
+casos información complementaria con la firma de H.I.J.O.S., las segundas cuentan con una imagen del rostro de la persona que se denuncia o goza de impunidad
+(ejemplo a la derecha de la página siguiente), corazones rotos junto con la letra I de
+impunidad y un mensaje: La impunidad no puede seguir siendo la REINA. Vemos acá
+el sentido central de estas piezas comunicativas: la metáfora de un juego de naipe
+en el que unos apuestan con las cartas de la impunidad mientras otros apuestan, o
+apostamos, con las cartas de la solidaridad, la paz, la risa, la imaginación, los sueños,
+la denuncia, la verdad, la memoria, la educación y la utopía.16
+circulan en físico y en digital, también complementan las producciones audiovisuales de H.I.J.O.S. Bogotá, como se
+puede ver en el ejemplo disponible en el siguiente enlace:
+http://goo.gl/g38YoD
+16 Estos son los mensajes de varias de las cartas de la memoria que simbolizan rasgos de la vida de las personas que aparecen en ellas y que a la vez actúan como horizontes de sentido de la acción colectiva de H.I.J.O.S. Algunos de estos
+mensajes fueron escogidos por los propios familiares, hijos e hijas de víctimas de crímenes de Estado. Para ampliar la 
+135
+ÍCONOS 59 • 2017 • pp. 123-148
+Ciberactivismo y olas de agitación comunicativa. Consideraciones etnográficas
+En las cartas de la impunidad, los personajes denunciados aparecen vestidos con el
+traje de la reina, que no es otra distinta a la persistente impunidad que campea reinante en Colombia, especialmente en cuanto a los crímenes de Estado. Cierto tinte
+irónico y de humor que se refleja en estas cartas es parte fundamental de ciberactivismo, que desde la ironía, las metáforas y la parodia se resiste al lenguaje de la racionalidad logocéntrica de los modelos educativos, ciudadanos y políticos tradicionales.
+Como señala Rueda (2013), estas modalidades del decir bordean y atraviesan formas
+acartonadas del lenguaje político-institucional y logran “tocar” a los otros, despertar
+sentimientos de solidaridad y generar “conexión” alrededor de las temáticas/problemáticas comunes. En definitiva, estos ingredientes del ciberactivismo juvenil son hoy
+componentes clave para producir resonancias e identificaciones compartidas.
+Ahora bien, pese a las potencialidades de las redes sociales, la página web y el
+blog, debo decir que a mi parecer la herramienta que permite un uso político más
+información al respecto, se puede ver:
+http://goo.gl/Th1z2P
+136
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+diversificado y con mayores posibilidades es el correo electrónico grupal, que junto
+con Whatsapp, integra el segundo conjunto de plataformas, en este caso orientadas a
+las comunicaciones internas del colectivo. El análisis de contenido del correo grupal
+de H.I.J.O.S. Bogotá permitió identificar, en los 119 mensajes que se intercambiaron
+con asunto distinto entre diciembre de 2012 y diciembre de 2013, los siguientes tres
+usos y apropiaciones en orden de recurrencia: 1) circulación de contenidos, 2) coordinación de acciones y 3) construcción de lo común.
+Circulación de contenidos
+Uno de los usos centrales del correo tiene que ver con la circulación de contenidos que
+puedan ser de interés para el colectivo. Se difunden convocatorias para eventos académicos y culturales, propuestas de otras organizaciones cercanas para unir esfuerzos y fortalecer el trabajo conjunto, documentos de reflexión (en especial artículos de opinión),
+denuncias, campañas, comunicados públicos e invitaciones para participar de seminarios, foros, coloquios, conmemoraciones, plantones, talleres y otras actividades convocadas por distintas organizaciones. También circula información propia de la cotidianidad
+organizativa o consultas relativas a ciertas decisiones que puedan afectar al grupo: la
+participación en eventos, el manejo de recursos o la posibilidad de apoyar iniciativas
+más amplias de acción política a favor de causas cercanas a la razón de ser del colectivo.
+Esta primera capa, algo más superficial en términos de las intensidades del ciberactivismo, se manifiesta en tres escalas. La primera es la interpersonal, que comprende todos los contenidos que circulan exclusivamente entre los integrantes del grupo.
+La segunda, intergrupal, refiere a todas aquellas comunicaciones que no se agotan en
+el colectivo y, por el contrario, van acompañadas de la petición de rotar, difundir o
+compartir la información con las redes de cada uno de sus integrantes. En esta segunda escala converge una práctica comunicativa que podemos denominar “bola de
+nieve” y que consiste en el reenvío en cadena de contenidos que buscan hacer pensar
+y hacer actuar, como volantes de convocatoria para eventos o acciones colectivas,
+denuncias públicas, comunicados, informes y todo tipo de documentos sobre temas
+que se mueven en el campo de intervención de la organización: agendas de paz, memorias, violencias, verdad, justicia y reparación, entre otros.
+Estas comunicaciones se extienden o circulan entre las organizaciones políticas y de derechos humanos más cercanas al colectivo. En efecto, cabe aclarar que
+H.I.J.O.S. no es solo H.I.J.O.S., pues su acción además de estar atravesada por las
+trayectorias políticas, familiares e incluso laborales de sus integrantes, está inmersa
+en un entramado relacional y actoral que le antecede, complementa y otorga sentido.
+Dicho entramado y los vínculos comunicativos de H.I.J.O.S. Bogotá no se quedan
+en el ensamblaje actoral más inmediato, sino que llegan hasta “redes o escalas más
+amplias” (Cubides 2008, 135). 
+137
+ÍCONOS 59 • 2017 • pp. 123-148
+Ciberactivismo y olas de agitación comunicativa. Consideraciones etnográficas
+En este orden de ideas, la tercera escala de esta primera capa de lo comunicativo
+cobija a H.I.J.O.S. Colombia, la red nacional, y a los demás H.I.J.O.S. de América
+Latina y el mundo que configuran la red internacional. En la red nacional, circulan
+comunicaciones especialmente con la regional Sucre y la regional Meta, que son bastante activas y con cierta frecuencia informan sobre las actividades que realizan en sus
+territorios o sobre la posibilidad de intercambios y acciones conjuntas. En el caso de
+la red internacional de H.I.J.O.S. si bien no son tan frecuentes las comunicaciones,
+sí se difunden mensajes que permiten preservar el vínculo solidario y conocer información de primera mano sobre lo que pasa en otros países. En 2013, por ejemplo,
+desde H.I.J.O.S. Guatemala circuló el siguiente comunicado:
+Compas, amigos, hermanas, queridos H.I.J.O.S. Con la alegría de nuestra memoria,
+les abrazamos desde Guatemala. Este 19 de marzo inicia en nuestro país el primer
+debate oral y público por genocidio en América Latina y el Caribe, a los Generales
+retirados: José Efraín Ríos Montt y Mauricio Rodríguez Sánchez quienes ejercieron
+los cargos de Jefe de Estado y Jefe de Inteligencia durante 18 meses, a inicios de la
+década del 80. Meses que son recordados por las sanguinarias masacres realizadas a
+comunidades indígenas de todo el territorio; no hace falta describir esta barbarie, aún
+sentimos en la piel y el pecho, el frío, el dolor y la rabia.
+La circulación de tales mensajes confirma que las plataformas de Internet y en este
+caso el correo electrónico, en lugar de simples “herramientas” son “fenómenos sociotécnicos” (Gómez y Thornham 2015, 2) que se despliegan en diferentes escalas de acción. El ciberactivismo, entonces, no se circunscribe al plano de lo nacional y, gracias
+a las tecnologías digitales y a las plataformas de Internet, posibilita las solidaridades
+transnacionales y la relación colaborativa glocal.
+Coordinación de acciones
+Al penetrar la primera capa de lo comunicativo –la circulación de contenidos–, nos
+encontramos con una segunda capa relacionada con la coordinación de acciones, esto
+es, las prácticas comunicativas para convocar a reuniones del colectivo, para acordar
+elementos operativos y logísticos de futuras acciones, o para dinamizar el trabajo
+colaborativo. Con respecto a las reuniones, cabe destacar que en experiencias organizativas de carácter informal como H.I.J.O.S. Bogotá no operan las agendas definidas
+de antemano. De acuerdo con las necesidades o las coyunturas, cualquier integrante
+del colectivo puede convocar a una reunión por medio del correo electrónico. En el
+intercambio de mensajes posterior se define el día, el lugar y la hora a partir de la primera propuesta hecha en el correo inicial, que se modifica según la disponibilidad de 
+138
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+todos y todas. Algunos también se excusan por no poder asistir y otros simplemente
+guardan silencio. Con tres o cuatro que confirmen ya se realiza la reunión. Hay convocatorias que tienen una buena acogida, como también se presenta el caso de ciertos
+mensajes en los que se proponen reuniones pero no obtienen ninguna respuesta.
+Teniendo en cuenta el uso extendido de teléfonos inteligentes (smartphones) y el
+acceso permanente a Internet, en diversas ocasiones el intercambio de mensajes en
+el correo electrónico grupal se hace prácticamente en tiempo real y desde tales dispositivos móviles. Por supuesto, espacios de mensajería instantánea como Whatsapp
+complementan muy bien la coordinación de acciones, pues permiten un intercambio
+instantáneo de mensajes indispensables para acordar encuentros: ¿en dónde es la reunión? ¿A qué hora? ¿Está confirmada? son preguntas recurrentes que por allí circulan.
+Durante las reuniones, es frecuente que se utilicen estas mediaciones para confirmar
+la asistencia de quienes no han llegado aún; también, cuando se tiene que tomar ciertas decisiones que competen a integrantes que no están presentes en el encuentro, se
+utilizan estos canales para hacerles consultas y obtener respuestas inmediatas.
+Usualmente se levantan relatorías de las reuniones y al finalizarlas son enviadas a
+través del correo grupal. Su elaboración también es libre, pues no hay un responsable
+para hacerla sino alguien que, de manera voluntaria, sencillamente la hace. Algo que
+me llamó la atención de las distintas reuniones de H.I.J.O.S. Bogotá a las que tuve
+la oportunidad de asistir, es la forma como se expresa el principio de horizontalidad
+en las relaciones comunicativas que tienen lugar en estos espacios. Convoca quien lo
+considere pertinente, asisten quienes pueden (no hay un mínimo de integrantes para
+hacer la reunión), pocas veces se definen agendas a tratar (aunque ellas están orientadas por las coyunturas), las intervenciones se desarrollan de manera aleatoria pidiendo la palabra y sin moderadores asignados, y las relatorías las elabora quien quiera
+hacerlo. Se discuten distintos temas a partir de los cuales a veces se llega a consensos
+y muchas otras veces no. Cuando persisten las diferencias queda un ambiente de tensión que en un próximo encuentro normalmente ya está superado, o por lo menos
+no se hace presente. Lo importante allí es que no se trata de una política del consenso
+sino de una política de la confrontación, de la conversación y del devenir.
+Sin duda hay unos acuerdos implícitos en estos espacios: respetar la palabra del
+otro, no extenderse demasiado en una misma intervención, rotar la elaboración de las
+relatorías, entre los más recurrentes. Aunque ciertas decisiones se consultan vía chat
+con quienes no están presentes, las acciones no se detienen si la asistencia a la reunión
+es reducida, por ello, resulta indispensable difundir las relatorías para comunicar los
+acuerdos hechos y las propuestas de acciones futuras. No obstante, un porcentaje
+considerable de los compromisos registrados en las relatorías finalmente no se lleva a
+cabo y ello puede tener que ver con la poca implicación o responsabilidad que sienten, frente a las actividades propuestas, quienes no estuvieron presentes en la reunión
+o en el momento en el que se definieron.
+139
+ÍCONOS 59 • 2017 • pp. 123-148
+Ciberactivismo y olas de agitación comunicativa. Consideraciones etnográficas
+Pero más allá de esto, durante el período de tiempo en el que se realizó el estudio,
+hubo en mi opinión dos lógicas de lo político en tensión manifestadas en el colectivo.
+Por una parte tenemos la lógica más convencional de lo político, expresada en la necesidad de hacer reuniones presenciales, tomar decisiones sobre acciones futuras, distribuir algunas responsabilidades, levantar relatorías de las reuniones, entre otras. Esta
+dinámica cotidianamente expresa sus limitaciones: poca asistencia a las reuniones,
+compromisos incumplidos, acciones definidas en las relatorías que nunca se realizan,
+entre otras. Por otro lado está la política del acontecimiento de la que habla Lazzarato
+(2006), pues muchas de las acciones colectivas de H.I.J.O.S. Bogotá no parten de un
+plan ideal, de acuerdos presenciales o de un programa político claramente definido de
+antemano. Por el contrario, muchas de las acciones colectivas emergen a partir de una
+idea o propuesta que circula en el correo grupal, a la que luego se suman otras y en
+lapsos de tiempo a veces muy cortos se definen los aspectos operativos para llevarlas
+a buen término. Por ejemplo, para el
+homenaje póstumo a Tito Díaz17 que
+tuvo lugar en el Congreso de la República de Colombia en abril de 2013,
+bastó un mensaje con la propuesta de
+asistir al evento y de construir letras
+que unidas conformaran la palabra
+justicia para que, en varios mensajes
+de respuesta, se coordinara la acción
+y se realizara sin mayor planeación
+previa.
+En estos procesos, se destaca el
+uso del correo electrónico grupal
+como espacio de trabajo colaborativo. El hecho de que permita enviar
+archivos adjuntos y mensajes más
+extensos favorece la elaboración colectiva de informes, documentos y
+palabras para eventos en los que se
+participará. También es recurrente la
+construcción colaborativa de comunicados o denuncias públicas como la
+que se construyó en mayo de 2013.
+17 Eudaldo Díaz Salgado, exalcalde del municipio El Roble, en el departamento de Sucre-Colombia, fue desaparecido,
+torturado y asesinado en abril de 2003 presuntamente como resultado de las denuncias que hizo sobre malos manejos
+de recursos públicos, conformación de grupos paramilitares y corrupción de dirigentes políticos de la región. Por su
+crimen, fue condenado a 40 años de prisión el exgobernador de Sucre, Salvador Arana. 
+140
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+El 15 de mayo de dicho año se difundió entre el grupo la información acerca de la
+condena de 30 años a César Pérez por la masacre de Segovia, Antioquia, cometida el
+11 de noviembre de 1988. En el mismo mensaje se hizo la propuesta de elaborar un
+pronunciamiento público al respecto y se preguntó si alguien se animaba a escribir
+algunas palabras.
+Horas después, desde la regional de H.I.J.O.S. Sucre, un compañero envío una
+propuesta de palabras a la que otros hicieron pequeños cambios y ajustes en mensajes
+posteriores. También se socializó la carta de la memoria alusiva al caso diseñada por
+Alejandra Gaviria y, en cuestión de horas, de un día para el otro, se creó colectivamente un comunicado que en poco tiempo ya había sido difundido vía correo electrónico y redes sociales, y ya estaba publicado en el blog del colectivo.
+Un mes después de este comunicado, de manera similar se construyó colectivamente otro, manifestando rechazo ante los actos de hostigamiento, agresión y amenazas que recibió por aquel entonces la Fundación Nydia Erika Bautista, organización
+defensora de Derechos Humanos en Colombia. La secuencia fue la misma: alguien
+propuso unas palabras, otros sugirieron cambios y ajustes, y otro más le agregó la
+firma de H.I.J.O.S. y comenzó a difundirlo en redes sociales y demás espacios de
+visibilidad. En efecto, luego de que tres asaltantes ingresaran al domicilio de Erik
+Arellana Bautista (dirigente de la Fundación mencionada y miembro de H.I.J.O.S.
+Bogotá) y hurtaran su computador personal y dos discos duros que contenían información sobre su trabajo relacionado con la búsqueda y acompañamiento a familiares
+de víctimas de desaparición forzada, la denuncia de H.I.J.O.S. no se hizo esperar:
+Indignados y consternados ante los hechos ocurridos el pasado 30 de mayo de 2013
+con nuestro compañero, amigo y Hermano Erick Arellana Bautista y su familia, una
+vez más quedamos perplejos ante la recurrente persecución e intimidación a quienes
+luchan por la vida y la justicia como fundamento de la paz, la cual no puede seguir
+siendo un discurso. No puede existir paz mientras persistan las amenazas contra las y
+los luchadores sociales y continúe imperando la impunidad.18
+Paralelo a la denuncia pública, circularon muchos mensajes de apoyo y solidaridad
+por parte de los integrantes del colectivo con el compañero y hermano Erik. Al respecto, es importante señalar que el correo electrónico grupal, además de presentarse
+como un espacio fundamental para la coordinación de acciones y para la construcción colaborativa de textos, palabras, comunicados y denuncias, es un lugar central
+para el encuentro con el otro, con todo lo que ello implica, esto es, afectos, complicidades, solidaridades, pero también, diferencias y conflictos. De hecho, así como
+a veces se coordinan rápida y efectivamente ciertas actividades, otras no prosperan
+18 El comunicado completo se puede consultar en el siguiente enlace:
+http://goo.gl/uYwwRX
+141
+ÍCONOS 59 • 2017 • pp. 123-148
+Ciberactivismo y olas de agitación comunicativa. Consideraciones etnográficas
+porque no se gestiona un lugar para realizarlas, porque no se hace la convocatoria con
+tiempo, o sencillamente porque algunos mensajes con propuestas de acciones colectivas nunca obtienen respuesta. Aunque esto puede generar algunos conflictos y molestias, encuentro aquí la capa central, o mejor, el corazón del ciberactivismo y de la
+apropiación politizada de Internet en una experiencia organizativa como H.I.J.O.S.
+Bogotá. Me refiero a ella a continuación.
+Construcción de lo común y transformación productiva de los disensos
+Mediaciones como el correo electrónico grupal son un lugar de formación política y
+de construcción de lo común, en la medida en que propician la reflexión, la discusión
+y la producción de conocimientos, posturas y sentires colectivos. Pese a que no es su
+uso más recurrente, a través del correo se expresan posiciones sobre temas concretos,
+se controvierten ideas y se encuentran lugares comunes mas nunca estables u homogéneos. A partir de intercambios de mensajes extensos, se manifiestan los posicionamientos propios, se conocen con cierta profundidad los de los demás y se entablan
+discusiones que no necesariamente llegan a un punto culminante o definitivo. La
+paz, la memoria, la posibilidad de acuerdos generacionales o la participación en otros
+movimientos políticos como la Unión Patriótica, constituyeron, durante el tiempo
+de análisis, algunos de los temas nodales de reflexión colectiva on/offline.
+Más que un espacio de unanimidad y consenso, el correo grupal expresa las diferencias internas, los matices en el discurso, las formas distintas de entender lo político
+y la acción colectiva. Es, por tanto, un espacio en el que se evidencia el conflicto,
+que es constitutivo de toda comunidad político-afectiva por cuanto “es cotidiano y
+reviste las formas de esa cotidianidad” (Zibechi 2010, 224). Puedo mencionar tres
+de los factores de conflicto que se manifestaron en las relaciones comunicativas que
+tuvieron lugar en las plataformas de Internet durante el tiempo del estudio, y que
+no se agotan en éstas al ser parte integrante de las continuidades complejas (Gómez
+y Thornham 2015) que articulan los mundos físico-virtuales por los que circula la
+acción colectiva juvenil en el mundo de hoy:
+En primer lugar, se presenta algo de molestia cuando no se siguen unas “normas”
+mínimas de interacción propias de las sociabilidades online (Boellstorff 2012). Por
+ejemplo, hay unos acuerdos tácitos en la interacción y el uso del lenguaje. Predomina
+un lenguaje incluyente aunque no homogéneo: algunos utilizan el “los y las”, otros @
+y otros más la x (tipo lxs) que proviene de las formas de escritura de la teoría y práctica queer. También es clara la importancia de saludar y despedirse en los mensajes,
+pese a que no siempre se practique. En este sentido, un aspecto que propicia disgustos implícitos y a veces explícitos es que se envíen correos y estos no obtengan una
+respuesta distinta al silencio generalizado. Lo anterior condujo en algún momento a 
+142
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+que en los asuntos, o como parte del mensaje, se escribiera: “Espero respuesta”, “favor
+contestar”, “contestar al menos sí o no”, entre otros. El silencio resulta algo odioso y
+molesto en los espacios de coordinación de acciones y ciberactivismo, y todavía más
+cuando se trata de plataformas apropiadas por experiencias organizativas que, desde
+su mismo nombre, expresan un posicionamiento en contra del silencio.
+Igualmente, el no saludar y despedirse y un tono fuerte o expresiones que puedan
+llegar a ofender, además de no ser bien vistas pueden tener efectos en las redes afectivas que sustentan la acción colectiva. Por el contrario, los intercambios solidarios
+de mensajes, los saludos afectuosos y que apelan al vínculo familiar (hermanos y
+hermanas) y todos los mensajes que proponen “nuevos aires” o calmar los ánimos
+luego de discusiones acaloradas son cruciales en la construcción de lo común de un
+colectivo político-afectivo como H.I.J.O.S. A propósito, durante 2013 fueron pocos
+los mensajes que se intercambiaron en el correo grupal para actividades distintas al
+activismo y ciberactivismo. Sin duda, la afectividad y esas pequeñas cosas que reafirman los vínculos humanos como invitar a compartir una comida, a departir un rato
+agradable o a reír juntos han sido fundamentales para la permanencia de experiencias
+organizativas como H.I.J.O.S.; razón por la cual, en tiempos de “cibervidas” en los
+que la acción política transita de manera creciente en los mundos online, preservar y
+potenciar este tipo de prácticas o espacios a través de tales escenarios virtuales puede
+traer resultados favorables a la acción colectiva.
+En segundo lugar, otro factor de diferencias y posibles conflictos tiene que ver
+con las lógicas diferentes de comprensión de la acción colectiva. Mientras algunos
+prefieren trabajar con agendas a largo plazo (proyección a un año), contar con un
+compromiso mayor por parte de los integrantes del grupo y tener claro el rumbo, a
+otras y otros esto no les inquieta; por el contrario, se rigen más por las oportunidades
+políticas y las fluctuaciones del contexto. Asimismo, mientras que para algunos lo
+afectivo es algo secundario y lo que mantiene la unión está ligado con principios y
+posturas políticas, para otras y otros la amistad, el respeto y el buen trato ocupan un
+lugar predominante. En mi caso, lo que he logrado identificar por medio del trabajo
+etnográfico y de la inmersión colaborativa es que la acción colectiva por la memoria
+de colectivos como H.I.J.O.S. parece depender mucho más de las redes de amistad,
+de la confianza y el respeto mutuo, que de las convicciones y “coherencias” políticas,
+pues hay múltiples matices e incluso contradicciones al respecto, como las hay en
+cualquier movimiento social y político.
+Por último, el tercer aspecto del que se pueden derivar conflictos que en cierta
+medida limitan el ciberactivismo tiene que ver con las tensiones entre lo individual
+y lo colectivo. Si bien las plataformas virtuales como las redes sociales, los blogs o
+las páginas web portan y visibilizan el nombre del colectivo, quienes las administran
+son individuos y la pregunta que a veces está en el centro de las divergencias tiene
+que ver con qué tanto de lo que se hace a título individual afecta o no el nombre del 
+143
+ÍCONOS 59 • 2017 • pp. 123-148
+Ciberactivismo y olas de agitación comunicativa. Consideraciones etnográficas
+colectivo. Lo anterior, desde luego, no se reduce a las acciones online pues en este tipo
+de experiencias organizativas en las que no hay una organización jerárquica sino multiplicidad de liderazgos, sus integrantes pueden participar a nombre del colectivo en
+diferentes espacios offline a los que se les invita, independientemente de los matices
+en los discursos y las apuestas políticas.
+Vale la pena aclarar que si bien “no pueden igualarse sin más las referencias individuales a las colectivas” (Cueto 2010, 142), asumir su escisión total también puede ser
+equivocado. De hecho, mientras algunos justifican ciertas prácticas apelando a que
+ellas se hicieron a título personal y no a nombre del colectivo, otros destacan lo difícil
+de trazar esta diferencia cuando públicamente y en otros espacios y ciberespacios esto
+no se hace, debido a que terceros pueden establecer de manera inmediata una asociación entre la presencia individual y la pertenencia colectiva.
+Gira allí de nuevo el tema de la confianza. Puede producir desconcierto, por ejemplo, que integrantes del colectivo se acerquen a otros sectores políticos y organizaciones sin tener la confianza y el respeto de comunicarlo antes con los compañeros
+y compañeras del grupo, sobre todo cuando esto puede llegar a afectarlos aunque tal
+acercamiento se haga a título personal. Pero por otro lado, también genera molestias
+que se desconfíe de las buenas intenciones de estas decisiones y de las convicciones y
+posturas políticas de quienes las agencian. Lo cierto es que la amistad que está en la
+base de colectivos como H.I.J.O.S. se teje no solo con las fibras del afecto sino también con las de la confianza y la honestidad, factores que son condición de posibilidad
+para la continuidad de este tipo de redes y organizaciones.
+Lo más importante, sin duda, es que ante la presencia de estos u otro tipo de conflictos, en colectivos como H.I.J.O.S. sucede algo con enormes potencialidades en
+términos de los alcances del ciberactivismo y de las posibilidades de la etnografía para
+el estudio del mismo. En alguna ocasión, luego de una discusión entre los integrantes
+del colectivo que comenzó en el correo grupal, siguió en una reunión presencial y
+se proyectó de nuevo al correo electrónico, se evidenció una apropiación profundamente productiva de esta mediación comunicativa. Bajo el asunto de herman@s
+circuló un correo con tono conciliador luego de las “turbulencias” que se presentaron
+debido a posturas divergentes acerca de la creación de alianzas y la construcción de
+paz. Dicho correo planteó propuestas para salir de las “arenas movedizas” y generó
+dos efectos instituyentes:
+a) Un fuerte impulso hacia la producción de conocimiento y el intercambio de
+posturas personales en torno a la paz, que se tradujo en una secuencia de textos
+redactados y circulados por varios de sus integrantes con el fin de evidenciar mínimos referenciales o principios comunes al respecto.
+b) Un nuevo impulso de fraternidad y colaboración que se canalizó en propuestas y
+acciones concretas para apoyar la producción de un libro que por aquel entonces 
+144
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+iba a lanzar uno de los compañeros del colectivo. Ello me permitió identificar el
+sentido más potente, en términos de ciberactivismo, de la apropiación política de
+Internet y en especial del correo electrónico grupal: tramitar de manera constructiva
+los conflictos. Esta es la utilidad primordial de este tipo de espacios virtuales para
+fortalecer experiencias organizativas que, como H.I.J.O.S. Bogotá, trabajan por/
+desde la memoria y a favor de la construcción de mundos más justos y pacíficos.
+Conclusiones: consideraciones etnográficas, los retos a futuro
+Mucho se ha escrito y cuestionado acerca de cómo las tecnologías digitales y plataformas de Internet permiten a las personas desinhibirse más de la cuenta, decir
+ciertas cosas que cara a cara no se dirían, e incluso asumir de forma evasiva los conflictos por las opciones de escape que se tienen: por la posibilidad de “desconectarse”
+sin mayores explicaciones (Bauman 2007; Sibilia 2008). Contrario a esto, lo que
+he identificado gracias a una propuesta etnográfica colaborativa y experimental con
+H.I.J.O.S. Bogotá es que las tecnologías digitales y los mundos virtuales tienen enormes potencialidades no solo para la circulación de contenidos y la coordinación de
+acciones colectivas, sino también para propiciar el encuentro on/offline, promover el
+intercambio de ideas, consolidar los vínculos humanos y, en especial, canalizar las
+energías de la confrontación y el disenso reorientándolas hacia el gesto solidario, la
+acción política y la construcción de lo común.
+De igual forma, como se pudo evidenciar, la investigación en torno a experiencias de ciberactivismo juvenil que se mueven en diversos espacios requiere de una
+aproximación etnográfica multisituada que, además de circular por diversos contextos online y offline, reinvente la noción de “campo” y redefina las connotaciones
+asociadas con el “trabajo de campo” de la etnografía clásica. Un elemento básico
+para lograrlo consiste en romper con la distancia entre sujetos (investigadores externos) y objetos de estudio (activistas ligados con un lugar delimitado el trabajo de
+campo), y en su lugar promover el involucramiento, participación y colaboración
+entre los sujetos que convergen en la investigación y que transitan entre “campos”
+múltiples y abigarrados.
+Una aproximación etnográfica multisituada, colaborativa y experimental posibilita además que la persona que investiga se sumerja verdaderamente en los entramados
+relacionales y actorales que soportan el ciberactivismo y comprenda, por ejemplo, las
+redes de confianza y amistad al margen de las cuales no es posible pensar la acción
+política juvenil en el mundo actual. Esta es otra importante tarea aún pendiente de
+la etnografía: cartografiar con profundidad redes de afectos y emociones que pueden
+limitar o potenciar las oleadas de ciberactivismos presentes y las de aquellos que se
+avecinen. 
+145
+ÍCONOS 59 • 2017 • pp. 123-148
+Ciberactivismo y olas de agitación comunicativa. Consideraciones etnográficas
+Asimismo, en tiempos de acciones colectivas en red hoy tenemos un gran desafío por delante: estudiar configuraciones políticas en las que, como en el caso de
+H.I.J.O.S., no tenemos solo sujetos ni colectivos, sino redes de actores y relaciones
+que llegan incluso hasta escalas internacionales. Para ello, los abordajes etnográficos,
+multisituados (on/offline), sin duda son una buena opción, aunque hay limitaciones
+de tiempo y recursos que hacen que un solo investigador no pueda asumir con facilidad dicha empresa. Lo anterior nos invita a construir lecturas transnacionales sobre
+los mismos temas o sobre las mismas experiencias en localizaciones diversas a través
+del fortalecimiento del trabajo en red con otros investigadores e investigadoras. Para
+esto, la comunicación vía tecnologías digitales, la colaboración y la construcción de
+lo común a escalas globales resultan indispensables con el fin de fortalecer y expandir
+nuestros ejercicios etnográficos.
+Bibliografía
+Aguilar-Forero, Nicolás. 2016. “COMUNICA(C)CIÓN. La comunicación en la
+acción colectiva juvenil: dos experiencias organizativas en la ciudad de Bogotá”.
+Revista Latinoamericana de Ciencias Sociales, Niñez y Juventud 14 (2): 1331-
+1344.
+Aguilar-Forero, Nicolás y Germán Muñoz. 2015. “La condición juvenil en Colombia: entre violencia estructural y acción colectiva”. Revista Latinoamericana de
+Ciencias Sociales, Niñez y Juventud 13 (2): 1021-1035.
+Aguilera, Óscar. 2006. “Movidas, movilizaciones y movimientos. Etnografía al Movimiento Estudiantil Secundario en la Quinta Región”. Revista Observatorio de
+Juventud. Movilizaciones estudiantiles: claves para entender la participación juvenil
+(11): 34-42.
+Ardèvol, Elisenda y Débora Lanzeni. 2014. “Visualidades y materialidades de lo digital: caminos desde la antropología”. Anthropologica 32 (33): 11-38.
+Ardèvol, Elisenda y Edgar Gómez. 2009. “Lo visual como objeto de estudio antropológico en la era digital”. Comunicación presentada en: Antropología, medios
+audiovisuales y TIC: problemas y desafíos en el mundo contemporáneo. Buenos Aires:
+28 de septiembre-2 de octubre.
+Barbas, Ángel. 2015. “Comunicación educativa y cultura política en el movimiento
+15-M. Aproximación teórica y reflexiones preliminares en torno a un estudio etnográfico”. Kultur 2 (4): 179-192.
+Bauman, Zygmunt. 2007. Vida de consumo. México: Fondo de Cultura Económica
+(FCE).
+Boellstorff, Tom. 2016. “For Whom the Ontology Turns. Theorizing the Digital
+Real”. Current Anthropology 57 (4): 387-407.
+146
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+Boellstorff, Tom. 2012. “Rethinking Digital Anthropology”. En Digital Anthropology,
+editado por Daniel Miller y Heather Horst, 39-60. Londres y Nueva York: Berg.
+Clifford, James. 2003. “Sobre la autoridad etnográfica”. En El surgimiento de la antropología postmoderna, editado por Carlos Reynoso, 141-170. México: Gedisa.
+Clifford, James y George Marcus. 1986. Writing Culture: The Poetics and Politics of
+Ethnography. Berkeley: University of Berkeley Press.
+Chiluwa, Innocent y Presley Ifukor. 2015. “War Against our Children: Stance and
+Evaluation in #BringBackOurGirls Campaign Discourse on Twitter and Facebook”. Discourse & Society 26 (3): 267-296. Acceso el 20 de enero de 2017.
+https://doi.org/10.1177/0957926514564735
+Cubides, Humberto. 2008. “Reflexividad en la investigación cualitativa: narrar, visualizar y dialogar”. Revista Nómadas 29: 128-141.
+Cueto, Santiago. 2010. “Hijos de víctimas del terrorismo de Estado. Justicia, identidad y memoria en el movimiento de derechos humanos en Argentina, 1995-
+2008”. Historia Crítica 40: 122-145.
+Emejulu, Akwugo y Callum Mcgregor. 2017. “Towards a Radical Digital Citizenship
+in Digital Education”. Critical Studies in Education: 1-17. Acceso el 20 de enero
+de 2017.
+https://doi.org/10.1080/17508487.2016.1234494
+Escobar, Arturo. 2010. Territorios de diferencia: lugar, movimientos, vida, redes. Popayán: Envión Editores.
+Fernández-Planells, Adriana. 2013. “#acampadabcn: el 15M desde Catalunya”. En
+Generación indignada. Topías y utopías del 15M, editado por Carles Feixa y Jordi
+Nofre, 87-116. Lleida: Milenio Publicaciones.
+Gómez, Edgar y Helen Thornham. 2015. “Selfies Beyond Self-representation: The
+(Theoretical) F(r)ictions of a Practice”. Journal of Aesthetics & Culture 7: 1-10.
+Grau, Begonya E. 2016. “Activismo y prácticas digitales en la construcción de una
+esfera LGTB en España”. Revista Dados 59 (3): 755-787. Acceso el 20 de enero
+de 2017.
+https://doi.org/10.1590/00115258201691
+Haber, Alejandro. 2011. “Nometodología Payanesa: Notas de Metodología Indisciplinada”. Revista de Antropología 23: 9-49.
+Juris, Jeffrey. 2012. “Reflections on #Occupy Everywhere: Social Media, Public Space,
+and Emerging Logics of Aggregation”. American Ethnologist 39 (2): 259-279.
+________. 2007. “Practicing Militant Ethnography with the Movement for Global
+Resistance (MRG) in Barcelona”. En Constituent Imagination: Militant Investigation, Collective Theorization, editado por Stevphen Shukaitis y David Graeber,
+164-176. Oakland, California: AK Press.
+Lazzarato, Mauricio. 2006. Por una política menor. Acontecimiento y política en las
+sociedades de control. Madrid: Traficantes de Sueños.
+147
+ÍCONOS 59 • 2017 • pp. 123-148
+Ciberactivismo y olas de agitación comunicativa. Consideraciones etnográficas
+López-Aranguren, Eduardo. 1989. “El análisis de contenido”. En El análisis de la realidad social. Métodos y técnicas de investigación, editado por Manuel García-Ferrando,
+Jesús Ibáñez y Francisco Alvira, 383-414. Madrid: Alianza.
+Malo, Marta. 2004. “Prólogo”. En Nociones comunes. Experiencias y ensayos entre investigación y militancia, editado por Marta Malo, 13-39. Madrid: Traficantes de Sueños.
+Marcus, George. 2008. “El o los fines de la etnografía: del desorden de lo experimental al desorden de lo barroco”. Revista de Antropología Social 17: 27-48.
+________. 2001. “Etnografía en/del sistema mundo. El surgimiento de la etnografía
+multilocal”. Alteridades 11 (22): 111-127.
+Rappaport, Joanne. 2007. “Más allá de la escritura: La epistemología de la etnografía
+en colaboración”. Revista Colombiana de Antropología 43: 147-229.
+Rappaport, Joanne y Abelardo Ramos. 2005. “Una historia colaborativa. Retos para
+el diálogo indígena-académico”. Historia Crítica 29: 39-62.
+Reynoso, Carlos. 2003. “Presentación”. En El surgimiento de la antropología postmoderna, editado por Carlos Reynoso, 11-60. Barcelona: Gedisa.
+Rueda, Rocío. 2013. “Prólogo. Educación, nuevas formas de subjetividad social y
+tecnologías”. En Ciberciudadanías, cultura política y creatividad social, editado por
+Rocío Rueda, Lina Ramírez y Andrés Fonseca, 4-21. Bogotá: Universidad Pedagógica Nacional.
+Scolari, Carlos. 2008. Hipermediaciones: elementos para una teoría de la comunicación
+digital interactiva. Barcelona: Gedisa.
+Scheper-Hughes, Nancy. 1995a. “The Primacy of the Ethical: Propositions for a
+Militant Anthropology”. Current Anthropology 36 (3): 409-440.
+________. 1995b. La muerte sin llanto. Violencia y vida cotidiana en Brasil. Barcelona: Ariel.
+Sibilia, Paula. 2008. La intimidad como espectáculo. Buenos Aires: FCE.
+Treré, Emiliano. 2013. “YoSoy132: la experiencia de los nuevos movimientos sociales
+en México y el papel de las redes sociales desde una perspectiva crítica”. Educación
+Social. Revista de Intervención Socioeducativa 55: 112-121.
+Urresti, Marcelo. 2008. Ciberculturas juveniles. Los jóvenes, sus prácticas y sus representaciones en la era del Internet. Buenos Aires: La Crujía.
+Valderrama, Lorena. 2013. “Jóvenes, ciudadanía y tecnologías de información y
+comunicación. El movimiento estudiantil chileno”. Revista Latinoamericana de
+Ciencias Sociales, Niñez y Juventud 11 (1): 123-135.
+Vasco, Luis Guillermo. 2007. “Así es mi método en etnografía”. Tabula Rasa 6:
+19-52.
+________. 2002. Entre selva y páramo. Viviendo y pensando la lucha india. Bogotá:
+Instituto Colombiano de Antropología e Historia.
+Zibechi, Raúl. 2010. América Latina: contrainsurgencia y pobreza. Bogotá: Ediciones
+desde Abajo.
+148
+Nicolás Aguilar-Forero
+ÍCONOS 59 • 2017 • pp. 123-148
+dossier
+Entrevista
+Entrevista a Marcelo Urresti, sociólogo argentino. Buenos Aires, 17 de junio de 2014.
+Referencias en línea
+Centro de Memoria, Paz y Reconciliación:
+http://goo.gl/Th1z2P
+H.I.J.O.S. Bogotá. Fan Page de Facebook:
+http://goo.gl/r7BPLO
+H.I.J.O.S. Bogotá. Página de Facebook:
+http://goo.gl/vF5Vgf
+H.I.J.O.S. Bogotá. Blog:
+hijosenbogota.blogspot.com.co
+H.I.J.O.S. Bogotá. Canal de YouTube:
+http://goo.gl/AlMc6p
+H.I.J.O.S. Bogotá. Página web:
+www.hijosbogota.org
+H.I.J.O.S. Bogotá. José Antequera, los sueños vuelven con la memoria:
+http://goo.gl/g38YoD
+H.I.J.O.S. Bogotá. Comunicado H.I.J.O.S. Actos de hostigamiento y agresión a la Fundación Nydia Erika Bautista:
+http://goo.gl/uYwwRX
+SIN OLVIDO:
+http://goo.gl/xXiyE9 
