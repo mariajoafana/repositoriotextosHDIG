@@ -1,0 +1,797 @@
+El profesional de la información, 2018, septiembre-octubre, v. 27, n. 5. eISSN: 1699-2407 1071
+NUEVA COMUNICACIÓN SONORA.
+CARTOGRAFÍA, GRAMÁTICA Y NARRATIVA
+TRANSMEDIA DEL PODCASTING
+New sound communication. Cartography, grammar
+and transmedia narrative of podcasting
+David García-Marín y Roberto Aparici
+David García-Marín es licenciado en Periodismo por la Universidad Complutense de Madrid, master de Radio en la Universidad San Jorge de Zaragoza, y master de Comunicación y Educación en
+la Red de UNED. Investigador doctorando en Sociología (rama medios de comunicación) en el programa de Cambio Social en Sociedades Contemporáneas por la UNED. Profesor del Master de Comunicación y Educación en la Red y del Master de Periodismo Transmedia UNED-EFE, es miembro
+del grupo de investigación Análisis de pedagogías digitales: Comunicación, redes sociales y nuevas
+narrativas (UNED) y miembro de la Red I+D de Educación Mediática.
+https://orcid.org/0000-0002-4575-1911
+dgarciamarin@invi.uned.es
+Roberto Aparici es profesor titular de Comunicación y Educación del Departamento de Didáctica,
+Organización Escolar y Didácticas Especiales de la UNED. Director del Master de Comunicación y
+Educación en la Red y del Master de Periodismo Transmedia de UNED y la agencia EFE. Investigador en educomunicación, educación digital interactiva, nuevas narrativas, cultura de la participación y transalfabetizaciones. Investigador principal de la Red I+D de Educación Mediática.
+https://orcid.org/0000-0002-1908-1029
+raparici@edu.uned.es
+Universidad Nacional de Educación a Distancia. Facultad de Educación
+Departamento de Didáctica, Organización Escolar y Didácticas Especiales
+Juan del Rosal, 14. 28040 Madrid, España
+Resumen
+Tras década y media de desarrollo, el podcasting ha construido una narrativa propia que provoca una ruptura del lenguaje
+tradicional de la radio al basar sus dinámicas narrativas tanto en la configuración transmedia de sus contenidos como en las
+estrategias multiplataforma. Mediante la aplicación de técnicas cualitativas de análisis de los podcasts españoles más relevantes y la realización de entrevistas en profundidad semiestructuradas a informadores clave, esta investigación presenta
+una cartografía de las diversas plataformas y distintos contenidos que los podcasters utilizan para expandir sus relatos más
+allá del lenguaje sonoro. Los resultados muestran que el podcasting ofrece sus mensajes en un amplio rango de soportes
+tanto digitales como analógicos que se complementan funcionalmente y que exigen producir materiales en lenguajes mediáticos diferenciados. Asimismo, los podcasts presentan una gran variedad de contenidos que, lejos de comportarse de
+forma aislada, conforman una gramática lógica y coherente.
+Palabras clave
+Podcasts; Podcasting; Medios digitales; Narrativa digital; Transmedia; Radio; Hipermedia; Convergencia; Medios interactivos; Lenguaje sonoro.
+Abstract
+Podcasting has created an own narrative that provokes a rupture of the traditional radio´s language due to the transmedia
+configuration of its contents and its multiplatform strategies. By analyzing the most relevant Spanish podcasts and through
+in-depth interviews, this investigation presents a cartography of the diverse platforms and the different contents that podcasters use so as to expand their stories beyond the sound language. Our results demonstrate that podcasting offers its
+messages in a wide range of platforms, digital and analog, that functionally complement each other. This involves producing
+materials in different media language. Moreover, podcasting presents a great variety of contents that, instead behaving in
+an isolated way, conform a logical and coherent grammar.
+Keywords
+Podcasts; Podcasting; Digital media; Digital storytelling; Transmedia; Radio; Hypermedia; Convergence; Interactive media;
+Sound language.
+*
+Artículo recibido el 24-04-2018
+Aceptación definitiva: 17-07-2018
+David García-Marín y Roberto Aparici
+1072 El profesional de la información, 2018, septiembre-octubre, v. 27, n. 5. eISSN: 1699-2407
+García-Marín, David; Aparici, Roberto (2018). “Nueva comunicación sonora. Cartografía, gramática y narrativa transmedia del podcasting”. El profesional de la información, v. 27, n. 5, pp. 1071-1081.
+https://doi.org/10.3145/epi.2018.sep.11
+1. Introducción
+El advenimiento y la popularización de internet ha provocado en las dos últimas décadas la aparición de un nuevo
+ecosistema de la comunicación sonora, dando paso a nuevos conceptos, como ciberradio (Cebrián-Herreros, 2009)
+o post-radio (Ortiz-Sobrino, 2012), y nuevos formatos que
+desbordan las dinámicas propias de la radio analógica del
+siglo XX.
+La comunicación sonora de masas llegó a la Red cuando las
+grandes emisoras clásicas comenzaron a utilizar internet
+como punto de acceso diferenciado a la misma programación que ya emitían vía hertziana, de forma que la Web funcionaba como repetidor digital de los contenidos.
+En una segunda fase de desarrollo de la radio digital, los
+portales que soportaban la emisión online de estas grandes
+emisoras complementaron sus contenidos con elementos
+informativos construidos en lenguajes diferentes al sonoro
+(imágenes, infografías, etc.) y abrieron espacios de participación del usuario mediante la inclusión de comentarios.
+Paralelamente, nacieron numerosos proyectos de radio exclusivamente digital, sin ningún tipo de soporte hertziano.
+La llegada de la radio digital a la carta, que posibilita la descarga y escucha asíncrona de contenidos, constituye el siguiente paso en la evolución del audio online. Este modelo quiebra la temporalidad clásica de la radio y ofrece una
+mayor dosis de personalización de la escucha a un oyente
+que ya es capaz de generar su propia parrilla de programación y adaptar el consumo a sus hábitos, disponibilidad e
+intereses. La radio a la carta ofrece también la posibilidad
+de consumir contenidos sin necesidad de conexión a la Red
+mediante la descarga de programas para su almacenamiento en los dispositivos de reproducción disponibles en el mercado (ordenadores, tabletas, teléfonos inteligentes, reproductores de mp3, etc.).
+El paso decisivo para la aparición del podcasting fue la introducción de los mecanismos de sindicación que permiten
+la suscripción a los contenidos sonoros para su descarga
+automática. La tecnología requerida para la utilización del
+podcasting fue creada en 2004 en Estados Unidos por Adam
+Curry, un antiguo vídeo jockey del canal televisivo MTV, en
+colaboración con Dave Winer, uno de los desarrolladores
+del motor de sindicación de contenidos RSS. Ambos fueron
+capaces de construir un método de emisión de audio online
+que pone el archivo sonoro a disposición de cualquier oyente para ser escuchado a su conveniencia. El 10 de agosto de
+2004, la revista especializada en tecnología Wired afirmaba
+que la posibilidad de suscripción que permite el podcasting
+constituye una gran novedad al ofrecer nuevas oportunidades de consumo e interacción con el audio más allá de las
+ofrecidas por la radio tradicional.
+De este modo, el podcasting se configuró como un medio
+de comunicación que surgió de la fusión de dos tecnologías
+previamente implantadas:
+- el audio digital;
+- los motores de descarga automática de contenidos.
+Esta unión
+“permite la distribución y recepción automatizada de
+archivos de audio comprimido tras una suscripción por
+parte del usuario” (Gallego-Pérez, 2010).
+Massarelli y Perrotta (2006) consideran el podcasting como
+una tecnología desafiante para los medios tradicionales,
+que permite a los oyentes crear su propio contenido, a la
+vez que constituye un cambio en los hábitos de escucha de
+la radio convencional. Por su parte, Berry (2016) reflexiona
+acerca del papel que juega el podcasting dentro del ecosistema mediático y plantea el debate sobre si esta práctica comunicativa constituye un nuevo medio per se o constituye
+la última fase evolutiva de un medio cambiante y adaptable
+como la radio.
+McHugh (2016) ha centrado sus investigaciones en el crecimiento de las redes de podcasts independientes y las
+diferencias percibidas entre la radio y el podcasting como
+modos de distribución y recepción de contenidos sonoros.
+Este autor defiende que el podcasting está fomentando un
+género novedoso y más informal de narrativa sonora centrado en unas fuertes relaciones entre los presentadores y
+los oyentes, con contenidos más improvisados y menos elaborados. Esta concepción dialoga de cerca con la visión de la
+nueva radio definida por Dubber (2013) como una “ecología
+de fenómenos relacionados, pero diferentes”.
+Tras casi década y media de desarrollo del medio, los creadores de podcasts (podcasters) han iniciado un proceso de
+sofisticación de la estructura narrativa del podcasting desbordando su lenguaje inicial –exclusivamente sonoro- que
+copiaba los antiguos formatos de la radio. Los podcasts han
+adquirido una gramática narrativa propia, autónoma, específica y separada de la radio que se adentra en experiencias
+creativas transmedia al extender sus relatos en plataformas
+diversas, construir diferentes tipos de contenidos en distintos lenguajes mediáticos e incluir a los oyentes en la producción de los programas (García-Marín, 2017).
+2. Objetivo y metodología
+Esta investigación pretende analizar las estrategias narrativas utilizadas por los podcasters en España a partir del estudio de dos dimensiones:
+El paso decisivo para la aparición del
+podcasting fue la introducción de los
+mecanismos de sindicación que permiten la suscripción a los contenidos sonoros y, por tanto, su descarga automática
+Nueva comunicación sonora. Cartografía, gramática y narrativa transmedia del podcasting
+El profesional de la información, 2018, septiembre-octubre, v. 27, n. 5. eISSN: 1699-2407 1073
+- dispersión de sus relatos en diferentes plataformas online
+y offline;
+- producción de diferentes categorías de contenidos que
+expanden el mensaje ofrecido en sus programas.
+Se establecerá una cartografía de las plataformas y los servicios que utiliza el medio y una taxonomía de sus diferentes
+textualidades.
+Desde su creación, el podcasting ha evolucionado en dos direcciones (Bonini, 2015):
+- creación amateur sin ánimo de lucro;
+- uso comercial en busca de beneficios económicos.
+A pesar de la existencia de varios ejemplos de podcasts
+profesionales vinculados a grandes empresas mediáticas,
+en el panorama español la mayoría de proyectos de podcasting son elaborados de forma amateur e independiente
+(Aparici; García-Marín, 2018). Por este motivo, enfocamos
+nuestro trabajo de campo, ejecutado en los meses de octubre a diciembre de 2017, en el podcasting no profesional
+donde se establece una mayor libertad y riqueza expresiva
+y unas mayores dosis de experimentación narrativa. Nuestra metodología de trabajo tuvo un carácter cualitativo
+mediante el uso de dos instrumentos de recolección de
+datos:
+- entrevistas semiestructuradas a podcasters y oyentes;
+- análisis documental aplicado a una selección de podcasts
+del ámbito español.
+Rosado-Millán, García-García y Kaplún-Hirsz (2014) conciben el análisis documental como el estudio de aquellas informaciones registradas sobre un soporte que proporcionan
+un conocimiento útil,
+“usadas cuando se pretende obtener información general o especializada acerca de un tema determinado”.
+Para trabajar con esta técnica, se construyó una ficha de análisis con 60 indicadores que fue aplicada a los 11 programas
+ganadores de la última edición de los Premios Nacionales de
+Podcasting, entregados en octubre de 2017. De los 60 indicadores, aquí contemplamos exclusivamente los que tienen
+relación con la narrativa de los podcasts (tabla 2). El objetivo
+fue registrar el número de plataformas utilizadas por cada
+podcast y las categorías textuales generadas por cada programa. Para estudiar estas categorías textuales utilizamos el
+modelo de Askwith (2007), que divide los contenidos de los
+universos transmedia en la siguiente taxonomía:
+- accesos expandidos;
+- contenidos adaptados;
+- contenidos expandidos;
+- actividades relacionadas;
+- productos de la marca.
+Los 11 programas analizados fueron (entre paréntesis, la categoría a la que pertenece cada uno):
+- La morsa era yo (Arte y/o cultura general);
+- Guiller y yo (Bitácora personal);
+- Ohhh TV! Podcast (Cine, series y/o televisión);
+- Desde boxes (Deporte o actividad física);
+- Perspectiva (Economía o negocios);
+- Ya conoces las noticias (General);
+- Con todos mis respetos (Humor);
+- Por qué podcast (Multitemática);
+- Bitácora de ciberseguridad (Revelación);
+- Crónica en negro (Sociedad);
+- Esto con Jobs no pasaba (Tecnología).
+De forma paralela se llevaron a cabo 22 entrevistas cualitativas semiestructuradas a informadores clave. Corbetta
+(2007) define este método como una conversación provocada por el entrevistador,
+“realizada a sujetos seleccionados a partir de un plan
+de investigación, en un número considerable, que tiene
+una finalidad de tipo cognitivo, guiada por el entrevistador, y con un esquema de preguntas flexible y no estandarizado” (Corbetta, 2007).
+Los sujetos entrevistados se dividieron en las siguientes categorías:
+- pioneros del medio y representantes de asociaciones nacionales de podcasting (cinco entrevistados);
+- podcasters en activo (diez entrevistados);
+- oyentes (siete entrevistas).
+Los criterios de selección de los podcasters participantes en
+la muestra fueron su relevancia y visibilidad en la comunidad y la producción de podcasts con frecuentes actualizaciones (diarias, semanales o quincenales).
+Los oyentes fueron elegidos mediante muestreo aleatorio
+simple utilizando el canal de Telegram Comunidad Podkas,
+que reúne a unos 200 entusiastas del medio.
+Los sujetos entrevistados fueron:
+- José Antonio Gelado: primer podcaster español;
+- Daniel Aragay: pionero del podcasting en España;
+- Sebas Oliva: fundador y primer presidente de la Asociación Podcast (2010);
+Fase 1. Período pre-digital Radio exclusivamente hertziana.
+Fase 2. Llegada a la Web Las emisoras usan internet como repetidor digital vía streaming.
+Fase 3. Desarrollo de la radio digital
+Enriquecimiento de los portales online de las radios digitales con la inserción de elementos informativos complementarios (imágenes, infografías, posibilidad de realizar comentarios…). Llegan las radios exclusivamente
+digitales, sin soporte hertziano.
+Fase 4. Aumento de la interactividad Empaquetado de programas. Posibilidad de escucha asíncrona y descarga. Llega la radio digital a la carta.
+Fase 5. La sindicación Se introduce la descarga automatizada de programas para su escucha offline mediante motores RSS. Aparece
+el podcasting.
+Tabla 1. De la radio al podcast. Fases evolutivas del medio radiofónico hasta la aparición del podcasting. Elaborado a partir de Cebrián-Herreros (2009).
+David García-Marín y Roberto Aparici
+1074 El profesional de la información, 2018, septiembre-octubre, v. 27, n. 5. eISSN: 1699-2407
+- Agustín Palmeiro: presidente de la Asociación Podcast en
+2017 y 2018;
+- Raúl de la Puente: vicepresidente de la Asociación de Escuchas de Podcasting (Asespod);
+- Eduardo Nordmann: podcaster, autor de varios programas sobre filosofía y humor;
+- Dumakae: podcaster especializada en series y televisión.
+Cuenta con varios premios nacionales;
+- Tamara León: creadora de programas de actualidad política y social;
+- Blanca Santamaría: podcaster en el programa de tertulia
+Por qué podcast, espacio con diversos premios nacionales;
+- Francisco Portillo: autor del podcast de humor Condenados, ganador de numerosos premios;
+- Emilio Cano: podcaster fundador de la red Emilcar FM.
+Ganador del premio al Mejor Podcaster Masculino de España en varias ediciones;
+- Goyo Salduero: fundador y director del podcast de temática histórica Histocast;
+- Juan Ortiz: podcaster en el programa sobre arquitectura
+La morsa era yo;
+- Esteban Pérez: presentador del programa de historia Zafarrancho podcast;
+- Carmen Moreno: podcaster en el programa Carmenia en
+Dallas.
+No incluimos el nombre de los siete oyentes entrevistados,
+al haberles garantizado el anonimato a la hora de publicar
+los resultados de la investigación.
+Para la producción de datos e interpretación de resultados,
+ambas técnicas de investigación (análisis documental y entrevistas) se articularon por complementación, debido a que
+ambas ofrecen perspectivas diferentes sobre el mismo objeto
+de estudio (Callejo; Viedma, 2005). Siguiendo la taxonomía
+propuesta por Scolari (2008) a propósito de los diferentes paradigmas teóricos útiles para el estudio de los nuevos medios,
+ubicamos esta investigación en un campo teórico híbrido que
+bebe tanto del paradigma interpretativo-cultural como del
+semiótico-discursivo.
+3. Cartografía de las
+plataformas
+Para la construcción del mapa
+de plataformas, recurrimos
+a los datos producidos tanto
+por las entrevistas como por la
+aplicación de las fichas de análisis documental. Tras la ejecución del trabajo de campo,
+observamos que un total de
+siete categorías (plataformas)
+componen el mapa estructural
+del podcasting. Mostramos su
+análisis a continuación.
+3.1. Repositorios y podcatchers
+El punto de partida de todo
+proyecto de podcasting es la
+creación de un programa en formato sonoro que se aloja online y que puede ser escuchado en streaming o bajo
+suscripción mediante motores de sindicación. El alojamiento se realiza en las plataformas o repositorios de podcasts
+disponibles en el mercado (iVoox, iTunes y Spreaker son los
+más utilizados en España). Estos servicios permiten que los
+podcasters inicien la construcción de una interesante comunidad alrededor de su trabajo al presentar espacios para
+la inserción de comentarios y ofrecer posibilidades para la
+difusión de cada capítulo mediante enlazado de url o inserción del código html.
+El consumo en movilidad que los usuarios suelen realizar en
+este medio determina que el acceso de los oyentes a los
+proyectos de podcasting se produzca de forma mayoritaria
+mediante las aplicaciones para teléfonos móviles de escucha y descarga, los podcatchers, que consisten en pequeñas
+aplicaciones informáticas para la suscripción, descarga automática, gestión y consumo de podcasts. En 2017 y 2018,
+los podcatchers más utilizados en la podcastfera española
+son: iVoox, Overcast, Castro, Podcasts (Apple), Spreaker,
+TwitBlogCast, Downcast, Ucast, Pocket Casts, Podcast Addict y Podcast Republic. Estas aplicaciones asumen un papel
+esencial en la escucha de podcasts, tal y como afirma la mayoría de los oyentes entrevistados:
+“Mi consumo es al 99% desde el móvil y a través de podcatcher” (oyente 4).
+Plataformas Contenidos
+Número de páginas web/blogs del podcast. ¿Tienen
+dominio propio o pertenecen a terceros (Blogger, Wordpress, Wix, etc.)?
+Accesos expandidos
+¿Presencia en servicios de podcasting: iVoox, iTunes,
+Spreaker…?
+Interacciones sociales. Pueden ser:
+-relación horizontal
+-relación vertical
+-relación diagonal
+¿Presencia en redes sociales? ¿Cuáles? Contenidos adaptados
+¿Presencia en radio convencional? ¿En radio digital?
+Contenidos expandidos. Pueden ser:
+-extensión textual
+-información relevante
+-información extratextual
+¿Distribuye su relato en entornos diferentes al ciberespacio? ¿En cuáles? ¿Presenta objetos extradigitales
+(merchandising, etc.?
+Productos de la marca
+Actividades relacionadas. De cuatro tipos:
+-temáticas
+-experienciales
+-productivas
+-competitivas
+Tabla 2. Ficha de análisis de las características transmedia (dispersión en plataformas y taxonomía de
+contenidos) del podcasting.
+Los podcasts han adquirido una gramática narrativa propia, autónoma y especifica que se adentra en experiencias
+creativas transmedia al extender sus relatos en plataformas diversas y construir
+diferentes tipos de contenidos
+Nueva comunicación sonora. Cartografía, gramática y narrativa transmedia del podcasting
+El profesional de la información, 2018, septiembre-octubre, v. 27, n. 5. eISSN: 1699-2407 1075
+“Siempre escucho por podcatchers, además soy de las
+que va cambiando de uno a otro según me vaya gustando más uno u otro” (oyente 5).
+“Normalmente uso podcatchers. Yo utilizo Pocket Casts,
+pero habitualmente primero me suscribo por iVoox y
+luego lo busco en Pocket Casts, porque esta aplicación
+va mucho mejor” (oyente 6).
+3.2. Web/blog
+La inmensa mayoría de los podcasts que podemos encontrar en el ámbito español utilizan algún tipo de página online, con especial predominancia del formato blog. Esta
+plataforma otorga personalidad propia a los podcasts y les
+permite diferenciarse de otros proyectos. El tipo de sitio –
+web o blog- utilizado guarda relación con la temática que
+trata el programa y depende de si éste se encuentra sujeto a determinados eventos de actualidad. En el caso de los
+espacios intemporales, la explotación del formato web se
+considera una estrategia más acertada, útil y efectiva que
+la construcción de un blog. Al contrario, aquellos proyectos
+que tienen una mayor atadura a la actualidad y un período
+de actualización más corto (diario o semanal) tienden a usar
+el formato blog, al disponer sus contenidos en orden inversamente cronológico de modo que el texto que primero encuentra el usuario es el último en ser publicado y, además,
+suele tener vinculación con el último episodio del podcast
+lanzado. Juan Ortiz lo expresa del siguiente modo:
+“El formato –web o blog- depende de los
+contenidos del podcast, así vendrá bien
+de una manera u otra. Para eso, es fundamental la temporalidad, si un podcast
+vive o no del último episodio”.
+Estos espacios –web y blog- tienen como
+principal función la reunión de los contenidos que construyen la trama narrativa del
+proyecto en claras lógicas hipermedia al situar textualidades construidas en diferentes
+lenguajes mediáticos y amalgamadas entre
+sí mediante hiperenlaces (Moreno, 2012):
+“Hicimos el blog, principalmente, por
+aunar los contenidos de nuestro podcast” (Carmen Moreno)
+Al margen de esta labor de convergencia
+mediática (Jenkins, 2006), estas plataformas adquieren un claro valor explicativo de
+los contenidos que se narran en el podcast,
+completando la experiencia del usuario. Numerosos programas divulgativos presentan
+Numerosos programas divulgativos presentan en sus webs o blogs abundante
+material en formato audiovisual a fin de
+complementar los relatos que, por su carácter exclusivamente sonoro, plantean
+dificultades de recepción o comprensión
+Web del podcast Histocast, uno de los más relevantes del panorama independiente en
+lengua hispana
+https://www.histocast.com
+en sus webs o blogs abundante y rico material en formato
+fotográfico y audiovisual a fin de complementar aquellos relatos que, por su carácter exclusivamente sonoro, plantean
+dificultades de recepción o comprensión. Por ejemplo, determinados podcasts de temática histórica introducen mapas para guiar al usuario en su recorrido por la descripción
+de los avatares que narra el episodio en formato sonoro.
+Gracias a estos contenidos fotográficos y audiovisuales, los
+escuchas pueden encontrar informaciones extra que no son
+tratadas en el podcast o, al menos, no con la profundidad
+que proporcionan los medios visuales. Afirma Goyo Salduero:
+“En la web tenemos tanto imágenes, algunas fotos,
+como los mapas que, por supuesto, son clicables y ampliables”.
+Las webs o blogs sirven también como principal puerta de
+acceso a los proyectos de podcasting, especialmente en el
+caso de los usuarios menos avezados con las plataformas
+de podcasts y los dispositivos móviles, y que encuentran
+una mayor facilidad en el dominio de los ordenadores de
+escritorio o portátiles y los buscadores online tradicionales.
+La obligación de descargar una aplicación específica de escucha y suscripción de podcasts, la búsqueda del programa
+que se quiere escuchar en tal aplicación, el hecho de suscribirse para recibir los nuevos episodios de forma automática
+y la actualización periódica de la lista de programas descargados pueden comprender acciones demasiado complejas
+para los escuchas con menos habilidades tecnológicas. Además, la web/blog sirve como espacio para el alojamiento de
+comentarios de los seguidores sobre los contenidos creados
+por los podcasters.
+Asimismo, esta plataforma es utilizada por los oyentes como
+un espacio destinado a la profundización en el conocimiento del proyecto y su temática para aquellos usuarios más
+comprometidos con la marca:
+“Consulto las webs porque cuando ya te gusta bastante 
+David García-Marín y Roberto Aparici
+1076 El profesional de la información, 2018, septiembre-octubre, v. 27, n. 5. eISSN: 1699-2407
+un podcast, quieres saber quién está detrás del micrófono, cuánto tiempo llevan
+publicando esos podcasters, etc.” (oyente 3).
+3.3. Redes sociales
+Fundamentales en el podcasting, las redes
+sociales –Twitter y Facebook son las más
+comunes en el medio- constituyen soportes
+para promocionar los programas, así como
+para proporcionar avisos sobre las noticias
+relacionadas con los proyectos (sobre todo,
+para anunciar el lanzamiento de nuevos capítulos) e interactuar y dialogar con los fans.
+Las redes sociales sirven para recoger las
+aportaciones de un tipo de usuario menos
+comprometido o con un discurso menos elaborado y que, por tanto, rechaza realizar comentarios en los blogs o webs. Así lo explica
+Emilio Cano:
+“Las redes sociales son fundamentales
+para el diálogo, para recibir esa parte de
+feedback de ese oyente más perezoso
+que no le apetece irse al blog o que tampoco tiene tanto que decir”.
+Los oyentes perciben las redes sociales en
+el podcasting como un canal directo de interacción con sus
+creadores favoritos. En este espacio gobiernan la cercanía y
+la facilidad de acceso al podcaster y la comunicación horizontal con otros fans del programa:
+“En Twiter, el oyente se siente con mayor soltura a la hora
+de expresar sus opiniones. Es muy útil para hablar con
+gente que escucha las mismas cosas que tú” (oyente 5).
+La relación entre creadores y escuchas a través de estos
+instrumentos sociales puede derivar, ocasionalmente, en la
+construcción de contenido significativo, incrementándose
+así la participación del oyente que en determinadas circunstancias puede potencialmente convertirse en coautor de los
+relatos:
+“Nosotros creamos una cosa que eran los retos para
+Carmenia. Cualquiera podía escribir por las redes y proponer un desafío que creaba significados y contenidos
+nuevos” (Carmen Moreno).
+“Es muy raro que te dejen un comentario en el blog. Tienes que estar en las redes sociales, ya que ahí de vez en
+cuando se generan conversaciones que se usan en los
+podcasts” (Juan Ortiz).
+En los últimos años, los podcasters han asumido paulatinaWeb del podcast de humor Gravina 82, que hace un uso intensivo de las extensiones
+mediante lenguajes audiovisuales
+https://gravina82.com
+mente el uso de Telegram como espacio para interactuar con
+sus seguidores más fieles de forma más privada y cerrada.
+Gracias a estos chats específicos, cada proyecto construye
+y centraliza su propia comunidad dentro de la podcastfera.
+El intercambio de materiales y conocimientos significativos
+vinculados a la temática del podcast entre miembros de estas microcomunidades es otra de las funciones que aporta
+este servicio de mensajería.
+3.4. Radio digital y radio hertziana
+Las radios digitales pueden alcanzar a un tipo de oyente que
+no tiene los conocimientos necesarios o no pretende entrar
+en la dinámica canónica de la escucha de podcasts anteriormente descrita (descarga de una aplicación de gestión de
+podcasts, búsqueda de programas y posterior suscripción)
+y que, por tanto, le resulta más sencillo consumir estos contenidos de una forma más convencional –aunque en un soporte digital- bien en su ordenador o a través de dispositivos
+móviles. En este sentido, la emisora digital Radio Podcastellano juega un rol fundamental dentro de la podcastfera,
+al ser un medio centrado exclusivamente en la emisión de
+aquellos podcasts que solicitan admisión en su parrilla y pagan una pequeña cuota para el sustento de este medio en
+la Red.
+Asimismo, la inclusión de ciertos espacios inicialmente
+construidos como podcasts en pequeñas emisoras de radio
+clásicas mantiene la misma lógica que observamos en el uso
+de la radio digital como soporte y punto de acceso diferenciado al contenido sonoro y de promoción de los proyectos.
+Existen, sin embargo, dos barreras que dificultan de forma
+decisiva la inserción de podcasts en radios hertzianas:
+- la necesidad de periodicidad fija que obliga la radio tradicional, algo difícil de asumir para productores mediáticos
+La relación entre creadores y escuchas
+a través de las redes sociales puede
+derivar en la construcción de contenido significativo, incrementándose así la
+participación del usuario que puede potencialmente convertirse en coautor de
+los relatos
+Nueva comunicación sonora. Cartografía, gramática y narrativa transmedia del podcasting
+El profesional de la información, 2018, septiembre-octubre, v. 27, n. 5. eISSN: 1699-2407 1077
+amateurs cuya cadencia de grabación se
+puede ver afectada por motivos personales y laborales;
+- la presencia de marcadas líneas editoriales o ideológicas en tales cadenas de radio.
+A fin de preservar su independencia, los
+podcasters suelen evitar que sus programas
+queden “contaminados” por la línea ideológica de este tipo de emisoras. Afirma Goyo
+Salduero:
+“A nosotros nos propusieron incluir
+nuestro programa en una radio analógica, pero dijimos que no porque no
+podemos garantizar una periodicidad
+estable”.
+3.5. Programas presenciales en directo
+La realización de programas en directo en
+eventos destacados como las Jornadas Nacionales de Podcasting se considera como
+una práctica que extiende los mensajes del
+podcasting más allá de su lógica de consumo tradicional. La ejecución de estos espacios supone una práctica diferenciada con
+respecto a la dinámica habitual del medio ya
+que estos programas en directo no sólo se comparten en el
+mundo digital (después de ser grabados), sino que también
+se asientan en el terreno analógico en una interfaz diferente
+a las que se utilizan en el ciberespacio. Acudir como público a un podcast en directo implica una interacción directa
+y personal con el programa. El principal objetivo de la realización de estos espacios presenciales es el incremento del
+grado de popularidad de los podcasts, dada la gran cantidad
+de asistentes que estos eventos suelen reunir. En palabras
+de Esteban Pérez:
+“Yo los veo más útiles para realizar relaciones personales que para el programa en sí”.
+Desde el lado de los oyentes, lo más interesante de esta
+manera de consumir los contenidos de los podcasts es la
+posibilidad de interacción usuario-creador en el plano físico
+y el hecho de que estos programas suelen ser significativamente diferentes con respecto a los programas habituales
+grabados y alojados online:
+“A mí me gustan mucho, pues son oportunidades para
+ver a tus podcasters favoritos en programas que normalmente son distintos a los habituales” (oyente 3).
+3.6. Canales de vídeo digital
+Existen programas con cuentas propias en servicios de producción y alojamiento de vídeo digital. Estas plataformas
+Portal del servicio de alojamiento y escuchas de podcasts Spreaker
+https://www.spreaker.com/podcasts/podcasts-destacados
+Las extensiones textuales amplían el
+contenido central del relato ofreciendo
+datos adicionales a lo ya conocido, funcionando como “nuevos capítulos” dentro de la narrativa de los podcasts
+se utilizan para desbordar los evidentes límites que tiene el
+lenguaje sonoro. Las principales aplicaciones de estos canales de vídeo –YouTube y Vimeo son los servicios de referencia en esta categoría- consisten en:
+- realización de avances de los nuevos capítulos del podcast;
+- elaboración de anuncios de eventos especiales relacionados con el proyecto;
+- incorporación del audio de los podcasts con una imagen
+estática;
+- grabación en vídeo de la realización de algún episodio del
+podcast (sobre todo los grabados en grandes eventos o
+con motivo de ocasiones especiales);
+- el registro audiovisual de los sorteos vinculados con los
+concursos que muchos de estos programas organizan
+para buscar la participación activa y la inmersión de los
+fans.
+3.7. Newsletters
+La generación de un amplio rango de contenidos por parte de determinados podcasts y, sobre todo, la creciente
+creación de redes de podcasts desde la esfera amateur,
+han potenciado el desarrollo de las newsletters distribuidas
+mediante correo electrónico como una forma de reunir de
+manera periódica el abundante material que generan los
+programas para todos aquellos usuarios suscritos. El consumo en movilidad que caracteriza al podcasting dificulta en
+ocasiones la consulta simultánea y en profundidad de determinadas informaciones relevantes incluidas en los podcasts,
+por lo que el recurso de la newsletter provee los enlaces a
+estas informaciones para su revisión en cualquier momento.
+Retomando la idea de McLuhan y Fiore (1967) acerca de los
+medios como ampliaciones del cuerpo humano, las newsletters vendrían a corregir parcialmente una de las grandes 
+David García-Marín y Roberto Aparici
+1078 El profesional de la información, 2018, septiembre-octubre, v. 27, n. 5. eISSN: 1699-2407
+Carátula del episodio 56 del programa Porqué podcast
+http://nacionpodcast.com/wp-content/uploads/2017/08/56.jpg
+limitaciones que tiene el lenguaje sonoro del podcasting
+que, al igual que sucede con la radio, presenta una gran
+fugacidad.
+4. Taxonomía de los contenidos
+Situamos nuestro análisis en los contenidos que podemos considerar más relevantes para la narrativa del podcasting, aquellos que aportan matices o informaciones
+nuevas a los universos transmedia de los podcasts. Estas
+textualidades son: los contenidos adaptados y los contenidos expandidos.
+4.1. Contenidos adaptados
+Definidos como textos que manipulan, reorganizan, extractan, reutilizan o adaptan el contenido fundamental
+del programa (es decir, la generación de contenido a partir
+de variaciones de materiales preexistentes), estas textualidades pueden resultar útiles para recapitular o resumir
+los elementos más interesantes de las historias, si bien
+no constituyen extensiones en los relatos (Rodríguez-Ferrándiz; Ortiz-Gordo; Sáez-Núñez, 2014). En este sentido,
+estas textualidades han de ser consideradas como meras
+compresiones narrativas a las que recurren los podcasters
+transmedia para resumir o avanzar contenidos de sus podcasts, utilizando para ello diferentes plataformas y lenguajes
+mediáticos. Estas textualidades pueden ser:
+- Resúmenes de los episodios: habitualmente se incluyen
+en los blogs o webs del proyecto. Cada episodio nuevo
+del podcast lleva vinculada una nueva entrada en tales
+webs que incluye datos resumidos sobre su contenido y
+enlaces a espacios online que amplían la información que
+se ofrece en el programa. Los proyectos que disponen de
+aplicación para dispositivos móviles utilizan la misma esPlataforma % de uso entre los programas analizados Funciones
+Plataformas y podcatchers 100
+Alojamiento inicial de todo podcast.
+Construcción de comunidades.
+Puerta de acceso principal a los proyectos.
+Web/blog 100
+Expansión narrativa para completar/complementar contenido sonoro.
+Principal puerta de acceso al proyecto desde buscadores.
+Convergencia mediática. Reunión de todos los contenidos del proyecto.
+Determina la personalidad del programa.
+Punto de acceso sencillo para usuarios menos tecnológicos.
+Redes sociales 100
+Interacción y diálogo con fans.
+Generación de contenido.
+Captación de nuevos oyentes (promoción).
+Participación del usuario menos comprometido.
+Radio digital y hertziana 72,7 Punto de acceso diferenciado al contenido del podcast.
+Programas presenciales 36,4 Conexión personal entre podcasters y oyentes.
+Valor promocional.
+Canales de vídeo digital 36,4 Grabación de capítulos especiales.
+Avances de próximos capítulos.
+Newsletters 9,1 Reunión de los contenidos de los proyectos.
+Tabla 3. Distribución funcional de las plataformas utilizadas por el podcasting transmedia. Entre paréntesis se indica el porcentaje de podcasts de la
+muestra que utiliza cada plataforma.
+trategia: cada nuevo episodio lleva aparejado un resumen
+de su contenido y los mismos enlaces en tal aplicación.
+- Promos del podcast: constituyen píldoras mediático-promocionales creadas en formato sonoro a modo de cuña
+radiofónica y cuyo fin es dar a conocer el programa. Suelen ser de corta duración (no más de 1 minuto) y aparecen
+insertadas en los programas de otros podcasters de forma
+gratuita, generando así estrategias de promoción cruzada.
+- Avances de capítulos: el avance de nuevos contenidos ha
+sido una estrategia ampliamente utilizada en los medios 
+Nueva comunicación sonora. Cartografía, gramática y narrativa transmedia del podcasting
+El profesional de la información, 2018, septiembre-octubre, v. 27, n. 5. eISSN: 1699-2407 1079
+de masas, especialmente en la televisión. Reproduciendo
+esta dinámica, muchos podcasts realizan grabaciones tanto en formato sonoro como audiovisual que contienen los
+aspectos fundamentales que serán tratados en próximos
+episodios. Estos avances son más utilizados por los espacios que tienen una frecuencia inferior a la quincenal.
+4.2. Contenidos expandidos
+Esta categoría incluye todas las textualidades que, en lugar
+de comportarse como compresiones narrativas, proveen información novedosa que expande el contenido presentado
+en el podcast. Hay dos subcategorías: extensiones textuales
+e información metatextual.
+Extensiones textuales
+Amplían el contenido central del relato ofreciendo datos
+adicionales a lo ya conocido, funcionando como nuevos
+capítulos dentro de la narrativa de los podcasts. Podemos
+encontrar:
+- Noticias temáticas: todas las informaciones relacionadas
+con la temática del programa que, de elaboración propia
+o construidas por terceros, el podcaster provee a sus seguidores en las diferentes plataformas del proyecto.
+- Vídeos con contenido diferenciado: material presentado
+en formato audiovisual que ofrece informaciones no tratadas en el podcast. Veamos algunos ejemplos. Numerosos programas dedicados a la tecnología utilizan su canal
+de YouTube para realizar tutoriales o revisiones sobre determinados productos de software o nuevos dispositivos
+aprovechando las posibilidades del lenguaje audiovisual.
+Estos contenidos tienen difícil cabida en un podcast dadas
+las limitaciones del lenguaje sonoro. Otros programas alojan vídeos en sus canales para realizar los sorteos de determinados concursos, así como debates entre varios de
+los miembros del equipo del programa, cursos formativos
+o coberturas de eventos en directo. Incluso, encontramos
+ejemplos de podcasts que amplían sus contenidos a través del lanzamiento de miniseries de animación 2D en sus
+canales de vídeo de YouTube o Vimeo.
+- Contenido multiprograma y spin-off: ambas estrategias
+consisten en la creación de nuevos podcasts derivados
+de un programa matriz a fin de aumentar la variedad de
+contenidos ofrecidos a sus seguidores y fans. La estrategia
+multiprograma es aquella en la que los productores realizan espacios del mismo tema que el podcast nodriza, pero
+con un formato o duración diferente. Suelen ser espacios
+más breves y específicos dedicados a la ampliación o profundización de un tema más concreto del que suele aparecer en los espacios padre, que tienen mayor duración y un
+carácter más general. El modelo spin-off es sensiblemente
+distinto: los programas derivados suelen presentar mayor
+distancia con respecto al podcast matriz desde el punto
+de vista temático, incluso pueden estar presentados por
+locutores diferentes y presentar suscripción diferenciada.
+- Contenidos off-topic: proyectos de podcasting que, al
+margen de la web central, construyen un segundo espacio
+online habitualmente en formato blog que en ocasiones
+se utiliza para incluir asuntos off-topic no relacionados
+con el tema general del proyecto.
+- Otras textualidades: si bien los contenidos anteriormente
+indicados son los más utilizados, encontramos otros textos que, de forma menos profusa, también son utilizados
+en este tipo de proyectos: la publicación de libros digitales
+y en papel que complementan los contenidos del podcast
+y la realización de carátulas específicas en formato visual
+-con entidad narrativa autónoma- para cada capítulo del
+programa son los más habituales.
+Información metatextual
+Es información sobre el propio proyecto, sus creadores, la
+marca o su mundo narrativo ofreciendo datos nuevos no conocidos pero sin ampliar el contenido de los relatos previamente narrados. Se establecen cuatro subcategorías:
+- Información industrial: información que ofrece el proyecto
+para dar a conocer el proceso creativo o constructivo de los
+contenidos; es decir, el sujeto de la información es el desarrollo productivo en sí mismo. En este subtipo, podemos
+encontrar el making-of del podcast y del resto de textualidades que extienden su relato (vídeos, libros, etc.).
+- Información sobre los autores: datos de los productores
+del proyecto y de los colaboradores puntuales o entrevistados que participan esporádicamente o circunstancialmente en alguno de los episodios del podcast. En este
+caso, el sujeto de la información es el creador/colaborador/invitado del programa, cuyos datos suelen ser alojados en el sitio online del proyecto.
+- Información sobre la marca: el sujeto de la información
+es el proyecto como entidad, la marca o su mundo narrativo. Incluimos en esta clase a todos los anuncios sobre la
+organización y/o participación del podcast (y/o sus representantes) en eventos, así como la información de su experiencia en éstos. También agrupamos en esta categoría
+las noticias generadas por la actividad del programa: nominaciones a premios, galardones, recomendaciones por
+parte de terceros, incorporación de nuevos miembros,
+grabación de nuevos formatos y cualquier información
+vinculada a la actividad general del proyecto. Estos contenidos suelen tener carácter multiplataforma al encontrarse alojados tanto en las web o blogs, las redes sociales y
+en pequeñas secciones del contenido sonoro publicado.
+- Información instrumental: son los elementos comunicativos que ofrecen datos sobre el programa y, a la vez, sirven
+para facilitar la interacción y el consumo de los contenidos. Un ejemplo es la inserción del minutado de las diferentes secciones que podemos encontrar en los podcasts,
+de forma que el usuario es guiado por los distintos contenidos tratados en un capítulo a fin de buscar los aspectos
+La aparición del podcasting y su posterior evolución transmedia ha generado
+nuevas posibilidades narrativas tras un
+amplio período en el que la comunicación sonora fue dominada por una radio
+anclada en una preocupante estandarización de géneros y formatos
+David García-Marín y Roberto Aparici
+1080 El profesional de la información, 2018, septiembre-octubre, v. 27, n. 5. eISSN: 1699-2407
+Canal del podcast independiente Emilcar Daily en el servicio de alojamiento iVoox
+https://www.ivoox.com/podcast-emilcar-daily_sq_f145026_1.html
+más interesantes y facilitar una escucha no lineal de los
+mismos. Esta información metatextual, incluida tanto en
+los sitios online como en los metadatos que acompañan
+a los podcasts en los servicios de alojamiento, ofrece datos sobre el propio programa (qué asuntos se incluyeron
+en cada una de las secciones, cuántas secciones tiene un
+programa, cuál es su orden y duración, etc…) y, a la vez,
+sirve como instrumento que facilita la relación del usuario con el programa, presentando así una doble capacidad
+informativa e interactiva. El programa es sujeto de la información y, a la vez, objeto de la acción que permite el
+instrumento referido.
+5. Conclusiones
+La narrativa actual del podcasting desborda el carácter exclusivamente sonoro de sus inicios al construir productos
+mediáticos y culturales multilenguaje. Si bien el objeto nuclear de estos trabajos continúa siendo el
+contenido sonoro, los podcasters amueblan
+su universo narrativo con producciones que
+utilizan otros formatos mediáticos. El uso de
+fotografías, texto y recursos audiovisuales
+contribuyen a extender, comprimir o repetir
+los contenidos que provee este medio.
+Los podcasts utilizan una amplia variedad
+de plataformas tanto online como offline.
+Aunque destaca sobremanera el uso de las
+plataformas digitales, numerosos proyectos
+cuentan con un importante soporte fuera
+del mundo virtual, en radios hertzianas y a
+partir de la producción de programas presenciales en directo. Además de servir como
+punto de acceso diferenciado al universo
+narrativo, cada una de las plataformas utilizadas aporta valores específicos al conjunto
+del proyecto, estableciéndose un proceso
+de diferenciación funcional que hace que
+cada plataforma explote sus fortalezas de la
+forma más efectiva posible. Por ejemplo, las
+webs o blogs sirven para desarrollar expansiones narrativas a modo de complemento
+Contenidos adaptados Contenidos expandidos
+% Extensiones textuales %
+Resúmenes de episodios 90,9 Noticias temáticas 27,3
+Promos del podcast 54,5
+Vídeos con contenido diferenciado 27,3
+Contenido multiprograma y spin-off 36,4
+Avances de capítulos 9,1
+Material off-topic 9,1
+Carátulas 9,1
+Información metatextual %
+Información industrial 36,4
+Información sobre los autores 27,3
+Información sobre la marca 45,5
+Información instrumental 9,1
+Tabla 4. Taxonomía de los contenidos utilizados por el podcasting transmedia. Se indica el porcentaje de
+podcasts de la muestra que incluye cada tipo de contenido
+del contenido sonoro, funcionan
+como constructores de la personalidad e identidad del proyecto
+y facilitan la monitorización de sus
+seguidores a través de los datos
+generados por sus patrones de
+navegación.
+En las redes sociales, los podcasts
+logran altas posibilidades de interacción, diálogo y participación
+con sus fans y facilitan, a su vez,
+la construcción de contenidos
+significativos para el podcast.
+Las redes sociales constituyen,
+por último, una interesante herramienta promocional capaz de
+captar a nuevos oyentes.
+El podcasting ofrece una multiplicidad de contenidos que,
+lejos de comportarse de forma aislada e inconexa, guardan conexiones entre sí desarrollando una gramática propia, coherente y lógica. Los resúmenes de los episodios, las
+promos de los podcasts a modo de cuñas publicitarias y los
+avances de capítulos son ejemplos de compresiones narrativas que gravitan en torno al contenido de los programas.
+Existen, a la vez, otros textos que sí extienden la narrativa
+de los espacios ofreciendo nuevos datos que no podemos
+encontrar en la grabación sonora. Claros ejemplos de estas
+extensiones narrativas son:
+- las noticias relacionadas con el tema sobre el que versa el
+podcast que suelen aparecer en las webs del proyecto;
+- los vídeos con contenido diferenciado;
+- las estrategias multiprograma y spin-off.
+En algún punto situado entre los contenidos redundantes y
+las extensiones narrativas, encontramos los metatextos, los 
+Nueva comunicación sonora. Cartografía, gramática y narrativa transmedia del podcasting
+El profesional de la información, 2018, septiembre-octubre, v. 27, n. 5. eISSN: 1699-2407 1081
+elementos narrativos que no amplían el relato y, a la vez,
+ofrecen contenidos nuevos relacionados con los procesos
+creativos de los programas (making-of), con la propia marca
+como objeto de la información y con sus autores.
+La aparición del podcasting, con su posterior evolución
+transmedia, ha generado nuevas posibilidades narrativas
+tras un amplio período en el que la comunicación sonora
+fue dominada por la radio que, durante muchas décadas,
+permaneció anclada en una preocupante estandarización
+de géneros y formatos. El podcasting ha alimentado una
+nueva forma de construir productos sonoros a partir de la
+adición de múltiples manifestaciones expresivas que se dispersan en espacios diversos, tanto digitales como analógicos. Su lenguaje constituye una verdadera ruptura frente al
+modelo exclusivamente sonoro de sus inicios y frente a las
+lógicas narrativas de la radio tradicional.
+6. Agradecimientos
+Este trabajo se ha elaborado en el marco de la Red I+D de
+Educación Mediática del Programa Estatal de Investigación
+Científica-Técnica de Excelencia, Subprograma Estatal de Generación de Conocimiento (EDU2016-81772-REDT), financiados por el Fondo Europeo de Desarrollo Regional (Feder) y Ministerio de Economía y Competitividad de España (Mineco).
+7. Referencias
+Aparici, Roberto; García-Marín, David (2018). “Prosumidores y emirecs: análisis de dos teorías enfrentadas”. Comunicar, v. 26, n. 55, pp. 71-79.
+https://doi.org/10.3916/C55-2018-07
+Askwith, Ivan (2017). “Television 2.0: Reconceptualizing TV
+as an engagement medium”. Comparative media studies,
+August 10th.
+http://cmsw.mit.edu/television-2-0-tv-as-an-engagementmedium
+Berry, Richard (2016). “Will the iPod kill the radio star? Profiling podcasting as radio”. Convergence: The international
+journal of research into new media technologies, v. 12, n. 2,
+pp. 143-162.
+https://bit.ly/2LgeJCJ
+https://doi.org/10.1177/1354856506066522
+Bonini, Tiziano (2015). “The second age of podcasting: reframing podcasting as a new digital mass medium”. Cuaderns del CAC, v. 18, n. 41, pp. 21-30.
+https://bit.ly/2LhLyz5
+Callejo, Javier; Viedma, Antonio (2005). Proyectos y estrategias de investigación social: la perspectiva de la intervención. Madrid: McGraw Hill/Interamericana de España. ISBN:
+978 84 481 4613 9
+Cebrián-Herreros, Mariano (2009). La radio en la convergencia multimedia. Barcelona: Gedisa. ISBN: 978 84 743
+2892 9
+Corbetta, Piergiorgio (2007). Metodologías y técnicas de investigación social. Madrid: McGraw Hill/Interamericana de
+España. ISBN: 978 84 481 5610 7
+Dubber, Andrew (2013). Radio in the digital age. Cambridge, UK: Polity Books. ISBN: 978 0 745661971
+Gallego-Pérez, Juan-Ignacio (2010). Podcasting: distribución de contenidos sonoros y nuevas formas de negocio en la
+empresa radiofónica española. Tesis doctoral. Universidad
+Complutense de Madrid.
+http://eprints.ucm.es/11205/1/T32070.pdf
+García-Marín, David (2017). “La nueva comunicación sonora. Del podcast al transcasting”. En: Aparici, Roberto; García-Marín, David. ¡Sonríe, te están puntuando! Narrativa
+digital interactiva en la era de Black Mirror. Barcelona: Gedisa, pp. 145-163. ISBN: 978 84 16919 73 4
+Jenkins, Henry (2006). Convergence culture. La cultura de
+la convergencia en los medios de comunicación. Barcelona:
+Paidós. ISBN: 978 84 493 2153 5
+https://bit.ly/1iFsTzb
+Massarelli, Virginia; Perrotta, Marta (2006). “Podcasting: A
+change for listeners, a challenge for broadcasters”. In: Thiermann, Sven (ed.). Relating radio. communities. Aesthetics.
+Access. Leipzig: Spector, pp. 267-264.
+McHugh, Siobhan (2016). “Oral history and the radio documentary/feature: Introducing the Cohrd form”. Radio journal: International studies in broadcast & audio media, v. 10,
+n. 1, pp. 35-51.
+https://bit.ly/2NaS7W2
+McLuhan, Marshall; Fiore, Quentin (1967). El medio es el
+masaje. Un inventario de efectos. Barcelona: Paidós. ISBN:
+84 7509 015 X
+Moreno, Isidro (2012). La convergencia interactiva de medios: hacia la narración hipermedia. Tesis doctoral. Universidad Complutense de Madrid.
+http://eprints.ucm.es/17217/1/T20881.pdf
+Ortiz-Sobrino, Miguel-Ángel (2012). “Radio y post-radio en
+España: una cohabitación necesaria y posible”. Área abierta,
+v. 12, n. 2.
+http://revistas.ucm.es/index.php/ARAB/article/view/39637
+Rodríguez-Ferrándiz, Raúl; Ortiz-Gordo, Félix; Sáez-Núñez,
+Virginia (2014). “Contenidos transmedia de las teleseries
+españolas: clasificación, análisis y panorama en 2013”. Communication & society, v. 27, n. 4, pp. 73-94.
+https://www.unav.es/fcom/communication-society/es/
+articulo.php?art_id=513
+Rosado-Millán, María-Jesús; García-García, Francisco;
+Kaplún-Hirsz, Daniel (2014). Guía práctica de técnicas de
+investigación social. Madrid: Fundación iS+D para la Investigación Social Avanzada. ISBN: 978 84 940 5133 3
+Scolari, Carlos A. (2008). Hipermediaciones. Elementos para
+una teoría de la comunicación digital interactiva. Barcelona:
+Gedisa. ISBN: 978 84 9784 273 0
+Wired (2004). “Podcasts: new twist on net audio”. Wired,
+August 10th.
+http://archive.wired.com/entertainment/music/
+news/2004/10/65237
+Copyright of El Profesional de la Información is the property of EPI SCP and its content may
+not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's
+express written permission. However, users may print, download, or email articles for
+individual use.

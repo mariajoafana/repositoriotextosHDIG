@@ -1,0 +1,474 @@
+490
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+USOS EDUCATIVOS DE LA NARRATIVA DIGITAL: UNA EXPERIENCIA DE
+M-LEARNING PARA LA EDUCACIÓN EMOCIONAL
+Resumen: En este trabajo se presenta una experiencia de innovación educativa
+desarrollada en una Escuela de Arte dentro del ciclo de Lenguajes y Medios
+Audiovisuales. En esta experiencia se han aplicado diferentes técnicas: a) aprendizaje
+colaborativo soportado por ordenador para la enseñanza de habilidades sociales, b)
+narrativa digital para la enseñanza de competencias emocionales y c) utilización de
+dispositivos móviles para la enseñanza de competencias específicas de la asignatura en la
+creación de microformatos audiovisuales y competencias tecnológicas. En este artículo
+se describe el diseño de la experiencia educativa así como los resultados obtenidos en los
+tests y evaluaciones realizadas antes, durante y después del desarrollo de la misma.
+Palabras clave: m-learning, narrativa digital, educación emocional, CSCL
+491
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+EDUCATIONAL USES OF DIGITAL STORYTELLING: AN EXPERIENCE OF
+M-LEARNING FOR THE EMOTIONAL EDUCATION
+Abstract: This paper presents an educational innovative experience developed in an art
+school in the cycle of Language and Audiovisual Media. In this experience different
+techniques have been applied: a) computer-supported collaborative learning for teaching
+social skills, b) digital storytelling for teaching emotional skills c) use of mobile devices
+for teaching specific subject's skills in audiovisual creation and technological skills. This
+paper describes the design of this educational experience and their results.
+Key words: m-learning, digital storytelling, emotional education, CSCL
+492
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+USOS EDUCATIVOS DE LA NARRATIVA DIGITAL: UNA EXPERIENCIA DE
+M-LEARNING PARA LA EDUCACIÓN EMOCIONAL
+Fecha de recepción: 10/02/2013; fecha de aceptación: 01/06/2013; fecha de publicación: 30/07/2013
+Víctor Socas Guerra
+victorsocasguerra@gmail.com
+Universidad de la Laguna
+Carina S. González González
+cjgonza@ull.es
+Universidad de la Laguna
+1. INTRODUCCIÓN
+La inteligencia emocional se refiere a la capacidad de identificar, comprender y manejar
+las emociones en uno mismo y en los demás. Fernández Berrocal y Ramos (2002) definen
+a la inteligencia emocional como “la capacidad para reconocer, comprender y regular
+nuestra emociones y las de los demás”. Desde esta perspectiva, es una habilidad que
+implica tres procesos: a) percepción, b) comprensión y c) regulación. En cuanto a la
+percepción, es la forma de reconocer de forma consciente nuestras emociones e identificar
+qué sentimos y ser capaces de darle una etiqueta verbal. Por otro lado, la comprensión es
+la capacidad de integrar lo que sentimos dentro de nuestro pensamiento y saber considerar
+la complejidad de los cambios emocionales. Por último, la regulación es la capacidad de
+dirigir y manejar las emociones tanto positivas como negativas de forma eficaz.
+La autoconciencia emocional es la conciencia de los propios estados internos, recursos e
+intuiciones. Es reconocer las propias emociones y los efectos que éstas tienen sobre
+nuestro estado físico, comportamiento y pensamiento. La autoconciencia es el eje básico
+de la inteligencia emocional, por cuanto la toma de conciencia de nuestros estados
+emocionales es el punto de partida para otras habilidades de la inteligencia emocional
+como el autocontrol, la empatía y las habilidades sociales.
+493
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+En cuanto a las habilidades sociales podemos decir que la inteligencia emocional refleja
+la manera en que las personas interactúan con los demás (Goleman, 1996). La inteligencia
+emocional tiene un componente intrapersonal y un componente interpersonal. Lo
+intrapersonal comprende las capacidades para la identificación, comprensión y control de
+las emociones en uno mismo, que se manifiestan en la autoconciencia y el autocontrol. El
+componente interpersonal, comprende a su vez la capacidad de identificar y comprender
+las emociones de las otras personas (empatía) y poseer habilidades sociales (Vivas,
+Gallego y González, 2007).
+En particular, en este trabajo trabajaremos sobre las habilidades sociales, trabajando
+sobre elementos tales como comunicación, influencia, liderazgo, catalización del cambio,
+resolución de conflictos, colaboración y cooperación y habilidades para el trabajo en
+equipo, aplicando principios de aprendizaje colaborativo apoyado por ordenadores
+(CSCL) (Soller y Lesgold, 2000).
+Asimismo, cabe destacar el lenguaje del arte como recurso efectivo para la expresión y
+educación emocional. Este lenguaje se apoya en el principio de la comunicabilidad de la
+experiencia mediado por la subjetividad. En consecuencia, el arte se constituye en una
+estrategia de la educación emocional para la mejora de los procesos expresivocomunicativos e intersubjetivos de los sujetos (Vivas, Gallego y González, 2007) y como
+medio para la conexión y expresión de las emociones, destacando el uso del cine como
+estrategia para educar actitudes y sentimientos (De La Torre, 2000).
+Dada la penetración de los teléfonos móviles en la sociedad de la información y en
+particular, el uso que hacen de los mismos los estudiantes tanto en las escuelas
+secundarias como universidades, los dispositivos móviles pueden llegar a ser un
+instrumento importante de apoyo al aprendizaje (Castells et al., 2007; Sánchez et al.,
+2009). Podemos afirmar entonces que el aprendizaje móvil o Mobile Learning (mLearning), es una fuerte tendencia en educación (Holzinger et al., 2005; Conde et al.,
+2008;). Diversos autores han estudiado las potencialidades pedagógicas del m-Learning,
+afirmando que los dispositivos móviles promueven prácticas interactivas, facilitando la
+comunicación entre pares, el intercambio de datos, la interacción cara a cara y la
+colaboración (Roschelle, 2003; Attewell, 2005; Chan et al., 2006; Chirino et al., 2010).
+Por ello, en este trabajo haremos uso de los dispositivos móviles para propiciar la
+colaboración y las prácticas de creación interactivas.
+494
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+Por otra parte, la creación de relatos digitales permite facilitar la alfabetización digital,
+aumentar el vocabulario y mejorar el lenguaje, al mismo tiempo que se despierta la
+motivación hacia el aprendizaje y se facilita la puesta en práctica de los conocimientos
+que han aprendido en el centro educativo. Existen un gran número de aplicaciones con
+los que se pueden realizar producciones audiovisuales en microformatos. Nuestros
+estudiantes disponen de smarthphones con cámaras fotográficas, vídeo, grabadora de voz,
+y reproductores MP3 y MP4. Con esto, podemos crear historias narrativas digitales.
+Asimismo, podemos ver otras experiencias exitosas que combinan narrativa digital y mlearning (Arnedillo Sánchez & Tangney, 2006). Por tanto, uno de nuestros objetivos ha
+sido el aprovechar las posibilidades que nos ofrece la narrativa digital o digital storytelling
+(Ohler, 2008) utilizando los dispositivos móviles para la educación emocional al mismo
+tiempo que se ponían en práctica los conocimientos de la asignatura de Lenguajes y
+Medios Audiovisuales (Socas y González, 2012).
+A continuación se describirá una experiencia educativa desarrollada dentro de una
+asignatura artística basada en la creación de narrativas digitales con dispositivos móviles
+y utilizados como estrategias de expresión artística y educación emocional.
+2.- EXPERIENCIA
+2.1. Muestra
+La muestra estuvo compuesta por 24 estudiantes cuyas edades estaban comprendidas
+entre 18 y 23 años, del 3er Curso de la Escuela de Arte Pancho Lasso, dentro del Ciclo
+de Lenguajes y Medios Audiovisuales. En cuanto al género, la distribución fue de un 45%
+de mujeres y un 55% de varones.
+2.2. Materiales
+Los materiales utilizados en la experiencia fueron los siguientes:
+ Móviles con cámara (tipo smarthphones)
+ Ordenadores
+ Software de edición de vídeo: Adobe Premiere
+ Software de montaje de para el prototipo interactivo: Powerpoint, Flash
+495
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+2.3. Metodología
+El trabajo grupal fue estructurado de tal forma que se siguieran los cinco principios de
+aprendizaje colaborativo: a) interdependencia positiva, b) interacción cara a cara, c)
+responsabilidad individual y de grupo, d) aprendizaje de habilidades sociales y e) revisión
+del proceso del grupo [4]. De esta forma, para realizar el proyecto grupal los 24
+estudiantes del curso se organizaron en 6 grupos de 3 a 4 personas asumiendo diferentes
+roles en el grupo (realizador, actores, editor).
+Las actividades de enseñanza-aprendizaje se distribuyeron durante el curso 2011-2012
+(15 semanas) de la siguiente manera:
+Actividades Semanas
+1. Clases magistrales y demostración del
+profesor a los estudiantes de los
+procedimientos y técnicas específicas a
+utilizar.
+2. Realización de un pre-test sobre
+competencias TIC y competencias
+emocionales.
+3. Clases magistrales y demostración del
+profesor conceptos básicos relacionados con
+la inteligencia emocional (conductas
+agresivas, inhibidas, asertivas).
+3 semanas
+4. Ejercicios de reconocimiento emocional de
+respuestas agresivas, inhibidas y asertivas a
+determinadas situaciones
+1 semana
+5. Desarrollo del ejercicio de creación
+audiovisual con móviles y prototipo
+interactivo.
+6. Tutorías grupales.
+6 semanas
+7. Presentación por parte de los grupos de los
+proyectos realizados.
+1 semana
+496
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+Actividades Semanas
+8. Propuestas para la reflexión y
+profundización sobre las conductas
+observadas en los proyectos.
+9. Realización de un cortometraje libre
+10. Realización de un post-test de competencias
+TIC y competencias emocionales.
+4 semanas
+Tabla 1. Actividades de enseñanza-aprendizaje realizadas durante el curso
+Respecto al ejercicio audiovisual realizado por los alumnos, el mismo se estructuró en
+dos partes principales:
+a) 1º Parte: A partir de los conocimientos adquiridos en la asignatura lenguaje y
+medios audiovisuales, los alumnos deben realizar la grabación de tres problemas
+de su vida cotidiana y plantear tres soluciones para cada problema, teniendo en
+cuenta que estas soluciones tienen que dar diferentes respuestas emocionales tipo:
+agresiva, inhibida y asertiva. Con este material audiovisual cada grupo construye
+un prototipo interactivo (PowerPoint y Flash), donde el usuario, puede a partir de
+ver el audiovisual del problema, para luego identificar la solución del mismo
+clasificándola en una respuesta del tipo agresiva, inhibida y asertiva.
+b) 2º Parte: Los alumnos realizan individualmente un cortometraje libre de
+duración máxima de 6 minutos, especificando los cambios de estados emocionales
+que se platean en la narrativa realizada.
+Los objetivos que se persiguieron con esta actividad fueron los siguientes:
+a) Conocer el lenguaje de las imágenes en movimiento, los códigos y
+convenciones lingüísticas que de ellos se derivan.
+b) Adquirir los conocimientos pertinentes de los mecanismos expresivos y
+funcionales característicos, para, mediante la asimilación y reflexión, ser capaz de
+funcionar y utilizar de manera autónoma el lenguaje de las imágenes en una
+497
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+búsqueda e investigación con el fin de encontrar soluciones equilibradas en el
+proceso de creación audiovisual.
+c) Adquirir un dominio de las estructuras emocionales en la narrativa audiovisual.
+Para ello, específicamente se trabajaron y aseguraron los siguientes conceptos de la
+narrativa audiovisual:
+a) El espacio unitario.
+b) Encuadre y selección de la realidad.
+c) Elección y ocultación.
+d) La profundidad de campo como factor expresivo.
+e) De la toma al plano. La escala de planos.
+f) Altura y angulación de la cámara.
+g) El movimiento del punto de vista. El zoom como falso movimiento. Lo
+audiovisual tiene estructura temporal. La elipsis. Linealidad. Saltos temporales.
+h) La secuencia.
+i) La transición entre planos.
+j) La continuidad visual y racord.
+k) El salto del eje de acción.
+l) La articulación del espacio y del tiempo.
+m) El montaje como elemento integrador.
+n) Aplicación con criterio de los diferentes estados emocionales dentro de la
+narrativa.
+498
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+Para la evaluación de la actividad a nivel académico se tuvieron en cuenta los siguientes
+criterios:
+a) Destreza perceptiva (emocional).
+b) Conocimiento práctico de los procesos derivados de los distintos contenidos
+temáticos.
+c) Utilización y uso correcto de los diferentes aparatos (vídeo, video-cámaras,
+proyectores, mezcladores, vídeo-sonido, etc.).
+d) Conocimiento y uso correcto de la terminología profesional.
+e) Sensibilidad para expresarse en el medio de una forma personal e independiente
+así como crear nuevos modelos estéticos.
+f) Capacidad crítica para opinar sobre los distintos valores, ya sean estéticos o
+técnicos del lenguaje de las imágenes.
+g) Capacidad e imaginación creativa.
+h) La asimilación y comprensión de los mecanismos y códigos del lenguaje de las
+imágenes.
+i) Crítica y análisis de secuencias de programas audiovisuales y lecturas
+recomendadas.
+2.4. Desarrollo
+El ejercicio de creación audiovisual se desarrolló poniendo en práctica los conocimientos
+adquiridos en la asignatura lenguaje y medios audiovisuales en donde los estudiantes
+realizaron la grabación de tres problemas de su vida cotidiana y plantearon tres soluciones
+para cada problema, teniendo en cuenta que estas soluciones con diferentes respuestas
+emocionales: a) agresiva; b) inhibida y c) asertiva. Con los materiales audiovisuales
+elaborados, cada grupo construyó un prototipo de narrativa interactiva, donde el usuario
+499
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+a partir de ver el audiovisual del problema puede elegir la solución del mismo (agresiva,
+inhibida y asertiva).
+En la Figura 1 podemos ver un ejemplo de 4 vídeos que contienen la presentación de una
+situación problema y las tres soluciones propuestas. En este ejemplo, el problema
+presentado es la situación en la que una chica de 17 años vuelve a su casa a las 6 de la
+mañana después de haber pasado fuera toda la noche, sin permiso de su madre, y su madre
+le abre la puerta. Ante esta situación, la madre tiene diferentes estilos de afrontamiento.
+En el prototipo interactivo, el objetivo será identificar cuál de las tres soluciones
+propuestas al problema inicial es la refleja una actitud positiva, negativa o neutra respecto
+al personaje de la madre.
+Situación problema 1.Respuesta Asertiva 2.Respuesta Inhibida 3. Respuesta Agresiva
+Figura 1. Ejemplo de los 4 tipos de vídeos creados por los grupos, presentando
+la situación problema y 3 tipos respuestas emocionales diferentes.
+En total, se han realizado 18 proyectos audiovisuales, cada uno de estos planteando un
+problema cotidiano y un total de 54 audiovisuales con las 54 soluciones de respuestas
+emocionales (18 agresivas, 18 inhibidas y 18 asertivas) y 18 prototipos interactivos.
+Para estudiar la dinámica de trabajo grupal, se llevaron a cabo una serie de observaciones
+estructuradas en las sesiones presenciales siguiendo las 12 categorías de Bales (1999).
+Esta observación nos ha permitido identificar las interacciones dentro del grupo, así como
+la comunicación emitida por cada sujeto hacia cada uno de los otros miembros o hacia
+todo el grupo. Por otra parte, se realizó una entrevista con el líder del grupo para recabar
+más información sobre el grupo.
+500
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+Figura 2. Sesión de trabajo grupal de crítica y análisis de secuencias audiovisuales.
+3.- RESULTADOS
+En esta sección se presentarán los resultados obtenidos en los tests realizados, pre y post, así como
+las evaluaciones realizadas durante el desarrollo de la experiencia por dimensión analizada.
+3.1. Dimensión tecnológica
+Los resultados obtenidos sobre la dimensión tecnológica presentan un alumnado
+altamente conectado: el 80% de los alumnos tenía ordenador personal, el 79% dispone de
+conexión a Internet y se conecta habitualmente desde casa. Asimismo, el 87% utiliza
+programas de edición de imágenes, audio y vídeo de forma cotidiana, por lo que nuestro
+alumnado ya tiene conocimientos básicos tecnológicos para la creación audiovisual, no
+así, las competencias específicas curriculares de la asignatura.
+501
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+Además, el 100% dispone de un teléfono móvil, aunque solo el 77% posee capacidades
+de acceso a Internet desde el dispositivo. Sobre el uso que hacen del móvil podemos
+destacar los siguientes (Tabla 2).
+Uso %
+Hablar 93%
+Enviar SMS 67%
+Navegar 67%
+Chatear 47%
+Sacar fotos 80%
+Redes sociales 60%
+Grabar vídeos 67%
+Otros usos 13%
+Tabla2. Tipos de usos del móvil
+3.2. Dimensión audiovisual
+Respecto al uso del móvil como instrumento de creación audiovisual, el 69% piensa que
+es una herramienta útil y el 62% que puede ser utilizada para contar historias. En este
+sentido, algunas de las ventajas que encontraron los alumnos utilizando el móvil en el
+ejercicio de estados emocionales fueron las siguientes:
+ Hace que la grabación sea más amateur por lo tanto más relista y menos artificial.
+ Es un instrumento que siempre lo tienes a mano.
+ Es un recurso fácil de utilizar y su calidad puede ser usada según para que
+objetivos.
+ Es útil para ubicar un personaje que contrarreste mucho con otro.
+ Es cómodo, fácil y bastante casero.
+502
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+ Es un medio a la mano ligero y fácilmente transportable.
+En cuanto a las desventajas halladas del uso del móvil como herramienta de creación
+audiovisual, podemos citar las siguientes:
+1. La calidad final del móvil es muy inferior a la de una cámara, por lo tanto para
+trabajos más "serios" no convendría su uso.
+2. Limitaciones en las prestaciones de la cámara.
+3. Poca calidad de imagen y sonido.
+4. Poca memoria.
+5. Poca estabilidad al no poder usar trípode.
+6. No poder utilizar el enfoque.
+7. Pésima calidad nocturna y con mucha luz.
+3.3. Dimensión colaborativa
+La colaboración en el grupo fue observada durante las sesiones de trabajo grupal de forma
+presencial, en donde por cada miembro y rol desempeñado en el grupo (realizador,
+actores, editor), se analizó su comportamiento en referencia a las siguientes categorías de
+Bales (1999):
+1. Solidaridad: da pruebas de solidaridad, alienta, ayuda, valoriza a los demás.
+2. Distensión: Trata de disminuir la tensión, bromea, ríe, se declara satisfecho.
+3. Acuerdo: Da su conformidad, acepta tácitamente, comprende.
+4. Da sugerencias e indicaciones, respetando la libertad de los demás
+5. Da su opinión, analiza, expresa sus sentimientos y sus deseos.
+6. Orienta, informa, repite, aclara, confirma.
+7. Solicita orientación, información, repetición, confirmación
+8. Solicita una opinión, una evaluación, un análisis, la expresión de un sentimiento.
+9. Solicita sugerencias, instrucción, medios posibles de acción.
+10. Desacuerdo: desaprueba, rechaza pasivamente, niega su ayuda.
+11. Tensión: manifiesta una tensión, pide ayuda, se retira de la discusión.
+12. Antagonismo: da pruebas de oposición, denigra a los demás, se afirma a sí mismo.
+Esta observación nos ha permitido identificar, analizar y trabajar en los ejercicios
+emocionales las habilidades sociales de los estudiantes y potenciar la comunicación
+asertiva en cuanto a que sean capaces de lograr competencias comunicativas asertivas,
+503
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+tales como: a) expresar sentimientos y deseos positivos y negativos de una forma eficaz,
+sin negar o menospreciar los derechos de los demás y sin crear o sentir vergüenza, b)
+discriminar las ocasiones en que la expresión personal es importante y adecuada y c)
+defenderse, sin agresión o pasividad, frente a la conducta poco cooperadora, apropiada o
+razonable de los demás.
+3.4. Dimensión emocional
+Respecto a la dimensión sobre el conocimiento emocional, se evaluaron las habilidades
+sobre percepción emocional, comprensión de sentimientos y regulación emocional. El
+test para evaluar los estados emocionales se basó en el test TMMS-24 elaborado por
+Fernández-Berrocal, Extremera y Ramos (2005).
+Siguiendo el TMMS-24, se preguntó a los alumnos en qué medida eran capaces de sentir,
+expresar, comprender y regular los sentimientos de forma adecuada antes y después de
+realizar el ejercicio, obteniéndose los siguientes resultados sobre las competencias
+emocionales de los estudiantes:
+ Antes de realizar ejercicio el 51% era capaz de sentir y expresar sus sentimientos
+de forma adecuada (bastante-mucho) y el 13% no sabía expresarse correctamente,
+mientras que después de hacer el ejercicio el 100% manifestó que era capaz de
+expresar sus sentimientos de forma adecuada (de los cuales el 19% muy bien).
+ Antes del ejercicio el 6% no era capaz de comprender sus estados emocionales
+mientras que 44% lo hacía bastante bien. Después de realizar el ejercicio, el 100%
+manifestó que era capaz de comprender sus estados emocionales (de los cuales el
+56% lo hace muy bien).
+ Antes de realizar el ejercicio el 12% no sabía cómo regular sus emociones (nadapoco), y después de la realización del ejercicio este porcentaje disminuye a la
+mitad (6%-poco).
+ El 69% de los estudiantes considera que el medio es idóneo para una fácil
+interpretación emocional y que las propuestas sobre estados emocionales
+(inhibidas, asertivas, agresivas) planteadas han sido fáciles (81%).
+504
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+4.- CONCLUSIONES
+En este trabajo se ha presentado una experiencia de innovación educativa desarrollada
+con estudiantes de la Escuela de Arte Pancho Lasso dentro del ciclo de Lenguajes y
+Medios Audiovisuales. En esta experiencia se han aplicado diferentes técnicas:
+a) aprendizaje colaborativo soportado por ordenador para la enseñanza de
+habilidades sociales,
+b) narrativa digital para la enseñanza de habilidades emocionales y
+c) utilización de dispositivos móviles para la enseñanza de competencias
+específicas de la asignatura en la creación de microformatos audiovisuales y
+competencias tecnológicas.
+Los estudiantes se han mostrado altamente motivados y han mostrado una evolución
+positiva tanto en el aprendizaje de las competencias específicas de la asignatura, como en
+las competencias sociales, emocionales y tecnológicas.
+Del análisis de los datos recogidos durante el desarrollo de la experiencia, podemos
+destacar que la evolución de los estudiantes ante este tipo de ejercicios ha sido altamente
+positiva, no solo de cara a su aprendizaje de contenidos específicos de la asignatura, sino
+en el reconocimiento de comportamientos, actitudes y respuestas emocionales ante
+distintas situaciones de la vida cotidiana y en la propia clase.
+Respecto al ejercicio de creación audiovisual, hemos observado que en la primera parte
+de la actividad dirigida y pautada por el profesor hacia el trabajo sobre las respuestas
+emocionales (asertiva, inhibida y agresiva) a una situación problema, los alumnos fueron
+adquiriendo una actitud crítica y constructiva sobre los diferentes estados emocionales,
+desarrollando una capacidad de análisis en sus trabajos y en el de sus compañeros,
+entendiendo y familiarizándose con los estados emocionales como herramienta
+fundamental en la construcción narrativa. Por otra parte, en la segunda parte de la
+actividad, siendo un audiovisual de creación libre, los estudiantes demostraron una mayor
+destreza en la construcción narrativa, enriqueciendo los audiovisuales realizados y
+aumentando la variedad de las propuestas y la complejidad emocional de las mismas.
+505
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+Creemos por tanto que la educación emocional es un elemento pendiente de incluir en las
+competencias transversales. Por último, destacar el potencial educativo de la narrativa
+digital y los dispositivos móviles, que son elementos que se encuentran al alcance del
+profesorado y del alumnado y que pueden convertirse en poderosos aliados tanto dentro
+como fuera del aula. Por otra parte, los dispositivos móviles propician la comunicación,
+intercambio de datos y colaboración entre los estudiantes (Zurita y Nussbaum, 2004).
+Actualmente estamos estudiando la relación de las narrativas creadas por los estudiantes,
+según: los hechos o incidentes mostrados, los elementos de transición (relación), la
+organización cronológica del mensaje, los tiempos (percepción, psicológico), los planos,
+entre otros elementos estructurales narrativos. Además, se han realizado pruebas de
+experiencia de usuario (UX) y Eyetracker con los mejores prototipos interactivos creados
+por los estudiantes y estamos analizando los datos recogidos en las mismas.
+5.- BIBLIOGRAFÍA
+Arnedillo Sánchez, I. & Tangney B. (2006). Mobile Technology: Towards overcoming
+technology & time constraints in digital video production. IADIS International
+Conference on Mobile Learning. 256 - 259.
+Bales, R.F. (1999). Social interaction systems: Theory and measurement. Transaction
+Publishers.
+Castells, M., Fernández Ardevol, M., Linchuan Qiu, J. y Sey, A. (2007). Comunicación
+móvil y sociedad, una perspectiva global. Barcelona: Ariel, Fundación Telefónica.
+Chan, T., Roschelle, J., Hsi, S., Kinshuk, Sharples, M., Brown, T., Patton, C.,
+Cherniavsky, J., Pea, R., Norris, C., Soloway, E., Balacheff, N., Scardamalia, M.,
+Dillenbourg, P., Looi, C., Milrad, M., & Hoppe, U. (2006). One-to-one technologyenhanced learning: An opportunity for global research collaboration. Research and
+Practice in Technology Enhanced Learning, 1(1), 3-29.
+Chirino, V.; Noguez, J.; Neri, L.; Robledo-Rella, V. y Aguilar, G. (2010). Students
+perception about the use of mobile devices in self-managed learning activities and
+learning gains related to mobile learning resources. Book on Mobile Science.
+Conde, M.A., Muñoz C., García F.J. (2008). El mLearning y la revolución de los procesos
+de Aprendizaje. V Simposio Pluridisciplinar sobre Diseño y Evaluación de
+Contenidos Educativos Reutilizables. Salamanca.
+506
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+De La Torre, S. (2000). Estrategias creativas para la educación emocional. Revista
+Española de Pedagogía, LVIII (217), 543-572.
+Fernández-Berrocal, P. y Ramos, N. (2002). Corazón y razón. En Fernández-Berrocal, P.
+y Ramos, N. (Eds.). Corazones inteligentes. (pp. 17-34). Barcelona: Kairós.
+Fernández-Berrocal, P., Extremera, N. y Ramos, N. (2005) Validity and reliability of the
+Spanish modif ed version of the Trait Meta-Mood Scale. Psychological Report, 94,
+751-755.
+Goleman, D. (1996). La inteligencia emocional. Buenos Aires: Javier Vergara Editor.
+Holzinger A., Nischelwitzer A., Meisenberger M. (2005): Lifelong-learning support by
+m-learning: example scenarios. eLearn Magazine 2005(11): 2.
+Ohler, J. (2008). Digital Storytelling in the classroom: new media pathways to literacy,
+learning, and creativity. Thousand Oaks, California: Corwin Press.
+Roschelle J. (2003). Unlocking the learning value of wireless mobile devices. Journal of
+Computer Assisted Learning (2003) 19(3), 260-272. Blackwell Publishing Ltd
+Socas V., González C.S. (2012). Narrativa Digital con Dispositivos Móviles: Una
+Experiencia para la Educación Emocional. Actas del XIV Simposio Internacional
+de Informática Educativa (pp 231-234). Andorra. 29 al 31 de Octubre de 2012.
+Sánchez, J.; Sáenz, M.; Muñoz, M.; Ramirez, G. y Martín, S. (2009). Situación actual del
+mLearning. Recuperado el 23 de abril de 2011 en: http://remo.det.uvigo.es
+Soller, A. y Lesgold, A. (2000). Modeling the process of collaborative learning.
+Proceedings of International Workshop on New Technologies in Collaborative
+Learning, Awaji-Yumetabi, Japan.
+Vivas M., Gallego D., González B. (2007). Educar las emociones. Venezuela.
+Zurita, G. y Nussbaum, M. (2004). Computer supported collaborative learning using
+wirelessly interconnected hand-held computers. Computers & Education. 42 (3),
+289-314.
+507
+TESI, 14(2), 2013, pp. 490-507
+Víctor Socas Guerra y Carina S. González González
+Para citar el presente artículo puede utilizar la siguiente referencia:
+Socas Guerra, V. y González González, C. S. (2013). Usos educativos de la narrativa
+digital: una experiencia de m-learning para la educación emocional. Revista Teoría de la
+Educación: Educación y Cultura en la Sociedad de la Información. 14(2), 490-507
+[Fecha de consulta: dd/mm/aaaa].
+http://campus.usal.es/~revistas_trabajo/index.php/revistatesi/article/view/10242/10673
+Copyright of Teoría de la Educación. Educación y Cultura en la Sociedad de la Información is
+the property of Ediciones Universidad de Salamanca and its content may not be copied or
+emailed to multiple sites or posted to a listserv without the copyright holder's express written
+permission. However, users may print, download, or email articles for individual use.

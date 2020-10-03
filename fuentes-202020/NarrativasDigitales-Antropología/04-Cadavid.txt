@@ -1,0 +1,937 @@
+176 REVISTA LASALLISTA DE INVESTIGACIÓN - Vol. 12 No. 2 - 2015 - J. H. Betancourt Cadavid - 176•185
+Alternativas antropológicas, históricas y pedagógicas,
+para la conservación del sujeto en el universo digital*
+Jorge Hernán Betancourt Cadavid**
+*	 Artículo de reflexión derivado de la investigación de tesis doctoral titulada Una lectura desde la Antropología Filosófica, e histórico
+pedagógica, a la constitución del sujeto, la formación y la transformación, en la obra de Hugo Zemelman: aportes a la(s) Pedagogía(s)
+Crítica(s) en Latinoamérica, que también se desarrolló como proyecto de investigación en el Grupo de Investigación Educación y
+Subjetividad – GIES de la Facultad de Ciencias Sociales y Educación en la Corporación Universitaria Lasallista.
+**	 Licenciado en Educación, Especialista en Docencia Universitaria, candidato a Doctor en Filosofía (civil), de la Universidad Pontificia
+Bolivariana de Medellín. Docente investigador del Grupo de Investigación Educación y Subjetividad –GIES, de la Facultad de Ciencias
+Sociales y Educación en la Corporación Universitaria Lasallista, y del Grupo Interdisciplinario de Estudios Pedagógicos– GIDEP, en la
+Facultad de Educación de la Universidad de San Buenaventura, Medellín.
+	 Contacto: jobetancourt@lasallistadocentes.edu.co y jhbc35@gmail.com
+Autor para correspondencia: Jorge Hernán Betancourt Cadavid, email: jobetancourt@lasallistadocentes.edu.co
+Artículo recibido: 07/07/2015; Artículo aprobado: 18/08/2015.
+REVISTA LASALLISTA DE INVESTIGACIÓN - Vol. 12 No. 2 - 2015 - 176•185
+Resumen
+En el mundo contemporáneo, especialmente
+en medio del universo digital, se convierte en
+un ejercicio imperativo abordar el desafío de
+conceptualizar al sujeto que se constituye en
+medio de esa realidad. Es necesaria una reflexión
+del mismo que tenga especial cuidado con las
+intenciones universalizantes. Este trabajo apunta
+a una mirada que quiebra la separación entre
+lo real como externalidad y la subjetividad, para
+intentar redefinir la idea de objetividad en torno a
+la formación. Así pues, desde lo metodológico que
+proporciona la hermenéutica como interpretación, el
+artículo procura acercarse al tema de la subjetividad
+sin posiciones operativas de las reducciones
+positivistas, y sin la escueta locución de procesos
+macrohistóricos definidos por el mundo de lo
+digital. Esta es una reflexión que se funda entre
+los contenidos que aparecen en las condiciones de
+época y la transitoriedad de los sujetos, subrayando
+la emergencia de las relaciones sociales que no
+implican hegemonías.
+Palabras clave: sujeto, subjetividad, antropología
+filosófica, antropología histórico-pedagógica.
+Anthropological, historical and
+pedagogical alternatives to conserve
+the subject in the digital universe
+Abstract
+In the contemporary world, especially within the digital
+universe, conceptualizing the subject constituted in
+this reality is a mandatory exercise. A reflection on
+the matter, being especially careful of universalizing
+intentions is necessary. This research work aims
+to a view that breaks the separation between what
+is real as an external aspect and subjectivity, in
+order to re-define the idea of objectivity related to
+formation. Therefore, from the method provided by
+hermeneutics as a way for interpretation, the article
+tries to approach subjectivity without any operative
+positions taken from the positivist reductions and
+also without the bold locution of macro historical
+processes defined by the digital world. This is a
+reflection funded on the contents that appear in the
+historical and transience conditions of the subjects,
+remarking the emergence non-hegemonic social
+relationships.
+Key words: subject, subjectivity, philosophical
+anthropology, historical-pedagogical anthropology.
+Alternativas antropológicas, históricas
+e pedagógicas, para a conservação
+do sujeito no universo digital
+Resumo
+No mundo contemporâneo, especialmente no meio
+do universo digital, converte-se num exercício
+imperativo abordar o desafio de conceitualizar
+ao sujeito que se constitui no meio dessa
+realidade. É necessária uma reflexão do mesmo
+que tenha especial cuidado com as intenções
+universalizalizantes. Este trabalho aponta a uma
+olhada que quebra a separação entre o real como
+Artículo de reflexión / Reflection article / Artigo Reflexão
+Alternativas antropológicas, históricas y pedagógicas, para la conservación del sujeto en el universo digital 177
+1	 Es importante tener en cuenta para efectos de este trabajo, se asume el concepto de pedagogía como campo disciplinar y profesional
+ya que en este ejercicio epistemológico hay un potencial desde el campo aplicado de la misma, teniendo en cuenta tanto lo disciplinar
+como lo profesional, y de esa manera no dejar en un segundo plano los procesos de disciplinares y reflexivos de la misma. Así que,
+pedagogía se asume en un sentido amplio como un campo disciplinar y profesional que se ocupa del discurso sobre la constitución de
+sujetos –formación si se quiere-, y de la educación. Esto para llamar la atención en la medida en que la división entre las teorías de
+la pedagogía y la práctica de la misma genera la extrapolación anacrónica de los procesos disciplinares que sustentan el saber de la
+pedagogía. Cf.: Runge, A., Gracés, J. y Muñoz D. 2010.
+externalidade e a subjetividade, para tentar redefinir
+a ideia de objetividade em torno da formação. Por
+conseguinte, desde o metodológico que proporciona
+a hermenêutica como interpretação, o artigo tenta
+acercar-se ao tema da subjetividade sem posições
+operativas das reduções positivistas, e sem a
+concisa locução de processos macro-históricos
+definidos pelo mundo do digital. Esta é uma reflexão
+que se funda entre os conteúdos que aparecem nas
+condições de época e a transitoriedade dos sujeitos,
+sublinhando a emergência das relações sociais que
+não implicam hegemonias.
+Palavras chave: sujeito, subjetividade, antropologia
+filosófica, antropologia histórico-pedagógica.
+Introducción
+Posiblemente transcurre con carácter de
+urgencia consolidar una vertiente al interior
+del pensamiento pedagógico latinoamericano
+con intenciones críticas, en la medida en que
+la lectura filosófica de autores como Hugo
+Zemelman lo posibiliten, no para un análisis
+exclusivamente contemplativo, sino como
+fundamento praxeológico. Lo anterior, como
+contingencia a la hora de querer ampliar el
+campo de reflexión y acción de la pedagogía
+inmersa también en el mundo de lo digital, y
+en un contexto específico. Y de esa manea
+reivindicar la pedagogía como campo, tanto
+disciplinar como profesional1
+, para que sea
+un saber experto que exige una dinámica de
+producción de conocimientos más allá de la
+simple reproducción de saberes causados.
+Este asunto requiere, como cualquier otro
+saber, de la generación de teorías y conceptos
+que permitan ampliar permanentemente los
+fundamentos conceptuales desde los cuales
+se referencian las prácticas profesionales e
+investigativas (Zuluaga y Echeverri, 2003).
+Pensar el sujeto, la formación, los procesos
+de subjetivación en medio de la comunicación
+digital requiere de reflexión pedagógica
+fundamentada filosóficamente; una reflexión
+que sustente la praxis y que esté en capacidad
+de comprender y agenciar intervenciones
+a estas realidades (Betancourt y Rivera,
+2009). Una propuesta que se pregunte por la
+fundamentación de conceptos como sujeto
+y formación permitirá, en las comunidades
+académicas en torno a la pedagogía y la
+educación, generar aportes significativos para
+la “ampliación” de los horizontes temáticos y
+prácticos en las instituciones encargadas de la
+formación de maestros y en los movimientos
+sociales, que no necesariamente son
+institucionales.
+Con estas ideas, se aclara que la investigación
+desarrollada se fundamenta metodológica
+y filosóficamente en la hermenéutica
+propuesta por Gadamer, no como ejercicio
+de contemplación, sino como cavilación que
+conduce a la praxis, desde un diálogo entre la
+propuesta antropológica histórico-pedagógica
+de Christoph Wulf, y el trabajo del profesor
+Hugo Zemelman, para otorgar un aporte
+antropológico y filosófico a la pedagogía en
+un continente que, como el latinoamericano
+–frente a las posibilidades del mundo digital–,
+requiere de un sustento crítico.
+Se busca una comprensión en torno a la
+formación y la educación en tiempos como el
+presente, asuntos que sin lugar a dudas no
+pueden estar centrados de manera exclusiva en
+laescuela.Estetrabajobuscalatematizaciónde
+cuestiones desde las cuales se han producido
+saberes en torno a la pedagogía crítica,
+procurando comunicación con los lugares de
+enunciación de dicho discurso y sus formas de
+visibilidad en diferentes instituciones sociales.
+178 REVISTA LASALLISTA DE INVESTIGACIÓN - Vol. 12 No. 2 - 2015 - J. H. Betancourt Cadavid - 176•185
+De esa manera, reconstruye los campos de
+emergencia histórica de dichos lugares de
+enunciación, como lectura de contexto que
+permita la comprensión de las condiciones de
+época que dan legitimidad a estas formaciones
+discursivas sobre la cuestión.
+La antropología filosófica y el concepto de
+formación
+Educar sin antropología deja,
+ipso facto, de ser educación, mudándose
+a un vulgar adiestramiento.
+(Fullat, 1997, 26)
+Hay dificultades cuando se pretende
+esclarecer el concepto de formación, mucho
+más cuando se trata de abordarlo en un mundo
+en el que lo corporativo delinea el camino
+para tal efecto. Así es como esta ruta sigue la
+existencia humana sin límites impuestos por la
+ciencia empírica, sin las imposiciones de sus
+axiomas, gracias a que quiere hacer posible
+un acercamiento a lo que constituye al sujeto,
+una comprensión que permita desvelar lo que
+hace posible comprender aquello que somos, y
+cómo hemos llegado a serlo de manera natural
+y contextual2
+: cualquier cavilación pedagógica,
+sin una definición de sujeto que se funde en la
+mirada concreta de él mismo sobre su espacio,
+tiempo, contexto, será una reflexión que no
+sitúa al mismo y, por ende, estará enraizada
+en el vacío.
+Entonces se comprende la complejidad de
+abordar el grandioso cosmos del hombre, pues
+es él una realidad inacabada e inexorablemente
+abierta, en la que todo proceso que indague
+en el mundo de lo humano es un proceso que
+indica la humanización y su valoración desde
+su sociedad, sin intenciones coloniales, libre
+de cualquier sujeción hegemónica. En un
+mundo en donde el conocimiento, la tecnología
+y el comportamiento humano pareciesen estar
+desligados, cobran valor las ciencias del
+espíritu que conducen al hombre a su propia
+comprensión y rescate. Por ende, la formación
+institucionalizada y la educación –entendida
+como el dispositivo de disciplinamiento
+socialmente establecido–, como queda
+claro en el tercer capítulo de Pablo Pinau3
+,
+parecen estar signadas por el proyecto de la
+Modernidad.
+Así que el saber de la pedagogía –saber
+reflexivo que en este trabajo se funda en el
+campo de la filosofía– requiere de una mirada
+de la Modernidad con atención especial a lo
+que dicho bosquejo caracteriza como mayoría
+de edad:
+Significa romper con los contenidos ceñidos
+a los límites para dar cuenta de lo real
+como espacio de sujetos: pensar desde el
+momento que obliga a hablar también de sus
+aperturas, lo que alude al movimiento de lo
+producido como siendo lo constituyente de
+éste y que transformamos en el ángulo para
+considerar el momento sin restringirnos a sus
+estructuras cerradas (Zemelman, 2011, 34).
+Como ya se ha afirmado, la formación pierde
+su razón de ser si no hace referencia directa
+a la cuestión antropológica que sostiene
+cualquier definición de sujeto, ya que se trata
+de dar respuesta a la pregunta inacabada ¿qué
+es el hombre?, tema también central para la
+pedagogía. De hecho, Cassirer pone de
+manifiesto que la humanidad no es de ninguna
+manera una cuestión etérea o metafísica; por
+el contrario, es aquella que produce a lo largo
+de la historia símbolos lingüísticos, religiosos,
+científicos, artísticos, es decir, que recuerda
+los elementos del espíritu objetivo en Hegel y
+Dilthey (2000). Hay que dejar claro que
+Cuando hablamos del individuo como de
+entidad histórica, nos referimos no solo a la
+existencia espaciotemporal y sensorial de un
+miembro particular de la especie humana,
+sino también a la conciencia de su propia
+individualidad como ser humano consciente,
+proceso del que forma parte el conocimiento
+de su identidad (Horkheimer 2010, 143).
+2	 Cfr. Zemelman, H. (2011). Implicaciones epistémicas del pensar histórico desde la perspectiva del sujeto. En: Desacatos, núm. 37,
+septiembre-diciembre, 2011, 33-48. Centro de Investigaciones y Estudios Superiores en Antropología Social. Distrito Federal, México.
+3	 Se hace aquí especial referencia al tercer capítulo del texto La escuela como máquina de educar (2001), titulado “¿Por qué triunfó la
+escuela? O la modernidad dijo: Estos es educación, y la escuela respondió: Yo me ocupo”. En el mismo, Pablo presenta un listado de
+argumentos que ponen en evidencia la manera como la escuela se hizo cargo de la transmisión del proyecto moderno.
+Alternativas antropológicas, históricas y pedagógicas, para la conservación del sujeto en el universo digital 179
+En efecto, para esta labor es importante
+retomar el análisis del sujeto y los procesos
+de constitución del mismo con un fundamento
+antropológico como posibilidad a través de
+la cual se expresa su realidad, pero también
+una historia y un papel dinámico que lo ubican
+como sujeto de la acción con posibilidades de
+transformación permanente. Así que pensar
+al sujeto desde esta perspectiva supone
+atender a los procesos de significación que lo
+constituyen, a una diversidad de despliegues
+en los que construye el sentido de su propia
+acción constitutiva. De esa manera, la noción
+de sujeto que se propone cuenta con un
+discurso en construcción en el que se reconoce
+su potencia como transformador de realidades
+contextuales, para quien el principal desafío se
+encuentra en la capacidad de reconocerse a sí
+mismo en las posibilidades de su historicidad,
+a partir de lo que es y puede ser según
+las circunstancias que lo rodean: la acción
+formadora tiene en sí misma un grandioso
+asunto humano que cobra en la actualidad
+mayor significado.
+La construcción natural del sujeto4
+La constitución del sujeto, entre otros temas de
+la subjetividad5 humana, es una construcción
+que no puede reducirse de manera exclusiva
+a lo cognitivo. Se podría afirmar inicialmente,
+amparado en ideas de la obra del profesor
+Zemelman, que es una construcción
+gnoseológica6 que se hace posible en el
+estar-siendo de lo cotidiano, es decir, que
+corresponde a la búsqueda sobre el origen, la
+naturaleza, el valor y los límites de la facultad
+humana de saber, sobre lo que lo rodea.
+Así las cosas, la realidad del sujeto y su acción
+en el interior de su contexto son un desafío
+para él porque debe proporcionar elementos
+encaminados a la reflexión que le permite no
+sucumbir a argumentaciones que lo sacan
+de su propia construcción; se trata de evitar
+una constitución cotidiana –y especialmente
+en estos tiempo de la era digital–, cifrada
+de manera exclusiva desde lo normativo e
+impuesto. Su construcción y subjetividad no
+son simples manifestaciones de parámetros
+desde las lógicas del orden que afecta su
+necesidad de actuar, de ser el protagonista de la
+edificación de realidades propias en constante
+interacción con su entorno e historicidad. La
+formación7 en esta construcción natural del
+sujeto (Gadamer 1992) no es precisamente
+un proceso utilitario, enemigo de la reflexión
+y rector de la inteligencia que obliga y somete
+el pensamiento a realidades impuestas.
+Pero como se asume aquí, amparado en la
+posibilidad de un pensamiento latinoamericano
+como el del profesor Hugo Zemelman, es
+necesarioenfrentarestasituaciónconactuación
+y fortaleza para localizar las verdaderas
+necesidades y romper indiferencias, y convertir
+esas realidades en procesos de cambio desde
+la potencia del sujeto mismo:
+Cuando se propone la disociación entre
+pensar y saber una consecuencia importante
+es la recuperación del sujeto con toda su
+complejidad concreta, pero también su
+4	 Para una mayor comprensión del concepto, desde este momento se hace referencia a Sujeto como aquel que se construye en lo
+cotidiano, en medio de su historia y contexto: no está aislado. Se trata de un sí mismo al interior de relaciones dadas en su propia
+historia por lo político y lo social. Así que, él mismo se hace consciente de la Subjetividad en medio de sus preguntas y el acceso a las
+respuestas, gracias a la individualidad de la sociabilidad.
+5	 Las prácticas a través de la cuales se constituye un sujeto, se entienden en este trabajo como Proceso de subjetivación. Se hacen
+evidentes mediante los ejercicios en los que él construye su conocimiento, los caminos, vías, estilos y hasta técnicas con las que
+elabora, especialmente ese saber la relación consigo mismo. En síntesis, la subjetividad se refiere a las prácticas cotidianas que
+hacen posible al sujeto configurar y reconfigurar cotidianamente su propio ser. Es importante tener en cuenta que en el artículo solo se
+mencionará Subjetividad, para evitar excesos en el escrito.
+6	 Habrá que distinguir el término Gnoseología, de Epistemología –esta última es sobre el análisis del conocimiento, organizado o no, como
+disciplina-. Aunque la Gnoseología hace análisis de las disciplinas científicas, en principio hace referencia al análisis de cualquier otro
+tipo de disciplina que no necesariamente haya sido elevada al estatuto de lo científico –en el sentido de las ciencias positivas-. Por ello
+es que la Gnoseología ve el problema del conocimiento general partiendo de la filosofía, teniendo por objeto la delimitación y definición
+de lo que es conocimiento, científico o no, y el estudio de sus características y límites. Los filósofos antiguos en su mayoría, al igual que
+el trabajo en la medievalidad, trataron el problema del conocimiento determinado a la ontología.
+7	 El concepto de formación para este trabajo está en estrecha relación con la hermenéutica Gadameriana, desde la cual el término alemán
+Bildung, se traduce como formación: esta es la cultura que posee el sujeto, y en la manera como asumió los contenidos de la tradición de
+su entorno. Por eso la formación es el sumario por el que se adquiere la cultura, que es patrimonio personal del hombre. No se trata de
+la traducción como cultura, gracias a que esta palabra en español significa el conjunto de elaboraciones objetivas de una civilización, por
+fuera de la personalidad del individuo, es suprasubjetividad, y por lo tanto ajena al concepto de formación asociado con la enseñanza,
+el aprendizaje entre otras cuestiones.
+180 REVISTA LASALLISTA DE INVESTIGACIÓN - Vol. 12 No. 2 - 2015 - J. H. Betancourt Cadavid - 176•185
+potenciación, requisito axiológico y epistémico
+que subyace a todas las grandes discusiones
+emancipatorias (Zemelman, 1998, 49).
+La ventana de observación para la
+constitución del sujeto: la antropología
+histórica pedagógica (AHP)
+Aquí la expresión de antropología pedagógica
+pone de manifiesto un campo para la reflexión
+que no es cerrado ni excluyente. Para tal efecto,
+el ser humano, asumido en esta perspectiva
+como sujeto, es susceptible de darse forma
+–formabilidad, siguiendo desde Herbart la
+tradición pedagógica alemana–, en tanto que
+él es formable, y de hecho necesita cultivarse,
+educarse. Hay, en síntesis, una condición de
+posibilidad para comprender la constitución del
+sujeto, es decir que:
+La antropología pedagógica sólo puede ser
+desarrollada como antropología histórica.
+Debe partir de una doble historicidad:
+comprende la historicidad del objeto o
+tema investigado y la historicidad de la
+investigación, incluyendo la del planteamiento
+y el método (Wulf, 1996, 4).
+En la doble implicación existente en la
+antropología histórico-pedagógica, la primera
+de ellas, la antropología histórica, remite al
+ser humano que se construye en lo cotidiano.
+Esa configuración es relativa a su tiempo –su
+propia historia y contexto–, y al espacio –su
+entorno social y cultural–. Esto es, la manera
+como el ser humano se narra en el estar-siendo
+de lo cotidiano, en la cambiante geografía de
+sus días, en un devenir antropológico que
+narra su propia historia, y que le permite la
+comprensión de si mismo. Esta posibilidad
+exige, de entrada, una ruptura con los relatos
+totalizantes, presente en algunas posturas
+como el eurocentrismo, el universalismo y el
+androcentrismo.
+Y la segunda, la antropología pedagógica hace
+referencia, desde la conciencia histórica de sí
+mismo, y la apropiación de su propia existencia,
+a la potencia que revela su hominización. Es la
+emergencia antropológica en la que cada uno
+tiene la necesidad de darse forma y educarse
+desde las implicaciones más íntimas del
+ser humano, para reflexionar en torno a su
+constitución:
+Esta apertura del sujeto, a partir de
+su ubicación en el momento histórico,
+implica la necesidad de distinguir entre
+el pensamiento circunscrito al manejo de
+universos somáticamente cerrados de lo
+que es el esfuerzo del sujeto por ubicarse
+históricamente, que, pudiendo romper los
+limites, permita abordar realidades que no
+están necesariamente contenidas en las
+teorías; lo que supone la necesidad de abrir
+el pensamiento a las resignificaciones de los
+conceptos con los que estamos construyendo
+el conocimiento (Zemelman, 2005, 10).
+La postura pedagógica de Hugo Zemelman
+“El hombre piensa y construye
+discursos como dos alas para
+sobrevolar sus incertidumbres”.
+(Zemelman, 1998, 17)
+Una cosa es lo que el sujeto piensa por fijación
+de conceptos y valores, y otra es pensar por
+necesidad de asumir la realidad. Tampoco
+es lo mismo elevarse para reconocer nuevos
+espacios y organizar afirmaciones de verdad
+sobre sí mismo, que reproducir los elementos
+que se han interiorizado, como garantía de la
+constitución del sujeto.
+El asunto que aborda en buena parte de su
+obra el profesor Zemeleman se afinca en
+el problema de la racionalidad humana, es
+decir, el lugar de la vida donde se condensan
+los nudos que imposibilitan. El fracaso, por
+ejemplo, la necesidad de las apariencias, la
+presión social; pero también están los espacios
+que posibilitan, tales como los deseos, triunfos,
+aspiraciones, conquistas y logros. Ampliarse
+hacia una esperanza que expresa por sí misma
+los esfuerzos de superación, los anhelos, y los
+sueños, y también los fracasos, es lo que hace
+del hombre la única especie capaz de asumir
+riesgos a partir de las decisiones que toma.
+Sus decisiones son asumidas por la capacidad
+de pensar:
+En el espíritu de una discusión no solamente
+libre, sino principalmente para que se
+desenvuelva en otros parámetros desde
+los cuales pensar el carácter de la ciencia,
+su racionalidad y métodos, nos parece
+fundamental iniciar estas reflexiones con
+el problema de la función que cumple el
+sujeto en el proceso de construcción de
+Alternativas antropológicas, históricas y pedagógicas, para la conservación del sujeto en el universo digital 181
+conocimiento, ya que los obstáculos que
+se presentan no se pueden simplemente
+transferir al plano metodológico ni menos al
+puramente técnico (Zemelman, 2005, 81).
+El ser humano establece su progreso en la
+medida en que piensa, pero la realidad parece
+apuntar a que el progreso es la manifestación
+de una inconformidad con lo dado. Esto implica
+la búsqueda de determinados recorridos que
+obedecen a una especie de expansión del
+universo de pertenencia; esta propagación
+hace del hombre un constructor que poco a
+poco, y debido a sus constantes búsquedas,
+se potencia en su espacio creado. Pensar es la
+capacidad que no puede quedar atrapada o no
+puede reducirse de manera exclusiva al mundo
+de los instrumentos, la memoria, los procesos
+cognitivos o a la rutina. Por el contrario,
+pensar es la posibilidad de incorporar entornos
+desconocidos como experiencias posibles
+que resultan de la inconformidad; y la razón
+es la inconformidad misma, pero consciente y
+organizada alimentándose de lo desconocido,
+de lo inédito.
+Así es como el sujeto y su constitución
+se encuentran frente a la necesidad de
+distanciarse de los mecanismos que moldean,
+limitan, restringen o condicionan, y de tomar
+conciencia de ellos para romper con los límites
+que han cifrado su pensar. Cuando se quiebra
+con estos límites, aparece la urgencia de
+encontrar nuevos mecanismos racionales para
+ver y enfrentar la realidad, esto es, abrirse a lo
+desconocido mediante una forma determinada
+de negar lo establecido.
+Para ello es necesaria una trascendencia en
+la reflexión teórica que permita la existencia,
+la vida. Esta trascendencia implica reconocer
+nuevos ángulos desde donde se pueda leer la
+realidad, cuestión que, en consecuencia, lleva
+a asumir un nuevo discurso con parámetros
+diferentes a los que ya están constituidos o
+establecidos:
+El sujeto fundante exige de una racionalidad
+siempre en proceso de ampliación,
+enriquecimiento, complejización, que,
+paradojalmente nos remite al pasado, en
+la medida que ella es orquestadora de esa
+conjunción entre logos y eros que caracterizó
+la filosofía clásica griega hasta Platón, pero
+que de pronto dio lugar a su disociación para
+que emergiera una racionalidad científica
+“esencialmente neutral (Zemelman, 1998, 50).
+De nuevo entonces, habrá que reafirmar que la
+razón es una construcción que no puede ser, ni
+se puede reducir a lo cognitivo, a la transmisión
+delacienciaoasuparticipacióndeunasociedad
+de conocimiento, determinada por un universo
+digital que lo hace ciudadano exclusivo de
+dichos medios. Muy especialmente se afirma
+aquí que, aunque es necesario que haga parte
+de esos tópicos mencionados –lo cognitivo, lo
+científico, lo digita–, especialmente él es una
+construcción gnoseológica, y en esa medida
+hablar de formación y de la constitución de
+subjetividades es obligarse a recorrer caminos
+más arriesgados y con mas aventura que los
+modos propuestos por la Modernidad de estos
+días, con toda su carga de modernización.
+Es decir, comprender finalmente que frente al
+mundo contemporáneo urgen pedagogías de
+resistencia generadoras, en las subjetividades
+y en los movimientos sociales, de la
+construcción de saberes que, aunque tienen en
+cuenta los asuntos de la ciencia y el universo
+digital, se trata de ponerlos al servicio de otras
+epistemes (Zemelman, 2005) desde las que
+se prepara al sujeto que se da forma en medio
+de su devenir histórico; una obra reflexiva con
+el otro, la formación como posibilidad para
+resistir gracias a que rechaza las pretensiones
+de reduccionismo de una educación funcional
+y exclusivamente práctica.
+El pensamiento zemelmaniano y la
+propuesta crítica para Latinoamérica
+La cuestión en torno a la subjetividad, y a
+la manera como el sujeto se da forma no
+puede desligarse de las cuestiones básicas
+del conocimiento general y a la configuración
+social, porque ninguna realidad social concreta
+puede entenderse sin la figura de sujeto. Es
+claro que no hay estructura social, económica,
+política, o cultural, si no es el resultado de la
+presencia de estos en complejas relaciones
+recíprocas de tiempo y espacio –tal y como
+se concibe desde la antropología filosófica,
+histórica y pedagógica–, lo que implica tener
+que enfocar los procesos como construcciones
+que se van dando al compás de la capacidad
+de despliegue de los sujetos, para establecer
+182 REVISTA LASALLISTA DE INVESTIGACIÓN - Vol. 12 No. 2 - 2015 - J. H. Betancourt Cadavid - 176•185
+entre sí relaciones de dependencia recíproca
+según el contexto histórico concreto.
+Posiblemente por lo anterior, las ciencias
+sociales se refieren a la formación, al sujeto,
+a su configuración, a la relación entre
+estructuras sociales y a la acción colectiva,
+entre condiciones objetivas de existencia y
+procesos subjetivos, entre circunstancias y
+actores sociales. Esta tensión se ha venido
+resolviendo de manera casi exclusiva desde
+la objetividad, desde la racionalidad explicativa
+que orientó los grandes relatos producidos por
+enfoques y teorías amparadas en versiones
+del estructuralismo, el funcionalismo y
+los marxismos de corte determinista, que
+dieron prioridad a los factores objetivos de
+los procesos sociales, en detrimento de la
+dimensión subjetiva:
+Sin embargo, en los años setenta, además
+de la emergencia de sujetos sociales no
+previstos en las grandes teorías sobre la
+sociedad, esta turbulencia coincidió con la
+crisis práctica en cuanto a la incapacidad de
+predicción de las grandes teorías sociales
+regionales como el keynesianismo, el
+funcionalismo y el conductismo, que se
+daba casi de manera sincrónica con la crisis
+epistemológica del positivismo. Lo anterior
+llevó a la desconfianza, como estado de
+ánimo, acerca de la idea de razón, de sujeto
+transformador y de progreso” (De la Garza,
+2011, 24).
+Dentro de este enfoque hace presencia una
+dialéctica que al no estar conforme con su
+funciónlógicacentradaencontradicciones,trata
+de complementar su destino epistemológico a
+través de formas de razonamiento tales como
+la crítica. En la perspectiva que ocupa a este
+trabajo, el sujeto y su formación, es vislumbrado
+no a través de propiedades o atributos, sino
+por medio de las articulaciones entre sus
+funciones, y su vínculo con la realidad, que para
+este pensador latinoamericano es concebida
+como una articulación heterogénea y compleja
+de fenómenos, de vínculos del hombre con su
+realidad.
+Su concepción del sujeto involucra al mismo
+tiempo la visión antropológica y la epistémica.
+La epistemología es formulada como una
+racionalidad ampliada desde las funciones
+cognitivas a las exigencias éticas y políticas;
+en tanto la antropología es concebida en sus
+articulaciones con la epistemología. De hecho
+Hugo Zemelman (1998) expresa claramente su
+convicción respecto a lo humano cuando afirma:
+Tiene significado plantearse la transformación del pensamiento categorial en una
+antropología: la propia del sujeto capaz de
+incorporar su momento histórico. El devenir
+antropológico desde el pensar epistémico
+consiste en recuperar al sujeto en sus posibilidades de historización, a partir de su modo
+de colocarse ante el mundo (154).
+Al abordar en su obra la noción de sujeto –y
+la de subjetividad en el caso de este trabajo–,
+es necesario acudir a reflexiones sobre el
+entorno, la realidad y lo social, en medio de
+un discurso que reconoce su potencia como
+transformador de realidades, y para quien el
+desafío se encuentra en la capacidad de darse
+forma a sí mismo, desde lo que es y puede ser,
+según las circunstancias que lo rodean.
+Sin embargo, Latinoamérica recibe entre otras
+lidias contemporáneas la del concepto sujeto
+vacío al que hay que llenar de conocimiento
+comosifueseuneuropeodesegunda,unovacío
+y a oscuras que requiere de lo trascendental,
+de lo político. Con este antecedente, la obra
+del profesor Zemelman y los estudiosos de la
+misma no asumen una definición única con
+características de universal, pues el trabajo
+en torno a estas categorías está atravesado
+por realidades objetivas, por subjetividades a
+partir de las cuales se configura de manera
+particular la realidad humana. Como en la
+novela de Germán Espinoza (2002) que se
+desarrolla en torno al lastre de violencia,
+horror, ignorancia y brutalidad heredado para
+este continente, es un viaje por la historia del
+siglo XVIII desde una Cartagena de Indias
+marcada por la Inquisición, en la que una mujer
+que ha probado del saber ilustrado pagará las
+consecuencias de tal atrevimiento. Desde esta
+narración, la imaginación y la creatividad serán
+más fuertes que los engranajes de los señores
+de la guerra y la estupidez; allí el espíritu y la
+inteligencia ganarán la batalla de la oscuridad.
+En definitiva, desde los postulados revisados
+en este autor y en otros estudiosos de su
+obra, se cuestiona seriamente la mirada
+esencialista del sujeto y sus procesos de
+Alternativas antropológicas, históricas y pedagógicas, para la conservación del sujeto en el universo digital 183
+formación desde la perspectiva moderna
+de positivismo y de un universo de lo digital
+para esta contemporaneidad, porque él no
+responde a consideraciones cifradas por
+categorías universales, que racionalmente
+están configuradas por el ideal del proyecto
+de la Modernidad. El sujeto como categoría de
+análisis es incansable y en constante proceso
+de constitución. Solo así puede reconocérsele
+la emergencia de posibilidades de acción
+y trasformación que posee, además de las
+condiciones de posibilidad que dan lugar a la
+constitución del mismo:
+La consciencia es el desafío de ser hombre.
+La voluntad es el atreverse a asumir el
+desafío. Desde el lenguaje, lo que decimos
+apunta a distintos desafíos existenciales,
+como ser desde la consciencia, que refiere
+a lo que es, pero también a un más desde
+donde se está. El lenguaje refleja estas
+exigencias existenciales, no necesariamente
+conscientes en las cuales el sujeto está
+siempre en la perspectiva del más que
+resulta de la conjunción del es y del siendo
+(Zemmelman, 2007, 19).
+Elevarse para reconocer nuevos desafíos
+Es de vital importancia insistir que en torno a
+la obra de Hugo Zemelman, se puede inferir
+una serie de ideas que emergen en el sentido
+de una propuesta que invita a los sujetos a
+conservar su necesidad de realidad, una que
+los potencie y traspase los límites para abrirse
+a lo inédito. “Goffman, Garfinkel y Gadamer
+plantearon, desde hace más de treinta
+años, la necesidad de estudiar la dimensión
+codificadora y descodificadora (o creativa)
+del sujeto” (De la Garza Toledo, 2011, 32),
+de manera que cada uno se ubique como
+sujeto pensante por encima de los contenidos
+acumulados. Es darse el lujo de ir en contra
+de los límites, pero esto implica un choque
+con la realidad, en el que se pueden incluir
+diferentes formas de apropiación mediante
+un mecanismo de objetivación, de manera
+que “permanentemente se pasa de una
+concepción cerrada a una concepción abierta
+de la realidad” (Zemelman, 1998, 25), y este
+mecanismo exige ampliar la subjetividad para
+ver más allá de las verdades y reducirlas a lo
+indeterminado.
+Todo esto envuelve una reflexión crítica
+y emancipadora que solo puede darse
+donde se descubre la opresión o donde se
+descubre la realidad como un proceso de
+constante desarrollo. Desde allí se afirma
+que el fraccionamiento del hombre y su
+despersonalización, debido en gran medida a
+la cantidad de funciones especializadas que
+desempeña, obliga a una nueva valoración
+de la subjetividad del sujeto. Por lo tanto, “lo
+que se critica no es la ciencia, sino, más bien,
+la condición de la ciencia como única forma
+posible de conocimiento” (Zemelman, 1998,
+32). El pensamiento es parte fundamental de la
+existencia de los sujetos; este no permanece en
+el tiempo de manera estática, por el contrario,
+se reproduce y enriquece, y gracias a esto, se
+debe ir más allá de las condiciones que impiden
+e imposibilitan el conocimiento de cosas nuevas.
+Se trata de abrirse a lo inédito, un conocimiento
+que contiene su propia necesidad de traspasar
+los límites, de ir más allá de lo fundado. Por ello
+es que desde Bernstein se plantea, para hacer
+énfasis en los argumentos:
+Los códigos como estructuras fijan los
+límites a la experiencia del sujeto y
+producen las posiciones desde las cuales
+los sujetos actúan y realizan sus prácticas
+ideológicas. La ideología se crea a través
+de dichas posiciones y dentro de ellas. Los
+códigos proporcionan los principios para
+la constitución del sujeto en el significado
+y en sus relaciones sociales. Los códigos
+sugieren la noción de sujeto constituido en
+relaciones que orientan a los significados. El
+sujeto entra en el universo simbólico a través
+de los códigos (1994, 14).
+Por lo tanto, en las relaciones sociales se
+accede a prácticas interactivas específicas
+que regulan la manera como se asume el
+significado de la experiencia de constituirse,
+y ubican al mismo tiempo el posicionamiento
+de los sujetos, de manera que “las prácticas
+se forman a través de las relaciones sociales
+dentro de la producción/reproducción, las
+categorías configuran voces y las prácticas
+configuran su mensaje, el mensaje depende
+de la voz: y el sujeto es una relación dialéctica
+entre voz y mensaje” (Bernstein ,1990, 40).
+Y en ese proceso va adquiriéndose la
+conciencia de aquello que limita y oprime,
+184 REVISTA LASALLISTA DE INVESTIGACIÓN - Vol. 12 No. 2 - 2015 - J. H. Betancourt Cadavid - 176•185
+para transformar lo limitante en un ángulo que
+conduce a espacios desconocidos, y desde
+ese lugar re-pensar la situación en que el
+sujeto se encuentra. Es a partir de reconocer
+los límites dentro de los cuales se construye la
+racionalidad, que se da la transformación de la
+misma.
+La realidad a la que se abre el sujeto: la
+relación con el conocimiento gnoseológico
+Teniendo en cuenta el rastreo hecho para el
+levantamiento del estado de la cuestión, en
+tornoalaobradelprofesorZemelman,aparecen
+formasdeconocimientoqueabrencaminoauna
+identidad que reactualiza permanentemente
+las reglas. Pero la necesidad de realidad en
+esta manera de pensamiento se refiere al
+mundo como riqueza potencial, un mundo que
+no puede estar lleno de limitantes, que por el
+contrario permite la exploración y la apertura
+a lo inédito. Por lo tanto, es importante abrir
+pasajes para la construcción de mecanismos
+que acerquen a la comprensión del sujeto,
+para la construcción de ángulos más abiertos,
+para pensar la realidad con la mayor riqueza
+posible:
+Las posiciones de Hugo Zemelman no son
+por supuesto las primeras ni las únicas que
+se pueden considerar como epistemología
+crítica. Nos parece que sin hacer la
+interesante historia de las perspectivas
+críticas en este ámbito, la epistemología
+crítica pudiera definirse a través de la fórmula
+que Adorno acuñó hace tiempo: el problema
+de la dialéctica no es si un objeto puede se
+y no ser al mismo tiempo, sino como siendo
+A puede transformarse en B (De la Garza,
+2001, 3).
+Yes que el proyecto moderno pretende bloquear
+el surgimiento de visiones alternativas; situación
+que se agudiza con la tecnologización creciente
+y el implacable auge del universo digital,
+que tiende a convertir todo conocimiento en
+simple cantidad de información. El desafío que
+esconde el rompimiento de los parámetros es la
+posibilidad de distanciarse del contexto a partir
+de reconocer sus límites, además de identificar
+lo potenciable en el interior de los mismos.
+Con todo, queda clara una constante
+trascendencia en la reflexión teórica para
+mantener la existencia de los sujetos; esta
+trascendencia implica la posibilidad de
+reconocer un nuevo ángulo desde donde se
+pueda leer la realidad: hay que asumir un
+nuevo discurso con posibilidades diferentes
+a los establecidos. La razón es que dicha
+construcción no puede ser, ni se puede
+reducir, solamente a una realidad dada por
+los resultados de una sola ciencia que somete
+los elementos constitutivos a lo cognitivo.
+Por el contrario, se trata de una construcción
+gnoseológica, por lo que el método obliga a
+recorrer caminos más arriesgados, llenos de
+aventura.
+A manera de cierre
+Esta forma de pensamiento es envolvente,
+posibilita las críticas hechas al estructuralismo respecto a la imposibilidad de concebir al
+sujeto y su constitución de manera mecánica;
+el estructuralismo se basaba en la capacidad
+distintiva del hombre, el habla. Desde dicha
+capacidad para relacionarse con el entorno,
+habrá que otorgar sentido a la vida. En otras
+palabras, esta propuesta se afianza en torno
+a la producción, circulación y apropiación del
+sentido. El conocimiento siempre estuvo entre
+lo verdadero y lo falso, todo estaba signado por
+la racionalidad, la trascendencia estaba atravesada por ella: hoy esas perspectivas para
+asumir al sujeto, plagadas de esencialismo, no
+parecen tan fehacientes, o por lo menos, no
+son una verdad de carácter universal.
+En la obra del profesor Zemelman se respira
+un cierto ambiente, que es importante definir a
+la hora de estudiar el discurso pedagógico con
+la mirada crítica zemelmaniana. Esta postura
+histórico-materialista requiere de encontrar
+la manera de borrar la línea entre estructura
+y superestructura, poniendo el saber que
+antecede a la ciencia en el medio, para lograr
+las formas de conciencia social que permiten
+conocer, y las forma de hacerlo con menos
+nivel de estatismo. Por ello es que desde esta
+perspectiva se cuenta con un sujeto histórico
+que está arriba de la estructura, con preguntas
+como ¿qué constituye este sujeto?, ¿de dónde
+surge lo que tiene?  Y claro que la primera
+respuesta la proporcionan las ciencias, y
+no es que la razón esté arriba; para llegar a
+las ciencias hubo una práctica: en la división
+Alternativas antropológicas, históricas y pedagógicas, para la conservación del sujeto en el universo digital 185
+tradicional había un mundo para la teoría y
+un mundo para la práctica, pero ahora no
+es posible esa división ya que las ciencias
+tienen un sustrato, en el que habrá que tenerse
+también en cuenta la experiencia del sujeto
+que se constituye, así como la realidad que lo
+circunda en el ejercicio de lo cotidiano.
+La formación, la constitución de la subjetividad,
+no es un asunto exclusivo de enunciados
+garantizados en el universalismo o por la
+ciencia;  también acude a las prácticas y a
+la geografía humana de lo cotidiano. Por
+eso no hay división entre práctica y teoría,
+y de esa manera la línea entre estructura y
+superestructura se borra.
+Referencias bibliográficas
+•	 Bersntein B. (1990). La construcción social
+del discurso pedagógico. Bogotá: Ediciones el
+Griot.
+•	 Bersntein B. (1994). La estructura del discurso
+pedagógico. México: Ediciones Morata.
+•	 Betancourt, J. (2013). “Anotaciones para una
+didáctica no lineal, una que se funda en la
+potencia del sujeto”. En Itinerario Educativo.
+Revista de las Facultades de Educación
+Universidad de San Buenaventura. V. 27, pp.
+59-70
+•	 Betancourt, J. y Rivera, J. (2009). ¿Paradigmas
+en la pedagogía? O de cómo hacer de sí
+una obra de arte. En Revista El Ágora USB.
+Universidad de San Buenaventura, Medellín.
+Vol. 9, N.° 2.
+•	 De la Garza, Enrique. (2011). Trabajo no
+clásico, organización y acción colectiva, Tomo I.
+México: Universidad Autónoma MetropolitanaIztapalapa. Plaza y Valdés, S.A.
+•	 Dilthey, W. (2000). Dos escritos sobre
+hermenéutica: El surgimiento de la
+hermenéutica y los esbozos para una crítica de
+la razón histórica. Madrid: Ediciones Istmo.
+•	 Espinosa, G. (2002). La tejedora de coronas.
+Bogotá: Reimpresión de Alfaguara S. A.
+Ediciones.
+•	 Foucault, M. (2006). La arqueología del saber.
+Siglo XXI editores S. A. Vigesimosegunda
+edición en español.
+•	 Fullat, Octavi (1997). Antropología filosófica de
+la educación. Barcelona: Ariel Educación.
+•	 Gadamer, H-G. (1992). Verdad y método.
+Fundamentos de una hermenéutica filosófica
+I-II. Salamanca: Sígueme.
+•	 Pinau, P., Dussel, I., y Caruso, M. (2001). La
+escuela como máquina de educar: tres escritos
+sobre un proyecto de la Modernidad. Volumen
+35 de Biblioteca de Cuestiones de Educación.
+Argentina: Editorial Paidós.
+•	 Runge, A., Gracés, J. y Muñoz D. (2010).
+La pedagogía como campo profesional y
+disciplinar: un lugar estratégico para regular las
+tensiones entre el reconocimiento científico, la
+profesionalidad y la regulación socio-estatal de
+la profesión docente. En: revista Educación y
+Cultura. Colombia.
+•	 Wulf, Ch. (1999-2000). Introducción a la Ciencia
+de la Educación. Entre teoría y praxis. Ed.
+Asonen, Universidad de Antioquia, Medellín:
+Facultad de Educación, ASONEN.
+•	 Wulf, Ch. (2008). Antropología: historia, cultura
+y filosofía. México: Anthropos.
+•	 Wulf, Ch. (2004). Introducción a la antropología
+de la educación. España: Colección Idea
+Universitaria-Educación.
+•	 Zemelman, H. (1998). Sujeto: existencia y
+potencia. España: Anthropos Editorial.
+•	 Zemelman, H. (2005). Voluntad de Conocer:
+el sujeto y su pensamiento en el paradigma
+crítico. España: Anthropos Editorial.
+•	 Zemelman, H. (2007). El ángel de la historia:
+determinación y autonomía de la condición
+humana (Ideas para un programa de
+humanidades). España: Anthropos Editorial.
+•	 Zuluaga, O. Echeverri, J. y otros (2003).
+Pedagogía y epistemología. Bogotá: Magisterio
+y Grupo Historia de la Práctica Pedagógica.
+Copyright of Revista Lasallista de Investigación is the property of Corporacion Universitaria
+Lasallista and its content may not be copied or emailed to multiple sites or posted to a listserv
+without the copyright holder's express written permission. However, users may print,
+download, or email articles for individual use.

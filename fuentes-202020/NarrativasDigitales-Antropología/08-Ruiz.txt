@@ -1,0 +1,1226 @@
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+14
+I. Narrativas contemporáneas
+Resumen
+Este artículo propone revisar el estado de la narrativa contemporánea partiendo desde
+una perspectiva literaria y avanzando hacia su papel y uso en las ciencias sociales. Tras
+una distinción inicial de los términos narración, narrativa y narratología, se muestra el trayecto que va desde la novela moderna hasta la narrativa digital, pasando por la novela de
+corte posmoderno y la literatura testimonio. El aparte culmina planteando la distinción
+entre texto como mundo y texto como juego. Luego se propone una reflexión sobre géneros literarios híbridos, para avanzar en la descripción de cinco narraciones mediáticas:
+periodismo, publicidad, radio, televisión y video. Después se desarrolla un aparte
+con los temas de relatos excéntricos y crítica dialógica. La última parte se dedica a describir los usos de la narración en campos distintos de la literatura: narración e historia,
+narración y antropología posmoderna, “etnotexto” y “oralitura”, nación y narración y narración y terapia.
+Palabras clave: narrativa, narraciones mediáticas, narrativa digital, usos de la narrativa,
+posmodernidad
+Palabras clave descriptor: formas literarias, novela, historia y crítica
+Jaime Alejandro Rodríguez Ruiz *
+Asedio a las narrativas contemporáneas.
+Mapa de posibles investigaciones **
+Insistences on Contemporary Narratives. Map of Possible Researches
+* Doctor en Filología de la Universidad Nacional de Educación a
+Distancia (Uned) (España). Profesor Titular del Departamento de Literatura de la Pontificia Universidad Javeriana. Escritor. Ha publicado
+tres novelas, dos libros de relatos, dos hipermedias narrativos y los libros de ensayo Autoconciencia y posmodernidad, la metaficción en la novela
+colombiana; Posmodernidad, literatura y otras yerbas; Hipertexto y literatura,
+una batalla por el signo en tiempos posmodernos; El relato digital, hacia un
+nuevo arte narrativo: trece motivos para hablar de cibercultura; Narratología:
+para el estudio y disfrute de la narraciones; y Narradores del xxi, cuatro cuentistas colombianos, así como numerosos artículos en revistas nacionales e
+internacionales. Actualmente, dirige el Proyecto de Investigación “Narratopedia: diseño, desarrollo y puesta on line de una plataforma virtual
+para la narración digital colectiva”. Correo electrónico: jarodri@javeriana.edu.co
+** Este artículo hace parte de los resultados del Proyecto de Investigación “Relato digital y cibercultura”.
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+15
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+b
+Abstract
+This article intends to review the state of contemporary narrative, departing from a literary perspective and advancing toward its role and use in social sciences. After an initial
+distinction of the terms narration, narrative and narratology, the itinerary that goes from
+modern novel to digital narrative is showed, going through postmoderm novel and testimony writing. This first part ends by outlining the distinction between text-as-world
+and text-as-game. Then a reflection about the hybrid literary forms is proposed, to advance into the description of five mass media narratives: journalism, advertising, radio,
+television, and video. Then, the topics of eccentric narrations and dialogic criticism are
+developed. The last part is dedicated to describe the uses of narration in fields other than
+literature, like history, postmodern anthropology, “ethotext” and “oral literature”, nation
+studies and therapy.
+ Key words: narrative, mass media narrations, digital narrative, uses of narrative, postmodernity
+Key words plus: literary forms, fiction, history and criticism
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+16
+I. Narrativas contemporáneas
+Problemas conceptuales de base y alcance de la propuesta
+Afrontar el estudio de la narración (o de las narraciones) implica
+siempre vérselas con dos términos concomitantes: narrativa y narratología. Términos concomitantes, pero no equivalentes, he ahí un primer problema: diferenciar esos tres términos. En otro lugar1
+, he acudido a la siguiente observación:
+narración sería poner en palabras (o en signos) algo vivido, presenciado, escuchado o imaginado2
+; narrativa, en cambio, sería establecer un pacto de lectura
+o interpretación de la narración que comprometa la actividad creativa tanto
+del que narra como de quien lee o escucha (o decodifica signos), y narratología
+sería, finalmente, el conjunto constituido por los estudios y métodos creados
+para comprender objetiva y científicamente las narraciones (Rodríguez, 2004).
+ A diferencia de la narración (cuyo ejercicio puede explicarse como consecuencia de la adquisición y desarrollo de una competencia comunicativa básica: la competencia narrativa), la narrativa implica un alto grado de conciencia
+sobre el uso de las palabras (o de los signos con los que se puede narrar), sobre
+la elaboración misma y la forma de la narración, sobre su organización y, especialmente, sobre el efecto que produce. Y como es un ejercicio que busca y a la
+vez exige la atención, la narrativa es ejercida por el que cuenta (quien llama la
+atención) y por el que recibe la narración (quien atiende el llamado); esto es, el
+narrador organiza la narración de modo que el narratario (quien lee, escucha
+o decodifica la narración) es inducido a “descubrir” el orden íntimo y el senti1 Me refiero a la primera unidad de mi libro Narratología: para el estudio y disfrute de las narraciones. Bogotá:
+Pontificia Universidad Javeriana, 2004.
+2 Allí mismo, advierto que en realidad podemos narrar de diversas formas, dependiendo de la materia
+con la que lo hagamos. La más frecuente es la materia verbal, por supuesto, pero también se puede narrar
+mediante imágenes, sonidos u otros sistemas semiológicos (el cuerpo, la ropa, el multimedia, etc.). En cuanto a la narración verbal, ella siempre ha estado ligada a lo que podríamos llamar, siguiendo a Walter Ong,
+las tecnologías o soportes de la palabra: primero a la oralidad, luego a la escritura, y ahora, posiblemente, al hipertexto. Cada una de estas tecnologías ha despejado posibilidades expresivas que el acervo cultural acumula y
+potencia. Esto quiere decir que, si bien la línea narrativa progresa, no elimina formas anteriores (lo que puede
+explicar, entre otras cosas, que la narración oral tenga tanta funcionalidad hoy como la narración digital). No
+obstante, estas nuevas formas han alterado los elementos de la narración verbal tradicional (como el sentido
+de los personajes, de la acción y de los escenarios) y han innovado el conjunto de normas y criterios que configuraban hasta ahora la pragmática de la imagen narrativa. Ahora, si echamos un vistazo a las posibilidades
+que la tecnología ha abierto en los últimos tiempos, podemos afirmar que la línea narrativa se ha ensanchado espectacularmente: imágenes de síntesis, realidades virtuales, hipernovelas, videojuegos, juegos de rol, se
+suman a otras formas “tradicionales”: la narración oral (tanto la popular como esa forma contemporánea más
+sofisticada, llamada por algunos “narración oral escénica”, la novela, el cuento, el cine, etc. La representación
+icónica, la narratividad y la producción y el consumo de ficción están cambiando de una manera profunda,
+provocando un salto que podríamos llamar, sin recato, cualitativo. La informática ha promovido la formalización innovadora y creadora de los modelos narrativos. Técnicas como la digitalización, la simulación
+y la interactividad de imágenes 3D (en tres dimensiones), para sólo mencionar algunas, están permitiendo el
+diseño de nuevas estrategias discursivas y la necesidad de nuevos estudios. 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+17
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+do de su narración, y se compromete así a develar ese sentido que le propone
+el narrador. Por eso, el ejercicio narrativo, es decir, la percepción/construcción
+consciente de las formas de la narración, jugaría en los dos sentidos: como
+destreza para desentrañar el sentido de lo que alguien cuenta y como estrategia
+para componer o mejorar la expresión de ese sentido.
+ En cuanto a la narratología, propongo en el mismo estudio al menos dos
+maneras de enfocar el asunto: entenderla como el estudio de la narratividad (características que hacen que un discurso sea narrativo) o asociarla a la
+investigación del texto narrativo. En cualquiera de los dos casos, se trataría de la
+sistematización de las técnicas y de los estudios sobre las narraciones. El primer
+enfoque toma por objeto la propiedad que caracteriza a cierto tipo de discursos, la narratividad, partiendo de la cual se hace posible distinguir los discursos
+narrativos de los no narrativos. Este tipo de estudios centran su atención en la
+organización de los discursos narrativos y en la manera como éstos producen
+sentido. Como estrategia que fundamenta la investigación del texto narrativo,
+la narratología se entiende como el conjunto de estudios sobre el relato que
+ha tenido, sobre todo en las corrientes teórico-literarias, un importante ejercicio teórico orientado a descubrir los secretos de la narración. En este sentido,
+la narratología tendría sus expresiones más completas en las propuestas del
+estructuralismo, cuando autores como Propp (el precursor), Bremond, Todorov,
+Genette y Barthes se concentraron en el estudio del relato. Luego vinieron
+otros enfoques y aportes, como los provenientes de la escuela de la estética de
+la recepción ( Jauss, Iser), la lingüística del texto (Van Dijk) o la teoría de los
+actos del habla (Searle).
+ Otra manera de confrontar esta misma cuestión la ofrecen Contursi y
+Ferro en su libro La narración, usos y teorías. Si bien estas autoras no explicitan
+el problema de la distinción entre narración, narrativa y narratología, a lo largo de su estudio, y sobre todo en sus conclusiones, se pone de manifiesto que
+ellas disciernen implícitamente los tres términos. Así, entenderían la narración
+como un fenómeno eminentemente comunicacional, cuya base es un discurso
+construido sobre una línea temporal que adquiere función y sentido en sus usos
+y prácticas sociales. Y la problematización de estos usos y prácticas constituiría
+la narrativa, entendida como la capacidad para distinguir la diversidad de usos
+que tiene la narración, usos que estarían relacionados con los sujetos, las instituciones, los contextos sociales, históricos y culturales. El objeto de atención de
+la narrativa para las autoras argentinas consistiría en distinguir entre funciones,
+papeles y usos de la narración, de modo que el esfuerzo intelectual e investigativo no se concentraría en los estudios de la narración en sí misma, como en
+los usos que de ella hacen los sujetos sociales (personas e instituciones) en un 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+18
+I. Narrativas contemporáneas
+contexto histórico social (Contursi y Ferro, 103). La narratología, finalmente,
+sería, la disciplina que se propone la teorización sobre los textos narrativos,
+especialmente, los literarios.
+En síntesis, mientras yo he atendido a la distinción de los tres términos concomitantes para dedicarme a los problemas de la narrativa derivados de la idea
+de una co-construcción del sentido de las narraciones, Contursi y Ferro proponen como esfuerzo narrativo la observación de los usos sociales de la narración.
+De algún modo, este artículo asume una posición de suma de los dos tipos
+de planteamiento y se propone detallar los problemas derivados desde ambos
+puntos de vista, como propios de la narrativa contemporánea.
+ Ahora, si bien los resultados teóricos de la narratología han tenido como
+punto de partida la necesidad de comprender los textos literarios narrativos, sus
+descubrimientos se han extendido a otros campos. Allí donde ha sido posible
+homologar una práctica discursiva a la de una narración (literaria), se han podido aplicar los resultados narratológicos. Es así como, siguiendo a Contursi y
+Ferro, el problema de la narración ha empezado a ocupar un lugar de privilegio
+en el campo de las ciencias sociales, porque “permite dar cuenta de numerosos
+procesos, prácticas y fenómenos que exceden lo meramente narrativo” (Contursi y Ferro, 17), y por eso se constituyen, según estas autoras, al menos tres objetos de estudio que pueden aplicar los resultados de la narratología: por un lado,
+los procedimientos verbales que se utilizan para narrar en una determinada
+lengua, por otro, los aspectos sociocognitivos que posibilitan la producción y
+recepción de las narraciones y, finalmente, los usos sociales de la narración: la
+narración literaria, la narración en la vida cotidiana, etc. (Contursi y Ferro, 18).
+ Una forma de explicar el asunto de la extrapolación de la narratología consiste en admitir que el texto narrativo literario ha dejado de ser el centro privilegiado de atención (tanto a nivel de estudios como de prácticas), y esto como
+consecuencia de la instauración de una visión posmoderna que, por un lado,
+desplaza los objetos y prácticas culturales tradicionales para darles visibilidad
+y legitimidad a otras formas narrativas que el proyecto moderno ha reprimido,
+y por otro, legitima la aplicación de los resultados teóricos obtenidos en un
+campo (el literario en este caso) a otro distinto pero homologable (las ciencias sociales). Una especie de legitimación, esta última, de la deconstrucción de
+las fronteras disciplinarias y discursivas que estaría afectando la narración literaria misma, al menos de dos formas: en tanto fin del proyecto escriturario moderno de la novela y como instauración de formas híbridas de narración (donde
+adquieren posibilidades de resignificación otras prácticas narrativas como el
+testimonio, como se verá adelante).
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+19
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+ Pero aún hay más. Secundando al comunicador colombiano Omar Rincón
+(2006) en su exposición acerca de la importancia y el poder de las narrativas
+contemporáneas en un ambiente posmoderno, deberíamos estar dispuestos a
+aceptar ideas como ésa en la que Rincón afirma que “somos el relato que producimos de nosotros mismos como sujetos y como culturas” (Rincón, 87), o esa
+otra que considera que la cultura del narrar es nuestra salvación en tiempos de
+tecnocracia, pues “desde siempre hemos desconfiado de los discursos que nos
+comprenden y explican a partir de razones porque poco han logrado decirnos
+cómo somos” (Rincón, 88). Pero, sobre todo, deberíamos admitir que estaríamos habitando una pulsión narrativa y que por eso “usamos la narrativa como
+dispositivo cognitivo, porque somos herederos del impulso de narrar que es de
+naturaleza trascultural y trashistórica” (Rincón, 90), un dispositivo en todo
+caso ambiguo, pues puede, a la vez, servir como vehículo de sabiduría o como
+mecanismo de control y degradación social. Y este último aspecto (la ambigüedad de la pulsión narrativa), es el que nos obliga a estar críticamente atentos;
+pues, si bien el impulso narrativo (contemporáneo) se ha instalado tan afirmativamente que presenciamos hoy incluso “nuevos modos de presentar investigaciones” (Rincón, 94) y, en general, de exponer contenidos, ya sean estos científicos,
+informativos, lúdicos o artísticos, también lo es que la narración se ha convertido en una de las mitologías posmodernas, en una “suerte de tabla de salvación a
+la que se le atribuyen según los casos poderes de apoyo, terapeúticos y catárticos”
+(Melucci, 95), y que por esta vía podemos caer en la confusión de entender la
+narración, no tanto como unión de lo que está dividido (aspecto positivo), sino
+como asimilación acrítica del punto de vista del narrador (aspecto negativo).
+ En todo caso, es innegable que el poder de la narración mediática (periodismo, publicidad, radio, cine, televisión y video y, más recientemente, la narrativa
+digital) está instalado hoy en nuestra cultura y que ese principio de realidad no
+nos deja mucho margen de acción, pero nos exige mirar la narrativa contemporánea como un problema muy complejo que hay que empezar a abordar con
+nuevas herramientas y perspectivas.
+ Se configuran así tres alcances en este artículo: 1) plantear el estudio del
+impacto de la posmodernidad en la literatura con dos enfoques a la vez: a)
+el problema de la novela posmoderna que desemboca en la narrativa digital y
+b) el ejercicio híbrido de la narrativa literaria; 2) plantear las problemáticas de
+la narración mediática y sus efectos tanto estéticos como culturales y sociales; y
+3) plantear los problemas de los usos sociales de la narración, específicamente
+en el campo de las ciencias sociales (narración e historia, nación y narración,
+narración y etnografía, narración y terapia, etc.).
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+20
+I. Narrativas contemporáneas
+La novela posmoderna, tránsito hacia la narrativa
+digital y relativización del proyecto escritural moderno
+Autores como Bajtín, Kundera y Kristeva han demostrado contundentemente
+que la novela es un producto y una expresión de lo moderno3
+. Para Bajtín es
+claro que la novela es el texto por excelencia de la modernidad, de la cual hereda
+sus rasgos constitutivos. Pero esta vinculación entre novela y modernidad es
+precisamente la que legitima la pregunta que se plantea Kundera (en la introducción a su famoso “El arte de la novela”) sobre la funcionalidad de la novela
+en tiempos contemporáneos (o tiempos donde la modernidad desarrolla sus
+contradicciones terminales y que algunos no dudarían en llamar “posmodernos”). Por su parte, los estudios de Kristeva desembocan premonitoriamente en
+la pregunta sobre la pertinencia de la novela en nuestra contemporaneidad, al
+señalar no sólo sus alcances, sino sus límites.
+ La evidencia que aporta el mismo Bajtín de que los momentos prenovelísticos no pudieron evolucionar ni extenderse por la ausencia de un escenario
+socioeconómico y cultural adecuado para su desarrollo supedita la novela a la
+modernidad en cuanto época y condición social. Este carácter histórico, temporal y social dota a la novela del germen de lo perecedero. Y es precisamente
+Kristeva quien plantea y desarrolla esa “profecía del final”.
+ Para Kristeva, el proyecto de escritura como representación eficaz rehúye el
+ataque contra el sentido y el orden que está, en cambio, en la base del carnaval,
+que, a su vez, para Bajtín es el modelo de la novela moderna4
+. En el ejercicio de la
+máscara y del enmascaramiento como mecanismo para efectuar la transitividad
+del autor-actor, el carnaval propone una densidad de opciones antidiscursivas
+y antiproductivas, que no logran afincarse en el proyecto representacional de la
+novela. Kristeva no confía por eso en su permanencia, y reclama su destrucción
+o su retorno al origen. Mejor aún, su destrucción mediante el retorno. La novela
+no podrá asumir su tradición carnavalesca a menos que renuncie a su voluntad
+programadora (a la idea de que la escritura y, sobre todo, la escritura de un autor
+3 Ver la secuencia completa de este trayecto (el que va de la novela al relato digital) en la segunda unidad
+de mi libro Narratología: para el estudio y disfrute de las narraciones.
+4 Respecto a la vinculación de novela y carnaval, es importante recordar que en su ya famoso trabajo
+Cultura popular en la Edad Media, este autor demuestra cómo, por influencia de la fiesta, de lo popular y de
+lo carnavalesco, la novela incorpora asuntos impensados en un texto clásico, como la risa, la palabra oral,
+lo grotesco, lo no sublime, lo estentóreo y todo lo corporal y “bajo”. Uno de los aspectos que más destaca
+Bajtín es la integración que hace la novela del habla popular, lo que el autor llama el multilingüismo, y que se
+puede explicar por el agotamiento que, a finales del siglo xv, sufre el latín como lengua oficial, lo cual permitió y promovió la invasión de multiplicidad de lenguajes y dialectos en la construcción de la novela.
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+21
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+privilegiado y autoritario es la mejor estrategia de representación del mundo).
+Al mismo tiempo, dicha renuncia arrasaría con la escritura como expresividad
+subjetiva y su resultado sería la productividad, pero no ya sólo del autor, sino, y
+sobre todo, la del lector: el hacer como goce. La relativización del significante,
+iniciada por la novela, tendrá que ser acompañada por la relativización del significado. Las alternativas son interesantes, aunque escandalosas: como en Joyce:
+destrucción del lenguaje; como en Becket: aniquilamiento del género; como en
+el surrealismo: suplantación de la escena; como en el happening: pura performance; como en el hipertexto: disolución del escritor en una nueva figura: el
+escrilector. En Kristeva, el fin de la novela se proyecta en el abismo.
+
+La novela posmoderna
+Con la denuncia del carácter engañoso del proyecto de la novela moderna, se
+inaugura una visión posmoderna del destino del discurso literario. Pero lo posmoderno puede entenderse no sólo como fin o desastre, sino como un nuevo
+comienzo: como conciencia de que nuestra cultura contemporánea se ha hecho
+altamente inestable, embestida por todo un mecanismo de turbulencias que
+ha logrado que sus formas (estables, ordenadas, regulares y simétricas) hayan
+empezado a ser sustituidas por formas desordenadas, irregulares, asimétricas.
+ Así, las advertencias de Kristeva sobre las dificultades de la novela para
+desprenderse de las obligaciones del sentido y del orden, han tenido recientemente una reacción en el ámbito de la creación y la crítica literarias que, si bien
+no alcanza a superar del todo esas contrariedades denunciadas, sí ha generado, en cambio, una estética que puede llamarse posmoderna. En esta estética
+se tratan de corregir las pretensiones del proyecto narrativo moderno, y por eso
+la escritura posmoderna juega a romper las fronteras entre realidad y ficción,
+no sólo porque dinamiza radicalmente el potencial mismo de la ficción (todo es
+ficción), sino porque admite como premisa ontológica la textualidad del mundo
+(la realidad considerada como texto, la intertextualidad como única referencia
+posible). En segundo lugar, la escritura posmoderna descree de la “autoridad
+narrativa” de una única voz privilegiada que da cuenta de la verdad y de la
+coherencia del relato. En tercer lugar, el escritor posmoderno reclama como
+pertinente no tanto una homogeneidad de la obra como su problematización,
+su fracturación, y esta problematización se introduce en la ficción misma, generalmente en forma de autoconciencia del proceso creativo, es decir, de metaficción. En cuarto lugar, la obra posmoderna admite no sólo la intertextualidad (es
+decir, el recurso a otros textos), sino incluso el plagiarismo y la citación irónica,
+en un intento por relativizar el proceso mismo de significación, entendido éste 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+22
+I. Narrativas contemporáneas
+como algo clausurado con la sola presentación de la obra al lector. Finalmente, la obra posmoderna promueve abiertamente la participación del lector, la
+“doble productividad”, ya sea a través del juego o a través de la puesta en marcha
+de conciencias paralelas de interpretación.
+
+Literatura testimonio: ¿auténtico género posmoderno?
+Si bien la “novela posmoderna” ejercita una “corrección” de los defectos del proyecto narrativo moderno, en realidad la posmodernidad irrumpe configurando otras
+alternativas narrativas, enfocadas sobre todo en explorar hibridaciones y mezclas de géneros. Una de las más interesantes formas de la narrativa posmoderna
+de este tipo es la llamada “literatura testimonio”. En ella se presenta un estatus
+híbrido entre documento y ficción que la aparta de la estrechez de los géneros
+tradicionales. La elaboración literaria le corresponde a un escritor que domina
+las técnicas culturales requeridas, pero el trabajo se hace en equipo con el “testigo” no letrado, quien de esa manera adquiere voz y circulación cultural más
+amplia. Puesto que el “testimonio” resulta del trabajo conjunto de miembros
+de culturas diferentes, ofrece la posibilidad real para un diálogo intercultural,
+como lo querría el credo del carnaval. La literatura testimonio se caracteriza por
+una especie de relación solidaria entre algunos miembros del estamento letrado
+que han comprendido los excesos de la “literatura fonológica” y autoritaria del
+proyecto modernista y los grupos minoritarios tradicionalmente excluidos del
+circuito comunicativo oficial. En la narrativa testimonio, un testigo, urgido por
+la situación (de guerra, de explotación o de sometimiento), “habla” a través de
+la pluma de un escritor, quien presta su capacidad y su técnica expresiva para
+dar salida a una expresión que de otro modo quedaría relegada a un espacio
+inocuo de comunicación. Este préstamo, que erosiona la figura tradicional del
+autor, y el hecho de que los testimonios están más cerca de la referencialidad
+que de la ficción, hacen de esta práctica discursiva un modelo de ejercicio posmoderno. Generalmente, el testimonio es narrado en primera persona por uno
+o varios testigos directos de los hechos. En muchos casos, el narrador es una
+persona no letrada que relata a un interlocutor la historia de su vida o períodos
+significativos de ella, con el propósito de denunciar su situación. Así, el testigo,
+más que presentarse como un conocedor de la verdad, quiere dejar constancia
+de sus circunstancias.
+ Por su parte, el escritor se compromete a un trabajo cooperativo y se oculta
+detrás de las voces de los testigos, para que surja no sólo y no tanto el lenguaje del testigo (produciendo, por lo general, un efecto de oralidad), sino la visión
+de mundo que hay detrás de él. Por eso, interviene lo menos posible y evita 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+23
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+cualquier actitud paternalista. El lector de testimonio se ve enfrentado a varias
+dificultades, sobre todo si lo que espera es un relato literario canónico: no sólo
+es el efecto de oralidad, sino el fuerte carácter referencial, lo que le impide asumir con confianza la lectura de las obras de este género. Así que sólo al hacerse
+consciente de que el testigo no quiere ostentar un uso sublime del lenguaje, sino
+ser escuchado en su propia lengua, desde su propia experiencia y en la inmediatez del hecho real, logra comprender, valorar y recrear su narrativa.
+
+Hipertexto y posmodernidad: la narrativa digital
+Aunque los casos de la novela posmoderna, y específicamente de la novela testimonio, se pueden considerar como ejercicios que subsanan en buena parte los defectos del proyecto de la novela moderna revelados por Kristeva, en
+realidad sólo lo hacen a medias, debido, principalmente, a que no abandonan
+el soporte físico de la expresión libresca. Es cierto que el libro ha dejado de
+ser el fetiche de la escolástica, que el autor se desvanece en la simulación de los
+ejercicios de edición o detrás de las voces de los testigos, que se han denunciado
+y demostrado los falsos alcances de la escritura y que la figura del lector se ha
+encumbrado hasta hacerse imprescindible para el ejercicio literario; pero, en
+realidad, han quedado sin resolver las limitaciones que ofrece el libro como
+objeto y soporte de la expresión. Sólo cuando aparece un nuevo soporte, una
+nueva tecnología de la palabra y de la expresión, se puede hablar de una superación cabal de las limitaciones de la novela. Esto no quiere decir que la novela
+(y especialmente la novela posmoderna) pierda funcionalidad, sino que se enfrenta ahora a novedosas posibilidades narrativas, abiertas por el uso estético de
+las nuevas tecnologías de la información y la comunicación y por el aprovechamiento de nuevos soportes expresivos, como el hipertexto.
+ El hipertexto (y más exactamente, el hipermedia) puede entenderse como
+una forma de textualidad digital en la que vínculos electrónicos unen lexias
+o fragmentos de textos (que pueden adoptar la forma de palabras, imágenes, sonido, video, etc.), promoviendo una lectura no lineal y el acceso a una
+multiplicidad de recursos que relativizan la presencia de la palabra escrita
+como única fuente de representación. El hipertexto es, entonces, un texto electrónico predispuesto a multitud de conexiones con otros textos y recursos, en el
+que el trayecto o recorrido de lectura está liberado a los propios intereses del lector
+de turno. Este lector de hipertexto, además de contar con una libertad de itinerario, puede convertirse también en un coautor de la obra, en la medida en
+que tenga la posibilidad de realizar sus propios enlaces, ampliando “a su gusto”
+el campo contextual de la obra. Y la “obra”, así entendida, requiere ser diseñada 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+24
+I. Narrativas contemporáneas
+más como un mapa, como una instrucción de uso, que como un libro en la
+forma tradicional de concebirlo.
+ Algunos autores prefieren llamar “hipermedias” a los soportes que incluyen
+recursos distintos de las palabras. Los modelos hipermedia se definen a partir
+de tres componentes: funcionan sobre hipertexto (escritura/lectura no lineal
+del discurso), integran multimedia (utilizan diferentes morfologías de la comunicación, como animaciones, audio, video, etc.) y requieren de una interactividad
+(capacidad del usuario para ejecutar el sistema a través de sus acciones). La presencia de estos tres componentes en la literatura da lugar al término “literatura
+electrónica” o “literatura hipermedia”. Ahora, las utilidades de la informática ya
+no se limitan a facilitar el trabajo de escribir o a proporcionar recursos alternativos a la palabra escrita, sino que permiten crear nuevas estructuras discursivas
+y posibilitan la integración de elementos de expresión no verbales, logrando
+que la obra se convierta en una plataforma capaz de una interrelación artística
+muy eficiente. A estas plataformas se las suele llamar “entornos digitales”. Los
+entornos digitales son dispositivos que han venido poco a poco superando una
+utilización puramente funcional de su potencial, para convertirse en los medios
+más fascinantes de producción de mundos imaginarios alternos.
+ En ese sentido, es posible hablar de una estética digital, que Holtzman
+caracteriza con seis condiciones: 1) discontinuidad: los mundos digitales son
+discontinuos, no predeterminan ningún recorrido y promueven, por eso, la elección y la decisión libre por intereses; 2) interactividad: la experiencia digital no
+es pasiva, demanda la participación, la obra no se define por el trabajo “privilegiado” de un artista encumbrado en su pedestal, sino por la interacción entre
+obra y público; 3) dinamismo y vitalidad: la obra digital genera una amplia
+gama de posibilidades de realización, de modo que, a la manera de la improvisación en el jazz, se requiere de un alto dinamismo para la “interpretación” de la
+obra. Además, no hay nunca una experiencia estética única, lo que hace que la
+obra digital sea un objeto de mucha vitalidad; 4) mundos etéreos: los mundos
+digitales son etéreos, no existe un ahí de la obra, ninguna materialidad la sustenta, en contraste con las palabras físicas, no existen límites de resolución y el
+centro de atención del texto se potencia desde la tradicional página escrita en
+dos dimensiones al espacio tridimensional, donde adquiere otras cualidades; 5)
+mundos efímeros: la experiencia de una secuencia de bits existe sólo instantáneamente, aún las imágenes, que parecen estáticas, o los efectos de persistencia
+digital dependen de una continua computación, los lenguajes de programación
+están diseñados para su perpetua actualización, es en la “ejecución” del programa cuando se realiza la obra; y 6) el fomento de las comunidades virtuales: la
+disolución de las barreras de tiempo y espacio, promovida por la conexión de 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+25
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+la gente en la red, forma comunidades virtuales y genera una nueva forma de
+conciencia global.
+Todo esto hace que las funciones del escritor” y del “lector” se reconfiguren radicalmente, y hacen que el primero deba desempeñar funciones nuevas,
+mucho más técnicas, como la manipulación de datos, el manejo de aplicaciones
+multimedia, el diseño gráfico, viéndose además obligado a realizar un trabajo
+colaborativo con otros profesionales, como el programador, el dibujante, el diseñador, el técnico audiovisual, etc.
+Con la irrupción de las nuevas tecnologías, se empieza a configurar un cambio
+radical en torno a las visiones sobre el proceso de la lectura. La narrativa digital no hace sino evidenciar que la lectura ha dejado de ser un acto pasivo para
+convertirse en un proceso creativo. El nuevo usuario debe poner en práctica, al
+menos, tres competencias nuevas: en primer lugar, la iconicidad, que consiste
+en este caso en la capacidad que se requiere para potenciar “icónicamente” no
+sólo las propuestas audiovisuales directas de los hipermedias, sino las palabras
+y los demás elementos del hipertexto. En segundo lugar, se le exige al nuevo
+usuario la editabilidad. En el ambiente hipertextual se ofrecen cada vez más
+facilidades para modificar y sustituir textos (facilidades de edición); por eso,
+desde el punto de vista pragmático, se requiere desarrollar competencias para
+potenciar dichas facilidades. Finalmente, el lector debe aprender a pasear por
+los fragmentos de texto que se le presentan en la pantalla y recomponerlos a
+su gusto (navegabilidad), guiado por su propio interés. La posibilidad de separar y luego volver a unir textos en el ambiente hipertexto debe convertirse en
+una actividad normal y potente. Crear múltiples secuencias y asociaciones
+resulta ser una de las prácticas más útiles y a la vez creativas, en la medida en
+que la legilibilidad del hipertexto promueve una redefinición dinámica del
+sentido. El escritor prepara las redes de conexión y el lector las explora, las
+amplía y las potencia.
+ Llevada a consecuencias insospechadas, la narración que surge de esta virtualización de la escritura y de la expresión es radicalmente distinta de los
+modelos narrativos derivados de la utilización eficaz del formato libro. Ya no
+puede ser la misma narración que realiza un escritor que teclea su vieja máquina; ni siquiera la que resulta del escritor que simplemente reemplaza la
+máquina de escribir por un procesador de palabras. Es, tiene que ser, una narración que disuelve sus formas y sus funciones tradicionales, las virtualiza, las reduce a elementos primarios, a partículas que deben recomponerse después mediante operaciones de conectividad. El escritor de narrativa digital se enfrenta
+a la conciencia de que ya no basta con que las realidades estén ahí, dispuestas a 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+26
+I. Narrativas contemporáneas
+conectarse; es necesario que el lugar físico de la realidad se disuelva a favor de la
+información y del lenguaje para que se pueda realizar una plena conectividad. Y
+esa virtualización supone una actitud: promover la interacción radical. Una de
+las funciones más interesantes del arte así “afectado” por lo virtual es, precisamente, estimular cualquier forma de interacción. El artista interactivo propone
+siempre a los espectadores una colaboración creativa, una “co-creación”. Y la
+pregunta por el lugar de la obra se desplaza a las siguientes cuestiones: ¿dónde
+está la “obra”? ¿En el modelo interactivo que ofrece el artista al espectador?
+¿En las interacciones propiamente dichas que podrían llegar a alterar radicalmente la obra “original”? ¿En la idea inicial del autor, quien busca por sobre
+todo promover la interactividad? ¿Quién es finalmente el autor?
+Inmersión e interactividad
+La perspectiva de Ryan en su libro La narración como realidad virtual (2004)
+es a la vez complementaria y provocadora. Según Ryan, existe en el arte y en
+la literatura una tensión tradicional entre inmersión (capacidad de la obra
+para provocar la concentración del lector en sus contenidos) e interactividad
+(capacidad de la obra para promover actividades en el lector derivadas de su
+conciencia sobre la forma). Estas dos características generan dos tipos de texto:
+el texto mundo y el texto juego. El primero apuesta a la inmersión y el segundo
+a la interactividad. Desde luego hay grados y es verdad que todo texto/obra
+participa de ambas características, pero también lo es que hay formatos que
+favorecen más una u otra característica. Así, el libro favorece más la inmersión y
+los medios electrónicos, más la interactividad. El intento por favorecer la interactividad mediante el libro, el intento por convertir la novela en un texto juego,
+da lugar a la novela posmoderna que lucha así en medio de una batalla más o
+menos perdida. Pero los medios digitales, si bien han demostrado su capacidad
+y su naturalidad para promover la interactividad, lo hacen en detrimento de
+una eficiencia narrativa, especialmente si el tipo de interactividad que promueven es de tipo selectivo (es decir, la promoción de un lector que puede escoger
+los caminos de la narración y los contenidos por consumir). Sólo una interacción participativa (del tipo realidad virtual) podría generar un equilibrio entre
+inmersión e interactividad.
+ Ahora, Ryan le asegura larga vida a la novela de inmersión por cinco razones: 1) la novela ha constituido una fuerte tradición: la del mundo textual,
+es decir, ha encontrado el modo de conducir al lector a “imaginar un mundo
+y a imaginarlo como una realidad física y autónoma amueblada con objetos
+palpables y poblada por individuos de carne y hueso” (Ryan, 119); 2) la novela 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+27
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+ha encontrado el modo para reforzar el hechizo del lector, mediante la metáfora de la transportación y de perderse en un libro; nos hemos acostumbrado a
+pensar en el libro como en un medio para vivir una aventura de la que saldremos transformados; 3) la novela nos plantea el reto lógico de los mundos
+posibles; 4) la novela nos plantea la actividad del juego como si, es decir, nos
+permite suspender las actividades serias del mundo cotidiano; y 5) la novela
+favorece la simulación mental, es decir, la posibilidad de anticipar situaciones
+que tendremos que vivir posteriormente o asumir situaciones que nunca experimentaremos en la vida real.
+ En últimas, la novela satisface las necesidades psicológicas de la virtualidad,
+pero lo hace con la certeza de que esa satisfacción sólo se alcanza mediante una
+especie de pacto social, según el cual el autor de novelas de inmersión se especializa en la tarea de construir los artefactos para dicha satisfacción y el lector se
+especializa en consumirlos: “[…] cuando componemos una narración representamos cómo las cosas han llegado a ser lo que son (retrospección) […] cuando
+leemos una narración, adoptamos el punto de vista de los personajes para los
+que el argumento es su propio destino. La vida se vive prospectivamente y se
+cuenta retrospectivamente (tarea del autor), pero al volverse a narrar puede vivirse otra vez de manera prospectiva (tarea del lector)” (Ryan, 142). En cambio,
+la apuesta de la interactividad, sobre todo de la interactividad participativa,
+es la de garantizar una construcción colectiva de los artefactos, incluso a un
+nivel técnico; pues, si únicamente se trasladara el pacto de la especialización de
+tareas al espacio de la virtualidad electrónica, sólo se lograría una obra ineficaz;
+mientras que si se potencia lo realmente pertinente, la interactividad, la acción
+del lector, se estará satisfaciendo otro tipo de necesidad: la de la construcción
+social del conocimiento.
+ De nuevo: el asunto podría plantearse como una batalla (¿quién se impone?);
+pero resulta más sano afirmar que los nuevos medios y las nuevas narraciones
+sólo están facilitando la satisfacción de necesidades que estuvieron con-fundidas
+en medio de formatos expresivos limitados y que sólo ahora tenemos la oportunidad de llevarlas a plenitud y con autonomía.
+
+Literatura y…: narraciones híbridas
+El fenómeno de la hibridación puede comprenderse, según García Canclini,
+como una dinámica de lo popular (entendido como lo no moderno o como
+lo no perteneciente a la cultura de las élites, derivadas de la modernización
+social) que se reacomoda a una interacción compleja con la modernidad. Esto 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+28
+I. Narrativas contemporáneas
+es lo que él llama, precisamente, “reconversión cultural”: un proceso por el cual
+las culturas populares, lejos de desaparecer, se rearticulan en nuevas formas,
+reconvirtiendo así su producción en capital cultural que participa del nuevo circuito capitalista. Lo tradicional se convierte en tradicional-moderno, y nuevas
+prácticas híbridas se generan por la coexistencia simultánea de distintos subsistemas simbólicos (García Canclini, 1989).
+La literatura no se sustrae a esta lógica posmoderna y se deja impactar por
+lo popular reconvirtiéndose en una práctica donde componentes y formas
+de expresión olvidados y/o despreciados por la modernidad o por la cultura
+hegemónica se reinsertan, se dimensionan y se potencian de modo que favorecen el surgimiento de géneros renovados, con toda su caracterización estructural, pragmática y sociocultural; es decir, garantizan una dinámica de supervivencia que le da viabilidad de existencia en medio de condiciones económicas
+y culturales modernas.
+Esto explica el cuestionamiento contemporáneo a la literatura (moderna)
+como artefacto central o privilegiado de la narración, es decir, como artefacto puro, original y homogéneo, y aclara, en consecuencia, una postulación de
+lo híbrido como perspectiva sustituta: “literatura y…”: literatura y testimonio,
+literatura y nuevas tecnologías (como vimos arriba), literatura y medios (como
+veremos adelante), literatura y oralidad, literatura y periodismo, literatura
+y cine, y una larga lista de íes griegas. Si bien esta conciencia/práctica de la
+hibridez ocasiona una pérdida de territorialidad (la territorialidad de cada género “puro”), se gana en conocimiento y en comunicación. Estos nuevos géneros son capaces (no sin problemas como veremos enseguida), de deslizarse entre
+la tradición (y la exclusión) y la modernidad, son géneros anfibios: reconvierten
+códigos estéticos y comunicacionales para abrir nuevas recepciones.
+
+Literatura y oralidad
+Es bien sabido que cuando se habla de literatura se habla de una expresión
+escrita. Es más, algunos autores como Mijail Bajtín o Milan Kundera y, más
+recientemente, Pierre Lévy, plantean la estrecha relación entre escritura,
+modernidad y novela. Pero a nadie sorprende que al leer una novela se tenga la
+sensación de “estar oyendo” voces, como si tratara de una trascripción de lo oral.
+Incluso, hay autores literarios que se proponen como proyecto lograr ese “efecto
+de oralidad”. Para comprender esa relación entre oralidad y escritura que se
+da en el relato literario, propongo como hipótesis la idea de que, si bien en el
+texto literario se dan las dinámicas propias de lo que Walter Ong ha llamado la 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+29
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+“textualidad” (la producción de textos escritos), también es cierto que persisten
+las llamadas por el mismo autor “sicodinámicas de la oralidad”.
+Paralelamente a lo que Ong propone como una distinción entre oralidad
+y textualidad, Lyotard plantea la distinción entre una pragmática del saber
+narrativo y una pragmática del saber científico. Para Lyotard (1989), la forma
+narrativa prevalece en el saber tradicional, y el relato es la expresión por excelencia de ese saber. Las formas narrativas se caracterizarían porque cuentan
+formaciones positivas o negativas; es decir, porque informan sobre modelos de
+vida. Esa es su manera de crear el lazo social: a través del recuento de ejemplos
+de lo que se debe y de lo que no se debe hacer. Ese es su mensaje fundamental.
+Por otro lado, el saber narrativo admite la pluralidad del lenguaje, pues no requiere de metalenguajes especializados, sino que aprovecha el habla local, que
+suele ser diversa y compleja, y a la vez rica en sentidos compartidos.
+En el saber científico, en cambio, la pragmática está dada por otras características bien distintas, todas ellas gobernadas por una lógica escritural o,
+lo que es lo mismo, por una dinámica textual. El saber científico necesita de
+la formación de “pares” para alcanzar su legitimidad a través del asentimiento
+de la comunidad científica Y estos pares básicamente se forman en competencias de metalenguajes específicos y precisos que no dan cabida sino a la precisión y fomentan actividades solipsistas.
+La narración literaria (la novela y el cuento) se sitúa entre estas dos aguas. Si
+bien es escritura y exige por eso unas competencias especiales (al menos leer
+y luego leer según las condiciones propias del género literario), también posee
+rasgos de la comunicación oral y produce “efectos orales”. Si bien la narración
+literaria participa de la lógica del registro y del solipsismo, en cuanto obra que
+se ofrece tras el proceso de elaboración individual a un lector preparado (formado) precisamente para deconstruir, también en su soledad, el libro que se
+le entrega, la narración literaria sabe ganarse la empatía y la participación del
+lector, pues utiliza, ahora en formato de escritura, la variedad del habla, recurre
+a las situaciones humanas y vitales cercanas, al significado compartido, y, por
+lo general, informa del lazo social. La narración literaria no es texto científico,
+aunque esté escrito, pero tampoco es oralidad simplemente transcrita. La narración literaria frente a la oralidad gana en extensión, en temporalidad, en
+alcance, pero mantiene viva la dimensión y la dinámica de lo oral, de lo “directo”
+y, sobre todo, de lo connotativo y simbólico. Pese a esto, la escritura (incluida
+la escritura literaria) se siente siempre como “palabra muerta”, tiene un corolario de pasividad que no satisface a algunos hoy. Por eso, recientemente, cuando muchos de los valores asociados a la cultura de lo escrito y de lo impreso 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+30
+I. Narrativas contemporáneas
+empiezan a ser cuestionados, comienzan a aparecer resistencias a lo escrito y
+también recirculaciones, recuperaciones y resignificaciones que intentan volver
+a poner en situación lo oral o que buscan en los nuevos medios (de comunicación pero también los digitales) alternativas a la escritura.
+
+Literatura y periodismo
+La relación entre literatura y periodismo es tan antigua como compleja. Los
+dos ejercicios se han influenciado mutuamente y ambos se han beneficiado
+de las experiencias de cada uno, pero también han producido objetos híbridos
+(periodismo literario, como en el caso del llamado “Nuevo periodismo”5
+ y literatura periodística), situación que se facilita porque el soporte, hasta hace muy
+poco, ha sido similar: el texto impreso. Estas obras “a mitad de camino”, constituyen en sí mismas un reto crítico, pues no es fácil en ellas discernir claramente
+hasta dónde llega lo puramente periodístico y dónde comienza lo literario. Lo
+único claro en obras de este tipo es su carácter narrativo, y sobre esa base es que
+se puede dar cuenta de ellas.
+Se han explorado las diferencias entre un ejercicio y otro, pero este método
+no ha conducido si no a más confusión. Se dice, por ejemplo, que la literatura
+acude a la ficción e incluso a la fantasía, pero eso no es lo característico de
+la literatura, y la idea de ficción y de fantasía es lo suficientemente ambigua
+como para no garantizar una comparación objetiva. También se afirma que la
+literatura es escritura bella, pero ¿cuántas piezas periodísticas no están escritas con la belleza que uno podría asumir como literaria? Se habla también de
+distintas motivaciones: el periodismo es una necesidad, la literatura un lujo; el
+periodismo está ligado a la objetividad y a la actualidad, la literatura al entretenimiento y a la expresión subjetiva; en fin, intentos por separar uno del otro,
+que no han hecho sino evidenciar la complejidad de dicha tarea.
+Fernando Lázaro Carreter, por ejemplo, realiza una clasificación de rasgos
+diferenciales, entre los que enuncia:
+5 El “Nuevo periodismo” es una corriente periodística nacida en los años sesenta en los Estados Unidos.
+Surgió por la publicación del libro A sangre fría de Truman Capote, novela de “no ficción” donde se combinaban elementos literarios con otros propios de la investigación periodística. Se caracteriza por aplicar recursos
+y técnicas de la literatura de ficción y otras corrientes consideradas hasta entonces incorrectas por el periodismo tradicional. Por este motivo, el “Nuevo periodismo” supone una renovación en las formas de narración de
+reportajes, crónicas y entrevistas, combinando lo mejor de la literatura con lo mejor del periodismo.
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+31
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+1) Al escritor no le urgen, generalmente, unas necesidades prácticas inmediatas, mientras que
+al periodista le acucian.
+2) El escritor se dirige a un receptor universal, mientras que el periodista sabe a quién escribe,
+conoce y debe conocer el sector del público al que se dirige, que es el que tiene una forma de
+pensar acorde con la ideología del periódico.
+3) El mensaje literario actúa sin limitaciones de espacio y de tiempo, mientras que el periodista,
+por el contrario, disfruta de un espacio limitadísimo: el propio marco del periódico. Además, el
+lector de un libro no suele tener urgencias utilitarias inmediatas como el lector del periódico.
+4) El propio libro actúa en situación distinta para cada lector, es susceptible de múltiples
+interpretaciones. El periodista, por el contrario, es responsable de la interpretación diáfana
+e inmediata de sus obras, que no pueden ser críticas, herméticas y oscurantistas.
+5) La soledad, a veces dramática, es primordial para el escritor, mientras que el periodista ha
+de ser consciente de que forma parte de un cuerpo de redacción, al que compromete cuando
+escribe, y que comparte con sus compañeros y coordinadores la responsabilidad de la unidad
+que es el periódico. (Citado por Santamaría, 22)
+ Sin embargo, existe otra realidad igualmente contundente: los autores “anfibios” que transitan con toda naturalidad de un género a otro y que de alguna
+manera deconstruyen esta lógica de diferenciación de Carreter. Basta mencionar
+algunos nombres: Truman Capote, Norman Mailer, Eduardo Galeano, Vázquez
+Montalbán, Ryszard Kapuscinnky, García Márquez y Tomás Eloy Martínez. La
+única salida es tomar el toro por sus cuernos, asumir la hibridez y la ambigüedad,
+o lo que llama Oscar Steimberg, la transposición: “Hay transposición cuando
+un género o un producto textual particular cambia de soporte o de lenguaje [...]
+vivimos en una cultura de transposiciones: los relatos cinematográficos, los distintos géneros televisivos; los géneros que insisten en la radio, los nuevos que se
+van creando en ella, y también los viejos y nuevos de la comunicación impresa,
+hablan de un juego entre la insistencia de los transgéneros que recorren medios
+diversos, así como distintas épocas y espacios culturales, y la de aquellos que
+aparecen en cada medio y le son específicos” (Steimberg, 84). El espacio para
+la investigación es amplio, precisamente por eso: porque la problemática de la
+relación es compleja, pero en últimas, se trata de reconocer las posibilidades
+narrativas (no sólo literarias) del periodismo, como veremos después.
+Literatura y cine
+También la relación entre novela y cine es de doble vía y de una forma radical: desde que se inventó el cine, las dos expresiones han dependido una de
+otra (Hunter, 2002). En un comienzo fue el cine el que tuvo que acudir a la 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+32
+I. Narrativas contemporáneas
+tradición literaria que había encontrado la manera más eficaz de contar historias atractivas. Pero una vez el cine se consolida como arte autónomo (el
+séptimo arte), es la literatura la que empieza a beneficiarse, no sólo porque las
+historias previstas y desarrolladas literariamente comienzan a ser visibilizadas
+en un ámbito popular y masivo (las salas de cine, a las que sólo se va con la disposición de ver/escuchar una historia), sino porque la novela misma empieza a
+adaptar técnicas cinematográficas para mejorar sus efectos expresivos. Para dar
+cuenta de este fenómeno de doble vía, Hunter, en su libro La estética de lo posible. Cine y literatura, muestra tanto la manera contundente como se prolongan
+las formas escriturales decimonónicas en el cine (cap. 7), como la presencia del
+cine en el texto literario (cap. 6).
+Cine y literatura son, pues, dos ejemplos de hibridación sin desterritorialización: dos artes que dialogan, que se influencian mutuamente, pero para
+beneficio de cada una; dos artes que se prestan sus códigos y potencian sus
+posibilidades expresivas. De hecho esta situación ha permitido el desarrollo
+de toda una disciplina comparativa encargada de descubrir paralelismos, diferencias e influencias entre la narrativa cinematográfica y la narrativa literaria,
+consiguiendo dar luz a la gran fuente de vínculos que brindan los dos ejercicios
+y guiando los caminos de transición de un lado a otro de la frontera (que aquí
+es más que nunca comienzo y no fin de un territorio). Los puntos de vista y los
+montajes de escenas son quizá las técnicas mejor adaptadas por los novelistas
+a partir de los descubrimientos del cine; pero a su vez el trasvase de la esencia
+poética de las novelas es el mayor reto que se les impone a los directores de cine
+que se proponen llevar a la pantalla una obra literaria narrativa. “Cabe recordar,
+nos advierte Hunter, que, mientras la novela es el arte de interioridad subjetiva,
+el cine es reflejo objetivo de la realidad” (Hunter, 99), y el cotejo entre ambos
+campos narrativos ayuda a comprender mejor las categorías expresivas y formas
+de representación de cada enunciado.
+
+La narrativa mediática: narración como expresión de la cultura mediática
+Los medios masivos comunican narrando, han conquistado el ámbito
+comunicativo contemporáneo produciendo un nuevo campo expresivo: la narración-entretenimiento-espectáculo; un campo caracterizado porque a) dicha
+narración es más estilo que ideología y b) porque ha logrado construir su propia cultura o modo de significar (Rincón, 2006). “El resultado consiste en que
+estamos más entretenidos, pero también más vacíos de conciencia política […]
+habitamos la levedad, lo efímero, el flujo, pero perdemos de vista el autor, así
+como los proyectos colectivos de creación y las teorías sociales que permitan 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+33
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+imaginar que la vida es posible en otros términos y vivencias” (Rincón, 10).
+Estamos como hechizados ante el punto de no retorno que han evidenciado los medios masivos y sus narrativas. Por lo tanto, se hace urgente usar los
+modos intrínsecos de los medios para comenzar a imaginar narraciones de
+mayor utilidad social y política; debemos actuar desde las condiciones de la
+narrativa mediática y proponer nuevas formas que permitan ganar en comunicabilidad e intervención social (Rincón, 11). Seguiremos aquí las problemáticas
+que el comunicador colombiano propone en su libro Narraciones mediáticas,
+para cinco narrativas mediáticas.
+La narrativa periodística
+El periodismo informa, es decir, da forma y lo hace hoy narrando. Ése es uno
+de sus compromisos fundamentales (más allá de la objetividad y de la ética
+profesional): hacer significativos los recursos del lenguaje y la realidad, los recursos con lo que se hace referencia a la realidad. El periodista-narrador está
+en la obligación de contar historias significativas para la vida cotidiana de la
+gente, construir relatos que alcancen la identificación con la gente y no con
+el poder que da viabilidad al medio periodístico, buscar recursos para contar
+siempre de manera diferente y no con esquemas preestablecidos o favorecidos
+por una eficacia fugaz; investigar, pensar, analizar el presente, ir al pasado, volver
+a la subjetividad y, desde allí, desde la expresión personal, agitar la conciencia social. El verdadero periodista, afirma Rincón, es quien abandona el dato
+insulso para encontrar la narrativa de la existencia; el verdadero periodista es
+capaz de observar, de mirar de modo distinto del convencional, y de proponer
+un efecto emocional a la audiencia para dar sentido al imaginario colectivo, no
+para manipularlo. El resultado esperado: crónicas sentidas, solidarias, tiernas;
+historias simples pero contundentes; personajes de encuentro colectivo sobre la
+existencia (Rincón, 127-28).
+ Y con estos imperativos explorar algunos problemas: ¿cómo volver a narrar
+la realidad con el asombro del quien la observa? ¿Cómo desarrollar habilidades
+para compartir los dolores, los sufrimientos y las alegrías de la gente? ¿Cómo
+ejercer la sospecha como actitud profesional? ¿Cómo trabajar eficazmente las
+posibilidades de la hibridez? ¿Cómo desarrollar la capacidad para distinguir/
+expresar al personaje paradigmático? ¿Cómo, en fin, imaginar otro modo de
+producir información que sea capaz de agitar, pero también de experimentar y
+de garantizar la libertad narrativa del periodista?
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+34
+I. Narrativas contemporáneas
+La narrativa publicitaria
+La publicidad asume que el mundo es (sólo) mercado y que la felicidad está
+en el consumo, pero su mensaje es de sensibilización, no de adoctrinamiento.
+A través de un modo particular de narrar la vida, ofrece alternativas de consumo, incluida la del no consumo; seduce, busca persuadir, pero deja siempre
+la posibilidad de escapar a dicha persuasión. Su discurso sustituye la experiencia
+social por estilo y acción: el estilo es el contenido en la narrativa publicitaria; la
+publicidad, es distinción, es filosofía light, es moda, es mercado, pero también
+es comunicación, es, siguiendo a Rincón, poesía industrial y por eso expresa la
+estética contemporánea; la producción de sus mensajes se realiza sobre las tendencias simbólicas del momento y las tendencias estéticas que han demostrado
+eficiencia en la interpelación.
+El problema está en que la publicidad le sirve al dios del mercado, pero ella
+misma no es dios: “[…] toma al hombre tal cual es, procurando estimular su
+sed de consumo”, y por eso no se puede olvidar que, frente a la conformidad
+propuesta por la publicidad para la masa, hay que seguir ilusionando el activismo individual como táctica para evitar la manipulación (Rincón, 153). ¿Acaso
+esto se logre con más literatura? ¿Aprende la literatura de la publicidad? ¿No
+debemos consumir publicidad y sí literatura? He ahí algunos interrogantes para
+explorar.
+La narrativa radial
+La radio promueve el diálogo colectivo, es un acontecimiento oral. Es,
+siguiendo a Rincón, un medio caliente cuya legitimidad está en el público y
+cuya virtud está en conversar con y en la vida cotidiana; es un medio móvil, está
+encendida a todas horas, nos recuerda que somos radio, brinda atención rápida, información oportuna, entretenimiento gratis, crea comunidades de sentido y, sobre todo, se basa en la credibilidad, en pactos de fidelidad; es diversa
+en sus formas de narrar: noticieros, programas musicales, concursos, servicios
+sociales, opinión, interactividad (esa curiosa forma de la interactividad que es
+el recurso a otro medio: el teléfono) y promueve la imaginación sonora y las
+múltiples temporalidades (el encuentro entre ritmos de vida, modos de escucha y tiempos de atención de los oyentes); lo cuenta todo. Y, sin embargo, no
+deja de estar en peligro: el peligro de un periodismo servil que la utiliza; el
+peligro de una publicidad que manipula; el peligro de una segmentación de lo
+social que discrimina.
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+35
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+La narrativa televisiva
+La televisión es la máquina de entretenimiento narrativo más productiva
+y eficiente: nos entretiene con los hechos y con los deseos; de su influencia no
+escapa nada, todo lo sumerge en la ficción, pero en la ficción del espectáculo,
+es decir, en la banalización. Sin embargo, es importante pensar que tal vez sea
+una banalización buscada inconscientemente y por fin encontrada. Estas afirmaciones de Rincón nos ponen sobre aviso acerca de dos aspectos: 1) la televisión devino lugar de las culturas humanistas porque es tecnología, institución y
+deseo; estética que encarna una necesidad colectiva que ya había dado pruebas
+de su existencia a lo largo de la historia de la modernidad, y 2) aunque la televisión debe ser criticada…, si nos quedamos en esa crítica, no avanzamos hacia
+su comprensión y transformación…, hay que adentrarse en el estudio de la
+sociedad y sus modos de producción de lo simbólico y en las necesidades de los
+habitantes de la contemporaneidad para, desde ahí, comprender que la televisión
+es la cristalización de un modo de ser de la sociedad moderna (Rincón, 168).
+Ahora, la televisión es el lugar donde la mayoría de la sociedad se informa y
+construye un relato sobre la realidad, permite imaginar que somos comunidad;
+es una máquina narrativa acotada, conocida, es actual en relatos, temáticas, estéticas e historias; pero está supeditada a la producción industrial, y también
+corre el peligro de la manipulación mercantil y política. Desde el punto de vista
+narrativo, “todo lo que toca lo convierte en conflicto dramático”; narra sobre
+la base de arquetipos morales universales, es dilación temporal, narra desde el
+fragmento y la hibridación y ha encontrado modos efectivos y consolidados de
+comunicar para todos los gustos: las series, los documentales, las telenovelas y,
+más recientemente, el cine.
+ Con todo, afirma Rincón retándonos, la narrativa y la estética televisivas están para ser inventadas, aún no han llegado, se debe crear toda una imaginería
+nueva, se hace necesario intervenir las cotas actuales: el aparato industrial, el
+discurso del espectáculo, la filosofía light, la actitud nueva era y narrar desde lo
+breve, contra la obviedad; producir mensajes que fomenten el diálogo social;
+construir audiencias, arriesgar más, innovar… (Rincón, 201).
+La condición video
+Esto afirma Rincón en el capítulo “La condición video”: “[…] el video nos ha
+liberado, ya nos permite a todos balbucear rasguños de pensamiento audiovisual (Rincón, 203). El video promueve la construcción personal de narraciones;
+es también soporte de memoria popular; nos obliga a estéticas más cercanas 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+36
+I. Narrativas contemporáneas
+(que las del cine): irreverentes, callejeras, cotidianas y comunicativas; nuevas
+temáticas, explosión de la diversidad, “extensión del alma […] sensibilidad
+buscando forma […] dispositivo para explorar las posibilidades de la tecnología” (Rincón, 205-06).
+El video reconfigura lo audiovisual con las siguientes condiciones: estética
+imperfecta, narración improbable, significado incierto, condición de flujo, narración individual, condición de resistencia, imaginar la libertad, condición de
+incertidumbre, carnaval, disputa entre lo biográfico y lo ideológico, condición
+comunicativa, vehículo para dar satisfacción a la necesidad de producir memorias, historias, imágenes; en fin, “la videoexpresión no pretende construir
+arte, sólo desea permitir al sujeto expresarse, constituirse en relato, hacerse visible desde su devenir estético, existencial y comunicativo” (Rincón, 213); es
+una mezcla de todas las formas de contar audiovisualmente al servicio de la
+subjetividad contante: afirmar el yo, buscarse para encontrarse; el video produce subjetividad y libera al individuo en el relato contado, espejo de sí mismo
+que comunica y se encuentra con un sujeto colectivo: pensamiento y llave de
+infinitos mundos posibles.
+
+Está bien, no sólo literatura, pero ¿sólo narrativa? Grandes y pequeños relatos
+La narrativa ha devenido en imperativo. Lejos de la denuncia lyotardiana, el
+discurso narrativo y sus variantes espectaculares subyugan al hombre contemporáneo y se han convertido en un dispositivo en todo caso ambiguo, pues
+pueden a la vez servir como vehículos de sabiduría o como mecanismos de
+control, manipulación y degradación social. Según Melucci (2001), el tema
+de la narración y la experiencia de narrar se ha convertido en un elemento
+significativo de la cultura contemporánea. La narración es un atractivo para las
+masas, con independencia de la capacidad técnica y de las dotes creativas de los
+individuos, porque el narrar es uno de los modos de responder a los desafíos
+de la identidad. Narrar quiere decir poner en blanco y negro, llenar el vacío,
+responder a la necesidad contemporánea de reconocerse y ser reconocido. Pero,
+a su vez, en todo relato de sí podemos identificar a los interlocutores para los
+que se produce el discurso. Por lo tanto, nos relatamos a los otros con la esperanza o la convicción de que nuestra narración resultará significativa. El hecho
+de que nos reconozcan o no resulta importante en la configuración efectiva de
+la relación y de la acción. Pero, simultáneamente, hay que reconocer que nunca
+se alcanza la reciprocidad transparente, queremos colmar, pero a la vez ocultamos, producimos distancia. Veamos dos caras de la misma moneda.
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+37
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+De los grandes relatos a los relatos excéntricos
+El concepto de metarrelato procede de una especie de doctrina ecléctica cuyo
+objetivo principal era propiciar la unión de todas las aspiraciones teóricoprácticas del conocimiento para alcanzar la emancipación. En la Ilustración,
+se planteó como estrategia para alcanzar dicha emancipación la ciencia; en el
+idealismo, la teleología del espíritu; en el marxismo, la liberación de la humanidad a través de la revolución del proletariado; en el capitalismo, la felicidad
+de todos gracias a la riqueza; en la era tecnológica, la resolución definitiva de
+los problemas mediante la maximización de la información. En cada caso, se
+trataba de un gran proyecto con un método y una meta.
+Una metanarrativa, en el contexto de la teoría crítica y el posmodernismo,
+es un esquema de cultura narrativa global o totalizador que organiza y explica
+conocimientos y experiencias. La metanarrativa es, por tanto, una historia más
+allá de la historia, que es capaz de abarcar otros “pequeños relatos” en su interior, dentro de esquemas abarcadores, totalizadores, trascendentes o universalizadores.
+Según el planteamiento crítico de la metanarrativa propuesto por Lyotard,
+los metarrelatos, metanarrativas o macrorrelatos son asumidos como discursos totalizantes y multiabarcadores, en los que se asume la comprensión de
+hechos científicos, históricos y sociales de forma absolutista, pretendiendo dar
+respuesta y solución a toda contingencia (Lyotard, 1989).
+Pero el desencanto por los grandes relatos conduce a la aparición de pequeños relatos: los discursos excéntricos de la posmodernidad. Frente al metarrelato, que tiene la finalidad de homogenizar la sociedad y desvanecer las
+diferencias (y que trae como consecuencia el silenciamiento de los grupos
+minoritarios), surgen los nuevos discursos, orientados a construir una identidad propia para esos grupos relegados a los márgenes, ignorados y hasta excluidos desde la lógica de los grandes relatos, mediante el proceso de escritura
+(López de Mariscal, 2000).
+Un ejemplo importante de este tipo de relatos excéntricos es el discurso
+feminista, al que es posible seguirle toda una evolución que va desde la simple reivindicación de los derechos de la mujer hasta una afirmación de la diferencia, la otredad, la heterogeneidad, la fragmentación y la pluralidad de
+las identidades. También aparece con fuerza el discurso de la subalternidad,
+es decir, el esfuerzo por dar visibilidad a los grupos marginados por el poder
+hegemónico y facilitar los lazos globales entre grupos que han sufrido la misma condición. 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+38
+I. Narrativas contemporáneas
+Pero quizá la consecuencia más reciente y socialmente eficaz haya sido la
+deconstrucción de los paradigmas que podríamos llamar “sectoriales” (ciencia,
+salud, educación, política, economía, sociedad, religión, estética y familia) para
+dar paso a nuevos paradigmas, es decir, alternativas revolucionarias que “atacan”
+cada uno de los aspectos fijados como universales en la modernidad. Según
+Mires, esa revolución paradigmática se caracteriza por la pérdida de funcionalidad de las ocho características que él considera fundamentales para el paradigma moderno: el determinismo, el naturalismo, el esencialismo, el racionalismo,
+la lógica dicotómica, el utopismo, la creencia en un orden universal y la separación entre objeto y sujeto. En lugar de estas ideas y creencias, se estarían forjando e imponiendo estas otras: indeterminismo, autoorganización, complejidad,
+realidad sin esencia, mundo como representación, imposibilidad de separar sujeto y objeto, disolución de fronteras disciplinares, realidad que se construye, en
+oposición a la idea de una realidad dada (Mires, 1996).
+
+La crítica dialógica
+No obstante, quizá el más sano síntoma de la posmodernidad sea el del hallazgo de maneras para afrontar la diversidad de puntos de vista, es decir, instrumentos para el diálogo de los diversos discursos relativos. La crítica dialógica
+propuesta por Iris Zavala es quizá el mejor ejemplo de un ejercicio emergente
+para acercarnos a los pequeños relatos sin caer en la antigua e indeseable generalización.
+En su libro Escuchar a Bajtín (1996), Zavala propone una metodología de
+lectura de textos que incorpora diversos conceptos de Mijail Bajtín6
+. Como
+crítica atenta al sujeto, a su diversidad, a la oposición entre lo oficial y las experiencias individuales, la crítica dialógica busca hacer dialogar y entremezclar los discursos. Se trataría de abandonar actitudes que hipostasian el sujeto
+trascendental, sujeto “confinado a la abstracción y cuya experiencia de sí es concebible como centro total del conocimiento” (Zavala, 82). Se trataría de “pensar
+en fronteras e intersecciones y no en totalidades” (Zavala, 83).
+Y es que para Iris Zavala el sentido o el significado no está cerrado para
+siempre, de modo que habría que estar atento, más que a totalizar, estructurar
+o sistematizar, a escuchar nuevas valoraciones y reacentuaciones de los discur6 Especialmente el de dialogía, entendida como una manera de ser y pensar que se opone a una comprensión homogénea, a las totalizaciones y a los funcionamientos unitarios, es decir, a lo que Zavala llama “pensamiento universalista” o “humanista”; a la emisión de conceptos autorizados y “autárquicos” que esconden
+la exclusión como actitud. 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+39
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+sos, es decir, a pensar lo heterogéneo (observar la intertextualidad y la interdiscursividad), las “voces” que absorben, modifican, refunden y reacentúan ciertos
+tópicos.
+Zavala considera el discurso en dos dimensiones: como sistema de circulación
+que a la vez vehicula una lucha ideológica “por la hegemonía semántica [...] por
+legitimar el propio significado y proyecto” (Zavala, 89), y como observatorio
+de “pasiones, formas, experiencias y luchas del pasado social y cultural encarnadas en nuestro presente” (Zavala, 90). Zavala advierte que, para poder realizar una lectura adecuada del discurso, se hace necesario reconocer, en primer
+lugar, que el universo cultural está interrelacionado en confluencias, reciprocidades, simultaneidades, fronteras sin divisiones, y que el discurso está superpoblado de usos anteriores, saturado de luchas y de usos que cada grupo
+le confiere al signo. La lectura dialógica facilita el desenmascaramiento o la
+desmitificación de los conflictos, las disyunciones, las especificidades, las luchas
+de los signos que forman el sustrato de eso que llamamos “textos de la cultura”
+o “artefactos culturales” (Zavala, 91).
+Con esta perspectiva, resulta importante indagar por lo imaginario social,
+es decir, por el valor cognitivo y la función ideológica del discurso o del texto,
+en tanto acto socialmente simbólico (Zavala, 91). Esto implica también reconocer la compleja red de posiciones que el sujeto tiene a su disposición para
+actuar y para identificarse, siempre en diálogo, abandonando todo esencialismo
+que haga ver al sujeto del discurso como “si fuera de una sola pieza”. En últimas,
+se requiere reconocer el diálogo de ideologías presentes en el discurso, es decir,
+el conjunto de valoraciones y de representaciones que no son ni individuales
+ni universales, la heteroglosia o lucha en la arena social: “[…] los textos están
+cubiertos y penetrados por ideas, tienen miles de hilos dialogales” (Zavala, 95)
+y, revelan, por eso, “una dimensión de nuestro proyecto colectivo y de nuestras
+proyecciones —imaginarios sociales— sobre la historia [...] Se trata de insertar
+el texto en el conjunto de las prácticas sociales”.
+En definitiva, el estudio “dialógico” de “lo imaginario social” que propone Zavala significa fundamentalmente “el compromiso de un nudo de interacciones
+en el cual el sujeto de conocimiento y el sujeto de la comprensión se proponen
+un dominio político de comprensión para hablar del ‘presente’” (Zavala, 98) y
+entender “cómo el pasado habló su presente, y cómo este ‘presente’ del pasado
+ha construido, reconstruido o deconstruido sujetos para crear imágenes oficiales, identificaciones étnicas, de género sexual o de clase [...] para convertir lo
+heterogéneo y conflictivo en homogéneo [...] inventar ‘realidades’, narrar por el
+Otro, violar, violentar, agredir, mentir” (Zavala, 98). 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+40
+I. Narrativas contemporáneas
+Según Zavala, el lenguaje o el signo no puede separarse de su dimensión
+ideológica. Ahora, si el enunciado y el sujeto del discurso son dialógicos, todo
+texto es fundamentalmente dialógico (porque está abierto a valoraciones e
+interpretaciones en el futuro), aunque no tenga necesariamente estructura dialógica (algunos textos son monológicos). De tal manera, que el modo dialógico
+de acercarse a los textos consiste en leerlos a varias voces, reactualizando ese
+pasado del texto en nuestro presente. Esta posibilidad de lectura tiene como
+fundamento una filosofía del lenguaje que lo considera intrínsecamente heteroglósico y al sujeto como inserto en relación de otredad. Por eso el texto requiere
+comprensión activa (“responsividad”, en términos de Zavala) o respuesta activa
+(Zavala, 104).
+Para Zavala, lo que distingue la crítica dialógica de una tradicional es la consideración del discurso como inacabado, la imposibilidad de fijar un significado.
+De modo que el análisis del discurso se convierte en una observación participante de un “campo discursivo” (Zavala, 106), de una “arena”, en la que más
+bien se lucha por esa significación inalcanzable, por la “hegemonía semántica
+y su utopía monológica”, que se manifiesta posteriormente como gran relato o
+como código maestro, pero que sólo tiene un significado relativo y parcial pese
+a su aparente solidez. Así que la labor dialógica exige también poner en duda
+la cadena significante, leer el reverso de la cultura, perseguir los actos fallidos,
+los intereses de los sujetos de enunciación, sus valoraciones (ideologías) y, al
+mismo tiempo, los juegos y conflictos que terminan configurando fórmulas
+hasta ofrecer un sentido. Hacer el debate de los enunciados y mostrar cómo
+éstos no son entes abstractos, sino “eventos en el tiempo y el espacio” que manifiestan antagonismos entre sistemas discursivos.
+Ahora, resulta fundamental caer en la cuenta de que estos conflictos y
+antagonismos no se expresan de manera directa, sino mediada, en cuanto todo
+texto es representación, es decir, elaboración del nivel de la referencia al nivel
+del valor; paso del mundo de la cultura al mundo simbólico, al mundo de las
+ideologías, al mundo de las “mitologizaciones” o de las ficciones (Zavala, 116).
+Y la posibilidad de dar ese paso es la que “contiene” el mundo axiológico o de
+valores que proyectan los textos. O, de otro modo: es la necesidad de exponer
+ese mundo axiológico, de convertirlo en proyecto, de lanzar al mundo real el
+imaginario social, la que posibilita el texto. Es ahí donde resulta útil el concepto
+bajtiniano de “ideologema”, en cuanto la crítica dialógica implica el análisis de
+ideologemas, es decir, los supuestos discursivos, los antagonismos ideológicos,
+las luchas, las proyecciones del imaginario social en el texto, sus reactualizaciones, sus revalorizaciones. 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+41
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+Los ideologemas se pueden leer como inscripciones de los discursos antagónicos, de los universos semánticos, que luchan y polemizan en un momento
+histórico preciso. Pueden leerse como formas ideológicas, imaginarios sociales
+que nos transmiten los signos (Zavala, 117). Todos estos pasos constituyen,
+según Zavala, el camino para una lectura de los signos culturales “como un vasto universo donde se organizan los diferentes discursos (microdiscursos) y representaciones que nos determinan, que nos interpelan, que nos imaginan, que
+nos identifican. Lo heterogéneo nos conduce a todo un mundo heurístico: las
+representaciones colectivas, las ideologías, las mentalidades, la historia cultural
+[...] las voces, los discursos [...] a la vida social de la palabra” (Zavala, 120).
+En síntesis: una crítica dialógica nos permite reconocer las versiones que
+compiten o luchan por legitimar su propio imaginario social o proyecto
+de futuro. Pero esta crítica dialógica, además, es consciente de que ninguna
+lectura es neutra. Para Zavala, no sólo los textos en cuanto concreciones de
+discurso están impregnados de ideología, también los usos, las recepciones. De
+ahí la necesidad de estar atento al texto como intertexto, pero también a nuestra
+propia intertextualidad, es decir, a nuestra propia “no neutralidad”, a nuestro interés ideológico. Esto es, que habría dos elementos simultáneos en toda crítica
+dialógica: por un lado, la “escucha de las voces” del discurso (sus marcas, el proceso de reacentuaciones); pero, a su vez, nuestra propia apropiación, nuestro uso
+particular, nuestra propia escritura, también marcada e impregnada de intereses
+(marcada de acuerdo con nuestra propia situación en el mundo). Dice Zavala:
+“Las preguntas que debemos hacerles a los textos son los usos y las funciones
+que han mediado para asentar identidades, o las réplicas [...] es justamente
+la posición o contexto situacional del texto en el proceso social lo que debiera
+constituirse como objeto crítico” (Zavala, 197).
+Y también lo ideológico, entendido como el sistema de valores puesto en
+juego y definible como conflicto, lucha, simultaneidades, brechas, discontinuidades. De ahí que una labor fundamental consista en el “desenmascaramiento
+de mentiras, falsedades, inconsecuencias lógicas, generalizaciones, contextualizaciones situacionales, reciclajes, usos, imaginarios sociales, deseos de legitimación, utopías latentes [...]” (Zavala, 299).
+Ahora, en el trasfondo epistemológico de una crítica dialógica, está presente
+la consideración del texto como punto de llegada y a la vez de partida: de llegada para el autor y de partida para el lector. El autor estaría “resolviendo” su propia lucha ideológica y presentando al lector su resultado con la escritura de su
+obra; pero el lector hace un uso particular del texto propuesto, acomodándolo a
+su propio imaginario (a su propio sistema axiológico), de modo que la obra 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+42
+I. Narrativas contemporáneas
+se abre y deja de predeterminar un sentido único. Reconocer esos puntos de
+llegada y partida y a la vez jugar con los nuestros es lo que propone una crítica
+dialógica en su fase hermenéutica.
+Pero la crítica dialógica propone también ir más allá: responsabilizarse políticamente de la lectura de un texto, advirtiendo y denunciando sus pretensiones performativas; es decir, poner en la mira toda intención homogenizante
+y universalizante del texto. La crítica dialógica tiene sentido, según Zavala, si
+se emprende con el ánimo de desmontar los mecanismos de exclusión de las
+prácticas significantes no oficiales que puedan estar formulados al interior de
+ella misma. Es decir, que la tarea consiste en rastrear ideologías (o imaginarios
+sociales; para Zavala, son términos equivalentes), a partir de la consideración
+del texto como práctica significante, es decir, como lugar de lucha y de cruce de
+distintos procesos de significación que no estarían completamente controlados
+por el autor (individuo), sino que resultarían del ejercicio e inmersión de ese
+autor en una situación particular que lo habría llevado a resolver, en la escritura
+misma del texto, su propia respuesta ideológica.
+
+No sólo para literatos: usos de la narración
+Según Melucci (2001), no es casual que los desarrollos recientes en el ámbito
+de las ciencias sociales hayan abierto un campo de estudios que hace del discurso y de la narración su objeto privilegiado; no es casual que se haya impuesto la
+idea de que la acción social se halla siempre incorporada en un discurso, el del
+actor y el de los otros. Lo que sucede es que la sociedad actual ha logrado una
+muy alta capacidad de producir representaciones de sí hasta llegar a ser un rasgo
+constitutivo de su acción social, lo que ha producido un giro fundamental de
+enfoque: se prefiere atender y estudiar la acción social en sus manifestaciones
+discursivas antes que en sus dimensiones estructurales. Eso tal vez explica la
+problematización de disciplinas tan definidas en sus dimensiones epistemológica y operativa como la historia y la antropología, ahora tensionadas por
+el imperativo narrativo. Pero también explica las posibilidades que se abren
+para iluminar aspectos de la vida social e, incluso, íntimos de los sujetos contemporáneos. Veamos:
+
+Narración e historia
+¿Es la narración la única manera de dar cuenta de la historia? ¿No condena la narración a la historia, en tanto su medio discursivo y expresivo, a cierta inevitable sensación de ficcionalidad, en detrimento de esas explicaciones 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+43
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+convincentes, justificadoras, portadoras de inteligibilidad y comprensivas del
+presente que pretende la disciplina? Lo que hace problemática la relación entre
+historia y narrativa, según Contursi y Ferro (2006), es el hecho de que la fábula
+de la narración histórica se basa en la reconstrucción del tiempo pasado y la vez
+aspira a instituirse en saber. Una cosa es contar algo y otra es pretender que lo
+contado sea verdad. El recurso a la narrativa que hace la historia no hace sino
+reforzar la ilusión que permite identificar historia con discurso histórico.
+Según Chartier (1992), la conciencia (y la pretendida “reducción”) de la historia como relato, implica, entre otras cosas, la renuncia a las descripciones
+científicas y el desplazamiento de al menos tres dimensiones caras a la concepción tradicional de la historia: por un lado, el desplazamiento de los objetos
+(de las estructuras sociales a los sentimientos y comportamientos); por otro,
+el desplazamiento de los tratamientos (de procedimientos cuantitativos a la
+investigación de particularidades); y, finalmente, el desplazamiento o deconstrucción de la comprensión histórica (de los modelos deterministas a la indeterminación como principio).
+Pero el propio Chartier advierte que parece demasiado apresurado asegurar
+que la historia es sólo narración, pues siguen siendo funcionales formas no
+narrativas de la historia. Existen, según el historiador francés, al menos dos
+formas de entender la idea de que la historia es siempre relato. En primer lugar,
+admitiendo que la intriga es siempre comprensión, y, en segundo lugar, aceptando que la inteligibilidad histórica sólo se mide por la credibilidad de su relato (lo que equivaldría a confesar que explicar la historia es develar su intriga).
+Ahora, si bien la intriga no es una operación retórica sino una operación cognoscitiva sobre la que se fundamenta la inteligibilidad histórica, existen formas
+de escritura narrativa histórica dependientes del tipo de historia; existen, pues,
+distintas inteligibilidades que demandan una narrativa particular y adecuada.
+Es cierto, según Chartier que: 1) existe una relación particular de la historia
+con su material narrativo: la referencia, 2) el carácter inevitablemente narrativo
+de su expresión la puede convertir en un artificio literario; 3) por su carácter narrativo, la explicación histórica parece derivada de los procedimientos y
+modos narrativos y no de la razón histórica; y 4) a pesar de una “objetividad” de
+las técnicas propias de la disciplina (crítica documental, análisis), no se garantiza el control sobre las incertidumbres.
+Por todo esto, Chartier plantea el dilema contemporáneo de la historia así:
+o admitimos la existencia de un margen inevitable de incertidumbre y renunciamos, consecuentemente, a la noción de “prueba” (es decir, renunciamos a la
+creencia de que alguien sea capaz de reproducir la relación pasado-discurso 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+44
+I. Narrativas contemporáneas
+con la única condición de que maneje las técnicas), o tendremos que aceptar el
+relativismo absoluto derivado de identificar historia como ficción, y renunciar
+definitivamente a las certidumbres de la historia como ciencia positiva.
+ Una consecuencia de este golpe a la historia es la emergencia del movimiento literario latinoamericano reciente que pretende afectar y modificar
+la memoria de los hechos históricos a través de lo que algún crítico llama
+la “nueva novela histórica” (Menton, 1993). En efecto, siguiendo a Tomás
+Eloy Martínez (1986), es posible ahora plantear una “batalla de las versiones
+narrativas de la historia”, en la cual, la novela actuaría como dispositivo para
+relativizar la pretendida objetividad del discurso histórico oficial, acudiendo a
+lo que el escritor argentino llama el “principio de ilusión” que guía la narrativa
+literaria; esto es, planteando fábulas verosímiles “alternas” a las oficiales, en las
+que los hechos se narrarían bajo el imperativo de responder a cuestiones como
+“¿qué habría pasado si…?” o “no todo está contado”, e incluso acudiendo a una
+prepuesta de “en lugar de”.
+ En síntesis, y acudiendo de nuevo a Contursi y Ferro (2006), el problema no
+sólo es cómo se escribe la historia, sino qué uso social se hace de ella. Cuando
+se la usa para justificar el poder, estamos en presencia de una manipulación
+del todo repudiable; es lo que sucede cuando se instaura como regla o contrato
+la idea de que el relato histórico narra y no razona, es decir, cuenta las cosas y se
+espera que se acepten como verdaderas y aleccionadoras, cuando se espera que
+el relato histórico no se discuta porque, supuestamente, su autoridad emana de
+su propio discurso.
+Narración y antropología posmoderna
+En su libro Antropología, posmodernidad y diferencia (1997), el antropólogo
+colombiano Alejandro Castillejo plantea que la antropología interpretativa
+o posmoderna, a partir del vuelco hermenéutico propuesto por Geertz, del
+planteamiento de los problemas de la autoría y de sus relaciones con el poder
+desarrollados por Clifford, de la vinculación con lo aleatorio y caótico que plantea Shrweder y del rompimiento del espejo que propone Tyler, constituye una
+propuesta capaz de deconstruir la concepción de la ciencia como herramienta
+imperialista y de dar legitimidad a la representación de otros imaginarios y
+de otras maneras de concebir el mundo. Su exigencia de reconstituir la forma
+como se escribe, de dispersar al autor y de incluir a los que no han hablado, su
+cuidado de no generalizar y su culto por la diferencia son elementos todos que
+refuerzan la consideración del discurso como problema de la representación 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+45
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+y del poder. Veamos una síntesis de los problemas con que se enfrenta la antropología posmoderna en relación con las dificultades de expresión narrativa
+de sus objetos.
+ Para algunos antropólogos contemporáneos como Geertz, la cultura puede
+tratarse como texto, es decir, como objeto susceptible de interpretación, en la
+medida en que la cultura y sus expresiones simbólicas públicas pueden asimilarse (de manera análoga a un texto literario) a un universo autorreferente y a
+la vez mediado por una lógica que podríamos llamar “metafórica”. La diferencia
+con lo literario es que la “autoría” de ese desplazamiento metafórico está sustentada colectivamente y, sin embargo, expresa, como en lo literario, un “fluido
+emotivo” que se convierte en forma de cognición. Pero el problema para Geertz
+no consiste solamente en identificar esta metáfora (Castillejo, 1997), sino en
+responder por qué significa. En síntesis, Geertz plantea la necesidad de una
+interpretación semiótica de la cultura, en la medida en que la cultura se puede
+comprender como conjunto de símbolos expresados en comportamientos o hábitos de pensar, particulares de cada sociedad. Pero este tipo de interpretación
+deviene también político, en cuanto el resultado suele ser la identificación de
+jerarquías estratificadas y el hallazgo de estructuras significativas particulares:
+El interés de Geertz es buscar el significado que determinado acto (colectivo o
+individual) tiene para quienes participan.
+ Ahora, esta orientación hacia la funcionalidad del actor es la que lleva a
+Geertz a buscar una legitimación del pensamiento de ese “otro” y a romper el
+vínculo con una lógica de la descripción, propia de la ciencia moderna, cuya
+mirada es básicamente etnocéntrica. La validez de la alteridad tiene varias
+implicaciones: por un lado, al momento de la observación, exige una participación, esto es, el acercamiento del sujeto al objeto; por otro, una deconstrucción
+de las pretensiones universalistas del conocimiento, en la medida en que sólo
+es posible generalizar dentro de casos particulares; y, finalmente, obliga a la
+reconfiguración del autor y de la escritura, es decir, de la fase de exposición
+narrativa misma.
+ Así, las reflexiones que Geertz plantea no sólo se encaminan hacia el interés
+en la interpretación y en la vida social como documento actuado, sino en los
+aspectos de creación retórica específica de la etnografía, sobre su autor y la
+relación que éste guarda con su producción o con lo que finalmente autoriza.
+Esta orientación del trabajo etnográfico, lleva a Geertz a valorizar la polifonía
+y la heteroglosia (lo intersubjetivo y heterogéneo propios del encuentro etnográfico), es decir, el conjunto de voces, y a darle su estatus, tanto en la fase de
+observación, como en la de exposición.
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+46
+I. Narrativas contemporáneas
+Revisando los postulados de otro antropólogo “posmoderno”: Shrweder
+(quien desarrolla el problema de la validez de la alteridad), Castillejo llega a
+otro corolario: la antropología posmoderna se ve en la necesidad de incluir en
+su programa la aceptación de otras formas de concebir el mundo como las que,
+desde la racionalidad científica, se conciben como no-lógicas, o, en términos de
+Shrweder, las concepciones extralógicas; lo que implica un problema adicional: ¿cómo se debe construir el dominio de las expresiones simbólicas de esos
+comportamientos extralógicos a partir de una arbitrariedad inicial: el interés y
+visión de mundo del observador? “Quizá el conocimiento del marco del otro
+está más lejos que nunca y la comparación de dicho marco se reemplaza por
+algo que no es otra cosa que una pretensión”, afirma Castillejo; de modo que el
+discurso no podrá hacer nada ni ayudar a comprender lo que, según Shrweder,
+no es sino un acto de fe.
+En últimas, ante la arbitrariedad del código cultural, al antropólogo no le
+queda más remedio que conjeturar significados, exponerlos en función de un
+contexto; pero, en todo caso, resulta imposible presentar causas o leyes, so pena
+de ser acusado de colonialista. Todo lo cual obliga a reformular las prácticas
+intelectuales inherentes a la observación participante, tarea que emprende el
+tercer autor estudiado por Castillejo: James Clifford.
+Clifford propone una tarea propiamente dialógica: legitimar un proceso en
+el que los interlocutores negocian una visión compartida de la realidad. Frente a la oscilación del antropólogo entre el aquí y el allá, el texto etnográfico
+debe configurarse como un tejido híbrido entre el uno y el otro; lo que conduce
+a una nueva forma de autoría, llamada por estos antropólogos “autoría dispersa”, autoría que deja transparentar la voz de ese otro. La “autoría dispersa”, en
+su intento por mostrar la diferencia, incluye ahora la experiencia personal, la
+dialogía y la polifonía entendida como descentración del discurso.
+Un paso final en la constitución de esta antropología posmoderna lo realiza el
+antropólogo Stephen Tyler, quien denuncia la relación entre ciencia e ideología
+con la siguiente sentencia: toda idea de objetividad es una práctica ideológica.
+El problema que, según Castillejo, plantea Tyler es el siguiente: ¿cómo
+dejar que se exprese por sí misma la alteridad sin la mediación interesada de la
+ideología de la descripción? ¿Cómo crear una nueva textualidad, sin centro de
+gravedad, sin voz principal, sin el totalitarismo del consenso del yo que habla
+por ellos? Y Tyler responde: para destruir ese totalitarismo, se debe extender
+el campo semántico o la polisemia, liberando al significante de la economía
+del discurso, rompiendo el espejo, superando la utopía cognitiva que quiere
+transformar la irracionalidad subjetiva en subjetividad objetiva. Destruyendo el 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+47
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+observador trascendental, cambiando el estilo por la retórica, a la razón por la
+emoción, al texto sin sujeto y al sujeto sin texto, liberando al otro de toda descripción sujeta al poder, abandonando la pretensión de un control del discurso
+por parte del autor ¿Pero no es esto ya pura literatura, o mejor, oralitura?
+Etnotexto y oralitura
+El término oraliteratura se ha utilizado para promover alternativas significantes
+cuando un tipo de texto tiene una filiación genéticamente oral y cuyos territorios de origen y circulación pertenecen a la “baja cultura”, donde las formas
+de expresión no son las de la literatura universal o las de la filosofía. Se constituye así el propósito de acercar etnografía y literatura, un objetivo especialmente
+útil cuando se requiere expresar el despliegue narrativo propio de los colectivos
+“observados” ¿No son ellos mismos, se pregunta Niño (1997), exploradores de
+fronteras? ¿No son ellos a la vez etnógrafos y literatos, expositores de un discurso
+y un saber que se supone y que a la vez permite reconocer al otro y entonces
+autorreconocerse uno mismo?
+Los textos de estos grupos son textos de alta ritualización; ejercen un tipo
+especial de comunicación, una función transformativa de la realidad manifiesta;
+también son una comunicación de sentimientos propios. Claro: todo esto, afirma Niño, supone problemas metodológicos: ¿cómo componer un texto “letrado” o científico que hable con eficacia de los manejos del cuerpo, del espacio
+físico, de los ritos, de la secretividad misma, de la complicidad puesta en escena?
+¿Cómo involucrarse, cómo interactuar, cómo hacer que se acepte un reconocimiento y una intertextualización, cómo dejarse permear?
+La percepción del investigador nunca es neutra y la ficción deviene siempre en
+búsqueda insistente de sentidos. Pero aún más: la significación se constituye
+en varios grados. Para el narrador y para los receptores del contexto natural
+es un valor. Lo que se dice es y la narración restituye lo que se cuenta. Pero
+habiendo un receptor ajeno, la narración transforma su perfomancia (¿no hay,
+acaso, algo de simulación en toda encuesta, en toda entrevista? ¿No transitamos
+los investigadores un desvío, un atajo?). ¿Cómo reconocer los silencios, las complicidades, los secretos? ¿Cómo transmitir el texto vivo (eso que se vive en el
+texto)? ¿Cómo restituir la memoria comunitaria, como interpelar al otro a través de sí mismo, cómo superar el enmascaramiento en la reescritura, como trasladar un texto en otro que no es el primario, pero que debe su filiación a él?
+Surge, asevera Niño, de todas estas inquietudes la necesidad de construir
+un texto que sea leal al otro, pero que sea él mismo también. Moverse entre 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+48
+I. Narrativas contemporáneas
+sistemas epistemológicos y lógicos diferentes. Flexibilizarse, hibridizarse, poner
+en juego una circularidad deseable: de lo oral a lo lineal a lo escrito: la oralitura.
+Nación y narración
+Autores como Benedict Anderson, Anzaldúa, Fanon y Bhabha7
+ han abordado
+el concepto de nación para deconstruir las formas naturales o automáticas de entenderlo (territorio, identidad) y han propuesto sucedáneos como comunidad
+imaginada (Anderson), estado del alma (Anzaldúa), identidad cultural (Fanon)
+y narración (Bhabha). Se trata de una original y muy productiva manera de
+mostrar el poder de los relatos. Anderson, por ejemplo, analiza el papel de la
+literatura y de otros artefactos culturales como los periódicos, los mapas, los
+censos y los museos, para demostrar cómo ellos contribuyen a la creación de
+comunidades imaginadas. Anzaldúa habla de la nación como constituida por
+y en la lengua, la literatura y las manifestaciones culturales como los mitos, las
+tradiciones y las comidas. Bhabha, entre tanto, se pregunta por los modelos
+narrativos que expresan la nación, y desarrollando un complejo análisis narrativo, se pregunta, por ejemplo, por ¿quién habla por quién?, ¿qué narrativas expresan la ideología de la nación? y ¿cómo afectan la identidad nacional aspectos
+como la raza, el género y las clases?
+En un país como el nuestro, donde la identidad no se alcanza a consolidar
+en los términos en que otras sociedades lo lograron, la cuestión “nación y narración” permanece vigente. Es curioso que el discurso “patria” (promovido por
+el movimiento conservador de la Regeneración) haya vuelto por sus fueros en
+nuestros días después de más de un siglo de haber perdido vigencia en favor
+precisamente de la pretendida y nunca lograda identidad nacional (promovida
+por los liberales responsables de los procesos de modernización de mediados
+del siglo xx). ¿Nunca pudimos salir de las identidades regionales? ¿Hemos pasado directamente a la vivencia global? ¿Qué tanto refleja estos dilemas la literatura colombiana?
+Narración y terapia
+El psiquiatra español Ricardo Ramos, en su libro Narrativas contadas,
+narraciones vividas. Un enfoque sistémico de la terapia narrativa (2001), nos
+ofrece un magnífico ejemplo de utilitarismo narrativo. Asume como punto
+de partida el “giro posmoderno” hacia la narrativa como valor fundamental
+7 Citados por Liliana Ramírez en su libro Entre fronteras: latinoamericanos y literaturas (36-38).
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+49
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+que aprovecha el concepto de verdad narrativa en el psicoanálisis, por la cual, en
+el campo de las terapias cognitivas, se ha trasladado el acento de la interacción a
+la historia. Historia que cuenta el paciente sobre su sufrimiento y que es forzada a una co-construcción de una historia alternativa que ofrezca posibilidades
+distintas de la de justificar la posición y la actitud ante el problema.
+ Esta corriente se ha propuesto comprender a fondo lo que es narrar, en su niveles canónico y complejo, entender cómo se entreteje el pasado en la narración
+autobiográfica, apreciar lo no dicho y lo que no hay que decir, diseñar pactos
+comunicativos sutiles y, sobre todo, aprender a escuchar, para, finalmente, sistematizar la deconstrucción de la historia y construir la terapia.
+ Se trata de una manera muy original de aprovechar la narración, ese insumo,
+para ampliar y adecuar los recursos terapéuticos en función de una terapia narrativa anclada en la experiencia y en la vida.
+
+Conclusiones
+El protagonismo narrativo contemporáneo no es sino el efecto de uno de los
+desplazamientos ocasionados por lo que algunos llaman el “giro posmoderno”; un desplazamiento que consistiría en admitir que el discurso/pensamiento
+narrativo es más efectivo que el discurso/pensamiento paradigmático (siguiendo aquí la famosa tipología de Bruner), es decir, admitir que nuestra contemporaneidad acoge con mayor aprecio las verdades contingentes y las lógicas particulares que las verdades universales y las conexiones generales. Desplazamiento
+que se suma a otros muy evidentes hoy, entre los cuales se pueden nombrar los
+siguientes: el desplazamiento entre lo culto y lo popular, el desplazamiento de
+la frontera entre producción y consumo y el desplazamiento entre realidad y
+ficción.
+Nuestra cultura contemporánea rebate la visión dicotómica cultura popular/
+cultura erudita, a favor de una actitud comprensiva, mediante la cual resulta
+legítimo reconocer lo popular desde fuentes eruditas o percibir dinámicas de
+lo erudito desde fuentes populares, como los testimonios. Pero este desplazamiento necesariamente lleva a una segunda deconstrucción que resulta de igual
+modo importante: el rechazo de la partición producción/consumo. Y es que,
+como afirma Chartier, “[…] anular la ruptura entre producir y consumir es
+afirmar que la obra no adquiere sentido más que a través de la estrategia de
+interpretación” (Chartier, 37). Finalmente, con el último desplazamiento, la deconstrucción de la frontera realidad/ficción, la posmodernidad pone en juego tal
+vez su concepción más radical: ningún texto, ningún discurso tiene una relación 
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+50
+I. Narrativas contemporáneas
+transparente con la realidad. Los textos son representaciones (mediaciones) y
+las lecturas son apropiaciones, interpretaciones. Hay que prestar igual atención
+tanto al aspecto material de la producción como al del consumo, olvidándonos
+de que el texto inscribe por sí mismo y es suficiente dador de sentido, y de que
+sólo hay lecturas homogéneas. Esta diferencia es muy importante y de alguna
+manera fundamenta el ejercicio de la crítica dialógica.
+ Pero habría aún más: con el surgimiento de los medios masivos y de las
+nuevas tecnologías, otros desplazamientos latentes se consolidan: el libro es
+desplazado por el hipertexto (media), la presencia por la virtualidad y, en fin,
+la naturaleza por la tecnología. Es en este ambiente en el que hay que volver
+a pensar la narrativa, ya no como canal privilegiado del también formato privilegiado de la literatura, sino como espacio para ocupar por medios, estéticas,
+sueños, necesidades, aunque también por intereses oscuros. c
+
+Obras citadas
+Bruner, Jerome. Realidad mental y mundos posibles. Barcelona: Gedisa, 1994.
+Castillejo, Alejandro. Antropología, posmodernidad y diferencia. Bogotá: SI Editores, 1997.
+Chartier, Roger. El mundo como representación: estudios sobre historia cultural.
+Barcelona: Gedisa, 1992.
+Contursi, María Eugenia y Fabiola Ferro. La narración: usos y teorías. Bogotá:
+Norma, 2006.
+García Canclini, Néstor. Culturas híbridas. Estrategias para entrar y salir de la
+modernidad. México: Grijalbo, 1989.
+Garrido D., Antonio. El texto narrativo. Madrid: Editorial Síntesis, 1996.
+Hunter, James. La estética de lo posible. Cine y literatura. Bogotá: Ecran Ediciones, 2002.
+Kristeva, Julia. El texto de la novela. Tr. Jordi Llovet. Barcelona: Lumen, 1974.
+Kundera, Milan. El arte de la novela. Tr. Fernando de Valenzuela y María Victoria Villaverde. México: Vuelta, 1988.
+Lyotard, Jean-François. La condición posmoderna. Tr. Mariano Antolín Rato.
+Madrid: Cátedra, 1989.
+Martínez, Tomás Eloy. “La batalla de las versiones narrativas”. Boletín Cultural
+y Bibliográfico xxiii. 8 (1986), 21-32.
+Cuadernos de Literatura c Bogotá, Colombia c V.14 c Nº 26 c julio - diciembre c 2009 c 14-51
+51
+Asedio a las narrativas contemporáneas. Jaime Alejandro Rodríguez Ruiz
+Melucci, Alberto. Vivencia y convivencia. Teoría social para una era de la información. Edición de Jesús Casquete. Madrid: Editorial Trotta, 2001.
+Menton, Seymour. La nueva novela histórica de la América Latina. México:
+Fondo de Cultura Económica, 1993.
+Mires, Fernando. La revolución que nadie soñó. O la otra posmodernidad. Caracas:
+Nueva Sociedad, 1996.
+Niño, Hugo. Etnopoesía del agua: Amazonía y litoral atlántico. Bogotá: Universidad Javeriana, 1997.
+Ong, Walter. Oralidad y escritura. Tecnologías de la palabra. Tr. Angélica Sherp.
+México: Fondo de Cultura Económica, 1987
+Ramírez, Liliana. Entre fronteras: latinoamericanos y literaturas. Bogotá: Universidad Javeriana, 2005.
+Ramos, Ricardo. Narrativas contadas, narraciones vividas. Un enfoque sistémico de
+la terapia narrativa. Barcelona: Paidós, 2001.
+Rincón, Omar. Narrativas mediáticas. Barcelona: Gedisa, 2006.
+Rodríguez, Jaime Alejandro. El relato digital: hacia un nuevo arte narrativo. Bogotá: Editorial Libros de Arena, 2006.
+_____. Narratología: para el estudio y disfrute de las narraciones. Bogotá: Universidad Javeriana, 2004.
+Ryan, Marie-Laure. La narración como realidad virtual. Barcelona: Paidós,
+2004.
+Santamaría, Luisa. El comentario periodístico. Los géneros persuasivos. Madrid:
+Paraninfo, 1990.
+Steimberg, Oscar. Semiótica de los medios masivos. Buenos Aires: Atuel, 1993.
+Zavala, Iris. Escuchar a Bajtín. Madrid: Montesinos, 1996.
+Copyright of Cuadernos de Literatura is the property of Pontificia Universidad Javeriana and its content may
+not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written
+permission. However, users may print, download, or email articles for individual use.

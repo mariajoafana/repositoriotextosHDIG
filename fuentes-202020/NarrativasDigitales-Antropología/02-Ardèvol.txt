@@ -1,0 +1,909 @@
+Recibido: abril 2014. Aprobado: septiembre 2014.
+Visualidades y materialidades de lo digital:
+caminos desde la antropología*
+Elisenda Ardèvol y Débora Lanzeni
+Universitat Oberta de Catalunya
+Resumen
+En este artículo presentamos una reflexión sobre cómo estudiamos lo
+digital desde una perspectiva antropológica y exploramos cómo se han
+planteado cuestiones como la diversidad cultural, las desigualdades
+sociales y las posibilidades de cambio y transformación social vinculadas con las tecnologías digitales. Proponemos que es necesario
+abrir un debate sobre las conceptualizaciones de lo digital y cuáles son
+las categorías que utilizamos para describir los procesos de cambio
+y continuidad en lo cotidiano, así como el papel de las tecnologías
+en ellos. Este planteamiento nos lleva a cuestionarnos cómo los etnógrafos y etnógrafas hemos explorado las complejas relaciones entre
+las prácticas locales, los tránsitos globales y las tecnologías digitales;
+para ello, abordamos algunos caminos que ha tomado el abordaje de
+los aspectos materiales y visuales de lo digital en la creación cultural
+y en los medios de comunicación y nos preguntamos sobre la manera
+en que incorporamos lo digital en nuestra propia práctica etnográfica
+y producción de conocimiento antropológico.
+Palabras clave: cultura digital, etnografía, antropología, visualidad,
+materialidad.
+ANTHROPOLOGICA/AÑO XXXII, N.° 33, 2014, pp. 11-38
+* Esta publicación forma parte del trabajo realizado en la red VICOM (Visualidades Compartidas)
+red de investigación y docencia en antropología visual, nuevos medios y tecnologías digitales en el marco de la diversidad cultural, y financiado por el AECID (Agencia Española de
+Cooperación Internacional para el Desarrollo) AP/039226/11.
+12
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+Digital Visualities and Materialities: paths for an anthropological walk
+Abstract
+This paper discusses digital technologies from an anthropological
+perspective, concentrating on ways in which cultural diversity,
+social inequality and the possibilities of change and social
+transformation have been discussed. We examine the ways in
+which the digital domain has been conceived, categories used to
+describe processes of change and continuity in everyday life, and
+the impact of digital technology on these. This approach leads us
+to question up how ethnographers have explored the relationships
+among local practices, global transits and digital technologies, and
+the material and visual aspects of the digital in cultural production
+and media communication. Finally, we discuss how to incorporate
+digital technologies in ethnographic practice and anthropological
+knowledge.
+Keywords: Digital culture, ethnography, anthropology, visuality,
+materiality.
+13
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+La perspectiva antropológica en el estudio
+de la cultura digital
+La antropología, desde sus orígenes y basándose en las investigaciones etnográficas, siempre se ha ocupado de estudiar el cambio social, la vida cultural y
+simbólica de las sociedades y sus distintas dimensiones: política, religión, economía, tecnología, ecología, etcétera (Guber, 2006). Actualmente, las tecnologías
+digitales forman parte de la vida cotidiana de muchas personas, al mismo tiempo
+que «lo digital» acompaña el desarrollo de nuevas tecnologías y artefactos y
+abre nuevos espacios sociales, nuevas formas productivas, de control social y de
+relacionarse, generando continuidades y discontinuidades en nuestras maneras de
+«estar en el mundo». Así pues, lo digital tiene que ver con las formas de hacer y
+con las transformaciones sociales, aspectos que enlazan claramente con el objeto
+de estudio tradicional de la antropología. Entonces, el conocimiento antropológico
+es fundamental para entender los procesos sociales y culturales que se vinculan
+con las tecnologías digitales, y esto no es ajeno a que en los últimos años se haya
+producido un creciente interés de la disciplina por los procesos, el cambio social
+y las redes (Fischer, 2005).
+Sin embargo, persiste una fuerte tendencia por señalar la tecnología como
+una esfera de producción autónoma que impacta en nuestras vidas y a la cual se
+atribuye la causa de los cambios sociales que experimentamos. Nuestra propuesta
+es, precisamente, no estudiar la tecnología como algo separado de la vida, sino
+partir de una conceptualización antropológica anclada en una metodología etnográfica, donde la tecnología se comprende como parte integrante de la actividad
+social y como proceso y producto cultural (Malinowski, 1975; Mauss, 2009).
+Es por ello que, a pesar de que algunos autores, como Leslie White (1982), 
+14
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+propusieron pensar la tecnología como categoría analítica clave para explicar
+la evolución cultural, aquí preferimos atender a cómo lo digital interviene en la
+creación de tecnología a la vez que, precisamente, articula nuevas concepciones
+sobre lo que es tecnología y lo que esta puede hacer por nosotros.
+Para iniciar este camino de exploración antropológica de lo digital, partiremos
+de una noción instrumental de cultura digital, entendiéndola como las cosas que
+la gente crea, hace, dice, piensa o experimenta con bits. Es decir, entenderemos
+lo digital como un proceso relacionado con las unidades de información que circulan entre nosotros en diferentes formatos, generando con ello continuidades y
+discontinuidades en las formas de hacer, pensar y experimentar cosas como las
+relaciones sociales, el arte, la política, la producción, el intercambio de bienes...
+e incluso en las formas de entender ciertas categorías que parecían estancas,
+como lo material, la privacidad, el espacio o la temporalidad, así como los flujos
+de información que emergen de estos procesos y las dinámicas que generan.
+De este modo, situaremos la exploración etnográfica sobre lo digital como parte
+de las etnografías de las sociedades contemporáneas y de las etnografías de la
+contemporaneidad (Crapanzano, 2004; Budka, 2011).
+Es decir, consideramos que, por una parte, lo digital puede surgir en cualquier
+objeto de estudio considerados tradicionales de la antropología, como las etnografías
+sobre procesos migratorios, comunidades rurales, etnicidad, antropología económica
+y del trabajo, antropología de la religión, relaciones de género u otros, ya que, prácticamente en todas las esferas de la organización social, política o económica, lo
+digital puede estar presente de una forma u otra en la vida de la gente, y por tanto,
+no lo podemos obviar en nuestras etnografías. Por otra parte, entendemos que lo
+digital está en el centro de nuevas formas sociales, como por ejemplo la emergencia
+de nuevos sectores productivos y formas de trabajo asociadas a las industrias tecnológicas (Silicon Valley), o formas culturales específicas de la cultura digital, como
+los videojuegos, las redes sociales o las comunidades virtuales, por no hablar de
+otros procesos más amplios, como la digitalización de las ciudades y de nuestro
+sistema ecológico por medio de sensores interconectados a la red (Smart Cities o
+Internet of Things). En ambos casos, lo digital forma parte del objeto antropológico
+y enlaza con los temas clásicos de la antropología; lo digital no es un objeto de
+estudio aparte o desvinculado de los problemas de la antropología general.
+En los últimos años se ha conformado una amplia agenda de los temas y
+objetos de estudio que serían característicos de lo digital: desde expresiones
+propias y sujetas a la existencia de tecnologías digitales hasta propuestas metodológicas para investigar en los nuevos medios, Internet o teléfonos móviles, 
+15
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+así como las nuevas prácticas relacionadas con estos (Horst y Miller, 2012).
+Desde la antropología, lo digital se ha abordado desde distintas perspectivas que
+podríamos aunar en tres grandes líneas. La primera, como el advenimiento de una
+nueva cultura o cibercultura debido a los cambios significativos en la naturaleza
+de la vida social a raíz del desarrollo de las tecnologías informacionales y biológicas (Escobar, 1994; Levy, 1994; Slater, 2002). La segunda, como una forma
+cultural emergente que surge en un espacio social nuevo —el ciberespacio—,
+donde tienen lugar nuevas categorías y normas sociales (Boellstorf, 2008).
+Aquí es interesante traer a colación la etnografía sobre Second Life de
+Boellstorff (2008), porque es una etnografía realizada enteramente en un medio
+digital —el juego de realidad virtual Second Life— y porque es uno de los primeros
+intentos desde la antropología de pensar diferentes premisas teóricas y metodológicas para el estudio de un mundo digital. Boellstorf estudia la vida dentro de
+Second Life como una dimensión de la experiencia separada y en retroalimentación con la vida cotidiana en el mundo real y sostiene que, para investigar estos
+mundos virtuales, debemos adaptar la etnografía a través de nuevas técnicas y
+nuevos preceptos que puedan dar cuenta de la exclusividad de las prácticas digitales. La distinción entre real y virtual no está dada de antemano sino que surge
+de la propia actividad de los actores por marcar las diferencias entre el mundo
+virtual del juego y la experimentación con el mundo real de la vida cotidiana.
+Así, el mundo virtual es el producto de una construcción activa (worlding) de los
+participantes, tal y como también señalan Leander y McKim (2003).
+La tercera se centraría en las prácticas culturales, en el sentido de estudiar
+las imbricaciones entre las esferas online y offline de la vida cotidiana, como el
+estudio de Miller y Slater (2000) sobre la adopción de Internet entre los habitantes
+de Trinidad. En esta última dirección, uno de los caminos tomados ha sido estudiar
+el uso y la apropiación de la tecnología digital por parte de distintos colectivos.
+Por ejemplo, los trabajos de Faye Ginsburg sobre cómo las comunidades indígenas
+crean sus propios medios de comunicación, sus páginas web y usan las cámaras
+digitales en su organización social o para representarse a sí mismos hacia el
+exterior (Ginsburg, 2008), mientras que otros autores han analizado la cuestión de
+la brecha digital, el cambio social y el determinismo tecnológico, indagando cómo
+determinada tecnología afecta las prácticas culturales, económicas y políticas de
+un grupo social concreto, así como genera —o repara— diferencias en el acceso
+a bienes materiales y simbólicos; por ejemplo, el estudio del uso de móviles en
+comunidades aimaras agropecuarias en Perú (Tacchi, 2006). Finalmente, una
+cuarta —pero no menos importante— aproximación a lo digital como objeto de 
+16
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+estudio antropológico ha sido el estudio de los propios creadores de tecnología
+y desarrolladores de código y de los colectivos que hacen de la producción y uso
+intensivo de estas tecnologías el centro de su vida, como los hackers (Kelty, 2008;
+Coleman, 2005) o los gamers (Nardi y Harris, 2006). Si bien la relevancia de
+estas agendas de investigación por explorar los aspectos completamente nuevos
+que traen las tecnologías digitales es innegable, hay que explorar también cómo
+se ha articulado lo digital en estos campos de estudio en relación con la tradición
+antropológica y a partir de qué enfoques o categorías analíticas se ha encauzado
+su abordaje etnográfico.
+Etnografías en y de lo digital
+A continuación presentamos un amplio panorama de los distintos enfoques de
+las etnografías que han tomado como punto de partida el estudio de lo digital,
+siguiendo para ello la tipología propuesta por Gabriela Coleman. Esta autora
+(2010) distingue tres tipos de aproximaciones etnográficas, tres formas de mirar
+las complejas relaciones entre las prácticas locales, las implicaciones globales de
+lo digital, sus materialidades, sus políticas, su banalidad, así como su presencia
+en la vida cultural y en los modos de comunicación. Estas son: (i) las etnografías
+centradas en las políticas culturales de los medios digitales, entendiendo por ello
+el estudio de la producción, circulación y consumo de representaciones culturales vinculadas con la construcción de la identidad, con los flujos y políticas
+transnacionales o con las condiciones de acceso y regulación de la red; (ii) las
+etnografías de lo prosaico de los medios digitales, que hace referencia a las prácticas cotidianas con los medios y a la experiencia vivida por las personas, a las
+condiciones materiales que los sostienen, y a los géneros narrativos que generan,
+y (iii) las etnografías sobre las culturas vernaculares de los medios digitales que
+describen las prácticas, temas, modos de comunicación y grupos que se originan
+y dependen enteramente de las tecnologías digitales para su existencia: productores de materialidades digitales y de sentidos culturales, y la forma en que estas
+«culturas digitales» se enlazan con antiguos debates sobre libertad, democracia,
+derechos civiles, subjetividad, gobernanza, etcétera.
+Etnografías de los medios digitales
+Gran parte de las etnografías sobre Internet y las tecnologías digitales toman
+una perspectiva teórica de la tecnología como medio de comunicación, tanto las 
+17
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+orientadas hacia el análisis de las políticas de la representación como las que
+estudian los usos y apropiaciones en la vida cotidiana. Siguiendo a Coleman
+(2010), muchos de estos estudios etnográficos de los medios digitales localizan y
+particularizan el papel que juegan en la construcción de mundos socioculturales
+las identidades de grupo y sus representaciones, los protocolos de intercambio
+económico, los géneros comunicativos y la experiencia fenomenológica. Por
+otra parte, al considerar Internet como otro medio de comunicación, muchos de
+estos estudios se centran en analizar las políticas de la identidad, las formas de
+autorrepresentación y la producción creativa de los usuarios, hasta el análisis de
+los medios digitales como nuevos espacios sociales para el mantenimiento de las
+identidades colectivas transnacionales o en diáspora.
+Así, las diversas etnografías sobre los medios digitales en la vida cotidiana
+—enfoque prosaico o representacional— comprenden desde el uso de Internet
+para el activismo de las asociaciones de vecinos en las urbanizaciones malayas
+(Postill, 2008), de los sindicatos tradicionales (Barassi y Fenton, 2011) o de los
+movimientos sociales (Treré y Barassi, 2012) y las radios piratas de frecuencia
+digital (Dunbar-Hester, 2009), hasta la endoenculturación de los hijos de Silicon
+Valley (Ito et al., 2006), el uso de Facebook en Manila (Miller, 2011), las prácticas de la fotografía digital (Gómez Cruz, 2012), el rol del teléfono móvil para
+el desarrollo social (Horst y Miller, 2006) o la autorrepresentación de los grupos
+indígenas en Internet (Ginsburg, 2008) y las prácticas mediáticas de los jóvenes
+en YouTube (Ardèvol y San Cornelio, 2007). Pero en esta gran diversidad se
+pueden delinear dos perspectivas dominantes sobre los medios digitales: la que
+entiende los medios digitales como un médium para y la que los entiende como
+un nuevo agente social per se.
+La perspectiva que denominamos médium para incluye los trabajos que
+examinan cuestiones relacionadas con la representación, por ejemplo, cómo han
+elaborado los grupos indígenas —generalmente con la ayuda de los etnógrafos
+y organizaciones no gubernamentales— bases de datos digitales, proyectos
+multimedia interactivos y mapas culturales para representar, distribuir y a veces
+también incluyen diversos motivos culturales, normas, valores y folclor (Coleman,
+2010). Otros trabajos incluidos en este corpus serían los que los académicos
+han identificado como ontologías digitales, que mapean las estructuras de las
+comunidades, las prioridades y los problemas desde la propia perspectiva de los
+actores. Estos mapas, que a menudo pasan por alto la necesidad de las formas
+tradicionales de la alfabetización digital, proveen nuevas representaciones visuales
+de conocimiento antropológico, así como recursos para la comunidad que estas 
+18
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+pueden usar tanto en litigios políticos o en debates culturales gubernamentales
+(Navarro-Smith, 2010).
+Estos proyectos digitales y sus narrativas académicas sostienen un nuevo
+capítulo en la tendencia de «desoccidentalización de los estudios de los medios»
+(Ginsburg, 2002; Coleman, 2010). En este marco, los trabajos de Ginsburg y
+Nakamura son destacables y también se deslindan de la corriente exclusivamente
+representacional —es decir, la línea de representar la cultura en los medios
+digitales— y proponen un análisis crítico de la circulación y producción de
+representaciones visuales de cuestiones tradicionales, raciales, étnicas e identitarias en la red (Nakamura, 2007; cf. Ginsburg, 2008). Por ejemplo, Nakamura
+cuestiona la intensificación estandarizada del tipo blanco-masculino de los
+usuarios online y el uso y creación de los cibertipos raciales en los juegos online
+(Nakamura, 2002). Por su parte, Ginsburg pone en cuestión cómo aparecen los
+indígenas representados en un mundo mediático y cómo los nuevos medios,
+a su vez, son el marco perfecto para revalidar antiguas hegemonías y generar
+nuevas formas arbitrarias de incorporar a los indígenas en las narrativas digitales
+(cf. Ginsburg, 2008).
+Desde otra perspectiva, focalizada en la producción etnográfica e indagando sobre la agencia de los medios digitales, se han realizado trabajos que
+los contemplan como un actor per se en la edificación de la vida social. Entre
+estas etnografías, podemos incluir la de Daniel Miller (2011) sobre el uso de
+Facebook en Manila o la de John Postill (2008) sobre el activismo banal en
+Internet de las asociaciones de vecinos en Malasia, como ejemplos de trabajos
+antropológicos que intentan indagar sobre la forma en que las redes sociales y
+los medios digitales confluyen con las prácticas habituales, al mismo tiempo
+que les otorgan nuevas características. Tanto el trabajo de Miller y Sinanan
+(2014) sobre el uso de cámaras webs para la comunicación entre familias y
+migrantes como el estudio de Senmartin (2013) sobre la participación política a
+través de las redes sociales de los migrantes en su país de origen, la etnografía
+de Tenhunen (2008) sobre el uso de los teléfonos móviles entre las mujeres
+de la India rural y la de Lennie y Tacchi (2012) sobre el rol de los teléfonos
+móviles en el desarrollo socioeconómico —también en la India— se inclinan a
+entender los medios digitales en su doble sentido: como medios para el cambio
+social al mismo tiempo que como nuevos actores en las prácticas y los discursos
+socioculturales.
+19
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+Etnografías vernaculares de lo digital
+Entrando en lo que Coleman (2010) denomina el enfoque etnográfico vernacular
+de lo digital, uno de los trabajos pioneros ha sido la etnografía sobre el movimiento
+del software libre que realizó Christopher Kelty en Silicon Valley. Este estudio
+etnográfico sobre las prácticas de un grupo de desarrolladores en entornos Open
+Source destaca por su argumento en contra de la comprensión del movimiento
+del software libre como una organización política programática, proponiendo en
+cambio entenderlo como una articulación de las diversas prácticas que los programadores hacen cotidianamente: compartir información, colaborar para mejorar
+la evolución de la codificación, etcétera. Este autor sugiere el uso del término
+movimiento para designar uno de los cinco componentes básicos del software
+libre: la práctica de la argumentación y el desacuerdo sobre el significado del
+software libre (Kelty, 2008, p. 46).
+El problema y los sujetos de esta etnografía solo pueden entenderse como
+emergentes de lo digital, es decir, existen solo a partir de las tecnologías digitales
+y las prácticas que estas conllevan. Al mismo tiempo, siguiendo a Kelty, vemos
+que estos colectivos comparten prácticas con otros grupos que adoptan lógicas
+propias de lo digital —por ejemplo, con los movimientos sociales vinculados con
+la «Cultura Libre»— que trasladan las prácticas productivas de software libre a
+otras esferas de la producción cultural y creativa (cine, música, artes visuales,
+etcétera). En los últimos años los ejemplos etnográficos en el estudio de la cultura
+vernacular digital abundan (cf. Coleman); sin embargo, ciertos trabajos se tornan
+más relevantes al postular las características que lo vernacular digital aporta a las
+problemáticas sociales actuales. El trabajo de Coleman sobre la cultura hacker
+entre los miembros del proyecto de código libre Debian —así como su investigación posterior alrededor de anonimus— arroja luz en tres direcciones: discute
+la idea de una ética hacker y ubica las prácticas hackers en un sentido amplio
+dentro del discurso liberal, indicando a su vez la existencia de muchas morales
+hackers vinculadas con los colectivos de pertenencia (software libre, hacktivismo,
+hacker viral). De este modo, las prácticas hackers están en relación directa con
+la sociabilidad de los actores, es decir, con la creación de relaciones personales
+y el tiempo compartido.
+Esto es un componente fundamental que aúna a los diferentes practicantes
+en comunidad, a la vez que propone que la escritura de código en la práctica
+hacker es una forma de discurso político, más que una actividad técnica o económica. Estas cuestiones comportan profundas implicaciones que rearticulan las 
+20
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+consideraciones sobre la práctica política y la creación tecnológica. El trabajo
+de Coleman (2005) relata cómo la política informal del hacking cotidiano sirve
+para esclarecer estratégicamente algunas de las distinciones más sedimentadas
+entre los derechos políticos (libertad de expresión) y las formas de propiedad
+(licencias copyright para líneas de código de software). Esta autora aborda una
+cuestión que preocupa a muchos investigadores sociales: la relación entre la
+esfera política y la económica, pero lo hace desde una práctica —la de hackear
+(cf. Lanzeni, 2013)— que se instituye solo a través del software y las reglas
+prácticas que este trae aparejadas. Siguiendo lo planteado anteriormente, esta
+autora conecta y explica desde las prácticas vernaculares, un cambio cultural en
+la sociedad estadounidense que, sin atender a las prácticas y a la materialidad de
+lo digital, no sería posible analizar y hacer visible.
+En el sentido de estudiar los cambios sociales relacionados profundamente
+con la cultura digital, nuestro propio trabajo sobre la cultura libre se concentra,
+justamente, en los aspectos de lo digital que se extienden, funden y se conforman
+con los procesos de creación cultural vigente, desmarcando así una línea divisoria
+categórica entre lo digital y lo no digital. Nuestra investigación —específicamente dos trabajos etnográficos realizados en torno a grupos de Cultura Libre1
+en Barcelona— propone un enfoque centrado en la vida cotidiana de las personas
+vinculadas con la cultura libre, privilegiando las nociones y las prácticas que
+configuran un modo de vida y una particular concepción del mundo y de la tecnología. A partir de examinar, por un lado, las prácticas de desarrollo de software,
+así como de tecnologías para la creación y nuevos artefactos que posibiliten las
+actividades de los grupos (Lanzeni, 2013), y por otro lado, la producción audiovisual y las herramientas sociotécnicas —como el crowdfunding, software libre,
+redes sociales, etcétera— para producir, realizar y dar a conocer los trabajos
+audiovisuales de los colectivos en torno a la Cultura Libre (Ardèvol, 2013), estos
+estudios señalan temáticas que hoy atraviesan y cuestionan las formas económicas y sociales de la producción cultural, tales como la expertise específica que
+moviliza tanto las formas de entender el espacio, la sociabilidad entre personas y
+los lenguajes y conocimientos de un «estar en el mundo digital», como los modos
+1 El movimiento de Cultura Libre propone reformular el concepto de propiedad intelectual que
+domina el circuito de la cultura, proponiendo un cambio en la regulación de la producción
+cultural en sus relaciones de producción y sistemas de intercambio, al menos por lo que se
+refiere a la circulación de lo que entendemos por bienes culturales y conocimientos para permitir abrir el enorme potencial de creación que posibilitan Internet y las tecnologías digitales,
+tomando como modelo el movimiento del software libre (Ardèvol, 2013).
+21
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+de vincularse con la tecnología y la materialidad. Y esto conduce a explorar etnográficamente las relaciones que se establecen entre la cultura digital y las ideas
+del bien común en un particular contexto de la «sociedad en red» por un proceso
+de mundialización y cambio cultural centrado en los valores de la autonomía, la
+flexibilidad y la comunicación (Castells, 2002).
+Los trabajos aquí citados sobre grupos, prácticas, artefactos y sociabilidades
+propias de lo digital son claros ejemplos de que cada vez más lo que se entendía
+como un dominio específico de los medios digitales, dado que su génesis se
+encuentra allí, está involucrado y se expande en otras esferas tanto de la vida
+cotidiana como de las formas sociales y las prácticas culturales. Sin embargo, el
+interés creciente desde la antropología por las prácticas, sujetos, modos de comunicación y los grupos completamente engarzados con las tecnologías digitales
+para su existencia debe ir acompañado por un replanteamiento de los conceptos y
+categorías analíticas que permiten explorar y hacer visibles estas configuraciones
+en y de lo digital. De este modo, el método etnográfico puede proporcionar un
+entendimiento más vasto e inclusivo de lo que se entiende por cultura y por
+medios digitales, así como la generación de nuevas diferencias y desigualdades.
+La producción de la diferencia en lo digital
+En este apartado trataremos sobre cómo podemos abordar la cuestión de las diferencias culturales y las desigualdades sociales desde el análisis antropológico de lo
+digital y cómo se relacionan con el cambio social. Por una parte, y como ya hemos
+visto, la producción antropológica y los estudios etnográficos han cuestionado
+la asunción de lo digital como un proceso de homogeneización y reducción de
+la diversidad a un solo modelo cultural. Por otra parte, han problematizado el
+acceso a Internet como factor de desigualdad social y han cuestionado el papel
+unidireccional otorgado a la tecnología en los procesos de cambio social.
+La noción de diversidad cultural suele estar asociada con los procesos históricos
+de sedimentación de identidades colectivas que han sido definidas a partir de categorías como cultura, pueblo, nación o etnia, así como ciertas diferencias culturales
+se pueden entender también como el producto de las desigualdades sociales dentro
+de una misma sociedad, como puede ser la clase social, el género o las divisiones
+etarias. Lo digital no es ajeno a la producción de igualdades, desigualdades y de
+diferencias culturales en las sociedades que estudiamos. Aún más, los contextos
+en los que trabajamos indican que al respecto no hay una diferencia esencial entre
+lo digital y otro tipo de producción cultural en las sociedades contemporáneas. 
+22
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+La aproximación antropológica se ha detenido, por una parte, en analizar cómo
+estas diferencias se reproducen en los espacios sociales virtuales (cf. Nakamura,
+2002 y 2007), mientras que otros estudios se han centrado en el análisis de desigualdades y diferencias específicas de los mundos virtuales, como las normas
+o netetiqueta que rigen en las comunidades virtuales y la aparición de nuevas
+categorías sociales en estos espacios (trollers, newbies, spamers, lurkers, etcétera).
+Finalmente, otros estudios se han volcado en el análisis de las posibles transformaciones sociales que conlleva la creación digital, como el sentimiento de
+empoderamiento de las mujeres al poder ejercer la libertad de expresión en los
+medios digitales (Ardèvol y Gómez, 2012) o el uso de las redes sociales digitales
+como forma de empoderamiento de los pueblos indígenas u originarios (Grillo,
+2006), así como los estudios de empoderamiento de jóvenes en riesgo de exclusión
+social a través de la autorrepresentación y creación de redes constituidas por los
+medios digitales y de otros espacios de relación (Feixa, Romani y Hakim, 2012).
+Sin embargo no debemos circunscribir esta noción de diversidad cultural a
+estos términos (como diferencias previas a lo digital o diferencias exclusivas de
+los mundos digitales). De hecho, cuando estudiamos lo digital nos encontramos
+con que la diversidad cultural también se manifiesta en las distintas formas de
+producir y consumir la información que circula en la red, en las distintas formas
+de conocimiento experto en el modo de producir contenidos y tecnologías y en las
+distintas formas de acceso a la información (materiales y de capital simbólico).
+Por un lado, lo digital no es ajeno a la producción de desigualdades sociales ni
+actúa de forma mágica en la eliminación de las desigualdades sociales previas,
+pero por otro, existe potencialmente —no de forma determinante ni tampoco
+inherente al contacto con las tecnologías de la información y comunicación
+(TIC)— la posibilidad de reconfiguración de estas desigualdades vigentes a través
+de un nuevo vínculo con las tecnologías digitales y la adquisición de nuevas
+habilidades (DiMaggio y Hargittai, 2001).
+La forma en que se conectan la diversidad cultural digital y la diversidad
+cultural predigital suele ser a través de las desigualdades sociales predigitales,
+que en la agenda de las políticas de cambio social se suelen leer a partir de dos
+claves básicas: acceso y brecha digital. A partir de un común entendimiento
+difusionista de la tecnología, el término digital divide (brecha digital) se instala
+en las políticas sociales de la década de 1990 para referirse a los distintos niveles
+de acceso y uso de las TIC por distintos países, regiones y capas poblacionales
+(Hilbert, 2010). La idea generalizada es que la brecha digital es consecuencia
+de otras brechas sociales, y que dando acceso a las tecnologías digitales a las 
+23
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+poblaciones más desfavorecidas se potenciará su desarrollo económico y social.
+De este modo, el acceso a la tecnología y la capacitación tecnológica se ven como
+una vía de inclusión social y de empoderamiento.
+Las expectativas sobre el potencial democratizador de Internet se basan en
+el entendimiento de que el acceso a la información igualará a los individuos
+de una sociedad. Sin embargo, este supuesto no permite ver que la producción
+de la información sigue siendo de una élite, que el acceso material y el control
+de la red están en manos de grandes compañías, y que el procesamiento de la
+información sigue dependiendo del capital cultural que las personas tienen.
+No obstante, el potencial del uso de las tecnologías digitales para tejer y destejer
+desigualdades sociales es palmario. De este modo, recientemente se habla más
+bien de desigualdades digitales para incluir no solo cuestiones de acceso, sino
+también desigualdades de uso y habilidades (DiMaggio y Hargittai, 2001).
+La capacitación en el uso de las TIC en las poblaciones rurales puede suponer el
+acceso a nuevos nichos de trabajo, como es el caso de los programas de formación
+vinculados con empresas teleoperadoras en el Perú. En este caso, la inclusión en las
+TIC garantiza la entrada a formar parte del precariado del sistema capitalista contemporáneo, pero también puede favorecer otro tipo de inclusiones, como el acceso
+a formación universitaria a distancia (Gómez-Seguel, 2011). La caracterización de
+la inclusión digital se mueve alrededor de dos ejes, dependiendo de si la alfabetización digital se orienta hacia la formación de productores o de consumidores de
+tecnología; en otras palabras, si las desigualdades digitales son conceptualizadas
+en términos de acceso o en términos de habilitación para la producción.
+Pero, más allá del modelo igualitario y de acceso abierto que propugna
+Internet, debemos tener en cuenta que tanto las tecnologías de telefonía móvil
+como las empresas productoras están basadas en tecnologías propietarias y
+proveedores comerciales (Gurumurthy, 2010). La fórmula a mayor acceso
+(o conectividad), menos brecha digital y cultural es, pues, reduccionista, en tanto
+que elude otras cuestiones relacionadas con el acceso a la red, su apertura y su
+control, así como pasa por alto otros modos de circulación y de acceso diferentes
+de los de la propiedad capitalista y del libre acceso (Rifkin, 2000).
+Desde una aproximación antropológica, debemos ser cautos con cómo se
+conceptualizan las transformaciones culturales y el cambio social relacionados
+con lo digital. Por todo lo dicho, categorías como brecha digital, nativo digital
+o identidad digital no son categorías analíticas útiles, sino que esencializan una
+distinción entre los procesos culturales que ocurren en lo digital de la multiplicidad de procesos que se producen en la experiencia de la vida de las personas. 
+24
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+Sin embargo, estas categorías se intentan imponer de forma acrítica como soluciones y guías de políticas y agendas de investigación; como un nuevo escenario
+y un nuevo remedio ante las desigualdades. Desde nuestra perspectiva, una
+forma de renovar el pensamiento antropológico sobre la relación entre la cultura
+y el acceso en lo digital es a través de replantear la forma en que pensamos la
+visualidad como forma de conocimiento, y vincular las formas de hacer visibles
+las relaciones con la materialidad de las prácticas y no con la representación de
+las identidades, en una analogía con las estrategias en el campo del patrimonio
+nacional y la repatriación cultural, cuyas políticas deben dar cuenta de las propiedades materiales de los medios de comunicación, de las historias coloniales,
+y de la multiplicidad de protocolos para la organización del conocimiento.
+Visualidad y materialidad
+Desde hace unos años, la creación audiovisual está en el corazón de la producción
+cultural en los medios digitales. Por ello es que en gran parte de las investigaciones
+sobre los medios prepondera el análisis de las representaciones, las imágenes y
+los discursos visuales, y no es de extrañar que buena parte de la aproximación
+antropológica a lo digital se haya realizado por investigadoras e investigadores
+procedentes de la antropología visual y de los medios de comunicación (Pink,
+2009, 2012)2
+. Particularmente, el paradigma representacional se hace presente de
+forma imperiosa en lo que respecta al estudio de la diversidad cultural, la etnia
+y las cuestiones identitarias en relación con Internet (Ginsburg, 2008). Nuestra
+propuesta aquí es que la agenda para el estudio de la diversidad cultural en lo
+digital no puede reducirse a un análisis de la representación de lo cultural en los
+medios digitales. Al abordar el estudio de las políticas culturales de representación
+en los medios digitales, proponemos formas de análisis que no se detengan ante
+la representación, sino vincular lo visual con la cultura material y la producción
+de ontologías (de formas de estar en el mundo).
+Siguiendo a Anderson y Harrison, se trata de no separar el mundo de sus
+significados o representaciones, de evitar la división entre las representaciones
+y el mundo real (2010, p. 6). El enfoque representacional, particularmente la
+forma de análisis textual de lo visual, se traslada al análisis de lo visual digital
+2 Ya Deborah Poole, al principio de la década de 2000, señalaba que estaba sucediendo una apertura
+del paradigma representacional en antropología visual: «Los antropólogos se han alejado de
+la preocupación por la representación per se a favor de más complejos paisajes discursivos y
+políticos promovidos por los conceptos de los medios comunicación y el archivo» (2005, p. 1).
+25
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+en el estudio de la representación en las webs nativas: como los indígenas se
+presentan, se representan y son representados en los medios. Esta misma aproximación se toma para los estudios de las imágenes que circulan y se construyen
+en los medios sobre eventos y acciones en los que participan nativos, migrantes,
+colectivos excluidos, etcétera, y se extiende a otras dos dimensiones de análisis
+que son centrales cuando estudiamos la digitalidad: la creación de significado
+e interacción simbólica, por un lado, y la relación de interdependencia de todos
+estos factores en el contexto social más amplio, por el otro (Ginsburg, 2008).
+La representación, lo digital y los cucapá
+Un caso donde ejemplificar las limitaciones del enfoque representacional es el
+de los cucapá. Alejandra Navarro-Smith (2008, 2011 y 2013) ha estudiado en
+profundidad el conflicto que mantienen los cucapá en relación con su derecho
+para pescar en su territorio histórico: el delta del Río Colorado que desemboca en
+el Golfo de California, en Baja California, México. Este conflicto tiene su origen
+en la superposición de dos normas jurídicas: una que mantiene el área del delta
+del Río Colorado como zona núcleo de reserva de la biosfera, y otra que declara
+que los habitantes indígenas de la región tienen derecho al uso preferencial de los
+recursos naturales que se encuentran en su territorio (ver Navarro-Smith, 2012).
+La pesca con red y embarcaciones con motor fuera de borda es la manera en que
+los cucapá se vienen ganando el sustento cotidiano, pero se les impide pescar
+porque se argumenta que esta pesca no se realiza de la manera tradicional, y
+que, por lo tanto, no pueden reclamar los derechos de las poblaciones indígenas
+(Navarro-Smith, 2012, pp. 15-19).
+Esta situación ha generado numerosos reclamos de defensores de derechos
+humanos, abogados especialistas en derecho medioambiental de los pueblos
+indígenas y de los mismos cucapá en organismos y cortes internacionales, alegando que los distintos organismos (Secretaría de Medio Ambiente y Recursos
+Naturales, la Comisión Nacional de Acuacultura y Pesca y la Dirección de la
+Reserva de la Biosfera Alto Golfo y Delta del Río Colorado), apoyados por la
+Procuraduría Federal de Protección al Ambiente (Profepa) y la Marina Armada,
+no les permiten pescar y los detienen si los divisan mientras están desarrollando
+esta práctica (Navarro-Smith, 2010, 2012). Esta circunstancia ha despertado el
+interés de múltiples medios de comunicación que han cubierto el caso, lo que ha
+dado lugar a que este grupo tenga una alta visibilidad en estos medios digitales
+y que los cucapá reflexionen, a su vez, sobre la importancia que la presencia de
+las cámaras en sus reivindicaciones (ver Navarro-Smith, 2012). En este conflicto 
+26
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+surgen tres aspectos relevantes para nuestro planteamiento: cómo ellos son representados en los medios, cómo se representan a sí mismos ante sus interlocutores,
+y su vínculo con la digitalidad en su vida cotidiana.
+Los cucapá son representados en los museos antropológicos o instituciones
+culturales mexicanos como un grupo étnico perteneciente a los yumanos, pueblos
+indígenas de Baja California, y suelen aparecer en las web de estas instituciones
+a partir de fotografías y dibujos atemporales, sin contexto social actual, rodeados
+de objetos tradicionales, con muy pocos atuendos y bajo una lista de características físicas y culturales que los describen; eternizados como objetos de archivo.
+Para reclamar sus derechos a la pesca ante las administraciones, los cucapá se
+adornan con elementos tradicionales que no usan en su vida cotidiana —excepto
+en festivales tradicionales donde participan danzando o cantando— y que solo
+usan como estrategia de visibilización de su condición indígena. Así ataviados
+con sus trajes típicos aparecen en distintos medios digitales, como los vemos en
+esta foto tomada durante la audiencia pública ante la Comisión Interamericana de
+Derechos Humanos en Washington en 2008, en la que los representantes cucapá
+explicaron el conflicto ante las delegaciones mexicanas y representantes de los
+organismos internacionales3
+.
+Figura 1. Web de la exposición
+Yumanos: Jalkutat, el mundo
+y la serpiente divina, Museo
+Nacional de Antropología,
+México.
+3 Estas fotografías fueron tomadas en Washington D.C. durante la audiencia por personal de la
+Comisión Interamericana de Derechos Humanos titulada «Derecho al uso y aprovechamiento
+de los recursos naturales y consulta previa respecto al pueblo indígena cucapá en México»,
+del 133 período de sesiones (22 de octubre de 2008). El audio completo de la audiencia y
+todas las fotografías de la sesión están disponibles en línea (www.oas.org/es/cidh/audiencias/
+Hearings.aspx?Lang=En&Session=9).
+27
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+Figura 2. Los cucapás compareciendo ante la
+Comisión Interamericana de Derechos Humanos,
+Washington, octubre de 2008. Fuente: www.oas.
+org/Photos/2008/10oct/34/index.htm
+El principal motivo de esta escenificación de sí mismos es reforzar el
+argumento de que son población indígena y que, por tanto, tienen derecho a la
+pesca tradicional. Sin embargo, y al mismo tiempo, esta representación de una
+identidad étnica anclada en el pasado contribuye a mantener el estereotipo indigenista asistencialista que los infantiliza ante la administración y que hace que
+los cucapá reales aparezcan como un pueblo asimilado, que pesca con lanchas y
+usa camionetas para el comercio y beneficio propio (Navarro-Smith, 2012, p. 85).
+Sin embargo, su vida cotidiana transcurre al margen de estas representaciones
+oficiales que niegan la posibilidad de una coexistencia entre los modos de vida
+tradicionales y las tecnologías modernas como parte del modo de ser y de vivir
+cucapá. Para ellos, no hay contradicción en el uso de lanchas a motor y la reivindicación del derecho que como cucapá tienen a la pesca en su territorio histórico,
+como tampoco entre sus formas familiares de pesca y el uso de teléfonos celulares.
+Es más, los teléfonos celulares forman parte de su cotidianidad y son un elemento
+clave de sus estrategias para organizarse y avisar de la llegada de la Profepa, la
+Marina o cualquier otro tipo de autoridad que les impida desarrollar la práctica
+de la pesca, su principal actividad de subsistencia. A través de los celulares,
+usando mensajes de texto o llamados y enviando fotos se avisan de la cercanía
+de los guardas costeros, de cómo está la pesca, de las averías, etcétera, tal y como
+se aprecia en la fotografía realizada durante el trabajo de campo de Alejandra
+Navarro-Smith. Los teléfonos celulares aparecen también en las historias que se
+cuentan los niños, hasta tal punto que en un programa social de realización de
+videos participativos, estos construyen un video animado en el cual la solidaridad
+tradicional de grupo se moviliza a través del teléfono móvil y logran evitar el
+arresto y decomiso de la pesca de uno de sus familiares.
+28
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+Figura 3. Celular. Foto de Susana Huer, un día de
+pesca, 2008.
+Los cucapá, más allá de cómo son representados por otros y por ellos
+mismos, organizan su vida cotidiana conexionada de diversas formas a la
+tecnología digital, de manera que los celulares forman parte de su manera
+de tejer redes sociales y alianzas. Por ello un análisis que priorice el aspecto
+representacional de lo digital en la vida de ellos no solo sería incompleto,
+sino que excluiría una parte central de su relación con los medios digitales.
+En este ejemplo se cruzan tanto distintas políticas de representación de una
+misma realidad étnica como la incapacidad de comprender solo desde una perspectiva representacional los procesos que imbrican las distintas dimensiones de la
+vida social y cultural de las personas. Procesos que no pueden ser explicados en
+sinécdoque, sino que requieren dar a conocer toda la complejidad que los especifica,
+todas las formas de estar, ser, pensar y usar que incluyen (y son con) lo digital.
+Lo digital material o lo visual no representacional
+Varias corrientes, como el constructivismo social, la teoría no representacional,
+el nuevo materialismo, el ontologismo o la teoría del actor-red discrepan de los
+análisis que entienden los procesos de creación de significado solo como representaciones. La corriente no representacional, particularmente, postula que este
+tipo de análisis pone el foco en dimensiones como el discurso, la ideología o el
+orden simbólico separándolas de los puntos centrales de la vida social como las
+dinámicas, los espacios y la temporalidad (Thrift, 2008). La contrapropuesta es
+una mirada procesual y práctica, que entienda el foco de creación de significado
+como una variedad de acciones e interacciones. Esto cobra particular relevancia
+cuando se trata de la producción visual y los análisis visuales sobre los medios
+digitales, porque en gran medida el paradigma generalizado para este fenómeno
+sigue siendo el representacional.
+29
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+La perspectiva representacional está marcada particularmente por dos movimientos: el binomio saussureano de la división entre significado y significante
+y el conjunto de las formas y representaciones sociales durkhemianas. La idea
+que subyace a este enfoque es que tras las representaciones hay un objeto —una
+cosa, persona, relación, etcétera— real preexistente y que la representación es
+una expresión simbólica de este. Y si ese algo real, como en el caso anterior de
+los cucapá, no coincide con la representación, entonces es que o la representación
+es incorrecta o los cucapá reales ya no son lo que eran; se han aculturado, han
+perdido sus raíces. En ambos casos, los cucapá quedan deslegitimados para exigir
+a la administración un trato diferenciado como pueblo originario. En cambio, si
+lo entendemos desde un paradigma no representacional, lo que hacen los cucapá
+al presentarse con los trajes tradicionales es vincular su pasado con su presente.
+El significado de la imagen no proviene tanto de su lugar en un orden simbólico
+que de su actuación en contextos contingentes y prácticos. Las imágenes, en este
+sentido, no son expresiones o representaciones de ciertos significados culturales,
+valores o modelos, sino que son acciones prácticas (enactments), en las cuales lo
+simbólico es solo una parte (Anderson y Harrison, 2010, p. 9).
+De este modo, una de las promesas de la mirada no representacional es dar
+cuenta de cómo se gesta y se articula lo social en lo visual y material. Así pues,
+planteamos un estudio de lo visual desde una perspectiva que se aleja de la lectura
+semántica y bidimensional y que intenta pensar más allá de lo representacional
+para acercarse a la vida cotidiana —social y cultural— de las personas, a sus
+prácticas y a su pragmatismo.
+Una de las cuestiones centrales a desarrollar, tomando la perspectiva no
+representacional, es la inclusión de la materialidad dentro de la ecuación medios
+digitales, visualidad y diversidad. Hay que pasar del análisis de la representación
+a una perspectiva ontológica de la cosa y de las prácticas con las cosas; es decir,
+en nuestro caso, al estudio de la materialidad digital y de la génesis de la producción digital.
+Por una parte, en el estudio de lo visual, el aspecto material ha estado principalmente supeditado a la producción y reproducción de la imagen, es decir
+al soporte técnico (película, emulsionante, hardware, software, etcétera) y al
+sistema de visionado (pantallas, dispositivos). Por otra parte, la cuestión de la
+materialidad se ha entendido generalmente como un proceso de hacer visible
+—cristalizado en el contenido de las imágenes— el orden simbólico, social,
+las estructuras de poder, etcétera (Poole, 1997). Entonces, las condiciones de
+la materialidad se remiten a la concepción de la materia cartesiana, al carácter 
+30
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+tangible de las cosas, así como a un reflejo —más que una representación— de lo
+que entendemos como nuestro mundo material en las imágenes que producimos
+y en lo que vemos (Lorimer, 2005).
+Desde hace algunos años, investigadores en tecnología digital y de los medios,
+como Dourish y Bell (2011), Coleman (2010), Miller (1998) o Leonardi (2010),
+llaman la atención sobre otras características de la materialidad que emergen de
+las prácticas y la creación de medios digitales. La primera tiene que ver con las
+características propias de la materialidad digital, entendida como infraestructura
+y la imagen digital como un nuevo tipo de objeto compuesto de bits que puede
+circular y reproducirse en la red prácticamente de forma infinita. La segunda
+tiene que ver con el desarrollo de tecnologías visuales digitales que proyectan
+imágenes en el espacio y que pueden ser interactivas, como la realidad virtual, la
+realidad aumentada, las imágenes interactivas o las imágenes proyectadas sobre
+superficies tridimensionales (video mapping)4
+. Finalmente, una tercera hace
+referencia a la transformación de los propios objetos a los que incorporamos
+tecnologías digitales de manera que puedan comunicarse entre sí a través de la
+red (Internet de las cosas). Podríamos decir que se trata en todos estos casos de
+la creación de materialidades digitales que acompañan el desarrollo de nuevas
+visualidades y que nos obligan a repensar la relación entre lo visual y lo material
+desde una forma no categórica (no como categorías separadas o complementarias).
+En un intento de repensar las formas de investigar actualmente la cultura
+visual, Gillian Rose y Tolia-Kelly (2012) editaron un libro con trabajos que cruzan
+la cultura visual y la cultura material. El argumento central es que lo visual y
+lo material deberían entenderse en continuo diálogo y como co-constitutivos.
+Si bien a Rose y Tolia-Kelly lo que les interesa es cómo en las prácticas y los
+temas de investigación de lo visual y lo material han interactuado, también se
+preocupan por el papel que juega la tecnología en esta interacción: «Se trata de
+una configuración de la práctica de lo visual y material en la investigación que
+se desenvuelve, perturba y se conecta con los procesos, prácticas y tecnologías
+incorporadas» (Rose y Tolia-Kelly, 2012, p. 3). Es desde este entrelazamiento
+que partimos para incluir factores que nos ayuden a entender como las diferencias
+4 El video mapping es una técnica de proyección que puede convertir casi cualquier superficie
+en una pantalla de video dinámica e interactiva. Esta técnica, especialmente cuando se hace
+en código abierto, implica la coordinación de un sofisticado software y hardware en tiempo
+real, lo que significa que la proyección es a la vez una performance técnica y artística que
+tiene lugar en un evento único que moviliza una gran cantidad de experiencia, gente y cosas
+(Lanzeni, 2013).
+31
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+sociales, las desigualdades, la producción cultural, interactúan con la visualidad
+y la materialidad y lo digital antes que buscar, de forma determinista o reduccionista, lo que tecnología digital le imprime al mundo.
+Una forma de abordar este entrelazamiento podría ser aprender a aprender
+de nuestros propios interlocutores en el campo. Ingold sostiene que «aprendiendo
+a aprender, para los antropólogos, como para los profesionales de cualquier otra
+disciplina, significa sacudir, en lugar de aplicar, las ideas preconcebidas que de
+otro modo podrían dar forma prematura a sus observaciones» (Ingold, 2013,
+p. 2). Aprender cómo hacer las cosas que ellos hacen, aprender de cómo piensan
+las cosas que hacen y aprender de las cosas mismas en su contexto etnográfico
+(Holbraad, 2011) nos posibilita a desarrollar conceptos y categorías analíticas que
+nos habiliten a pensar de forma no reduccionista; es decir, sin imponer nuestras
+propias preguntas al campo.
+La materialidad del mapping
+Nuestro trabajo de campo puede servir aquí como un ejemplo por antonomasia
+de este asunto: diseñadores de software haciendo un mapping. La práctica de
+crear un mapping pone en juego varios niveles de expertise y dimensiones de
+interacción con y en la tecnología digital, con y en las imágenes. Las actividades
+de codificar, diseñar, crear, editar y proyectar interconectadas crean un evento
+de video mapping. Pero además de estas, existe un universo que las rodea, las
+instituye y las posibilita; en palabras de Ingold: «El proceso de creación es
+inseparable de la matriz total de relaciones en el que está inmerso y en la que se
+extiende, y cuyo desarrollo es constitutivo del proceso de la vida social misma»
+(2007, p. 9).
+Figura 4. Video mapping sobre una catedral. Foto:
+Telenoika.
+Figura 5. Codificando el mapping en el taller.
+Foto: Débora Lanzeni.
+32
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+Las imágenes que se crean en el mapping son inseparables de las concepciones
+de la vida y de las formas de conocer y de cómo producir cosas de los desarrolladores, aspectos que, si bien no son inherentes a la práctica de hacer mapping,
+es en la serie de actividades que este requiere donde emergen y son plausibles
+de ser comprendidos para el investigador.
+En nuestro caso, las nociones de prácticas colaborativas y de open source5
+imbuyen todo el proceso creativo, así como entendimientos comunes que vienen
+del mundo del software libre. Se programa utilizando código abierto para que
+cualquiera pueda utilizar y continuar el software; al mismo tiempo el código se
+extrae y comparte en repositorios comunitarios —generalmente de comunidades
+de programadores que están interesados en el mismo tipo de software, pero no
+necesariamente—, sosteniendo así un proceso abierto y colaborativo y un producto
+final sin autoría privativa. De esta forma, colaborar y compartir son prácticas no
+discursivas que contienen un importante mensaje: cómo se hacen las cosas es tan
+importante como lo que se hace.
+La segunda cuestión que emerge de este ejemplo es la particular relación entre
+código, materialidad, espacio y personas. En la práctica de mapping, al proyectar
+imágenes en el espacio físico a través de un software, se evidencia la intervención
+del código en el espacio y en la vida de las personas que interactúan en él y con
+él. En palabras de Kitchin y Dodge (2011) aparece un espacio/código y, al mismo
+tiempo, la acción humana que está detrás del software. Como señalan los autores,
+el código impregna nuestra materialidad y nuestra vida más mundana. Está en
+todos lados: en las compras que realizamos, en los aviones que tomamos, en las
+visitas al médico, en los semáforos, en los vehículos, en las comunicaciones,
+etcétera. La ubicuidad del código es actualmente una parte cardinal, aunque
+invisible de la vida cotidiana, entretejido y entretejiendo objetos, espacios y
+personas (Ingold, 2008). Esto, que se visibiliza rotundamente cuando se estudian
+desarrolladores de software —pero no en otros casos o en la simple instancia de
+vivir— desafía la concepción de Internet como una esfera experiencial separada
+y la idea de lo digital como ajeno a lo material.
+5 Open source es una filosofía que promueve el acceso universal vía licencias libres al código
+fuente del software (blueprint, etcétera).
+33
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+Caminos para transitar la diferencia
+Lo que hemos intentado aquí, a lo largo de los distintos caminos, ha sido pensar
+desde una mirada en la que confluya el recorrido de los estudios visuales, lo
+digital y la materialidad, de modo que nos permita entender cómo se gestan
+los procesos de creación de la diferencia en las sociedades contemporáneas, y
+cómo en las cuestiones sobre tecnología digital se redefinen las viejas luchas
+socioculturales a la vez que se abren nuevos entendimientos sobre la visualidad,
+la materialidad y la acción política. Nuestro esfuerzo ha radicado en realizar un
+movimiento epistemológico desde la etnografía para estudiar la contemporaneidad
+y la complejidad de lo digital en el seno de las cuestiones y debates clásicos de la
+antropología. No hemos tratado, pues, de elaborar categorías analíticas especiales
+para pensar lo digital, sino analizar etnográficamente cómo lo digital configura
+y forma parte de las realidades contemporáneas y abre, más que cierra, las preguntas sobre cómo operan las categorías básicas de pensamiento como materia,
+espacio, persona, diferencia, desigualdad, cambio y continuidad, al enfrentarse
+al entendimiento de lo digital.
+Así, hemos tratado de desactivar la imposición de categorías preconcebidas
+sobre qué es lo digital y permitir que las cosas y las palabras emerjan desde la
+propia producción de conocimiento de las personas que las incorporan en su vida
+cotidiana y que las manejan y las crean, para de este modo, renovar la relación
+activa y prolífica entre campo y teoría. Espacio, tiempo, materialidad, acción,
+proceso… no son categorías estancas, sino más bien fluyen con la humanidad
+en curso. Es parte de nuestro trabajo captar y poner al servicio de la etnografía
+el sentido que cobran para nosotros, para nuestros interlocutores y para las cosas
+que los guían. Al igual que nosotros, la antropología, la etnografía, la tecnología
+digital, la desigualdad, la experiencia, la visualidad y la materialidad están
+en este mundo y no son ajenas a transformarse, variarse, repetirse o redefinirse.
+La cuestión es, como ya hemos dicho, dotarlas de sentido para producir un conocimiento insondable y transformador.
+Referencias bibliográficas
+Anderson, Ben y Paul Harrison (eds.) (2010). Taking-place: non-representational
+theories and geography. Surrey: Ashgate Publishing Ltd.
+Ardèvol, Elisenda (2013). Cultura digital y prácticas creativas: tientos etnográficos
+en torno a la cultura libre. Barcelona: IN3-Working Paper Series.
+34
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+Ardèvol, Elisenda y Edgar Gómez-Cruz (2012). Cuerpo privado, imagen pública:
+el autorretrato en la práctica de la fotografía digital. Revista de Dialectología
+y Tradiciones Populares, 67(1), 181-208.
+Ardèvol, Elisenda y Gemma San Cornelio (2007). Si quieres vernos en acción:
+­YouTube.com. Prácticas mediáticas y autoproducción en Internet. Revista
+­Chilena de Antropología Visual, 10, 1-29.
+Barassi, Verónica y Natalie Fenton (2011). Alternative media and social networking
+sites: the politics of individuation and political participation. The ­Communication
+Review, 14(3), 179-196.
+Boellstorff, Tom (2008). Coming on age in Second Life. Princeton, NJ: Princeton
+University Press.
+Budka, Phillipe (2011). From cyber to digital anthropology to an anthropology of the
+contemporary. Seminario Interno Lista MediaAnthropology. Recuperado de
+http://www.mediaanthropology.net/index.php/e-seminars
+Castells, Manuel (2002). The Internet Galaxy. Oxford: Oxford University.
+Coleman, Gabriella (2005). The social construction of freedom in free and open
+source software: hackers, ethics, and the liberal tradition. PhD Dissertation,
+Department of Anthropology, University of Chicago.
+Coleman, Gabriella (2010). Ethnographic approaches to digital media. Annual Review
+of Anthropology, 39, 1-16.
+Crapanzano, Vincent (2004). Imaginative horizons; An essay in literary-philosophical anthropology. Chicago: The University of Chicago Press.
+DiMaggio, Paul y Eszter Harigittai (2001). From the «digital divide» to «digital
+inequality»: Studying Internet use as penetration increases. Working Paper
+15, Summer. Princeton: Center for Arts and Cultural Policy Studies.
+Dourish, Paul y Genevieve Bell (2011). Divining a digital future: mess and mythology
+in ubiquitous computing. Cambridge: The MIT Press.
+Dunbar-Hester, Christina (2009). «Free the spectrum!» Activist encounters with old
+and new media technology. New Media Society, 11(21), 221-240.
+Escobar, Arturo (1994). Welcome to Cyberia. Notes on the anthropology of cyberculture. Current Anthropology, 35(3), June, 211-231.
+Fischer, Michael (2007). Four genealogies for a recombination anthropology of
+science and technology. Cultural Anthropology, 22(4), 539-615.
+Feixa, Carles, Oriol Romani y Nadia Hakim (2012). Spain: irregular lives in the
+Southern Rim of Europe. En Katrine Fangen, Kirsten Fossan y Ferdinand 
+35
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+Andreas Mohn (eds.), Inclusion and Exclusion of Young Adults in Europe
+(pp. 17-50). Noruega: Universidad de Oslo.
+Ginsburg, Faye (2002). Media Worlds: Anthropology on New Terrain. Coeditado con
+Lila Abu-Lughod y Brian Larkin. California: University of California Press.
+Ginsburg, Faye (2008). Rethinking the Digital Age. En David Hesmondhalgh y Jason
+Toynbee (eds.), The media and social theory (pp. 127-144). Nueva York:
+Routledge.
+Gómez Cruz, E. (2012). De la Cultura Kodak a la imagen en red. Una etnografía
+sobre fotografía digital. Barcelona: Editorial UOC.
+Gómez Seguel, Andrés (2011). Experimentar y codificar: consecuencias simbólicas
+del artefacto tecnológico. Teknokultura, 8(2), 67-80. Recuperado de http://
+teknokultura.net
+Grillo, Óscar (2007). Políticas de identidad en Internet. Mapuexpress: imaginario
+activista y procesos de hibridación. Razón y Palabra 4. Recuperado de http://
+www.razonypalabra.org.mx/anteriores/n54/ogrillo.html#a
+Guber, Rosana (2001). La etnografía: método, campo y reflexividad. Bogotá: Norma.
+Gurumurthy, Anita (2010). From social enterprises to mobiles - Seeking a peg to hang
+a premeditated ICTD. Theory in an Ecology of Unequal Actors, 6, 57-63.
+Hilbert, M.R. (2010). Towards a conceptual framework for ICT for development:
+lessons learned from Latin America. Poster for the International Conference on
+Information and Communication Technologies and Development - ICTD2010,
+13-16 December 2010. Egham: UNESCO Chair in ICT4D, Royal Holloway
+University of London.
+Holbraad, Martin (2011). Can the Thing Speak? Working Papers Series n.7 OAC Press.
+Horst, Heather y Daniel Miller (2006). The cell phone, an anthropology of communications. Nueva York: Berg Publishers.
+Horst, Heather y Daniel Miller (eds.) (2012). Digital Anthropology. Londres: Berg.
+Ingold, Tim (2007). Creativity and Cultural improvisation. Londres: Berg.
+Ingold, Tim (2008). Bindings against Boundaries. Entanglements of life in an open
+world. Environment and Planning A, 40, 1796-1810.
+Ingold, Tim (2013). Making. Londres: Routledge.
+Ito, Mizuko, Sonja Baumer, Matteo Bittani, danah boyd, Rachel Cody, Becky
+Herr-Stephenson, ... y Lisa Trip (2006). Hanging out, messing around, and
+geeking out: Kids living and learning with new media. Cambridge: MIT Press.
+36
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+Kelty, Christopher (2008). Two bits. The true significance of free software. Londres:
+Duke University Press.
+Kitchin, Rob y Martin Dodge (2011). Code/Space, software and everyday life.
+Cambridge: MIT Press.
+Lanzeni, Debora (2013 forthcoming). Desde el diseño de software a la acción política:
+un acercamiento etnográfico al movimiento de la cultura libre. Barcelona:
+IN3-Working Paper Series.
+Latour, Bruno (2005). Reassembling the social. Oxford: Oxford University Press.
+Leander, Kevin y Kelly McKim (2003). Tracing the everyday «sittings» of adolescents
+on the Internet: a strategic adaptation of ethnography across online and offline
+spaces. Education, Communication & Information, 2, 212-240.
+Lennie, June y Jo Tacchi (2012). Evaluating communication for development.
+A framework for social change. Londres: Routledge.
+Leonardi, Paul (2010). Digital materiality? How artifacts without matter, matter.
+First Monday, 15(6). Recuperado de http://firstmonday.org/ojs/index.php/fm/
+article/view/3036/2567
+Levy, Pierre (1994). L’intelligence collective. Pour une anthropologie du cyberespace.
+Paris: La Découverte.
+Lorimer, Hayden (2005). Cultural geography: the busyness of being «more-thanrepresentational». Progress in Human Geography, 29, 83-94.
+Malinowski, Bronislaw (1975). Los argonautas del Pacífico Occidental. Barcelona:
+Península.
+Mauss, Marcel (2009). Ensayo sobre el don. Buenos Aires: Katz.
+Miller, Daniel (2011). Tales from Facebook. Cambridge: Polity Press.
+Miller, Daniel (ed.) (1998). Material Culture: Why some things matter. Chicago:
+University of Chicago Press.
+Miller, Daniel y Dan Slater (2000). The Internet: An Ethnographic Approach. Oxford:
+Berg.
+Miller, Daniel y Jolynna Sinanan (2014). Webcam. Londres: John Wiley & Sons.
+Nakamura, Lisa (2002). Cybertypes: Race, Ethnicity, and Identity on the Internet.
+Nueva York: Routledge.
+Nakamura, Lisa (2007). Digitizing Race: Visual Cultures of the Internet. Minnesota:
+University of Minnesota Press.
+37
+ANTHROPOLOGICA/AÑO XXXII, N.° 33
+Nardi, Bonnie y Justine Harris (2006). Strangers and friends: collaborative play in
+world of warcraft. En CSCW ’06 (pp. 149-158). Proceedings of the 2006 20th
+anniversary conference on Computer supported cooperative work.
+Navarro-Smith, Alejandra (2008). Cucapás, derechos indígenas y pesca. Dilemas del
+sistema productivo pesquero vis a vis las políticas de conservación de las especies en el Golfo de California. Revista Chilena de Antropología Visual, 12(2),
+172-196.
+Navarro-Smith, Alejandra (2010). Cucapás y reconocimiento de sus derechos
+como pueblo indígena. En Alejandra Navarro-Smith y Carlos Velez-Ibáñez
+(coords.), Diversidad cultural, racismo, exclusión y xenofobia en la frontera
+norte México-EEUU (pp. 87-117). Mexicali: Cuadernos del CIC-Museo.
+Navarro-Smith, Alejandra (2011). De pescadoras libres a pescadoras reguladas.
+La pesca artesanal ribereña de la curvina golfina entre mujeres indígenas
+cucapá. En Graciela Alcalá (coord.), Pescadores en América Latina y el
+Caribe: espacio, población, producción y política II (pp. 219-250). México
+D.F./Mérida: UNAM.
+Navarro-Smith, Alejandra (2012). Representación y antropología visual: videos y
+construcción de significados sobre lo cucapá. Revista Chilena de Antropología
+Visual, 20(2), 79-105.
+Navarro-Smith, Alejandra, Alberto Tapia y Everardo Garduño (2010). Navegando a
+contracorriente. Los cucapás y la legislación ambiental. Culturales, VI(12),
+julio/diciembre.
+Pink, Sarah (2009). Doing sensory Ethnography. Londres: Sage Publications Ltd.
+Pink, Sarah (2012). Advances in Visual Methodology. Londres: Sage Publications Ltd.
+Poole, Deborah (1997). Vision, Race, and Modernity: A Visual Economy of the Andean
+World. Princeton, NJ: Princeton University Press.
+Poole, Deborah (2005). An Excess of Description: Ethnography, Race, and Visual
+Technologies. Annual Review of Anthropology, 34, 159-179.
+Postill, John (2008). Media and Nation Building: How the Iban became Malasyan.
+Oxford y Nueva York: Berghahn.
+Rifkin, Jeremy (2000). The age of access. Harmondsworth: Penguin.
+Rose, Gillian y Divya Praful Tolia-Kelly (2012). Visuality/Materiality: images,
+objects and practices. Londres: Ashgate Publishing Company.
+Senmartin, Denise (2013 forthcoming). Social Media and Diaspora Activism:
+Participating in the Argentine Elections 2011 from Abroad. En Anita Breuer y 
+38
+E. ARDÈVOL Y D. LANZENI / Visualidades y materialidades de lo digital: caminos desde la antropología
+Yanina Welp (eds.), Digital Technologies for Democratic Governance in Latin
+America. Oportunities and Risks. Londres: Routledge.
+Slater, Dan (2002). Making Things Real: Ethics and Order on the Internet. Theory
+Culture & Society, 19(5/6), 227-245. Londres, Thousand Oaks y New Delhi:
+Sage.
+Strathern, Marylin (2012). Eating (and feeding). Cambridge Anthropology, 30(2), 1-14.
+Tacchi, Jo (2006). Studying Communicative Ecologies: An Ethnographic Approach
+to Information and Communication Technologies ICTs. En Proceedings 56th
+Annual Conference of the International Communication Association. Dresden,
+Germany.
+Tenhunen, Sirpa (2008). Mobile technology in the village: ICTs, culture, and social
+logistics in India. Journal of the Royal Anthropological Institute, 14(3), 515-534.
+Thrift, Nigel (2008). Non-Representational Theory: Space, Politics, Affect. Londres
+y Nueva York: Routledge.
+Trere, Emiliano y Verónica Barassi (2012). Does Web 3.0 come after Web 2.0?
+Deconstructing theoretical assumptions through practice. New Media &
+Society, 14(8), December, 1269-1285.
+White, Leslie (1982). La ciencia de la cultura: un estudio sobre el hombre y la civilización. Barcelona: Paidós.
