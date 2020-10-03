@@ -1,0 +1,395 @@
+C o n s t ru c c i ó n d e
+Metodologías comparativas
+e indicadores para medir el uso de
+
+T I C y sus impactos
+en el salón de clase
+
+Construcción de metodologías
+comparativas e indicadores para
+medir el uso de TIC y sus impactos
+en el salón de clase*
+Susana Martínez-Restrepo
+Laura Ramos Jaimes
+Documento completo disponible en:
+http://www.fedesarrollo.org.co/indicadoresticeducacion
+
+La influencia de la Tecnología de la Información y de la Comunicación (TIC) está impactando de manera dramática el sistema
+económico, político y social actual. Estamos en una era de automatización, de constante conectividad, cambio acelerado y flexibilización
+laboral (Schwab, 2016). Debido a esta transformación, también están
+cambiando las competencias y habilidades requeridas en la economía
+del conocimiento. El mercado laboral actual demanda trabajadores
+con pensamiento crítico, capacidad para la resolución de problemas,
+interpretación y análisis de información, inteligencia emocional, flexibilidad, adaptación al cambio y trabajo en equipo (Abbott, 2014; WEF,
+2015; Greenhill and Martin, 2014; Trilling and Fadel, 2009; Binkley
+et al., 2012).
+Las TIC en la educación básica, secundaria y superior representan una importante herramienta para desarrollar las competencias
+y habilidades fundamentales en matemáticas, lenguaje y ciencias, entre
+otras, y las competencias o habilidades del siglo XXI (HS21), cada vez
+más necesarias en una sociedad y economía en transformación. Las HS21
+hacen referencia a la colaboración, el pensamiento crítico, el pensamiento
+
+*
+
+Queremos agradecer al Ministerio de Educación de Colombia (MEN), al IDRC de Canadá,
+Magaly Zúñiga de la Fundación Omar Dengo de Costa Rica, a Marcela Rojas de la Universidad de Nueva York, a Jorge Restrepo de Talento y Efectividad, a María Cecilia Pertuz
+Molina y Nathalia Maya de Fedesarrollo, por sus comentarios y retroalimentación para la
+realización de este documento.
+
+a
+
+Construcción de metodologías comparativas e indicadores
+para medir el uso de TIC y sus impactos en el salón de clase
+
+creativo y la comunicación, entre otras, requeridos para
+participar activamente en la sociedad actual, marcada
+por una economía basada en el conocimiento, la alta
+conectividad, y el intercambio de información (Silva,
+2009; Can Sahin, 2009; Trilling and Fadel, 2009)1.
+Durante los últimos 10 años, la gran mayoría de países
+de América Latina han realizado importantes avances
+en términos de infraestructura de acceso a Internet, y
+de compra de dispositivos digitales (Computadores,
+Tabletas, XO2, entre otros). El uso de Internet también
+se ha extendido ampliamente como resultado de inversiones públicas y privadas en infraestructura (UIS,
+2012). Igualmente, se han desarrollado una serie de
+programas especializados en la región, como por
+ejemplo “Computadores para Educar” en Colombia,
+“One Laptop per Child” en el Perú, “Plan Ceibal” en
+Uruguay, o “Enlaces” en Chile, con el propósito de
+integrar las TIC en la enseñanza y el aprendizaje.
+
+TIC
+
+Sin embargo, después de años de evaluaciones,
+los resultados sobre el efecto de las TIC en el
+aprendizaje de los estudiantes son ambivalentes. Por un lado, en algunos países se registra una
+relación positiva entre el uso de computadores y el
+puntaje que obtienen los estudiantes en matemáticas,
+ciencias y lenguaje (Wagner et al., 2005). Por otro
+lado, recientes estudios de OECD y otros realizados
+en América Latina, apuntan a un impacto nulo de las
+TIC en la educación (OECD, 2015; Barrera-Osorio
+& Linden, 2009). Otros estudios indican que el efecto
+sobre las áreas académicas no depende de la sola
+introducción de las tecnológicas, si no de que los
+programas sean de uso guiado (Arias Ortiz and
+
+4
+
+Cristia, 2014). Según Arias Ortiz y Cristia (2014),
+un programa es de uso guiado, si define la materia
+objetivo, cuál es el software a utilizar y cuánto tiempo
+semanal se destinará a su uso.
+Tal ambivalencia puede ser explicada por tres factores;
+enfoques de la política educativa, disponibilidad de
+estudios en el área y disponibilidad de indicadores,
+estándares y metodologías para evaluar el impacto
+de las TIC. Consideraciones sobre la política, reflejan
+que esta se ha enfocado más en el acceso a las TIC
+que en proporcionar un uso guiado e integrado de
+éstas en los currículos y lineamientos curriculares, y
+de formación docente (Claro, 2010; Arias Ortiz and
+Cristia, 2014; Barrera-Osorio and Linden, 2009).
+Existen, además, pocos estudios en América Latina
+que permitan entender cómo las TIC están mediando
+en el desarrollo de habilidades y competencias en
+el aula, y estudios que contribuyan a entender las
+brechas observadas discriminadas según el nivel
+socioeconómico, la ubicación geográfica, el género,
+o la condición de discapacidad de los estudiantes.
+Además del escaso acceso de literatura en el área,
+es necesario tener en cuenta que los indicadores
+y variables disponibles actualmente en la región,
+miden sólo las condiciones mínimas de acceso a
+infraestructura digital (Arias Ortiz & Cristia, 2014).
+Lo cual realza la necesidad de crear metodología,
+indicadores y estándares que sean comparables a
+nivel internacional para evaluar el impacto de las
+TIC en la enseñanza y el aprendizaje.
+Los indicadores y variables disponibles actualmente en
+la región, miden las condiciones mínimas de acceso a
+
+1
+
+No existe un consenso sobre el uso de la palabra competencia o habilidad para este tipo de factores de las HS21 ya que son conceptos en
+construcción y varían según el sector, la disciplina de estudios. Especialistas en medición se asumen que las habilidades son un componente
+de las competencias, entendiendo que las competencias hacen referencia al desempeño en un debido contexto, y que incluye la movilización
+de conocimientos, habilidades, y disposiciones (Griffin y Care, 2015).
+
+2
+
+Ordenador portátil que ha sido desarrollado por el proyecto “Una Laptop por Niño”, el cual cuenta con características muy específicas, tanto
+en su diseño como en su programación, y está dirigido a niños entre 6 y 12 años de edad, que vivan en comunidades marginales de países
+en vía de desarrollo (Laura Quispe and Bolívar Díaz, 2009).
+
+Resumen Ejecutivo
+
+medir y a desarrollar a través de las TIC. Avanzar en
+esta discusión, y llegar a un acuerdo colectivo, puede
+ser un gran paso para la creación de indicadores y
+de metodologías que midan el impacto de las TIC
+en el aprendizaje, la enseñanza, y el desarrollo de
+las HS21 en América Latina.
+Los principales marcos conceptuales revisados, tienen en cuenta que el desarrollo de las HS21 es un
+proceso integral que incluye, asimismo, la relación
+permanente con las habilidades fundamentales y
+las habilidades blandas (Gráfico 1). Dada la alta
+
+a
+
+infraestructura digital (Arias Ortiz & Cristia, 2014). Las
+metodologías mixtas, y el uso de Analytics en softwares
+educativos, pueden ser instrumentos para entender la
+complejidad del proceso de aprendizaje y enseñanza
+con el uso de TIC. Es aún muy escaso el número de
+metodologías e indicadores estándares y comparables
+a nivel internacional, para evaluar el impacto de las TIC
+en la enseñanza y el aprendizaje. Es además un reto,
+tener un marco teórico que defina qué se debe medir
+(habilidades, destrezas, competencias, desempeños),
+y es por esto indispensable la construcción colectiva
+(a escala regional) de definiciones sobre qué se va a
+
+Gráfico 1. Comparación de los Marcos conceptuales de las habilidades fundamentales, HS21 y habilidades blandas
+Habilidades fundamentales
+
+Habilidades siglo XXI
+
+Habilidades blandas
+
+Alfabetización digital (TIC) como medio para desarrollar las habilidades del siglo XXI
+
+Lenguaje
+Matemáticas
+Conocimiento científico
+Alfabetización digital, financiera,
+cultural y cívica
+PISA
+Lectura
+Matemáticas
+Ciencias
+P21
+Lenguaje
+Idiomas extranjeros
+Artes
+Matemáticas
+Economía
+Ciencias
+Geografía
+Historia
+Gobierno y educación cívica
+ATC21
+Ciencias
+Historia
+Matemáticas
+Inglés
+Alfabetización digital e
+informacional
+
+WEF, PISA y P21
+Pensamiento crítico
+Creatividad
+Comunicación
+Colaboración
+ATC21
+Formas de pensar:
+		 Pensamiento crítico y
+		creativo
+Formas de trabajar:
+		Comunicación
+		Colaboración
+Formas de vivir en el mundo
+Herramientas para trabajar
+
+WEF
+Curiosidad
+Iniciativa
+Persistencia
+Adaptabilidad
+Liderazgo
+Concientización cultural y social
+PISA
+Motivación instrumental para
+matemáticas y ciencias
+Autoevaluación de persistencia
+P21
+Flexibilidad y adaptabilidad
+Iniciativa y autonomía
+Habilidades interculturales y sociales
+Productividad, liderazgo y responsabilidad
+ATC21
+Viviendo en el mundo:
+Ciudadanía
+Habilidad personal y social
+Entendimiento ético e intercultural
+Big Five
+Estabilidad emocional
+Extraversión
+Apertura a la experiencia
+Amabilidad
+Responsabilidad
+
+Fuente: Elaboración propia basada en WEF, 2015; Greenhill and Martin, 2014; Trilling and Fadel, 2009; Binkley et al., 2012; Bassi et al., 2012.
+
+TIC
+
+WEF
+
+5
+
+a
+
+Construcción de metodologías comparativas e indicadores
+para medir el uso de TIC y sus impactos en el salón de clase
+
+interacción con dispositivos electrónicos, tanto en
+la vida social como educativa y productiva, las TIC
+son un importante instrumento o mediador para
+desarrollar las habilidades fundamentales, las HS21
+y las habilidades blandas, y para medir su evolución
+y progreso. Como se observa en el Gráfico 2, la
+definición y la agrupación de habilidades son distintas, según los diferentes marcos estudiados. En el
+Gráfico 2 se presentan los marcos conceptuales del
+ATC21s, de PISA, del Partnership for the 21st Century
+Skills (P21) y del Foro Económico Mundial (FEM).
+Debido a esta complejidad en el uso de los términos,
+es crucial la construcción colectiva a nivel regional
+de definiciones de habilidades y competencias fundamentales, HS21, aptitudes básicas, de cómo se
+deben medir, y de cómo éstas se pueden desarrollar
+a través de las TIC.
+El objetivo del evento y del Documento es discutir propuestas metodológicas para medir el
+uso y el impacto de las TIC como mediadores
+en la enseñanza y el aprendizaje de habilidades
+fundamentales, y de las HS21. Este documento
+hace parte del proyecto regional “Construcción
+de metodologías comparativas e indicadores para
+medir el uso e impacto de las TIC en el salón de
+clase”, liderado por Fedesarrollo -Fundación para
+la Educación Superior y el Desarrollo- y patrocinado
+por el International Development Research Centre
+(IDRC) de Canadá -. El objetivo principal es crear
+un marco regional común de indicadores robustos
+y localmente relevantes para países de América La-
+
+tina. La investigación es el primer componente del
+proyecto, que incluye revisión de literatura, indicadores disponibles y bases de datos que contengan
+información sobre TIC y educación, y recolección
+de datos cualitativos y cuantitativos para validar la
+propuesta resultante de la investigación. El segundo
+componente es la creación de una red de ministerios
+de educación e instituciones a nivel latinoamericano
+que permita intercambiar información y conocimiento con el fin de consolidar un equipo de trabajo y
+garantizar la relevancia tanto regional como local
+de las propuestas metodológicas de la investigación.
+El Documento está disponible en: http://www.fedesarrollo.org.co/, se discuten cuáles son las diferentes competencias y habilidades relevantes para la
+inserción social y laboral en el siglo XXI, y cómo las
+TIC pueden incidir en su desarrollo. En la segunda
+parte, se evidencia la necesidad de innovaciones para
+medir y evaluar el uso de TIC en la educación. Para
+ello, en la primera sección, se observa la necesidad
+de medir la brecha digital en cuanto a equidad, mediante al análisis de cómo las TIC están mediando en
+el aprendizaje y el desarrollo de ciertas habilidades
+entre estudiantes, según su nivel socioeconómico, su
+ubicación geográfica, su género, y sus condiciones de
+discapacidad, como ya se anotó antes. En la segunda
+sección se muestran las ventajas de utilizar métodos
+mixtos - cualitativos y cuantitativos- en la medición del
+efecto de TIC en educación. Finalmente, se muestran
+las ventajas del uso de Big Data y de Analytics en la
+educación, para entender mejor el uso y la incidencia
+de las TIC en el proceso educativo.
+
+TIC
+
+Documento completo disponible en:
+www.fedesarrollo.org.co/indicadoresticeducacion
+
+6
+
+Resumen Ejecutivo
+
+Referencias
+
+Arias Ortiz, E. y Cristia, J. (2014). The IDB and technology in education: How to promote effective programs? Inter-American
+Development Bank. (July).
+Barrera-Osorio, F. y Linden, L. L. (2009). The use and misuse
+of computers in education: Evidence from a randomized
+experiment in Colombia. Policy Research Working Paper.
+(February), 43. [online]. Available from: http://go.worldbank.
+org/BZZT7KNLG0.
+Bassi, M., Busso, M., Urzúa, S. y Vargas, J. (2012). Desconectados: Habilidades, educación y empleo en América Latina.
+Banco Interamericano de Desarrollo.
+
+Laura Quispe, C. D. y Bolívar Díaz, E. J. (2009). Una laptop por niño
+en escuelas rurales del Perú: Un análisis de las barreras y facilitadores. CIES. 84. [online]. Available from: http://dide.minedu.gob.pe/xmlui/bitstream/handle/123456789/800/450.
+Una laptop por niño en escuelas rurales del Perú Un análisis
+de las barreras y facilitadores.pdf?sequence=1.
+OECD (2015). Students, Computers and Learning: Making the
+connection. OECD Publishing.
+Schwab, K. (2016). The Fourth Industrial Revolution: what it
+means, how to respond [online]. Available from: http://www.
+weforum.org/agenda/2016/01/the-fourth-industrialrevolution-what-it-means-and-how-to-respond (Accessed
+4 February 2016).
+
+Binkley, M. et al. (2012). ‘Defining twenty-first century skills’, in
+Patrick Griffin et al. (eds.) Assessment and teaching of 21st
+century skills. New York: Springer. pp. 17-66
+
+Silva, E. (2009). Measuring skills for 21st-century learning. The
+Phi Delta Kappan. [Online] 90 (9), 630–634. [online]. Available from: http://www.livoniacsd.org/Data/Documents/
+DLT/PDK_Measuing21st_May2009.pdf\nhttp://www.jstor.
+org/stable/10.2307/27652741.
+
+Can Sahin, M. (2009). Instructional design principles for 21
+st century learning skills. Procedia Social and Behavioral
+Sciences. [Online] 1 (1), 1464-1468. [online]. Available
+from: http://dx.doi.org/10.1016/j.sbspro.2009.01.258.
+
+Trilling, B. y Fadel, C. (2009). Century Skills. San Francisco:
+John Wiley & Sons, Inc.
+
+Claro, M. (2010). Impacto de las TIC en los aprendizajes de
+los estudiantes. Estado del arte. Colección Documentos
+de proyectos. Septiembre 28.
+Greenhill, V. y Martin, J. (2014). OEC test for schools. Implementation Toolkit.
+Griffin, P., y Care, E. (Eds.) (2015). Assessment and teaching
+of 21st century skills: Methods and approach. Dordrecht:
+Springer.
+
+UNESCO Institute for Statistics - UIS (2012). ICTs in Education
+in Latin America and the Caribbean: A regional Analysis
+of ICT integration and E-readiness. UNESCO Institute for
+Statistics; Montreal, Canada.
+Wagner, D. a et al. (2005). Monitoring and Evaluation of ICT in
+Education Projects: a handbook for developing countries.
+[Online]. Washington, DC: infoDev / World Bank.
+WEF (2015). New Vision for Education Unlocking the Potential
+of Technology.
+
+TIC
+
+Abbott, s. (2014). The glossary of education reform. Retrieved
+from http://edglossary.org/hidden-curriculum
+
+7
+
+La influencia de la Tecnología de la Información y de la Comunicación (TIC) está impactando
+de manera dramática el sistema económico, político y social actual. Estamos en una era de
+automatización, de constante conectividad, cambio acelerado y flexibilización laboral (Schwab,
+2016). Debido a esta transformación, también están cambiando las competencias y habilidades
+requeridas en la economía del conocimiento. El mercado laboral actual demanda trabajadores
+con pensamiento crítico, capacidad para la resolución de problemas, interpretación y análisis de
+información, inteligencia emocional, flexibilidad, adaptación al cambio y trabajo en equipo
+(Abbott, 2014; WEF, 2015; Greenhill and Martin, 2014; Trilling and Fadel, 2009;
+Binkley et al., 2012).
+Las TIC en la educación básica, secundaria y superior representan una importante herramienta
+para desarrollar las competencias y habilidades fundamentales en matemáticas, lenguaje y
+ciencias, entre otras, y las competencias o habilidades del siglo XXI (HS21), cada vez más
+necesarias en una sociedad y economía en transformación. Las HS21 hacen referencia a la
+colaboración, el pensamiento crítico, el pensamiento creativo y la comunicación, entre otras,
+requeridos para participar activamente en la sociedad actual, marcada por una economía
+basada en el conocimiento, la alta conectividad, y el intercambio de información
+(Silva, 2009; Can Sahin, 2009; Trilling and Fadel, 2009).
+
+

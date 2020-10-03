@@ -1,0 +1,614 @@
+La implicación de las TIC en la educación: Alcances,
+Limitaciones y Prospectiva
+The role of ICT in education: Applications, Limitations, and Future Trends
+A implicação das TIC na educação: Escopo, Limitações e Prospectiva
+Claudia Islas Torres
+Centro Universitario de los Altos, Universidad de Guadalajara, México
+cislas@cualtos.udg.mx
+Resumen
+La metamorfosis que tiene el actual manejo, transformación, construcción y difusión del
+conocimiento se ha alterado por las Tecnologías de la Información y Comunicación (TIC),
+algunos autores críticos plantean que en la actualidad los individuos se convierten en simples
+contenidos más que en verdaderos elementos de valor, en realidad solo somos un conjunto
+de datos, individuos dependientes de la tecnología incapaces de pensar o comportarse por sí
+solos, situación que al parecer se refleja en el ámbito educativo. Por lo anterior, el siguiente
+escrito es una recopilación documental que tuvo como objetivo exhibir las formas en que
+estas herramientas se han implicado en el ámbito educativo modificándolo, alterándolo o
+quizá transformándolo. Desde hace varias décadas se encuentra en la literatura científica y
+en distintas fuentes una enorme cantidad de documentos o reportes de investigación que se
+enfocan en el abordaje de esta temática, desde diversos marcos epistémicos y posturas
+metodológicas, por lo que en esta ocasión, se expone una recopilación de puntos clave que
+muestran los alcances, limitaciones y la prospectiva que significan las TIC en la educación.
+Para la realización de este trabajo se eligió como descriptores de categorías los términos:
+tecnologías en la educación, palabras clave como alcances, limitaciones y prospectiva. Se
+trabajó con información del periodo de tiempo entre el año 2010 y 2017, los resultados de la
+recopilación exhiben la manera en que la visión de las TIC en la educación ha cambiado,
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+desde su utilidad como medio, herramienta de conectividad, de aprendizaje,
+empoderamiento, entre otros; hasta proyectarlas como elementos asociados a la cotidianeidad
+imposibles de separar de las acciones humanas convirtiéndose en parte sustancial de la forma
+de vida de quienes conviven en los contextos educativos.
+Palabras clave: TIC, educación, alcances, limitaciones, prospectiva.
+
+Abstract
+Information and Communication Technologies (ICT) have significantly altered the way
+knowledge is currently managed, processed, structured, and disseminated. Some critics
+suggest that individuals have become part of this content and are no longer of real value by
+themselves – that we are data-driven and technology-dependent, unable to think for ourselves
+or act on our own, a situation that is perhaps reflected in the field of education. The following
+is a selection of studies aimed at showing the ways in which ICT has modified, altered, and,
+perhaps, transformed the field of education. Scientific literature and other sources have
+produced an enormous amount of documents and research about this topic over several
+decades, reflecting a variety of perspectives and methodologies. To analyze the applications,
+limitations, and future trends for ICT in education, several key points were compiled. For
+this paper, terms and keywords like the following were chosen as category descriptors:
+technology in education, applications, limitations, and future trends. We then worked with
+the information from the period between 2010 and 2017. The overall results show how the
+perception of ICT in education has changed; what was once seen as a tool for connectivity,
+learning, and empowerment, has become something inseparable from the daily life and
+activities of those in educational environments.
+Keywords: ICT, education, reach, limitations, prospective.
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+Resumo
+A metamorfose que tem a gestão, transformação, construção e disseminação do
+conhecimento atual foi alterada pelas Tecnologias de Informação e Comunicação (TIC),
+alguns autores críticos sugerem que, hoje em dia, os indivíduos se tornam conteúdos simples
+e não elementos reais de valor, na realidade, somos apenas um conjunto de dados, indivíduos
+dependentes de tecnologia incapaz de pensar ou comportar-se por si mesmos, uma situação
+que aparentemente se reflete no ambiente educacional. Portanto, o seguinte documento é uma
+compilação documental que objetivou mostrar as maneiras pelas quais essas ferramentas
+estão envolvidas no campo educacional modificando-a, alterando-a ou talvez transformandoa. Durante várias décadas, tem sido na literatura científica e em diferentes fontes uma grande
+quantidade de documentos ou relatórios de pesquisa que se concentram na abordagem deste
+tópico, de diferentes quadros epistemológicos e posições metodológicas, por isso desta vez,
+está exposto uma compilação de pontos-chave que mostram o escopo, as limitações e o
+potencial significado das TIC na educação. Para realizar este trabalho, os seguintes termos
+foram escolhidos como descritores de categoria: tecnologias na educação, palavras-chave
+como escopo, limitações e perspectivas. Trabalhamos com informações sobre o período entre
+2010 e 2017, os resultados da coleção mostram como a visão das TIC na educação mudou,
+desde sua utilidade como meio, ferramenta de conectividade, aprendizado, capacitação , entre
+outros; para projetá-los como elementos associados à vida cotidiana que são impossíveis de
+se separar das ações humanas, tornando-se uma parte substancial do modo de vida daqueles
+que coexistem em contextos educacionais.
+Palavras-chave: TIC, educação, escopo, limitações, prospectivo.
+
+Fecha Recepción:
+
+Vol. 8, Núm. 15
+
+Noviembre 2016
+
+Julio - Diciembre 2017
+
+Fecha Aceptación:
+
+Mayo
+
+2017
+
+DOI: 10.23913/ride.v8i15.324
+
+Introducción
+Las formas de vida que se experimentan actualmente son incomparables con las que se vivían
+hace algunas décadas y un hecho innegable es que estas se sustentan en las tecnologías de la
+información y comunicación (TIC) que se hacen presentes en gran parte de los ámbitos en
+que los seres humanos se desarrollan, lo cual ha significado re-estructuraciones en la
+organización de la economía, la política, la sociedad, la cultura, la educación, entre otros
+ámbitos.
+La incorporación de las TIC ha significado que para los espacios educativos estas dejen de
+ser una opción, y los esfuerzos de los países e instituciones se encaminen en la generación e
+implementación de iniciativas que impliquen el máximo aprovechamiento de las tecnologías
+en los procesos formativos (Severin, 2010).
+El surgimiento y desarrollo del internet representó la multiplicación de posibilidades en el
+acceso a la información, las transacciones comerciales, los espacios de formación, y la reestructuración de actividades que la mayoría de los humanos realizan. Según datos de We
+are Social (Agencia de marketing y comunicación on line 2.0) (Sánchez, 2014), el número
+de usuarios de internet en el mundo en esas fechas ascendía a los 2 mil 484 millones 915 mil
+152 habitantes que representaban un 35% del total de la población mundial. El registro de
+sus principales usos reportaba: las visitas a las redes sociales, la visualización de noticias,
+descarga de archivos, comunicación, acceso a información, datos sobre empleo, apoyo a la
+educación, información y comercialización de productos, entre otros.
+Para 2017 el Comité para la conectividad en el mundo ITU (2017) presenta las estadísticas a
+nivel global, destacando que la edad promedio de usuarios está entre 15 y 24 años. De 104
+países que participaron en el estudio más del 80% de su población está en línea. En los países
+desarrollados el 94% de los individuos usan el internet y son jóvenes de 15 a 24 años,
+comparado con el 67% de habitantes de países en sub desarrollo y solo el 30% de países con
+escaso desarrollo. Tan solo de los 830 millones de gente joven que está en línea, 320 millones
+(39%) están en China e India. Según este estudio, los jóvenes que utilizan internet representan
+uno de cada cuatro de los individuos que usan la red a nivel mundial (ITU, 2017).
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+Para el caso específico de México el Instituto Nacional de Estadística y Geografía (INEGI)
+en su informe del 15 de mayo de 2017 presentó los siguientes datos:
+•
+
+Al segundo trimestre de 2016, el 59.5% de la población de seis años o más en el país
+se declaró usuaria de Internet.
+
+•
+
+El 68.5% de los cibernautas mexicanos tienen menos de 35 años. El 47.0% de los
+hogares del país tiene conexión a Internet. El uso de Internet está asociado al nivel de
+estudios; entre más estudios mayor uso de la red.
+
+•
+
+Internet se utiliza principalmente como medio de comunicación, para la obtención de
+información en general y para el consumo de contenidos audiovisuales.
+
+•
+
+Los usuarios de teléfono celular representan el 73.6% de la población de seis años o
+más, y tres de cada cuatro usuarios cuentan con un teléfono inteligente (Smartphone)
+(INEGI, 2017).
+
+En este sentido, el uso de las TIC se encuentra cada vez más difundido tanto por la aparición
+de nuevos dispositivos como por la reducción de costos asociados.
+El acceso a esta tecnología es predominante entre los jóvenes del país. Si como se indicó,
+poco más de la mitad de la población de seis años o más se declaró como usuaria de Internet,
+entre los individuos de 12 a 24 años, las proporciones son superiores al 80 por ciento, es
+decir, que entre los jóvenes es habitual el uso de Internet.
+Considerando grupos quinquenales de edad se pueden resaltar ciertos aspectos. Mientras que
+poco más de la mitad (53.1%) de los niños de entre 6 y 11 años señaló utilizar Internet con
+cierta regularidad, entre los adolescentes de 12 a 17 años la proporción alcanza el 85.5 por
+ciento, proporción semejante a la observada para individuos de entre 18 y 24 años (85.0%).
+Incluso para el grupo de edad de 25 a 34 años tres de cada cuatro individuos declararon
+utilizar Internet (74.3%) (INEGI, 2017).
+En la era del conocimiento, el acceso a Internet se encuentra asociado de manera importante
+con el nivel de estudios. De la población que tiene formación superior (licenciatura o
+posgrado), nueve de cada diez ha incorporado el uso de Internet en sus actividades habituales;
+cuatro de cada cinco de los que cuentan con estudios de nivel medio superior (preparatoria o
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+equivalente) también lo hacen así, y con nivel básico (primaria o secundaria) resultan poco
+menos de la mitad (48.7%).
+Para actividades de apoyo a la educación el porcentaje alcanza poco más de la mitad (51.8%),
+aunque cabe tener en cuenta que una proporción importante de la población objeto de estudio
+ya no se encuentra en situación de asistencia a la escuela (71.1%) (INEGI, 2017).
+En este contexto de auge del uso de internet a nivel mundial y nacional, en el entorno
+educativo se identificó que la evolución tecnológica había tenido una convergencia entre la
+televisión, Internet, los dispositivos móviles y los videojuegos generando escenarios de
+formación denominados de aprendizaje universal (Fernández, 2010) buscando que los
+procesos de enseñanza-aprendizaje no se quedaran atrás, sometiéndolos a una acelerada
+adaptación a los avances, implicando la aplicación de metodologías de formación adecuadas
+en las que se preveía el equilibrio entre la información, el conocimiento, la comunicación y
+la producción del mismo conocimiento.
+Las sociedades actuales son lo que son por el creciente protagonismo tecnológico que existe,
+sin embargo, no debe perderse de vista que las TIC no son la solución a todos los problemas
+y que son herramientas que nos permiten explotar diferentes rutas y acciones por
+experimentar, sobre todo en el ámbito educativo, donde el foco de atención está en los retos
+del desarrollo de habilidades y destrezas que son susceptibles de computarizarse como la
+creatividad o la inteligencia social (Cobo, 2016).
+Es ante estos elementos, que el presente documento esboza de manera generalizada la
+implicación de las TIC en la educación y cómo distintos autores han reportado, abordado o
+proyectado sus usos o aplicabilidad en la educación.
+La metodología empleada para el desarrollo fue de tipo documental conduciendo a un
+proceso basado en la búsqueda, recuperación, análisis, crítica e interpretación de datos, por
+lo que las fases heurística y hermenéutica se ven reflejadas en el trabajo desarrollado.
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+Las TIC en la educación: Alcances
+Dussel y Quevedo (2010) hablaron de las ricas experiencias en materia de introducción de
+TIC en los procesos de enseñanza aprendizaje, refiriendo que la mayoría de las veces, estos
+programas de formación eran empujados por una fuerte presión social y económica para que
+las tecnologías se incluyeran en la educación.
+Asimismo, Laviña (2010) hizo hincapié en la importancia que las universidades españolas y
+latinoamericanas daban a la difusión en implantación plena de las TIC en todas las áreas y
+actividades de la universidad, tal era el caso de los procesos investigativos, docentes y de
+gestión, promoviendo las redes de conocimiento, los recursos de aprendizaje e investigación
+y los servicios telemáticos como elementos que se hicieran habituales en las comunidades
+universitarias.
+El informe Horizont (2010) escrito por García, et al (2010) proyectó los alcances de las
+tecnologías en el ámbito educativo desde las siguientes posturas:
+•
+
+Los procesos de producción y difusión de contenidos se facilitan en múltiples
+formatos, multiplicando la cantidad de recursos explotables en línea, implicando un
+cambio en la percepción, valoración y producción de conocimientos.
+
+•
+
+Las tecnologías afectan profundamente las formas de trabajar, colaborar,
+comunicarnos y seguir avanzando, se abren nuevas brechas y se disminuyen otras,
+dando lugar a nuevos escenarios potenciales de desigualdad.
+
+•
+
+La tecnología no solo es un medio de capacitación para los estudiantes, sino que se
+convierte en un medio de comunicación y relación, así como en una parte ubicua y
+transparente de su vida.
+
+•
+
+El recelo que los docentes y las instituciones en sí mismas sienten hacia el uso de las
+TIC se va perdiendo progresivamente, así, son cada vez más numerosos los docentes
+que comienzan a utilizar en sus prácticas educativas distintos recursos tecnológicos.
+
+•
+
+La forma de visualizar los entornos de aprendizaje cambió, dando apertura a la
+interdisciplinariedad y la colaboración virtual, difuminándose las fronteras entre
+ambos mundos.
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+•
+
+Las tecnologías que se usan se basan cada vez más en la nube y la idea de
+centralización tecnológica tiende a desaparecer. El almacenamiento de datos, la forma
+en que se comparten, el acceso a aplicaciones se mueve de los equipos personales a
+una estructura montada en la nube.
+
+Claro (2010) en su publicación titulada Impacto de las TIC en los aprendizajes de los
+estudiantes. Estado del arte, después de un análisis realizado a la literatura hasta esa fecha
+concluyó que aún no había evidencias positivas sobre el impacto de las tecnologías en el
+aprendizaje, ya que muchas de las veces los resultados presentados en los productos de
+investigación eran contradictorios y obtenidos en circunstancias demasiado específicas, por
+lo que no podían realizarse generalizaciones. La autora planteó la importancia de considerar
+tres dimensiones al momento de realizar investigación sobre el impacto de las tecnologías y
+estas tenían que ver con: la relación entre el tipo de uso de TIC y los resultados de aprendizaje
+en las asignaturas; otra dimensión referida a las condiciones escolares y pedagógicas en que
+se usan las TIC y por último la referida al papel que juegan las características sociales (capital
+cultural, capital social y capital económico) e individuales (género, capacidad cognitiva y
+actitudes) del estudiante en su apropiación y uso de las tecnologías.
+Por otra parte para el año 2011 y 2012 aparecieron publicaciones donde se hablaba de teorías
+como el conectivismo, que trataba de abordar la incidencia de la web 2.0 en el proceso de
+enseñanza-aprendizaje desde una postura post constructivista (Sobrino-Morrás, 2011;
+Zapata, 2011; Gutiérrez, 2012; Siemens, 2012).
+Un tema más asociado a los alcances de las TIC en el ámbito educativo ha sido el referido a
+las competencias digitales desarrolladas por los estudiantes, en este sentido Arras, Torres, y
+García-Valcárcel (2011) manifestaron con base en un estudio cuantitativo, que la percepción
+de los estudiantes sobre el manejo de TIC es sobre valorada para hacer frente a la integración
+de las herramientas tecnológicas en los procesos de aprendizaje. De alguna forma estas son
+integradas mayormente en sentido social y solo como consulta, son poco usadas en la
+colaboración, construcción y exhibición de conocimiento postura coincidente con Adell
+(2011).
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+Otro alcance observado fue la creciente posibilidad de interacción entre quienes participaban
+en ambientes de formación on-line donde, a mayor presencia de TIC, la interacción se
+incrementaba, lo anterior fue reportado por Flores y De Arco (2012).
+Para el año 2013 Reig y Vílchez (2013) presentaron el libro denominado Los jóvenes en la
+era de la hiperconectividad: tendencias, claves y miradas, texto donde se plasmó la
+perspectiva de los autores respecto a los alcances de la tecnología, reflejados en la presencia
+y manipulación de los teléfonos inteligentes destacando la posibilidad de conexión
+permanente a las redes sociales siendo elementos potencializadores de la sociabilidad de los
+seres humanos, movilizando su desarrollo cognitivo, proceso de individualización y
+desarrollo moral.
+La masificación de la educación se hace presente gracias a la expansión y facilidades
+permitidas por la WEB 2.0 dando paso a los Cursos Abiertos Masivos (MOOC, por sus siglas
+en inglés), este hecho permitió que un considerable número de personas accediera al
+conocimiento sin necesidad de ser parte de una institución con la que debía coincidir en
+espacio y tiempo. Este tipo de cursos permitió mayor inclusión a la formación y la
+especialización disciplinar en función de los intereses de quien participara en ellos.
+Como se ha descrito en los párrafos anteriores los alcances que las TIC representan para la
+educación son mayúsculos, identificados desde la infraestructura que implican, la teoría o
+teorías desde las que se investiga, las competencias que han implicado en el desarrollo de los
+estudiantes y docentes o los ambientes de aprendizaje que posibilitan, sin embargo, también
+es necesario hacer conciencia de que las tecnologías no son la solución a todas las
+necesidades o problemáticas que se presentan en el contexto educativo y que aún quedan
+muchos caminos por recorrer.
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+Limitaciones
+Muchos son los discursos que se han extendido afirmando sobre los profundos cambios que
+las TIC han significado para el ámbito educativo, sin embargo, dichos cambios no han sido
+tan inmediatos, automáticos o beneficiosos como se nos ha hecho creer, puesto que el estudio
+de Gutiérrez, Palacios, y Torrego (2010) se reportó la apatía de los estudiantes, sus pocas
+competencias o habilidades digitales, la neutralidad ante la innovación que se les presentaba,
+la falta de innovación metodológica que diera uso adecuado a las tecnologías y no únicamente
+significaran la panacea que aliviaría de todos los males que se presentaban a la educación en
+esos momentos. Dichos autores indicaron que la Universidad del siglo XXI no se conseguiría
+adaptando las nuevas tecnologías a los viejos paradigmas educativos, sino aportando a la
+educación el significado auténtico de la comunicación como transformación y cambio, para
+acceder a la sociedad del conocimiento compartido (Gutiérrez, Palacios, y Torrego, 2010).
+Por su parte Villanueva y De la Luz Casas (2010) afirmaron que la presencia de soportes
+tecnológicos que permitieran el envío rápido de la información y la capacidad exponencial
+de reproducción de esta no era garantía de que el aprendizaje se produjera y mucho menos
+que se generara nuevo conocimiento, por lo que sugirieron la necesidad de diseñar
+actividades que promovieran el desarrollo de competencias digitales.
+Las limitaciones respecto a las TIC en la educación también fueron visualizadas desde la
+capacidad de alfabetización digital de los estudiantes de nivel superior, a decir de Adell
+(2011) los estudiantes universitarios están alfabetizados digitalmente en función de perseguir
+sus propios fines: el ocio, el tiempo libre o las relaciones sociales, sin embargo, si esta
+capacidad la asociamos al dominio de las técnicas, los procedimientos, los procesos o las
+tecnologías para aprender, o la creación de conocimiento, entonces habría que ponerlo en tela
+de juicio.
+El análisis regional del Informe Horizon del NMC (Horizon, 2013) presentó una serie de diez
+retos significativos para la adopción de tecnologías en la educación que por sus descripciones
+para fines de este documento han sido tomados como limitantes:
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+1. Escasa creación de modelos de educación flexibles.
+2. Al parecer son pocos los académicos que están utilizando tecnologías significativas
+para el aprendizaje y la enseñanza, y para organizar sus investigaciones.
+3. Existe un retraso de métricas de evaluación apropiadas respecto a la emergencia de
+nuevas formas escolares de autoría, publicación e investigación.
+4. Deficiente formación continua en el uso didáctico de las TIC y estimulación de la
+innovación colectiva.
+5. Todavía no hay datos suficientes en la formación del profesorado donde se dé fe de
+que la alfabetización digital continúa aumentando su importancia como competencia
+clave en cualquier disciplina y profesión.
+6. Poco fortalecimiento en la infraestructura para mejorar la cobertura de Internet, el
+acceso gratuito en espacios públicos y dotar de equipamiento gratuito o con costos
+bajos con fines educativos.
+7. Las organizaciones no están establecidas para promover la innovación en la
+enseñanza.
+8. Promoción de aprendizaje mixto, presencial y mediado por TIC.
+9. Poco fomento a la conformación de comunidades educativas-social-culturales.
+10. Los propios procesos y prácticas educativas limitan una mayor adopción de nuevas
+tecnologías (Horizon, 2013).
+A decir de Mominó y Sigáles (2016) en el ámbito educativo es donde debiera hacerse más
+evidente el conjunto de transformaciones tecnológico-sociales puesto que en este contexto es
+donde se producen y socializan los seres humanos. Sin embargo, la promesa de las
+tecnologías informáticas en red dista mucho de haberse cumplido con la amplitud prevista.
+Lo anterior, debido a que entre las habilidades tecnológicas de los llamados nativos digitales
+se interpone la práctica educativa obsoleta, los principios organizativos, las culturas obsoletas
+de la enseñanza y las dificultades inherentes a la creación de nuevos aprendizajes (Mominó
+y Sigáles, 2016).
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+Parte de las limitaciones que se han descrito pueden sintetizarse en los siguientes puntos:
+•
+
+El equipamiento tecnológico o instrumental no asegura, ni es suficiente para, avanzar
+en los cambios más sustantivos en la formación de los individuos de las nuevas
+generaciones.
+
+•
+
+Asimismo, no puede pensarse en que un sistema educativo carente de tecnología sería
+exitoso, por el contrario, nos estaríamos refiriendo a un sistema desconectado.
+
+•
+
+Para incorporar la tecnología es necesario identificar los hábitos que causan
+problemas y que derivan de las condiciones contextuales y culturales que demandan
+mayor tiempo y complejidad cognitiva, que el simple hecho de dotar de
+infraestructura.
+
+Prospectiva
+Las tecnologías en la educación abren diversas puertas y a la vez significan una enorme
+cantidad de retos, la idea es que a través de estas pueda crearse conocimiento que se extienda
+de forma sustantiva y flexible, operacionalizándose según el contexto en que se vea inmersa,
+relacionándose con adaptación, modificación, negociación, exportar, combinar, editar,
+criticar, ampliar, en fin; una serie de conceptos que se trasladen a la no linealidad del
+aprendizaje que se suscita a partir del uso de estas, dando apertura a la revisión de
+aprendizajes, a la corrección, deconstrucción, etcétera (Cobo, 2016).
+Aplicaciones, infraestructura e individuos conviven en un mundo permeado de virtualidad y
+tecnología que exige que el aprendizaje trascienda del simple uso curricular de los
+dispositivos, reconociendo los procesos de creación del conocimiento que se generan también
+más allá de los contextos formales.
+Día a día se gestan conceptos que tratan de explicar o dirigir la penetración de las tecnologías
+en la educación, se habla de la curación de contenidos, de los entornos de aprendizaje
+personalizado, la gamificación como un proceso de aplicación de lógicas y dinámicas de
+juego a cosas que en principio no lo son, entre otros.
+Por ejemplo: de la gamificación se dice que su potencial según el reporte Horizon (2011)
+alcanzará su máximo apogeo en el 2020, el objetivo central de esta técnica es motivar, divertir
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+y generar conocimiento a través de reglas de juego que involucren acciones de aprendizaje
+en mundos virtuales u otros ambientes que permitan la creación de conocimiento.
+El impacto de la tecnología en la educación es tal que deben establecerse una serie de
+indicadores internacionalmente comparables y relevantes desde la política educativa, con la
+finalidad de contribuir al establecimiento de criterios de referencia para hacer seguimiento a
+las iniciativas de integración y acceso de estas herramientas (UNESCO, 2013).
+A raíz de la evolución tecnológica, también se requiere que los estudiantes desarrollen nuevas
+competencias cognitivas relacionadas con la gestión de la abundancia de datos disponibles
+en la denominada sociedad de la información: capacidades de filtrado de datos, pensamiento
+estadístico, análisis y visualización de la información, pensamiento flexible e incluso un
+entrenamiento para tener la capacidad de desconectarse.
+
+Conclusiones
+Como se ha descrito ya, la literatura nos ofrece un cúmulo de información desde la que
+pueden deducirse los alcances, limitantes y el futuro de la educación y la implicación de las
+tecnologías en ella. En este sentido, es importante resaltar que la evolución de la tecnología
+no es del mismo ritmo y velocidad que el de la educación, es bien sabido que esta última aún
+esta retrasada y que son múltiples los factores que frenan su avance, no se diga a la par, pero
+sí al menos más rápido y significativo.
+Como consecuencia de lo anterior, la sociedad del conocimiento exige cada vez más
+individuos con capacidades complejas mejor y altamente desarrolladas. Sin embargo, los
+estudiantes denominados millenials que se supone corresponderían a estas exigencias, aún
+distan de lo que en el discurso se plantea, puesto que sus capacidades no alcanzan a
+dimensionar el aporte de los nuevos entornos con recursos cada vez más sofisticados para la
+colaboración, representación y generación compartida del conocimiento.
+Si bien las tecnologías pueden observarse como una oportunidad de respuesta a las demandas
+de formación cada vez más amplias y diversificadas, también debería institucional e
+individualmente ofrecerse soluciones innovadoras y sostenibles que brinden alternativas de
+calidad en aspectos críticos para el sistema educativo.
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+La retórica que se ha manejado a lo largo de los años en términos de los alcances, limitaciones
+y prospectiva de las TIC en la educación no ha variado demasiado, se sigue incurriendo en
+los discursos del qué debiera ser y no del cómo hacerlo, la mayoría de reportes manejan
+información referida a la infraestructura, capacidad de conectividad, uso de las redes sociales,
+edades de los individuos que acceden a las TIC y usos, sin embargo, es necesario ahondar en
+investigaciones que den cuenta empírica de los alcances, limitaciones y prospectiva de las
+tecnologías en la educación.
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+Bibliografía
+Adell, J. (2011). Los expertos opinan. Los estudiantes universitarios en la era digital: la visión
+del
+
+profesor.
+
+(F.
+
+Castellón,
+
+Entrevistador)
+
+Recuperado
+
+de
+
+http://polired.upm.es/index.php/lacuestionuniversitaria/article/view/3383/3428
+Arras, A. M., Torres, C. A., & García-Valcárcel, A. (2011). Competencias en Tecnologías
+de Información y Comunicación (TIC) de los estudiantes universitarios. Revista latina
+de comunicación social (66), 1-23.
+Claro , M. (2010). Impacto de las TIC en los aprendizajes de los estudiantes. Estado del arte.
+Santiago de Chile: CEPAL.
+Cobo, C. (2016). La Innovación Pendiente. Reflexiones (y provocaciones) sobre educación,
+tecnología y conocimiento. Montevideo: Colección Fundación Ceibal.
+Dussel, I., & Quevedo, L. A. (2010). Educación y nuevas tecnologías: los desafíos
+pedagógicos ante el mundo digital. Buenos Aires: Fundación Santillana.
+Fernández, E. (2010). U-Learning. El futuro está aquí. México: AlfaOmega.
+Flores, Ó., & De Arco, I. (2012). La influencia de las TIC en la interacción docente y discente
+en los procesos formativos universitarios. Revista de universidad y sociedad del
+conocimiento, 9(2), 31-47.
+García , I., Peña-López, I., Johnson, L., Smith, R., Levine, A., & Haywood, K. (2010).
+Informe Horizon. Edición Iberoamericana 2010. Austin, Texas: The New Media
+Consortium.
+Gutiérrez, A., Palacios, A., & Torrego, L. (2010). Tribus digitales en las aulas universitarias.
+Revista Científica de Educomunicaicón, XVII (34), 173-171.
+Gutiérrez, L. (2012). Conectivismo como teoría de aprendizaje: conceptos, ideas y posibles
+limitaciones. Educación y Tecnología (1), 111-122.
+Horizon. (2013). Perspectivas tecnológicas. Educación superior en América Latina 20132018. Un análisis regional del informe horizon del NMC. Virtual Educa.
+Instituto Nacional de Estadística y Geografía INEGI. (2017). www.inegi.org.mx.
+Recuperado
+
+de
+
+http://www.inegi.org.mx/saladeprensa/aproposito/2017/internet2017_Nal.pdf
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+Institute telecomunication University Development. (2017). www.itu.int. Recuperado de
+http://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf
+Laviña, J. (2010). 2020 tendencias universitarias. Estudio de prospectiva. Cartagena de
+Indias: Oficina de cooperación Universitaria.
+Mominó, J. M., & Sigáles, C. (2016). El impacto de las TIC en la educación. Más allá de las
+promesas. Barcelona: UOC Ediciones.
+Reig, D., & Vílchez, L. (2013). Los jóvenes en la era de la hiperconectividad: tendencias
+claves y miradas. Madrid: Fundación Telefónica.
+Sánchez, L. E. (2014). Estrategias en Internet http://estrategiaeninternet.com. Recuperado de
+http://estrategiaeninternet.com/2014/02/19/usuarios-de-internet-en/mexico/2014
+Severin, E. (2010). Tecnologías de la Información y la Comunicación (TIC's) en Educación.
+Banco Interamericano de Desarrollo. España
+Siemens,
+
+G.
+
+(2012).
+
+Blog
+
+de
+
+cultura
+
+digital
+
+e
+
+innovación.
+
+Recuperado
+
+de
+
+https://unpasomas.fundaciontelefonica.com/2012/10/18/conectivismo-georgesiemens-y-el-aprendizaje-en-red/
+Sobrino-Morrás, Á. (2011). Proceso de enseñanza aprendizaje y web 2.0: valoración del
+conectivismo como teoría de aprendizaje post-constructivista. Estudios sobre
+educación, 20, 117-140.
+UNESCO. (2013). Uso de TIC en educación en América Latina y el Caribe. Montreal:
+UNESCO.
+Villanueva, G., & De la Luz Casas, M. (2010). e-competencias: nuevas habilidades del
+estudiante en la era de la educación, la globalidad y la generación del conocimiento.
+Signo y pensamiento, XXIX, (56), 124-138.
+Zapata,
+
+M.
+
+(2011).
+
+Blog
+
+CUED
+
+Cátedra
+
+UNESCO.
+
+Recuperado
+
+de
+
+http://blogcued.blogspot.mx/2011/09/es-el-conectivismo-una-teoria-lo-es-del.html
+
+Vol. 8, Núm. 15
+
+Julio - Diciembre 2017
+
+DOI: 10.23913/ride.v8i15.324
+
+

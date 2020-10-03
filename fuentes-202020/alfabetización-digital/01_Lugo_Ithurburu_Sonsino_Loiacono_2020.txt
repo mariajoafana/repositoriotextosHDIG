@@ -1,0 +1,809 @@
+e-ISSN 1135-9250
+
+EDUTEC. Revista Electrónica de Tecnología Educativa.
+Número 73. Septiembre 2020 / Trimestral
+Número especial: Mirando al futuro de la Tecnología Educativa
+
+Políticas digitales en educación en tiempos de Pandemia: desigualdades y
+oportunidades para América Latina
+Educational Digital Policies in the context of the Covid_19: inequities and opportunities for
+Latin America
+Maria Teresa Lugo; mtlugo@gmail.com
+Virginia Ithurburu; vithurburu@gmail.com
+Ana Sonsino; anasonsino@gmail.com
+Florencia Loiacono; florloiacono@gmail.com
+Universidad Nacional de Quilmes (Argentina)
+
+Resumen
+
+Abstract
+
+El propósito de este estudio ha sido documentar y
+analizar las políticas digitales en educación
+implementadas en el periodo 2010 a 2018 en
+América Latina. Los hallazgos que aquí se
+comparten constituyen la línea de base del
+escenario actual de la política educativa digital en el
+contexto de emergencia por el COVID-19. A
+continuación, se presenta un panorama
+heterogéneo, desigual y a la vez prolífico de
+políticas desarrolladas en las últimas décadas con
+diversos alcances y enfoques. Se identifican tres
+modelos –tradicional, uno a uno y pensamiento
+computacional–, como así también tendencias y
+desafíos que condicionan tanto el escenario
+educativo emergente como el desafío pospandemia
+que comienza a configurarse en la Región. Desde ya
+que las implicancias educativas de cada política no
+son, en todos los casos, claras ni evidentes, pero no
+caben dudas de que la nueva coyuntura de la
+pandemia por el COVID-19 pone a prueba, una vez
+más, las propuestas de inclusión digital educativa
+en América Latina.
+
+Our research set out to assess and document digital
+educational
+policies
+and
+programmatic
+implementation in Latin America between 2010
+and 2018. The findings shared in this document are
+central to our current emergency response plan for
+digital education. We identify three models: 1)
+Traditional; 2) One-by-one; and 3) Computational
+thinking. In addition, we highlight tendencies and
+challenges shaping the educational landscape as
+well as emerging characteristics that are paving
+the way toward a post pandemic digital
+educational environment. Not all educational
+implications for each policy are apparent in every
+case; however, in conducting this research, it has
+become clear to us that the Covid-19 pandemic has
+extensively tested, even more so than other
+defining factors, our inclusion educational digital
+strategies for the Latin American region.
+Keywords: Digital
+America, Pandemic
+
+Policies,
+
+Education,
+
+Latin
+
+Palabras clave: Políticas digitales, educación,
+América Latina, pandemia
+
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 23 / 36
+
+Recibido: 13-06-2020
+Aceptado: 02-09-2020
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+INTRODUCCIÓN
+A lo largo de los años han variado los enfoques y modelos de integración de las tecnologías en la
+educación impulsados por políticas públicas en los países de América Latina. Esto está relacionado
+-entre otras variables- con los propósitos priorizados por cada país. Inclusión social, desarrollo de
+habilidades digitales, habilidades para el mercado laboral o apoyo curricular son algunos de ellos.
+Asimismo, cada elección tiene consecuencias sobre el tipo de dispositivos seleccionados y su
+organización en cuanto a destinatarios, espacios y usos previstos. Las políticas han generado, de
+la mano de una ampliación en el acceso digital, resultados heterogéneos y desiguales entre países
+y al interior de estos (Lugo, 2016; Lugo, Ruiz, Brito y Brawerman, 2016; Lugo e Ithurburu, 2019;
+Lugo y Delgado, 2020). Este punto se evidencia fuertemente de cara a la nueva coyuntura que
+presenta el COVID-19, donde las iniciativas de inclusión digital para la educación se ubican en el
+centro de la escena frente a la necesidad de mediar tecnológicamente la enseñanza en el marco
+de la suspensión de clases presenciales.
+El propósito del estudio, cuyas conclusiones se comparten aquí, ha sido documentar, describir y
+analizar las políticas digitales latinoamericanas en educación en el período de 2010 a 2018,
+identificando tendencias y divergencias (Lugo, Ithurburu y Sonsino, 2019; Lugo, Loiacono, Sonsino
+e Ithurburu, 2020) desde una perspectiva de derechos. Al estudiar el desarrollo de las políticas y
+los datos cuantitativos de los estudios internacionales que las tienen por objeto emergió un
+panorama prolífico que demostró, en niveles heterogéneos y con alcances y enfoques diversos, el
+creciente interés e inversión de los países de la región para acercar la tecnología a las escuelas y
+abordar las grandes desigualdades que atraviesa. Esta suerte de panorama previo a la pandemia
+constituye la línea base de las iniciativas implementadas actualmente por los países para dar
+respuesta al cierre de escuelas motivado por la emergencia mundial. Sin duda las desigualdades
+existentes se han visto exacerbadas en esta coyuntura.
+En la primera parte de este artículo se presenta la perspectiva de derechos en la que se enmarca
+el estudio. En el segundo apartado, se presentan los tres modelos de políticas digitales educativas
+previas a la Pandemia por el COVID-19. En la tercera parte, se enuncian los desafíos de la
+educación digital identificados durante la pandemia a partir de los datos cuantitativos de
+organismos internacionales que se encuentran realizando el seguimiento de las respuestas
+educativas frente a la emergencia. En la cuarta parte, se desarrolla la conformación del escenario
+actual educativo en materia de iniciativas digitales y se realiza un primer relevamiento de las
+respuestas digitales brindadas por los Estados de América Latina a partir del cierre de las escuelas.
+En la quinta sección, se retoman los viejos desafíos de la región en materia de educación digital y
+se reflexiona acerca de los nuevos retos. Por último, en la sexta sección se proponen
+recomendaciones para diseñar escenarios futuros de educación digital pospandemia.
+
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 24 / 36
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+DESARROLLO
+1. Punto de partida: la perspectiva de derechos
+La educación es un derecho humano fundamental y habilitador de otros derechos (UNESCO,
+2015a). Desde esta perspectiva la integración de las tecnologías digitales en los sistemas
+educativos está estrechamente vinculada con la garantía del derecho integral a la educación y
+pone en relieve la necesidad de priorizar la democratización del acceso a las TIC por parte de
+amplios sectores de la población escolar. El Marco de Acción para la Agenda Educación 2030
+plantea la posibilidad de que las tecnologías puedan mejorar el aprendizaje posibilitando que
+los/as jóvenes aprendan a utilizar los recursos de Internet o las aplicaciones educativas
+especializadas, al mismo tiempo que se garantice su acceso y la calidad de la educación. En
+particular, se indica la manera de llevar a la práctica, en los niveles nacional, regional y mundial, el
+compromiso alcanzado y el lugar que ocupan las tecnologías digitales para garantizar el derecho
+a la educación y la consecución de la meta de alfabetización y aritmética, y también para reforzar
+los sistemas educativos, la difusión de conocimientos, el acceso a la información, el aprendizaje
+de calidad, y una prestación más eficaz de servicios (UNESCO, 2015a).
+La Declaración de Qingdao planteó los lineamientos para pensar estratégicamente el potencial de
+las TIC para la educación y para alcanzar los Objetivos de Desarrollo Sostenible (ODS),
+específicamente el ODS 4 establecidos en la Declaración de Incheon. Las recomendaciones se
+ocupan del acceso e inclusión, recursos educativos abiertos, calidad, vías de formación
+permanente, innovación, supervisión y evaluación, rentabilidad, reconocimiento de la formación
+digital y cooperación internacional (UNESCO, 2015b). Luego, en la Declaración de Qingdao de 2017
+se reafirmaron los compromisos sobre el aprovechamiento de las TIC para lograr los ODS 4 y se
+hizo un llamado a las estrategias nacionales para que los ODS integren objetivos nacionales
+concretos para la igualdad en el acceso y uso de las TIC, respaldados por programas específicos
+con una asignación presupuestaria adecuada para igualar el acceso, las habilidades de las TIC y el
+contenido relevante para niñas y mujeres, personas con discapacidades, personas desplazadas
+internamente, grupos en desventaja social o económica, y otras poblaciones vulnerables
+(UNESCO, 2017).
+Estos marcos plantean como problema central el acceso a la educación y el aprovechamiento de
+las tecnologías digitales para el logro de un sistema educativo más equitativo e igualitario. En
+nuestra región, surge la pregunta acerca de cuáles son las acciones en materia digital que los
+países están llevando adelante en los últimos años en América Latina. ¿Qué desafíos educativos
+se imponen en la región en tanto en su acceso a las tecnologías digitales como en su apropiación?
+
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 25 / 36
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+2. Tres modelos de políticas digitales pre-pandemia: la línea de base en educación digital
+en la Región
+Aun considerando las diferencias propias de cada territorio en función de sus características
+políticas, económicas y socio educativas, podrían plantearse tres modelos o enfoques principales
+en América Latina:
+a) Un primer modelo “tradicional”, adoptado en la mayoría de las políticas desde la década
+de los 90 y que enfatiza el uso de las tecnologías para apoyar transversalmente los
+procesos de enseñanza y de aprendizaje. Su manifestación ha sido, principalmente, la
+implementación de laboratorios con computadores o carritos con laptops o tablets para
+transportar a las aulas.
+b) El segundo es el modelo 1 a 1 (una computadora por estudiante) que distribuye
+computadores personales a estudiantes y docentes. Comienza a plasmarse a mediados del
+año 2000, con un marcado período de crecimiento a partir de 2010.
+c) El tercer modelo, centrado en las habilidades digitales se enfoca en la enseñanza de las
+ciencias de la computación, del pensamiento computacional y/o la programación.
+Encontramos iniciativas pioneras en la década del 80 y hacia fines del período estudiado
+(2018) se identifican varias iniciativas en esta línea, que incluyen proyectos orientados a
+las ciencias de la computación, robótica y programación.
+Mirando el periodo de estudio en su conjunto (2010-2018) se evidencian dos tendencias: por un
+lado, políticas 1 a 1 que predominaron en las agendas educativas en 2010 se interrumpieron y
+dieron lugar a otras iniciativas, algunas enfocadas a colaborar con las necesidades del currículum
+y otras en línea con la nueva tendencia de enseñanza de ciencias de la computación o
+programación. Asimismo, algunas de las políticas 1 a 1 que prevalecieron fueron variando una vez
+cumplidos sus propósitos iniciales más vinculados con las brechas de acceso (inclusión social) hacia
+otros con más foco en los desafíos educativos.
+Se observa también una considerable cantidad de iniciativas que entre 2010 y 2018 fueron
+interrumpidas con la consecuente dificultad para lograr impactos y alcances duraderos. En
+cambio, aquellos países que lograron dar continuidad a sus políticas presentaron maduración y
+robustez en sus acciones pudiendo alcanzar mayor cobertura, así como institucionalizar y
+consolidar sus estrategias.
+
+3. Desafíos de la educación digital identificados durante la Pandemia
+En el mes de marzo, inicio de la pandemia en América Latina, las escuelas de aquellos países de la
+Región con políticas más robustas, usaban la tecnología con múltiples propósitos –apoyar las
+materias del currículum, desarrollar habilidades digitales, enseñar ciencias de la computación. Se
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 26 / 36
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+evidenciaba una infraestructura compuesta por una ecología de dispositivos en laboratorios, aulas
+y otros espacios de la escuela. Pero el escenario educativo COVID-19 transformó los propósitos y
+puso a los países ante una emergencia educativa: quiebre de las dimensiones espacio, tiempo y
+agrupamientos debido al cierre físico de las escuelas. Esto implicó mapear el territorio para
+identificar datos de acceso el acceso educativo y digital para la toma de decisiones. La
+vertiginosidad de la pandemia impacta en las decisiones educativas: en mayo de 2020 158 países
+tienen cerradas sus escuelas a nivel nacional (Ver Figura 1).
+
+Figura 1. Localización de escuelas cerradas en el mundo por el COVID-19. Fuente: Seguimiento mundial de los cierres
+de escuelas causados por el COVID-19 (UNESCO, 2020). Fecha de consulta: 25 de mayo de 2020.
+
+En América Latina, salvo Nicaragua y Guyana Francesa, y Uruguay en diversas zonas localizadas,
+todos los países tienen sus escuelas cerradas (ver Tabla 1). De acuerdo con datos de Pisa 2018
+procesados por BID-CIMA, en América Latina dos de cada tres escuelas de secundaria no cuentan
+con un ancho de banda o velocidad suficientes. En Argentina, Colombia, Panamá, Brasil, Perú y
+México menos del 20% de las escuelas en contextos vulnerables tienen disponibilidad de ancho de
+banda o velocidad de internet suficientes. En 8 de los 10 países de América Latina, menos del 15%
+de las escuelas rurales tienen acceso a ancho de banda o velocidad de internet suficientes (RiebleAubourg y Viteri, 2020).
+
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 27 / 36
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+Tabla 1. Estado actual de las escuelas en América Latina. Fuente: Elaboración propia a partir del seguimiento mundial
+de los cierres de escuelas causados por el COVID-19 (IIPE UNESCO, 2020). Fecha del consulta: 25 de mayo de 2020
+
+País
+Argentina
+Brasil
+Bolivia
+Chile
+Colombia
+Costa Rica
+Cuba
+Ecuador
+El Salvador
+Guatemala
+Honduras
+México
+Nicaragua
+Panamá
+Paraguay
+Perú
+República Dominicana
+Uruguay
+Venezuela
+
+Estado actual de las escuelas
+Cerradas
+Cerradas
+Cerradas
+Cerradas
+Cerradas
+Cerradas
+Cerradas
+Cerradas
+Cerradas
+Cerradas
+Cerradas
+Cerradas
+Abiertas
+Cerradas
+Cerradas
+Cerradas
+Cerradas
+Según localización
+Cerradas
+
+.
+En relación con las habilidades técnicas y pedagógicas de los docentes frente a la pandemia los
+mismos datos dan cuenta de que menos del 60% de los docentes de secundaria tienen habilidades
+técnicas y pedagógicas para integrar dispositivos digitales en la instrucción, y que existen
+disparidades en las habilidades digitales de los docentes entre países, tipos de escuela y entornos
+socio-económicos. Asimismo, en América Latina menos del 30% de los hogares vulnerables tiene
+acceso a una computadora para las tareas de la escuela. En promedio, el 64% de los estudiantes
+pertenecen a hogares que tienen acceso a una computadora para las tareas de la escuela (RiebleAubourg y Viteri, 2020).
+En este marco los Estados implementaron diferentes estrategias para mantener las escuelas
+abiertas a la distancia (Tabla 2). Las propuestas incluyen y/o combinan diversos medios:
+plataformas digitales de enseñanza y aprendizaje, portales con recursos multimediales,
+cuadernillos impresos, programación televisiva y radial. Pueden mencionarse como casos las
+plataformas en línea Ceibal en casa (Uruguay), Aprendo en línea (Chile), la programación televisiva
+y radial Aprende en casa (México), las propuestas transmedia Seguimos educando (Argentina) y
+Aprendo en casa (Perú), por enumerar algunas de ellas.
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 28 / 36
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+Tabla 2. Iniciativas digitales de los Estados en respuesta al COVID-19 en América Latina. Fuente: Elaboración propia a
+partir del seguimiento mundial de los cierres de escuelas causados por el COVID-19 (IIPE UNESCO, 2020). Fecha de
+consulta: 4 de junio de 2020.
+
+País
+
+Nombre del recurso
+
+Argentina
+
+Seguimos educando
+
+Brasil
+
+Videoconferencias
+Banco Internacional de
+Objetos Educativos
+Plataforma de Recursos
+Educacionais Digitais
+TV Escola
+Aprendo en línea
+
+Chile
+
+Colombia
+
+Costa Rica
+
+TV Educa Chile y TV
+Nacional
+Aprender digital:
+Contenidos para todos
+#BeThe1Challenge
+Mi Señal
+Aprendo en casa
+
+Cuba
+
+Teleclases
+Educa contigo. Programa
+A-prender la tele
+Ecuador
+Plan Educativo Covid-19
+Materiales para la
+continuidad educativa:
+El Salvador
+Educación en línea
+Aprendamos en Casa
+Guatemala
+
+Aprendo en casa
+
+Honduras
+
+Canal Telebásica
+Educatrachos
+
+México
+
+Aprende en casa
+
+Panamá
+
+Panamá Educa
+
+Paraguay
+
+Tu escuela en casa
+
+Perú
+
+Aprendo en Casa
+
+Uruguay
+
+Plataforma Crea, Plan
+Ceibal
+
+Venezuela #CadaFamiliaUnaEscuela
+
+Tipo de solución
+URL
+Portal educativo y
+https://www.educ.ar/recursos/150936/
+Programación de TV y Radio seguimos-educando#gsc.tab=0
+Servicio de video conferencias
+http://objetoseducacionais.mec.gov.br/
+Portal educativo
+#/inicio
+Recursos educativos para
+https://plataformaintegrada.mec.gov.br
+todos los niveles educativos /
+Programación de TV
+https://tvescola.org.br/
+https://curriculumnacional.mineduc.cl/
+Portal educativo
+estudiante/621/w3-propertyname822.html
+Programación de TV
+Portal educativo
+
+https://www.tvn.cl/tveducachile/
+https://contenidos.colombiaaprende.ed
+u.co/
+
+Aplicación
+Programación de TV y radio
+Portal educativo y
+Programación de TV y Radio
+Programación de TV
+
+https://www.misenal.tv/
+http://recursos.mep.go.cr/2020/aprend
+oencasa/
+https://www.mined.gob.cu/teleclases/
+
+Radio, TV y canales digitales.
+
+https://www.educa.ec/
+
+Portal educativo
+Recursos educativos
+Programación de TV
+Portal educativo y
+Programación de TV
+Programación de TV
+Portal educativo
+Portal educativo y
+Programación de TV/Radio
+Portal educativo
+Plataforma de recursos
+educativos
+Portal educativo y
+Programación de TV y Radio
+Plataforma de aprendizaje
+Programación de TV y sitio
+web con recursos asociados.
+
+https://recursos2.educacion.gob.ec/
+https://sites.google.com/clases.edu.sv/
+educacionvirtual/inicio
+
+https://aprendoencasa.mineduc.gob.gt/
+http://www.educatrachos.hn/
+https://www.aprendeencasa.mx/apren
+de-en-casa/
+http://www.educapanama.edu.pa/
+https://aprendizaje.mec.edu.py/aprendi
+zaje/
+https://aprendoencasa.pe/
+https://www.ceibal.edu.uy/es
+http://cadafamiliaunaescuela.me.gob.v
+e/
+
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 29 / 36
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+4. El escenario actual en materia de iniciativas digitales en la educación
+La línea de base que da cuenta de este panorama se consolidó a partir del período 2010-2018. Tal
+como se señaló, se caracterizó por ser una etapa fértil, experimental, y proactiva (Lugo, 2016),
+pero también heterogénea y desigual en materia de iniciativas digitales. El logro de la reducción
+de la brecha digital fue la mayor preocupación en los países que hicieron grandes inversiones en
+el reparto de computadoras a partir la implementación de las políticas masivas de una
+computadora por alumno. Este desarrollo de las tecnologías resulta uno de los elementos
+centrales en la conformación de un nuevo escenario económico, político, social y cultural, que
+invita a plantear el siguiente interrogante: cuál ha sido el sentido de la integración de estas
+tecnologías digitales y qué impacto ha tenido tanto a nivel social como pedagógico.
+Un segundo sentido se basó en la inclusión de las TIC en los sistemas educativos como una
+oportunidad para revisar y actualizar los propósitos y funciones de las prácticas educativas,
+asumiendo así su responsabilidad social para la formación de las nuevas generaciones. El problema
+que se evidenció a partir de este sentido fue la existencia de una brecha entre las demandas a la
+escuela y lo que ésta ofrecía. Si bien era posible afirmar que los/las jóvenes y niños/as estaban
+acostumbrados a convivir con las tecnologías, y su vida estaba atravesada por los medios y las
+tecnologías digitales, las desigualdades de los mundos sociales y mediáticos persistían cada vez
+más agudas y se evidenciaban dispares oportunidades para el uso y el desarrollo de las habilidades
+tanto en la escuela como fuera de ella, como vimos en las brechas digitales y las desigualdades en
+los aprendizajes.
+
+5. Viejos y nuevos desafíos de la región
+Es en este escenario que América Latina desarrolla un importante proceso de integración de
+tecnologías digitales en sus sistemas educativos. El examen de las políticas 2010-2018 en América
+Latina permite identificar los siguientes desafíos comunes:
+• Conectividad: La conectividad aún presenta serios déficits en varios países de la región, tanto
+en términos de cobertura, como en términos de velocidad apropiada para su utilización
+educativa en las aulas.
+• Desarrollo profesional: En las políticas revisadas se establecen dispositivos para la formación
+inicial y continua de los educadores para llevar adelante la innovación educativa que la política
+pretende implementar. En el transcurso del período no se han observado grandes cambios en
+las estrategias de formación de los docentes, sí en las temáticas de abordaje, que aparecen
+alineadas con los objetivos de las políticas. En virtud de los actores emergentes asociados a las
+políticas digitales (tales como los referentes o técnicos o facilitadores escolares), y de los
+desafíos y reconfiguraciones que estas iniciativas acarrean para roles existentes (especialmente
+equipos de gestión), aparecen algunas iniciativas de desarrollo profesional que contemplan
+este mapa de actores ampliado, más allá de los docentes.
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 30 / 36
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+• Evaluación: Aún es incipiente la producción de indicadores y evidencias concretas del impacto
+de las políticas digitales en la mejora de la educación.
+La actualidad de las políticas digitales en los sistemas educativos en América Latina tiene retos y
+desafíos que afrontar en el corto, mediano y largo plazo. La discontinuidad y la fragmentación de
+las políticas son dos problemas nodales que desafían a los para garantizar los derechos básicos de
+poblaciones especialmente vulnerables. Las desigualdades que caracterizan a la región y las
+iniciativas llevadas adelante demuestran que hay aún deudas educativas pendientes (Lugo, 2016).
+El desafío radica en el desarrollo de políticas públicas con una perspectiva integral que se
+proponga abordar los problemas del territorio regional y local atendiendo al marco regulatorio
+que atienda los acuerdos internacionales sobre educación digital. Es importante señalar que estos
+marcos regulatorios ameritan una mirada renovada a luz de los obstáculos que se han presentado
+en el marco de la Pandemia: cuestiones como la seguridad de los datos deben ser tenidos en
+cuenta.
+
+6. Imaginar escenarios futuros de educación digital pospandemia
+En el contexto de la pandemia es necesario no perder de vista los lineamientos y desafíos de la
+Agenda Educación 2030, donde las políticas TIC ya eran planteadas como una prioridad en las
+estrategias educativas de los países de América Latina. Resulta necesario imaginar escenarios
+futuros de educación digital pospandemia para lograr un nuevo mapa social donde las
+desigualdades existentes hoy en los países de América Latina se vean atenuadas en dirección a un
+proyecto social más inclusivo e igualitario. Las políticas de integración TIC se imponen como
+herramientas imprescindibles para el desarrollo de acciones democráticas destinadas a garantizar
+el derecho a la educación de todos los ciudadanos. Al mismo tiempo, la inclusión de las TIC en los
+sistemas educativos constituye una oportunidad para revisar y actualizar los procesos de
+enseñanza y de aprendizaje en la búsqueda de una mejora de su calidad.
+Del análisis realizado, surgen consideraciones que se vuelcan a modo de conclusiones iniciales:
+• Pese a las similitudes en las declaraciones de las políticas, los resultados de estos esfuerzos son
+irregulares –existen muchas desigualdades en el acceso y uso de la tecnología en las escuelas
+entre los países y al interior de estos– y dan cuenta de las discontinuidades y diversas
+capacidades de inversión real de los países.
+• América Latina no cuenta con suficiente evidencia de que estas políticas estén impactando
+positivamente los aprendizajes de los estudiantes en las áreas de Lenguaje, Matemáticas o
+Ciencias, así como tampoco en las habilidades digitales de gestión de información en Internet.
+• Los países que han logrado dar sustentabilidad a sus políticas digitales en educación están
+comenzando a experimentar los efectos de la superposición de diferentes enfoques y bases
+tecnológicas. La diversidad de dispositivos y artefactos electrónicos, sumado a la creciente
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 31 / 36
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+presencia de tablets y celulares de los estudiantes, está creando un nuevo contexto de ecología
+de dispositivos cuya evolución futura no es del todo clara, dado los déficits de acceso aún
+existentes en la región.
+• Por último, el desafío sigue siendo garantizar un financiamiento para poder sostener las
+políticas y el replanteo de prioridades que pongan en el centro la cobertura y calidad de
+Internet, la formación de los docentes, la provisión de contenidos digitales, la evaluación de
+impacto y la mitigación de sus efectos ambientales.
+Todos estos aspectos constituyen desafíos críticos y que llevan a pensar cómo imaginar escenarios
+futuros de educación digital pospandemia. Para contribuir al debate necesario que este
+interrogante nos habilita se enuncian a continuación diez recomendaciones ineludibles para
+pensar la integración de las TIC en los sistemas educativos post pandemia desde una perspectiva
+crítica, integral y compleja que implica estudiar el pasado, comprender el presente, para pensar
+el futuro.
+Estas recomendaciones parten de considerar que el cambio en la educación digital no se sostiene
+solamente con la incorporación de nuevos y mejores recursos tecnológicos en las aulas, sino que
+requiere de profundas transformaciones en la educación y los sistemas educativos que sienten las
+bases para retomar la atención y reabrir la discusión acerca de la importancia de formular y
+sostener las políticas públicas de educación digital en nuestra región:
+• Definir el sistema educativo como parte de un ecosistema digital ampliado. Es necesario revisar
+y generar líneas de acción, programas y políticas digitales en el campo de la educación para el
+aumento significativo en el acceso a la tecnología de la información y las comunicaciones y el
+acceso universal y gratuito a Internet en los países menos adelantados. Las respuestas
+educativas pospandemia deberán potenciar las redes de colaboración entre los Estados y entre
+el sector público y privado.
+• Explicitar los objetivos, la escalabilidad y la gradualidad de las políticas digitales educativas en
+el contexto de emergencia y pospandemia. Como toda política pública, las políticas digitales en
+el sistema educativo requieren identificar problemas estratégicos y establecer los objetivos que
+se espera lograr con su diseño e implementación. El contexto de la pandemia ha resignificado
+las prioridades educativas y los objetivos deben estar en coherencia con las otras políticas
+educativas. Además, tener presente los correlatos con el resto de las políticas digitales para
+proyectar un contexto pospandemia que permita acceder a la educación y garantizar la
+continuidad pedagógica. La gradualidad de las políticas digitales es un gran reto que dejan por
+delante los antecedentes en la región, en donde las discontinuidades de las políticas no han
+permitido en la mayoría de los casos ver los resultados a largo plazo, y será una condición
+necesaria para permitir sostener la continuidad pedagógica. La escalabilidad será un
+condicionante de la implementación de la política que tendrá que estar estrechamente
+relacionado con los objetivos; debe tener una especial atención el financiamiento de las
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 32 / 36
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+políticas digitales, y sus costos, un tema no menor en el contexto pandemia y su posterior
+escenario.
+• Fomentar iniciativas para proveer de conexión universal. Esta es una de las deudas pendientes
+en materia de políticas digitales en los sistemas educativos de América Latina que requiere un
+abordaje y una toma de decisión por parte de los Estados para asegurar el acceso a las
+tecnologías digitales. El contexto de la pandemia ha puesto de manifiesto la importancia de la
+conectividad para una educación digital. El punto clave es pensar la conectividad en el marco
+de políticas públicas digitales, estrechamente relacionadas con la infraestructura, las
+telecomunicaciones y la expansión de la conectividad. La mejora de la conectividad y la
+infraestructura tecnología son el primer paso para garantizar la inclusión y la igualdad, e implica
+asegurar no solo la cobertura sino también el buen funcionamiento. Este será un gran desafío
+para mejorar que debe ser sostenido en el contexto de pospandemia.
+• Proveer, garantizar y mantener los dispositivos digitales para toda la comunidad educativa. De
+acuerdo con los distintos modelos de equipamiento, tanto los modelos 1 a 1 como la tendencia
+llamada ecología de dispositivos dan cuenta de que cualquier iniciativa que se proponga
+abordar la desigualdad social requiere pensar en la entrega de dispositivos o bien garantizar el
+acceso a los mismos. El contexto de pandemia ha demostrado que se requiere una mirada de
+sistema con líneas de acción que atiendan las singularidades de cada actor y sobre todo de cada
+territorio.
+• Diseñar un currículum que integre explícitamente las tecnologías digitales. Las políticas digitales
+se integran con las políticas educativas y resulta necesario aunar sus sentidos que van a
+fundamentar los modelos pedagógicos que se tomen, como así también las concepciones de
+aprendizajes que se sustenten. Todo el camino recorrido durante la pandemia debe ser
+estudiado para tomar decisiones que en la pospandemia conduzcan a las integraciones
+necesarias de las tecnologías digitales en el currículum de todos los niveles educativos. La
+pandemia nos ha mostrado la potencialidad e importancia de contar con aulas ampliadas en
+plataformas digitales. Espacios que confluyan como andamiaje de las prácticas pedagógicas y
+nos permitan repensar los regímenes académicos y desarrollos curriculares, planteando nuevos
+abordajes en cuanto a contenidos, estrategias, espacios y tiempos.
+• Integrar competencias digitales para el ejercicio de una ciudadanía digital. Esta recomendación
+es uno de los puntos que adquiere mayor protagonismo en el contexto de la pandemia y pone
+en valor la necesidad de iniciativas para el desarrollo de la ciudadanía digital. Las escuelas tienen
+grandes desafíos en el contexto digital actual y es necesario identificar las estrategias más
+apropiadas para favorecer el acceso al conocimiento y la adquisición de competencias que
+permitan el desarrollo profesional y afectivo, para la formación de ciudadanos críticos,
+creativos, con habilidades cognitivas, capacidades y competencias acordes a los desafíos del
+siglo XXI.
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 33 / 36
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+• Crear un sistema educativo digitalizado que permita ampliar el acceso a los contenidos y
+recursos digitales, desarrollar las prácticas de enseñanza y de aprendizaje, como así también la
+gestión educativa. Las primeras políticas digitales han sido el desarrollo de portales educativos
+como una manera de organizar la oferta de recursos digitales para las escuelas. Contar con un
+entorno de estas características forma parte de los desafíos prospectivos que nos abre el
+escenario de la post pandemia.
+• Diseñar propuestas de evaluación de políticas digitales educativas y la creación de indicadores.
+Hay escasas evaluaciones sobre las políticas implementadas en la región y poco se conoce sobre
+su seguimiento y monitoreo. Es por ello que uno de los retos consiste en recuperar la pregunta
+acerca de los resultados obtenidos respecto a la calidad de los sistemas educativos a partir de
+la implementación de estas políticas. Como así también, llevar adelante evaluaciones desde
+una perspectiva integral que permita analizar las evidencias para el cambio y la mejora de la
+educación. Por último, la creación de indicadores para evaluar el estado de avance y participar
+de estudios internacionales que contribuyan a la producción de datos y estadísticas
+comparables sobre TIC en la educación.
+• Crear alianzas y fortalecer la intersectorialidad de las políticas digitales y la participación de
+diversos actores del campo de la educación y la tecnología durante y posterior a la pandemia.
+El desafío actual en el contexto de la pandemia es situar como actor fundamental de las
+políticas digitales en la región al Estado para la planificación, implementación y evaluación de
+dichas políticas, y a partir de ello, crear alianzas que permitan fortalecer la intersectorialidad e
+integración participativa de diferentes sectores y actores. El Estado debe asegurar los intereses
+de lo público y articular las relaciones entre la industria, las organizaciones de la sociedad civil,
+las instituciones educativas, los sindicatos, los organismos internacionales, entre otros.
+• Generar redes locales, nacionales y regionales que permitan pensar en conjunto soluciones y
+alternativas donde se puedan potenciar las fortalezas de cada uno de los gobiernos locales y
+nacionales.
+
+A MODO DE CIERRE PROVISORIO
+Estas diez recomendaciones producto de un análisis de la línea de base de las políticas digitales en
+América Latina construida en la última década ponen de manifiesto una vez más que en el contexto
+de la emergencia el diseño de políticas públicas digitales requiere un abordaje integral que atienda
+a la justicia social, y se base en la democratización de la educación desde una perspectiva de
+derechos en el acceso a las TIC y al conocimiento.
+Asimismo, las dimensiones centrales enunciadas en trabajos anteriores (Lugo, 2016; Lugo, Ruiz,
+Brito, y Brawerman, 2016; Lugo e Ithurburu, 2019; Lugo y Delgado, 2020) - el ecosistema digital,
+las prácticas educativas, la gobernabilidad y los actores de la política- continúan estando vigentes
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 34 / 36
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+en el contexto de la pandemia y vuelven a poner de manifiesto la necesidad de llevar adelante una
+perspectiva integral que permita la construcción de políticas públicas basadas en la equidad y la
+calidad. Si la estrategia para los Estados consiste en asegurar que todos y todas tengan acceso a
+las tecnologías digitales y planificar para lograr cambios profundos que contribuyan a lograr
+mejores aprendizajes para la educación digital del siglo XXI, estas dimensiones deben ser
+resignificadas y revisadas para abordar las tensiones que el contexto de pospandemia le depara a
+América Latina frente a la gran expansión de las tecnologías digitales, las nuevas tendencias
+pedagógicas y la exacerbación de las desigualdades existentes.
+
+REFERENCIAS
+IIPE UNESCO (2020). Sistematización de respuestas de los sistemas educativos de América Latina a
+la crisis de la COVID-19. UNESCO, Oficina para América Latina. Recuperado de:
+https://www.siteal.iiep.unesco.org/respuestas_educativas_covid_19
+Lugo, M. T. (Coord.) (2016). Entornos Digitales y políticas educativas: dilemas y certezas. Ciudad
+Autónoma de Buenos Aires. Instituto Internacional de Planeamiento de la Educación IIPEUnesco Recuperado de: http://unesdoc.unesco.org/images/0024/002458/245810S.pdfL
+Lugo, M. T., Ruiz, V., Brito, A. y Brawerman, J. (2016). Revisión comparativa de iniciativas de
+aprendizaje móvil en América Latina. IIPE UNESCO. Recuperado de:
+https://www.buenosaires.iiep.unesco.org/es/publicaciones/revision-comparativa-deiniciativas-nacionales-de-aprendizaje-movil-en-america-latina
+Lugo, M. T., & Ithurburu, V. (2019). Políticas digitales en América Latina. Tecnologías para fortalecer
+la educación de calidad. Revista Iberoamericana de Educación, 79(1), 11-31. Recuperado a
+partir de https://rieoei.org/RIE/article/view/3398
+Lugo, Ithurburu y Sonsino (2019). La investigación sobre las políticas digitales en los sistemas
+educativos en América Latina en los últimos cinco años (2014-2019). En EJE 1: Políticas,
+territorios y desigualdades. III Coloquio de Investigación Educativa en Argentina. Debates
+Educativos sobre la desigualdad: miradas desde la investigación. Buenos Aires, Sociedad
+Argentina de Investigación en Educación, 13/14 de junio de 2019. Disponible en:
+https://investigacioneducativacoloquio.files.wordpress.com/2019/06/lugo-ithurburusonsino-eje-1-polc3adtica-territorio-y-desigualdades.pdf
+Lugo, M. T., Loiacono, F., Sonsino A., e Ithurburu, V. (2020). Estudio de políticas digitales en
+educación recientes de Latinoamérica. Conclusiones iniciales a partir del relevamiento y
+sistematización de iniciativas correspondientes al período 2010-2018. 3er. Simposio
+Comunicación, Educación y Ciudadanía en la Era Digital. Argentina, Universidad Nacional
+de Quilmes 11/12 de marzo del año 2020.
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 35 / 36
+
+EDUTEC. Revista Electrónica de Tecnología Educativa. e-ISSN 1135-9250
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F.
+
+Núm. 73 / Septiembre 2020
+Mirando al futuro de la Tecnología Educativa
+
+Lugo, M. T. & Delgado, L. (2020). Hacia una nueva agenda educativa digital en América Latina.
+Documento de Trabajo N.° 188. Febrero 2020. Buenos Aires, CIPPEC. Recuperado de:
+https://www.cippec.org/wp-content/uploads/2020/03/188-DT-EDU-Hacia-una-nuevaagenda-digital-educativa-en-Am%C3%A9rica-Latina-L....pdf
+Rieble-Aubourg, S y Viteri, A. (2020). Covid-19: ¿estamos preparados para el aprendizaje en línea?
+Recuperado
+de:
+https://publications.iadb.org/es/nota-cima-20-covid-19-estamospreparados-para-el-aprendizaje-en-linea
+UNESCO (2015a). Declaración de Incheon y Marco de Acción ODS 4-Educación 2030. Recuperado
+de: https://unesdoc.unesco.org/ark:/48223/pf0000233137_spa
+UNESCO (2015b). Qingdao Declaration, 2015: Seize Digital Opportunities, Lead Education
+Transformation. Recuperado de: https://unesdoc.unesco.org/ark:/48223/pf0000233352
+UNESCO, (2017). 2017 Qingdao Statement: strategies for leveraging ICT to achieve Education 2030.
+Recuperado de: https://unesdoc.unesco.org/ark:/48223/pf0000253061
+UNESCO (2020). COVID-19 Educational Disruption
+https://en.unesco.org/covid19/educationresponse
+
+and
+
+Response.
+
+Disponible
+
+en:
+
+Para citar este artículo:
+Lugo, M. T., Ithurburu, V. S., Sonsino, A., y Loiacono, F. (2020). Políticas digitales en educación en
+tiempos de Pandemia: desigualdades y oportunidades para América Latina. Edutec. Revista
+Electrónica De Tecnología Educativa, (73), 23-36. https://doi.org/10.21556/edutec.2020.73.1719
+
+DOI: https://doi.org/10.21556/edutec.2020.73.1719
+Esta obra está bajo licencia internacional Creative Commons Reconocimiento 4.0.
+
+Página 36 / 36
+
+

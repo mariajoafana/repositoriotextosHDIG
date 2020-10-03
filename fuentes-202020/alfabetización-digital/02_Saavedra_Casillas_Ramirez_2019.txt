@@ -1,0 +1,505 @@
+Artículo de Investigación
+
+Saberes Digitales: un desafío para los maestros de hoy
+Digital Knowledge: a challenge for today’s teachers
+Fecha de recepción: 24 de mayo de 2019
+Fecha de aceptación: 10 de junio de 2019
+Claudia Esperanza Saavedra Bautista
+
+Universidad Pedagógica y Tecnológica de Colombia, Magíster en Tecnología Informática. Colombia.
+claudia.saavedra@uptc.edu.co
+
+Miguel Ángel Casillas Alvarado
+
+Universidad Veracruzana, Investigador del Centro de Investigación e Innovación en Educación
+Superior de la Universidad Veracruzana. México.
+mcasillas@uv.mx
+
+Alberto Ramírez Martinell
+
+Universidad Veracruzana, Investigador del Centro de Investigación e Innovación en Educación
+Superior de la Universidad Veracruzana, México.
+albramirez@uv.mx
+
+Resumen
+Este artículo aporta a la discusión frente los desafíos docentes en el marco de una cultura digital, donde la presencia de nuevos repertorios tecnológicos reta el actuar del maestro de hoy. Se
+presenta un análisis en el marco del paradigma interpretativo hermenéutico donde además de
+la reflexión de los investigadores producto de sus experiencias de vida, se analizan diferentes
+artículos científicos que develan diversos desafíos académicos. Se concluye que existe una necesidad por innovar en el oficio de la docencia a través del desarrollo de metodologías activas
+que se armonicen con las apuestas tecnológicas y pedagógicas emergentes y las necesidades
+propias del contexto.
+Palabras Clave: Desafío, Maestro, Saberes digitales, TIC.
+
+Abstract
+This article contributes to the discussion in front of the teaching challenges within the framework
+of a digital culture, where the presence of new technological repertoires challenges the actions of
+the teacher of today. An analysis is presented in the framework of the interpretive hermeneutical
+paradigm where, in addition to the reflection of the researchers, different scientific articles that
+reveal various academic challenges are analyzed. It is concluded that there is a need to innovate
+in teaching through the development of active methodologies that harmonize with the emerging
+
+84
+
+|
+
+Revista Electrónica de Investigación e Innovación Educativa
+
+technological and pedagogical bets and the
+needs of the context.
+Keywords: Challenge, Teacher, Digital Knowledge Set, ICT.
+
+Introducción
+Los nuevos repertorios tecnológicos avizoran
+lenguajes emergentes donde la integración de
+las Tecnologías de la Información y de la Comunicación -TIC tiene un papel preponderante
+en el escenario educativo. Estas herramientas
+han llegado a retar prácticas de enseñanza tradicionales, por lo que se requieren de maestros
+abiertos al cambio que cuestionen sus prácticas pedagógicas y armonicen su ejercicio docente con las nuevas formas de aprender de
+los estudiantes.
+Un acto de responsabilidad docente está
+asociado con la actualización mediática y tecnológica para desarrollar una serie de saberes
+digitales necesarios para enseñar en sintonía
+con los intereses de los estudiantes. Debe ser
+un reto constante para los docentes lo relativo a la consideración de nuevos entornos de
+aprendizaje que complementen su trabajo en
+el aula, ya que la enseñanza ha pasado de ser
+una mera transmisión de conocimiento a una
+construcción colectiva donde los saberes se
+movilizan para el enriquecimiento recíproco
+entre estudiantes y docentes. Es importante
+asumir este desafío bajo la perspectiva de la
+formación profesional docente, en torno al desarrollo de habilidades que serían indispensables y necesarias para los desafíos que demanda el siglo XXI (Partnership for 21st Century
+Skills , 2009).
+Este escrito busca aportar a la reflexión sobre la importación de integrar las TIC a labores
+educativas a través de la predominancia de los
+saberes digitales.
+
+Perspectiva teórica
+Los maestros de hoy se enfrentan a un universo tecnológico cambiante donde aparecen
+nuevos medios que deben emplearse en viejos escenarios de aprendizaje; generando una
+situación preocupante para el maestro por armonizar las nuevas formas de aprender con su
+estilo de enseñanza. Freire (1992) consideraba
+que el maestro no debía dejar de lado lo que el
+estudiante trae consigo de su comprensión del
+mundo, sea su manera de hablar, de contar, de
+calcular; es decir sus saberes previos en torno
+al mundo, sino que construir a partir de ellos
+en el marco de su realidad. Esto permitirá el
+desarrollo cognitivo del estudiante a partir de
+las necesidades de su contexto.
+Díaz Barriga (s.f), considera que “las nuevas
+exigencias a la profesión docente demandan
+que sean precisamente los profesores los responsables de la alfabetización tecnológica de
+sus estudiantes y del dominio de una diversidad
+de competencia requeridas en el contexto de
+las demandas de la sociedad del conocimiento.
+La cuestión es ¿Están preparados los docentes para ello? ¿Se está haciendo lo debido para
+asegurar una formación docente apropiada?”.
+
+Saberes digitales
+¿Cómo podemos saber cuánto conocen los docentes y cuál es el grado de apropiación tecnológica que deben de tener? Para responder a
+estas cuestiones Ramírez y Casillas (2014) han
+construido una teoría para agrupar los conocimientos, habilidades y sentido de pertinencia
+en el uso de las TIC en el espacio escolar: la
+teoría de los saberes digitales.
+Los saberes digitales se definen como un
+esquema orientado a estudiar de manera ordenada e independiente el uso de software y
+hardware específicos a una disciplina académica –sean de licencia libre o propietaria–. Se
+
+Revista Electrónica de Investigación e Innovación Educativa
+
+|
+
+85
+
+consideran diez saberes digitales que se clasifican de la siguiente manera:
+…ocho son de tipo informático y refieren
+a la administración de dispositivos, la de
+archivos, la de software y fuentes de información especializadas, texto y texto enriquecido, datos, medios y multimedia, comunicación, y colaboración y socialización.
+Los dos saberes restantes son informacionales y atienden los temas de ciudadanía
+digital y literacidad digital. Los saberes informáticos aluden a tres aspectos: las relaciones con la administración de sistemas;
+las habilidades de manejo, edición y creación de contenido digital, y los conocimientos relativos a la comunicación y socialización. (Ramírez & Casillas 2017, p.20).
+
+Revisión de antecedentes
+La revisión de antecedentes permite identificar
+diferentes experiencias asociadas con los saberes digitales del maestro de hoy, es así, el
+trabajo denominado El perfil del Educador para
+el siglo XXI, desarrollado por Buritica (1995),
+que señala la importancia de una reconstrucción de la sociedad con el fin de dar otra mirada social y reconfigurativa. En este sentido
+afirma que la familia es uno de los principales
+elementos que aporta a la formación del ser humano, y que es la familia la base generadora de
+principios y valores, y es aquí donde se debe
+empezar la reconfiguración para luego avanzar
+a la formación de escuela, ya que es un contexto donde el joven inicia un proceso de adaptación u aceptación de su personalidad. Es en
+esta etapa en la que el maestro hace su mejor
+trabajo de creatividad, diálogo, rescate de valores y muestra la transformación dependiendo
+de sus competencias y formación.
+Por su parte Muñoz (2003), en su trabajo
+Competencias profesionales del docente en la sociedad del siglo XXI, ofrece un estudio de las nuevas competencias docentes y de cómo su desarrollo profesional se encuentra sometido al influjo
+
+86
+
+|
+
+de la sociedad de la información y la comunicación. Así mismo se reclama la capacitación de
+los profesionales de la educación en el dominio y
+explotación didáctica de las nuevas tecnologías
+tras reconocer que con su auxilio se puede lograr la mejora de los procesos de enseñanza y
+aprendizaje en sintonía con los cambios que hoy
+se operan en la sociedad y en el individuo.
+Asimismo, aparece la investigación de Rodríguez (2004), denominada Medios y tecnologías de la información y la comunicación: una
+caracterización de las prácticas en instituciones
+escolares de Bogotá, que buscó identificar y
+caracterizar la incorporación, uso y apropiación de los medios y las tecnologías de la información y la comunicación en las instituciones
+escolares de la ciudad. El desarrollo de este
+trabajo permitió determinar las necesidades de
+cualificación de las prácticas, la formación de
+colectivos humanos en este campo y la creación y consolidación de nodos y redes.
+También resulta importante señalar el trabajo denominado Alfabetos y saberes: la alfabetización digital, desarrollado por (Levis 2006:3),
+que reconoce que la alfabetización digital es
+uno de los principales retos que enfrentan los
+procesos de formación en la actualidad y afirma que “ocupa, desde hace algunos años, un
+lugar central en las políticas impulsadas por los
+organismos multilaterales, las instituciones públicas y las empresas privadas en el ámbito de
+la informática educativa”.
+En este estudio también se menciona con
+preocupación que la falta de una estrategia
+sólida para integrar las TIC en el aula, deriva
+en prácticas pedagógicas clásicas con nuevos
+instrumentos, y resalta la importancia de apartarse de la visión instrumental de la tecnología,
+para adoptar una mirada un poco más reflexiva
+y crítica de su uso en el aula.
+En España realizaron un estudio denominado Competencias para el uso de TIC de los futuros maestros, el cual analiza las competencias
+para el uso de TIC de maestros en formación en
+la universidad de Murcia. Este análisis permite
+
+Revista Electrónica de Investigación e Innovación Educativa
+
+no sólo evaluarlos como estudiantes, profesionales y docentes que usan las TIC, sino tener
+una idea de si el paso por una institución universitaria supone la garantía de tener unos mínimos
+conocimientos en esta área que sean de utilidad a la hora de incorporarse como profesionales, docentes y aprendices del nuevo entorno
+tecno-social (Prendes & Castañeda, 2010).
+Siguiendo a De Zubiría (2013), quien realizó
+un estudio de investigación llamado El maestro
+y los desafíos a la educación en el siglo XXI, expresa su preocupación por la falta de equilibrio
+entre los elementos que hacen parte del sistema
+educativo del siglo XXI, cada uno atiende a intencionalidades diferentes acordes con la época en
+que surgen, es decir los estudiantes nativos nacen y vivencian entre las tecnologías y exigen del
+mundo cada vez mayor desarrollo, los docentes
+por su parte fueron formados con otras metodologías y herramientas y su dinámica es diferente
+a la dinámica que exige el estudiante, en esta
+preocupación surge la presente investigación
+con el fin de dar una mirada amplia y tajante.
+Por otro lado, Zubiría en este trabajo argumenta que el mundo exige flexibilidad y creatividad para adaptarse a una vida profundamente
+cambiante, y la escuela asume currículos fijos
+delimitados desde siglos atrás. Unos jóvenes
+que vivirán en el Siglo XXI formados con maestros del siglo XX, pero con modelos pedagógicos y currículos del siglo XIX. El autor coloca en
+discusión ocho posibles desafíos de las escuelas en las primeras décadas del siglo que inicia y a las cuales han intentado dar respuesta
+durante las dos últimas décadas de vida en el
+Instituto Alberto Merani en Bogotá (Colombia),
+desde la perspectiva de la Pedagogía Dialogante: Privilegiar el desarrollo frente al aprendizaje, Abordar al ser humano en su complejidad
+(diversidad e integralidad), Priorizar el trabajo
+en competencias básicas, Desarrollar mayor
+diversidad y flexibilidad curricular en la educación básica y media, Formar individuos más
+autónomos, favorecer el interés por el conocer,
+favorecer la solidaridad y la diferenciación indi-
+
+vidual, y finalmente desarrollar la inteligencia
+intra e interpersonal
+Impacto de las competencias digitales en
+los docentes de básica secundaria, es otra investigación desarrollada por Lesmes, Zermeño & Chávez (2014), encaminada a analizar el
+impacto de las competencias digitales en los
+docentes de las instituciones educativas públicas de Básica Secundaria, en los procesos de
+formación de estudiantes. Este estudio se desarrolló siguiendo una metodología cualitativa y
+concluye que las competencias digitales mejoran la productividad en el desarrollo de actividades en el aula, la comunicación y manejo de
+información, lo cual favorece los procesos de
+enseñanza y el logro de objetivos.
+Otra experiencia desarrollada por Delgado &
+Cantú (2016), es la titulada Saberes informáticos
+e informacionales en un grupo de docentes de
+secundaria una institución pública en Colombia,
+cuyo objetivo estuvo orientado a ofrecer una alfabetización informacional (saberes informáticos
+e informacionales) a los docentes para promover
+procesos de interacción crítica y reflexiva con
+respecto al uso de TIC y al acceso de recursos
+en la web para su inclusión en el aula.
+En un estudio similar denominado Apropiación de los saberes digitales mínimos en docentes de educación básica secundaria de la institución Acción Comunal de Cisneros & Valadez
+(2016), se cuestiona ¿En qué medida un grado
+alto de los saberes digitales en los docentes de
+la institución educativa, favorece en los procesos de enseñanza en las aulas de clases?, obteniendo como resultados que el nivel de apropiación de saberes digitales son mínimos por lo
+cual proponen algunas alternativa para elevar
+el nivel de uso, apropiación e integración.
+Por su parte, el estudio de Domínguez (2017),
+titulado Jóvenes universitarios: Diferencias de
+acceso y uso de dispositivos y redes sociales
+digitales, se encamina a analizar el actuar del
+joven universitario desde dos perspectivas: el
+joven y el estudiante, ya que, en ambos escenarios, este sujeto es capaz de dialogar, discu-
+
+Revista Electrónica de Investigación e Innovación Educativa
+
+|
+
+87
+
+tir e interactuar cotidianamente en el marco de
+una cultura digital.
+Asimismo, se ubicó el trabajo de Ortega &
+Benítez (2017) que se titula Literacidad digital en
+el entorno académico de los estudiantes universitarios, cuyo objetivo se orientó a analizar la literacidad digital en estudiantes universitarios, a
+partir del análisis a las prácticas académicas realizadas a través de recursos tecnológicos. Este
+análisis se adelantó desde tres dimensiones: administración de la información, creación de nuevo conocimiento y comunicación, socialización y
+colaboración. El estudio presenta algunos retos
+tecnológicos a los que se enfrentan los jóvenes
+de ahora; y concluye, que la población objeto
+de estudio, no presentan habilidades asociadas
+con la literacidad digital, por lo que resulta importante revisar las formas en la que se comunican
+a través de los medios digitales, ya se descuidan
+prácticas como la socialización y colaboración
+con otros en el escenario académico.
+Esta revisión de literatura académica permite concluir que son muchos los esfuerzos que
+se vienen adelantando en diferentes escenarios
+académicos e investigativos orientados a conocer el nivel de saberes o competencias digitales en estudiantes y docentes, con el propósito
+de contribuir con la reducción de la brecha digital; así mismo, son varias las intenciones que
+se consolidan en la comunidad académica y
+científica que propenden por la integración de
+TIC en la formación docente como una forma
+de atender los desafíos que postula la sociedad del siglo XXI.
+
+Metodología
+El desarrollo de este estudio se instala en el
+marco del paradigma interpretativo hermenéutico, bajo el enfoque cualitativo. Cabe anotar
+que el paradigma interpretativo busca develar
+la naturaleza de una realidad para explicar su
+existencia en función de sus diferencias y particularidades. Es así que, un estudio interpretativo hermenéutico se orienta a la búsqueda de
+
+88
+
+|
+
+la comprensión de un fenómeno. Por otro lado,
+esta investigación se enmarca dentro el enfoque
+cualitativo, que según Denzin y Lincoln (1994)
+citado en Vasilachis (2006), la investigación
+cualitativa es multimetódica, naturalista e interpretativa. Lo que permite referir que el investigador que emplea un método cualitativo asumen
+el reto de indagar contextos naturales para interpretar o dar sentido al fenómeno estudiado.
+
+Resultados
+La educación ha conservado en esencia un
+mismo esquema en el que el docente transmite de forma activa y los estudiantes reciben de
+forma pasiva. En algunos casos los estudiantes
+son vistos como entes más activos y co-responsables de su formación y al docente se le ve
+como un acompañante del proceso, como un
+facilitador. La educación ha sido, asimismo, texto-céntrica, dejando como medios complementarios o incluso fuera del proceso de enseñanza
+aprendizaje a otros tipos de información. En este
+sentido, se busca aportar desde esta propuesta algunos elementos que promuevan el uso y
+apropiación de TIC en los docentes desde la
+predominancia de los saberse digitales.
+La presencia de las TIC en los modelos educativos actuales es inminente e incuestionable,
+sin embargo, su incorporación suele ser el resultado de ocurrencias, de modas y de movimientos
+comerciales, dejando pendiente la reflexión académica sobre su adopción. En este escrito se señala la contribución de los saberes digitales para
+el maestro de hoy, por lo que se sugiere fomentarlos como una oportunidad de innovar en las
+practicas pedagógica y así conducir a responder
+a los intereses del estudiante contemporáneo.
+Los saberes digitales están organizados en
+cuatro rubros: manejo de sistemas digitales;
+manipulación de contenido; comunicación y
+socialización en entornos digitales; y manejo
+de información.
+๏๏ Manejo de sistemas digitales
+
+Revista Electrónica de Investigación e Innovación Educativa
+
+Saber usar dispositivos: Este saber digital
+se asocia con el acceso y habilidad del usuario
+para manipular diferentes dispositivos tecnológicos. Es así, que la dominancia en este saber le permite reconocer los principales componentes físicos de un dispositivo tecnológica
+como Tablet, Smartphone, portátil, equipo de
+escritorio, entre otros. Además, identificar las
+funcionalidades que ofrece los dispositivos
+tecnológicos a los que tiene acceso. También,
+identificar los principales usos educativos de
+los dispositivos tecnológicos que pueden aportar a su desempeño académico y finalmente
+reconocer algunas herramientas básicas para
+mejorar el almacenamiento, la comunicación,
+la transmisión e intercambio de información de
+manera efectiva.
+Saber administrar archivos: El segundo
+saber se orienta a fortalecer los conocimientos
+que tiene el usuario para navegar, manipular y
+editar información; por lo que está en capacidad de crear, eliminar y editar archivos off line y
+online. De otra parte, identifica diferentes tipos
+de formatos de archivo y sugiere el software
+para visualizarlo o reproducirlo. También utiliza
+variedad de textos e interfaces para transmitir
+información y expresar ideas propias combinando texto, audio, imágenes estáticas o dinámicas, videos y gestos.
+Saber usar programas y sistemas de información especializados: Este saber evalúa
+conocimientos asociados con el uso de software especializado y el dominio de prácticas
+avanzadas en el manejo de la web como: el
+uso de revistas especializadas, revistas electrónicas, páginas web, entre otros.
+๏๏ Manipulación de contenido digital
+
+Saber crear y manipular contenido de texto
+y texto enriquecido: Este saber conduce a determinar habilidades para la creación y edición
+de entradas en páginas web, blogs, y demás
+escenarios de participación que ofrece la red.
+
+Saber crear y manipular conjuntos de datos: Habilidades para la creación de contenidos en software off-line y on- line.
+Saber crear y manipular medios y multimedia: Este saber busca identificar destrezas
+en la producción y reproducción de contenido
+utilizando diferentes herramientas multimediales y promoviendo su distribución a través de
+diversos soportes digitales.
+๏๏ Comunicación y socialización en entornos digitales
+
+Saber comunicarse en entornos digitales:
+Este saber digital busca identificar las habilidades que tiene los estudiantes para comunicar
+y transmitir información en escenario digitales haciendo uso de herramientas síncronas y
+asíncronas.
+Saber socializar y colaborar en entornos
+digitales: Este saber está encaminado a identificar los conocimientos y habilidades para adelantar procesos de participación e interacción
+social a través de redes sociales o plataforma
+colaborativas.
+๏๏ Manejo de Información
+
+Saber ejercer y respetar una ciudadanía
+digital: Busca determinar el comportamiento
+de las personas en la red y el uso ético de la
+información, para evitar riesgos asociados con
+hurto, phishing, ciberacoso y ciberbullying.
+Literacidad digital: Los conocimientos de
+este saber están asociados con buscar información veraz y asumir una postura crítica frente al contenido encontrado. En este sentido, el
+usuario reconoce la importancia de hacer búsquedas de información avanzadas en bases de
+datos científicas y portales de revistas especializadas. Además, demuestra su preocupación
+por obtener información confiable y de calidad.
+La definición de estos saberes digitales permite anticipar que el perfil del docente contemporáneo debe estar abierto a un horizonte de
+
+Revista Electrónica de Investigación e Innovación Educativa
+
+|
+
+89
+
+cambio que permita orientar una nueva propuesta pedagógica articulada con las demandas de la sociedad actual. El maestro que se
+necesita hoy es aquel capaz de convertirse
+en líder, en mediador entre la comunidad y el
+conocimiento y que por lo tanto debe ser un
+ejemplo ante sus alumnos y ante la sociedad
+de buen ciudadano: respetuoso de la ley, de
+amplias convicciones democráticas y dotado
+con la actitud, los conocimientos y las herramientas necesarias para superar el esquema
+centrado en la información y la memoria, que
+permitan orientarlo hacia nuevos modelos de
+desarrollo de competencias Ministerio de Educación Nacional – (MEN 2005:p2).
+Según (Saavedra 2018:11), los procesos de
+formación se ven impactados por diversos desafíos tecnológicos que merecen la atención
+del educador, con el fin de ofrecer una formación para un mundo diverso y pluricultural. El
+educador contemporáneo requiere dotarse de
+herramientas para interpretar la realidad de
+cada contexto; por esta razón, debe existir un
+esfuerzo académico, en aras de proponer caminos de formación integrales que respondan
+a los tiempos actuales, siempre en armonía con
+la política educativa.
+Una respuesta a estos desafíos tecnológicos
+que enfrenta el docente de hoy, es la formulación de políticas educativas que ofrecen pauta
+para lograr una integración pedagógica de las
+TIC a través del fortalecimiento de sus competencias: pedagógica, tecnológica, comunicativa,
+investigativa y de gestión. Dentro de los últimos
+lineamientos que publicó el Ministerio de Educación Colombiano está el documento Competencias TIC para el desarrollo profesional docente publicado en el año 2013, que adicional de
+señalar las competencias que deben fortalecer
+los docentes desde la integración de TIC, sugieren tres niveles de integración: explorador, integrador e innovador. La idea es que, en el nivel
+explorador, el docente supere los miedos y prejuicios de la tecnología para reconocer y adoptar
+nuevos recursos en la enseñanza. En un segun-
+
+90
+
+|
+
+do momento, se postula el momento integrador
+donde a partir de los saberes previos del docente, es capaz de proponer ideas para integrar las
+TIC en la planeación didáctica de sus prácticas
+pedagógica; finalmente, en un tercer momento, el docente innovador, coloca a prueba los
+aprendizajes adquiridos para crear estrategias
+innovadoras que lo conduzcan progresivamente
+a la reconfiguración de su práctica pedagógica.
+Sin duda, el impacto tecnológico ha llevado
+a que la sociedad actual se transforme constantemente, por lo que los desafíos de los docentes no solo se consolidan en el presente,
+sino en el futuro, es así que el maestro de hoy
+debe cuestionarse sobre cómo enseñar en
+tiempos revueltos, sin que el acto de enseñar
+desconozca el contexto. Las TIC como ejes de
+democratización del conocimiento deben ser
+concebidas como un universo de posibilidades donde el asomo de la tecnología en el aula
+se visualice como dispositivos de cambio, que
+aunado con el actuar docente responda a las
+demandas sociales y tecnológicas.
+
+Conclusión
+Las teorías contemporáneas deben ser el bastón que guíe a los maestros con viejas tradiciones de enseñanza, ya que el docente de hoy se
+enfrenta a un escenario cambiante y diverso,
+donde confluyen jóvenes que han sido etiquetados como generaciones emergentes, que llegan a implementar viejas estrategias en nuevos
+escenarios que se revisten de diversidad.
+La época contemporánea exige un nuevo
+perfil tecnológico para los docentes y es indispensable que las naciones desarrollen capacidades de actualización y formación inicial para
+los docentes con un fuerte contenido tecnológico. Aquí se ha propuesto un perfil básico en tanto referente para la discusión. Seguramente en
+el espacio nacional específico habrán de construirse nuevos consensos, pero al menos, los
+docentes contemporáneos tienen un horizonte
+para su capacitación y formación continua.
+
+Revista Electrónica de Investigación e Innovación Educativa
+
+Bibliografía
+Buritica, Alvaro Recio. “El perfil del educador para
+el siglo XXI.” Ciencia e Ingeniería Neogranadina 3 (1995): 21-28.
+Cisneros, Vicente Javier Delgado, and Maricarmen
+Cantú Valadez. “Apropiación de los saberes
+digitales mínimos en docentes de educación
+básica secundaria de la institución Acción
+Comunal.” Edutec. Revista Electrónica de
+Tecnología Educativa 56 (2016): a333-a333.
+Delgado, V. J., and M. Cantú. “Saberes informáticos e informacionales en un Grupo de docentes de secundaria una Institución pública en Colombia.” Edutec Revista Electrónica
+de Tecnología Educativa 56 (2016).
+Díaz, F. Metas educativas 2021 (s.f.). Recuperado
+el 29 de Octubre de 2014, de http://www.oei.
+es/metas2021/expertos02.ht
+De Gialdino, Vasilachis. “Estrategias de investigación
+cualitativa.” Barcelona: Gedisa (2006): 42-50.
+Domínguez. Jóvenes universitarios: Diferencias
+de acceso y uso de dispositivos y redes sociales digitales. (2017).
+Freire, Paulo. Pedagogía de la esperanza: un reencuentro con la pedagogía del oprimido.
+Siglo XXI, 1993.
+Lesmes, Yair Fernando Merchán, Marcela Georgina Gómez Zermeño, and María Manuela
+Pintor Chávez. “Impacto de las competencias
+digitales en los docentes de básica secundaria.” Convergencia Educativa 4 (2014): 67-83.
+Czernik, Diego Sebastián Levis. “Alfabetos y saberes: la alfabetización digital.” Comunicar:
+Revista científica iberoamericana de comunicación y educación 26 (2006): 78-82.
+
+MEN. Revolución educativa. Al tablero. (2005) Recuperado el 01 de Enero de 2019, de https://
+www.mineducacion.gov.co/1621/propertyvalues-31232_tablero_pdf.pdf
+Muñoz, Ricardo Fernández. “Competencias profesionales del docente en la sociedad del siglo XXI.” Organización y gestión educativa:
+Revista del Fórum Europeo de Administradores de la Educación. Vol. 11. No. 1. Ciss
+Praxis, 2003.
+Ortega, M. F. Q., & Benítez, C. C. N. Literacidad
+digital en el entorno académico de los estudiantes universitarios. (2017).
+Partnership for 21st Century Skills. (2009). P21
+Framework definitions. Recuperado de http://
+www.p21.org/storage/documents/P21_Framework_Definitions.pdf
+Prendes Espinosa, María Paz, Linda Castañeda
+Quintero, and Isabel Gutiérrez Porlán. “Competencias para el uso de TIC de los futuros
+maestros.” (2010).
+Ramírez Martinell, A., and M. Casillas. “Saberes
+Digitales de los Docentes de Educación Básica.” Una propuesta para la discusión desde Veracruz. Veracruz: Secretaría de Educación de Veracruz (2017).
+Rodríguez, José Gregorio. “Medios y Tecnologías
+de la Información y la Comunicación: una caracterización de las prácticas en Instituciones
+Escolares de Bogotá.” Revista Colombiana de
+educación 46 (2004).
+Saavedra Bautista, Claudia Esperanza. “La formación de maestros en el marco de apuestas
+tecnológicas emergentes.” Revista Virtual Universidad Católica del Norte 53 (2018): 2-17.
+De Zubiría, Julián. “El maestro y los desafíos a
+la educación en el siglo XXI.” Redipe virtual 825 (2013): 1-17.
+
+Revista Electrónica de Investigación e Innovación Educativa
+
+|
+
+91
+
+

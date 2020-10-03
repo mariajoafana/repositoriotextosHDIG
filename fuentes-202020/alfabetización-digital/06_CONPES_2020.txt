@@ -1,0 +1,3981 @@
+Documento
+
+CONPES
+
+3988
+
+CONSEJO NACIONAL DE POLÍTICA ECONÓMICA Y SOCIAL
+REPÚBLICA DE COLOMBIA
+DEPARTAMENTO NACIONAL DE PLANEACIÓN
+
+TECNOLOGÍAS PARA APRENDER: POLÍTICA NACIONAL PARA IMPULSAR LA
+INNOVACIÓN EN LAS PRÁCTICAS EDUCATIVAS A TRAVÉS DE LAS
+TECNOLOGÍAS DIGITALES
+
+Departamento Nacional de Planeación
+Ministerio de Educación Nacional
+Ministerio de las Tecnologías de la Información y las Comunicaciones
+
+Versión aprobada
+
+Bogotá, D.C., 31 de marzo de 2020
+
+CONSEJO NACIONAL DE POLÍTICA ECONÓMICA Y SOCIAL
+CONPES
+
+Iván Duque Márquez
+Presidente de la República
+Marta Lucía Ramírez Blanco
+Vicepresidenta de la República
+
+Alicia Victoria Arango Olmos 1
+Ministra del Interior
+
+Claudia Blum de Barberi
+Ministra de Relaciones Exteriores
+
+Alberto Carrasquilla Barrera 1
+Ministro de Hacienda y Crédito Público
+
+Margarita Leonor Cabello Blanco
+Ministra de Justicia y del Derecho
+
+Carlos Holmes Trujillo García
+Ministro de Defensa Nacional
+
+Rodolfo Enrique Zea Navarro
+Ministro de Agricultura y Desarrollo Rural
+
+Fernando Ruíz Gómez
+Ministro de Salud y Protección Social
+
+Ángel Custodio Cabrera Báez
+Ministro del Trabajo
+
+María Fernanda Suárez Londoño
+Ministra de Minas y Energía
+
+José Manuel Restrepo Abondano
+Ministro de Comercio, Industria y Turismo
+
+María Victoria Angulo González
+Ministra de Educación Nacional
+
+Ricardo José Lozano Picón 1
+Ministro de Ambiente y Desarrollo Sostenible
+
+Jonathan Tybalt Malagón González
+Ministro de Vivienda, Ciudad y Territorio
+
+Sylvia Cristina Constaín Rengifo
+Ministra de Tecnologías de la Información y las
+Comunicaciones
+
+Ángela María Orozco Gómez
+Ministra de Transporte
+
+Carmen Inés Vásquez Camacho 1
+Ministra de Cultura
+
+Ernesto Lucena Barrero
+Ministro del Deporte
+
+Mabel Gisela Torres Torres
+Ministra de Ciencia, Tecnología e Innovación
+
+Luis Alberto Rodríguez Ospino
+Director General del Departamento Nacional de Planeación
+Daniel Gómez Gaviria
+Subdirector General Sectorial
+1
+
+Amparo García Montaña
+Subdirectora General Territorial
+
+Estos miembros del CONPES no participaron en la sesión de aprobación del presente documento CONPES.
+
+2
+
+Resumen ejecutivo
+El desarrollo de las tecnologías digitales ha transformado la manera como las personas
+se comunican, interactúan, acceden a la información y generan conocimiento, lo cual plantea
+desafíos en materia de educación. En este contexto, Colombia tiene el reto de mejorar la
+calidad educativa para desarrollar las competencias que les permitan a los estudiantes
+aprovechar los beneficios de la sociedad digital.
+En términos de calidad educativa el país presenta importantes retos. De acuerdo con
+los últimos resultados de las pruebas internacionales para la evaluación de estudiantes del
+2018 (PISA, por sus siglas en inglés), el país obtuvo el puntaje más bajo que los países de
+la Organización para la Cooperación y el Desarrollo Económicos (OCDE) y su puntaje
+obtenido en ciencias y lectura disminuyó frente al año 2015, mientras que en matemáticas
+se presentó un avance mínimo. Frente a lo anterior las tecnologías digitales plantean la
+oportunidad de habilitar la innovación educativa con el fin de contribuir a la calidad en la
+educación, al desarrollo de competencias en los estudiantes y al cierre de brechas educativas.
+La presente política establece las acciones para transformar y complementar el enfoque
+del programa Computadores para Educar (CPE) para estructurar, articular y ejecutar las
+apuestas institucionales necesarias con el fin de impulsar la innovación en las prácticas
+educativas a partir de las tecnologías digitales. Lo anterior para el desarrollo de competencias
+en estudiantes de educación preescolar, básica y media del sector oficial. Para lograr este
+objetivo, las acciones de esta política se enmarcan en cuatro pilares: (i) aumentar el acceso
+a las tecnologías digitales para la creación de espacios de aprendizaje innovadores, (ii)
+mejorar la conectividad a Internet de las instituciones educativas oficiales, (iii) promover la
+apropiación de las tecnologías digitales en la comunidad educativa2, y (iv) fortalecer el
+monitoreo y la evaluación del uso, acceso e impacto de las tecnologías digitales en la
+educación. Estos cuatro pilares, implementados de forma integral, permiten enfrentar las
+principales barreras que han impedido que las tecnologías digitales hayan impulsado de
+manera sistemática la innovación en las prácticas educativas.
+El Ministerio de las Tecnologías de la Información y las Comunicaciones, de manera
+articulada con el Ministerio de Educación Nacional y el Servicio Nacional de Aprendizaje
+(SENA), liderarán la implementación de esta política en un horizonte de cinco años.
+Clasificación:
+
+I21, I28, O33, 038.
+
+Palabras clave: sociedad digital, innovación educativa, prácticas educativas, tecnologías digitales,
+competencias para el siglo XXI, calidad educativa.
+
+2
+
+Padres de familia, docentes, estudiantes, cuidadores, directivos, Secretarías de Educación.
+
+3
+
+TABLA DE CONTENIDO
+1. INTRODUCCIÓN .............................................................................................. 8
+2. ANTECEDENTES Y JUSTIFICACIÓN ....................................................................... 10
+2.1.
+
+Cobertura en acceso tecnológico................................................................... 11
+
+2.2.
+
+Conectividad a Internet ................................................................................ 13
+
+2.3.
+
+TIC para la innovación educativa .................................................................. 15
+
+2.4.
+
+Justificación ................................................................................................. 16
+
+3. DIAGNÓSTICO .............................................................................................. 17
+3.1.
+
+Insuficiente acceso a tecnologías digitales en las sedes educativas para impulsar la
+creación de espacios de aprendizaje innovadores .......................................... 21
+
+3.2.
+
+Deficiencia de conectividad a Internet en las sedes educativas ......................... 25
+
+3.2.1.
+
+Pocas sedes educativas con conectividad a Internet ......................................... 25
+
+3.2.2.
+
+Capacidad insuficiente en la conectividad a Internet en las sedes educativas ..... 27
+
+3.2.3.
+
+Baja eficiencia en la adquisición de servicios de conectividad .......................... 29
+
+3.3.
+
+Baja apropiación de las tecnologías digitales para la innovación de prácticas
+educativas .................................................................................................. 32
+
+3.3.1.
+
+Debilidad en la formación y acompañamiento al docente para la apropiación de
+las tecnologías digitales en sus prácticas de enseñanza ................................... 33
+
+3.3.2.
+
+Actitud desfavorable hacia las tecnologías digitales en la comunidad educativa . 35
+
+3.3.3.
+
+Estrategias de apropiación de las tecnologías digitales en las prácticas educativas
+que no se ajustan a las particularidades del estudiante y del territorio ............... 37
+
+3.3.4.
+
+Baja capacidad en las instituciones educativas para la gestión y apropiación de las
+tecnologías digitales .................................................................................... 38
+
+3.4.
+
+Debilidad en el monitoreo y evaluación del acceso, uso e impacto de las tecnologías
+digitales en la educación .............................................................................. 39
+
+3.4.1.
+
+Bajo desarrollo y desarticulación de los mecanismos de monitoreo y evaluación de
+la incorporación de las tecnologías digitales en la educación ........................... 41
+
+3.4.2.
+
+Desarrollo incipiente de la medición y evaluación de las competencias para el siglo
+XXI ............................................................................................................. 42
+
+4. DEFINICIÓN DE LA POLÍTICA .............................................................................. 43
+4.1.
+
+Objetivo general ......................................................................................... 43
+
+4.2.
+
+Objetivos específicos ................................................................................... 43
+4
+
+4.3.
+
+Plan de acción ............................................................................................ 43
+
+4.3.1.
+
+Aumentar el acceso a tecnologías digitales en las sedes educativas oficiales para la
+creación de espacios de aprendizaje innovadores. ......................................... 44
+
+4.3.2.
+
+Mejorar la conectividad a Internet en las sedes educativas oficiales con el fin de
+potenciar el uso de las tecnologías digitales ................................................... 48
+
+4.3.3.
+
+Promover la apropiación de las tecnologías digitales en la comunidad educativa
+para la innovación en las practicas educativas ............................................... 51
+
+4.3.4.
+
+Fortalecimiento del monitoreo y evaluación del uso, acceso e impacto de las
+tecnologías digitales en la educación ............................................................. 57
+
+4.4.
+
+Seguimiento ................................................................................................ 59
+
+4.5.
+
+Financiamiento ............................................................................................ 61
+
+5. RECOMENDACIONES ...................................................................................... 63
+6. GLOSARIO ................................................................................................... 66
+ANEXOS ........................................................................................................... 69
+Anexo A. Plan de Acción y Seguimiento (PAS)............................................................. 69
+BIBLIOGRAFÍA ..................................................................................................... 70
+
+5
+
+ÍNDICE DE TABLAS
+Tabla 1. Cifras de Acuerdo Marco Precios para Conectividad II.................................... 30
+Tabla 2. Simulación de precios de conectividad .......................................................... 31
+Tabla 3. Diplomados para docentes y directivos ETIC@ ................................................ 33
+Tabla 4. Significancia de diferencias en apropiación de las TIC para los agentes educativos
+evaluados: docentes formados vs no formados por CPE(a) ............................................. 34
+Tabla 5. Significancia de diferencias en actitudes hacia el uso educativo de las TIC para los
+agentes educativos evaluados .................................................................................... 36
+Tabla 6. Cronograma de seguimiento ......................................................................... 60
+Tabla 7. Indicadores de resultado de la Política de Tecnologías para Aprender: Política
+Nacional para impulsar la innovación en las prácticas educativas a través de las
+tecnologías digitales ................................................................................................. 61
+Tabla 8. Financiamiento de la política por entidad ...................................................... 61
+Tabla 9. Financiamiento de la política por eje estratégico............................................. 62
+
+ÍNDICE DE GRÁFICAS
+Gráfico 1. Puntaje de pruebas PISA (2015-2018) ........................................................ 18
+Gráfico 2. Índice Global de Competitividad ................................................................ 19
+Gráfico 3. Relación de estudiantes por terminales por departamento ............................. 21
+Gráfico 4. Terminales entregadas a través de CPE, 2015-2018 .................................... 22
+Gráfico 5. Devolución de terminales descartados a CPE ............................................... 22
+Gráfico 6. Porcentaje de sedes educativas sin electricidad por departamento ................. 24
+Gráfico 7. Porcentaje de sedes educativas conectadas por departamentos ..................... 26
+Gráfico 8. Porcentaje de penetración a Internet a nivel de hogar y sede educativa y
+relación de estudiantes por terminal ........................................................................... 27
+Gráfico 9. Relación número de sedes por ancho de banda contratado y promedio Mbps
+por dispositivo (computadores de escritorio, computadores portátiles y tabletas) ............. 29
+Gráfico 10. Distribución porcentual de las modalidades de contratación de conectividad de
+las entidades territoriales .......................................................................................... 30
+Gráfico 11. Docentes formados según diplomado de CPE ............................................ 34
+Gráfico 12. Porcentaje de instituciones que reportan experiencias significativas con TIC con
+docentes formados por CPE ....................................................................................... 35
+Gráfico 13. Necesidades de información según nivel de incorporación ......................... 41
+
+6
+
+SIGLAS Y ABREVIACIONES
+ATC21S
+
+Assessment and teaching of 21st Century Skills (en español,
+evaluación y enseñanza de las destrezas para el siglo XXI)
+
+BID
+
+Banco Interamericano de Desarrollo
+
+CIER
+
+Centros de Innovación Educativa Regional
+
+CONPES
+
+Consejo Nacional de Política Económica y Social
+
+CPE
+
+Computadores Para Educar
+
+DNP
+
+Departamento Nacional de Planeación
+
+Icfes
+
+Instituto Colombiano para el Fomento de Educación Superior
+
+IES
+
+Instituciones de Educación Superior
+
+IGC
+
+Índice Global de Competitividad
+
+INCI
+
+Instituto Nacional para Ciegos
+
+Insor
+
+Instituto Nacional para Sordos
+
+MOOC
+
+Massive online open courses (en español, cursos en línea abiertos y
+masivos)
+
+OCDE
+
+Organización para la Cooperación y el Desarrollo Económicos
+
+PAS
+
+Plan de Acción y Seguimiento
+
+PEI
+
+Programa Educativo Institucional
+
+PISA
+
+Programme for International Student Assesment (en español, Programa
+Internacional para la Evaluación de Estudiantes)
+
+PTA
+
+Programa Todos a Aprender
+
+RAEE
+
+Residuos de aparatos eléctricos y electrónicos
+
+SENA
+
+Servicio Nacional de Aprendizaje
+
+SGP
+
+Sistema General de Participaciones
+
+SGR
+
+Sistema General de Regalías
+
+TIC
+
+Tecnologías de la Información y las Comunicaciones
+
+7
+
+1. INTRODUCCIÓN
+El desarrollo acelerado de las tecnologías digitales3 ha transformado la manera como
+las personas se relacionan, se comunican, acceden a la información y generan conocimiento.
+Estas transformaciones requieren que los estudiantes desarrollen nuevas competencias
+acordes a los retos que plantea el siglo XXI, donde la generación del conocimiento es un eje
+central que requiere que las personas, además de procesar y organizar información, sean
+capaces de analizarla, transformarla e interpretarla. Por tanto, el pensamiento crítico, el
+trabajo colaborativo, la resolución de problemas y la alfabetización digital, entre otras,
+representan competencias que permiten a las personas desarrollarse en un entorno digital.
+Para esto el sector educativo tiene el reto de incorporar las tecnologías digitales en el sistema
+educativo, con el propósito de fomentar la innovación, y así, mejorar la calidad educativa.
+En los últimos 20 años en Colombia se han implementado políticas públicas para
+incorporar las Tecnologías de la Información y las Comunicaciones (TIC) en el ámbito
+educativo, principalmente enfocadas en la alfabetización TIC4 y en ampliar el acceso y
+servicio universal de las TIC. En el año 2000, se creó el programa Computadores para Educar
+(CPE), mediante el Documento CONPES 3063 Programa de donación masiva de
+computadores a colegios públicos Computadores para Educar5, con una intervención
+orientada a la donación de computadores a las sedes educativas. Posteriormente, en el año
+2010, a través del Documento CONPES 3670 Lineamientos de política para la continuidad
+
+de los programas de acceso y servicio universal a las Tecnologías de la Información y las
+Comunicaciones6, se dio continuidad al programa CPE y se aumentó el acceso masivo de
+terminales en las sedes educativas oficiales del país y la formación docente para la
+apropiación de las TIC7.
+
+3
+
+Para la comprensión del presente documento, se aclara que el concepto de tecnologías digitales incluye una
+visión mucho más amplia de las tecnologías de la información y las comunicaciones (TIC), que obedece a nuevos
+desarrollos tecnológicos como la robótica y la codificación que se utilizan para enseñar y aprender y crear a
+través de ellas. Estas tecnologías permiten apropiar conceptos y aplicar de manera práctica el conocimiento
+adquirido. Por tal motivo, la mención de la sigla TIC en este documento se usa en el marco de estrategias y
+acciones que han antecedido a la presente política o a definiciones que hacen referencia de manera concreta al
+uso de TIC.
+4 La alfabetización TIC es el conjunto de destrezas, conocimientos y actitudes que necesita una persona para
+poder desenvolverse funcionalmente dentro de la Sociedad de la Información (Marti & D´Agostino, 2008).
+5
+
+Disponible en https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3063.pdf.
+
+6
+
+Disponible en https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3670.pdf.
+
+7
+
+En esta ocasión se incluyeron computadores portátiles, de escritorio y tabletas.
+
+8
+
+El programa de CPE ha facilitado que las TIC se hayan introducido en las aulas de
+clase de aproximadamente 44.762 sedes educativas oficiales, a través de la entrega de
+cerca de 2 millones de terminales; sin embargo, la integración de las TIC no ha logrado
+impulsar la innovación en las prácticas educativas de manera sistemática. De acuerdo con la
+evaluación de impacto del programa CPE (2014-2018), únicamente el 38,4 % de las sedes
+educativas beneficiadas por el programa han presentado experiencias significativas de
+aprendizaje8.
+Lo anterior evidencia una problemática para el país teniendo en cuenta que la ausencia
+de innovación en la educación limita el desarrollo de competencias en los estudiantes y la
+consecución de objetivos en términos de calidad (Banco Interamericano de Desarrollo [BID],
+2012). Aunque una parte importante de la innovación educativa se deriva de la introducción
+de la tecnología digital (Blanco, 2014), el desarrollo de procesos de innovación plantea la
+incorporación de una perspectiva más amplia en la cual los estudiantes desarrollen el
+pensamiento crítico, el trabajo en equipo, el pensamiento creativo mediado por la utilización
+de tecnologías digitales, de tal manera que estas no sean un medio sino un fin para mejorar
+los procesos de aprendizaje. Por lo anterior, el enfoque de la presente política se orienta a
+definir el propósito de las tecnologías digitales en la educación y a identificar los objetivos
+educativos que se quieren alcanzar a partir de su incorporación.
+Dada la necesidad de transformar las prácticas educativas aprovechando el potencial
+que brinda el desarrollo actual de las tecnologías digitales en el entorno escolar, se requiere
+transformar el enfoque del programa CPE para estructurar, articular y ejecutar acciones que
+impulsen la innovación en las prácticas educativas para el desarrollo de competencias en los
+estudiantes de educación preescolar, básica y media del sector oficial. En este marco, la
+presente política permitirá transformar el enfoque actual del programa CPE y definirá las
+acciones necesarias para que las respectivas entidades del orden nacional las implementen
+de manera articulada para la consecución del objetivo general de la política. Para lograr
+este objetivo, las acciones de esta política se enmarcan en cuatro pilares: (i) aumentar el
+acceso a las tecnologías digitales, (ii) mejorar la conectividad a Internet, (iii) promover la
+apropiación de las tecnologías digitales en la comunidad educativa y (iv) fortalecer el
+monitoreo y la evaluación del uso, acceso e impacto de las tecnologías digitales en la
+educación.
+8
+
+Las experiencias significativas son una práctica concreta que involucran el uso de TIC. Estas experiencias
+pueden referirse a un programa, un proyecto o una actividad, que nace en un ámbito educativo con el fin de
+desarrollar un aprendizaje significativo a partir del fomento de competencias. Las experiencias significativas son
+innovadoras, responden a una necesidad del contexto identificada previamente, tienen una fundamentación
+teórica y metodológica coherente y generan un impacto en la calidad de vida de la comunidad (Ministerio de
+Educación Nacional, 2016).
+
+9
+
+Este documento CONPES consta de cinco secciones, incluyendo esta introducción. La
+segunda sección presenta los antecedentes y justificación de la política. La tercera sección
+describe el diagnóstico de los cuatro principales problemas a superar para impulsar la
+innovación en las prácticas educativas a partir de las tecnologías digitales. La cuarta sección
+define los objetivos de la política y la estrategias y acciones que permitirán alcanzarlos; así
+como el esquema de seguimiento de la política y su financiamiento. Finalmente, la quinta
+sección presenta las recomendaciones al Consejo Nacional de Política Económica y Social
+(CONPES).
+2. ANTECEDENTES Y JUSTIFICACIÓN
+En el marco de mejorar la calidad educativa, durante los últimos 30 años, diversos
+países de América Latina han diseñado políticas públicas para la integración de las TIC en
+la educación, enfocadas principalmente en modelos de un dispositivo por un estudiante (1:1),
+con el fin de contribuir a la inclusión social y la reducción de la brecha digital (Organización
+de las Naciones Unidas para la Educación, la Ciencia y la Cultura [Unesco], 2016). Sin
+embargo, la evaluación de este tipo de programas ha permitido identificar que el aumento
+del acceso TIC no garantiza por sí mismo mejoras en el aprendizaje de los estudiantes
+(Organización de Estados Americanos [OEA], 2018). El tipo de práctica pedagógica y
+condiciones en que las tecnologías digitales se aplican en el aula es el que determina el
+impacto en el aprendizaje de los estudiantes y en la calidad de la educación (BID, 2016).
+En Colombia por más de dos décadas se ha apostado por la integración de las TIC en
+los procesos educativos. La intervención del Gobierno ha estado enfocada principalmente en
+la implementación de estrategias para la dotación de terminales y contenidos digitales para
+las sedes educativas, acompañada de procesos de formación docente para la apropiación
+de las tecnologías. Estos avances han sido fundamentales para aumentar la cobertura en el
+acceso TIC; sin embargo, como se mostrará en esta sección, estas estrategias no han logrado
+que las TIC impacten de manera sistemática la transformación de las prácticas educativas en
+las aulas de clase. Lo anterior principalmente, a causa de la desarticulación de esfuerzos
+institucionales y la falta de una política pública que incorpore de manera integral los
+elementos requeridos para impulsar la innovación educativa a través de las tecnologías
+digitales, como es el caso de la conectividad a Internet, el seguimiento y evaluación de las
+intervenciones y la apropiación TIC de la comunidad educativa orientada a la innovación.
+A continuación, se hace un recuento de las principales apuestas que se han generado
+desde el Gobierno nacional para incorporar las TIC en la educación. En esta sección se
+describen las acciones que se han realizado desde tres componentes, así como las
+
+10
+
+limitaciones de cada una de ellas: (i) cobertura en acceso tecnológico, (ii) cobertura en
+conectividad y (iii) integración de las TIC para la innovación educativa.
+2.1. Cobertura en acceso tecnológico
+En el marco de masificar el uso de las TIC y cerrar la brecha digital en el país, en
+1999, a través del Documento CONPES 3063, se estructuró e implementó el programa CPE,
+el cual recibió asesoría y acompañamiento del Gobierno canadiense y la coordinación
+interinstitucional entre el Ministerio de Comunicaciones9, el Ministerio de Educación Nacional
+y el Servicio Nacional de Aprendizaje (SENA). Mediante el Decreto 2324 de 200010
+Computadores para Educar además de un programa se consolidó como una asociación
+compuesta en la actualidad por la Presidencia de la República, Fondo Único de las
+Tecnologías de la Información y las Comunicaciones, el Ministerio de Educación Nacional y
+el Servicio Nacional de Aprendizaje. En esta primera fase del programa, la estrategia estuvo
+enfocada en la dotación de computadores a sedes educativas públicas a partir de las
+donaciones realizadas por el sector privado y el sector público. En una segunda etapa, en el
+año 2010, a través del Documento CONPES 3670, el programa CPE se orientó en los
+procesos de apropiación y uso de las TIC en ámbitos educativos del sector oficial del país.
+De esta forma, a través de CPE se han obtenido mejoras en la tasa de deserción escolar,
+la tasa de repitencia y el puntaje de las pruebas Saber 11. De acuerdo con la evaluación de
+impacto de CPE, realizada por el Centro Nacional de Consultoría (CNC) para evaluar el
+programa entre el año 2010 y 2013, se encontró una menor tasa de deserción interanual en
+4,3 % en los estudiantes pertenecientes a establecimientos educativos que tuvieron docentes
+formados por el programa, frente a los establecimientos educativos que no. Es decir que un
+colegio que recibió formación de Computadores para Educar, frente a uno que no, logró que
+163 mil estudiantes se mantuvieran en el sistema educativo. Así mismo, se observó que un
+aumento en la proporción de docentes formados aumentó el puntaje de las pruebas Saber
+11 en 10,6 % (Centro Nacional de Consultoría, 2014). La evaluación de impacto también
+identificó que un aumento de 0 a 0,08 en la proporción de docentes formados aumentó la
+tasa de acceso de los estudiantes a la educación superior en 23 %.
+Desde el año 2000 hasta la fecha, CPE ha entregado 1,9 millones de terminales de los
+2,8 millones que tienen las sedes educativas públicas. Esto ha permitido contar con una
+relación promedio nacional de tres estudiantes por terminal (3:1), lo cual ha beneficiado a
+
+9
+
+Actualmente Ministerio de las Tecnologías de la Información y las Telecomunicaciones.
+
+10
+
+Por medio del cual se modifica el Decreto 1130 de 1999 y se establecen los organismos y entidades que
+estarán a cargo de la implantación y desarrollo de los Programas de la Agenda de Conectividad, en especial,
+del Programa Computadores para Educar y se establecen otras disposiciones para los mismos efectos.
+
+11
+
+más de siete millones de estudiantes y a más de 150.000 docentes a través de la formación
+en TIC. Lo anterior ha permitido que CPE sea un programa central de inclusión de tecnologías
+en educación para la educación básica y media pública en Colombia (Unesco, 2016b). Una
+muestra de ello es que la brecha de acceso a terminales pasó de una relación de 24 niños
+por computador en el año 2010 a una relación de 3 niños por computador en el año 2019
+y que la cobertura del programa de CPE ha logrado alcanzar al total de municipios del país.
+Si bien la estrategia de acceso a las TIC de CPE tiene por objetivo alcanzar una relación
+de 1:1, (Unesco, 2016b), a lo largo de su implementación, CPE ha optado por implementar
+una estrategia de acceso gradual en el aumento de la tasa de alumnos por terminales
+teniendo en cuenta factores de viabilidad económica, logísticos y técnicos que condicionan
+un proceso de integración paulatino de las terminales en las aulas de clase (Unesco, 2016b).
+Así, mientras que en el año 2012 la meta fue alcanzar 12 estudiantes por terminal, para el
+año 2019, el programa CPE se enfocó en alcanzar de manera gradual una relación objetivo
+de 2 estudiantes por terminal.
+La apuesta por aumentar la dotación de tecnologías por parte de CPE se ha centrado
+principalmente en computadores, tabletas y contenidos digitales; sin embargo, la dotación
+de tecnologías digitales y la creación de laboratorios o espacios de innovación que estén en
+sintonía con las nuevas tendencias mundiales ha sido incipiente y no masificada. Esto es
+relevante dado que a nivel mundial los educadores más innovadores están introduciendo
+tecnologías digitales como los cursos masivos en línea, la realidad virtual, el Internet de las
+cosas11, entre otras, para mejorar la experiencia de las aulas tradicionales, reestructurar los
+roles de docentes, estudiantes y transformar las prácticas educativas.
+Por otra parte, la estrategia de apropiación TIC del programa de CPE ha estado
+focalizada principalmente hacia los docentes, pero no ha logrado incidir de manera
+significativa en los niveles de apropiación de los estudiantes. Aunque el 60 % de los docentes
+formados por CPE participaron del componente de formación para la Innovación a partir de
+las TIC, menos de la mitad de las instituciones educativas que cuentan con docentes formados
+reportan alguna experiencia significativa de innovación en el aula de clase a través del uso
+de las TIC (Universidad Nacional de Colombia, 2018). Por consiguiente, la debilidad en el
+componente formativo está relacionada con su reducido impacto sobre la innovación de las
+prácticas educativas.
+Además de las limitaciones descritas en los párrafos anteriores, el programa carece de
+estrategias que acompañen el acceso de las TIC en el ámbito educativo, como la conectividad
+
+11
+
+Hace referencia a dispositivos, objetos y sensores que generan, intercambian y consumen datos con una
+mínima intervención humana a través de Internet.
+
+12
+
+a Internet (Unesco, 2016b), el monitoreo y seguimiento de las TIC en la educación y una
+estrategia de apropiación fortalecida que esté orientada a la innovación en la educación.
+En relación con la dotación de contenidos digitales, el Ministerio de Educación
+Nacional en el año 2004 creó el portal Colombia Aprende, el cual, junto con los contenidos
+desarrollados por el programa CPE, ha sido el eje central de la gestión TIC implementada
+por CPE, este portal dispone de oferta de contenidos y cursos virtuales para los niveles de
+educación primaria, básica, media y superior. El propósito de Colombia Aprende es difundir
+conocimiento para toda la comunidad educativa para mejorar la enseñanza de docentes y
+el aprendizaje de los estudiantes. Por otra parte, la Oficina de Innovación Educativa del
+Ministerio de Educación Nacional ha consolidado una amplia oferta de contenidos
+educativos para todas las áreas y grados. Actualmente, se cuenta con una oferta de 40.000
+contenidos, los cuales se han distribuido y circulado en distintos canales en línea como el
+Portal Colombia Aprende y canales fuera de línea. Este tipo de contenidos se han precargado
+en las tabletas y/o computadores que se han entregado desde 2015.
+A pesar de lo anterior, la entrega de contenidos educativos no ha contado con
+instrumentos o mecanismos de medición frente a su uso y apropiación, lo cual ha dificultado
+evaluar su uso y pertinencia. Así mismo, no existen estadísticas relacionadas con la
+circulación de los contenidos distribuidos a través de los terminales entregados por CPE
+durante los últimos años. Una falencia que se ha identificado es la falta de promoción de
+estas herramientas entre los docentes de distintos grados y áreas.
+2.2. Conectividad a Internet
+En materia de conectividad, con el fin de disminuir las brechas de acceso universal a
+Internet y uso de las TIC en las sedes educativas rurales y urbanas, el Ministerio de Educación
+Nacional y el Ministerio de las Tecnologías de la Información y las Comunicaciones han
+implementado programas como Conexión Total y Acceso Comunitario a Internet. En el año
+2011, a través del artículo 149 del Plan Nacional de Desarrollo (PND) 2010-2014
+Prosperidad para Todos, el Gobierno nacional, en cabeza del Ministerio de Tecnologías de
+la Información y las Comunicaciones y el Ministerio de Educación Nacional, creó el
+programa Conexión Total con el objetivo de aumentar las competencias de los estudiantes
+en el uso de TIC a partir de la ampliación de la conectividad en los establecimientos
+educativos. Este programa establece lineamientos para que las Secretarías de Educación
+contraten la prestación de los servicios de conectividad en las sedes educativas priorizadas
+por el programa.
+
+13
+
+Por su parte, en el marco del Plan Vive Digital 2010-201812, el Ministerio de
+Tecnologías de la Información y las Comunicaciones implementó en el año 2013 los Kioscos
+Vive Digital, que fueron puntos de acceso comunitario a Internet instalados en lugares
+comunes y de fácil acceso como casas de familia, salones comunales y colegios. En la fase
+II del programa, el Gobierno nacional adjudicó 5.648 Kioscos Vive Digital exclusivamente
+en establecimientos educativos de las zonas rurales del país.
+En el 2015, el Departamento Nacional de Planeación (DNP), a través de una
+evaluación de impacto identificó resultados positivos de los Kioscos Vive Digital para la
+apropiación de las TIC y potenciar procesos educativos y productivos, así como para la
+generación de ingresos de los hogares. Esta evaluación determinó que los Kioscos logran
+reducir los costos de transacción para los ciudadanos y apalancar procesos productivos. De
+manera particular, el 15 % de los usuarios de los Kioscos percibió cambios en los ingresos
+obtenidos desde el uso de esta solución. Sin embargo, en términos de calidad, los usuarios
+identificaron problemas con la velocidad del Internet en las zonas rurales, por lo cual
+buscaron alternativas distintas de conectividad (Departamento Nacional de Planeación,
+2015).
+En el año 2016, en el estudio de sostenibilidad de la oferta de acceso universal, el
+Departamento Nacional de Planeación recomendó replantear los modelos operativos de los
+proyectos de acceso de conectividad a Internet para zonas rurales, con el fin de optimizar la
+inversión financiera y fortalecer su sostenibilidad. Así mismo, se recomendó la celebración
+de contratos de capacidad satelital, cuando fuera necesario, y ampliar su duración con el fin
+de lograr eficiencias en la inversión.
+De acuerdo con este estudio, en relación con las limitaciones de la operación de los
+kioscos, se identifican los elevados costos asociados a que los proveedores del servicio se
+ven comprometidos a realizar una inversión tecnológica muy alta y de corto plazo, que
+termina elevando el presupuesto de estas empresas y la calidad de la conectividad a Internet
+(Telbroad, 2016). Otra de las limitaciones es la discontinuidad de la conectividad en distintos
+periodos de tiempo dando como resultado la suspensión periódica del servicio de Internet.
+Por ejemplo, en el año 2016 en departamentos como Chocó, Norte de Santander, Bolívar,
+Valle del Cauca, Córdoba y Antioquia algunos de los KVD fueron apagados, y reconectados
+en el año 2017 (Departamento Nacional de Planeación, 2018).
+
+12
+
+Buscó promover el acceso, uso y apropiación masivos de las TIC, a través de políticas y programas para el
+logro de niveles progresivos y sostenibles de desarrollo en Colombia (reducir la pobreza, generar empleo y
+aumentar la competitividad de la industria colombiana) (Ministerio de las Tecnologías de la Información y las
+Comunicaciones, 2015).
+
+14
+
+Los esfuerzos del Gobierno durante los últimos años han permitido ampliar la cobertura
+de conectividad en el ámbito educativo. Sin embargo, otra de las limitaciones que se
+identifica es que las estrategias en materia de conectividad no han estado articuladas con
+las estrategias de acceso y dotación de terminales. Por ejemplo, entre el año 2015 al año
+2018, CPE entregó terminales en 32.952 sedes educativas de las cuales 17.634 no tienen
+conectividad a Internet, lo equivalente al 53,5 %. Esto es relevante porque a pesar de que la
+mayor parte de contenidos de CPE no necesitan de Internet, los docentes y directivos formados
+enfrentan dificultades para integrar las tecnologías digitales en la educación a causa de la
+falta de conectividad a Internet (Universidad Nacional de Colombia, 2018).
+2.3. TIC para la innovación educativa
+El fin último de las tecnologías digitales en el ámbito educativo debe ser la
+transformación de las prácticas educativas tradicionales, pues la incorporación de las
+tecnologías que no consideren innovaciones en la educación no permite la consecución de
+resultados que impacten positivamente en la calidad educativa (Banco Interamericano de
+Desarrollo-BID, 2012).
+La primera iniciativa en abordar el enfoque de innovación educativa en la integración
+de las TIC se implementó durante el periodo 2002-2010. El Ministerio de Educación Nacional
+implementó el Programa Nacional de Medios Educativos y Uso de TIC, que promovió el uso
+y apropiación de las TIC en el marco de la innovación educativa. En 2007, se propuso una
+ruta de apropiación de TIC que facilitó a docentes y directivos la identificación de los
+programas posibles para profundizar y reflexionar sobre el uso pedagógico de estas
+tecnologías. En el marco de este programa posteriormente se creó la Oficina de Innovación
+Educativa del Ministerio de Educación Nacional.
+Una de las limitaciones que tuvo este programa fue la carencia de una estrategia de
+seguimiento y evaluación que facilitara una línea base para evaluar los resultados y medir
+posteriormente el impacto de la intervención, así como de un registro sistemático de procesos
+y experiencias que tuvieran como horizonte común el fomento de la innovación educativa.
+También se identificó que, a pesar de los esfuerzos del programa, la transformación de
+prácticas educativas se encontraba en un nivel incipiente (Comisión Económica para América
+Latina y el Caribe [Cepal], 2012).
+Del año 2014 al 2015, se implementó el piloto Colegio 10 TIC, el cual benefició a
+200 instituciones educativas y promovió, a través del modelo de aprendizaje ubicuo en el
+que se generan condiciones habilitantes para la interacción entre la gestión, el aprendizaje
+y la tecnología, las condiciones para promover la cultura de la innovación. Este piloto
+permitió la recolección del instrumento de información para el Observatorio de Innovación
+15
+
+Educativa con Uso de TIC para la consolidación de 27 indicadores formulados por el
+observatorio el cual permitió determinar que, de los 2.472 docentes encuestados, 1.055 usó
+dispositivos tecnológicos menos de dos horas por semana (Ministerio de Educación Nacional,
+2016).
+En el año 2016 a partir del Plan Decenal de Educación (2016-2026) se planteó el uso
+pedagógico de las tecnologías digitales para impulsar la innovación y la promoción del
+desarrollo de competencias para el siglo XXI. Así mismo, se consideró que las tecnologías
+son esenciales para la transformación del sistema educativo, con el fin de que la educación
+responda a los contextos y las necesidades de las regiones que conforman al país. En el plan
+se identificó como principal desafío el uso pertinente de las nuevas tecnologías para apoyar
+la enseñanza y la innovación educativa. Para abordar este desafío se plantearon estrategias
+orientadas a (i) fomentar en la comunidad educativa el uso de las TIC en el aprendizaje
+continuo, (ii) incentivar el uso pedagógico de las TIC en las prácticas docentes y (iii) fomentar
+los aprendizajes de tecnología que respondan a contextos y retos de la sociedad digital
+(Ministerio de Educación Nacional, 2016).
+En el año 2019, el Ministerio de Educación Nacional implementó el programa
+Aprender Digital, en donde se reconoce que la transformación digital implica un cambio de
+aprendizaje en los estudiantes y exige la transformación de la enseñanza por parte de
+docentes y directivos. Para ello, se fomenta la innovación educativa y la transformación de
+los ambientes de aprendizaje a partir de las herramientas digitales. Sin embargo, al ser un
+programa reciente, requiere del apoyo y promoción de diferentes acciones que impulsen la
+estrategia y que permitan lograr una mayor cobertura en las escuelas públicas a nivel
+nacional.
+Finalmente, en octubre del año 2019, se aprobó el Documento CONPES 3975
+Transformación Digital e Inteligencia Artificial. A través de esta política se identificó la
+necesidad de preparar al talento humano del país para adquirir las nuevas habilidades
+digitales en el marco de la cuarta revolución industrial e implementar acciones para fortalecer
+los ecosistemas de innovación educativa y los espacios de aprendizaje para la creatividad,
+la cultura de innovación y el emprendimiento.
+2.4. Justificación
+El recuento anterior permite identificar que en el país se han implementado diferentes
+estrategias para integrar las TIC al ámbito educativo. De esta manera, se ha conseguido
+aumentar el acceso a las TIC en las sedes educativas públicas del país, promover la formación
+de docentes para su apropiación y generar condiciones para aumentar la conectividad a
+Internet en las zonas rurales y urbanas. Así mismo, se identifica que desde hace más 10 años
+16
+
+se viene impulsando el uso de las TIC para la transformación de las prácticas educativas; sin
+embargo, las estrategias encaminadas a la innovación han tenido limitaciones de
+sostenibilidad y cobertura.
+Por otra parte, dado el contexto de transformación digital que vive el país y la
+oportunidad de aprovechar las tecnologías digitales para fomentar la educación, Colombia
+requiere de una política pública para impulsar la innovación educativa a través de las
+tecnologías digitales a partir de la transformación del enfoque del programa de CPE. Lo
+anterior en articulación con acciones interinstitucionales que permitan integrar las tecnologías
+digitales en la educación para alcanzar un cambio de paradigma en los ambientes de
+aprendizaje y enseñanza en un horizonte de mediano plazo.
+Reconociendo el contexto de la Transformación Digital y la cuarta revolución industrial,
+el Plan Nacional de Desarrollo 2018-2022 Pacto por Colombia, Pacto por la Equidad plantea
+la transformación de las prácticas educativas mediante las TIC para el desarrollo de
+competencias en los estudiantes y docentes de cara a la transformación digital. Así mismo,
+el PND plantea fortalecer el programa CPE con el fin de ampliar su alcance y migrarlo hacía
+un enfoque de tecnologías para aprender.
+3. DIAGNÓSTICO
+La incorporación de las tecnologías digitales en la vida cotidiana genera nuevas
+oportunidades y grandes retos relacionados con el cierre de brechas sociales, el aumento de
+la productividad y el crecimiento económico de un país. Así mismo, el capital humano es un
+factor fundamental para enfrentar las transformaciones sociales y económicas asociadas a
+las tecnologías digitales. Frente a lo anterior, el sector educativo tiene el reto de garantizar
+una educación de calidad que se caracteriza por la promoción de las competencias
+necesarias para participar en las diferentes áreas de la vida humana, desarrollar el proyecto
+de vida y afrontar los desafíos de la sociedad actual (Unesco, 2007, pág. 9) que se ha
+transformado por las tecnologías digitales.
+A pesar de que Colombia, entre el 2012 y el 2015, aumentó el puntaje de las pruebas
+PISA en lenguaje, matemáticas y ciencias, los resultados para el año 2018 evidencian un
+retroceso del país en el puntaje obtenido para lectura y ciencias en comparación con los
+resultados del año 2015. Así mismo, el país presenta una brecha importante frente al
+promedio de países de la OCDE en los tres componentes de evaluación: 98 puntos en
+matemáticas, 75 puntos en lectura y 76 puntos en ciencias (Gráfico 1).
+
+17
+
+Gráfico 1. Puntaje de pruebas PISA (2015-2018)
+Colombia 2015
+
+Colombia 2018
+
+OCDE media 2018
+
+Chile 2018
+
+600
+500
+
+489
+
+400
+
+417
+
+300
+390
+200
+
+391
+
+487
+
+489
+
+452
+
+444
+
+425
+
+412
+
+416
+
+413
+
+100
+
+0
+Matemáticas
+
+Lectura
+
+Ciencias
+
+Fuente: DNP a partir de información de PISA-OCDE (2019).
+
+En relación con las posiciones obtenidas, de 79 economías de ingresos altos y medios
+evaluadas en la prueba PISA, Colombia ocupó la posición 58 en lectura, la posición 69 en
+matemáticas y 62 en ciencias. Lo anterior, evidencia que Colombia enfrenta grandes retos
+para cerrar la brecha con el promedio de países de la OCDE y avanzar hacia mejores niveles
+de educación.
+De igual manera, la calidad en la educación desde la primera infancia hasta la
+educación posmedia es un factor determinante en la competitividad de un país (Consejo
+Privado de Competitividad, 2017) y en la capacidad que tiene para lograr sendas de
+crecimiento sostenido en el largo plazo. De acuerdo con el Índice Global de Competitividad
+(IGC)13, que mide la utilización de los recursos que dispone un país para proveer a sus
+habitantes un alto nivel de prosperidad, Colombia obtuvo en el año 2019, el puesto 57 de
+141 países y se ubicó 24 puestos por debajo de Chile, el país con el mejor puesto de América
+Latina. En el pilar de habilidades14, Colombia se ubicó en el puesto 80 de 141 países y
+perdió puntaje con respecto al 2018 en los indicadores relacionados con competencias para
+13
+
+Este índice mide cómo un país utiliza los factores y atributos que impulsan la productividad, crecimiento y
+desarrollo humano en la cuarta revolución industrial. La edición del índice 2019 mide 141 economías
+representadas en el 99 % del PIB del mundo. Este índice es la agregación de 103 indicadores individuales de
+encuestas de opinión y datos de organizaciones internacionales. Estos indicadores están organizados en 12
+pilares (Foro económico mundial, 2019). Las economías se miden contra sí mismas y contra el total de economías
+participantes.
+14
+
+Este pilar mide la capacidad de los trabajadores para aprender y adaptarse a las transformaciones del entorno
+y también mide la calidad y la cantidad de la educación.
+
+18
+
+el siglo XXI, tales como habilidades digitales o pensamiento crítico en la enseñanza (Gráfico
+2.
+Gráfico 2. Índice Global de Competitividad
+
+Puntaje 1-100 (100 mejor)
+
+2017
+60
+
+54,4
+
+2018
+
+54,6
+47,6
+
+50
+
+46,6
+42,7
+
+42,1
+
+40
+30
+20
+10
+0
+Habilidades de los
+graduados en educación
+secundaria
+
+Habilidades digitales
+
+Pensamiento crítico en la
+enseñanza
+
+Fuente: Índice de Competitividad Global del Foro económico mundial (2019).
+
+En el marco de mejorar la calidad educativa, las políticas de educación han
+involucrado en los últimos años el uso de TIC como herramienta para apoyar los procesos de
+enseñanza y aprendizaje. A nivel mundial, el acceso a la universalización de las TIC por
+parte de los estudiantes ha aumentado significativamente desde el 2009, actualmente a nivel
+mundial siete de cada diez estudiantes usan computadores en la escuela (Organización para
+la Cooperación y el Desarrollo Económicos-OCDE, 2019). Sin embargo, la simple dotación
+tecnológica y su uso en el aula de clase no garantiza un cambio significativo en las prácticas
+educativas y no permite transformar los roles del docente y el estudiante para que este último
+sea un agente activo y central en la construcción de conocimiento (Cortés, 2017).
+Tal como se refirió en la sección anterior, en Colombia, la incorporación de las TIC en
+la educación se ha orientado principalmente a aumentar el acceso a terminales en las sedes
+educativas y a fomentar la apropiación de las TIC a través de la formación docente para su
+integración en el aula de clase (46 % de docentes a nivel nacional han sido formados por
+CPE). La relación entre estudiantes y computadoras (3,3:1) es una de las más bajas entre
+países de América Latina que participan en las pruebas PISA y menor que el promedio de
+
+19
+
+los países de la OCDE (Organización para la Cooperación y el Desarrollo Económico-OCDE,
+2015).
+Así mismo, el uso de las TIC para la enseñanza se ha incluido en las actividades de
+desarrollo profesional de una importante proporción de docentes: el 70 % de los docentes
+encuestados en Colombia reportan que siempre o de manera frecuente dejan a sus
+estudiantes usar TIC para su trabajo de clase y el 77 % de los docentes apoyan el aprendizaje
+de los estudiantes mediante el uso de tecnologías digitales (Organización para la
+Cooperación y el Desarrollo Económico-OCDE, 2019).
+Sin embargo, pese a los esfuerzos en acceso e incorporación de las TIC en las aulas
+de clase, se observa que, en el año 2016, por cada 10.000 docentes, solo hubo 8,26
+experiencias significativas con uso de TIC presentadas en las convocatorias del Gobierno
+nacional15, según el Observatorio Colombiano de Innovación Educativa con uso de TIC. Estas
+se reconocen como experiencias que generan transformaciones en el aula de clase, que
+incorporan circunstancias propias de los contextos urbanos y rurales e involucran el desarrollo
+de competencias en los estudiantes.
+Esta cifra cayó con respecto al año 2015, donde por cada 10.000 docentes hubo
+13,7 experiencias significativas con uso de TIC (Ministerio de Educación Nacional, 2016).
+De acuerdo con lo anterior, es necesario dar un mayor alcance a la política de incorporación
+de las tecnologías digitales en la educación, para impulsar la innovación en las prácticas
+educativas a partir de las tecnologías digitales, y fomentar en los estudiantes de educación
+preescolar, básica y media, el desarrollo de las competencias para el siglo XXI que les
+permitan afrontar los retos y aprovechar las oportunidades de la sociedad digital.
+A continuación, se exponen las cuatro causas por las cuales en Colombia no se ha
+logrado impulsar la innovación en las prácticas educativas a partir de las tecnologías
+digitales: (i) insuficiente acceso a tecnologías digitales en las sedes educativas para impulsar
+la creación de espacios de aprendizaje innovadores, (ii) deficiencia de conectividad a
+Internet en las sedes educativas, (iii) baja apropiación de las tecnologías digitales para la
+
+15
+
+Una experiencia significativa es una práctica concreta (programa, proyecto, actividad) que integra el uso de
+la tecnología y nace en un ámbito educativo con el fin de desarrollar un aprendizaje valioso a través del fomento
+de las competencias, de acuerdo con las necesidades del contexto. Es innovadora y atiende una necesidad del
+contexto identificada previamente. Un aumento en la razón de experiencias significativas en relación con el total
+de docentes existentes indica que el interés y la dedicación de los docentes está aumentando, lo cual conlleva a
+que se fortalezca la innovación educativa con uso de TIC (Ministerio de Educación Nacional, 2019b).
+
+20
+
+innovación en las prácticas educativas y (iv) debilidad en el monitoreo y evaluación del uso,
+acceso e impacto de las tecnologías digitales en la educación.
+3.1. Insuficiente acceso a tecnologías digitales en las sedes educativas para impulsar la
+creación de espacios de aprendizaje innovadores
+Las sedes educativas en Colombia cuentan con un total de 2.342.296 terminales
+activas, de las cuales el 61 % se concentran en las zonas urbanas y el 39 % en zonas rurales.
+Entre el año 2015 y 2018, CPE entregó un total de 1.186.526 terminales, equivalente al
+50,6 % del total de terminales activas de las sedes educativas a nivel nacional. A pesar de
+los esfuerzos realizados por CPE, aún persiste una brecha significativa en materia de
+dotación: cerca de 15 departamentos y 183 municipios se encuentran por encima del
+promedio nacional de estudiantes por terminal (3,3 estudiantes por terminal en promedio).
+Gráfico 3. Relación de estudiantes por terminales por departamento
+8
+7
+6
+5
+4
+3
+2
+1
+
+La Guajira
+Bolívar
+Atlántico
+Bogota DC
+Caquetá
+Magdalena
+Chocó
+Santander
+Vaupés
+Cesar
+Antioquia
+Meta
+Cauca
+Guaviare
+Vichada
+Arauca
+Risaralda
+Córdoba
+Sucre
+Norte de Santander
+Boyacá
+Caldas
+Amazonas
+Nariño
+Putumayo
+Cundinamarca
+Valle del Cauca
+Casanare
+Quindío
+Tolima
+Guainía
+Huila
+Archipiélago de San Andrés
+
+0
+
+Fuente: CPE, con corte a diciembre de 2018.
+
+Adicionalmente, el número de terminales entregadas a través de CPE ha disminuido de
+manera significativa desde el año 2015 hasta el año 2018 (Gráfico 4).
+
+21
+
+Gráfico 4. Terminales entregadas a través de CPE, 2015-2018
+564.374
+
+302.966
+
+2015
+
+2016
+
+159.772
+
+159.414
+
+2017
+
+2018
+
+Fuente: CPE, con corte a diciembre de 2018.
+
+Así mismo, debe tenerse en cuenta que muchas de las terminales que se han entregado
+han finalizado su ciclo de vida, estimado en 3 años en promedio (Universidad Nacional de
+Colombia, 2018). 7.144 sedes educativas no han tenido entrega de terminales desde el año
+2015, lo que significa que las terminales de estas sedes ya se encontrarían, a la fecha, en
+estado de obsolescencia, y por tanto, tienen la necesidad de ser atendidas (CPE, 2019). Por
+otro lado, como se observa en el Gráfico 5, en la mayoría de las sedes educativas no se
+realiza entrega de terminales a CPE en estado de obsolescencia para que los residuos puedan
+tener un adecuado tratamiento. Específicamente, el 61 % de las sedes educativas en la zona
+urbana y el 56 % en la zona rural no entregan dispositivos descartados, lo cual impide
+realizar una adecuada gestión y tratamiento de los residuos de aparatos eléctricos y
+electrónicos (RAEE). De acuerdo con CPE, esto evidencia que las comunidades educativas
+tienen poco conocimiento y consciencia frente al impacto negativo de los RAEE y también
+enfrentan bajos niveles técnicos para su adecuada gestión.
+Gráfico 5. Devolución de terminales descartados a CPE
+Si
+
+Rural
+
+No
+
+37%
+
+Urbana
+
+56%
+
+34%
+
+0%
+
+20%
+
+No registra
+
+7%
+
+61%
+
+40%
+
+60%
+
+5%
+
+80%
+
+100%
+
+Fuente: Estudio de impacto, Universidad Nacional de Colombia (2018).
+
+22
+
+Adicional a los computadores y tabletas, los avances de la cuarta revolución industrial
+han permitido la creación de tecnologías digitales emergentes como la realidad virtual,
+computación en la nube, realidad aumentada, libros digitales, entre otros, que habilitan la
+transformación de las prácticas de aprendizaje (Banco Interamericano de Desarrollo-BID,
+2016). Las tecnologías como la robótica, la gamificación y la realidad aumentada permiten
+el desarrollo de competencias del siglo XXI como la comunicación y resolución de problemas
+(Ripani & Alonso, 2016).
+Adicionalmente, estas tecnologías facilitan la conformación de entornos de aprendizaje
+inteligentes centrados en el alumno que permiten, a través de la tecnología, brindar una
+mayor flexibilidad, efectividad, adaptación, motivación y retroalimentación para el alumno
+(Unesco, 2019). En este tipo de entorno se facilita plantear y desarrollar el enfoque de
+educación STEM (por sus siglas en inglés, Ciencia, tecnología, ingeniería y matemáticas), y
+la aplicación de estrategias de aprendizaje basadas en problemas y estrategias de
+enseñanza centradas en el estudiante (Alcibar & Monroy, 2018).
+En Colombia, la dotación de tecnologías a las sedes educativas ha estado enfocada
+principalmente en computadores, tabletas y contenidos digitales, sin priorizar en tecnologías
+digitales que estén en sintonía con las nuevas tendencias mundiales. De otra parte, la
+medición oficial de tenencia de bienes TIC en las sedes educativas a nivel nacional se da en
+términos de computadores de escritorio, portátiles y tabletas únicamente (Departamento
+Administrativo Nacional de Estadística, 2017). Esta medición da cuenta del enfoque que se
+ha tenido en el esquema de acceso de dotación, que no considera otro tipo de tecnología
+digital como tableros digitales o visores de realidad virtual. Por tal motivo, continuar
+enfocando los esfuerzos únicamente en la dotación de terminales genera una falta de
+oportunidad para Colombia de aprovechar las ventajas que ofrecen las tecnologías digitales
+emergentes para transformar los entornos de aprendizaje de los estudiantes.
+Por otra parte, el acceso efectivo a terminales y tecnologías digitales emergentes
+requieren de recursos de infraestructura complementarios como el espacio físico o la
+electricidad continua (BID, 2014). La mayoría de las tecnologías digitales emergentes
+requieren de sistemas de electricidad sostenibles y disponibles para asegurar una carga
+óptima para su uso (Aver, 2018) y para garantizar el acceso a Internet. Actualmente, las
+estaciones de carga masiva de dispositivos se presentan como herramientas necesarias para
+el desarrollo de entornos de aprendizaje inteligentes (Kwikbost, 2019).
+De acuerdo con la más reciente evaluación de impacto de programa CPE, en las zonas
+rurales es donde se presentan más cortes de energía eléctrica (54 % de las sedes) en
+comparación con las zonas urbanas (25 % de las sedes). Así mismo, existe una brecha
+departamental en términos de disponibilidad del servicio de electricidad en las sedes
+23
+
+educativas, como se observa en el Gráfico 6. En departamentos como Vaupés, Chocó y La
+Guajira más del 50 % de sedes educativas no tienen electricidad. De esta manera, la falta
+de electricidad ha sido una limitante para el uso de las terminales y para lograr resultados
+positivos en la estrategia de apropiación del programa, y ha afectado la actitud hacia las
+TIC por parte de los docentes (Universidad Nacional de Colombia, 2018).
+Gráfico 6. Porcentaje de sedes educativas sin electricidad por departamento
+80%
+70%
+60%
+50%
+40%
+30%
+
+20%
+10%
+
+Santander
+
+Atlántico
+
+Risaralda
+
+Huila
+
+Antioquia
+
+Tolima
+
+Valle del Cauca
+
+Cauca
+
+Arauca
+
+Casanare
+
+Guaviare
+
+Meta
+
+Cesar
+
+Caquetá
+
+Vichada
+
+Chocó
+
+Vaupés
+
+0%
+
+Fuente: Encuesta de Educación Formal, Departamento Administrativo Nacional de Estadística (DANE, 2018).
+
+Otra de las limitaciones que se identifica para aumentar el acceso a tecnologías
+digitales en las sedes educativas es la baja cantidad de proyectos formulados y estructurados
+por parte de las entidades territoriales para acceder a dotación tecnológica. El Ministerio de
+Educación Nacional y el Ministerio de las Tecnologías de la Información y las
+Comunicaciones han elaborado lineamientos técnicos para apoyar a los entes territoriales en
+la formulación de proyectos de diversas fuentes como el Sistema General de Regalías (SGR).
+Desde el año 2016 se encuentra definido un proyecto tipo para la implementación de
+Tecnologías de la Información y las Comunicaciones en Instituciones Educativas, que facilita
+a los entes territoriales la formulación de un proyecto estandarizado para la implementación
+de TIC en las instituciones educativas. A pesar de ello, únicamente se han formulado tres
+24
+
+réplicas de proyectos tipo de carácter municipal para la dotación de tecnología digital. Por
+el contrario, otros proyectos tipo como el de construcción de vías terciarias, pavimento rígido
+y placa polideportiva han tenido 423, 50 y 14 réplicas respectivamente (Departamento
+Nacional de Planeación, 2019).
+De acuerdo con la base de datos de proyectos de regalías aprobados desde el año
+2012 consolidada por el Departamento Nacional de Planeación, se identifica a nivel
+nacional una proporción baja de proyectos de regalías orientados a mejorar el acceso a
+tecnologías digitales. De un total de 15.204 proyectos del SGR que han sido aprobados
+desde el año 2012 hasta el 15 de junio de 201916, 934 corresponden al sector de educación
+(preescolar, básica y media) y de estos, únicamente hay 22 proyectos que están orientados
+a mejorar el acceso a TIC en la educación preescolar, básica y media. De lo anterior, se
+concluye que del total de proyectos aprobados del SGR desde el año 2012,
+aproximadamente el 2,3 % se ha enfocado en aumentar el acceso TIC.
+3.2. Deficiencia de conectividad a Internet en las sedes educativas
+Un Internet abierto y accesible y con un alto ancho de banda es fundamental para la
+innovación en el siglo XXI (OCDE, 2016). Para la medición del nivel de conectividad a
+Internet en programas de acceso TIC en la educación han empleado variables como el nivel
+de cobertura de sedes educativas conectadas, el tipo de conexión disponible en las sedes
+educativas y la percepción de los docentes sobre el funcionamiento del servicio de
+conectividad. De acuerdo con lo anterior, la conectividad no se trata solo de cobertura sino
+también de asegurar su buen funcionamiento (Organización de Estados Americanos [OEA],
+2018). La deficiencia de conectividad a Internet en las sedes educativas se debe a: (i) pocas
+sedes educativas con conectividad a Internet, (ii) capacidad insuficiente en la conectividad a
+Internet en las sedes educativas y (iii) baja eficiencia en la adquisición de servicios de
+conectividad.
+3.2.1. Pocas sedes educativas con conectividad a Internet
+En total, de las 44.002 sedes educativas del país, actualmente se encuentran
+desconectadas 37.402, el equivalente al 85 % del total nacional (Ministerio de Educación
+Nacional, 2019). Adicionalmente, tal como se evidencia en el Gráfico 7, se presenta una
+brecha de conectividad a nivel departamental; departamentos como Norte de Santander
+(100 %), Guaviare (100 %), Cesar (99,8 %), Putumayo (99,1 %) y Nariño (99,0 %), tienen
+
+16
+
+Se incluyen los proyectos aprobados, que se encuentran en ejecución, terminados, sin contratar, sin migrar y
+sin BPIN.
+
+25
+
+una situación deficiente en materia de conectividad. El promedio de sedes desconectadas
+por departamento es del 82,5 % y 23 departamentos del país superan este porcentaje.
+Gráfico 7. Porcentaje de sedes educativas conectadas por departamentos
+
+Norte de Santander
+Guaviare
+Cesar
+Putumayo
+Nariño
+Caquetá
+Guainía
+Cundinamarca
+La Guajira
+Córdoba
+Casanare
+Chocó
+Amazonas
+Boyacá
+Quindío
+Huila
+Risaralda
+Bolívar
+Arauca
+Antioquia
+Vaupés
+Sucre
+Magdalena
+Cauca
+Caldas
+Vichada
+Valle del Cauca
+Santander
+Meta
+Tolima
+Atlántico
+Archipiélago de San Andrés
+Bogotá
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+Fuente: Ministerio de Educación Nacional, con corte a enero de 2020.
+
+Así mismo, la brecha de conectividad entre el área rural y urbana es significativa. En
+el área rural la infraestructura de telecomunicaciones es limitada debido a los altos costos
+que implican las condiciones geográficas y la existencia de una demanda dispersa que lleva
+al bajo retorno económico de la inversión por parte del operador. Así, de las 35.406 sedes
+del área rural, el 8,1 % tiene conexión a Internet, mientras que en el área urbana esta
+proporción es equivalente al 43,3 %.
+Tal como se mencionó en la sección de antecedentes, con el fin de disminuir las brechas
+de acceso universal a Internet y uso de las TIC en las sedes educativas rurales y urbanas, el
+Ministerio de Educación Nacional y el Ministerio de Tecnologías de la Información y las
+Comunicaciones han implementado programas como Conexión Total y programas de Acceso
+Comunitario a Internet. Sin embargo, la focalización de las sedes educativas para entrega
+de terminales no se ha realizado con relación a la disponibilidad de la conexión a Internet.
+En el Gráfico 8 se presenta la relación de estudiantes por terminales y el porcentaje de
+penetración a Internet para hogares y para sedes educativas a nivel de departamento. Por
+26
+
+ejemplo, en el caso del Atlántico, este tiene una relación de 5,8 estudiantes por terminal y su
+porcentaje de penetración a Internet a nivel de hogar y sede educativa está por encima del
+promedio departamental. Lo anterior evidencia una pérdida de oportunidad en la
+apropiación de Internet en estas regiones del país. En otros casos, como en Nariño, donde
+hay relación de tres estudiantes por terminal, pero solo el 0,9 % de sedes están conectadas,
+existe una pérdida de oportunidad para el aprovechamiento de terminales.
+Gráfico 8. Porcentaje de penetración a Internet a nivel de hogar y sede educativa y
+relación de estudiantes por terminal
+% de sedes conectadas
+
+% de hogares conectados
+
+Relación estudiante / terminal
+
+100%
+
+8
+
+90%
+
+7
+
+80%
+6
+70%
+5
+
+60%
+50%
+
+4
+
+40%
+
+3
+
+30%
+2
+
+20%
+1
+
+10%
+
+N. de Santander
+
+Cesar
+
+Nariño
+
+Guainía
+
+La Guajira
+
+Casanare
+
+Amazonas
+
+QuindÍo
+
+Risaralda
+
+Arauca
+
+Vaupés
+
+Magdalena
+
+Caldas
+
+Valle del Cauca
+
+Meta
+
+Atlántico
+
+0
+
+Bogotá
+
+0%
+
+Fuente: Ministerio de Educación Nacional (2019), Encuesta de Calidad de vida, DANE (2018).
+
+3.2.2. Capacidad insuficiente en la conectividad a Internet en las sedes educativas
+Actualmente, el Ministerio de Educación Nacional tiene definidos unos criterios mínimos
+para garantizar la calidad del servicio de conectividad contratado por las Secretarías de
+Educación. Los aspectos mínimos por contratar incluyen el suministro y operación continua
+27
+
+del servicio de conectividad contemplando: administración, soporte y mantenimiento
+(Ministerio de Educación Nacional, 2019b). En las sedes educativas debe estar disponible
+un enlace de conectividad con las siguientes características:
+•
+
+Velocidad de acceso de acuerdo con la necesidad contratada.
+
+•
+
+Asimetría mínima de 2:1 (el doble de velocidad de bajada respecto al de subida).
+
+La determinación del ancho de banda, de acuerdo con los lineamientos del Ministerio
+de Educación Nacional, se establece de acuerdo con la identificación de los equipos que
+podrían llegar a conectarse simultáneamente por parte de la entidad territorial, del número
+de la matrícula y su presupuesto disponible para contratación.
+Así, el ancho de banda depende de dos factores: (i) Los recursos disponibles con los
+que cuenta la entidad territorial para la contratación de conectividad; (ii) conocimiento que
+tenga el líder TIC de la entidad territorial o de la sede educativa, para identificar las
+necesidades de la sede e identificar el plan de conectividad más adecuado para satisfacer
+estas necesidades (Ministerio de Educación Nacional, 2019). En algunos casos, la
+conectividad se ha contratado con base en la cantidad de equipos de la sede educativa, sin
+embargo, el desconocimiento de los equipos que realmente funcionan y que se conectan
+simultáneamente a Internet dificulta que se estandarice un ancho de banda teniendo en cuenta
+este criterio.
+La definición de banda ancha para el país se estipuló mediante la Resolución nro. 5161
+de 2017 de la Comisión de Regulación de Comunicaciones17, la cual empezó a aplicar
+desde el 1 de enero de 2019 y de este modo dispuso los valores de velocidades efectivas
+de acceso a banda ancha que deben cumplirse para efectos de su comercialización. Se
+estableció una velocidad de subida 5 Mbps y de bajada 25 Mbps18. De acuerdo con los
+lineamientos del Ministerio de Educación Nacional para el programa de Conexión Total, el
+ancho de banda para las sedes educativas debe considerar las condiciones técnicas y la
+disponibilidad para garantizar velocidades óptimas de conectividad.
+Sin embargo, como se observa en el Gráfico 9, de las sedes educativas de las que se
+tiene información, tan solo 1.645 pueden conectar sus dispositivos bajo las condiciones
+técnicas establecidas por el Ministerio de Educación Nacional. Es decir que el 70 % (3.907)
+de las sedes no tienen las condiciones necesarias para garantizar los niveles óptimos de
+ancho de banda. Esta problemática se profundiza aún más, si se tiene en cuenta que, en
+17
+Por la cual se establecen las definiciones y condiciones regulatorias de banda ancha en el país y se dictan
+otras disposiciones.
+18
+
+Mbps es una unidad de transmisión equivalente a 1.000 kilobits por segundo. Es una unidad que se emplea
+para cuantificar un caudal de datos o flujo que se transmite a través de un determinado medio.
+
+28
+
+condiciones de reúso, las sedes educativas distribuyen la velocidad contratada entre el
+número de terminales que disponen. Por ejemplo, para las sedes que contratan un ancho de
+banda entre 5 Mbps y 10 Mbps, la velocidad percibida por terminal es de 5,74 Mbps, y
+para las sedes que contratan con un rango de 16Mbps y 24Mbps, la velocidad percibida
+por terminal es de 19,89 Mbps por terminal.
+Gráfico 9. Relación número de sedes por ancho de banda contratado y promedio Mbps
+por dispositivo (computadores de escritorio, computadores portátiles y tabletas)
+Número de sedes por ancho de banda contratado
+Promedio de Mbps por dispositivo (computadores escritorio y portátiles y tabletas)
+1800
+
+25
+
+1635
+
+1600
+
+1481
+
+20,7
+19,9
+
+1400
+
+20
+
+1200
+15
+
+1000
+800
+
+12,0
+
+667
+
+10
+
+600
+
+5
+
+128
+
+200
+0
+
+353
+
+5,7
+
+400
+1,1
+< 5Mbps
+
+0
+5Mbps 10Mbps
+
+11Mbps 15Mbps
+
+16Mpbs 24Mbps
+
+Fuente: Base de datos, Ministerio de Educación Nacional (2019).
+
+3.2.3. Baja eficiencia en la adquisición de servicios de conectividad
+Como se mencionó inicialmente, el nivel de la conectividad a Internet no solamente está
+determinado por la cobertura sino también por la calidad de la conexión. Por ello, es
+importante garantizar que la contratación del servicio de conectividad para las instituciones
+educativas realizada por los entes territoriales, cumplan con los criterios de calidad de
+acuerdo con el número de matrícula y el nivel de terminales conectadas.
+En la actualidad las entidades territoriales pueden hacer uso de un Acuerdo Marco
+Precios de Conectividad para Sedes Educativas dispuesto por Colombia Compra Eficiente,
+como herramienta de agregación de demanda, el cual permite adquirir servicios de
+conectividad aprovechando las economías de escala para obtener ahorros significativos en
+la contratación de conectividad escolar y para garantizar la calidad del servicio. Según cifras
+29
+
+de Colombia Compra Eficiente, por medio del Acuerdo Marco Precios para Conectividad II
+(incluida conectividad escolar) se presenta un ahorro de 43.441 millones de pesos (Tabla 1).
+Tabla 1. Cifras de Acuerdo Marco Precios para Conectividad II
+Concepto
+
+Valor
+
+Número de órdenes de compra
+
+441
+
+Valor órdenes de compra
+
+215.115 millones de pesos
+
+Ahorro
+
+43.441 millones de pesos
+
+Fuente: Colombia Compra Eficiente (2019).
+
+Sin embargo, se identifican aspectos por mejorar en la utilización de esta herramienta.
+En primer lugar, se identifica que las entidades territoriales no utilizan la herramienta de
+Acuerdo Marco Precios. Como se observa en el Gráfico 10, las modalidades de contratación
+de conectividad utilizadas en mayor proporción por las entidades territoriales son la
+contratación directa y los procesos de selección, mientras que el Acuerdo Marco Precios solo
+es utilizado en un 5 %, lo cual puede sugerir un desconocimiento de la herramienta o falta
+de incentivos para su uso.
+Gráfico 10. Distribución porcentual de las modalidades de contratación de
+conectividad de las entidades territoriales
+Contratación directa
+50%
+
+Proceso selección
+
+Transferencia de recursos
+
+Acuerdo Marco Precios
+
+47%
+
+40%
+
+32%
+
+30%
+20%
+10%
+
+2%
+
+5%
+
+0%
+Contratación directa
+
+Proceso selección
+
+Transferencia de
+recursos
+
+Acuerdo Marco
+Precios
+
+Fuente: Base de datos, Ministerio de Educación Nacional (2018).
+
+En segundo lugar, como se evidencia en la Tabla 2, se identifica que los precios del
+Acuerdo Marco Precios para la categoría de enlaces de conectividad escolar son similares a
+los precios del Acuerdo Marco Precios para la categoría de conectividad terrestre y satelital.
+
+30
+
+Por tal motivo no se evidencia una tarifa diferencial para servicios de conectividad destinados
+específicamente a la educación.
+Tabla 2. Simulación de precios de conectividad
+
+Categoría
+Conectividad
+
+Enlace satelital
+Enlace satelital
+educativo
+Enlace terrestre
+Enlace terrestre
+educativo
+Enlace terrestre
+Enlace terrestre
+educativo
+
+Nombre del servicio
+
+Aplicación definitiva
+de enlace satelital
+Aplicación definitiva
+de enlace satelital
+Aplicación definitiva
+enlace terrestre
+Aplicación definitiva
+enlace terrestre
+Aplicación definitiva
+enlace terrestre
+Aplicación definitiva
+enlace terrestre
+
+BW
+down
+(Velocid
+ad de
+bajada)
+
+Característica
+
+4
+
+20Mbps
+
+Re-uso 1:1
+
+379.730.944
+
+4
+
+20Mbps
+
+Re-uso 1:1
+
+382.265.059
+
+3
+
+N/A
+
+BW: 20Mbps
+
+2.978.750
+
+3
+
+N/A
+
+BW: 20Mbps
+
+3.010.697
+
+2
+
+N/A
+
+BW: 20Mbps
+
+2.779.395
+
+2
+
+N/A
+
+BW: 20Mbps
+
+2.831.013
+
+Región (a)
+
+Promedio precio
+servicio(b)
+
+Fuente: Simulador de precios de conectividad Acuerdo Marco Precios, Colombia Compra Eficiente (2018).
+Nota: (a) Para brindar los servicios de conectividad a Internet, el Acuerdo Marco Precios tiene categorías regionales
+de acuerdo con el número de proveedores disponibles. Las regiones se definen de acuerdo con los suscriptores
+corporativos con acceso al número de proveedores de conectividad terrestre. Donde la región1 tiene Suscriptores
+corporativos con acceso a 3 o más proveedores de conectividad terrestre, la región 2 con acceso a 2 o más
+proveedores de conectividad terrestre, la región 3 con un proveedor de conectividad terrestre, la región 4 no
+existen proveedores con cobertura de conectividad terrestre y la región móvil, donde existe cobertura móvil para
+datos 2G y superior. (b) Se tuvo en cuenta 9 operadores para la estimación del precio promedio mensual del
+servicio y la desviación estándar.
+
+En tercer lugar, el Acuerdo Marco Precios incluye categorías regionales de acuerdo
+con los proveedores y los tipos de tecnología en conectividad disponibles a nivel municipal.
+La categorización por regiones realizada por Colombia Compra Eficiente está basada en la
+información de condiciones de conectividad municipal provista por el Ministerio de
+Tecnologías de la Información y las Comunicaciones. En los municipios pertenecientes a la
+región 4 únicamente se puede acceder a servicios de conectividad satelital, sin embargo,
+para algunos municipios de esta región se encuentran operadores con la capacidad de
+proveer servicios mediante tecnologías terrestres o radioenlaces (Ministerio de las
+Tecnologías de la Información y las Comunicaciones, 2019), los cuales tienen un costo
+menor, como se evidencia en la Tabla 2. La falta de actualización en el Acuerdo Marco
+Precios de los operadores y tecnología en conectividad disponibles en los municipios afecta
+
+31
+
+a las entidades compradoras que se ven obligadas a adquirir enlaces más costosos y con
+menores niveles de servicios.
+Por último, se identifica que del año 2009 al 2014, se implementó un modelo
+centralizado de contratación de conectividad a través de convenios interadministrativos con
+las gobernaciones y alcaldías que era eficiente en términos de economías de escala. Cada
+operador debería responder por algunas regiones y garantizar la operación de los servicios
+de acuerdo con las condiciones técnicas definidas por el Ministerio de Educación Nacional.
+Sin embargo, este modelo finalizó en el año 2014 y actualmente las entidades territoriales
+son autónomas en el proceso de contratación y cada una compra a operadores diferentes.
+Este tipo de prácticas generan una falta de oportunidad para el aprovechamiento de un
+modelo de economía de escala que permita la compra de conectividad de un mayor número
+de sedes y por un mayor tiempo de operación.
+3.3. Baja apropiación de las tecnologías digitales para la innovación de prácticas
+educativas
+En Colombia, reconociendo la importancia de la apropiación de las TIC, el programa
+CPE implementó desde 2015 una estrategia de formación docente en cuatro tipos de
+diplomados19. Sin embargo, pese a que el programa formó a cerca de 149.700 docentes,
+que representan el 46 % del total nacional, existe aún una baja apropiación TIC tanto en los
+docentes como en los estudiantes. Los problemas que dificultan la apropiación de las TIC en
+los sistemas educativos están referenciados en la literatura. Entre estos se encuentran: la baja
+capacitación docente en el uso de las TIC y la incapacidad de generar métodos pedagógicos
+fundamentados en este tipo de herramientas (Partida, Moreno, & Castañeda, 2015) y la falta
+de claridad sobre los objetivos asociados a su uso (OCDE, 2016). También se identifica baja
+capacidad en las instituciones educativas para gestionar procesos que involucren el uso de
+las TIC con nuevos métodos y la baja disposición de los docentes para incorporar estos
+sistemas en las aulas de clase (Conectar Igualdad, 2015)
+A continuación, se presenta evidencia de las causas de la baja apropiación de las
+tecnologías digitales en Colombia, asociadas a (i) debilidad en la formación y
+acompañamiento docente para la apropiación de las tecnologías digitales, (ii) falta de
+adecuación de las estrategias de apropiación de las tecnologías digitales en relación con las
+necesidades del contexto educativo, el territorio y el estudiante, (iii) bajos niveles de actitud
+19
+
+Los cuatro diplomados son: (i) DocenTIC orientado a aumentar las competencias y apropiación TIC en los
+docentes; (ii) DirecTIC orientado Promover el liderazgo de los Directivos Docentes para incentivar y articular los
+Proyectos Educativos en TIC; (iii) InnovaTIC orientado a incentivar el uso de las TIC como tecnologías pedagógicas,
+con el fin de promover prácticas de aula innovadoras, y (iv) TecnoTIC orientado a promover el liderazgo de los
+docentes de Tecnología e Informática, para que acompañen y asesoren los proyectos educativos.
+
+32
+
+hacia el uso educativo de las tecnologías digitales y (iv) baja capacidad en las instituciones
+educativas para la gestión y apropiación de las tecnologías digitales.
+3.3.1. Debilidad en la formación y acompañamiento al docente para la apropiación de
+las tecnologías digitales en sus prácticas de enseñanza
+El impacto de las TIC en el aprendizaje de los estudiantes se logra cuando los docentes
+tienen la formación y la comprensión de cómo y para qué integrarlas en su práctica de clase.
+Desde el año 2004, CPE ha implementado la Estrategia de Innovación Educativa y Uso de
+las TIC para el Aprendizaje (ETICA@) para fortalecer la apropiación de los docentes,
+directivos y padres de familia para incidir directamente en el desarrollo de competencias en
+los estudiantes. La estrategia se compone de cuatro diplomados que tienen objetivos
+específicos (Tabla 3):
+Tabla 3. Diplomados para docentes y directivos ETIC@
+DocenTIC
+Fortalecer los niveles
+de competencias de
+los docentes desde el
+nivel de explorador
+hasta que lleguen al
+nivel de integrador, a
+fin de mejorar los
+aprendizajes de los
+estudiantes
+
+InnovaTIC
+
+TecnoTIC
+
+DirecTIC
+
+Fortalecer los niveles
+de competencias de
+los docentes para que
+alcancen
+el
+nivel
+innovador, con el fin
+de que logren mejorar
+aprendizajes de los
+estudiantes
+
+Promover
+el
+liderazgo de los
+docentes
+de
+Tecnología
+e
+Informática,
+para
+que acompañen y
+asesoren
+los
+Proyectos
+Educativos Apps de
+sus
+colegas
+docentes
+
+Promover el liderazgo de
+los Directivos Docentes
+para incentivar y articular
+los Proyectos Educativos
+en TIC de sus docentes en
+los planes de estudio de
+las
+instituciones
+educativas
+
+Fuente: Estudio de impacto CPE 2014-2017, Universidad Nacional de Colombia (2018).
+
+A pesar de lo anterior, de acuerdo con la evaluación de impacto de CPE para el
+periodo 2014-2018, la estrategia formativa de CPE no ha generado impactos significativos
+sobre la apropiación TIC de los docentes formados (Universidad Nacional de Colombia,
+2018)20. De acuerdo con los resultados de la Tabla 4, a nivel nacional no se evidencian
+diferencias estadísticamente significativas en la apropiación TIC de los docentes y directivos
+
+20
+
+La evaluación de impacto utilizó una muestra de 3.788 docentes para los instrumentos base.
+
+33
+
+formados, ni de los estudiantes con docentes formados (Universidad Nacional de Colombia,
+2018)21.
+Tabla 4. Significancia de diferencias en apropiación de las TIC para los agentes
+educativos evaluados: docentes formados vs no formados por CPE (a)
+Tipo de agente
+
+Urbano
+
+Rural
+
+Nacional
+
+Docentes
+
++(0,28)
+
+=
+
+=
+
+Directivos docentes
+
++(0,31)
+
+=
+
+=
+
+Estudiantes
+
+-(0,08)
+
+-(0,22)
+
+=
+
+Fuente: estudio de impacto CPE 2014-2017, Universidad Nacional de Colombia (2018)
+diferencias estadísticamente significativas (a) Las comparaciones que se hacen
+en esta sección tienen en cuenta las diferencias estadísticamente significativas y el tamaño del efecto de esta
+diferencia. Esta magnitud es una forma sencilla de cuantificar el tamaño de la diferencia entre dos grupos.
+
+La Tabla 4 también evidencia que la estrategia de formación tampoco tiene impactos
+significativos en docentes formados en contextos rurales, a diferencia de los docentes
+formados en el sector urbano que sí evidencian una mayor apropiación. Las diferencias entre
+ambos contextos son explicadas por la baja calidad de conectividad a Internet y la falta de
+electricidad de las sedes educativas en las zonas rurales (Universidad Nacional de Colombia,
+2018).
+Gráfico 11. Docentes formados según diplomado de CPE
+88.573
+
+46.700
+
+7.833
+
+3.836
+DocenTIC
+
+InnovaTIC
+
+TecnoTIC
+
+DirecTIC
+
+Fuente: Estudio de impacto CPE 2014-2017, Universidad Nacional de Colombia (2018).
+
+21
+
+Se aborda la apropiación de las TIC desde el modelo de apropiación de tecnología (MTA) desarrollado por
+Carroll, Howard, Peck, & Murphy (2001). Desde esta perspectiva, la apropiación se concibe como un proceso a
+través del cual las personas adoptan e incorporan la tecnología en sus prácticas ocupacionales (Fidock & Carroll,
+2006).
+
+34
+
+Adicionalmente, si bien el 60 % de los docentes formados participaron del componente
+InnovaTIC (Gráfico 11), menos de la mitad de las instituciones educativas que cuentan con
+docentes formados reportan alguna experiencia significativa en el aula de clase a través del
+uso de las TIC (Gráfico 12). Por consiguiente, la debilidad en el componente formativo está
+relacionada con su reducido impacto sobre la innovación de las prácticas educativas.
+Gráfico 12. Porcentaje de instituciones que reportan experiencias significativas con TIC
+con docentes formados por CPE
+45,20%
+38,40%
+27,10%
+
+Nacional
+
+Urbano
+
+Rural
+
+Fuente: Estudio de impacto CPE 2014-2017, Universidad Nacional de Colombia (2018).
+
+Por último, se resalta que actualmente la estrategia de formación no incorpora un
+acompañamiento al docente posterior a la culminación de diplomados, lo cual limita los
+procesos de realimentación sobre lo aprendido e implementado en las prácticas de
+enseñanza (Universidad Nacional de Colombia, 2018). Lo anterior se presenta como un
+desafío dado que los programas con mejores resultados en el aprendizaje de los estudiantes
+con uso de TIC incorporan además de la formación docente, una estrategia de
+acompañamiento y uso guiado de las tecnologías en el aula de clase (Ministerio de Educación
+Nacional, 2016).
+3.3.2. Actitud desfavorable hacia las tecnologías digitales en la comunidad educativa
+La actitud hacia las TIC es una disposición de respuesta favorable o desfavorable a su
+uso en las prácticas educativas. Para el caso de los docentes, la actitud tiene un papel
+fundamental en la integración de las tecnologías para la transformación de las prácticas de
+enseñanza (Rastogui & Malhorta, 2012). Entre los factores que inciden en la disposición de
+los docentes hacia la incorporación de las tecnologías en entorno educativo se encuentran
+sus creencias sobre el proceso de aprendizaje y sus conocimientos y habilidades TIC (Tapia
+Silva, 2018).
+
+35
+
+En la evaluación de impacto del programa CPE (2018), se midió la incidencia de la
+estrategia de formación docente sobre la actitud de la comunidad educativa frente al uso
+educativo de las TIC22. Esto a través de un índice con escalas de actitud TIC diseñadas
+mediante un constructo conceptual unitario compuesto de tres componentes: afectivo,
+cognitivo y conductual, los cuales se midieron a través de pruebas psicométricas aplicadas a
+los docentes, estudiantes y padres de familia.
+Como se muestra en la Tabla 5, no se evidencian diferencias significativas en el nivel
+de actitud TIC promedio de los docentes formados por CPE frente a los que no fueron
+formados. Para los docentes formados en el contexto rural la actitud hacia las TIC tiene un
+efecto negativo en relación con los docentes no formados, mientras que en el contexto urbano
+el efecto es positivo. Las diferencias en la actitud TIC de los docentes directivos son
+únicamente significativas para el contexto urbano. De acuerdo con los instrumentos
+adicionales de la evaluación de impacto de CPE (grupos focales, observaciones en el aula,
+entrevistas), las diferencias en el impacto por contexto urbano y rural, se da por las
+características actuales de la ruralidad en términos de conectividad y conexión eléctrica que
+dificultan el uso de las terminales (Universidad Nacional de Colombia, 2018).
+Para los estudiantes que han tenido docentes formados por CPE, el impacto en su actitud
+hacia las TIC ha disminuido a nivel general y en el contexto urbano. Esto puede darse porque
+son principalmente los docentes los que utilizan las TIC en el aula por temor a que los
+estudiantes dañen los dispositivos y el docente tenga que asumir el costo (Universidad
+Nacional de Colombia, 2018). Para los acudientes o padres de familia de sedes que han
+sido formadas, existe una diferencia significativa a nivel general, y a nivel de contexto urbano
+y rural (Tabla 5). En términos generales, la incidencia de la estrategia de formación por parte
+de CPE en la actitud de los actores de la comunidad educativa, ha impactado negativamente
+la actitud TIC de los estudiantes y los docentes formados en el contexto rural.
+Tabla 5. Significancia de diferencias en actitudes hacia el uso educativo de las TIC
+para los agentes educativos evaluados
+General
+
+Rural
+
+Urbano
+
+Directivos docentes
+
++ (0,17)
+
+=
+
++(0,30)
+
+Docentes
+
+=
+
+- (0,31)
+
++(0,19)
+
+Estudiantes
+
+- (0.08)
+
+=
+
+-(0,23)
+
+22
+
+Se considera como un constructo unitario (con propiedades de dirección e intensidad) que se manifiesta a través
+de componentes relacionados con el uso de TIC: afectivo (emociones), cognitivo (pensamientos), comportamental
+y valorativo (García-Santillan & Moreno-García, 2012).
+
+36
+
+Acudientes
+
+General
+
+Rural
+
+Urbano
+
++ (0,26)
+
++(0,29)
+
++(0,22)
+
+Fuente: Estudio de impacto CPE 2014-2017, Universidad Nacional de Colombia (2018).
+
+3.3.3. Estrategias de apropiación de las tecnologías digitales en las prácticas educativas
+que no se ajustan a las particularidades del estudiante y del territorio
+El resultado efectivo de las estrategias de apropiación TIC en el ámbito educativo se ve
+limitado por el débil reconocimiento de las características de los estudiantes y del contexto
+territorial donde se implementan, dado que estos dos elementos inciden en la manera como
+los estudiantes y docentes interactúan en entornos de aprendizaje y enseñanza. Las
+innovaciones educativas con TIC deben fortalecer los aprendizajes de los estudiantes, en los
+que se reconozcan sus diferentes contextos, características e intereses (Unesco, 2015).
+Necesidades del estudiante
+La estrategia de apropiación de CPE ha estado enfocada en los docentes, lo que ha
+limitado la interacción de los estudiantes con las tecnologías digitales, por ejemplo, en
+ocasiones la tecnología dispuesta para la práctica solo es usada por el docente por temor a
+que los estudiantes dañen las terminales (Universidad Nacional de Colombia, 2018). La
+apropiación TIC para los estudiantes tuvo un efecto negativo estadísticamente significativo,
+en la zona rural y la zona urbana. Es decir que los estudiantes cuyos docentes fueron
+formados con diplomados del programa CPE tuvieron un efecto negativo en la apropiación
+de las TIC frente a aquellos sin docentes formados.
+Con respecto a las características particulares de los estudiantes, es importante
+reconocer las barreras de acceso y apropiación TIC que enfrentan los estudiantes con
+discapacidad. Los estudiantes enfrentan barreras físicas para apropiar las TIC, cuando estas
+no son inclusivas ni accesibles (Unesco, 2014). El uso del computador e Internet es más
+limitado entre las personas con discapacidad visual, auditiva y de movilidad. Por ejemplo,
+en España, mientras que el 78 % de la población de 18 a 64 es usuaria del computador,
+esta proporción se reduce a 61,8 % en las personas con discapacidad auditiva, hasta el
+37,9 % en personas con discapacidad visual y 32,6 % en las personas con discapacidad de
+movilidad (Fundación Vodafone España, 2017).
+De acuerdo con la Unesco, la formación docente en TIC es más recurrente en la
+educación regular frente a la educación de personas con discapacidad y es poco frecuente
+que se den actualizaciones y capacitaciones de docentes en TIC y personas con
+discapacidad. (Unesco, 2012). En el contexto colombiano, actualmente el programa CPE no
+incluye estrategias para brindar recomendaciones para que las terminales y contenidos
+37
+
+digitales se incorporen de manera flexible e inclusiva para la población con necesidades de
+aprendizaje diversos, así como tampoco hay una formación específica para que los docentes
+orienten la apropiación TIC en estos estudiantes. (CPE, 2019).
+Contexto del territorio
+La educación en el ámbito rural tiene desafíos en deserción escolar, matrícula en extraedad y condiciones geográficas que dificultan el acceso a la conectividad a Internet y la
+electricidad. Según la Unesco (2016b), los procesos de planificación de las TIC en zonas
+rurales no incorporan las necesidades del entorno y la heterogeneidad de las comunidades
+(Unesco, 2016).
+En Colombia en materia de educación rural y TIC, aún persisten brechas en cuanto a
+conectividad a Internet y acceso a TIC. Existe un rezago de los estudiantes rurales en colegios
+oficiales, donde el 40 % no lee información en la web, el 32 % no usa redes sociales y el 25
+% no navega por Internet. En Chocó, Sucre y los departamentos de Amazonía y Orinoquía
+más del 60 % de los estudiantes tiene baja exposición a tareas educativas a través del uso
+de TIC (Ministerio de Educación Nacional, 2014).
+Al analizar la estrategia de apropiación TIC de acuerdo con el contexto geográfico,
+como se evidenció anteriormente, se encontró que no tuvo impacto significativo en los
+docentes de contextos rurales a diferencia del contexto urbano, e inclusive en los estudiantes
+de contextos rurales se evidenció un impacto negativo. (Universidad Nacional de Colombia,
+2018).
+3.3.4. Baja capacidad en las instituciones educativas para la gestión y apropiación de
+las tecnologías digitales
+La gestión institucional de las TIC en las sedes educativas cumple un rol fundamental
+para integrarlas a las prácticas educativas pues facilita su incorporación dentro de los
+procesos de planificación para alcanzar los objetivos pedagógicos (Conectar Igualdad,
+2015). En la gestión institucional también se destacan acciones para definir los roles que
+tienen los directivos, docentes, padres y estudiantes en las estrategias de apropiación de las
+TIC. De acuerdo con el piloto de Colegios 10 TIC, el 60,85 % de las sedes educativas
+encuestadas no cuentan con un plan institucional de gestión TIC que les permita administrar
+sus recursos y tener una visión prospectiva para la incorporación de las TIC en la institución
+(Ministerio de Educación Nacional, 2016).
+Así mismo, de acuerdo con los resultados del piloto Colegios 10 TIC, para el
+diagnóstico de gestión institucional (el cual evalúa el marco institucional para la sostenibilidad
+de estrategias que incorporen de manera transversal las TIC para la trasformación de
+38
+
+prácticas educativas), se tiene que solo el 10 % de directivos manifestó que en su institución
+educativa existe una estructura institucional para asegurar el desarrollo de una política de
+implementación y uso de las TIC. El 37,9% manifiesta que no existe un proyecto concreto
+para orientar la incorporación de las TIC en el Plan Estratégico Institucional (PEI) de la
+institución educativa (Ministerio de Educación Nacional, 2015).
+La revisión de las acciones y ejes estratégicos de los programas que han incorporado
+las TIC en la educación da cuenta que, la mayoría de éstos se enfocan en la conectividad a
+Internet, la dotación tecnológica y formación docente, sin considerar el componente de
+gestión institucional de las TIC (Hinostroza & Labbé, 2011). Lo anterior resulta problemático
+dado que hay una diferencia importante entre los resultados de un proceso episódico de
+incorporación de las TIC y un proceso estructural materializado en planes institucionales que
+permite consolidar los demás objetivos de los programas. Por ejemplo, la estrategia de
+apropiación del programa CPE ha estado enfocada en la formación de los docentes y
+docentes directivos. De los docentes formados por el programa CPE, el 13 % (20.127) ya no
+se encuentran activos. Esta situación es problemática porque actualmente la apropiación de
+las TIC depende de agentes que no van a estar de manera permanente en la sede educativa.
+De esta forma, cuando no se define una estrategia para el desarrollo de planes de gestión
+TIC y cuando la formación se enfoca en el docente, se limita la posibilidad de generar
+capacidad instalada en las instituciones educativas y a la consecución de metas educativas.
+3.4. Debilidad en el monitoreo y evaluación del acceso, uso e impacto de las tecnologías
+digitales en la educación
+De acuerdo con la Unesco (2016b), el componente de monitoreo y evaluación de las
+políticas y programas TIC en la educación debe soportarse en un sistema de información que
+involucre la implementación de estrategias de seguimiento que garanticen la periodicidad de
+la información, las fuentes de información y la construcción de indicadores, incorporando
+acciones claras de difusión de resultados. No obstante, existen dificultades a nivel global en
+los diferentes programas para medir el impacto que tiene la incorporación de las tecnologías
+digitales en la educación. Esto se debe, entre otras razones, a la falta de instrumentos
+específicos que brinden confianza para la medición del impacto de las TIC en la calidad
+educativa y en la falta de estrategias rigurosas que permitan medir el uso, acceso e impacto
+en la educación (BID, 2010; Unesco, 2009).
+Por otra parte, en términos generales no es claro en gran parte de programas de
+incorporación de las TIC, qué indicadores se quieren impactar, lo cual dificulta avanzar en
+las definiciones de medición y los instrumentos para hacerlo (Organización de Estados
+Americanos, 2011).Otra de las problemáticas relacionadas con la medición de las políticas
+
+39
+
+TIC en la educación es la dificultad para construir instrumentos sólidos de evaluación que
+permitan separar el efecto de las TIC de otras variables que influencien los resultados de la
+calidad educativa (Unesco, 2009).
+En el marco internacional se identifican los siguientes problemáticas en torno al
+seguimiento y monitoreo de las políticas TIC en la educación: (i) el monitoreo y la evaluación
+no reciben la atención que debería, (ii) las herramientas para abordar los problemas
+asociados a las políticas son limitadas, (iii) no existe un conjunto común de indicadores para
+medir los resultados y el impacto de las TIC en la educación, (iv) se han realizado pocos
+estudios comparativos internacionales, (v) la mayoría de los indicadores se han centrado en
+la dotación de hardware, software y conectividad, (vi) se depende en términos generales de
+auto reportes para evaluar los resultados y (vii) los métodos de recolección son variados
+(Banco Mundial-Innovación y emprendimiento, 2005).
+La Unesco (2017), al analizar el impacto de los diferentes programas e iniciativas de
+incorporación de las TIC en la educación en Latinoamérica, determina que a excepción del
+programa Enlaces en Chile, existen dificultades para determinar los impactos causales de los
+programas en Perú, México y Colombia. Por otra parte, se identifica que la medición de la
+innovación en los procesos educativos es un intento pionero que se encuentra en su etapa
+más incipiente (OCDE, 2016).
+En Colombia, el programa CPE ha enfocado el seguimiento y monitoreo al acceso de
+TIC (número de terminales entregadas, número de sedes educativas beneficiadas) y en
+términos de docentes formados. Sin embargo, en el marco de la innovación a través de TIC,
+hay falencias en el proceso de seguimiento a los agentes que participan en la estrategia de
+formación de CPE, falta de instrumentos de evaluación, de estrategias interinstitucionales e
+integración en el proceso de seguimiento para alimentar la medición de los efectos de la
+intervención (CPE, 2019). Así mismo, por parte de CPE se identifica que el monitoreo de la
+transformación de las prácticas educativas en este momento es inexistente.
+A su vez, el Observatorio de Innovación Educativa a partir del uso de las TIC ha
+establecido una serie de indicadores asociados a la infraestructura, los recursos educativos,
+las prácticas educativas, la gestión TIC, las políticas y la formación docente. Sin embargo,
+los indicadores de este observatorio, en su mayoría presentan información a partir de la
+encuesta realizada en Colegios 10 TIC, por lo que se identifican limitaciones para garantizar
+la periodicidad de captura de la información de manera continua a partir de encuestas y la
+expansión de la muestra para la construcción de indicadores más representativos.
+De acuerdo con el contexto anterior, en Colombia existe una debilidad en el monitoreo
+y evaluación para la medición del acceso, uso e impacto de las TIC en la educación. A
+
+40
+
+continuación, se exponen las causas de esta problemática: (i) bajo desarrollo y
+desarticulación de los mecanismos de monitoreo y evaluación de la incorporación de las
+tecnologías digitales en la educación y (ii) el desarrollo incipiente de la medición y evaluación
+de las competencias para el siglo XXI.
+3.4.1. Bajo desarrollo y desarticulación de los mecanismos de monitoreo y evaluación de
+la incorporación de las tecnologías digitales en la educación
+El Gráfico 13 expone las diferentes necesidades de información según se avanza en el
+proceso de implementación de políticas o programas de incorporación de las tecnologías
+digitales, de acuerdo con el grado de incorporación de las tecnologías en los sistemas
+educativos. En la medida en que las tecnologías digitales se incorporan progresivamente en
+los sistemas educativos, la información necesaria para monitorear los avances y evaluar el
+impacto de la implementación de las políticas evoluciona. Así entonces, medir el impacto de
+las tecnologías digitales en educación requiere información sobre acceso, uso y resultados e
+impacto en la calidad de la educación.
+
+Necesidad de contar con información
+
+Gráfico 13. Necesidades de información según nivel de incorporación
+
+Impacto
+Integración
+
+Uso e intensidad
+Adaptación
+Acceso TIC
+Adopción
+
+Incorporación de las tecnologías en el sistema educativo
+Fuente: Elaboración propia a partir de Cepal (2009) y Fidock y Carroll (2006).
+
+Para el caso de Colombia, esta estrategia se encuentra en bajo desarrollo dado que el
+programa CPE solo cuenta con información sobre el acceso a las terminales en las sedes
+educativas y la formación docente (terminales entregadas y docentes formados), y desconoce
+el uso que la comunidad les da, así como la intensidad e intencionalidad con que las usan.
+Adicionalmente, la estrategia carece de instrumentos, indicadores y definiciones unificadas,
+
+41
+
+y se encuentra desarticulada entre los diferentes actores del ecosistema educativo, lo que se
+evidencia en la duplicidad de esfuerzos para recopilar y gestionar la información (CPE,
+2019).
+3.4.2. Desarrollo incipiente de la medición y evaluación de las competencias para el
+siglo XXI
+Impulsar la innovación en las prácticas educativas a partir de las tecnologías digitales
+tiene como principal objetivo el desarrollo de competencias para el siglo XXI en los
+estudiantes, las cuales les permiten asumir un papel activo en la sociedad actual y futura. Por
+tal motivo, se hace necesaria la implementación de una herramienta que permita evaluar las
+competencias de los estudiantes, abarcando desde la medición de las competencias
+cognitivas básicas o curriculares, hasta la medición del desarrollo de competencias para el
+siglo XXI como el pensamiento crítico, la creatividad, la resolución de problemas, y la
+colaboración.
+En el marco internacional, se han desarrollado pocas iniciativas para la medición de
+estas competencias. Dentro de ellas se encuentra la iniciativa internacional de evaluación y
+enseñanza de las destrezas para el siglo XXI (ATC21S, por sus siglas en inglés), un proyecto
+de investigación impulsado por el sector privado, en el que han participado seis países:
+Australia, Estados Unidos, Finlandia, Singapur, Holanda y Costa Rica, este último elegido
+como el único país de Latinoamérica para desarrollar una prueba piloto (Ministerio de
+Educación Pública, 2014). El piloto ATC21 es uno de los pocos instrumentos que existen para
+sondear el desarrollo de las competencias para el siglo XXI (Universidad EAFIT, 2017) y
+generar insumos para los hacedores de política educativa e innovación sobre competencias
+del siglo XXI.
+En Colombia, el único ejercicio para medir las competencias para el siglo XXI se
+implementó a través de una prueba piloto para la construcción de una línea base de
+competencias para el siglo XXI en estudiantes beneficiados por el Plan Saber Digital23, a
+partir del instrumento de ATC21 diseñado por la Universidad de Melbourne (Universidad
+EAFIT, 2019). Sin embargo, de acuerdo con el informe de avance para el desarrollo de
+competencias del siglo XXI, se identifican oportunidades de mejora técnica en el instrumento
+como la inclusión de variables pertinentes al contexto, así como la selección de la muestra
+poblacional dado que tuvo como limitación la imposibilidad de hacer inferencias a nivel
+poblacional (Universidad EAFIT, 2017). De acuerdo con lo anterior, pese a la importancia
+23
+
+El Plan Saber Digital es un proyecto que busca el fortalecimiento de los ambientes de aprendizaje y desarrollo
+de competencias digitales de los actores involucrados, a través de soluciones efectivas en el uso de tecnologías.
+Este proyecto se realiza en convenio con la Secretaría de Educación de Bogotá.
+
+42
+
+que tiene la medición de competencias del siglo XXI, aún es un área de investigación en
+materia de innovación educativa incipiente a nivel regional y hasta el momento ha sido poco
+explorada en Colombia.
+4. DEFINICIÓN DE LA POLÍTICA
+4.1. Objetivo general
+Impulsar la innovación en las prácticas educativas a través de las tecnologías digitales,
+para el desarrollo de competencias en los estudiantes de educación preescolar, básica y
+media del sector oficial, que les permita consolidar su proyecto de vida, así como enfrentar
+los retos y aprovechar las oportunidades de la sociedad digital.
+4.2. Objetivos específicos
+OE1. Aumentar el acceso a tecnologías digitales en las sedes educativas oficiales para
+la creación de espacios de aprendizaje innovadores.
+OE2. Mejorar la conectividad a Internet en las sedes educativas oficiales con el fin de
+potenciar el uso de las tecnologías digitales.
+OE3. Promover la apropiación de las tecnologías digitales en la comunidad educativa
+para la innovación en las practicas educativas.
+OE4. Fortalecer el monitoreo y evaluación para la medición del uso, acceso e impacto
+de las tecnologías digitales en las prácticas educativas.
+4.3. Plan de acción
+La implementación de las acciones de esta política permitirá ampliar el enfoque del
+programa CPE y orientar los esfuerzos de diferentes entidades públicas para fomentar la
+innovación en las prácticas educativas a partir de las tecnologías digitales. Actualmente CPE
+es un programa del Gobierno nacional que implementa sus acciones desde el año 2009 y a
+su vez es una asociación de entidades públicas, cuyo consejo directivo está integrado por
+los Ministerios de Tecnologías de la Información y las Comunicaciones, de Educación
+Nacional y el SENA. A continuación, se describen las acciones de los 4 pilares de la presente
+política24.
+24
+
+Computadores para Educar es una entidad pública de segundo orden, autónoma, con personería jurídica,
+patrimonio independiente, con órganos de dirección y control propios, vigilada por la Contraloría General de la
+
+43
+
+4.3.1. Aumentar el acceso a tecnologías digitales en las sedes educativas oficiales para
+la creación de espacios de aprendizaje innovadores.
+Los avances de la cuarta revolución industrial han permitido la creación de tecnologías
+digitales emergentes como la realidad virtual, computación en la nube, realidad aumentada,
+libros digitales, entre otros, que habilitan la transformación de las prácticas de aprendizaje
+(BID, 2016). Las tecnologías digitales anteriormente mencionadas facilitan la conformación
+de entornos de aprendizaje centrados en el alumno que permiten desarrollar experiencias
+significativas de aprendizaje. Varios países en el mundo han adoptado estrategias
+pedagógicas relacionadas con la implementación de proyectos de ciencia, tecnología,
+ingeniería y matemáticas (STEM, por sus siglas en inglés), que permiten a los estudiantes
+enfrentar y solucionar problemas complejos25.
+A continuación, se enuncian las acciones relacionadas con el aumento del acceso a
+tecnologías digitales en las sedes educativas del país para la creación de espacios de
+aprendizaje innovadores. La implementación de estas acciones logrará aumentar el acceso
+a tecnologías digitales, espacios de innovación y otro tipo de soluciones de acuerdo con las
+necesidades de las sedes educativas, que permitirán fomentar el desarrollo de competencias
+para el siglo XXI en los estudiantes.
+Línea de acción 1. Diversificar e incrementar la dotación de tecnologías digitales en las
+sedes educativas
+La estrategia de CPE se ha enfocado en dotar con computadores y tabletas a las sedes
+educativas para fortalecer el aprendizaje de los estudiantes y cerrar la brecha digital en
+todas las regiones de Colombia. Sin embargo, dada la tendencia mundial en la
+incorporación de tecnologías digitales innovadoras en el ámbito educativo, es necesario
+implementar acciones que permitan ampliar la estrategia de acceso a tecnologías digitales
+pertinentes con las necesidades de las sedes educativas y con el contexto territorial para la
+creación de espacios de aprendizaje innovadores, así como el fomento a su uso.
+
+República. Por tal motivo, algunas de las acciones a cargo del Ministerio de las Tecnologías de la Información y
+las Comunicaciones se implementarán por parte de la entidad Computadores para Educar. Las acciones
+implementadas por las demás entidades permitirán fortalecer al programa Computadores para Educar y fomentar
+la innovación educativa a partir de la incorporación integral de las tecnologías digitales.
+25
+Un ejemplo de ello son los 18 Laboratorios de Tecnologías Digitales (LadTed) que se han implementado en
+Uruguay en el marco del Programa Plan Ceibal. Estos laboratorios son espacios de trabajo para resolver
+problemáticas de contexto relevantes para los estudiantes, cuyo producto final es la elaboración de un artefacto
+tecnológico a partir de la dotación de kits de robótica y censores que son provistos por el Plan Ceibal. Los LadTed
+han permitido que los estudiantes desarrollen competencias como la creatividad, el trabajo en equipo y el
+pensamiento crítico (Unesco, 2014) y son evidencia de su capacidad para transformar los ambientes de
+aprendizaje.
+
+44
+
+En primer lugar, el Departamento Nacional de Planeación en articulación con el
+Ministerio de Tecnologías de la Información y las Comunicaciones, a través de CPE,
+elaborará a diciembre de 2020, un Benchmarking internacional de las principales tendencias
+tecnológicas en el ámbito educativo y su relación con el aprendizaje de los estudiantes. Esto
+permitirá orientar la dotación de tecnologías digitales en las sedes educativas con el propósito
+de fomentar la innovación.
+En segundo lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones,
+a través de CPE, desarrollará e implementará, a partir de abril de 2020 a diciembre de
+2024, un modelo de focalización y priorización de sedes educativas para la dotación de
+tecnologías digitales, orientado a la disminución de la brecha regional y a la mitigación de
+los efectos de la obsolescencia tecnológica. Este modelo de acceso estará orientado a la
+dotación de tecnologías digitales en las sedes educativas que propicien la creación de
+espacios de innovación para el aprendizaje, que vayan más allá del modelo estudiante por
+terminal. El modelo tendrá en cuenta las diferentes condiciones de cada una de las sedes
+educativas necesarias para alcanzar un estado óptimo de entorno digital. Entre estas
+variables para la focalización y priorización se contempla el acceso a tecnologías digitales,
+acceso a conectividad, conexión eléctrica, apropiación de tecnologías digitales en docentes
+y acceso a otras tecnologías para procesos de innovación educativa con tecnologías
+digitales.
+De manera complementaria, el Ministerio de Tecnologías de la Información y las
+Comunicaciones, a través de CPE, implementará, mediante alianzas con el sector público y
+privado, laboratorios de innovación a través de la dotación de tecnologías digitales a las
+sedes educativas del sector oficial. Estos espacios de aprendizaje colaborativo entre docentes
+y estudiantes fomentarán el desarrollo de experiencias significativas de aprendizaje para
+aumentar la innovación en las prácticas educativas. Las alianzas incorporarán la definición
+de iniciativas de laboratorios de innovación y el modelo de implementación de los
+laboratorios de innovación. Cabe mencionar que no es posible determinar un número
+específico de laboratorios a priori dado que esto está sujeto a la asignación de recursos a
+ejecutar por CPE anualmente y las estrategias adicionales que se puedan realizar con otras
+fuentes de recursos. Las sedes educativas del sector oficial en las cuales se implementarán los
+laboratorios de innovación se determinarán a partir de la estrategia de acompañamiento y
+formación a docentes y estudiantes. Esta acción será desarrollada entre abril de 2020 y
+diciembre de 2024.
+Por otra parte, a partir de abril de 2020 a diciembre de 2024, el Ministerio de
+Tecnologías de la Información y las Comunicaciones, mediante CPE definirá e implementará
+un plan de acción para la gestión de recursos de cooperación con entidades públicas, sector
+45
+
+privado u organismos internacionales, entre otros, para aunar esfuerzos técnicos y financieros
+que permitan aumentar el acceso a tecnologías digitales. Esta gestión se materializará a
+partir de la identificación y documentación de modelos nacionales e internacionales similares
+a CPE, para así diseñar e implementar el modelo para la consecución de recursos.
+Ahora bien, con el fin de gestionar las tecnologías digitales obsoletas y a su vez la
+disposición y aprovechamiento de los residuos tecnológicos como herramientas para el
+aprendizaje se prevé: en primer lugar, que el Ministerio de Tecnologías de la Información y
+las Comunicaciones, mediante CPE, en articulación con el Ministerio de Ambiente y
+Desarrollo Sostenible, diseñará lineamientos, para el seguimiento y gestión ambientalmente
+adecuada de las tecnologías obsoletas o en desuso, en el marco de la Política Nacional para
+la Gestión Integral de Residuos de Aparatos Electrónicos y Eléctricos (RAEE). En este diseño
+se incluirán: (i) los lineamientos a las sedes educativas a nivel nacional para el
+aprovechamiento, tratamiento y disposición final de los residuos; (ii) un esquema de
+identificación y seguimiento para determinar el nivel de obsolescencia de las tecnologías; (iii)
+un plan de gestión de manufactura que involucre acciones articuladas con el sector productivo
+en las regiones, y (iv) formación a la comunidad educativa para el mantenimiento y
+reparación de los equipos obsoletos. Esta acción empezará en abril del año 2020 y finalizará
+en diciembre de 2024.
+En sexto lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones, a
+través de CPE, gestionará a partir de abril de 2020 a diciembre de 2024, los RAEE
+generados por las tecnologías obsoletas o en desuso existentes. Esta gestión incluirá la
+focalización de los puntos objeto de retoma, la retoma y manufactura.
+En séptimo lugar, con el fin de utilizar los RAEE como herramientas de aprendizaje
+innovador, el Ministerio de Tecnologías de la Información y las Comunicaciones, mediante
+CPE, creará entre abril de 2020 y diciembre de 2024, espacios colaborativos de docentes
+y estudiantes, para el desarrollo y elaboración de proyectos de robótica, programación y
+diseño 3D, a partir de los componentes electrónicos recuperados de los equipos obsoletos.
+Por otra parte, la dotación de tecnologías digitales debe contemplar los contenidos y
+recursos digitales pertinentes al contexto educativo. Para ello, en primer lugar, el Ministerio
+de Tecnologías de la Información y las Comunicaciones, mediante CPE, en articulación con
+el Ministerio de Educación Nacional, diseñará e implementará, entre abril de 2020 y
+diciembre de 2024, una hoja de ruta para favorecer el acceso a los recursos tecnológicos
+de todos los estudiantes con necesidades de aprendizaje diversas. Esta acción se desarrollará
+a partir de mesas de trabajo con actores del ecosistema de innovación educativo y permitirá
+establecer un plan de trabajo anual con las diferentes entidades para la actualización y
+
+46
+
+mejoras de contenidos educativos digitales con el fin de que sean pertinentes para los niveles
+y los contextos educativos.
+Adicionalmente, el Ministerio de Tecnologías de la Información y las Comunicaciones,
+a través de CPE, en articulación con el Ministerio de Educación Nacional desarrollará e
+implementará una hoja de ruta para la actualización, mejoras y difusión de contenidos
+educativos digitales pertinentes para los niveles y contextos educativos. El proceso de
+desarrollo contempla mesas de trabajo con actores relevantes en el desarrollo de contenidos,
+definición de la hoja de ruta con los contenidos a entregar en las sedes educativas,
+implementación de la misma y la realización de mesas de trabajo de seguimiento a la
+implementación. Esta acción comenzará en abril de 2020 y finalizará en diciembre de 2024.
+Finalmente, con el fin de aumentar el uso de los contenidos digitales y las plataformas
+para el aprendizaje, el Ministerio de Tecnologías de la Información y las Comunicaciones,
+mediante CPE, en articulación con el Ministerio de Educación Nacional y el Ministerio de
+Ciencia, Tecnología e Innovación, diseñará e implementará, de abril de 2020 a diciembre
+de 2024, una estrategia de fomento al uso y apropiación de contenido educativo disponible,
+en docentes, estudiantes y padres de familia. Esta estrategia incluirá la actualización de los
+manuales y guías con la oferta de contenidos digitales educativos y de plataformas de gestión
+del aprendizaje.
+Línea de acción 2. Mejorar la infraestructura de energía eléctrica en las sedes
+educativas
+La infraestructura de energía eléctrica es fundamental para garantizar el acceso a
+tecnologías digitales, así como la conectividad a Internet. Dada la brecha departamental que
+existe en materia de provisión de energía eléctrica, se requiere identificar soluciones
+innovadoras que permitan llevar energías alternativas de manera prioritaria a las sedes
+educativas. Para ello, el Ministerio de Educación Nacional, en conjunto con el Ministerio de
+Minas y Energía, construirán entre diciembre de 2020 y diciembre de 2021, una hoja de
+ruta que permita identificar las posibles soluciones de energización para las sedes educativas
+que no cuentan con acceso a energía eléctrica que permitan el uso de tecnologías digitales
+para la promoción de la innovación educativa. Esta hoja de ruta contemplará (i) la
+identificación de las sedes educativas y los actores/entidades clave que deben involucrarse
+para implementar la solución, (ii) una propuesta de solución según las condiciones
+particulares de cada una de las sedes, con la respectiva priorización y alcance, (iii) las
+posibles fuentes de financiación, (iv) recomendaciones para la estructuración e
+implementación de proyectos y responsables (en los casos que aplique) y (v) los riesgos
+asociados al proceso de la solución de energización.
+
+47
+
+A partir de la identificación de las sedes educativas que no cuentan con acceso a
+energía eléctrica, realizada en la acción anterior, el Ministerio de Minas y Energía, en
+articulación con el Instituto de Planificación y Promoción de Soluciones Energéticas para las
+zonas no Interconectadas, gestionará, en 2021, la formulación de un proyecto tipo como
+herramienta indicativa para que las entidades territoriales soliciten el acceso de servicio de
+energía eléctrica en las sedes educativas públicas identificadas.
+Línea de acción 3. Acompañar a las entidades territoriales en la estructuración y
+formulación de proyectos para acceder a recursos en tecnologías digitales
+Las entidades territoriales tienen la oportunidad de acceder a fuentes de financiación
+para ampliar y mejorar su dotación en tecnologías digitales a través del SGR, el Sistema
+General de Participaciones (SGP), recursos propios o convenios interinstitucionales. Por tal
+motivo, es fundamental que cuenten con las herramientas técnicas y el acompañamiento
+necesario para estructurar y formular, de manera proactiva, proyectos que fomenten la
+incorporación de las tecnologías digitales en las sedes educativas. Para ello se identifican las
+siguientes acciones:
+En primer lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones,
+mediante CPE, diseñará e implementará entre abril de 2020 y diciembre de 2024, una
+estrategia de acompañamiento técnico unificado y estandarizado a las entidades territoriales
+para lograr la estructuración y formulación de los proyectos que les permitan obtener recursos
+para acceder a tecnologías digitales, lo anterior para dejar capacidad instalada en las
+entidades territoriales.
+En segundo lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones
+en articulación con el Departamento Nacional de Planeación y el Ministerio de Educación
+Nacional actualizará y divulgará para junio de 2020, los lineamientos del proyecto tipo que
+permitirán a los entes territoriales acceder a tecnologías digitales, conectividad educativa y
+apropiación. El proyecto tipo debe contener aspectos metodológicos y técnicos actualizados
+orientados al objetivo de la presente política, para que las entidades territoriales impulsen
+desde el contexto regional iniciativas con recursos de las fuentes disponibles.
+4.3.2. Mejorar la conectividad a Internet en las sedes educativas oficiales con el fin de
+potenciar el uso de las tecnologías digitales
+La conectividad en las sedes educativas es necesaria para potenciar el efecto que tienen
+las tecnologías digitales en procesos de innovación en las prácticas educativas. Las
+estrategias de conectividad enmarcadas en esta política contemplan un enfoque de eficiencia
+y equidad, dado que se busca aprovechar al máximo los recursos e infraestructura dispuestos
+
+48
+
+por el Gobierno Nacional para cerrar la brecha digital. A continuación, se mencionan las
+acciones que permitirán ampliar el número de sedes educativas con conexión a Internet,
+mejorar la calidad de la conectividad y lograr mayor eficiencia en la adquisición de servicios
+de conectividad.
+Línea de acción 1. Incrementar el número de sedes educativas con conectividad a
+Internet
+En primer lugar, el Ministerio de Educación Nacional en articulación con el Ministerio
+de Tecnologías de la Información y las Comunicaciones, desde abril de 2020 a junio de
+2021, realizará la caracterización de las necesidades de conectividad escolar mediante el
+apoyo de las secretarías de educación de acuerdo con el contexto regional, para
+proporcionar un insumo que permita extender o mejorar la cobertura de conectividad por
+otros programas gubernamentales de conectividad. Esta caracterización contemplará la
+definición de la metodología y el instrumento de caracterización, la aplicación de la
+metodología y la consolidación de los resultados.
+En segundo lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones,
+en articulación con el Ministerio de Educación Nacional y CPE, diseñará, para diciembre de
+2020, un instrumento de focalización escalonado que permita planificar la cobertura en
+conectividad a las sedes educativas, teniendo en cuenta las necesidades de conectividad de
+la sede, la oferta institucional disponible y mecanismos eficientes para la contratación. Este
+instrumento debe permitir planificar una estrategia escalonada en donde se proyecte cubrir
+la mayor cantidad de sedes educativas en un horizonte temporal de corto, mediano y largo
+plazo. Lo anterior teniendo en cuenta los programas del Gobierno nacional orientados a
+brindar conectividad a Internet a las sedes educativas, como por ejemplo el Proyecto de
+Acceso Universal a Internet para Zonas Rurales, que dará solución a cerca de 10 mil sedes
+educativas por aproximadamente 10 años, con una inversión que asciende a 2 billones de
+pesos.
+Línea de acción 2. Aumentar la capacidad de conectividad a Internet en las sedes
+educativas
+Con el fin de aportar a mejorar a la calidad y la capacidad a Internet en las sedes
+educativas, el Ministerio de Educación Nacional, en articulación con el Ministerio de
+Tecnologías de la Información y las Comunicaciones, diseñará los lineamientos de
+categorización de ancho de banda de conectividad de acuerdo con los parámetros mínimos
+(usuarios, dispositivos conectados efectivamente, región) y otros aspectos que faciliten la
+implementación de proyectos e iniciativas que fomenten la innovación educativa a través del
+uso pedagógico de tecnologías digitales. Estos lineamientos incorporarán un diagnóstico de
+49
+
+los aspectos técnicos a ser considerados para la definición de los rangos de ancha a ser
+sugeridos, la actualización del documento con los lineamientos de conectividad escolar y
+será acompañado con estrategias de divulgación y acompañamiento a las entidades
+territoriales. Esta acción se llevará a cabo entre abril de 2020 y junio de 2021.
+Línea de acción 3. Definir e implementar estrategias para lograr mayor eficiencia en la
+adquisición de servicios de conectividad
+En primer lugar, con el fin de fortalecer el mecanismo de agregación de demanda para
+la estandarización de compra y venta uniforme de conectividad en sedes educativas,
+Colombia Compra Eficiente en articulación con el Ministerio de Educación Nacional y el
+Ministerio de Tecnologías de la Información y las Comunicaciones, actualizará, en
+septiembre de 2020, el Acuerdo Marco Precios de Conectividad, evaluando la posibilidad
+de incorporar en su definición las características de contextos territoriales incluyendo mejores
+requisitos técnicos en la materia. Lo anterior, con la finalidad de que los entes territoriales
+puedan disponer de esta herramienta para la contratación y el mejoramiento de la
+conectividad, especialmente en el contexto rural.
+En segundo lugar, el Ministerio de Tecnologías de la Información, a través de CPE, en
+conjunto con Colombia Compra Eficiente, establecerá y socializará en diciembre de 2020,
+la estrategia para utilizar un instrumento de agregación de demanda que facilite la compra
+agregada de conectividad. CPE será la entidad compradora dentro del instrumento
+planteado, lo cual permitirá la eliminación de los costos de intermediación del servicio y
+promoverá el uso eficiente de los recursos. La socialización de la estrategia en mención se
+llevará a cabo con las entidades interesadas en el modelo de agregación de demanda en
+todo el país a través de reuniones y mesas de trabajo.
+Por último, para el fortalecimiento de las dos acciones anteriores, Colombia Compra
+Eficiente en articulación con el Ministerio de Educación Nacional, a diciembre de 2020,
+definirá y socializará una estrategia de comunicación para fomentar que las Secretarías de
+Educación utilicen los instrumentos de agregación de demanda, como un mecanismo más
+seguro y eficiente en comparación a la contratación de conectividad por separado. La
+estrategia contempla la elaboración de contenido para las piezas gráficas de la campaña
+de promoción de los instrumentos de agregación de demanda, el diseño gráfico de las piezas
+y la capacitación a las Secretarías de Educación.
+
+50
+
+4.3.3. Promover la apropiación de las tecnologías digitales en la comunidad educativa
+para la innovación en las practicas educativas
+A partir de las siguientes acciones se busca promover la apropiación de las tecnologías
+digitales para la transformación de las prácticas educativas. La implementación de estas
+acciones está orientada a fortalecer la formación y el acompañamiento docente, fomentar el
+uso de las tecnologías digitales para la innovación en las prácticas educativas, definir e
+implementar estrategias de apropiación pertinentes a las necesidades del contexto educativo
+y el territorio y promover desde la institucionalidad, la apropiación y uso de las tecnologías
+digitales en las sedes educativas.
+Línea de acción 1. Fortalecer la formación y acompañamiento a los docentes en la
+apropiación de las tecnologías digitales para la innovación en las prácticas educativas
+La estrategia de apropiación de CPE ha estado enfocada en los docentes y directivos
+que son los principales agentes promotores del cambio para transformar la educación e
+impulsar la innovación de las prácticas educativas. En este sentido, es necesario rediseñar
+las estrategias de formación y acompañamiento docente para fortalecer la apropiación de
+las tecnologías digitales hacia la innovación en las prácticas educativas.
+En primer lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones,
+a través de CPE, en articulación con el Ministerio de Educación Nacional redefinirá e
+implementará desde abril de 2020 a diciembre de 2024, la estrategia orientada al
+fortalecimiento de las competencias requeridas por los docentes para la innovación
+educativa. El nuevo modelo de la oferta de formación deberá abordarse desde un enfoque:
+(i) territorial pertinente para los contextos rurales, (ii) escalonado de acuerdo con los niveles
+de formación inicial de los docentes, (iii) pertinente con las diferentes áreas de conocimiento,
+(iv) de formación orientado a la innovación de las prácticas educativas para la generación
+de competencias del siglo XXI en los estudiantes y (v) flexible para que cada docente pueda
+diseñar su propio itinerario de formación. Esta estrategia será documentada y se definirá a
+partir de mesas de trabajo con los actores pertinentes, las cuales permitirán la redefinición
+del modelo de formación de docentes.
+En segundo lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones,
+a través de CPE, en articulación con el Ministerio de Educación Nacional, diseñará e
+implementará desde abril de 2020 a diciembre de 2024, una estrategia de seguimiento y
+acompañamiento a los docentes formados, de forma que se le apoye técnica y
+pedagógicamente para la cocreación de experiencias de enseñanza y aprendizaje,
+incorporando las tecnologías digitales en las prácticas educativas. Esta estrategia se
+materializará a partir de un documento que contenga los siguientes componentes:
+51
+
+acompañamiento EdukLab-Laboratorios de innovación26, fortalecimiento de competenciasEdukLab rutas de formación27, EdukLab-experiencias creativas con uso de tecnología para
+estudiantes28, EdukParty-escenarios de intercambio de experiencias y saberes29, y EdukLabfamilia30 programa de sensibilización y aproximación al uso de las tecnologías digitales para
+padres y madres de familia, así como cuidadores.
+En tercer lugar, el Ministerio de Educación Nacional en articulación con CPE y el
+Ministerio de Comercio, Industria y Turismo, creará e implementará, a partir de abril de 2020
+a diciembre de 2024, una estrategia de articulación interinstitucional del ecosistema de
+innovación educativa que integren a CPE, los CIER y otras iniciativas y actores clave del
+territorio y del orden Nacional, bajo un enfoque que impulse el uso de tecnologías digitales
+para la Innovación entre estudiantes y docentes. En el caso de iniciativas que incluyan un
+componente de emprendimiento, se vinculará al Ministerio de Comercio, Industria y Turismo.
+Este será un actor clave para integrar las apuestas de innovación educativa con el sector
+productivo y para generar alianzas estratégicas con el Ministerio de Tecnologías de
+Información y Comunicación, o el Servicio Nacional de Aprendizaje- SENA, entre otros. La
+acción se materializará a través de un documento que dé cuenta de los componentes de la
+estrategia, que a su vez se abordarán según lo hitos definidos en la acción. Un componente
+dará cuenta del plan estratégico para el fortalecimiento de los Centros de Innovación
+Educativa Regional, otro componente con el mapeo de actores y un componente que
+
+26
+
+Desarrollo de prácticas experimentales desde la perspectiva pedagógica, guiadas por asesores de
+apropiación digital, que ocurren en las instalaciones de las sedes educativas beneficiadas. En estos laboratorios,
+los docentes adquieren conocimientos y desarrollan destrezas en el uso de metodologías y tecnologías emergentes,
+para crear nuevas experiencias de aprendizaje con sus estudiantes (CPE, 2020).
+27
+Busca desarrollar estrategias de cualificación de la formación en uso y apropiación de tecnologías digitales
+y metodologías para la innovación, dirigida a docentes o directivos docentes adscritos a las Secretarías de
+Educación del país, que se fundamenta en desarrollo de conocimientos técnico-pedagógicos, metodologías y
+habilidades y las competencias TIC impulsadas por del Ministerio de Educación Nacional. Esta estrategia se
+apoyará en una plataforma digital (LMS) con una amplia oferta de microcursos virtuales (CPE, 2020).
+28
+
+Busca involucrar a los estudiantes de los niveles de preescolar, básica y media en los temas, habilidades y
+competencias que demanda la industria 4.0 (en particular el pensamiento computacional), como herramientas de
+aplicación en los procesos de aprendizaje. Este componente se desarrollará con fundamento en la metodología
+exitosamente los retos de esta época, y que los provoque a continuar en el camino de la innovación, mediante el
+desarrollo de la creatividad (CPE, 2020).
+29
+
+Son espacios (eventos) creados para promover tanto el aprendizaje como el intercambio de las experiencias
+de innovación educativa que desarrollan docentes, directivos y estudiantes (CPE, 2020).
+30
+Este componente se fundamenta en la escuela TIC familia que ha sido desarrollada desde 2012 por el Ministerio
+TIC, Computadores para Educar y el apoyo del sector privado. El programa tiene una duración de 12 horas que
+deberán ser desarrolladas en mínimo 3 sesiones de 4 horas cada una. Para el desarrollo de este componente es
+necesario contar con computadores y conectividad a Internet que permita desarrollar en la plataforma establecida
+los contenidos específicos de la sensibilización (CPE, 2020).
+
+52
+
+contemple acciones para la articulación interinstitucional de los actores claves en territorio
+para el fomento a la innovación educativa.
+Línea de acción 2. Desarrollar estrategias para fomentar el uso de las tecnologías
+digitales en la comunidad educativa
+Las expectativas y la actitud que tienen los miembros de la comunidad educativa frente
+a las tecnologías digitales influyen en su nivel de apropiación para el aprendizaje de los
+estudiantes. En este sentido, se requiere implementar acciones que construyan un entorno
+educativo que involucre activamente a los docentes, estudiantes y padres de familia en el uso
+de tecnologías digitales.
+En primer lugar, con el propósito de contar con un entorno educativo donde participen
+activamente padres, madres, cuidadores, docentes y estudiantes, el Ministerio de Tecnologías
+de la Información y las Comunicaciones mediante CPE y con apoyo de la Subdirección de
+Cultura Digital, en articulación con el Ministerio de Educación Nacional, desde abril de 2020
+hasta octubre de 2024, implementará una estrategia que integre y articule a la familia con
+el Ecosistema de Innovación Educativa de acuerdo con el modelo de focalización definido
+por CPE. Esto, con el propósito de fomentar el uso de las tecnologías digitales en padres de
+familia, orientado a procesos de apropiación básica de las tecnologías digitales para cerrar
+la brecha digital entre padres de familia, cuidadores e hijos, así como fomentar acciones con
+la comunidad educativa para mitigar los riesgos de las tecnologías digitales y el uso
+responsable de Internet. Lo anterior permitirá orientar a la comunidad educativa en los
+procesos de apropiación básica de las tecnologías digitales dentro y fuera del aula de clase.
+En segundo lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones,
+mediante CPE, desarrollará desde abril de 2020 a diciembre de 2024, espacios regionales
+y nacionales de intercambio de experiencias significativas e innovadoras en el aula a partir
+del uso de las tecnologías digitales que permita: (i) la reflexión de la comunidad educativa
+sobre las dimensiones ética, comunicativa y cognitiva del uso de las tecnologías digitales, (ii)
+incentivar el uso de las tecnologías digitales en las aulas de clase y (iii) visibilizar las
+experiencias de la comunidad educativa de todas las regiones del país frente al uso de las
+tecnologías digitales. El desarrollo de los espacios se hará a partir de la definición de una
+estrategia para el intercambio de experiencias significativas. Este busca involucrar a los
+estudiantes de los niveles de preescolar, básica y media en los temas, habilidades y
+competencias que demanda la industria 4.0 (en particular el pensamiento computacional),
+como herramientas de aplicación en los procesos de aprendizaje. Este componente se
+desarrollará con fundamento en la metodología de aprendizaje maker, que permite
+desarrollar destrezas, conocimientos y actitudes necesarios para enfrentar exitosamente los
+
+53
+
+retos de esta época, y que los incentive continuar en el camino de la innovación, mediante
+el desarrollo de la creatividad.
+Línea de acción 3. Definir e implementar estrategias de apropiación de las tecnologías
+digitales en las prácticas educativas pertinentes a las necesidades del contexto
+educativo, el territorio y el estudiante
+En primer lugar, el Ministerio de Educación Nacional, en articulación con CPE,
+diseñará y socializará en abril de 2020 a diciembre de 2022, los lineamientos para el
+fomento de la innovación educativa a través de las tecnologías digitales, orientados a
+promover en trayectorias educativas, el desarrollo de competencias para el siglo XXI en los
+niños, las niñas, los adolescentes y jóvenes. Estos lineamientos tendrán en cuenta el enfoque
+STEM+A y la ciencia, la tecnología y la innovación y la actualización del Marco de
+Competencias TIC para la cualificación de la enseñanza y el enriquecimiento de los procesos
+de aprendizaje31. La socialización de los lineamientos para el fomento de la innovación
+educativa a través de las TIC estará dirigida a secretarías de educación y actores clave del
+Ecosistema de Innovación Educativa a partir de encuentros presenciales o virtuales. Las
+secretarías de educación que se tendrán en cuenta se definirán a partir de una focalización
+basada en las metas del Plan Nacional de Desarrollo 2018-2022 y la regionalización en la
+cual el Ministerio de Educación Nacional hará énfasis, como por ejemplo secretarías de
+educación con sedes con jornada única, sedes con bajo desempeño en las Pruebas SABER,
+sedes de Programas de Desarrollo con Enfoque Territorial (PDET), entre otros.
+En segundo lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones,
+mediante CPE, en articulación con el Ministerio de Educación Nacional, diseñará y
+socializará una guía de recomendaciones a diciembre de 2024, que permita a los docentes
+desarrollar actividades para que se implementen las estrategias de la política TPA para el
+uso y apropiación de las tecnologías digitales en la educación de forma flexible e inclusiva
+para la población con necesidades de aprendizaje diverso. La socialización del documento
+con recomendaciones se llevará a cabo en el marco del Educa Digital que se realiza con los
+docentes. Adicionalmente tiene en cuenta el Componente EdukParty-Escenarios de
+intercambio de experiencias y saberes, que son espacios (eventos) creados para promover
+31
+En el 2008, Georgette Yakman propuso en los Estados Unidos un nuevo marco de comprensión del enfoque,
+invitando a pasar de STEM
+alusión a las
+artes físicas, plásticas, manuales y del lenguaje, y a las ciencias sociales (Ruíz, 2017). Este nuevo abordaje
+buscaba, además, promover una reflexión sobre las prácticas docentes que debían desarrollarse para cumplir
+con los objetivos del enfoque STEM (Ciencia, tecnología, ingeniería, matemáticas) (Ruíz, 2017).
+
+54
+
+tanto el aprendizaje como el intercambio de las experiencias de innovación educativa que
+desarrollan docentes, directivos y estudiantes.
+En tercer lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones,
+mediante CPE, en articulación con el Ministerio de Educación Nacional diseñará e
+implementará, de acuerdo con el modelo de focalización32, desde junio de 2020 a diciembre
+de 2024, una estrategia de apropiación para los estudiantes acorde con la trayectoria
+educativa (niveles de preescolar, básica y media), de forma que: (i) responda a las
+necesidades de los diferentes contextos territoriales; (ii) se incentive y priorice el desarrollo
+de competencias del siglo XXI; (iii) se priorice en la educación media el desarrollo de
+competencias y habilidades para la Cuarta Revolución Industrial, y (iv) de manera transversal,
+se oriente el uso de las tecnologías digitales a las necesidades e intereses de los estudiantes
+orientado a la innovación. Esta estrategia se orientará bajo el enfoque de STEM+A y se
+definirá a partir de la realización de mesas de trabajo con entidades competentes y se
+materializará en un documento.
+En cuarto lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones
+mediante CPE, diseñará e implementará de junio de 2020 a diciembre de 2024, espacios
+de cocreación con estudiantes para fomentar el desarrollo de competencias para el siglo XXI
+a través de las tecnologías digitales. Este proceso formativo tendrá como resultado la
+identificación de estrategias innovadoras a partir de las tecnologías digitales, permitiéndole
+a los estudiantes de manera práctica dar solución a las necesidades de su contexto. El diseño
+de espacios de co-creación se hará con base en los resultados de un piloto aplicado con
+estudiantes y será documentado para su posterior implementación.
+Adicionalmente, el Servicio Nacional de Aprendizaje (SENA), en articulación con CPE,
+a partir del programa Tecnoacademia itinerante, generará de abril de 2020 a diciembre de
+2024, espacios de aprendizaje e innovación en los estudiantes de la educación básica y
+media. Los espacios comprenderán: (i) desarrollo de proyectos que respondan a necesidades
+productivas del contexto territorial a partir del uso de las tecnologías digitales, (ii) crear
+espacios de innovación en las sedes educativas beneficiadas por TPA y (iii) involucrar a los
+docentes formados por TPA como acompañantes del proceso de enseñanza y aprendizaje,
+formación e investigación. Esta acción facilitará en los estudiantes la construcción de
+trayectorias educativas, ingreso a la educación superior o al mundo del trabajo y permitirá
+fortalecer las competencias orientadas al uso, aplicación y desarrollo de las tecnologías. Para
+la realización de esta acción se hará un convenio de cooperación entre el SENA y CPE, y se
+
+32
+
+El modelo de focalización es el mismo que se desarrollará e implementará en el primer objetivo del PAS (Plan
+de Acción y Seguimiento).
+
+55
+
+realizará una convocatoria para los estudiantes de la educación básica y media en las zonas
+cubiertas por el programa Tecnoacademia.
+Por último, el Ministerio de Tecnologías de la Información y las Comunicaciones, a
+través de CPE, desarrollará, de abril de 2020 a diciembre de 2024, espacios para la
+enseñanza con tecnologías digitales, que permitan desarrollar, desde la educación básica y
+media, los habilitadores que requiere la cuarta revolución industrial. El desarrollo de los
+espacios estará respaldado por la definición de una estrategia que permita su diseño e
+implementación y posterior seguimiento.
+Línea de acción 4. Desarrollar e implementar una estrategia para promover desde la
+institucionalidad educativa, la apropiación de las tecnologías digitales
+Como se ha evidenciado, la estrategia de apropiación ha estado enfocada en la
+formación de los docentes y docentes directivos, lo cual ha limitado el fomento de las
+tecnologías digitales a la permanencia del docente en la sede, sin generar capacidad
+instalada. Para garantizar que el uso y apropiación de las tecnologías digitales en las sedes
+educativas sea un proceso continuo, es necesario realizar acciones orientadas a promover
+desde la institucionalidad educativa el uso y la apropiación de las tecnologías.
+En este sentido, el Ministerio de Educación Nacional, en articulación con el Ministerio
+de Tecnologías de la Información y las Comunicaciones (CPE), entre junio de 2020 y
+diciembre de 2024, diseñará e implementará, en conjunto con las Secretarias de Educación,
+una estrategia de acompañamiento a las instituciones educativas para que desde estas se
+promueva procesos de apropiación y uso pedagógico de las tecnologías digitales. Esta
+estrategia debe: (i) fomentar la participación de docentes y estudiantes y la generación de
+aprendizaje en doble vía; (ii) fomentar espacios de intercambio de experiencias docentes
+con el uso de tecnología digital, con el fin de visibilizar las acciones de los docentes e
+instituciones educativas más innovadores; (iii) promover estrategias para el acceso a la
+información y contenidos en el Portal Colombia Aprende de personas ciegas y sordas
+(Implementar acciones de accesibilidad Web en el ecosistema digital) de tal manera que
+sean un recurso de apoyo la implementación de la estrategia. La acción se materializará a
+través de un documento que aborde: un modelo de intervención pedagógico; elementos
+metodológicos; recursos digitales para el acompañamiento de las IE (Instituciones educativas)
+en la apropiación de los recursos tecnológicos; lineamientos y acciones para el
+acompañamiento a docentes en las IE para la apropiación de las tecnologías digitales, y
+lineamientos y acciones para incentivar la creación de grupos de estudiantes líderes de los
+procesos de transformación digital.
+
+56
+
+4.3.4. Fortalecimiento del monitoreo y evaluación del uso, acceso e impacto de las
+tecnologías digitales en la educación
+Actualmente el proceso de monitoreo implementado por CPE para medir el acceso de
+las TIC en la educación es irregular, limitado y carece de estrategias interinstitucionales para
+la estandarización y seguimiento de la información. De igual manera, está enfocado
+principalmente en medir el acceso en relación con la entrega de terminales y el número de
+docentes que participan en programas de formación. Sin embargo, el objetivo actual de
+orientar el uso de las tecnologías digitales hacia la innovación en las prácticas educativas
+genera la necesidad de fortalecer el monitoreo y la evaluación del uso, acceso e impacto de
+las tecnologías digitales en la educación.
+Línea de acción 1. Desarrollar un proceso sistemático y articulado de monitoreo y
+evaluación del uso, acceso e impacto de las tecnologías digitales en la educación
+A continuación, se describen las acciones que serán necesarias para diseñar un
+proceso sistemático y articulado de monitoreo y evaluación de información, que cuente con
+la participación y adopción de todos los actores del ecosistema de innovación educativa.
+En primer lugar, el Ministerio de Educación Nacional en articulación con el Ministerio
+de Tecnologías de la Información y las Comunicaciones, diseñará e implementará de junio
+de 2020 a diciembre de 2024, un modelo de monitoreo y evaluación estandarizada para
+medir y hacer seguimiento del acceso y uso de las tecnologías digitales en la educación, que
+identifique aspectos de Innovación educativa desarrollados en programas e iniciativas que
+se implementen en el entorno educativo con tecnologías digitales. Este modelo está propuesto
+para ser adoptado por las Secretarías de Educación y los demás integrantes del ecosistema
+de innovación educativa y debe incluir los lineamientos técnicos y operativos para hacer
+efectivo el monitoreo y evaluación. Por tal motivo debe incluir definiciones conceptuales
+estandarizadas e indicadores de medición estandarizados y comparables.
+En segundo lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones
+a través de CPE y en articulación con el Ministerio de Educación Nacional diseñará y
+articulará, entre abril de 2020 y junio de 2021, instrumentos unificados de recolección de
+datos que permitan hacer un seguimiento sistemático del acceso y uso de las tecnologías
+digitales en las prácticas educativas por parte de la comunidad educativa. Estos instrumentos
+tendrán en cuenta métodos de recolección tipo encuestas, registros administrativos y métodos
+de recolección de información cualitativa a partir de registros etnográficos, métodos de
+observación, grupos focales, entre otros. Estos instrumentos deberán ser compatibles con el
+Sistema de Información y Evaluación para la Innovación Educativa y el Observatorio de
+Innovación Educativa. Para el diseño de los instrumentos se hará una identificación previa de
+57
+
+las necesidades de información por parte del ecosistema de innovación educativa, se
+realizarán mesas de trabajo para las discusiones técnicas que se requieran, se diseñarán los
+instrumentos y serán sometidos a pruebas de validación para los ajustes requeridos.
+En tercer lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones a
+través de CPE en articulación con el Ministerio de Educación Nacional diseñará e
+implementará entre junio de 2020 y diciembre de 2024, el Sistema de Información y
+Evaluación para la Innovación Educativa a partir de las tecnologías digitales, para compilar
+la información sobre el uso de las tecnologías digitales, el acceso a conectividad y
+tecnologías digitales, la formación docente y los resultados en el aprendizaje de los
+estudiantes. Este sistema deberá contar con la información pertinente para realizar el
+monitoreo y evaluación de la incorporación de las tecnologías digitales en la educación y
+ser compatible con el Observatorio de la Innovación Educativa a partir de las TIC.
+En cuarto lugar, el Ministerio de Educación Nacional en articulación con el Ministerio
+de Tecnologías de la Información y las Comunicaciones a través de CPE diseñará e
+implementará, a partir de abril de 2020 a diciembre de 2023, el Índice de Innovación
+Educativa, cuyo propósito es identificar el estado de apropiación de las tecnologías digitales
+en las instituciones educativas que defina el Ministerio de Educación Nacional. Esta acción
+contemplará jornadas de socialización y promoverá acciones para la implementación del
+Índice de Innovación Educativa a través de los programas e iniciativas de los actores del
+ecosistema de innovación educativa.
+En quinto lugar, El Ministerio de las Tecnologías de la Información y las
+Comunicaciones, a través de CPE, y en articulación con el Ministerio de Educación Nacional,
+diseñará e implementará un Índice de Evolución Digital que le permita a Computadores para
+Educar medir la intervención de las sedes educativas beneficiarias por el programa. Esta
+herramienta permitirá la medición de las capacidades de las sedes educativas de acuerdo
+con los niveles de conectividad, el nivel de acceso de tecnologías digitales, y los niveles de
+apropiación de las tecnologías digitales por parte de la comunidad educativa. Este índice
+deberá ser incluido en el Sistema de Información y Evaluación, y actualizado periódicamente
+a partir de la línea base. La construcción del índice deberá incluir las dimensiones y variables,
+cálculo del índice y la definición de una línea base. Esta acción se realizará entre abril de
+2020 y junio de 2023.
+En sexto lugar, el Ministerio de Educación Nacional en articulación con el Ministerio
+de Ciencia, Tecnología e Innovación diseñará para diciembre de 2021, una convocatoria
+para la producción de recursos educativos digitales y la creación de redes de aprendizaje,
+con el propósito de generar procesos de apoyo a la investigación e innovación en el aula
+para la excelencia docente.
+58
+
+Línea de acción 2. Desarrollar e implementar mecanismos de medición y evaluación de
+las competencias para el siglo XXI
+Impulsar el uso de las tecnologías digitales hacia la innovación de las prácticas
+educativas tiene como objetivo central impactar en la calidad educativa a través del
+desarrollo de competencias para el siglo XXI. Por tal motivo, el fortalecimiento del monitoreo
+y evaluación de las tecnologías digitales en la educación debe contemplar la medición de
+estas competencias. A continuación, se definen las acciones que permitirán desarrollar e
+implementar mecanismos de medición y evaluación de las competencias para el siglo XXI.
+En primer lugar, el Instituto Colombiano para la Evaluación de la Educación (Icfes), en
+articulación con el Ministerio de Educación Nacional, diseñará y socializará, para diciembre
+de 2021, los lineamientos para la medición de las competencias del siglo XXI, con base en
+experiencias nacionales e internacionales. Para ello, se realizará una revisión de estas
+experiencias, lo cual permitirá la consolidación de un documento técnico que será insumo
+para la actualización de los documentos de referencia. Estos lineamientos técnicos
+considerarán el aporte de las tecnologías digitales tanto en el desarrollo como en la
+evaluación de estás competencias. La socialización de este documento, se realizará a partir
+de mecanismos como: mesas con expertos y comunidad educativa, divulgación en la alianza
+de competencias socioemocionales, de la que hace parte el Icfes, y a través del informe de
+resultados al Ministerio de Educación Nacional.
+En segundo lugar, el Ministerio de Tecnologías de la Información y las Comunicaciones,
+a través de CPE, entre de julio de 2023 y diciembre de 2024, realizará una evaluación de
+la política de Tecnologías para Aprender, con el propósito de visibilizar los resultados de las
+acciones propuestas en el presente documento CONPES y analizar el cumplimiento de los
+objetivos de la política.
+4.4. Seguimiento
+El seguimiento a la ejecución física y presupuestal de las acciones propuestas para el
+cumplimiento del objetivo del presente documento CONPES se realizará a través del Plan de
+Acción y Seguimiento (PAS) que se encuentra en el Anexo A. Allí se señalan las entidades
+responsables de cada acción, los periodos de ejecución de estas, los recursos necesarios y
+disponibles para llevarlas a cabo y la importancia de cada acción para el cumplimiento del
+objetivo general de la política. El reporte periódico al PAS lo realizarán todas las entidades
+incluidas en este documento CONPES y será consolidado según los lineamientos del DNP. El
+seguimiento a la política será semestral con un informe de cierre final, tal como se presenta
+en la Tabla 6.
+
+59
+
+Tabla 6. Cronograma de seguimiento
+Corte
+
+Fecha
+
+Primer corte
+
+Junio de 2020
+
+Segundo corte
+
+Diciembre de 2020
+
+Tercer corte
+
+Junio de 2021
+
+Cuarto corte
+
+Diciembre de 2021
+
+Quinto corte
+
+Junio de 2022
+
+Sexto corte
+
+Diciembre de 2022
+
+Séptimo corte
+
+Junio de 2023
+
+Octavo corte
+
+Diciembre de 2023
+
+Noveno corte
+
+Junio de 2024
+
+Informe de cierre
+
+Diciembre de 2024
+
+Fuente: DNP (2020).
+
+Adicionalmente, se hará seguimiento a los indicadores que miden los cambios y
+resultados que se esperan observar una vez se cumplan los objetivos generales y específicos
+de la Política de Tecnologías para Aprender: Política Nacional para impulsar la innovación
+en las prácticas educativas a través de las tecnologías digitales. La Tabla 7 muestra los
+resultados esperados con la implementación de la política y evidencia los efectos esperados
+a partir de la implementación de las acciones incorporadas en el Plan de Acción y
+Seguimiento.
+Dado que los docentes tienen un rol determinante en la transformación de las prácticas
+educativas, se proyecta que todos los años de implementación de la política, al menos el 60
+% de los docentes que han tenido formación y acompañamiento por parte del programa
+Computadores para Educar transiten a un nivel superior de apropiación de tecnologías
+digitales. Por otra parte, dado que esta política incorpora acciones para impulsar de manera
+integral el acceso tecnológico, la conectividad a Internet de las sedes educativas, y el fomento
+a la apropiación de tecnologías digitales, se espera que, al año siguiente del inicio de la
+política, al menos el 60 % de las sedes educativas transiten de un nivel superior de madurez
+digital superior. Por último, dado que el objetivo de la política es aumentar la innovación
+educativa, se espera que los entes territoriales fortalezcan sus capacidades para el fomento
+de la innovación educativa. Se espera que para el 2021, el 60 % de los entes territoriales
+mejoren estas capacidades a partir de la implementación de las acciones.
+
+60
+
+Tabla 7. Indicadores de resultado de la Política de Tecnologías para Aprender: Política
+Nacional para impulsar la innovación en las prácticas educativas a través de las
+tecnologías digitales
+Indicadores de resultado
+
+Línea base
+2019
+
+Meta
+2020
+
+Meta
+2021
+
+Meta
+2022
+
+Meta
+2023
+
+Meta
+2024
+
+0
+
+60
+
+60
+
+60
+
+60
+
+60
+
+0
+
+60
+
+60
+
+60
+
+60
+
+0
+
+15
+
+50
+
+60
+
+60
+
+Docentes que transitan de un nivel de
+apropiación de tecnologías digitales a
+uno superior (%)
+Sedes Educativas que transitan de un
+nivel de evolución digital a uno superior
+Entes territoriales que alcanzan un nivel
+superior en capacidades para el
+fomento de la Innovación Educativa (%)
+Fuente: DNP (2020).
+
+4.5. Financiamiento
+Para efectos del cumplimento de los objetivos de esta política, las entidades
+involucradas en su ejecución gestionarán y priorizarán, en el marco de sus competencias y
+el Marco de Gasto de Mediano Plazo, los recursos para la financiación de las estrategias
+que se proponen. La política tiene un costo total estimado 231.188 millones de pesos. En la
+Tabla 8 se muestra el costo por año, así como los recursos de las entidades responsables de
+las acciones contenidas en el Anexo A, que permiten la financiación completa de los costos
+estimados.
+Tabla 8. Financiamiento de la política por entidad
+(cifras en millones de pesos)
+
+Entidad
+
+2020
+
+2021
+
+Ministerio de Tecnologías de la
+Información
+y
+las 33.533 40.272
+Comunicaciones
+Ministerio
+de
+Educación
+1.596 1.697
+Nacional
+Instituto Colombiano para la
+182
+229
+Evaluación de la Educación
+Servicio
+Nacional
+de
+2.933 3.769
+Aprendizaje (SENA)
+Colombia Compra EficienteAgencia
+Nacional
+de
+226
+Contratación pública
+Total
+
+38.470 45.967
+
+2022
+
+2023
+
+40.632 42.611
+1.060
+
+1.093
+
+2024
+
+Total
+
+43.342
+
+200.390
+
+900
+
+6.346
+411
+
+4.681
+
+5.675
+
+6.757
+
+23.815
+226
+
+46.373 49.379
+
+50.999
+
+231.188
+
+61
+
+Fuente: DNP (2020).
+
+En la Tabla 9 se muestra el costo por eje estratégico de la política desagregado por
+año.
+Tabla 9. Financiamiento de la política por eje estratégico
+(cifras en millones de pesos)
+
+Objetivo
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+Total
+
+OE1.
+
+23.231
+
+22.116
+
+22.717
+
+24.154
+
+24.082
+
+116.300
+
+OE2.
+
+2.166
+
+1.947
+
+1.631
+
+1.680
+
+1.503
+
+8.927
+
+OE3.
+
+9.121
+
+16.770
+
+18.824
+
+20.247
+
+21.474
+
+86.436
+
+OE4.
+
+3.952
+
+5.134
+
+3.201
+
+3.298
+
+3.940
+
+19.525
+
+Total
+
+38.470
+
+45.967
+
+46.373
+
+49.379
+
+50.999
+
+231.188
+
+Fuente: DNP (2020).
+
+62
+
+5. RECOMENDACIONES
+El Departamento Nacional de Planeación, el Ministerio de Tecnologías de la
+Información y las Comunicaciones y el Ministerio de Educación Nacional recomiendan al
+Consejo Nacional de Política Económica y Social (CONPES):
+1. Aprobar la Política Nacional de Tecnologías para Aprender junto con su Plan de Acción
+y Seguimiento (Anexo A), para impulsar la transformación de las prácticas educativas
+a partir de las tecnologías digitales en estudiantes para el desarrollo de competencias
+en los estudiantes de educación preescolar, básica y media del sector oficial, de
+manera que estas tecnologías les permitan consolidar su proyecto de vida, así como
+enfrentar los retos y aprovechar las oportunidades de la sociedad digital.
+2. Solicitar a las entidades del Gobierno nacional involucradas en este documento
+priorizar los recursos para la puesta en marcha de las estrategias contenidas en este,
+de acuerdo con el Marco de Gasto de Mediano Plazo del respectivo sector.
+3. Solicitar al Departamento Nacional de Planeación:
+a. Consolidar y divulgar la información del avance de las acciones según lo planteado
+en el Plan de Acción y Seguimiento (Anexo A). La información deberá ser
+proporcionada por las entidades involucradas en este documento de manera
+oportuna según lo establecido en la sección de seguimiento.
+4. Solicitar al Ministerio de Tecnologías de la Información y las Comunicaciones:
+a. En articulación con el Ministerio de Educación Nacional, diseñar un instrumento de
+focalización escalonado que permita planificar la cobertura en conectividad a las
+sedes educativas, teniendo en cuenta las necesidades de conectividad de la sede,
+la oferta institucional disponible y mecanismos eficientes para la contratación.
+b. Desarrollar un modelo de focalización y priorización de sedes educativas para la
+dotación de soluciones tecnológicas y tecnologías digitales, orientado a la
+disminución de la brecha regional en los departamentos y a la mitigación de los
+efectos de la obsolescencia tecnológica.
+c. Establecer, en conjunto con Colombia Compra Eficiente, la estrategia para utilizar
+un instrumento de agregación de demanda que facilite la compra agregada de
+conectividad.
+d. Diseñar e implementar una estrategia de acompañamiento y seguimiento a los
+docentes formados, de forma que se apoye técnica y pedagógicamente al docente
+
+63
+
+para la cocreación de experiencias de enseñanza y aprendizaje, incorporando las
+tecnologías digitales en las prácticas educativas.
+e. Implementar una estrategia que integre y articule a la familia con el Ecosistema de
+Innovación Educativa de acuerdo con el modelo de focalización definido por CPE.
+Esto, con el propósito de fomentar el uso de las tecnologías digitales en padres de
+familia, orientado a procesos de apropiación básica de las TIC para cerrar la
+brecha digital entre padres de familia, cuidadores e hijos.
+f.
+
+Diseñar e implementar el Sistema de Información y Evaluación para la Innovación
+Educativa a partir de las Tecnologías digitales que compile la información sobre: el
+uso de las tecnologías de la información y las comunicaciones, el acceso a
+conectividad y recursos digitales, la formación docente, resultados en el
+aprendizaje de los estudiantes, entre otros.
+
+g. Realizar una evaluación de la política de Tecnologías para Aprender.
+5. Solicitar al Ministerio de Educación Nacional:
+a. Diseñar lineamientos para el fomento de la innovación educativa a través de las
+tecnologías de la información y las comunicaciones, orientados a promover en
+trayectorias educativas, el desarrollo de competencias para el siglo XXI en los niños,
+las niñas, los adolescentes y jóvenes.
+b. Diseñar e implementar un modelo de monitoreo y evaluación que identifique
+aspectos de innovación educativa desarrollados en programas e iniciativas que se
+implementen en el entorno educativo con tecnologías digitales.
+c. Crear e implementar una estrategia de articulación interinstitucional del ecosistema
+de innovación educativa que integre a Computadores para Educar, los Centros de
+Innovación Educativa Regional y otras iniciativas y actores clave del territorio, bajo
+un enfoque que impulse el uso de tecnologías digitales para la Innovación
+Educativa.
+6. Solicitar a Colombia Compra Eficiente:
+a. Actualizar el Acuerdo Marco de servicios de conectividad, evaluando la posibilidad
+de incorporar en su definición las características de contextos territoriales
+incluyendo mejores requisitos técnicos en la materia.
+b. Definir y socializar una estrategia de comunicación para fomentar que las
+Secretarías de Educación utilicen los instrumentos de agregación de demanda.
+7. Solicitar al Servicio Nacional de Aprendizaje:
+64
+
+a. Generar, a partir del programa Tecnoacademia itinerante, espacios de aprendizaje
+e innovación en los estudiantes de la educación básica y media, que se articulen
+con el programa Computadores para Educar.
+8. Solicitar al Instituto Colombiano para la Evaluación de Educación (Icfes) brindar
+lineamientos para la medición de las competencias del siglo XXI, con base en
+experiencias nacionales e internacionales.
+
+65
+
+6.
+
+GLOSARIO
+
+En esta sección se introducen algunos conceptos centrales de la política propuesta,
+abordadas desde el sector educación y desde el sector TIC. Lo expuesto a continuación
+permite una mejor comprensión para mejorar la comprensión de la política abordada en el
+presente documento.
+Apropiación de las TIC: la disponibilidad de las tecnologías digitales en el ámbito
+educativo no garantiza la cualificación de los procesos educativos ni el logro en el
+aprendizaje de los estudiantes. El tipo de uso que se les dé, la frecuencia y lugar de uso, es
+lo que determina que las tecnologías tengan una relación negativa o positiva en el
+aprendizaje de los estudiantes (Unesco, 2016b).
+Por ejemplo, la disminución en el rendimiento académico de los estudiantes asociado
+a mayores horas de exposición de las TIC, están determinados por uso de la tecnología como
+factor de distracción más que como una herramienta para facilitar el aprendizaje. De acuerdo
+con, la Unesco (2015), el uso recreativo del computador para chatear, comunicarse vía redes
+sociales, ver videos o escuchar música, genera menores logros en todas las disciplinas
+evaluadas (matemáticas, ciencias naturales y lectura) con una pérdida de entre 4 y 15 puntos
+en los resultados de las pruebas33.
+La apropiación va más allá del simple uso de la tecnología digital y se orienta hacia la
+definición del cómo y el para qué emplearlas. En tal sentido, la apropiación incorpora la
+definición de métodos, teorías y estrategias pedagógicas para integrar las tecnologías de
+forma que favorezcan la transformación de las prácticas de enseñanza y aprendizaje, y el
+aprendizaje de los estudiantes.
+Innovación educativa: las innovaciones educativas con TIC deben fortalecer
+aprendizajes de los estudiantes, en los que se reconozcan sus diferentes contextos,
+características e intereses (Unesco, 2015). Así mismo, orientar la apropiación TIC hacia la
+innovación educativa, supone reconfigurar las metodologías de enseñanza y aprendizaje y
+transformar los roles del docente y del estudiante en los procesos educativos (Ministerio de
+Educación Nacional, 2016). La práctica educativa innovadora debe estar centrada en el
+aprendizaje de los estudiantes para que estos se conviertan en gestores de su propio
+aprendizaje (Unesco, 2006).
+Calidad educativa: la calidad educativa es un referente que ofrece los criterios que
+deben tener en cuenta quienes integran el sector para que, desde el ejercicio de su rol y las
+
+33
+
+Las competencias evaluadas se dan en el marco del Tercer Estudio Regional, Comparativo y Explicativo (Terce)
+realizado por el Laboratorio Latinoamericano de Evaluación de la Calidad Educativa.
+
+66
+
+interacciones que establecen, concreten el conjunto de características y atributos que
+conducen a lograr una oferta educativa que responde a los fines de la educación, impulsando
+procesos de mejoramiento que integran acciones planificadas, continuas, permanentes que
+pueden ser monitoreadas, evaluadas y redireccionadas con miras a que se aseguren las
+condiciones humanas, relacionales, pedagógicas, materiales y sociales necesarias para
+promover el desarrollo integral de las niñas, niños y adolescentes.
+Competencias para el siglo XXI: la estructuración de este concepto se abordó en el
+informe de Habilidades y Competencias del siglo XXI para los aprendices del nuevo milenio
+en los países de la OCDE. En este documento se abordaron las competencias y habilidades
+que se requieren en este siglo, en sintonía con los modelos emergentes de desarrollo
+económico actuales. En el proceso de definición conceptual se involucra el desarrollo de las
+TIC y el acceso que tienen los jóvenes a estas, así como los retos de la educación para formar
+capital humano con las competencias requeridas por la sociedad del conocimiento (OCDE,
+2010).
+De acuerdo con el Foro Económico Mundial, las competencias requeridas para el siglo
+XXI se categorizan en tres componentes (Foro Económico mundial, 2016):
+(i). Alfabetización básica: Cómo los estudiantes aplican las habilidades básicas a la tarea
+diaria. Dentro de estas se encuentran la alfabetización, las matemáticas, la
+alfabetización científica, la alfabetización TIC, la alfabetización financiera, y la
+alfabetización cultural y cívica
+(ii). Competencias: Cómo los estudiantes abordan los retos complejos. Dentro de esta
+dimensión se encuentra el pensamiento crítico y resolución de problemas, la
+creatividad, la comunicación y la colaboración.
+(iii). Cualidades de carácter: Cómo los estudiantes abordan su entorno cambiante. Dentro
+de este componente se encuentra la curiosidad, la iniciativa, la persistencia, la
+adaptabilidad, el liderazgo y la conciencia social y cultural.
+Experiencias significativas de aprendizaje con uso de TIC: las experiencias
+significativas son una práctica concreta que involucran el uso de TIC. Pueden ser un
+programa, un proyecto o una actividad, que nace en un ámbito educativo con el fin de
+desarrollar un aprendizaje significativo a partir del fomento de competencias. Las
+experiencias significativas son innovadoras, responden a una necesidad del contexto
+identificada previamente, tienen una fundamentación teórica y metodológica coherente y
+generan un impacto en la calidad de vida de la comunidad (Ministerio de Educación
+Nacional, 2019).
+
+67
+
+Tecnologías digitales: las tecnologías digitales además de incluir softwares,
+plataformas, tableros inteligentes asociados comúnmente a las TIC, incorpora dentro de su
+definición a la programación, las simulaciones, la robótica, entre otras tecnologías digitales
+de aprendizaje, que se utilizan para enseñar y aprender y crear a través de ellas. Las
+tecnologías digitales no reemplazan la enseñanza ni el currículo, ya que por sí solas no
+cumplen ninguna función y son las personas las únicas capaces de producir transformaciones
+educativas a partir de las mismas. Estas tecnologías permiten apropiar conceptos y aplicar
+de manera práctica el conocimiento adquirido.
+Sociedad digital: define el concepto de la sociedad moderna que integra y adopta las
+tecnologías de la información y las comunicaciones en el hogar, el trabajo, la educación, la
+política y la recreación (Libre Research Group, 2019). Las personas utilizan y apropian los
+medios digitales para participar activamente en los diferentes ámbitos de la sociedad.
+
+68
+
+ANEXOS
+Anexo A. Plan de Acción y Seguimiento (PAS)
+Archivo de Excel adjunto.
+
+69
+
+BIBLIOGRAFÍA
+Albers, P. (agosto de 2017). An analysis of the implementation of computers into schools and
+its effect on integration into the classroom.
+Alcibar, M., & Monroy, A. (2018). Impacto y Aprovechamiento de las Tecnologías de la
+Información y las Comunicaciones en la Educación Superior.
+Aver.
+
+(2018). 7 EdTech Tools Every Smart Classroom Needs. Obtenido
+http://www.aver.com/AVerExpert/7-edtech-tools-every-smart-classroom-needs.
+
+de
+
+Balarín, M. (2012). Obtenido de Las políticas TIC en América Latina- el caso Peruano.
+Programa
+TIC
+y
+educación
+básica:
+https://www.researchgate.net/publication/326286988_Las_Politicas_TIC_en_Americ
+a_Latina_-_el_caso_peruano_Programa_TIC_y_Educacion_Basica_UNICEF.
+Banco Interamericano de Desarrollo. (2016). Servicios sociales para ciudadanos digitales.
+Obtenido
+de
+Oportunidades
+para
+América
+Latina
+y
+el
+Caribe:
+http://www.worldbank.org/en/publication/wdr2016.
+Banco Interamericano de Desarrollo. (2016). Servicios sociales para ciudadanos digitales.
+Obtenido
+de
+Oportunidades
+para
+América
+Latina
+y
+el
+Caribe:
+http://www.worldbank.org/en/publication/wdr2016.
+Banco Interamericano de Desarrollo-BID. (2010). Tecnologías de la Información y La
+Comunicación en la educación.
+Banco Interamericano de Desarrollo-BID. (2012). La experiencia de los mejores: Corea,
+Finlandia
+y
+Singapur.
+Obtenido
+de
+https://es.slideshare.net/teresa33ojedasanchez/laexperienciadelosmejorescoreafinlandiaysingapur.
+Banco Interamericano de Desarrollo-BID. (agosto de 2012). TIC y Educación. Obtenido de
+La
+experiencia
+de
+los
+mejores;
+Corea,
+Finlandia
+y
+Singapur:
+https://issuu.com/linaosoriov/docs/_final_baja__ge_estudio_educaci__n_.
+Banco Interamericano de Desarrollo-BID. (2014). El BID y la tecnología para mejorar el
+aprendizaje
+¿Como
+promover
+programas
+efectivos?
+Obtenido
+de
+http://www.iadb.org.
+Banco Interamericano de Desarrollo-BID. (2016). Servicios sociales para ciudadanos
+digitales. Obtenido de Oportunidades para América Latina y el Caribe:
+http://www.worldbank.org/en/publication/wdr2016.
+
+70
+
+Banco Mundial-Innovación y emprendimiento. (2005). InfoDev - Innovation &
+Entrepreneurship. Obtenido de Mapas de conocimiento: las TIC en la educación:
+http://www.infodev.org/articles/monitoring-and-evaluation-issues.
+Blanco, A. F. (2014). Universidad de Salamanca. Obtenido de Innovación Educativa en la
+sociedad
+del
+conocimiento:
+http://revistas.usal.es/index.php/eks/article/viewFile/12216/12561.
+CCCBLAB. (2018). Aprender y enseñar con tencologías digitales. Obtenido de
+http://lab.cccb.org/es/aprender-y-ensenar-con-tecnologias-digitales/.
+Centro Nacional de Consultoría. (2014). Evaluación de impacto y de la sostenibilidad de
+Computadores
+para
+Educar.
+Obtenido
+de
+http://www.computadoresparaeducar.gov.co/sites/default/files/inlinefiles/Articulo_impacto_Computadores_para_Educar_Colombia.pdf.
+Centro Nacional de Consultoría. (2014). Evaluación de impacto y la sostenbilidad de
+Computadores
+para
+Educar.
+Obtenido
+de
+https://www.computadoresparaeducar.gov.co/sites/default/files/inlinefiles/Articulo_impacto_Computadores_para_Educar_Colombia.pdf.
+Colombia TIC. (2019). Boletín Servicio Acceso fijo a Internet en Colombia. Obtenido de
+https://colombiatic.mintic.gov.co/679/articles-82143_archivo_pdf.pdf.
+Comisión Económica para América Latina y el Caribe-CEPAL. (2012). Programa Nacional
+de Uso de Medios y Nuevas Tecnologías en Colombia. Obtenido de Proyecto Cepal:
+https://www.cepal.org/socinfo/noticias/noticias/0/46530/Presentacion_Diego_Lea
+l.pdf.
+Computadores para Educar. (2019). computadoresparaeducar.gov.co. Obtenido de
+http://computadoresparaeducar.gov.co.
+Computadores para Educar. (2019). Diagnóstico entorno al problema central del CONPES
+TPA. Bogotá.
+Computadores para Educar. (2019). Informe no publicado.
+Computadores para Educar. (2019). Sostenibilidad Ambiental.
+http://www.computadoresparaeducar.gov.co/es/aprovechamiento.
+
+Obtenido
+
+de
+
+Conectar igualdad. (2015). Gestión Educativa y TIC. Buenos Aires.
+Conectar
+Igualdad.
+(2015).
+Gestión
+Educativa
+y
+TIC.
+Obtenido
+http://eduteka.icesi.edu.co/pdfdir/conectarigualdad-gestion-educativa-tic.pdf.
+
+de
+
+71
+
+Consejo Privado de Competitividad. (2017). Informe Nacional de Competitividad 20162017.
+Obtenido
+de
+https://compite.com.co/informe/informe-nacional-decompetitividad-2016-2017/educacion/.
+Cortés, A. (2017). Innovación y TIC en educación ¿La incorporación educativa de las TIC es
+por sí sola innovación. Obtenido de http://www.iosrjournals.org/iosrjrme/papers/Vol-7%20Issue-4/Version-3/B0704030710.pdf.
+Departamento Administrativo Nacional de Estadística. (2017). Encuesta de Educación
+Formal.
+Obtenido
+de
+formulario:
+https://www.dane.gov.co/files/investigaciones/boletines/educacion/formularioc600.pdf.
+Departamento Nacional de Planeación. (2015). Evaluación de Impacto de las iniciativas
+Kioscos (KVD) y Puntos (PVD) del Plan Vive Digital así como del acompañamiento a
+beneficiarios de la iniciativa Hogares Digitales, Kioscos Vive Digital, Puntos Vive Digital
+y
+Hogares
+Digitales.
+Obtenido
+de
+Catálogo
+Central
+de
+Datos:
+https://anda.dnp.gov.co/index.php/catalog/73/overview.
+Departamento Nacional de Planeación. (2018). Evaluación de los programas del plan vive
+digital para la gente financiados con recursos del fondo de las tecnologías de la
+información
+y
+las
+comunicaciones.
+Obtenido
+de
+https://colaboracion.dnp.gov.co/CDT/Prensa/EstudioFONTIC.pdf.
+Departamento Nacional de Planeación. (2019). Proyectos Tipo Aprobados-Dirección de
+Regalías. Bogotá.
+DigitalTechnologieshub.
+(2019).
+Obtenido
+https://www.digitaltechnologieshub.edu.au/docs/default-source/resourcebank/dthub_infographic_final.pdf.
+
+de
+
+Eduteka. (2018). Fundación Telefónica. Obtenido de Estudio sobre la inclusión de las TIC en
+los centros educativosde aulas: http://eduteka.icesi.edu.co/pdfdir/telefonica-estudioinclusion-tic.PDF.
+Fondo de las Naciones Unidas para la Infancia. (2015). Programa TIC y educación básica.
+Obtenido de Equipamiento y recursos TIC en las escuelas de educación básica:
+https://www.unicef.org/argentina/media/681/file/Equipamiento.pdf.
+FORBES. (2017). Top 6 Digital Transformation Trends In Education. Obtenido de
+https://www.forbes.com/sites/danielnewman/2017/07/18/top-6-digitaltransformation-trends-in-education/#798776712a9a.
+
+72
+
+Foro Económico mundial. (2016). ¿Cuáles son las habilidades del siglo 21 que todos los
+estudiantes
+necesitan?
+Obtenido
+de
+https://es.weforum.org/agenda/2016/09/cuales-son-las-habilidades-del-siglo-21que-todos-los-estudiantes-necesitan/.
+Foro
+
+Económico
+Mundial.
+(2016b).
+Obtenido
+http://www3.weforum.org/docs/WEF_New_Vision_for_Education.pdf.
+
+de
+
+Foro económico mundial. (2019). Informe Global de Competitividad. Obtenido de
+http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf.
+Fundación Vodafone España. (2017). Acceso y uso de las TIC por las personas con
+discapacidad.
+Obtenido
+de
+http://www.aspaym.org/pdf/publicaciones/Acceso%20y%20uso%20de%20las%20
+TIC%20por%20las%20personas%20con%20discapacidad.pdf.
+García-Santillan, A., & Moreno-García, E. (2012). Cognitive, affective and behavioral
+components that explain attitude toward statistics. Obtenido de Cognitive, affective and
+behavioral components that explain attitude toward statistics.
+Hinostroza, J. E., & Labbé, C. (2011). Políticas y Prácticas de informática educativa en
+América
+Latina
+y
+el
+Caribe.
+Obtenido
+de
+https://repositorio.cepal.org/bitstream/handle/11362/6182/S2011014_es.pdf?se
+quence=1&isAllowed=y.
+Kwikbost.
+
+Libre
+
+(https://kwikboost.com/keep-students-devices-charged-in-the-classroom-digitalarged in the
+
+Research
+Group.
+(2019).
+Digital
+https://libreresearchgroup.org/en/a/digital-society.
+
+society.
+
+Obtenido
+
+de
+
+Marti, M., & D´Agostino, M. (2008). Alfabetización Digital: un peldaño hacia la sociedad
+de
+la
+información.
+Obtenido
+de
+http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0465546X2008000100003.
+Ministerio de Educación Nacional. (2014). La innovación educativa en Colombia. Obtenido
+de Estudio sobre contexto escolar y social del aprendizaje en Colombia:
+https://aprende.colombiaaprende.edu.co/ckfinder/userfiles/files/Libro%20Innovacio
+n%20MEN%20-%20V2.pdf.
+
+73
+
+Ministerio de Educación Nacional. (2015). Caracterización Colegios 10 TIC . Obtenido de
+https://repository.eafit.edu.co/bitstream/handle/10784/13839/RI14_FFEC14_INF
+ORME_CARACTERIZACION_C10TIC_2015.pdf?sequence=2&isAllowed=y.
+Ministerio de Educación Nacional. (2016). La innovación educativa en Colombia. Buenas
+prácticas para la innovación y las TIC en la Educación. Obtenido de Los retos de la
+política pública de innovación y TIC en educación.
+Ministerio de Educación Nacional. (2016). Observatorio Colombiano de innovación
+educativa
+con
+uso
+de
+TIC.
+Obtenido
+de
+https://appobsedutic.mineducacion.gov.co/indicadores/ver-pract1/1/.
+Ministerio de Educación Nacional. (2016). Plan Decenal de Educación 2016-2026.
+Obtenido
+de
+El
+camino
+hacia
+la
+calidad
+y
+la
+equidad:
+http://eduteka.icesi.edu.co/pdfdir/men-pnde-2017.pdf.
+Ministerio de Educación Nacional. (2019). Lineamiento técnico 2019. Obtenido de
+Programa
+Conexión
+Total:
+https://www.mineducacion.gov.co/1759/articles321649_Lineamiento_tecnico_sedes_educativas.pdf.
+Ministerio de Educación Nacional. (2019). Observatorio Colombiano de innovación
+educativa
+con
+uso
+de
+TIC.
+Obtenido
+de
+Indicadores:
+https://appobsedutic.mineducacion.gov.co/indicadores/ver-pol4/1/.
+Ministerio de Educación Nacional. (2019b). Lineamiento técnico 2019. Programa Conexión
+Total.
+Ministerio de Educación Nacional. (2019b). Observatorio Colombiano de innovación
+educativa con uso de TIC. Obtenido de https://appobsedutic.mineducacion.gov.co/.
+Ministerio de Educación Pública. (2014). Evaluación de las Competencias del Siglo XXI
+(ATC21s). Obtenido de Proyecto Piloto para el Capítulo Latinoamericano: Costa Rica:
+https://www.mep.go.cr/atc21s/acerca_de_atc21s.
+Ministerio de las Tecnologías de la Información y las Comunicaciones. (2015). Convocatoria
+Vive
+Digital
+Regional.
+Obtenido
+de
+https://minciencias.gov.co/sites/default/files/upload/convocatoria/Anexo1_2.pdf.
+Ministerio de Medio Ambiente y Desarrollo Sostenible. (2017). Política Nacional para la
+Gestión Integral de Residuos de Aparatos Eléctricos y Electrónicos. Obtenido de
+http://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf
+/e-book_rae_/Politica_RAEE.pdf.
+
+74
+
+Organización de Estados Americanos. (2011). Evaluación de programas de incorporación
+de
+TICs.
+Obtenido
+de
+https://oei.org.ar/ibertic/evaluacion/sites/default/files/biblioteca/4_capitulo_libro_
+tecnologia_en_educacion.pdf.
+Organización de Estados Americanos. (2018). Estudio sobre la inclusiòn de las TIC en los
+centros
+educativos
+de
+aulas,
+Fundación
+Telefónica.
+Obtenido
+de
+http://eduteka.icesi.edu.co/pdfdir/telefonica-estudio-inclusion-tic.PDF.
+Organización de las Naciones Unidas para la educación, la ciencia y la cultura. (2007).
+Educación de calidad para todos: Un asunto de derechos humanos. Obtenido de
+https://unesdoc.unesco.org/ark:/48223/pf0000150272.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2009).
+Medición de las Tecnologías de la Información y la Comunicación en la Educación.
+Obtenido de https://unesdoc.unesco.org/ark:/48223/pf0000188309.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2014).
+Model Policy for Inclusive ICTs in Education for persons with Disabilities. Obtenido de
+https://unesdoc.unesco.org/ark:/48223/pf0000227229.page=11.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2015).
+Apuntes:
+Educación
+y
+Desarrollo
+Post-2015.
+Obtenido
+de
+http://www.unesco.org/new/fileadmin/MULTIMEDIA/FIELD/Santiago/pdf/apuntes3
+-2014.pdf.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2016).
+Cuaderno SITEAL. Obtenido de Ruralidades, educación y TIC: Desafíos urgentes para
+las
+políticas
+públicaseducativas
+de
+integración
+de
+TIC:
+http://www.tic.siteal.iipe.unesco.org/sites/default/files/stic_publicacion_files/siteal_t
+ic_cuaderno_ruralidades.pdf.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2016).
+Tecnologías para la trsnformación de la educación. Obtenido de Santillana:
+https://www.fundacionsantillana.com/PDFs/Tecnologias%20para%20la%20transfor
+macion%20de%20la%20educacion.pdf.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2016b).
+Revisión comparativa de iniciativas nacionales de aprendizaje móvilen América Latina.
+Los casos de Colombia, Costa Rica, Perú y Uruguay. Obtenido de
+https://unesdoc.unesco.org/in/documentViewer.xhtml?v=2.1.196&id=p::usmarcdef_
+0000243976&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/atta
+
+75
+
+ch_import_591b8599-7109-4037-9db6f1dc1a78fe62%3F_%3D243976spa.pdf&locale=es&multi=true&ark=/ark:/48223/p
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2016b).
+Terce en la mira: Uso recreativo del computador: ¿Cuánto aporta al rendimiento de los
+estudiantes? Obtenido de https://unesdoc.unesco.org/ark:/48223/pf0000243420.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2019).
+Classroom revolution through SMART education in Republic of Korea. Obtenido de
+https://unesdoc.unesco.org/ark:/48223/pf0000366729.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2019).
+Smart
+Learning
+Environment.
+Obtenido
+de
+https://unesdoc.unesco.org/ark:/48223/pf0000252335.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2019).
+Smart
+Learning
+Environment.
+Obtenido
+de
+https://unesdoc.unesco.org/ark:/48223/pf0000252335.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura-UNESCO.
+(2006). Unesco. Obtenido de Herramientas para la gestión de proyectos educativos.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura-UNESCO.
+(2012). Informe sobre uso de las tecnologías de información y comunicación (TIC) en
+la
+educación
+de
+personas
+con
+discapacidad.
+Obtenido
+de
+https://unesdoc.unesco.org/in/documentViewer.xhtml?v=2.1.196&id=p::usmarcdef_
+0000216382_spa&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment
+/attach_import_acaacf94-5a52-4aaa-b7a199f958ce25cf%3F_%3D216382spa.pdf&locale=es&multi=true&ark=/ark:/482.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura-UNESCO.
+(2014). Background to inclusive ICT´s in Education Policy Document. Obtenido de
+https://unesdoc.unesco.org/ark:/48223/pf0000227229.page=11.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura-UNESCO.
+(2014). Experiencias evaluativas de Tecnologías Digitales en la Educación. Obtenido
+de https://unesdoc.unesco.org/ark:/48223/pf0000247331.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura-UNESCO.
+(2014). Técnologias de la Información y la Comunicación TIC, para el aprendizaje.
+Obtenido
+de
+http://www.unesco.org/new/fileadmin/MULTIMEDIA/FIELD/Santiago/pdf/apuntes3
+-2014.pdf.
+76
+
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura-UNESCO.
+(2015). Information and comunication (ICT) in education in Sub-Saharan Africa.
+Obtenido de http://uis.unesco.org/sites/default/files/documents/information-andcommunication-technology-ict-in-education-in-sub-saharan-africa-2015-en.pdf.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura-UNESCO.
+(2017b). Sociedad digital: Brechas y retos para la inclusión digital en América Latina
+y
+el
+Caribe.
+Obtenido
+de
+http://www.unesco.org/new/fileadmin/MULTIMEDIA/FIELD/Montevideo/pdf/Policy
+Papers-ConfMinistros-BrechaDigital-ES.pdf.
+Organización para la Cooperación y el Desarrollo Económico. (2016). Innovating Education
+and
+Educating
+for
+innovation.
+Obtenido
+de
+http://www.oecd.org/education/ceri/GEIS2016-Background-document.pdf.
+Organización para la Cooperación y el Desarrollo Económico. (2016). Innovating Education
+and
+Educating
+for
+Innovation.
+Obtenido
+de
+http://www.oecd.org/education/ceri/GEIS2016-Background-document.pdf.
+Organización para la Cooperación y el Desarrollo Económico-OCDE. (2010). Habilidades
+y competencias del siglo XXI para los aprendices del nuevo milenio en los países de la
+OCDE.
+Obtenido
+de
+http://recursostic.educacion.es/blogs/europa/media/blogs/europa/informes/Habili
+dades_y_competencias_siglo21_OCDE.pdf.
+Organización para la Cooperación y el Desarrollo Económico-OCDE. (2015). Students
+Computers Learning Making the Connection Colombia.pdf. Obtenido de
+http://www.oecd.org/education/school/Students-Computers-Learning-Making-theConnection-Colombia.pdf.
+Organización para la Cooperación y el Desarrollo Económico-OCDE. (2015). Students,
+Computers
+and
+Learning:
+Country
+note.
+Obtenido
+de
+http://www.oecd.org/education/school/Students-Computers-Learning-Making-theConnection-Colombia.pdf.
+Organización para la Cooperación y el Desarrollo Económico-OCDE. (2019). Encuesta
+Internacional
+de
+Enseñanza
+y
+aprendizaje.
+Obtenido
+de
+TALIS:
+https://gpseducation.oecd.org/CountryProfile?plotter=h5&primaryCountry=COL&tres
+hold=5&topic=TA.
+Organización para la Cooperación
+Computadoras,
+educación
+
+y
+
+el
+y
+
+Desarrollo Económicos-OCDE. (2019).
+habilidades.
+Obtenido
+de
+
+77
+
+https://gpseducation.oecd.org/IndicatorExplorer?plotter=h5&query=13&indicators=
+N050*N052*N055*R000*N053*N054*N051*N056*N057*N121*N122*N1
+23*N124*N160*T013*A256*A257*A258*A259*A260*A263*A264*A265*A
+272*A273*A274*A275*A276*A277*A278*C076*C077*C078*C079*C080*
+D.
+Partida, S. P., Moreno, C. I., & Castañeda, R. H. (03 de Diciembre de 2015). Vol. 1, Núm.
+2 (2015): Barreras para la integración de buenas prácticas con TIC. Estudio de caso.
+Obtenido
+de
+uma
+editorial:
+http://www.revistas.uma.es/index.php/innoeduca/article/view/1044/1178.
+Rastogui, A., & Malhorta, S. (2012). EUROPEAN ACADEMIC RESEARCH, VOL. I, ISSUE 3/
+JUNE 2013 . Obtenido de ICT Skills and Attitude as Determinants of ICT Pedagogy
+Integratio:
+https://pdfs.semanticscholar.org/5a1b/f2eaa3e991bc99734ff6e30585f5edf5fa73.
+pdf.
+rganización de las Naciones Unidas para la Educación, la Ciencia y la Cultura-UNESCO.
+(2017). Obtenido de https://unesdoc.unesco.org/ark:/48223/pf0000262860.
+Ripani, M., & Alonso, M. (2016). Plan Nacional Integral de Educación Digital. Obtenido de
+Programación y robótica: objetivos de aprendizaje para la educación básica.
+Ruíz, F. (2017). Diseño de proyectos STEAM a partir del currículo. Obtenido de
+https://repositorioinstitucional.ceu.es/handle/10637/8739.
+Tapia Silva, H. G. (septiembre de 2018). REDALYC, SCIELO. Obtenido de Actitud hacia las
+TIC y hacia su integración didáctica en la formación inicial docente.
+Telbroad. (2016). Contrato de Consultoría No. 606 de 2015. Obtenido de Formular modelos
+de negocio eficientes que optimicen la sostenibilidad financiera futura, maximizando
+la viabilidad económica y social y minimizando el impacto fiscal, de las iniciativas de
+acceso comunitario a Internet (KVD fases I, II y III).
+Universidad del Norte. (2015). Hacia el fomento de las TIC en el sector educativo en
+Colombia.
+Universidad EAFIT. (2017). Informe de avance para el desarrollo de competencias para el
+siglo
+XXI.
+Obtenido
+de
+http://conexa.eafit.edu.co/wpcontent/uploads/divulgacion/RI09_FFEC09_DESARROLLO_COMPETENCIAS_SIGLO
+_XXI.pdf
+
+78
+
+Universidad EAFIT. (2017). Informe de avance para el desarrollo de competencias para el
+siglo
+XXI.
+Obtenido
+de
+http://conexa.eafit.edu.co/wpcontent/uploads/divulgacion/RI09_FFEC09_DESARROLLO_COMPETENCIAS_SIGLO
+_XXI.pdf.
+Universidad EAFIT. (2019). Levantamiento de línea base de Competencias del Siglo XXI.
+Obtenido de https://conexa.eafit.edu.co/competencias-siglo-xxi-saber-digital/
+Universidad Nacional de Colombia. (2018). Informe final del estudio de medición y
+evaluación de impacto de CPE 2014-2018.
+Universidad Nacional de Colombia. (2018). Informe Final del estudio de medición y
+evaluación
+de
+impacto
+de
+CPE
+2014-2018.
+Obtenido
+de
+http://computadoresparaeducar.gov.co/sites/default/files/inlinefiles/Informe%20final%20del%20estudio%20de%20medicion%20y%20evaluacion%
+20de%20impacto%20de%20CPE%202014%202018.pdf.
+
+79
+
+

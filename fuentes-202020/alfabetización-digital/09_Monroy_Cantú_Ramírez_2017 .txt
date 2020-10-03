@@ -1,0 +1,952 @@
+101
+
+Saberes digitales y recursos educativos abiertos: dos grandes retos para la
+formación docente
+Eliana Marisol Monroy Matallanai
+Instituto Tecnológico y de Estudios Superiores de Monterrey
+Maricarmen Cantú Valadezii
+Instituto Tecnológico y de Estudios Superiores de Monterrey
+Alberto Ramírez Martinell
+Instituto Tecnológico y de Estudios Superiores de Monterreyiii
+Resumen
+En este artículo se presenta una investigación de enfoque mixto que tuvo como
+propósito principal describir el grado de apropiación tecnológica necesario para
+la incorporación de Recursos Educativos Abiertos (REA) en las prácticas
+pedagógicas. Durante este proceso
+se seleccionó un grupo docente
+perteneciente a una institución de educación superior en Colombia. En su fase
+preliminar la investigación aplicó encuestas sobre el uso de las Tecnologías de
+Información y Comunicación (TIC) en el aula y el nivel de apropiación
+tecnológica de saberes digitales: informáticos e informacionales para la utilización
+de REA. Posteriormente se desarrolló una acción formativa, que permitió
+establecer los resultados y conclusiones, mediante el análisis de cuatro casos de
+implementación de REA en el aula, a través de fichas de observación y
+entrevistas. Igualmente se realizó la triangulación de la información contrastando
+diversas fuentes y obteniendo resultados en tres categorías: Apropiación
+tecnológica (actividades y saberes); REA (tipos, ventajas, servicios) y TIC en el aula
+(uso, limitaciones, dificultades, actitud de los estudiantes, herramientas,
+aplicaciones, recursos y dispositivos utilizados). De acuerdo con los hallazgos
+identificados en la investigación se describe la importancia que tiene el
+fortalecimiento de los saberes digitales (informáticos e informacionales) de los
+docentes como factor de éxito para la implementación de REA en el aula. El
+análisis y las conclusiones, muestran coincidencias con las directrices de
+organismos como la UNESCO, la OCDE y el Ministerio de Educación Nacional en
+Colombia (MEN), dejando en evidencia la necesidad que tiene el profesor de
+hoy, de capacitarse adecuadamente en el uso de las TIC y los REA en su
+quehacer pedagógico.
+Palabras clave: Competencias Digitales, Apropiación Tecnológica, Recursos
+Educativos Abiertos, TIC, Brecha Digital.
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+102
+Abstract
+In this article presents a mixed investigation approach that had as main purpose to
+describe the degree of technological appropriation necessary for the
+incorporation of Open Educational Resources (OER) in teaching practices is
+presented. During this process, a member of an institution of education for
+employment in Colombia teaching group was selected. In its preliminary stage
+applied research surveys on the use of Information and Communication
+Technologies (ICT) in the classroom and the level of appropriation of digital
+technology knowledge: computer and informational for the use of OER.
+Subsequently a training intervention, which allowed us to establish the results and
+conclusions by analyzing four cases of implementation of OER in the classroom,
+through observation and interviews chips developed. After gathering the
+information, by triangulating a contrast of different sources was performed to
+obtain results in three categories: technological Appropriation (activities and
+knowledge); OER (types, benefits, services) and ICT in the classroom (use,
+limitations, difficulties, student attitudes, tools, applications, resources and devices
+used). According to the findings identified in the context of the investigation the
+importance of strengthening computer and informational knowledge of
+educational success factor for implementing OER described in the classroom. The
+findings and conclusions show matches with the guidelines of organizations such
+as UNESCO, OECD and the Ministry of Education in Colombia (MEN), revealing the
+need for the teacher today, properly trained in the use of ICT and OER in their
+pedagogical.
+Key Words: Digital Skills, Ownership Technology, Open Educational Resources, ICT,
+Digital Divide
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+103
+Introducción
+Con el advenimiento de la Sociedad de la Información, la educación
+afronta complejos desafíos a nivel cultural, económico y social (Area, 2010). Este
+tema se ha convertido en una preocupación de la comunidad académica pues
+se evidencia la necesidad de integrar las TIC al quehacer pedagógico, de
+manera que se abran nuevos espacios para
+
+mejorar la educación (Cabero,
+
+Martínez y Prendes, 2008). La integración de las TIC en los procesos de enseñanza
+– aprendizaje es una de las problemáticas más significativas en materia
+educacional (MEN, 2013). Esta situación demanda de sus protagonistas un alto
+grado de apropiación de la tecnología. Igualmente se requiere diseñar, crear,
+producir y usar REA, de manera que surja una cultura de colaboración,
+investigación e innovación que responda a las necesidades y cambios
+tecnológicos actuales (Ramírez y Casillas, 2014). En este contexto, el docente,
+tiene una tarea indispensable.
+De sus capacidades, actitudes, y creencias depende en gran medida la
+transformación de la educación del siglo XXI (Sunkel, Trucco y Espejo, 2013). En
+Colombia, el proceso de integración de TIC inicia en la década de los noventa,
+cuando se reconoce su importancia como factor de desarrollo nacional (Galvis,
+2014).
+
+Sin embargo, las iniciativas y propuestas de innovación educativa tienen
+
+como factor indispensable la apropiación de las TIC. El cambio en el modelo de
+distribución de la información, la digitalización del mundo y popularización de las
+herramientas tecnológicas, demandan nuevos saberes (MEN, 2013).
+
+Por esta
+
+razón, el profesorado debe prepararse y actualizarse permanentemente en
+saberes digitales para reflexionar críticamente sobre la utilización de herramientas
+y recursos tecnológicos (Gallego, Gámiz y Gutiérrez, 2010).
+La educación de hoy, permite establecer que el acceso a la infraestructura
+tecnológica no es suficiente. Lograr una verdadera transformación acorde con
+los avances científicos y tecnológicos, conlleva un proceso de formación
+permanente que adicionalmente propicie la producción, uso y distribución de
+REA (Sunkel, Trucco y Espejo, 2013).
+
+A nivel internacional Organismos como
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+104
+United Nations Educational, Scientific and Cultural Organization-UNESCO, The
+Organisation for Economic Co-operation and Development- (OCDE); International
+Society for Technology in Education-ISTE, International Computer Driving LicenceICDL, han fijado políticas y programas que promueven el uso, integración
+
+y
+
+apropiación de la tecnología en la educación.
+La OCDE (2002) plantea la necesidad de generar nuevos sistemas
+educativos que permitan aprovechar los beneficios de las TIC, como herramientas
+de socialización y construcción del conocimiento. Ello debido a que la incursión
+de las TIC en la educación, incide significativamente en la transformación del rol
+del docente y el estudiante, por lo cual es indispensable repensar el sistema
+educativo de acuerdo con la nueva sociedad (Cabero, 2008).
+
+Igualmente, el
+
+Plan Decenal de Educación de Colombia (2006-2016) propone iniciativas de
+innovación mediante la construcción de modelos educativos, que contribuyan a
+la formación de ciudadanos, comprendiendo su propio contexto sociocultural.
+Las TIC generan un papel más activo, crítico y creativo del docente (Salinas, 1998,
+citado por Del Moral y Villalustre, 2010). En esta perspectiva uno de temas más
+relevantes en tecnología educativa es el rol del docente y su apropiación
+tecnológica.
+El grado de apropiación, se define como el nivel de dominio que tienen las
+personas en relación con las TIC, las cuales exigen una serie de saberes digitales
+informáticos e informacionales. Considerando lo anterior, esta investigación toma
+como base estructural, los saberes digitales (8 informáticos y 2 informacionales)
+identificados por Ramírez y Casillas (2014) mediante un análisis comparativo de los
+estándares establecidos por organismos internacionales.
+Este estudio también analiza el uso de REA en el aula, identificando que el
+grado de apropiación tecnológica, el área disciplinar y la experiencia previa de
+los docentes inciden en el éxito de la implementación de REA (Celaya, Lozano y
+Ramírez, 2010). Adicionalmente este trabajo permitió observar que aunque los
+docentes están familiarizados con las TIC y los REA, carecen de competencias
+digitales para incorporarlas como herramientas didácticas (Glasserman y Ramírez,
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+105
+2014).
+
+Es claro, que el uso de REA en los procesos educativos, favorece el
+
+desarrollo de las competencias, por lo cual se hace necesario contar con un alto
+grado
+
+de
+
+apropiación
+
+tecnológica,
+
+que
+
+contemple
+
+las
+
+disposiciones,
+
+capacidades, habilidades y conocimientos y saberes prácticos y formas de uso
+de las TIC en los procesos educativos (Ramírez y Casillas, 2014).
+Fundamento Teórico
+Apropiación tecnológica del docente
+El surgimiento de nuevos escenarios, gracias a la integración de TIC en la
+educación, exige a los docentes contar con una actitud crítica que les permita
+afrontar los retos que impone el mundo de hoy, por lo cual deben poseer un
+conjunto de saberes mínimos que les permita incorporar de manera eficaz y
+efectiva la tecnología en el aula (Vaillant, 2013). Es indispensable que el profesor
+se convierta en un verdadero mediador y gestor del aprendizaje, el cual exige un
+cambio radical en su quehacer pedagógico (OCDE, 2002).
+
+Figura 5 Saberes Digitales Informáticos e Informacionales, Ramírez y Casillas (2014)
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+106
+Desde esta perspectiva, la apropiación tecnológica es el proceso a través
+del cual un docente conoce y usa las herramientas tecnológicas, buscando la
+innovación educativa, que implica conocimiento, uso, aplicación, frecuencia e
+intención y está compuesta por saberes digitales (Ramírez y Casillas, 2014).
+El actual paradigma educativo hace un llamado especial por adquirir estos
+saberes
+
+y utilizar los REA en el aula. García y Chikhani (2012) refuerzan este
+
+planteamiento afirmando que cuanta más experiencia tenga un docente en la
+integración de las TIC, más dispuestos están a implementarlas. Por esta razón,
+esta investigación tuvo como punto de partida los saberes digitales docentes,
+descritos en la figura 1.
+La apropiación tecnológica
+
+de estos saberes digitales
+
+es un factor
+
+determinante a la hora de integrar las TIC y los REA al currículo. Como expresa la
+OCDE (2002) los docentes, tendrán que “desempeñar un papel cada vez más
+importante en la selección, creación y síntesis de materiales” (p. 121) para
+cambiar significativamente sus
+
+prácticas educativas. Todos los docentes,
+
+independientemente de su área disciplinar o nivel de educación, tienen una
+enorme responsabilidad para lograr la integración adecuada de las TIC en el
+proceso de enseñanza–aprendizaje. Suárez, Almerich, Gargallo y Aliaga (2013),
+plantean que los docentes deben dominar los recursos tecnológicos y
+pedagógicos. Además de manejar de forma precisa los REA, de acuerdo con su
+contexto.
+TIC y REA
+Para lograr un aprovechamiento significativo de las TIC en educación, es
+conveniente tener una visión didáctica innovadora y promover estrategias
+inclusivas, como las que originaron los REA. La utilización de este tipo de recursos,
+exige el desarrollo de habilidades, saberes y destrezas (Olcott, 2013) puesto que
+facilitan la difusión de contenidos y promueven el uso compartido del
+conocimiento.
+
+Muñoz-Repiso (2012) recalca la importancia que tienen estos
+
+recursos para transformar las prácticas educativas, facilitar el acceso a la
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+107
+información, optimizar la comunicación docente-estudiante. En esta panorámica,
+también se puede considerar que los REA, constituyen un esfuerzo para que el
+conocimiento sea un bien público, que mejora las prácticas educativas,
+especialmente en países en vía de desarrollo. De acuerdo con la UNESCO (2012)
+y el MEN (2011),
+
+estos materiales otorgan la
+
+efectivamente el conocimiento.
+
+posibilidad de compartir
+
+Sin embargo, es indispensable, incorporarlos
+
+desde el mismo momento de la planeación curricular, pedagógica y didáctica,
+de acuerdo con el contexto sociocultural en el cual se desarrolle.
+El Movimiento Educativo Abierto, es una alternativa de solución para la
+disminución de la brecha digital. Ramírez y Burgos (2012) conceptualizan este
+movimiento como todos los cambios o transformaciones en donde los avances
+tecnológicos hacen posible compartir colaborativa e interdisciplinariamente el
+conocimiento, facilitando el acceso y distribución de la información. Por esta
+razón, el movimiento educativo abierto se concentra en cuatro actividades:
+Producir REA para compartir con el público en general, compartir el conocimiento
+de manera libre y gratuita, respetando los derechos de autor; diseminar los REA
+para fomentar su creación y uso en todos los contextos educativos y finalmente,
+movilizar a investigadores y profesores para la producción de materiales y el
+intercambio recíproco de la información, de forma que se contribuya a cerrar la
+brecha digital (Ramírez y Burgos, 2012).
+Así mismo, para su implementación se requiere un análisis previo de las
+características de la comunidad educativa hacia la que se dirigen. En la medida
+en que las TIC se han vuelto más accesibles, interactivas y portables, surgen
+nuevas posibilidades en la educación, debido a que como explica Pablos (2010)
+la incorporación de las TIC y los REA en los procesos de enseñanza aprendizaje,
+permite superar las barreras tradicionales y posibilita la apertura de nuevos
+entornos educativos caracterizados por el trabajo interdisciplinar y abierto.
+
+Los
+
+REA y las TIC proporcionan una gran variedad de herramientas que enriquecen
+los procesos de formación (Celaya, Lozano y Ramírez, 2010). Por esto, los docentes
+deben aprovechar este potencial articulando las necesidades del sector con
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+108
+iniciativas concretas que promuevan la apropiación tecnológica y el desarrollo
+de saberes digitales (MEN, 2013).
+Método
+Como se mencionó al inicio del presente artículo, la investigación se realizó
+bajo el enfoque mixto. Los estudios mixtos, involucran los enfoques cualitativo y
+cuantitativo de manera que se puedan realizar inferencias sobre la información
+recopilada, asegurando el entendimiento del fenómeno, tal como lo plantean
+Valenzuela y Flores (2012). El objetivo principal fue describir el nivel de
+apropiación tecnológica y los saberes digitales necesarios para el uso de REA en
+un grupo de docentes de educación superior. Para cumplir con este propósito se
+realizó un diagnóstico no experimental exploratorio.
+El
+
+diseño
+
+investigativo
+
+seleccionado
+
+fue
+
+concurrente,
+
+aplicando
+
+simultáneamente los dos métodos (cualitativo y cuantitativo), corroborando los
+resultados y efectuando la validación de los datos.
+
+Hernández, Fernández y
+
+Baptista (2010), describen la necesidad de explicar los fenómenos educativos,
+desde una perspectiva multidisciplinaria.
+
+Por esta razón, se seleccionó una
+
+muestra no probabilística de 15 docentes de diversas áreas, de acuerdo con las
+características de la investigación.
+Adicionalmente se determinaron las unidades de análisis para el estudio
+teniendo en cuenta criterios de conveniencia, disponibilidad y accesibilidad
+(Valenzuela y Flores, 2012).
+
+Para la recolección de los datos, se diseñaron dos
+
+cuestionarios tipo Likert (cuantitativos), una ficha de observación y una entrevista
+semiestructurada (cualitativos). El desarrollo de la investigación fue dividido en
+fases metodológicas, adaptando el modelo propuesto por Hernández, Fernández
+y Baptista (2010).
+
+Una vez recopilada la información en los instrumentos, se
+
+procedió a identificar las categorías, unidades de análisis, de acuerdo con el
+esquema que se puede observar en la Figura 2.
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+109
+
+Figura 6Categorías y unidades de análisis para recolección y análisis de información
+
+L
+Luego de finalizar el trabajo de campo y de acuerdo con los planteamientos de
+Hernández, Fernández y Baptista (2010) se realizó una comparación directa de los
+resultados desde diversas fuentes, mediante la triangulación, que consiste en la
+verificación y comparación de la información obtenida en diferentes momentos y
+fuentes (Okuda y Gómez, 2005). La recopilación se realizó en forma separada y el
+análisis de resultados en paralelo, usando un cuadro de triple entrada, que
+permitió contrastar la información obtenida desde diversas fuentes (experiencias
+de los participantes, los documentos, la revisión teórica y los resultados obtenidos
+en la implementación)
+Resultados y discusión
+El análisis de los datos se realizó comparando la información cualitativa y
+cuantitativa. El primer instrumento aplicado a la muestra seleccionada permitió
+describir la manera en que los docentes utilizan las TIC en el aula, estableciendo
+que el dispositivo más usado es la computadora (67%) y el televisor con un 60%.
+Su nivel de acceso a internet es alto y los lugares desde donde acceden
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+110
+principalmente son la casa (93%) y el aula (67%). Un 87% de los encuestados usa
+el correo electrónico y un 53% acude a blogs y material multimedia. Los recursos
+menos usados son los objetos de aprendizaje, con un 20%.
+
+En su quehacer
+
+pedagógico utilizan web temáticas (60%) y portales educativos de acuerdo con
+su área disciplinar (47%) y material multimedia (53%). En cuanto a la importancia
+que le dan a la formación en TIC, los docentes muestran un interés significativo
+por afianzar sus conocimientos en esta área, la calificación, en una escala de 1 a
+5, es de 4.
+El segundo instrumento aplicado, se diseñó tomando como referencia los
+saberes digitales propuestos por Ramírez y Casillas (2014). Su propósito principal
+fue aportar información que permitiera describir el nivel de saberes digitales que
+tenía el grupo seleccionado. Esta encuesta se dividió en varias secciones. En la
+primera se indagó sobre la disponibilidad de los recursos (computadora de
+escritorio, 73.3% y portátil, 86.7%) y el grado de acceso y frecuencia de uso de los
+dispositivos. Igualmente se indagó sobre el tipo de programas de formación TIC
+que prefieren, encontrando que en su mayoría los docentes asisten a eventos
+con un 73.3%
+
+y
+
+acceden a servicios preferiblemente gratuitos.
+
+La segunda
+
+sección del cuestionario, se ocupó de establecer las preferencias de los docentes
+a la hora de seleccionar recursos de internet para el desarrollo de sus actividades
+en el aula. De acuerdo con esto, los recursos más utilizados son el software,
+aplicaciones y películas con un 93.3% y las presentaciones con un 66.7%.
+El propósito con el cual acceden a los recursos en internet son: consulta
+(80%) descarga (66.7%) y compra un 26.7%, evidenciando un mayor interés por los
+REA y gratuitos. Así mismo, los docentes comparten información en redes sociales,
+blogs y páginas personales. Mientras que el uso de repositorios digitales es del
+26.7%. Los docentes prefieren utilizar recursos educativos diseñados previamente,
+pues las actividades que menos realizan son aquellas que tienen que ver con la
+creación de éstos.
+
+Apenas un 20% lo realiza.
+
+La siguiente sección
+
+analiza
+
+concretamente el nivel de uso de saberes digitales docentes, por cuanto es una
+meta recurrente y permanente que debe tener la educación, para hacer más
+competente el profesorado
+
+(Area, 2010).
+
+A continuación,
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+en la tabla 2, se
+
+Año 7 / núm. 12 / febrero 2017
+
+111
+muestran los resultados obtenidos, clasificados de acuerdo con la propuesta de
+Ramírez y Casillas (2014):
+Tabla 1: Saberes Digitales Docentes (Resultados obtenidos)
+Saber
+Usar
+1 dispositivos
+
+Resultados
+Los docentes cuentan con diversidad de equipos y tiene un
+alto grado de conocimiento, sin embargo su uso pedagógico se da
+ocasionalmente (53.3%).
+
+Administrar
+2
+archivos
+
+El 60% de los docentes afirma realizar tareas relacionadas con
+este saber. La media se ubica entre 4.2 y 4.53 en una escala de 5.
+
+3
+Usar programas
+y
+sistemas de
+información
+especializada
+
+Los docentes en un 80% utilizan aplicativos o software de
+acuerdo con su área disciplinar. Sin embargo no utilizan fuentes de
+información confiables como los repositorios o bibliotecas virtuales.
+La media se ubica entre 3.53 y 3.73.
+
+Crear4y manipular
+En este aspecto los docentes tienen altos niveles de uso, pues
+contenido de texto las frecuencias siempre y casi siempre presentan intervalos mayores
+y texto enriquecido al 70%.
+Crear5y Manipular
+Los docentes identifican claramente los elementos y
+conjuntos de datos operaciones básicas de las hojas de cálculo. La media se
+encuentra entre 4.07 y 4.33.
+Crear6y manipular
+Los recursos multimedia son los más utilizados por los docentes.
+medios y multimedia Existe una gran preferencia hacia la manipulación de los datos. El
+uso más frecuente es la descarga y reproducción con un 53.3%.
+7
+Comunicarse
+en
+entornos digitales
+
+La comunicación se da principalmente por correo electrónico,
+con un promedio mayor a 4. Las tareas relacionadas con la
+configuración de perfiles y el registro de servicios, presentan valores
+de 3.6 y 3.67 respectivamente.
+
+8
+Socializar
+y
+colaborar en
+entornos digitales
+
+La mayoría de los aspectos evaluados presenta una media por
+encima de 4. Sin embargo, las tareas relacionadas con el trabajo
+colaborativo como la creación de grupos, el uso de plataformas de
+aprendizaje y la administración de herramientas de interacción,
+presenta medias entre 3.6 y 3.8.
+
+9 y respetar
+Ejercer
+una ciudadanía
+digital
+
+Este es el saber con mayor valoración dentro de la encuesta.
+Los docentes son conscientes de la importancia que tiene ejercer
+una ciudadanía digital y por ello, son cuidadosos a la hora de
+escribir mensajes (53.3%), publicar información en internet (66.7%) y
+promover la protección de los datos (53.3) %.
+
+Literacidad
+1
+Digital
+
+Este saber también evidencia un alto grado de apropiación,
+relacionado especialmente con el establecimiento de criterios para
+buscar información (4.2), el análisis crítico (4.27) y la selección de los
+resultados (4.53).
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+112
+Una vez terminada la fase anterior se realizó una acción formativa, de
+cuatro sesiones con el propósito de promover el uso de las TIC y los REA en el
+ámbito específico de la investigación. Este seminario abordó como temas
+principales: el uso educativo de las TIC (implicaciones, usos, saberes digitales); REA
+(Concepto,
+
+características,
+
+repositorios,
+
+selección
+
+de
+
+REA);
+
+diseño
+
+e
+
+implementación de planes de clase integrando REA y finalmente una sesión de
+socialización de resultados de acuerdo con el REA seleccionado.
+
+Teniendo en
+
+cuenta que el diseño de la investigación fue mixto, se utilizaron también
+instrumentos cualitativos incluyendo una ficha de observación de clase y una
+entrevista semiestructurada, aplicada a cuatro docentes que dieron su
+consentimiento para llevar a cabo la observación.
+
+La codificación de la
+
+información se realizó mediante herramientas de software,
+
+estableciendo
+
+códigos para explorar y analizar el material, de acuerdo con las categorías
+establecidas: apropiación tecnológica, REA y TIC en el aula.
+En la primera categoría sobre apropiación tecnológica y saberes digitales
+el profesorado describe la importancia que tiene conocer y usar las TIC de
+acuerdo con el área disciplinar y seleccionar los recursos teniendo en cuenta las
+características de los estudiantes. El uso de las TIC es comprendido como una
+herramienta que permite enriquecer los procesos de aprendizaje, que exige a los
+docentes estar actualizados y presentar materiales educativos atractivos,
+dinámicos e interactivos.
+En relación con los saberes informáticos se puede identificar que el
+desarrollo de habilidades comunicativas y el manejo de dispositivos móviles son
+factores que contribuyen a abrir espacios alternos de comunicación y promueven
+la interacción con los pares y los estudiantes. Así mismo, hablando de REA, los
+docentes entrevistados destacan el nivel de calidad que tienen y las posibilidades
+de actualización que brindan, al tener una licencia de uso que permite su
+modificación y adaptación de acuerdo con el contexto específico.
+Durante el desarrollo de las clases se registró la información utilizando una
+ficha de observación, dado que esta herramienta, de acuerdo con Hernández,
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+113
+Fernández y Baptista (2010) permite describir fenómenos, temas o situaciones. Los
+docentes observados utilizaron REA como: material multimedia, software libre y
+servicios gratuitos de almacenamiento y gestión de archivos, como un medio de
+apoyo, práctica e interacción para el desarrollo de las actividades. Su
+implementación en clase permitió identificar las ventajas que tienen este tipo de
+recursos: gratuidad de los recursos; interactividad y facilidad para su manejo;
+incentivan la creación de materiales educativos; optimizan la planeación y el
+tiempo de ejecución de las clases; aumentan el nivel de atención y motivación
+de los estudiantes; promueven una participación más activa, de manera especial
+cuando se usaron aplicativos y objetos
+
+de
+
+aprendizaje, debido a su
+
+interactividad; generan nuevas estrategias de enseñanza-aprendizaje; fomentan
+la innovación en la planeación curricular y las metodologías y promueven el
+trabajo colaborativo.
+
+Como limitaciones para el uso y TIC y REA en el aula, se
+
+identificaron: fallas en la conexión; falta de una adecuada formación del profesor
+en TIC y REA; carencia de infraestructura tecnológica e incompatibilidad entre las
+aplicaciones de software y el hardware disponible.
+Dando respuesta a los objetivos del estudio, es preciso afirmar que los
+docentes deben contar con una serie de conocimientos básicos en el ámbito
+digital, pero además deben desarrollar saberes digitales de acuerdo con su área
+disciplinar (Ramírez y Casillas, 2014). Igualmente es conveniente mencionar que
+después de la acción formativa, observando las clases seleccionadas, se puede
+establecer que los saberes digitales que intervienen en la integración de TIC
+dependen del área disciplinar, la planeación curricular, el grado de apropiación
+tecnológica y la formación previa del docente.
+Los participantes que tienen formación profesional en áreas tecnológicas,
+combinaron diversos dispositivos y utilizaron aplicaciones específicas. Los
+profesores de áreas básicas, optaron por utilizarlas como un medio de apoyo
+visual. En este sentido las TIC replantean el paradigma educativo tradicional que
+exige una verdadera apropiación de la tecnología, pues el profesor ya no es la
+única fuente de información (Guevara, 2010). La actitud e interés del profesor son
+determinantes. Otro aspecto importante, mencionado por Llorente (2008) y
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+114
+Celaya, Lozano y Ramírez (2010) es el nivel de capacitación,
+desarrollar competencias digitales básicas.
+
+pues se necesita
+
+Adicionalmente se requieren
+
+características personales como creatividad, curiosidad, iniciativa, pues no basta
+con los recursos, la apropiación y uso correcto de las TIC, la educación es un
+proceso mucho más complejo (Ramírez y Casillas, 2014).
+El uso e implementación de REA en el aula, exige la integración de las TIC.
+Cabero, Martínez y Prendes (2008) hablan del proceso de integración,
+describiendo que es necesario tener un objetivo claramente definido y
+delimitado, pues las TIC no pueden ser un elemento aislado. Su incorporación va
+mucho más allá de la disponibilidad, su integración debe ser planeada y por ello,
+el docente debe tener nuevas habilidades y destrezas (Ávalos, 2010). Aunado a
+este planteamiento se encuentra que la simple utilización de las TIC, no es
+sinónimo de apropiación. La apropiación debe orientar cambios significativos y
+promover la integración de nuevos saberes (Celaya, Lozano y Ramírez, 2010).
+
+El
+
+uso e integración de las TIC en el currículo es hasta ahora sólo la punta de iceberg
+(Fullan y Stiegelbauer, 1991 citado por Salinas, 2004).
+Esta integración está vinculada a profundos cambios económicos,
+socioculturales y tecnológicos que requieren un actitud innovadora, abierta y
+reflexiva del profesorado, capaz de aportar calidad educativa mediante nuevas
+prácticas pedagógicas (Murcia, 2004). La integración de REA en el aula, está
+condicionada por los conocimientos y experiencias del docente. Por esta razón
+es necesario promover su uso y aplicación mediante acciones efectivas que
+permitan adaptarlas a los diversos contextos (Celaya, Lozano y Ramírez, 2010).
+Estos recursos tienen un gran potencial educativo, sobre todo porque son bienes
+de uso público que tienen un alto grado de calidad y confiabilidad y pueden
+convertirse en una respuesta efectiva a las demandas y necesidades de
+formación en nuestro tiempo. Estos recursos, como afirma Burgos (2010) tienen
+una enorme capacidad de ofrecer conocimiento y fortalecer significativamente
+los procesos de enseñanza – aprendizaje.
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+115
+Conclusiones
+El docente en la Sociedad del Conocimiento, debe incorporar a su
+quehacer pedagógico la utilización óptima de recursos educativos que activen el
+aprendizaje significativo en sus estudiantes. Para ello, debe contar con saberes
+digitales y disciplinares de manera que pueda adaptar los recursos y medios a
+situaciones concretas de aprendizaje. La implementación de las TIC y los REA en
+el ámbito educativo, supone la necesidad de replantear aspectos fundamentales
+de la enseñanza, como: la organización y planificación de los procesos, el diseño,
+las actividades, estrategias y materiales, así como las herramientas y métodos de
+evaluación (Cadavieco y Sevillano, 2011).
+
+También plantea la necesidad de
+
+tener en cuenta aspectos como: el nivel de apropiación tecnológico, la
+formación previa disciplinar, la disponibilidad de recursos tecnológicos y el
+currículo establecido de acuerdo con el contexto sociocultural.
+
+Otro aspecto
+
+fundamental para el éxito de esta integración es la actitud del docente frente a
+las TIC y su nivel de apropiación.
+Los profesores deben contar con un nivel de apropiación tecnológica que
+les permita potencializar sus habilidades, saberes y competencias relacionadas
+con el manejo de dispositivos, el almacenamiento en nube, el trabajo
+colaborativo y el dominio de aplicaciones específicas.
+
+En coincidencia, con la
+
+investigación realizada por Ramírez y Casillas (2014) la formación tecnológica
+previa del profesor ejerce una influencia significativa en la integración de TIC y
+REA en el aula. Durante la investigación se pudo observar marcadas diferencias
+entre los docentes del área tecnológica y de las áreas básicas. Mientras que los
+docentes del área tecnológica utilizaron el REA como medio de apoyo, práctica
+e interacción, los docentes de ciencias básicas lo usaron simplemente como
+medio de apoyo para la explicación del tema.
+La integración de TIC y REA es una tendencia educativa que incrementa
+gracias al surgimiento de programas y proyectos de innovación educativa, por lo
+cual es importante que los docentes conozcan y utilicen diversas alternativas
+para implementar REA en sus actividades, aprovechando su gran valor
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+116
+académico, debido a que son recursos que pueden ser localizados, adaptados y
+distribuidos de forma libre y gratuita, en cualquier momento (Olcott, 2013). Así
+mismo, promueven el desarrollo de saberes digitales, convirtiéndose en una
+alternativa de solución a las demandas educativas actuales.
+Finalmente, después de desarrollar esta investigación se puede afirmar que
+los procesos de enseñanza – aprendizaje de hoy, no pueden estar centrados en la
+simple dotación de infraestructura tecnológica.
+
+Es una necesidad imperante
+
+desarrollar proyectos y programas de formación y actualización docente que
+fortalezcan y optimicen los saberes digitales, informáticos e informacionales del
+profesorado.
+
+Las TIC y los REA son herramientas valiosas que pueden aportar
+
+significativamente a nuestros sistemas educativos, pero por sí solas no son la
+solución a la problemática.
+Es preciso acompañar esta integración e incorporación con un proceso de
+formación docente que tenga como insumos principales el currículo establecido
+por la institución, el contexto sociocultural de los estudiantes, la disposición y
+actitud del docente, su experiencia previa y nivel de apropiación tecnológica, la
+infraestructura y el acceso equitativo a la información.
+
+Los docentes deben
+
+mejorar sus prácticas educativas e incorporar estos recursos, conscientes que su
+papel es determinante para dar una respuesta adecuada a los retos que impone
+la Sociedad de la Información.
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+117
+Referencias
+Area, M (2002). La integración escolar de las nuevas tecnologías. Entre el deseo y
+la realidad. Organización y Gestión Educativa Revista del Fórum Europeo
+de Administradores de la Educación, 10 (6), pp. 14-18. Ciss Praxis
+Área, M. (2010). ¿Por qué formar en competencias informacionales y digitales en
+la educación superior? RUSC. Universities and Knowledge Society Journal,
+7(2) Recuperado de http://www.redalyc.org/articulo.oa?id=78016225012
+Ávalos, M. (2010). ¿Cómo trabajar con TIC en el aula? una guía para la acción
+pedagógica. Argentina: Editorial Biblos
+Burgos, V. (2010). Distribución de conocimiento y acceso libre a la información
+con recursos educativos abiertos (REA). La educ@ción. 143, 2010. España: D
+- la educ@ción
+Cabero, J. (2008). La formación en la sociedad del conocimiento. INDIVISA, 13-48.
+Cabero, J.; Martínez, F.; & Prendes, M. (coords) (2008). Profesor, ¿est@mos en el
+ciberes@pacio? Barcelona: Editorial Davinci, 287 pp. RIED. Revista
+Iberoamericana de Educación a Distancia, 12(1) 215-222. Recuperado de
+http://www.redalyc.org/articulo.oa?id=331427210011
+Cadavieco, J., & Sevillano, M. (2011). Las tecnologías de la información y la
+comunicación en la docencia universitaria. Estudio de casos en la
+Universidad Nacional Autónoma de México (UNAM)/ (Information and
+communication technologies in university teaching. case studies in the
+National Autonomous University of Mexico (UNAM)). Educación XX1, 14(2),
+79-110.
+Celaya, R., Lozano, F., & Ramírez, M. (2010). Apropiación tecnológica en
+profesores que incorporan Recursos Educativos Abiertos en educación
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+118
+media superior. Revista Mexicana de Investigación Educativa, 15(45), 487513.
+Contreras, R. (2010). Recursos educativos abiertos: Una iniciativa con barreras aún
+por superar. Apertura, 2(2) Recuperado de
+http://www.redalyc.org/articulo.oa?id=68820827009
+Del Moral, M & Villalustre, L. (2010). Formación del profesor 2.0: Desarrollo de
+competencias tecnológicas para la escuela 2.0. Magister: Revista
+Miscelánea de Investigación, (23), 59-69.
+Gallego, M., Gámiz, V., & Gutiérrez, E. (2010). El futuro docente ante las
+competencias en el uso de las tecnologías de la información y
+comunicación para enseñar. EDUTEC, Revista Electrónica de Tecnología
+Educativa. (34). Recuperado de:
+http://edutec.rediris.es/Revelec2/Revelec34/pdf/Edutece_n34_Gallego_Gamiz_Gutierrez.pdf
+Galvis, A. (2014). Las políticas TIC en los sistemas educativos de América Latina:
+CASO COLOMBIA (Vol. 3). UNICEF Argentina. Recuperado de
+http://www.unicef.org/argentina/spanish/Colombia_WEB.pdf
+García, F., & Millán, M. (2012). Conductas sociocomunicativas de los nativos
+digitales y los jóvenes en la Web 2.0/Sociocomunicative behaviors of digital
+natives and young people into Web 2.0. Comunicación y Sociedad, 25(1),
+15-38
+García, S., & Chikhani, A. (2012). Percepciones que tienen los docentes de
+América Latina sobre las tecnologías de la información y la comunicación.
+Revista Q, 6(12) Recuperado de
+http://eav.upb.edu.co/RevQ/articulos/descargar/408/pdf
+Glasserman, L., & Ramírez, M. (2014). Uso de recursos educativos abiertos (REA) y
+objetos de aprendizaje (OA) en educación básica. Teoría de la Educación:
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+119
+Educación y Cultura en la Sociedad de la Información, 15 (2), 86-10.
+Recuperado de
+http://campus.usal.es/~revistas_trabajo/index.php/revistatesi/article/view/1
+1888
+Guevara, H. (2010). Integración tecnológica del profesor universitario desde la
+teoría social de Pierre Bourdieu. Apertura, (10) Recuperado de
+http://www.redalyc.org/articulo.oa?id=68813176006
+Hernández, R., Fernández, C., & Baptista, P. (2010). Metodología de la
+investigación. México: Editorial Mc Graw Hill.
+Llorente. M. (2008). Aspectos fundamentales de la formación del profesorado en
+TIC. Pixel-Bit: Revista de medios y educación, (31), 121-130.
+Ministerio de Educación de Colombia. Plan Nacional Decenal de Educación 20062016. Lineamientos en TIC. Recuperado de
+http://www.plandecenal.edu.co/html/1726/articles-166057_TICS.pdf
+Ministerio de Educación Nacional de Colombia (2011). Recursos Educativos
+Abiertos: Conceptos básicos. Recuperado de
+http://www.colombiaaprende.edu.co/html/home/1592/articles313597_reda.pdf
+Ministerio de Educación Nacional de Colombia (2013). Competencias TIC para el
+desarrollo profesional docente. Recuperado de
+http://www.colombiaaprende.edu.co/html/micrositios/1752/articles318264_recurso_tic.pdf
+Muñoz-Repiso, A. (2012). Herramientas tecnológicas para mejorar la docencia
+universitaria. Una reflexión desde la experiencia y la investigación /
+(Technological tools to improve higher education. Reflection since the
+experience and the research). Revista Iberoamericana De Educación a
+Distancia, 10(2), 125-148
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+120
+Murcia, J. (2004). Redes del saber: investigación virtual, proceso educativo y
+autoformación integral. Bogotá, Colombia: Editorial Magisterio.
+OCDE, (2002). Los desafíos de las tecnologías de la información y las
+comunicaciones en la educación. Madrid: Ministerio de Educación y
+Deporte/OCDE.
+Okuda, M. & Gómez, C. (2005). Métodos en investigación cualitativa:
+triangulación. Revista Colombiana de Psiquiatría, XXXIV (1) 118-124.
+Recuperado de http://www.redalyc.org/articulo.oa?id=80628403009
+Olcott, D. (2013). Nuevas líneas de aprendizaje: potenciar el uso de recursos
+educativos abiertos para reforzar la educación no formal. En: La
+informalización de la Educación. [En línea]. Revista de Universidad y
+Sociedad del Conocimiento (RUSC). Vol. 10, no. 1, pág. 151-169. UOC
+Pablos, J. (2010). Universidad y sociedad del conocimiento. Las competencias
+informacionales y digitales. RUSC. Universities and Knowledge Society
+Journal, 7 (2) 6-16. Recuperado de
+http://www.redalyc.org/articulo.oa?id=78016225013
+Ramírez, A. & Casillas, M. (2014). Háblame de TIC. Córdoba: Brujas. Recuperado
+de
+http://www.uv.mx/personal/albramirez/files/2014/08/hablamedeTIC_libroco
+mpleto.pdf
+Ramírez, M., & Burgos, J. (2012). Movimiento Educativo Abierto Acceso,
+colaboración y movilización de recursos educativos abiertos. En
+Movimiento Educativo Abierto Acceso, colaboración y movilización de
+recursos educativos abiertos. (p. 127). México: CIITE - ITESM. Recuperado de
+http://catedra.ruv.itesm.mx/handle/987654321/564
+Salinas, J. (2004). Innovación docente y uso de las TIC en la enseñanza
+universitaria. RUSC. Universities and Knowledge Society Journal, 1(1), 3
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+121
+Suárez, J., Almerich, G., Gargallo, B., & Aliaga, F. (2013). Las Competencias del
+profesorado en TIC: Estructura Básica. Educación XX1, 16, p. 39-61
+Sunkel, G. Trucco, D., & Espejo, A. (2013). La integración de las tecnologías
+digitales en las escuelas de América Latina y el Caribe. Una mirada
+multidimensional. Santiago de Chile: CEPAL [en línea]. Recuperado de
+http://www.cepal.org/publicaciones/xml/6/49396/integracion_tecnologias_
+Web.pdf
+UNESCO (2008). Unesco ICT Competency Framework for teachers. París.
+Recuperado de
+http://unesdoc.unesco.org/images/0021/002134/213475e.pdf
+UNESCO (2012). Declaración de París de 2012 sobre los REA. Congreso Mundial
+Sobre Los Recursos Educativos Abiertos (REA). París. Recuperado de
+http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CI/CI/pdf/Events/S
+panish_Paris_OER_Declaration.pdf
+Vaillant, D. (2013). Integración de TIC en los sistemas de formación docente inicial
+y continua para la educación básica en América Latina y el Caribe.
+Buenos Aires, Argentina: Unicef
+Valenzuela, J. R. & Flores, M. (2012). Fundamentos de investigación educativa
+(eBook). Monterrey, México: Editorial Digital Tecnológico de Monterrey.
+
+i
+
+Administradora de Sistemas e Informática, egresada de la Universidad Santo Tomás de Bogotá (Colombia),
+Maestra en tecnología educativa y medios innovadores para la educación del Instituto Tecnológico y de
+Estudios Superiores de Monterrey- Universidad Autónoma de Bucaramanga (UNAB). Auditora Interna para
+las norma técnica 5555 de sistemas de gestión de la calidad para instituciones de formación para el trabajo y
+el desarrollo humano. Actualmente docente de tiempo completo en el área de tecnología e informática de
+la Institución Educativa José María Silva Salazar del Municipio de Buenavista, Secretaría de Educación de
+Boyacá. Con experiencia de trabajo, principalmente, relacionada con el campo de la tecnología y la
+educación, específicamente en las áreas de informática básica, auditoría de sistemas, administración de
+sistemas y gestión de proyectos. Jefe de Relaciones Públicas de la Asociación Panamericana de
+Investigadores – ASPI.
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+122
+
+ii
+
+Licenciada en Docencia Tecnológica CAMM y Maestra en Tecnología Educativa del InstitutoTecnológico y
+de Estudios Superiores de Mención honorífica. Maestría en Administración. FIME UANL. Pasante.
+Licenciatura en Educación Tecnológica. CAMM. Titulada. Mención honorífica. Ingeniería en Sistemas
+Computacionales. ITNL. Titulada. Primer lugar de la generación. Instructor en Lengua Inglesa. ITESM. Técnico
+en Procesamiento de Datos. ITESM Actualmente labora en Escuela Normal Miguel F. Martínez / Tecnológico
+de Monterrey. Se ha desempeñado como Docente y asesor de proyectos en instituciones formadoras de
+docentes: Escuela Normal Miguel F. Martínez, Escuela Normal Superior del Estado de Nuevo León, Escuela
+Ciencias de la Educación y Escuela de Graduados en Educación- ITESM. Cuenta con varias publicaciones
+relacionadas con el campo de la tecnologìa educativa, como: El significado de la formación docente en los
+alumnos normalistas. En M.S. Ramírez y M. Murphy (Coords.). Educación e Investigación: Retos y
+Oportunidades. México: Trillas.
+iii
+Doctor en Investigación Educativa por la Universidad de Lancaster, Inglaterra. Maestro en Ciencias de la
+Computación y Medios de Comunicación por la Universidad de Ciencias Aplicadas, Furtwangen, Alemania.
+Ingeniero en Computación por la UNAM y Licenciado en Humanidades por la Universidad del Claustro de Sor
+Juana, México. Su trabajo investigativo tiene como áreas principales la tecnología educativa; diseño de
+estrategias y herramientas digitales educativas; y TIC para el desarrollo. Es Investigador de tiempo completo
+de la Universidad Veracruzana y tiene el reconocimiento de nivel 1 en el Sistema Nacional de Investigadores
+de México. Es autor y coautor de más cincuenta de artículos científicos, de divulgación, libros, capítulos de
+libros y conferencias en extenso (http://www.uv.mx/personal/albramirez) . Su filosofía de trabajo está
+basada en la cultura abierta por lo que apoya de forma pragmática el uso de software libre, gratuito y de
+código abierto y el tipo de licenciamiento creative commons.
+
+REVISTA ECE-DIGITAL. Escuela de Ciencias de la Educación
+
+Año 7 / núm. 12 / febrero 2017
+
+

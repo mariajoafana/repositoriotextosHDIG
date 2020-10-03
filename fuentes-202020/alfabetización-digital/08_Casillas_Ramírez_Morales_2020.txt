@@ -1,0 +1,2776 @@
+Revista Mexicana de
+
+INVESTIGACIÓN
+EDUCATIVA
+
+2020 .2
+V O L U ME N X X V N Ú M. 8 5
+
+abril-junio
+
+La Revista Mexicana de Investigación Educativa es una publicación del
+Consejo Mexicano de Investigación Educativa, AC
+t y f +52 (55) 3089 2815 • +52 (55) 5336 5947
+comie@comie.org.mx • http://www.comie.org.mx
+
+La Revista Mexicana de Investigación Educativa está incluida en: Índice de Revistas Mexicanas
+de Investigación Científica y Tecnológica del conacyt; Red de Revistas Científicas de América
+Latina y el Caribe, España y Portugal (Redalyc); Scientific Electronic Library On-Line (scielo);
+dialnet; Catálogo de Publicaciones Seriadas Científicas de América Latina, el Caribe, España
+y Portugal (Latindex); Índice de Revistas sobre Educación Superior e Investigación Educativa
+(iresie); Catálogo Comentado de Revistas Mexicanas sobre Educación (catmex); Citas Latinoamericanas
+en Ciencias y Humanidades (clase); Biblioteca Digital de la Organización de Estados Americanos;
+Directory of Open Acces Journal (doaj); Hispanic American Periodicals Index (hapi); International
+Consortium for the Advancement of Academic Publication (icaap); ebsco; ProQuest Information and
+Learning; Publindex; Qualis/capes; Scopus (Elsevier, b.v.); scielo Citation Index-Web of Science;
+European Reference Index for the Humanities and the Social Sciences (erih plus).
+La rmie está disponible en acceso abierto en la página: http://www.comie.org.mx/revista.htm
+Todos sus contenidos pueden ser usados gratuitamente para fines no comerciales, dando los créditos a los
+autores y a la revista.
+Los artículos firmados no reflejan necesariamente los criterios del comie
+y son responsabilidad exclusiva de los autores.
+
+Directora: Guadalupe Ruiz Cuéllar / guadalupe.ruiz.cuellar@gmail.com
+Editora: Elsa Naccarella / naccarella@gmail.com
+Edición y formación tipográfica: Guadalupe Espinosa
+Administración de página web: Jonathan Rodolfo Cabrera Alcántara
+Traducciones al inglés: Trena Brown / brown.trina@gmail.com
+
+Revista
+Mexicana
+de
+Investigación
+Educativa,
+revista
+trimestral,
+abril
+de
+2020.
+Editora responsable: Elsa Naccarella. Número de certificado de Reserva otorgado por el Instituto
+Nacional del Derecho de Autor: 04-2017-121114014400-203. Número de Certificado de
+Licitud de Título: 13230. Número de Certificado de Licitud de Contenido: 10803.
+issn: 1405-6666. Domicilio de la publicación: General Prim número 13, colonia Centro,
+Cuauhtémoc,
+CP
+06010,
+Ciudad
+de
+México,
+México.
+Imprenta:
+Composición
+y Negativos Don José, Ganaderos 149, colonia Valle del Sur, CP 09819, Ciudad de México, México.
+Distribuidor: Consejo Mexicano de Investigación Educativa, Domicilio de la publicación: General Prim
+número 13, colonia Centro, Cuauhtémoc, CP 06010, Ciudad de México, México. Tiraje: 100 ejemplares.
+
+CONTENIDO
+
+RMIE, ABRIL-JUNIO, 2020, VOLUMEN 25, NÚMERO 85
+ISSN: 14056666 • ISSN-e 25942271
+
+EDITORIAL
+
+Covid-19: pensar la educación en un escenario inédito
+Guadalupe Ruiz Cuéllar
+
+229-237
+
+INVESTIGACIÓN
+
+La representación del buen docente universitario
+entre dos enfoques: transmisivo y constructivista
+Teresa Yurén, Fran J. Garcia-García, Ana Esther Escalante Ferrer,
+Zabdy González-Barrera y Diana L. Velazquez Albavera
+Experiencias de estudiantes de psicología al intervenir
+en una escuela secundaria
+Claudia Lucy Saucedo Ramos, Gilberto Pérez Campos
+y Claudia Elisa Canto Maya
+Trayectorias escolares desde singularidades resistentes:
+una investigación educativa a través de relatos biográficos de jóvenes
+Paula Cristina Ripamonti y Patricia Claudia Lizana
+Los saberes digitales de los bachilleres del siglo XXI
+Miguel Casillas, Alberto Ramírez Martinell
+y Cecilia Morales Flores
+Los significados de Internet en estudiantes de bachillerato:
+entre metáforas y prácticas culturales
+Joaquín Hernández González y Nena Minoa Reséndiz García
+Investigaciones del cómic en el área de la didáctica de la lengua
+y la literatura en Hispanoamérica
+Victoria Jiménez Arriagada, Gerardo Bañales Faz
+y María Teresa Lobos Sepúlveda
+La escritura académica de estudiantes universitarios
+de Humanidades a partir de sus producciones.
+Estudio transversal
+Alba Naroa Romero González y Manuela de las Nieves Álvarez Álvarez
+
+Revista Mexicana de Investigación Educativa
+
+239-265
+
+267-290
+
+291-316
+317-350
+
+351-374
+
+375-393
+
+395-418
+
+225
+
+La educación intercultural bilingüe y sus desafíos
+para población guaraní de Salta y Misiones (Argentina)
+
+419-447
+
+Yamila Irupé Nuñez y Ana Victoria Casimiro Córdoba
+APORTE DE DISCUSIÓN
+
+La Future Classroom Lab como marco
+de desarrollo del aprendizaje por competencias
+y el trabajo por proyectos
+Ramón Tena Fernández y Naír Carrera Martínez
+
+449-468
+
+RESEÑA
+
+El doctorado como proyecto de vida: visión del doctorado
+en educación internacional de la UAT, de Rosa María González Isasi,
+José Luis Pariente Fragoso y Corina Schmelkes del Valle
+Sylvia Schmelkes
+
+Information for authors
+
+226
+
+469-473
+
+475
+
+Consejo Mexicano de Investigación Educativa
+
+RMIE, 2020, VOL. 25, NÚM. 85, PP. 317-350 (ISSN: 14056666 • ISSN-e: 25942271)
+
+Investigación
+
+LOS SABERES DIGITALES
+DE LOS BACHILLERES DEL SIGLO XXI
+MIGUEL CASILLAS / ALBERTO RAMÍREZ MARTINELL / CECILIA MORALES FLORES
+
+Resumen:
+
+En la competencia escolar cotidiana, los estudiantes movilizan sus saberes sobre
+tecnología digital para resolver situaciones educativas. Sin embargo, no hay muchos diagnósticos ni perfiles definidos en los planes y programas de estudio sobre
+los saberes digitales que deben dominar los egresados del bachillerato. El objetivo
+de este artículo es presentar resultados de investigación sobre los egresados de bachillerato y su relación con las tecnologías de la información y la comunicación en
+el contexto escolar. Aplicamos un cuestionario a más de 11 mil jóvenes, dimos un
+tratamiento estadístico a los datos y construimos un perfil sobre sus habilidades y
+conocimientos tecnológicos. Los resultados son sorprendentes por el alto nivel de
+dominio tecnológico en términos generales; aunque podemos identificar tres grupos
+que nos permiten reconocer la diversidad: uno pequeño con bajo dominio, uno con
+dominio medio y el mayoritario con alto dominio tecnológico.
+Abstract:
+
+In everyday academic competence, students mobilize their knowledge of digital
+technology to solve educational situations. However, not many diagnostics or
+defined profiles exist in the plans and programs of study with regard to the digital
+knowledge that high school graduates must master. The objective of this article is
+to present the results of research on high school graduates and their relationship
+with information and communication technologies in the academic context. We
+obtained survey responses from more than 11,000 young people, analyzed the data
+statistically, and constructed a profile of their technological skills and knowledge.
+The results are surprising in terms of the high level of technological mastery in
+general terms. We can identify three groups, however, that disclose diversity: a small
+group with low technological mastery, a group with average technological mastery,
+and the majority with high technological mastery.
+Palabras clave: jóvenes; estudiantes; educación media superior; tecnologías de la
+
+información y la comunicación.
+
+Keywords: young people; students; high school educatio; information and com-
+
+munication technologies.
+
+Miguel Casillas y Alberto Ramírez Martinell: investigadores de la Universidad Veracruzana, Centro de Investigación e Innovación en Educación Superior. Paseo núm. 112, sección 2A, Nuevo Xalapa, 91097, Xalapa-Enríquez,
+Veracruz, México. CE: mcasillas@uv.mx (ORCID: 0000-0001-8194-7666); albramirez@uv.mx (ORCID: 0000-00032370-4994)
+Cecilia Morales Flores: licenciada en Estadística y especialista en Métodos estadísticos por la Universidad Veracruzana. Xalapa-Enríquez, Veracruz, México. CE: cecimof05@hotmail.com
+Revista Mexicana de Investigación Educativa
+
+317
+
+Casillas, Ramírez Martinell y Morales Flores
+
+[En la época medieval]. Bachiller, en la antigua universidad, era
+el que había recibido el primer grado académico que se otorgaba
+a los estudiantes de una facultad (“en el siglo XIII este título se
+introdujo en las escuelas para expresar el primer grado en una
+facultad, habiendo sido el papa Gregorio IX el que distinguió los
+grados de bachiller, licenciado y doctor”) (Bachiller, s/f ).
+Bachelier, eft encore un terme don ton fe fert dans les universités
+pour designer une persone qui a atteint le baccalauréat, ou le premier degré dans les Arts libéraux & dans les Sciences (Diderot y
+D’Alembert, 1773).
+Introducción
+
+H
+
+asta ahora, los años transcurridos del nuevo milenio se destacan por experimentar una intensa revolución tecnológica (Castells, 1997; 2001) y
+por el despliegue de una cultura digital (Levy, 2007; Castells, 1996; Unesco,
+1996). Todos los espacios sociales están siendo atravesados por la incorporación de las tecnologías de la información y la comunicación (tic ), incluidas
+las profesiones y las disciplinas. La educación también forma parte de esta
+profunda transformación (Tedesco, 2000; Brunner, 2003; Marquès Graells,
+2001; Cobo Romaní, 2009; Cabero Almenara, 2005; Kozma, 2005). Particularmente, son importantes los esfuerzos del Instituto Internacional para la
+Educación Superior de América Latina y el Caribe ( iesalc ) de la Unesco
+(https://www.iesalc.unesco.org) o de Virtual Educa (https://virtualeduca.
+org), organismo coordinado por Claudio Rama.
+La investigación educativa en México sobre la incorporación de las tic
+a la educación ha tenido importantes avances que se reportan en los estados del conocimiento del Consejo Mexicano de Investigación Educativa
+( comie, http://www.comie.org.mx). Específicamente, la tesis doctoral de
+Martínez (2019) hace un recuento pormenorizado de las políticas educativas y las tic en México, y Alarcó n y Ortiz (2014) publicaron un balance
+sobre la investigación educativa sobre estudiantes y tic .
+Los reportes sobre la evolución de los usos de Internet o del uso de
+dispositivos tecnológicos nos permiten construir una visión general del
+cambio que está ocurriendo, pero su perspectiva es muy amplia y general.
+El Instituto Nacional de Estadística y Geografía (Inegi) expone datos de
+la Encuesta Nacional sobre Disponibilidad y Uso de las tic en los Hoga318
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+res (Inegi, 2018), mientras que la Asociación de Internet . MX publica el
+Estudio de hábitos de los usuarios de Internet en México (Asociación de
+Internet . MX , 2016).
+En relación con los conocimientos digitales de los aspirantes de la educación superior hay algunos análisis, como el que realiza la Universidad
+Nacional Autónoma de México ( unam ) con sus estudiantes ( tic ómetro)
+( unam , 2020) o el Instituto Tecnológico de Estudios Superiores de Monterrey ( itesm, s/f ). Muchas otras instituciones de educación superior solo
+cuentan con la información que deriva de sus estudios socioeconómicos
+de ingreso.
+En investigaciones anteriores hemos propuesto y empleado una visión
+sociológica que describe el capital tecnológico de los agentes escolares (Casillas, Ramírez y Ortiz, 2014) a partir del grado de apropiación tecnológica,
+los saberes digitales (Ramírez y Casillas, 2017), la afinidad tecnológica
+(Casillas, Ramírez y Ortega, 2016) así como de una cultura en la que se
+delinean las valoraciones que tienen profesores y estudiantes sobre lo relativo
+a la informática y al manejo de información. Se trata de una cultura digital
+formada por el conjunto de disposiciones incorporadas que les permiten
+a los actores escolares funcionar en el ciberespacio; reconocer la razón,
+el sentido y la pertinencia con el que se usa un dispositivo, un programa
+informático o una estrategia para la manipulación de datos orientada a la
+resolución de problemas académicos.
+En el campo escolar, el habitus digital, en el sentido de Bourdieu (1980;
+1982), otorga a los actores escolares referentes para reaccionar ante una
+situación cualquiera sin pensar cómo es que se deberán emplear pensamiento computacional (Zapata-Ros, 2015) y una estrategia digital para la
+resolución del problema. El habitus digital es un atributo incorporado que
+hace que los agentes escolares actúen de forma inconsciente y automática;
+y que operan fluidamente de acuerdo con lo que es correcto, con lo que es
+bien valorado o con lo que es esperado como adecuado en los ambientes
+educativos mediados por tecnologías digitales. El habitus digital (Casillas
+y Ramírez, 2018) es una estructura estructurante del comportamiento de
+las personas y de su manera de pensar, que les permite anticiparse a las
+situaciones para operar con mayor rapidez y eficacia, sin disrupciones y
+en formas y caminos directos. En el campo escolar, el capital tecnológico
+y el habitus digital son recursos que sirven a los estudiantes para definir
+estrategias de supervivencia y éxito en la escuela.
+Revista Mexicana de Investigación Educativa
+
+319
+
+Casillas, Ramírez Martinell y Morales Flores
+
+Giménez (2018) apunta cuatro expresiones para la interpretación de
+la noción de habitus en Bourdieu. Si hacemos una interpretación de ello
+sobre la cultura digital podemos reconocer en la primera, el eidos, relacionado con las habilidades de uso de dispositivos digitales y sistemas de
+información para interactuar en el contexto digital. En el segundo, el ethos,
+donde se incluyen las disposiciones morales, percepciones y valoraciones
+sobre la tecnología; en la tercera, la aisthesis, se movilizan los gustos, consideraciones estéticas y prestigio de marcas, modelos, versiones o tipo de
+licenciamiento; y finalmente, en el hexis, se alude a la postura y cambios
+corporales derivados del uso de sistemas de cómputo y dispositivos portátiles (Casillas y Ramírez, 2018).
+En la competencia escolar de bachillerato, los estudiantes ponen en juego
+sus disposiciones tecnológicas y compiten con sus compañeros explotando
+sus ventajas comparativas en materia tecnológica que, en ocasiones, superan
+lo enseñado en las asignaturas obligatorias de computación. A diferencia
+de los estudiantes de niveles inferiores, los de bachillerato, además de incrementar su cultura general, suelen gozar de mayor independencia de sus
+padres y de la necesidad de la movilización de conocimientos previos para
+la resolución de problemas propios de este nivel educativo, como estrategias de estudio, nociones de una lengua adicional al español, disciplina y
+saberes digitales para realizar tareas y trabajos.
+Al respecto, los estudiantes del bachillerato que son hábiles en el manejo
+de hojas de cálculo incluirán tablas, operaciones y gráficas en sus tareas.
+Algo similar harán los que son avezados en la búsqueda de información;
+o los que son capaces de filmar y editar un video con sus dispositivos de
+mano. Los que usan intensamente el teléfono móvil, durante la clase podrán, al margen de la solicitud del docente, realizar búsquedas eficaces e
+inmediatas para complementar el discurso en el aula, corroborarlo o incluso
+corregirlo. Quien no se ha apropiado del teléfono móvil no estará presto a
+realizar búsquedas espontáneas de información, lo tendrá incluso guardado
+en la bolsa, apagado o sin datos que le permitan acceder a Internet.
+La redacción de documentos y tareas es frecuente en el bachillerato;
+como también lo es el uso del procesador de palabras para atender las diligencias asociadas. Por ello, los niveles de velocidad y eficacia al procesar
+palabras y el cuidado de la calidad de un documento son elementos por
+movilizar en la competencia escolar. Quien escribe con todos los dedos de
+ambas manos sin necesidad de mirar el teclado es más veloz que los demás.
+320
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+Si además reduce el uso del mouse o trackpad al mínimo y emplea combinaciones de teclas como atajo para seleccionar texto, cortarlo, copiarlo o
+pegarlo, la interacción con el sistema para el procesamiento de palabras
+será más eficiente aún; y si además durante la elaboración del texto, usa
+estilos, tipos y tamaños de fuente variados; le da formato al párrafo, agrega
+elementos como números de página, viñetas, tablas, e imágenes; emplea
+las marcas del calderón o antígrafo para facilitar la edición de manera visual; incorpora elementos automáticos como tabla de contenidos, índices
+onomástico o de figuras; y colabora, almacena o comparte el archivo con
+sus compañeros a través de servicios propios del cómputo en la nube, el
+texto como producto resultante del uso de herramientas digitales alcanzará
+estándares de calidad destacados que le servirán al autor para diferenciarse
+de sus compañeros, promoverse y obtener mejores calificaciones.
+En el bachillerato los estudiantes saben cómo comportarse dentro del
+espacio virtual; son capaces de reconocer los usos pertinentes de sus dispositivos, programas informáticos y estrategias informacionales; recuperan
+sus rituales frente a la tecnología digital, los transfieren al contexto escolar
+y los usan de manera automática para anticiparse a situaciones cotidianas.
+Es como quien sabe conducir bien un auto. Es consciente del contexto y
+opera prácticamente de forma automática y reconoce las implicaciones del
+reglamento de tránsito, sabe que debe respetar a las personas, animales y
+áreas verdes que pueda encontrar en su camino. Está alerta ante situaciones
+inesperadas como un bache, una pelota o un peatón distraído. Asimismo,
+el buen conductor ha incorporado procedimientos que realiza sin pensar,
+como cambiar de velocidad cuando el motor del auto suena de alguna
+forma, pisar el embrague al frenar, poner la direccional antes de virar, ver
+los espejos al rebasar, o no dejar las llaves pegadas al apagar y salir del vehículo. Manejar una motocicleta requiere de conocimientos contextuales
+similares relativos a las condiciones de seguridad, percepciones y pericias.
+Algunas de las estrategias de conducción de autos se pueden transferir a ese
+contexto y habilitar al conductor para operar de manera natural, aunque
+la relación entre el conductor con el vehículo sea distinta tanto en eidos,
+aisthesis y hexis.
+Algo similar sucede con la transferencia de estrategias y ritos propios de
+situaciones comunes al contexto digital. Quien es cuidadoso y tiene buen
+gusto al escribir en su libreta, tendrá consideraciones estéticas al elaborar
+una diapositiva electrónica o un documento de texto. Quien es amable
+Revista Mexicana de Investigación Educativa
+
+321
+
+Casillas, Ramírez Martinell y Morales Flores
+
+con sus profesores y compañeros, será capaz de enviar su tarea por correo
+electrónico acompañada de un mensaje cordial para su profesor. Quien es
+ordenado con sus cuadernos, libros, fotocopias y tareas podrá organizar
+sus archivos en carpetas y emplear nombres mnemotécnicos. Aunque la era
+digital que hemos descrito inició hace ya algunos años y con su evolución,
+la presencia de cursos de informática en el sistema educativo mexicano se
+ha ido normando y arraigando los usos cotidianos de las tic por parte de
+las culturas juveniles, reconocemos que hay una revolución tecnológica
+en curso cuyas características y efectos para conformar una cultura digital
+son dinámicos y no se han terminado de definir.
+En este artículo presentamos los hallazgos de una investigación que
+realizamos en el verano de 2018 con 11 mil estudiantes que concluyeron
+sus estudios de bachillerato en alguna de las tres modalidades de la educación media superior del estado de Veracruz, México (bachillerato general,
+bachillerato tecnológico y profesional técnico). De la información recopilada mediante una encuesta de 100 reactivos agrupados en 10 categorías,
+pudimos observar que los jóvenes nacidos en 2000 son diferentes a los del
+siglo xx , y que la construcción de un perfil tecnológico que privilegie el
+sentido escolar del uso de las tic es necesario para reconocer esta nueva
+especie de jóvenes que está por ingresar a la universidad. Un avance inicial
+de esta investigación se presentó como ponencia en el xv Congreso Nacional de Investigación Educativa del comie , realizado en noviembre de
+2019, bajo el título de “Los conocimientos tecnológicos de los bachilleres
+del siglo xxi ”.
+El sistema veracruzano de Educación Media Superior
+
+La educación media superior ( ems ) en México es la etapa previa a la educación superior y la posterior a la educación básica compuesta por tres
+años de secundaria, seis de primaria y tres de preescolar. En México hay
+tres modalidades de bachillerato con distintas orientaciones y objetivos:
+•
+
+322
+
+El bachillerato general, que es el de mayor cobertura y variedad en
+sus modelos curriculares en el país. Está compuesto por centros de
+Estudios de Bachillerato (ceb ), preparatorias federales o estatales por
+cooperación, colegios de Bachilleres (Cobach/Colbach), bachilleratos
+de arte y humanidades del Instituto Nacional de Bellas Artes ( inba ),
+bachillerato militar (Secretaría de la Defensa Nacional), Instituto
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+•
+
+•
+
+de Educación Media Superior ( iems ) en Ciudad de México, preparatorias abiertas, bachilleratos interculturales ( bi ), bachilleratos
+integrales comunitarios ( bic ), Educación Media Superior a Distancia
+( ems a d ), bachilleratos autónomos dependientes de universidades
+estatales, bachilleratos particulares, telebachilleratos comunitarios
+( tlbc ), telebachilleratos estatales ( tlbe ) y bachilleratos estatales.
+El bachillerato tecnológico, cuyo objetivo es formar de manera propedéutica a los estudiantes para cursar la educación superior y ofrecer
+un nivel técnico para facilitar su inserción en el mundo laboral. Los
+tipos de subsistemas de esta modalidad son: la Dirección General de
+Educación Tecnológica Industrial ( dgeti ), los centros de Estudios o
+de Bachillerato Tecnológico Industrial y de Servicios ( cetis , cbtis );
+el Colegio de Estudios Científicos y Tecnológicos (cec y te ); y la Dirección General de Educación Tecnológica Agropecuaria (dgeta ),
+centros de Bachillerato Tecnológico y Agropecuario o Forestal (cbta,
+cbtf ).
+El Bachillerato Profesional Técnico (bpt ) es el de menor cobertura en
+la matrícula nacional y busca formar “técnicos en actividades industriales y de servicios, proporcionándoles las competencias educativas
+y laborales para insertarse al mercado de trabajo” ( inee , 2015:42).
+El bpt está representado por el Colegio Nacional de Educación Profesional Técnica (Conalep), en donde los estudiantes pueden egresar
+con un título de profesional técnico bachiller (Hernández Hernández
+y Márquez Silva, 2019).
+
+La ems del estado de Veracruz está compuesta por mil 812 escuelas, en
+las que 25 mil 887 docentes atendieron, en 2017, a los 334 mil 228 estudiantes distribuidos en los tres años de la siguiente forma: 130 mil 932
+en primero, 113 mil 889 en segundo y 89 mil 397 en el último año ( sep ,
+2018:118). La proporción de las tres modalidades de ems en el estado es
+consistente con la nacional. El bachillerato general concentra a 73% de los
+estudiantes mientras que 26% se ubican en la opción tecnológica y 0.2%
+en la de profesional técnico (Gobierno del Estado de Veracruz, 2017:38).
+La investigación
+
+Para nuestro grupo de trabajo en el Centro de Investigación e Innovación
+en Educación Superior de la Universidad Veracruzana ( ciies - uv ) es un
+Revista Mexicana de Investigación Educativa
+
+323
+
+Casillas, Ramírez Martinell y Morales Flores
+
+nuevo desafío estudiar los saberes digitales de los jóvenes que van egresando
+del bachillerato. Hemos colaborado con la preparación de exámenes y del
+estudio de sus trayectorias escolares (Ortega Guerrero, López González y
+Alarcón Montiel, 2015), pero ahora inauguramos el análisis de los conocimientos digitales de los estudiantes de este nivel.
+Las preguntas de investigación que orientan nuestro trabajo son: ¿cuáles
+son los conocimientos y disposiciones tecnológicas que poseen los egresados del bachillerato?, ¿cuál es su perfil tecnológico y sus prácticas más
+usuales?, ¿cuáles son las diferencias por edad, sexo, clase, promedio que
+distinguen los usos tecnológicos de los jóvenes?
+La población de nuestro estudio se enfoca en jóvenes que en el verano
+de 2018 concluyeron el bachillerato en el estado de Veracruz. Gracias a
+la colaboración de la Dirección General de Bachilleratos ( dgb ) de la Secretaría de Educación de Veracruz ( sev ) pudimos aplicar un cuestionario
+electrónico con una tasa de respuesta alta. La colecta inicial de los datos
+estuvo coordinada por los doctores Juan Carlos Ortega y Ragueb Chain,
+el primer tratamiento de la base de datos corrió a cargo de las maestras
+Nancy Jácome y Oliva Rosales, colegas del ciies - uv . Después de limpiar
+y revisar la base de datos, tuvimos más de 11 mil registros efectivos.
+Para realizar este estudio, trabajamos con jóvenes del estado de Veracruz
+que en verano de 2018 egresaron del bachillerato. Se trata de una población muy particular, pues la inmensa mayoría coincide no solo con haber
+concluido la educación media superior en el 2018 sino con haber nacido en
+2000. Desde una perspectiva científica siempre conviene desconfiar de los
+eslóganes y frases simplistas que se emplean para categorizar a una población,
+sea por moda o por una reducción de estereotipos que imponen absurdos
+como los nativos digitales (Prensky, 2001), la generación red (Tapscott,
+2009) o los millenials (Strauss y Howe, 1991; 2000). Sin embargo, más allá
+de las etiquetas, la generación que nació con el siglo xxi es claramente
+poseedora de un conjunto de disposiciones, conocimientos, habilidades y
+sentidos de uso de las tic distintivos de su generación.
+En este texto presentamos los hallazgos de la investigación en dos
+formas. Primero de manera descriptiva, porque se desconocen las características y grados de dominio tecnológico de los estudiantes de este nivel
+educativo; segundo de forma analítica porque es significativo reconocer si
+entre este tipo de población se reproducen las tendencias que caracterizan
+
+324
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+a otras poblaciones estudiantiles. Para explorar los saberes digitales de
+los estudiantes de bachillerato, diseñamos un cuestionario que aplicamos
+como prueba piloto a medio millar de jóvenes de telebachillerato de dos
+municipios rurales ubicados en un radio de 30 km de la capital del estado
+de Veracruz (de aquí deriva la tesis de Hernández Hernández y Márquez
+Silva, 2019). Después de ajustar el cuestionario, procedimos a aplicarlo a
+todos los estudiantes del estado que concluyeron sus estudios de bachillerato en 2018. Es un instrumento con 100 preguntas cerradas de carácter
+dicotómico agrupadas en 10 rubros. Cada uno correspondiente a uno de
+los diez saberes digitales. La encuesta nos permite observar, más que el
+grado de apropiación tecnológica, cómo los jóvenes usan la tecnología. El
+análisis de los datos se realizó con el programa spss .
+Características de la población de estudio
+
+Trabajamos con una población muy específica, que refleja típicamente las
+características de los egresados del bachillerato del estado de Veracruz. La
+base de datos que construimos es de 11 mil 522 jóvenes que concluyeron
+en verano de 2018 sus estudios en el nivel de educación media superior
+y que representan 13% de los 89 mil 397 que cursaron el último año de
+bachillerato en 2018 en el estado. Casi tres cuartas partes de la muestra
+la conforman jóvenes de 18 años, 15% son ligeramente menores y 14%
+superan los 19 años. Son los triunfadores del bachillerato puesto que lo
+concluyeron con éxito y están en condiciones de postular para ingresar
+a una institución de educación superior. Por tanto, sus promedios de
+calificaciones tienden a ser buenos: la mitad tuvo un promedio en el
+bachillerato entre 7.5 y 8.8, y 30% alcanzó un promedio superior a 8.9.
+La población es símbolo del proceso de feminización de la matrícula estudiantil del estado, ya que 51% son mujeres, y de la variedad del sistema
+educativo, ya que tenemos información de jóvenes de todos los sectores
+y subsistemas institucionales que hay en la educación media superior en
+Veracruz: 49% proviene de los bachilleratos estatales, 28% de los federales, 13% del sector privado y 10% de otros sectores. En términos de
+los sistemas institucionales, la población se distribuye en instituciones
+de la Dirección General de Bachilleratos, del cbtis , del Colegio de Bachilleres del estado de Veracruz (Cobaev), de las preparatorias privadas
+y de los telebachilleratos (tabla 1).
+
+Revista Mexicana de Investigación Educativa
+
+325
+
+Casillas, Ramírez Martinell y Morales Flores
+
+TABLA 1
+
+Instituciones de origen de la población que participó en el estudio
+Tipo de sistema
+
+Frecuencia
+
+Porcentaje
+
+DGB
+
+2 841
+
+24.7
+
+CBTIS o DGETI
+
+2 473
+
+21.5
+
+Cobaev
+
+1 466
+
+12.7
+
+Particulares incorporadas a la DGB
+
+1 401
+
+12.2
+
+TLB o TLB del estado de Veracruz
+
+1 070
+
+9.3
+
+Conalep
+
+307
+
+2.7
+
+Centros de Estudios Tecnológicos del Mar
+
+212
+
+1.8
+
+CECyTE-Veacruz
+
+193
+
+1.7
+
+Técnicas
+
+136
+
+1.2
+
+CBTAo DGTA
+
+131
+
+1.1
+
+Bachillerato pedagógico
+
+35
+
+0.3
+
+Acuerdo 286 SEP
+
+20
+
+0.2
+
+Esc. Cooperación
+
+17
+
+0.1
+
+Prepa abierta
+
+14
+
+0.1
+
+Consorcio Clavijero
+
+13
+
+0.1
+
+Otros
+
+1 193
+
+10.3
+
+Total
+
+11 522
+
+100.0
+
+Fuente: Elaboración propia.
+
+Saberes digitales de los egresados de bachillerato
+
+Basados en la teoría de los saberes digitales (Ramírez y Casillas, 2015), en
+la que se reconoce una estructura graduada de habilidades y conocimientos
+teóricos e instrumentales de carácter informático e informacional, hacemos observable lo relativo a saber: usar dispositivos ( dsp ), administrar
+archivos ( arc ), usar programas y sistemas de información especializados
+326
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+( swe ), crear y manipular contenido de texto y texto enriquecido ( txt ),
+crear y manipular conjuntos de datos ( dat ), crear y manipular medios y
+multimedia ( mm ), comunicarse en entornos digitales ( com ), socializar y
+colaborar en entornos digitales ( clb ), ejercer y respetar una ciudadanía
+digital ( cdd ) y literacidad digital ( lit ); y con esto caracterizar el grado
+de apropiación tecnológica de los estudiantes de bachillerato.
+Dispositivos
+
+La tabla 2 muestra los porcentajes de uso de dispositivos digitales ordenados
+de manera descendente. La inmensa mayoría tiene y usa un teléfono inteligente (93%), sabe usar computadoras (88.3%); y se conectan a Internet
+(85%). También es importante destacar que solo un poco más de la mitad de
+los estudiantes usan videojuegos (54%) y se relacionan con dispositivos periféricos para su conexión con la computadora (cañón 57%, impresora 62%).
+TABLA 2
+
+Saber usar dispositivos digitales
+Saber usar dispositivos digitales
+
+Sí (%)
+
+No (%)
+
+Usar teléfono inteligente
+
+93.0
+
+7.0
+
+Usar computadora de escritorio y laptop
+
+88.3
+
+11.7
+
+Conectarme a Internet
+
+84.9
+
+15.1
+
+Conectar mi teléfono celular a una computadora
+
+80.4
+
+19.6
+
+Instalar aplicaciones o apps en tu teléfono inteligente o tableta
+
+79.8
+
+20.2
+
+Usar tableta
+
+75.7
+
+24.3
+
+Identificar los elementos gráficos del sistema operativo como íconos,
+avisos, globos, notificaciones
+
+67.1
+
+32.9
+
+Usar impresora, multifuncional o escáner
+
+62.6
+
+37.4
+
+Conectar un cañón a una computadora
+
+57.9
+
+42.1
+
+Usar una consola de videojuegos
+
+54.6
+
+45.4
+
+Fuente: Elaboración propia.
+
+Revista Mexicana de Investigación Educativa
+
+327
+
+Casillas, Ramírez Martinell y Morales Flores
+
+Archivos
+
+En cuanto al manejo de archivos, observamos que las prácticas predominantes no corresponden a la tendencia informática actual. Aun cuando
+la tendencia es la nube, 95% de los estudiantes sigue copiando archivos
+a una memoria usb ; descargándolos (88.2%) y adjuntándolos al correo
+electrónico (82.9%), mientras que las tareas propias del cómputo en la
+nube como el almacenamiento (55%) y el uso de software en línea siguen
+sin ser utilizados (39.8%). El detalle de la administración de archivos
+digitales se puede ver en la tabla 3.
+TABLA 3
+
+Saber administrar archivos digitales
+Saber administrar archivos digitales
+
+Sí (%)
+
+No (%)
+
+Copiar archivos a una memoria USB
+
+95.7
+
+4.3
+
+Transferir archivos vía Bluetooth
+
+88.7
+
+11.3
+
+Descargar archivos de un correo electrónico
+
+88.2
+
+11.8
+
+Organizar archivos en carpetas
+
+83.7
+
+16.3
+
+Adjuntar archivos a un correo electrónico
+
+82.9
+
+17.1
+
+Transferir archivos de un teléfono inteligente o tableta a una
+computadora
+
+81.8
+
+18.2
+
+Respaldar archivos
+
+62.0
+
+38.0
+
+Comprimir y renombrar archivos
+
+61.8
+
+38.2
+
+Compartir archivos en la nube
+
+55.0
+
+45.0
+
+Utilizar software en línea para cambiar el formato de archivos
+
+39.8
+
+60.2
+
+Fuente: Elaboración propia.
+
+Recursos de información
+
+Sobre los recursos de información que los estudiantes emplean para realizar
+tareas, proyectos y trabajos académicos, observamos que el uso de buscadores
+convencionales como Google, Bing o Yahoo es el imperante (93.7%); seguido
+328
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+por la consulta de canales de Youtube (82.6%) y de tutoriales (79.9%). Los
+recursos de mayor confiabilidad como páginas web de contenido educativo
+como el portal @prende 2.0 (29%); buscadores académicos como Google
+Scholar (50.4%) y repositorios de libros y textos en pdf (64.6) son incluso menos valorados que la consulta de información en Wikpedia (74%) o
+páginas de trabajos y tareas escolares (69.5%) (tabla 4).
+TABLA 4
+
+Saber usar fuentes y programas informáticos especializados
+Recursos de información que utiliza
+
+Sí (%)
+
+No (%)
+
+Buscadores como Google. Bing o Yahoo!
+
+93.7
+
+6.3
+
+Canales de video en Youtube u otros
+
+82.6
+
+17.4
+
+Tutoriales
+
+79.9
+
+20.1
+
+Enciclopedias digitales como Wikipedia
+
+74.0
+
+26.0
+
+Páginas web de trabajos y tareas escolares
+
+69.5
+
+30.5
+
+Repositorios de libros y textos en PDF como Scribd
+
+64.6
+
+35.4
+
+Blogs
+
+58.4
+
+41.6
+
+Biblioteca digital
+
+53.5
+
+46.5
+
+Buscadores académicos como Google Académico
+
+50.5
+
+49.5
+
+Páginas web de contenido educativo como el portal @prende 2.0
+
+29.0
+
+71.0
+
+Fuente: Elaboración propia.
+
+Texto
+
+Los estudiantes que encuestamos saben trabajar texto en sus computadoras y dispositivos, saben insertar imágenes y tablas, salvar y guardar sus
+archivos en pdf . Además, es común el uso de presentaciones electrónicas
+con Powerpoint o con Prezi. Pocos son los que saben usar las funciones
+de cambios y comentarios y menos los que saben elaborar documentos
+colaborativos en la nube.
+Revista Mexicana de Investigación Educativa
+
+329
+
+Casillas, Ramírez Martinell y Morales Flores
+
+El manejo de texto y texto enriquecido es fundamental en este nivel
+educativo. Los estudiantes lo hacen sin problema. Son capaces de insertar
+imágenes (96.3%) y tablas (89.4) a sus documentos, y de hacer edición
+básica como buscar y sustituir palabras en un documento (81.7%);
+aplicar estilos a una selección del documento (81.4%); guardar archivos
+en formato pdf (79.7%), usar el diccionario (71.7%) y contar palabras
+de un documento (70.1%). El uso colaborativo del procesador de texto
+sigue siendo una oportunidad de aprendizaje para los chicos, sea para
+elaborar documentos de texto colaborativo en la nube (38.4%) o para
+controlar los cambios e incorporar comentarios a un documento (53%).
+Sobre la elaboración de presentaciones electrónicas, 85.7% aseguró hacerlo (tabla 5).
+TABLA 5
+
+Saber crear y manipular texto y texto enriquecido
+Saber crear y manipular texto y texto enriquecido
+
+Sí (%)
+
+No (%)
+
+Insertar imágenes en el documento
+
+96.3
+
+3.7
+
+Insertar tablas en el documento
+
+89.4
+
+10.6
+
+Elaborar presentaciones electrónicas en PowerPoint, Prezi u
+otros.
+
+85.7
+
+14.3
+
+Buscar y sustituir palabras de un texto
+
+81.7
+
+18.3
+
+Aplicar estilos a una selección de texto (como Normal,
+Titulo 1 o Lista)
+
+81.4
+
+18.6
+
+Guardar archivos de texto como PDF
+
+79.7
+
+20.3
+
+Usar el diccionario de Word
+
+71.7
+
+28.3
+
+Contar palabras o caracteres de un documento
+
+70.1
+
+29.9
+
+Usar control de cambios e incorporar comentarios
+en un texto
+
+53.9
+
+46.1
+
+Elaborar documentos de texto colaborativos en la nube, como en
+GoogleDocs
+
+38.4
+
+61.6
+
+Fuente: Elaboración propia.
+
+330
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+Datos
+
+Aunque en perspectiva, que 87% de una población de este tamaño maneje
+datos sea apropiado, no deja de ser interesante que los porcentajes más altos
+de este saber sean de los más bajos de los diez saberes digitales. El uso de la
+aplicación de calculadora es la tarea más común y es contrastante con el de
+software de estadística como SPSS , Minitab y Estatistica (15.9%). Los estudiantes manejan la hoja de cálculo a un nivel básico. Saben sumar, restar,
+multiplicar y dividir (83.4%); ordenan datos (80.3%), sacan promedios o
+porcentajes (74.7%) y pueden hacer gráficas de barras, pie o histogramas
+(71.2%). Para cuestiones más complejas, los porcentajes de conocimiento
+y uso bajan en lo relativo al uso de fórmulas o funciones (60.3%); a la impresión (62.7%) o al copiado de una tabla elaborada en una hoja de cálculo
+a un procesador de palabras. Al igual que en los saberes digitales relativos
+al manejo de archivos y texto, el cómputo en la nube no es común (usar
+GoogleForms u otras herramientas para diseñar encuestas 24.9%) (tabla 6).
+TABLA 6
+
+Saber crear y manipular conjunto de datos
+Saber crear y manipular conjunto de datos
+
+Sí %
+
+No %
+
+Usar una calculadora en la computadora o en el celular
+
+87.2
+
+12.8
+
+Sumar, restar, multiplicar y dividir en una hoja de cálculo
+
+83.4
+
+16.6
+
+Ordenar datos
+
+80.3
+
+19.7
+
+Sacar promedios o porcentajes en una hoja de cálculo
+
+74.7
+
+25.3
+
+Graficar datos en barras. pie o histogramas
+
+71.2
+
+28.8
+
+Utilizar fórmulas o funciones en una hoja de cálculo
+
+62.7
+
+37.3
+
+Preparar para imprimir los datos de una hoja de cálculo
+
+60.3
+
+39.7
+
+Copiar una tabla elaborada en la hoja de cálculo a un texto
+
+60.2
+
+39.8
+
+Usar GoogleForms u otras herramientas para diseñar encuestas
+
+24.9
+
+75.1
+
+Utilizar software de estadística como SPSS, Minitab, Estatistica
+
+15.9
+
+84.1
+
+Fuente: Elaboración propia.
+
+Revista Mexicana de Investigación Educativa
+
+331
+
+Casillas, Ramírez Martinell y Morales Flores
+
+Multimedia
+
+Estamos ante una generación visual, en la que saber crear y manipular
+medios y multimedia es frecuente. Casi todos saben tomar fotos (95.9%)
+y aplicarles filtros y recortes (90.7%); grabar audio (92.3%); ver videos en
+Youtube o Netflix (91.6%) y realizar los propios (89.2%). Un gran porcentaje
+de los estudiantes declararon que editan fotos (71.2%) y audio (62.5%),
+además de saber crear infogramas, mapas conceptuales, esquemas (69.6%)
+o memes (60.4%) y subir sus propios videos a Youtube (62.2%) (tabla 7).
+TABLA 7
+
+Saber crear y manipular medios y multimedia
+Saber crear y manipular medios y multimedia
+
+Sí %
+
+No %
+
+Tomar fotos
+
+95.9
+
+4.1
+
+Grabar audio
+
+92.3
+
+7.7
+
+Ver videos en Youtube o Netflix
+
+91.6
+
+8.4
+
+Aplicar filtros y recortes a fotos e imágenes con tu teléfono
+inteligente
+
+90.7
+
+9.3
+
+Grabar videos
+
+89.2
+
+10.8
+
+Usar software para la edición de imágenes como Photoshop,
+PicsArt
+
+71.2
+
+28.8
+
+Uso de herramientas para hacer infogramas, mapas conceptuales
+o esquemas
+
+69.6
+
+30.4
+
+Editar audio
+
+62.5
+
+37.5
+
+Subir videos a Youtube
+
+62.2
+
+37.8
+
+Elaborar memes, animaciones o GIF
+
+60.4
+
+39.6
+
+Fuente: Elaboración propia.
+
+Comunicación
+
+Otra característica de esta generación es su aparente conexión permanente
+a través de mensajeros instantáneos como Whatsapp (96.5%) o el propio
+de Facebook (88.9%). Son usuarios intensos de los servicios de esta última
+332
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+red social, donde ven las publicaciones de sus amigos (82%), reaccionan
+a dichas publicaciones (77.5%) o publican textos o imágenes (75.9%). El
+correo electrónico, aunque es altamente usado, ha dejado de ser el medio
+de comunicación preferido por los usuarios de sistemas digitales (85.9%).
+Menos de la mitad usa Twitter (44.8%) y otras aplicaciones para la comunicación por video (43%) (tabla 8).
+TABLA 8
+
+Saber comunicarse en entornos digitales
+Saber comunicarse en entornos digitales
+
+Sí (%)
+
+No (%)
+
+WhatsApp
+
+96.5
+
+3.5
+
+Llamadas telefónicas
+
+94.5
+
+5.5
+
+Mensajero de Facebook
+
+88.9
+
+11.1
+
+Correo electrónico en Gmail, Hotmail, Outlook u otros
+
+85.9
+
+14.1
+
+Facebook para ver las publicaciones de los amigos.
+
+82.0
+
+18.0
+
+Facebook para reaccionar a las publicaciones de mis amigos.
+
+77.5
+
+22.5
+
+Facebook para publicar textos o imágenes
+
+75.9
+
+24.1
+
+Usar navegadores de Internet como Chrome, Mozilla, Explorer/Edge
+o Safari
+
+75.1
+
+24.9
+
+Twitter
+
+44.8
+
+55.2
+
+Skype o FaceTime, Google Duo
+
+43.7
+
+56.3
+
+Fuente: Elaboración propia.
+
+Colaboración
+
+La colaboración o socialización en entornos digitales sucede principalmente
+en grupos de WhatsApp (95.1%) y de Facebook (82.7%). Instagram es una
+red social con un alto grado de valoración (74.5%) a la que se le augura
+crecimiento y un mejor posicionamiento. No es así con otros servicios
+digitales populares como la música en línea a través de Spotify (54.9%);
+el chat con realidad aumentada a través de Snapchat (44.7%); juegos en
+Revista Mexicana de Investigación Educativa
+
+333
+
+Casillas, Ramírez Martinell y Morales Flores
+
+línea (44.7%); servicios en la nube para el intercambio de archivos como
+OneDrive o Google Docs (39%); transmisiones en vivo a través de Facebook Live o YouTube Live (37.2%), la visita a tableros de imágenes como
+Pinterest (29.8%); o los sitios para concertar citas amorosas como Tinder
+(9.4%) (tabla 9).
+TABLA 9
+
+Saber comunicarse en entornos digitales
+Servicios de internet que utiliza
+
+Sí %
+
+Grupos de WhatsApp
+
+95.1
+
+4.9
+
+Grupos de Facebook
+
+82.7
+
+17.3
+
+Instagram
+
+74.5
+
+25.5
+
+Spotify
+
+54.9
+
+45.1
+
+Snapchat
+
+44.7
+
+55.3
+
+Juegos en línea
+
+44.7
+
+55.3
+
+Google Docs o OneDrive
+
+39.0
+
+61.0
+
+Facebook Live o YouTube Live
+
+37.2
+
+62.8
+
+Pinterest
+
+29.8
+
+70.2
+
+9.4
+
+90.6
+
+Tinder
+
+No %
+
+Fuente: Elaboración propia.
+
+Ciudadanía
+
+Los jóvenes bachilleres han interiorizado la educación y el cuidado personal y de su información al usar tecnologías de la información y de la
+comunicación. La enorme mayoría cuida sus datos personales (96.2%) y
+dice tener una contraseña segura (95.1%). Sobre su comportamiento en
+entornos digitales, 8 de cada 10 dicen evitar participar del bullying hacia
+otras personas y saber distinguir las noticias falsas y evitar su difusión.
+Cerca de 7 de cada 10 evitan participar en retos o juegos riesgosos; difundir
+334
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+fotografías comprometedoras de sus compañeros e identificar los mensajes tramposos que buscan robar su información o suplantar su identidad.
+Pocos son los que hacen un uso ciudadano de las redes sociodigitales para
+participar políticamente (tabla 10).
+TABLA 10
+
+Saber ejercer y respetar una ciudadanía digital
+Condiciones relevantes para estar en Internet
+
+Sí %
+
+No %
+
+Cuidar mis datos personales
+
+96.2
+
+3.8
+
+Tener una contraseña segura
+
+95.1
+
+4.9
+
+Evitar participar del bullying hacia otras personas
+
+81.7
+
+18.3
+
+Distinguir noticias falsas y evitar su difusión
+
+79.7
+
+20.3
+
+Evitar participar en retos o juegos que me pongan en riesgo
+
+75.3
+
+24.7
+
+Evitar la difusión de packs de fotos de mis compañeros
+
+72.0
+
+28.0
+
+Identificar los mensajes o llamadas con fines ilegales
+(suplantación de identidad)
+
+71.4
+
+28.6
+
+Respetar los derechos de autor en textos, videos y música
+
+71.1
+
+28.9
+
+Cuidar compartir fotos de desnudos o en situaciones
+inapropiadas
+
+67.7
+
+32.3
+
+Participar en movimientos estudiantiles, ciudadanos o políticos
+a través de Internet
+
+38.9
+
+61.1
+
+Fuente: Elaboración propia.
+
+Literacidad
+
+Entendemos por literacidad digital al conjunto de conocimientos, habilidades y actitudes dirigidas a la bú squeda efectiva de contenido digital y
+a su manejo, mediante la consideració n de palabras clave y metadatos; la
+adopció n de una postura crí tica (consulta en bases de datos especializadas,
+realizació n de bú squedas avanzadas) y las consideraciones para un manejo
+adecuado de la informació n (referencias, difusió n, comunicació n).
+Revista Mexicana de Investigación Educativa
+
+335
+
+Casillas, Ramírez Martinell y Morales Flores
+
+Al concluir el bachillerato los jóvenes saben comportarse con soltura
+en Internet. Más de 80% hacen búsquedas directas con soltura; emplean
+palabras clave y diferencian por su calidad a los sitios en los que buscan
+información. 7 de cada 10 dicen saber identificar información fidedigna,
+confiable, actual y pertinente, así como citar las fuentes. Tienen pocos
+referentes legales; se preocupan poco por el tipo de licencias del software
+de que disponen, usan poco los operadores booleanos y los programas de
+búsqueda académica (tabla 11).
+TABLA 11
+
+Literacidad digital
+Condiciones relevantes para realizar
+búsquedas en Internet
+
+Sí (%)
+
+No (%)
+
+Revisar más allá de los tres primeros resultados
+de una búsqueda
+
+86.3
+
+13.7
+
+Usar palabras clave en buscadores como Google
+
+82.9
+
+17.1
+
+Diferenciar por su calidad y confiabilidad los sitios en los que
+busco información
+
+82.0
+
+18.0
+
+Identificar que la información que he encontrado
+sea fidedigna y confiable
+
+79.6
+
+20.4
+
+Identificar que la información que he encontrado
+sea actual y pertinente
+
+76.6
+
+23.4
+
+Citar las fuentes correctamente
+
+71.1
+
+28.9
+
+Utilizar recursos como comillas, or, and para mejorar los
+resultados de una búsqueda
+
+59.1
+
+40.9
+
+Usar palabras en inglés para tener mejores resultados
+en una búsqueda
+
+54.5
+
+45.5
+
+Que el software que uso sea legal
+
+52.7
+
+47.3
+
+Usar Google académico para búsquedas avanzadas
+
+51.1
+
+48.9
+
+Fuente: Elaboración propia.
+
+336
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+Índice de saberes digitales
+
+Para analizar bajo una mirada agregada los conocimientos tecnológicos
+de los estudiantes de bachillerato, primero hemos asignado a cada integrante de la población de análisis un puntaje de cero a cien dependiendo
+de sus respuestas en este centenar de ítems; para después ubicarlo en un
+segmento.
+El primer grupo está compuesto por los jóvenes con puntajes que van
+de 0 a 39. El segundo está integrado por los estudiantes que obtuvieron,
+entre 49 y 69 puntos; y en el tercer grupo ubicamos a los participantes
+con puntajes que oscilan entre 70 y 100, que pudiera representar a quienes
+más conocimientos tecnológicos poseen. Los resultados son sorprendentes,
+del total de más de 11 mil estudiantes encuestados, el grupo con bajos
+conocimientos representa a 9.1%, el medio, a 30.4% y el grupo con altos
+puntajes a 60.5% de la población.
+En tanto variable sintética, utilizamos el índice de saberes digitales ( isd )
+como el referente de comparación para observar las diferencias de género y
+promedio, por el subsistema, por el tipo y el lugar donde está el plantel del
+que provienen los estudiantes. En virtud de que no encontramos grandes
+variaciones, descartamos las diferencias por edad.
+Una perspectiva agregada sobre los saberes digitales que poseen los
+estudiantes al concluir el bachillerato evidencia con mayor claridad el
+perfil de esta población. Para ello hemos categorizado del 0 al 10 cada uno
+de los saberes y construido una gráfica radial de 10 aristas con orígenes
+concéntricos en la que se muestra el perfil global de saberes digitales de
+esta población. La media en cada uno de estos saberes muestra un perfil
+específico, aunque para el caso global la desviación estándar de cada caso
+es muy grande.
+De esta generación de jóvenes egresados del bachillerato nacidos en 2000
+podemos observar un alto nivel en lo relativo a medios y multimedia con
+7.86; un manejo superior a 7 de comunicación, ciudadanía digital, texto,
+dispositivos y archivos; un índice mayor a 6 en literacidad, software especializado y datos; y un relativo nivel bajo en la colaboración en entornos
+digitales con 5.12 (tabla 12).
+El perfil agregado de isd de los estudiantes de bachillerato es una imagen
+general de la población encuestada, pero es insuficiente para observar sus
+características, pues no son homogéneas. Por lo que para evidenciarlas se
+han creado tres segmentos de la población. El primer grupo comprende
+Revista Mexicana de Investigación Educativa
+
+337
+
+Casillas, Ramírez Martinell y Morales Flores
+
+a mil 52 estudiantes con porcentajes por saberes digitales menores a 39
+puntos; el segundo grupo está compuesto por 3 mil 500, con cifras entre
+40 y 69%; y el tercer segmento agrupa a 6 mil 970 estudiantes con porcentajes mayores a 70.
+TABLA 12
+
+ISD
+
+agregado de los estudiantes de bachillerato nacidos en 2000
+
+Media
+
+Desviación
+estándar
+
+Dispositivos
+
+7.44
+
+3.0006
+
+Archivos
+
+7.4
+
+2.6501
+
+Software especializado
+
+6.56
+
+2.5193
+
+Texto plano y texto
+enriquecido
+
+7.48
+
+2.5803
+
+ISD Agregado
+
+DSP
+7.44
+LIT
+6.96
+
+ARC
+7.40
+
+SWE
+
+CDD
+
+Datos
+
+6.21
+
+2.6867
+
+Medios y multimedia
+
+7.86
+
+2.4124
+
+6.56
+
+7.49
+5.12
+TXT
+
+CLB
+
+Comunicación
+
+7.65
+
+2.4075
+
+Colaboración
+
+5.12
+
+2.4504
+
+Ciudadanía digital
+
+7.49
+
+2.5676
+
+Literacidad
+
+6.96
+
+2.5794
+
+7.48
+6.21
+COM
+7.65
+
+DAT
+7.86
+MM
+
+Fuente: Elaboración propia.
+
+Los estudiantes ubicados en el segmento bajo con puntajes menores a 39
+de los 100 posibles, representan 9% de la muestra. Este grupo tiene bajos
+porcentajes en todos los saberes digitales, aunque en tres se llegan a alcanzar valores medios, sea comunicación con 3.06 y una desviación estándar
+de 2.186; medios y multimedia con 2.71 y desviación estándar de 1.896;
+y ciudadanía digital con 2.74 y 1.993 de desviación estándar, lo que su-
+
+338
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+giere que aun cuando en general los usos tecnológicos de estos mil 52
+estudiantes son bajos, de acuerdo con sus respuestas tienen más desarrolladas cuestiones de seguridad personal y de su información; además de
+valorar el estar comunicados para consumir o crear contenido multimedia
+(tabla 13).
+TABLA 13
+
+ISD
+
+agregado de los estudiantes de bachillerato con saberes digitales bajos
+
+Grupo bajo
+(1 052 estudiantes)
+
+Media
+
+Desviación
+estándar
+
+Dispositivos
+
+2.13
+
+1.729
+
+Archivos
+
+2.07
+
+1.550
+
+Grupo bajo
+
+Software especializado
+
+1.97
+
+1.322
+
+DSP
+
+Texto plano y texto
+enriquecido
+
+2.10
+
+1.402
+
+Datos
+
+2.04
+
+1.477
+
+Medios y multimedia
+
+2.71
+
+1.896
+
+Comunicación
+
+3.06
+
+2.186
+
+Colaboración
+
+2.18
+
+1.449
+
+Ciudadanía digital
+
+2.74
+
+1.993
+
+Literacidad
+
+2.23
+
+1.550
+
+ISD agregado
+
+LIT
+
+ARC
+
+2.13
+2.23
+
+2.07
+SWE
+
+CDD
+
+1.97
+
+2.74
+
+CLB
+
+2.18
+
+2.10
+
+3.06
+COM
+
+TXT
+
+2.04
+2.71
+
+DAT
+
+MM
+
+Fuente: Elaboración propia.
+
+Los 3 mil 500 estudiantes ubicados en el segmento medio obtuvieron
+un promedio que oscila entre 40 y 69 puntos y representan 30% de la
+muestra. Son jóvenes con un mejor desarrollo de sus saberes digitales
+para la comunicación, la manipulación de medios y multimedia y con
+consciencia de ciudadanía digital. De este grupo se puede ver que la
+
+Revista Mexicana de Investigación Educativa
+
+339
+
+Casillas, Ramírez Martinell y Morales Flores
+
+creación y manipulación de texto y texto enriquecido empieza a alcanzar
+a los otros tres saberes que tienen más sentido en el contexto del ocio y
+entretenimiento (tabla 14).
+TABLA 14
+
+ISD
+
+agregado de los estudiantes de bachillerato con saberes digitales medios
+
+Grupo medio
+(3 500 estudiantes)
+
+Media
+
+Desviación
+estándar
+
+Dispositivos
+
+6.06
+
+2.73
+
+Archivos
+
+6.07
+
+2.07
+
+Software especializado
+
+5.22
+
+1.76
+
+Texto plano y texto
+enriquecido
+
+6.21
+
+1.93
+
+Datos
+
+4.89
+
+2.23
+
+Medios y multimedia
+
+6.89
+
+1.79
+
+Comunicación
+
+6.81
+
+1.94
+
+Colaboración
+
+3.78
+
+1.66
+
+ISD AGREGADO
+
+Grupo medio
+DSP
+6.06
+LIT
+5.69
+
+ARC
+6.07
+
+CDD
+
+CLB
+
+Ciudadanía digital
+
+6.57
+
+2.25
+
+Literacidad
+
+5.69
+
+2.01
+
+5.22 SWE
+
+6.57
+
+3.78
+
+TXT
+6.21
+4.89
+
+COM
+6.81
+
+6.89
+
+DAT
+
+MM
+
+Fuente: Elaboración propia.
+
+Los estudiantes ubicados en el segmento alto tienen puntajes mayores
+a 70; y representan un 60.5% de la muestra. Son la gran mayoría y sus
+saberes digitales los habilitan para operar en el entorno digital de manera
+fluida. El saber digital más alto es el relacionado con medios y multimedia,
+con 9.12, lo que habla de una generación que manipula, comparte y crea
+contenido digital. Muy cercanos al 9 se ubican los saberes de administración de dispositivos y de edición y creación de texto plano. La ciudadanía
+digital, que en los grupos bajo y medio se encontraba por arriba de los
+
+340
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+otros saberes para este grupo, aunque es alta, al igual que comunicación
+no ocupa una posición notable (tabla 15).
+TABLA 15
+
+ISD
+
+agregado de los estudiantes de bachillerato con saberes digitales altos
+
+Grupo alto
+(6 970 estudiantes)
+
+Media
+
+Desviación
+estándar
+
+Dispositivos
+
+8.94
+
+1.798
+
+Archivos
+
+8.86
+
+1.333
+
+Software especializado
+
+7.92
+
+1.651
+
+Texto plano y texto
+enriquecido
+
+8.93
+
+1.243
+
+Datos
+
+7.5
+
+1.983
+
+Medios y multimedia
+
+9.12
+
+1.19
+
+Comunicación
+
+8.76
+
+1.482
+
+Colaboración
+
+6.23
+
+2.188
+
+ISD AGREGADO
+
+Grupo alto
+DSP
+8.94
+LIT
+
+ARC
+8.86
+
+8.31
+
+SWE
+7.92
+
+CDD
+8.67
+
+CLB
+
+TXT
+8.93
+
+6.23
+
+9.12
+
+COM
+
+Ciudadanía digital
+
+8.67
+
+1.588
+
+Literacidad
+
+8.31
+
+1.615
+
+8.76
+
+7.5
+
+DAT
+
+MM
+
+Fuente: Elaboración propia.
+
+Saberes digitales de los egresados
+de bachillerato según su sexo
+
+Como puede observarse, tanto mujeres como hombres se comportan más
+o menos igual. Sin embargo, en el grupo de los egresados con isd alto, es
+mayor la participación masculina. Al igual que otros estudios a nivel de
+los estudiantes universitarios, el alto dominio tecnológico sigue teniendo
+un sesgo de género y como aquí observamos, resultado de la socialización
+previa, entre los que egresan se ha ido construyendo una cierta proclividad
+mayor entre los hombres hacia las tic .
+
+Revista Mexicana de Investigación Educativa
+
+341
+
+Casillas, Ramírez Martinell y Morales Flores
+
+En el segmento de isd bajo tanto las frecuencias como las diferencias
+entre sexos son menores. El 18% de la población se encuentra en esta
+situación y su distribución por sexo es prácticamente homogénea. En el
+segmento medio, las mujeres alcanzan 34% mientras que los hombres 26%,
+situación que se invierte en el segmento alto donde el isd de los bachilleres varones es 12 puntos porcentuales mayor al de las mujeres (tabla 16).
+TABLA 16
+
+Saberes digitales de los estudiantes de bachillerato según su sexo
+ISD según el sexo
+
+Bajo
+
+Medio
+
+Alto
+
+Total
+
+Femenino
+
+539
+
+9.1%
+
+2 012
+
+34.2%
+
+3 340
+
+56.7%
+
+5 891
+
+100.0%
+
+Masculino
+
+513
+
+9.1%
+
+1 488
+
+26.4%
+
+3 630
+
+64.5%
+
+5 631
+
+100.0%
+
+Fuente: Elaboración propia.
+
+Saberes digitales de los egresados
+de bachillerato según su promedio
+
+El análisis de las diferencias en cuanto al isd según el promedio con que
+egresaron los jóvenes del bachillerato es indicativo de la relación entre
+disposiciones tecnológicas y el aprovechamiento observado a través del
+promedio del bachillerato. Para este caso hemos dividido a la población
+en tres segmentos, según los promedios que obtuvieron al concluir su
+bachillerato.
+De la segmentación de la población podemos observar que, en efecto,
+los egresados con más bajos promedios tienen el menor puntaje en cuanto
+a los saberes digitales (13.9%), situación que los coloca en una desventaja
+doble puesto que, aun cuando han concluido sus estudios de bachillerato,
+sus bajos promedios son indicadores de un aprovechamiento pobre y sus
+saberes digitales serán en la universidad –si es que ese fuera el camino a
+seguir– una cuenta pendiente que deberán saldar en los primeros semestres.
+Para el caso de los bachilleres con promedios altos existe una proporción
+directa con el valor de su isd que también es alto (62%) lo que les dará
+ventaja en la competencia escolar (tabla 17).
+
+342
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+TABLA 17
+
+Saberes digitales de los estudiantes de bachillerato según su promedio
+ISD según promedio
+
+Bajo
+
+Medio
+
+Alto
+
+Total
+
+Bajo
+
+201
+
+13.9 %
+
+431
+
+29.9%
+
+810
+
+56.2%
+
+1 442
+
+100.0%
+
+Medio
+
+587
+
+9.2%
+
+1 939
+
+30.3%
+
+3871
+
+60.5%
+
+6 397
+
+100.0%
+
+Alto
+
+261
+
+7.1%
+
+1 126
+
+30.8%
+
+2266
+
+62.0%
+
+3 653
+
+100.0%
+
+3
+
+10.0%
+
+4
+
+13.3%
+
+23
+
+76.7%
+
+30
+
+100.0%
+
+No contestó
+
+Fuente: Elaboración propia.
+
+La hipótesis que enunciamos cuando escribimos El capital tecnológico,
+una nueva especie del capital cultural (Casillas, Ramírez y Ortiz, 2014) se
+refrenda en el caso de los egresados del bachillerato: los conocimientos,
+habilidades y disposiciones tecnológicas funcionan en la escuela y diferencian a los estudiantes en su competencia escolar.
+Saberes digitales de los egresados
+de bachillerato según su escuela
+
+Para observar las diferencias que derivan del tipo de escuela, es decir de los
+factores asociados a los contextos escolares y diferencias sociales, hemos
+utilizado el isd para analizar los subsistemas escolares de los que provienen los egresados. En un primer momento se presentan los resultados del
+análisis por tipo de financiamiento (estatal, federal, particular u otro); y
+en un segundo momento se realizó un análisis por tipo de escuela.
+Los estudiantes de bachillerato de Veracruz se concentran principalmente en tres tipos de escuelas. El más numeroso es el estatal, pero es
+significativo el número de estudiantes tanto del federal como del privado.
+Una primera lectura de los datos nos indica que hay egresados de todos
+los subsistemas con todos los valores; sin embargo, hay una diferencia a
+favor de los estudiantes de escuelas privadas y federales. Para el caso del
+segmento con isd bajo, es, como era de esperarse, el sector particular el
+
+Revista Mexicana de Investigación Educativa
+
+343
+
+Casillas, Ramírez Martinell y Morales Flores
+
+que tiene menos estudiantes en esa situación; y de manera consistente, es
+este mismo sector el que tiene un porcentaje mayor de sus estudiantes en
+el segmento de isd alto (69.9%); 7 y 12 puntos porcentuales arriba de
+las escuelas federales y estatales, respectivamente. Siendo estas últimas las
+escuelas con un porcentaje mayor, 9.7%, en el segmento bajo y 32.6% en
+el medio (tabla 18).
+TABLA 18
+
+Saberes digitales de los estudiantes de bachillerato
+según el financiamiento de su escuela
+ISD según
+financiamiento de
+escuela
+
+Bajo
+
+Medio
+
+Alto
+
+Total
+
+Estatal
+
+629
+
+9.7 %
+
+2 109
+
+32.6%
+
+3 732
+
+57.7%
+
+6470
+
+100.0%
+
+Federal
+
+187
+
+8.9%
+
+699
+
+28.4%
+
+1 321
+
+62.7%
+
+2110
+
+100.0%
+
+Particular
+
+103
+
+6.7%
+
+369
+
+23.4%
+
+1 075
+
+69.9%
+
+1538
+
+100.0%
+
+Otros
+
+133
+
+9.5%
+
+431
+
+30.7
+
+840
+
+59.9%
+
+1404
+
+100.0%
+
+Fuente: Elaboración propia.
+
+El espacio escolar es determinante en la experiencia de los estudiantes,
+en su formación y en sus conocimientos. Con los saberes tecnológicos
+sucede como con otros contenidos académicos y con los aspectos prácticos de la formación en el bachillerato, las diferencias entre las escuelas
+determinan muy distintos desempeños escolares. Cuando se habla desde
+el sentido común de los egresados del bachillerato, generalmente hacemos
+abstracción de las enormes diferencias que distinguen la formación en
+las distintas escuelas, aquí se observa lo que resulta en cuestión de sus
+saberes digitales.
+El telebachillerato y el telebachillerato del estado de Veracruz es el tipo
+de escuela que concentra al mayor número de estudiantes con isd bajo
+(17.2%) seguido con 7 puntos porcentuales abajo por el Cobaev (10%);
+344
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+y cbtis (7.7%). Son las escuelas privadas y las de la Dirección General
+de Bachillerato las que concentran el menor número de estudiantes en el
+segmento de isd bajo con 211 y 91 estudiantes que representan 7.4% y
+6.5% de sus poblaciones.
+En el segmento alto son los estudiantes de los bachilleratos particulares los de mayor proporción (70.2%), mientras que los de dgb , cbtis y
+Cobaev concentran alrededor de 60% de sus estudiantes en este segmento.
+Nuevamente es el telebachillerato es la opción educativa en donde el isd
+está menos desarrollado (41.7%) (tabla 19).
+TABLA 19
+
+Saberes digitales de los estudiantes de bachillerato según el tipo de escuela
+ISD según tipo de
+escuela
+
+Bajo
+
+Medio
+
+Alto
+
+Total
+
+DGB
+
+211
+
+7.4%
+
+845
+
+29.7%
+
+1785
+
+62.8%
+
+2841
+
+100.0%
+
+CBTIS o DGETI
+
+190
+
+7.7%
+
+743
+
+30.0%
+
+1540
+
+62.3%
+
+2473
+
+100.0%
+
+Cobaev
+
+147
+
+10.0%
+
+450
+
+30.7%
+
+869
+
+59.3%
+
+1466
+
+100.0%
+
+91
+
+6.5%
+
+326
+
+23.3%
+
+984
+
+70.2%
+
+1401
+
+100.0%
+
+TLB o TLB del estado
+de Veracruz
+
+184
+
+17.2%
+
+440
+
+41.1%
+
+446
+
+41.7%
+
+1070
+
+100.0%
+
+Otras
+
+229
+
+10.08
+
+696
+
+30.65%
+
+1346
+
+69.27%
+
+2271
+
+19.60%
+
+Particulares
+incorporadas a la DGB
+
+Otras: Conalep, CETMAR, CECyTEV, Técnicas, CBTA, bachillerato pedagógico, Acuerdo 286
+Prepa abierta, Consorcio Clavijero, Instituto Veracruzano de Educación para Adultos.
+Fuente: Elaboración propia.
+
+SEP,
+
+Esc. Cooperación,
+
+Conclusiones
+
+Las preguntas de investigación que inicialmente orientaron nuestro trabajo fueron, ¿cuáles son los conocimientos y disposiciones tecnológicas
+que poseen los egresados del bachillerato?, ¿cuál es su perfil tecnológico
+y sus prácticas más usuales?, ¿cuáles son las diferencias por edad, sexo,
+Revista Mexicana de Investigación Educativa
+
+345
+
+Casillas, Ramírez Martinell y Morales Flores
+
+clase, promedio que distinguen los usos tecnológicos de los jóvenes? En
+este artículo damos respuesta puntual a casi todas, pues se abren nuevas
+vetas e interrogantes y los hallazgos descubiertos nos exigen, al menos,
+afinar nuestros instrumentos de investigación. De manera detallada hemos
+documentado cuáles son los usos predominantes de tic en cada uno de
+los saberes digitales.
+Una primera conclusión destaca que estamos sin duda ante una nueva
+generación, que es visual, que usa dispositivos digitales para capturar el
+mundo y para interactuar en el ciberespacio. Los estudiantes nacidos en
+2000 y que han concluido el bachillerato son profundamente diferentes a
+sus antecesores. Destacan por sus habilidades tecnológicas, pero sobre todo
+por participar plenamente de la cultura digital, por convivir naturalmente
+en los entornos virtuales, por interactuar permanentemente a través de
+dispositivos digitales.
+El reconocimiento de esta nueva generación exige ser por partida doble: tanto para el bachillerato, como para la educación superior; pues los
+estudiantes se han transformado y la educación, el currículum en términos
+de contenidos y prácticas, sigue inmutable, se sigue enseñando lo mismo
+y de la misma manera que antes de la aparición de las tic . Si bien hay
+diferencias entre estos jóvenes, la gran mayoría es diestra con las tic y al
+egresar del bachillerato saben incluso más de lo que a veces pretendemos
+enseñar en las asignaturas de computación básica de las universidades.
+Los rasgos de esta generación que hemos develado son representativos de
+los egresados del bachillerato de Veracruz y de alguna manera generalizables
+hacia otras entidades federativas con un grado de desarrollo semejante.
+Hay que considerar que Veracruz está abajo en los índices de desarrollo
+humano y es uno de los estados más pobres del país, por lo que es muy
+probable que un estudio nacional nos dé muestra todavía de un mayor
+dominio tecnológico entre los jóvenes contemporáneos.
+Pareciera intrascendente, pero no lo es. Las universidades ignoran cómo
+están llegando sus estudiantes en términos de sus habilidades digitales y
+eso representa un tremendo error. Si las estrategias educativas, los métodos
+de enseñanza y las didácticas específicas no consideran las características de los chicos, muy pronto sufrirán un enorme desencuentro; si los
+planes y programas de estudio no se actualizan pronto, para aprovechar
+las ventajas cognitivas y la facilidad para acceder al conocimiento que
+favorecen las tic , entonces resultarán obsoletos, aburridos y seguramente
+346
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+intrascendentes en la experiencia escolar de los estudiantes. Los datos
+que presentamos en este artículo dan cuenta de una de las más profundas
+mutaciones que han sufrido las poblaciones estudiantiles de todos los
+tiempos, esto puede ser leído como una oportunidad para favorecer el
+cambio e innovar en la docencia, o bien como una amenaza al confort
+que ofrece la docencia tradicionalista.
+Otra conclusión es que no es una generación homogénea, sino que la
+atraviesan significativas diferencias. En efecto a través del índice de saberes
+digitales, hemos podido observar que hay al menos tres grandes grupos
+según el grado de dominio tecnológico. Esta diferencia no es trivial, pues
+quienes poseen un alto dominio tecnológico tienen ventajas importantes
+para la competencia y el desempeño en las escuelas. Las diferencias en el
+grado de dominio tecnológico posibilitan diferentes experiencias escolares,
+distintos grados de aprovechamiento y de éxito escolar.
+Cuando exploramos la naturaleza de estas diferencias observamos que
+sigue habiendo una ligera ventaja en los valores altos a favor de los hombres
+sobre las mujeres. También hay una relativa correlación entre el promedio obtenido en el bachillerato y el índice de saberes digitales: los valores
+altos coinciden entre los chicos más aplicados y los que tienen mejores
+recursos tecnológicos a su disposición. Las diferencias se asocian con las
+clases sociales a favor de los más ricos: quienes provienen de bachilleratos
+privados tienen mejores valores en el índice. Es notoria la desventaja de
+los estudiantes de telebachilleratos pues son quienes egresan de la educación media superior con menores condiciones tanto para competir por un
+espacio universitario como para sobrevivir en un entorno educativo que
+progresivamente comienza a usar las tic en la formación profesional. Los
+jóvenes con los porcentajes más bajos de saberes digitales están ligados a
+contextos marginados y a subsistemas precarios. Esta información exige
+tomar acciones concretas para reducir las brechas digitales que diferencian
+la historia social de cada estudiante, de tal manera que es indispensable el
+desarrollo de estrategias diferenciadas para favorecer la inclusión digital
+de todos los estudiantes.
+Con los hallazgos aquí manifiestos se abre una nueva agenda de investigación: por un lado, impulsa la innovación en la docencia, para aprovechar
+en los procesos de enseñanza-aprendizaje las cualidades que distinguen a
+los jóvenes estudiantes, para diseñar nuevas estrategias de enseñanza que
+les sean significativas y relevantes; tenemos que avanzar en el conocimiento
+Revista Mexicana de Investigación Educativa
+
+347
+
+Casillas, Ramírez Martinell y Morales Flores
+
+de las maneras específicas en que usan las tic en las prácticas escolares,
+en la evolución de la cultura digital y su expresión en la educación. Por
+otro lado, desde el punto de vista de la equidad, la investigación educativa
+tiene mucho que aportar para favorecer que los sectores tradicionalmente
+excluidos se queden en la periferia de la sociedad de la información y puedan participar plenamente de las oportunidades que derivan de un fuerte
+dominio tecnológico.
+Referencias
+
+Alarcó n, Esmeralda y Ortiz, Verónica (2014). “Estudiantes, profesores y tic . La
+investigación en México”, en Alberto Ramírez-Martinell y Miguel Ángel Casillas,
+Alberto Ramírez y Miguel Casillas (coords.), Háblame de TIC: tecnología digital en la
+educación superior, col. Háblame de tic, Córdoba, Argentina: Brujas.
+Asociación de Internet .mx (2016). 11º Estudio de Hábitos de los Usuarios de Internet en
+México 2015, Ciudad de México: Asociación de Internet .mx. Disponible en: https://
+https://www.asociaciondeinternet.mx/es/estudios
+Bachiller (s/f ). Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Bachiller
+Bourdieu, Pierre (coord.) (1980). Le sens pratique. París: Les Éditions de Minuit.
+Bourdieu, Pierre (coord.) (1982). Leçon sur la leçon. París: Les Éditions de Minuit.
+Brunner, José Joaquín (2003). Educación e internet: ¿la próxima revolución?, Ciudad de
+México: Fondo de Cultura Económica.
+Cabero Almenara, Julio (2005). “Las tic y las universidades: retos, posibilidades y
+preocupaciones”, Revista de la Educación Superior, xxxiv (3), núm. 135, pp.77-100.
+Casillas, Miguel y Ramírez, Alberto (2018). “El habitus digital: una propuesta para su
+observación”, en Roberto Castro y Hugo José Suárez (coords.), Pierre Bourdieu en la
+sociología latinoamericana: el uso de campo y habitus en la investigación Cuernavaca:
+Universidad Nacional Autónoma de México-Centro Regional de Investigaciones
+Multidisciplinarias, pp. 317-342.
+Casillas, Miguel; Ramírez, Alberto y Ortega, Juan (2016). “Afinidad tecnológica de los
+estudiantes universitarios”, Revista Innovación Educativa, vol. 16, núm.70, pp. 151-175.
+Casillas, Miguel; Ramírez, Alberto y Ortiz, Verónica (2014). “El capital tecnológico una
+nueva especie del capital cultural: Una propuesta para su medición”, en Alberto Ramírez
+y Miguel Casillas (coords.), Háblame de TIC: tecnología digital en la educación superior,
+col. Háblame de tic, Córdoba, Argentina: Brujas, pp. 23-38.
+Castells, Manuel (1997). La era de la información. Volumen 1: La sociedad red, Madrid:
+Alianza Editorial.
+Castells, Manuel (2001). La galaxia Internet: reflexiones sobre Internet, empresa y sociedad,
+Barcelona: Plaza & Janés.
+Cobo Romaní, Juan Cristóbal (2009). “El concepto de tecnologías de la información.
+Benchmarking sobre las definiciones de las tic en la sociedad del conocimiento”,
+zer - Revista de Estudios de Comunicación, vol. 14, núm. 27.
+
+348
+
+Consejo Mexicano de Investigación Educativa
+
+Los saberes digitales de los bachilleres del siglo XXI
+
+Diderot, Denis y D’Alember, Jean le Rond (1773). Encyclopédie ou Dictionnaire raisonné
+des sciences, des arts et des métiers, t. ii, París: André François le Breton.
+Giménez, Gilberto (2018). “Representaciones sociales, habitus y esquemas cognitivos.
+Un ensayo de homologación”, en Roberto Castro y Hugo José Suárez (coord.), Pierre
+Bourdieu en la sociología latinoamericana: el uso de campo y habitus en la investigación
+Cuernavaca: Universidad Nacional Autónoma de México-Centro Regional de
+Investigaciones Multidisciplinarias, pp. 405- 440.
+Gobierno del Estado de Veracruz (2017). Programa Estatal de Educación de Veracruz
+2017-2018, Veracruz: Gobierno del Estado de Veracruz. Disponible en: http://
+www.veracruz.gob.mx/finanzas/wp-content/uploads/sites/2/2017/06/PE-EducacionGacetaOficial-160617.pdf
+Hernández Hernández, Diana Laura y Márquez Silva, Fátima Guadalupe (2019). Impacto
+de la infraestructura tecnológica institucional en la apropiación tecnológica de estudiantes
+de bachillerato, tesis de licenciatura, Xalapa-Enríquez: Universidad Veracruzana.
+inee (2015). Condiciones básicas para la enseñanza y el aprendizaje en los planteles de
+educación media superior en México. Resultados generales, Ciudad de México: Instituto
+Nacional para la Evaluación Educación.
+Inegi (2018). México - Encuesta Nacional sobre Disponibilidad y Uso de las tic en los
+Hogares 2018. Aguascalientes: Instituto Nacional de Geografía e Informática. Disponible
+en: http://www3.inegi.org.mx/rnm/index.php/catalog/417
+itesm (s/f ). Guía para el examen de computación, Ciudad de México. Tecnológico
+de Monterrey. Disponible en: http://www.csf.itesm.mx/Profesional/Guia_De_
+Computacion.Pdf
+Kozma, Robert B. (2005). “National Policities that conect ICT-Based Education
+Reform to Economic and Social Developmet”, Human Tecnology, vol. 1, núm. 2,
+pp. 117-156. Disponible en: https://humantechnology.jyu.fi/archive/vol-1/issue-2/
+kozma1_117-156.
+Lévy, Pierre (2007). Cibercultura: informe al Consejo de Europa, Ciudad de México:
+Anthropos Editorial.
+Marquès Graells, Pere (2001). “Sociedad de la información. Nueva cultura”, Revista de
+Comunicación y Pedagogía, núm. 272, pp. 17-19. Disponible en: http://www.centrocp.
+com/category/comunicacion-y-pedagogia/numeros-comunicaciony-y-pedagogia/
+Martínez, Karla Paola (2019). Análisis de experiencias sobre integración curricular de las
+TIC en la Universidad, tesis doctoral, Xalapa-Enríquez: Instituto de Investigaciones en
+Educación-Universidad Veracruzana.
+Ortega Guerrero, Juan Carlos; López González, Rocío; Alarcón Montiel, Esmeralda (coords.)
+(2015). Trayectorias escolares en educación superior. Propuesta metodológica y experiencias
+en México, col. Biblioteca Digital de Investigación Educativa, serie Investigaciones núm.
+11, Xalapa-Enríquez: Universidad Veracruzana- Universidad Veracruzana Instituto de
+Investigaciones en Educación.
+Prensky, Marc (coord.) (2001). “Digital natives, digital inmigrants – Part 1”, On the
+Horizon, vol. 9, issue: 5, pp. 1-6. doi: 10.1108/10748120110424816
+
+Revista Mexicana de Investigación Educativa
+
+349
+
+Casillas, Ramírez Martinell y Morales Flores
+
+Ramírez, Alberto y Casillas, Miguel (2015). “Los saberes digitales de los universitarios”,
+en J. Micheli (coord.), Educación virtual y universidad, un modelo de evolución, Ciudad
+de México: Universidad Autónoma Metropolitana, pp. 77-106.
+Ramírez, Alberto, y Casillas, Miguel, (coords.) (2017). Saberes digitales de los docentes de
+educación básica. Una propuesta para la discusión desde Veracruz”, Xalapa-Enríquez:
+Secretaría de Educación de Veracruz.
+sep (2018). Sistema Educativo de los Estados Unidos Mexicanos, Principales Cifras 2017-2018,
+Ciudad de México: Secretaría de Educación Pública-Dirección General de Planeación,
+Programación y Estadística Educativa. Disponible en: https://www.planeacion.sep.gob.
+mx/Doc/estadistica_e_indicadores/principales_cifras/principales_cifras_2017_2018.pdf
+Strauss, William y Howe, Neil (coord.) (1991). Generations: The History of America’s Future,
+1584 to 2069, Nueva York: William Morrow & Company.
+Strauss, William y Howe, Neil (coord.) (2000). Millennials Rising: The Next Great Generation,
+Nueva York: Vintage.
+Tapscott, Don (coord.) (2009). La era digital. Cómo la generación net está transformando
+al mundo, México: Mcgraw Hill.
+Tedesco, Juan Carlos (2000). Educar en la sociedad del conocimiento, Ciudad de México:
+Fondo de Cultura Económica.
+unam (2020). TICómetro, Ciudad de México: Universidad Nacional Autónoma de MéxicoDirección General de Cómputo y de Tecnologías de Información y Comunicación.
+Disponible en: https://educatic.unam.mx/publicaciones/informes-ticometro.html
+Unesco (1996). La Unesco y la sociedad de la información para todos: documento de
+orientación, París: Unesco. Disponible en: https://unesdoc.unesco.org/ark:/48223/
+pf0000108540_spa
+Zapata-Ros, Miguel (2015). “El diseño instruccional de los mooc y el de los nuevos
+cursos abiertos personalizados”, Revista de Educación a Distancia, núm 45. Disponible
+en: https://revistas.um.es/red/article/view/238661
+
+Artículo recibido: 3de septiembre de 2019
+Dictaminado: 5 de marzo de 2020
+Segunda versión: 27 de marzo de 2020
+Aceptado: 31 de marzo de 2020
+
+350
+
+Consejo Mexicano de Investigación Educativa
+
+
