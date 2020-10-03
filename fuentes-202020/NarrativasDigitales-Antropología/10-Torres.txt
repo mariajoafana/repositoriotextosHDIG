@@ -1,0 +1,669 @@
+148
+Hypermedia as a narrative web
+Possiblities from the Peripehery
+Palabras clave: hipermedia, hipertexto, diseño web,
+diseño digital, narrativa digital.
+Recibido: 6 de febrero de 2007
+Aceptado: 12 de abril de 2007
+Keywords: hypermedia, hypertext, web design, digital
+design, digital narrative.
+Submission date: February 6th 2007
+Acceptance date: April 12th 2007
+Este texto recoge las principales reflexiones alrededor
+de una investigación cuyo objeto principal fue determinar las condiciones para la construcción de narrativas
+web relacionadas con temáticas locales, en forma de
+hipermedia. El análisis se realizó mediante un estudio de caso, consistente en un ejercicio académico de
+creación, que involucró a estudiantes de Sociología de
+la Universidad Nacional y de Diseño Industrial de
+la Universidad Javeriana, dentro del taller de diseño
+digital que coordina adac, unidad de la Facultad de
+Arquitectura y Diseño de la Universidad Javeriana.
+Los resultados de este análisis dan pistas sobre los pasos
+por recorrer y los desafíos por parte de actores como
+la academia, para usar de manera efectiva las tecnologías digitales, como respuesta a su responsabilidad de
+responder a los desafíos de la era digital.
+This paper gathers the main thoughts around an
+investigation, which goal was to determine the conditions for constructing web narratives related with
+local topics shaped like hypermedia. The analysis
+was made throughout a study of case which includes
+an academic exercise of creation involving students of
+Sociology from Nacional University and those students
+of Industrial Design from Universidad Javeriana, taking the Digital Design workshop coordinated by adac,
+an Architecture and Design Faculty unit of Javeriana
+University. The results of this analysis suggests what
+it is lacking for being done and the challenges that
+different actors, such as the academy, have in order to
+use digital technologies in an effective way, as part of
+their responsibility for responding to the challenges
+that the digital era imposes.
+Origen del artículo
+El artículo es una síntesis de los resultados de una investigación que lleva el mismo título, desarrollada entre
+el 2004 y el 2006.
+149
+Carlos Roberto Torres*
+* Carlos Roberto Torres Parra. Colombiano. Diseñador industrial, de la Universidad Jorge Tadeo Lozano. Magíster en Comunicación, de la Pontificia Universidad Javeriana. Director del Proyecto Arquitectura y Diseño Asistidos por Computador
+(adac) y profesor en el área de diseño digital de la Pontificia Universidad Javeriana. Correo electrónico: crtorresmail@
+javeriana.edu.co.
+Este texto recoge las principales reflexiones alrededor de una investigación cuyo objeto principal
+fue determinar las condiciones para las construcciones narrativas web, en forma de hipermedia,
+relacionadas con temáticas locales. Se llegó a este
+análisis mediante un estudio de caso consistente en
+un ejercicio académico de creación, que involucró
+a estudiantes de Sociología de la Universidad
+Nacional y de Diseño Industrial de la Pontificia
+Hipermedia como narrativa web
+Posibilidades desde la periferia
+Carlos Roberto Torres | Signo y Pensamiento 50 · volumen xxvi · enero - junio 2007
+150
+Universidad Javeriana, dentro del taller de diseño
+digital que coordina la unidad Arquitectura y
+Diseño Asistidos por Computador (adac), de la
+Facultad de Arquitectura y Diseño de la Universidad Javeriana.
+Los resultados de este análisis dan pistas sobre
+los pasos por recorrer y los desafíos por parte de
+actores como la academia, para usar de manera
+efectiva las tecnologías digitales en su responsabilidad de responder a los desafíos de la era digital.
+Una de las deudas de la era digital:
+una narrativa web
+La era de la información ya no es una novedad, y
+la letra N con la que inicia la sigla de las nuevas
+tecnologías de la información y la comunicación
+(ntic) tiende a desaparecer. Una vez se empieza a
+esclarecer la revolución digital, esta reflexión analiza críticamente un aspecto que hasta el momento
+se ha escapado del optimismo desbordado de las
+tecnocracias que vaticinaban un cambio radical en
+las formas de comunicarnos, como consecuencia
+de las tecnologías digitales.
+Enfocándonos en Internet, y específicamente
+en la web como clímax de esta era, se evidencia una
+gran deuda que después de una década dominada
+por la estética de las páginas “.com” recién empieza
+a mostrar indicios de un desarrollo contundente:
+la definición de una forma de contar las cosas
+acorde con las capacidades técnicas y narrativas
+del www.
+Estudios socioeconómicos de finales del siglo,
+encabezados por teóricos como Castells (1999, pp.
+27-53), sentenciaron cómo el capitalismo instituido
+después de la Revolución Industrial sufrió cambios
+sustanciales que llevaron a organizaciones de
+índole privado, estatales e incluso militares a una
+nueva dinámica fundamentada en la producción
+de conocimiento. En este nuevo contexto de la
+sociedad de la información, la actividad productiva
+está basada en la producción, procesamiento y
+distribución de datos, lo que genera un impacto
+inusitado en la actividad económica, política y, por
+supuesto, en los medios de comunicación, lugar
+que ha demostrado ser un componente clave en
+la definición de las identidades culturales.
+Sin embargo, más allá del optimismo que
+habita frecuentemente las reflexiones sobre las tecnologías de la información, y sin caer en el extremo
+opuesto de temores apocalípticos, es evidente que
+el discurso de las nuevas tecnologías es un texto
+pensado desde los epicentros industrializados, que
+regularmente desconoce la gran verdad planetaria
+de exclusión y pobreza desproporcionadas. La participación por parte de la periferia de los beneficios
+de las tecnologías digitales no difiere en mucho de
+las injusticias y las desventajas históricas que la han
+acompañado desde siempre, y bajo la figura del 
+Signo y Pensamiento 50 · pp 148-159 · enero - junio 2007 | Hipermedia como narrativa web
+151
+las deudas de la era digital; esta reflexión se enfoca
+en una de ellas: la innovación en las formas de
+narrar.
+De cada uno de los submundos que componen
+esta red, el espacio donde se enfoca esta reflexión
+es la web, pues éste es el lugar donde se puede
+gestar la participación pública del usuario común
+en la red y donde se puede generar una narrativa
+interactiva que renueve los lenguajes instaurados
+en el universo de lo impreso y lo televisivo en pro
+de la participación activa del usuario en una nueva
+dinámica audiovisual: el hipermedia. Un cambio
+que se supone especialmente interesante, si se
+tiene en cuenta que hasta el momento el mercado
+y las industrias del entretenimiento tradicionales
+más que crear participación, principalmente han
+generado consumo.
+Hoy es innegable la difusión de la red en todos
+los espacios de la vida cotidiana, aun en el llamado
+mundo en desarrollo (aunque en menor medida
+comparada con los países industrializados, pero
+con una veloz proyección de crecimiento)1
+. Pero, a
+pesar de su impresionante penetración, la web ha
+funcionado de la misma manera que los medios
+tradicionales, es decir, bajo la base asimétrica de
+la comunicación lineal emisor-receptor, un gran
+desperdicio si se tiene en cuenta que uno de los
+principios fundamentales de la era digital es que,
+en la red, cualquier navegante es también un autor
+de contenidos en potencia.
+Sólo hasta hace muy poco tiempo, la llamada
+web 2.0. (O’Reilly, 2005) vino a cumplir este
+principio democrático en Internet. No obstante,
+con respecto a las formas en que se nos presenta
+la información, es evidente una subutilización de
+recursos disponibles. Llamamos “páginas” a los
+contenidos de la web, con lo que demostramos
+una herencia de lo impreso que, como un lastre
+en la evolución de las narrativas digitales, trata a
+la pantalla como papel. Irónicamente, en plena
+aislamiento, nuestras sociedades pueden resultar
+damnificadas de este nuevo régimen global.
+Por ello, en un plano comunicativo (en un
+movimiento paralelo a las ventajas productivas
+que suponen su implantación), el uso creativo
+que desde nuestras realidades les demos a las tic
+constituyen una opción para marcar una diferencia
+histórica y encontrar un espacio para reconocernos
+y relacionarnos en la diversidad de cotidianidades
+que definen nuestras culturas.
+Una de las suposiciones derivadas de la instauración de las tic, en el plano político y social,
+es la de un avance significativo en las formas de
+participación, por cuanto estas tecnologías permitirían la visibilidad de cada sector de la población
+que deseara hacer pública su voz. Sin embargo, si
+la última década ha sido testigo de una revolución
+sin precedentes, su mayor impacto se ha medido,
+principalmente, desde el punto de vista económico
+y sólo ha favorecido a una fracción del globo, con
+muy pocos signos de progreso en nuestras latitudes: una brecha digital que parece acentuar aún
+más las diferencias Norte-Sur.
+Sin duda, Internet, desde el punto de vista
+mediático, es el paradigma de esta revolución, y
+su comportamiento durante estos primeros años
+ha dejado ver los grandes avances, pero también
+1. Informe de Internet en Colombia (junio de 2003), de la
+Comisión Reguladora de Telecomunicaciones.
+Carlos Roberto Torres | Signo y Pensamiento 50 · volumen xxvi · enero - junio 2007
+152
+cúspide de una supuesta era audiovisual (Machado,
+2000), ninguna tecnología ha hecho tanto por la
+palabra escrita como el computador.
+La estética de la web;
+del hipertexto al hipermedia
+La web, como repositorio vivo capaz de integrar el
+conocimiento humano representado en signos en
+clave de palabras, sonidos e imágenes, se convierte
+en una gran posibilidad de alojar los imaginarios
+de cada cultura y de cada individuo sobre la
+Tierra. Desde el punto de vista mediático, la web
+puede analizarse desde dos perspectivas: por una
+parte, ésta funciona como acervo y vehículo de
+contenidos propios de tecnologías antecesoras2
+,
+que se adaptan a este nuevo entorno como textos
+principalmente, videos y música listos para leerse
+o descargarse, situación que, como sabemos, puso
+en jaque a las industrias del entretenimiento y
+catapultó nuevos negocios de descargas on-line
+o lanzó al estrellato emprendimientos como el
+popular YouTube. Pero, por otro lado, oculta bajo
+la inconmensurable cantidad de “páginas” yace la
+posibilidad de que se consolide un modo único de
+interacción propio de la web, la cual, al explotar
+las capacidades audiovisuales e interactivas de
+las tecnologías digitales, surja como una nueva
+posibilidad para narrarnos.
+La gran mayoría de los contenidos disponibles en la web son diseñados bajo la estrategia
+del hipertexto, donde la manera fundamental de
+expresión es la palabra escrita, que enriquecida
+con hipervínculos establece la posibilidad de que
+el usuario defina su propia ruta a través de diversas
+lexias, lo que le permite construir el significado
+final (Landow, 1995). Sin embargo, hoy son posibles modos de expresión mucho más complejos y
+ricos en posibilidades narrativas, que en gran medida han
+sido subutilizados por diversas
+razones: el texto es el lenguaje
+que el hombre mejor domina
+para consignar su conocimiento,
+las restricciones técnicas y económicas para elaborar documentos escritos son
+mínimas y, además de su universalidad, su rápido
+acceso y la característica de ser interpretable por
+máquinas (Veen, 2001).
+En la perspectiva de esta reflexión, a diferencia de algunos autores, se distinguen los conceptos
+de hipertexto e hipermedia, al considerar a este
+último como la evolución del primero. Simplificando en extremo el hipermedia, se le puede
+definir como multimedia interactiva, una forma de
+expresión donde convergen medios audiovisuales
+de diversos tipos articulados en una interfaz que
+permite la interacción con el usuario. Por supuesto,
+comparados con la hegemonía de las “páginas”
+constituidas principalmente por textos y algunas
+imágenes, son aún escasas las experiencias hipermedia disponibles en la red, generalmente en sitios
+orientados al público joven, el entretenimiento y a
+expresiones artísticas.
+Uno de los principales obstáculos para la
+popularización del hipermedia dentro de la web
+es que, durante muchos años, los dictámenes de la
+usabilidad (Nielsen, 2000, p. 9) y el arquetipo del
+diseño web subvaloraron la imagen y otros medios
+en beneficio del texto, pues, en busca de la agilidad
+con que la información debe llegar al usuario, este
+criterio de diseño ha descartado reiteradamente
+nuevos paradigmas comunicativos que podrían desorientar o hacer más largo el recorrido de un cliente
+potencial a través de un sitio web corporativo.
+2. Nora Paul y Christina Fiebich, profesoras de la Facultad
+de Periodismo y Medios del Instituto de Estudios de
+Nuevos Medios de la Universidad de Minnesota, tienen
+en la red un sitio bastante pertinente al tema de narrativas interactivas; su perspectiva de Internet como un
+medio en gestación es particularmente interesante (Paul
+y Fiebich, 2007) .
+Signo y Pensamiento 50 · pp 148-159 · enero - junio 2007 | Hipermedia como narrativa web
+153
+Para los intereses empresariales que consideran a los usuarios de Internet clientes, una
+propuesta innovadora como el hipermedia puede
+significar un riesgo que desviaría a sus audiencias
+hacia los sitios web de su competencia, pues los
+tiempos de carga claramente tienden a ser mucho
+más largos que los de texto plano. Si el futuro de la
+estética del diseño web dependiera de los principios
+su poder para cautivar e involucrar al usuario en
+una dinámica muy diferente a la de leer un texto
+desplegado en una pantalla. El hipermedia podría
+facilitar el paso de la palabra escrita a la imagen
+en el siglo xxi de la misma forma que la televisión
+lo hizo en el siglo xx; la diferencia, por supuesto,
+recaerá en la interactividad.
+difundidos de usabilidad, no podríamos esperar
+mucho más que el ejemplo que presenta en su sitio
+el gurú de este criterio, Jakob Nielsen3
+.
+El concepto de usabilidad ha sido un elemento
+recurrente y de gran utilidad en la historia del
+diseño, y la web no ha sido la excepción. Entendiéndola como un criterio de trabajo de esta
+disciplina, la usabilidad es una forma de garantizar la funcionalidad de un producto; permite
+que cuando el usuario se enfrente con el objeto
+proyectado no tenga ningún inconveniente para
+conseguir realizar sin problemas las tareas requeridas. Sin embargo, autores como Norman (2002)
+y Nielsen han llevado a tal extremo estas ideas que
+han terminado por limitar el espacio creativo del
+diseño web. Al estandarizar y homogeneizar el
+aspecto y funcionamiento de las publicaciones para
+Internet, la experimentación y exploración por
+parte del usuario no caben en una propuesta que
+siga al pie de la letra las indicaciones de usabilidad,
+pues éstas van en detrimento del tiempo requerido
+para acceder a la información presentada.
+La perspectiva de este análisis es bien diferente,
+apartándose de otro de los principios que reza la
+usabilidad, como titula a uno de sus libros más
+populares “No me hagas pensar” (Krug, 2001),
+la hipermedia puede coexistir con el modelo que
+actualmente impera en la mayor parte de los sitios
+web, retando al usuario e involucrándolo en una
+experiencia exploratoria e incluso lúdica.
+En otra orilla de los avances tecnológicos,
+el videojuego, como una de las manifestaciones
+más populares del hipermedia, ya ha demostrado
+Interactividad y narrativas interactivas
+Para analizar esta característica fundamental del
+hipermedia, Isidro Moreno (2002) presenta una
+descripción bastante útil que clasifica diferentes
+productos disponibles en la web de acuerdo con el
+grado de participación del usuario. En el nivel más
+bajo se encuentra la participación selectiva, donde
+el usuario sólo determina el orden y la duración
+del producto, en otras palabras, estamos hablando
+de navegación, el más sencillo nivel de interacción
+y el más común en Internet.
+En esta escala, los siguientes niveles son los
+de participación transformativa y constructiva:
+además de escoger, el usuario modifica. Así, el
+discurso e incluso el producto mismo se definen
+durante la interacción con el usuario, la riqueza de
+la experiencia de cada individuo frente a la pantalla
+depende del nivel de interactividad del contenido
+que encuentre en la red. En este orden de ideas,
+las propuestas más innovadoras no sólo serán las
+que mejor integren recursos audiovisuales (pues
+esta meta ya la cumplió el cine y la televisión), sino
+las que incluyan al usuario en una real actividad
+participativa.
+Desde el punto de vista narrativo, en el hipertexto y, por ende, en el hipermedia es el usuario
+quien determina el curso de la historia (Garrand,
+1997; Bruckman, 1990), de esta forma la cons3. Véase en http://www.useit.com.
+Carlos Roberto Torres | Signo y Pensamiento 50 · volumen xxvi · enero - junio 2007
+154
+trucción de significado es una tarea conjunta entre
+autor y usuario. En la narrativa lineal, propia de
+medios tradicionales, el relato es soportado por
+los personajes de la historia; por otra parte, en la
+narrativa interactiva esta función recae en el usuario. Otros aspectos como el punto de vista y el ritmo
+de la historia también se desplazan hacia éste.
+Como se ha visto, el desarrollo de un hipermedia va mucho más allá de aspectos técnicos e
+incluso de la integración de recursos audiovisuales; el diseño de contenidos bajo esta estrategia
+expresiva considerará la estructura narrativa
+que abordará el usuario y las formas en las que
+éste construirá su experiencia, por ello, es fundamental determinar cuáles son los criterios, las
+competencias y los perfiles requeridos para un
+emprendimiento de estas características.
+La producción hipermedia
+Un paso más adelante del deslumbramiento que
+suele acompañar a las tecnologías digitales, en este
+escenario el verdadero desafío recae en la creatividad de su uso. El reto es consolidar un nuevo
+lenguaje en la web que, al integrar diversos signos
+de índole textual, gráfico y sonoros, posibiliten la
+interacción participativa del usuario, por ello es
+preciso determinar cuáles serán las tareas necesarias para cumplir este cometido y cuáles serán las
+competencias indicadas para lograrlo.
+En el caso puntual sobre el cual se enfocó el
+ejercicio referido en esta reflexión, el proyecto consistió en llevar los “atributos, ambiente y funcionalidades” (Paul y Fiebich, 2007) del hipermedia
+a la realidad de nuestro entorno inmediato; una
+evidencia de la posibilidad de narrarnos en este
+nuevo entorno independientemente de la versión
+de los medios de comunicación tradicionales.
+Por supuesto, el manejo de estas herramientas
+es una condición para este fin, como también lo son
+el talento y la formación indicados. Tratándose de
+proyectos que involucran muy diversos aspectos,
+varias profesiones, técnicas y humanísticas, están
+llamadas a contribuir, desde sus saberes, a la
+gestión de obras de esta índole, reinterpretando y
+adaptando su quehacer a un nuevo medio.
+Rol del diseño como constructor
+de interfaces, espacios de mediación
+El diseño, como una de las disciplinas llamadas a
+participar en estos procesos, conserva del mundo
+análogo los criterios de satisfacción de necesidades
+a través de los conceptos de función y uso. La
+actividad proyectual en este caso salta del diseño de
+objetos o piezas gráficas a la concepción de interfaces, pues, el papel del productor en el desarrollo
+de un hipermedia es el de generar un ambiente
+propicio para esta interacción, y el vehículo que
+posibilita esta actividad es la interfaz.
+Entendida más que como un elemento gráfico dispuesto en una pantalla como un espacio
+de interacción, la interfaz permitirá las posibles
+interacciones por parte del usuario final convertido
+ahora en un interactor. Por supuesto, ningún diseño
+por bien realizado que esté podrá ser efectivo si no
+se desarrolla en torno a una argumentación sólida,
+por lo que el contendido, como eje conceptual del
+hipermedia, requerirá un cuidadoso trabajo en
+términos de organización y estructuración.
+Siguiendo las pistas sugeridas por Scolari
+(2004), puede demostrarse cómo la forma en que
+se desarrolle la interfaz es la que determinará la
+experiencia del usuario; en este sentido, criterios
+como la coherencia gráfica y de sintaxis de interacción como lógica de acciones a seguir por el 
+Signo y Pensamiento 50 · pp 148-159 · enero - junio 2007 | Hipermedia como narrativa web
+155
+usuario serán fundamentales para conseguir el
+éxito de un hipermedia. En la misma línea del
+autor, los complejos procesos realizados por el
+individuo pueden analizarse desde una óptica
+del concepto de la mediación, que, al llevar a
+este nuevo contexto las teorías fundacionales de
+Martín-Barbero a través de la interactividad,
+tienen un comportamiento radicalmente diferente
+al caso de los medios tradicionales.
+Tal como los estudios de comunicación han
+demostrado, la elaboración del significado por
+parte del receptor tiene lugar en su entorno inmediato. Para el caso de dispositivos que en su funcionamiento son primordialmente lineales, como la
+televisión, la actividad directa de la audiencia con
+el medio se restringe a escasas posibilidades. Así,
+pues, los procesos de elaboración de sentido tienen
+lugar de la pantalla hacia afuera, definidos por el
+círculo social y cultural del individuo.
+En contraste con los medios tradicionales,
+el proceso comunicativo con los nuevos medios
+es diferente; las maneras en que el individuo
+abordará el mensaje se enriquecerán, además de
+la vivencia propia del usuario, su cotidianidad y
+su lugar social, por la interacción con el producto
+mismo. Si la interfaz de un hipermedia se entiende
+como un espacio de interacción, ésta puede abordarse teóricamente como un espacio de mediaciones, más aún si se tiene presente la capacidad sin
+precedentes de estos dispositivos para constituir
+comunidades virtuales.
+Un estudio de caso
+Como se señaló, el objetivo principal del ejercicio
+académico reseñado fue el de articular un uso
+creativo de hipermedia para tratar un tema local,
+y determinar así las prácticas y los roles implicados
+en la producción hipermedia como un vehículo de
+expresión interactiva. Tratándose de un trabajo
+conjunto de estudiantes de diseño industrial y de
+sociología, los primeros asumieron el diseño de
+interacción y presentación y los últimos se hicieron cargo del contenido. A lo largo del ejercicio,
+los estudiantes estructuraron propuestas que, al
+abordar temas como el pandillismo o los consumos
+culturales, usaron el hipermedia como forma de
+expresión que en la academia, regularmente, se
+consigna en escritos.
+La experiencia de observación participativa
+en la producción reseñada evidenció la posibilidad
+de realizar, por medio de un lenguaje hipermedia, un discurso académico que regularmente se
+expresa por medio de la escritura, como lo es el
+caso de las ciencias sociales. Los resultados del
+ejercicio mostraron cómo las temáticas tratadas se
+enriquecen cuando se articulan en una expresión
+que involucra de manera activa al individuo que se
+enfrenta a dicho contenido. Precisamente, la primera evidencia de esta nueva gramática es que la
+función de lectura es reemplazada por una función
+de uso, al abrir el espacio para la interacción con
+una disciplina como el diseño, que, adaptándose
+a un nuevo contexto, permite nuevas maneras en
+que el usuario podrá abordar el producto mientras
+construye su propio significado.
+Mediante el trabajo de los estudiantes, se
+demostraron algunas condiciones que en el campo
+de la producción hicieron posible la realización de
+hipermedias afines con las capacidades
+de las nuevas tecnologías. Un breve
+ejercicio de seis semanas dio luces sobre
+cómo en un terreno fértil, compuesto por
+un recurso humano dotado de talentos
+en las áreas de conceptualización y
+diseño interactivo, y con las herramientas 
+Carlos Roberto Torres | Signo y Pensamiento 50 · volumen xxvi · enero - junio 2007
+156
+indicadas al alcance, es posible cubrir los diferentes
+aspectos de una propuesta de gran calidad, que
+incluyó la estructuración de los contenidos integrados de manera eficiente en una interfaz gráfica que
+no descuida aspectos visuales como la tipografía,
+la fotografía o la ilustración, e, incluso, los recursos
+sonoros. Medios que, combinados sinérgicamente
+bajo la óptica de la interactividad, convergen en
+productos hipermedia capaces de responder al
+desafío que implica para nuestras sociedades el
+acceso creativo a la era de la información.
+De acuerdo con la incipiente teoría de diseño
+de nuevos medios ya revisada, el trabajo de los
+estudiantes afirmó los criterios de consistencia y
+coherencia, la facilidad en la determinación de
+acciones y la certeza por parte del usuario en los
+procesos que ocurren, como fundamentales para
+que los contenidos previstos en la etapa de la producción puedan estar a disposición del usuario.
+En cuanto a la interactividad, es deseable que
+una experiencia en la red apropie las sugerencias
+reseñadas de Moreno, por cuanto en los niveles de
+interactividad posibles en un producto hipermedia,
+las condiciones más completas se dan cuando las
+propiedades de un producto de estas características
+integra una actividad transformativa o constructiva, que llevan la experiencia del usuario a un
+nivel realmente participativo.
+Perspectivas de creación en la web:
+oportunidad y responsabilidad
+de la academia
+En otra dimensión de análisis, y a partir del
+modelo que enmarcó el experimento reseñado,
+se devela un campo de acción urgente para quien
+quiera abrir nuevos horizontes de acción social.
+Una reflexión crítica sobre la llamada sociedad de
+la información deja ver cómo es un lugar común
+la perspectiva optimista basada en un concepto
+de progreso. Si bien las consecuencias de este
+fenómeno pueden ser incluso inconvenientes en
+muchos sentidos para nuestras sociedades, también contienen la posibilidad de tender puentes
+de participación al individuo para que éste, en un
+rol de generador de contenidos, elabore parte de
+los discursos que circulan en la red.
+El tema de la inclusión social en la era de la
+información no se agota en la preocupación por
+el acceso, pues a pesar de que ésta parece ser la
+visión primordial en las agendas políticas cuando
+se aborda el tema del impacto de Internet en la
+sociedad, el verdadero desafío reside en la idea de
+la participación.
+En términos comunicativos, los medios de
+comunicación cargan con una gran responsabilidad en la conformación de una sociedad de
+consumo inviable que ha propagado un estilo
+de vida que menoscaba el medio ambiente, perpetúa la pobreza en la mayor parte del planeta
+y reduce la libertad del individuo a la capacidad
+de compra de que disponga. A pesar de destacables excepciones, en gran medida la televisión,
+paradigma de la comunicación en el siglo xx, ha
+sido artífice de un modelo social basado en el
+consumo injustificado impuesto desde los actores
+que dominan la escena económica y política de
+un mundo globalizado. 
+Signo y Pensamiento 50 · pp 148-159 · enero - junio 2007 | Hipermedia como narrativa web
+157
+en hardware y software, al creer quizá que por
+generación espontánea un computador puesto en
+una escuela de provincia o compras millonarias
+por parte del sector privado, público o educativo,
+serán suficientes para solucionar el problema. Sin
+desconocer que la inclusión en la era de la información supone la compra de determinados recursos,
+el espíritu mismo de Internet y herramientas
+como el software libre hacen pensar que cada
+vez dependeremos menos del factor económico
+y más de nuestra creatividad para afrontar este
+tema. Equivocados están quienes sólo observan
+las cifras que nos hablan del acceso a la tecnología,
+del número de computadores o de la cantidad de
+personas conectadas a Internet; la respuesta está
+en el uso que les demos a estos recursos.
+En una dimensión social, la promesa más
+valiosa que surge de la revolución digital es la de
+la integración, la de la actividad del individuo en
+un universo de conocimiento y relaciones interpersonales a distancia que abrirán la puerta a una
+nueva ciudadanía cimentada en las posibilidades de
+conocer, escuchar y, especialmente, participar. En
+efecto, en este momento las capacidades tecnológicas
+parecen ponerse del lado del individuo, al alcance de
+sus intereses. Si la tecnología, a través de la televisión,
+afianzó una sociedad de consumo, ahora, por medio
+de la publicación de contenidos en la web, se están
+afianzando las bases para una nueva dinámica que,
+en gran medida, podría equilibrar este proceso.
+En este punto es donde la misión de la academia cobra un valor fundamental, pues más allá de
+su labor de formación de profesionales capaces de
+afrontar el mercado laboral, la universidad debe
+ser un lugar propiciador de preguntas y soluciones
+a los problemas que aquejan realidades como
+la nuestra. Como se señaló anteriormente, en el
+marco de la revolución digital que afrontamos, el
+eje de esta reflexión, la hipermedia como narrativa
+web, es un campo que demanda la inmediata participación de nuestros esfuerzos. Una institución
+dotada de los recursos humanos, técnicos y físicos,
+con profesionales y estudiantes comprometidos con
+una compleja realidad de nuestra sociedad puede
+hallar el vehículo para consolidar una estructura
+que ligue las expectativas de inclusión social en la
+era de la información de sectores que claramente se
+hallan desligados de las dinámicas que movilizan
+a este fenómeno.
+No basta con el acceso, es preciso ahondar
+en el concepto del uso y, especialmente, en el de
+la participación; es allí donde reside la posibilidad
+de construir redes, de narrarnos creativamente, de
+reconocernos como individuos y como sociedad.
+Es a través de la participación, y particularmente
+en la generación de contenidos, que el uso de las
+tic significarán una herramienta para concretar
+la inclusión social, una de las fallas más graves de
+nuestra sociedad.
+Es ingenua la postura que supone que la
+problemática de las tic se agota en inversiones 
+Carlos Roberto Torres | Signo y Pensamiento 50 · volumen xxvi · enero - junio 2007
+158
+Referencias
+Becerra, M. (2003), Sociedad de información:
+proyecto, convergencia, divergencia, Buenos
+Aires, Norma.
+Bruckman, A. (1990), The Combinatoricas of Story
+Telling: Mystery Train Interactive, s. l., MIT.
+Burdek, B. E. (1994), Diseño: historia, teoría
+y práctica del diseño industrial, Barcelona,
+Gustavo Gil.
+Castells, M. (1999), La era de la información. La
+sociedad en red, vol. 1, Madrid, Siglo XXI.
+Dery, M. (1998), Velocidad de escape, Madrid,
+Siruela.
+Elliot, J.; Worsley, T. (1996), Multimedia. Guía
+completa, Barcelona, Dorling Kidersley.
+Escobar, A. (1999), El final del salvaje. Naturaleza,
+cultura y política en la antropología contemporánea, Bogotá, Instituto Colombiano de
+Antropología.
+Garrand, T. (1997), “Scripting Narrative for
+interactive multimedia”, en Journal of Film
+and Video, núm. 49.
+Gubern, R. (1996), Del bisonte a la realidad virtual,
+s. l., Anagrama-Argumentos.
+Habich, G. (s. f.), “Decálogo de la imagerie electrónica. Apuntes para una escritura digital” [en
+línea], Universidad de los Andes, disponible
+en http://hipercubo.uniandes.edu.co, recuperado: junio de 2006.
+Kristof, R.; Satran, A. (1998), Diseño interactivo,
+Madrid, Ediciones Anaya Multimedia.
+Krug, S. (2001), No me hagas pensar. Una aproximación a la usabilidad en la web, Madrid,
+Prentice Hall.
+Landow, G. P. (1995), Hipertexto. La convergencia de
+la teoría crítica contemporánea y la tecnología, traducción de Patrick Ducher, Barcelona, Paidós.
+Lévi, P. (1991), L’ideographie dynamique. Vers une
+imatination artifitiel?, París, La Decouverte.
+— (1993), As tecnologías da inteligencia, Sao Pablo,
+Editora 34.
+Machado, A. (2000), El paisaje mediático, Buenos
+Aires, Libros del Rojas.
+Moreno, I. (2002), Musas y nuevas tecnologías. El
+relato hipermedia, Barcelona, Paidós.
+Moreno Muñoz, A. (2000), Diseño ergonómico
+de las aplicaciones hipermedia, Barcelona,
+Paidós.
+Martín-Barbero, J. (1987), De los medios a las
+mediaciones. Comunicación, cultura y hegemonía, México-Barcelona, Gustavo Gili.
+Nielsen, J. (2000), Usabilidad, Madrid, Prentice
+Hall.
+Norman, D. A. (2002), The Design of Everyday
+Things, s. l., Basic Books.
+Norman, D. A.; Draper, S. W. (1986), User centered
+system design, New Jersey, Lawrence Eribaum
+Ass. Hillsdale.
+O’Reilly, T. (2005), “What Is Web 2.0 Design
+Patterns and Business Models for the Next
+Generation of Software” [en línea], disponible
+en: http://www.oreillynet.com/pub/a/oreilly/
+tim/news/2005/09/30/what-is-web-20.html.
+Orozco, G. (1999), “El consumo cultural en América Latina”, en Guillermo Sunkel (coord.),
+Bogotá, Convenio Andrés Bello.
+Paul, N.; Fiebich, C. (2007), “Elements of digital
+storytelling, storymaking, storymaking” [en
+línea], disponible en http://www.inms.umn.
+edu/Elements/index.php.
+Philippe, Q. (1995), Lo virtual, Barcelona, Paidós.
+Piscitelli, A. (2002), Meta-cultura, Buenos Aires,
+La Crujía.
+— (2005), Internet, la imprenta del siglo XXI,
+Barcelona, Gedisa.
+Signo y Pensamiento 50 · pp 148-159 · enero - junio 2007 | Hipermedia como narrativa web
+159
+Scolari, C. (2004), Hacer clic. Hacia una sociosemiótica de las interacciones digitales, Barcelona,
+Gedisa.
+Siegel, D. (1997), Creating Killer Web Sites. The Art
+of Third-Generation Site Design, Indianapolis,
+Holborn Books.
+Thompson, J. B. (1998), Los media y la modernidad: una teoría de los medios de comunicación,
+Barcelona, Paidós.
+Veen, J. (2001), Arte y ciencia del diseño web,
+Madrid, Prentice Hall.
+Wallace, P. (1999), La psicología de Internet, Barcelona, Paidós.
+Hipermedias
+La banda. Pandillismo en Bogotá, disponible
+en http://www.javeriana.edu.co/adac/asignaturas/vertical/hipermedias/la_banda/
+indexanimado.swf.
+Taller vertical de diseño digital, disponible en
+http://www.javeriana.edu.co/adac/asignaturas/vertical/virtuales.htm.
+Tomate-consumo cultural: plaza vs. Supermercado, disponible en http://www.javeriana.edu.
+co/adac/asignaturas/vertical/hipermedias/
+tomate/index1.swf.
