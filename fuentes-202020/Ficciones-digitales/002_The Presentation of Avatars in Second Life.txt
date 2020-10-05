@@ -1,0 +1,1046 @@
+The Presentation of Avatars in Second Life:
+Self and Interaction in Social Virtual Spaces
+Simon Gottschalk
+University of Nevada, Las Vegas
+
+What do interactions in virtual spaces suggest about everyday life in the
+digital age? How do interactions in virtual spaces shape everyday life in
+the digital age? Guided by hypermodern theory, I conduct participant
+observation in the social virtual world Second Life to provide tentative answers to those questions. I suggest that Second Life is both a social psychological playground where participants enjoy individualistic
+fantasies and a virtual community where they collaborate on collective
+projects. When people define the virtual as real, it is real in its consequences. Accordingly, social virtual spaces such as Second Life offer sociologists unique opportunities for research, education, intervention,
+and hence the development of a virtual imagination.
+Keywords: virtual, symbolic interaction, Second Life, computer-mediated
+communication, hypermodern self
+
+WELCOME TO SECOND LIFE
+A place to be, be different, be yourself,
+Free yourself, free your mind,
+Change your mind, change your look,
+Be Anyone.
+—Promotional messages on the Second Life Web site,
+www.SecondLife.com
+“I know we’re meeting as avatars, but don’t forget that there are real people with
+real emotions on the other side of the screen,” writes/says Yael.1 Or rather her avatar, who goes by the name of Becky. A fiftyish Israeli woman who lives in Arizona,
+Yael spends about eight hours a day in Second Life. Dahlia, one of her best friends
+(both in real life and Second Life), once told me she is worried that Yael is getting
+“increasingly confused” between these two lives. But then, Dahlia also told me that
+Second Life has allowed her “self to soar.” Annette—the avatar of a fortyish French
+sociologist—confides that about a year ago, she had to completely exile herself from
+Direct all correspondence to Simon Gottschalk, Department of Sociology, University of Nevada, Las
+Vegas, 4505 Maryland Parkway, Las Vegas, NV 89154-5044; e-mail: karma@unlv.nevada.edu.
+Symbolic Interaction, Vol. 33, Issue 4, pp. 501–525, ISSN 0195-6086, electronic ISSN 1533-8665. © 2010
+by the Society for the Study of Symbolic Interaction. All rights reserved. Please direct all requests for permission to photocopy or reproduce article content through the University of California Press’s Rights and
+Permissions website, at http://www.ucpressjournals.com/reprintinfo.asp. DOI: 10.1525/si.2010.33.4.501.
+
+SI3304_02.indd 501
+
+10/29/10 6:22:59 PM
+
+502
+
+Symbolic Interaction Volume 33, Number 4, 2010
+
+Second Life because of the real emotional pains she endured as a result of a failed
+virtual romantic relationship there. As I soon discovered, this confusion is not unusual. On the other hand, the very concept of confusion is itself perhaps simplistic.
+When I asked a member of the UNLV distance education staff about developing sociology courses in Second Life, she quickly answered, “Second Life? That’s
+just about sex!” I thought this answer was pretty ignorant. It is like telling a friend
+you are going to visit Amsterdam and being immediately suspected of wanting to
+conduct morally questionable transactions in the red light district. Sure, Amsterdam
+is well-known for its red-light district, but it is also world-renowned for countless
+other sites and activities. Zeroing in on the red light district tells me more about that
+person than about Amsterdam. Or Second Life.
+Fortunately, I found a retiring professor on campus who is teaching a course in
+hotel management in Second Life, to students in Hong Kong. She was very clear:
+“Those professors who don’t understand the power of virtual education are dinosaurs who will soon be left behind in the dust of history.” Later that day, I met her
+avatar in Second Life, where she showed me a few tricks, invited me to a virtual pas
+de deux, gave me the landmarks of important educational sites, a few virtual T-shirts,
+and a quick introduction to this strange yet increasingly familiar space.
+What is Second Life and what am I doing here? Second Life is the internet’s most
+popular and largest user-created 3-D virtual world community. Produced by UC San
+Diego graduate Phillip Rosedale in San Francisco’s Linden Labs in 2003, Second Life
+is the virtual home of about 15 million “residents” worldwide who appear to each
+other (and themselves) as avatars in countless different sites. More than two hundred institutions of higher education have a presence in Second Life, including Yale,
+Harvard, Stanford, Princeton, UCLA, USC, NYU, MIT, University of Texas, Vassar,
+Cornell, Notre Dame, Penn State, University of Oregon, and the London School of
+Economics, to name a few. So do the Smithsonian Institution, the Census Bureau, the
+Center for Disease Control, and NASA. So do the Holocaust Museum, the Vietnam
+War Memorial, Woodstock, and many other important sites of collective memory.
+So do multinational corporations such as Nike, Coca-Cola, Manpower, eBay, Nokia,
+L’Oréal, Microsoft, Sun Microsystems, Cisco, Dell, and a host of other Fortune 500
+companies. Media outlets such as CNN, BBC, NBC, Reuters, and others have virtual
+buildings in Second Life. The city of Ontario has a welcoming center here, and Sweden is the first country to have established a virtual embassy on this continent.
+Second Life has classrooms and planetariums, research centers and aquariums,
+libraries and auditoriums, hospitals and museums, ashrams and atriums. At the Duke
+University site, nurses are trained to prepare patients for virtual surgery; at the London Imperial College Virtual Hospital, they learn to diagnose respiratory problems
+in virtual patients. The Psychiatric Evaluation center at the UC Davis site provides
+visitors with simulations of the schizophrenic mind; at the Ohio State University
+site, one can take a virtual guided tour of various body organs. Every Wednesday at
+noon (PST) the site sponsored by Cornell University’s Johnson School of Management features lectures by well-known academics, corporate executives, and journalists. The University of Derby offers virtual courses in psychology, and Harvard holds
+
+SI3304_02.indd 502
+
+10/29/10 6:22:59 PM
+
+The Presentation of Avatars in Second Life
+
+503
+
+law classes there as well. Second Life has been used with individuals suffering from
+autism, cerebral palsy, alcoholism, and (in Portugal) children victimized by abuse.
+John Kerry used Second Life during the 2004 election. Sarah Palin has a site
+there, as do other conservative and progressive groups. During the 2008 election,
+many Second Life sites encouraged residents to vote, and on inauguration night,
+many avatars celebrated the election of Barack Obama, who has recently invested
+3 billion Lindens to explore green projects there.2 Dick Cheney, on the other hand,
+has just canceled his recently opened account. The most discussed Second Life political site is probably Going Gitmo—a site that reproduces the experience of being
+a Guantánamo Bay prisoner, from arrest to seclusion and torture.
+Second Life also features countless virtual malls where one can purchase absolutely everything. The first quartile of 2009 reported $125 million transacted in Second Life—a great chunk of it in virtual real estate. And yes, there are dozens of sites
+devoted to sexual encounters of every possible persuasion—from moonlit tropical
+beaches inviting avatars to simulate the missionary position to dark dungeons devoted to orgies, BDSM, and bestiality.
+Second Life fits Book’s (2004:2) definition of a “social virtual world.” As she explains, such worlds have six characteristics.
+1. Shared Space: the world allows many users to participate at once.
+2.	Graphical User Interface: the world depicts space visually, ranging in style
+from 2-D “cartoon” imagery to more immersive 3-D environments.
+3.	Immediacy: interaction takes place in real time.
+4.	Interactivity: the world allows users to alter, develop, build, or submit customized content.
+5.	Persistence: the world’s existence continues regardless of whether individual users are logged in.
+7.	Socialization/Community: the world allows and encourages the formation
+of in-world social groups like guilds, clubs, cliques, housemates, neighborhoods, and so forth.
+The graphical user interface distinguishes social virtual worlds from text-based
+ones, such as chat rooms, as it enables “residents” of this world to see it, the people
+who participate in it, and themselves (or rather their avatars), in real time and from
+every possible angle. They no longer have to write/read about the virtual world and
+its participants or imagine them (see also Boellstorff 2008). This visual capability is
+significant, as it enhances the emotional, mental, and physical experience of actually
+being there. With the recent introduction of a “talk” function, Second Life residents
+can now also hear and talk to each other using their own voices.3
+Interactivity and community distinguish social virtual worlds from game-oriented
+ones.4 Since residents can alter, develop, build, or submit customized content, the
+control they have over this world is almost complete. As Book (2004:5) notes,
+Although much work has been done in the fields of media studies and cultural
+studies proving that media audiences are not quite as passive as one might assume, virtual worlds one-up all other forms of interactive media by allowing participants to take complete control of cultural forms of production.
+
+SI3304_02.indd 503
+
+10/29/10 6:22:59 PM
+
+504
+
+Symbolic Interaction Volume 33, Number 4, 2010
+
+With this capability, residents become creators of this world (and themselves in it)
+rather than its subjects (see also Lévy 1997:154). As a result, their investments in it
+are much more significant than in virtual worlds where the landscapes, the residents’
+range of possible activities, and their appearance are programmed and cannot be
+significantly altered (Vicdan and Ulusoy 2008).
+Since social virtual worlds encourage socializing and community building, residents come here mainly to explore this constantly growing environment and themselves in it, to educate themselves in a mind-boggling diversity of areas, to work, to
+acquire and create virtual objects, to interact with others, and to build communities,
+groups, and enduring associations with them. In contrast to virtual worlds designed
+around games, there is no “mission” to accomplish, no tower to storm, no dragon
+to slay, no enemy to kill, no winning or losing. Just creativity and interaction. Second Life is thus constantly changing as residents’ creativity, imagination, skills, relations, and projects are evolving. Every day witnesses an exponential increase in the
+number of residents, sites, groups, activities, and communities—from Grateful Dead
+fans to gay activists, from Palestinian supporters to Parisian artists, from teachers to
+transsexuals, from philosophers to “furries.”5
+As the most social of all virtual spaces and the most virtual of all social spaces, Second Life is a fascinating environment for conducting sociological research and assessing
+the stability of our key concepts. And although conducting research in such spaces still
+raises eyebrows among social scientists, it seems evident that developing knowledge
+about these environments is essential to any understanding of the present moment
+and the rapidly approaching future. In their extensive literature review of qualitative
+research on the internet, Garcia et al. (2009:54) advance this point eloquently:
+While some argue that the “virtual” world is a different “social space” than the
+“real world” . . . we argue that there is one social world which contains both traditional and technologically advanced modes of communication and sites of social
+activity. . . . To continue to effectively explore some of the main and enduring
+problems of ethnographic research, ethnographers must incorporate the internet
+into their research to adequately understand social life in contemporary society.
+
+While a growing number of symbolic interactionists examine the self, interaction,
+and many other interesting topics online, they typically study them in text-based
+sites. Yet the unique characteristics of social virtual spaces I discussed above raise
+new questions about interaction, self-presentation, and self-construction in virtual
+spaces. Among those, I am chiefly interested in the following: (1) What are the unique
+characteristics of interaction in social virtual spaces? (2) What do interactions in social virtual spaces suggest about the self and everyday life in the digital age? (3) How
+do interactions in social virtual spaces shape the self and everyday life in the digital
+age? These questions are far from trivial. It is projected that by 2011, 80 percent of
+all internet users will spend time in social virtual worlds, and that by 2018, Second
+Life will have 1 billion residents (Daniel 2008). As a modest attempt to answer those
+questions, I have conducted participant observation and in-depth interviews in a
+wide variety of Second Life sites between October 2008 and July 2009.
+
+SI3304_02.indd 504
+
+10/29/10 6:22:59 PM
+
+The Presentation of Avatars in Second Life
+
+505
+
+THE VIRTUAL IMPULSE
+Virtual worlds are simulations. Like a map, they usually start out
+as reproducing actual worlds, real bodies and situations; but,
+like simulations . . . they end up taking a life of their own.
+—Rob Shields, The Virtual
+While Second Life is new, the virtual impulse—the desire for the virtual—is quite
+ancient (see Boellstorff 2008, Ikegami and Hunt 2008, and Shields 2003). From the
+Lascaux cave paintings to virtual reality, it seems that humans have always sought
+to articulate, (re)create, and manipulate the “real” through a variety of media. Since
+culture always shapes its expressions and content, the virtual also constitutes a text
+where participants express their concerns, fears, myths, hopes, and desires. In her
+work on “portable communities,” Mary Chayko (2008) defines virtual worlds as
+“cognitive entities” and “sociomental spaces.”6 For Book (2004), they are important
+sites of cultural creativity and (re)production. As liminal spaces, they can be therapeutic and transforming, offering “the opportunity to meet neglected ego needs”
+and to explore aspects of the self that we hesitate to acknowledge in real life (see
+Book 2004, Boellstorff 2008, and Daniel 2008).
+It is this virtual self that serves as my point of entry into Second Life. How do we
+construct it, how does it affect us, and what happens to the boundary between “it” and
+“us”? As contemporary research on computer-mediated communication suggests
+(Fortunati 2002), it no longer makes sense to distinguish between “online” and “offline” realms. We inevitably manifest our offline self when we interact online, and our
+online interactions inevitably follow and transform us when we are offline. As Cunningham (2006:16) puts it, “After virtual reality, ‘reality’ is not the same, but has been
+altered by the bleeding of both ‘worlds’ into each other, by their mutual inseparability.” Since virtual worlds are always embedded in and articulate the social-historical
+context in which they emerge (and vice versa), I turn to a discussion of this context.
+
+THE HYPERMODERN MOMENT:
+TURBOCONSUMPTION AND THE GRANDIOSE SELF
+“Hyper” is an idiom that designates the excessive, the reaching
+beyond a norm or a framework. It is located in the field of
+signification of superlatives, with a connotation of constant
+overreaching, of maximum, of extreme conditions.
+—Jean Rheaume, “L’hyperactivité au travail:
+Entre narcissisme et identité”
+In the society of hyperconsumption, everybody feels
+entitled to the best and the most beautiful.
+—Gilles Lipovetsky, Le bonheur paradoxal: Essai sur la
+société d’hyperconsommation
+
+SI3304_02.indd 505
+
+10/29/10 6:23:00 PM
+
+506
+
+Symbolic Interaction Volume 33, Number 4, 2010
+
+Over the last decade or so, prominent French social scientists such as Gilles
+Lipovetsky,7 Nicole Aubert,8 Francois Ascher,9 and others have increasingly used the
+prefix hyper to describe contemporary social trends. And while these scholars use this
+prefix in slightly different ways, they agree about its core aspects. Aubert, for example,
+distinguishes hypermodernity from postmodernity by emphasizing the experience of
+intensity, instantaneity, urgency, instant gratification, and excess. As she explains,
+By replacing it [postmodernity] by the term hypermodernity, we emphasize the
+fact that contemporary society has changed. . . . The essential mode of hypermodernity is excess, the overabundance of the event in the contemporary world. It is
+this overabundance, rather than the collapse of the idea of progress, that is . . . at
+the origin of the difficulty to think the present. (Aubert 2005a:14–15)10
+
+The macro-sociological forces that produce and shape the hypermodern moment are
+numerous and dynamic, and interact in complex, accelerating, and unpredictable ways.
+Unraveling them is well beyond the scope of this article, which is more interested in
+understanding the articulations of this moment at the micro level. In Le bonheur
+paradoxal: Essai sur la société d’hyperconsommation (2006), Lipovetsky explains the
+hypermodern self in terms of the new consumption patterns that characterize the
+present moment. Dividing the history of modern consumption in three interrelated
+phases, he suggests that in the third and contemporary one, the logic of consumption
+(“hyperconsumption”) has completely colonized every other social sphere:
+Little by little, the consumerist spirit has managed to infiltrate even family relations and religion, politics and unions, culture and leisure time. Everything unfolds as if, from now on, consumption operates as an empire that never sleeps and
+whose boundaries are limitless. (Lipovetsky 2006:12)
+
+In addition, the very motivations fanning hyperconsumption are different from
+earlier periods. As he suggests (p. 36), hyperconsumption has become experiential
+and emotional, and individuals do not purchase commodities to distinguish themselves from others but to live better, to enjoy fully life’s pleasures, and to feel good
+about themselves:
+We do not buy commodities because they enable us to show off and establish our
+social status, but because they gratify us emotionally, physically, sensually, and
+because they entertain us. We expect the commodities we buy to enable us to be
+more independent, more mobile, to have new sensuous experiences, to improve
+our quality of life, to keep us young and healthy. . . . Consumption for oneself has
+replaced consumption for the other. (Pp. 38–39)
+
+In Lipovetsky’s model, hyperconsumption has become “hyperindividualistic” (p.
+95), and many of the very commodities produced during this phase (iPods, personal
+computers, cell phones, PDAs, etc.) reinforce the sovereignty of self-absorbed consumers, enabling them to gratify instantly their desires and to structure their own
+individualized time, space, and favorite leisure activities. Moreover, as television,
+radio, the internet, and other enterprises increasingly operate on a 24/7/365 schedule, consumption also becomes “turboconsumption,” and the pampered, impatient
+turboconsumer expects to have “what I want, when I want it, and where I want it”
+
+SI3304_02.indd 506
+
+10/29/10 6:23:00 PM
+
+The Presentation of Avatars in Second Life
+
+507
+
+(p. 102; see also Gottschalk 2009). In the hypermodern moment, therefore, the expectation of instant gratification is fueled by the impulse of a bulimic constant gratification as well.
+As the consumerist logic is rapidly eliminating all alternatives and is increasingly
+colonizing every life sphere, as the modes of production and consumption are being constantly revolutionized and globalized in a collapsing natural environment,
+hypermodern individuals’ general orientations are themselves being transformed in
+profound if still unclear ways. Aubert (2005:14–16), for example, remarks that
+this fundamentally individualistic personality develops in a society characterized
+by instant gratification and the explosion of all limits. It is a society where the notion of sense is often reduced to the instant and present moment, a society which
+seems unable to provide its members any other common referent than shared
+risk. . . . In this context, where one’s allegiance is only to oneself rather than to
+a cause, individuals—who self-identify first and foremost as consumers—must
+struggle to maintain their social existence. We are witnessing the emergence of
+new types of pathologies, a permanent hyper-competitiveness, and a completely
+new relation to time.
+
+There are other problems as well. While modernity enforced the self as an individual project, and while the postmodern turn denounced the ideological underpinnings of the very notion of a self, the hypermodern condition intensifies paradoxical
+requirements. As De Gaulejac (2005:132) suggests:
+Individuals are not only expected to be free, responsible, and creative, they must
+simultaneously affirm an irreducible singularity. . . . They must be similar yet different, affiliated yet unaffiliated, common and uncommon, ordinary and extraordinary. . . . We define ourselves less by our similarities to others than through
+exception, as if to be like everybody else was to be hopelessly anybody. . . . One
+must thus escape the ordinary, reach beyond oneself, escape common categories,
+and project oneself in the conquest of the grandiose self.11
+
+That such narcissistic projects unravel the fabric of society should be evident. As
+Castel (2005:120) notes:
+Hypermodern individuals believe they are hyper-independent to the point of
+feeling free from all responsibility and free from having to account for their
+choices and behaviors. . . . There is a sort of inflation of individualism and subjectivity which is difficult to reconcile with social life, and with adhering to collective
+systems of regulation which are essential to life in any society.
+
+On a first level, therefore, Second Life seems to concretize these analyses of hyperconsumption and turboconsumers. Since the number and types of virtual commodities one can create, acquire, and enjoy are infinite, Second Life is indeed the
+turboconsumer’s paradise par excellence. Here one can adorn one’s avatar/self with
+perfect physical features, clothes, and objects, and spend time in one’s vision of a
+perfect dwelling located in a perfect landscape where one can even control the time
+of day in which it appears. As there are no limits to one’s ability to concretize (if
+virtually) one’s fantasies, Second Life is also a gigantic social psychological playground where young, educated, and economically comfortable residents can gratify
+
+SI3304_02.indd 507
+
+10/29/10 6:23:00 PM
+
+508
+
+Symbolic Interaction Volume 33, Number 4, 2010
+
+their psychological and relational fantasies in a controlled and risk-free environment
+that requires little commitment, sincerity, or depth. Here they can be the stars of
+every encounter in which they participate and reinvent themselves every time they
+log on. They can (re)present the most idealized version of the self they dare imagine and—more interestingly perhaps—explore those aspects of the self they have
+always repressed.12 Deploying their technological ability to create and submit content, and exercising total control over (virtual) time and space, they can now indeed
+“be” extraordinary, omnipotent, ideal, and grandiose. It is therefore a seductive and
+quite realistic “sociomental space” (Chayko 2008) where residents can enjoy socially,
+psychologically, and even physically pleasurable encounters and experiences—those
+very narcissistic desires that characterize the turboconsumer. As Vicdan and Ulusoy
+(2008:17) put it, “Through the blurring of distinctions between fantasy and the real . . .
+the hyperreal consumers become experiential subjects in the network society.”
+On a second level, however, and not unlike real life, the satisfaction of these narcissistic desires necessitates interactions with others, and—contrary to all expectations—research findings suggest that virtual spaces such as Second Life promote
+hyperpersonal and authentic relations, commitment, loyalty, intimacy, solidarity, altruistic impulses, and a sense of community (see Boellstorff 2008, Carter 2005, and
+Chayko 2008). Communities organized around a wide variety of concerns are constantly emerging; residents help each other out, collect money to support various
+causes, and teach each other how to “live” in this world. For example, a few minutes
+after entering Second Life for the first time, a female avatar gave me a variety of
+accessories, a virtual joint, clothes, and landmarks to “freebies” malls. Soon thereafter, other complete strangers—who probably took pity on my newbie appearance
+and my visible ignorance on the most basic aspects of Second Life—showered me
+with clothes and gifts.13 While such generosity is routine here, it does not mean that
+Second Life is a utopia. As I soon learned, avatars also get kidnapped, raped, tortured, enslaved, insulted, ridiculed, ignored, ostracized, emotionally exploited, banished from particular sites, or imprisoned in other ones whose design can be frankly
+psychotic.14 Still, it opens up a “potential space” enabling new forms of interaction,
+self-reflection, collective projects, and social bonds.
+
+AVATARS R US
+Avatars are thus one of the central points at which users intersect
+with technological objects and embody themselves, making
+the virtual environment and the variety of phenomena
+it fosters real. Avatars make virtual worlds real, not actual:
+they are a position from which the self encounters the virtual.
+—Tom Boellstorff, Coming of Age in Second Life:
+An Anthropologist Explores the Virtually Human
+Interviewer: “How old are you?”
+Bunny: “How old do you want me to be?”
+
+SI3304_02.indd 508
+
+10/29/10 6:23:00 PM
+
+The Presentation of Avatars in Second Life
+
+509
+
+Avatars have a mind of their own, and they grow in unexpected
+ways. . . . You are kidding yourself if you think you will be able
+to control or even predict what will happen to your avatar.
+—T. L. Taylor, “Life in Virtual Worlds: Multimodalities,
+Plural Existence, and Other Online Research Challenges”
+“Who do we think we are when we are online, and who do we want to be there?”
+(Jones 1997:18). To establish our existence in Second Life, we must first create an
+avatar—a graphic representation of oneself. When logging onto Second Life for the
+first time, new residents must choose between twelve “default avatars” (six women
+and six men). These default avatars look rather flat and two-dimensional, and are
+poorly dressed by Second Life standards. Newbies are typically recognizable by
+these underdeveloped features, and more veteran residents have learned that they
+can buy, acquire, or build sophisticated and realistic-looking “skins,”15 hair, body
+parts, body shapes, a cornucopia of body decorations, and any virtual object they can
+imagine—from a ring to a private tropical island (see Figs. 1 and 2).
+
+Figure 1: Newbie Avatar.
+The clothes are usually dreary and dull, the hair looks like patches of straw pasted on the head. It has poor
+graphic resolution and looks flat, and the facial features are ill-defined and unattractive in contrast with the looks
+of more veteran residents (see Fig. 2). Interestingly, however, the more time one spends in Second Life, the more
+the eyes and mind adjust to those cartoonish features, which can “look” realistic. Source: http://npirl.blogspot.
+com/2008/10/openlifes-steve-sima-has-message-for.html
+
+SI3304_02.indd 509
+
+10/29/10 6:23:02 PM
+
+510
+
+Symbolic Interaction Volume 33, Number 4, 2010
+
+Figure 2: The avatars voted Most Beautiful in 2009.
+Most avatars who have spent some time in Second Life achieve looks similar to those. Source: http://www.
+geeksugar.com/13-Most-Beautiful-Avatars-Second-Life-176164
+
+SI3304_02.indd 510
+
+10/29/10 6:23:03 PM
+
+The Presentation of Avatars in Second Life
+
+511
+
+Since the face, body shape, body parts, decorations, and the objects residents wear
+and display are all (virtual) “sign-vehicles” we use to construct our Second Life self,
+residents can spend agonizing days and many Lindens sculpting an avatar/self they
+are satisfied with, regardless of whether it “looks like” their actual physical self. In
+Second Life, therefore, our digital-physical appearance is no longer determined by
+genetic baggage or shaped by habit, age, and other natural biological processes. On
+the contrary, since we can continuously customize every inch or pixel of our avatar,
+we are now fully responsible for the virtual self we present others. In contrast to
+Goffman’s (1959:29) observations, we no longer possess “a limited range of signequipment” and must no longer “make unhappy choices” when (re)presenting ourselves to others. Unsurprisingly, although one can represent oneself in an infinity of
+ways, most avatars look like their “real” self—only more attractive, more athletic,
+and typically better endowed (see Fig. 3).16
+
+Figure 3: Self/Avatar.
+With skills, residents can produce avatars who bear an uncanny resemblance to their physical selves. According to
+research, most residents construct avatars who are idealized versions of themselves. This ability to craft with equal
+ease an avatar who does or does not resemble the physical self has interesting but yet unexplored consequences.
+Source: http://mpop99.com/mypopspace/pages/blog_images/secondlife_main_485.jpg
+
+SI3304_02.indd 511
+
+10/29/10 6:23:03 PM
+
+512
+
+Symbolic Interaction Volume 33, Number 4, 2010
+
+Whether the avatar looks like the person who constructs it has interesting—if
+unclear—implications. As Book notes (2004:8),
+In social world communities there exists a general expectation that avatars
+should remain at least somewhat faithful to their owners’ offline appearances because of the fact that many people are there specifically to initiate friendships or
+even romantic relationships which may at some point extend to the offline world.
+Because of this expectation, there is a constant tension . . . between the desire
+to meet standards of attractiveness versus accuracy in portraying offline bodies.
+While everyone recognizes that avatars are likely to be highly idealized, someone
+who creates an avatar that is a significant variation from his or her offline body
+(particularly gender) runs the risk of being perceived by others as a “fake” or
+worse, as someone who is deliberately trying to deceive their friends. . . . This
+does not mean that performances of radically different identities don’t happen
+in social worlds. They do. The difference is that there is greater risk of confusion
+and misunderstanding between those who use avatars as vehicles of role play and
+those who presume the avatars are extensions of real offline selves.
+
+On the other hand, because we can represent ourselves in any way we wish, the
+factuality of those sociodemographic sign-vehicles we display becomes much less
+important than the perceived consistency between the sign-vehicles we portray and
+our behaviors. In other words, whether the person behind the young blonde Californian Hippie avatar is “really” young, blonde, Californian, or Hippie matters less than
+how she performs the persona she claims to be (see especially Dumitrica and Gaden
+2009). Paradoxically, however, avatars often change their front and quickly assemble
+sign-vehicles consistent with the persona they wish to portray, the settings in which
+they find themselves, and those they meet there, in full view of others. In real life,
+being caught in the backstage of such transformations could lead to embarrassment;
+here, however, momentary inconsistencies between setting, appearance, and manner
+are expected and accepted. The potential emotions of shame, embarrassment, “humiliation and sometimes permanent loss of reputation” (Goffman 1959:59) typically
+suffered in real life do not have the same inhibitory force. Hence one quickly gets
+used to the fleeting presence of contradictory codes in the ever-changing fronts of
+many avatars. An overly muscular and aggressive-looking male avatar turns out to
+be surprisingly shy and gentle, and an oversexed female avatar dressed in a skimpy
+outfit turns out to be a devoted and modest Muslim. One interesting paradox, therefore, is that while the visual aspects of avatars give them a more compelling degree
+of “realness” than the typed self-descriptions of chat room participants (“seeing is
+believing”), residents also share a consensus that we should not believe what we see
+but pay attention to the alignment between what avatars look/act like and what/how
+they write.
+In this respect, residents’ willingness to reveal the “real” self behind the avatar
+varies widely. While some residents share a great deal of information with me about
+who they are in real life, often e-mailing photographs, giving me their e-mail addresses, and directing me to (real) Web sites where I can learn more about them,
+others are quite adamant about their desire to segregate their real-life self from
+
+SI3304_02.indd 512
+
+10/29/10 6:23:04 PM
+
+The Presentation of Avatars in Second Life
+
+513
+
+their Second Life avatar. As Lynn, a French clerk, told me, “I come here to escape
+from real life, to construct something different. I do not want to discuss it.”17 Most
+others, it seems, are trying to negotiate the intersections between their real self and
+their avatar. Dahlia told me that she was once looking for a dress she wanted to
+wear at a party when she suddenly realized that the dress in question belonged to
+her avatar’s wardrobe. Marla is wondering whether she should feel guilty about the
+virtual sexual relations she is enjoying in Second Life (she is married). Yael tells me
+she often implements—in her real-life relations—advice from avatars she met in
+Second Life, and Vivian had to postpone her plans to launch her (real-life) musician
+career because her collaboration with another (“soul mate”) Second Life musician
+had reached a dead end.
+To elaborate on the famous Thomas theorem, when people define the virtual as
+real, it becomes real in its consequences, and the reciprocal effects between the self
+and the avatar extend to more central aspects of one’s life as well. As Boellstorff
+(2008:148) indicates:
+Even residents who were simply shy or withdrawn in the actual world often
+found that the anonymity and control of a virtual world . . . allowed them to be
+“more outgoing,” a trait that could then transfer back to the actual world. One
+resident noted how “experimenting with appearance or behavior in Second Life
+potentially opens up new ways of thinking of things in real life.”
+
+In my research, the most interesting case of such blurring must surely be Karen,
+who had been stuck in an abusive relationship for years and “felt like a prisoner.”
+She went to Second Life and created an avatar (Nina) as a means of escape until one
+day, as she put it, “Nina took over.” Encouraged by the validating encounters and relations Nina/Karen was experiencing in Second Life, Karen decided to model herself
+after Nina, assuming she would then enjoy the same pleasurable experiences in her
+real life. She left her abusive relationship and is “a million times happier now.”
+As Boellstorff (2008:149) aptly remarks, avatars are “not just placeholders for
+selfhood, but sites of self-making in their own right,” and as those stories suggest,
+this self-making activity informs our “real life.” As Cunningham (2006:16) asks:
+Can walking differently, say, as a different gender, effect the movements that my
+physical body makes in real space? . . . The ability to translate norms and embodied cultural capital from “virtual reality” to “reality” may be the next measure of cultural capital itself, an underlying variable of inequality. How well one
+translates, for example, is related to speed and flexibility, two important variables
+for postmodern society according to Paul Virilio. The embodied affective link
+between the visual and the pathic illustrates, I feel, that this is possible.
+
+To push this logic to a mesolevel, since relations in Second Life tend to be democratic, informal, and equalitarian, could spending an increasing amount of time here
+result in finding the undemocratic, formal, and hierarchical relations that characterize everyday life in most institutions increasingly intolerable? If we can import a
+newly found outgoingness from Second Life into real life, can similar transitions obtain for more “serious” types of everyday relations? And with what consequences?
+
+SI3304_02.indd 513
+
+10/29/10 6:23:04 PM
+
+514
+
+Symbolic Interaction Volume 33, Number 4, 2010
+
+THE SELF-AVATAR PARADOX
+Knowing that the individual is likely to present himself in a light that
+is favorable to him, the others may divide what they witness into two
+parts; a part that is relatively easy for the individual to manipulate at
+will, being chiefly his verbal assertions, and a part in regard to which
+he seems to have little concern or control, being chiefly derived
+from the expressions he gives off. The others may then use what are
+considered to be the ungovernable aspects of his expressive behavior
+as a check upon the validity of what is conveyed by the governable
+aspects. Perhaps the focus of dramaturgical discipline is to be found
+in the management of one’s face and voice.
+—Erving Goffman, The Presentation of Self in Everyday Life
+Interviewer: Do you find that Dahlia-the-avatar communicates pretty
+much like the person behind Dahlia?
+Dahlia: “Dahlia is Dahlia. There is no difference between the two.”
+The second tool that residents use to construct a virtual self and (to quote De
+Gaulejac) to establish “a significant distinction” is through their typed communication style. Thus, if we can modify at will those aspects of one’s appearance Goffman
+identified as permanent (looks, race, gender), those which he identified as dynamic
+(manner) are reduced almost solely to one’s written communication style—a style
+that we cannot easily change,18 especially because the pace of Second Life conversations is typically quick.19 Interestingly, therefore, those aspects of the “front” we use
+to present our self and assess the selves others present to us have a different weight
+and importance than Goffman suggested in his analysis of face-to-face interaction.
+While we can customize every pixel of our avatar’s appearance, we cannot invent
+communication skills we do not actually possess.
+The avatar paradox is that while we can create multiple avatars that look different
+from each other and nothing like ourselves, they essentially always communicate in
+the same way. Our way. In Second Life as in everyday life, we are what/how we communicate, but since the main medium of communication here is the written word,
+participation in Second Life may very well “force the self out.” In other words, (1)
+the reduction of many media of communication to just the written one, (2) the disinhibition, hyperpersonal relations, and anonymity characteristic of virtual spaces, and
+(3) the dynamics of synchronous written conversations all combine to encourage the
+expression of a self that might be much less rehearsed and performed than in real life.
+As one of Chayko’s (2008) respondents remarked, “We may even be more ourselves
+when we are not entangled in face-to-face dynamics and pressures.” Many of my
+respondents echo this sentiment and believe that their self becomes paradoxically
+perhaps most perceptible and “true” when they interact as Second Life avatars.
+
+THE LOOKING-GLASS AVATAR
+It is possible that interacting through an avatar might stimulate
+the “observing ego”—the ability to look at oneself objectively and
+
+SI3304_02.indd 514
+
+10/29/10 6:23:04 PM
+
+The Presentation of Avatars in Second Life
+
+515
+
+rationally. (Daniel, 2008) Second Life is a lab where we can work on
+our problems, a useful learning process for the self. The point is to
+try to use what we’ve learnt here and apply it in the world out there.
+—Marla, interview
+Cooley’s concept of the “looking-glass self” nicely synthesizes the idea that the others
+we interact with reflect us. When we interact with others, we are not solely attending to
+the particular topic of the interaction but are also assessing how those others respond
+to us. We accomplish this by attempting to look at ourselves from their viewpoints and
+using their language, paralanguage, facial gestures, kinesics, proxemics, sounds, touching, and other actions as signs. As Goffman and scholars associated with the Palo Alto
+school also emphasized, we communicate and perceive such signs both consciously
+and unconsciously, and we are typically more likely to believe those aspects of others’
+behaviors that they do not seem to control (the impressions they give off).
+On a first level, assessing how others perceive me/my avatar in Second Life is much
+trickier than in real life, since avatars do not yet possess the full range of facial expressions and kinetic abilities that we take for granted in everyday life.20 Of course,
+one can acquire or build “scripts” that will activate the avatar’s body and face
+(and every avatar has a few of those “default” ones; see Fig. 4). Yet the activation of
+those scripts requires pressing different keys, which can take time, and the creation
+of new scripts takes skills, which many avatars do not possess. As a result, unless
+they click on “pose balls” that activate the avatars in various and context-specific
+repetitive movements,21 most avatars’ gestures remain relatively constant, except
+
+Figure 4: Default Gestures Scripts.
+Residents can build or purchase “scripts”—or gestures, some of which are arrestingly realistic, creative, and graceful.
+Many Second Life sites also contain “pose balls.” Clicking on those animates the avatar in specific and repetitive
+motions. Source: Simon Gottschalk’s snapshot of the Second Life “gestures” menu on his interface
+
+SI3304_02.indd 515
+
+10/29/10 6:23:05 PM
+
+516
+
+Symbolic Interaction Volume 33, Number 4, 2010
+
+for a few repetitive facial expressions (blinking eyes) and body movements (leaning
+forward, crossing one’s arms and legs, breathing, shifting body weight from one leg
+to another, etc.).
+While this massive reduction in the number of media through which we typically
+communicate sharply diminishes our ability to self-reflect from the other’s points of
+view, the visual aspect of social virtual worlds allows for more self-reflection than in
+text-based sites. Here we are no longer just “a product of linguistic manipulation”
+(Zhao 2005:402) but can self-reflect and represent ourselves and our actions to others visually.
+In addition, since I can actually look at my avatar from the perspective of the
+person I am interacting with (or any perspective, for that matter; see Fig. 5 and Fig. 6),
+
+Figure 5: The looking-glass avatar.
+Simon Gottschalk’s avatar viewed from his informant’s perspective. Thanks to the 360 degree viewing abilities of
+Second Life, one can virtually observe oneself from every point of view, including the point of view of the avatar
+one is interacting with. Snapshot taken by Simon Gottschalk.
+
+SI3304_02.indd 516
+
+10/29/10 6:23:06 PM
+
+The Presentation of Avatars in Second Life
+
+517
+
+Figure 6: Defining the virtual situation.
+Simon Gottschalk conducting an interview with Hannah in a public space. Unfortunately, the printed page cannot
+reproduce the body and facial movements of both avatars, or the dynamic aspects (including other avatars) and
+the soundtrack of the landscape in which they conduct this interview. Those are essential parts of the interview
+situation in Second Life. Snapshot taken by Simon Gottschalk, with Hannah’s permission.
+
+I can quickly adjust my appearance and proxemics to better attune to or define
+the virtual “situation.” For example, to better frame an encounter as an interview,
+I would invite respondents to “sit down” and would position my avatar so that we
+were facing each other or looking in the same direction.
+On a second level, the ability to look at and experience one’s avatar/self from an
+external perspective introduces a new and subtler dimension in the experience of
+self-reflection in social virtual spaces. Mead’s notion of the “I-Me” dialogue entails
+the idea of “mental rehearsals” of various lines of action in response to others’ reactions or anticipated reactions to us. Second Life provides the unique opportunity to
+actually enact those various lines of action and to immediately, visually, and viscerally
+assess their impact. It provides the now literal (if still virtual) “third party” viewpoint
+from where I can watch myself/avatar try out different lines of action and see/hear/
+read how others respond to those (see Pena et al. 2009:2). By literally watching others respond to me/my avatar, I now have immediate (if still limited) feedback for
+my self-presentation and communication patterns. Since those others are—just like
+me— “real people,” and since the consequences for initiating the “wrong” lines of
+action are minimal, it is not difficult to appreciate how this self-reflecting ability
+might expand the self’s repertoire. As research reports, this expanded repertoire
+does not vanish once we exit Second Life and reenter real life. It continues to inform
+us offline and online in a (hopefully) self-corrective process.
+
+SI3304_02.indd 517
+
+10/29/10 6:23:06 PM
+
+518
+
+Symbolic Interaction Volume 33, Number 4, 2010
+
+In Second Life, therefore, not only can one educate oneself about a wide variety
+of topics, gain new computer skills, explore this expanding virtual continent, meet a
+constantly changing population, and conduct research, one can also learn about oneself, try out different scripts, and expand one’s repertoire of interactional (and hence
+self) possibilities with others. Because the rules of interaction in Second Life follow
+different dynamics than in real life, individuals can also experience and explore the
+self/avatar in unusual and relatively unscripted encounters. Much can be learned about
+oneself in such interactional conditions.22
+
+PEDAGOGICAL AND RESEARCH OPPORTUNITIES
+In cyberspace . . . each of us is a potential transmitter and
+receiver in a space that is qualitatively differentiated, nonstatic,
+constructed by its participants, and explorable. Here we no
+longer encounter people exclusively by their name, geographical
+location, or social rank, but in the context of centers of interest,
+within a shared landscape of meaning and knowledge.
+—Pierre Lévy, Collective Intelligence: Mankind’s Emerging
+World in Cyberspace
+I went to a club, everyone was very friendly, talk was flowing, and
+suddenly an avatar appeared. A female, a very very heavy avatar,
+overweight. All talk stopped. We are so used to seeing varying
+degrees of perfection here that anyone who doesn’t fit that mold is
+immediately noticed. Another time, a girl came into a club on crutches
+and one leg. Total silence. Everyone became very uncomfortable.
+—Dahlia, interview
+Social virtual spaces offer limitless pedagogical possibilities, many of which are currently being developed by both academic and corporate worlds. Energized by social interaction, they are strategic spaces for teaching and practicing social science.
+Since people learn better by actively participating than by watching or listening, we
+can design virtual situations where students will actually experience our concepts,
+models, and theories. For example, we can lecture at length on racism or sexism,
+but we can also invite students to create avatars who are different from themselves
+in terms of gender, age, race, or any other demographic variable, and experience
+everyday (virtual) interactions from these different positions. We can lecture about
+the labeling process people who deviate are subjected to, but we can also invite students/avatars to participate in experiments revolving around virtual deviance and
+understand the labeling process very personally and without risks. We can lecture
+about the formation of social movements, but we can also encourage students to
+organize those in virtual spaces. We can lecture about the processes of group formation, but we can also invite students to self-consciously generate and participate
+in them.
+
+SI3304_02.indd 518
+
+10/29/10 6:23:07 PM
+
+The Presentation of Avatars in Second Life
+
+519
+
+Social science research in Second Life is similarly promising. For example, scholars in a wide variety of disciplines have explored the construction of virtual space
+(McIntosh 2008), the reproduction of heteronormativity (Brookey and Cannon
+2009), civic engagement (Gordon and Koo 2008), group norms (Stromer-Galley
+and Martey 2009), the public sphere (Ikegami and Hut 2008), identity (Messinger
+et al. 2008), gender (Dumitrica and Gaden 2009), stigmatization (Boonstrom 2008),
+the relations between online and offline behaviors (Yee, Bailenson, and Duchenaut
+2009), the consumerist logic (Vicdan and Ulusoy 2008), and changing body image
+(Becerra and Stutts 2008). Roush, Nie, and Wheeler (2009) have explored visual
+methodologies here, and Boellstorff (2008) has created focus groups as well as conducted extensive ethnography in Second Life.
+In light of its international scope, 24/7 access, the participation of millions of people speaking a wide variety of languages, its constant expansion, and the relatively
+spontaneous interactions it enables, social virtual spaces such as Second Life represent the exciting new frontier of virtual qualitative research. This frontier presents us
+with both opportunities and challenges. Let us start with the opportunities.
+First, since Second Life is open and free to anyone who has an e-mail account,
+practically everyone can access it and conduct participant observation in its countless zones, communities, and areas where people meet, interact, and negotiate the
+(virtual) reality they are creating and want to inhabit. Interestingly, however, while
+access to Second Life is free, entry to its various communities and subcultures poses
+the same challenges as does real-life participant observation. In other words, we
+must still be accepted by the members of these virtual communities, establish rapport
+with them, and gain their trust. However, the social psychological dynamics characterizing this space and the kinds of interaction that unfold here might accelerate these
+necessary processes. Second, the population of informants is potentially infinite, as
+the number of Second Life residents is constantly growing and changing. In this
+respect, we might also be better able to conduct longitudinal qualitative research in
+Second Life and trace avatars’ trajectories—from virtual “birth” on. Third, because
+people in so many different countries and time zones log onto Second Life, we can
+conduct interviews from anywhere, with people living anywhere, and at any time.
+The same obtains for conducting observation. We can teleport to the “field” effortlessly from anywhere and whenever, and can experience it at different times of the
+day, the week, and the year. Fourth, while in real life, finding a setting conducive to
+interviews might be difficult, the size and diversity of Second Life guarantees that
+such a setting will always be available. Better yet, one can always collaborate with
+informants on building virtual settings for conducting interviews, focus groups, and
+other research activities. Fifth, since access to Second Life is so easy, we can perform multiple interviews with the same informants over extended periods of time.
+Similarly, we can also conduct repeated interviews with groups whose members no
+longer need to be physically co-present. Sixth, when conducting an interview by typing questions and answers, the entire conversation is automatically saved on our
+computers, enabling us to return to these conversations, analyze them, and use our
+
+SI3304_02.indd 519
+
+10/29/10 6:23:07 PM
+
+520
+
+Symbolic Interaction Volume 33, Number 4, 2010
+
+interpretations to guide our next interviews. When conducting a subsequent interview with the same informants, we can easily present them with a verbatim passage
+that we find ambiguous or want to develop with them. Seventh, as a researcher, I can
+easily represent myself as an old chubby Asian businessman as I can a young white
+female CEO, an athletic middle-aged African American male professor, a tattooed
+Israeli female punk rocker, or anybody I choose. In addition, not only can I choose
+to modify my avatar’s physical appearance at will, but I can also easily create multiple avatars (“alts”), each with his or her own demographic and physical characteristics, each developing a different network of informants in different communities.
+Hence we must both be self-reflexive about how we represent ourselves in virtual
+spaces and keep in mind that we can choose to represent ourselves in ways that will
+facilitate access, entrée, and rapport (see also Lyman and Wakeford 1999; Taylor
+1999).23 Eighth, Second Life residents can acquire scripts that animate their avatars
+(facial gestures, kinesics, touching, proxemics), thereby enhancing the realism of copresence (Antonijevic 2008). As Garcia et al. (2009:65) note in this respect, “While
+previous generations of online ethnography have been biased toward textual data,
+the next generation will also have to engage with sound and movement.” Ninth, relationships in cyberspace quickly become “hyperpersonal,” meaning that individuals
+need little encouragement to quickly reveal sometimes exceedingly personal and
+intimate information about themselves. Hence Second Life is especially conducive
+to in-depth interviews. As Garcia et al. (2009:68) note:
+Because of the anonymity of Computer Mediated Communication, respondents
+may be less concerned about the impressions they are making (Riva 2002). Thus,
+online interview responses may be more candid than those obtained from offline
+interviews.
+
+Considering the issue of power in qualitative research, it is also noteworthy that “the
+anonymity factor in online interviews may balance power between interviewer and
+interviewee; interviewees may feel freer to challenge researchers than they would
+in a face-to-face interview” (Catterall and Maclaran 2002 in Garcia et al. 2009:68).
+Tenth, since we can create and activate several avatars, we can also develop (virtual)
+field experiments where we can observe how onlookers react to particular scenarios
+our avatars enact.
+The main challenge of Second Life research revolves around the resident’s “true”
+identity. Yet, while I can never be certain that the resident I am interacting with is
+really whom she or he claims to be in terms of gender, race, residence, age, and so
+forth, perhaps those issues matter less in Second Life than in real life. In other words,
+I am less interested in whether the individuals behind an avatar are “really” who
+they claim to be than in how they enact their identity, what their motivations are for
+participating in Second Life, what they typically do there, what they discover about
+themselves, and how they negotiate the boundaries between real life and Second
+Life. Since there seems to be a tacit agreement to suspend disbelief here, researchers
+should take this fact into consideration and focus on other aspects of the “self” that
+residents do find important. Like in face-to-face qualitative research, the quality of
+
+SI3304_02.indd 520
+
+10/29/10 6:23:07 PM
+
+The Presentation of Avatars in Second Life
+
+521
+
+our ethnographic experience and findings ultimately depends on the empathic rapport we establish with our informants. Hence, if residents do not care about social
+categories such as gender, age, race, and class, maybe we should not either.
+There are clearly many unanswered questions and problems about conducting
+qualitative research in social virtual spaces. As Green (1999:418) suggests, these
+spaces pose new methodological and analytic challenges to social researchers, and
+our “responses are critical not only for how we conduct research in social virtual spaces but also for how these spaces develop.” Since the offline and the online
+worlds are increasingly intertwined, we should uphold the principle of “contextual
+naturalness” (Kazmer and Xie 2008:259), and use those methods that are most attuned to the particular space where we meet our informants.
+
+CONCLUSIONS: THE SOCIO-VIRTUAL IMAGINATION
+The role of information technology and digital communications
+is . . . to promote the construction of intelligent communities in
+which our social and cognitive potential can be mutually developed
+and enhanced. Based on this approach, the major architectural
+project of the twenty-first century will be to imagine, build,
+and enhance an interactive and ever changing cyberspace. . . .
+The project for a knowledge space will lead to a re-creation
+of the social bond based on reciprocal apprenticeship,
+shared skills, imagination, and collective intelligence.
+—Pierre Lévy, Collective Intelligence:
+Mankind’s Emerging World in Cyberspace
+People can feel so close to one another, so strongly bonded
+in portable communities because proximity and presence
+are perceived by us in ways that transcend the physical.
+—Mary Chayko, Portable Communities:
+The Social Dynamics of Online and Mobile Communication
+Social virtual worlds are just emerging, and judging by the substantial financial investments by universities, hospitals, historical societies, research centers, multinational corporations, political parties, and media outlets, they contain the promise for
+unimaginable future possibilities. In contrast to other historical and anthropological
+examples of liminal space, which are/were typically separated from everyday life,
+social virtual worlds such as Second Life are fully embedded in it. They emerge at a
+historical moment when we are already spending an increasing amount of our time
+online (e-mailing, Web surfing, blogging, twittering, etc.), interacting with disembodied others, and establishing our presence and existence electronically. Accordingly, it
+is not solely the existence of social virtual worlds per se that is interesting, but also
+their relation to the already virtualized “real” everyday life in the digital age.
+Social virtual worlds provide a free “potential space” where real individuals—qua
+avatars—can and do attempt to create an alternative reality. Here they simultane-
+
+SI3304_02.indd 521
+
+10/29/10 6:23:07 PM
+
+522
+
+Symbolic Interaction Volume 33, Number 4, 2010
+
+ously concretize their individualistic fantasies and educate, console, and help each
+other; fall in love; bare their souls; organize for political causes; share information;
+develop communities; and enact aspects of their selves they did not know exist, were
+too embarrassed to admit, or always wanted to master. The disembodied self of
+e-mails, blogs, Web sites and chat rooms is reembodied as an avatar, who visually
+interacts with others, is influenced by them, and self-reflects from their perspectives.
+With their visual and acoustic capacities, promotion of creativity, and emphasis on
+spontaneous interactivity, social virtual worlds such as Second Life heighten the realism of our participation and the intensity of the emotions we experience there.
+As a result, the constantly evolving avatar influences the “real” self, who now also
+orients toward virtual, yet all-too-real others.
+By replacing the rigid cultural-structural codes of identity-construction by flexible
+and recombinant digital ones, we construct and present selves in Second Life that
+are free to expand, explore, and innovate, and are invited to meet others in radically
+different ways. That this avatar typically looks like an idealized version of the self
+should not be interpreted as proof of deception or fakery. After all, we “naturally”
+present an idealized version of our self in face-to-face interactions. This tendency expresses common psychological impulses, which are—as I have shown—increasingly
+stimulated by hypermodern cultural norms. Ultimately, avatars are porous graphic
+shells through which curious minds interact in a boundless space where everything is
+virtually possible. As this space evolves and avatars mature, these narcissistic needs
+will eventually subside.
+Social virtual worlds are certainly not utopian. Capitalism is still the “commonsense” principle organizing its economy, and there are residents who still reproduce
+all the regressive “isms.” But if social virtual worlds are visibly colonized by
+capitalist greed, violent libidinal impulses, religious intolerance, and narcissistic
+pride, they are also energized by communitarian longings, altruistic élans, progressive projects, educational efforts, spiritual yearnings, and interactional desires.
+Psychological playground for narcissist turboconsumers or “cradle of collective
+intelligence”? Probably both. What seems crucial, however, is that social scientists
+have never had this kind of access to such an important technology—a technology
+that invites people to meet, interact, and create alternative forms of association.24
+As sociomental spaces that an increasing number of people will regularly frequent,
+social virtual worlds such as Second Life are therefore strategic sites that sociologists should not only investigate but also self-consciously shape in the very process
+of researching and participating in them. They are promising new are(n)as where
+we can nurture and promote a sociological imagination for the digital age.
+
+NOTES
+1. I have given all avatars and informants a pseudonym to protect their privacy and uphold confidentiality.
+2. The Linden is the Second Life currency. Although its rate varies, Linden$250 = US$1.
+
+SI3304_02.indd 522
+
+10/29/10 6:23:08 PM
+
+The Presentation of Avatars in Second Life
+
+523
+
+3. As Boellstorff (2008) explains, however, the introduction of this talk function continues to be
+controversial, and many residents choose not to use it. Part of the reason is that it introduces
+too much of “real” life into Second Life.
+4. Note that there are sites devoted to games in Second Life.
+5. Furries are avatars that are hybrids of animals, humans, and machines.
+6. Social virtual worlds like Second Life require that we add the key adjective “visual” in front of
+these terms.
+7. Le bonheur paradoxal: Essai sur la société d’hyperconsommation (2006), Hypermodern Times
+(2005), “La pub sort ses griffes” (1987), and L’ ère du vide: Essais sur l’individualisme contemporain (1983).
+8. L’individu hypermoderne (2005a), “L’intensité de soi” (2005b), and “Un individu paradoxal”
+(2005c).
+9. La société hypermoderne (2005b), and Le mangeur hypermoderne (2005a).
+10. There is an interesting parallel between (at the individual level) the social psychological imperative to establish a significant distinction and (at the economic level) the marketing imperative of hyperdifferentiation between commodities.
+11. All translations of French texts are the author’s.
+12. The two are, of course, interrelated. Second Life can also be approached as a vast electronic
+canvas on which residents project their unconscious. As Daniel (2008) suggests, it is attracting
+the attention of a number of psychologists who recognize its therapeutic potential.
+13. “Newbies” or “Noobs” is the term used to designate new Second Life residents. One can quickly
+assess the length of time an avatar/person has been in Second Life by clicking on it and reading
+its “profile,” which tells its “date of birth.” On the other hand, since individuals can create many
+different avatars, the birthdate does not provide valid information as to how long the person
+behind the avatar(s) has actually been in Second Life.
+14. A sociological research project called “Normwatch” invites residents to report and document
+instances of deviant behavior in Second Life.
+15. “Skins” refer to facial features and skin color and quality.
+16. See especially Messinger et al. 2008, “On the Relationship between My Avatar and Myself.”
+17. Interestingly also, the “greater risk of confusion” Book mentions is enhanced by the ability of
+one person to represent himself or herself by many avatars who may look very different from
+each other and from the person creating them. To add to the confusion, different people may
+decide to activate the same avatar in the same or different Second Life sessions.
+18. It is interesting that the Unabomber’s identity was discovered by his brother, who noticed key
+sentences and expressions in the anonymous manifesto the Unabomber sent to the New York
+Times and the Washington Post.
+19. One’s communication style also entails skills such as speed, ability to patiently wait and “listen”
+to others when they write, to quickly and correctly interpret what they write, and to respond
+quickly, efficiently, and appropriately. The “quickly” is important. Because of time lag between
+a message I send and the other’s written response, exchanges with avatars who are slow to
+synthesize, compose, and effectively communicate their thoughts and emotions can be quite
+frustrating, especially compared to everyday face-to-face conversations.
+20. Proxemics, on the other hand, can easily be activated and provide a wealth of information
+about the nature of an avatar’s interactions and relationships. Interestingly also, respondents
+can secretly whisper to each other.
+21. Those include dancing, eating/drinking, smoking, riding various vehicles, and all the imaginable
+motions associated with sex.
+22. Corporations such as Future Works utilize Second Life to train employees in multicultural
+communication.
+23. Of course, the decision to represent oneself as a different person entails thorny ethical consideration (see Boehlefeld 1996 and Waskul and Douglass 1995).
+24. Compare social scientists’ access to Second Life with their access to radio, television, movies,
+and other examples of popular culture outlets.
+
+SI3304_02.indd 523
+
+10/29/10 6:23:08 PM
+
+524
+
+Symbolic Interaction Volume 33, Number 4, 2010
+
+REFERENCES
+Antonijevic, Smiljana. 2008. “From Text to Gesture Online: A Microethnographic Analysis of Nonverbal Communication in the Second Life Virtual Environment.” Information, Communication, and Society 11(2):221–38.
+Ascher, Francois. 2005a. Le mangeur hypermoderne: Une figure de l’individu eclectique. Paris: OdileJacob.
+———. 2005b. La société hypermoderne. Paris: Broché.
+Aubert, Nicole, ed. 2005a. L’individu hypermoderne. Paris: Erès.
+———. 2005b. “L’intensité de soi.” Pp. 73–87 in L’individu hypermoderne, edited by N. Aubert.
+Paris: Erès.
+———. 2005c. “Un individu paradoxal.” Pp. 13–24 in L’individu hypermoderne, edited by N. Aubert.
+Paris: Erès.
+Becerra, Enrique P. and Mary Ann Stutts. 2008. “Ugly Duckling by Day, Super Model by Night: The
+Influence of Body Image on the Use of Virtual Worlds.” Journal of Virtual Worlds Research
+1(2). Retrieved from jvwresearch.org.
+Boehlefeld, Sharon P. 1996. “Doing the Right Thing: Ethical Cyberspace Research.” Information
+Society 12(14):141–52.
+Boellstorff, Tom. 2008. Coming of Age in Second Life: An Anthropologist Explores the Virtually
+Human. Princeton, NJ: Princeton University Press.
+Book, Betsy. 2004. “Moving Beyond the Game: Social Virtual Worlds.” Cultures of Play panel, State
+of Play 2 conference, October. Retrieved May 16, 2009, from http://www.virtualworldsreview.
+com/info/contact.shtml.
+Boonstrom, Robert. 2008. “The Social Construction of Virtual Reality and the Stigmatized Identity
+of the Newbie.” Journal of Virtual Worlds Research 1(2). Retrieved from jvwresearch.org.
+Brookey, Robert Allan and Kristopher L. Cannon. 2009. “Sex Lives in Second Life.”Critical Studies
+in Media Communication 26(2):145–64.
+Carter, Denise. 2005. “Living in Virtual Communities: An Ethnography of Human Relationships in
+Cyberspace.” Information, Communication, and Society 8(2):148–67.
+Castel, Robert. 2005. “La face cachée de l’individu hypermoderne: L’individu par défaut.” Pp. 119–
+28 in L’individu hypermoderne, edited by N. Aubert. Paris: Erès.
+Catterall, M. and Pauline Maclaran. 2002. “Researching Consumers in Virtual Worlds: A Cyberspace Odyssey.”Journal of Consumer Behavior 1(3):228–38.
+Chayko, Mary. 2008. Portable Communities: The Social Dynamics of Online and Mobile Communication. New York: State University of New York Press.
+Cunningham, Kim. 2006. “Virtually Transformed: Second Life’s Implications for the Status of the
+Body.” Paper presented at the meetings of the American Sociological Association.
+Daniel, John. 2008. “The Self Set Free.” Therapy Today 19(9). Retrieved from http://therapytoday.
+net.
+De Gaulejac, V. 2005. “Le sujet manqué: L’individu face aux contradictions de l’hypermodernité.”
+Pp. 129–43 in L’individu hypermoderne, edited by N. Aubert. Paris: Erès.
+Dumitrica, Delia and Georgia Gaden. 2009. “Knee-High Boots and Six Pack Abs: Autoethnographic
+Reflections on Gender and Technology in Second Life.” Journal of Virtual Worlds Research
+1(3). Retrieved from jvwresearch.org.
+Fortunati, Leopoldina. 2002. “The Mobile Phone: Towards New Categories and Social Relations.”
+Information, Communication, and Society 5(4):515.
+Garcia, Angela Cora, Elecea I. Standlee, Jennifer Beckhoff, and Yan Cui. 2009. “Ethnographic
+Approaches to the Internet and Computer-Mediated Communication.” Journal of Contemporary Ethnography 38:52–82.
+Goffman, Erving. 1959. The Presentation of Self in Everyday Life. New York: Doubleday.
+Gordon, Eric and Gene Koo. 2008. “Using Virtual Worlds to Foster Civic Engagement.” Space and
+Culture 11(3):204–21.
+Gottschalk, Simon. 2009. “Hypermodern Consumption and Megalomania: Superlatives in Commercials.” Journal of Consumer Culture 9(3):307–27.
+
+SI3304_02.indd 524
+
+10/29/10 6:23:08 PM
+
+The Presentation of Avatars in Second Life
+
+525
+
+Ikegami, Eiko and Piet Hut. 2008. “Avatars Are for Real: Virtual Communities and Public Spheres.”
+Journal of Virtual Worlds Research (1)1. Retrieved from jvwresearch.org.
+Jones, Steven G., ed. 1997. Virtual Culture: Identity and Communication in Cybersociety. Beverly
+Hills, CA: Sage.
+Kazmer, Michelle M. and Bo Xie. 2008. “Qualitative Interviewing in Internet Studies: Playing with the
+Media, Playing with the Method.” Information, Communication, and Society 11(2):257–78.
+Lévy, Pierre. 1997. Collective Intelligence: Mankind’s Emerging World in Cyberspace. New York:
+Plenum.
+Lipovetsky, Gilles. 1983. L’ère du vide: Essais sur l’individualisme contemporain. Paris: Gallimard.
+———. 1987. “La pub sort ses griffes.” Le Débat 43:126–40.
+———. 2005. Hypermodern Times. Malden: Polity.
+———. 2006. Le bonheur paradoxal: Essai sur la société d’hyperconsommation. Paris: Gallimard.
+Lyman, Peter and Nina Wakeford. 1999. “Going into the (Virtual) Field.” American Behavioral
+Scientist 43(3):359–76.
+McIntosh, Keith. 2008. “The Social Construction of Virtual Space.” Michigan Sociological Review
+(Fall):196–214.
+Messinger, Paul R., Xin Ge, Eleni Stroulia, Kelly Lyons, and Kristen Smirnov. 2008. “On the Relationship between My Avatar and Myself.” Journal of Virtual Worlds Research (1)2. Retrieved
+from jvwresearch.org.
+Pena, Jorge, Jeffrey T. Hancock, and Nicholas A. Merola. 2009. “The Priming Effects of Avatars in
+Virtual Settings.” Communication Research Online 20(10):1–19.
+Rheaume, Jean. 2005. “L’hyperactivité au travail: Entre narcissisme et identité.” Pp. 89–102 in
+L’individu hypermoderne, edited by N. Aubert. Paris: Erès.
+Roush, Paula, Ming Nie, and Matthew Wheeler. 2009. “Between Snapshots and Avatars: Using Visual Methodologies for Fieldwork in Second Life.” Journal of Virtual Worlds Research 2(1).
+Retrieved from jvwresearch.org.
+Shields, Rob. 2003. The Virtual. London: Routledge.
+Stromer-Galley, Jennifer and Rosa Martey. 2009. “Visual Spaces, Norm Governed Places: The Influence of Spatial Context Online.” New Media and Society 11(6):1041–60.
+Taylor, T. L. 1999. “Life in Virtual Worlds: Multimodalities, Plural Existence, and Other Online
+Research Challenges.” American Behavioral Scientist 43:436–49.
+Vicdan, Handan and Ebru Ulusoy. 2008. “Symbolic and Experiential Consumption of Body in
+Virtual Worlds: From (Dis)Embodiment to Symembodiment.” Journal of Virtual Worlds
+Research 1(2). Retrieved from jvwresearch.org.
+Wallace, Patricia. 1999. The Psychology of the Internet. Cambridge: Cambridge University Press.
+Waskul, Dennis and Mark Douglass. 1996. “Considering the Electronic Participant: Some Polemical
+Observations on the Ethics of On-Line Research.” Information Society 12:129–39.
+Yee, Nick, Jeremy N. Bailenson, and Nicolas Duchenaut. 2009. “The Proteus Effect: Implications of
+Transformed Digital Self-Representation on Online and Offline Behavior.” Communication
+Research 36(2):285–312.
+Zhao, Shanyang. 2005. “The Looking-Glass Self: Through the Looking-Glass of Telecoprent
+Others.” Symbolic Interaction 3:387–405.
+
+SI3304_02.indd 525
+
+10/29/10 6:23:08 PM
+
+

@@ -1,0 +1,874 @@
+Board of Regents of the University of Wisconsin System
+Cyberpunk and the Dilemmas of Postmodern Narrative: The Example of William Gibson
+Author(s): Claire Sponsler
+Source: Contemporary Literature, Vol. 33, No. 4 (Winter, 1992), pp. 625-644
+Published by: University of Wisconsin Press
+Stable URL: http://www.jstor.org/stable/1208645
+Accessed: 28-01-2016 08:11 UTC
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/
+info/about/policies/terms.jsp
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content
+in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship.
+For more information about JSTOR, please contact support@jstor.org.
+
+Board of Regents of the University of Wisconsin System and University of Wisconsin Press are collaborating with
+JSTOR to digitize, preserve and extend access to Contemporary Literature.
+
+http://www.jstor.org
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+CLAIRE
+
+SPONSLER
+
+Cyberpunkand the Dilemmasof Postmodern
+Narrative:The Example of William Gibson
+
+n recentyearssciencefictionhaswithsomesuccessstruggled
+against its ghettoization as lowbrow genre fiction. Readers
+and critics have defended science fiction as having not only
+a tradition of its own but also considerable overlap with
+modernist and postmodernist literature. Simultaneously, theorists
+like Fredric Jameson, Jean Baudrillard, and Donna Haraway have
+turned to SF as, in Annette Kuhn's words, "a privileged cultural
+site for enactments of the postmodern condition" (178). Indeed, for
+many cultural critics, SF has become the pre-eminent literary genre
+of the postmodern era, since it alone seems capable of understanding the rapid technological and cultural changes occurring in late
+capitalist, postindustrial society.
+In spite of this highbrow interest in science fiction, borders are
+still policed, and the SF ghetto endures. Even an apologist for SF
+like Darko Suvin can say dismissively that only "5 to 10 percent of
+SF" is "aesthetically significant" in contrast to the ninety to ninetyfive percent that is "strictly perishable stuff" (vii). As Roger Luckhurst notes, in the postmodern discourse about SF, science fiction is
+seen as borrowing from the mainstream "always belatedly, derivatively, and in degraded form" (362). SF may have acquired a new
+visibility outside its own coterie, especially among theorists, but old
+value hierarchies still work to keep SF books out of the hands of
+high- and middlebrow readers. Hence, like the New Wave and ecofeminist SF of the 1960s and 1970s, cyberpunk, the most significant
+development in science fiction in the 1980s, is not widely known
+0010-7484/92/0004-0625
+$1.50
+Contemporary Literature XXXIII, 4
+? 1992 by the Board of Regents of the University of Wisconsin System
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+626
+
+*
+
+CONTEMPORARY
+
+LITERATURE
+
+among readers and critics who consider themselves otherwise conversant with current literature.
+This has been the case even for the best known of the cyberpunk
+writers, William Gibson. Although Peter Fitting notes that Gibson's
+work "has attractedan audience from outside, people who read it as
+a poetic evocation of life in the late eighties rather than as science
+fiction" (308), and although Gibson has been rightly hailed as putting cyberpunk on the map, it must be admitted that in most literary
+circles he remains a rather obscure object of acclaim. His earliest
+fiction-short stories written in the late seventies and early eightieswas confined to genre publications such as Omni, and his first two
+novels-the award-winning Neuromancer
+(1984) along with its sequel
+CountZero(1986)-were published by the science fiction house Ace
+Books, as was BurningChrome(1986), a collection of his short stories.
+Only with his third novel, Mona Lisa Overdrive(1988), issued by
+Bantam Books and offered as a Quality PaperbackBook Club selection, did Gibson finally reach a wider audience. For most of his
+career Gibson has been a genre writer writing for a genre audience.
+Unfamiliar though it may be to mainstream readers, Gibson's
+work nonetheless deserves attention from anyone interested in the
+narrative predicaments faced by contemporary American fiction.
+Like Thomas Pynchon, a writer he cites as a formative influence,
+Gibson is notable for taking seriously recent developments in technology, culture, and socioeconomic organization, attempting in his
+stories to convey what he sees as their inevitable consequences. The
+future his novels imagine is one in which multinationalcorporations
+control global economies, urban blight has devoured the countryside, crime and violence are inescapable events of urban life, and
+technology has shaped new modes of consciousness and behavior.
+Set not in a distant and alien universe but in a recognizable, nearfuture permutation of our own world, Gibson's stories postulate
+what our reality might all too soon be like and experiment with
+narrativemodes of enacting these changes.
+Spawned by mass market "hard"science fiction, influenced by
+the work of New Wave writers like Samuel R. Delany, J. G. Ballard,
+MichaelMoorcock, and Norman Spinrad as well as by the postmodern writers William S. Burroughs and Thomas Pynchon, and developing in the eighties as an exploration of human experience within
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+SPONSLER
+
+*
+
+627
+
+the context of media-dominated, postindustrial, late capitalist society, cyberpunk is in many ways quintessentially postmodern.1 In
+the hands of writers such as Emma Bull, Pat Cadigan, George Alec
+Effinger, K. W. Jeter,Rudy Rucker,Lewis Shiner, John Shirley, and
+Bruce Sterling, cyberpunk typically presents a montage of surface
+images, cultural artifacts, and decentered subjects moving through
+a shattered, affectless landscape. Its protagonists are antiheroes set
+adriftin a world in which there is no meaning, no security, no affection, and no communal bonds-except for those they themselves
+tenuously create. Antifoundational, skeptical of authority, suspicious about the possibility of human autonomy, and fascinated by
+the way technology and material objects shape consciousness and
+motivate behavior, cyberpunk would seem to square with postmodern culture as it has been amply described by Baudrillard,Jameson,
+and Jean-FranqoisLyotard, among others.2
+The problem this streetwise science fiction faces, however, is one
+it shares with other postmodern narratives-how to shape plot and
+agency in a way that matches the postmodern ideology and aesthetic it embraces. The ease with which Gibson and other cyberpunk writers are able to create a postmodern surface world-one
+that compellingly inscribes technological and cultural changesclashes with their difficulty in finding an equivalent way of handling
+plot and agency. As Gibson's novels reveal, cyberpunk's failures, as
+much as its successes, offer an important and overlooked commentary on some of the dilemmas of postmodern narrative.
+
+Where Gibson's narrative portrayal of technological and cultural
+change is most successful is unquestionably in the description of
+the object world, including the treatment of setting. The oftenquoted opening sentence of Neuromancer-"Thesky above the port
+was the color of television, tuned to a dead channel"-immediately
+clues us in to one of the most effective features of Gibson's handling
+1. For an introduction to cyberpunk, see the short stories collected in Mirrorshades:
+The CyberpunkAnthology, edited by Bruce Sterling. Sterling's preface to this collection
+provides a useful overview of the cyberpunk movement from the perspective of an insider.
+2. For a general discussion of cyberpunk's connection with postmodernism and, in
+particular, its deconstructive features, see Hollinger.
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+628
+
+C
+CONTEMPORARY
+
+LITERATURE
+
+of the impact of the technological revolution. As this sentence reveals, the natural world in Gibson's writings is refigured as technological, cybernetic, and machinelike. Trees, sky, plants, animals,
+even humans are identified, described, and apprehended only
+through the language and images of technology, which provides the
+dominant paradigm for the mediation of reality. In a typical phrase
+from CountZero, for example, moths circling an outdoor light are
+described as "strob[ing] crooked orbits around the halogen tube"
+(34). So pervasive has technology become that it has altered human
+perception of the natural world, making that world describableand
+indeed even visible only within a frame provided by technology.
+The impact of technology on the construction of reality is adroitly
+played out in the description of locale. Gibson's descriptions of the
+Sprawl, Chiba, Freeside, the Villa Straylight, Dog Solitude, and
+cyberspace itself offer a glimpse of a breathtakingly new place, a
+two-dimensional reality constructed out of teeming and shifting
+signifiers. At the level of the cityscape, on the surface, where the
+jumping activity of the street pulsates, Gibson's work is a tour de
+force of the postmodern aesthetic brought to life. This is a setting
+that mimics technology, owing its very being to technological innovations. Night City, for example, Neuromancer's
+"outlaw zone" for
+is
+a
+that
+exists
+less as streets
+"burgeoning technologies" (11),
+place
+and buildings than as itself "a field of data"informed by "the dance
+of biz, information interacting, data made flesh in the mazes of the
+black market"(16). In this setting, not only has the network of information become a commodity, as Lyotard predicted, but even more
+dramatically it has become a metaphor for objects which now depend on it for their tangibility. Even the humans caught up in this
+maze are treated like bits of data darting around in the network:
+Night City was like a deranged experiment in social Darwinism, designed by a bored researcher who kept one thumb permanently on the
+fast-forward button. Stop hustling and you sank without a trace, but
+move a little too swiftly and you'd break the fragile surface tension of the
+black market; either way, you were gone, with nothing left of you but
+some vague memory in the mind of a fixture like Ratz, though heart or
+lungs or kidneys might survive in the service of some stranger with New
+Yen for the clinic tanks.
+
+(7)
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+SPONSLER
+
+*
+
+629
+
+Anyone who stops moving, breaks the flow of information, or falls
+out of the delicatebalance requiredby this cyberneticorderis spewed
+out of the system entirely-an eventuality that is commensurate
+with death and dismemberment.
+Linked with this network of information that defines and delimits human existence, Gibson's novels display a postmodern flash of
+cultures and languages jumbled together, a polyglot world of objects and discourses. The Sprawl, Night City, Chiba, Freeside, and
+every other zone, though differentiated by name and geographic
+place, all ultimately blend together in a panculture that has by and
+large effaced all local or ethnic differences. Significantly, although
+the dominant culture always looms in the background-in the multinational corporations (the Maas-Biolabs and Hosakas) as well as in
+the form of a few powerful individuals (the Tessier-Ashpools and
+Josef Vireks of the world)-the surface attention is all on the counterculture, from orbiting Rastafariansto punk street gangs to mincome Projectvoodoo worshipers. It is these marginal figures caught
+up in the "dance of biz" who hold Gibson's attention and whose
+interconnections and activities supply much of the narrative interest. This focus on what Bruce Sterling refers to as "the modern pop
+underground" (xi) deflected through technology marks one of the
+innovations of cyberpunk.
+In addition to his interest in the marginalized, Gibson's pack-rat
+eclecticism-which appropriates a whole range of contemporary
+cultural material drawn from television, technical and military jargon, modern art and music, film noir,and the hard-boiled detective
+story-also marks his novels as postmodern. His writing is a web of
+allusions, obliquely and casually interwoven. References to art
+(Dali, Kandinski, and Gaudf), to music (LaurieAnderson, Bob Marley, Lou Reed, and the Meat Puppets), and to fiction (J. G. Ballard,
+Dashiell Hammett, and John le Carrd)abound. Gibson throws out a
+seemingly indiscriminate collage of borrowings, a world made from
+the fragments of other worlds, describing it all in a tech-noir language perfectly suited to the material.
+Focusing on appearances and surfaces, Gibson's fiction exhibits
+a calculated obsession with the object world. A surprising amount
+of narrative space is devoted to descriptions of clothing, human
+bodies and faces, the interiors and exteriors of buildings, and man-
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+630
+
+*
+
+CONTEMPORARY
+
+LITERATURE
+
+made artifacts of all kinds. Here, for example, in a digression unnecessary to the plot, is Gibson describing a "vacation module"
+once owned by Turner,a characterin CountZero:this module was
+"solar-poweredand French-built, its seven-meter body like a wingless housefly sculpted in polished alloy, its eyes twin hemispheres
+of tinted, photosensitive plastic" (46). Tellingly, many of these objects are seen as the detritus of civilization, decaying remnants of an
+otherwise demolished, meaningless, and inaccessible past. This
+treatment of found objects from the past is clearly an instance of the
+"past as pastiche" typical of the postmodern sense of history so
+persuasively analyzed by Jameson.3 In a calculated twist that underscores the value Gibson places on these seemingly worn-out
+and useless items, cast-off scraps of earlier times resurface in Count
+Zeroas prized art works that Marly Krushkhova has been hired to
+traceback to their maker.In MonaLisaOverdrive,Slick Henry welds
+together a similar assortment of the jetsam of civilization, transforming discarded metal parts into massive robot-sculptures that
+inhabita borderzone between art, humanity,and technology.Though
+now quite literally junk and rubbish, the worth of this detritus from
+the past nevertheless lingers on in its status as object of display and
+appropriation.
+In sum, this vividly displayed surface reality-its settings and its
+objects-is perhaps the most immediately striking feature of Gibson's books, especially for a first-time reader. The details of his
+imagined near-future world, in the words of one reviewer, "tumble
+off the page like the jump-cut images of music videos" (Grant41). In
+their treatment of setting, Gibson's novels present a "totally designed perceptual experience," to borrow Janet Bergstrom's description of the film BladeRunner.As Bergstrom observes:
+BladeRunnerhas the look, sound, and ambience of the totally designed
+perceptual experience. It is built up out of unnaturally colored beams of
+light and glowing neon shapes that activate parts of the screen space,
+filtered through haze, shadows, smoke, steam, and rain. People use
+3. Jamesoncharacterizesthe postmodernrelationshipwith history as one in which
+the past is availableto the present only as a randompasticheof images, styles, and objects. As Jamesonlaments, "we seem condemned-toseek the historicalpast throughour
+own pop images and stereotypes about that past, which itself remains forever out of
+reach"("Postmodernismand ConsumerSociety"118).
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+SPONSLER
+
+*
+
+631
+
+degraded, hybrid languages, and costumes, to move in a disorderly,
+decaying urban-industrial environment. Characters emerge out of this
+delirium, sometimes competing with their environment for the spectator's attention.
+
+(34)
+Her description also accurately conveys the ambiance of Gibson's
+novels. Glitzy, hip, slangy, and decadent, the object world of Gibson's fiction draws us irresistibly, the punk-trash style beckoning
+enticingly. Gibson gives us a narrative version of our postmodern
+consumer culture that, not surprisingly,engulfs us just as inexorably.
+At first glance, this postmodern preoccupation with objects and
+surfaces would seem to be matched by a similarly postmodern diminishing, flattening, and decentering of the human beings who
+move across this object world. Gibson's work, like cyberpunk in
+general, is typically praised by critics for its rewriting of subjectivity, human consciousness, and behavior made newly problematic by technology. VeronicaHollinger, for example, applauds "the
+potential in cyberpunk for undermining concepts like 'subjectivity'
+and 'identity'" (35). In particular, cyberpunk's infatuation with
+boundary crossing, most evident in its transgression of the traditional boundaries between organic and inorganic, natural and artificial, human and machine, results in a decentering of the human
+subject precisely of the sort seen by many chroniclers of our age as
+the hallmarkof the postmodern condition. As Donna Harawaycontends, in the late twentieth century "we are all chimeras, theorized
+and fabricated hybrids of machine and organism; in short, we are
+cyborgs. The cyborg is our ontology; it gives us our politics" (174).
+One way of reading cyberpunk, in fact, is as an extended investigation into the postmodern identification of man with machine.4 In
+Gibson's novels, the human and the technological overlap nearly
+endlessly. The human organism is adapted, enhanced, and preserved by technologies that invade and take over the body. Vatgrown flesh, the custom neurosurgery of the Chiba black clinics
+that enhances reflexes, Nikon eye replacements to improve vision,
+behind-the-ear carbon sockets for microsofts, and toothbud trans4. Fora discussion of the man-machinesymbiosis in science fictionwrittenbetween
+1930and 1977,see Warrick.
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+632
+
+*
+
+CONTEMPORARY
+
+LITERATURE
+
+plants to give humans the incisors of large carnivores blur the distinction between what is human and what is not. Personality substitutes like Armitage, human analogs like JuliusDeane, holographs
+and constructs like those used by the artificialintelligences to communicate with humans, or chip-ghosts like Colin, who is a "MaasNeotek biochip personality-base programmed to aid and advise"
+people (MonaLisa162) all transform the illusion of humanness into
+the real thing-or make the distinction between the two nonsensical. In this treatment of the human body, Gibson echoes contemporary SF and horror, wherein, as Scott Bukatman notes, the body
+has come to be narrated "as a site of exploration and transfiguration, through which an interface with an electronically based postmodern experience is inscribed" ("Postcards"343).
+Similarly, individual identity, especially that based on appearance, evaporates in a world where plastic surgery can make anyone
+look like a blend of the decade'smost popular media faces, or where
+the members of a street gang can all be surgically altered to look
+alike. Identity in this world is cast onto the surface of the body, but
+where the body can be so readily redesigned and customized, conventional notions of individuality and selfhood become meaningless. Chameleonlike, the body imitates and even becomes its environment, as in the Panther Moderns' polycarbon suits that change
+to match any background. No longer is the body capable of mirrorfor ining an autonomous, unique, interior self. In Neuromancer,
+to
+artist
+Peter
+is
+able
+create
+the
+stance,
+holographic
+holographic
+images of himself that are indistinguishable from his actual self;
+thus he can be in two or more places simultaneously. In a further
+elaboration of identity-stretching, at the end of MonaLisaOverdrive
+one of the characters,Mona, has been deliberately transformed into
+another through a round of plastic surgery that sculpts her face into
+the exact likeness of simstim star Angie Mitchell, hence disconcertingly presenting us with two Angies.
+Just as physical appearance fails to determine the self, so too does
+personal experience. Through Angie Mitchell and other simstim
+stars, who are essentially organic camcorders recording their own
+experiences through implanted cameras and auro-sensory recorders and then projecting those experiences onto the simstim screens
+of millions of viewers, the sensations and experiences unique to
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+SPONSLER
+
+*
+
+633
+
+one human being-what would seem to define that person-are
+transformed and projected via technology for the pleasure of countless others remote from the actual experience they participate in. In
+for example, when Molly is breaking into the Sense/
+Neuromancer,
+Net research library to steal a computer disk, Case shares her experience through a simstim link. Not only can he view the whole
+break-in through her eyes, he can feel it too: when she breaks her
+leg, he feels the pain as if his own leg had been broken. In this
+world, one's own experiences are no longer just one's own and offer
+no mechanism for self-determination or self-definition. Troubling
+as this is for identity, it also calls into question the ability to know
+reality.As Marly remarks in CountZero:
+The sinister thing about a simstim construct, really, was that it carried the
+suggestion that any environment might be unreal, that the windows of
+the shopfronts she passed now . .. might be figments. Mirrors, someone
+had once said, were in some way essentially unwholesome; constructs
+were more so, she decided.
+(139-40)
+
+This is a radically mediated world, where no one can trust that the
+reality he or she encounters is ever really real. It is, tellingly, a world
+much like Baudrillard'sdescription of our own, in which the individual "can no longer produce the limits of his own being, can no
+longer play nor stage himself, can no longer produce himself as
+mirror.He is now only a pure screen, a switching center for all the
+networks of influence" (133).
+Even death, that one event beyond all others that we might assume would put its signature on the individual, does not serve to
+define human identity. Rather than marking the end of one person's life, death can be nearly infinitely evaded, with humans such
+as Herr Virek or the Dixie Flatline being kept alive in machinelike
+eternity in vats or as computer constructs. And even if an individual should happen to die, his or her experiences and knowledge can live on, passed from person to person. This is the way
+that Angie Mitchell acquires most of her knowledge, from memories transmitted to her through the matrix of cyberspace, wordlessly communicated to her in the manner of this information about
+Molly:
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+634
+
+*
+
+CONTEMPORARY
+
+LITERATURE
+
+Molly, like the girl Mona, is SINless, her birth unregistered, yet around
+her name (names) swarm galaxies of supposition, rumor, conflicting
+data. Streetgirl, prostitute, bodyguard, assassin, she mingles on the
+manifold planes with the shadows of heroes and villains whose names
+mean nothing to Angie, though their residual images have long since
+been woven through the global culture. (And this too belonged to 3Jane,
+and now belongs to Angie.)
+(MonaLisa239)
+
+Memories have become interchangeable, detachable from the individual who originally possessed them and able to be passed along
+to others. In the world of cyberpunk, as the science of genetics has
+alreadysuggested to us, humans are but machines directedby coded
+messages unknowable to consciousness, and anotherperson's memory tapes can be played by anyone's machine.
+The concept of cyberspace also contributes to this decentering of
+the subject. Cyberspace, a "consensual hallucination," is, in the
+words of a children's show in Neuromancer,
+"A graphic representation of data abstracted from the banks of every computer in the
+human system. Unthinkable complexity.Lines of light ranged in the
+nonspace of the mind, clusters and constellations of data. Like city
+lights, receding" (51). More importantly, cyberspace unfolds a new
+social and psychological space, one open to new patterns of human
+behavior and interaction.5 It is in the realm of cyberspace that the
+heroes of Gibson'snovels enter into a disembodied and egoless state.
+They become, in a dead metaphor that CountZero'svoodoo loa bring
+to life, "possessed," no longer themselves, transformedinto bodiless
+beings whose selves become coterminous with the matrix around
+them. "Beyond ego, beyond personality, beyond awareness," the
+hero moves in the "mind-body interface granted him" in cyberspace
+(Neuromancer
+262). The console cowboy, when "jackedinto a custom
+deck
+that project[s] his disembodied consciousness into
+cyberspace
+the consensual hallucination that [is] the matrix" (Neuromancer
+5),
+moves in a realm where traditionalperceptions of corporeal identity
+have no place. He might well, like Case, find himself walking along
+a sandy beach talking to his now-dead girlfriend, when "in reality"
+he is in his room jacked into his computer deck.
+5. Foran analysisof cyberspaceas a new socialrealm,see Tomas.
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+SPONSLER
+
+*
+
+635
+
+In this world of blurred boundaries and decentered subjects, not
+only do humans become machinelike, but the reverse also happens:
+machines take on human qualities. Even such a relatively low-tech
+object as a Braunmicrodrone-a sort of miniaturerobot-is described
+in organic terms. It looks like "a stylized matte black daddy long188) and, emitting chirping sounds, tries like a
+legs" (Neuromancer
+sentient and even loyal creature to crawl up Case's leg to warn him
+of approaching danger. More obviously, the characterof the Al-the
+artificial intelligence-represented in Gibson's novels by Wintermute and Neuromancer, most fully blends these two states of the
+organic and inorganic, calling into question along the way such
+qualities as agency, motive, intentionality, and autonomy that are
+supposedly exclusive to humans. Although the Dixie Flatline, who
+is himself "just a bunch of ROM,"says to Case, "YourAI ... it ain't
+no way human" (Neuromancer
+131), the narrative makes quite clear
+that AIs are far more than mere machines and in fact operate in
+ways that are coded as strikingly human. They take on human appearance and exhibit what seem to be human desires and motivations. So, for example, the AI Neuromancer appears to Case in the
+guise of a young boy walking on a deserted beach, wearing "ragged,
+colorless shorts, limbs too thin against the sliding blue-gray of the
+tide" (243). Characterslike Molly and Armitage may owe their peculiar abilities to cybernetics, but entities like Wintermute and Neuromancer, though artificial intelligences, aspire to be free, autonomous individuals complete with personalities. The attempt of these
+AIs to merge into a single, more complete being is in fact the driving
+force behind Neuromancer's
+plot, the event that Molly, Case, and
+have
+been
+hired
+both to help and hinder.
+Armitage
+It is perhaps this role reversal between humans and machines
+that most compellingly makes cyberpunk's case for the decentered
+subject and, when coupled with the persistent boundary transgression and emphasis on the teeming world of signifiers, would seem
+to define cyberpunk as a popular version of postmodern fiction. As
+Bukatman observes, cyberpunk "effaces the borders between conscious and unconscious, physical and phenomenal realities, subject
+and object, individual and group, reality and simulacrum, life and
+death, body and subject, future and present" ("Postcards"351-52).
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+636
+
+*
+
+CONTEMPORARY
+
+LITERATURE
+
+Unfortunately,the potential of cyberpunk as postmodern narrative,
+the possibility of challenging the constitutive codes of our present
+cultural moment, is largely negated by Gibson's failure to play out
+at the level of plot and agency the implications of the two-dimensional aesthetic and the decentered individuals he has so successfully created. The surface style and the treatment of subjectivity
+may be convincingly postmodern, but two crucial features of the
+narrativeremain trapped in the conventions of realism. Partof Gibson's difficulty in handling plot and agency in a manner commensurate with his postmodern impulse undoubtedly derives from science fiction's well-worn reliance on an epistemology that hails from
+the nineteenth-century realist novel, an epistemology that privileges cause-and-effect plot development and the unified humanist
+subject. Both of these, belying the shimmering postmodern surface
+Gibson presents us with, are formative features of his novels, increasingly so after Neuromancer.
+The plots of Gibson's novels, in fact, rather predictably blend
+adventure and detective story handling of pacing, event, and narrative progression. Typically,his protagonists are jarredout of some
+crisis in their own lives and launched by unseen but powerful forces
+on an adventure that involves the solving of a series of puzzles and
+the surmounting of a number of intervening obstacles. Unlike Alain
+Robbe-Grillet in The Erasers,Tom Stoppard in The Real Inspector
+Hound, or Italo Calvino in If on a Winter'sNight a Traveler,Gibson
+unfortunately does not problematize the adventure-detective plot.
+In the end, like their countless detective-adventurer forebears, Gibson's protagonists succeed in their quest, not incidentally conquering their own demons along the way. This pattern is varied slightly
+in CountZeroand Mona Lisa Overdrive,where Gibson experiments
+with multiple plots, with the result that for at least part of each
+novel we are kept in the dark about how the various charactersand
+events connect and what they mean. Even in these novels, however,
+the plots ultimately do come together, and Gibson gives us coherent, untroubling resolutions.
+To give him credit, Gibson does attempt some innovations in
+plotting. In a style that once again recalls postmodernism's typical
+mode of pastiche, he tries to build his narratives in a visual, filmic
+manner out of a montage of short takes that omit overt transitions
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+SPONSLER
+
+*
+
+637
+
+and provide few immediate clues as to who is speaking or where
+new action is taking place. Within each chapter, he presents us with
+a brief scene or moment of action, then flips to another place and
+another event, connecting the two only by blank spaces in the text.
+This technique works most effectively toward the end of Neuromancer
+when Case, connected to Molly by a simstim link, literally flips back
+and forth among three different scenes: her break-in into the Villa
+Straylight, the virus attack on the AI's ice that is taking place in
+cyberspace, and Case's "real"location, where he is jacked into his
+computer deck in a Rastafarian"tugboat" anchored along Freeside.
+The intended effect seems to be to convey a random, loosely connected, and indeterminate series of actions that accumulate only
+obliquely into a sequence of meaningful events.
+What one critic has called Gibson's "prose-collage technique"
+(Grant 44) is, however, less random and more purposeful than it
+might at first appear. All of these short takes are in fact driven by
+underlying plots that move diachronically,following a linear progression from event to event. One thing quite literally leads to another; no scene turns out to have been truly random or unmotivated. Instead, everything builds smoothly and inexorably toward
+a denouement. Linked to the cause-and-effect patterning of action
+found in most science fiction, this diachronic movement is particularly vexing for cyberpunk. Based as it is on a radicalunderstanding
+of the machine's impact on human experience, cyberpunk would
+seem to need plots that are also machinelike, that move synchronically and repetitively, or that like computers loop endlessly. Instead,
+Gibson falls back on plotting techniques that do nothing for his
+fabricationof an altered reality and in fact run counter to it.
+Equally disconcerting is Gibson's treatment of agency, especially
+where his protagonists are concerned. Cyberpunk would have us
+believe that the selves it posits are indeterminate and fragmented,
+no longer unique, autonomous individuals, but this is not the case
+for Gibson's protagonists. In seeming contradictionto the decentering of the subject that occurs with many of his minor characters,
+Gibson'sprotagonists still fit the well-known mold of the free-willed,
+self-aware,humanist subject. Significantly,his male "heroes"-Case,
+Bobby, Slick Henry-are the characterswho are the least invaded by
+technology. Without exception, they are all resolutely "human," not
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+638
+
+*
+
+CONTEMPORARY
+
+LITERATURE
+
+least of all in their vulnerability. Refusing implants or alterations
+that might call into question their humanness, they interact with
+machines only temporarily when they jack into their decks and voluntarily enter cyberspace. Because these are the characters with
+whom we as readers are encouraged to identify, we find our own
+subjectivity reassuringly reaffirmed rather than threatened, as it
+might be if these protagonists were technologically enhanced as are
+so many of the minor characters, such as Molly, for example.
+With Gibson's protagonists-the ones who are viewed sympathetically and with whom we are asked to identify-a unified self, a
+thinking, feeling, autonomous being fully present to him- or herself
+is the norm. Case, Bobby, Slick, Mona, Marly,Turner,and Angie all
+are recognizably human and could function easily within the conventions of any realist narrative. Although Angie has been physiologically modified by technology-through the biosoft her father
+implanted in her head when she was a child which allows her to
+access cyberspace without using a computer deck-the others have
+been unaltered by technology, and even Angie was an unwilling
+recipient of at least part of her enhancement. Molly, the "razorgirl"
+from Neuromancer,
+is the chief exception among the main characters.
+Perhaps because she more than any of the others has merged with
+technology through her flashing knife-fingernail implants, her surgically jacked-up reflexes, and her mirrored-lens eye replacements,
+she remains inscrutable to Case and therefore to us. At the end of
+Neuromancer
+she simply takes off, dissolving into the background of
+the Sprawl, and Case never sees her again. With the other main
+characters, however, agency and subjectivity are never problematized, and our identification with them is never posed in troubling
+terms.
+In fact, Gibson's rather reactionary preaching about the dangers
+of the antihumanist stance and of decentered individuals, implied
+by characterslike Molly,the Dixie Flatline, and Armitage, is brought
+into sharp relief by the Tessier-Ashpools, the high-orbit clan whose
+symbiotic relationship with their two AIs points to a deeply decentered form of human consciousness. But as Gibson portrays them,
+the Tessier-Ashpools' attempt to reformulate their own subjectivity
+becomes not only self-destructive but also evil. Revealingly, their
+home, the Villa Straylight on Freeside, is described as a "parasitic
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+SPONSLER
+
+*
+
+639
+
+225, 229), where like a swarm of
+structure," "a hive" (Neuromancer
+insects the clan lives out an incestuous, selfish, hedonistic existence. As one of the Tessier-Ashpools says of her mother'svision for
+the clan:
+withtheAI's,ourcorporate
+Sheimaginedus in a symbioticrelationship
+decisions made for us. Our conscious decisions, I should say. TessierAshpool would be immortal, a hive, each of us units of a larger entity.... But ... with her death, her directionwas lost. All directionwas
+lost, and we began to burrowinto ourselves.
+(229)
+
+The Tessier-Ashpools' decadence, incestuousness, extreme wealth,
+and hermetic lives become a lesson in the dangers of tampering
+with human identity.
+
+Clearlythe difficulty Gibson faces is one of finding a way of treating
+plot and agency so as to mesh with the implications of his postmodern aesthetic. While the surface world of his novels convincingly simulates or replicates the technological and cultural changes
+whose impact he wishes to explore, the plots and protagonists do
+not. Gibson tries to insert what we might think of as three-dimensional charactersand cause-and-effect actions onto a flat plane populated by free-floating, random, and decentered objects and people. This conflict between the scene and the agents who are made to
+move meaningfully through it toward a resolution marks the impasse Gibson has reached. In his novels, first human agents, then
+machines, and finally cyberspace itself are invested with a heroic
+and romantic power that ultimately undermines the resolutely unromantic surface world he has set up. What Gibson has not been
+able to do, making his novels after Neuromancer
+increasingly unsatisfactory, is derive from his postmodern, two-dimensional scene
+a similarly two-dimensional agency that can be manifested not
+merely through realistic, cause-and-effect, diachronic action but
+through something Gibson has not yet found. Gibson's predicament in the end is paradigmaticof the problem all cyberpunk faces:
+it seems doomed to play out old plots peopled by old characters
+within a scene that calls for a radically different formulation of hu-
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+640
+
+*
+
+CONTEMPORARY
+
+LITERATURE
+
+man agency and action. Although the prevalence of cause-andeffect plots and autonomous, realistic characters in cyberpunk is
+undoubtedly augmented by the demands of mass market publishing and the pull of genre conventions, it cannot be blamed entirely
+on marketing terrain, since some SF writers-most notably Samuel
+R. Delany and J. G. Ballard-have on occasion circumvented these
+constraints.
+Jameson would see cyberpunk's narrative dilemmas as endemic
+to all science fiction, which in his view always serves to "dramatize
+our incapacity to imagine the future," especially a future based in
+otherness and radical difference. In search of the unknown, SF instead "findsitself irrevocablymired in the all-too-familiar,and thereby
+becomes unexpectedly transformedinto a contemplationof our own
+absolute limits" ("Progress"246). The failure of William Gibson to
+narrate an antihumanist, nontranscendent future is not therefore
+Gibson's failure, but our own, Jameson would argue. In fact, for
+Jameson, the political function of a utopian genre like science fiction is to reveal "ourconstitutional inability to imagine utopia itself,
+and this, not owing to any individual failure of imagination but as
+the result of the systemic, cultural, and ideological closure of which
+we are all in one way or another prisoners" ("Progress"247). Gibson simply mirrors our culture's collective failure of imagination.
+Thus, in Jameson'sview, cyberpunk has come up against the imaginative limits all science fiction encounters.
+This imaginative impasse has an ideological dimension as well. It
+is certainly easy to criticize Gibson and cyberpunk in general on
+ideological grounds, as critics such as Istvan Csicsery-Ronay and
+Andrew Ross do, for refusing to propose a progressive politics even
+though its dystopian future opens up considerable space for a resistance to the logic of late capitalism. As Ross says, Gibson's novels
+"harbor no utopian impulses, offer no blueprint for progressive
+social change, and generally evade the responsibility to imagine
+futures that will be more democraticthan the present"(150).CsicseryRonay complains in a similar vein that "cyberpunk is ... the apotheosis of bad faith, apotheosis of the postmodern" (277) in large part
+because it collapses "hallucinations and realia"with the result that
+"thereis no place from which to reflect"on our culture'sdeficiencies
+(274). Ross identifies cyberpunk's link with "hackermythology"-
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+SPONSLER
+
+*
+
+641
+
+which "forthe most part, has been almost exclusively white, masculine, and middle class" (84) and has romanticized computer hackers
+as "apprentice architects" of a future "dominated by knowledge,
+expertise, and 'smartness' " (90)-as one of the culprits of its ideological malaise. For Ross, cyberpunk is part of the "remasculinized
+landscape of anarcho-libertarianyouth-culture" (146) of the eighties
+that ran parallel with yuppie gentrification of urban zones in which
+street culture provided exotic coloring and thrills for white suburbanites. In Ross's view, "Yuppie gentrification was the new pioneer
+frontier of the 1980s, and cyberpunk was one of its privileged
+genres, splicing the glamorous, adventurist culture of the high-tech
+console cowboy with the atmospheric ethic of the alienated street
+dick whose natural habitat was exclusively concrete and neon"
+(147). In spite of the justice of Ross's critique, cyberpunk's trouble is
+more than just an ideological failure grounded in social irresponsibility; its trouble is also a matter of narrative failure (which is of
+course also an ideological issue). If one of the aims of cyberpunk is
+to give narrative and symbolic coherence to our desires, fears, and
+anxieties about technological trends, then it falls seriously short
+at narrating new patterns of human action within this radically
+changed landscape.
+Peter Fitting, drawing on Jameson, argues that cyberpunk's problem is one of representation, specifically of representing our technoculture for ourselves. According to Fitting, "our inability to represent for ourselves the communicational and computer networks
+that stretch out from our terminals and telephones and radios and
+televisions is, by extension, a difficulty in grasping the 'whole world
+system of present-day multinational capitalism' [Jameson]" (311).
+But judging from Gibson's success at sketching a cyberpunk surface
+world, the difficulty seems not to be one of representing or, to speak
+in more properly postmodern terms, simulatingthe phenomena of
+our technoculture, but ratherof understanding human action within
+that culture. Constance Penley has remarked about The Terminator
+that although this film acts as a kind of critical dystopia that examines causes as well as displays symptoms, like most recent SF it
+"limits itself to solutions that are either individualist or bound to
+a romanticized notion of guerilla-like small-group resistance. The
+true atrophy of the utopian imagination is this: we can imagine the
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+642
+
+*
+
+CONTEMPORARY
+
+LITERATURE
+
+future but we cannotconceive the kind of collective political strategies necessary to change or ensure that future" (64). Penley's criticism clearly applies to Gibson's novels as well: Gibson canimagine
+the future, but he cannotimagine a future that does not simply play
+out forces now dominant in our society, a flaw that is most glaring in
+his inability to imagine a reformulated sense of human action that
+escapes the essentially regressive realist/romanticparadigm. Bukatman has argued that cyberpunk's value lies in the way it reinserts
+the human into the new territory shaped by technology and stages
+"a confrontationbetween figure and ground, finally constructing a
+new human form to interface with the other space and cybernetic
+reality" ("Cybernetic" 48). Similarly, Hollinger sees cyberpunk's
+redeeming power in its exploration of a new kind of subjectivity, of
+"the ways in which we and our technologies 'interface' to produce
+what has become a mutualevolution" (42). But in its failure to reformulate human action and fictional narration as part of this process
+of interfacing, cyberpunk undermines its radicalpotential.
+In the 1930s, as Ross points out, science fiction saw itself as an
+innovative genre that deliberately considered "new, cutting-edge,
+even prophetic forms of knowledge and social action in the present
+and in the future";hence it "had a claim on modernity that other generic popular fiction was not in a position to share or to match"
+(126). The same is true for cyberpunk's aesthetics of techno-progress and its claim on postmodernity. For this reason, cyberpunk's
+narrativefailures-at the level of plot and agency-illustrate aesthetic
+and ideological dilemmas experienced by all postmodern fiction.
+What, then, does this impasse, this contradiction between surface and depth, postmodernism and realism/romanticism, tell us
+about the challenges faced by other contemporary narratives besides science fiction? In part, cyberpunk's inconsistencies describe
+the difficulty of evading the pull of a continued desire for the transcendental signified, for the sense of human and cosmic purposefulness, for the meaningfulness that cause-and-effectplots and realistic charactersso reliablyconvey.In largerpart, however,cyberpunk's
+difficulties describe the problematics of postmodern representation, particularlyin terms of narratives. According to the postmodern understanding of language and reality, such things as imagery,
+metaphors, and symbols surface out of the babel of discourse, pre-
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+SPONSLER
+
+*
+
+643
+
+senting difficulties for any attempt at putting them together in ways
+that communicate without falling back into realist or romantic paradigms. Postmodernism has in fact so thoroughly problematized the
+relation between objects, events, language, and meaning that narration-and especially the form of narration we call the novel-has
+become nearly impossible. Simulation may have replaced representation in the postmodern aesthetic, but simulation proves particularly thorny for narrative. Gibson's failure may in fact be not just
+endemic to science fiction but symptomatic of all postmodern novels. As such, it points up some of the obstacles faced by all contemporary fiction writers who set themselves the task of a narrative
+exploration of our cultural moment.
+GeorgeWashingtonUniversity
+
+W ORKS
+
+CITED
+
+Baudrillard, Jean. "The Ecstasy of Communication." Trans. John Johnston. The
+
+Anti-Aesthetic:Essayson PostmodernCulture.Ed. Hal Foster.Port Townsend, WA: Bay, 1983. 126-34.
+Bergstrom, Janet. 'Androids and Androgyny." CloseEncounters:Film, Feminism,
+and Science Fiction. Ed. Constance Penley et al. Minneapolis: U of Minnesota P, 1991. 33-60.
+Bukatman, Scott. "The Cybernetic (City) State: Terminal Space Becomes Phenomenal." Journalof the Fantasticin the Arts 2 (1989): 43-63.
+"Postcards from the Posthuman Solar System." Science-FictionStudies
+-,.
+18 (1991): 343-57.
+Csicsery-Ronay, Istvan. "Cyberpunk and Neuromanticism." Mississippi Review
+47-48 (1988): 266-78.
+Fitting, Peter. "The Lessons of Cyberpunk." Technoculture.Ed. Constance Penley and Andrew Ross. Cultural Politics 3. Minneapolis: U of Minnesota P,
+1991. 295-315.
+Gibson, William. Count Zero. 1986. New York:Ace, 1987.
+Mona Lisa Overdrive.New York:Bantam, 1988.
+--.
+Neuromancer.New York:Ace, 1984.
+-~.
+Grant, Glenn. "Transcendence through Detournement in William Gibson's
+
+" Science-Fiction
+Studies17 (1990):41-49.
+Neuromancer.
+
+Haraway, Donna. '"AManifesto for Cyborgs: Science, Technology, and Socialist
+Feminism in the 1980s." SocialistReview80 (1985): 65-107. Rpt. in Comingto
+Terms:Feminism, Theory, Politics. Ed. Elizabeth Weed. New York: Routledge, 1989. 173-204.
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+644
+
+*
+
+CONTEMPORARY
+
+LITERATURE
+
+Hollinger, Veronica. "Cybernetic Deconstructions: Cyberpunk and Postmodernism." Mosaic 23. 2 (1990): 29-44.
+Jameson, Fredric. "Postmodernism and Consumer Society." TheAnti-Aesthetic:
+Essays on PostmodernCulture. Ed. Hal Foster. Port Townsend, WA: Bay,
+1983. 111-25.
+. "Progress versus Utopia; or, Can We Imagine the Future?" Science•- FictionStudies9
+in Art
+Modernism:
+147-58.
+
+(1982):
+
+Rpt.
+
+after
+
+Rethinking
+
+Representation.Ed. Brian Wallis. Documentary Sources in Contemporary
+Art. New York: New Museum of Contemporary Art; Boston: Godine,
+1984. 239-52.
+Kuhn, Annette. Introduction to "PartV: Intertexts." Alien Zone: CulturalTheory
+
+ScienceFictionCinema.Ed. Annette Kuhn. London:
+and Contemporary
+Verso, 1990. 177-82.
+Luckhurst, Roger. "Border Policing: Postmodernism and Science Fiction." Science-FictionStudies 18 (1991): 358-66.
+Penley, Constance. "Time Travel, Primal Scene, and the Critical Dystopia."
+
+CloseEncounters:
+Film,Feminism,andScienceFiction.Ed. ConstancePenley
+et al. Minneapolis: U of Minnesota P, 1991. 63-80.
+
+in the Age of
+Ross, Andrew. StrangeWeather:Culture,Science,and Technology
+Limits. London: Verso, 1991.
+Sterling, Bruce, ed. Mirrorshades:The CyberpunkAnthology. 1986. New York:
+Ace, 1988.
+
+Suvin, Darko. Metamorphoses
+of ScienceFiction:On the PoeticsandHistoryof a
+LiteraryGenre. New Haven: Yale UP, 1979.
+Tomas, David. "Old Rituals for New Space: Rites de Passageand William Gibson's Cultural Model of Cyberspace." Cyberspace:First Steps. Ed. Michael
+Benedikt. Cambridge: MIT P, 1991. 31-47.
+
+Warrick,PatriciaS. The CyberneticImaginationin ScienceFiction.Cambridge:
+MIT P, 1980.
+
+This content downloaded from 147.8.31.43 on Thu, 28 Jan 2016 08:11:25 UTC
+All use subject to JSTOR Terms and Conditions
+
+

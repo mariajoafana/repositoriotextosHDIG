@@ -1,0 +1,860 @@
+32
+
+Cyberpunk and Post-Cyberpunk
+graham j. murphy
+
+Cyberpunk emerged in the early to mid-1980s initially to describe a cadre of
+authors whose thematic interests and narrative motifs were strikingly similar.
+The term originated with Bruce Bethke’s short story “Cyberpunk” (1983) and
+was bestowed by editor Gardner Dozois onto the early ﬁctions of William
+Gibson, Bruce Sterling, Rudy Rucker, John Shirley, and Lewis Shiner,
+although later entrants into the cyberpunk pantheon soon appeared.
+Cyberpunk marries the cyber- of cybernetics with the countercultural punk
+attitude of the 1970s, and this attitude is evident in the at-times tempestuous
+attitude cyberpunks had towards earlier SF. For example, Bruce Sterling
+edited the Cheap Truth fanzine in the earliest days of the Movement, as
+cyberpunk was initially known, and in his nom de plume “Vincent
+Omniaveritas” he sketched out cyberpunk’s countercultural attitude:
+“Extrapolations, that once held some intellectual validity, have now become
+distorted folk tales, passed down through generations. SF’s vision of the
+future has become a Punch and Judy show, ritualized, predictable, and only
+ﬁt for children.”1 Or, “Sue Denim,” aka Lewis Shiner, pitted the young
+upstarts against the establishment in his speculations on the 1985 Nebula
+Awards: “The voices of repression range from the senile babblings of Robert
+Heinlein to the California vapidity of Larry Niven to the moist-eyed urgency
+of Kim Stanley Robinson; arrayed against them are William Gibson, Lewis
+Shiner, and Jack Dann . . . For every Heinlein that smites a Gibson, thousands
+more will rise in his place. The SF revolution is crying out for literacy,
+imagination, and humanity; it needs only a victory in the Nebulas to shatter
+the giant’s terracotta feet. Up against the wall, Heinlein!”2
+
+1
+
+2
+
+Bruce Sterling (as Vincent Omniaveritas), “Cheap Truth Magazine, Issue #9,” Totse.com,
+totseans.com/totse/en/ego/on_line_zines/cheap09.html.
+Lewis Shiner (as Sue Denim). “Cheap Truth Magazine, Issue #10.” Totse.com, totseans.com
+/totse/en/ego/on_line_zines/cheap10.html (last accessed May 25, 2018).
+
+519
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+graham j. murphy
+
+It was this punk attitude that energized cyberpunk; after all, cyberpunk’s
+literary motifs certainly didn’t originate in the eighties. Cyberpunk’s genetic
+imprint can be found in such diverse offerings as Samuel Delany’s Nova
+(1968), Philip K. Dick’s Do Androids Dream of Electric Sheep? (1968), Joanna
+Russ’s “When It Changed” (1972) and The Female Man (1975), Thomas
+Pynchon’s Gravity’s Rainbow (1973), James Tiptree, Jr.’s “The Girl Who Was
+Plugged In” (1973), John Brunner’s The Shockwave Rider (1975), John Varley’s
+“Overdrawn at the Memory Bank” (1976), among others. Nevertheless,
+stories such as Gibson’s “The Gernsback Continuum” (1981) embody the
+revolutionary punk swagger. The story follows an American photojournalist
+hired to photograph the architectural remnants of a never-realized future,
+a “1980s that never happened. An architecture of broken dreams.”3 When the
+photographer begins seeing visions of an alternate America, he goes to Merv
+Kihn, who explains he is witnessing “semiotic phantoms, bits of deep cultural
+imagery that have split off and taken on a life of their own.”4 One such vision
+is of a white, blond, and likely blue-eyed American family standing in front of
+a futuristic city common to SF of earlier decades, prompting the narrator to
+recall, “It had all the sinister fruitiness of Hitler Youth propaganda.”5 In one
+deft sentence, Gibson’s story efﬁciently dismisses Golden Age visions of the
+future as akin to Hitler Youth propaganda, and it is these extrapolations that
+were vociferously rejected by cyberpunk.
+Gibson gave the ﬂedgling movement its gravitational locus and Sterling
+sets the scene in the documentary No Maps for These Territories (dir. Mark
+Neale, 2000): “When Lewis Shiner and I . . . were ﬁrst reading Gibson’s work
+in manuscript, we looked at it and said ‘Look, this is breakthrough material.
+This guy is really doing something different. Like we gotta put down our
+preconceptions and pick up on this guy from Vancouver. It’s the way
+forward.’ A hole had opened up in consensus reality and we just saw daylight.” Gibson’s ﬁrst novel, Neuromancer (1984), begins a trilogy that continues
+with Count Zero (1986), and Mona Lisa Overdrive (1988). The story follows
+Henry Dorsett Case, a crippled computer hacker who is recruited by the
+cyborg assassin Molly Millions, whom we’ve earlier encountered in “Johnny
+Mnemonic” (1981). The duo teams with the psychologically damaged
+Armitage and sociopathic Peter Riviera to pull off a series of heists for
+a mysterious employer. Neuromancer is in part modeled upon the hard3
+
+4
+5
+
+William Gibson,“The Gernsback Continuum,” Burning Chrome (New York: Ace, 1987),
+p. 25.
+Ibid., pp. 29–30.
+Ibid., p. 33.
+
+520
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+Cyberpunk and Post-Cyberpunk
+
+boiled detective ﬁctions of Dashiell Hammett and Raymond Chandler, so
+Gibson’s near-future is not only awash with diverse, often illicit, technologies
+but also told from the street-level of hustlers, criminals, and opportunists,
+a familiar narrative topos that Gibson expertly crafted in such stories as
+“Johnny Mnemonic,” “Burning Chrome” (1982),6 “New Rose Hotel” (1984),
+and “The Winter Market” (1985). In the end, “Sue Denim” witnessed the
+Nebula victory he longed for in his Cheap Truth editorial: Neuromancer won
+the 1985 Nebula Award for Best Novel, as it did the 1985 Hugo Award and the
+1984 Philip K. Dick Award, the ﬁrst (and only) time one book has won all
+three awards.
+A signiﬁcant problem for early cyberpunk, however, was Gibson’s success:
+the popularity of his narrative vision eclipsed the diversity of cyberpunk’s earliest
+practitioners. For example, John Shirley’s City Come A-Walkin’ (1980), published
+four years earlier, is tonally similar to Neuromancer, but his Song Called Youth
+series – Eclipse (1985), Eclipse Penumbra (1988), and Eclipse Corona (1990) – is more
+socio-politically engaged in its exploration of neo-fascism in the techno-digital
+age. Lewis Shiner’s Frontera (1984) involves colonizing Mars while Deserted Cities
+of the Heart (1988) features mushroom-induced psychedelic visions that involve
+time travel to an ancient Mayan age. Rudy Rucker’s Ware tetralogy – Software
+(1982), Wetware (1988), Freeware (1997), and Realware (2000) – follows the evolutionary paths of different kinds of robots (‘boppers’), robot–human hybrids
+(‘meatbops’), intelligent symbiotes (‘moldies’), and so forth. Bruce Sterling’s
+The Artiﬁcial Kid (1980) is set on the distant planet of Reverie where Arti, the
+novel’s protagonist, sells videos of himself engaged in bloodsport combat with
+his fellow ﬁghters, all for the amusement of the socio-economically privileged
+classes. On the other hand, his Schismatrix series – “Swarm” (1982), “Spider Rose”
+(1982), “Cicada Queen” (1983), “Sunken Gardens” (1984), “Twenty Evocations”
+(1984), and Schismatrix (1985) – takes place over the span of nearly 200 years and is
+set in the sprawling Shaper/Mechanist universe, a far-future posthuman era
+deﬁned by ongoing conﬂict between the Shapers, who modify their bodies
+chieﬂy through genetic modiﬁcations, and the Mechanists, adherents to cybernetic augmentations. Finally, his Islands in the Net (1988) addresses the difﬁculties
+of living off the grid and is set in locales largely ignored in cyberpunk, including
+Grenada, Singapore, and the African continent.7
+6
+
+7
+
+“Burning Chrome” coined the term “cyberspace,” which would quickly enter the English
+lexicon, although Neuromancer certainly popularized it.
+For further detail, see Mark Bould, “Afrocyberpunk Cinema: The Postcolony Finds its
+own Use for Things,” in Graham J. Murphy and Lars Schmeink, eds., Cyberpunk and Visual
+Culture (New York: Routledge, 2018), pp. 213–34.
+
+521
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+graham j. murphy
+
+In spite of the initial popularity, there was also an increasing sense that for all
+its revolutionary bluster,8 cyberpunk amounted to nothing more than a clever
+marketing campaign. After all, as famed SF editor David Hartwell once
+remarked in conversation, Sterling brought an idea for a cyberpunk anthology
+to Hartwell, who promptly told Sterling he didn’t have enough authors to
+assemble a collection. Sterling then went on a recruitment campaign to complete the project, and the release of Mirrorshades: The Cyberpunk Anthology (1986)
+effectively completed the rebranding of the Movement into the easily marketable cyberpunk. It was therefore always a retail category and cyberpunk impersonators and knock-offs quickly cashed in, although such novels as K. W. Jeter’s
+The Glass Hammer (1985), Walter Jon Williams’s Hardwired (1986), Robert
+Charles Wilson’s Memory Wire (1987), and Mirrorshades alumnus Tom
+Maddox’s Halo (1991) were better than most. In any event, Shiner categorically
+dismissed later cyberpunk as “sci-ﬁberpunk” in his New York Times editorial
+“Confessions of an Ex-Cyberpunk” (1991): “Other writers had turned the form
+into formula: implant wetware (biological computer chips), government by
+multinational corporations, street-wise, leather-jacketed, amphetamine-loving
+protagonists and decayed orbital colonies.”9 It also probably didn’t help that
+Sterling’s introductory remarks to Mirrorshades readily packaged cyberpunk:
+“Certain central themes spring up repeatedly in cyberpunk. The theme of body
+invasion: prosthetic limbs, implanted circuitry, cosmetic surgery, genetic alteration. The even more powerful theme of mind invasion: brain–computer interfaces, artiﬁcial intelligence, neurochemistry – techniques radically redeﬁning the
+nature of humanity, the nature of the self.”10 Shiner would not be the ﬁrst
+movement-era writer to declare cyberpunk dead. Sterling returned to conduct
+his own autopsy for Interzone in “Cyberpunk in the Nineties” (1998): “But today,
+it must be admitted that the cyberpunks . . . are no longer a Bohemian underground. This too is an old story in Bohemia; it is the standard punishment for
+success. An underground in the light of day is a contradiction in terms.
+Respectability does not merely beckon; it actively envelops. And in this sense,
+‘cyberpunk’ is even deader than Shiner admits.”11
+8
+
+9
+
+10
+11
+
+The revolutionary energy would eventually be substituted with a more “retroﬁt”
+outlook. Sterling eventually writes “cyberpunk is in some sense a return to roots,”
+chieﬂy acknowledging the importance of 1960s-era authors, including Philip
+José Farmer, Alfred Bester, and others. “Preface,” Mirrorshades (New York: Ace Books,
+1988), pp. x–xi).
+Lewis Shiner, “Confessions of an Ex-Cyberpunk.” New York Times (7 January 1991), lys
+ator.liu.se/lsff/mb-nr10/Saxat.txt (last accessed May 25, 2018).
+Bruce Sterling, Preface to Mirrorshades, p. xiii.
+Bruce Sterling, “Cyberpunk in the Nineties,” Interzone 48 (1991), http://lib.ru/STERLINGB/
+interzone.txt (last accessed May 25, 2018).
+
+522
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+Cyberpunk and Post-Cyberpunk
+
+While literary cyberpunk’s inﬂuence may be open to debate, it has
+arguably “been the most relevant and inﬂuential as a visual aesthetic.”12
+After all, Neuromancer’s opening line is the visually rich “the sky above the
+port was the color of television, tuned to a dead channel”;13 or, Pat
+Cadigan’s “Pretty Boy Crossover” (1986) features one of its characters,
+Bobby, trading his corporeal self for a “pretty boy” digital simulation
+where he can perpetually dance on the video screens of the hottest
+nightclubs. Given this visual preponderance, it is understandable why
+cinematic cyberpunk underwent its own evolution. Its benchmark consists
+of a trifecta of titles: TRON (dir. Steven Lisberger, 1982), Blade Runner (dir.
+Ridley Scott, 1982), and Videodrome (dir. David Cronenberg, 1983). With its
+neon-saturated and polluted urban sprawl, overcrowded streets, futuristic
+and anachronistic technologies, and incessant advertising, coupled with
+the fact that it is an adaptation of Dick’s Do Androids Dream of Electric
+Sheep?, Blade Runner is arguably the most inﬂuential cinematic vision of
+cyberpunk: Scott Bukatman writes that “cyberpunk provided the image of
+the future in the 1980s” and the “aesthetic of cyberpunk was almost
+deﬁned by Blade Runner.”14 Videodrome, however, is certainly no pushover:
+with its graphic and hallucinatory interrogation of media, mind-control
+conspiracies, and techno-organicism, Cronenberg’s bizarre cinematic journey is “the most signiﬁcant sf ﬁlm of the 1980s, and is certainly – and very
+early on – the most cyberpunk.”15 Finally, TRON is important in its own
+right as the ﬁlm’s depiction of the internal digital space of video games
+“set the standards for representing game space and still resonates in the
+popular cultural sensibility. With its 90°-angled grid-structure, the overlay
+of physical and virtual space, and the dark background lit with neon
+circuitry, TRON provided the space beyond the screen with its original
+blueprint”.16
+
+12
+
+13
+
+14
+15
+
+16
+
+Pawel Frelik, “‘Silhouettes of Strange Illuminated Mannequins’: Cyberpunk’s
+Incarnations of Light,” in Murphy and Schmeink, eds., Cyberpunk and Visual Culture, p. 81.
+William Gibson, Neuromancer (New York: Ace, 1984), p. 3. Famously, what once suggested a grey, overcast day now suggests a clear, bright blue sky, as the default color of
+a “dead channel” has shifted with the times.
+Scott Bukatman, Blade Runner, 2nd edn. (New York: Palgrave Macmillan, 2012), pp. 50, 58.
+Peter Nicholls, “Videodrome,” in John Clute, David Langford, Peter Nicholls, and
+Graham Sleight, eds., The Encyclopedia of Science Fiction (February 6, 2017), www.sfencyclopedia.com/entry/videodrome (last accessed May 25, 2018).
+Murphy and Schemink, eds., Cyberpunk and Visual Culture, p. 102. A case can be made to
+include WarGames (dir. John Badham, 1983), which includes teenaged hacker David
+(Matthew Broderick) whose playful hacking of a super-computer almost triggers
+a nuclear war with Russia.
+
+523
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+graham j. murphy
+
+It is tempting to argue the revolutionary energy infusing cyberpunk
+effectively died by the start of the 1990s, epitomized by Shiner’s eulogy, the
+rote sci-ﬁberpunk crowding the bookshelves, the critically panned but marginally successful The Lawnmower Man (dir. Brett Leonard, 1992), the ﬁnancial
+and critical failure of Johnny Mnemonic (dir. Robert Longo, 1995), and the
+commercial and critical bomb that was Billy Idol’s Cyberpunk (1993), an album
+for which Idol admits his “creative instincts and possibly even my taste
+seemed to abandon me this time around.”17 At the same time, cyberpunk
+was undergoing necessary transformations from its 1980s splendor. For
+example, a consistent critique was cyberpunk’s celebration of white, masculinist, heteronormativity that largely ignored the progressive inﬂuence of
+1970s-era feminist SF. A 1990s-era feminist inﬂux into cyberpunk produced
+Misha’s Red Spider White Web (1990), Marge Piercy’s He, She and It/Body of
+Glass (1991), Pat Cadigan’s Synners (1991), Maureen F. McHugh’s China
+Mountain Zhang (1992), Laura J. Mixon’s Glass Houses (1992), Mary
+Rosenblum’s Chimera (1993), and Melissa Scott’s Trouble and Her Friends
+(1994). Cadigan deserves special attention because as the only woman
+included in the Mirrorshades anthology, she cemented herself as the Queen
+of Cyberpunk with such short stories as “Rock On” (1984), “Pretty Boy
+Crossover,” “Roadside Rescue” (1985), and the novel Mindplayers (1987), itself
+a ﬁx-up novel comprising “The Pathosﬁnder” (1981), “Nearly Departed”
+(1983), “Variation on a Man” (1984), and “Lunatic Bridge” (1987). Synners
+deﬁes a quick summary, but the novel features genetic implants, computer
+hackers, the commodiﬁcation of dreams, corporate exploitation of burgeoning markets, digital uploads of consciousness, and the evolution of an
+artiﬁcial intelligence. Karen Cadora argues Synners subverts “cyberpunk’s
+masculinist conventions in important ways,”18 chieﬂy by virtue of implantable sockets that destabilize traditional masculinity: “these cyberpunks plug
+wires deep into their own brains. They are the penetrated, not the penetrating. Cadigan’s male cyberpunks are automatically feminized by virtue of
+their entry into the matrix.”19
+Interestingly, penetration is also central to Scott’s Trouble and Her Friends.
+The story follows retired hackers and former lovers Trouble and Cerise as
+their tracking of someone impersonating Trouble pulls them back into one
+another’s orbit and the hacking domain of Seahaven. What emerges is
+17
+18
+
+19
+
+Billy Idol, Dancing with Myself (New York: Touchstone, 2014), pp. 290–1.
+Karen Cadora, “Feminist Cyberpunk,” in Graham J. Murphy and Sherryl Vint, eds.,
+Beyond Cyberpunk: New Critical Perspectives (New York: Routledge, 2010), pp. 158.
+Ibid., p. 162.
+
+524
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+Cyberpunk and Post-Cyberpunk
+
+a conﬂict between the old-school hackers – white, straight, male, who rely
+solely on their manual hacking skills – and the more-recent hackers, who use
+implanted brainworm technology to hack digital databases. This new generation of hackers is clearly coded as women, queer, and/or persons of color
+and they are dismissed by the old-school hackers for relying on the implanted
+“worm” and therefore not being true hackers. In a roundtable discussion at the
+International Conference on the Fantastic in the Arts, Scott once acknowledged she was annoyed by cyberpunk’s conservatism and wrote Trouble and
+Her Friends as an explicit rebuttal to cyberpunk’s white, straight, masculinism.
+It clearly resonated with readers: Trouble and Her Friends won the 1995 Lambda
+Literary Award for Gay and Lesbian Science Fiction and Fantasy.
+While feminist or feminist-oriented cyberpunk may have been altering
+literary cyberpunk’s narrative landscapes, Neal Stephenson’s Snow Crash
+(1992) inherited the cyberpunk crown, joining Gibson’s Neuromancer on
+Time magazine’s list of 100 all-time best English-language novels post-1923.
+Snow Crash is a sprawling novel that follows pizza deliverer, hacker, and
+sword-wielder Hiro Protagonist and courier Y.T. (Yours Truly) as they
+navigate both a virtual world called the Metaverse and a balkanized
+America whose enclaves are ruled by private organizations, organized religion, and/or the maﬁa. Hiro’s and Y.T.’s skills are put to the test when facing
+an info-apocalypse based on a Sumerian ur-language which inﬁltrates the
+brain, reduces the user to a babble-spewing shell, and facilitates neurological
+reprogramming. The antagonists L. Bob Rife, a Christian fundamentalist, and
+Raven, a nuclear-bomb wielding Aleut, distribute the Snow Crash virus
+through an addictive drug, tainted blood, and/or a computer program that
+attacks hackers and leaves them vulnerable, if not brain dead. In addition to
+its ongoing popularity – Variety reported on September 28, 2017 that Amazon
+and Paramount Television were developing a Snow Crash adaptation – Snow
+Crash continues cyberpunk’s trend of “equating unchecked capitalist relations
+with dystopian futures.”20
+At the same time literary cyberpunk was undergoing metamorphosis, its
+two most prominent ﬁgures – William Gibson and Bruce Sterling – were
+again testing their collaborative mettle (following their co-written story “Red
+Star, Winter Orbit” [1983]) by travelling into an alternate version of the past
+with The Difference Engine (1990). In their co-authored novel, Gibson and
+Sterling depict an alternate history in which Charles Babbage has succeeded
+20
+
+Lisa Yaszek, “Cultural History,” in Mark Bould, Andrew M. Butler, Adam Roberts, and
+Sherryl Vint, eds., The Routledge Companion to Science Fiction (London and New York:
+Routledge, 2009), p. 196.
+
+525
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+graham j. murphy
+
+in constructing the Difference Engine and the Analytical Engine, steampowered computers that radically reshape the direction of the Industrial
+Revolution, the British Empire, and the world at large. The Difference Engine
+depicts a British Empire that, as a direct result of Babbage’s technological
+achievements and Ada Lovelace’s programming skills, is more powerful than
+its real-world nineteenth-century counterpart, a vast British North America
+(i.e., Canada) that has maintained imperial stability, a then-ﬂedgling United
+States that is both fragmented and geo-politically stunted, an Ireland that
+never suffered through the Great Famine (1845–9), and plenty of other
+alterations to the historical record. As John Clute writes for
+The Encyclopedia of Science Fiction, The Difference Engine depicts “a cruel and
+polluted Dystopia, a land dominated by calculation, measurement and
+severely ‘practical’ reason. Vast arterial roads ransack a choking London;
+huge masonical ediﬁces house the new totalitarian bureaucracy which operates the Engines; and a conscious AI is a-borning.”21 Nevertheless,
+The Difference Engine resonated with readers as it translated cyberpunk’s
+obsession with Alvin Tofﬂer’s future shock by projecting the force of technological change into a different epoch. It was nominated for several awards,
+including the British Science Fiction Award (1990) and the Nebula Award
+(1991), and helped popularize steampunk as a marketable niche within science
+ﬁction.
+Of course, while The Difference Engine may have popularized this niche
+label, steampunk existed prior to Gibson and Sterling’s inﬂuential novel.
+In fact, these cyberpunk forefathers arrived well after K. W. Jeter coined
+the term steampunk in a letter of April 1987 to Locus to encapsulate alternate
+history ﬁctions set amidst the backdrop of an industrial steam-powered era.
+This alternate history aesthetic can be carbon-dated to such novels as Jeter’s
+Morlock Night (1979) and Infernal Devices (1987), Tim Powers’s The Anubis Gates
+(1983), and James P. Blaylock’s Homunculus (1986), although Peter Nicholls
+and David Langford’s entry on steampunk for The Encyclopedia of Science
+Fiction draws attention to such proto-steampunk novels as Christopher
+Priest’s The Space Machine (1976), Michael Moorcock’s The Warlord of the Air
+(1971), William Kotzwinkle’s Fata Morgana (1977), John Mella’s
+Transformations (1975), and Steven Utley and Howard Waldrop’s “Black as
+the Pit, from Pole to Pole” (1977). Following the success of The Difference
+Engine, however, steampunk has evolved, even at times eclipsed, cyberpunk’s
+21
+
+John Clute, “William Gibson,” in John Clute, David Langford, Peter Nicholls, and
+Graham Sleight, eds., The Encyclopedia of Science Fiction (August 18, 2017), www.sfencyclopedia.com/entry/gibson_william (last accessed May 25, 2018).
+
+526
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+Cyberpunk and Post-Cyberpunk
+
+contemporaneous development, including Mirrorshades alumnus Paul Di
+Filippo’s three novellas – “Victoria” (1991), “Walt and Emily” (1993), and
+“Hottentots” (1995) – collected as The Steampunk Trilogy (1995), Ann and Jeff
+VanderMeer’s anthologies Steampunk (2008), Steampunk II: Steampunk
+Reloaded (2010), and Ann VanderMeer’s Steampunk III: Steampunk Revolution
+(2012), and Sean Wallace’s anthology The Mammoth Book of Steampunk (2012),
+to name only a sliver of titles from an otherwise voluminous corpus of work.
+Nicholls and Langford also draw attention to “China Miéville’s King Rat
+(1998), Perdido Street Station (2000) and several later works [that show]
+a debt to urban fantasy generally, and Steampunk in its darker aspects” and
+YA author Phillip Reeve, “arguably one of the prime movers in what
+followed, with at least seven very popular steampunk novels, from Mortal
+Engines (2001) to Scrivener’s Moon (2011).”22 And, of course, steampunk wasn’t
+restricted to prose: Alan Moore and Kevin O’Neill’s The League of
+Extraordinary Gentlemen (1999–2007; 2009–), Joe Kelly and Chris Bachalos’s
+Steampunk: Manimatron (2000–2), and Bill Willingham, Sergio Davilla, and Joe
+Benitez’s Legenderry: A Steampunk Adventure (2013–14) are only three steampunk comic book titles while video games, notably The Chaos Engine (Amiga
+1993), which was inspired by The Difference Engine, also trade heavily in
+steampunk motifs. As a result, steampunk has increasingly gained steam
+and “has gone far beyond [such] markers [as] gaslit alleys, intrepid urchins,
+steam-powered machines, and technologies that never were” to also include
+such locales as “Canada, New Zealand, Wales, ancient Rome, Australia,
+alternate California, and even the postapocalypse.”23 In fact, steampunk has
+arguably achieved the pinnacle of cultural endurance and saturation thanks
+to fashion and cosplay: clothing styles include “retro elements, most commonly from the Victorian era with such retro-tech accessories as motorists’
+or pilots’ goggles (preferably brass-framed) and clockwork components. This
+design aesthetic fed back into art objects, paintings, and more books – often
+young-adult – which attracted more young writers. Steampunk in this
+expanded sense became a widespread phenomenon that is still current.”24
+While steampunk may have a stronger claim to the do-it-yourself punk
+aesthetic that had initially deﬁned cyberpunk, cinematic cyberpunk recovered
+22
+
+23
+
+24
+
+Peter Nicholls and David Langford, “Steampunk,” in Clute, Langford, Nicholls, and
+Selight, eds., The Encyclopedia of Science Fiction, www.sf-encyclopedia.com/entry/steam
+punk (last accessed May 25, 2018).
+Kelly Link, ed., Steampunk! An Anthology of Fantastically Rich and Strange Stories
+(Somerville, MA: Candlewick Press, 2011), p. ix.
+Nicholls and Langford, “Steampunk.”
+
+527
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+graham j. murphy
+
+from the disappointing returns of Johnny Mnemonic and The Lawnmower Man to
+maintain its foothold in the nineties thanks to a handful of ﬁlms: Strange Days
+(dir. Kathryn Bigelow, 1995), eXistenZ (dir. David Cronenberg, 1999),
+The Thirteenth Floor (dir. Josef Rusnak, 1999), and The Matrix (dir. Wachowski
+siblings, 1999). Strange Days is very Cadigan-esque with its pulsing, end-ofmillennium celebrations and recordable and implantable memories and experiences known as SQUID recordings (Superconducting Quantum Interference
+Device). The ﬁlm follows Lenny Nero (Ralph Fiennes) and Lornette “Mace”
+Mason (Angela Bassett) who get caught up in the murders of Jeriko One (Glenn
+Plummer) and Iris (Brigitte Bako) when they come into possession of a SQUID
+that unravels a wider conspiracy. The Thirteenth Floor, loosely based on Daniel
+F. Galouye’s Simulacron-3 (1964), follows Douglas Hall (Craig Bierko), who is
+accused of murdering multibillionaire Hannon Fuller (Armin Mueller-Stahl),
+whose company has created a virtual reality simulation of Los Angeles, c. 1937.
+The avatars within this simulated 1930s-era Los Angeles are unaware they are
+computer programs, but Hall eventually learns he too is living in a vast
+simulation, c. 1999. Hall eventually ventures ofﬂine to the real world of 2024
+and discovers he was a puppet in a much larger and more complicated drama.
+Cronenberg’s eXistenZ fuses cyberpunk motifs with the body horror and bodily
+transgressions typically associated with Cronenberg’s oeuvre, much like his
+earlier Videodrome. In eXistenZ, futuristic video gamers are biotechnologically
+linked to their games via game pods that attach to ports surgically implanted
+into players’ spines. The ﬁlm follows Allegra Geller (Jennifer Jason Leigh), the
+creator of the eXistenZ organic reality system, as she goes on the run with Ted
+Pikul (Jude Law) following an assassination attempt. As Geller tries to save
+eXistenZ, reality slowly begins to dissolve into surrealism in typical
+Cronenbergian fashion. Although these movies were box-ofﬁce failures and
+garnered disparate reviews25 – eXistenZ earned respectable reviews; Strange
+Days was divisive for critics; The Thirteenth Floor was largely trashed – they
+remain important contributions to cinematic cyberpunk, particularly in their
+use of visual iconography that dissolves the boundaries between “real” and
+“virtual” domains, a thematic motif that achieved box-ofﬁce success with
+The Matrix.
+Keanu Reeves regained a wealth of cyberpunk credibility26 with his turn as
+Neo in the Wachowskis’ The Matrix, The Matrix Reloaded (2003), and
+25
+
+26
+
+As per box ofﬁce revenues reported on The Internet Movie Database and movie reviews
+available on Rotten Tomatoes.
+As the star of the titular Johnny Mnemonic, Reeves is partly to blame for his wooden
+performance in an otherwise atrocious ﬁlm (visuals notwithstanding).
+
+528
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+Cyberpunk and Post-Cyberpunk
+
+The Matrix Revolutions (2003). The Matrix follows hacker Neo who is recruited
+by Trinity (Carrie-Anne Moss) and Morpheus (Laurence Fishburne) into
+a larger conﬂict with Agent Smith (Hugo Weaving) and the Artiﬁcial
+Intelligences controlling the world. Neo learns he is living in a simulation
+and that he is nothing more than a battery servicing the needs of sentient
+machines that are waging an ongoing war with the remnants of humanity in
+the underground city of Zion. Morpheus follows the prophecy of the Oracle
+(Gloria Foster) and believes he has found ‘the One’ who will bring an end to
+the war. Neo doubts himself until he eventually embraces the prophecy and
+learns to manipulate the digital code of the matrix, temporarily besting Agent
+Smith and ﬂying off like Superman to the refrain of Rage Against the
+Machine’s “Wake Up.” The sequels continue Neo’s development as he settles
+into his role as the One, wages his ongoing battles against Agent Smith, and
+helps to broker a truce. The Matrix Revolutions ends with a beautiful sunrise
+beaming over the city and the Oracle (Mary Alice, replacing the nowdeceased Foster) professing her belief that Neo now heralds a bright future.
+The Matrix and The Matrix Reloaded received generally positive reviews –
+The Matrix Revolutions was savaged by critics – and the series was a ﬁnancial
+boon for Warner Bros. In addition, the trilogy’s success resides “not only
+through its wealth of references for the scholar and the ﬁlm fan, but also
+through the complexity of the narrative, which is contained within the
+Hollywood ﬁlm structure. The potency of the ﬁlms thus lies in their ability
+to appeal to both the popular audience and the cultural theorists.”27
+The Matrix franchise,28 coupled with scores of book-length critical studies
+and academic articles, ensured cyberpunk remained “fresh” heading into the
+new millennium.
+Part of cyberpunk’s endurance in the 1990s and into the ﬁrst decade of the
+twenty-ﬁrst century was also a result of its (albeit mixed) adaptation into
+television. Originally broadcast as Max Headroom: 20 Minutes into the Future on
+British Channel 4 (1985) followed by a video, music, and talk show (1985–7), the
+Americanized Max Headroom debuted on ABC and ran for two seasons from
+1987 to 1988. It sparked a cultural phenomenon: Max Headroom appeared in the
+Art of Noise’s Paranoimia music video (1986), as the spokesperson for New
+27
+
+28
+
+Stacy Gillis, “Introduction,” The Matrix Trilogy: Cyberpunk Reloaded (New York:
+Wallﬂower Press, 2005), p. 3.
+The trilogy is supplemented by other materials that comprise the franchise, such as
+animated short ﬁlms bundled as The Animatrix (2003), a series of video games that started
+with Enter the Matrix (Shiny Entertainment 2003), and The Matrix Comics web-based
+comic series.
+
+529
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+graham j. murphy
+
+Coke, and on countless merchandise items. Although Scott Bukatman considers
+this Max Headroom a diluted version of its British counterpart, it did address
+cyberpunk “aspects of spectacular culture (including violent spectator sports . . .
+information control and the invasion of privacy, television evangelism, and
+terrorism and the media).”29 VR.5 ran on the Fox network in 1995 and featured
+Sydney Bloom (Lori Singer), a young woman who, upon learning she can enter
+virtual reality, agrees to run missions for the secretive Committee. Chris
+Carter’s The X-Files made two explicitly cyberpunk-ish episodes – “Kill Switch”
+(1998) and “First Person Shooter” (2000) – written by William Gibson and Tom
+Maddox. In roughly the same period, Carter also launched Harsh Realm
+(1999–2000) on Fox which follows Lt. Thomas Hobbes (Scott Bairstow), who
+ﬁnds himself ﬁghting for his life when he is trapped inside a military simulation,
+although the ﬁght didn’t last long: it was cancelled shortly after it premiered.
+Dark Angel survived longer on Fox, completing two seasons from 2000 to 2002,
+and it followed Max Guevara (Jessica Alba), a genetically enhanced runaway
+from the Manticore project who is hiding from secret government agents all the
+while searching for other Manticore escapees. She is assisted chieﬂy by Logan
+Cale (Michael Weatherly), an underground, paraplegic cyber-journalist, and
+a group of friends she maintains in her public life as a bicycle courier. Joss
+Whedon returned to television after Buffy the Vampire Slayer (1997–2003), Angel
+(1999–2004), and Fireﬂy (2002) with Dollhouse (2009–10) starring Buffy and Angel
+alumnus Eliza Dushku as Echo, an Active or Doll, who has her entire personality wiped and alternate personalities uploaded before she is pimped out by
+a clandestine organization to wealthy clients for any number of so-called
+missions. Finally, Mr. Robot (2015–) follows cybersecurity engineer and hacker
+Elliot Alderson (Rami Malek), who joins the hacktivist team fsociety, headed by
+Mr. Robot (Christian Slater).
+Cyberpunk has also a notable history in comic books; in fact, one of
+cyberpunk’s chief precursors was the visual narratives collected in French
+magazine Métal Hurlant, particularly Jean “Moebius” Giraud’s illustrations of
+Dan O’Bannon’s “The Long Tomorrow” (1975–6). Bukatman addresses how
+“Moebius’s compacted urbanism, Phillip Druillet’s saturated darkness and
+Angus McKie’s scalar exaggerations” visually inﬂuenced Blade Runner; similarly, Gibson has acknowledged Neuromancer’s indebtedness to Moebius
+and Métal Hurlant.30 The visual aesthetics in cyberpunk comic books are
+29
+
+30
+
+Scott Bukatman, Terminal Identity: The Virtual Subject in Post-Modern Science Fiction
+(Durham, NC: Duke University Press, 1993), p. 67.
+Bukatman, Blade Runner, p. 26; Jeff Verona, “Heroes and Villains: Ventures and
+Adventures in the Comic Book Industry,” in Gary Westfahl, George Slusser, and Eric
+
+530
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+Cyberpunk and Post-Cyberpunk
+
+also evident in Frank Miller and Geof Darrow’s Hard Boiled (1990–2), Paul
+Pope’s Heavy Liquid (1999–2000), Robert Venditti and Brett Weldele’s
+The Surrogates (2005–6), Warren Ellis and Steve Pugh’s Hotwire: Requiem for
+the Dead (2009) and Hotwire: Deep Cut (2010), Philip K. Dick and Tony Parker’s
+Do Androids Dream of Electric Sheep? (2009–11), and Rick Remender, Sean
+Murphy, and Matt Hollingsworth’s Tokyo Ghost (2015–16), a series that also
+features steampunk-ish visual aesthetics. The standout English-language
+series, however, is undoubtedly Warren Ellis and Darick Robertson’s
+Transmetropolitan (1997–2002). The story features the trials and tribulations
+of gonzo-journalist Spider Jerusalem, who seeks the truth in a world awash
+with corruption and saturated with media and technological wonders.
+Jerusalem routinely ﬁnds himself at odds with the powers of authority,
+including two presidents (“The Smiler” and “The Beast”), all the while
+struggling against gradual urban decay, the slippery slope towards dystopia,
+and the responsibilities of his own fame. Spider even breaks the fourth wall
+on occasion and speaks directly to the reader, imploring them to learn the
+lessons of his own cyberpunk exploits.
+The notion of “post-cyberpunk” gained some early traction in the new
+millennium, assisted in no small part by James Patrick Kelly and John Kessel’s
+Rewired: The Post-Cyberpunk Anthology (2007), a collection of short stories that
+includes more-recent offerings by Mirrorshades alumni Sterling,
+Gibson, Cadigan, and Di Filippo coupled with Greg Egan’s “Yeyuka”
+(1997), Gwyneth Jones’s “Red Sonja and Lessingham in Dreamland” (1996),
+Charles Stross’s “Lobsters” (2001), Paolo Bacigalupi’s “The Calorie Man”
+(2005), Mary Rosenblum’s “Search Engine” (2005), and Cory Doctorow’s
+“When Sysadmins Ruled the Earth” (2006), to name a few titles. In their
+introduction, Kelly and Kessel explain post-cyberpunk in this fashion:
+The punk in post-cyberpunk [PCP] continues to make sense if it is pointing
+toward an attitude: an adversarial relationship to consensus reality. This
+attitude is just south of cynicism but well north of mere skepticism. It has to
+do with a reaction to a world in which humanity must constantly be
+renegotiated . . . The characters in a PCP story need this healthy dose of
+attitude because their relationship to reality is different from ours . . . reality
+itself is everywhere mediated, and what comes between the characters and
+reality must constantly be interrogated.31
+
+31
+
+S. Rabkin, eds., Science Fiction and Market Realities (Athens, OH: University of Georgia
+Press, 1996), pp. 184–93; p. 191.
+James Patrick Kelly and John Kessel, “Hacking Cyberpunk,” in James Patrick Kelly and
+John Kessel, eds., Rewired: The Post-Cyberpunk Anthology (San Francisco: Tachyon Books,
+2007), p. xii.
+
+531
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+graham j. murphy
+
+Nevertheless, differentiating between “cyberpunk” and “post-cyberpunk”
+seems akin to splitting hairs, especially considering the cyberpunk label is
+unwilling to give up the ghost, as shown by Pat Cadigan’s The Ultimate
+Cyberpunk (2002) or Cyberpunk: Stories of Hardware, Software, Wetware,
+Evolution, and Revolution (2013), edited by Victoria Blake and featuring the
+usual suspects – Gibson, Sterling, Cadigan, Shiner, Rucker, Di Filippo, and
+Shirley – and such unlikely entrants as Kim Stanley Robinson (“Down and
+Out in the Year 2000” [1986]), David Marusek (“Getting to Know You”
+[1998]), or Daniel H. Wilson (“The Nostalgist” [2009]). At the same time,
+cyberpunk, post-cyberpunk, or cyberpunk-ish novels of the new millennium include Justina Robson’s Silver Screen (1999) and Mappa Mundi (2001),
+Richard K. Morgan’s Takeshi Kovacs series (Altered Carbon [2002], Broken
+Angels [2003], and Woken Furies [2005]) and Market Forces (2004), Marianne de
+Pierres’s Parrish Plessis series (Nylon Angel [2004], Code Noir [2004], and
+Crash Deluxe [2005]), Daniel Suarez’s Daemon (2006) and Freedom (2010),
+Adam Sternbergh’s Near Enemy (2015), K. C. Alexander’s Necrotech (2016),
+Matthew de Abaitua’s The Destructives (2016), or Annalee Newitz’s
+Autonomous (2017). Cyberpunk aesthetics have even ﬁltered into such
+young adult titles as M. T. Anderson’s Feed (2002), Cory Doctorow’s Little
+Brother (2008) and Homeland (2013), James Dashner’s The Morality Doctrine
+series (The Eye of Minds [2013], The Rule of Thoughts [2014], The Game of Lives
+[2015]), Patrick Ness’s More Than This (2013), and Ernest Cline’s Ready Player
+One (2011), to again name a few titles. At the same time, Lars Schmeink,
+channeling Brian McHale, points to the phenomenon of biopunk as
+a cyberpunk sub-variety “which has since grown into a larger and more
+varied cultural formation” and, by the end of the twentieth century, “the
+genetically engineered posthuman has brought forth a cultural formation of
+biopunk that spans many different forms of culture.”32 Biopunk examples in
+Schmeink’s study include Margaret Atwood’s MaddAddam trilogy (Oryx and
+Crake [2003], The Year of the Flood [2009], and MaddAddam [2013]),
+Bacigalupi’s award-winning The Windup Girl (2009), the ﬁlm Splice (dir.
+Vincenzo Natali, 2009), or the video game BioShock (Irrational Games and
+Looking Glass Studios [2007]). Nevertheless, the ongoing work from yesterday’s cyberpunks, including such forefathers as William Gibson
+(The Peripheral [2014]) and Bruce Sterling (Pirate Utopia [2016]), coupled
+
+32
+
+Lars Schmeink, Biopunk Dystopias: Genetic Engineering, Society, and Science Fiction
+(Liverpool: Liverpool University Press, 2016), pp. 7–8.
+
+532
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+Cyberpunk and Post-Cyberpunk
+
+with an endurance despite competition from steampunk and biopunk,
+show a thriving market for cyberpunk in the twenty-ﬁrst century.
+It bears noting that cyberpunk is not a strictly North American phenomenon. For example, Japanese cyberpunk was a popular cinematic subgenre
+in Japan, organized chieﬂy around such directors as Shigeru Izumiya (Death
+Powder [1986]), Shin’ya Tsukamoto (Tetsuo: The Iron Man [1989]), and Shozin
+Fukui (√964 Pinocchio [1991], Rubber’s Lover [1996]). Although largely
+unknown outside Japan, Death Powder is “arguably the ﬁrst ﬁlm of Japan’s
+extreme cyberpunk movement, exemplifying the invasive, corporeal surrealism that would follow over the next ten years.”33 Japanese cyberpunk
+rejected much of what had been popularized in North American cyberpunk
+to instead focus on visions of “industrial scrap – Tetsuo – and makeshift
+laboratories built from crude and dated equipment – Rubber’s Lover – lending a DIY aesthetic to their overall ethos.”34 Finally, Japanese cyberpunk
+was often set in “the present-day, real-life cyberpunk city of Tokyo, suggesting that anxieties over rapid modernity are not some far-off venture but
+something that should be worried about now,”35 anxieties that also formed
+the core of much Japanese anime and manga, particularly Katsuhiro
+Ôtomo’s Akira (1982–90 [manga]; 1988 [anime]) and Masmune Shirow’s
+Ghost in the Shell franchise.
+Ôtomo’s voluminous Akira is set in post-World War III Neo-Tokyo and
+follows the adventures of Tetsuo Shima and Shōtarō Kaneda as they navigate
+a complex and bloody world featuring post-apocalyptic biker gangs, biological mutations, and secret military agencies. It is on this sprawling canvas of
+“nuclear blasts, high-speed bike chases, and profuse gunplay [that] Ôtomo
+used the protagonists’ predicament to explore the value of friendship, the
+isolation and disillusionment of youth subcultures, and the state of the
+subject faced with corrupt, irresponsible authorities.”36 Akira achieved
+remarkable success, in part a result of Ôtomo’s anime adaptation as well as
+its import by Marvel Comics’ Epic Comics imprint that translated and
+digitally colorized Akira for a North American audience. Masmune
+Shirow’s Ghost in the Shell franchise has also proved immensely popular in
+domestic and international markets with its ongoing tales of Major Motoko
+33
+
+34
+35
+36
+
+Mark Player, “Post-Human Nightmares – The World of Japanese Cyberpunk Cinema,”
+Midnight Eye (May 13, 2011), www.midnighteye.com/features/post-human-nightmaresthe-world-of-japanese-cyberpunk-cinema (last accessed May 25, 2018).
+Ibid.
+Ibid.
+Abraham Kawa, “Comics Since the Silver Age,” in Bould, et al., eds., The Routledge
+Companion to Science Fiction, p. 165.
+
+533
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+graham j. murphy
+
+Kusanagi, a cyborg ofﬁcer and squad leader of Public Security Section 9, who
+struggles with her identity as a “‘ghost’ of human essence [that] inhabits
+a state-of-the-art ‘machine,’ at times rendering the soul, as well as the ﬂesh
+and blood understanding of human life, as mere data – a freely transferable
+artiﬁcial intelligence desperately seeking to maintain its own singularity and
+identity.”37 Ghost in the Shell has therefore proved to be both successful and
+immensely important as a transmedia product, including Ghost in the Shell
+(1989–1990 [manga]; 1995 [anime]); Ghost in the Shell 2: Man–Machine Interface
+(1991–7 [manga]); Ghost in the Shell 2: Innocence (2004 [anime]); Ghost in the
+Shell: Stand Alone Complex (2002 [TV animation]); Ghost in the Shell: S.A.C. 2nd
+GIG (2004 [TV animation]); Ghost in the Shell: Stand Alone Complex
+The Laughing Man (2005 [original video animation]); Ghost in the Shell: Stand
+Alone Complex Individual Eleven (2006 [original video animation]; Ghost in the
+Shell: Stand Alone Complex – Solid State Society (2006 [anime]); Ghost in the Shell:
+The New Movie (2015 [anime]), and Hollywood’s Ghost in the Shell (dir. Rupert
+Sanders, 2017), although this Hollywood version was a critical and ﬁnancial
+failure, in part because of the whitewashing controversy surrounding casting
+Scarlett Johansson in the lead role.
+Cyberpunk has also gone increasingly global. For example, Sleep Dealer
+(dir. Alex Rivera, 2008) is set largely in Mexico and focuses on three intersecting characters: Memo Cruz, a young hacker who is forced to leave his
+home and ﬁnd work in Tijuana as a node worker (“sleep dealer”); Luz
+Martínez, an idealistic journalist who uploads her daily memories and experiences to an online vlog on a pay-per-play basis; and, Rudy Ramirez, a drone
+pilot whose missions to secure corporate water rights are the subject of
+a Cops-style television show called Drones. As Sherryl Vint writes regarding
+Memo’s experiences, “in contrast to what we expect of heroes in cyberpunk
+ﬁction, whose mastery within cyberspace transforms their marginal position
+in the material world into one of mastery within cyberspace, Memo remains
+marginalized in both material and virtual realms,”38 although both Luz and
+Rudy undergo their own marginalization in this digital global economy.
+Of course, marginalization and global economics are familiar for residents
+of Cuba, and in his study of the relationship between SF and Cuba’s social
+reality, Juan C. Toledano Redondo notes that “despite the late publication
+37
+
+38
+
+Paul Wells, “Animation,” in Rob Latham, ed., The Oxford Handbook of Science Fiction
+(Oxford: Oxford University Press, 2014), p. 192.
+Sherryl Vint, “Cyberwar: The Convergence of Virtual and Material Battleﬁelds in
+Cyberpunk Cinema,” in Murphy and Schmeink, eds., Cyberpunk and Visual Culture
+(New York: Routledge, 2018), p. 265.
+
+534
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+Cyberpunk and Post-Cyberpunk
+
+and limited publication of cyberpunk texts, they were absorbed quickly in
+Cuba during the late 1990s, condensing the evolution of the subgenre into
+just a few years.”39 Toledano Redondo points to such Cuban authors as Yoss
+(José Miguel Sánchez), Vladimir Hernández Pacín, and Michel Encinosa Fú
+in such collections as Timshel and Reino eterno: Cuentos de fantasía y ciencia
+ﬁcción (Eternal Kingdom: Stories of fantasy and science ﬁction, Yoss, 1989;
+1999), Interfase: Selección de cuentos cyberpunk and Nova de cuarzo (Hernández
+Paćin, 1997; 1999), and Niños de neón (Fu, 2001) to show how “Cuban
+cyberpunk style rebels against both socialist realism and imperialistic latecapitalism.”40
+Perhaps cyberpunk’s most widespread inﬂuence resides with the multibillion dollar gaming industry. Scholars have pointed out the pervasive
+“cyberpunk-ness” of role-playing games (e.g., Cyberpunk 2020, R. Talsorian
+Games, 2010) and video games that maintain the visual aesthetic established
+by even the earliest cyberpunk, including Final Fantasy (Square Enix,
+1987–present), Neuromancer (Interplay, 1988), System Shock (Looking
+Glass, 1994) and System Shock 2 (Irrational Games, 1999), Shadowrun
+(BlueSky, 1994), Sid Meier’s Alpha Centauri (Firaxis, 1999), Rez (Sega, 2001),
+Darwinia (Introversion, 2005), Dystopia (Puny Human Games, 2007), the Mass
+Effect franchise (Bioware, 2007–present), Deus Ex: Human Revolution (Square
+Enix, 2011), Remember Me (Dontnod Entertainment, 2013), and Watch Dogs
+(Ubisoft, 2014).41 Since the gaming industry remains healthy, there is every
+reason to believe cyberpunk will continue to inﬂuence it.
+In the end, cyberpunk has diversiﬁed and inﬁltrated popular culture to
+such an extent that it is difﬁcult to think of it as a deﬁnable genre or subgenre;
+instead, Thomas Foster, drawing upon the work of Lawrence Grossberg,
+explains it isn’t so much a “genre, which is organized around ‘the existence of
+necessary formal elements,’ [as] a cultural formation [which is] a historical
+articulation of textual practices with ‘a variety of other cultural, social,
+39
+
+40
+41
+
+Juan C. Toledano Redondo, “From Socialist Realism to Capitalism: Cuban Cyberpunk,”
+Science Fiction Studies 32, 3 (November 2005), p. 450.
+Ibid.
+See Stina Attebery and Josh Pearson, “‘Today’s Cyborg is Stylish’: The Humanity Cost of
+Posthuman Fashion in Cyberpunk 2020,” in Murphy and Schmeink, eds., Cyberpunk and
+Visual Culture, pp. 55–79; Mark R. Johnson, “The History of Cyberspace Aesthetics in
+Video Games,” in Murphy and Schmeink, eds., Cyberpunk and Visual Culture, pp. 139–54;
+Stephen Joyce, “Playing for Virtually Real: Cyberpunk Aesthetics and Ethics in Deus Ex:
+Human Revolution,” in Murphy and Schmeink, eds., Cyberpunk and Visual Culture,
+pp. 155–73; and Jenna Ng and Jamie Macdonald, “‘We Are Data’: The Cyberpunk
+Imaginary of Data Worlds in Watch Dogs,” in Murphy and Schmeink, eds., Cyberpunk
+and Visual Culture, pp. 174–89.
+
+535
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+graham j. murphy
+
+economic, historical and political practices.’”42 As a cultural formation,
+cyberpunk has always already been extrapolating upon techno-mediated
+realities while it continues to integrate “worlds that were formerly separate:
+the realm of high tech, and the modern pop underground.”43 Cyberpunk has
+experienced “a sea change into a more generalized cultural formation”44
+since it ﬁrst burst forth in the 1980s and it continues to evolve and expand
+in response to changing global conditions. We are arguably living in cyberpunk’s futures, so our cyberpunk ﬁctions – past, present, and future – are
+more important today than they have ever been.
+
+42
+
+43
+44
+
+Thomas Foster, The Souls of Cyberfolk: Posthumanism as Vernacular Theory (Minneapolis:
+University of Minnesota Press, 2005), p. xvi. See Murphy and Schmeink’s Cyberpunk and
+Visual Culture for an exploration of cyberpunk as a “cultural formation.”
+Sterling, Mirrorshades, p. xi.
+Foster, The Souls of Cyberfolk, p. xiv.
+
+536
+
+Downloaded from https://www.cambridge.org/core. Stockholm University Library, on 09 Nov 2019 at 23:29:12, subject to the Cambridge Core
+terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781316694374.034
+
+

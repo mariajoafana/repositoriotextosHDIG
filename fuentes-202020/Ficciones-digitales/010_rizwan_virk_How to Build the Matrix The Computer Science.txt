@@ -1,0 +1,771 @@
+How to Build the Matrix: The Computer Science
+The design of game playing machines may seem at
+first an entertaining pastime rather than serious
+scientific study and indeed, many scientists, both
+amateur and professional, have made a hobby of this
+fascinating subject. There is, however, a serious side
+and significant purpose to such work…1
+—Claude Shannon, MIT and Bell Labs
+Computer science inverts the normal. In normal
+science, you're given a world, and your job is to find
+out the rules. In computer science, you give the
+computer the rules, and it creates the world.2
+—Alan Kay, Apple, Atari and MIT
+Chapter 1
+Stages 0 to 3: From Pong to MMORPGs
+Forty years ago, we had Pong—two rectangles and a
+dot. That’s where we were.
+Now 40 years later, we have photorealistic, 3D
+simulations with millions of people playing
+simultaneously and it’s getting better every year. And
+soon we’ll have virtual reality, we’ll have augmented
+reality.
+If you assume any rate of improvement at all, then the
+games will become indistinguishable from reality.
+—Elon Musk, Code Conference, 20163
+One of the main reasons so many scientists, philosophers, and
+technologists have started to take the simulation hypothesis more
+seriously now, in the early 21st century, rather than in earlier eras of
+computing, is because of the sophistication and rapid advancement
+of video games and graphics technology.
+Speaking at the Code Conference in 2016, Elon Musk, founder of
+Tesla and SpaceX, reflected on how far we had come with video game
+technology since the creation of Pong some 40 years ago. He
+conjectured that if video game technology continued its rapid pace of
+improvement, then it was inevitable that we would be able to create
+hyper-realistic simulations that would be indistinguishable from
+physical reality. He concluded that, assuming technology keeps
+developing as it has in the past, the chance that we aren’t in a
+simulation was “one in billions.”
+Oxford’s Nick Bostrom, in his 2003 paper which popularized the
+Simulation Argument, refers to a species which is able to build these
+hyper-realistic simulations as becoming “post-human.” I like to say
+that such a civilization has passed the “Simulation Point.”
+This would be the point in a technological civilization’s
+development when it possesses the ability to create hyper-realistic
+simulations. This includes having the raw computing power to keep
+track of a large number of seemingly individual points of
+consciousness, record all of their experiences, and render the
+environment with such precision that it’s indistinguishable from
+what we call the “physical world.” At this theoretical point, we would
+also have the ability to beam the consciousness of the “players” into a
+shared world, record the players’ responses, and have artificial
+intelligence that simulates individual beings of the world (which
+would be akin to non-player characters in this game).
+The Road to the Simulation Point
+In this part of the book, we will look at the question of whether
+and how it would be technologically possible for us to construct a
+simulation that is as all-encompassing as the one in The Matrix.
+We’ll start with the history of video game technology from the first
+video games of the 1960s and 1970s to today’s more sophisticated
+MMORPGs. Then we’ll project forward to such key technologies as
+virtual reality, augmented reality, direct mind broadcast, artificial
+intelligence, and downloadable consciousness. I call this "traveling
+the road to the simulation point,” and we’ll conclude with a reflection
+on what the end result, the Great Simulation, looks like. By traveling
+this road, you’ll see how some of the questions I have been asking my
+whole life about the game world and its existence are natural
+outgrowths of how the technology has developed.
+By the end, we’ll see concrete steps that make the simulation
+hypothesis not only possible but probable if our technology keeps
+developing on its current trajectory. We’ll end this part of the book
+by looking at what having a civilization reach this point might mean
+by examining Bostrom’s Simulation Argument and his ideas of
+ancestor simulations in detail.
+The Modern Stages of Video Game Technology
+How far away are we from being able to produce a fully
+immersive simulation like that in The Matrix?
+While we can’t know for certain exactly how far away we are from
+the simulation point, we can take a historical look at the
+development of video game technology, breaking it down into stages.
+We can then project those stages forward until we reach the
+simulation point.
+If we think of the sophistication of rendering technology from
+early video games up to today, we can classify its development into
+four stages: Stage 0 through Stage 3, from the days of single-player
+video games to today’s highly sophisticated multiplayer 3D games
+rendered online.
+As we do so, we’ll uncover many ways in which the video games of
+today may be providing the underlying infrastructure for future
+stages to reach the simulation point. At that point, we will be able to
+simulate a full photorealistic virtual simulation that includes millions
+if not billions of individual agents of consciousness, complete with
+individual quests and storylines for each agent.
+While rendering technology is important, another key factor in
+these stages turns out to be the sophistication of the control
+mechanisms, or how players give input to the simulation. This
+includes keyboards, joysticks, specialized controllers, haptic
+technology (touch sensitivity), voice activation, and eventually mind
+interfaces and downloadable consciousness.
+Stage 0: Text Adventures and the “Game World” (1970s to mid-
+1980s)
+As we look at the early history of video games, Stage 0 (singleplayer
+text adventures) actually developed in parallel with Stage 1
+(simple graphical arcade games), but I have split them up because of
+their different characteristics and technical underpinnings. Both
+represent distinct but necessary steps on the road to the simulation
+point.
+The first text adventure game was Colossal Cave Adventure, built
+by Will Crowther in 1976 on a PDP-10 mainframe computer. This
+game, whose user interface is shown in Figure 1, was based partly on
+the Mammoth Caves in Kentucky, where Crowther had spent a lot of
+time.
+Many other programmers, including Don Woods from Stanford,
+took Crowther’s original code and ported it to many different
+computer systems, adding the many fantasy elements of the game
+that made it a precursor of the many adventure games to follow.
+In text adventures, the game presents a textual description of a
+room or location your character is in, and you type in commands.
+These commands might be movement commands (go south, go
+north) or object related (take knife, drop gold, etc.). After taking your
+input, the program tells you what happened as a result of your
+actions.
+This basic “game loop,” which has been maintained even in
+today’s more sophisticated graphical games, can be broken down
+into the following steps:
+1. The computer presents the existing state of the game world
+and your character.
+2. The player issues a command.
+3. The program changes the game state based on this
+command and other factors.
+4. Repeat.
+Figure 1: Text adventure interface (from the original Adventure)
+In many ways, Adventure (as it’s called for short) influenced
+many of the adventure and fantasy games to come, even noncomputer
+tabletop games such as Dungeons & Dragons. In D&D, the
+DM (or dungeon master) tells the players the state of the world and
+their place in it. Each player then tells the DM what their character
+does (move, fight, etc.) during a turn. The DM, via a combination of
+rolling dice and consulting the master adventure map, tells the
+players what happens to each of their characters. This is very similar
+to the basic loop described above, with the computer playing the role
+of the DM and keeping the state of the game world updated.
+This concept of the “game state” was maintained in the early text
+games only while the game was running. When you exited the game,
+it would reset. Later, as text games became available on PCs, you
+could save the game state on disk (initially floppy disks but later on
+hard disks) and keep playing from that point forward.
+In the early 1980s, a group of MIT grads started Infocom, which
+produced the extremely popular text games Zork I and Zork II for
+both PCs and Apple computers. Infocom was very successful in its
+day and produced a whole suite of games using its underlying text
+engine, ranging from original adventures like Planetfall to those
+based on licensed properties such as The Hitchhikers Guide to the
+Galaxy.
+Text adventures such as Colossal Cave Adventure, Zork, and even
+Dungeons & Dragons (the offline version) used the most powerful
+graphics engine available—that of our minds. Because these games
+lacked graphics, they forced players to use their imaginations to
+visualize these worlds, which could be quite expansive. For example,
+in Colossal Cave Adventure, there was a map of the different
+“rooms” or caves you could explore. As players explored the world,
+they often tried to recreate this map (a famous example of this is
+shown in Figure 2: ).
+Figure 2: Map of Colossal Cave Adventure
+Text games are rarely played by today’s video game generation,
+although there is a subgenre called “interactive fiction” that keeps
+this tradition alive. Some purists in the video game industry feel that
+all video games since, with their ever-increasing graphical
+representations, have lost something, since no rendering can be as
+vivid as what we see in our imagination. Of course, this is akin to
+those who believe no film representation of a work of fantasy fiction
+like Lord of the Rings could match what they have seen in their
+imagination while reading it.
+While today’s video games are much more sophisticated, these
+early text adventure games introduced several very important
+elements that have survived in games to this day:
+A Big Game World. Text adventure games introduced
+the idea of a world that was bigger than what was on the
+screen at any one time and had to be explored. This was
+different from early arcade games, where what you saw
+on the screen was pretty much what you got.
+Player Game State. With text adventures, the concept of
+a player game state was born, including any metadata
+(experience points or xp, level, character information)
+as well as artifacts (gold, weapons, etc.), and the player’s
+location within the world. Eventually, this game state
+could be saved and the player could resume playing
+from the same point forward.
+World Game State. The game state included not only
+the state of your character but also the state of the game
+world itself, which may have changed based on your
+actions. This became important when the player
+revisited the same location. It became even more
+important with multiplayer games, in which multiple
+players could impact the world’s game state.
+Non-Player Characters (NPCs). Text games introduced
+the very first NPCs. You could converse with these
+characters. These conversational engines were the
+beginnings of a very big industry of chat-bots today and
+among the very first examples of artificial intelligence.
+Textual input. Text games allowed you to interact with
+the characters by typing text, unlike arcade games,
+where you controlled movement using buttons and
+joysticks. These commands relied on a very specific
+grammar, such as “go north” or “drop knife.” Though
+this changed in subsequent stages of video game
+development, textual input—whether delivered vocally
+or via the keyboard—is still an essential element in
+sophisticated simulations today and will remain so in
+the future.
+Basic Game Loop. The basic game loop, described a few
+pages back, has been maintained in more advanced roleplaying
+games to this day, albeit with more players and
+more aspects. The way in which the environment is
+described has changed with technology updates, as have
+the commands and how they are entered. Nevertheless,
+the basic game loop has remained: presenting the player
+with an environment, allowing each player to issue
+commands, updating the game world, and repeat.
+These early adventure games introduced the idea of playing the
+role of a character inside a virtual world, even if the world was only
+described via text and mostly existed in the mind of the player. The
+basic elements introduced by these games provided not only the
+underpinnings of today’s MMORPGs but also the beginning of a
+framework for how we can think about the realization of the
+simulation hypothesis.
+In what may seem like a strange irony, as we travel down the road
+to the simulation point, the idea of using the mind’s imagination
+(rather than an external screen) to visualize a game world will come
+back up in some of the more advanced stages.
+Stage 1: Early Graphical Arcade and Console Games (1970s-1980s)
+Though we define early graphical games as Stage 1, it might
+surprise you to know that the first graphic video games preceded
+Colossal Cave Adventure. The first arcade game that most people
+remember (and the first that was widely available) was Pong,
+released by Atari in 1972. It consisted of a few dots on the screen of a
+monitor built into a cabinet, as shown in Figure 3. Actually, even
+before Pong came SpaceWar!, a graphical game built at MIT on the
+PDP-10. Because it was built on a mainframe, it wasn’t widely
+available outside of universities and didn’t have the controls that
+made Pong such as success.
+Figure 3: The introduction of Pong by Atari in 1972 ushered in the modern era of video games.
+4
+Early graphical games were more about controlling movement
+and action on the screen than they were about exploring internal
+worlds, and so by themselves might not seem to have contributed a
+whole lot to our discussion about a fully rendered virtual world.
+Their most significant contribution was that they pioneered the field
+of computer graphics; as the hardware improved, so did the
+rendering techniques and the quality of the graphics. Programming
+these games required programming pixels rather than text, which
+required optimization given the limited resources of the computers
+of the day.
+While most games today are written in higher-level programming
+languages such as C# and Java, much of the programming in those
+days was done in assembly language, which is the native language of
+any processor. Assembly language consists of hexadecimal codes that
+vary by CPU (central processing unit). These codes tell the processor
+what to do physically, such as put a value into a register or location
+in memory.
+For this reason, code running in assembly language is very fast
+and so was optimal for early computer graphics, which needed to
+update pixels on the screen almost instantly every time the user
+made a move.
+However, while assembly language is much more efficient than
+higher-level languages (and in fact, most higher-level languages must
+be compiled down into assembly language to run on a particular
+computer), it has only a limited number of commands and it’s very
+time-consuming to write even simple programs. When I was first
+programming my Tic Tac Toe game in the BASIC programming
+language (one of the easiest higher-level languages for a kid to learn),
+I remember seeing snippets of graphics code written in assembly
+language in Byte magazine. I recall being horrified at the rows of
+hexadecimal numbers and wondering how long it would take to write
+even a simple game in such a low-level language!
+Nevertheless, the video game pioneers of that time persisted,
+squeezing every bit of performance out of the limited hardware and
+memory of the day to create these early arcade games. A well-known
+anecdote from Silicon Valley at the time involves future Apple
+Computer co-founders Steve Jobs and Steve Wozniak. Jobs worked
+for Nolan Bushnell, the founder of Atari, and promised his boss that
+he could build a certain game quickly and using limited memory
+resources. Bushnell was skeptical but gave him the project. At night,
+Jobs brought in his friend, Steve Wozniak, who, created the game at
+night after his full-time engineering job. Wozniak, of course, as the
+future creator of the first Apple computers, is acknowledged today as
+a hardware genius.
+In some ways, the history of video games is the history of
+optimizing very limited resources. Without these optimization
+techniques, the entire field of computer graphics (and thus video
+games and digital media) would not be possible, nor would we have
+traveled very far down the road to the simulation point.
+You can then see a direct line from Pong to more sophisticated
+arcade games such as Pac-Man and Space Invaders, developed by
+Japanese companies in what some refer to as the golden age of
+Japanese video games.
+Most of us, however, first experienced these video games with the
+introduction of Atari’s 2600 VCS system, which had a graphical
+version not only of Adventure, but also had Space Invaders (Figure
+4) and Pac-Man. There were also early racing games like Pole
+Position (Figure 5), which was the game that raised questions in my
+teenage mind about the world “in there”, beyond the racetrack.
+Stage 1 graphical arcade-style games were characterized by many
+important elements that would go on to feed further stages on the
+road to the simulation point:
+Arcade-type Mechanics. These games were more about
+hand-eye coordination than they were about solving
+puzzles. Usually the player had to blast or avoid enemies
+on the screen while navigating visual obstacles.
+Figure 4: Space Invaders was an example of a single-player multilevel arcade game.
+Figure 5: An early racing game, Pole Position suggested a “graphical world,” but you could
+only stay on the track.
+Real-time Motion Controls. Joystick or trackball
+controls were used to control the movement of the
+character on the screen in real time. Players developed
+skill over time by playing repeatedly until they beat each
+level of the game. This development of real-time
+feedback is very important because it allowed for a
+feeling of immersion even if you were playing standing
+up at a cabinet game in a pizza parlor or arcade.
+A Limited Level-Based Game World. These games had
+“game worlds,” but they were very limited. Typically,
+these were worlds that could be seen fully on the screen
+or by scrolling left or right. Usually this world
+configuration would change when the player reached
+the next level. Once the player beat one level, the next
+level would present more opponents and obstacles.
+Multiple Lives. Players typically had a fixed number of
+lives per quarter, and when you “died” that many times,
+you had to restart the game at level 1. Even home
+versions of these arcade games maintained a fixed
+number of lives (although of course you didn’t have to
+put in more quarters to play again—you just restarted
+the game).
+Physics Engines. Though the term evolved later, these
+games became the first to have well-defined physics
+engines. This means that they obeyed some (scaleddown)
+version of Newton’s laws of classical mechanics.
+In Asteroids, for example, your ship had momentum,
+and it would keep that momentum while slowing down
+or turning. A physics engine just describes whatever set
+of rules the graphical objects on the screen—such as
+spaceships, race cars, flying objects, or guns and
+ammunition—had to follow. In Space Invaders, you
+could only move left and right at a constant speed and
+shoot upward at the aliens. In Joust, you rode a flying
+ostrich that could only land on certain parts of the
+screen. Skill in playing the game was very much a matter
+of understanding the game’s underlying physics engine
+and honing your reflexes to respond based on these
+rules.
+Hints of an Expanded World. Unlike text adventures,
+which let you explore a large game world, the game
+world beyond the “track” (whether a literal racetrack or
+any area of the screen you were able to inhabit) was
+usually only suggested and not shown in these early
+games. This was the beginning of a geometry of the
+virtual world. Some games had wrap-around geometry;
+for example, in Asteroids, when the ship went beyond
+the top of the screen, it reappeared at the bottom, giving
+the illusion of a spherical world.
+The combination of computer graphics using pixels, real-time
+control, and the development of video game mechanics, was a
+watershed moment in the history of computation. Today, much of
+the software and hardware in use owes much to the pioneers who
+built these first graphical arcade games with limited resources.
+Computer simulations, which previously were just code running
+on mainframes, could now be visualized and run on screens
+controlled by a joystick or a keyboard. Moreover, these arcade games
+introduced the term video game, because of the way they drew
+graphics onto a video screen. Thus, a new type of entertainment was
+born, as significant as the introduction of motion pictures or
+television in the twentieth century. This new form of entertainment
+went on to be enjoyed by millions of players—and the world was
+forever changed. Today the video game industry is as big as the
+traditional entertainment industry.
+Speaking of the entertainment industry, it was also in this early
+era of arcade-style video games that you started to see crossover
+from other forms of media. This included the games based on the
+movies Raiders of the Lost Ark and E.T. the Extra-Terrestrial. In the
+Raiders game, the player saw a landscape of mesas that had to be
+explored to find the treasure. This idea of a graphical landscape that
+needed to be “explored” made some of these crossover games a
+middle step between arcade games and graphical RPGs (role-playing
+games), which we’ll explore in the next stage. Incidentally, it was the
+Atari game based on E.T. whose poor reception some credit with the
+downfall not only of Atari but the end of this phase of the video game
+industry.
+Stage 2: Graphical Adventure / RPG Games (1980s-1990s)
+By the time I entered high school near Detroit, Michigan, I
+started doing more complicated computer programming, and the
+arcade game phase of the 1980s (along with Atari) had mostly fizzled
+out. It was during this time that a Japanese car company, Mazda,
+opened a plant in Flat Rock, Michigan, just down the road from my
+high school. Each year they paid to send seven high school students
+from Michigan to Japan for the summer, and I was chosen for one of
+the first trips.
+When I went to Japan in the summer of 1987, I saw something in
+the living room of Japanese high schoolers that foreshadowed the
+next phase of the video game industry: a video game console that
+used buttons for controllers rather than joysticks, manufactured by a
+company called Nintendo. A few years later, when I had entered MIT
+and was learning all about computer programming, my younger
+brother and others of his generation were raving about this next
+phase of video games, marked by the entry into the U.S. market of
+consoles like the Nintendo Entertainment System (NES) and the
+Sega Genesis, both 16-bit systems that were capable of rendering
+much better graphics than the 8-bit systems we had in the Atari
+days.
+In the late 1980s, thanks to the proliferation of personal
+computers and these new console gaming systems, a new generation
+of games was released whose structure, game design, and philosophy
+were different from the simpler arcade games.
+These graphical adventures, or role-playing games (RPGs),
+included The Legend of Zelda, King’s Quest, and Ultima, among
+many others. They combined the graphical capabilities of arcade
+games with the expanded worlds of text adventures, letting players
+visualize, using pixels, the “game world” they were exploring.
+They often (though not always) had a medieval European fantasy
+setting (reminiscent of Dungeons and Dragons) and provided
+backstories for the kingdom or world in question and its characters.
+The storylines of these worlds were not limited to a single gameplay
+session but evolved over multiple game releases over many years,
+giving these fictional game worlds a level of reality that had
+previously been reserved for fantasy worlds such as Middle Earth or
+Narnia.
+In these games, you played a character that was rendered
+graphically (an example of this is shown in Figure 6). Your character
+could travel to places in the world which no longer needed to be
+visualized in the players’ imagination. However, you, as a player,
+might still need to draw your own map of the full world, since your
+character could only see a part of the world at one time.
+Non-player characters, which could be opponents or helpers,
+were also visualized for the first time, albeit in the same simple
+limited way as your main character. Players could interact with and
+fight these characters using weapons and other objects that they
+picked up along the way and could even keep an inventory of the
+objects in their possession, creating a more sophisticated player
+state.
+Unlike arcade games, these graphical RPGs had backstories and
+one or more quests that your character had to complete. For
+example, when playing the main character Link in Zelda, you had to
+rescue Princess Zelda and the kingdom. In the first King’s Quest,
+which was followed by many sequels, you played Sir Graham, a
+knight of the kingdom of Daventry who had to find three legendary
+treasures. If you succeeded, your character would become the king of
+Daventry!
+Figure 6: An example of one of the first graphical RPGs, King’s Quest
+Graphical RPGs made significant improvements to some of the
+key developments originally introduced in text adventure games and
+became critical in the fully immersive 3D game worlds to come
+(some of which were sequels to these original games). The key
+elements introduced by graphical RPGs included the following:
+A Big, Graphically Rendered World. These games
+introduced an expansive world beyond what you could
+see on a single screen. The world had a graphical
+representation, or a “rendered world,” populated by
+graphical characters and graphical objects that could
+help or hinder you on your quest.
+Graphical Representation of Player Game State. A
+graphical representation of the player’s game state
+included the player’s look and feel (which would evolve)
+and the ability to have different costumes, weapons, and
+other objects, all of which were rendered on the screen.
+These objects were stored “off-screen” in a magical place
+called inventory and could be deposited or taken from
+the rendered world.
+A World Game State. These games introduced the idea
+of a game state that included not only the state of your
+character but the state of the world itself, which could
+change based on your actions. The ability to “save” and
+“resume” the state of the game may seem simple by
+today’s standards but actually paved the way for more
+complex MMORPGs and the simulation hypothesis. It
+meant there had to be a concise way to capture the state
+of the player and the entire world as information. This
+will have very important implications when we explore a
+shared persistent game world that continues on after
+any user has stopped playing.
+Graphical Non-Player Characters (NPCs). While text
+adventures had virtual characters that you could have
+limited interaction with, and arcade games had
+graphical opponents, graphical RPGs merged both into
+what we think of as NPCs today. The game world was
+populated by these rendered characters that were
+computer-controlled and drawn with the same level of
+fidelity as your character.
+Quests and Storyline. These games introduced the idea
+of an evolving storyline and one or more quests that
+developed over several game releases—a common
+feature in today’s video games. Eventually, quests
+became known as a number of smaller specific
+achievements in the game world that the player had to
+accomplish to level up.
+The development of graphical RPGs and the storylines that
+existed in these games was a crucial step on the road to the
+simulation point. The fact that these worlds had backstories (which
+sometimes continued across sequels, such as Kings Quest I-VI and
+Ultima I-III) and that the whole story was being rendered using
+pixels was significant. Some of these games went on to have
+multiplayer versions (Ultima Online), and some continue to evolve to
+this day, such as the latest entries in the Zelda or Final Fantasy
+franchises of games.
+The techniques used to graphically represent a large game world
+and render only a portion of the game world at a time—the portion
+that the player’s character is observing—has significant impact on
+the simulation hypothesis. In fact, as we explore quantum physics in
+Part II, we’ll see there is a direct parallel with the conditional
+rendering of video games.
+Just as importantly, the idea that the state of the entire world
+(and the player’s game state) could be encapsulated as information,
+which then needed to be rendered on the screen, is a key idea in the
+development of the simulation hypothesis. In this stage, we began to
+see the emergence of a rendered world.
+Stage 3: 3D Rendered MMORPGs and Virtual Worlds (1990s-
+Today)
+As resolution and rendering techniques for computer graphics
+improved in the 1990s and the 2000s, developers of major games
+started to create more realistic worlds, building on the early concepts
+of graphical RPGs.
+Underlying this rapid advance in characters and fidelity was the
+development of both first-person point of view (perspective) and
+three-dimensional (3D) modeling techniques. Until now, both
+characters and world were presented in simple 2D formats.
+In order to make it seem as if the world was more realistic, game
+designers used 3D models and maps to create layouts of their worlds
+and placed the player’s character at some point in this modeled
+world. The player saw only the part of the world that was visible from
+where the character was standing.
+Rendering the world from this 3D first-person perspective was
+very difficult to do at first, since the number of pixels required went
+well beyond what a simple 2D world required, and the processors of
+the time weren’t optimized for graphics rendering. Each object in the
+world, each building, and certainly each character, might require
+more pixels than might have been used for an entire screen in earlier
+2D graphical adventure games!
+As before, programmers had to come up with optimization
+techniques to render only the part of the world that your character
+could see. If the player turned left or right, this perspective would
+need to shift instantly, a task that seemed insurmountable at the
+time. The first-person shooter in the game Doom from id Software
+shown in Figure 7 was a landmark achievement in this respect.
+Figure 7: Doom brought in many 3D rendering techniques.
+The success of Doom showed that we could represent physical 3D
+worlds with models and render them using pixels in real time on a
+client machine. It was a significant development in computer
+graphics that impacted not only video games but also special effects
+in movies and computer-aided design and engineering. Although
+Doom wasn’t an RPG game per se, it was one of the first truly
+popular multiplayer games where two players could shoot at each
+other, referred to as “deathmatch mode.” This allowed players to
+compete with each other over the Internet, which was just moving
+beyond college campuses and into the world at large. In fact, when
+Doom first came out, it started to eat up the bandwidth of networks
+on college campuses around the country as students battled each
+other endlessly.
+Doom was significant on the road to the simulation point not so
+much because of the game itself but because of its rendering
+techniques and multiplayer mode. These two innovations actually
+made it more like an MMORPG than a simple shooting game. Roleplaying
+games started to use similar 3D techniques to become more
+immersive. While Doom was about shooting monsters, many other
+games eventually came out that let you wander around the virtual
+world and fight monsters with swords and interact with other
+characters in 3D.
+This shift from simple pixels to representing characters to a 3D
+perspective corresponded with the rise of the Internet and the World
+Wide Web in the 1990s, forever changing how games would be
+played. While in the early days of video games there were shared chat
+rooms and multiuser dungeons (or MUDs) using dial-up services
+such as CompuServe to talk about these games, the onboarding of
+the game-playing population to the Internet made multiplayer
+gaming possible. This eventually led to the wave of MMORPGs—
+massively multiplayer online role-playing games—with the release of
+Ultima Online, Ever Quest, and the biggest and most popular of this
+era of games, World of Warcraft.
+In these games, you chose a character to role-play—not unlike in
+the original Dungeons & Dragons. Avatars, the term used for a
+character’s representation onscreen (coined by the makers of
+Habitat, one of the first shared virtual worlds, built by Lucasfilm
+Games), could be customized to fit the race of the character (human,
+elf, dwarf, gnome) and his or her profession (thief, barbarian,
+warrior, wizard, etc.). Most importantly, the player could customize
+what the avatar looked like—skin color, gender and clothing. As
+players interacted and battled with each other, these interactions
+affected both players’ game states as characters evolved. This novel
+concept introduced the idea of a “persistent world,” one that existed
+beyond a single gameplay session or even beyond a single player’s
+computer.
+The idea of a persistent world beyond any particular gameplay
+session really came to fruition with the introduction of Second Life in
+2003 by Linden Lab, and it represented a major milestone in the
+road to the simulation point. In Second Life, the 3D world existed
+almost as a blank page. Playing the game meant not just creating an
+avatar to represent your character but creating parts of the world.
+What was the purpose of your character in Second Life? This is a
+good question, though you might as well ask what the purpose of
+your “character” in real life is.
+The purpose of Second Life was to interact with other people from
+around the world; beyond that, it was up to you what you did in the
+3D world. You could live a complete virtual life in Second Life. Your
+avatar could socialize—you could go to dance clubs, build a house
+with another character, decide to get married, or shoot arrows at
+each other. You could even have jobs in Second Life where you would
+get paid in “Lindens,” the currency used inside the virtual world
+(which introduced us to a new concept—virtual currencies and
+virtual economies). Linden Lab was among the first video game
+companies to hire virtual economists to measure and monitor their
+virtual economies.
+Figure 8: In Second Life and World of Warcraft, avatars became more realistic and roamed
+free in a persistent world.
+More importantly, the world was “persistent.” Because you could
+“own” a piece of land, you could, for example, build a house on the
+land to your specification—whether a postmodern artistic house or a
+Victorian-era mansion—and the structures and objects would still be
+there when you or others went to that virtual plot of land. The virtual
+world of Second Life was starting to resemble a real but alternate
+world in many ways.
+A few years later, the idea of an almost infinite virtual world with
+almost infinite residents and places or planets was pioneered by a
+game called No Man’s Sky. Released in 2016 by Hello Games, this
+unique video game caught the attention of gamers worldwide. One of
+the reasons it generated so much buzz was that it was considered the
+largest universe inside a video game.
+How big was the universe in No Man’s Sky? It supposedly
+contained 18 quintillion planets! Each of these planets had its own
+unique ecosystem that included fauna, flora, and landscapes, which
+meant that the number of unique living things (at least plants) was
+also incredibly large. You could walk around (or use the convenient
+jetpack to fly around) on a planet and find lots of things to explore
+that were unique to that planet.
+Although the video game itself was a disappointment to a lot of
+gamers (many found it boring—perhaps too much like real life!), it
+made an impact on how large universes could be created inside
+games. Before No Man’s Sky, it seemed impossible for a single group
+of game developers to design 18 quintillion (or even 100 million)
+distinct worlds.
+This was because No Man’s Sky used procedural generation—a
+technique that uses algorithms to create data (rather than creating
+that data manually) about each unique planet and its inhabitants. If
+you were inside the universe of No Man’s Sky, the fact that there
+were exactly 18 quintillion planets might give you a clue that you
+were in a computer-generated reality. Why? It is the largest number
+that can be represented with exactly 64 bits. Today’s games have
+evolved from 8-bit games, such as those played on the original Atari
+console, to 16-bit graphics for the console of the late 1980s, to 64-bit
+lifelike worlds.
+No Man’s Sky was one of the pioneers in the use of fractal
+geometry and algorithms to create more lifelike flora, fauna, and
+realistic landscapes within the planets of the game. The discovery of
+fractal algorithms, which we’ll talk more about in future chapters,
+came from the realization that it’s difficult to reproduce natural
+structures using old Euclidean geometry. Fractal techniques make it
+possible to draw a coastline that is more like a natural coastline. In
+fact, Figure 9 and Figure 10 show the coastlines of two islands, one
+that’s natural and one that’s generated using fractal algorithms—it’s
+very difficult to tell the difference!
+Figure 9: A fractally generated landscape5 and a natural one6
+Figure 10: A fractally generated landscape and a natural one
+Where We Have Arrived on the Road
+MMORPGs and virtual worlds, though still rendered on 2D
+computer screens, were a landmark development on the road to the
+simulation point. Some of the key developments in this stage to date
+have included:
+A Big, Graphically Rendered 3D World to
+Explore. There is more to the game world than a single
+player can see at a given time. This started off by
+showing a single level/screen in arcade games, to 2D
+expansive worlds in games, to 3D games where only a
+single perspective in a single scene is rendered at one
+time. The use of 3D models and rendering techniques
+made these worlds feel more immersive than older, 2D
+games.
+3D Avatars. The graphical representation of
+characters has gone from no representation (text
+adventures) to single dots (in Atari’s Adventure) to 2D
+sprites (in King’s Quest and Legend of Zelda) to fullblown
+customizable 3D models of characters of different
+genders, shapes, and hues, complete with clothing and
+weapons.
+Storage of Player’s State Outside of the
+Rendered World. As games evolved, they needed a
+place to store information about the player (character,
+items, experience, levels, etc.) that might not be
+rendered in the 3D world. This started off in memory,
+then on disk, and was eventually uploaded to a cloud
+server. Where is this cloud server? It exists outside the
+rendered world, a concept that will also become
+important on our journey to the simulation point.
+Persistent World State. This is defined as a
+persistent world that changes based upon what players
+do. This is the information stored on the “server”; there
+could be multiple versions of the world hosted on
+different servers, each with different states. This is what
+creates persistence of objects in virtual worlds like
+Second Life (and, more recently, Minecraft), even after
+individual players have logged out. Of course, this
+persistence is an illusion; it lasts only as long as the
+information about the game world on the server is saved
+and doesn’t change.
+Multiple Online Players. An MMORPG has
+simultaneous players who can play with each other by
+logging into the same “persistent world.” These players
+could be logged in from anywhere in the world. Today’s
+MMORPGs have millions of players.
+User-Generated Content. In Second Life and many
+MMORPGs, you can “leave” objects or build structures
+that become part of the persistent world. This is not that
+different from the real world. If I drop a bicycle in a park
+near my house, that bicycle is there for other “players”
+to pick up.
+3D NPCs. Earlier stages of games also had both player
+and non-player characters. As games have gotten more
+sophisticated, so have the NPCs, which are now
+rendered as 3D characters. In later chapters, we will
+explore how AI can create much more sophisticated
+NPCs—or simulated characters that may become
+indistinguishable from player characters (PCs).
+Individual Quests. While single-player graphical
+RPGs had a single quest and storyline, MMORPGs
+allowed for multiple storylines and quests, all
+interacting in a world-wide storyline. In World of
+Warcraft and EVE Online (a space-themed MMORPG),
+there were online blogs that followed the storylines
+going on “in world.” In these games, each player had
+multiple quests and achievements they could choose for
+their next adventure. The completion of these quests
+and achievements then spurred the characters to move
+forward and do things inside the game world, which
+kept the gameplay interesting.
+A Physics Engine vs. a Rendering Engine. With
+the advent of MMORPGs, the ideas of a distinct
+rendering engine and a physics engine both came into
+full play. There are many rendering techniques that
+have been developed since Doom first came out,
+optimizing rendering based on the player’s location in
+the world and point of view. The physics engine was
+responsible for figuring out where objects should end up
+on the screen; the rendering engine was used to actually
+create the pixels (based on the clothing and texture of
+the object) that would allow the player to see the scene
+on his or her computer.
+Procedurally Generated World. While the size of
+the rendered world was particularly finite in early
+games, more recently the ability to generate content
+procedurally gets around this limitation to produce
+lifelike flora, fauna, and landscapes using fractal
+geometry and algorithms, as we saw with No Man’s Sky.
+You can see from this list that although we have only begun our
+journey down the road to the simulation point, many of the technical
+elements and concepts that would be needed to create a simulated
+virtual world are in place. Paramount is the ability to store and track
+the state of a large number of simultaneous characters (whether a PC
+or an NPC) and the state of the shared, persistent game world as
+information. The information, which is the basis of everything that
+goes on in the virtual world, is stored somewhere outside the
+rendered world—on cloud servers that are invisible to those inside
+the world and rendered as needed.
+While the key developments of these four stages are critical
+milestones on the road to the simulation point, we aren’t there yet.
+For the world around us to be, as Einstein puts it, “a very persistent
+illusion,” the players must believe that the world around them is not
+a game, not a simulation, but real!
+Today’s games are not yet capable of supporting billions of
+individual agents of consciousness, nor are they at the level of
+immersion where anyone would confuse the game world for the real
+world. That process begins with a simple matter of adding computing
+power and further optimization of network traffic.
+In the next chapters, we will travel farther down this road and
+speculate on the future developments in video game and virtual
+reality technology that could take us there.

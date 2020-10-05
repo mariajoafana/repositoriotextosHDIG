@@ -1,0 +1,1484 @@
+Behaviour & Information Technology
+
+ISSN: 0144-929X (Print) 1362-3001 (Online) Journal homepage: http://www.tandfonline.com/loi/tbit20
+
+Effects of avatar character performances in virtual
+reality dramas used for teachers’ education
+Pyoung Won Kim, Yang Sook Shin, Byoung Hoon Ha & Marco Anisetti
+To cite this article: Pyoung Won Kim, Yang Sook Shin, Byoung Hoon Ha & Marco Anisetti (2017):
+Effects of avatar character performances in virtual reality dramas used for teachers’ education,
+Behaviour & Information Technology, DOI: 10.1080/0144929X.2016.1275809
+To link to this article: http://dx.doi.org/10.1080/0144929X.2016.1275809
+
+Published online: 16 Feb 2017.
+
+Submit your article to this journal
+
+Article views: 51
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=tbit20
+Download by: [University of Florida]
+
+Date: 08 May 2017, At: 17:37
+
+BEHAVIOUR & INFORMATION TECHNOLOGY, 2017
+http://dx.doi.org/10.1080/0144929X.2016.1275809
+
+Effects of avatar character performances in virtual reality dramas used for
+teachers’ education
+Pyoung Won Kim
+
+a
+
+, Yang Sook Shin
+
+b
+
+, Byoung Hoon Ha
+
+c
+
+and Marco Anisetti
+
+d
+
+a
+
+Department of Korean Language Education, Incheon National University, Incheon, Republic of Korea; bDepartment of English Language
+Education, Incheon National University, Incheon, Republic of Korea; cDepartment of Performing Arts, Incheon National University, Incheon,
+Republic of Korea; dDipartimento di Informatica, Università degli Studi di Milano, Milano, Italy
+ABSTRACT
+
+ARTICLE HISTORY
+
+Virtual reality drama has the benefit of enhancing immersion, which was lacking in original
+e-Learning systems. Moreover, dangerous and expensive educational content can be replaced by
+stimulating users’ interest. In this study, we investigate the effects of avatar performance in
+virtual reality drama. The hypothesis that the psychical distance between virtual characters and
+their viewers changes according to the size of video shots is tested with an autonomic nervous
+system function test. Eighty-four college students were randomly assigned to three groups.
+Virtual reality drama is used to train teachers concerning school bullying prevention, and deals
+with the dialogue between teachers and students. Group 1 was provided with full-shot video
+clips, Group 2 was shown various clips from full shots to extreme close-ups, and Group 3 was
+provided with close-up shots. We found that the virtual reality drama viewers’ levels of
+stimulation changed in relation to the size of the shots. The R-R (between P wave and P wave)
+intervals of the electrocardiograms (ECGs, bio-signal feedback) became significantly narrower as
+the shot size became smaller.
+
+Received 19 February 2016
+Accepted 18 December 2016
+
+1. Introduction
+Currently, virtual reality is actively used in e-learning or
+in the field of teachers’ education. Educational department students are able to train using mock students in
+simulated situations in virtual drama classrooms. The
+effects of avatar characters’ demonstrations in virtual
+worlds have a crucial influence on people as well as on
+social communication in the real world (Banakou and
+Chorianopoulos 2010). Virtual reality drama has the
+benefit of enhancing immersion, which was lacking in
+original e-learning systems (Andrea et al. 2009). Dangerous and expensive educational content can be replaced
+by stimulating users’ interests. In this study, we investigate the effects of avatar performances in virtual reality
+dramas (Figure 1).
+In plays, the audience decides the direction of their
+gaze and the field of view for themselves; however, in
+screen dramas, they have no choice but to follow the
+view the director composes. Therefore, the director controls the production, expecting the viewers to recognise
+the vision he intended. Zettle provides a manual that
+shows how to apply major aesthetic elements to manipulate people’s perception (Zettle 1998). The director constructs scenes with the aesthetic foundation that comes
+from his experience, but often this basis cannot be
+CONTACT Pyoung Won Kim
+
+pwkim@inu.ac.kr
+
+© 2017 Informa UK Limited, trading as Taylor & Francis Group
+
+KEYWORDS
+
+Virtual reality; virtual reality
+drama; video shot size;
+electrocardiogram (ECG); biosignal feedback; teacher
+education
+
+explained clearly. This is related to the lack of a basis
+for objectively judging the viewers’ accommodation of
+the scenes. Previous studies on television viewers’ levels
+of stimulation while controlling different variables theorise on this basis (Mattes and Cantor 1982; Lang et al.
+2000; Angelini 2008).
+There are several methods of assessing viewers’ levels
+of stimulation: observation of behaviour, self-reporting,
+measurement of biofeedback, or interviewing subjects.
+Bio-signals tracked with electroencephalograms, electrocardiography, functional magnetic resonance imaging,
+or blood pressure monitoring can reflect objective findings (Figure 2).
+Bio-signals have mostly been extensively investigated
+in the fields of physiology and engineering. Stimulation
+is associated with physiological changes, such as an
+increase in heart rate, perspiration, muscle tension, or
+rapid respiration (Barlow 2001). As stimulation heightens, sympathetic discharge in the nervous system is
+activated. As the blood supply to the heart increases,
+blood flow in the digestive system decreases, resulting
+in diarrhoea or constipation (Fox 2008). Arousal influences the autonomic nervous system (ANS) and is
+associated with physiological changes in the body
+(Figure 3).
+
+2
+
+P. W. KIM ET AL.
+
+Figure 1. Virtual reality simulated situations for teacher education.
+
+Figure 2. Brain activity was measured using functional magnetic resonance imaging.
+
+These responses enable stimulation to be expressed in
+specific bio-signals, as well as in signals that reflect the
+index of stimulation. In the areas of broadcasting and
+communication, the methods measuring heart rate or
+skin conductance are generally used (Ravaja 2004;
+Lang et al. 2005) as well as facial expression changes captured using video analysis (Andreoni et al. 2006). For
+instance, facial expression changes as reaction to a
+specific stimulus (e.g. codified as Facial Action Coding
+System (FACS; Ekman and Erika 1997)) allow to infer
+the emotional feeling of a given subject (Anisetti and
+Bellandi 2009; Ghanem and Caplier 2013).
+An electrocardiogram (ECG) records the periodic
+electrical activity of the heart. Clinically, ECGs are used
+to detect wave abnormalities that indicate cardiac dysfunction. For example, QRS reflects ventricular contraction when blood is pumping out of the ventricle into the
+aorta. The ‘ST segment’, which is between the QRS and T
+
+waves, is depressed in patients with angina. In addition
+to the clinical use of wave abnormalities, the variability
+in R-R intervals has been demonstrated to provide
+a heart rate calculation. The R-R interval is the time
+elapse between two consecutive R waves in an ECG
+(Figure 4).
+An ECG provides electrophysiological data in a
+time-dependent manner with factors composed of electrical waves. In order to select appropriate data for this
+study, we attempted to determine the degree of virtual
+reality drama viewers’ stimulation by focusing on the
+analysis of R-R intervals, rather than centring on spectra or times-series analysis. Such an approach can provide sympathetic monitoring of the body, resulting in
+an interpretation of the ANS that expresses the stimulation status (Sinji 2004; Yang et al. 2009).1 The
+remainder of this paper is structured as follows. Section
+2 underlines the research hypotheses. Section 3
+
+BEHAVIOUR & INFORMATION TECHNOLOGY
+
+3
+
+Figure 3. The autonomic nervous system.
+
+presents our experimental methodology describing the
+subjects, the protocol adopted, and the materials used
+for the experimentation. Section 4 discusses the experimental results analysing the acquired data. Section 5
+presents our results, while Section 6 draws our
+conclusions.
+
+2. Research hypotheses
+The size of a shot means how far or close we perceive an
+object or a person appearing on screen to be (Zettle
+1998). In other words, it is not only a matter of placing
+an object of a certain size, but it also delivers the
+
+Figure 4. Measuring changes in viewers’ physiological state.
+
+circumstances of the frame that the object is in. The
+long shot, exposing a broad range, is used as an establishing shot, which shows the place and time as well as the
+relationship of the location to the objects. Compared
+with the long shot, the full shot gives an opportunity to
+recognise, to some degree, the character of a person
+along with spatial information. The medium shot focuses
+more on the character of the person by explaining a circumstance, but it still gives information on the space and
+other characters (Figure 5).
+However, the medium close-up shot (bust shot) and
+the close-up shot are appropriate when describing
+specific details (Figure 6), such as facial expressions,
+
+4
+
+P. W. KIM ET AL.
+
+Figure 5. The full shot and the medium shot.
+
+Figure 6. The medium close-up shot (the bust shot) and the close-up shot.
+
+while excluding spatial information (Arijon 1976;
+Monaco 1981; Millerson 1985; Bordwell and Kristin
+1993). In movies and dramas, the classification of
+these shots is more delicately defined and used with the
+consideration of the flow of emotions. Generally, the
+definition methods for shots are classified according
+to how much focus is rendered on a character, while
+the standard for close-up shots differs from country to
+country (Zettle 1998).
+In this study, the hypothesis that the psychical distance between characters and viewers can be changed
+according to the size of shots is confirmed by an
+ANS function test. A real-time bio-signal measurement
+was applied to analyse the phenomenon of media
+accommodation. The measurement of R-R intervals
+from ECGs was carefully used when analysing viewers’
+levels of stimulation. The hypotheses of this study are
+as follows:
+H1: The response of a viewer’s ANS is significantly
+different according to the size of the shot.
+H2: The self-reporting method of viewers’ levels of
+stimulation and the ANS function test will show a
+difference.
+H3: The response of viewers’ ANS will vary between
+male and female according to the size of the shot.
+H4: The response of the ANS will be different according
+to the scenes from a virtual reality drama.
+
+3. Method
+3.1. Subjects
+Eighty-four university students (42 males, 42 females)
+took part in this experiment (μ = 22.6 years old, σ =
+2.66, range = 17−28). ECG measurements were taken
+while they listened to classical music or watched video
+clips for 10 min in return for a free meal pass. They
+were randomly divided into three groups (n = 28, 29,
+27). The difference in the sample size from the original
+sample was due to the fact that in the beginning each
+of the three groups comprised 30 students, that is, a
+total of 90 participants, but six students were excluded
+from the experiment because of clinical abnormalities
+revealed by their ECGs. All subjects participated voluntarily and signed consent forms.
+3.2. Experimental protocol
+The overall study design was a randomised control
+group. In line with the hypothesis, the subjects were
+divided into three groups. This was meant to control
+the carryover effect, which brought disadvantages within
+the subject design. ECGs were measured after the participants listened to the same stimulus – classical music.
+More ECGs were then measured while each group was
+shown virtual reality drama video clips of the same content but with different shot sizes (Figure 7).
+
+BEHAVIOUR & INFORMATION TECHNOLOGY
+
+5
+
+Table 1. The content of stimulus materials.
+Scene
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+
+Figure 7. Measuring ECG changes in viewers’ physiological state.
+
+After measurement, the checklists evaluating the level
+of the participants’ stimulation were collected. Protocols
+for the procedure were in compliance with the guidelines
+set by the institutional review committee of KoNIBP
+(Korea National Institute for Bioethics Policy).
+3.3. Stimulus materials
+To generate stimulation, the subjects were shown virtual
+reality drama productions. These were created using
+StoryBoard Artist 7 (storyboard software, USA) and were
+based on scenes from School 2013 – a drama, a Korean
+Broadcasting System production. This series focuses on
+portraying the concerns, struggles, and dilemmas of
+today’s youth. It is a story about Seungri High, a troublesome school that houses students from the most eligible
+to the most problematic. School 2013 shows the different
+life stories of teachers and students as they emerge from
+conflicts and compromises. As the university students
+had varied interests and background knowledge, episodes based on a school allowed the control of the content variables and enabled the participants to relate to
+the characters. After a preliminary survey, four scenes
+that evoked the most sympathy out of all the scenes containing teacher–student conflicts were chosen for study.
+The selected four scenes were evenly allotted to both genders (Table 1). Twenty-three pretest subjects who did not
+participate in the study evaluated all the scenes. The
+selected scenes were similar to the teacher–student conflicts depicted in the American drama series Glee (2009)
+and Awkward (2011) (see Appendix).
+
+Contents
+Conflict between a female student and a male teacher concerning
+the teacher’s academic guidance
+Conflict between a male student and a male teacher concerning
+the teacher’s school guidance
+Conflict between a female student and a female teacher
+concerning the teacher’s academic guidance
+Conflict between a male student and a female teacher concerning
+the teacher’s school guidance
+
+To produce the selected scenes in three versions with
+different shot sizes, four professional actors practised
+for two weeks; then the scenes were filmed in a studio.
+The actors consented to their pictures and videos being
+used for research purposes. The first video (Source 1 in
+Figure 3) was filmed and edited in full shot. The second
+video (Source 2 in Figure 3) was filmed in full shot at the
+beginning, cross-filmed, and then finished with an
+extreme close-up. In the third video (Source 3 in
+Figure 3), only the first scene, which was the establishing
+shot, was filmed in full shot, and the rest was crossfilmed in close-up until the end (Figure 8).
+
+4. Measurement and data analysis
+4.1. ECG data collection
+For the ECG analysis, a QECG-3® (Quantitative Electrocardiography-three Limb Lead, LXC3203®, Daejeon,
+Korea) model was used. The standard three limb leads
+(Lead I, Lead II, and Lead III) were applied according
+to the manufacturer’s recommendation. The subjects
+were asked to sit. While in a resting state, they listened
+to classical music for 5 min and then watched four
+video scenes for 5 min while the ECG electrode sensors
+were attached. Real-time ECG values were monitored
+and displayed by this system.
+
+4.2. Assessment of stimulation levels
+After ECG data collection, the subjects were given a
+checklist for self-reporting the level of effect the characters had on them. The subjects were asked to record the
+level of effect that the male and female students, and the
+male and female teachers had on them, on a scale from 1
+(not agitated at all) to 10 (extremely agitated).
+
+4.3. R-R interval profile (tachogram) analysis
+Stimulation levels were evaluated using the mean values
+of the R-R interval variability. When the ECG data were
+converted into a graph that showed the changes in the
+R-R interval, the R-R interval profile (R-R interval
+
+6
+
+P. W. KIM ET AL.
+
+Figure 8. Three versions with different shot sizes.
+
+Figure 9. R-R interval profile (time-series plot, tachogram). Linear regression line (dotted) underlining the trend.
+
+BEHAVIOUR & INFORMATION TECHNOLOGY
+
+tendency of evaluating the stimulation effects of the
+characters was consistent in Group 1, which was
+shown video clips filmed in full shots; Group 2, which
+was shown video clips filmed in various shots; and
+Group 3, which was shown video clips recorded in
+close-up shots. However, the difference among the
+groups in four characters was not statistically significant
+(Table 4). There was no significant difference between
+males and females within the groups (Table 5).
+
+tachogram) could be displayed. Shortening of the R-R
+interval could be interpreted as the activation of sympathetic activity. It was also associated with the person
+immersed in the drama being in an excited state (Figure
+9 (a)). In contrast, a longer R-R interval represented the
+activation of parasympathetic activity and was associated
+with a relaxed condition (Figure 9 (b)).
+4.4. Statistical analysis
+The mean values of the R-R interval that changed in
+seconds were constructed for the GLM (General Linear
+Model) repeated measures procedure. The baseline
+characteristics of the three groups were compared
+using one-way ANOVAs and independent t-tests. The
+effects were statistically analysed by comparing the
+mean of the R-R intervals with the repeated measures
+ANOVAs. To measure the effect size, an h2 was used.
+A p-value below .05 was considered to indicate statistical
+significance.
+
+5.3. Analysis of the groups’ change through R-R
+intervals
+Figure 11 shows the difference in the mean value of R-R
+intervals among the three groups (*p < .05, ***p < .001).
+Figure 12 shows a time-series plot per second of the
+change in the mean value of R-R intervals within the
+groups while watching Scene 1 (a 62-second video clip
+on a conflict between a male teacher and a female student). As a result of conducting repeated measures
+ANOVAs in order to analyse the difference among the
+groups, the between-subject effects of R-R intervals
+were not significant (F[2, 4941] = 2.872, p = .062,
+h2 = .066). Based on a p-value below .05, there was no
+significant difference, but considering the eta squared
+there was about a medium-sized effect. There was a slight
+tendency for the viewers’ R-R intervals to narrow as the
+size of a shot got smaller. The interactions between the
+time and group of effects were not significant (F[2,
+4941] = .676, p = .997, h2 = .016). This implied that
+there was no difference in the pattern of the change in
+R-R intervals among the groups according to the passage
+of time. The within-subject effects were not significant
+(F[2, 4941] = .707, p = .959, h2 = .009). This showed
+that there was no difference in the pattern of the changes
+in R-R intervals within the groups according to the
+passage of time.
+Figure 13 shows a time-series plot per second of the
+change in the mean value of R-R intervals within the
+groups while watching Scene 2 (a 41-second video clip
+on a conflict between a male student and a male teacher).
+As a result of conducting repeated measures ANOVAs in
+order to analyse the difference among the groups, one
+can see that the between-subject effect of R-R intervals
+
+5. Results
+5.1. Pretest homogeneity
+First, to confirm that there was no significant difference
+among the groups on the same stimulus, an ANOVA was
+performed on the R-R interval while subjects were listening to classical music. As a result, there was no significant
+difference in R-R intervals among the three groups
+(Group 1 [n = 28, μ = 0.7984, σ = 0.060], Group 2 [n =
+29, μ = 0.7858, σ = 0.738], and Group 3 [n = 27, μ =
+0.7924, σ = 0.141]) (Tables 2 and 3).
+5.2. Assessment of the characters’ levels of
+stimulation
+Figure 10 assesses the subjects’ levels of stimulation after
+watching the virtual reality drama video clips. The
+Table 2. Comparison of baseline among the three groups.
+Stimulus
+Classical music
+
+Source
+
+SS
+
+df
+
+MS
+
+F
+
+p-Value
+
+Between
+Within
+Total
+
+0.003
+0.771
+0.774
+
+2
+81
+83
+
+0.001
+0.01
+
+0.154
+
+.857
+
+7
+
+Table 3. Comparison of baseline between males and females.
+Stimulus
+Classical music
+
+Group
+
+Gender
+
+n
+
+μ
+
+σ
+
+Group 1
+(n = 28)
+Group 2 (n = 29)
+
+Male
+Female
+Male
+Female
+Male
+Female
+
+16
+12
+15
+14
+11
+17
+
+0.8027
+0.7879
+0.7827
+0.7891
+0.8104
+0.7632
+
+0.06897
+0.04716
+0.07455
+0.07584
+0.11559
+0.15753
+
+Group 3 (n = 27)
+
+t
+0.636
+
+p-Value
+.53
+
+−0.227
+
+.822
+
+0.848
+
+.404
+
+8
+
+P. W. KIM ET AL.
+
+Figure 10. The mean value of the characters’ stimulation levels.
+Table 4. Comparison of the self-report method among the three
+groups.
+Character
+Male student
+Female student
+Male teacher
+Female teacher
+
+Source
+
+SS
+
+df
+
+MS
+
+F
+
+p-Value
+
+Between
+Within
+Total
+Between
+Within
+Total
+Between
+Within
+Total
+Between
+Within
+Total
+
+1.838
+204.65
+206.488
+11.494
+259.315
+270.81
+4.238
+483.437
+487.676
+4.387
+156.506
+160.893
+
+2
+81
+83
+2
+81
+83
+2
+81
+83
+2
+81
+83
+
+0.919
+2.527
+
+0.364
+
+.696
+
+5.747
+3.201
+
+1.795
+
+.173
+
+2.119
+5.968
+
+0.355
+
+.702
+
+2.193
+1.932
+
+1.135
+
+.326
+
+was significant (F[2, 3240] = 3.451, p = .036, h2 = .079).
+There was a tendency for the viewers’ R-R interval to
+narrow as the size of a shot got smaller, and there was
+about a medium-sized effect. The interactions between
+
+the time and group of effect were significant (F[2,
+3240] = 1.656, p = .000, h2 = .039). As a result of conducting a t-test revising significance levels by using
+Bonferroni’s method to check at what point in time the
+interactions took place, the difference between Groups
+2 and 3 became similar after 20 seconds. The result
+from Group 1 after 20 seconds resembled that of
+Group 2 because of the male student’s line that revealed
+his dramatic resistance towards the male teacher. The
+within-subject effects were not significant (F[2, 3240]
+= .722, p = .903, h2 = .009).
+Figure 14 shows a partial time-series plot per second
+of the change in the mean value of R-R intervals within
+the groups while watching Scene 3 (a 95-second video
+clip on a conflict between a male student and a female
+teacher). As a result of conducting repeated measures
+ANOVAs in order to analyse the difference among the
+
+Table 5. Comparison of the self-report method between males and females.
+Character
+Male student
+
+Female student
+
+Male teacher
+
+Female teacher
+
+Group
+
+Gender
+
+n
+
+μ
+
+σ
+
+t
+
+p-Value
+
+Group 1
+(n = 28)
+Group 2
+(n = 29)
+Group 3
+(n = 27)
+Group 1
+(n = 28)
+Group 2
+(n = 29)
+Group 3
+(n = 27)
+Group 1
+(n = 28)
+Group 2
+(n = 29)
+Group 3
+(n = 27)
+Group 1
+(n = 28)
+Group 2
+(n = 29)
+Group 3
+(n = 27)
+
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+
+16
+12
+15
+14
+11
+17
+16
+12
+15
+14
+11
+17
+16
+12
+15
+14
+11
+17
+16
+12
+15
+14
+11
+17
+
+7.6250
+7.6667
+7.6667
+6.8929
+8.2727
+7.0313
+6.1875
+6.5000
+6.4667
+5.2857
+5.9091
+5.0625
+5.0313
+3.9167
+4.8000
+3.5000
+4.7273
+4.6875
+8.0000
+8.4583
+8.1333
+8.2500
+8.0000
+7.5000
+
+1.58640
+1.49747
+1.11270
+1.57112
+1.67874
+1.83002
+1.32759
+1.08711
+1.72654
+2.19890
+1.44600
+2.29401
+2.63609
+1.78164
+2.33605
+2.71038
+2.61116
+2.35850
+1.08012
+1.46874
+1.80739
+1.12233
+1.48324
+1.36626
+
+−0.070
+
+.944
+
+1.539
+
+.135
+
+1.790
+
+.086
+
+−0.664
+
+.512
+
+1.615
+
+.118
+
+1.082
+
+.290
+
+1.262
+
+.218
+
+1.386
+
+.177
+
+0.041
+
+.967
+
+−0.953
+
+.349
+
+−0.207
+
+.838
+
+0.903
+
+.375
+
+BEHAVIOUR & INFORMATION TECHNOLOGY
+
+9
+
+Figure 11. The mean value of R-R intervals (among three groups). *p < .05, **p < .01, ***p < .001.
+
+Figure 12. R-R interval profile – Scene 1 (female student vs. male teacher).
+
+Figure 13. R-R interval profile – Scene 2 (male student vs. male teacher).
+
+groups, the between-subject effect of the R-R intervals
+was significant (F[2, 7614] = 3.834, p = .026, h2 = .086).
+However, the interactions between the time and group
+of effects were not significant (F[2, 7614] = 1.009,
+p = .454, h2 = .024) along with the within-subject effects
+(F[2, 7614] = 1.086, p = .268, h2 = .013).
+
+Figure 15 shows a partial time-series plot per second
+of the change in the mean value of R-R intervals within
+the groups while watching Scene 4 (a 53-second video
+clip on a conflict between a female student and a female
+teacher). As a result of conducting repeated measures
+ANOVAs in order to analyse the difference among the
+
+10
+
+P. W. KIM ET AL.
+
+Figure 14. R-R interval profile – Scene 3 (female student vs. female teacher).
+
+Figure 15. R-R interval profile – Scene 4 (male student vs. female teacher).
+
+Table 6. Comparison of the mean value of R-R intervals (between males and females).
+Scene
+Female student vs. male teacher
+
+Male student vs. male teacher
+
+Female student vs. female teacher
+
+Male student vs. female teacher
+
+Group
+
+Gender
+
+n
+
+μ
+
+σ
+
+Group 1
+(n = 28)
+Group 2
+(n = 29)
+Group 3
+(n = 27)
+Group 1
+(n = 28)
+Group 2
+(n = 29)
+Group 3
+(n = 27)
+Group 1
+(n = 28)
+Group 2
+(n = 29)
+Group 3
+(n = 27)
+Group 1
+(n = 28)
+Group 2
+(n = 29)
+Group 3
+(n = 27)
+
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+
+16
+12
+15
+14
+11
+17
+16
+12
+15
+14
+11
+17
+16
+12
+15
+14
+11
+17
+16
+12
+15
+14
+11
+17
+
+0.8531
+0.8349
+0.8293
+0.8392
+0.8412
+0.7542
+0.8416
+0.8306
+0.8292
+0.8302
+0.8406
+0.7378
+0.8444
+0.8267
+0.8160
+0.8210
+0.8261
+0.7376
+0.8351
+0.8218
+0.8187
+0.8051
+0.8032
+0.7374
+
+0.08530
+0.06818
+0.09752
+0.08307
+0.12143
+0.07390
+0.07904
+0.05827
+0.09427
+0.07308
+0.11109
+0.07944
+0.07440
+0.05113
+0.09153
+0.08206
+0.11987
+0.07862
+0.07537
+0.05206
+0.09055
+0.07559
+0.12584
+0.07843
+
+Significant at α = .05 *p < .05, **p < .01, σ: standard deviation.
+
+t
+
+p-Value
+
+0.671
+
+.508
+
+−0.293
+
+.772
+
+2.121
+
+.051
+
+0.405
+
+.689
+
+−0.032
+
+.975
+
+2.813
+
+.009**
+
+0.706
+
+.487
+
+−0.155
+
+.878
+
+2.325
+
+.028*
+
+0.524
+
+.605
+
+0.439
+
+.664
+
+1.678
+
+.106
+
+BEHAVIOUR & INFORMATION TECHNOLOGY
+
+groups, the between-subject effect of the R-R intervals
+was significant (F[2, 4212] = 4.254, p = .000, h2 = .095),
+but the interactions between the time and group of
+effects were not significant (F[2, 4212] = .755, p = .970,
+h2 = .018). The within-subject effects were not significant as well (F[2, 4212] = 1.472, p = .016, h2 = 0.018).
+The difference in gender within the group was significant in Group 3 watching Scenes 2 and 3 (Table 6). Due
+to the conflicts between a male student and a male teacher and between a female student and a female teacher,
+the female subjects’ levels of stimulation became intense
+(μ = 0.7378, σ = 0.07944; μ = 0.7376, σ = 0.07862).
+
+6. Discussion and conclusion
+Recently, virtual reality classrooms and virtual reality
+drama have been used for E-learning and teacher training. Education students are able to hone their skills in
+front of almost life-like students (Hu, Wu, and Shieh
+2016). The situations in virtual reality classrooms
+could provide the teachers with the situated teaching
+method.
+This study confirms how viewers perceived the same
+scenes filmed with different shot sizes. As a result of providing the same virtual reality drama scenes with different shot sizes to three different groups, changes in the
+ANS corresponding to changes in the shot size were
+found to be highly relevant. Except for Scene 1, the
+between-subject effects were significant. One can conclude that as the size of the shot decreased, the viewers’
+R-R intervals in the ECGs tended to get narrower. This
+result strongly supports Hypothesis 1, which states that
+the response of a viewer’s ANS would be significantly
+different according to the size of the shot. As this result
+differed from the self-reporting method measured on the
+10-point scale, Hypothesis 2, which states that the selfreporting method on viewers’ level of stimulation and
+the methods of the ANS function test would show a
+difference, is clearly proven. The testing of physiological
+reactions was more appropriate to studying the viewers’
+levels of stimulation than the verbal reports, as there
+were less cultural differences and it was less affected by
+reasonable judgement.
+The difference in gender within each group was statistically significant only in Group 3, who saw the scenes
+filmed in close-up. The results showed that the female
+participants tended to absorb the characters’ emotions
+more than the male participants when the psychological
+distance reached the close-up shots. Therefore, Hypothesis 3, which stated that the response in viewers’ ANS
+would vary from male to female according to shot size,
+should be dismissed. This also implies that the size of a
+
+11
+
+shot was more important than the content of the video
+based on gender.
+For all the scenes, the within-subject effects were not significant.
+This showed that there was no difference in the R-R interval
+change pattern within the groups over time. Except for Scene 2,
+the interaction between time and group was not significant.
+From this, we can also conclude that there was no difference in
+the R-R interval change patterns within the groups over time.
+Therefore, Hypothesis 4, which states that the response of the
+ANS would be different according to the scenes in a virtual reality
+drama, should be dismissed. This also implies that shot size was
+more important than the content of the video.
+As shot size decreased, the R-R intervals in the ECGs
+tended to get narrower. It was observed statistically that
+the R-R intervals in the ECGs tended to get wider as the
+shot size increased. This result also implies that shot size
+is proportional to the viewers’ psychological distance for
+recognising it. As the shot size got narrower, the psychological distance between the viewer and the characters
+got closer, and vice versa.
+The concept of distance used in various academic
+fields refers to aesthetic distance in aesthetics and psychical distance in theories of fiction. The aesthetic distance
+means effectively controlling the subject’s view on the
+object (Sherburne 1961). In other words, it is related to
+how far the distance has to be for the object’s substance
+to be revealed (Bullough 1912). In novels, the distance
+refers to the author’s psychical or emotional distance
+from the object (Booth 1961). The author may be more
+or less distant from the character. As in novels, various
+methods are used in virtual reality drama to adjust the
+distance between the characters and the viewers. This
+study proves that, based on their bio-signal measurements, there is a change in viewers’ perception depending on the size of the shot.
+The method evaluating the participants’ levels of
+stimulation after watching the video clips did not show
+differences among the groups, but the real-time biosignal measurements while watching the scenes were
+statistically significant. The difference in this work
+compared with previous studies is that it provides visualisations of objective data using ECG recordings. The
+analysis of R-R intervals could be regarded as a method
+of neurocommunication, similar to neurocinematics,
+which analyses the viewers’ state of mind as it instantly
+monitors dynamic emotional states (Hasson et al. 2008).2
+So far, video clip editing has been under the director’s
+autonomy. However, if editing is to immerse the audience in the natural narrative, it needs to adopt technology which analyses the viewer’s psychological distance
+according to changes in the audience’s ANS and reflects
+it in the edit. The smaller the shot size, the greater the
+level of identification between the audience and the
+
+12
+
+P. W. KIM ET AL.
+
+Figure 16. Association between the size of a shot and audience participation.
+
+actor. For the same size shot, the over-the-shoulder shot
+maintains the psychical distance between characters and
+viewers to a certain degree. This tells us which characters
+are most important in a scene or at a particular point in
+the narrative. The set of scales defined in this study are
+shown in Figure 16.
+This study has several limitations. First, the number of
+participants was small. More samples were needed in
+order to reach a conclusion regarding gender difference
+in accommodating the video (Angelini 2008). This
+would have made it possible to offer generalisations.
+Additionally, further research applying this method to
+various scenes that do not involve conversations is
+required. For example, results from similar studies with
+scenes using the ‘charade method’, not conversational
+scenes, should be examined.
+In conclusion, the psychical distance between the
+viewers and virtual reality drama characters was related
+to shot size, and producers could control the psychical
+distance by adjusting the shot size.
+
+Notes
+1. A heart rate is defined as beats per minute and corresponds to the number of R-R intervals per minute.
+Measuring R-R intervals has an advantage of monitoring the dynamic emotional state instantly compared to
+measuring the heart rate, which estimates the average
+number of R-R intervals per minute.
+2. Neurocommunication research uses technologies such as
+fMRI to measure changes in activity in parts of the brain,
+electroencephalography to measure activity in specific
+regional spectra of brain response, and/or sensors to
+measure changes in viewers’ physiological states to learn
+exactly what message excites or disinterests the viewer.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+Funding
+This work was supported by the Incheon National University
+Research Grant in 2014.
+
+ORCID
+Pyoung Won Kim http://orcid.org/0000-0002-3621-9480
+Yang Sook Shin http://orcid.org/0000-0001-7982-4712
+Byoung Hoon Ha http://orcid.org/0000-0001-5873-1461
+Marco Anisetti http://orcid.org/0000-0002-5438-9467
+
+References
+Andrea, D., R. Francese, L. Passero, and G. Tortora. 2009.
+“Development and Evaluation of a Virtual Campus on
+Second Life: The Case of Second DMI.” Computers &
+Education 52 (1): 220–233.
+Andreoni, G., M. Anisetti, B. Apolloni, V. Bellandi, S.
+Balzarotti, F. Beverina, P. Campadelli, et al. 2006.
+“Emotional Interfaces with Ambient Intelligence.” In
+Ambient Intelligence, Wireless Networking and Ubiquitous
+Computing, edited by Athanasios Vasilakos and Witold
+Pedycz, 125–156. Norwood, MA: Artech House.
+Angelini, J. R. 2008. “Television Sports and Athlete Sex:
+Looking at the Differences in Watching Male and Female
+Athletes.” Journal of Broadcasting & Electronic Media 52
+(1): 16–32.
+Anisetti, M., and V. Bellandi. 2009. “Emotional State Inference
+Using Face Related Features.” In New Directions in
+Intelligent Interactive Multimedia Systems and Services – 2,
+Chapter 37. edited by Ernesto Damiani, Jechang Jeong,
+Robert J. Howlett and Lakhmi C. Jain, 401–411. Berlin,
+Germany: Springer. doi:10.1007/978-3-642-02937-0_37.
+Arijon, D. 1976. Grammar of the Film Language. London:
+Focal Press.
+Banakou, D., and K. Chorianopoulos. 2010. “‘The Effects of
+Avatars’ Gender and Appearance on Social Behavior in
+Online 3D Virtual Worlds.” Journal of Virtual Worlds
+Research 2 (5): 3–16.
+Barlow, D. H. 2001. Anxiety and Its Disorders: The Nature and
+Treatment of Anxiety and Panic. New York: Guilford Press.
+
+BEHAVIOUR & INFORMATION TECHNOLOGY
+
+Booth, Wayne C. 1961. The Rhetoric of Fiction. Chicago:
+University of Chicago Press.
+Bordwell, D., and T. Kristin. 1993. Film Art: An Introduction.
+New York: McGraw Hill.
+Bullough, E. 1912. “Psychical Distance as a Factor in Art and
+an Aesthetic Principle. British.” Journal of Psychology 5:
+87–118.
+Ekman, P., and L. R. Erika. 1997. What the Face Reveals: Basic
+and Applied Studies of Spontaneous Expression Using the
+Facial Action Coding System (FACS). New York: Oxford
+University Press.
+Fox, S. I. 2008. Human Physiology. New York: McGraw-Hill.
+Ghanem, K., and A. Caplier. 2013. “Towards a Full Emotional
+System.” Behaviour & Information Technology 32 (8): 783–799.
+Hasson, U., O. Landersman, B. Knappmeyer, I. Vallines, N.
+Rubin, and D. J. Heeger. 2008. “Neurocinematics: The
+Neuroscience of Film.” Projections 2 (1): 1–26.
+Hu, R., Y. Y. Wu, and C. J. Shieh. 2016. “Effects of Virtual
+Reality Integrated Creative Thinking Instruction on
+Students’ Creative Thinking Abilities.” EURASIA Journal
+of Mathematics, Science and Technology 12 (2): 477–486.
+Lang, A., M. Shin, S. D. Bradley, Z. Wang, S. Lee, and D. Potter.
+2005. “Wait! Don’t Turn That Dial! More Excitement to
+Come! The Effects of Story Length and Production Pacing in
+Local Television News on Channel Changing Behavior and
+Information Processing in a Free Choice Environment.”
+Journal of Broadcasting & Electronic Media 49: 3–22.
+
+13
+
+Lang, A., S. Zhou, N. Schwartz, and P. D. Bolls. 2000. “Effects
+of Edits on Arousal, Attention, and Memory for Television
+Messages: When an Edit Is an Edit Can an Edit be too
+Much.” Journal of Broadcasting & Electronic Media 44 (1):
+94–109.
+Mattes, J., and J. Cantor. 1982. “Enhancing Responses to
+Television Advertisements via the Transfer of Residual
+Arousal from Prior Programming.” Journal of
+Broadcasting & Electronic Media 26 (2): 553–566.
+Millerson, G. 1985. The Technique of Television Production.
+London: Focal Press.
+Monaco, J. 1981. How to Read a Film. New York: Oxford
+University Press.
+Ravaja, N. 2004. “Effects of Image Motion on a Small Screen
+on Emotion, Attention, and Memory: Moving-face Versus
+Static-face Newscaster.” Journal of Broadcasting &
+Electronic Media 48: 108–133.
+Sherburne, D. 1961. A Whiteheadean Aesthetic. New York: Yale.
+Sinji, M. 2004. Comfortable Engineering. (trans: B. C. Min).
+Seoul: Sigma press.
+Yang, H. K., J. W. Lee, Y. J. Lee, K. S. Kim, K. H. Lee, and H. J.
+Choi. 2009. “HRV Evaluation under Stress Condition by
+Using Patch Type Bipolar Heart Activity Monitoring
+System.” Journal of Korean Society for Emotion and
+Sensibility 12 (2): 161–168.
+Zettle, H. 1998. Sight, Sound, Motion: Applied Media
+Aesthetics. 3rd ed. Belmont, CA: Wadsworth.
+
+14
+
+P. W. KIM ET AL.
+
+Appendix
+Scripts of the virtual reality drama clips used as stimulus
+materials
+S# 1 Conflict between a female student and a male teacher
+about the teacher’s academic guidance.
+
+S# 3 Conflict between a female student and a female teacher
+about the teacher’s academic guidance.
+Source
+①
+2S FS
+
+Source
+①
+②
+2S FS 2S FS
+1S WS
+
+③
+
+Script
+Student hesitates then walks up to the teacher
+1S CS T: What?
+S: Can I sign up for it now? The essay exam, I mean.
+1S BS
+T: You can, but for what? Use that time to study
+more for the entrance exam.
+S: But you told me that it’s unlikely my score will
+improve. So then I should at least try to get more
+specs.
+1S CS
+T: If you were thinking of doing that, you should
+have started preparing for it from first grade.
+Preparing specs according to the department you
+will apply to.
+S: How?
+1S CU
+T: That’s what everyone else does.
+S: How can one decide everything in first grade?
+Did you know for certain what you were going to
+do in your first grade? I didn’t have any thoughts
+on university until last year, so how am I
+supposed to decide on my future?
+1S ECU
+T: That’s why this is so difficult.
+S: (angry)
+
+②
+2S FS
+1S WS
+
+Script
+
+③
+1S CS
+
+1S BS
+
+1S TBS
+
+1S CS
+
+1S CU
+
+1S ECU
+
+Student walks up to the teacher
+S: Teacher.
+T: Yes?
+S: I think you made a mistake on my
+score.
+T: Let’s see. No, I don’t see anything
+wrong.
+S: Introduction, statement, evidence,
+and conclusion are all there.
+T: An essay is to write your own
+thoughts, but your opinion isn’t here.
+S: I learned that essay is not to write
+what you want to write, but to write
+what it asks you to write.
+T; From whom?
+S: I want another teacher to score my
+essay.
+T: No, this is your final score. I can’t give
+you points for writing just like the
+sample answer.
+S: Then what is the sample answer for?
+T: (dumbfounded)
+
+S# 4 Conflict between a male student and a female teacher
+about the teacher’s school guidance.
+Source
+
+S# 2 Conflict between a male student and a male teacher about
+the teacher’s school guidance.
+
+①
+2S FS
+
+②
+2S FS
+1S WS
+
+Source
+①
+2S FS
+
+②
+2S FS
+
+③
+
+1S WS
+
+1S CS
+
+1S BS
+
+1S CS
+
+1S CU
+1S ECU
+
+Script
+Student and teacher stare at
+each other
+T: It’s you, isn’t it?
+S: No it’s not.
+T: This picture, isn’t this you? I’ll
+give you 20 minutes to write
+a statement.
+S: But I have nothing to write.
+It’s not me.
+T: Grab your pen and start
+writing.
+S: And if I don’t? What would
+you do if I don’t?
+T: You … I’m calling your
+parents.
+S: What? Just hit me instead.
+T: What did you just say?
+S: (angry)
+
+1S BS
+
+1S TBS
+1S CS
+1S CU
+1S ECU
+
+③
+1S CS
+
+Script
+Student and teacher stare at each other
+T: Jinwoong, you’re short of in-school volunteer
+work and too much absence. You might not
+be able to graduate. Do you want to
+graduate? Is there anything troubling you?
+Any problems at home?
+S: Why do you care?
+T: I am curious.
+S: So what if there’s something going on? What
+can you possibly do for me? I have things to
+do, so don’t bother to call to me again for
+these kinds of issues.
+T: Jinwoong, wait.
+S: Teacher, don’t put a good face on.
+T: Jinwoong!
+S: You don’t have to act like you care.
+T: I’m not finished yet.
+S: So what? What should I do then?
+T: Watch your mouth. I can see that you’re
+trying to act strong. You can drop it now.
+S: I’m not the only one. Aren’t you acting tough
+because people ignore you if you’re weak?
+And I’m not acting tough; I am tough. So
+please don’t talk as if you know everything.
+
+

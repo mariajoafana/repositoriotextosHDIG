@@ -1,0 +1,1144 @@
+This article was downloaded by: [New York University]
+On: 07 January 2015, At: 18:26
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number: 1072954
+Registered office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH,
+UK
+
+Critique: Studies in
+Contemporary Fiction
+Publication details, including instructions for
+authors and subscription information:
+http://www.tandfonline.com/loi/vcrt20
+
+Elements of a Poetics of
+Cyberpunk
+Brian McHale
+
+a
+
+a
+
+Tel Aviv University , USA
+Published online: 09 Jul 2010.
+
+To cite this article: Brian McHale (1992) Elements of a Poetics of
+Cyberpunk, Critique: Studies in Contemporary Fiction, 33:3, 149-175, DOI:
+10.1080/00111619.1992.9937882
+To link to this article: http://dx.doi.org/10.1080/00111619.1992.9937882
+
+PLEASE SCROLL DOWN FOR ARTICLE
+Taylor & Francis makes every effort to ensure the accuracy of all the
+information (the “Content”) contained in the publications on our platform.
+However, Taylor & Francis, our agents, and our licensors make no
+representations or warranties whatsoever as to the accuracy, completeness,
+or suitability for any purpose of the Content. Any opinions and views
+expressed in this publication are the opinions and views of the authors, and
+are not the views of or endorsed by Taylor & Francis. The accuracy of the
+Content should not be relied upon and should be independently verified with
+primary sources of information. Taylor and Francis shall not be liable for any
+losses, actions, claims, proceedings, demands, costs, expenses, damages,
+and other liabilities whatsoever or howsoever caused arising directly or
+indirectly in connection with, in relation to or arising out of the use of the
+Content.
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+This article may be used for research, teaching, and private study purposes.
+Any substantial or systematic reproduction, redistribution, reselling, loan,
+sub-licensing, systematic supply, or distribution in any form to anyone is
+expressly forbidden. Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/page/terms-and-conditions
+
+Elements of a Poetics of Cyberpunk
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+BRIAN
+
+MCHALE
+
+Cyberpunk science fiction is clearly on the postmodernist critical agenda.
+If it had not been already, it surely is now with the appearance of the new
+book on postmodernism by Fredric Jameson, whose contribution to the setting of that agenda can hardly be overestimated. In the new book’s first
+endnote, Jameson laments the absence of a chapter on cyberpunk, “henceforth, for many of us, the supreme literary expression if not of postmodernism, then of late capitalism itself’ (Jameson [1991] 417). If I understand the
+tenor of this somewhat enigmatic note and the other scattered allusions to
+cyberpunk (28, 286, 321), Jameson seems to be identifying cyberpunk as the
+literary manifestation of postmodernism, otherwise predominantly a nonliterary, visual, and spatial cultural phenomenon, whose preferred media is
+architecture, photography, art installations, film, video, and the like. He
+seems even to be implying that cyberpunk is somehow the direct expression
+of late capitalism, almost as though it were unmediated by inherited literary
+forms or historical genres. This would be an extraordinary position for
+someone who has taught us so much about the mediating function of genre
+(but perhaps I have misunderstood him here). In any event, it is an especially untenable position in the case of cyberpunk, which can hardly be properly “placed” in its cultural-historical context without taking into account
+its relations to two bodies of writing and their respective poetics, namely the
+poetics of the science fiction (SF) genre and the poetics of “elite” postmodernist fiction. Although cyberpunk may be (and doubtless is) a number of
+things-including a school phenomenon in the community of SF readers
+and writers, a generational phenomenon in the history of SF, a barefaced
+marketing device, and even, perhaps, the “supreme literary expression of
+late capitalism”-one thing that it surely must be is a convenient name for
+the kind of writing that springs up where the converging trajectories of SF
+poetics and postmodernist poetics finally cross (McHale, 1991).
+As far as cyberpunk’s relation to the SF tradition is concerned, there are
+few, if any, absolute novelties in cyberpunk SF; all the motifs that I docu-
+
+SPRING 1992, VOL. XXXIII, NO.3
+
+149
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+ment below have precedents in earlier SF, and some are very widely attested, to the point of constituting routine SF formulas or clichks. Cyberpunk’s critics sometimes have adduced this fact as counter-evidence to excessive claims for the novelty and “breakthrough” character of cyberpunk
+by its propagandists. Perhaps there is something to be said for this point of
+view, nevertheless, cyberpunk, in an important sense is innovative despite
+the familiarity or formulaic character of its SF motifs. What is new in cyberpunk, first of all, is the conspicuousness of certain selected motifs and
+their foregrounding relative to other motifs from the SF repertoire; and second, the co-occurrence of certkn motifs in the same texts, the solidarity
+among these motifs, the way they mutually corroborate and reinforce each
+other to create a motif complex that is distinctive of the cyberpunk wave of
+SF-even if every individual item in the complex can be traced back to
+earlier SF phases. The novelty of cyberpunk, in other words, lies not in the
+absolute newness of any particular component, but in a shift of dominance
+or center of gravity reflected in the combination of components and their
+relative conspicuousness in cyberpunk texts.
+Cyberpunk’s relation to “elite” postmodernist poetics is rather different.
+In this paper I will undertake to demonstrate and substantiate the overlap
+between the postmodernist poetics of fiction and cyberpunk poetics. The
+shared motifs I will identify occur at different levels of the text in postmodernism and cyberpunk; that is, what typically occurs as a motif of narrative
+structure or a pattern of language in postmodernist fiction tends to occur as
+an element of the fictional world in cyberpunk. Cyberpunk, one might say,
+translates or transcodes postmodernist motifs from the level of form (the
+verbal continuum, narrative strategies) to the level of the projected world.’
+To put it differently, cyberpunk tends to “literalize” or “actualize” what
+occurs in postmodernist fiction as metaphor-metaphor not so much in the
+narrow sense of a verbal trope (though that is also a possibility), but in the
+extended sense in which a textual strategy or a particular use of language
+may be understood as a figurative representation of an “idea” or theme. In
+this respect, too, cyberpunk practice is clearly a continuation or extension
+of SF practice generally, for SF often generates elements of its worlds by literalizing metaphors from everyday discourse or mainstream fiction and
+poetry.2 The three large bundles or complexes of motifs that cyberpunk SF
+shares with mainstream postmodernist fiction are motifs of what might be
+called “worldness”; motifs of the centrifugal self; and motifs of death,
+both individual and collective.
+I. Cowboys and Sundogs
+Isn’t this an ‘‘interface’’ here? a meeting surface for two worlds . . . sure, but
+which two?
+-Thomas Pynchon
+
+150
+
+CRITIQUE
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+Both science fiction and mainstream postmodernist fiction possess repertoires of strategies and motifs designed to raise and explore ontological
+issues; this is the basis for the overlap between the poetics of postmodernist
+fiction and SF poetics in general and cyberpunk poetics in particular. That
+is, SF, like postmodernist fiction, is governed by an ontological dominant,
+by contrast with modernist fiction or, among the genres of “genre” fiction,
+detective fiction, both of which raise and explore issues of epistemology and
+thus are governed by an epistemological dominant. Thus, whereas epistemologically oriented fiction (modernism, detective fiction) is preoccupied
+with questions such as, what is there to know about the world? who knows
+it and how reliably? how is knowledge transmitted, to whom, and how reliably? ontologically oriented fiction (postmodernism, SF) is preoccupied
+with questions such as, what is a world? how is a world constituted? are
+there alternative worlds, and if so how are they constituted? how do different worlds and different kinds of worlds differ? and what happens when
+one passes from one world to another? (McHale [1987] 9-11, 59-72, and
+passim; Calinescu 267).
+To explore such ontological issues, both SF and postmodernist fiction use
+and adapt the resources common to all varieties of fiction, in particular the
+universal fictional resource of presentation of virtual space. If all fictional
+texts project virtual spaces, not many of them foreground and exploit the
+spatial dimension to the degree that SF and postmodernist texts do.3 This
+shared poetics of space is partly to be explained by the common historical
+origins of SF and postmodernist fiction in romance. In medieval romance
+the category of “world,” normally the unrepresentable, absolute horizon
+of all experience and perception, is itself made an object of representation
+through a particular metaphorical use of enclosed spaces within the romance world: castles, enchanted forests, walled gardens and bowers. Such
+symbolic enclosures, functioning as scale models or miniature analogues of
+worlds, bring into view the normally invisible horizons of world, the very
+“worldness” of world. In other words, in medieval romance, space becomes an all-purpose tool for “doing” ontology-a means of exploring ontology in fiction, as well as (potentially at least) the ontology of fiction
+(Jameson [1975] 135-163, [1981] 103-105).
+This is true not only of medieval romance itself, but of its “heirs” including SF and postmodernist fiction. SF in particular has developed in the
+course of its history as a genre repertoire of microworlds, scale-model
+worlds designed to bring into view the “worldness” of the category
+“world” itself. Ultimately derived from the castles, forest, and bowers of
+medieval romance, these SF microworlds-domed space colonies, orbiting
+space stations, subterranean cities, “cities in flight,”-recur throughout the
+genre’s history. They recur yet again in cyberpunk SF, but with a new
+intensity of emphasis, sharpness of focus, and functional centrality.
+
+SPRING 1992, VOL. XXXIII, NO. 3
+
+151
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+Micro worlds
+The typical cyberpunk microworld uses the familiar motifs of outer-space
+fiction as building blocks: orbiting space stations or platforms, as in Tom
+Maddox’s “Snake-Eyes” and William Gibson and Bruce Sterling’s “Red
+Star, Winter Orbit” (both in Mirrorshades 1986)’ Gibson’s Neuromancer
+(1984) and Count Zero (1986)’ Sterling’s Schkmatrk (1985), John Shirley’s
+Eclipse (1985)’ Walter Jon Williams’ Hardwired (1986), and Michael Swanwick’s Vacuum Flowers (1987); or off-world colonies, whether domed, as in
+Rudy Rucker’s Software (1982) and Lewis Shiner’s Frontera (1984), or subsurface, as in Swanwick’s Vacuum Flowers and Rucker’s Wetware (1988).
+However, if the basic construction materials are SF cliches, the treatment of
+these materials in the cyberpunk context is typically revisionist or parodic.
+Where space stations and space colonies of traditional SF are glamorous
+showcases of high technology (think of Kubrick’s 2004, those of cyberpunk
+SF are likely to be orbiting slums-shabby, neglected, unsuccessful, technologically outdated (e.g., “Red Star, Winter Orbit,” Frontera, Eclipse, Vacuum Flowers). Alternatively, for the miniature egalitarian democracies of
+traditional SF (think of Star Trek), cyberpunk substitutes off-world havens
+of privilege, orbiting penthouses to which the wealthy and powerful withdraw to escape the poverty and danger of the planet surface (e.g., Neuromancer, Count Zero, Hardwired).
+Moreover, the cyberpunk adaptations of these familiar motifs heighten
+precisely the “worldness” of outer-space microworlds. This tendency is
+particularly conspicuous in Sterling’s Schismatrk, Swanwick’s Vacuum
+Flowers, and Williams’ Voice of the Whirlwind (1987). These texts extrapolate a future in which the human race, having evacuated planet Earth (partially in Williams, totally in Sterling and Swanwick), lives dispersed throughout
+the solar system in artificial planets and space colonies (on asteroids, the
+moons of other planets). Not only do these orbiting city-states differ from
+one another in the ways that nations differ in our world-in language, culture, political systems-but they also differ in more basic, indeed ontological,
+ways-h light, gravity, temperature, strains of bacteria. They differ, in other
+words, as worlds differ, and their differences heighten the world-modeling
+function of these enclosures.
+Another cyberpunk variant brings these microworlds down out of orbit to
+the terrestrial surface and superimposes them on the current map of the
+world. In Marc Laidlaw’s Dad’s Nuke (1985) and Williams’ Hardwired, for
+example, the United States of the near future has been balkanized (or, I supposed, “lebanonized”); that is, it has disintegrated into self-contained, warring enclaves sustained (in Laidlaw, less so in Williams) by disparate and
+competing ideologies and epistemologies. In Lucius Shepard’s L$e During
+Wartime (1987) and Lewis Shiner’s Deserted Cities of the Heart (1988) Mex152
+
+CRITIQUE
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+ico and Central America have disintegrated in this way; in Shirley’s Eclipse,
+Europe. These extrapolated near futures literalize a familiar metaphor in the
+sociology of knowledge (Berger & Luckmann 1%6), that of the multiple,
+competing “subuniverses” or “enclaves” of meaning into which complex
+(post)modern societies have diversified. Here the diversification of knowledge
+is literal and geographical, and Berger and Luckmann’s epistemological enclaves have erected barbed-wire perimeter fences and armed themselves with
+the latest military hardware against their epistemological competitors.
+Alternatively, microworlds appear as islands: the artificial island of Freezone in Shirley’s Eclipse (neatly mirroring and balancing the orbiting space
+station FirStep in the same text), or the islands of Sterling’s Islunds in the Net
+(1988). Some of Sterling’s islands, such as Galveston Island in the opening
+episodes, are, as his title has it, “in the net,” that is, integrated into the global
+communications and information network; but others, both literal islands
+(Grenada, Singapore, Turkish Cyprus) and figurative ones (a renegade submarine, motorized North African nomads, pocket dictatorships), remain defiantly outside the net. These latter islands-disparate, marginalized, renegade, resisting integration into the homogenizing world-system-strongly
+foreground the “worldne~s~~
+of island microworlds.
+Especially with these enclave and island microworlds cyberpunk SF returns
+to its distant historical roots in the kinds of romance world spaces that Jameson has described. Cyberpunk also returns to its romance roots through its
+use of wandering adventurer-heroes as a device for foregrounding its microworlds. “Worldness” in medieval romance (and in later subliterary derivatives, such as the Western) was heightened by the narrative device of the conventional knight errant’s itinerary, which took him from microworld to microworld-from castle to enchanted forest to cave to bower to another castle,
+and so on. Freely crossing world boundaries, the knight errant thus served to
+expose the differences among (micro)worlds.
+How conscious cyberpunk is of the adventurer-hero tradition is suggested
+by the nickname of Williams’ hero in Hurdwired, who smuggles contraband
+across the internal frontiers of what used to be the United States: he is (what
+else?) Cowboy. Space-traveling versions of the knight errant or cowboy
+abound in cyberpunk; Swanwick’s Rebel Mudlark (Vumurn Flowers) is one,
+Sterling’s Abelard Lindsay (Schivrnutrk)another, Williams’ Etienne Steward
+(Voice of the Whirlwind) yet another. Sterling even coins a name for them:
+they are “sundogs” (by analogy, I suppose, with s sea dog^,^^ another adventurer-hero model), and the interplanetary spaces they traverse on their itineraries from microworld to microworld are “sundog zones.”
+In the Zone
+When Sterling calls these interplanetary spaces “sundog zones,” he alludes
+to similar multiple-world spaces projected by postmodernist texts, in particuSPRING 1992,VOL. XXXIII, NO. 3
+
+153
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+lar the “Zone” of Pynchon’s Gravity’s Rainbow and William Burroughs’s
+“Interzone.” All these spaces, cyberpunk and postmodernist alike, are instances of what Michel Foucault called “heterotopia,” the impossible space
+in which fragments of disparate discursive orders (actualized in cyberpunk as
+disparate microworlds) are merely juxtaposed, without any attempt to reduce
+them to a common order.
+In its terrestrial versions, this cyberpunk zone typically takes one of two
+forms. One form is that of the war zone, the familiar spaces of our world
+fragmented and “reconfigured,” (Gravity 520) sometimes literally, by the
+impact of war-whether guerrilla war, as in Shepard’s Life During Wartime
+and Shiner’s Deserted Cities, tactical nuclear war, as in Shirley’s Eclipse, or
+unconventional forms of so-called “conventional” warfare, as in Williams’
+Hardwired. The model of Pynchon’s zone of postwar occupied Germany is a
+strong presence in some of these texts (e.g., Eclipse); in others, especially
+those involving tropical jungle warfare (Life During Wartime, Deserted
+Cities), the model is rather Michael Herr’s Vietnam War journalism in Dispatches (1978), or the fictionalized version in his screenplay for Coppola’s
+Apocalypse Now.
+The other typical cyberpunk zone, and the source of what is perhaps the
+most characteristic cyberpunk imagery, is the urban zone. This is, so to
+speak, an “imploded” zone: instead of microworlds spaced out along a narrative itinerary, here they have been collapsed together in the heterotopian
+space of a future megalopolis where “fragments of a large number of possible
+orders glitter separately in the dimension, without law or geometry, of the
+heteroclite” (Foucault xviii). The most characteristic and most influential example of this cyberpunk zone is the “Sprawl,” the near-future cityscapethat of the Boston-Atlanta Metropolitan Axis (the “Sprawl” proper) but also
+its Japanese equivalent, TokyoKhiba City-of Gibson’s stories (“Johnny
+Mnemonic,” “New Role Hotel,” “Burning Chrome”) and novels (Neuromancer, Count Zero, Mona Lka Overdrive). Similar urban zones occupy the
+backgrounds (e.g., in Pat Cadigan’s Mindplayers or Williams’ Hardwired
+and Voice of the Whirlwind) and sometimes the foregrounds (e.g., L.A. in .
+Richard Kadrey’s Metrophage or the island-city Freezone in Shirley’s Eclipse)
+of many other cyberpunk novels. They have even been projected into outer
+space to become the slummy asteroid-belt “tank towns” and the “cislunar
+sprawl” of “orbital hongkongs” in Swanwick’s Vacuum Flowers.
+The compositional principle of the Sprawl and its cognates, terrestrial and
+extraterrestrial, is maximally intimate juxtaposition of maximally diverse and
+heterogeneous cultural materials (Japanese, Western, and Third World, hightech and low-tech, elite and popular, mainstream “official” culture and
+youth or criminal subcultures). The Sprawl is an image of the carnivalized
+city, the city as permanent carnival. Kadrey makes this explicit when, in Metrophage, he places in the background of his narrative a literal carnival, that
+154
+
+CRITIQUE
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+of the Dia de 10s Muertos, its literally carnivalesque structure mirroring en
+abyme the carnivalesque structure of the “reconfigured” Los Angeles of
+Kadrey’s near-future world.
+At the center of this imploded multiple-world space-though “center” is a
+rather infelicitous term for a space whose organizational principle is precisely
+centerlessness-one typically finds an even more compact zone of cultural
+heterogeneity and juxtaposition, a kind of dense node of collapsed microworlds. This zone-within-the-Zone-red-light district, ghetto or barrio, sometimes a single building-can be read as a synecdoche (pan-pro toto) or m&e
+en abyme of the broader zone that surrounds it. Examples include the multistorey flea-market, the Hypermart, of Gibson’s Count Zero; OmeGaity, the
+homosexual cruising warren on Shirley’s island-city Freezone, with its
+“strange vibe of stratification: claustrophobia layered under agoraphobia’’
+(129); the Iron Barrio prison-camp of Shepard’s Life During Wartime; and
+the Golden Age of Hollywood Pavilion of Kadrey’s Metrophage, an “enormous tented structure” housing reconstructions of classic Hollywood movie
+sets, left over from a world’s fair and now home to a population of vagrants
+and squatters.
+Cyben-pace
+All the strategies of “worldness” described so far have involved juxtapositions among microworlds occupying the same ontological plane and arranged
+along the same horizontal axis. It is also possible, however, to foreground the
+“worldness” of world by juxtaposing worlds not, as in all these cases, in
+series, on a horizontal axis, but rather in parallel, on a vertical axis; that is, it is
+possible to juxtapose worlds occupying different ontological planes-worlds
+and metaworlds, or worlds and inset worlds (worlds-within-worlds).
+The characteristic cyberpunk form of inset world is “cyberspace” (Gibson’s coinage), the computer-generated space mentally experienced by computer operators whose nervous systems are directly interfaced with the computer system. According to the fictitious history developed in cyberpunk
+novels, cyberspace evolved from the “virtual worlds” of military simulations, but its real origin (as Gibson has cheerfully admitted in an interview)
+is less glamorous, namely, contemporary video-arcade games and computergraphics programs (McCaffery [I9901 138). More generally, the cyberspace
+motif arises from the potent illusion, experienced (I suppose) by all computer users, sophisticated and unsophisticated alike, of gazing into (or even
+moving around inside) some space lying somehow “within” or “behind”
+the flat screen of the computer monitor. And of course, apart from its immediate experiential source in illusions of this kind, cyberspace also has a
+long SF pedigree, including all the many variations on the SF motif of “paraspace”: parallel worlds, other “dimensions,” worlds of unactualized historical possibility.
+SPRING 1992, VOL. XXXIII, NO. 3
+
+155
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+Gibson’s cyberspace, also called the “matrix,” is a three-dimensional
+grid, “a 3-D chessboard, infinite and perfectly transparent” (Burning
+Chrome 168) in which concentrations of data (those stored by corporations,
+government agencies, the military) are represented by color-coded geometrical shapes: “the stepped scarlet pyramid of the Eastern Seaboard Fission
+Authority burning beyond the green cubes of Mitsubishi Bank of America,
+and high and very far away . . . the spiral arms of military systems” (Neuromancer 52). The user of this system has the illusion of moving among these
+representations as through a landscape, but a landscape entirely mental and
+virtual. The matrix is a “consensual hallucination,” that is, exactly the same
+hallucinatory landscape is experienced by everyone who “jacks into” one of
+the system’s terminals.
+Apart from this second plane of shared cyberspace reality, parallel to the
+primary reality plane, Gibson’s fictional world also incorporates a number
+of “private” paraspaces, limited-access worlds-within-the-world. The billionaire Virek, for instance (Count Zero), whose sickly body is kept alive in
+a vat, has had a private mental reality constructed for himself, one that simulates the city of Barcelona, while Bobby Newmark (Mona Lisa Overdrive)
+is permanently jacked into a unit that contains its own separate cyberspace
+world-construct (“ an approximation of everything” [ 1281). These private
+paraspaces are not, however, hermetically sealed but may be entered not only from the primary reality plane but even, in extraordinary circumstances,
+from other inset worlds. Bobby Newmark, for instance, penetrates Virek’s
+world-construct from the cyberspace matrix at the climax of Count Zero. It
+is possible, in other words, to adventure from parallel world to parallel
+world on the vertical axis, just as one can from microworld to microworld
+on the horizontal axis of the primary reality plane.
+Other cyberpunk versions of the cyberspace motif (e.g., Laidlaw’s in
+Dad’s Nuke, Cadigan’s in Mindplayers) have more or less close affinities
+with Gibson’s. But if cyberspace (whether on Gibson’s model or some
+other) is the most characteristic cyberpunk variant on the paraspace motif,
+it is nevertheless not the only one. Where texts such as Neurornancer, Mindplayers, and Dad’s Nuke construct a two-tier ontology4 by juxtaposing a
+primary reality plane with an inset cyberspace world, other cyberpunk texts
+do so by juxtaposing the primary reality plane with a parallel realm of
+mythic archetypes. Examples include Shiner’s Frontera, whose protagonist,
+Kane, acts out the hero “monomyth” simultaneously in the real world and
+the myth world to which he has access in dreams and hallucinations;
+Shiner’s Deserted Cities of the Heart, where the myth being re-enacted is the
+Mesoamerican one of Kukulcan/Quetzlcoatl; and Shepard’s Green Eyes
+(1984), where the parallel myth world is that of voodoo divinities. In other
+words, these texts literalize or actualize the kinds of mythological materials
+that function metaphorically in modernist texts such as U!yssesand Doktor
+156
+
+CRITIQUE
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+Faustus. While Joyce’s Leopold Bloom “is” Odysseus only figuratively, in
+a kind of extended metaphor, Shiner’s Kane real@ is the Hero with a Thousand Faces on a different but parallel plane of reality.’
+The paraspace motif, including cyberspace and its functional equivalent,
+the myth world, not only serves to bring into view the “worldness” of
+world; it also offers the possibility of reflecting on world making itself, and
+on science fiction world making in particular. Paraspace is, at least potentially, a scale model of the fictional world itself, a fictional-world-withinthe-fictional-world, or, in other words, a mise en abyme of the text’s fictional world. It offers, in other words, the possibility of metafiction.
+Cyberpunk texts often exploit the metafictional potential of paraspace.
+This metafictional dimension is foregrounded when, for instance, in Shepard’s Green Eyes, the paraspace myth world first manifests itself in stories
+(fictions-within-the-fiction) written by the novel’s protagonist. Inset stories
+and mise en abyme proliferate in Shepard’s second, and more properly cyberpunk novel, Life During Wartime, which is heavily influenced by LatinAmerican “magic realist” poetics. The text incorporates paraphrases of
+stories by one Juan Pastorin that echo elements of the novel’s real world,
+and Shepard’s protagonist, Mingolla, comes finally to believe that he has
+been written into one of Pastorin’s stories (359-360). There is also an elaborate description (324-331) of a mural, “The Mechanics Underlying Superficial Reality,” which duplicates en abyme many of the novel’s features.
+In Gibson’s Mona Lisa Overdrive, the artificial intelligence Continuity,
+who intervenes in this novel’s cyberspace world, is described as “writing a
+book . . . always writing it” (42). A similar self-reflexive, metafictional
+potential can sometimes be discerned in microworlds on the horizontal axis;
+for instance, the scale model of an ocean ecology constructed at a research
+station in Cuernavaca in Shiner’s Deserted Cities readily lends itself to interpretation as a mise en abyme of SF world modeling.
+
+II. Simstim
+Which world is this? What is to be done in it? Which of my selves is to d o it?
+-Dick Higgins
+
+Postmodernism’s shift of focus to ontological issues and themes has radical consequences for literary models of the self. A poetics in which the category “world” is plural, unstable, and problematic would seem to entail a
+model of the self that is correspondingly plural, unstable, and problematic.
+If we posit a plurality of worlds, then conceivably “my” self exists in more
+than one of them; if the world is ontologically unstable (self-contradictory,
+hypothetical, or fictional, infiltrated by other realities) then so perhaps am
+“I.” Dick Higgins’ first question would seem to entail his last: if we can
+SPRING 1992,VOL. XXXIII, NO.3
+
+157
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+ask, “Which world is this?”, then it follows that eventually we must also
+get around to asking, “Which of my selves . . .?”
+Modernist perspectivism (e.g., Ulysses, The Sound and the Fury, To the
+Lighthouse, Les Faux-monnayeurs)multiplied points of view on the world,
+but without, for the most part, undermining the underlying unity of the
+self. Though in modernist fiction the perspectives on the world are many,
+and each differ from all the others, nevertheless each perspective is lodged
+in a subjectivity that is itself relatively coherent, relatively centered and
+stable; and this is true even of those modernist texts (e.g., A la Recherche du
+temps perdu, La coscienza di Zeno, Die Mann ohne Eigenschaften) in which
+the unity and continuity of the self is problematized. Still, perspectivism
+does exert considerable centrifugal pressure on the self, and there are
+tendencies in modernism toward fragmentation and decentering. Never
+brought to full fruition during the modernist period, these centrifugal tendencies could not be realized until the emergence of a postmodernist poetics
+that explores and problematizes the ontologies of worlds and texts.6
+For the most part, fragmentation and dispersal of the self occurs in postmodernist fiction at the levels of language, narrative structure, and the material medium (the printed book), or between these levels, rather than at the
+level of the fictional world. In other words, postmodernist fiction prefers to
+represent the disintegration of the self figuratively, through linguistic, structural, or visual metaphors, rather than literally, in the persons of characters
+who undergo some kind of literal disintegrative experience. There are exceptions. Both Pynchon and Sukenick, for instance, have texts in which characters fracture or disintegrate, not metaphorically (psychologically) but ontologically. In Gravity’s Rainbow, for instance, Pirate Prentice is literally a
+medium, a “fantasist-surrogate” possessed by alternate selves, while the
+novel’s supposed hero, Tyrone Slothrop, undergoes disassembly and “scattering,” entirely disappearing from the world by the closing episodes. Similarly, Sukenick has characters who, before our eyes, so to speak, “peel off”
+from other characters (Roland Sycamore in Out), “split” into two (Boris
+Ccrab in Blown Away), infiltrate and take possession of other characters by
+“a kind of psychic osmosis” (Blown Away), and so on.
+Ontologically oriented like postmodernist fiction, science fiction has also
+developed a repertoire of strategies for asking, “Which world is this?”, yet
+it has for the most part managed to avoid asking the corollary question,
+“Which of my selves?” It has, in other words, appeared to evade the consequences of its ontological pluralism and experimentalism for its model of
+the self. Or rather, SF has tended to neutralize the issue of the (re)presentation of self by keeping characterization generally “thin,” “shallow,” and
+impoverished, strictly subordinated to the foreground category of “world.”
+In this respect we might even say, paradoxically, that traditional SF, otherwise so “premodernist” in its orientation, has always been postmodernist.
+158
+
+CRITIQUE
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+“The disappearance of character (in the traditional sense) from contemporary (‘postmodern’) fiction,” writes Christine Brooke-Rose, “is one of the
+ways in which SF and the more ‘serious,’ experimental fiction have come
+close together” (102); character, newly absent from “serious” fiction, has
+always been absent from SF!
+Cyberpunk practice is to actualize or literalize what in postmodernist
+poetics normally appears as a metaphor at the level of language, structure,
+or the material medium. Where postmodernism has figurative representations of disintegration, cyberpunk texts typically project fictional worlds
+that include (fictional) objects and (fictional) phenomena embodying and illustrating the problematics of selfhood: human-machine symbiosis, artificial intelligences, biologically engineered alter egos, and so on.
+Since cyberpunk handles the centrifugal self at the level of fictional world
+rather than at one or more of the formal levels of the text, as postmodernist
+fiction prefers to do, its motifs of dispersion and decentering fall naturally
+into categories based on the types of fictional objects and phenomena represented. Here we can turn to Sterling’s fiction for a convenient taxonomy. In
+a series of stories culminating in his 1985 novel Schismatrix, Sterling projects a future history in which humankind divides into two “posthuman”
+species in competition with one another, each species employing a different
+range of technologies to enhance and transform itself so as to improve its
+own chances for success. The “Mechanists,” or “Mechs,” use electronic
+and biomechanical means to augment themselves; prostheses to enhance the
+body, but with the side effect of violating its integrity; brain computers
+interfacing to exrend the mind, but with the side effect of attenuating and
+dispersing it. Their rivals, the “Shapers,” use bio-engineering techniquescloning, genetic engineering-to achieve the same ends, and with similar
+side effects: who am “I” if I am a member of a “congenetic clan” of identical cloned individuals? These two technological options-the Mech option
+and the Shaper option-define alternative ranges of representational motifs
+of the centrifugal self.’ Swanwick, in Vacuum Flowers, offers a parallel
+future history and an alternative pair of categories; in his version, the division is between the “wettechnic civilization” (roughly, the Mech option) of
+the solar system proper and the bioprogramming technologies (roughly, the
+Shaper option) of the comet worlds. We might call the first set, corresponding to the Mech option, cyberpunk proper, and the second set, corresponding to the Shaper option, “bio-punk.”
+
+Riding the eye-face
+The traditional SF iconography of the humanoid robot, as developed by
+Capek, Binder, Asimov and others, is relatively rare in cyberpunk; only
+Rudy Rucker (Software, Wetware) has exploited it in any very ambitious
+way. More typical of cyberpunk are its artificial intelligences (AIs), softSPRING 1992,VOL. XXXIII, NO. 3
+
+159
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+ware surrogate humans, i.e., programs, rather than the hardware robots (or
+“wetware” androids) of traditional SF. Examples include Gibson’s Wintermute and Neuromancer, who merge at the end of Neuromancer, but by the
+time of its sequel, Count Zero, have already broken up into multiple software “selves.” All of these variants on the robot motif serve to raise the
+classic SF question, who (or what) is human? At what point does a machine
+cease being a “mere” machine and begin to count as a human being?
+This same question is also raised, but in inverted form, by the cyberpunk
+motif of prosthesis: at what point does a human being cease to be a human
+being and begin to count as a machine? Sterling’s Mechanists (Schismatrix)
+present an entire range of prosthetic possibilities, from biomechanical arms
+and legs, through remote-control “waldos” that enable human beings to extend their presence into unliveably hostile environments (deep space, ocean
+abysses), to “wireheads” who, abandoning their organic bodies entirely,
+survive as software ghosts in electronic machines. Less total prostheses are
+recurrent motifs in Gibson, Kadrey (Metrophage) and Williams (Hardwired, Voice of rhe Whirlwind), especially artificial eyes and surgically implanted weapons (knife-blades under the fingernails, a microfilament
+garotte in the thumb, a murderous “cybersnake” prosthetic weapon in the
+throat), even, in Kadrey, prosthetic genitalia!
+Prosthetic augmentation is possible for mental capacities as well as for
+the body’s physical capacities. There are minimal forms of this mentalaugmentation motif, in which units (“microsofts,” “augs”) introduced
+permanently or temporarily into the nervous system supply specialized
+knowledge or preprogrammed technical skills when needed (Gibson, Shirley’s “Wolves of the Plateau”). In Swanwick’s Vacuum Flowers, maximum
+mental augmentation takes the form of the temporary programming of individuals with any of a range of useful or desirable personality constructs
+(“personas”), either for the sake of the specialized skills that these latter
+possess (doctor, police, skilled worker, weapons operator), or simply for
+reasons of entertainment and fashion. Exploring the possibility of multiple
+“personas” overlaid one on top of the other and occupying the same brain,
+this maximal form of the motif (also to be found in a somewhat different
+version in Cadigan’s Mindplayers) captures in a particularly arresting way
+the cyberpunk theme of the plurality and fragmentation of the self.
+At some hard-to-define point prosthetic augmentation shades off into a
+complete human-machine symbiosis or fusion, and the borders of the self
+blur and erode. The image of a human being coupled with a machine“jacked-in,’’ “riding the eye-face” (i.e., the “I-face,” or human-machine interface)-recurs in many variations throughout cyberpunk; it is, indeed, the
+most characteristic piece of cyberpunk iconography. In these postures of fusion, the human partner in the symbiosis may experience an exhilarating expansion of self, as does Williams’ protagonist Cowboy when he plugs into his
+
+160
+
+CRITIQUE
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+armored vehicle, or, alternatively, an identity-threatening dilution or attenuation, as with Reno, Williams’ part-human, part-prosthetic character, or the
+“wirehead” Ryumin in Schismatriu. In extreme cases, the human self may be
+entirely absorbed into the machine. Williams’ Reno, who begins as part prosthetic, ends by being a literally centrifugal self, diffused throughout the
+worldwide information network. Similarly, Rucker’s Cobb Anderson persists
+as disembodied, taped “software” capable of being booted up in a variety of
+“hardware” vehicles, custom-made bodies as well as machines. Both in
+Rucker’s two cyberpunk novels and in Swanwick’s Vacuum Flowers, renegade cybernetic systems aspire to absorb the entire human race into a collective group-mind incorporating human and machine intelligences alike-the
+ultimate form of human-machine symbiosis.
+
+Zombies
+The “biopunk” subvariety of cyberpunk SF makes available an entirely
+different, though complementary, range of motifs of the centrifugal self.
+Where machine-oriented cyberpunk produces electronic and mechanical
+surrogates of human beings (robots, AIs), the biopunk variety “grows”
+new human individuals in vats, or clones identical multiples of the “same”
+individual, literally pluralizing the self (Schismatriu, Wetware, Vacuum
+Flowers, Dad’s Nuke, Voice of the Whirlwind). Where the machine-oriented
+variety augments and extends human capacities through mechanical means
+(prostheses, “waldos”), biopunk accomplishes the same thing through biotechniques, engineering new, reconfigured human types: “angels” (Schismatrix, Wetware), mermaids/mermen (Shiner’s “Till Human Voices Wake
+Us”). Finally, where the machine-oriented variety threatens the individual
+human self with diffusion throughout an electronic network, biopunk threatens bodily fusion with other individuals (the effect of the drug “merge” in
+Wetware) and, ultimately, physical diffusion and loss of differentiation (the
+woman grotesquely reconfigured as a wall of undifferentiated tissue, the
+“Wallmother,” in Schismatrix, the planet-wide biomass in Greg Bear’s
+Blood Music).
+It is not hard to see that these biopunk motifs revise, update, and rationalize classic gothic-horror motifs of bodily invasion and disruption. This is especially the case with the biopunk variations on the classic B-movie gothichorror motif of the zombie. The traditional zombie, of course, is a corpse
+reanimated by powerful voodoo magic to do the magician’s will. In its various biopunk adaptations, the zombie is rarely a corpse, more often a living
+human being “possessed” by some alien self, or under the irresistible control
+of some other human being. The technologies of possession and control vary.
+One variant, for instance, extrapolates from the familiar capacity of present-day drugs to induce in the drug user temporary personality changes of a
+SPRING 1992, VOL. XXXIII, NO. 3
+
+161
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+regular and to some extent predictable kind, changes in effect “coded” in
+the chemical structure of the drug. These extrapolated “designer drugs” of
+the future temporarily efface the “real” self and induce, for instance, a
+prostitute-self (Gibson’s “meat puppets”), or a soldier self (Shepard’s
+“samurai”-the name both of the drug and the personality it induces; Williams’ “hardfire”). In one sophisticated version, found in Sterling’s Islands
+in the Net, the capacity for transformation into an assassin personality is
+chemically preprogrammed into the individual, requiring only an enzyme
+trigger to activate it: merely eating a carton of yoghurt turns a personable
+Rastafarian into a “killing machine.” Clearly, this military use of drugs to
+induce a soldier personality is functionally equivalent to the motif of
+human-machine symbiosis in which the pilot directly interfaces with his
+weapons system (Maddox’s “Snake-Eyes,” Swanwick and Gibson’s “Dogfight,” Shepard’s Life During Wartime, Williams’ Hardwired and Voice of
+the Whirlwind, Kadrey’s Metrophage).
+A second biopunk variant on the zombie motif extrapolates from a classic
+paranoid theme, what Pynchon calls “the old Radio-Control-Implanted-Inthe-Head-At-Birth problem” (542). In other words, this variant involves
+biotechnological devices, such as surgically implanted radio receivers that
+subject the individual self to some irresistible remote control by others.
+Shiner’s hero Kane, in Frontera is subjected to just this sort of biotechnological control, and Shepard (Life During Wartime) has an entire radiocontrolled zombie army. Rucker (Wetware) elaborates a range of horrible
+baroque variations on this control motif, including a “zombie box” that,
+affKed to the spine, turns a human being into a remote-controlled zombie;
+a miniaturized “robot rat” that replaces the right half of the human brain,
+transforming a human being into a puppet-like “meatie”; and a robot
+“Happy Cloak” that, draped around a vat-grown, mindless cloned body, is
+capable of animating it and inducing in it a semblance of sentience. The
+distinction here between machine-oriented cyberpunk motifs and biopunk
+motifs is obviously a purely artificial one, and biotechnological control
+devices such as those found in Wetware shade imperceptibly into the range
+of techniques for superimposing personalities that we have already mentioned (Vacuum Flowers and Mindplayers). Also related is the motif of telepathic mind-control, a much more conventional SF motif, to be found in
+Shepard’s Life During Wartime alongside the more distinctively cyberpunk
+variants of the drug-induced personality and the radio-controlled zombie.
+Finally, closest of all in some ways to the traditional zombie of horror fiction and movies, is what might be called the motif of the cellular-level self.
+In Green Eyes, Lucius Shepard’s self-conscious revision of the zombie
+myth, a particular strain of bacteria introduced into the brain of a fresh
+corpse generates there a short-lived ersatz personality (a “Bacterially Induced Artificial Personality”). Under these bizarre circumstances, the self
+162
+
+CRITIQUE
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+is plural and decentered, literally “a disease in a borrowed brain” (89).8 The
+ultimate elaboration of this variant of the centrifugal self is to be found in
+Greg Bear’s Blood Music (1985), in which the cells of the human body acquire their own collective intelligence, like that of an ant hill, wholly independent of the intelligence of their human “host.” Seizing control of their
+“environment”-first
+the bodies of their hosts and ultimately the entire
+planet-and reshaping it to their needs, they transform Earth into a vast,
+constantly metamorphosing biomass, possessing a single collective selfhood. Simultaneously the one and the many, centripetal and centrifugal
+Bear’s cellular-level intelligence mirrors the world-spanning symbiotic
+human-machine intelligences of Rucker and Swanwick.
+
+Simstim
+The theme of the centrifugal self, and the representational motifs through
+which it is manifested in cyberpunk SF, are essentially incompatible with
+the perspectivist narrative strategies of modernist fiction. Modernist strategies such as multiple limited points of view and “parallax” of perspectives
+rest on the assumption of relatively centered, relatively stable subjectivities.
+Recognizing this, postmodernist writers have either sought to “background” these strategies, relegating them to a subordinate and ancillary
+role, or have, like Pynchon in Gravity’s Rainbow, deployed them in ways
+that undermine the modernist assumptions upon which they rest-in effect
+parodying modernist perspectivism. But Pynchon’s is a difficult precedent
+to emulate, and cyberpunk writers have all too often ended up falling back
+on perspectivist structural clichis inherited from modernist poetics (either
+directly, or indirectly by way of SF’s own modernist generation, the socalled “New Wave” SF of the 1960s). This is true, for instance, of Shiner’s
+Frontera, Shirley’s Eclipse, Gibson’s Count Zero and Mona Lisa Overdrive, and other cyberpunk novels composed on the modernist model of
+multiple, shifting points of view.
+But the modernist assumptions underlying perspectivism can be countered,
+and in ways that are distinctively cyberpunk rather than weak imitations of
+Pynchon’s postmodernism. How this can be achieved is demonstrated by two
+texts, Sterling’s Islands in the Net and Gibson’s Neuromancer. These texts
+share, among other things, the motif of “simstim” (Gibson’s coinage), that
+is, “simulated stimulus.” In Gibson’s world, simstim is an extrapolated communications and entertainment medium involving not only audio and visual
+sensory channels, as television presently does, but the entire range of senses,
+the full human sensorium. As an entertainment medium, Gibson’s simstim is
+a cross between the “feelies” of Huxley’s Brave New World and American
+commercial television’s egregious Life Styles of the Rich and Famous: simstim stars (Tally Isham in “Burning Chrome,” Neuromancer, and Count
+SPRING 1992, VOL. XXXIII, NO. 3
+
+163
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+Zero, Angie Mitchell at the end of Count Zero and in Mona L&a Overdrive)
+travel, interview celebrities, and enjoy the good life while wearing equipment
+that records the full range of their sensory experience for broadcast (appropriately edited, of course) to consumers who vicariously re-experience
+through simstim receivers at home what the stars have directly experienced in
+real life. Typical SF extrapolated technology, in other words-but with interesting implications for literary perspectivism.
+Exactly what implications can be clearly seen in Sterling’s Islands. In the
+world of Sterling’s novel there is no “simstim” in the sense of Gibson’s
+entertainment medium; here the technology behind simstim is still cuttingedge, too expensive for the average consumer, and reserved for corporate
+communications uses only. David and Laura, about to undertake a risky
+diplomatic mission to Grenada for the Rizome multinational corporation,
+of which they are “associates,” are custom-fitted with videocam sunglasses,
+as well as audio pickups, microtransmitters, and earpieces for audio reception. Transmitted through satellite links to Rizome’s communications
+center, their sensory input (audio and visual channels only, not, in this case,
+the full sensory range) is made available to Rizome associates throughout
+the worldwide communications “Net.”
+Thus, the episodes in Grenada unfold on two “planes” or in two “locations” simultaneously. At the same time that we follow Laura (through
+whom this text is focalized) and David as they make their way around the
+island, Rizome associates throughout the world are also following them,
+and occasionally intervening over their audio links: these interventions,
+audible only to David and Laura, not to the Grenadians around them, are
+indicated in the text by square brackets:
+At that moment a new voice came online. [“Hello Rizome-Grenada,
+this is Eric King in San Diego. . . . Could you give me another look at
+that distillation unit. . . . No, you, Laura, look at the big yellow
+thing-”]
+‘‘I’ll take it,” Laura shouted to David, putting her hand over her ear.
+“Eric, where is it you want me to look?”
+[“To your left-yeah-Jeez, I haven’t seen one like that in twenty
+years. . . . Could you give me just a straight, slow scan from right to
+left. . . . Yeah, that’s great.”] He fell silent as Laura panned across the
+horizon. (82-83)
+
+As this passage indicates, feedback from their Rizome “eavesdroppers”
+back home literally shapes how and what David and Laura perceive-where
+they turn their attentions, how long they spend looking, from what angles.
+Negatively, their consciousness of being eavesdropped upon also determines
+what gets “edited out” of their behavior: for example, they refrain from
+sexual byplay except when their transmission rigs have been removed, in effect practicing self-censorship.
+
+164
+
+CRITIQUE
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+So Rizome’s corporate self, unified but also dispersed by the “Net,” can
+and does freely occupy the point of view of Laura and David. These latter
+can be seen (at least when they are wearing their videocam rigs) as the corporate self‘s sense organs, its feelers probing the outside world. Here, in
+other words, a perspectivist strategy (focalization through a limited point of
+view) has been reinterpreted and freshly re-motivated in terms of a characteristic cyberpunk motif of the centrifugal self. Rizome’s corporate self is a
+relatively benign version of the more threatening biological (Blood Music)
+and human-machine collectivities (Vacuum Flowers, Wetware) with which
+we are already familiar. Nevertheless, it is a version of them, and here it
+serves to turn a structural clichC into a novel means of representing the
+submergence of the individual self in the collective.
+Even more radical, perhaps, is Gibson’s use of the simstim motif to remotivate perspectivism in Neuromancer. While she breaks into the Sense/
+Net corporate headquarters, and again during her raid on the Tessier-Ashpool refuge of Villa Staylight, Molly the female ninja wears a simstim
+broadcast rig, enabling her partner Case to accompany her on the raid vicariously, as it were. Using simstim technology, Case cqn occupy Molly’s
+point of view at will, literally at the flip of a switch. As in the Grenada
+episodes of Islands in the Net, the action unfolds simultaneously on two
+“planes,” three if one counts cyberspace, for Case shifts back and forth
+among his own point of view on the primary reality plane, Molly’s point of
+view, and the secondary, cyberspace reality plane. The effect is that of
+“split-screen” cinema or television-or indeed, that of multiple-point-ofview fiction.
+This is, in one sense, a purely formal solution ingeniously motivated by a
+representational motif at the level of the fictional world. The text of Neuromancer is consistently focalized through Case, but in these episodes Case is
+not at the center of the action, or rather he does not occupy its only center;
+the action involving Molly is at least as important and engaging. The simstim motif allows Gibson to introduce Molly’s experience without violating
+the basic point of view convention of the text.
+Ingenious though it may be, this is not, however, on@ a characteristically
+cyberpunk solution to a formal problem. It is also a subversive gesture, implicitly undermining the model of the centered, centripetal self upon which
+modernist perspectivism rests. With the flip of a switch Case is able to experience another’s body, “other flesh,” from within. He experiences another’s physical pain when he shifts into Molly’s sensorium a moment after
+she has had her leg broken (64).He even has the opportunity to see himself
+from another point of view, literally as another sees him:
+[He] found himself staring down, through Molly’s one good eye, at a
+white-faced, wasted figure, afloat in a loose fetal crouch, a cyberspace
+deck between its thighs, a band of silver [elecltrodes above closed,
+
+SPRING 1992,VOL. XXXIII, NO.3
+
+165
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+shadowed eyes. The man’s cheeks were hollowed with a day’s growth of
+dark beard, his face slick with sweat.
+He was looking at himself. (256)
+
+Finally, and perhaps most radically, when Case flips the switch that displaces him into Molly’s point of view, he literally changes gender: he inhabits, if only temporarily, a woman’s body. “So now you get to find out
+just how tight those jeans really are, huh?” wisecracks the Finn after he finishes explaining the simstim hook-up to Case (53), and this witty, subversive
+literalization of male clichCs of sexual conquest (“I wouldn’t mind getting
+into her pants!”) suggests just how disorienting-at least potentially-this
+motif can be. A comparable instance of literalizing a typical modernist
+structure through some representational motif of extrapolated future technology occurs in Kadrey’s Metrophage. Here the protagonist, one Jonny
+Qabbala, is fitted with prosthetic eyes capable of recording and playing
+back whatever passes through their visual field. Before he has fully mastered his new prosthesis, Jonny inadvertently triggers playbacks of scenes
+that had passed before his eyes some time earlier: “As Jonny looked at the
+animals, a frozen image of the bodysheathed Swedes imposed itself on his
+vision, the street by La PoupCe clear in the background. Then it was gone.
+Jonny blinked, tensing the muscles around his eyes. The image of the
+Swedes flashed back. He held it this time, made it move slowly, forward
+and backward’’ (185). Later Jonny will deliberately play back images of his
+dead lover. In other words, this technological motif motivates typical modernist structures of memory, whether that of involuntary memory in Proust,
+or obsessive memory-loops such as those in Benjy’s and Quentin’s monologues in Faulkner’s The Sound and the Fury. As a vehicle for imagining
+what it would be like to be a centrifugal self-to be in two places at once, to
+occupy two different points of view and two different bodies simultaneously, to change genders at the flip of a switch-the characteristic cyberpunk
+motif of simstim gives fresh, concrete, and radical meaning to Dick Higgins’ question, “Which of my selves is to do it?”
+
+III. The Final Frontier
+His whole psychology, his point of orientation, is to dabble with death and yet
+somehow surmount it.
+-Philip K. Dick
+
+The ultimate ontological boundary, the one which no one can help but
+cross, is, of course, the boundary between life and death, between being and
+not-being. It is only to be expected, then, that an ontologically oriented
+poetics such as that of postmodernist fiction should be preoccupied with
+death. Perhaps it would be more accurate to put this the other way around
+and to say rather that the ontologically oriented poetics of postmodernism
+is the latest, renewed manifestation of our culture’s protracted struggle to
+166
+
+CRITIQUE
+
+represent, and thus symbolically to master, death. Either way, postmodernist fiction might somewhat reductively be characterized as one long, resourceful, highly diversified, obsessive meditation on the intolerable fact of
+personal extinction-your death, my death, our collective death (McHale
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+[1987] 227-35).
+
+Thomas Pynchon remarks, in the controversial introduction to his shortstory collection Slow Learner (1984), that in science fiction “mortality is
+. . . seldom an issue,” and that this is a mark of the genre’s immaturity and
+helps explain its appeal for immature readers (5). This is unfair; there are a
+number of SF writers (one thinks of Philip K. Dick and Thomas Disch,
+among others) who have been as seriously preoccupied with mortality as
+any “mainstream” writer, and who have used SF conventions and formulas
+to explore death in ways not open to writers outside the SF genre. Nevertheless, it could be argued that no generation or group of SF writers has made
+the exploration of death its special province until the emergence of the cyberpunk “wave” in the 1980s.
+One important exception to this generalization, one that deals with a particular variant of the theme of death has been a special province of SF writing
+in general since 1945 (and in fact before): the theme of nuclear holocaust. If
+late-twentieth-century literature in general, including postmodernist fiction,
+has turned with renewed attention to the perennial human preoccupation
+with death, it is no doubt in part because for the first time in history human
+beings feel threatened with “double” death: inevitable personal extinction,
+as always, but also the probable global self-destruction of the race and its
+posterity through nuclear war (or, alternatively, some ecological disaster).
+To SF writing in particular has fallen the task of feeding our imaginations
+with images and scenarios of our impending global extin~tion.~
+This task
+has been inherited in due course by the cyberpunk generation of SF writers,
+who have stamped their own distinctive mark and emphases on the theme of
+nuclear war.
+
+Dad’s nuke
+A distinguishing mark of cyberpunk SF, writes Bruce Sterling, is its
+“boredom with Apocalypse” (Chrome xi), which does not mean that cyberpunk disregards the nuclear war theme but rather that, like its SF and postmodernist precursors, it seeks ways of renewing and defamiliarizing it.
+Thus, for instance, John Shirley prefaces his Eclipse (1985) with an
+alarming and enigmatic “note from the author”:
+This is not a post-holocaust novel.
+Nor is this a novel about nuclear war.
+It may well be that this is a pre-holocaust novel.
+
+Distancing himself in this way from familiar SF nuclear war motifs (such as
+SPRING 1992,VOL.XXXIII, NO. 3
+
+167
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+the “post-holocaust novel”), Shirley prepares us for his revisionist treatment
+of nuclear war; what follows is a representation of the nuclear apocalypse as a
+long drawn-out agony, a tactical nuclear war of attrition in Europe. In other
+words, Shirley challenges the image of apocalypse as an instantaneous,
+transformative, irreversible event, substituting for it an image of “slowmotion” apocalypse, an endlessly protracted “pre-holocaust” from which
+the world never emerges into a transformed, post-holocaust future.
+Bruce Sterling’s Islands in the Net (1988) defamiliarizes the nuclear threat
+in a particularly powerful and subtle way. Projecting a near-future world
+from which nuclear weapons have supposedly been abolished, Sterling has
+his heroine Laura, the quintessentially normal citizen of this world, uncover
+a cabal of renegades armed with atomic weapons and intent on nuclear
+blackmail. Before our eyes, as it were, her nuclear-free world is shockingly
+transformed into our own brink-of-apocalypse world. The effect is that of a
+double defamiliarization: Laura’s nuclear-free world, alien to us but familiar to her, is abruptly transformed into a state of affairs utterly alien to her
+but only too familiar with us. Because we view this familiar state of affairs
+through Laura’s eyes and from her alien perspective it jolts us with a shock
+of defamiliarized recognition: “On some deep unconscious level,’’ Laura
+reflects, “people liked the political upheaval, the insecurity, the perverse
+tang of nuclear fear. The fear was an aphrodisiac, a chance to chuck the
+long-term view and live for the moment. Once it had always been like that.
+Now that she was living it, hearing people talk it, she knew’’ (334). “Once it
+had always been like that,” indeed, but the experience passes for routine
+unless we deliberately adopt an alienated point of view, such as that of Sterling’s woman from the future.
+Another powerful defamiliarizing strategy of cyberpunk nuclear war fiction is what might be called the motif of “backyard apocalypse.” The
+nuclear threat is literally reduced to backyard dimensions in Marc Laidlaw’s
+satirical Dad’s Nuke (1985), where suburban neighbors in an embattled
+neighborhood enclave compete over who possesses the most advanced family arsenal. When the neighbor across the street acquires his own backyard
+tactical nuclear missile system, Dad responds by installing a miniature
+nuclear reactor in the garage! Sterling exploits a version of this same motif
+in Schisrnatrix (1985), where he defamiliarizes nuclear war by reducing its
+dimensions and making it a universally available option. In a future in
+which “world” has been reduced to the dimensions of orbiting “microworlds,” the threat of annihilation becomes correspondingly small scale:
+every orbital microworld is vulnerable to instant micro-apocalypse through
+the simple puncturing of its airtight outer shell. Furthermore anyone, even a
+crew of pirates, can possess technology sufficient to destroy such a world.
+Worlds could burst. The walls held life itself, and outside those locks
+and bulkheads loomed utterly pitiless darkness, the lethal nothingness
+168
+
+CRITIQUE
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+of naked space. , . . There was no true safety. There had never been
+any. There were a hundred ways to kill a world: fire, explosion, poison,
+sabotage. . . . The power of destruction was in the hands of anyone and
+everyone. Anyone and everyone shared the burden of responsibility.
+The specter of destruction had shaped the moral paradigm of every
+world and every ideology. (79-80)
+Scaling it down to microworld proportions in this way restores to the motif
+of nuclear apocalypse its power to shock and haunt: Sterling’s microworlds
+are transparently scale models of our world, his micro-apocalypses displaced versions of the collective death we face.
+Critics have suggested that the literary representation of nuclear war is itself a displacement, that, in fact, every image of collective death is only a
+kind of metaphor for personal death.” Perhaps so; in any case, it is striking
+that in cyberpunk SF motifs of apocalypse and motifs of personal extinction co-occur, mutually corroborating and reinforcing each other. If anything, though, it is at the level of personal extinction, rather than that of
+collective disaster, that the cyberpunk meditation on death is most innovative, most resourceful, and most persistent. “The spectre haunting all
+c[yber]-p[unk],” as Larry McCaffery has observed, is the Spectre, the spectre of death (“Desert” 15).
+
+Excluded middles
+Life and death form a binary opposition, of course. As Pynchon reminds
+us in his recent novel Vineland (1990), returning to a metaphor from his
+earlier The Crying of Lot 49 (1966), ours is “a world based on the one and
+zero of life and death” (72). Between life and death there is no third option,
+no middle state; the law of the excluded middle applies. But, as we know
+from The Crying of Lot 49, excluded middles are “bad shit, to be avoided”
+(36), so in Vineland Pynchon tries to imagine a middle state of “mediated
+death” (218) occupied by beings called Thanatoids who, because of some
+“karmic imbalance” (173), are not permitted fully to die but must linger on
+in an ambiguous condition “like death, only different” (170). Pynchon’s is
+one version of the postmodernist modeling of the ontological frontier between life and death. Other, parallel versions are to be found in SF, for instance the “half-life” state upon which Dick’s Ubik (1969) is premised, and
+the many other SF variations on the theme of suspended animation.
+Fusing the SF and postmodernist strategies for modeling death, cyberpunk seeks to imagine some middle state beyond or outside biological lifenot a state of nonbeing, not death. Here, as in the case of other cyberpunk
+motifs, the range of motifs for exploring this middle or half-life state
+divides along the lines laid down in Sterling’s future history of the “posthuman” race: on one side, the “Mechanist” options, or cyberpunk proper,
+that is, electronic means of resurrection and persistence beyond death; on
+SPRING 1992, VOL. XXXIII, NO. 3
+
+169
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+the other side, the “Shaper” or “bio-punk” options, that is, bio-engineered
+means of “posthumous” survival.
+The paradigm of cyberpunk motifs of death and machine-mediated resurrection might be a cinematic rather than a literary example: the death of the
+policeman Murphy and his resurrection as the hybrid RoboCop in Paul
+Verhoeven’s film of that name (1987). In this extraordinary sequence, Murphy’s death on the operating table is represented from his subjective point
+of view. Emergency procedures fail to save him; the doctors declare him
+dead; the screen goes black. Then, after a moment of darkness, the subjective camera-eye perspective returns, this time framed as in a camera viewfinder, with LED numbers flashing in one corner of the screen. Murphy has
+been revived as RoboCop, part human being, part machine.” This same
+interior perspective on the experience of dying and being posthumously
+“booted up” in a machine, so graphically represented in the RoboCop sequence, is persistently explored by Rudy Rucker in Software and its sequel
+Wetware. Throughout these texts, intelligences, both human and machine,
+face death and experience the disorienting transition to a new mechanical or
+biological body and the limbo state between existing in one body and existing in another. This is, in a sense, the focus or dominant of Rucker’s
+poetics, and he is relentless in his experimentation with means of representing the subjective experience of death and resurrection.
+If Rucker seems particularly obsessive in his exploration of this theme, his
+preoccupation with death is by no means unique in cyberpunk writing. “She
+didn’t know she had died,” runs the opening sentence of Swanwick’s Vacuum Flowers. “She had, in fact, died twice. . . .” Having thus estzblished the
+keynote of his novel, Swanwick goes on to explore what it means, subjectively, to have died, indeed to have died twice, in a world possessing the technological capacity to retrieve and preserve the personalities of the dead, and to
+program a new personality over a former personality, obliterating and in effect “killing” the former self in the process. Rebel Mudlark, the “she” of the
+opening sentences, has survived her first death thanks to her personality having been taped, and has “died” a second time when that taped personality
+was superimposed over another personality-or was it the other who died?
+The former personality (called Eucrasia) has not, in any case, been wholly
+obliterated but persists under the Rebel-personality as a kind of “ghost” self,
+“haunting” Rebel from within. Similar variations on the motif of the
+“ghost” self and “haunting” from within recur throughout Cadigan’s Mindplayers, where residues of the personalities of the dead persist within the
+minds of the living, thanks to mind-to-mind contact mediated by machines.
+In fact, “ghosts” of various kinds, both in and out of machines, abound
+in cyberpunk. There are, for instance, the “wireheads” of Sterling’s Schkmatrix and Williams’ Hardwired, human selves persisting outside their natural bodies as configurations of information in computer and communica170
+
+CRITIQUE
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+tion networks; and the “personality constructs” of Gibson’s trilogy, ROM
+units preserving the selves of deceased characters. In both these variants,
+the dead manifest themselves to the living as uncanny posthumous voices
+like those of certain postmodernist texts (e.g., Flann O’Brien’s The Third
+Policeman, 1940/1967; Russell Hoban’s Pilgermann, 1983; Thomas Disch’s
+The Businessman, 1984); this effect is exploited particularly powerfully by
+Williams in Hardwired. Gibson even has beings actually called “ghosts.”
+These, however, are not posthumous selves but constructs, computer-simulated selves who have never existed as biological organisms, but spring fullgrown from artificial-intelligence programs-ghosts from the machine. Another version of the ghost from the machine appears in Swanwick’s Vacuum
+Flowers, in the form of “interactive ALIs,” or Artificial Limited Intelligences, short-lived computer simulations of human beings. In one of its formats, the ALI is agonizingly aware of its brief life span and imminent
+death; in another, however, its memories are recorded and made available
+to a successor ALI, ensuring “a kind of serial immortality” (242).
+At the end of his trilogy, in the closing pages of Mona Lka Overdrive, Gibson assembles representatives of all his posthumous or out-of-body types in
+the cyberspace world: a computer-simulated “ghost,” a posthumous ROM
+personality construct, three human beings who have “died into” the
+cyberspace matrix. As early as the end of Neuromancer, we had had intimations of the possibility of posthumous survival in cyberspace, but here the
+association is confirmed: cyberspace is the machine-mediated version of the
+World to Come, and in this function bears a certain resemblance to some of
+the postmodernist variations on the World-to-Come topos (e.g., Christine
+Brooke-Rose’s Such, 1966; Alasdair Gray’s Lanark, 1981; and especially the
+double-agents’ Hell of Pynchon’s Gravity’s Rainbow (537-548). “There’s dying, then there’s dying,” as one of Gibson’s characters somewhat unhelpfully
+explains (Mona Lka 252); there’s dying the death of the organic body, then
+there’s dying into the half-life of cyberspace.
+The “bio-punk” versions of the death and half-life motif do not figure so
+conspicuously in cyberpunk writing as do the machine-mediated versions.
+Nevertheless, it is striking that several of the essentially machine-oriented
+treatments of this theme have a strong body-oriented component, a strain
+or undercurrent of gothic-horror imagery of the disrupted, exploded, or dismembered body. This is the case, for instance, with Cadigan’s Mindplayers,
+where, in one episode, the heroine must make contact with the mind of a deceased poetess whose brain has been extracted and preserved in “stay.
+juice”-a typical gothic-horror image. It is also true of Kadrey’s Metrophage, where the crime-boss Conover maintains, in an off-limits precinct of
+his house, a grisly “farm” of multiple clones of his own body, alter egos
+from whom he “harvests” transplant organs in order to keep himself alive.
+(“Suicide and murder all rolled into one package” [215].) Rucker’s two cySPRING 1992,VOL. XXXIII, NO. 3
+
+171
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+berpunk novels, also, abound in gothic-horror imagery of dismemberment,
+cannibalism, necrophilia; Wet ware in particular alludes explicitly, and appropriately, to Edgar Allan Poe.
+Specifically bio-punk equivalents of the various machine-oriented motifs
+are to be found in Williams’ Voice of the Whirlwind, Sterling’s Schismatrix,
+Bear’s Blood Music, and Shepard’s Green Eyes. Thus, for instance, in the
+world of Voice of the Whirlwind, as well as among the Shaper bio-engineers
+of Schismatrix, cloning serves the same function that booting up a software
+self in a new body does in the machine-mediated variants; it ensures “serial
+immortality.” Thus Steward, at the beginning of Voice of the Whirlwind, is
+already a “Beta,” i.e., the clone of his dead “Alpha” self, later on dying
+and “returning” yet again as his own “Gamma”; a character who dies in
+the first pages of Schkmatrix similarly “returns” near its close, many decades later, as a cloned Doppelganger of herself. Sterling also exploits the
+familiar SF motifs of suspended animation and extreme longevity, especially the latter. In the course of Schismatrix, only one natural death is recorded; other characters either die by violence or, in extreme old age, “fade”
+into an ambiguous half-life state.
+The bio-punk equivalent of “wirehead” survival, i.e., posthumous existence as a configuration of information in a cybernetic system, occurs in
+Bear’s Blood Music. Here human selves are encoded as information at the
+level of the component cells of their own bodies; thus, when the body is dissolved and its component cells dispersed, the original self can nevertheless be
+posthumously reconstituted from the information encoded at the cellular level, This, eerily, is what happens late in Blood Music to an entire family who are
+physically dissolved into undifferentiated tissue and then reconstituted as
+“themselves,” returning to “haunt” (benignly) the surviving family member.
+If Bear thus gives a distinctively bio-punk twist to the ghost motif, Shepard does the same with the zombie motif. In his Green Eyes, posthumous
+life is induced in corpses through the introduction of a strain of bacteria.
+The life span of these bacterially induced artificial personalities ranges from
+a norm of a few minutes or hours, to several months in extraordinary cases,
+so-called “slow-burners.’’ Shepard, especially in the early parts of the
+novel, explores the subjective experience of posthumous life in “slowburners”: their struggles to gain control of their new bodies, their growing
+awareness of the imminence and inevitability of their own second deaths.
+He gives us, in other words, the bio-punk version of the death and half-life
+of Verhoeven’s RoboCop.
+In its preoccupation with the representation of death, both in its machineoriented and its bio-punk forms, cyberpunk shows to what degree it has
+converged with mainstream postmodernist fiction, and how far it has outstripped all the earlier “waves” of science fiction, where the representation
+of death, even in the boldest and most sophisticated New Wave examples
+172
+
+CRITIQUE
+
+(e.g., Dick’s Ubik, Disch’s On Wings of Song), seems somewhat primitive
+and flatfooted by comparison. The cyberpunk writers-and filmmakersdemonstrate that conventional “old-wave” science fiction of the Star Trek
+type has it all wrong: death, not space, is the final frontier.
+
+TEL AVIV UNIVERSITY
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+NOTES
+1. Underlying my rather casual use of “levels” here is Harshav’s three-dimensional model
+of the text; see Benjamin Hrushovski [Harshav], “The Structure of Semiotic Objects: A ThreeDimensional Model,” Poetics Today 1:1-2 (1979) 365-76; rpt. in The Sign in Music and Literature Ed. Wendy Steiner (Austin: U of Texas P, 1981).
+2. See Joanna Russ, “Speculations,” Extrapolations 15 (1973). 55-6; Samuel Delany,
+“Shadows,” in The Jewel-Hinged Jaw: Notes on the Language of Science-Fiction (Elizabethtown, N.Y.: Dragon, 1977) 88-98; and Stanislaw Lem, “Todorov’s Fantastic Theory of Literature” in Microworlds: Writings on Science Fiction and Fantasy (San Diego, New York, London: Harcourt, 1984) 209-232. Lem’s account of how SF discourse literalizes metaphor occurs
+in a pugnaciously negative review of Todorov’s Introduction d la litt6rature fantastique. Lem’s
+example, “A black cloud swallowed the sun” (218-219), while metaphorical in everyday discourse, could be taken literally in a SF text such as Fred Hoyle’s The Black Cloud. In fact,
+though this particular example belongs to SF, the principle of literalized metaphor has actually
+been borrowed by Lem, without acknowledgments, from Todorov’s account of the fantastic;
+see Tzvetan Todorov, The Fantastic: A Structural Approach to a Literary Genre, trans.
+Richard Howard (Ithaca: Cornell UP, 1975) 76-77.
+3. See Jameson on the “spatial turn” of postmodernism, Postmodernism, 16, 154-57,
+364-376 and passim; and, on the spatial dominant in SF, see his “Science Fiction as a Spatial
+Genre: Generic Discontinuities and the Problem of Figuration in Vonda McIntyre’s The Exile
+Waiting.” Science-Fiction Studies 14: 1 (March 1987), 44-59, especially 53-58. On space in
+postmodernist fiction, see also Carl D. Malmgren, Fictional Space in the Modernist and Postmodernist American Novel (Lewisburg: Bucknell UP, 1985).
+4. See Thomas Pavel, “Narrative Domains,” Poetics Today 1:4 (Summer 1980), 105-1 14,
+rpt. in his Fictional Worlds (Cambridge: Harvard UP, 1986).
+5. Literalization of modernist-style mythic archetypes is also a motif of postmodernist
+writing: see, e.g., Donald Barthelme, Snow White (1%7), The Death Father (1974). and The
+King (1990). Robert Coover. Pricksongs and Descants (1969). ltalo Calvino, The Castle of
+Crossed Destinies (1%9/1973), Gunter Grass, The Flounder (1977), Angela Carter, The
+Bloody Chamber (1979), John Fowles, Mantissa (1982), and especially the fiction of John
+Barth, including Giles Goat-Boy (1966), Lost in the Funhouse (1968), Chimera (1972), and The
+Tidewater Tales (1987). Barth puts the case for literalizing mythic archetypes in quite explicit
+terms: “to write realistic fictions which point always to mythic archetypes is in my opinion to
+take the wrong end of the mythopoeic stick, however meritorious such fiction may be in other
+respects. Better to address the archetypes directly”; Chimera (New York: Fawcett, 1973)
+207-08.
+6. See Thomas Docherty, Reading (Absent) Character: Towards a Theory of Characterization in Fiction (Oxford: Oxford UP, 1982) and Uri Margolin, “DispersingNoiding the Subject: A Narratological Perspective,” Text 5 (1986).
+7. See Tom Maddox, “The Wars of the Coin’s Two Halves: Bruce Sterling’s Mechanist/
+Shaper Narratives.” MksisSippi Review 47/48, 237-244.
+8. It seems likely that Shepard’s motif of bacterially induced personality owes something to
+Thomas Disch’s New Wave SF novel Camp Concentralion (1%8), in which, in a medical experiment on prison inmates, a strain of syphillis is introduced which produces a temporary
+heightening of intelligence.
+
+SPRING 1992,VOL. XXXIII, NO.3
+
+173
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+9. See W. Warren Wagar, Terminal Visions: The Literature of Last Things (Bloomington:
+Indiana UP, 1982); David Dowling, Fictions of Nuclear Disaster (London: Macmillan, 1987);
+and Brian McHale, “The (Post)Modernism of The Name of the Rose,” Hebrew University
+Studies in Literature and the Arts 17 (1989), 24-30. I am indebted throughout the following
+section to my student Tamar Hager, who is researching fictions of nuclear war.
+10. See S u m Sontag, “Imagination of Disaster,” in Against Interpretation and Other
+Essays (New York: Dell, 1966), 223-225; Wagar, Terminal Visions, 70.
+11. There is a close analogy to RoboCop in the premise of the Max Headroom television
+series (in the United States, ABC, spring 1987), though, as usual, the impact has been watered
+down for the TV audience: the supposedly dead Edison Carter has been “resurrected” as his
+manic alter ego, the computer simulation Max Headroom, but then it transpires that Carter
+isn’t really dead after all, so that Max doesn’t replace but merely mirrors (however distortedly)
+his human “original.” A postmodernist analogue is McElroy’s Plus (1976), in which the supposedly deceased human protagonist, who has allowed his brain to be reused as the control
+system for an orbiting satellite, feeds on cosmic radiation and gradually regenerates “himself,” recovering piece by piece his supposedly “lost” memories and identity.
+
+WORKS CITED
+Bear, Greg. Blood Music. 1985; New York: Ace Science Fiction, 1986.
+Berger, Peter L. and Thomas Luckmann. The Social Construction of Reality: A Treatise in the
+Sociology of Knowledge, Garden City, NY: Doubleday, 1966.
+Brooke-Rose, Christine. A Rhetoric of the Unreal: Studies in Narrative and Structure, especial@ of the Fantastic. Cambridge and New York: Cambridge UP, 1981.
+-.
+Such, 1966; in The Christine Brooke-Rose Omnibus: Four Novels, Manchester and
+New York: Carcanet, 1986.
+Cadigan, Pat. Mindplayers. Toronto, New York, London: Bantam, 1987.
+Calinescu, Matei. “From the One to the Many: Pluralism in Today’s Thought.” Innovation/
+Renovation: New Perspectives on the Humanities. Ed. Ihab Hassan and Sally Hassan.
+Madison and London: U of Wisconsin P, 1983. 263-288.
+Dick, Philip K. Ubik. Garden City, NY: Doubleday, 1969.
+Disch, Thomas M. The Businessman: A Tale of Terror. New York: Harper and Row, 1984.
+Foucault, Michel. The Order of Things: An Archeology of the Human Sciences. New York:
+Pantheon, 1970.
+Gibson, William. Burning Chrome [stories]. 1986; New York: Ace Science Fiction, 1987.
+. Count Zero. 1986; New York: Ace Science Fiction, 1987.
+-.
+Mona Lisa Overdrive. Toronto, New York, London: Bantam, 1988.
+. Neuromancer. New York: Ace Science Fiction, 1984.
+Gibson, William, and Bruce Sterling. “Red Star, Winter Orbit.” Mirrorshades: The Cyberpunk Anthology. Ed. Bruce Sterling, New York: Arbor, 1986. 202-222.
+Gibson, William, and Michael Swanwick. “Dog Fight.” Burning Chrome. New York: Ace
+Science Fiction, 1987. 142-167.
+Gray, Alasdair. Lanark. New York: Braziller, 1981.
+Herr, Michael. Dispatches. New York: Avon, 1978.
+Hoban, Russell. Pilgermann. New York: Summit Books, 1983.
+Jameson, Fredric. “Magical Narratives: Romance as Genre.” New Literary History 7: 1 (Autumn 1975): 135-163.
+-.
+The Political Unconscious: Narrative ar a Social& Symbolic Act. Ithaca: Cornell UP,
+1981.
+-.
+Postmodernism, or, The Cultural Logic of Late Capitalism. Durham, NC: Duke UP,
+1991.
+Kadrey, Richard. Metrophage. 1988; London: Gollancz, 1989.
+Laidlaw, Marc. Dad’s Nuke. 1985; London: Gollancz, 1986.
+Maddox, Tom. “Snake Eyes.” Mirrorshades: The Cyberpunk Anthology. Ed. Bruce Sterling.
+New York: Arbor, 1986. 12-33.
+
+174
+
+CRITIQUE
+
+Downloaded by [New York University] at 18:26 07 January 2015
+
+McCaffery, Larry. “An Interview with William Gibson.” Across fhe Wounded Galaxies: Interviews with Confemporuty American Science Ficfion Wrifers. Urbana and Chicago: U of
+Illinois P, 1990.
+. “The Desert of the Real: The Cyberpunk Controversy.” Mkissippi Review 47/48
+(1988): 7-15. Reprinted in Sforming fhe Reulify Sfudio: A Casebook of Cyberpunk und
+Posfmodern Science Ficfion. Ed. Larry McCaffery. Durham and London: Duke UP, 1991.
+1-16.
+McElroy, Joseph. Plus. 1976; New York: Carroll and Graf, 1987.
+McHale, Brian. “POSTcyberMODERNpunkISM.”Sforming the Reulify Studio: A Casebook
+of Cyberpunk and Posfmodern Science Ficfion. Ed. Larry McCaffery. Durham and London: Duke UP, 1991. 308-323.
+-.
+Posfmodernbf Ficfion. New York and London: Methuen, 1987.
+O’Brien, Flann. The Third Policeman. 1940; New American Library, 1%7.
+Pynchon, Thomas. The Ctying oJLof 49, 1966; New York: Bantam, 1967.
+. Gruvify’s Rainbow. New York: Viking, 1973.
+-.
+Slow Learner: Eurly Sfories. Boston and Toronto: Little, Brown, 1984.
+Vineland. Boston, Toronto and London: Little, Brown, 1990.
+Rucker, Rudy. Soffwure. 1982; Harmondsworth: Penguin, 1985.
+-.
+Wetware. New York: Avon, 1988.
+Shepard, Lucius. Green Eyes. New York: Ace Science Fiction, 1984.
+-.
+Lye During Wartime. Toronto, New York, London: Bantam, 1987.
+Shiner, Lewis. Deserfed Cities of fhe Heart. 1988; Toronto, New York, London: Bantam, 1989.
+-.
+Fronferu. New York: Baen, 1984.
+“Till Human Voices Wake Us.” Mirrorshades: The Cyberpunk Anfhology. Ed. Bruce
+Sterling. New York: Arbor House, 1986. 125-138.
+Shirley, John. Eclipse. 1985; New York: Popular Library/Warner Books, 1987.
+-.
+“Wolves of the Plateau,” Mississippi Review 47/48 (1988): 136-150.
+Sterling, Bruce. Islands in the Net. New York: Arbor House/William Morrow, 1988.
+-.
+Schbmafrix, 1985; New York: Ace Science Fiction, 1986.
+Swanwick, Michael. Vucuum Flowers. New York: Arbor House, 1987.
+Verhoeven, Paul, dir., RoboCop, 1987.
+Williams, Walter Jon. .Hardwired. 1986; London and Sydney: Futura, 1988.
+-.
+Voice of the Whirlwind. 1987; London and Sydney: Futura, 1989.
+
+-.
+
+.
+
+SPRING 1992,VOL. XXXIII, NO. 3
+
+175
+
+

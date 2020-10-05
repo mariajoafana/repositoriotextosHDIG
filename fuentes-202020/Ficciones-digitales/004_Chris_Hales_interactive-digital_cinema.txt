@@ -1,0 +1,469 @@
+Interactive Cinema in the Digital Age
+Chris Hales
+
+Interactive cinema was pioneered in a predigital age, and despite the inherent
+linearity of projected film and the need for special equipment to allow
+audiences to make choices or respond, early interactive films implemented
+both story-branching and parallel narrative structures. The arrival of digital
+technology to the audiovisual arena led not just to a reinterpretation of
+these two structures but also to the creation of new forms of the interactive
+film that were not possible before.
+This chapter analyses the methods, structures and techniques for designing
+and delivering interactive films and investigates how these have been
+explored in various projects from the 1960s to the present day, demonstrating
+how several identifiable models of interactive cinema are directly related
+to the underlying technologies which have created them. The evolution
+of the interactive film will be traced through three distinct technological
+phases: a film-based phase centred on fictional entertainment, a period in
+which Human-Computer Interaction (HCI) and nonlinear narrative were
+the central issues, and an online phase founded more on participation, collaboration
+and personalisation.
+1. INTRODUCTION
+The interactive film has a relatively recent history, dating in a functional
+form back to 1967, the year in which the Oxford English Dictionary records
+the first use of the term interactive in the human-to-computer sense (in an
+IEEE journal). The development of interactive cinema has inevitably been
+shaped by evolving technologies, since it requires a nonlinear audiovisual
+delivery system as well as an interface technology to allow choices to be
+made, making it a type of special format cinema. There has been a lack of
+consistent terminology and few interactive films have ever achieved widespread
+acclaim or public recognition. The earliest terms employed included
+kinoautomat, audience participation film or decision cinema; in the mid-
+1990s the term interactive movie came to mean a particular type of pixelbased
+computer game interspersed with passive filmed sequences (typified
+by Wing Commander III of 1994); and in the era of social media audiences
+can interact by collaborating and personalising what very often remains a
+linear film. Historically, it is possible to identify three phases of interactive
+cinema. An early phase was centred on dramatic narrative issues and entertainment.
+Then in the 1980s and 1990s the genre became dominated by HCI
+considerations and flavoured by the academic discussion of game versus narrative;
+and in the post Internet phase, interacting can mean participation in
+the development of the narrative and/or augmentation of the story content
+(often across a variety of media) by a social community rather than individual
+direct manipulation of premade content locked into the product itself.
+This chapter discusses systems with integrated interaction that can change
+what happens next during a viewing, and an interactive film will be understood
+as a representation of primarily prerecorded moving-image sequences,
+the display of which can be affected by the audience or a performer. The
+terms user and audience will be employed to refer to those attending the
+playout of an interactive film—others have struggled to find more applicable
+terms, examples include vuser (Seaman, 1999), viewser (Roach, 1995;
+Daly, 2010), participant (Feingold, 1995), and doer (Davenport and Bradley,
+1997). Where the spectatorial aspect of viewing has particular significance,
+the term interactive cinema will be used.1
+Whether fiction or nonfiction, art or game, interactive films require moving
+image content in the form of prerecorded sequences—as opposed to
+real-time manipulation of video, which will not be discussed here. Most
+popularly, these sequences are filmed as live action using real cameras and
+actors and locations, although this is by no means obligatory—for example
+in their category of interactive film in Remediation, Bolter and Grusin (1999)
+take as case studies the games Myst and The Last Express, both of which
+are composed of synthetic or graphical imagery. Nevertheless, it is hardly
+surprising that the majority of interactive films use enacted drama, not only
+because fiction film is a dominant mode of audiovisual culture in contemporary
+society but also because to creators it represents the greatest chance of
+catching public attention and achieving financial success. Interactive cinema
+started as an entertaining means to add novelty to the traditional fiction film
+in a predigital era in which facilitating audience interaction was much more
+difficult to achieve than today.
+2. THE EARLY DAYS
+Interactive cinema got off to a false start in 1961 with William Castle’s film
+Mr. Sardonicus, which was advertised as featuring a ‘Punishment Poll.’ This was
+a gimmick that enabled audience members to hold up a piece of paper printed
+with an image of a fist with thumb sticking out, which could be held either
+thumbs up or thumbs down before the final reel of the film was shown in order
+to decide whether the Sardonicus character should be pardoned or, as described
+in the film, ‘made to suffer, and suffer, and suffer.’ Although the elements of
+what we might now call an interface were there (the thumb visualisation was
+intuitive, the paper sheet could be used for both ‘yes’ and ‘no’ votes, and the
+feature was inexpensive). Castle had neither the budget nor inclination to find
+any technical solution to show each of the two potential endings, and the poll
+was in fact a simulation. According to Castle’s biography (Law, 2000) only the
+‘suffer’ ending was made and shown every time, Castle being seemingly content
+with the Punishment Poll as a gimmick to attract curious audiences.2
+Originating in Czechoslovakia, and almost certainly without influence
+from the Punishment Poll, Kinoautomat was the world’s first interactive cinema
+designed to facilitate greater engagement with the theatrical audience.
+It debuted during the six months of Expo ‘67 in Montreal where it garnered
+much publicity and entertained 67,000 visitors. Although it was the brainchild
+of Radúz 􀃽in􀃾era, the project was a collaboration among numerous
+talented individuals on all fronts. It involved live actors performing in tandem
+with a projected nonlinear film entitled One Man and His House in a custombuilt
+123-seat cinema with a red and green push button box attached to every
+seat. At several times in the performance audiences were offered a choice
+of two narrative alternatives and could push either button to indicate their
+choice, the sequence corresponding to the majority vote being subsequently
+projected. Kinoautomat employed an apparatus that was more ingenious
+than innovative; it was based on electromechanical-analogue technology.
+Wires running from the seats converged into a panel of telephone-style relays
+that tallied votes and fed signals to an illuminated scoreboard. The projection
+room had three synchronised 35mm projectors running simultaneously for
+the main film, and at the moments of choice two additional 16mm projectors
+were directed to the sidewalls. Additionally, a shutter system showed either of
+two competing film segments, the narrative structure being a recombinant one
+in which both possible options converged their story arcs to the same point.3
+Kinoautomat was scaled up in size and shown at Expos in 1968 and 1974
+and had a season in Prague in 1971, but no change in technology advanced
+the concept. In 1981, at the Portopia exhibition in Kobe, a new film was
+presented using the same basic hardware, but by then a fundamentally new
+technology had arrived which proved revolutionary for the interactive film:
+the laserdisc.4 Conventional film projection had a final roll of the dice just
+as laserdisc was taking hold in the early 1980s with fledgling systems that
+used special (retrofittable) lens/shutter assemblies that could show either of
+two films printed in split-screen on conventional 35mm film, or that utilised
+two projectors.5 In 1983, a film called Goodbye Cruel World was shown on
+this system (named ‘Reactivision’ and ‘Choice-A-Rama’) and described in
+Inc. magazine as follows:
+At various points in the less than compelling plot, a comic appears on
+screen to offer the audience four choices about which way the story
+line should go. The audience whoops and hollers to indicate its preferences,
+while a multicolored electronic totem pole at the screen’s side
+registers the level of their appreciation. The choice that registers highest
+on the pole is threaded into the projector, and the film continues.
+(L.M.S., 1984)
+Although the shift away from film projection was inevitable, this remains
+historically significant in that it represents the first time that a public interactive
+cinema screening made significant use of another emerging technology,
+the microcomputer—in this case arranged to detect and respond to input
+from an external microphone.
+3. A REVOLUTION OCCURS
+The early 1980s heralded a fundamental new era in which creators could
+for the first time experiment with a nonlinear delivery system for video
+footage, a 30cm diameter optical disc known as a videodisc or laserdisc,6
+while simultaneously benefitting from continuing advances in desktop computer
+technology. The laserdisc remained in use until the late 1990s when
+it was superseded by another optical disc, this time offering digital video—
+the DVD. The essential qualities of laserdisc were that it offered reasonable
+video quality, which could be accessed nonlinearly, was a consumer
+product (although it never reached high market penetration), and could be
+adapted for a computer interface enabling custom-made interactive installations,
+games and exhibits. Fiction film inevitably continued its flirtation
+with the nonlinear, some of the earliest commercially available discs being
+murder-mystery dramas/games7 that were often played as social events
+hosted as parlour games by the small number of households that actually
+owned a laserdisc player. By 1995, Interfilm was projecting the laserdiscencoded
+films Mr Payback, Ride for Your Life and I’m Your Man into small
+cinema rooms with seats equipped with 3-button joysticks that could be
+used at certain moments to cast a vote—almost a facsimile of the staging
+of Kinoautomat, which ironically was still being shown at that time in its
+final incarnation (Cinéautomate) at Futuroscope.8 What was truly revolutionary
+about laserdisc was that it immediately opened up the interactive
+film to genres other than fiction. One of the first explorations of the true
+nonlinear potential of laserdisc was The Aspen Movie Map (MIT Machine
+Architecture Group, 1979–81), which organised filmed car journeys around
+the grid-like streets of Aspen into a navigable entity, with additional factual
+detail available when the façade of certain buildings had been reached. This
+matrix structure of video scenes could never have been possible with earlier
+technologies. The MIT group involved in its creation included Michael
+Naimark, who subsequently produced numerous videodisc installations
+that allowed navigation of filmed geographical territories in pursuit of what
+became known as surrogate travel or a movie map.9 In the field of media art,
+Lynn Hershmann was an early adopter of laserdisc technology: her Lorna
+installation (1979–1984) described itself onscreen as “the world’s first interactive
+video art disc game,” although it was clearly designed for the art gallery
+rather than the gaming arcade. In 1990 the first computer arcade game
+to cost a dollar a play was the live-action Mad Dog MacCree (American
+Laser Games) which caused a brief sensation because it offered image quality
+(scenes filmed with costumed actors in a Wild West film set) that was far
+superior to pixel or vector-based products on the market at the time.10 The
+game consists almost entirely of laserdisc video sequences shown on a large
+monitor, the player standing a metre or so away from the screen and shooting
+with a model revolver at the filmic image of on-screen actors playing evil
+gunmen who appear in unexpected places at unexpected times.
+The arrival of laserdisc opened up a new area of exploration in at least
+one other area, that of experimental film and video—the exploration of
+the nature of the moving image in its own right. One of its most notable
+early proponents was Grahame Weinbren whose writings, as well as whose
+own works such as Sonata (early 1990s) and The Erl King (1983–86, with
+Roberta Friedman), elevated the analysis of interactive cinema into higher
+aesthetic territory. Weinbren explained the importance of this early nonlinear
+video delivery technology thus:
+It is 1981. They show me a videodisc. They explain what it is and how
+it works. And I realize that the language, the possibilities, the significance
+of cinema is forever changed.
+(Weinbren, 1997)
+Weinbren outlined his vision of interactive cinema, a cinema based on the
+interweaving of strong narrative strands, in his seminal essay “In the Ocean
+of Streams of Story” (Weinbren, 1995). He was, however, by no means
+alone in striving to discover the ramifications of the ‘Revolution of Random
+Access’ as it was taking place; experimental filmmaker Malcolm le Grice,
+for example, was using microcomputer technology to examine cinematic
+nonlinearity, although his interest did not extend to an examination of interactivity
+in its own right.11
+4. A PROLIFERATION OF INTERFACES
+There is an interesting visual device employed in Weinbren’s Sonata—
+achieved with custom programming assistance from his brother Jon—when,
+towards the end of the film, it is possible to move one’s finger horizontally
+across the represented surface of the film causing a real-time ‘wipe’ between
+two competing video streams. Technically speaking, this highlights two other
+factors that were also being investigated in the 1980s and 90s: the utilisation
+of unusual or intuitive physical interfaces as a means of user choice and the
+custom-coding of computer software to create bespoken solutions.
+In many cases the interface technology already existed and was appropriated
+to the demands of the interactive film: The Aspen Movie Map, The Erl
+King and Sonata all originally used touchscreen;12 Lorna used a handset
+remote; Mad Dog McCree used an optical gun; and Interfilm used joysticks.
+The fact that so many of these devices were better suited to personal choice
+and expression rather than group interaction was reflected in a noticeable
+dip in interest in the latter which only seemed to pick up once the Internet
+was fully established (and in this case the large audience groups were
+online and not physically co-present). Other than Interfilm, a notable exception
+to examining group interaction was the Cinematrix system (Carpenter,
+1993–4) using computer vision to detect response from audiences holding
+reflective handheld wands as input devices.
+With more and more interface hardware becoming available as well as
+the means to deliver video nonlinearly, the missing part of the puzzle was a
+system to process the inputs and control the outputs—a role for which the
+personal computer was ideal, even though it was not until the mid-90s that
+affordable computers could deliver acceptable-quality video in their own
+right. Computers could also remember audience activity and could exhibit
+random behaviour; hence the interactive film began to appear a little more
+intelligent and unpredictable. For most of the 1980s it was more or less
+essential to have assistance from programmers and technical specialists, but
+Apple’s HyperCard introduced in 1987 allowed creators a certain amount
+of autonomy since it required limited programming ability to use its inbuilt
+high-level language HyperTalk to control video delivery from a laserdisc
+player or from hard disk. Luc Courchesne, originally studying in the MIT
+Film/Video section and joining the MIT Media Lab at its inception in 1985,
+used the HyperCard-HyperTalk-laserdisc triumvirate for a series of highly
+influential interactive film installations ranging from Portrait One (1989) to
+Landscape One (1997). After HyperCard, other so-called authoring software
+began to appear (such as Macromedia Director) and desktop computers
+began to do away with the need for laserdisc players by using their own
+proprietary digital video file formats such as Apple’s QuickTime technology
+(1991).
+5. CENTRES OF GRAVITY
+The MIT Media Lab opened in 1985, followed by the founding of Glorianna
+Davenport’s Interactive Cinema (IC) research group. Coincidentally or not,
+Luc Courchesne recalls the first systematic use of interactive in the cinematic
+context occurring around the same time: “What we then called ‘polylinear
+storytelling’ or ‘reconfigurable video’ was renamed shortly after ‘interactive
+video’” (Courchesne, 2002). IC opened enquiry to all relevant aspects of
+interaction with visual narrative, not only producing innovative projects and
+technologies but publishing (and publicising) widely and running an active
+academic programme. Importantly, IC was influenced by the documentary
+rather than the dramatic narrative tradition. Contour, developed in 1995 for
+Boston: Renewed Vistas, was a generic interface enabling users to customise
+their viewing of a themed database of documentary video material, and
+Jerome B. Wiesner: A Random Walk through the Twentieth Century (1995)
+extended the concept to the web, then in its infancy, allowing the database not
+only to be manipulated in a browser but to be augmented via online contributions.
+Carol Strohecker’s A Different Train of Thought (Strohecker, 1986)
+showed the potential of the interactive film in creating a personal type of
+video narrative based on autobiographical experiences and self-expression—
+an approach that would later become commonplace once technological
+improvements and cost reductions democratised the means of production. In
+this work small icons, functioning as hyperlinks, appear occasionally under
+the main video representation—a device that became a frequent design element
+of later products (IC’s Elastic Charles of 1988–89 called them micons)
+including the Korsakow authoring system launched in 2000 which itself
+became particularly popular for use with nonfictional video content.13
+As well as pioneering the use of video databases and keywords, the algorithmic
+control of disparate media elements was investigated at IC and the
+term emergent narrative14 was brought to prominence by Tinsley Galyean
+in his doctoral thesis of 1995.15 This concept leads to a whole branch of
+interactive cinema continuing to the present day in which the algorithmdatabase
+plays a major role, an important proponent being Marsha Kinder
+with the Labyrinth Project (1997). Lev Manovich’s The Language of New
+Media, with its discussion of database cinema and assertion that “the new
+media object consists of one or more interfaces to a database of multimedia
+material” (Manovich, 2001, p. 227), further popularised the concept and his
+installation Soft Cinema16 represents a classic example.
+Although in 2004 the IC group at Media Lab broadened into Media
+Fabrics, the ZKM in Karlsruhe has continued to nurture—amongst other
+projects—interactive cinema, not least through the numerous artist-inresidence
+projects it has supported along with cutting-edge technical assistance
+and equipment. The ZKM Media Museum still displays key works by
+Courchesne, Hershman and Naimark described earlier. Other specialist centres
+have more recently been founded, in particular the iCinema Centre for
+Interactive Cinema Research at the University of New South Wales, which
+was directed by Jeffrey Shaw from 2003 until 2009.
+6. CHANGING FORMATS
+The 1990s passed as a technology interregnum, as laserdisc faded to obscurity
+and other optical disc formats came and went until the DVD became a
+universal standard, whilst at the same time the Internet became widespread
+and Apple’s QuickTime technology brought video to the desktop computer
+where it could be stored on ever-cheaper hard drives.17 There was a lot
+of discussion of interactive television at this time, with little to show in
+terms of actual products except for some television dramas created with
+multiform plots and shown simultaneously on two or more channels.18
+A notable exception is Akvaario, identified by Manovich as an early example
+of database narrative.19 Video CD (created in 1993) was the first format for
+fitting a film on a 120mm disc, whilst Philips CD-I technology spawned
+Voyeur and Voyeur II interactive film games during its short existence.
+Domestic games consoles were offering full-motion video (FMV), Night
+Trap (1992–1994) being one of the first games consisting almost exclusively
+of live-action filmed footage and The X-Files Game (1999) one of the last.20
+As processor power increased, the limitations to gameplay of using prerecorded
+video sequences made such games anachronistic, but not before the
+term interactive movie had been used to describe the mid-1990s fad of computer
+games in which gameplay was interspersed with passive, live-action
+filmed sequences.
+Several factors came together in the early 1990s to bring the creation of
+interactive films within the range and budget of the average desktop computer
+user. The advent of QuickTime technology, combined with fast hard
+drives on which to store the video files, brought digital video to the home
+computer, and although the size and quality was originally highly limited,
+it improved steadily.21 One could film with a domestic camcorder, digitise
+the sequences, manipulate and edit them with commercially available
+video editing software, and add interactivity/nonlinearity using multimedia
+authoring software such as HyperCard, Supercard and Director. A new type
+of production arose, often experimental or with a personal touch, made
+with modest means, typified by projects such as HyperCafé (Balcom, Smith
+and Sawhney, 1996) and Chris Hales’ 1995 touchscreen installation film
+The Twelve Loveliest Things I Know.22 Interactive filmmaking could then
+be taught in hands-on fashion at moderately equipped higher education
+establishments,23 which had themselves seen an expansion of degree courses
+specialising in new media and interaction. Opportunities also increased to
+exhibit finished work in specialised festivals and other events. CD-ROM
+discs, offering data storage and distribution of 650MB, proved a useful format
+for these individual creators, and the Artist CD-ROM became a discrete
+and recognisable genre of new media art.
+The most durable delivery mechanisms for video that emerged during the
+1990s were the DVD and Internet. The former had the potential for interactivity
+built into its specification—on-screen menus allow choices to be made
+to switch to a different scene, and angles can be used to select from sequences
+running in parallel scenes. Nevertheless, few commercially available DVD
+titles have been specifically made as interactive films. Tender Loving Care
+and Point of View (Aftermath Media, 1998, 2001) were trailblazers; both
+were structured as video episodes interspersed with on-screen questionnaires.
+Bernard Perron (2003) conducted a systematic study of the former title,
+analysing in depth the activity required from a user in order to complete the
+interactive experience. Switching (Oncotype, 2003) provided 140 minutes of
+fiction material organised as intersecting video loops in a structure that its
+makers described as a Noodlefilm24 because every distinct video sequence
+is hyperlinked to other video sequences throughout its temporal duration.
+Late Fragment, coproduced by The Canadian Film Centre and National Film
+Board of Canada in 2007 and Über Life made in Serbia in 2010 also stand
+out as purpose-made interactive films produced for DVD. The fact is that
+whereas a large proportion of commercial DVD (and Blu-ray) titles do offer
+interactive features, these are separate entities and not an integral part of
+the main film. Developments in interactive filmmaking have instead, in the
+21st century, mostly occurred due to the growth in capability of the Internet,
+the arrival of new devices and platforms, and a growth in the range and
+sophistication of interface technology.
+7. A NEW CENTURY
+Although bandwidth limitations restricted the use of video in the early days
+of the Internet, by the mid-2000s video was commonplace on the web and
+the video-sharing website YouTube started operations in 2005. Advertisers
+were quick to harness online video. The Subservient Chicken (2004), for
+instance, allowed users to type in commands to an on-screen video of a
+man in a chicken suit who could perform around 300 prerecorded actions.
+Although the experience was far from seamless and there was no depth
+to the nonlinear structure, it resulted in numerous imitations and variations.
+By 2011, the Land Rover brand was advertising online with a short
+interactive film entitled Being Henry, the endings of which were portraying
+a vehicle customised in a way that reflected the choices made by the user
+whilst traversing the branching structure. Fiction filmmaking has asserted
+its interactive online presence with examples such as The Outbreak,25 a
+zombie survival film of 2008, and Crimeface, a Webby Award winner of the
+same year. In 2008, YouTube extended its functionality to allow annotations
+to be positioned on video content—essentially acting as hyperlinks to
+other YouTube videos—making the creation of a branching interactive film
+a trivial operation requiring few specialised skills. Although traversing an
+interactive film made in this way is highly anticinematic and lacks flow due
+to the continual presence of the YouTube visual interface, more interactive
+films (however simple in structure and content) are being implemented here,
+and they are being made by a wider profile of creators than have ever before
+made history in the field.
+Interactive music videos have become a burgeoning online presence and
+now range from annotated YouTube branching narratives (such as “The
+Streets” Computers and Blues music album of 2011) to those using crowdsourcing
+(such as The Johnny Cash Project26) or incorporating personal
+data obtained by voluntary upload or taken from webcam, Twitter and
+Facebook accounts, or even Google Maps.27 Interactive web documentary
+has also emerged after the mid-2000s as a distinct genre, although it is usually
+analysed in terms of its collaborative and cross-media characteristics
+rather than its directly interactive ones. In fact there is no longer any simple
+definition of what constitutes an interactive film, as audiences may be active
+in other ways than selecting from premade content. A popular YouTube
+activity is to post homemade remixes or reinterpretations of video content
+uploaded by others, and more structured projects such as Perry Bard’s Man
+with a Movie Camera: the Global Remake28 (2007) invite their communities
+to upload personal material to achieve a defined yet malleable creative
+goal. Henry Jenkins recognised this as “a shift from real-time interaction
+toward asynchronous participation” (Jenkins, 2006, p. 59), whilst Kristen
+Daly proposes a “Cinema 3.0: The Interactive-Image,” in which films “put
+the viewer to work” (Daly, 2010, p. 86) with “interaction in the form of
+user-participation and interpretation” (Daly, 2010, p. 82). Perhaps the key
+issue then is that interactivity itself has changed, and “should no longer
+be defined by a specific formal language prescribed by the vocabulary of
+the 1990s. Today, most of all, it is a set of strategies that can be situated in
+multiple contexts. …”29
+Developments in technology have inevitably broadened the range of
+devices that can be harnessed as interaction technology and as media viewing
+platforms. Projects that might previously have stood out by utilising an
+unusual physical interface are now no longer special. The field of physical
+computing—characterised by microcontroller boards such as Arduino—
+enable electronic sensors to be employed to detect all manner of user activity.
+Michael Lew’s Office Voodoo (Lew, 2003) permits two users to each shake
+and squeeze a voodoo doll figurine to control the interplay between two
+office workers portrayed onscreen. Biofeedback data was used by Pia Tikka
+in the multiscreen fiction film installation Obsession (Tikka, 2008) to control
+the playback of video sequences from a database under the control of
+an algorithm informed by a study of the writings of Sergei Eisenstein. British
+company MyndPlay30 has produced several short branching-narrative films
+aimed at entertainment or personal well-being that are controlled by input
+from commercially available EEG brainwave headsets. Game console interfaces
+such as the Wiimote and Kinect can recognise physical gestures, and
+the touchscreen—previously a somewhat neglected and technically limited
+interface—is standard on many devices and can detect sophisticated actions
+and multiple touches, as explored in the Touching Stories package of short
+interactive films commissioned for the iPad in 2010.
+Although dedicated interactive cinema theatres have never been widely
+established, interaction for large groups of co-present audience members
+has benefited from the growth in personally owned mobile devices and
+from cheaper and easier-to-use technologies and software techniques. Short,
+interactive screenings have occasionally been used to entertain (and usually
+advertise to) audiences awaiting the main feature in a traditional cinema
+environment. Between 2003 and 2009, “Cause and Effect” toured a programme
+of short interactive films, each with a different interaction mode,
+using inexpensive technology that could be carried in a rucksack and
+installed in freeform spaces.31 Audiences need no longer be instructed to
+turn off their mobile devices at the cinema: phone calling has been used
+in the Last Call (2010) (although only one audience member could exert
+influence), a text message may be used to convey a choice or combination
+of choices, and smart phones allow interaction via online access. Webbased
+audience response systems can now utilise mobile phone, Twitter and
+the web to allow audience groups to vote and express themselves in real
+time using their personal devices. Despite these advances in technology, if
+all the audience can do is vote to choose by majority what happens next,
+then the creative potential of the interactive film will have changed little
+since Kinoautomat in 1967. Those projects that find a more imaginative
+correlation between the on-screen story and the activity required by the
+audience (often using ingenious interaction modes) undoubtedly offer more
+engaging experiences, the technique itself having been described as ‘movie
+as interface.’32
+8. CONCLUSION
+Interactive cinema has never become mainstream partly because the terminology
+used to describe it has been varied and the technology required to
+deliver it has been under constant change, creating a lack of homogeneity.
+Although suitable platforms for interactive cinema are now widespread, the
+experience of interactivity has become a daily necessity, and the possibility
+to interact to change the representation of a film is no longer the novelty
+that it once was. Hyperlinked YouTube branching films are proliferating,
+and more people now possess devices that can record video than ever before.
+An interactive film is no longer the recognisably distinct item that it once
+was. It has blended into a wider range of phenomena and now requires a
+much broader definition, which includes personalisation and collaboration.
+Audiences have the potential to contribute to the filmic content itself, not
+just how it is finally manipulated.
+Developments in technologies have necessarily been a major factor in the
+evolution of interactive filmmaking and it is possible to identify a film-based
+phase, a laserdisc (and subsequently CDROM and DVD) phase, and the rise
+of the personal computer and the Internet. QuickTime technology was also
+important in making it possible for modestly equipped individuals to enter
+the arena of interactive filmmaking. A huge variety of inexpensive electronic
+devices can now be used as interface technology, and interactive film shows
+can easily be staged without the need to construct special cinemas.
+On a final note, there is now the sense that interactive cinema is aware
+of—and actively preserving—its history, in tune with a wider interest in
+new media history and media archaeology. Kinoautomat of 1967 has been
+researched, reconstructed and released on DVD, and reperformed in cinema
+theatres. The importance of preserving the functionality of projects—made
+relatively recently but with archaic technological requirements—has become
+recognised and acted upon. Several historically important installations such
+as Weinbren’s The Erl King are being preserved or emulated so that the
+original use can be accurately experienced in perpetuity (Weinbren, n.d.).
+Interactive Cinema now has a secure history—what the future holds is a
+branching narrative that has yet to be traversed.

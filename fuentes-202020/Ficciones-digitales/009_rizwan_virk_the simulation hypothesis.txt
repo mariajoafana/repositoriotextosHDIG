@@ -1,0 +1,632 @@
+Introduction
+The Simulation Hypothesis
+We are living in a computer-programmed reality, and
+the only clue we have to it is when some variable is
+changed, and some alteration in our reality occurs.
+—Philip K. Dick, Metz Sci-Fi Convention, 1977
+As a kid growing up in the Midwest in the early 1980s, I loved
+video games. You could say I grew up with them. My friends and I
+would go to D&B Pizza to watch the older kids (who had more
+quarters than we did) playing the arcade games there. These games,
+now classics, included Space Invaders, Donkey Kong, Pac-Man, and
+even Dragon’s Lair, which confounded and delighted us because we
+couldn’t decide if it was an animated cartoon or a video game!
+When my family finally got an Atari video game console (or VCS)
+at home, my friends often came over to my house to play the latest
+cartridge-based games. During this time, as I watched my friends
+play, I became intrigued not just by the gameplay itself but by the
+“illusion” that there was a self-contained world “in there,” inside the
+video game that was being displayed on our TV set. I don’t know
+exactly where or when this notion of a self-contained world first
+emerged in my mind, but it happened particularly in games that were
+trying to be realistic.
+When playing a racing game, for example, while the car was going
+around the track, my eyes would be drawn to members of the virtual
+audience sitting in the bleachers. Beyond the bleachers, there was a
+sky with clouds and a city or country landscape that was only partly
+visible. I found myself wondering how far this “simulated world”
+extended in all directions beyond the track. What happened when no
+one was playing the video game? Did the characters and the
+buildings still exist, or did they simply cease to exist?
+Although I learned to program rudimentary video games myself
+shortly thereafter when my parents bought my brother and I a
+Commodore 64 (and later, an Apple II), it would be many years
+before I understood video game development well enough to answer
+these types of questions.
+The first game I ever created was Tic Tac Toe, basically putting
+blocky lines on the screen and then figuring out how to get the
+computer to “draw” Xs and Os on the squares selected by the players.
+My brother and I would play each other, but after he got bored I
+figured I could play against the computer. I began conceiving
+subroutines that could determine where to place the best move on
+the screen at any given point.
+Years later in the 1990s while I was a computer science student at
+MIT, I would learn all about AI and game playing algorithms, which
+allowed the computer to play more competitively. At the same time, I
+watched as video game fidelity improved, moving from 8-bit to 16-bit
+games, and the world “in there” started to look more and more
+realistic.
+More than a decade after that, I moved to Silicon Valley at the
+start of the mobile gaming revolution. I designed a number of
+different games, including Tap Fish—one of the most popular games
+of its type (a resource management game, also called a simulation
+game), having reached more than 30 million downloads in the early
+days of the Apple iPhone. Later, I designed multiplayer competitive
+games based on popular TV shows like Penny Dreadful and Grimm
+and became an advisor to and investor in many video game
+companies.
+During these years, games evolved from simple adventure and
+arcade games to fully 3D massively multiplayer online role-playing
+games (MMORPGs), such as Ultima Online and World of Warcraft.
+Some games were actually virtual worlds, such as Second Life and
+The Sims, in which the goal was more about “simulating” life and less
+about fighting monsters.
+These developments only amplified the questions that had been
+lurking at the back of my mind since I first started playing with the
+Atari:
+What happened when no one was playing the game? Were the
+simulated characters still there? Did the landscape change and
+evolve? If multiple users were playing the same game online, did it
+mean they were part of a shared world that existed independent of
+their computers? If so, where was it—was it on a server, or was it in
+some other metaphysical landscape in “cyberspace”? Or did the
+world only exist when it was rendered on someone’s local computer?
+Do We All Live Inside a Video Game?
+Over the last decade, these basic questions about video game
+worlds have formed the basis of a much larger debate that has been
+raging among scientists, tech entrepreneurs, computer
+programmers, philosophers, and science-fiction writers, not to
+mention among the general public. This debate is not just about
+video game technology, but about the nature of our reality and how
+the world “out here” might actually be more like the world “in there”
+than we previously thought.
+The idea that what we call reality is actually a super-sophisticated
+video game is popularly referred to as the Simulation Hypothesis.
+The fundamental question raised by the simulation hypothesis is
+this: Are we all actually characters living inside some kind of giant,
+massively multiplayer online video game, a simulated reality that is
+so well rendered that we cannot distinguish it from “physical
+reality”?
+Although Oxford philosopher Nick Bostrom coined the term the
+Simulation Argument in a landmark paper in 2003, the idea of living
+in a simulated reality has been around for a long time in science,
+religion and fiction.
+The reality of the world around us is something that philosophers
+have debated for some time. Thousands of years ago in The Republic,
+Plato described his analogy of the cave. In this cave, the residents are
+chained to a wall so they can’t see the world outside; the best they
+can perceive are shadows of the real world, reflected on the wall of
+the cave by some light outside. The residents of the cave construct an
+elaborate idea about what reality is, and Plato surmised that we are
+like the residents of this cave, seeing only shadows of the real world.
+Many of the world’s religious traditions tell us that the world
+around us is an illusion created for our benefit. This is particularly
+true in the Eastern traditions of Buddhism and Hinduism, which
+explicitly tell us that the world we see is maya, or illusion, and that
+there is another world out there beyond the illusion. Even the
+Western religions have a similar concept of this world (the “here”)
+and the other, eternal world (the “hereafter”).
+Psychiatrists like Carl Jung have probed the question of mental
+projection, where each of us is perceiving the world slightly
+differently based upon what is going on inside our minds. In this
+view, most of what we think of as being “out there”—the physical
+world—is actually “in here,” meaning in our heads, like a dream,
+there being no objective physical reality.
+More recently, Elon Musk, world-famous entrepreneur and
+founder of Tesla Motors and SpaceX, has put forth this idea as being
+very likely. In fact, he estimates the chances that we are in a
+simulation at a billion to one. His remarks have ignited serious
+debate.
+There are good reasons for Musk to put forth this argument at
+this point in time. A few years ago, I started the Play Labs accelerator
+at MIT for startups using the latest video game technology. There, I
+saw firsthand the high fidelity that today’s virtual and augmented
+reality can achieve.
+If this pace of improvement of video games continues into the
+future, what kinds of sophisticated video games will we be able to
+produce? Will we eventually be able to produce a game with such
+high resolution that it will be indistinguishable from reality? And if
+so, could we already be inside such a video game?
+This realization led me to explore the simulation hypothesis in
+detail. What I discovered is that its implications go well beyond the
+fields of computer science and video games to strike at the heart of
+all of our various paths of searching for truth.
+The goal of what we call science is to understand the nature of
+reality. If we are in fact inside a video game, then science becomes a
+matter of “discovering” the rules of this video game. I found that
+many renowned physicists believe a computer-generated simulated
+world would explain some of the strangest findings of quantum
+physics.
+It turns out that, before science, this search for truth was the
+domain of religions and philosophers. The more I delved into their
+cosmological models of how the universe works, particularly the
+Eastern mystics, the more clearly I saw how the simulation
+hypothesis explains the ancient teachings in a scientific way.
+Science Fiction—How the Simulation Hypothesis Went Mainstream
+Let’s back up a little bit. It wasn’t just playing and creating video
+games but watching and reading (what my parents might say was too
+much) science fiction that put me on this path of speculation about
+the simulation hypothesis.
+The first time I personally considered the idea that we were all
+living in a simulated reality was during an episode of Star Trek: The
+Next Generation, when a holodeck character realized that he was in a
+simulation and that some of the people in the simulation existed “out
+there.” The holodeck was a super sophisticated room that could
+simulate any environment, and it allowed the crew of the Enterprise
+to experience any real or fictional environment. In this episode, the
+crew were simulating a Sherlock Holmes mystery, and the character
+who realized that he was in a simulation was Professor Moriarty,
+based on Holmes’s most famous nemesis.
+In this case, “out there” meant outside the holodeck, which was
+the rest of the spaceship Enterprise! I wondered: Is it possible that
+we are in a holodeck-like space and there is another world “out
+there”?
+It was not a coincidence that my first encounter with the
+simulation hypothesis was through a TV show. The concept of the
+simulation hypothesis is so tied into the science fiction of our recent
+past that it would be difficult to talk about it coherently without
+making science fiction references. In fact, the idea that we are living
+in a simulated reality first entered Western popular consciousness
+through science fiction.
+No other piece of science fiction was more influential in bringing
+the simulation hypothesis into the popular consciousness than the
+movie The Matrix, released in 1999. In the film, Keanu Reeves plays
+a character (Mr. Anderson) who lives in a world that seems a lot like
+ours, but at night he’s a hacker (called Neo) who explores different
+places on the net, only to find enigmatic references to something
+called “the Matrix.” He stumbles onto a team of hackers who turn his
+worldview upside down.
+In a now famous scene, Neo is given the choice of taking the “red
+pill” or the “blue pill” by a character called Morpheus (named after
+the Greek god of dreams and sleep, played by Laurence Fishburne).
+The red pill will wake Neo up, while the blue pill will allow him to
+continue living his existence in the dream world that is the Matrix.
+By taking the red pill, Neo wakes up to realize that what he
+thought was reality was actually a computer simulation. He finds
+that in the real world, all humans live in pods, plugged into the
+Matrix—a high-fidelity video game–like simulation that the
+characters have lived in their whole lives. In the sequels to The
+Matrix, the audience learns that this simulated reality was created to
+keep human minds preoccupied by a race of super-intelligent
+machines, who were using the small amount of electricity generated
+by each human’s brain for their own nefarious purposes.
+While The Matrix is probably the most popular fictional
+rendering of the simulation hypothesis, its creators, the Wachowskis,
+were far from the first science fiction writers to suggest this idea. The
+Wachowskis claimed to be inspired by noted sci-fi author Philip K.
+Dick, whose novels of alternate realities have become remarkably
+popular in the years since his death.
+While writing this book, I spoke with Dick’s wife (he passed away
+in 1982), Leslie “Tessa” B. Dick, and she pointed out that this was a
+recurring theme across many of his novels, only some of which have
+been made into movies. The question of what is real and what is fake
+— whether about our physical reality or about our humanity—were
+central in many of Dick’s highly imaginative works.
+In Dick’s short story The Adjustment Team (which the 2011 film
+The Adjustment Bureau is based upon), the main character, Ed
+Fletcher, is late for work one day and finds that his whole building,
+including the people within it, is being “adjusted.” During
+adjustment, everything is de-energized, a process which freezes
+everyone in place while changes are being made to the building and
+to the people by “the adjustment team.” It’s kind of like hitting the
+pause button on a movie or a video game and freezing the scene.
+The people who are adjusted, including Fletcher’s co-workers and
+boss, only have the new memories once the adjustment is done.
+Fletcher, on the other hand, remembers the “pre-adjusted” world; he
+was not supposed to have caught a peek behind the curtain of reality,
+since he should have been in the office already and should have been
+adjusted along with everyone else.
+These notions of pulling the curtain back on reality, fake
+memories, and different timelines were hallmarks of Philip K. Dick’s
+work. In The Man in the High Castle, a novel that won Dick the
+prestigious Hugo Award and is the basis of the Amazon TV series, we
+see an alternate timeline in which the Axis powers, Germany and
+Japan, won World War II. They now rule the United States, having
+divided it between them. Only by perceiving “another reality” is one
+of the main characters able to see an “alternate world” where the
+Allies won the war—which is our current world!
+Sometimes Dick’s stories dealt with artificial intelligence and fake
+memories more directly, both of which play a significant role in the
+simulation hypothesis. Do Androids Dream of Electric Sheep?,
+which inspired the classic movie Blade Runner (starring Harrison
+Ford and directed by Ridley Scott), brings up the idea of false
+memories implanted in artificially created robots who look and act
+human. In fact, these androids may not even know they are artificial
+beings. This work raises serious questions about what it means to be
+human versus simulated or artificial consciousness, a topic we will
+explore in this book.
+Tessa went much further than the novels, saying that Dick
+actually had experiences in life that convinced him that we were all
+inside some kind of simulation. Dick claimed that there were entities
+or people who could change the variables of the simulation, thus
+altering our timeline. Like some of his characters, Dick claimed to
+have remembered some of the original timeline before it was
+adjusted! This theme would be familiar to his readers. Dick
+expressed his view in a now-famous speech at a science fiction
+convention in Metz, France, in 1977. Dick said that we were inside a
+computer-generated reality that could be “paused” or “backed up” to
+change the variables, and then rerun forward. These “changed
+variables” were the only way, according to Dick, that we could realize
+we were in such a simulation!
+Quantum Physics and the Idea of a “Subjective Reality”
+Today, given the pace of technological progress in video games
+and computers since Dick’s time, science fiction writers are not alone
+in believing that we are all living in a simulation. Many prominent
+scholars and renowned physicists are voicing their beliefs that we
+live in a sophisticated simulation. The celebrated physicist and
+author of A Brief History of Time, Stephen Hawking, speculated that
+we have a 50 percent chance of being in a simulated reality. He’s not
+the only well-known physicist to think so. Host of the new Cosmos,
+Neil deGrasse Tyson, has said that he thinks it’s very likely that the
+universe is a simulation. The assertions of such well-known scientists
+are notable and led me to explore what quantum physics might
+reveal about the simulation hypothesis.
+What I learned as I delved into these areas is that quantum
+physics provides significant clues that we are in some kind of
+simulated reality. The basis for quantum physics is that the universe
+is not continuous but exists as a set of “quanta,” or discrete, values.
+This is true for subatomic particles, such as electrons, that seem to
+jump from one state to another without going through the values in
+between, a phenomenon known as a quantum leap. This is also true
+for computer simulations, which are based on discrete particles
+called pixels.
+One of the most famous and troubling aspects of quantum
+physics is that we may not be living in a physical universe after all,
+but in a universe of probabilities. The idea is that a subatomic
+particle exists as a wave of probabilities—what’s called the quantum
+probability wave—until the probability wave collapses into a single
+reality. You might compare it to a theater that has a number of seats
+in it, and the “wave” is the probability that you (the particle) might
+be sitting in any one of these seats.
+The best explanation that quantum physicists have been able to
+give for how the probability wave collapses is that consciousness,
+through the act of observation, plays a central role. In fact, some, like
+Fred Alan Wolf, a theoretical physicist, believe consciousness plays
+the critical role in the collapse of the probability wave: it is the act of
+observation that behaves much like a cosmic usher, ushering you to a
+specific seat in the theater.
+This is startling. Generally speaking, since the time of French
+philosopher, mathematician and scientist René Descartes, science
+has subscribed to a materialistic worldview, where physical reality
+and consciousness are wholly separate and don’t interact with one
+another. The idea of a separate observer and observed universe
+doesn’t exist in quantum physics. Not only does quantum physics
+disrupt the whole idea of subject-object separation, but it opens a
+door that many physicists are uncomfortable with: we may not be
+living in an “objective” reality after all! In fact, our consciousness is
+so interconnected with reality that we may be living in a set of
+interconnected subjective realities.
+This phenomenon, referred to as quantum indeterminacy, is one
+of the biggest mysteries in physics (and all of science), and it raises
+some serious questions about the nature of reality.
+Some of these questions are strikingly similar to the ones that I
+have been asking about video games my whole life: Do all these
+probable realities actually exist, or are they just probabilities? Is
+there an actual shared reality, or is it rendered on separate
+observation devices? Is there in fact an objective world when no one
+is watching, or does it come in to existence only when someone is
+watching it – i.e., only when someone is “logged in”?
+And of course, the biggest question of all: Why would we be in a
+probabilistic world where making a choice (or having an
+observation) collapses a probability wave to a single timeline or
+probability?
+As I began to explore this last question in some depth, it brought
+back my early experiences with Tic Tac Toe and with more
+sophisticated video game algorithms. As video game designers, we
+have to map out the possible “futures”—paths that might be taken
+inside the game. Most simple AI in games simulates moves of
+“possible futures” and then picks the “best possible move” based on
+those possible futures.
+These possible futures are similar to the idea of a probability
+wave. In fact, the whole field of probability was originally created for
+gaming. Rather than referring to potential outcomes as probabilities,
+they were first called “possible futures” in rolling dice. A single die
+might have one of six possible futures, each one equally likely
+(assuming a uniform die). Two dice might have 6 x 6 = 36 possible
+futures. Thus was born statistics—presenting a way to talk about
+possible futures in games.
+In quantum physics, this collapse of a probability wave into a
+single future seems to happen based on conscious observation or
+measurement. In a video game, the path that any player follows
+depends on the conscious choice and subsequent rendering of that
+choice on the player’s own computer (which can be thought of as his
+or her “machine of consciousness”).
+The computer renders only the part of the world that is relevant
+to that single player, based on their choices when they are logged in
+to the virtual world. There is no “shared rendering,” since the
+rendering is done on each player’s individual computer, which brings
+up the idea that each of us might be experiencing a slightly different
+version of reality, based upon our observations of the world around
+us.
+Even relativity, which Einstein described independently of his
+work on quantum physics, tells us that there is no simultaneity
+between events that are happening at different places. This reminds
+me of a network of computers connected by light speed
+(electromagnetic pulses), where players are making moves in their
+own “inertial frame,” and the computer is doing its best to give the
+“illusion” of both simultaneity and order.
+Many of the findings of relativity and quantum physics make no
+sense in the materialist worldview—that we are living in an
+immutable physical universe.
+When I was at MIT, we were taught that most of science is
+coming up with models for how the world works, and if a better
+model is found, it will explain aspects of the world that seemed
+unexplainable in previous models. For example, Newton’s classical
+physics explained the world better than what came before; then
+Einstein came up with his theory of relativity, and it explained light
+and travel at high speeds much better than Newton’s model, so it was
+adopted. Similarly, with quantum physics, its model of the
+microscopic world of probabilities explained the observed results
+much better than Bohr’s previous model of the atom, which was the
+“planetary model” (i.e., electrons revolve around the nucleus like
+planets revolve around the sun). While all of these ideas were looked
+at suspiciously by the scientific establishment initially, they all came
+to be adopted by modern science because they were better models.
+It turns out that the simulation hypothesis and the model of the
+world it is describing, of a sophisticated multiplayer video game with
+characters operating within a rendered world, answers two big
+questions about the physical world that physicists are afraid to ask:
+Why does it work this way, and how does it work, exactly?
+Eastern Mysticism and the Western Afterlife
+At the same time that I was exploring the connections between
+quantum physics and simulated reality during my adventures as an
+entrepreneur and technologist, I had also started to travel a parallel
+path exploring different states of consciousness.
+It began as a simple search for techniques like meditation that
+would help me become a more focused programmer and a more
+successful startup founder. Eventually, it led me to explore the
+ancient Eastern traditions, particularly the Yogic traditions and
+Buddhist philosophy, and convinced me there was more going in our
+physical world than science gave credit to. I wrote about some of
+these experiences in my first book, Zen Entrepreneurship.
+As I continued to study the ancient Buddhist and Hindu texts and
+philosophies, I found they were much more in alignment with the
+simulation hypothesis than a materialistic worldview. The Eastern
+traditions are built on the idea that the world around us is not “the
+real world.” In fact, they believe it is a world created by our minds as
+we make choices in the world. We are so engrossed in this world, like
+players addicted to a video game, that we get lost in this world of
+maya, this world of illusion.
+Karma, which most of us in the West think of as a cosmic game of
+“what goes around, comes around”, is actually more subtle and more
+rule-based than it appears. In fact, karma can be modeled as a list of
+tasks and outcomes that we have to fulfill. Whenever we create
+karma, a new “task” gets created on a virtual manifest, stored
+somewhere outside the material world. When we incarnate in the
+future, we can choose which particular tasks of our past karma we
+should tackle in our new life. Buddha’s endless “Wheel of Life” tells
+of the purpose of reincarnation: The reason we keep incarnating in
+future lives is to fulfill the “missions” created in our present and past
+lives.
+To a video game designer like myself, the twin concepts of karma
+and reincarnation sound a lot like video games in which a player has
+multiple lives and an on-going list of “quests” and “achievements.”
+The accomplishment of one task (or quest) unlocks new quests that
+get added to the list. This is a lot like the process of creating new
+karma described in Buddhism. As I thought about it, I realized that
+the architecture of a sophisticated video game played out over many
+lives mirrors the idea of Buddha’s endless wheel of reincarnation.
+Furthermore, many Buddhist techniques for achieving
+enlightenment are all about learning to recognize the illusion of the
+world around us. One Tibetan technique is called “Dream Yoga,” in
+which practitioners are trained to recognize the world around us is
+like a dream. They learn this in a similar manner to the more modern
+techniques of lucid dreaming, which train adherents to recognize
+during a sleeping dream that we are “only dreaming” and the images
+we see are not real. During dreams, which seem real, our bodies are
+in bed asleep. The purpose of dream yoga is to ask if there is another
+part of us, outside of the illusion of the physical world, outside the
+collective dream.
+The metaphor of the world being a dream is intertwined with the
+idea of the simulation hypothesis. Our night-time dreams are
+basically like the simulation hypothesis on a smaller scale.
+But it’s not just the Eastern religious or spiritual traditions that
+support the idea that we are living in a simulation. In the Western
+Abrahamic line of religions (namely, Judaism, Christianity, and
+Islam), the implication that we are players in a simulated reality
+being watched by entities “outside of the game” is also there, without
+being so explicit. These traditions have their own versions of karma,
+with the addition of entities who watch our choices and record our
+deeds. God uses this record of our deeds to judge us as we enter the
+afterlife.
+Just who are these entities recording our deeds? According to
+some traditions, these entities might be angels, though they sound a
+lot like AI that monitors and automatically records our actions and
+plays them back to us later.
+Video games today have the ability to record our moves in the
+game as we play, and these recordings can be reviewed after the
+game. Moreover, this idea of “replaying” our actions after the game is
+done aligns closely with descriptions of the afterlife from people
+who’ve had a near-death experience (NDE) (who describe a “life
+review”) and from texts such as the Koran (which describes in detail
+a review of your “scroll of deeds” after you die) and the Bible (which
+has the concept of the “book of life”).
+All of these spiritual ideas—a dreamlike illusory world, karma and
+reincarnation, Buddha’s endless Wheel of Life, angels, and eternal
+afterlife—fit much better into the model of the simulation hypothesis
+than any other scientific paradigm. It seems that these traditions
+may have been telling us all along that we are in a simulated reality.
+We just haven’t had the technological background until recently to
+draw this conclusion ourselves!
+Any beings living outside of the simulated reality would appear, at
+least to those of us in the simulation, as supernatural beings, gods, or
+angels!
+Virtual Reality, Artificial Intelligence, and Simulated Consciousness
+While it provides a plausible explanation of the mysteries of
+quantum physics and the Eastern and Western mystical traditions,
+the simulation hypothesis is first and foremost about computation.
+Video games wouldn’t be possible without computer graphics, and it
+is the development of this relatively new field of science that has
+brought the simulation hypothesis out of science fiction and into
+serious consideration.
+Within computer science, video games and entertainment have
+played a unique role in driving the development of both hardware
+and software. Examples include the development of GPUs (graphics
+processing units) for optimized rendering, CGI (computer-generated
+effects), and CAD (computer-aided design), as well as artificial
+intelligence and bioinformatics.
+The most recent incarnation of fully immersive entertainment
+technology is virtual reality (VR). Despite wondering about the
+simulation hypothesis for many years, it wasn’t until VR and AI
+reached their current level of sophistication that I could see a clear
+path to how we might develop all-encompassing simulations like the
+one depicted in The Matrix, which led me to write this book.
+In 2016, I had a chance to play a VR table tennis game, which I
+played using VR goggles and motion controllers. The physics engine
+and the reactions of the game were so realistic that I started to forget
+I was actually standing in a room with a VR setup and part of me
+thought I was actually playing table tennis.
+I ended the game, and without thinking I put the “paddle” on the
+“table” and leaned against this virtual table. Of course, there was no
+table and no paddle, just a controller which I dropped to the floor. I
+almost fell over myself, but I realized just in time there was no table
+to lean against!
+I was reminded of the famous line from The Matrix, when Neo
+was wondering how a person inside the simulation could modify a
+physical object like a spoon. The truth was that the spoon was just
+part of the simulation, a collection of pixels. Neo is told: “There is no
+spoon.” In my case, there was no table or paddle!
+The advance of computer science, which makes the idea of a very
+sophisticated simulation more likely, also raises interesting (and
+perhaps troubling) questions about ourselves. For example, futurists
+like Ray Kurzweil of Google have suggested that someday we might
+be able to download our consciousness into a silicon-based device,
+extending our lives indefinitely. At some level, this would mean that
+we are just digital information after all.
+The idea that consciousness can be digital reveals perhaps one of
+the most troubling aspects of the simulation hypothesis. If we are in
+a simulation which was created by real beings in some “base reality,”
+then it’s possible there are many such simulations. Just as we have
+NPCs (non-player characters) in video games that are simulated, if
+we are in a simulation then could we ourselves be artificially
+simulated consciousness and not real beings?
+The idea that we are digital consciousness and that even our
+memories may be false brings us back to Philip K. Dick’s questions
+about reality and what it means to be a real human versus a fake
+one.
+The closer we get to digital consciousness and AI that appears
+human (referred to as passing the “Turing Test”), the more likely it is
+that we may be in a simulation. This doesn’t mean we are all
+simulated beings—in fact, one of the reasons I use the video game
+metaphor in this book is so we can distinguish between PCs and
+NPCs—between real players and simulated characters.
+Simulations, Computation, and Chaos
+Advancements in digital technology and computation have
+impacted our understanding of all the other sciences. Once upon a
+time, it was thought that mathematics could provide the answers to
+any of the questions about the universe—where a planet would be at
+a given time, what the weather would be like, etc. All we had to do
+was plug the values into the equations and we would get the answer
+we were seeking.
+A new branch of science, chaos theory, was born in the 1960s and
+1970s out of the realization that equations weren’t enough to predict
+outcomes and small changes in inputs or variables could cause large
+differences in the outcome of complex natural processes. These
+processes include the orbits of planets and stars, the complexities of
+weather prediction, the evolution of populations of animals, and
+many biological processes.
+Stephen Wolfram, the creator of the Mathematica software, has
+pointed out that these and many other questions in life may be
+computationally irreducible. This means that we would need to run
+a computer program through many different steps to figure out
+where a particular planet might be, or where a particular particle
+may end up in a turbulent flow of particles, or where a biological
+population might end up after a number of years. In fact, many
+natural processes follow a fractal geometry, such as how a coastline
+will zig and zag or how arteries and leaves develop in tree-like
+structures.
+This science of chaos states that you can’t know exactly what
+outcome will come from changing small parameters unless you do
+the work of computing or simulating it. This sensitivity to initial
+conditions is known as the butterfly effect: When a butterfly flaps its
+wings, the seemingly small movement has a bigger effect on the
+world, such as causing a tornado or a hurricane in some other part of
+the world!
+A full understanding of fractal and natural chaotic processes
+wasn’t possible until computers were available to run simulated
+versions of different fractal equations. You might say that computer
+simulations are the bread and butter of this new science.
+In each run of the simulation, there are decisions that need to be
+made, and these decisions will impact where the simulation goes. A
+counterintuitive finding of chaos theory is that even processes that
+include seemingly random decisions end up following similar
+patterns of complexity.
+It sounds a lot like Philip K. Dick’s vision of how sometimes we
+need to “rewind” our computer simulation and rerun it to see a
+different set of variables before we know exactly where we will end
+up!
+If the decisions are made by individual conscious entities (i.e.,
+players using the video game metaphor), then the simulation we are
+talking about may be even more complex than the deterministic
+method of natural chaotic processes. The possible input values that
+come from something like free will, if it exists for players of this
+video game, can lead to wildly different outcomes! The only way to
+know where the simulation will end up is to run it! It just may be that
+our world is computationally irreducible.
+Wolfram and others argue that computation is a part of our
+physical world, embedded within all other biological, chemical, and
+physical processes. This finding of the universality of computation
+and information science makes it even more likely that we are in
+some kind of computer simulation and begs the question: What is
+this simulation all about?
+The Great Simulation—Our Shared Video Game
+As I have sought the answers to these questions my entire life,
+investigating computer science, video games, physics and the
+spiritual traditions, I have come to believe that we are living inside a
+giant video game.
+I call this video game the “Great Simulation” because this virtual
+reality appears to be indistinguishable from physical reality.
+If we are living in such a simulation, then it would be far more
+sophisticated than any video game we have built or even imagined to
+date. It would combine elements of MMORPGs with elements of
+virtual and augmented reality built on foundations of technology and
+aspects of consciousness—real or simulated—that we don’t fully
+understand yet.
+Throughout this book, I will delve more deeply into the concepts
+introduced in this chapter, including advances in video games and
+computer science, some of the unexplainable mysteries unearthed by
+physicists about our physical world, and certain tenets of Eastern
+mystical traditions and even Western religions. As we examine these,
+I will argue, complete with scientific, religious, and science-fiction
+references, that they all suggest we are living in the Great Simulation
+after all.
+We’ll start by looking at the ways in which computer science
+could develop to create the technologies needed to develop
+something like the Great Simulation. A society which has developed
+the necessary technological prowess to create something like the
+Matrix has reached an important point, which I call this the
+“Simulation Point.” In the first part of this book, I will go into detail
+about how we could get from where we are today to the simulation
+point. This is basically a roadmap of how to build the Great
+Simulation, our version of the Matrix.
+The Simulation Hypothesis Uses Information to Explain the
+Unexplainable
+Everywhere, advances in computer science, simulation
+technology, and artificial intelligence are showing the link between
+computation and the natural world—biological algorithms, genetic
+mappings, fractal algorithms. In fact, with the rise of quantum
+computers, which we’ll explore later in this book, even particles in
+nature start to look less like physical objects and more like
+information.
+Throughout this book, we will see that the simulation hypothesis
+provides a better explanation for many of the strange phenomena
+that science hasn’t been able to explain: How and why does quantum
+indeterminacy exist? What happens to consciousness after we die?
+Can consciousness be transferred? How are time and space related?
+Are they quantized? Why do light and electromagnetic phenomena
+play such a central role in physics? If nonhuman intelligences such
+as angels exist, where are they located? The simulation hypothesis
+can even provide an explanation for aspects of reality that have
+mystified scientists, ranging from psychic phenomena to UFOs and
+synchronicity.
+Most importantly, in this book I hope to offer you a different lens
+into understanding our world, using video games as both a metaphor
+and a road map to where we are going.
+In this regard, the most important aspect of the simulation
+hypothesis may not be scientific at all.
+By treating the world not as physical (and we’ll see that the
+physicists have admitted it is not) but rather as information and
+computation, we might be able to come to a more comprehensive
+understanding of the natural universe than either our scientists,
+philosophers, or religious leaders have been able to give us up to this
+point.

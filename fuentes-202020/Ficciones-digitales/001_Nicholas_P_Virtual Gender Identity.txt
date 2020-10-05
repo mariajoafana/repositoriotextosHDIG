@@ -1,0 +1,848 @@
+Articles
+
+Virtual Gender Identity:
+The Linguistic Assimilation
+to Gendered Avatars
+in Computer-Mediated
+Communication
+
+Journal of Language and Social Psychology
+29(1) 5­–23
+© 2010 SAGE Publications
+DOI: 10.1177/0261927X09351675
+http://jls.sagepub.com
+
+Nicholas A. Palomares1 and Eun-Ju Lee2
+
+Abstract
+This research examined how individuals’ gendered avatar might alter their use of
+gender-based language (i.e., references to emotion, apologies, and tentative language)
+in text-based computer-mediated communication. Specifically, the experiment tested
+if men and women would linguistically assimilate a virtual gender identity intimated
+by randomly assigned gendered avatars (either matched or mismatched to their
+true gender). Results supported the notion that gender-matched avatars increase
+the likelihood of gender-typical language use, whereas gender-mismatched avatars
+promoted countertypical language, especially among women. The gender of a partner’s
+avatar, however, did not influence participants’ language. Results generally comport with
+self-categorization theory’s gender salience explanation of gender-based language use.
+Keywords
+gender-linked language, social identity, intergroup communication, message production,
+stereotypes, prototypes
+Gender-based communication is the focus of much scholarship. This work increasingly emphasizes computer-mediated environments. Research, for example, has
+examined how men and women communicate via e-mail (Colley & Todd, 2002), chat
+groups (Koch, Mueller, Kruse, & Zumbach, 2005; Thomson, 2006), instant messages
+1
+
+University of California, Davis, Davis, CA, USA
+Seoul National University, Gwanak-gu, Seoul, Korea
+
+2
+
+Corresponding Author:
+Nicholas A. Palomares, Department of Communication, One Shields Avenue, University of California,
+Davis, CA 95616, USA
+Email: napalomares@ucdavis.edu
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+6		
+
+Journal of Language and Social Psychology 29(1)
+
+(Fox, Bukatko, Hallahan, & Crawford, 2007), and other forms of computer-mediated
+communication (CMC). One issue in this empirical arena is gender identity and its
+manifestations in CMC. Scholars have argued, for example, that people perform masculinity online as a means to reify their gender identities (Herrmann, 2007). Other
+research has demonstrated that elevating the salience of gender identity prompted
+women to reference emotions in e-mail more than men especially in mixed-sex interactions (Palomares, 2008). Permeating this literature is a focus on the diverse, dynamic,
+and sometimes transient nature of gender identity; how it differentially presents itself
+in CMC given the circumstances; and the resultant communicative behavior of men
+and women (Murachver & Janssen, 2007; Palomares, Reid, & Bradac, 2004).
+Whereas the primary concern of this work is how a sex-consistent gender identity
+affects communication, a relatively nascent interest is how people simulate a gender
+identity online that they would not otherwise perform in offline settings (Herring &
+Martinson, 2004; Hills, 2000; Rellstab, 2007). For example, a woman might pretend to
+be a man in an online chat. The few instances of this research have studied strategic or
+intentional portrayals of a different gender and focused on the communicative behaviors people employ in these forgeries and if others can recognize a disingenuous gender
+identity (Herring & Martinson, 2004; Hills, 2000; see also Thomson & Murachver,
+2001); yet no known research has examined how more subtle cues might trigger the
+enactment of a different gender identity online. We refer to this phenomenon as virtual
+gender identity. Thus, we conducted an experiment to test if men and women would
+linguistically assimilate a virtual gender identity intimated by (matched or mismatched)
+gendered avatars representing them in text-based CMC. Specifically, our objective was
+to determine if and how men’s and women’s gender-based language would emerge as a
+function of gendered (i.e., masculine or feminine) avatars that represented them and
+their interaction partner. In pursuit of this goal, we first review research on language
+and gender, then present our theoretical orientation from which we deduce predictions,
+and finally report an experiment that implemented and tested this rationale.
+
+Language and Gender in CMC
+Research traditionally has emphasized gender differences claiming that men and
+women tend to use dissimilar language independent of the context, personal proclivities, or interaction partners (e.g., Lakoff, 1975; Mulac & Lundell, 1980; Tannen,
+1990). The empirical evidence is somewhat compatible with this claim. Consistent
+with stereotypes, for example, meta-analyses demonstrated that women used more
+affiliative speech (e.g., references to emotion) and less assertive speech (e.g., direct
+language) than men (Leaper & Ayres, 2007). Over time, however, the focus has shifted
+away from gender and onto alternative (i.e., extragender) influences, especially those
+present in CMC. Whether in e-mail, newsgroup postings, blogs, discussion groups,
+online chats, or other computerized settings, the language of men and women largely
+depends on the specific circumstances and features of the technology and context (e.g.,
+Colley & Todd, 2002; Fox et al., 2007; Herring, 1993; Huffacker & Calvert, 2005;
+Palomares, 2004, 2008, 2009; Savicki, Kelley, & Ammon, 2002; Thomson, 2006). In
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+Palomares and Lee
+
+7
+
+fact, the same aforementioned meta-analyses also found several factors that moderated the gender effects often to an extent greater than gender alone (Leaper & Ayres,
+2007). Language differences between men and women, thus, clearly exist, but they are
+highly sensitive to extraneous factors that may increase, decrease, erase, or even reverse
+the traditional gender-based patterns of use.
+The emergence of three language features—references to emotion, apologies, and
+tentative language—has been particularly vulnerable to contextual instability within
+and across studies despite stereotypes and early conjectures that they are “feminine”
+language forms. References to emotion, or language that includes any mention of a
+feeling or emotion, have been indicted as typically associated with women’s language
+(Mulac, Bradac, & Gibbons, 2001). Yet other research has shown that men reference
+emotion more than women (Mulac, Seibold, & Farris, 2000), that men and women use
+them equally (Thomson, 2006), and that their use depends on the salience of gender
+identity and dyadic sex composition (Palomares, 2008). Examinations of apologies—
+which some have construed as an indicator of politeness and a feminine language
+style (Herring, 1993; Lakoff, 1975)—have yielded a similarly diverse array of differences and similarities between men and women (O’Neill & Colley, 2006; Savicki,
+Lingenfelter, Kelley, 1996; Tannen, 1990; Thomson, 2006). Tentative language signals
+uncertainty, is typically associated with women (Herring, 1993; Lakoff, 1975), and like
+apologies and references to emotion is contextually dependent (Brouwer, Gerritsen, &
+De Haan, 1979; Carli, 1990; Palomares, 2008, 2009; S. A. Reid, Keerie, & Palomares,
+2003; Tannen, 1990). We examined these three features because research frequently
+employs them in CMC as stereotypically gender-based language forms.
+
+Self-Categorization Theory
+Notwithstanding inconsistent results among the three language features, an explanation
+for the diverse collection of gender-based language manifestations is found in selfcategorization theory (Turner, Hogg, Oakes, Reicher, & Wetherell, 1987).1 The basic
+premise of the theory is that people mentally represent social groups as contextually
+contingent prototypes or fuzzy sets of attributes that define in-group similarities in
+contrast to out-group differences. People internalize the group prototype that is most
+salient and relevant—a state called depersonalized. Prototypes operate not only to
+describe but also to prescribe, such that depersonalization provides a normative selfdefinition for how one should perceive and behave in a certain context.
+When applied to gender and language phenomena (cf. Palomares et al., 2004), the
+theory maintains that if people interact devoid of a gender distinction, then one’s gender
+is irrelevant and gender-based language is unlikely to emerge; but if a gender categorization is germane, then gender identity is applicable to one’s self-construal, and people
+will behave according to the activated prototypical norms (Palomares, 2008;
+S. A. Reid et al., 2003). Gender-relevant interactions, thus, increase the salience of
+gender identity so that the prototype of intergender relations has significant consequences for language use. Self-categorization theory has been relatively successful in
+attempts to explain and predict a diverse array of linguistic behavior for men and women
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+8		
+
+Journal of Language and Social Psychology 29(1)
+
+in CMC. When sending an e-mail, for example, women referenced emotions significantly more than men only if gender was salient because the prototype of gender salience
+exploited supportiveness as a stereotypically feminine attribute (Palomares, 2008). We
+formulated our expectations for the experiment based on self-categorization theory.
+
+Performing Virtual Gender Identities
+A limited number of studies have examined the online performance of a different gender.
+The earliest scholarship highlighted intentional “gender swapping” on the Internet
+(e.g., a man posing as a woman) and documented and described its natural occurrence.
+People gender swap, for example, in text-based multiuser dungeons and similar online
+groups for a range of reasons (Berman & Bruckman, 2001; Bruckman, 1993; Danet,
+1996; Donath, 1999; McRae, 1995; Menon, 1998; Rheingold, 1993; Turkle, 1995; Van
+Gelder, 1996). Assuming a different virtual gender identity has several sociological
+and psychological implications (Herrmann, 2007; Kendall, 2000; E. M. Reid, 1991,
+1995; Rellstab, 2007; Rodino, 1997) especially considering that a substantial portion
+(40% to 60%) of online social-site members typically do so for some of their time
+online (Roberts & Parks, 1999). Relatedly, Internet users can strategically ambiguate
+their gender often via gender-neutral pseudonyms (Bechar-Israeli, 1995; Van Gelder,
+1996). Gender equivocation, however, is more common among women than men
+(Jaffee, Lee, Huang, & Oshagan, 1995; Jazwinski, 2001), likely because it assuages
+gender biases that can occur in face-to-face interactions (Flanagin, Tiyaamornwong,
+O’Connor, & Seibold, 2002; Koch et al., 2005). Research has also examined the detection of real (Koch et al., 2005; Nowak, 2003; Thomson & Murachver, 2001) and false
+(Herring & Martinson, 2004; Hills, 2000) gender identities in CMC.
+Whereas most research on virtual gender identities has recorded its natural occurrence, objectives, implications, and detection, recent examinations have studied the
+communicative behaviors people manipulate when intentionally performing a false
+gender. Such research has found that people seem to have control over macro forms of
+communication (e.g., topic) more than molecular forms (e.g., tentative language). For
+example, if told to pose as a different gender when interacting with an unknown partner via e-mail, participants typically exploited gender-stereotypical topics while
+having relatively little control over gender-typical syntactic and lexical choices (Hills,
+2000). Likewise, in synchronous CMC, people successfully altered their topical content when intentionally performing a different gender but ineffectively changed
+molecular forms of communication; in fact, their molecular features actually gave
+cues to their true gender despite their effective topic manipulations (Herring &
+Martinson, 2004). Our experiment advances past research by not overtly instructing
+people to communicatively perform a different gender identity. Instead, we manipulated gendered avatars to test if people would automatically assimilate their language
+to a virtual gender identity without explicit direction to do so.
+A gendered (i.e., masculine or feminine) avatar can heighten the salience of gender.
+Avatars are graphical self-representations in a computer-mediated environment that can
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+Palomares and Lee
+
+9
+
+reveal social information in an otherwise cue-limited setting (Blascovich et al., 2002).
+Interacting via avatars, for example, can impart levels of trust and intimacy similar to
+an audio–video mode of mediated communication but more than text-only communication (Bente, Rüggenberg, Krämer, & Eschenburg, 2008). Gender inferences of
+anonymous others depend on their avatars even if avatar representations are known to
+be arbitrary (Lee, 2007a). People prefer avatars that closely represent themselves over
+less accurate digital representations, especially in terms of gender (Nowak & Rauh,
+2005). In fact, avatars have behavioral consequences by inducing avatar-consistent communication: In line with attractiveness stereotypes (cf. Langlois et al., 2000), intimacy
+(e.g., self-disclosures) was greater for people represented by attractive than less attractive avatars (Yee & Bailenson, 2007, Experiment 1). Likewise, in a second study that
+capitalized on confidence stereotypes of tall people (cf. Young & French, 1996), participants who assumed an avatar taller than their negotiation partner’s avatar were more
+likely to decline their partner’s unfair offer than if their avatar was shorter. Given that
+people heed avatars cognitively and behaviorally, a gendered avatar might affect
+gender-based language because it yields a gender self-definition germane. According to self-categorization theory, however, these linguistic consequences would depend
+on the nature of the avatar and its ramifications for gender salience: A gendered selfrepresentation in CMC will intimate the prototype for gender-based linguistic behavior.
+Specifically, masculine avatars will implicate male-linked language norms, whereas
+feminine avatars suggest female-typical language norms. As a result, people linguistically
+assimilate to these communicative norms.
+These effects, however, are likely more robust for women than men. Women tend
+to be more responsive to gender salience than men are (Palomares, 2008; S. A. Reid
+et al., 2003), and they tend to identify with their gender more strongly than men do
+(Cameron & Lalonde, 2001). In fact, men were less likely than women to take a gendered avatar into account when inferring an anonymous partner’s gender (Lee, 2007a).
+Women also are more accurate when decoding others’ nonverbal communication and
+are generally more sensitive to it than men are (Hall, 2006). Because women tend to
+be particularly reactive to visual communicative stimuli and gender salience, we
+expect a woman to use more stereotypically feminine language when her avatar is
+consistent (i.e., feminine avatar) than inconsistent (i.e., masculine avatar) with her
+true gender; yet the effect of this corresponding pattern for men will likely be less
+extreme if it manifests at all. Thus, we present the following:
+Hypothesis 1a-c: Women, but not men, use more gender-typical language—
+(a) references to emotion, (b) apologies, and (c) tentative language—when
+the gender of their avatar matches their true gender than when it mismatches.
+We also tested the effects of a CMC partner’s gendered avatar because it too can
+play an influential role in computerized interactions. In most circumstances, gender
+differences are more likely in intergroup (i.e., mixed-sex) than intragroup (i.e., same-sex)
+interactions. For example, women referenced emotion more than men when gender
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+10		
+
+Journal of Language and Social Psychology 29(1)
+
+was salient but chiefly in mixed-sex e-mail exchanges (Palomares, 2008); likewise,
+gender differences in tentative language were present in intergroup but not intragroup
+CMC (Palomares, 2009). Self-categorization theory accounts for such effects by
+arguing that mixed-sex interactions render an intergender distinction more pertinent
+than same-sex settings do, such that assimilation to the prototype of gender salience
+becomes more likely (Hogg & Turner, 1987). We, therefore, might expect a partner’s
+gendered avatar to affect gender-based language as well, which is analogous to other
+research revealing partner-avatar effects for nongender groups. People in a virtual
+environment, for example, maintained greater distance when encountering an avatar
+of an ethnic minority than an avatar of an in-group member, especially if they held
+implicit prejudice toward the minority out-group (Dotsch & Wigboldus, 2008).
+Precisely predicting how another’s gendered avatar might interact with a gendered
+graphical self-representation, however, is difficult because what constitutes “mixed
+sex” is muddled when gendered avatars are introduced in CMC to represent anonymous interactants. That is, whether people compare their true or virtual gender with
+their partner’s gendered avatar can alter their inter-/intragroup determination. For
+example, a woman who is represented by a masculine avatar when interacting with a
+partner using a feminine avatar might consider the interaction to be intergroup if she
+contrasts her and her partner’s avatars; whereas if she compares her partner’s avatar
+with her actual gender, then she might conclude that the interaction is intragroup. In
+fact, Lee (2007b) found that dyadic team members felt stronger group identification
+when their avatars belonged to the same gender category (rather than different categories). Such results suggest that perceptually salient, albeit explicitly arbitrary,
+avatars can serve as a formative basis for an intra-/intergroup distinction. Nonetheless, if and how self-other avatar comparisons have effects beyond fostering group
+cohesion remains unclear in Lee’s study; that is, even when participants thought “My
+partner and I are similar,” by virtue of the similar avatars, they might not have fully
+embraced the specific identity represented in the avatars (“We are both masculine”),
+especially considering that their avatar’s gender always mismatched their true gender
+in the study. By examining social perceivers’ linguistic behavior as a function of their
+own and their partner’s gendered avatars, the present study extends past work. Yet
+given the difficulty gendered avatars present for ascertaining the inter-/intragroup
+nature of an interaction in anonymous CMC, we ask this research question:
+Research Question 1: Does the gender of a partner’s avatar influence (via either
+main or interaction effects) gender-based language use?
+
+Method
+Participants and Design
+Participants were 157 undergraduates (74 men, 83 women) enrolled in communication
+classes at a large, West Coast university. A 2 (participant’s gender: men vs. women) ×
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+Palomares and Lee
+
+11
+
+2 (gender matching of participant’s avatar: match vs. mismatch participant’s true
+gender) × 2 (gender of partner’s avatar: male vs. female) between-subjects design was
+employed wherein participants completed a trivia game with an ostensible partner
+both of whom were represented via gendered avatars in synchronous text-based CMC.
+
+Avatar Manipulations
+Two masculine and two feminine avatars manipulated self and partner representations.
+An additional 50 undergraduate students (66% women) participated in a pretest to confirm an effective manipulation of avatar gender. Participants first saw one of the four
+cartoon characters and then indicated how feminine and masculine the character was on
+10-point scales (1 = not at all masculine/feminine, 10 = very much masculine/feminine).
+The femininity rating was reverse coded and then combined with the masculinity rating
+to form a femininity–masculinity index (r = -.86, p < .001; range: 2-20). A 2 (participant gender) × 2 (avatar gender) analysis of variance (ANOVA) established that male
+characters were considered to be more masculine (M = 14.24; SD = 3.71) than female
+characters (M = 5.16; SD = 1.95), F(1, 46) = 113.91, p < .001, hp2 = .71. Furthermore,
+one-sample t tests revealed that the attribution of masculinity to male characters was
+significantly greater than the scale midpoint (11.00), t(24) = 4.37, p < .001, whereas
+female characters were perceived as significantly less masculine (or more feminine)
+than the scale midpoint, t(24) = -14.97, p < .001. There was no interaction between
+participants’ and avatars’ gender, indicating that both men and women perceived the
+avatars’ gender as intended, F < 1. The four avatars served to randomly manipulate
+participants’ avatar gender and the partner’s avatar gender. A participant’s avatar was
+never identical to his or her ostensible partner’s avatar in the main experiment.
+
+Procedure
+Participants played a computerized trivia game with someone whom they believed to
+be another study participant. To reduce participants’ suspicion about the purpose of the
+experiment, they were first asked to choose a letter on the computer screen, ranging
+from A to E, to determine the avatar (i.e., cartoon character) that would represent them
+during the interaction. Unbeknownst to the participants, however, the character’s
+gender was randomly predetermined to be either male or female regardless of their
+true gender and the chosen letter. Once the participants’ avatar and their ostensible
+partner’s avatar appeared on the computer screen, participants selected a number,
+ranging from 1 to 10, to determine a set of questions to be asked during the game.
+Regardless of the number chosen, however, the computer presented a fixed set of fastfood trivia. For each multiple-choice question, participants indicated their initial
+answer and confidence level and typed a comment to their partner. After participants
+typed a comment, the participant’s and the partner’s characters showed their initial
+responses, as illustrated in Figure 1. The partner’s responses were preprogrammed and
+held constant across conditions, and their comments contained no apologies, tentative
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+12		
+
+Journal of Language and Social Psychology 29(1)
+
+Figure 1. Sample screen snapshot of avatars with responses: Participant with a male avatar
+and a female partner character
+
+language features, or references to emotion (e.g., “I have no clue,” “D seems too
+obvious”). At this point, participants submitted their final answer and confidence
+level, after which the computer presented the next question without revealing the correct answer or the partner’s final response to the previous question. This procedure
+was repeated for 12 unique questions that were held constant across all conditions.
+Finally, participants were debriefed.
+
+Language Coding
+The comments that participants wrote to their ostensible partner during the trivia game
+served as the source of gender-based language use. All comments formed a transcript
+booklet with only a unique number identifying each participant’s transcript. Two
+research assistants, who were blind to the design and hypotheses, underwent training
+sessions where they learned definitions for, saw several examples of, and practiced
+coding each language feature. Once well-trained and pretested for sufficient reliability, the assistants individually coded all language features one at a time and then settled
+disagreements via postcoding discussions. Across all language features the coders
+agreed at a rate of at least 87% (Krippendorff’s as > .90).
+The operationalizations of the three language variables were modeled after past
+language and gender research (Palomares, 2008; S. A. Reid et al., 2003; Thomson &
+Murachver, 2001). References to emotion were any mention of an emotion (e.g.,
+happy, that should thrill you, mad, excited). Apologies were defined as a statement of
+being sorry (e.g., I’m sorry, forgive me, I was wrong and won’t let it happen again).
+Tentative language was defined as the combination of three unique language features
+that indicate uncertainty and low confidence: hedges (e.g., might, pretty much, sort of,
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+Palomares and Lee
+
+13
+
+maybe, probably), disclaimers (e.g., don’t trust me, but I’m not sure, I may be wrong,
+who knows though) and tag questions (e.g., don’t you think? isn’t it? right?).
+
+Results
+Pretest
+To ensure that the experimental task did not overtly favor one gender, we used fastfood trivia whose gender neutrality was confirmed in previous studies (Lee, 2005).
+Specifically, when asked to indicate how interested they were in the fast-food questions
+(1 = not at all interested, 10 = very much interested), men (M = 2.89; SD = 2.42) and
+women (M = 2.20; SD = 2.00) did not significantly differ, t(110) = 1.66, p = .10 (Lee,
+2005, Study 1). In addition, participants directly rated how gender biased they thought
+the questions were (1 = not at all gender biased, 10 = very much gender biased), and
+the mean (M = 3.81; SD = 1.88) was significantly lower than the scale midpoint (5.5),
+t(75) = -7.80, p < .001 (Lee, 2005, Study 3).
+
+Hypothesis Tests
+A series of 2 (participant gender) × 2 (participant avatar) × 2 (partner avatar) ANOVAs
+was computed for (a) references to emotion, (b) apologies, and (c) tentative language.
+One-tailed a priori contrasts tested any hypothesized differences (as indicated),
+whereas two-tailed tests compared conditions when a difference was not expected or
+when a possible difference was not explicitly hypothesized (Tabachnick & Fidell,
+2007). Figure 2 displays the pertinent results.
+References to emotion. A significant interaction emerged between participants’
+gender and self-representation avatar, F(1, 149) = 5.64, p = .02, hp2 = .03. No other
+effects were statistically significant, all Fs < 1. Participants’ avatar had a greater
+impact for women than men, which is consistent with Hypothesis 1a: Women used
+more references to emotion when the character correctly represented their gender
+(M = .84; SD = .99) than when it did not (M = .44; SD = .82), t(153) = 1.95, one-tailed
+p = .03, hp2 = .02; yet men’s references to emotion did not significantly vary across the
+male (M = .54; SD = .82) and female (M = .87; SD = 1.10) avatars, t(153) = 1.50, p = .14.
+When the interaction was decomposed within the self-representation conditions,
+gender differences were more pronounced in the mismatched than matched avatar
+condition. If participants’ character’s gender mismatched their true gender, then men
+used more emotional references than did women, t(153) = 2.04, p = .04, hp2 = .03;
+when the avatar correctly represented their gender, women tended to reference emotions more frequently than men, but this difference was not statistically significant,
+t(153) = 1.39, p = .17.
+Apologies. We found a significant interaction between participant’s gender and
+avatar for apologies, F(1, 149) = 4.11, p = .04, hp2 = .03. No other effects were statistically significant, all Fs < 1. Hypothesis 1b received tentative support: Women were
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+14		
+
+Journal of Language and Social Psychology 29(1)
+
+1.2
+
+1.20
+
+Participants’ Genered Avatar
+Match
+Mismatch
+1.00 1.00
+
+1
+Language Use
+
+0.87
+
+0.84
+
+0.8
+0.6
+
+0.69
+0.54
+0.44
+
+0.4
+0.2
+
+0.13
+
+0.16
+0.05
+
+0.03
+0
+Men
+
+Women
+
+References to Emotion
+
+Men
+
+Women
+
+Apologies
+
+Men
+
+Women
+
+Tentative Language
+
+Figure 2. Effects of matched versus mismatched gendered avatars on gender-based
+language use for men and women
+
+more apologetic when the avatar matched their gender (M = .16; SD = .37) than when
+it mismatched (M = .05; SD = .22), t(153) = 1.56, one-tailed p = .06, hp2 = .02; whereas
+men’s apologies did not statistically significantly differ across the two conditions
+(match: M = .03, SD = .17; mismatch: M = .13, SD = .41), t(153) = 1.36, p = .18.
+Within the matched self-representation condition, women used more apologies than
+men, although this effect did not reach statistical significance, t(153) = 1.83, p = .07,
+hp2 = .02. The same gender difference with mismatched avatars was not statistically
+significant, t(153) = 1.08, p = .28.
+Tentative language. There were no significant main or interaction effects on tentative language use, all Fs < 1.84. Even though the interaction between gender and
+self-representation failed to reach statistical significance, F(1, 149) = 1.75, p = .18, we
+still tested Hypothesis 1c because omnibus tests are dispensable when specific predictions exist (Rosenthal, Rosnow, & Rubin, 2000; Wilkinson & Task Force on Statistical
+Inference, 1999). Supporting Hypothesis 1c, women were more tentative when a
+female avatar matched their true gender (M = 1.20; SD = 1.25) relative to a mismatched male character (M = .69; SD = 1.08), t(153) = 2.04, one-tailed p = .02, hp2 =
+.03. In contrast, men’s tentative language use was identical when the character either
+correctly (M = 1.00; SD = .97) or incorrectly (M = 1.00; SD = 1.21) represented their
+true gender. Comparing men and women within each self-representation condition,
+however, yielded no significant effects, both ts < 1.20.
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+Palomares and Lee
+
+15
+
+Discussion
+Overall, the results suggest that a gender-matched avatar increases the likelihood of
+gender-typical language use, whereas gender-mismatched avatars promote countertypical language. That is, people not only communicatively perform gender when they
+intentionally decide (Herring & Martinson, 2004) or are explicitly directed (Hills,
+2000) to pose as a different gender, but they appear to adopt the language that conforms to gendered norms that the visual cue of a gendered avatar intimates. A departure
+from past studies, however, is that this linguistic assimilation to a virtual gender identity is more likely among women than men: Past research did not demonstrate different
+gender performances of male and female online users; rather, men and women alike
+were able to change macro aspects of their communication (e.g., topic). Apparently,
+men are capable of performing femininity communicatively when such acts are intentional or explicitly researcher induced, but they are less likely to do so when the trigger
+is a relatively subtle visual cue such as an avatar.
+Self-categorization theory explains how the gender of a digitized self-representation
+affects participants’ gender-based language: Because a gendered avatar implicated the
+language appropriate for the context, people conformed to gender-based language
+expectations. The theory suggests that such gender-based language norms were transmitted via avatars that defined the prototype of gender salience. Specifically, a masculine
+avatar implied male-typical language norms, just as a feminine avatar conveyed
+female-typical language norms. Consequently, participants linguistically assimilated
+to a virtual gender identity. Self-categorization theory also addresses how women are
+especially more likely than men to use gender-typical language when the gender of
+their avatar matches their true gender. That is, because women tend to be particularly
+reactive to visual stimuli (Hall, 2006) and gender salience (Cameron & Lalonde, 2001),
+they were more susceptible to gendered avatars than men were.
+Our data also highlight a recent claim that gender-based language is highly dynamic
+because of gender salience and its prototype. One should not ipso facto expect identical
+or even highly similar patterns among all forms of gender-based language across contexts (Palomares et al., 2004). We demonstrated that either countertypical or typical
+gender-based language emerged depending on the prototype of gender salience induced
+by avatars. In fact, although apologies and references to emotion manifested in the
+same general pattern, tentativeness was only partly similar (see Figure 2). At the same
+time, the relatively small effect sizes (<.04) of the current research seem to support the
+gender similarities hypothesis that asserts men and women are primarily similar and
+any differences between them are small and few (Dindia, 2006; Hyde, 2005). Metaanalyses are compatible with this hypothesis (Hyde, 2005; Leaper & Ayres, 2007). The
+overall differences we found between men and women were less frequent than the
+moderator-produced effects. Taken together, even when some situational factors induce
+gender differences in language style, the magnitude of such differences is relatively
+small, suggesting that men’s and women’s linguistic behavior is more similar than different. Moreover, given the small size of these effects, they are likely not readily
+apparent in everyday interaction, as other research suggests (Mulac, 2006).
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+16		
+
+Journal of Language and Social Psychology 29(1)
+
+The current experiment also extends past work on the impact of gendered avatars
+in CMC. In a sense, the findings that arbitrary gendered avatars shape people’s perceptions of and behavioral responses to anonymous strangers in an otherwise cue-deprived
+environment (e.g., Lee, 2007a, 2007b) are not surprising. That is, although participants were likely to conform to a partner with a male avatar more than a partner with
+a female avatar on male-oriented issues (Lee, 2007a) and identified more with a partner whose avatar shared the same gender as their own avatar (Lee, 2007b), the absence
+of individuating cues that would have enabled them to form more personalized, and
+presumably more accurate, impressions about unknown partners likely fostered this
+seemingly unreasonable reliance on random visual cues. However, our experiment
+advances previous research by demonstrating that gendered self-representations significantly modify individuals’ own language styles, which are supposedly more static
+than perceptions of and conformity to complete strangers.
+The level of automaticity of linguistic assimilation to a virtual gender identity is
+unknown based on the current data; yet we imagine the process is relatively unconscious. Herring and Martinson (2004) speculated and provided some evidence that
+“unconscious use of gendered discourse styles can reveal one’s actual gender even
+when one is [intentionally] performing a different gender (or trying not to give off any
+gender cues)” (p. 427). In a similar study of the conscious performance of a different
+gender, participants typically manipulated gendered topics successfully but less effectively controlled gender-typical syntactic and lexical choices that tended to match
+their true gender (Hills, 2000). Unlike this previous work, however, the focus of current participants was likely on winning the trivia game rather than manipulating their
+language. In addition, avatars were ostensibly assigned randomly. Consequently, participants probably thought the gendered nature of the avatars was arbitrary and
+peripheral to the game, as confirmed in postexperiment debriefings. Our findings that
+people nonetheless altered their gender-based language in line with the relatively
+subtle visual cues to gender identity, thus, seem to comport well with an automatic or
+mindless argument.
+That this process is unconscious is also consistent with other theorizing on genderbased language. Mulac, Bradac, Palomares, and Giles (2009) distinguished between
+gender-linked language stereotypes and schemata: Stereotypes about gendered communication are accessible to conscious thought and focus on macro forms of communication
+(e.g., topic), but schemata are implicit and primarily responsible for gender-based
+language production. Coupling past research on the intentional or conscious performance of gender that demonstrates accurate control over topics but failed control of
+molecular behaviors such as language (Herring & Martinson, 2004; Hills, 2000) and
+the current data that suggest an unconscious effect on language warrants a distinction
+between gender-linked language schemata and stereotypes. Future research should
+assess more directly the constituents and outcomes of gender-linked language stereotypes versus schemata. Whereas this objective might be relatively straightforward for
+stereotypes because their mental representations are explicit, doing so for schemata
+might take some ingenuity. One possibility is to use a method similar to the assessment of implicit prejudice (cf. Dotsch & Wigboldus, 2008).
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+Palomares and Lee
+
+17
+
+Notwithstanding the previous theoretical supposition and implications, because we
+did not directly measure nor manipulate gender salience (or any other cognitive processes), our account of linguistic assimilation still awaits a more absolute empirical
+validation. Clearly then, the absence of a gender salience measure is a limitation. Yet
+to an extent, two points assuage this disadvantage. First, much other research demonstrates that gender-based language is a function of gender salience (Palomares, 2004,
+2008; S. A. Reid et al., 2003). Gender salience has even operated as a mediator of the
+effects of a contextual stimulus on gender-based language (Palomares, 2009). In other
+words, there is a clear cascading causal link from stimuli to gender salience to genderbased language. Second, the feasibility of actually measuring gender salience is
+questionable: Assessing gender salience might not have been practical or effective
+because, as stated previously, we anticipate an unconscious process of the linguistic
+assimilation to gendered avatars. In other words, unknown is the ability of an explicit measure of gender salience to accurately gauge an unconscious process. Still, considering
+that we cannot assume gender salience would have played the same causal role in the
+current experiment as found in past research, some measure of gender salience might
+have been useful herein.
+Thus, employing an implicit measure of gender salience might allow a test of its
+mediational effects thereby providing a more direct test of self-categorization theory’s account. To do so, the linear order of effects should be well established by
+measuring gender salience immediately before language production; although introducing such a measure between the avatar assignment and language production
+might prove pragmatically awkward if not difficult (at least in designs similar to the
+current one). Another option is to implement gendered (i.e., masculine, feminine)
+topics to heighten gender salience, which would yield subsequent language effects.
+If gender salience was directly or indirectly manipulated somehow, then perhaps the
+gender of the partner’s avatar would have also moderated language use. Thus,
+researchers should seek to vary gender salience in ways other than using gendered
+self-avatars because avatars seem to only subtly influence gender salience. Perhaps
+when gender salience is unambiguously heightened, then partner–avatar or other
+effects will emerge.
+Another possible limitation is that the effects for women might have been more
+robust than for men, not because of our proposed rationale, but because the three language features examined are considered stereotypically feminine. In other words, if
+features associated with men were also employed, then perhaps men would have displayed more language variation depending on their gendered avatar. This issue,
+however, is not likely a problem because other research has demonstrated that men’s
+language can fluctuate in ways similar to women’s language variation. For example,
+men and women alike used more references to emotion under certain conditions
+(Thomson, Murachver, & Green, 2001). Likewise, men were more tentative than
+women for feminine topics, just as women were more tentative than men for masculine topics (Palomares, 2009). Admittedly though, the cues (i.e., gendered topic)
+responsible for the language changes in Palomares were more explicit than in the current research (i.e., avatars). Indeed, our rationale explicitly drew on the idea that
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+18		
+
+Journal of Language and Social Psychology 29(1)
+
+because avatars are subtle visual cues, to which women are likely more reactive or
+sensitive than are men, linguistic assimilation would be greater for women than men.
+Even so, future research might employ stereotypically masculine language features
+(e.g., directives, references to quantity) along with feminine features when examining
+men’s and women’s assimilation to gendered avatars to fully mitigate this concern.
+
+Conclusion
+The current article provided evidence that gender-based language use in CMC is
+susceptible to the influence of arbitrarily assigned gendered avatars that represent
+oneself, especially for women. In fact, prior to our work herein, extant research on
+gender-based language production from a self-categorization theoretical perspective
+had not included the influence of technological factors, such as avatars. That features
+of CMC can change gender-based language is meaningful considering that gendered
+forms of language are consequential for communicators: Tentative language encourages judgments of incompetence and low status compared with direct styles (Carli,
+1990; S. A. Reid et al., 2003), and references to emotion foster ratings of intelligence
+and pleasantness (Mulac, 2006). Such language-effect outcomes are especially noteworthy in CMC when other social cues are negligible and language plays a central role
+in impression formation (cf. Walther, 1993, 1996). Additional research on the linguistic assimilation to a virtual gender identity, therefore, would be advantageous to
+increase the understanding of when, how, and why men and women communicate
+similarly and differently.
+Authors’ Note
+An earlier version of this article was presented at the annual conference of the International
+Communication Association in Chicago, 2009.
+
+Acknowledgment
+The authors thank Howie Giles and two anonymous reviewers for helping improve the effectiveness of this article.
+
+Declaration of Conflicting Interests
+The authors declared no potential conflicts of interests with respect to the authorship and/or publication of this article.
+
+Funding
+This study was financially supported in part by the Institute of Communication Research,
+Seoul National University.
+
+Note
+1. The social identity model of deindividuation effects (SIDE model) is a specific version
+of self-categorization theory focusing on CMC contexts (Postmes, Spears, & Lea, 1998,
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+Palomares and Lee
+
+19
+
+2002), which is akin to other instantiations of the theory with a specific focus, such as the
+self-categorization theory of social influence (Abrams & Hogg, 1990). Even though we
+could have explicitly drawn on the SIDE model to the same avail, we chose to highlight
+self-categorization theory because (a) doing so is consistent with past language and gender research in CMC (cf. Palomares, 2004, 2008) and non-CMC contexts (S. A. Reid
+et al., 2003) and (b) the SIDE model is deeply rooted in self-categorization theory and thus
+would draw on the same explanatory mechanism to make identical predictions in the current
+investigation (cf. Lea, Spears, & De Groot, 2001; Postmes & Spears, 2002).
+
+References
+Abrams, D., & Hogg, M. A. (1990). Social identification, self-categorization, and social influence. European Review of Social Psychology, 1, 195-228.
+Bechar-Israeli, H. (1995). From <Bonehead> to <cLoNehEAd>: Nicknames, play and identity on Internet Relay Chat. Journal of Computer-Mediated Communication, 1(2), Article 2.
+Retrieved April 25, 2008, from http://jcmc.indiana.edu/vol1/issue2/bechar.html
+Bente, G., Rüggenberg, S., Krämer, N. C., & Eschenburg, F. (2008). Avatar-mediated networking: Increasing social presence and interpersonal trust in net-based collaborations. Human
+Communication Research, 34, 287-318.
+Berman, J., & Bruckman, A. S. (2001). The Turing Game: Exploring identity in an online environment. Convergence, 7, 83-102.
+Blascovich, J., Loomis, J., Beall, A. C., Swinth, K. R., Hoyt, C. L., & Bailenson, J. N. (2002).
+Immersive virtual environment technology as a methodological tool for social psychology.
+Psychological Inquiry, 13, 103-124.
+Brouwer, D., Gerritsen, M. M., & De Haan, D. (1979). Speech differences between women and
+men: On the wrong track. Language in Society, 8, 33-50.
+Bruckman, A. S. (1993, August). Gender swapping on the Internet. Paper presented the meeting of the Internet Society, San Francisco, CA. Retrieved April 23, 2008, from http://www
+.cc.gatech.edu/~asb/papers/gender-swapping.txt
+Cameron, J. E., & Lalonde, R. N. (2001). Social identification and gender-related ideology in
+women and men. British Journal of Social Psychology, 40, 59-77.
+Carli, L. L. (1990). Gender, language, and influence. Journal of Personality and Social Psychology,
+59, 941-951.
+Colley, A., & Todd, Z. (2002). Gender-linked differences in the style and content of e-mails to
+friends. Journal of Language and Social Psychology, 21, 380-392.
+Danet, B. (1996, February). Text as mask: Gender and identity on the Internet. Paper presented
+at the conference on Masquerade and Gendered Identity, Venice, Italy. Retrieved April 25,
+2008, from http://atar.mscc.huji.ac.il/~msdanet/mask.html
+Dindia, K. (2006). Men are from North Dakota, women are from South Dakota. In K. Dindia &
+D. J. Canary (Eds.), Sex differences and similarities in communication (2nd ed., pp. 3-20).
+Mahwah, NJ: Lawrence Erlbaum.
+Donath, J. S. (1999). Identity and deception in the virtual community. In P. Kollock & M. Smith
+(Eds.), Communities in cyberspace (pp. 29-59). London: Routledge.
+Dotsch, R., & Wigboldus, D. H. J. (2008). Virtual prejudice. Journal of Experimental Social
+Psychology, 44, 1194-1198.
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+20		
+
+Journal of Language and Social Psychology 29(1)
+
+Flanagin, A. J., Tiyaamornwong, V., O’Connor, J., & Seibold, D. R. (2002). Computer-mediated
+group work: The interaction of member sex and anonymity. Communication Research, 29,
+66-93.
+Fox, A. B., Bukatko, D., Hallahan, M., & Crawford, M. (2007). The medium makes a difference:
+Gender similarities and differences in instant messaging. Journal of Language and Social
+Psychology, 26, 389-397.
+Hall, J. A. (2006). How big are nonverbal sex differences? The case of smiling and nonverbal
+sensitivity. In K. Dindia & D. J. Canary (Eds.), Sex differences and similarities in communication (2nd ed., pp. 59-81). Mahwah, NJ: Lawrence Erlbaum.
+Herring, S. C. (1993). Gender and democracy in computer-mediated communication. Electronic
+Journal of Communication, 3(2), Article 6. Retrieved June 11, 2008, from http://www.cios
+.org/www/ejc/v3n293.htm
+Herring, S. C., & Martinson, A. (2004). Assessing gender authenticity in computer-mediated
+language use: Evidence from an identity game. Journal of Language and Social Psychology,
+23, 424-446.
+Herrmann, A. F. (2007). “People get emotional about their money”: Performing masculinity in a
+financial discussion board. Journal of Computer-Mediated Communication, 12(2), Article 8.
+Retrieved April 18, 2008, from http://jcmc.indiana.edu/vol12/issue2/herrmann.html
+Hills, M. (2000). You are what you type: Language and gender deception on the Internet. Unpublished bachelor’s honors thesis, University of Otago, Dunedin, New Zealand. Retrieved April
+17, 2008, from http://www.netsafe.org.nz/Doc_Library/Internet_language_dissertation.pdf
+Hogg, M. A., & Turner, J. C. (1987). Intergroup behavior, self-stereotyping and the salience of
+social categories. British Journal of Social Psychology, 26, 325-340.
+Huffacker, D. A., & Calvert, S. L. (2005). Gender, identity, and language use in teenage blogs.
+Journal of Computer-Mediated Communication, 10(2), Article 1. Retrieved October 9, 2008,
+from http://jcmc.indiana.edu/vol10/issue2/huffaker.html
+Hyde, J. S. (2005). The gender similarities hypothesis. American Psychologist, 60, 581-592.
+Jaffee, J. M., Lee, Y.-E., Huang, L.-N., & Oshagan, H. (1995, May). Gender, pseudonyms, and
+CMC: Masking identities and baring souls. Paper presented at the annual conference of the
+International Communication Association, Albuquerque, New Mexico. Retrieved October 9,
+2008 from http://research.haifa.ac.il/~jmjaffe/genderpseudocmc/
+Jazwinski, C. H. (2001). Gender identities on the World Wide Web. In C. R. Wolfe (Ed.),
+Learning and teaching on the World Wide Web: A volume in the educational psychology
+series (pp. 171-189). San Diego, CA: Academic Press.
+Kendall, L. (2000). “Oh no! I’m a nerd!” Hegemonic masculinity on an online forum. Gender &
+Society, 14, 256-274.
+Koch, S. C., Mueller, B., Kruse, L., & Zumbach, J. (2005). Constructing gender in chat groups.
+Sex Roles, 53, 29-41.
+Lakoff, R. (1975). Language and women’s place. New York: Harper & Row.
+Langlois, J. H., Kalakanis, L., Rubenstein, A. J., Larson, A., Hallam, M., & Smoot, M. (2000).
+Maxims or myths of beauty? A meta-analytic and theoretical review. Psychological Bulletin,
+126, 390-423.
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+Palomares and Lee
+
+21
+
+Lea, M., Spears, R., & De Groot, D. (2001). Knowing me, knowing you: Anonymity effects on
+social identity processes within groups. Personality and Social Psychology Bulletin, 27, 526-537.
+Leaper, C., & Ayres, M. M. (2007). A meta-analytic review of gender variations in adults’ language use: Talkativeness, affiliative speech, and assertive speech. Personality and Social
+Psychology Review, 11, 328-363.
+Lee, E.-J. (2005). Effects of the influence agent’s sex and self-confidence on informational
+influence in computer-mediated communication: Quantitative vs. verbal presentation. Communication Research, 32, 29-58.
+Lee, E.-J. (2007a). Categorical person perception in computer-mediated communication:
+Effects of character representation and knowledge bias on sex inferences and informational
+social influence. Media Psychology, 9, 309-329.
+Lee, E.-J. (2007b). Character-based team identification and referent informational social influence in computer-mediated communication. Media Psychology, 9, 135-155.
+McRae, S. (1995). Coming apart at the seams: Sex, text and the virtual body. Retrieved April
+23, 2008 from http://www.fragment.nl/mirror/McRae/vseams.htm
+Menon, G. M. (1998). Gender encounters in a virtual community: Identity formation and acceptance. Computers in Human Services, 15, 55-69.
+Mulac, A. (2006). The gender-linked language effect: Do language differences really make a
+difference? In K. Dindia & D. J. Canary (Eds.), Sex differences and similarities in communication (2nd ed., pp. 219-239). Mahwah, NJ: Lawrence Erlbaum.
+Mulac, A., Bradac, J. J., & Gibbons, P. (2001). Empirical support for the gender-as-culture
+hypothesis: An intercultural analysis of male/female language differences. Human Communication Research, 27, 121-152.
+Mulac, A., Bradac, J. J., Palomares, N. A., & Giles, H. (2009). Exploring subjectivity in the genderlinked language effect: A process model. In F. Gregersen, J. N. Jørgensen, M. Maegaard,
+& P. Quist (Eds.), Language attitudes, standardization and language change (pp. 61-75).
+Copenhagen, Denmark: Novus.
+Mulac, A., & Lundell, T. L. (1980). Differences in perceptions created by syntactic-semantic
+productions of male and female speakers. Communication Monographs, 47, 111-118.
+Mulac, A., Seibold, D. R., & Farris, J. L. (2000). Female and male managers’ and professionals’
+criticism giving: Differences in language use and effects. Journal of Language and Social
+Psychology, 19, 389-415.
+Murachver, T., & Janssen, A. (2007). Gender and communication in context. In A. Weatherall,
+B. M. Watson, & C. Gallois (Eds.), Language, discourse and social psychology (pp. 185-205).
+London: Palgrave Macmillan.
+Nowak, K. L. (2003). Sex categorization in computer-mediated communication (CMC): Exploring the utopian promise. Media Psychology, 5, 83-103.
+Nowak, K. L., & Rauh, C. (2005). The influence of the avatar on online perceptions of anthropomorphism, androgyny, credibility, homophily, and attraction. Journal of Computer-Mediated
+Communication, 11(1), Article 8. Retrieved April 30, 2008, from http://jcmc.indiana.edu/
+vol11/issue1/nowak.html
+O’Neill, R., & Colley, A. (2006). Gender and status effects in student e-mails to staff. Journal
+of Computer Assisted Learning, 22, 360-367.
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+22		
+
+Journal of Language and Social Psychology 29(1)
+
+Palomares, N. A. (2004). Gender schematicity, gender identity salience, and gender-linked language use. Human Communication Research, 30, 556-588.
+Palomares, N. A. (2008). Explaining gender-based language use: Effects of gender identity
+salience on references to emotion and tentative language in intra- and intergroup contexts.
+Human Communication Research, 34, 263-286.
+Palomares, N. A. (2009). Women are sort of more tentative than men, aren’t they? How men and
+women use tentative language differently, similarly, and counter-stereotypically as a function of gender salience. Communication Research, 36, 538-560.
+Palomares, N. A., Reid, S. A., & Bradac, J. J. (2004). A self-categorization perspective on
+gender and communication: Reconciling the gender-as-culture and dominance explanations.
+In S. H. Ng, C. N. Candlin & C. Y. Chiu (Eds.), Language matters: Communication, identity,
+and culture (pp. 85-109). Kowloon, Hong Kong: City University of Hong Kong Press.
+Postmes, T., & Spears, R. (2002). Behavior online: Does anonymous computer communication
+reduce gender inequality? Personality and Social Psychology Bulletin, 28, 1073-1083.
+Postmes, T., Spears, R., & Lea, M. (1998). Breaching or building social boundaries? SIDEeffects of computer-mediated communication. Communication Research, 25, 689-715.
+Postmes, T., Spears, R., & Lea, M. (2002). Intergroup differentiation in computer-mediated communication: Effects of depersonalization. Group Dynamics: Theory, Research, and Practice,
+6, 3-16.
+Reid, E. M. (1991). Electropolis: Communication and community on Internet relay chat.
+Unpublished manuscript, University of Melbourne. Retrieved April 25, 2008 from http://
+www.irchelp.org/irchelp/misc/electropolis.html
+Reid, E. M. (1995). Virtual worlds: Culture and Imagination. In S. Jones (Ed.), Cybersociety:
+Computer-mediated communication and community (pp. 164-183). Thousand Oaks, CA: Sage.
+Reid, S. A., Keerie, N., & Palomares, N. A. (2003). Language, gender salience, and social influence. Journal of Language and Social Psychology, 22, 210-233.
+Rellstab, D. H. (2007). Staging gender online: Gender plays in Swiss Internet Relay Chats.
+Discourse & Society, 18, 765-787.
+Rheingold, H. (1993). Virtual community: Homesteading on the electronic frontier. Reading,
+MA: Addison-Wesley.
+Roberts, L. D., & Parks, M. R. (1999). The social geography of gender-switching in virtual
+environments on the Internet. Information, Communication & Society, 2, 521-540.
+Rodino, M. (1997) Breaking out of binaries: Reconceptualizing gender and its relationship to
+language in computer-mediated communication, Journal of Computer-Mediated Communication, 3(3), Article 3. Retrieved June 12, 2008, from http://jcmc.indiana.edu/vol3/issue3/
+rodino.html
+Rosenthal, R., Rosnow, R. L., & Rubin, D. B. (2000). Contrasts and effect sizes in behavioral
+research: A correlational approach. New York: Cambridge University Press.
+Savicki, V., Kelley, M., & Ammon, B. (2002). Effects of training on computer-mediated communication in single or mixed gender small task groups. Computers in Human Behavior, 18,
+257-269.
+Savicki, V., Lingenfelter, D., & Kelley, M. (1996). Gender language style and group composition in Internet discussion groups. Journal of Computer-Mediated Communication, 2(3),
+Article 5. Retrieved June 12, 2008 from http://jcmc.indiana.edu/vol2/issue3/savicki.html
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+Palomares and Lee
+
+23
+
+Tabachnick, B. G., & Fidell, L. S. (2007). Using multivariate statistics (5th ed.). Boston: Allyn
+& Bacon.
+Tannen, D. (1990). You just don’t understand: Women and men in conversation. New York:
+William Morrow.
+Thomson, R. (2006). The effect of topic of discussion on gendered language in computer-mediated
+communication discussion. Journal of Language and Social Psychology, 25, 167-178.
+Thomson, R., & Murachver, T. (2001). Predicting gender from electronic discourse. British
+Journal of Social Psychology, 40, 193-208.
+Thomson, R., Murachver, T., & Green, J. (2001). Where is the gender in gendered language?
+Psychological Science, 12, 171-175.
+Turkle, S. (1995). Life on the screen: Identity in the age of the Internet. New York: Simon &
+Schuster.
+Turner, J. C., Hogg, M. A., Oakes, P. J., Reicher, S. D., & Wetherell, M. S. (Eds.). (1987).
+Rediscovering the social group: A self-categorization theory. New York: Basil Blackwell.
+Van Gelder, L. (1996). The strange case of the electronic lover. In R. Kling (Ed.), Computerization and controversy (2nd ed., pp. 533-546). San Diego, CA: Academic Press.
+Walther, J. B. (1993). Impression development in computer-mediated interaction. Western Journal of Communication, 57, 381-398.
+Walther, J. B. (1996). Computer-mediated communication: Impersonal, interpersonal, and
+hyperpersonal interaction. Communication Research, 23, 3-43.
+Wilkinson, L., & Task Force on Statistical Inference. (1999). Statistical methods in psychology
+journals: Guidelines and explanations. American Psychologist, 54, 594-604.
+Yee, N., & Bailenson, J. (2007). The Proteus effect: The effect of transformed self-representation
+on behavior. Human Communication Research, 33, 271-290.
+Young, T. J., & French, L. A. (1996). Height and perceived competence of U.S. Presidents.
+Perceptual and Motor Skills, 82, 1002.
+
+Bios
+Nicholas A. Palomares (PhD, University of California, Santa Barbara, 2005) is an assistant
+professor in the Department of Communication at the University of California, Davis. His
+research examines the cognitive structures and processes involved in goal detection and genderbased language use. His work has been published in various journals, such as Human
+Communication Research, Communication Research, Communication Monographs, and the
+Journal of Language and Social Psychology.
+Eun-Ju Lee (PhD, Stanford University, 2000) is an associate professor in the Department of
+Communication at Seoul National University, Seoul, Korea. Her research foci include social
+cognition and social influence in computer-based communication. Her work has appeared in
+many journals, such as Human Communication Research, Communication Research, the Journal
+of Communication, and Media Psychology.
+
+Downloaded from jls.sagepub.com at NANYANG TECH UNIV LIBRARY on June 1, 2015
+
+
