@@ -9,11 +9,11 @@ etiquetas: lectura distante, metodologías HD, herramientas
 
 Publique los textos de su corpus, el enlace de análisis de su corpus con Voyant Tools y la reflexión de la semana en el repositorio de GitHub como se indica abajo. Para entrar al repositorio debe crear una cuenta en https://github.com y enviarme un correo con el nombre de usuario.
 
-Una vez reciba la invitación, entre al repositorio de GitHub repositoriostextosHDIG. Entre a la carpeta "fuentes-202020", haga clic en "create new file". Cree una carpeta con un nombre que refleje su tema de indagación y un archivo para responder las preguntas de reflexión de la semana. El archivo se debe llamar: reflexion-nombre-apellido.md
+Una vez reciba la invitación, entre al repositorio de GitHub repositoriostextosHDIG. Entre a la carpeta "fuentes-2022-1", haga clic en "create new file". Cree una carpeta con un nombre que refleje su tema de indagación y un archivo para responder las preguntas de reflexión de la semana. El archivo se debe llamar: reflexion-nombre-apellido.md
 
 A continuación hay un ejemplo de cómo crear la carpeta (en este ejemplo el nombre de indagación es cartografía-digital) y el archivo descriptivo .md: 
 
-/Fuentes-201910/cartografía-digital/reflexion-mariajose-afanador.md Antes de terminar asegúrese que en el campo "Branch" esté seleccionada la opcicón "Master". Vaya a la parte inferior y haga clic en "Commit new file" 
+/Fuentes-202210/cartografía-digital/reflexion-mariajose-afanador.md Antes de terminar asegúrese que en el campo "Branch" esté seleccionada la opcicón "Master". Vaya a la parte inferior y haga clic en "Commit new file" 
 
 Una vez creada la carpeta y el archivo donde se va a subir la reflexión haga clic en el recién creado archivo: reflexion-nombre-apellido.md  Para editarlo haga clic en el botón de edición
 
@@ -24,6 +24,9 @@ Examine su nube de palabras y revise la sección "Summary" donde podrá ver la l
 ¿Cuáles son las palabras más comunes en sus artículos? 
 ¿Hay palabras que excluiría o incluiría en futuras consultas sobre su tema?
 Al revisar la lista de "distinctive words", ¿podría organizar bajo una etiqueta común o tema general algunas de esas palabras? En general, ¿ve alguna forma de acotar sus búsquedas y/o tema de investigación después de hacer el ejercicio?
+Navegue en la sección Contexto y revise qué puede ver ahí. 
+
+Sobre las funcionalidades de Voyant Tools puede revisar este tutorial de Programming Historian: https://programminghistorian.org/es/lecciones/analisis-voyant-tools
 
 Al final de la reflexión liste el enlace de Voyant Tools y los textos utilizados para este ejercicio empezando por 01, 02, etc,. Puede utilizar cualquier formato de citación, pero sea consistente. Ver ejemplo:
 
