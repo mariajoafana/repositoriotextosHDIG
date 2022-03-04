@@ -1,0 +1,628 @@
+09 D’Jesús 2021 "Estratos y categorías estéticas del arte digital" H-ART. Revista de historia, teoría y crítica de arte. https://doi.org/10.25025/hart09.2021.08
+
+
+Estratos y categorías estéticas del arte digital
+
+Alvaro Molina D’Jesús
+Profesor Agregado de la Universidad Nacional
+Experimental de Guayana (Venezuela). Doctorando
+en filosofía por la Escuela Internacional de Doctorado
+de la Universidad Nacional de Educación a Distancia
+(España).
+amolina426@alumno.uned.es.
+
+En este artículo se aborda una caracterización de la obra
+de arte digital realizada a partir de los preceptos ontológicos
+y estéticos de Nicolai Hartmann sobre los estratos,
+categorías y valores en el arte. Esta perspectiva se asume
+como una vía para mediar en el debate académico
+sobre la estética del mundo virtual. El método propuesto
+es una ontología hermenéutica. A partir de este marco
+filosófico se realiza una caracterización de los estratos
+estéticos del arte digital (material, logicial, oréctico y virtual)
+con sus correspondientes dominios categoriales. El
+resultado final se presenta como un aspecto parcial de
+una teoría estética de mayor alcance sobre el arte de la
+virtualidad digital.
+Palabras clave:
+Estética, arte digital, estratos estéticos, categorías estéticas, Nicolai
+Hartmann.
+
+La ontología crítica de Nicolai Hartmann en relación
+con el debate sobre la estética digital como marco de referencia
+El trabajo aquí presentado se desarrolla a partir de las investigaciones y propuestas
+realizadas por Nicolai Hartmann en el campo de lo ontológico, lo epistemológico-
+categorial y lo axiológico. Como es sabido, el pensamiento de este filósofo
+alemán alcanzará una de sus cumbres en su reflexión estética. En esta se da una
+confluencia nunca exenta de conflicto entre los estratos que constituyen lo que
+hay, las categorías mediante las que aspiramos a conocer lo que hay y los valores
+desde los cuales organizamos nuestras propias prioridades y nuestras inevitables
+omisiones.
+En este contexto, el objeto del presente artículo es despejar el camino
+hacia una ontología hermenéutica que explique la estratificación de la obra de
+arte digital y sus correspondientes maniobras tanto categoriales como axiológicas,
+aproximándonos así a una caracterización de los modos de relación dotados
+de mayor agencialidad en este ámbito artístico concreto.
+Se trata de responder desde la perspectiva señalada la pregunta específica
+sobre lo estético en los objetos del mundo virtual y en especial en la obra de arte
+digital. Esta inquietud busca insertarse en el debate actual sobre la naturaleza de
+las obras construidas a partir de esa materia inasible que es lo digital y la pregunta
+por lo estético de este tipo de productos.
+El objetivo que se persigue es introducir, como aporte a la reflexión sobre
+la estética digital, una fundamentación ontológica desde la perspectiva de la filosofía
+de Hartmann y de la estética modal.
+Consideraciones sobre el debate actual de la estética digital
+Una reflexión sobre la estética digital del arte virtual debe comenzar por pensar
+qué tienen de diferente, y en qué se asemejan, las prácticas artísticas del mundo
+virtual de aquellas del mundo real. En este punto comienza la supuesta dicotomía
+entre dominios de categorías que, en principio, parecieran antagónicas: real/
+virtual, material/inmaterial. Sin embargo, hablamos aquí de una “supuesta dicotomía”
+debido a que proponer estas categorías como antagónicas es una aproximación
+que puede conducir al error categorial. Esto se debe a que la “naturaleza”
+digital de la obra de arte virtual afecta la definición de las categorías de análisis
+con las que solemos pensar el problema estético.4
+Accedemos a la esfera del mundo real a través de la mediación de nuestra
+consciencia; esto ocurre a través de un proceso gradado que se inicia con la
+percepción que nos arrojan los fenómenos que percibimos con nuestros sentidos y continúa con la reconstrucción que realizamos en nuestro cerebro
+de estos datos que son organizados y configurados para que atendamos algunos
+y obviemos otros. Esta actualización de la experiencia de la realidad que
+realizamos en nuestra consciencia es una forma de virtualidad, entendida esta,
+siguiendo a Simón Marchán, a partir de su origen etimológico en el adjetivo
+latino virtus, como algo que tiene “potencia o fuerza para producir un efecto”.
+Podemos decir entonces que toda actualización que hacemos del entorno real es
+una conformación que ocurre en nuestra consciencia y que, de cierto modo, es
+siempre virtual.
+Por otra parte, el mundo virtual, construido a partir del uso de tecnologías
+digitales, si bien es una experiencia novedosa para la consciencia humana,
+también es una experiencia real. Todo el andamiaje ontológico sobre el que se
+encuentra construida la virtualidad digital es corpóreo, material, real. Como
+señala Caleb Olvera Romero, nuestra mediación con el mundo real se realiza
+desde una experiencia lingüística y por lo tanto simbólica: se trata de un esfuerzo
+hermenéutico por comprender y comprendernos en esta virtualidad permanente
+que es la realidad y que hoy día incluye de manera necesaria a la virtualidad digital
+de los nuevos medios. Se trata entonces de una virtualidad contenida dentro
+de otra. En el campo de la creación artística el fenómeno de las prácticas
+del new media art del mundo virtual ha tenido un crecimiento exponencial. Lev
+Manovich relata que a mediados de la década de 1990 era posible reunir a todos
+los artistas digitales en una conferencia realizada una vez al año; hoy en día estamos
+hablando de cientos de miles de personas que se definen formalmente como
+artistas digitales con presencia en ciento treinta y tres países del mundo y con
+una actividad febril en todas las redes sociales que conforman el panorama de la
+producción estética del mundo virtual.
+Desde esta perspectiva es posible afirmar que toda conformación artística
+del mundo real entraña virtualidad (contenido simbólico y experiencia hermenéutica)
+y que toda conformación de arte digital, del mundo virtual, es corpórea,
+en tanto se encuentra anclada en la materialidad del mundo real. Esta afirmación
+se confirma cuando pensamos en algunas de las primeras tendencias del net art
+que aspiraban a liberarse de toda corporeidad, como es el caso del code art con
+sus obras hechas a partir de código digital. Estas tendencias experimentales desaparecieron
+debido a la poca potencia que lograban desplegar, tal como lo señala
+José Luis Brea.
+Si pensamos en cómo el desarrollo del mundo virtual —con tecnologías
+como la realidad aumentada, la inteligencia artificial o la internet de las cosas—
+se hace cada vez más ubicuo en la experiencia del mundo es posible prever un
+futuro no muy lejano en el que se consumará la identidad lógica entre la realidad
+y la virtualidad digital. A esta situación se suma el hecho de que al mismo tiempo las prácticas y representaciones del arte digital se hacen más hegemónicas
+en cuanto al paisaje del arte contemporáneo.
+Nos encontramos ante un panorama en el que ambos cursos de acción
+confluirán en un punto en el que toda forma de arte implicará de algún modo
+al medio digital y, en consecuencia, toda conformación artística será relativa a la
+estética digital. Por supuesto, sin abandonar la corporeidad material que es inmanente
+al modo de ser de la obra de arte digital, ya que toda conformación estética
+digital se fundamenta, desde el punto de vista ontológico, al igual que del estético,
+en un estrato base que es material.
+Más aún, nuestros comportamientos, gustos y decisiones estéticas son
+influidos y determinados por la experiencia de la vida en el mundo virtual digital.
+Esto se hace evidente cuando pensamos en los grandes flujos de información y
+distribución de productos culturales con función estética (como son las producciones
+cinematográficas, la música pop, los videojuegos, las narrativas transmedia,
+las imágenes digitales y muchos otros productos digitales) que vienen determinados
+por los algoritmos de la inteligencia artificial que inducen a la elección de
+unos productos por sobre otros, perfilando de este modo las tendencias y conductas
+vinculadas al gusto estético de las personas, tanto en la realidad virtual
+como en la “real”.
+Al igual que Manovich, Vilém Flusser intuyó esta situación y adelantó
+la hipótesis de que, en un futuro cercano, el modo en que nos comunicamos
+cambiará, superando la sociedad logocentrista para dar paso a una nueva era
+de comunicación simbólica centrada en la imagen. Sería esta una nueva era de
+la humanidad definida como una sociedad posthistórica en la que las grandes
+narrativas textuales del período anterior serían inaccesibles. Flusser estima que
+emergerá así un nuevo estadio de la cultura que define como la “era de la imagen
+tecnológica”, y que estas nuevas imágenes, aunque reminiscencia de aquellas del
+pasado prehistórico, representan un nuevo medio homogéneo. Según esto, están
+produciéndose fabulosas nuevas formas de vida en torno a la imagen técnica que
+nos conducen a las verdaderas raíces de nuestro modo de ser en el mundo.
+En este contexto, el esfuerzo por definir y comprender lo que entendemos
+por la experiencia estética en el medio digital es de la mayor importancia. Se trata
+de reflexionar sobre el modo de ser de la obra de arte en la virtualidad digital
+del mundo actual. En principio, debemos ahondar en investigaciones sobre lo
+específico de la estética digital que abarquen la esfera de la producción de la obra,
+su conformación ontológica, la percepción y la experiencia de la obra desde lo
+estético, lo epistemológico y lo axiológico de su recepción y valoración.
+Por estas razones, consideramos que es necesario realizar un análisis
+metódico de la estética del mundo digital, y para lograrlo se debe tener un claro
+referente ontológico de dominios categoriales que permitan pensar al objeto digital, sobre todo si tenemos en cuenta que, en cuanto objeto digital, toda obra
+de los new media arts comparte la misma naturaleza ontológica que todos los
+objetos digitales.
+Algunos autores han abordado la estética de los objetos digitales, en
+especial de las obras de arte, a partir de la novedad que representaron las tecnologías
+digitales en el momento de su incorporación como medio de creación y
+como soporte para el arte. Al inicio se buscó teorizar sobre las posibles maneras
+de clasificar en géneros y subgéneros el arte hecho con computadoras resaltando
+algunas de las características específicas de las tendencias concretas de la producción
+artística de las últimas tres décadas. Esto se puede apreciar en las categorizaciones
+y taxonomías que han surgido a partir de las obras de arte elaboradas con
+computador agrupadas bajo ciertas denominaciones de género, como son media
+art, net art, new media art, web art, cyberart, entre otros, tal como señala Elena
+López. Tales taxonomías se definen a partir de algunos criterios relacionados
+con la producción de la obra: el tipo de tecnologías utilizadas como materia y
+soporte, o la actitud de los artistas debida a su militancia ideológica en cierto
+activismo que define las poéticas que guían su trabajo en redes o colectivos. En
+esta tendencia se inscriben teóricos como Gerfried Stocker y Olia Lialina, o
+artistas como Vuk Cósik.
+Otros autores se han aproximado a las clasificaciones de los géneros del
+arte digital o electrónico basados en la recepción y participación de los espectadores
+en los mecanismos de interacción con la obra determinados por su interfaz,
+como ha sido la postura de Claudia Giannetti e Ignacio Vásquez. Giannetti
+señala que es necesario incorporar en la reflexión estética sobre el arte digital lo
+relativo al proceso de producción de la obra. Sin embargo, añade que la indagación
+estética en este campo se encuentra incompleta si no se toman en cuenta las
+complejas relaciones y operaciones que se realizan en el despliegue de la obra, ya
+que este tipo de prácticas estéticas incluyen generalmente como parte de su propuesta
+la participación de la audiencia en la generación, manipulación y actualización
+de la obra. Por ello, la interacción con la obra se convierte en parte del
+producto artístico. Gianetti argumenta entonces que la interactividad debe fungir
+como categoría central en el análisis estético del género de los media art, en
+una aproximación teórica que caracteriza bajo el paradigma de la endoestética.
+Acercamientos a la estética del arte digital como el propuesto por
+Giannetti son valiosos debido a que aportaron a la teoría de los new media arts
+la necesidad de considerar el problema desde dos vertientes: i) la producción de
+la obra, tomando en cuenta la materia o sustrato que la conforman y ii) reconociendo
+el problema de la percepción-recepción de la obra, en especial la participación
+en esta a través de sus interfaces por parte de los espectadores. 
+Para Vásquez la interactividad alcanza un grado de importancia tal que lo
+lleva a plantear esta categoría como el sustrato a partir del cual se organiza la generación
+de estas formas de arte. Según esto, la interactividad sería el nuevo paradigma
+de la experiencia estética. Sin embargo, Giannetti señala que el género
+media art está subordinado a la tradición del arte contemporáneo, y define los
+media arts como una tendencia más del panorama del arte en la actualidad, centrada
+en crear obras con el uso de tecnologías digitales y electrónicas. Esto permite
+una caracterización más amplia de este tipo de propuestas elaboradas con
+el uso de tecnologías digitales, bien sean de tipo audiovisual, computarizado o
+telemático, al no separarlas como algo distinto del panorama de las poéticas de la
+producción artística actual.
+El argumento de Giannetti apunta en dos direcciones que cabe resaltar.
+Por una parte, nos recuerda la importancia de anclarse en una tradición existente,
+como la del arte contemporáneo, para el análisis del panorama de la producción
+artística; por la otra, afirma la necesidad de ampliar la reflexión estética hacia
+el resto de los elementos que conforman la experiencia estética más allá de los
+aspectos sociales y culturales, mismos que son siempre fenómenos emergentes
+que dependen de conformaciones y procesos subyacentes que los preceden y les
+dan soporte. Por estas razones se hace necesario incorporar a la reflexión sobre la
+estética digital todo lo relacionado con la complejidad que permite la emergencia
+de esta nueva materia que es lo digital.
+Estos dos aspectos son muy importantes, sobre todo si se toma en cuenta
+lo limitada que puede resultar una reflexión estética centrada en solo algunas de
+las modalidades posibles en que se pueden concretar los productos del arte generado
+a partir de las tecnologías digitales, más aún si se considera que no existen
+repertorios plenamente constituidos y asentados de las tendencias contemporáneas
+del arte y, en modo particular, de aquellas propias de los new media arts.
+Este fenómeno se debe al clima de experimentación que ha producido el furor de
+innovación provocado por la potencia y la maleabilidad de las tecnologías digitales
+como medios y soportes artísticos. Por ello es posible afirmar que el panorama
+actual de estas prácticas y representaciones estéticas pertenece a un clima propio
+de una estética disposicional, siguiendo la terminología que propone Jordi
+Claramonte en su Estética modal.
+La limitación de la teoría estética que hemos denominado como autorreferencial
+radica en que al tomar la obra de arte como punto de partida para el
+análisis se obvia la complejidad que estructura la conformación del mundo real y
+sobre la que se sostiene la emergencia del mundo virtual con todos sus productos.
+Nos referimos específicamente al hecho de que el modo de ser de los productos
+virtuales implica siempre la posibilidad de cambio. 
+
+La capacidad de mutación es una característica propia de toda la tecnología
+digital, y es por ello que cualquier análisis centrado en las características y
+atributos de un conjunto de productos digitales, como serían las obras clasificadas
+dentro de estos géneros y subgéneros de los new media arts, resulta parcial,
+razón por la cual una estética digital centrada solo en las obras de arte no logrará
+dar cuenta de la totalidad del fenómeno que intenta abordar.
+A propósito de esta situación Sean Cubitt ha señalado que el término
+new media art alcanzó un nicho importante a finales del siglo pasado, momento
+en el que surgieron institutos, escuelas, comités, galerías, teóricos y una serie de
+instituciones avocadas a los new media arts, bien porque existían artistas que
+comenzaron a utilizar herramientas digitales, bien porque había personas a las
+que aquello que estaban haciendo les parecía corresponder al término arte en un
+sentido general.24 Estas instituciones diferenciadas son ya parte del panorama de
+las prácticas artísticas de los últimos diez años, de modo que el debate actual no se
+centra en si son arte o no los artefactos digitales que se producen bajo esta denominación.
+El punto que se discute es más bien su caracterización como nuevos
+medios (new media).
+Esta visión es compartida por varios especialistas como Armin Medosch
+y Geert Lovink, quien, a propósito, se refiere a una conversación entre el propio
+Medosch y Andreas Broeckmann, director del festival Transmediale de Berlín en
+2006, en donde este último afirmaba que los new media arts no existen más. Tal
+afirmación apunta al hecho de que hoy en día no se puede argumentar el uso de la
+tecnología digital como el único criterio para caracterizar una práctica artística.
+De allí se desprende que las taxonomías propuestas en los albores de los media
+arts y en sus primeras etapas de experimentación resultan intentos obsoletos o
+limitados, al igual que su derivado teórico, el pensamiento estético autorreferencial
+o endoestético.
+Ahora bien, ¿cómo tratar de acotar una situación que parece desbordarse
+debido a la heterogeneidad de las prácticas y productos de arte que en la actualidad
+utilizan los medios tecnológicos digitales como soporte y que por lo tanto
+pueden ser considerados como arte digital? ¿Cómo abordar una reflexión consistente
+sobre la estética digital basándose en esta heterogeneidad aparente?
+Como hemos señalado, pensamos que la respuesta a esta situación consiste
+en ampliar el objeto de reflexión y su fundamentación. El arte digital no es
+otra cosa que la manifestación de la intencionalidad estética de la sociedad digital
+telecomunicada contemporánea, como la define Cubitt, quien además avizora
+que la belleza de estas prácticas y productos será la base de la nueva ética de esta
+sociedad. Si la ética anterior, sobre la que se ha fundado la cultura occidental, es
+aquella de compartir el mundo con el otro, en la actualidad el otro se ha convertido
+en una utopía lejana y distante, percibida a través de una pantalla.
+
+Manuel DeLanda, por su parte, propone un análisis filosófico del mundo
+construido a partir de las tecnologías digitales basado en su caracterización
+ontológica, planteamiento que pensamos puede permitirnos salir de la autorreferencialidad
+a la que conducen los abordajes de la estética digital, como los ya
+mencionados, centrados en los modos de ser de los diversos productos, prácticas,
+géneros, actitudes, estrategias y poéticas. Dado que todos estos son momentos
+específicos y circunstanciales del concretum del arte digital, una teoría estética
+fundada en ellos tiende a obviar la complejidad inmanente de la potencialidad
+creadora del mundo virtual que permea todos los estratos del mundo real.
+Cubitt indica que la reflexión sobre la estética digital debe demostrar
+una apertura hacia el futuro de lo que vendrá: “The purpose of inquiry into
+the digital arts is not to affirm what is, but to promote the becoming of what is
+not-yet, the grounds of the future as they exist in the present”. Sin embargo,
+su primera aproximación estética adolece del mismo sesgo que las estéticas autorreferenciales,
+pues se basó en un aspecto del arte digital. En su libro Digital
+Aesthetics Cubitt centra su análisis en la categoría estética de la interfaz y sus
+cambios como sustrato del arte digital. Sin embargo, en The Practice of Light
+gira hacia otra dirección que puede resultar más fértil para la reflexión sobre la
+estética digital, al emprender una investigación en la que se plantea una genealogía
+de las tecnologías visuales que va desde los impresos hasta los pixeles.
+Cubitt propone una caracterización de la emergencia de la imagen en las artes
+visuales a partir de una categoría propia de la tradición del arte: la luz. Se trata
+entonces de una indagación genealógica basada en una exploración filosófica
+con fundamento histórico, apoyada en un dominio de categorías clásicas de
+la composición visual como la oscuridad, la línea, la superficie, el espacio, el
+tiempo, la reflexión. Este dominio categorial le sirve a Cubitt como hilo conductor
+para abordar desde la tradición del arte el modo gradado en que, desde
+los orígenes del arte occidental hasta el arte digital actual, se va tramando la
+estructura que constituye la construcción de la imagen en las representaciones
+visuales. Este abordaje le permite mostrar la sucesión de capas que se superponen
+desde lo material hasta el fenómeno emergente e inmaterial de la imagen
+digital. Este modo de proceder, aunque centra aún su atención en la producción
+de la obra de arte como fundamento, ofrece una caracterización estratificada
+del proceso de emergencia de la obra de arte digital, por lo que se acerca a una
+reflexión estética basada en una fundamentación de orden ontológico como la
+que aquí se desea proponer.
+DeLanda, por su parte, se vale de una aproximación filosófica que podemos
+identificar como histórico-cronológica y ontológica, y entiende las realidades
+materiales como el producto de procesos de autoorganización de la materia
+que define como procesos de morfogénesis. DeLanda basa su enfoque en lo que califica como nuevo un materialismo desarrollado a partir del pensamiento de
+Deleuze y Guattari.
+En cuanto a los objetos digitales producto del diseño gráfico, del arte
+digital o de la arquitectura digital, DeLanda también parte de un análisis de las
+interfaces, al igual que Cubitt, Giannetti o Vásquez, aunque a diferencia de estos
+autores fundamenta su comprensión de los procesos computacionales que producen
+la realidad virtual emergente en la caracterización de la tecnología que permite
+la emergencia de los objetos estéticos digitales. Por eso señala que todos los
+productos digitales se encuentran constituidos por estructuras que responden en
+mayor o menor medida a la concepción de un paradigma de organización jerárquico
+o reticular. Estos dos modelos corresponden a dos categorías abstractas
+propuestas por Deleuze y Guattari de lo que sería una ontología materialista (por
+llamarla de algún modo), que son los “estratos” y los “agregados heterogéneos”.
+Los primeros son de naturaleza homogénea determinada por mecanismos de
+control y los segundos se caracterizan por la heterogeneidad de sus componentes
+definidos por la naturaleza de sus interconexiones.
+Juan Martín Prada reconoce de igual modo el problema de la estratificación
+de la imagen digital y señala que esta se conforma de manera maleable a
+partir de la manipulación de múltiples capas que se superponen para generar un
+producto que no existe de un modo permanente sino que se actualiza constantemente
+en una pantalla ante la presencia del espectador.34 Esta condición propia
+de la virtualidad le resulta problemática a Prada ya que considera que la posibilidad
+abierta de cambio y mutación de la imagen digital la aleja de la posibilidad
+de funcionar como un referente de la realidad del mundo, como en un momento
+llegó a hacerlo la imagen pictórica. Por esta razón considera que la aceptación
+de la dimensión ontológica de la imagen digital del mundo virtual sustituye al
+mundo real y a las intenciones que se encontraban detrás de la creación de imágenes.
+La imagen digital se convierte de este modo en su propio referente.
+La reflexión de Prada, aunque acertada en cuanto a la importancia de la
+dimensión ontológica de la imagen digital, se aferra a la idea de que la producción
+artística de imágenes digitales ha abandonado la intención de referirse al mundo
+para ser referencia de sí misma obviando la realidad. Sin embargo, es justamente
+la fundamentación ontológica la que indica que la imagen digital nunca deja
+de ser referente del mundo real, pues la virtualidad está anclada en este, emerge
+desde él, y no existe un mundo virtual ajeno o diverso del mundo real.
+La gradación estratificada de capas que permite la emergencia de la imagen
+digital, a la que se refiere Prada, no alcanza su límite en el código digital
+soportado por una memoria externa; por el contrario, continúa en una gradación
+hacia estratos base que la soportan y que se encuentran justamente en el límite de
+lo virtual y lo material. La memoria física es parte del dispositivo que permite la actualización de la imagen digital, pues constituye su soporte material. Por ello la
+experiencia estética requiere siempre de un proceso que pasa por todos los estratos
+del mundo real, incluyendo el material. Aunque la virtualidad se caracteriza
+por su inmaterialidad, ella emerge desde lo material.
+Prada sostiene que es preciso dotar de una piel a la imagen digital y fijarla
+sobre el papel, pero esto no resuelve la dificultad resultante de su marco de análisis,
+pues al ser impresa la imagen pierde su condición virtual y opera mediante
+procesos estéticos que no son ya propios de la estética digital. Aun cuando la
+imagen digital sea el producto de una manipulación, o incluso generada por una
+máquina a partir de programas de inteligencia artificial, esa imagen es una referencia
+de la realidad y también de sí misma, como ocurre con todo producto
+artístico.
+Notamos así que Cubitt, Prada y DeLanda convergen en torno a la necesidad
+de una fundamentación ontológica, de orden material, que parte de investigaciones
+genealógicas, estratificadas o cronológicas, para comprender fenómenos
+de orden estético y ontológico. Estos autores desarrollan sus investigaciones filosóficas
+y estéticas a partir de una gradación en capas cronológicas que se superponen
+y sirven de soporte para la complejidad emergente. Pensamos que este es
+un método de reflexión filosófica que se aproxima al tipo de teoría de la estética
+digital que se puede desarrollar a partir de la ontología crítica de Hartmann. Sin
+embargo, consideramos que sus propuestas estéticas no logran romper del todo
+con la autorreferencialidad o autonomía de una estética que, como un espejo, se
+fundamenta en el reflejo de la obra de arte digital. Por esta razón, como un aporte
+a la reflexión sobre la estética digital consideramos que un abordaje desde la perspectiva
+ontológica de Hartmann puede brindar nuevos elementos para avanzar
+en la investigación que se pregunta por lo estético en la obra de arte del mundo
+de la cultura tecnológica digital contemporánea.
+Nuestro punto de partida es la pregunta por la conformación de la obra
+en cuanto resultado del hacer humano, y sostenemos que es este un aspecto de la
+obra de arte digital que se debe completar con el estudio ontológico de su percepción
+y recepción, y de los valores y las categorías estéticas que propician la
+experiencia estética en el espectador, ya que la estructura ontológica de la obra de
+arte, de acuerdo con Hartmann, es una estructura relacional caracterizada por la
+coproducción y autoorganización del productor, la obra, el espectador y el contexto
+social y político en el que todo el proceso sucede.36
+Consideramos que la ontología crítica de Hartmann, centrada en lo
+material del mundo real y alejada de consideraciones de cuño metafísico, por su
+sistematicidad, basada en la teoría de estratos y categorías, puede resultar una
+base sólida para avanzar hacia una fundamentación estética de la obra de arte
+digital que resulte en un campo fructífero, en especial si lo que se busca es un fundamento para considerar ese nuevo universo de interacciones con el otro distante
+y utópico de las que habla Cubitt. Una ontología basada en los análisis de
+Hartmann puede brindar nuevas luces para el abordaje filosófico, ético y estético
+de estas interacciones.
+Se trata de una premisa que comparte un grupo de investigadores de
+diversos campos de la ciencia y de la tecnología que han retomado el uso de la
+ontología filosófica como método de investigación en diversos ámbitos de estudio
+y que, aunque partiendo desde campos teóricos divergentes, convergen en
+el fundamento ontológico, en especial de la teoría de Hartmann, que les sirve
+como referente y les brinda un sentido común aglutinador. En este contexto, el
+paradigma teórico bajo el que acogemos todas las aportaciones de Hartmann en
+el ámbito de la estética puede bien ser considerado como una suerte de estética
+modal, puesto que las aleaciones autoorganizadas de estratos, categorías y valores
+que llamamos “sensibilidades”, “poéticas” o “lenguajes artísticos” tienden a distribuirse
+formando modos de relación que especifican tanto lo producido como a sus
+productores y receptores.39
+Los postulados estéticos de Hartmann
+Hartmann en su estética se remite a las preguntas originales formuladas por la
+tradición del pensamiento sobre lo bello en la naturaleza y en el arte, especialmente
+a la inquietud ontológica en torno a “dónde” reside la cualidad de lo bello.
+Para dar respuesta el autor señala la necesidad de diferenciar la sensibilidad estética
+en cuanto capacidad o facultad para la apreciación de lo bello (fenómeno
+que ocurre en la esfera de la percepción humana) de la producción de objetos
+con cualidades estéticas que permiten establecer relaciones con la sensibilidad del
+espectador para propiciar una experiencia estética.
+La reflexión estética se diferencia sustancialmente de la experiencia estética.
+Hartmann delimita las posibilidades de investigación estética en función de
+los aspectos que de la práctica y de la representación artística pueden ser investigados.
+Para ello divide el proceso artístico y aísla a la obra del acto estético.
+Según Hartmann, en la experiencia estética ocurre una correlación entre
+la obra y el espectador que no es reducible al sujeto ni al objeto de arte. La experiencia
+estética es el resultado de una confrontación, una compleja relación de
+superposición y de correspondencias categoriales, de ida y retorno. Este es un
+proceso que él denomina como la “hendidura de trasfondo”, un momento o
+vivencia que permite a la consciencia experimentar lo estético.42 En cuanto al
+objeto o producto artístico, las correspondencias y superposiciones de las que
+habla Hartmann se remiten a su ontología, en especial a su teoría de la “fábrica
+del mundo real” que, como señala Dziadkowiec, se puede resumir en una frase: el mundo real está construido sobre capas ontológicas consecutivas que se encuentran
+en mutua relación e incluyen seres concretos.43 Según este enfoque, toda
+obra de arte tiene una determinación de orden ontológico y una de orden estético,
+y entre ambas existe una correspondencia.44
+El arte, por ser un producto de la cultura humana, se encuentra constituido
+desde una perspectiva ontológica por una serie de estratos que se articulan
+como las capas de una cebolla para arrojar una conformación o producto
+acabado.45 En primer lugar encontramos un estrato material que funciona
+como base y que corresponde a la materia física con sus dominios categoriales
+y las leyes que la determinan. Sobre este estrato se erige el estrato orgánico
+que corresponde a la vida con sus respectivos dominios categoriales que rigen
+los modos de relación y configuraciones en las que esta se manifiesta. El tercer
+estrato es el de lo psíquico, con sus correlativos dominios de categorías.
+Aquí se sitúan la percepción y las reacciones emocionales que los diferentes
+organismos generan a partir de los estímulos internos y externos que perciben
+del mundo. Finalmente encontramos el estrato de lo social objetivado donde
+ocurre el fenómeno emergente de la cultura. Aquí se sitúan el conocimiento y
+la experiencia estética del arte.
+La gradación de los estratos en la obra de arte digital: material,
+logicial, oréctico y virtual
+Hartmann aclara que, aunque los estratos del objeto estético tienen correspondencia
+con los cuatro estratos ónticos del ser real, la distribución de estos no es
+homogénea. En sus palabras: “aquí cada uno se divide de manera muy diversa en
+los géneros del arte”.46 La estratificación estética tiene sus particularidades en cada
+género artístico, en la forma del aparecer y en la distribución de la recurrencia de
+este en cada estrato, cumpliéndose en general la ley que indica que “tienen que
+ser los estratos ónticos superiores los estéticamente ‘profundos’”. La relación
+de la estratificación estética no pretende abarcar de modo directo la estructura
+de la formación estética, pues esto equivaldría a elucidar el misterio de la creación
+artística y este “misterio” no corresponde a la reflexión filosófica. Hartmann
+sugiere entonces que debemos limitarnos a mostrar “la relación de formación
+entre los estratos del objeto estético”.48
+La obra de arte digital, en tanto objeto virtual, está conformada por
+cuatro estratos ónticos que se corresponden con cuatro estratos estéticos y que
+permiten, como se mencionó, un juego o relación compleja de oposiciones, de
+emergencia y retorno. Para comprender mejor esto, es necesario intentar completar
+el programa iniciado por Hartmann en su estética y proceder a caracterizar
+los cuatro estratos estéticos de la formación de arte digital, para luego partir de estos estratos concretos y buscar su determinación categorial, lo cual debe permitir
+poner en evidencia el modo en que se da esta relación compleja de aparecer y
+desaparecer que caracteriza lo estético de la obra de arte digital.
+El estrato material
+El primer estrato estético es formación eminente, materia potencial en estado
+puro, y se corresponde en el sentido categorial con la materia, una categoría muy
+importante para las ideas estéticas de Hartmann, pues cada arte se asocia con
+un tipo de formación especial.49 En el caso de la obra de arte digital este primer
+estrato debe ser denominado como el de lo material, un estrato estético que en lo
+ontológico se corresponde con el primer estrato del mundo físico. En el caso del
+mundo virtual, producto de las tecnologías de computación, se trataría del estrato
+del hardware de las máquinas universales o computadores, conformado por sus
+componentes electrónicos: la configuración de máquinas de procesamiento de
+información, cómputo o cálculo base. Las infinitas posibilidades de configuración
+de la máquina universal, o computador, conforman el primer estrato óntico
+del arte digital. La conformación del hardware de la máquina de cómputo universal
+constituye el soporte material de la obra de arte digital y determina en la
+realidad sus posibilidades.
+La primera gradación de esta estratificación está determinada por ciertas
+categorías, como las de cálculo y memoria, que condicionan la velocidad
+del procesamiento de los datos y la cantidad de estos que puede manejar la
+máquina (su capacidad de ejecución). El segundo componente del estrato de lo
+material está determinado por la salida de la información ya procesada y convertida
+en señales sensibles para el ser humano. En este caso lo categorialmente
+determinante es la interfaz, categoría que juega un rol central a la hora de comprender
+la función de los dispositivos o componentes que permiten la interacción
+entre la máquina y el hombre. En la gradación de la obra de arte digital se
+sitúan aquí los periféricos (pantallas, teclados, mouse, guantes, altavoces, etc.),
+que se constituyen como el soporte de la interacción. Estos dos componentes
+del estrato material conforman de forma gradada la materia de la obra de arte
+digital, entendida aquí, siguiendo a Hartmann, como un primer momento de
+la plasmación estética. Estos componentes traducen los impulsos electrónicos
+del código digital de la máquina en códigos perceptibles por la consciencia
+humana: imágenes, sonidos, texturas, sensaciones térmicas e inclusive sensaciones
+y percepciones de otra índole. Los dispositivos de interfaz determinan
+la obra de arte digital, la hacen posible a la vez que la limitan en cuanto materia
+y soporte.
+
+El estrato logicial
+Proponemos aquí el neologismo “logicial” para denominar el segundo estrato de
+la obra de arte digital, siguiendo la tradición en lengua francesa de denominar al
+componente de programación de la máquina de cómputo universal como logiciel.
+En este caso se trata de un sustantivo que designa al conjunto de todos los componentes
+que brindan el soporte lógico de un sistema informático para que este
+realice tareas específicas. Lo entendemos aquí como un campo semántico que se
+define en oposición a lo material, propio del estrato que designa a los componentes
+físicos de un sistema informático.
+La materia inerte de los componentes computacionales físicos cobra vida
+y se hace “orgánica” por obra del conjunto de instrucciones lógicas que establecen
+su comportamiento, su función y finalidad. Este diseño instruccional dota a la
+materia de un telos, cumpliéndose así la ley de correspondencia con la estratificación
+ontológica del mundo real de Hartmann. En el caso de la obra digital, la
+programación es el medio que utilizan los artistas digitales para la “transformación”
+de la que habla Hartmann, proceso que se da en dos momentos, uno de
+realización y otro de desrealización, que permiten el aparecer de lo estético en la
+obra de arte.
+El segundo estrato estético es el trasfondo de la obra: aquí esta inicia su
+proceso de virtualización y lo irreal hace su aparición. Desde la perspectiva categorial
+se sitúa aquí la programación que define el comportamiento de los dispositivos
+que conforman el estrato material. Así, estas dos categorías establecen y
+sirven de sustrato para la plasmación concreta de la obra.
+El estrato oréctico
+La percepción sensorial y la determinación que esta hace de la consciencia se
+emplazan categorialmente en el tercer estrato de la formación estética digital. La
+percepción se encuentra determinada por la orexis, una categoría utilizada originalmente
+por Aristóteles en el ámbito de la ética,50 aunque aquí partimos del uso
+que propone de ella V. J. Wukmir en su “Teoría oréctica del comportamiento”,
+donde la define como “el vasto recorrido desde la llegada del estímulo al receptor,
+a través de su elaboración en el acto del comportamiento, hasta su repercusión
+retroactiva sobre el resto de la célula-organismo-persona en las que estos procesos
+y estas funciones tienen lugar en cada momento del vivir”.
+El tercer estrato de la formación estética digital está caracterizado por
+categorías como la inmersión que se da en la nueva realidad y la participación de quien percibe, como agente sensible, en el encuentro con la obra de arte digital.
+El trasfondo estético en este plano se conforma a través de procesos interactivos.
+La obra de arte digital no es unívoca, requiere de la participación del espectador
+y su voluntad de tender hacia un fin contenido en sí mismo y propiciado por los
+estímulos sensibles a los que está sometido. La participación involucra modos de
+relación en los que se organizan estratos, categorías y valores. El sentido albergado
+por la conformación de arte se transparenta a través de lo matérico, lo somático,
+lo síquico y termina por determinar lo simbólico. En este recorrido opera el
+discurso de la obra en su acto de hacerse presente ante alguien en un momento
+generador de sentido y de goce estético. La multiplicidad integrada, unida y sin
+posibilidad de escisión que se da en el espacio virtual termina determinando las
+interacciones que conforman la experiencia sensible y la reacción de la consciencia
+ante ésta.
+La interactividad es otra categoría importante en el tercer estrato de la
+fábrica del mundo virtual, ya que la obra de arte opera siempre en relación con
+lo oréctico. Se trata de una interactividad guiada por una voluntad intuitiva que
+determina lo emocional. El acto comunicativo, que es en esencia humano, es un
+elemento sustantivo en la virtualidad del mundo digital: en la gradación ontológica
+de la fábrica del mundo virtual la interacción entre hombre y máquina
+es un acto comunicativo básico. En el tercer estrato lo comunicativo se enlaza
+con lo emocional, aunque sin alcanzar aún los niveles de comunicación compleja
+propios del ámbito sociocognitivo del cuarto estrato. En el tercer estrato la comunicación
+con la máquina está signada en sentido categorial por la emulación: la
+máquina emula lo humano hasta un punto en que los avanzados desarrollos de la
+tecnología de la inteligencia artificial permiten, en algunos casos, ejecutar comportamientos
+de la máquina capaces de superar la prueba de Turing.
+En este estrato de la experiencia estética del arte digital recae buena parte
+de la experiencia de lo estético en las obras de arte del mundo virtual; en efecto,
+Hartmann argumenta que es en los estratos más elevados donde recae buena parte
+de lo estético en la obra de arte.53 El tercer estrato estético de la obra de arte digital
+se corresponde con el tercer estrato de la fábrica del mundo real de Hartmann, el
+del mundo de lo psíquico. La percepción de la obra de arte digital reposa sobre la
+interacción entre el sujeto y la máquina universal, lo cual determina la percepción
+de un modo emocional.
+El estrato virtual
+En el cuarto estrato el trasfondo se materializa: la materia real y concreta del primer
+estrato desaparece ante el sujeto, la experiencia estética pasa de la materia al
+“material”, según la terminología de Hartmann.54 Se trata de un traspaso que es realización y desrealización a la vez. Aquí la virtualidad se convierte en el aspecto
+determinante de la obra de arte digital.
+Lo virtual es forma y contenido, materia y material. Aquí estas dimensiones
+se unen y desdoblan para dejar aparecer una nueva realidad. Este paso de la
+materia al material es lo propio de la virtualidad, donde tiene lugar la comunicación
+en su gradación más elevada, cuyo resultado es la construcción de comunidades
+(o de “redes sociales”, como se les denomina hoy día). Esto es lo que
+caracteriza un estrato constituido por intercambios del tipo hombre-máquina,
+máquina-máquina y hombre-máquina-hombre.
+Este momento corresponde en sentido ontológico al cuarto estrato de
+cualquier conformación de la esfera de lo real. La comunicación virtual es el rasgo
+característico de este cuarto momento estético, en una amplia gama de gradaciones,
+desde el diálogo entre el hombre y la obra de arte digital hasta complejas
+obras en las que interactúan y dialogan en amplios arcos temporales grandes
+cantidades de personas que conforman verdaderas comunidades virtuales.55 En
+cualquiera de estos casos la máquina desaparece para dar paso en el trasfondo
+estético al heterogéneo aparecer de la obra en su plenitud.
+Lo cultural emerge entonces como resultado del complejo de las comunidades
+de sentido que conforman lo social. Como señala Hartmann: “Los últimos
+estratos internos son los de lo ideal y lo general humano es lo común”.56
+Estas amplias redes de comunidades se enlazan entre sí a partir de lo simbólico
+que, como categoría, domina todo el universo lingüístico, incluyendo la obra
+de arte virtual. En este cuarto estrato la materia propia de los objetos digitales
+se ha desvanecido en su totalidad y ha dado paso a la inmaterialidad de la realidad
+virtual. Lo virtual se ha transformado en este plano, el más elevado, en
+realidad absoluta: en una experiencia simbólica plena de sentido y una experiencia
+estética que es producto de un diálogo permanente que agencia comprensión
+e interacción.
+Conclusiones
+La teoría estética de Hartmann, construida a partir de su visión ontológica
+basada en la teoría de estratos, categorías y valores, ofrece una forma de abordaje
+del fenómeno estético que permite superar algunas de las aporías y sinsentidos
+propios del pensamiento autorreferencial, ya que permite desplegar en la gradación
+de sus estratos, con sus correspondientes dominios categoriales, una explicación
+de la conformación de la obra de arte que parte de un referente amplio,
+a saber: del mundo real o de lo que Hartmann define como el dominio entero
+de la esfera de lo real. Por este motivo se trata de una teoría que nos permite
+emprender una reflexión sobre la experiencia estética digital del mundo virtual capaz de dar cuenta de su complejidad, que resulta de su naturaleza ontológica y
+no meramente formal.
+La estratificación del arte digital que hemos delineado aquí se enmarca
+dentro de una investigación filosófica y por ello se limita al aspecto relativo a la
+producción de la obra y de la emergencia de esta a partir de la materia sui géneris
+de lo digital que permite la actualización del mundo virtual. Es necesario señalar
+que esta teoría estética debe ser completada con un análisis de la estratificación de
+la percepción y la correspondencia que se da con la obra y una elaboración teórica
+de las categorías estéticas y los valores que determinan la interacción y recepción
+que se da en el espectador de la obra digital.
+La fundamentación de la estética digital basada en una aproximación
+ontológica permite una caracterización heterónoma de los procesos estéticos que
+ocurren en la obra de arte digital, pues ancla sus referentes al complejo material,
+orgánico, psíquico y cultural del mundo real del que emerge lo virtual en la totalidad
+del universo de los objetos digitales y de las interacciones que ocurren entre
+estos y la consciencia humana. En nuestro criterio este enfoque resulta mucho
+más fértil y da un sustento mayor a la reflexión estética que las teorías autorreferenciales
+propuestas por autores como Giannetti, Cubitt, Prada, DeLanda o
+Lovink, ya que al apoyarse en la teoría de estratos, categorías y valores da cuenta
+no solo de los juegos de relación que permite la estética modal sino también de
+las operaciones complejas en las que se sustentan los procesos y productos del arte
+digital, actuales y futuros.
+Este análisis no se limita a un modo de ser particular sino que determina
+el sustrato que le es común a todos los objetos digitales, por ser intrínseco a su
+naturaleza y de un carácter invariable dada su condición de virtualidad digital.
+En el caso del arte digital la gradación estratificada de su estética permite dar un
+paso entre lo ontológico y lo epistemológico para alcanzar una comprensión más
+amplia del fenómeno de lo bello propio de la virtualidad.

@@ -1,0 +1,207 @@
+07 Sued 2016 "Ciudades visibles: Estética y temática de tres ciudades iberoamericanas en la red social Instagram. Un estudio exploratorio desde las Humanidades Digitales" https://www.aacademica.org/aahd.congreso/21
+
+
+Ciudades visibles: estética y temática de tres ciudades iberoamericanas en la red social
+Instagram. Un estudio exploratorio desde las Humanidades Digitales.
+
+Sued Gabriela.
+
+Palabras clave: Instagram, ciudades, cultura, digital, estética.
+
+Resumen
+Este trabajo presenta algunas exploraciones desde el abordaje de las humanidades
+digitales en relación a la plataforma Instagram. Más exactamente refiere a las representaciones
+visuales que los usuarios de la red social Instagram construyen al publicar fotos etiquetadas
+con nombres de ciudades, centrándonos en tres grandes urbes de Iberoamérica: Buenos Aires,
+Ciudad de México y Madrid. Nos preguntamos: ¿qué tipo de representaciones de ciudades se
+construyen a partir de las publicaciones de las ciudades?, ¿qué criterios estéticos emergen de
+las mismas? Nuestro corpus se compone de un dataset de seis mil fotografías publicadas en
+Instagram entre el 15 y el 20 de abril de 2016, procesándolo con programas de visualización y
+análisis de imágenes. A partir de este procesamiento, se realizan inferencias interpretativas
+sobre las preferencias estilísticas y temáticas en relación a las tres ciudades más arriba
+mencionadas y se identifican patrones estéticos en conjuntos de imágenes. Por último, en las
+conclusiones se especifican las ventajas y desventajas de la aproximación metodológica
+realizada, así como se detallan las líneas de continuidad del trabajo.
+
+Prácticas culturales y representaciones urbanas en Instagram
+Desde que autores de gran importancia para el estudio de los medios contemporáneos
+de comunicación como Jenkins (2006) y Manovich (2009, 2012) han teorizado sobre el rol de
+las audiencias participativas y convergentes en los medios digitales, podemos señalar que las
+prácticas que los usuarios llevan a cabo en las redes sociales forman parte de la cultura actual.
+En una primera etapa estas prácticas han sido abordadas por la investigación de medios con
+metodologías cualitativas y etnográficas. Pero desde hace una década otros enfoques
+metodológicos que tienen en cuenta tanto la gran escala de las producciones de usuarios finales
+en las redes sociales como su lugar en la producción cultural contemporánea han comenzado a
+analizarlas incluyendo no solamente su significación, sino también su producción dinámica,
+constante e ingente. Así, las perspectivas conocidas como Analítica Cultural (Manovich, 2007)
+y Humanidades Digitales (Berry, 2011) desarrolladas en el ámbito de las Humanidades y los
+estudios de la cultura buscan integrar estos importantes aspectos de las producciones digitales
+a partir de la incorporación intensiva de herramientas informáticas en la producción de
+conocimiento humanístico y social.
+En esta ocasión nuestra intención es presentar algunas exploraciones en relación a la
+plataforma Instagram y, más exactamente, a la representación visual de diversas ciudades que
+los usuarios de dicha red social construyen al publicar fotos etiquetadas con nombres de
+ciudades, centrándonos en tres grandes urbes de Iberoamérica: Buenos Aires, Ciudad de México
+y Madrid. Nos preguntamos: ¿qué tipos de representaciones de ciudades se construyen a partir
+de las publicaciones de las ciudades?, ¿qué criterios estéticos emergen de estas? Este tema ha
+sido estudiado previamente por el teórico de los medios Lev Manovich y su grupo de trabajo
+(Hochman & Manovich, 2013; Manovich, 2010).
+› Escala y medios sociales: nuevos abordajes
+En la última década, las habilidades y dispositivos para la captura, el almacenamiento y
+el análisis de datos han crecido exponencialmente afectando las ciencias, la industria de los
+medios y el consumo cultural. Manovich (2007) propone el concepto de Analítica Cultural para
+el análisis de grandes cantidades de información culturalmente significativa. Esta perspectiva
+especialmente ha avanzado en la construcción de abordajes prácticos basados en software para
+el procesamiento, el análisis y la interpretación de grandes cantidades de datos culturalmente
+significativos. Su método combina elementos como el procesamiento informático de datos,
+nuevas formas de visualización de información y nuevas modalidades de lectura distante
+(Moretti, 2007).
+La aplicación de los enfoques de la analítica cultural al estudio de las publicaciones en
+medios sociales consta de tres etapas. La primera etapa es la de recolección y organización de datos, formados en nuestro caso por el conjunto de las imágenes que analizaremos, pero
+también por la información que cada uno de los datos trae adosada; por ejemplo, fecha y lugar
+de publicación, localización, tags, likes y comentarios sobre ellas. Esta información formará
+parte de nuestro data-set. El que usamos en este trabajo se compone de seis mil fotografías
+publicadas en Instagram entre el 15 y el 20 de abril de 2016. Además, pudimos formar también
+un corpus de metadatos, más reducido, sobre las mismas etiquetas. Recolectamos los datos de
+dos modos: para bajar las imágenes usamos una aplicación desarrollada por terceros
+denominada Instaport y para obtener la metadata hicimos consultas a la API de Instagram. En
+una segunda etapa procesamos las imágenes con Image-J, un programa de procesamiento,
+análisis y visualización de datos disponible públicamente y desarrollado por el National
+Institute of Health de Estados Unidos. Por último, en la tercera etapa realizamos algunas
+inferencias interpretativas asociadas a tales visualizaciones, que también presentamos en el
+próximo apartado.
+› Análisis: tres ciudades, una estética
+La plataforma Instagram es una red social destinada a la publicación de fotografías
+tomadas con teléfonos celulares. Fue inaugurada en 2010 y a los dos meses de su lanzamiento,
+tenía un millón de usuarios. En sus inicios fue desarrollada solamente para iPhone, aunque en
+2012 salió al público la versión abierta para Android. En ese mismo año fue comprada por
+Facebook. A fines de 2015 la plataforma tenía cuatrocientos millones de usuarios. Unos ochenta
+millones de fotos son subidas a diario, mientras que estas reciben unos trescientos cincuenta
+billones de visualizaciones por día.
+Los filtros de imagen, los hashtag o etiquetados para asociar las fotografías a espacios
+compartidos de significación y la posibilidad de geolocalizar las fotos son los valores estéticos
+que diferencian a Instagram de otras redes sociales visuales1. Hochman y Manovich relacionan
+estas disposiciones de la plataforma con un proyecto de documentación a gran escala,
+comparable al proyecto Google Earth:
+Mientras que los esfuerzos documentales de Google Earth son presentados como
+objetivos y desafectados por medio del uso de fotografías satelitales […] las fotografías en
+Instagram resuenan como experiencias más auténticas y personales (Hochman & Manovich,
+2013).
+Es por eso que podemos decir que las fotografías etiquetadas con nombres de ciudades
+añaden nuevos modos de percibir, narrar y describir las ciudades a los ya conocidos,
+impulsados por entes gubernamentales o turísticos. Podemos afirmar que las ciudades se construyen en Instagram en un relato colectivo, dinámico, cambiante y gigantesco que pide un
+espacio en la cultura. ¿Pero cómo se puede leer esa historia?
+
+Figura 1. Montaje radial realizado con cuatro imágenes. La variable brillo aumenta del centro a la
+periferia y la variable saturación aumenta en la periferia en el sentido contrario a las agujas del reloj. La
+primera corresponde a #buenosaires, la segunda a #madrid, la tercera a #mexico y la cuarta a las tres
+ciudades juntas. Elaboración propia a partir de procesar 6000 imágenes con software Image-J.
+Como describimos en el apartado anterior, una forma de hacerlo es leyendo patrones,
+entendidos como grandes tendencias que se repiten en una configuración dada. Para
+encontrarlas dentro de nuestro conjunto de datos generamos una visualización comparativa
+sobre un gráfico axial, donde el eje X muestra en forma descendiente variaciones de brillo y el
+eje Y en forma ascendente, valores de saturación. Ambos fueron obtenidos a partir de un valor de media por foto generado por el programa Image-J. Las visualizaciones emergentes no
+tardaron en mostrar el mismo patrón para las tres ciudades:
+
+Primer sector, a la izquierda del gráfico, con poca cantidad de fotos de bajo brillo y alta
+saturación, que corresponden a fotografías nocturnas.
+
+Segundo sector hacia el centro y la parte inferior de los gráficos de alto brillo, pero baja
+saturación, es decir baja media de RGB.
+
+Tercer sector, hacia el cuadrante derecho superior, de alto brillo y alta saturación, es
+decir de fotografías coloridas.
+¿Qué podemos inferir de estos patrones? Que las fotos nocturnas son pocas, que las
+fotos diurnas, de gran componente de brillo y mediana de blancos son la mayoría y que las fotos
+de alta saturación y alto brillo son pocas con relación a este segundo conjunto. De los altos
+valores de saturación y brillo podemos también inferir que en estas ciudades no se usan
+demasiados filtros, o sea, se sacan más fotografías naturales o se usan filtros de baja saturación
+y brillo.
+¿Podría ser esta una característica de estas tres ciudades? ¿Podría diferir de las
+características de imágenes de otras ciudades? Para relevar esta inferencia hicimos un
+muestreo sobre metadatos extraídos de la API de Instagram. Nuestro objetivo era saber en qué
+medida se usan filtros sobre las fotografías etiquetadas con las tres ciudades que nos interesan.
+El resultado arrojó también un patrón interesante: dos tercios de las fotografías no llevan filtros
+de color o luz, lo que indica que habría cierta aspiración de los usuarios a representar objetos,
+lugares, espacios, personas tal cual se ven, o al menos a buscar ese efecto de sentido.
+
+Figura 2. Uso de filtros por ciudad. Gráfico de elaboración propia con una muestra de metadatos extraídos
+de la API de Instagram.
+
+Figura 3. Patrón de brillo y matiz. Montaje realizado con cuatro imágenes. La primera corresponde a
+#buenosaires, la segunda a #madrid, la tercera a #mexico y la cuarta a las tres ciudades juntas. Ordenadas
+por promedio de brillo, eje horizontal, y por promedio de matiz, eje vertical. Elaboración propia a partir de
+procesar 6000 imágenes con Image-J.
+› Lecturas cercanas: una representación subjetiva de las ciudades
+Las metodologías aplicadas en los párrafos anteriores nos acercan un patrón estético y
+colectivo de miles de fotografías, pero si lo que deseamos es analizar las fotos en función de su
+contenido, debemos dejar la lectura distante y adoptar una lectura cercana (Moretti, 2007).
+Para ello, tomamos un muestreo de cien fotografías tomadas en la ciudad de México con el
+objeto de relevar qué es lo que se representa en ellas.
+Entendemos que el conjunto de temáticas puede dar como resultado aquello que los
+usuarios de Instagram entienden por ciudad. De este modo, una ciudad no es solamente un
+espacio representativo, sino que también sus personas, sus sabores y sus recursos naturales
+son partes. Por otro lado, la publicidad es una presencia fundamental en las ciudades modernas,
+y de la misma manera, los hashtags urbanos de Instagram presentan también sus producciones publicitarias.
+
+Figura 4. Temáticas #mexicodf. Muestra de 100 imágenes etiquetadas como #mexicodf. Elaboración propia.
+De este modo podemos comprender el funcionamiento de la plataforma como medio de
+comunicación: de forma bottom-up, la fotografía publicitaria penetra en los hashtags urbanos,
+que de ese modo quedan fragmentados entre usuarios que comparten contenidos genuinos y
+usuarios que usan el espacio para promocionar, por su propia cuenta, productos y servicios con
+sede en la ciudad etiquetada. En un muestreo de las etiquetas que llevan estas mismas fotos,
+descubrimos que la mayor asociación con la ciudad de México se da a través de sus sabores y
+gastronomía y a la vez denota también la impronta publicitaria de la etiqueta, ya que este tipo
+de fotografías son publicadas en general por emprendimientos gastronómicos.
+
+Figura 5. #mexicodf Tag Cloud. Nube de palabras con una muestra de etiquetas #mexicodf extraída
+de la API de Instagram y procesada con Voyant Tools. Elaboración propia.
+› Conclusión: las ciudades y sus signos
+Hemos intentado dar un panorama de algunas metodologías mixtas, lecturas distantes,
+pero luego cercanas, que nos permitan determinar la construcción de las ciudades en una red
+social fotográfica como lo es Instagram. No hemos buscado conclusiones categóricas sobre el
+modo de representar las ciudades de los instagramers, pero sí armar un prototipo de
+metodología para el abordaje de grandes cantidades de información publicadas en redes
+sociales. Respecto de las ventajas y desventajas metodológicas, destacamos las siguientes:
+
+La técnica de procesamiento visual de imágenes es útil para identificar patrones estéticos
+de una ciudad y, a su vez, compararlos con los de otras urbes. Dichos patrones permiten
+identificar preferencias temporales y cromáticas e inferir los modos en que los usuarios
+construyen sus representaciones urbanas.
+
+La presencia o ausencia de filtros permiten identificar preferencias por las
+representaciones visuales más cercanas a la realidad tal cual se percibe.
+
+La lectura cercana de las imágenes permite catalogar los temas que para los usuarios
+forman parte de las ciudades. Estos exceden los espacios y lugares, en tanto también
+incluyen las personas, los sabores, la naturaleza y los usos publicitarios de las imágenes.
+
+Como medio de comunicación, podemos encontrar en Instagram tanto contenidos
+genuinos como otros con intenciones publicitarias, pero ninguno es excluyente para la
+comprensión de los modos de representación de las ciudades en la red social referida.
+
+Por otro lado, en relación a las desventajas, o mejor dicho dificultades, que se nos han
+presentado en este estudio exploratorio podemos mencionar las siguientes:
+
+El acceso a la información publicada en Instagram es sesgado y su API pone límites a la
+investigación académica. En estos momentos sólo podemos acceder de a veinte registros
+de metadatos, lo que reduce en mucho la muestra de datos con que trabajar.
+
+Además, el acceso a las imágenes a procesar se hace mediante sitios de terceros que se
+dedican a bajar información de Instagram, también con limitaciones: no se puede
+acceder a más de quinientas imágenes por bajada, y estas bajan sin ningún metadato
+asociado.
+Con respecto a la continuidad de esta línea de trabajo, podemos puntualizar que:
+
+La digitalización de las prácticas, los espacios y las representaciones urbanas es intensa
+en todas partes del mundo. Existen numerosos proyectos de mapeo urbano donde las
+grandes ciudades se encuentran incluidas. A diferencia de las investigaciones de corte
+cualitativo, interpretativo y textual, los proyectos basados en Humanidades Digitales y
+Analítica Cultural implican conocimientos informáticos intensos, pero en la misma
+medida necesitan de especialistas en Ciencias Sociales y prácticas culturales.
+
+Sería interesante para la producción cultural iberoamericana comenzar a disponer los
+recursos necesarios para identificar, mapear y proyectar sus espacios urbanos en
+Internet, así como idear nuevas maneras de visualizar la mencionada producción, a
+riesgo de que en la red de redes sólo queden plasmadas representaciones parciales de
+nuestro diverso mundo.
