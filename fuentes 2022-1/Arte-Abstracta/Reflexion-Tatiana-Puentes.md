@@ -31,7 +31,7 @@ https://voyant-tools.org/?corpus=52002e663c48eff827aa71817b790ad9&stopList=keywo
 
 Textos utilizados
 
-01 Gómez 2021 "Signos visuales a escala humana: Una clasificación de métodos de visualización de datos y una reflexión sobre sus alcances para la investigación humanística". Revista de Humanidades Digitales, 6, 64-84. 
+01 Rodriguez 2021 "Signos visuales a escala humana: Una clasificación de métodos de visualización de datos y una reflexión sobre sus alcances para la investigación humanística". Revista de Humanidades Digitales, 6, 64-84. 
 
 02 Kandinsky 2003 "Kandinsky Punto y línea sobre el plano Contribución al análisis de los elementos pictóricos"  Paidós, 15-47
 
@@ -41,7 +41,7 @@ Textos utilizados
 
 05 Waldenfels 2004 "HABITAR CORPORALMENTE EN EL ESPACIO". Daimon Revista Internacional de Filosofia, 32, 21-38.
   
-06 Vega, Carrasco, Herrera, Hartop, Serrano & Birbragher. 2020. "Colombia, Republic of". Grove Art Online. https://www-oxfordartonline-com.ezproxy.uniandes.edu.co/groveart/view/10.1093/gao/9781884446054.001.0001/oao-9781884446054-e-7000018726
+06 Vega, Carrasco, Herrera, Hartop, Serrano & Birbragher 2020 "Colombia, Republic of". Grove Art Online. https://www-oxfordartonline-com.ezproxy.uniandes.edu.co/groveart/view/10.1093/gao/9781884446054.001.0001/oao-9781884446054-e-7000018726
 
 07 Sued 2016 "Ciudades visibles: Estética y temática de tres ciudades iberoamericanas en la red social Instagram. Un estudio exploratorio desde las Humanidades Digitales" https://www.aacademica.org/aahd.congreso/21
 
