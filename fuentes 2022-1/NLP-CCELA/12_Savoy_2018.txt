@@ -1,0 +1,455 @@
+Correspondence: 
+Jacques Savoy 
+University of Neuchatel, Switzerland 
+................................................................................................ ....................................... 
+Abstract 
+Elena Ferrante is a pen name known worldwide, authoring novels such as the bestseller My Brilliant Friend. A recent study indicates that the true author behind these books is probably Domenico Starnone. This study aims to select a set of approved authorship methods and appropriate feature sets to prove, with as much certainty as possible, that this conclusion is correct. To achieve this, a corpus of contemporary Italian novels has been generated, containing 150 books written by forty authors (including seven by Ferrante). Six authorship identifi- cation models have been applied to this data set (Delta, Labbe ́’s distance, nearest shrunken centroids (NSC), na ̈ıve Bayes, k-nearest neighbors, and character n-grams). Using either an instance- or profile-based matching technique, the same result (Starnone) appears very often in first place. Modifying the feature set to include between 50 and 2,000 of the most frequent tokens or lemmas does not change this result. When removing Starnone’s novels from the corpus, all approved attribution methods tend to indicate different names as the most prob- 
+Jacques Savoy, University of Neuchatel, rue Emile Argand 11, 2000 Neuchatel, Switzerland. 
+Jacques.Savoy@unine.ch 
+independent but also that the true author is certainly Starnone. Finally, a lexical 
+analysis reveals the reasons justifying this conclusion. 
+Is Starnone really the author behind Ferrante? 
+................................................................................................ ............................................................ 
+E-mail: able author. This result confirms not only that the outputs of these methods are 
+................................................................................................ ................................................................................. 
+1 Introduction 
+With the translation of the successful novel My Brilliant Friend into many languages, the pen name ‘Elena Ferrante’ has recently gained world- wide attention. But who is behind this name? In Italy in particular, several names have been pro- posed: mainly well-known female novelists originat- ing from Naples (e.g. Milone, Parrella, Ramodino), but also some men (De Luca, Piccolo, Prisco, etc.), and even a translator and journalist (Raja). These suggestions have been formulated by columnists or literary scholars with some intuition about stylistic similarities, and, in Raja’s case, according to royal- ties received. On the other hand, there is a recent scientific study investigating Ferrante’s style with statistical tools and methods, concluding that Domenico Starnone is the writer whose profile is 
+closest to that of Ferrante (Tuzzi and Cortelazzo, unpublished). 
+This recent Italian case is not exceptional. The first mention of a pseudonym in literature is the name ‘Nobody’, employed by Ulysses in the Odysseus. Many other examples can be found, even recently with The Cuckoo’s Calling, a novel published in 2013 by R. Galbraith, whose real author is J. K. Rowling (Juola, 2016). In France, in the 1970s, literary critics wrote that Romain Gary’s style was ‘boring’ or ‘has been’. In 1973, Gary pub- lished the novel Gros Caˆlin under the pen name Emile Ajar, a book hailed as ‘fresh and new style’ by the press (Labbe ́, 2008). In other cases, a newly discovered poem should, if possible, be attributed to his/her true author (Thisted and Efron, 1987). Similar disputed cases occur in other fields, such as the attribution of the Book of Mormon to 
+Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018. ß The Author(s) 2018. Published by Oxford University 902 Press on behalf of EADH. All rights reserved. For permissions, please email: journals.permissions@oup.com doi:10.1093/llc/fqy016 Advance Access published on 22 May 2018 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+J. Smith (Jockers, 2013) or the Federalist Papers (Jockers and Witten, 2010; Savoy, 2013). With Shakespeare’s works, the common question is to identify passages written by Shakespeare or by a second possible author (Craig and Kinney, 2009). 
+In the current case, the conclusion reached by Tuzzi and Cortelazzo (unpublished) is supported by a computer-based attribution model and by comparing seven of Ferrante’s books with books by thirty-nine other Italian novelists. The current study expands this investigation by considering add- itional modern attribution methods (Juola, 2008; Stamatatos, 2009; Jockers and Witten, 2010; Juola, 2016) to identify the true writer behind the pen name Ferrante. 
+Is it possible to estimate the reliability of each of these computed attributions? Is a single method enough to convince a court that the suggested attri- bution is correct (Chaski, 2013)? In information re- trieval (IR) (Voorhees and Harman, 2005), to prove that one IR model is significantly better than an- other, this conclusion must be supported by more than one test collection. When combining different authorship attribution results (Juola, 2008), can we be practically certain that the proposed decision is correct? The current study focuses on these ques- tions and suggests a methodology verifying that Starnone is the real author of Ferrante’s novels. 
+To achieve this objective, this study assumes that each novel in our corpus was written by a single person. Of course, collaboration might be respon- sible for the addition of detail to a romance, the development of a character, or the inclusion of a dialog, but the writing itself is the brainchild of a single person. Second, the name associated with a book is the true writer, and therefore all novels published under this name were written by that person. Finally, our attribution schemes will only take account of textual elements. No other meta- data information (the author must be a female, must have lived in Naples, etc.) will be considered when proposing attributions. 
+Finally, to address this question, it should be recognized that writing style is not fully determined by the author and his/her background (gender, age, social origin, nationality, psychological traits, etc.). Such writeprints are also influenced by the text’s 
+genre (the style adopted in an essay is different from that of a poem), period (we do not write now- adays as we did in the 70s), topic (determining some of the vocabulary chosen), type (oral, written, or Web-based), and audience (formal or colloquial). 
+The rest of this article is organized as follows. The next section describes the Italian corpus used to discover Ferrante’s true identity. Section 3 pre- sents the six attribution models applied in our study, state of the-art among authorship attribution methods. Section 4 applies these to the Italian col- lection and reveals the author of Ferrante’s books. Section 5 presents a new verification protocol to ensure that our conclusion (that Starnone is the true writer of Ferrante’s novels) is correct. Section 6 gives a more detailed lexical analysis, explaining the close similarity found by the selected attribution methods. A conclusion presents the main findings of this study. 
+2 Corpus of Italian Novels 
+Our investigation to discover the real writer behind Ferrante is based on a corpus of contemporary Italian novels called PIC (Padua Italian Corpus). This collection was generated by a team of re- searchers at the University of Padua, under the supervision of Prof. Michelle Cortelazzo and Prof. Arjuna Tuzzi (Tuzzi and Cortelazzo, unpublished). Table 1 presents the list of authors appearing in this collection, together with their gender and the number of novels included in the corpus. As shown below, the PIC contains 150 books dedicated to adult readers, to ensure a similar genre of text. Forty different authors (twenty-seven men, twelve women, and one Ferrante) are included, each appearing with at least two works, and as many as ten in Starnone’s case. Ferrante is included, with seven books (including the four novels of her tetralogy My Brilliant Friend). A careful editing process has been undertaken to remove all elem- ents not belonging to the text itself (page numbers, running titles, etc.), as well as a thorough checking of the spelling. 
+During the selection of this corpus, all the names suspected to be behind the pseudonym Ferrante 
+Is Starnone really the author behind Ferrante? 
+Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 903 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+J. Savoy 
+Table 1 Author name, gender (M/F), and the number of novels 
+As preprocessing, and for all experiments, each novel’s text has been analyzed by the TreeTagger POS tagger1 to derive both the word-tokens (toke- nization) and the lemmas (dictionary entries). When the lemma cannot be defined by the tagger, the corresponding token is used (usually when deal- ing with names). Then all uppercase letters are transformed to their lowercase equivalents, and all punctuation marks and digits are removed. This decision is justified not only by the fact that punc- tuation marks can take different graphical forms (e.g. ‘‘, ’’, ", «, and ») but also that they can be imposed or modified by the editor or publisher. 
+From a computer-based attribution perspective, it is worth mentioning that this corpus has three essential characteristics. First, each text contains more than 10,000 word-tokens (with a single excep- tion); second, a rigorous spell-checking process has been applied; third, according to best practice and established protocols (Juola, 2016), additional obfuscating factors have been isolated. Therefore, the corpus contains works of the same language (Italian), genre of text (novels for adult readers), and approximate period (from 1987 to 2016). The selection of the authors to be included takes account of the region, and both genders are represented by many books. 
+3 Authorship Attribution Methods 
+To determine the true author of a text, numerous authorship attribution methods have been proposed (e.g. Juola and Vescovi (2011) suggest more than 1,000 approaches). Therefore, it may be hard to be- lieve that a single attribution model could always provide the correct answer in all circumstances. According to the no free lunch theorem (Wolpert, 2001), averaged over all possible problems, every classification algorithm has a similar accuracy rate when classifying new unseen data. Thus, no learning scheme can be universally better than all the others. Therefore, to ascertain a proposition with a higher degree of certainty, several approaches must be taken into account. Such an evaluation method- ology has been suggested by Juola (2016). To be accepted in a US court (Chaski, 2013), such 
+
+Name 
+Affinati Ammaniti Bajani Balzano Baricco Benni Brizzi Carofiglio Covacich De Luca De Silva Faletti Ferrante Fois Giordano Lagioia Maraini Mazzantini Mazzucco Milone 
+Gender Number Name 
+Gender Number 
+M 4 F 2 F 5 M 3 M 3 F 2 M 7 M 3 M 2 M 2 F 2 M 3 M 4 F 6 M 10 F 5 F 3 M 2 M 4 F 2 
+
+M 2 M 4 M 3 M 2 M 4 M 3 M 3 M 9 M 2 M 4 M 5 M 5 ? 7 M 3 M 3 M 3 F 5 F 4 F 5 F 2 
+Montesano Morazzoni Murgia Nesi 
+Nori Parrella Piccolo Pincio Prisco Raimo Ramondino Rea 
+Scarpa Sereni Starnone Tamaro Valerio Vasta Veronesi Vinci 
+
+have been included. Furthermore, an effort has been made to include more women novelists. In addition, many books have been written by ten authors from Naples and the Campania region (namely, De Luca, De Silva, Milone, Montesano, Parrella, Piccollo, Prisco, Ramondino, Rea, and Starnone). This re- gional element is important in Italian, due to the presence of spelling differences between regions (diatopic variation), and the use of dialect-specific words and expressions. 
+In total, the corpus contains 9,609,234 word- tokens with an average of 64,062 tokens/novel (standard deviation: 38,228). The largest book is composed of 196,914 tokens (Faletti, Io uccito, 2002), and the smallest of 7,694 tokens (written by Parrella, Behave, 2011, and the only work with fewer than 10,000 word-tokens). For Ferrante’s novels, the average size is 88,933 word-tokens (min: 36,222 (La figlia oscura), max: 138,622 (Storia della bambina perduta)). In total, Ferrante’s writings represent 6.48% of the corpus, while those of Faletti constitute the largest share (6.6%) followed by Starnone (6.4%), and Mazzucco (6.15%). The smallest con- tribution is provided by Parrella (0.36%), followed by Vinci (0.58%) and Nori (0.64%). 
+904 Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+methods must reflect the state of the art in the domain. They must have demonstrated their effect- iveness and robustness in several contexts using dif- ferent test collections. 
+To respect these constraints, the well-known Delta authorship attribution model has been se- lected. Proposed by Burrows (2002), several variants have been suggested and evaluated (Hoover, 2004a, 2004b; Burrows, 2007), and the model’s theoretical properties have been analyzed (Argamon, 2008). It has been used in various attribution evaluation stu- dies Jockers et al. (2008), Savoy (2012), Eder (2015), Savoy (2016), Evert et al. (2017), Kocher and Savoy (unpublished), and Jockers and Witten (2010) showed that the Delta method could surpass the performance levels achieved by the SVM method in authorship attribution. 
+This attribution model makes use of a subsection of the vocabulary and considers only the most fre- quent word-types (MFT) or lemmas (MFL) (con- taining mainly function words such as determiners, pronouns, prepositions, conjunctions, and some auxiliary verb forms). The number of terms (word-tokens or lemmas) to be included is not pre- cisely defined, but the norm is to consider a value between 200 and 500 terms, determined without making reference to Ferrante’s novels (Savoy, 2015). To weight each selected term ti (denoted Z score(tij)), its relative term frequency rtfij in a text Tj is computed alongside the mean (rtfi ) and standard deviation (si) of that term over all novels in the corpus (see Equation (1)). 
+this case, one author tends to use the corresponding term more frequently than the mean, while the other employs it rarely. When for all terms the Z score values are very similar, the distance between the two texts will be reduced. The smallest distance over all authors Ak (for k 1⁄4 1, 2, . . ., r) determines the proposed true author. 
+Second, the intertextual distance measure sug- gested by Labbe ́ (2007) was chosen. The effective- ness of this model has been evaluated by different studies reflecting different contexts (Labbe ́ , 2008; Tuzzi, 2010; Savoy, 2012; Ratinaud and Marchand, 2016; Kocher and Savoy, 2017; Tuzzi and Cortelazzo, unpublished). For example, in Labbe ́ and Labbe ́ (2013), this distance function is applied to detect duplicate and automatically generated sci- entific articles. This intertextual distance returns a value between 0.0 and 1.0 depending on the lexical overlap between two texts. When two texts are iden- tical, the distance is 0.0. The largest distance of 1.0 would appear when the two books have nothing in common (e.g. one in Italian and the other in Chinese). Between these two limits, the distance value depends on the number of terms appearing in both novels and their occurrence frequencies. 
+More precisely, the distance between Text A and Text B (denoted D(A, B)) is computed according to Equation (3), where nA indicates the length of Text A (in number of tokens), and tfiA denotes the abso- lute frequency of the ith term (for i1⁄41, 2, ..., m). The value m represents the vocabulary length. It is rare that both texts have the same length, so let us assume that Text B is the longer. To reduce the longer text to the size of the smaller, each of the term frequencies (in our case tfiB) is multiplied by the ratio of the two text lengths, as indicated in the second part of Equation (3). 
+􏱴􏱳 
+Zscoretij 1⁄4 
+ðrtfij-rtfiÞ􏱵 : si 
+ð1Þ 
+Then, given a disputed text Q, an author profile Ak (concatenation of all his/her writings), and a set of terms ti, for i1⁄41, 2, ..., m, the Delta distance value (denoted 􏱳(Q, Ak)) is computed according to Equation (2). 
+􏱳 Xm 􏱶􏱶Z score ðtiQ Þ 􏱴 Zscore ðtik Þ􏱶􏱶: ð2Þ i1⁄41 
+Pm 􏱶􏱶 b,􏱶􏱶 tfiA 􏱴tf iB 
+i1⁄41 
+2nA 
+The third model chosen is the nearest shrunken centroids (NSC) method (Tibshirani et al., 2002; Tibshirani et al., 2003), judged to be an effective approach in authorship attribution (Jockers and 
+􏱳ðQ ; Ak Þ 1⁄4 1 􏱵 When for one term both Z scores are large and 
+m 
+have opposite polarity, the distance will grow. In Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 905 
+DðA;BÞ1⁄4 
+c nA with tfiB 1⁄4tfiB 􏱳 =nB: 
+ð3Þ 
+Is Starnone really the author behind Ferrante? 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+J. Savoy 
+Witten, 2010; Jockers, 2013; Kocher and Savoy, (unpublished)). This strategy can be viewed as a variant of the k-nearest neighbors (k-NN) method, in which less discriminative features are ignored (small feature weights are shrunken toward 0, an idea drawn from the ridge and lasso regression model). Without providing all the details (see Tibshirani et al., 2003), the general idea is as follows. For each term ti (for i1⁄41, 2, ..., m) appearing in a novel Tj 1⁄4 1, 2, . . . n, its relative term frequency rtfij is estimated. From these values, its mean across all novels in the corpus (denoted rtfi ) is computed, as well as its mean across all novels written by author Ak (for k1⁄41, 2, ... r) (indicated by rtfik). Where nk is the number of novels written by Ak, the standard deviation (denoted si) is also determined. From these values, a discriminative value (denoted wik) for term ti and author Ak is calculated according to Equation (4). 
+discriminating between a few possible authors (or categories), rather than all. Thus, w’ij values for a few authors are different from 0. Moreover, when for the ith term, all the corresponding weights w’ij are set to 0, this feature is ignored for all attributions. This happens when the overall mean (rtfi ) for that term is very similar across all authors (rtfik ). 
+Fourth, as a typical text classifier derived from the machine learning paradigm, the na ̈ıve Bayes model (Mitchell, 1997) has been chosen. This method was the first proposed to solve authorship attribution (Mosteller and Wallace, 1964), and it is usually suggested as an effective baseline for evalu- ating machine learning algorithms (Witten et al., 2016). Of course, other studies have proposed applying the na ̈ıve Bayes as an authorship identifi- cation method, such as Juola and Vescovi (2011) and Savoy (2012), in which this method proves highly effective. 
+Having a set of possible authors (or hypotheses) denoted by Ak for k1⁄41, 2, ... r, the na ̈ıve Bayes model combines the prior probability that a given author wrote the disputed text (denoted by Prob[Ak]) and the likelihood probability. The latter is defined as the product of observing all terms ti (for i1⁄41, 2, ..., m), knowing that the text is written by the author Ak. This formulation assumes that the term distributions are independ- ent, which is unrealistic or na ̈ıve. For a query text Q, the na ̈ıve Bayes model selects as the probable author the writer who maximizes Equation (6), in which ti represents the ith term included in the query text Q, and nQ indicates the size of the query text. 
+nQ ArgmaxAk Prob 1⁄2AkjQ􏱹 1⁄4 Prob 1⁄2Ak􏱹 􏱳 􏱾 Prob 1⁄2tijAk􏱹: 
+i1⁄41 
+ð6Þ 
+To estimate the prior probabilities (Prob[Ak]), one can choose either a uniform distribution over all possible authors, or a distribution according to the proportion of novels written by each author. To determine the term probability, all texts belonging to the same author are concatenated to generate the corresponding profile. For each term ti, this probability is estimated as the ratio between its 
+􏱵 
+with mk1⁄4 1=n wik1⁄4 ðmk􏱳siÞ k ð4Þ 
+The principle behind this feature weighting scheme can be explained as follows. When the mean of the ith term for the kth author (rtfik ) is similar to the overall mean for this term (rtfi ), the resulting feature weight for this author is small. This feature does not have the discriminative power to distinguish the underlying writer from all the others. The amplitude of this difference must, however, be analyzed according to frequency distribution and is thus divided by its standard deviation (mk . si). The final weight w’ij associated with the ith term in the jth novel is shown in Equation (5), in which 􏱳 (the shrinkage parameter) is a constant, and (v)þ a func- tion returning the value v if v > 0, and otherwise 0. 
+w0ij 1⁄4 sign􏱴wij 􏱳 􏱳 􏱴jwij j 􏱴 􏱳􏱳þ: ð5Þ 
+According to this formula, all term weights are decreased by the same 􏱳 value. Moreover, a feature weight should be set to 0 when it is smaller than 􏱳. Such features are viewed as generating more noise, rather than as being helpful. Increasing the value of 􏱳 will reduce the number of features taken into account. Usually, a given feature is useful when 
+ðrtfik 􏱴rtfi Þ 
+pffiffiffiffiffiffiffiffiffiffiffiffiffi 
+906 Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 
+þ1=n: 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+occurrence frequency in the profile A (tf ) and the k ik 
+􏱶􏱶 Pm 􏱶rtfiA 􏱴rtfiQ,􏱶 
+size of this sample (nk), as shown in Equation (7). tfik 􏱵 
+DTanimotoðA; QÞ 1⁄4 i1⁄41 
+ð9Þ 
+Prob1⁄2tijAk􏱹1⁄4 nk: ð7Þ This definition tends, however, to over-estimate 
+DMatusitaðA; QÞ 1⁄4 
+Pm MaxðrtfiA;rtfiQÞ 
+i1⁄41 
+sffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi Xm 􏱷pffiffiffiffiffiffiffiffi pffiffiffiffiffiffiffiffi􏱸2 
+the probabilities of terms occurring in the text with respect to missing terms. For the latter, the occur- rence frequency (and probability) was 0, so a smoothing approach had to be applied to correct this. As for the other methods, we will apply Lidstone’s smoothing method, which estimates Prob[ti|Ak] 1⁄4 (tfikþ􏱽)/(nk þ 􏱽|V|), with 􏱽 as a par- ameter (set to 0.1 in this study), and |V| indicating the vocabulary size. 
+In addition, the k-NN approach, taken from the domain of machine learning, represents a non- parametric model in which each text is viewed as a point in an m-dimensional space (instance-based model). Each of these dimensions corresponds to a feature or a token (lemma) in the current study. The relative frequency of each term indicates the amplitude in the corresponding direction. The same representation is applied to the disputed document. 
+To measure the distance between two points, numerous functions have been suggested, based on the L1 norm (e.g. Manhattan, see Equation (8)), L2 norm (e.g. Euclidian distance), inner prod- uct (e.g. Dice), entropy-based (e.g. Kullback– Leibler divergence), or on ad hoc principles (combining two or more measures). Such a strat- egy was proposed for authorship attribution (AA) (Zhao and Zobel, 2005; Savoy, 2012). 
+rtfiA 􏱴 rtfiQ : ð10Þ 
+D 
+ðA; QÞ 1⁄4 Xm 􏱶􏱶􏱶rtf 􏱴 rtf iA 
+i1⁄41 
+iQ 
+􏱶􏱶􏱶: ð8Þ 
+As the last attribution model, the letter n-gram (Abbasi and Chen, 2008) has been used to represent the different author profiles Ak (concatenation of all their novels). This text representation is more diffi- cult to interpret for the user but tends to be highly effective (Juola, 2008; Koppel et al., 2009), as demonstrated by the last PAN CLEF evaluation campaigns (Potthast et al., 2017). 
+When generating this text surrogate, overlapping token n-grams (for n1⁄41, 2, ..., 5) are applied. A word boundary does not prevent n-gram gener- ation, and each boundary appears in the resulting n- gram as a space. For example, the phrase ‘il mia amica e`’ (my friend is) produces the following 3- grams {‘_il’, ‘il_’, ‘_mi’, ‘mia’, ‘ia_’, . . ., ‘ca_’, ‘_e` _’}, where the spaces are underlined. However, sentence boundaries are respected and block n-gram gener- ation. Given that not all texts have the same length, the representation is usually based not on the abso- lute frequency (tf) but the relative frequency (rtf). Finally, the distance computation between the rep- resentation of the disputed text and the author pro- file can be established according to the Manhanttan, Tanimoto, or Matusita functions. 
+4 Evaluation 
+Having six approved attribution models to identify the true author, the next step is to apply them with an appropriate feature set. To achieve this objective, the seven novels written by Elena Ferrante form the test set, and all other 143 books belong to the train- ing set. Using the Delta model, all books written by an author are concatenated to build the correspond- ing author’s profile. Applying this approach, all seven of Ferrante’s novels are assigned to Domenico Starnone, taking account of the 50, 
+Manhattan 
+In a recent study using this attribution method, Kocher and Savoy (2017) found that both the Tanimoto (see Equation (9)) and Matusita func- tion (Equation (10)) are effective in profiling the author of a text. In these formulations, the text with known authorship (or the author profile) is denoted by A, while the disputed text is repre- sented by Q. 
+Is Starnone really the author behind Ferrante? 
+i1⁄41 
+Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 907 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+J. Savoy 
+Table 2 Ranked lists produced by the Delta model (100 MFT, profile-based approach) 
+
+Rank Distance L’amore molesto 
+	.	1  0.602  
+	.	2  0.731  
+	.	3  0.785  
+	.	4  0.825  
+	.	5  0.828  
+Author 
+Starnone Brizzi Tamaro Sereni Milone 
+Distance L’amica geniale 
+0.528 0.629 0.676 0.680 0.730 
+Author Distance Author Storia bambina perduta 
+   
+Starnone 0.565 Balzano 0.721 Sereni 0.745 Veronesi 0.747 Carofiglio 0.768 
+Starnone Veronesi Balzano Sereni Carofiglio 
+
+Table 3 Ranked lists produced by the Delta model (200 MFT, profile-based approach) 
+
+Rank Distance L’amore molesto 
+	.	1  0.650  
+	.	2  0.806  
+	.	3  0.837  
+	.	4  0.850  
+	.	5  0.874  
+Author 
+Starnone Brizzi Milone Tamaro Lagiola 
+Distance L’amica geniale 
+Author Distance Storia bambina perduta 
+   
+0.524 0.686 0.700 0.721 0.726 
+Starnone 0.539 Veronesi 0.709 Balzano 0.717 Brizzi 0.783 Milone 0.792 
+Author 
+Starnone Veronesi Carofiglio Balzano Tamaro 
+
+100, 150, 200, 250, 300, 400, 500, 1,000, 1,500, or 2,000 MFT or MFL. As the Italian language has a richer morphology than English, the lemma can reduce some redundant variations present in the tokens (e.g. from the tokens amico, amica, amici, the same lemma (amico, friend) is derived). 
+Usually, values between 200 and 500 MFT form a feature set found to be effective in determining the real author of a text or an excerpt of a novel (Savoy, 2015). Those sizes also correspond to values indi- cated in the seminal paper on this approach (Burrows, 2002) or (Hoover, 2004a). When it comes to authors whose style might be seen as simi- lar to Ferrante’s, one can find Veronesi (40 times), Milone (27), Carofiglio (25), Brizzi (24), Balzano (10), Tamaro (10), Mazzucco (7), Sereni (7), Giordano (2), Lagiola (1), or Parrella (1) ranked second or third, according to the 154 tests (7 novels 􏱺 11 feature sets 􏱺 2 ranks). 
+Table 2 reports the top five names, sorted by the Delta model using the 100 MFT, with three of Ferrante’s novels, namely, L’amore molesto (her first novel, published in 1992), L’amica geniale (the first book of her tetralogy, 2011), and Storia della bambina perduta (her most recent book, 
+2014). Table 3 depicts the same information but obtained with the 200 MFT. 
+In both cases, it is interesting to note that the distance value difference between the first and the second author is larger than the difference between the second and third. For example, in Table 2, the difference between the first two ranks is 0.731– 0.602 1⁄4 0.129 (or 21.4%). The divergence between the second and the third is 0.785–0.731 1⁄4 0.054 (or 7.4%). This comparison indicates that the first answer is clearly more probable than the rest of the ranked list. A similar finding can be found in Table 3. When considering the eleven MFT sets, the average difference between the first two ranks is 31.3% compared to 3.5% between the second and third ranks. 
+With the distance-based attribution model (Labbe ́, 2007), the entire vocabulary generates the feature set, using either word-tokens or lemmas (but without punctuation marks). When building each novel’s rep- resentation, the terms with an occurrence frequency of one or two are removed. Then, the intertextual distance is computed for all pairs of novels and ranked from the smallest to the largest distance. Table 4 gives an excerpt of such a ranked list. 
+908 Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+Table 4 Ranked list of Labbe ́’s distances between two novels (tokens) 
+Rank 
+s 2 3 4 5 ... 40 41 42 ... 48 ... 54 ... 65 66 ... 75 ... 96 
+Distance Author 
+Title 
+Author 
+Ferrante Ferrante Ferrante Ferrante Veronesi ... Starnone Carofiglio Starnone ... Starnone ... Starnone ... Veronesi Starnone ... Milone ... Starnone 
+Title 
+Storia della bambina perduta Storia di chi fugge e di chi resta Storia del nuovo cognome Storia della bambina perduta Terre rare 
+... 
+Prima esecuzione Bordo vertiginoso delle cose Eccesso di zelo ... Prima esecuzione ... Prima esecuzione ... Caos calmo Lacci ... Il silenzio del lottatore ... Prima esecuzione 
+0.212 Ferrante 0.213 Carofiglio 0.213 Ferrante ... ... ... 0.218 Ferrante La figlia oscura ... ... ... 
+In the top ranks, and with smallest distances, are novels written by the same author, as shown in Table 4. The top four links correspond to Ferrante’s novels, published in the space of 1 year, and dealing with similar topics (My Brillant Friend tetralogy). As the distance value increases, the cer- tainty that both books are written by the same nov- elist decreases. Ranked at #40 is the first ‘incorrect’ pairing (with a distance of 0.212); the second such pairing, between a novel written by Ferrante and one by Starnone, is ranked at #42 (distance 0.213). Subsequently, there are two additional ‘incorrect’ pairings (Rank #48 and #54, both pairing a novel by Ferrante and a novel by Starnone), before the first genuinely erroneous link (between De Silva and Veronesi), ranked at #65. This result indicates that the real author behind Elena Ferrante’s writings is, with some certainty, Domenico Starnone. Having four additional ‘incorrect’ pairings between these two names before any erroneous link between two other authors is clearly surprising. 
+Taking account of lemmas instead of tokens, a similar ranked list can be established, with its first pairing between a Ferrante novel (Storia della bam- bina perduta) and a Starnone novel (Lacci) ranked #35 (with a distance of 0.181). 
+The such a 
+next step is to estimate the probability that 
+I giorni dell abbandono Le perfezioni provvisorie L’amore molesto 
+0.221 Ferrante Storia di chi fugge e di chi resta 
+... ... ... 
+0.228 De Silva Mia suocera beve 0.228 Ferrante Storia di chi fugge e di chi resta ... ... ... 0.231 Ferrante Storia del nuovo cognome ... ... ... 0.237 Raimo Latte 
+Is Starnone really the author behind Ferrante? 
+ 
+0.126 Ferrante 0.130 Ferrante 0.136 Ferrante 0.138 Ferrante 0.145 Veronesi ... ... ... 
+Storia di chi fugge e di chi resta Storia del nuovo cognome L’amica geniale Storia del nuovo cognome 
+Caos calmo 
+
+small distance value (0.212 in this study) could be observed between two texts written by the same person. To establish this probability, one can model the distance values (some examples are given in Table 4) as derived from a mixture of two Gamma distributions, one between two novels written by the same person (distribution D1 in Fig. 1), the second with pairs linking papers pro- duced by two distinct authors (distribution D2). The estimation of both distributions has been completed without Ferrante’s novels. The Gamma distribution is chosen because the dis- tance values are never negative, can take all posi- tive values, and are skewed to the right. In Savoy (2016), the author suggests two Beta distributions with possible values limited within the range [0, 1]. 
+To estimate the probability that a distance value d 1⁄4 0.212 links two texts written by the same author, Prob [0.212􏱴􏱵 < d < 0.212þ􏱵 | D1] and Prob [0.212􏱴􏱵 < d < 0.212þ􏱵 | D2] (with 􏱵 fixed to 0.05) is computed. The sum of these two probabil- ities is used as a normalization constant. With this method, the probability that d 1⁄4 0.212 links two texts written by the same person is given by Prob 
+Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 909 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+J. Savoy 
+    
+Prob[d'-0.05 
+D1 
+0.0 
+Fig. 1 Labbe ́’s distance viewed as two Gamma distributions based on distance values (token text representation) 
+d d'+0.05 | D1] 
+D2 
+0.2 0.4 
+Prob[d'-0.05 d d'+0.05 | D2] 
+With d=0.32±0.05 
+0.6 0.8 1.0 
+   
+Gamma density 0 2 4 6 8 10 
+ 
+[0.212􏱴􏱵 < d < 0.212þ􏱵 | D1] and is equal to 0.96 in our case. 
+Instead of considering the entire ranked list, one can just look at the closest books for each of Ferrante’s novels (ignoring all Ferrante’s other books). In all cases, the first rank is occupied by a book written by Starnone. In the second position (ignoring Starnone’s works), one can usually ob- serve a pairing with a book written by Milone (Il silenzio del lottatore), and, for the first of Ferrante’s novels, a book by De Luca (Tu, mio). With lemmas, the same book by Milone occurs 4 times, while for the first and last novel of the My Brilliant Friend tetralogy, a novel authored by Sereni (Una storia chiusa) appears. With the third book of this tetral- ogy, the closest novel is Caos calmo written by Veronesi. 
+As a third attribution method, the NSC model has been applied. As feature sets, the 100, 150, 200, 250, 300, 400, 500, 1,000, 1,500, and 2,000 MFT or MFL are considered. In all cases, the seven novels by Ferrante have been assigned to Starnone when the shrunken parameter 􏱳 is fixed to 0.2, 0.5, or 0.7. With 500 MFT and 􏱳 set to 0.5, decisions are reached with 23.4% positive feature weights, 29.3% negative, and 47.3% (or 236 of 500) set to 
+0. With 300 MFT, the distribution of the feature weights is similar (25.4% positive, 31.6% negative, and 42.9% removed). Table 5 reports the top five names, sorted by the NSC model using the 200 MFT, for three Ferrante novels (L’amore molesto, L’amica geniale, and Storia della bambina perduta). As already shown in Tables 2 and 3, the difference between the distance in the first and second rank is higher than that between the second and third rank. 
+With a larger 􏱳 value than 0.7, the feature set size is significantly reduced. Compared to our pre- vious example, with 300 MFT and the shrinkage parameter 􏱳 fixed at 2.0, the decisions are then reached with 4.7% positive weights, 1.9 % negative, and with 93.4% are set to 0. As a direct effect, at- tributions to authors other than Stanone appear. For example, using 300 MFT or MFL (􏱳 1⁄4 2.0), the first two novels written by Ferrante (L’amore molesto and I giorni dell abbandono) are assigned to Tamaro. The NSC approach can, however, pro- vide an estimation that the proposed solution is the correct one (Tibshirani et al., 2003). In our last ex- ample (300 MFT, 􏱳 1⁄4 2.0), the probability esti- mated for assigning L’amore molesto to Tamaro is 0.37. With conservative parameter settings (e.g. 500 MFT or MFT, 􏱳 1⁄4 0.5), the assignment of Ferrante’s 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+910 Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 
+Table 5 Ranked lists produced by the NSC model (200 MFT, 􏱳 1⁄4 0.5) 
+Is Starnone really the author behind Ferrante? 
+
+Rank Distance L’amore molesto 
+	.	1  82.01  
+	.	2  103.88  
+	.	3  104.52  
+	.	4  107.64  
+	.	5  111.65  
+Author 
+Starnone Tamaro Milone Balzano Brizzi 
+Distance L’amica geniale 
+Author 
+Starnone Balzano Veronesi Milone Giordano 
+Distance Author Storia bambina perduta 
+64.91 Starnone 80.02 Balzano 83.93 Veronesi 92.91 Milone 94.29 Giordano 
+   
+Table 6 Ranked lists produced by the na ̈ıve Bayes model (50 MFT, profile-based approach) 
+Using a prior distribution based on the propor- tion of books written by each author does not modify these results. Replacing the tokens by the lemmas produces the same overall evaluation. Finally, substituting the author-profile representa- tion with an instance-based one (each novel corres- ponds to a possible hypothesis), the same conclusion is reached. 
+With the k-NN approach, each novel (according to an instance-based approach) can be represented by different feature sets. In the current experiment, eleven feature sets have been applied (50, 100, 150, 200, 250 300, 400, 500, 1,000, 1,500, and 2,000 MFT). As a distance measure, the Manhattan, Tanimoto, and Matusita functions have been applied. In total, we obtained 231 experiments (11 feature sets 􏱺 3 distance functions 􏱺 7 books). Varying the value of the parameter k 1⁄4 1 or 3, the same conclusion always appears: Starnone is the true author of the novels published under the pen name Ferrante. As indicated in Table 1, eleven nov- elists appear with only two books, implying that the largest value for k is 3. 
+Table 7 depicts the top five novels found to be the most similar to three of Ferrante’s books (L’amore molesto, L’amica geniale, and Storia della bambina perduta). To compute the distance, the Manhattan function was applied to the 200 MFT. To take the final decision, the value of the parameter k must be fixed, but according to the data shown in Table 7, the same result is returned for k 1⁄4 1, or 3 (and even 5). These data indicate that various novels written by Starnone are similar to the three books by Ferrante. For these three cases, the closest is the same novel (Eccesso di zelo) written in 1993. In the top five most similar, one can also find a book written by Milone (Il silenzio del lottatore). 
+Rank Author L’amore molesto 
+	.	1  Milone  
+	.	2  Starnone  
+	.	3  Brizzi  
+	.	4  Carofiglio  
+	.	5  Tamaro  
+Author L’amica geniale 
+Milone Starnone Carofiglio Balzano Brizzi 
+Author Storia bambina perduta 
+Starnone Milone Carofiglio Balzano Parrella 
+60.26 67.01 75.36 79.85 82.65 
+   
+seven books to Starnone is given a probability be- tween 0.97 and 0.99 (and sometimes even 1.0). This last value is certainly over-estimated but clearly dif- fers from the estimation obtained previously with Tamoro (0.37). 
+Reducing the number of word-types to 50 (􏱳 1⁄4 0.2 or 0.5), only one assignment differs (al- though we repeat that considering such a reduced set size is usually not effective, particularly when working with entire novels). In this case, the novel L’amica geniale is assigned to Balzano, while the other six are still attributed to Starnone. With fifty lemmas, this single distinct result does not appear. 
+With the na ̈ıve Bayes model, using a uniform prior distribution over the thirty-nine authors, the feature set corresponds to the 50, 100, 150, 200, 250 300, 400, 500, 1,000, 1,500, and 2,000 MFT. With the exception of the fifty MFT, all other experiments indicate Starnone in first place. With the fifty MFT (see Table 6), one can detect two differences. For the first novel (L’amore molesto), and the first of her tetralogy (L’amica geniale), the na ̈ıve Bayes model indicates that the probable author is Milone. Of course, such a reduced feature set size is usually not very effective, particularly when working with entire novels (Savoy, 2015). 
+Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 911 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+J. Savoy 
+Table 7 Ranked lists produced by the k-NN model (200 MFT, Manhattan, instance-based) 
+
+Rank 
+1 2 3 4 5 
+Distance L’amore molesto 
+Author Distance L’amica geniale 
+0.192 Eccesso di zelo 0.201 Via Gemito 0.212 Denti 0.215 Il silenzio del lottatore 0.227 Starnone Autobiografia 
+Author 
+Distance Author Storia bambina perduta 
+0.209 Starnone Eccesso di zelo 0.209 Starnone Scherzetto 
+0.215 Starnone Lacci 0.222 Starnone Autobiografia 
+0.222 Starnone Via Gemito 
+   
+0.186 Eccesso di zelo 0.197 Denti 0.209 Via Gemito 0.250 Prima esecuzione 0.251 Il silenzio del lottatore 
+Starnone Starnone Starnone Milone 
+Starnone Starnone Starnone Starnone Milone 
+
+Applying a character n-gram approach, the first pertinent feature set is a combination of character unigrams and bigrams extracted from the tokens. The single-letter frequencies are usually not very in- formative, and letter bigrams offer a better stylistic representation. Combining both unigrams and bigrams tends to produce more discriminate text surrogates. 
+In our first set of experiments, Ferrante’s profile is used as the query text and compared to the thirty- nine other author profiles, producing a ranked list as output. With this procedure, the three distance functions (Labbe ́, Tanimoto, or Matusita) always return Starnone as the closest profile. Using a 3- gram to 6-gram text representation, Starnone always appears in first place. Ranked second and third are Carofiglio (6 times), Sereni (6), Mazzucco (4), Tamaro (4) and Veroni (4), accord- ing to the 24 tests (4 n-grams 􏱺 3 distances 􏱺 2 ranks). 
+In a second set of experiments, each of Ferrante’s novels forms the query text to be compared with the other thirty-nine authors’ profiles (k-NN with k 1⁄4 1, profile-based approach). An example of three ranked lists is depicted in Table 8, using the Tanimoto distance with unigram and bigram text representation. In this case, the same name appears in first place. 
+Applying the two other distance functions, the same result always appears in first place. For each of Ferrante’s books, the author appearing in first place is Starnone, with n-gram 1⁄4 1 and 2, 3, 4, or 5. The authors found most frequently in second and 
+third place are Tamaro (54 times), Carofiglio (33 times), Milone (26), Sereni (21), Veronesi (14) and Mazzucco (10) according to the 168 tests (4 n-grams 􏱺 3 distances 􏱺 7 novels 􏱺 2 ranks). When text representations are generated with 6-grams, Ferrante’s first novel (L’amore molesto) and third novel (and smallest, La figlia oscura) are assigned to Mazzucco (ranked first). For the five others, Starnone appears in first place (as well as in second place for the two novels attributed to Mazzucco). Even if n-gram text representation has been found effective, the processing time is greater than for word-based representation. The processing time increases exponentially with the value of n. For example, where n1⁄46, the attribution of the seven novels by Ferrante took a mean of 17.8 h, while the same task required 2.4 h with the 5-gram model (54.6 min for 4-grams, and 48 min for 3-grams) or 44 s with the Delta model (or 22 s with the NSC approach). 
+5 Toward a Rigorous Verification Protocol (Open-Set Assumption) 
+In the previous experiments, the name Domenico Starnone appears very often as the first possible author in the ranked lists generated by different authorship attribution methods. Having the support of more than one attribution model doubtless re- inforces the certainty that the true author behind Elena Ferrante is Starnone. To promote a rigorous 
+912 Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+Table 8 Ranked lists produced by the combined letter uni- and bigram representation (Tanimoto distance, profile- based approach) 
+Rank Distance L’amore molesto 
+	.	1  0.066  
+	.	2  0.074  
+	.	3  0.075  
+	.	4  0.077  
+	.	5  0.081  
+Author 
+Starnone Mazzucco Milone Prisco Lagioia 
+Distance L’amica geniale 
+Author 
+Starnone Milone Mazzucco Montesano Balzano 
+Distance Author Storia bambina perduta 
+0.057 Starnone 0.074 Carofiglio 0.075 Mazzucco 0.078 Scarpa 0.078 Nesi 
+Is Starnone really the author behind Ferrante? 
+    
+0.060 0.071 0.072 0.075 0.075 
+
+evaluation protocol, a set of criteria must be clearly met. 
+First, all selected attribution models must be standard approved methods in the field and have been the subject of several distinct evaluations based on various corpora. Each selected attribution method must have been used with success in various contexts, and its behavior must have been analyzed by different previous studies. A new method can be favored by hidden and unknown characteristics of the underlying test collection. 
+Second, the test collection must respect certain constraints to deliver consistent results. The Italian corpus (Tuzzi and Cortelazzo, unpublished) used in our experiments is composed of books belonging to the same text genre (novels for adult readers). They contain more than 10,000 words (with one single exception), a size found to be appropriate for the achievement of reliable and stable results (Eder, 2015). The text quality has been checked (e.g. spel- ling), and additional elements (e.g. page numbers, running titles) have been removed. Finally, all the novels were published in the same time period (1987–2016). 
+Based on these two fundamental elements, each attribution method works in an ideal situation (Chaski, 2013). According to past evaluations, we can suppose that each model has an accuracy rate of 0.8 (or 80%), a rather conservative value. Consequently, the chance of providing an incorrect assignment is 0.2 (or 20%). Assuming that their results are independent, the chance that two attributions are incorrect is (1􏱴0.8) 􏱺 (1􏱴0.8) 1⁄4 (1􏱴0.8)2 1⁄4 0.04 (or 4%) (Juola, 2016). With six models, this probability decreases to (1􏱴0.8)6 1⁄4 0.000064, fewer than 1 in 10,000. 
+Assuming that two of the proposed feature sets are independent (six methods with two feature sets), the probability of a systematic error decreases to (1􏱴0.8)12 􏱻 4.1/1 billion. The chance that such a systematic error might occur is very low. 
+Until now, the closed-set assumption has been applied: the true author is one of the novelists pre- sent in our corpus. To confirm our conclusion, a final step must be included in the evaluation proto- col. In this additional stage, all novels written by Starnone are removed from the corpus. In such a case, the real author could be absent from our can- didate list. If our assertion is correct (Starnone is the true author), the evaluation situation changes from the closed-set to the open-set context. The true author could be one of the thirty-eight remaining authors, or another author. 
+After this reduction, the corpus contains thirty- nine authors (with Ferrante) and 140 books. Then, all the previous methods with their feature sets are reapplied. If Starnone is not the true author, an- other name must appear, more or less recurrently, as the real secret hand behind Elena Ferrante. On the other hand, if several different names appear in the top ranks (limited to first place in this study), our conclusion will be confirmed. In addition, re- turning several distinct names provides informal proof that the underlying methods are independent. 
+In this second set of experiments, the Delta model was applied to the seven novels with eleven feature sets with both tokens and lemmas, resulting in 154 tests (7 􏱺 11 􏱺 2). Using Labbe ́’s distance, seven novels are analyzed with two representations (lemmas and tokens) giving fourteen. The NSC ap- proach gives 924 (7 novels 􏱺 11 features 􏱺 6 dis- tinct 􏱳 values 􏱺 2 tokens and lemmas). The na ̈ıve 
+Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 913 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+J. Savoy 
+Table 9 Names ranked first with different methods and parameter settings (corpus without Starnone) 
+
+Method 
+Delta Delta Labbe ́ Labbe ́ NSC NSC k-NN k-NN Bayes Bayes n-gram n-gram 
+Parameter 
+200 MFT 200 MFL All tokens All lemmas 50MFT,􏱳1⁄40.2 500MFL,􏱳1⁄40.5 50 MFT, Manhattan 1000 MFL, Matusita 100, Uniform 
+500, Prop. 1- and 2-gram, Tani. 4-gram, Manhattan 
+Type 
+Profile Profile Instance Instance Profile Profile Instance Instance Profile Profile Profile Profile 
+Ranked first 
+Veronesi (3) Veronesi (4) Milone (4) Milone (6) Balzano (5) Veronesi (4) Milone (3) Sereni (5) Milone (3) Milone (4) Carofiglio (3) Tamaro (3) 
+Tamaro (2) Brizzi (2) Sereni (2) DeLuca (1) Milone (2) Milone (1) Murgia (2) Vasta (1) Carofiglio (2) Carofiglio (2) Mazzucco (3) Carofiglio (3) 
+Brizzi (1) Giordano (1) Veronesi (1) 
+Giordano (1) Carofiglio (1) Raimo (1) Balzano (1) Tamaro (1) Milone (1) Milone (1) 
+Carofiglio (1) 
+Naraini (1) Balzano (1) 
+Tamaro (1) 
+ 
+Bayes produces 154 (7 novels 􏱺 11 features 􏱺 2 uniform prior or proportional). The k-NN classifier generates 231 (7 novels 􏱺 11 features 􏱺 3 distance functions). Finally, the letter n-gram model was applied, giving 42 tests (7 novels 􏱺 3 distances 􏱺 2 uni- and bigrams or 4-grams), resulting in a grand total of 1,519 tests. Some examples are reported in Table 9, where under the label ‘First rank’ one can find the authors ranked first (in parentheses, we indicate how many times this name appears in first place). 
+Of the thirty-eight novelists in our corpus, only twenty-two appear, at least once, in first place in the ranked list of authors produced by 1,519 experiments. These names are Balzano, Brizzi, Carofiglio, Covacich, De Luca, De Silva, Giordano, Lagioia, Maraini, Mazzucco, Milone, Murgia, Nesi, Piccolo, Raimo, Rea, Scarpa, Sereni, Tamaro, Valerio, Vasta, and Veronesi. Clearly, instead of having a single alterna- tive author, a larger variability occurs. These experi- ments also demonstrate that each of the attribution methods focuses on different stylistic aspects and thus proposes different names. This empirically confirms that the underlying methods are independent. 
+Imposing the additional condition that a name must be the most frequent in the ranked lists gen- erated by an attribution method (with different par- ameter settings), the list of candidates is limited to six, namely, Balzano (NSC), Carofiglio (n-gram), Milone (Labbe ́ , na ̈ıve Bayes), Sereni (k-NN), 
+Tamaro (n-gram), and Veronesi (Delta, NSC). None of them is cited by three (or more) attribution methods. Therefore, the following sixteen names are never strongly associated with Ferrante’s style: Affinati, Ammaniti, Bajani, Barricco, Benni, Faletti, Fois, Mazzantini, Montesano, Morazzoni, Nori, Parrella, Pincio, Prisco, Ramondino, and Vinci. 
+Finally, it is usually useful to inspect some results more carefully. For example, Table 10 depicts the ranked lists established by considering three of Ferrante’s novels in the context of the corpus from which Starnone’s books have been removed. Compared to Table 3 (same attribution model and feature set), the difference in distance between the first and the second is rather similar to the differences appearing when considering other single rank differ- ences. For example, with the first novel (L’amore molesto), the difference between the first two pos- itions is 0.818􏱴0.812 1⁄4 0.006 (or 0.7%). The gap be- tween the second and the third distance values is 0.843􏱴0.818 1⁄4 0.025 (or 0.3%). As the Delta method must return a ranked list, such a list is gen- erated, but the degree of certainty associated with the first answer is rather low because the latter is too close to the other possible writers. With this parameter setting, and looking at the seven novels by Ferrante, Veronesi appears 3 times in first place, Tamaro twice, and Brizzi and Carofiglio once. All these consider- ations indicate that the real author is not in the cur- rent writer list of thirty-eight candidates. 
+914 Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+Table 10 Ranked lists produced by the Delta model after removing Starnone’s novels (200 MFT, profile-based approach) 
+Is Starnone really the author behind Ferrante? 
+
+Rank Distance L’amore molesto 
+	.	1  0.812  
+	.	2  0.818  
+	.	3  0.843  
+	.	4  0.861  
+	.	5  0.880  
+Author Distance L’amica geniale 
+Tamaro 0.684 Brizzi 0.693 Milone 0.714 Lagiola 0.722 Balzano 0.734 
+Author 
+Veronesi Balzano Milone Brizzi Nesi 
+Distance Author Storia bambina perduta 
+0.706 Veronesi 0.709 Carofiglio 0.756 Tamaro 0.784 Rea 
+0.789 Balzano 
+    
+6 Detailed Analysis When applying the six attribution models, we im- 
+plicitly admit that the vocabulary choice and the term frequencies can reveal each author’s distinctive style. More explicit reasons justifying the strong lex- ical similarity between Starnone and Ferrante can be found when inspecting the word usage of these two authors, as compared to the others. Focusing on frequent words, one can assume that those words are employed with similar frequencies by all writers. Then, their occurrence frequencies can be compared with the proportion in the novels written by each author. For example, Starnone’s books represents 6.4% of the corpus and Ferrante’s 6.5%. 
+Our first example is the word-type padre (father), occurring 9,815 times (100%) in the corpus. Compared to all the other novelists, this word-type is proportionally more frequent in Ferrante’s novels (8.5% for 833 occurrences) and in Starnone’s writings (11.9% for 1,170 occur- rences). A similar distribution can be observed for the word-type madre (mother): its frequency in the corpus is 8,246, with 1,104 in Ferrante’s works (13.4%) and 762 in Starnone’s (9.2%). 
+Additional examples can be extracted, and Table 11 reports other word-types such as percio` (therefore) occurring 1,263 times in the entire corpus, with 222 occurrences (17.6%) in Ferrante’s novels, and 254 (20.1%) in Starnone’s. In the last column of Table 11, the chi-square test has been applied, to verify whether the word-type distri- bution differs significantly between the authors (all P-values<0.1%) (Oakes and Farrow, 2007). As a unique case, the word-type persino (even) can also be spelled as perfino. For both Ferrante and 
+Table 11 Examples of words occurring more frequently in Ferrante’s and Starnone’s novels 
+Word 
+padre (father) madre (mother) percio`(therefore) persino (even) temere (fear) tono (tone) gridare (shout) 
+monstrare (to show) content (happy) 
+brutto (ugly) frase (phrase) 
+
+Corpus Ferrante (6.5%) (6.4%) 
+Starnone Significant? 
+
+9,815 833 1,170 Yes (8.5%) (11.9%) 
+8,246 1,104 762 Yes (13.4%) (9.2%) 
+1,263 222 254 Yes (17.6%) (20.1%) 
+1,351 266 205 Yes (19.7%) (15.2%) 
+1,345 274 207 Yes (20.4%) (15.4%) 
+2,135 421 286 Yes (19.7%) (13.4%) 
+2,201 399 303 Yes (18.1%) (13.8%) 
+2,271 384 310 Yes (16.9%) (13.7%) 
+1,665 280 227 Yes (16.8%) (13.6%) 
+1,893 327 243 Yes (17.3%) (12.8%) 
+2,182 334 312 Yes (15.3%) (14.3%) 
+
+Starnone, the preferred spelling is persino (used 266 versus 20 times for perfino in Ferrante’s writ- ings, 205 versus 18 times in Starnone’s novels). This pattern can also be found in the works of a few other writers, such as Prisco (132 occurrences of persino, 1 of perfino). Some novelists employ only one form (e.g. Baricco with perfino, Tamaro with persino), while others omit both words (e.g. Covacich, Parrella) or use them only rarely (e.g. De Luca or Balzano, with a single occurrence 
+Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 915 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+J. Savoy 
+of perfino). However, this word-type is clearly over- used by both Ferrante and Starnone. 
+On the other hand, some word-types are only employed by these two writers, such as contraddit- toriamente (fifteen occurrences, contradictory), giravite (thirteen occurrences, screwdriver (more often named cacciavite)), studenti (ten occurrences, students), and soffertamente (eight occurrences, by suffering). An interesting example is the word-type malodore (seventeen occurrences, stink), appearing with this spelling in both Ferrante’s and Stanone’s novels; however, the same meaning can appear as mal odore or maleodore. These last two spellings appear in other novels but never under Ferrante’s or Starnone’s authorship. 
+As a third stratum of word frequency, one can consider word-types with low occurrence frequency in the whole corpus, specifically those occurring more often in works by Starnone and Ferrante than in those by other Italian authors. For example, the term minutamente (minutely) occurs 28 times in Ferrante’s novels, 14 times in Starnone’s writings, and 3 times in the rest. With tassare (to tax), one can observe something similar: 22 for Ferrante, 10 for Starnone, and 3 times for the others. The word-type reattivita` (reactivity) occurs 22 times in the whole corpus, with Ferrante employing it 6 times and Starnone 13 times. Our last example relates to dialect usage, with the word strunz (shit). This term does not belong to the classical Italian language (in which it is spelled as stronzo) but corresponds to a Neapolitan dialect form. The distribution of occur- rence for this word is as follows: 18 times in Ferrante’s novels, 63 times in Starnone’s writings, and 4 times for all the others (twice in De Silva’s novels, and twice in Raimo’s novels). 
+7 Conclusion 
+Based on six attribution models and several distinct feature sets, this study confirms the conclusion that Domenico Starnone is the true author of Ferrante’s novels (Tuzzi and Cortelazzo, unpublished). Varying the parameter values of the six text categorization methods does not change this conclusion. 
+Considering tokens (Delta, NSC, k-NN, na ̈ıve Bayes), lemmas (Delta, Labbe ́, na ̈ıve Bayes), or letter n-grams as features, the same result is always achieved. Modifying the feature set size does not change this finding. Applying a classifier based on author profiles (Delta, NSC, letter n-grams) or using an instance- based approach (Delta, Labbe ́, k-NN, na ̈ıve Bayes) always produces the same attribution. Thus, consider- ing their lexical proximity, all methods point toward the same name behind Elena Ferrante’s novels. 
+The underlying corpus contains all novelists who have been mentioned as possible hidden hands behind Ferrante. This set contains ten authors ori- ginating from the region (Campania) that forms the background for the My Brilliant Friend tetralogy. In addition, when generating this corpus, twelve female writers were selected. Therefore, one can conclude that a real effort has been made to include many authors sharing some important extra-textual rela- tionships with Ferrante (e.g. a woman coming from Naples or its surroundings). 
+The first part of this study is based on the closed-set assumption. Respecting the underlying hypothesis, we must acknowledge that a collabor- ation between two (or more) people might exist, for example, to craft some psychological traits of figures appearing in the novels, to give more detail on part of a scene, and to imagine other ways a dialog might take place. However, according to our study, the writing process is the product of a single person. For example, in Table 4 the intertextual distance ranked at #40 is too small to allow for the existence of two writers. The probabilities of assignments derived from both Labbe ́’s method (96%) and the NSC model (99%) are very high, showing strong evidence that only one person undertook the writ- ing. We might also note that Domenico Starnone himself does not corroborate our conclusion (Fontana, 2017), and the mystery about the name Ferrante is not completely erased. 
+Finally, according to our proposed verification protocol, the Starnone novels were removed from the corpus. Then the same set of methods and fea- ture sets was reapplied. In this open-set situation, each attribution model tends to propose a different name in first place, where the most frequent were 
+916 Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+Balzano, Carofiglio, Milone, Sereni, Tamaro, and Veronesi. Such a diverse result indicates that the real author is certainly not present in the list of possible writers. A more detailed analysis performed with the Delta model supports this finding (that the truth lies elsewhere). Finally, the evidence presented in Sections 4, 5, and 6 overwhelmingly points to the same conclusion: Domenico Starnone2 is the real writer behind the pseudonym Elena Ferrante (even if this conclusion is not 100% certain). 
+Acknowledgments 
+The author would like to thank Prof. Arjuna Tuzzi and Prof. Michele Cortelazzo from Padua University for their valuable work in generating the PIC corpus, without which this study could not have been completed. The author also extends his thanks to the anonymous reviewers for their helpful suggestions and remarks. 
+References 
+Abbasi, A. and Chen, H. (2008). Writeprints: a stylomet- ric approach to identity-level identification and simi- larity detection in cyberspace. ACM–Transactions on Information Systems, 26(2): Article 7. 
+Argamon, S. (2008). Interpreting Burrows’s Delta: geo- metric and probabilistic foundations. Literary and Linguistic Computing, 23(2): 131–47. 
+Burrows, J. F. (2002). Delta: a measure of stylistic differ- ence and a guide to likely authorship. Literary and Linguistic Computing, 17(3): 267–87. 
+Burrows, J. F. (2007). All the way through: testing for authorship in different frequency strata. Literary and Linguistic Computing, 22(1): 27–47. 
+Chaski, C. (2013). Best practices and admissibility of fo- rensic author identification. Journal of Law and Policy, 21(2): 333–76. 
+Craig, H. and Kinney, A. F. (2009). Shakespeare, Computers, and the Mystery of Authorship. Cambridge: Cambridge University Press. 
+Eder, M. (2015). Does size matter? Authorship attribu- tion, small samples, big problem. Digital Scholarship in the Humanities, 30(2): 167–82. 
+Evert, S., Proisl, T., Jannidis, F., Reger, I., Pielstro ̈m, S., Scho ̈ch, C., and Vitt, T. (2017). Understanding and explaining Delta measures for authorship attribution. Digital Scholarship in the Humanities, 32(2): ii4–ii16. 
+Fontana, E. (2017). Lo scrittore Domenico Starnone: ‘‘Io non sono Elena Ferrante’’. Il Giornale, 9 September 2017. 
+Hoover, D. L. (2004a). Delta prime? Literary and Linguistic Computing, 19(4): 477–95. 
+Hoover, D. L. (2004b). Testing Burrows’s Delta. Literary and Linguistic Computing, 19(4): 453–75. 
+Jockers, M. L. (2013). Testing authorship in the personal writings of Joseph Smith using NSC classification. Digital Scholarship in the Humanities, 28(3): 371–81. 
+Jockers, M. L. and Witten, D. M. (2010). A comparative study of machine learning methods for authorship attri- bution. Literary and Linguistic Computing, 25(2): 215–223. 
+Jockers, M. L., Witten, D. M., and Criddle, C. S. (2008). Reassessing authorship of the Book of Mormon using Delta and nearest shrunken centroid classification. Literary and Linguistic Computing, 23(4): 465–491. 
+Juola, P. (2008). Authorship attribution. Foundations and Trends in Information Retrieval, 1(3): 233–334. 
+Juola, P. (2016). The Rowling case: a proposed standard analytic protocol for authorship questions. Digital Scholarship in the Humanities, 30(1): i100–i113. 
+Juola, P. and Vescovi, D. (2011). Analyzing stylometric approaches to author obfuscation. In Peterson G., Shenoi S. (eds) Advances in Digital Forensics VII. Digital Forensics 2011. IFIP Advances in Information and Communication Technology, vol. 361. Berlin: Springer-Verlag, pp. 115–25. 
+Kocher, M. and Savoy, J. (2017). Distance measures in author profiling. Information Processing and Management, 53(5): 1103–19. 
+Koppel, M., Schler, J., and Argamon, S. (2009). Computational methods in authorship attribution. Journal of the American Society for Information Science and Technology, 60(1): 9–26. 
+Labbe ́, D. (2007). Experiments on authorship attribution by intertextual distance in English. Journal of Quantitative Linguistics, 14(1): 33–80. 
+Labbe ́, D. (2008). Romain Gary et Emile Ajar. HAL 00279663. 
+Labbe ́ , C. and Labbe ́ , D. (2013). Duplicate and fake pub- lications in the scientific literature. Scientometrics, 94(1): 379–96. 
+Is Starnone really the author behind Ferrante? 
+Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 917 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+J. Savoy 
+Mitchell, T. M. (1997). Machine Learning. New York, NY: McGraw-Hill. 
+Mosteller, F. and Wallace, D. L. (1964). Applied Bayesian and Classical Inference: The Case of the Federalist Papers. Reading: Addison-Wesley. 
+Oakes, M. P. and Farrow, M. (2007). Use of the chi-squared test to examine vocabulary differences in English language corpora representing seven different countries. Literary and Linguistic Computing, 22(1): 85–99. 
+Potthast, M., Rangel, F., Tschuggnall, M., Stamatatos, E., Rosso, P., and Stein, B. (2017). Overview of PAN’17: author identification, author profiling, and author obfuscation. In Jones G. J. F., Lawless, S., Gonzalo, J., Kelly, L., Goeuriot, L., Mandl, T., Cappallato, L., and Ferro, N. (eds), Experimental IR Meets Multilinguality, Multimodality, and Interaction. 7th International Conference of the CLEF Initiative (CLEF 17). Berlin: Springer. 
+Ratinaud, P. and Marchand, P. (2016). Quelques me ́th- odes pour l’e ́tude des relations entre classification lex- icales de corpus he ́te ́roge`nes: applications aux de ́bats a` l’Assemble ́e nationale et aux sites web de partis poli- tiques. In Proceedings of JADT. Jadt.org, pp. 193–202. 
+Savoy, J. (2012). Authorship attribution based on specific vocabulary. ACM–Transactions on Information Systems, 30(2): 170–99. 
+Savoy, J. (2013). The federalist papers revisited: a collab- orative attribution scheme. In Proceedings ASIST 2013, ASIST, Montreal, November 2013. 
+Savoy, J. (2015). Comparative evaluation of term selec- tion functions for authorship attribution. Digital Scholarship in the Humanities, 30(2): 246–61. 
+Savoy, J. (2016). Estimating the probability of an authorship attribution. Journal of the American Society for Information Science and Technology, 67(6): 1462–72. 
+Stamatatos, E. (2009). A survey of modern authorship attribution methods. Journal of the American Society for Information Science and Technology, 60(3): 538–56. 
+Thisted, R. and Efron, B. (1987). Did Shakespeare write a newly-discovered Poem? Biomerika, 74(3): 445–55. 
+Tibshirani, R., Hastie, T., Narasimhan, B., and Chu, G. 
+(2002). Diagnosis of multiple cancer types by shrunken centroids of gene expression. Proceedings of the National Academy of Sciences of the United States of America, 99(10): 6567–72. 
+Tibshirani, R., Hastie, T., Narasimhan, B., and Chu, G. 
+(2003). Class prediction by nearest shrunken centroids, with applications to DNA microarrays. Statistical Science, 18(1): 104–17. 
+Tuzzi, A. (2010). What to put in the bag? Comparing and contrasting procedures for text clustering. Italian Journal of Applied Statistics, 22(1): 77–94. 
+Voorhees, H. and Harman, D. (2005). The TREC Experiment and Evaluation in Information Retrieval. Cambridge: The MIT Press. 
+Witten, I. H., Franck, E., Hall, M., and Pal, C. (2016). Data Mining. Practical Machine Learning Tools and Techniques. Amsterdam: Elsevier. 
+Wolpert, D. H. (2001). The supervised learning no-free-lunch theorems. In Proceedings of the 6th Online World Conference on Soft Computing in Industrial Applications, Santiago, Chile, September 10–14, pp. 25–42. 
+Zhao, Y. and Zobel, J. (2005). Effective and scalable authorship attribution using function words. In Lee, G. G., Yamada, A., Meng, H., and Myaeng, S. H. (eds), Information Retrieval Technology, Proceedings AIRS 2005, LNCS, vol. 3689. Berlin: Springer-Verlag, pp. 174–189. 
+Notes 
+	.	1  Available at http://www.cis.uni-muenchen.de/􏱼schmid /tools/TreeTagger/  
+	.	2  The author will give 20 Euros to the first person who provides stronger scientific evidence that the real author behind Ferrante’s novels is not Domenico Starnone.  
+918 Digital Scholarship in the Humanities, Vol. 33, No. 4, 2018 
+Downloaded from https://academic.oup.com/dsh/article-abstract/33/4/902/5001585 by Adam Ellsworth, Adam Ellsworth on 15 October 2018 
+Copyright of Digital Scholarship in the Humanities is the property of Oxford University Press / USA and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use. 

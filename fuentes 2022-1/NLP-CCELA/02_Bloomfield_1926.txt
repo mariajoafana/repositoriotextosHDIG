@@ -1,0 +1,256 @@
+
+A SET OF POSTULATES FOR THE SCIENCE OF LANGUAGE 
+LEONARD BLOOMFIELD OHIO STATE UNIVERSITY 
+I. Introductory. 
+The method of postulates (that is, assumptions or axioms) and defini- tionst is fully adequate to mathematics; as for other sciences, the more complex their subject-matter, the less amenable are they to this method, since, under it, every descriptive or historical fact becomes the subject of a new postulate. 
+Nevertheless, the postulational method can further the study of language, because it forces us to state explicitly whatever we assume, to define our terms, and to decide what things may exist independently and what things are interdependent.2 
+Certain errors can be avoided or corrected by examining and formu- 
+lating our (at present tacit) assumptions and defining our (often unde- fined) terms.3 
+Also, the postulational method saves discussion, because it limits our statements to a defined terminology; in particular, it cuts us off from psychological dispute.4 Discussion of the fundamentals of our science 
+1For a clear exposition of this method, see J. W. Young, Lectureson theFundamental 
+Conceptsof Algebraand Geometry,New York 1911. 1 Cf. A. P. Weiss's set of postulates for psychology, Psychological Review. 32. 83. 3Examples are many. Bopp took for granted that the formative elements of Indo- 
+European were once independent words; this is a needless and unwarranted assumption. The last descendant of his erroris the assumption that IE compound words are historically 
+derived from phrases (Jacobi, Compositumund Nebensatz, Bonn 1897; this even in Brug- mann, GrundriszI)I, 1, pp. 37. 78; cf. TAPA 45. 73 ff.). The notion is gaining ground that some forms have less meaning than others and are therefore more subject to phonetic change (Horn, Sprachkiirperund Sprachfunktion, Palaestra 135, Berlin 1921); I, for one, can discover no workable definition of the terms 'meaning' and 'phonetic change' under which this notion can be upheld. The whole dispute, perhaps today as unstilled as fifty years ago, about the regularity of phonetic change, is at bottom a question of terminology. 
+*Recall the difficulties and obscurities in the writings of Humboldt and Steinthal, and the psychological dispute of Paul, Wundt, Delbrueck. From our point of view, the last-named was wrong in denying the value of descriptive data, but right in saying that it is indifferent what system of psychology a linguist believes in (Grundfragender Sprach- 
+forschung, Strassburg 1901). The trouble over the nature of the sentence is largely non- linguistic; contrast the simplicity and usefulness of Meillet's definition (adopted below), 
+ 
+ 
+
+
+seems to consist one half of obvious truisms, and one half of metaphysics; 
+this is characteristic of matters which form no real part of a subject: 
+they should properly be disposed of by merely naming certain concepts as belonging to the domain of other sciences. 
+Thus, the physiologic and acoustic description of acts of speech belongs to other sciences than ours. The existence and interaction of social 
+groups held together by language is granted by psychology and anthro- pology.5 
+Psychology, in particular, gives us this series: to certain stimuli(A) a person reacts by speaking; his speech (B) in turn stimulates his hearers to certain reactions (C).6 By a social habit which every person acquires in infancy from his elders, A-B-C are closely correlated. Within this correlation, the stimuli (A) which cause an act of speech and the reactions (C) which result from it, are very closely linked, because every person acts indifferently as speaker or as hearer. We are free, therefore, without further discussion, to speak of vocalfeatures or sounds (B) and of stimulus-reactionfeatures (A-C) of speech. 
+II. Form and Meaning. 
+1. Definition. An act of speech is an utterance. 
+2. Assumption 1. Within certain communities successive utterances are alike or partly alike. 
+A needy stranger at the door says I'm hungry. A child who has eaten 
+and merely wants to put off going to bed says I'm hungry. Linguistics considers only those vocal features which are alike in the two utterances, and only those stimulus-reaction features which are alike in the two utterances. Similarly, The book is interesting and Put the book away, are partly alike (the book). Outside of our science these similarities are 
+Introductiond I'dtudecomparativdeeslanguesindo-europtennesP,3aris 1912,p. 339. I amindebtedalsotoSapir'sbookonLanguage,NewYork1921,andtodeSaussure's Coursdelinguistiquegintrale,2Paris1922;bothauthorstakesteps towarda delimitationof linguistics. 
+6 Cf. Weiss, 1. c., p. 86: 'The languageresponsesestablish the .... social type of organization.... . 
+6Cf.Weiss,JournalofPhilosophyP,sychologyandScientificMethods15.636:'The significantthing about the speechreactionis that it may be eitherthe adequatereaction to a situation,or it may be the adequatestimulusfor eitheranotherspeechreactionor some bodily reaction.' 
+This content downloaded from 192.87.79.51 on Fri, 08 Aug 2014 12:12:32 UTC All use subject to JSTOR Terms and Conditions 
+ 
+
+only relative; within it they are absolute. This fiction is only in part suspended in historical linguistics. 
+3. Def. Any such community is a speech-community. 4. Def. The totality of utterances that can be made in a speech- 
+community is the language of that speech-community. We are obliged to predict; hence the words 'can be made'. We say 
+that under certain stimuli a Frenchman (or Zulu, etc.) will say so-and-so and other Frenchmen (or Zulus, etc.) will react appropriately to his 
+speech. Where good informants are available, or for the investigator's own language, the prediction is easy; elsewhere it constitutes the 
+greatest difficulty of descriptive linguistics. 5. Def. That which is alike will be called same. That which is not 
+same is different. This enables us to use these words without reference to non-linguistic 
+shades of sound and meaning. 6. Def. Thevocalfeaturescommontosameorpartlysameutterances 
+are forms; the corresponding stimulus-reaction features are meanings. Thus a form is a recurrent vocal feature which has meaning, ~tnda meaning is a recurrent stimulus-reaction feature which corresponds to a 
+form. 7. Assumption 2. Every utterance is made up wholly of forms. 
+III. Morpheme, Word, Phrase. 
+8. Def. A minimum X is an X which does not consist entirely of lesser X's. 
+Thus, if Xx consists of X2X3X4,then X1 is not a minimum X. But if 
+Xx consists of X2X3A, or of X2A, or of A1A2,or is unanalyzable, then Xxis a minimum X. 
+9. Def. A minimum form is a morpheme;its meaning a sememe. 
+Thus a morpheme is a recurrent (meaningful) form which cannot in 
+turn be analyzed into smaller recurrent (meaningful) forms. Hence any 
+unanalyzable word or formative is a morpheme. 10. Def. A form which may be an utterance is free. A form which is 
+not free is bound. 
+Thus, book,the man are free forms; -ing (as in writing), -er (as in writer) are bound forms, the last-named differing in meaning from the free form err. 
+
+
+11. Def. A minimum free form is a word. 
+A word is thus a form which may be uttered alone (with meaning) but 
+cannot be analyzed into parts that may (all of them) be uttered alone 
+(with meaning). Thus the word quick cannot be analyzed; the word quickly can be analyzed into quick and -ly, but the latter part cannot be uttered alone; the word writercan be analyzed into writeand -er, but the latter cannot be uttered alone (the word err being, by virtue of different meaning, a different form); the word blackbirdcan be analyzed into the words black and bird and the word-stress --, which last cannot be uttered alone (i.e., it differs in form and meaning from the phrase black bird). 
+12. Def. A non-minimum free form is a phrase. 
+E.g., the book,or The man beatthe dog; but not, e.g. bookon (as in Lay the bookon the table), for this is meaningless, hence not a form; and not blackbird,which is a minimum free form. 
+13. Def. A bound form which is part of a word is aformative. 
+A formative may be complex, as, Latin verb-endings -abat, -abant, 
+-abit, -abunt, etc., or minimum (and hence a morpheme), as Latin -t of 
+third person. 14. Assumption 3. The forms of a language are finite in number. 
+IV. Example of a Special Assumption. 
+The phenomena of specific languages will no doubt necessitate further 
+assumptions of form; and these will sometimes modify the general 
+assumptions. The following is an example of such a special assumption. Assumption S1. A phrase may contain a bound form which is not 
+part of a word. 
+For example, the possessive [z] in the man I saw yesterday'sdaughter. Def. Such a bound form is a phrase-formative. 
+This assumption disturbs the definition of phrase above given. Strictly speaking, our assumptions and definitions would demand that 
+we take the-man-I-saw-yesterday'sdaughteras two words. Convenience of analysis makes an assumption like the present one preferable for English. A similar assumption might be convenient for the Philippine 'ligatures'. 
+
+
+
+V. Phonemes. 
+15. Assumption 4. Different morphemes may be alike or partly alike as to vocal features. 
+Thus book : table [b]; stay : west [st]; -er (agent) : -er (comparative). The assumption implies that the meanings are different. 
+16. Def. A minimum same of vocal feature is a phonemeor distinctive sound. 
+As, for instance, English [b, s, t], the English normal word-stress, the Chinese tones. 
+17. Assumption 5. The number of different phonemes in a language is a small sub-multiple of the number of forms. 
+18. Assumption 6. Every form is made up wholly of phonemes. 
+These two assumptions are empiric facts for every language that has been observed, and outside of our science are theoretical necessities (Boas, Handbookof American Indian Languages, Bureau of American Ethnology, Bulletin 40, vol. 1, pp. 24 ff.). Such a thing as a 'small difference of sound' does not exist in a language. Linguists who believe that certain forms resist phonetic change, implicitly reject these assump- tions, though, so far as I can see, we could not work without them. 
+The morphemes of a language can thus be analyzed into a small 
+number of meaningless phonemes. The sememes, on the other hand, which stand in one-to-one correspondence with the morphemes, cannot 
+be further analyzed by linguistic methods. This is no doubt why linguists, confronted with the parallelism of form and meaning, choose form as the basis of classification. 
+19. Assumption 7. The number of orders of phonemes in the mor- phemes and words of a language is a sub-multiple of the number of possible orders. 
+20. Def. The orders which occur are the sound-patternsof the lan- guage. 
+As, English word-initial [st-] but never [ts-]. 
+21. Def. Different forms which are alike as to phonemes are homony- mous. 
+VI. Construction,Categories,Parts of Speech. 
+22. Assumption 8. Different non-minimum forms may be alike or partly alike as to the order of the constituent forms and as to stimulus- reaction features corresponding to this order. 
+
+ 
+
+ 
+The order may be successive, simultaneous (stress and pitch with other phonemes), substitutive (French au [o] for a le), and so on. 
+23. Def. Such recurrent sames of order are constructions; the corre- sponding stimulus-reaction features are constructionalmeanings. 
+This expands the use of the term meaning. 
+24. Def. The construction of formatives in a word is a morphologic construction. 
+Thus, book-s,ox-en have the construction of formative plus formative and the meaning 'object in number'. 
+25. Def. The construction of free forms (and phrase formatives) in a phrase is a syntacticconstruction. 
+Thus, Richard saw John, The man is beating the dog show the con- struction of free form plus free form plus free form meaning 'actor acting 
+on goal'. 26. Def. A maximum X is an X which is not part of a larger X. 
+27. Def. A maximum construction in any utterance is a sentence. 
+Thus, a sentence is a construction which, in the given utterance, is not part of any larger construction. Every utterance therefore consists of one or more sentences, and even such utterances as Latin pluit, 
+English Fire! or Ouch!are sentences. 28. Assumption 9. The number of constructions in a language is a 
+small sub-multiple of the number of forms. 29. Def. Each of the ordered units in a construction is a position. Thus the English construction of formative plus formative meaning 
+'object in number' has two positions; and that of free form plus free form 
+plus free form meaning 'actor acting on goal' has three positions. 30. Assumption 10. Each position in a construction can be filled 
+only by certain forms. Thus, in the English construction of formative plus formative meaning 
+'object in number' the first position can be filled only by certain forma- tives (noun-stems), and the second only by certain other formatives 
+(affixes of number, such as the plural-sign -s). And in the English construction of free form plus free form plus free form meaning 'actor acting on goal' the first and third positions can be filled only by certain free forms (object expressions) and the second only by certain other free forms (finite verb expressions). This assumption implies the converse, namely, that a given form will appear only in certain positions of certain constructions. Thus, an English noun-stem will appear only in the first position of the construction 'object in number', in the second posi- tion of the construction formative plus formative meaning 'object 
+
+ 
+
+
+having such an object' (long-nose), and in certain positions of a certain few other constructions. Similarly, an object expression, such as John, the man will appear in the first position of the construction 'actor acting on goal', or in the third, or in certain positions of a certain few other constructions. 
+31. Def. The meaning of a position is a functional meaning. That is, the constructional meaning of a construction may be divided 
+into parts, one for each position; these parts are functional meanings. 
+It would be more concrete, but perhaps less useful, if we said: the 
+meaning common to all forms that can fill a given position, when they 
+are in that position, is a functional meaning. Thus, in the English con- 
+struction of 'object in number' the first position has the functional 
+meaning 'object', or, more concretely, all the formatives (noun-stems) 
+which can occur in this position, have in common, when they so appear, 
+the functional meaning 'object'. And in the English construction of 
+'actor acting on goal' the first position has the functional meaning 'actor', 
+or, more concretely, all the free forms (object-expressions, such as nouns, 
+noun-phrases, pronouns, etc.) which can occur in this position, have in common, when they so appear, the functional meaning 'actor'. And in 
+this same construction, the third position has the meaning 'goal', or, more concretely, all the free forms (largely the same as those just 
+mentioned) which can appear in this position, have in common, when 
+they so appear, the meaning 'goal'. 32. Def. The positions in which a form occurs are its functions. Thus, the word John and the phrase the man have the functions of 
+'actor', 'goal', 'predicate noun', 'goal of preposition', and so on. 33. Def. All forms having the same functions constitute a form- 
+class. Examples of English form-classes are: noun-stems, number-affixes, 
+object expressions, finite verb expressions. 34. Def. The functional meanings in which the forms of a form-class 
+appear constitute the class-meaning. Thus, the meanings found in all the functions of the form-class of 
+English object expressions, namely 'actor', 'goal', etc. (?32) together constitute the class-meaning of these forms, which may be summed up as 
+'numbered object' or in the name 'object expression'. 35. Def. The functional meanings and class-meanings of a language 
+are the categoriesof the language. Thus, the above examples enable us to determine the following 
+categories of the English language: from functional meanings: object, 
+
+ 
+number, actor, action, goal; from class-meanings: object, number, 
+numbered object (object expression), predicative action (finite verb 
+expression). 36. Def. If a form-class contains relatively few forms, the meanings 
+of these forms may be called sub-categories. Thus, the English category of number contains only two meanings, 
+singular-indefinite (egg) and plural (eggs). Hence one may speak of the sub-categories of singular and plural; it is convenient to do so when, as in this case, the sub-categories play a part in the alternation of other 
+forms (see VII). 37. Def. A form-class of words is a word-class. 38. Def. The maximum word-classes of a language are the parts 
+of speech of that language. 
+VII. Alternation. 
+39. Assumption 11. In a construction a phoneme may alternate with 
+another phoneme according to accompanying phonemes. As in Sanskrit sandhi: tat pacati, tad bharati. 40. Def. Such alternation is phoneticalternation. 41. Assumption 12. In a construction a form may alternate with 
+another form according to accompanying forms. As, in English, the plural affixes book-s [s], boy-s [z], ox-en, J-ee-t. 
+Or, verbs: He skates, They skate, according to number of actor. 42. Def. Such alternation is formal alternation. 43. Assumption 13. Absence of sound may be a phonetic or formal 
+alternant. 44. Def. Such an alternant is a zeroelement. The postulation of zero elements is necessary for Sanskrit (Paiini 
+1, 1, 61), for Primitive Indo-European (Meillet, Introduction 4 l'tude 
+comparativedes langues indo-europeennes3,Paris 1912, p. 127 f.), and probably economical for English (singular bookwith affixzero, as opposed 
+to book-s,cf. f-oo-t :f-ee-t). 45. Def. If a formal alternation is determined by the phonemes 
+of the accompanying forms, it is an automatic alternation. Thus, the alternation of [-s, -z, -ez] in the regular English plural suffix of nouns is automatic, being determined by the final phoneme of the noun-stem. This differs from phonetic alternation since not every [s] in English is subject to this alternation, but only the (four) mor- 
+
+ 
+
+
+phemes of this form. Similarly, Sanskrit tat pacati: tan nayati, since the alternation takes place only in wordfinal (contrast, e.g. ratnam). 
+The phonetic alternations and the automatic formal alternations of a 
+language allow of a classification of the phonemes, to which the sound- 
+patterns (?20) may contribute. Thus, the regular English plural suffix 
+implies a classification of those English phonemes (the great majority) which may occur at the end of a noun-stem into the classes (1) sibilant, 
+(2) non-sibilant (a, unvoiced, b, voiced). Ordinary phonetics can go no farther than this; phonetics which goes farther is either a personal skill or a science for the laboratory. 
+46. Def. Theclassificationofphonemesimpliedinthesound-patterns, phonetic alternations, and automatic formal alternations of a language 
+is the phoneticpattern. For the sound-patterns and phonetic pattern see Sapir, Language, 
+1. 37, and cf. Baudouin de Courtenay, Versucheiner TheoriePhonetischer 
+Alternationen, Strassburg 1895. 47. Def. If formal alternation is otherwise determined, it is gram- 
+matical alternation. 
+As, English plural suffix -en in ox-en alternating with the regular suffix above described; the verb-forms in he skates: they skate. 
+48. Def. If the accompanying forms which determine one gram- 
+matical variant predominate as to number, this variant is said to be 
+regular; the others are irregular. Thus -en is an irregular plural suffix. 
+49. Def. If in a construction all the component forms are irregular, the whole form is suppletive. 
+If go be taken as the stem of the verb, then the past went is suppletive. Under this definition betteras comparative of goodwould not be supple- tive, since the ending -er is regular; a definition that will include such forms can be made only within English (or Indo-European) grammar, after 'stem' and 'affix' have been defined for this language. 
+50. Def. Whatever has meaning is a glosseme. The meaning of a glosseme is a noeme. 
+Thus the term glosseme includes (1) forms, (2) constructions, (3) zero elements. 
+The assumptions and definitions so far made will probably make it easy to define the grammatical phenomena of any language, both morphologic (affixation, reduplication, composition) and syntactic (cross-reference, concord, government, word-order), though I cannot say whether any such further definitions would apply to all languages. 
+
+ 
+
+
+Other notions, such as subject, predicate, verb, noun, will apply only to some languages, and may have to be defined differently for different 
+ones,-unless, indeed, we prefer to invent new terms for divergent phe- nomena. 
+VIII. Historical Linguistics. 
+The following assumptions and definitions for historical linguistics are added for the sake of completeness. Insofar as they are correctly 
+formulated, they will merely restate the working method of the great majority of linguists. 
+51. Assumption H1. Every language changes at a rate which leaves contemporary persons free to communicate without disturbance. 
+The ways in which it changes are described in Assumptions H3 and 
+following. 52. Assumption H2. Among persons, linguistic change is uniform in 
+ratio with the amount of communication between them. These two assumptions and the assumptions and definitions based on them are necessarily loose, not because the process is too slow for any methods of direct observation that have been used-assumptions could ignore this-but because in historical linguistics it is our purpose to envisage the phenomena as relative. Ultimately no two speakers, and indeed no two utterances, have the same dialect: our assumptions must leave us free to examine the historical process with any desired degree of 
+detail. 
+53. Def. If linguistic change results in groups of persons between which communication is disturbed, these groups speak dialects of the 
+language. 54. Def. A relatively uniform auxiliary dialect used by such groups is 
+a standardlanguage. 55. Def. If linguistic change results in groups of persons between 
+which communication is impossible, these groups speak relatedlanguages. 56. Assumption H3. Phonemes or classes of phonemes may gradually 
+change. For 'classes of phonemes' see ??45, 46. 
+57. Def. Such change is sound-change. 
+This assumption, by naming phonemes, implies that meaning is not involved. Owing to the assumptions that limit the number of phonemes 
+(Assumptions 5 and 6), the change must affect the phonemes at every 
+
+ 
+
+
+occurrence and do away with the older form of any phoneme that is 
+changed. 58. Assumption H4. Sound-change may affect phonemes or classes 
+of phonemes in the environment of certain other phonemes or classes 
+of phonemes. 59. Def. This change is conditioned sound-change. 
+60. Assumption H5. Sound-change preponderantly favors shorter forms.7 
+61. Assumption H6. Linguistic change may substitute sames for differents. 
+62. Def. This change is analogic change. 
+63. Def. Analogic change which creates or enlarges a glosseme is contamination. 
+For example, creation (of a morpheme), pre-Germanic *hweaworez 'four', *fimfe'five'> *f-e~wdrez,*f-imfe. Increase in size (of a morpheme), late Latin gra-ve,le-ve>gr-eve,I-eve(Italian). 
+64. Def. Analogic change which extends the use of a glosseme is adaptation. 
+Late Latin reddere>rendere,extending to a new word the morpheme -end- of pr-endere,p-endere,att-endere(v-endere?). 
+65. Def. Adaptation which replaces one alternant by another is 
+proportionalanalogy. English bjc>book-s; the plural affixes vary according to the accom- 
+panying noun-stem (grammatical alternation, ?41), and now one 
+alternant replaces another. The diagram showing the proportional character is familiar. 
+66. Def. Analogic change of formatives is formal analogy. 
+It may of course be contamination, adaptation, or proportional analogy. In a language in which stems and affixes are definable, it is 
+customary to distinguish between 'material' formal analogy (affecting stems) and 'grammatical' formal analogy (affecting affixes). 
+67. Def. Analogic change of words is semantic change. 
+It may of course be contaminative, adaptive, or proportional. E.g., 
+English meat 'pabulum'>'caro'; or home 'Heim'>'Haus'. Probably 
+proportional: He left the bones and took the flesh: He left the bones and took the 
+meat:: 
+
+
+ 
+
+
+She cooked the beans with the flesh: She cooked the beans with the meat. 
+They have a lovely house: They have a lovely home (intensive):: A fine new house for sale: A fine new home for sale (intensive).8 
+68. Assumption H7. Analogic change predominantly disfavors irregular glossemes and those which diverge from their fellows; it tends to disfavor them in inverse ratio to their frequency of occurrence. 
+This is necessarily vague, because we know little about replacement and obsolescence through such factors as unusual homonymy, word- tabu, and other deviations of glossemes, that is, about inadequacy of 
+glossemes and its effects. Cf. Gilli6ron, Pathologie et therapeutique verbales,Collection linguistique, vol. 11, Paris 1921. 
+69. Assumption H8. Whoever speaks a foreign language or dialect may in it substitute resemblant features of his native speech. 
+70. Def. This is linguistic substitution. 71. Def. Linguistic substitution of phonemes is sound-substitution. 72. Assumption H9. Whoever hears a foreign language or dialect 
+may adopt features of it into his own speech. 
+73. Def. Such adoption is linguistic borrowing, 74. Def. Borrowed words are loan-words. 
+75. Assumption H10. The phonemes of analogic forms and loan- words may be changed so as to fit the sound patterns of the language. 
+Western European peregrinus> pilgrim; German kliippel> knUappel. 76. Def. Such change is sudden sound-change. 77. Assumption H11. Glossemes may go out of use. 
+Compare the comment on Assumption H7, ?68. 
+8 Theword'intensive'ismeantmerelytodescribethemeaningofhomeinitsnewuse (intensiveofhouse),andisnotmeantasatechnicalterm. Cf.alsoKroesch,LANGUAG2E. 35-45 (1926). 
+
