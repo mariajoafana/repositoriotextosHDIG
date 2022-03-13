@@ -28,7 +28,7 @@ Resulta interesante analizar el contexto (las otras palabras) de términos como 
 
 Nº  |Referencia|
 ----|------|
-01  |de, N., y Pustejovsky, J. (Eds.). (2017). *Handbook of Linguistic Annotation*. Springer Netherlands. https://doi.org/10.1007/978-94-024-0881-2| 
+01 |Ide, N., y Pustejovsky, J. (Eds.). (2017). *Handbook of Linguistic Annotation*. Springer Netherlands. https://doi.org/10.1007/978-94-024-0881-2| 
 02	|Bloomfield, L. (1926). *A Set of Postulates for the Science of Language*. Language, 2(3), 153–164. https://doi.org/10.2307/408741| 
 03	|Manning, C. y Schütze, H. (1999). *Foundations of Statistical Natural Language Processing*. The MIT Press. https://mitpress.mit.edu/books/foundations-statistical-natural-language-processing|
 04	|McShane, M., y Nirenburg, S. (2021). *Linguistics for the Age of AI*. The MIT Press. https://doi.org/10.7551/mitpress/13618.001.0001|
