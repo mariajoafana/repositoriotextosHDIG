@@ -19,12 +19,12 @@ Otra etiqueta sería la relacionada con *machine learning*, palabras que curiosa
 Resulta interesante analizar el contexto (las otras palabras) de términos como *treebank*, para mejorar y ampliar la búsqueda. También identifico a partir de esto que de *conservación digital* no he investigado.
 
 
-# **Voyant tools:**
+# **Voyant Tools:**
 
  https://voyant-tools.org/?corpus=9cbc7f57d9e021ee86413c071091454b
 
 
-# **Referentes Bibliográficos** 
+# **Referentes bibliográficos** 
 
 Nº  |Referencia|
 ----|------|
