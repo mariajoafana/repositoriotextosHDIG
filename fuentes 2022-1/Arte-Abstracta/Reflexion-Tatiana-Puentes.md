@@ -1,9 +1,9 @@
 ---
-titulo: Arte Abstracto
-fecha: 2022-03-04
-autor:
+Título: Arte Abstracto
+Fecha: 2022-03-04
+Autor:
 - Tatiana Puentes
-etiquetas: Arte abstracto, espacio, medios, digital, Kandinsky, Ramírez Villamizar.
+Etiquetas: Arte abstracto, espacio, medios, digital, Kandinsky, Ramírez Villamizar.
 ---
 
 En las lecturas de español e inglés es recurrente observar las palabras vida, espacio, sentido, lugar, medios, formas, visualización, obra, proceso, y los apellidos de los artistas analizados como Kandinsky y Ramírez Villamizar. De manera que la relación de todas las lecturas entre las palabras y el uso de los autores; permite evidenciar que lo digital, y lo tangible refiriéndonos a las obras, necesitan de un espacio y lugar para su visualización en el cual el lenguaje del arte abstracto pueda ser presentado en otro formato u objeto.
