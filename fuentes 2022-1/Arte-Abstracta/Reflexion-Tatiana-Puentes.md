@@ -1,18 +1,18 @@
 ---
-titulo: Arte Abstracta
+titulo: Arte Abstracto
 fecha: 2022-03-04
 autor:
 - Tatiana Puentes
-etiquetas: Arte abstracta, espacio, medios, digital, Kandinsky, Ramiréz Villamizar.
+etiquetas: Arte abstracto, espacio, medios, digital, Kandinsky, Ramírez Villamizar.
 ---
 
-En las lecturas de español e inglés es recurrente observar las palabras vida, espacio, sentido, lugar, medios, formas, visualización, obra, proceso, y los apellidos de los artistas analizados como Kandinsky y Ramírez Villamizar. De manera que la relación de todas las lecturas entre las palabras y el uso de los autores; permite evidenciar que lo digital, y lo tangible refiriéndonos a las obras, necesitan de un espacio y lugar para su visualización en el cual el lenguaje del arte abstracta pueda ser presentado en otro formato u objeto.
+En las lecturas de español e inglés es recurrente observar las palabras vida, espacio, sentido, lugar, medios, formas, visualización, obra, proceso, y los apellidos de los artistas analizados como Kandinsky y Ramírez Villamizar. De manera que la relación de todas las lecturas entre las palabras y el uso de los autores; permite evidenciar que lo digital, y lo tangible refiriéndonos a las obras, necesitan de un espacio y lugar para su visualización en el cual el lenguaje del arte abstracto pueda ser presentado en otro formato u objeto.
 
 Es así que de acuerdo a lo anterior, excluiría palabras como arte, datos, que son términos bastantes generales y con un significado amplio, aunque se tienen como punto de partida en el análisis, no las tendría en cuenta, para que resalte en la nube de palabras otras posibilidades y con ello nutrir el proyecto.
 
-Adicionalmente, incluiría en futuras palabras, la transmedia, minimalismo, Instagram, ilustración, realidad aumentada, para tener un panorama sobre otros formatos y lo que otros autores definen, para identificar principios del arte abstracta y obtener un panorama de lo que se emplea en la actualidad en el arte.
+Adicionalmente, incluiría en futuras palabras, la transmedia, minimalismo, Instagram, ilustración, realidad aumentada, para tener un panorama sobre otros formatos y lo que otros autores definen, para identificar principios del arte abstracto y obtener un panorama de lo que se emplea en la actualidad en el arte.
 
-Frente a varias de las palabras distintivas, podría surgir una etiqueta como arte abstracta, o proyecto digital, lo cual vincula la fuente de la investigación.
+Frente a varias de las palabras distintivas, podría surgir una etiqueta como arte abstracto, o proyecto digital, lo cual vincula la fuente de la investigación.
 
 Es un ejercicio interesante porque permite realizar una búsqueda de palabras de forma más amplia y con formas de visualización que permiten extraer resultados concretos y sintetizados, que en ocasiones podrían pasar desapercibidos si lo realizáramos de forma manual, de manera que el ejercicio me permitió ampliar mi búsqueda, porque extrajo del corpus tanto de las lecturas en idioma español e inglés, palabras que no había tenido en cuenta, adicionalmente me ayudo a identificar un panorama sobre palabras que me faltan y que aportarían posteriormente a complementar el proyecto.
 
