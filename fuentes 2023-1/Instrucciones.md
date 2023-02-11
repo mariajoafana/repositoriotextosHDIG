@@ -10,7 +10,7 @@ etiquetas: lectura distante, metodologías HD, herramientas
 
 Publique los textos de su corpus, el enlace de análisis de su corpus con Voyant Tools y la reflexión de la semana en el repositorio de GitHub como se indica abajo. Para entrar al repositorio debe crear una cuenta en https://github.com y enviarme un correo con el nombre de usuario.
 
-Una vez reciba la invitación, entre al repositorio de GitHub repositoriostextosHDIG. Entre a la carpeta "fuentes-2022-1", haga clic en "create new file". Cree una carpeta con un nombre que refleje su tema de indagación y un archivo para responder las preguntas de reflexión de la semana. El archivo se debe llamar: reflexion-nombre-apellido.md
+Una vez reciba la invitación, entre al repositorio de GitHub repositoriostextosHDIG. Entre a la carpeta "fuentes-2023-1", haga clic en "create new file". Cree una carpeta con un nombre que refleje su tema de indagación y un archivo para responder las preguntas de reflexión de la semana. El archivo se debe llamar: reflexion-nombre-apellido.md
 
 A continuación hay un ejemplo de cómo crear la carpeta (en este ejemplo el nombre de indagación es cartografía-digital) y el archivo descriptivo .md: 
 
