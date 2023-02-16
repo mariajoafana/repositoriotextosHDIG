@@ -4,9 +4,10 @@ Título: Hayden White en red
 Fecha: 2023-02-16
 
 Autor:
-- Ricardo Flórez
- 
+* Ricardo Flórez
+
 Etiquetas: Hayden White, reception, narrative, philosophy of history 
+
 ---
 # Reflexión corta
 ## Lo que hice y lo que encontré
