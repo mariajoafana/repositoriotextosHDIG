@@ -1,0 +1,43 @@
+Visualization and Interpretation by Johanna Drucker (Cambridge: MIT Press, 2020), ISBN 9780262044738 (Hardcover), 195 pages, illustrated and index ($30.00) (Book Review) With Visualization and Interpretation, Johanna Drucker expands upon her arguments made in her previous book, Graphesis. 1 In both works, she argues that data visualization is a value-driven act of interpretation rather than a “neutral” presentation of data, and that
+understanding this perspective is essential to a criti- cal study (and deployment) of data visualizations.
+(Indeed, Graphesis itself could have been alternately ti- tled Visualization and Interpretation.) What Drucker
+adds in the latter work is a more focused analysis of these theories in and for the context of critical
+hermeneutics in humanistic studies and critical con- structivist perspectives on the interpretive nature of
+knowledge. As a pragmatic accompaniment to these arguments, Drucker presents two core practical approaches to the practice of data visualization: modeling interpretation and nonrepresentational graphical approaches.
+Early in the book, Drucker reiterates her argu- ments from Graphesis: that approaches to data visual- ization design that position themselves as simply
+“presenting” data in a value-free process (such as those for which Edward Tufte argues2
+) obscure both the interpretive and subjective reality of data and the
+practice of visualization. In contrast, Drucker’s model- ing interpretation approach to visualization describes
+the use of graphic elements and structural frame- works that explicitly require interpretation in their
+navigation; such uses include “contradiction, ambi- guity, parallax, and point of view that are fundamen- tally interpretative in character” (p. 76). This approach
+is intended to explicitly situate the viewer not simply
+as the recipient of knowledge, but as an active co- constructor in the knowledge produced in the work of
+data visualization.
+Drucker describes the second of her two ap- proaches to visualization design, nonrepresentational
+visualization, as a method for creating “interpretative
+and discursive artifact[s]” (p. 79). She likens the visu- alization artifact and the underlying data to a map’s
+relationship to territory and constructs the nonrep- resentational perspective as a form of protest against
+approaches to visualization that set neutrality and transparency as their goal. A nonrepresentational data visualization contrasts with these approaches in
+that aesthetic decisions are made that do not repre- sent or express a particular data point but instead are
+intended to create an argument with and through the
+data. Drucker gives the example of drawing a line be- tween two data points on a chart. This aesthetic act of
+mark-making creates a relationship between the two data points that draws the reader’s attention to them,
+but the mark itself is not part of the data set and rep- resents a clear editorial intervention on the part of
+the designer. The value of these approaches to humanistic work and studies arises through their use of absence,
+inquiry, interpretation, and the situatedness of audi- ence and author. According to Drucker, these and
+other elements are core to a humanistic approach to
+knowledge production. The appendix of the book con- tains many illustrations that usefully demonstrate
+these newly proposed graphical approaches in a range
+of visualization contexts and use cases, but these visu- al aids are notably absent from the main text itself.
+This decision to separate the images from the central
+discussion is a strange one; at times in the text, Druck- er seems to be grasping for ways to describe the ap- proaches, when an illustration would have been more
+instructive. This separation of images is in stark con- trast to the approach in Graphesis, which showed a
+playful and creative approach to enmeshing illustra- tive and graphic components into theoretical writing
+about visualization. As Drucker crosses disciplinary boundaries, moving from image analysis to textual analysis,
+she seeks to show the wider applications of her sub- ject-oriented approach to knowledge production.
+However, there is a notable absence of non-visual media to further expand this discussion. For example, interpretation is inherent in the act of listening, in that “[l]istening discovers and generates the heard.”3
+The relationship between seeing, hearing, and inter- pretation would seem to make the field of data soni- fication a prime space of investigation in this con- text. Much like the relationship between a map and
+its territory, sound is always already distinct from its source.
+Drucker’s position as a key thinker in the critical study of data visualization makes the absence noted here a missed opportunity in her book to expand the established boundaries of the practice. Regardless, the propositional nature of the design techniques she puts forward are a meaningful addition to her already substantial contributions to this field, and the fact
+that they invite a broadening analysis of data aestheti- cization practice is a positive reflection on their value
+and portability across a range of humanistic fields.
