@@ -1,0 +1,536 @@
+Del pensamiento computacional al
+pensamiento creativo: un análisis de su
+relación en estudiantes de educación
+secundaria
+
+El objetivo del artículo es determinar que dimensiones del pensamiento computacional
+se relacionan con las dimensiones del pensamiento creativo. La metodología
+es cuantitativa con un diseño descriptivo no experimental transversal. Se utilizaron
+dos instrumentos, uno mide el pensamiento computacional a través de las dimensiones
+Direcciones, Bucles, Condicionales y Funciones y el otro, mide el pensamiento
+creativo a través de las dimensiones Originalidad, Fluidez, Elaboración y Flexibilidad.
+La muestra estuvo compuesta por N=275 estudiantes de 7 establecimientos
+educativos de la Provincia del Diguillin, Región de Ñuble, Chile. Los resultados demuestran
+que el pensamiento computacional y creativo están relacionados entre sí.
+Las dimensiones bucles y condicionales se relacionan significativamente con todas
+las dimensiones del pensamiento creativo. De estas dimensiones, las que reciben
+mayor influencia de los bucles y condicionales son la elaboración, seguida de la fluidez,
+la originalidad y la flexibilidad. En conclusión, los bucles y condicionales son
+las dimensiones esenciales para estimular las dimensiones del pensamiento creativo.
+
+Palabras clave: Correlación; Pensamiento; Creatividad; Habilidades
+
+1. Introducción
+El mundo contemporáneo se caracteriza por un enorme avance tecnológico,
+globalización y acumulación acelerada de conocimiento (Van de Oudeweetering
+and Voogt, 2018). En este contexto, existe consenso entre diversas organizaciones
+internacionales vinculadas al cambio e innovación educativa como la Organización
+para la Cooperación y el Desarrollo Económico (OECD, 2018), Organización de las
+Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO, 2017), Partnership
+for 21st Century Skills (P21, 2008) y Assessment and Teaching of 21st
+Century Skills (ATC21S) (Griffin, McGaw, and Care, 2012), que se necesitarán un
+conjunto de nuevas habilidades en los estudiantes de hoy que permitan afrontar
+los desafíos del mañana.
+Estas habilidades se conocen como habilidades para el siglo XXI. Salamanca y
+Badilla (2020) las definen como “un grupo de habilidades cognitivas, sociales, emocionales
+y digitales que ayudarán a los estudiantes de hoy a enfrentar los desafíos y
+problemas que surgirán cuando sean ciudadanos de la sociedad del siglo XXI” (p.35).
+
+Por su parte, Van Laar, Van Deursen, Van Dijk and De Haan (2019) sintetizaron
+y conceptualizaron seis habilidades del siglo XXI dirigidas al trabajador del conocimiento:
+las habilidades de información, comunicación, colaboración, pensamiento
+crítico, creatividad y resolución de problemas. En esta misma línea de trabajo, la
+Comisión Europea (2018) identificó las nuevas habilidades necesarias para desenvolverse
+en el siglo XXI denominándolas competencias clave, estas son “Lectoescritura,
+Lenguas, Ciencia, Tecnología, Ingeniería y Matemáticas (STEM), Digital,
+Personal, social, aprendizaje, Ciudadanía, Emprendimiento, Conciencia cultural y
+Expresión” (p.38).
+Siguiendo a Salamanca y Badilla (2020) en su marco referencial de habilidades
+para el siglo XXI, dentro de la dimensión cognitiva convergen dos habilidades
+esenciales para el presente y el futuro de la sociedad, estas son conocidas como
+el pensamiento computacional y pensamiento creativo. Ambas habilidades se caracterizan
+esencialmente por su gran capacidad de promover en el estudiante el
+pensamiento sistemático y la capacidad de resolución de problemas (Resnick, et
+al., 2009a). Cuando estas habilidades trabajan en conjunto se transforman en una
+potente herramienta cognitiva que ayuda a afrontar de manera creativa diversas
+problemáticas que se pueden suscitar en la sociedad.
+Ejemplos de creatividad a través del pensamiento computacional para resolver
+problemas aparecieron con frecuencia durante el 2020 debido a la crisis del
+covid-19. Dentro de los más relevantes se encuentran, los escudos faciales para
+facilitar la visión del personal médico, los soportes para mascarillas para evitar la
+lesión en las orejas producto del uso prolongado de estas, y ventiladores mecánicos
+de bajo coste. Todas estas iniciativas mezclan el pensamiento computacional,
+creatividad y uso de tecnología.
+Según el World Bank Forum (2018) el pensamiento computacional y creativo se
+encuentran en los primeros puestos del ranking de habilidades necesarias para el
+mundo del trabajo en el futuro.
+En los últimos años han aparecido algunos estudios que abordan como el pensamiento
+computacional influye sobre el pensamiento creativo (Villadiego, Lópezy Sierra, 2015; Bustillo y Garaizar, 2016; Silva, 2016; y Santoyo, 2016; Salamanca
+y Badilla, 2018). En estos se concluye a modo general, que la estimulación del
+pensamiento computacional influye sobre el pensamiento creativo. Sin embargo, no
+especifica en profundidad cómo se produce esta interacción, tampoco se describe
+en detalle las relaciones que se generan entre las diferentes dimensiones que componen
+estas habilidades.
+Debido a estas interrogantes, se ha realizado un estudio que tiene por objetivo
+determinar que dimensiones del pensamiento computacional se relacionan sobre
+las dimensiones del pensamiento creativo. Con este trabajo, se espera aportar con
+nuevas perspectivas en torno a estas habilidades y ayudar a comprender en mayor
+profundidad como se relacionan.
+
+2. El pensamiento computacional: definición y dimensiones
+El pensamiento computacional emerge como una habilidad cognitiva fundamental
+a desarrollar en los estudiantes. Esto, debido a sus potencialidades para resolver
+problemas utilizando los principios de la lógica de programación de computadoras
+y ser aplicados en distintos aspectos de la vida cotidiana. La estimulación del pensamiento
+computacional se relaciona con el uso de herramientas digitales, principalmente
+el mecanismo lógico usado para la resolución de problemas cuando se
+programa un software en computadoras.
+El pensamiento computacional se caracteriza principalmente como un proceso
+de resolución de problemas. Esta perspectiva es compartida por diversos autores
+como Wing (2006, 2011) que lo define como “procesos de pensamiento implicados
+en la formulación de problemas y de sus soluciones, de tal modo que éstos estén
+representados de una manera que pueda ser abordada efectivamente por un agente-
+procesador de información” (p. 3718). Así también lo entiende la International
+Society for Technology in Education (ISTE) y Computer Science Teachers Association
+(CSTA) (2011) que lo definen como “un proceso de resolución de problemas,
+que incluye la formulación de problemas con un ordenador; organización lógica,análisis y representación de datos; automatización de soluciones con pensamiento
+algorítmico; identificar, analizar, implementar, generalizar y transferir las soluciones”
+(p.1).
+Según Román-González (2016) el pensamiento computacional es “la capacidad
+de formular y solucionar problemas apoyándose en los conceptos fundamentales
+de la computación, y usando la lógica inherente a los lenguajes informáticos de
+programación: secuencias o direcciones básicas, bucles, condicionales, funciones,
+y variables” (p.163).
+En la actualidad existen diversas caracterizaciones del pensamiento computacional
+(Wing, 2011; ISTE-CSTA, 2011; Zapata-Ros, 2015; Román-González, Pérez-
+González y Jiménez-Fernández, 2015) cada autor asigna diferentes dimensiones y
+características.
+Para este estudio se ha seleccionado como marco de referencia los estándares
+propuestos en el currículo educativo norteamericano (K12) para alumnos de segundo
+nivel por la CSTA (2011). Estos son entendidos como: “implementar soluciones a
+problemas utilizando los conceptos del lenguaje de programación: bucles, sentencias
+condicionales, expresiones lógicas, variables y funciones” (p. 17).
+Con estos estándares, Román-González, Pérez-González y Jiménez-Fernández,
+(2015), construyeron el Test de pensamiento computacional (TPC) que evalúa
+las dimensiones abordadas en este trabajo. Las dimensiones del pensamiento
+computacional son 4 y se definen como: a) Direccionalidad, entendida como la
+capacidad de ejecutar una secuencia de instrucciones, b) Bucles, entendido como
+la capacidad de ejecutar una misma secuencia de instrucciones en múltiples ocasiones,
+convirtiendo los programas en expresiones más sucintas, c) Condicionales,
+entendida como la capacidad de tomar decisiones basado en ciertos estados
+o situaciones y d) Funciones, que se entiende como relacionar valores entre dos
+variables.
+
+3. El pensamiento creativo: definición y dimensiones
+El pensamiento creativo es un componente cognitivo de la creatividad humana
+y su estimulación resulta fundamental para resolver distintos tipos de problemas.
+Según Resnick (2009b) “El éxito está basado no solamente en qué es lo que uno
+sabe o cuánto uno sabe, sino en la habilidad para pensar y actuar creativamente. O
+sea, ahora estamos viviendo en la sociedad de la creatividad” (p. 1).
+Para este trabajo se considera la definición de Guilford (1950) como la más adecuada
+para entender el pensamiento creativo, ya que lo define como “un método para resolver
+problemas…, se refiere a las aptitudes que son características de los individuos creadores,
+como la fluidez, la flexibilidad, la originalidad y el pensamiento divergente.” (p.454).
+Para Guilford, la inteligencia humana es multifactorial, ahí coexisten dos tipos
+predominantes de pensamiento. Por un lado, está el pensamiento convergente
+que es caracterizado por la lógica y la razón, y por el otro existe el pensamiento
+divergente que se caracteriza por una forma de entender la realidad y resolver los
+problemas que se suscitan con una lógica distinta, pero no menos importante.
+Siguiendo esta línea, Torrance (1962) colaborador de Guilford, definió el pensamiento
+creativo como “un proceso de descubrir problemas o lagunas de información,
+formar ideas o hipótesis, probarlas, modificarlas y comunicar los resultados”
+(p.16). Es decir, le asigna un carácter global a la cognición humana.
+Según estos autores, el pensamiento creativo se compone principalmente de 4
+dimensiones: a) Fluidez, entendido como la característica de la creatividad para generar
+un elevado número de ideas, ya sea mediante un estímulo verbal o figurativo,
+b) Flexibilidad, como la capacidad de la creatividad para cambiar un proceso, la
+habilidad de transformar, reinterpretar o replantear un problema, c) Originalidad,
+entendida como habilidad de producir respuestas novedosas poco convencionales,
+lejos de lo establecido y usual y d) Elaboración entendida como el nivel de detalle,
+desarrollo o complejidad de las ideas creativas, se trata de la capacidad de
+desarrollar, completar o embellecer una respuesta determinada (Jiménez, Artiles,
+Rodríguez y García, 2007, p. 15).
+
+4. Influencia del pensamiento computacional sobre
+el pensamiento creativo
+Existe evidencia para afirmar que el pensamiento computacional y creativo pueden
+ser estimulados mediante diferentes estrategias educativas. Sin embargo, las
+más utilizadas y con mayor impacto comprobado son las estrategias orientadas al
+aprendizaje de la programación y uso de herramientas TIC.
+Sin embargo, evidenciar la relación existente entre estos dos tipos de habilidades
+cognitivas aún no ha sido descrito en profundidad. En algunos estudios se
+puede apreciar el impacto que tiene el aprendizaje de la programación sobre el
+pensamiento computacional y su influencia sobre el pensamiento creativo, sin
+embargo, no se describen las relaciones existentes entre las diversas dimensiones
+de las cuales están compuestas estas habilidades.
+Por ejemplo, el estudio más representativo sobre este tema es el de Villadiego,
+López, y Sierra (2015). El objetivo fue determinar la influencia del aprendizaje de
+la programación de computadoras en las dimensiones del pensamiento creativo de
+estudiantes de undécimo grado de dos instituciones educativas de Córdoba, Colombia.
+La metodología utilizada fue cuantitativa con un diseño cuasi experimental con
+grupo experimental y control y medidas pre y post test. La muestra fue de N=170
+estudiantes de secundaria entre 14 y 18 años. El instrumento utilizado fue la Prueba
+de Imaginación Creativa para Jóvenes PIC-J (Artola, 2008). Los análisis utilizados
+fueron 12 comparaciones intra-grupo, inter grupo e inter instituciones a través de
+Pruebas no paramétricas. Los principales resultados evidencian que los participantes
+del grupo intervenido con el software Scratch obtuvieron puntajes significativos
+después de la intervención. Donde las dimensiones del pensamiento creativo que
+reflejaron mayor influencia fueron la fluidez, flexibilidad y elaboración (p <.005).
+En la investigación se concluye que el pensamiento creativo puede ser desarrollado
+a través del aprendizaje de la programación con Scratch. Sin embargo, no
+se presentan las relaciones entre las dimensiones que componen el pensamiento
+computacional y su influencia en las dimensiones que componen el pensamiento
+creativo descritas anteriormente.
+
+Otro estudio realizado por Silva (2016), tuvo por objetivo evaluar el impacto
+del aprendizaje de la programación en la mejora del nivel de desarrollo de pensamiento
+creativo en estudiantes del segundo grado de secundaria en la asignatura
+de Computación e Informática en Perú. La metodología fue de carácter mixto con
+predominancia cuantitativa diseño pre y post test para muestras relacionadas. La
+muestra estuvo constituida por N= 30 estudiantes. El instrumento utilizado fue el
+Test de Torrance expresión figurativa (Jiménez et al., 2007) y los principales resultados
+evidencian que el aprendizaje de la programación tiene un impacto positivo
+en las dimensiones de originalidad, fluidez, flexibilidad y elaboración.
+En esta misma línea de investigación, el estudio de Santoyo (2016) tuvo por objetivo
+evaluar la influencia de la creación de videojuegos mediante las habilidades
+de pensamiento creativo en estudiantes de noveno grado de la asignatura de Tecnología
+e Informática. La metodología fue mixta con un diseño pre-experimental.
+La muestra estuvo compuesta por N=13 estudiantes. El instrumento utilizado fue
+el Test de Torrance expresión figurativa (Jiménez et al., 2007). Los resultados evidenciaron
+que las dimensiones del pensamiento creativo más impactadas fueron la
+originalidad y elaboración.
+Otros estudios de similares características abordan la temática, pero no especifican
+el impacto en las relaciones del pensamiento creativo. El realizado por Bustillo
+y Garaizar (2016) con un grupo de personas privadas de libertad de un centro penitenciario
+de la localidad de Alava, España. El objetivo fue determinar los cambios
+en el pensamiento creativo a través del aprendizaje de la programación. La metodología
+fue mixta, con enfoque cuantitativo y diseño pre y post test. La muestra
+estuvo compuesta por N=28 sujetos de 24 a 48 años. El instrumento para medir el
+pensamiento creativo fue el Test CREA (Corbalán y Limiñana, 2010). Los análisis
+estadísticos arrojaron promedios superiores para el pensamiento creativo después
+de la intervención post-test M =12,89 puntos. Se evidencia un aumento promedio
+de 5,21 puntos después de la intervención. A nivel inferencial, las diferencias son
+estadísticamente significativas después de la intervención arrojando un valor de
+t (11) =-5.18, p <.001. Se concluye que el aprendizaje de la programación y estimulación
+del pensamiento computacional influye en el desarrollo del pensamiento
+creativo. Una debilidad del estudio es que no se reportan que las dimensiones del pensamiento creativo fueron afectadas por el aprendizaje de la programación y por
+consiguiente el pensamiento computacional.
+En Chile el estudio de Salamanca y Badilla (2018) tuvo como objetivo estimular
+el pensamiento creativo mediante el aprendizaje de la programación en alumnos de
+educación básica. La metodología usada fue de carácter cuantitativo con un diseño
+cuasi experimental pre y post test. La muestra estuvo constituida por N=16 alumnos
+de séptimo básico de la asignatura de Tecnología de un establecimiento público de
+la región de Ñuble, comuna de Chillan Viejo. El instrumento utilizado fue el Test de
+Torrance de expresión figurativa (Jiménez et al., 2007). Los resultados evidenciaron
+que los estudiantes aumentaron en total 28,15 puntos en el post test. Pese a lo anterior,
+a nivel inferencial los resultados no fueron satisfactorios ya que la diferencia
+no fue significativa t (11) = -3.002, p >.05. A pesar de esto, los autores afirman
+que los resultados no son concluyentes. Debido a que uno de los factores asociados
+puede estar relacionado con la dificultad de los estudiantes para aprender a utilizar
+los comandos y principios del software y otro, la cantidad de sesiones programadas
+para la intervención pudieron no ser suficientes para tener un mayor impacto sobre
+el pensamiento creativo. Finalmente, en este estudio tampoco se hace referencia al
+desarrollo de las distintas dimensiones que componen el pensamiento creativo y la
+muestra fue bastante reducida para poder generalizar los resultados.
+En síntesis, como se ha podido apreciar en la literatura científica, cuando se
+estimula el pensamiento computacional a través del aprendizaje de la programación
+se pueden estimular las 4 dimensiones del pensamiento creativo. Donde la
+dimensión con mayor impacto es la elaboración, seguida de la fluidez, originalidad
+y flexibilidad.
+
+5. Método
+El método es cuantitativo, con diseño correlacional no experimental transversal.
+Según, Ato, López y Benavente (2013) los estudios transversales se definen como
+“un momento temporal determinado y siguen una tradición eminentemente asociativa”
+(p.1048).
+
+5.1. Objetivo
+Determinar que dimensiones del pensamiento computacional se relacionan con
+las dimensiones del pensamiento creativo en estudiantes de educación secundaria.
+5.2. Población y Muestra
+La población estuvo compuesta por estudiantes de séptimo y octavo de educación
+secundaria de siete comunidades educativas de la provincia del Diguillin,
+Región de Ñuble, Chile. Se seleccionó una muestra aleatoria de N=275 participantes
+en total, distribuidos en n=144 hombres equivalente al 52,4% y n=131 mujeres
+equivalente al 47,6%.
+5.3. Descripción de los instrumentos
+Para recoger los datos se utilizaron dos instrumentos: a) el Test de Evaluación
+del Pensamiento Computacional (TPC) (Román-González, Pérez-González y Jiménez-
+Fernández, 2015). Y el Test de Torrance de expresión figurativa, adaptado y
+baremado para alumnos de primaria y secundaria idioma español (Jiménez et al.,
+2007).
+El primero, tiene por objetivo medir el nivel de aptitud-desarrollo del pensamiento
+computacional en el sujeto a través de preguntas de selección múltiple.
+Tiene una duración de 45 minutos. El público objetivo son estudiantes de entre 12
+y 13 años de edad, correspondiente a los niveles 1º y 2º ESO en España. Este nivel
+es equivalente a 7° y 8° básico en Chile. El instrumento mide las 4 dimensiones
+del pensamiento computacional abordadas anteriormente como Direcciones, Bucles,
+Condicionales y Funciones.
+El instrumento fue validado a través del Método Delphi con 20 expertos en informática.
+La fiabilidad se midió a través del Alfa de Cronbach donde arrojó un α =
+.74. Considerado un valor aceptable (George and Mallery, 2003, p. 231). Se estimó
+la validez factorial mediante el KMO arrojando un valor de .874; y se aplicó la prueba
+de esfericidad de Bartlett donde se halló un valor de (χ2 = 3796,915, p < .01).
+
+El segundo instrumento, tiene por objetivo evaluar el nivel de pensamiento
+creativo de los sujetos a través de la realización de dibujos. Tiene una duración de
+30 minutos. El público objetivo son estudiantes que van desde 1° de primaria hasta
+4° de la ESO. El instrumento mide las 4 las dimensiones del pensamiento creativo
+abordadas anteriormente como originalidad, fluidez, flexibilidad y elaboración.
+El test de Torrance fue sometido a un análisis factorial de componentes principales.
+La matriz de componentes evidenció que la dimensión de originalidad obtuvo
+un α =.948, la fluidez α =.967, la flexibilidad α =.899 y solo la elaboración obtuvo
+un resultado más bajo con un α = .386. En conclusión, los resultados evidenciaron
+una estructura factorial que en su conjunto explica el 70% de la varianza total.
+5.4. Procedimiento de recogida, preparación y análisis de datos
+La administración de los instrumentos se llevó a cabo en forma presencial. Se
+mantuvo la confidencialidad y anonimato de todos los participantes, los ministros
+de fe fueron directores de los establecimientos. En forma adicional, se aplicaron
+consentimientos y asentimientos informados para respetar las normativas éticas de
+la universidad patrocinante.
+Después de recolectar los datos, se sometieron a análisis exploratorio para determinar
+la normalidad, eliminado casos atípicos y aplicando transformaciones a
+los datos mediante la escalera de (Tukey,1977, p.89). Sin embargo, después de este
+proceso no se pudo obtener normalidad en la muestra, por lo que se decidió trabajar
+con estadística no paramétrica.
+Los datos se analizaron con estadísticos descriptivos, correlación de Spearman
+y línea de ajuste mediante regresión lineal. Esto quiere decir, que los puntos de los
+datos se ajustan a una línea que por regla general no atraviesa todos los puntos,
+esta representa la tendencia de los datos. El software utilizado fue Statistical Package
+for the Social Sciences (SPSS) Versión 23, (George and Mallery, 200; Visauta
+y Martori, 2003).
+
+6. Resultados
+A continuación, se presentan los resultados obtenidos de los análisis estadísticos
+realizados. En primer lugar, se presentan los estadísticos descriptivos de los
+puntajes obtenidos por los estudiantes en las dimensiones del pensamiento computacional
+Direcciones, Bucles, Condicionales y Funciones y dimensiones del pensamiento
+creativo Originalidad, Fluidez, Elaboración y Flexibilidad.
+El puntaje promedio obtenido por los alumnos en las cuatro dimensiones del
+pensamiento computacional fue de 11,87 de un total de 28 puntos, esto representa
+un 42,4%. Para el pensamiento creativo el puntaje promedio en las cuatro dimensiones
+es de 115,4 de un total de 249 puntos, esto representa un 46,3%. A modo
+general, los resultados demuestran que los estudiantes en ambos instrumentos no
+logran alcanzar más allá del 44,35% del puntaje total.
+En la tabla 1, se puede apreciar en detalle los puntajes promedios obtenidos
+por los estudiantes en cada dimensión del pensamiento computacional y creativo.
+Habilidad Dimensiones Media DS Max Min Asi Cur
+Pensamiento
+Computacional
+Direcciones 2,61 1,01 4 0 -,735 ,396
+Bucles 3,99 1,89 8 0 -,141 -,576
+Condicionales 3,95 2,26 10 0 ,409 -,411
+Funciones 1,32 ,995 4 0 ,427 -,296
+Pensamiento
+Creativo
+Originalidad 74,91 33,9 156 2 ,163 -,697
+Fluidez 11,63 6,76 31 0 ,535 -,364
+Elaboración 15,34 8,32 41 1 ,592 -,200
+Flexibilidad 13,53 6,67 34 0 ,424 -,512
+Tabla 1: Estadísticos descriptivos puntajes dimensiones pensamiento
+computacional y creativo. (Elaboración Propia).
+Nota: (1) N=275, (2) Escala Direcciones= 0 a 4 pts., (3) Escala Bucles= 0 a 8 pts.,
+(4) Escala Condicionales= 0 a 12 pts., (5) Escala Funciones= 0 a 4 pts., (6) Escala
+Originalidad= 14 a 166 pts. (7) Escala Fluidez= 5 a 40 pts., (8) Escala Elaboración=
+0 a 46 pts., (9) Escala Flexibilidad= 4 a 28 pts. (10) DS= Desviación Estándar, (11)
+Max= Máximo, (12) Min= Mínimo, (13) Asi= Asimetría, (14) Cur= Curtosis.
+
+Las dimensiones del pensamiento computacional que evidenciaron mayor dificultad
+para los estudiantes fueron las condicionales y funciones, seguido de los
+bucles y las direcciones.
+Con respecto al pensamiento creativo, las dimensiones con mayor dificultad
+para los estudiantes fueron la fluidez y la elaboración, seguido de la originalidad y
+la flexibilidad.
+Para determinar que dimensiones del pensamiento computacional se relacionan
+significativamente con en las dimensiones del pensamiento creativo, se utilizó el
+estadístico de correlación de Spearman. Los resultados evidencian algunas correlaciones
+significativas entre las dimensiones de las habilidades estudiadas.
+En la tabla 2 se puede observar en mayor detalle los resultados y magnitudes de
+las correlaciones obtenidas entre las dimensiones.
+Dimension Originalidad Fluidez Elaboración Flexibilidad
+Direcciones ,075 ,102 ,087 ,113
+Bucles ,161** ,162** ,203** ,164**
+Condicionales ,119* ,138* ,145* ,147*
+Funciones ,011 -,002 -,006 ,018
+Tabla 2: Correlaciones entre las dimensiones del pensamiento
+computacional y creativo. (Elaboración Propia).
+Nota: (1) N=275, (2) ** = P <.001, (3) * = P <.005
+Las dimensiones del pensamiento computacional bucles y condicionales influyen
+significativamente a un nivel de p<.001 y p<.005 en las cuatro dimensiones
+del pensamiento creativo originalidad, fluidez, elaboración y flexibilidad. Según
+Hinkle, Wiersma, and Jurs (2003) estas correlaciones son leves, debido a que pueden
+estar influyendo otras variables sobre el pensamiento creativo.
+Sin embargo, para esta investigación no se plantearon otro tipo de variables
+relevantes de ser estudiadas. Lo que se quiere evidenciar de manera específica es
+como se relacionan las dimensiones entre estas dos habilidades del siglo XXI.
+
+Una vez identificadas las relaciones significativas entre las dimensiones del pensamiento
+computacional bucles y condicionales y las dimensiones del pensamiento
+creativo originalidad, fluidez, elaboración y flexibilidad. Se procedió a evaluar la
+influencia de estas mediante un estadístico que busca un ajuste lineal basado en
+una regresión no paramétrica. Con este procedimiento se permite verificar la tendencia
+de los datos entre los bucles y condicionales sobre la originalidad, fluidez,
+elaboración y flexibilidad.
+En las siguientes figuras se puede apreciar claramente una tendencia lineal de
+carácter leve entre las dimensiones del pensamiento computacional y las dimensiones
+del pensamiento creativo.
+
+Como se puede apreciar en las ocho figuras, se evidencia una influencia de lo
+bucles y condicionales sobre las cuatro dimensiones del pensamiento creativo originalidad,
+fluidez, elaboración y flexibilidad. Esto queda de manifiesto mediante la
+pendiente que se observa en cada gráfico. Si bien es cierto la inclinación de la pendiente
+es leve, de igual forma permite corroborar que existe una influencia de las
+dimensiones bucles y condicionales sobre las dimensiones del pensamiento creativo.
+A nivel estadístico, el porcentaje explicativo de cada relación se corrobora observando
+los resultados obtenidos en el R2 que se entiende como el porcentaje de variación
+en la respuesta que es explicado por el modelo. E interpretando la ecuación de
+la recta utilizada en este análisis representada en su forma clásica y= a +b*x.
+6.1. Análisis de la dimensión bucles
+Los bucles evidencian mayor poder explicativo sobre la elaboración obteniendo
+un R2 = 4%, es decir, por cada respuesta correcta en la dimensión bucles el puntaje
+en la dimensión elaboración aumenta en promedio 0,85 puntos.
+
+La dimensión fluidez obtiene un R2 = 2%, en otras palabras, por cada respuesta
+correcta en la dimensión bucles el puntaje en la dimensión fluidez aumenta en
+promedio 0,51 puntos.
+La dimensión originalidad obtiene un R2 = 2%, es decir, por cada respuesta correcta
+en la dimensión bucles el puntaje en la dimensión originalidad aumenta en
+promedio 2,4 puntos.
+Finalmente, la dimensión flexibilidad obtiene un R2 = 1%, lo que significa que
+por cada respuesta correcta en la dimensión bucles el puntaje en la dimensión flexibilidad
+aumenta en promedio 0,4 puntos.
+6.2. Análisis de la dimensión condicionales
+Los condicionales presentan un poder explicativo parecido, pero menor que los
+bucles. La dimensión elaboración obtiene un R2 = 2%, es decir que, por cada respuesta
+correcta en la dimensión condicionales el puntaje en la dimensión elaboración
+aumenta en promedio 0,53 puntos.
+La dimensión fluidez obtiene un R2 = 2%, es decir que, por cada respuesta correcta
+en la dimensión condicionales el puntaje en la dimensión fluidez aumenta
+en promedio 0,43 puntos.
+La dimensión de originalidad obtiene un R2 = 1%, en otras palabras, por cada
+respuesta correcta en la dimensión condicionales el puntaje en la dimensión originalidad
+aumenta en promedio 1,89 puntos.
+Finalmente, la dimensión flexibilidad obtiene un R2 = 1%, es decir que, por cada
+respuesta correcta en la dimensión condicionales el puntaje en la dimensión flexibilidad
+aumenta en promedio 0,44 puntos.
+El pequeño porcentaje explicativo en las relaciones examinadas son esperables,
+debido a que la relación no es lineal entre las diferentes dimensiones examinadas.
+Sin embargo, pequeños porcentajes de R2 no son un indicio de no relación entre variables. Para obtener mayores porcentajes de R2 es necesario agregar variables
+de tipo demográfico al modelo como sexo del estudiante, edad o tipo de establecimiento
+educativo. Sin embargo, se prescindió de este tipo de variables porque
+no son relevantes para abordar en específico la relación entre las dimensiones del
+pensamiento computacional y creativo a bordadas en este trabajo.
+En resumen, los bucles impactan en mayor grado que los condicionales sobre las
+dimensiones del pensamiento creativo.
+Los bucles afectan en primer lugar a la elaboración, seguida de la fluidez, la
+originalidad y la flexibilidad.
+Los condicionales afectan en igual forma a la elaboración, fluidez y originalidad,
+y en menor grado a la flexibilidad.
+7. Discusión
+Para abordar la discusión de los resultados obtenidos en este trabajo, se contrastarán
+tres tópicos: a) el impacto a nivel general del pensamiento computacional
+sobre el creativo, b) la relación entre las dimensiones del pensamiento computacional
+y creativo y c) el grado de influencia de las dimensiones del pensamiento
+computacional sobre las dimensiones del pensamiento creativo.
+a. Como se puede apreciar en los diferentes resultados obtenidos en este trabajo,
+se observa que el pensamiento computacional impacta sobre el pensamiento
+creativo. Estos resultados están en concordancia con los expuestos en
+los estudios de Villadiego, López y Sierra, (2015); Bustillo y Garaizar (2016);
+Silva (2016); Santoyo (2016) y Salamanca y Badilla, (2018) que abordaron
+esta problemática de forma similar y llegaron a los mismos resultados, sobre
+todo cuando se utilizaba el software de programación educativa con bloques
+modulares Scratch.
+b. Cuando se analizó en detalle las diferentes relaciones generadas entre el pensamiento
+computacional sobre el pensamiento creativo, fueron dos dimensiones
+del pensamiento computacional que resaltaron por sobre las demás, estas son identificadas como bucles y condicionales. Estas dimensiones se relacionaron
+significativamente sobre las cuatro dimensiones del pensamiento creativo
+entendidas como originalidad, fluidez, elaboración y flexibilidad.
+Estos resultados también están en concordancia con los expuestos por los
+autores Villadiego, López y Sierra, (2015); Bustillo y Garaizar (2016); Silva
+(2016); Santoyo (2016) y Salamanca y Badilla, (2018) que abordaron esta
+problemática. Los autores concluyeron que al ser estimulado el pensamiento
+computacional se logra estimular el pensamiento creativo a través de sus
+dimensiones originalidad, fluidez, elaboración y flexibilidad. Sin embargo, no
+especifican que dimensiones del pensamiento computacional fueron las que
+se relacionaron con las del pensamiento creativo.
+c. En relación al grado de influencia que ejercen las dimensiones del pensamiento
+computacional sobre las dimensiones del pensamiento creativo. Los
+bucles y condicionales influyen con mayor fuerza sobre las dimensiones del
+pensamiento creativo, en primer lugar, la elaboración, seguida de la fluidez,
+la originalidad y en último lugar la flexibilidad.
+Estos resultados están parcialmente en concordancia con los obtenidos en el
+estudio de Villadiego, López y Sierra (2015), donde se concluye que después de
+la estimulación del pensamiento computacional, las dimensiones del pensamiento
+creativo donde se reflejó mayor influencia fue fluidez, seguida de la flexibilidad y
+en último lugar la elaboración.
+En esta línea, en el estudio de Santoyo (2016), se evidenció la misma situación,
+en la cual, las dimensiones del pensamiento creativo más impactadas fueron la
+fluidez, la originalidad y elaboración.
+Seguido de lo anterior, en el estudio de Silva (2016) que investigó la misma problemática,
+concluye que la estimulación del pensamiento computacional influye
+en las cuatro dimensiones del pensamiento creativo originalidad, fluidez, flexibilidad
+y elaboración, pero no determina una jerarquía entre estas dimensiones como
+se aborda detalladamente en este trabajo.
+
+Como se ha podido apreciar, en su mayoría los resultados obtenidos en este
+estudio concuerdan con otras experiencias de este tipo, con lo cual nos lleva a
+afirmar que el pensamiento computacional y su estimulación tiene relación con el
+desarrollo del pensamiento creativo.
+Sin embargo, para orientar efectivamente procesos educativos de estimulación
+del pensamiento creativo a través del pensamiento computacional, se debe prestar
+especial atención en las estrategias desarrolladas a las dimensiones identificadas
+como bucles y condicionales. Los resultados revelan que al parecer son la base para
+promover la estimulación del pensamiento creativo.
+8. Conclusiones
+El objetivo de este estudio fue determinar que dimensiones del pensamiento
+computacional se relacionan con las dimensiones del pensamiento creativo en estudiantes
+de educación secundaria.
+En conclusión, las dimensiones del pensamiento computacional abordadas en
+este trabajo denominadas bucles y condicionales se relacionan significativamente
+sobre las cuatro dimensiones del pensamiento creativo denominadas originalidad,
+fluidez, elaboración y flexibilidad.
+Seguido de lo anterior, se desprende que las otras dimensiones del pensamiento
+computacional abordadas en este trabajo denominadas direcciones y funciones, no
+se relacionan significativamente sobre las dimensiones del pensamiento creativo
+denominadas originalidad, fluidez, elaboración y flexibilidad. Sin embargo, no dejan
+de ser importantes al momento de generar una estrategia educativa que tenga
+por objetivo la estimulación del pensamiento creativo a través del pensamiento
+computacional.
+En relación al grado de influencia de las dimensiones del pensamiento computacional,
+los bucles demuestran tener una mayor influencia que los condicionales
+sobre las cuatro dimensiones del pensamiento creativo originalidad, fluidez, elaboración
+y flexibilidad.
+
+De las cuatro dimensiones del pensamiento creativo abordadas en este trabajo,
+las que reciben mayor influencia de los bucles y condicionales, se encuentra en primer
+lugar, la elaboración, seguida de la fluidez, después la originalidad y finalmente
+la flexibilidad.
+Como se ha podido apreciar a lo largo de este trabajo, la reflexión y estudio en
+torno al pensamiento computacional y creativo resulta un imperativo para afrontar
+desde nuevas perspectivas, las problemáticas que están acaeciendo en la sociedad
+del futuro. (Resnick, 2009b; Papert y Harel, 1991)
+El pensamiento computacional y creativo son unas de las habilidades más relevantes
+para el siglo XXI, ya que permitirán afrontar los desafíos de la sociedad y el
+mundo laboral del futuro (World Economic Forum, 2018).
+Ambas habilidades serán un pilar fundamental para hacer frente a las problemáticas
+del mundo del mañana. Por lo tanto, se hace necesario abordar desde distintas
+perspectivas, sobre todo las ligadas a las del ámbito educativo como estimularlas
+efectivamente. Es por esto que, este trabajo intenta profundizar sobre este
+tema y ayuda a comprender en mayor forma como se relacionan estas habilidades
+y proveen de un punto de partida para la generación de estrategias educativas que
+quieran abordarlas.
+Financiación
+Esta investigación se basa en el trabajo apoyado desarrollado en el proyecto DIN REG
+17/2018, financiado por la Vicerrectoria de Investigación y Postgrado, Universidad Católica
+de la Santísima Concepción, otorgado a la Dra. María Graciela Badilla Quintana (PI).
+
+
+
+
+
+
+
+
+
+
+

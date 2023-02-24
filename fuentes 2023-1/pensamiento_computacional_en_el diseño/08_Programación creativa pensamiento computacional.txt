@@ -1,0 +1,157 @@
+Programación creativa: pensamiento computacional y
+constructivismo desde contextos interculturales
+IVÁN TERCEROS
+
+RESUMEN: El presente artículo hablará sobre dos experiencias de uso de lenguajes de programación en
+ambientes educativos, para la promoción de contextos interculturales. El primero, Wawakipu, es un
+programa educativo para niños de 8 a 12 años basado en Scratch, que busca «despertar el pensamiento
+computacional» mediante el desarrollo de videojuegos, basados en historias y mitos indígenas. El segundo
+caso, es otro programa educativo par un público universitario llamado «Tejidos Autómatas», que busca
+generar reflexiones sobre la complejidad de los procesos sociales en relación con la codificación existente
+en los tejidos indígenas, siendo expresados mediante el lenguaje de programación conocido como P5.js.
+PALABRAS CLAVE: Lenguajes de programación; Interculturalidad; Educación; Pensamiento
+computacional.
+HISTORIA DEL ARTÍCULO: Recibido: 17–diciembre–2018 | Aceptado: 14–enero–2019.
+
+LA EDUCACIÓN, LA TECNOLOGÍA Y LOS LENGUAJES DE PROGRAMACIÓN
+Las discusiones sobre los procesos y usos de tecnología en la educación pueden ser expresados según Collins (1998)
+en; a) herramientas o aplicaciones para desarrollar diversas tareas, b) sistemas integrados de aprendizaje en
+relación con la currícula, c) simuladores y juegos lúdicos, d) redes de comunicación para la interacción y e)
+entornos de aprendizaje interactivos. En la presente comunicación, nos enfocaremos en reflexionar la educación y
+tecnología desde la última consideración, lo que significa pensar la tecnología más que una herramienta, un
+entorno de reproducción de sí misma como argumento de un proceso educativo.
+El uso de lenguajes de programación para la educación no es una novedad. Logo1 fue diseñado y desarrollado
+en 1969 (Papert y Solomon 1971) por los profesores norteamericanos Wally Feuzeig, Seymour Papert y Cynthia
+Solomon,2 destinado a la iniciación en los lenguajes de programación a niños de corta edad, por medio de una
+interfaz3 con un personaje conocido como «tortuga» el cual es controlado por órdenes simples para generar
+1 Actualmente el proyecto está mantenido por la Fundación Logo. http://el.media.mit.edu/logo-foundation/
+2 El trabajo de estos profesores se enmarca en la divulgación de las ciencias de la computación, la computación educativa y ser pioneros
+en la investigación de la inteligencia artificial.
+3 Una interfaz en términos computacionales, es un sistema que genera conexión entre otros sistemas. Por ejemplo, una interfaz de usuario
+busca generar una comunicación eficiente, por medio de significantes entendibles por el usuario y el computador.
+gráficos elementales, pero con la capacidad de desarrollar complejos sistemas informáticos. En 2003, inspirados en
+los fundamentos de Logo, es desarrollado Scratch4 por el grupo Lifelong Kindergarten5 (Resnick 2017), un
+laboratorio de investigación parte del MIT Media Lab. Este es otro lenguaje de programación enfocado a niños
+pequeños, que posiblemente en la actualidad sea el lenguaje educativo más famoso y de mayor alcance en el mundo.
+Scratch se basa en presentar al niño una interfaz gráfica muy sencilla, organizada por medio de conjuntos de
+bloques que corresponden a acciones generales, que al juntarlas activan comandos de programación, utilizados
+para dar movimiento a un personaje dentro de un escenario (Resnick 2009). Scratch igual que Logo, puede
+convertirse en una plataforma para el desarrollo de complejos programas partiendo de cero.
+El estudio y la historia de los lenguajes de programación (Sammet 1972), es una tarea extremadamente intensa
+e interesante, fuente en extensos escritos (Wexelblat 2014; Bergin 2007), y sobre todo de aquellos enfocados en la
+educación. Sin embargo, la intención del presente artículo es la de exponer un par de experiencias enfocadas en la
+promoción de las competencias interculturales (McCloskey 2012) y la memoria identitaria6 (Aravena, 2003), en
+relación con el desarrollo del pensamiento computacional por medio de la programación como argumento
+educativo.
+
+EL PENSAMIENTO COMPUTACIONAL
+Seymour Papert y sobre todo a Jeannette Marie Wing, son considerados como los responsables del término de
+«pensamiento computacional» (Wing 2006), que puede ser descrito como; el proceso por el que un individuo, por
+medio de las habilidades propias de la computación, toma partido de un proceso de desarrollo de pensamiento
+crítico, lateral, divergente y abstracto, para presentar soluciones reflexivas a diferentes problemáticas presentes en
+su entorno social.
+Para lograr este proceso se plantea la necesidad la abstracción (Wing 2008) y de establecer vínculos de
+comunicación con el computador, para la generación de un proceso reflexivo, mediante la realización de una serie
+de tareas secuenciales sobre el problema; a) descomposición de las partes, b) el reconocimiento de patrones
+internos, b) la abstracción de los procesos y c) la escritura de una resolución que tiene capacidad para ser un primer
+acercamiento comunicativo con el computador, «el algoritmo».
+Todo el proceso desde la definición del problema hasta su resolución es un ejercicio que simula el acto de
+«programación», bajo el argumento de la tecnología como ente creada para resolver problemas cotidianos, para
+posteriormente escoger un lenguaje de programación adecuado como sistema de interlocución. La promesa es,
+mientras transcurre todo el proceso, los estudiantes se hacen con la capacidad de resolver problemas en contextos,
+al mismo tiempo de comprender criterios sobre la formación social de la tecnología en un ambiente holístico.
+
+INTERCULTURALIDAD Y PROGRAMACIÓN
+Pensar el desarrollo del «pensamiento computacional» no es posible sino es a partir de un proceso constructivista
+enlazada con la tecnología (Papert 1981), mediante el enfoque de problemáticas de los estudiantes ricas en contexto
+4 La página del proyecto contiene una gran cantidad de recursos educativos, así como la versión actual del programa, que para la
+publicación del artículo es Scratch 3. https://scratch.mit.edu/
+5 https://www.media.mit.edu/groups/lifelong-kindergarten/overview/
+6 Como una relación entre la memoria colectiva y la memoria individual en un sentido de recomposición identitaria.
+(Jonassen 1994), donde el conocimiento del problema es tan necesario como las herramientas de solución,
+generando un entorno dinámico para la reflexión, la creatividad. Propiciando una forma de pensar que fomenta el
+análisis y la relación de las ideas para la representación de procedimientos (Zapata–Ros, 2015) de interpretación y
+resolución.
+El aprendizaje de lenguajes de programación presenta barreras para los contextos culturales, uno de ellos, por
+ejemplo, es el empleo del idioma inglés para la construcción de la sintaxis, o la secuencia del sentido gramatical
+establecida desde una lógica formal7 para establecer una comunicación de forma racional. Como también el diseño
+de los contenidos de las guías de aprendizaje basadas en criterios de carácter «universal», que no contextualizan al
+entorno local cultural.
+Establecer diálogos entre diferentes contextos culturales, motivados por la memoria, la identidad y los
+lenguajes de programación es posible desde una perspectiva horizontal por medio del establecimiento de entornos
+de aprendizaje donde la tecnología y la programación juegan un importante papel.
+
+ACERCAMIENTO BÁSICO A LAS EXPERIENCIAS EN CUESTIÓN
+Wawakipu,8 proviene del juego de palabras quechua/kichwa «wawa», que significa niño, y «kipu» que puede ser
+entendido como «codificación». Wawakipu es un programa de ciencias de la computación desarrollado por el
+Medialab de CIESPAL, cuyo objetivo es guiar a los participantes en el aprendizaje de un lenguaje de programación,9
+con el fin «despertar el pensamiento computacional»10. Por medio de la reflexión sobre historias y mitos indígenas,
+para la producción de productos concretos, expresados en el desarrollo y diseño de videojuegos inspirados en esas
+narrativas.
+Se basa en la idea de que las diferentes culturas; indígenas, ancestrales y originarias han producido múltiples
+formas de abstraer y presentar formas de pensamiento lógico, no necesariamente binarias. Haciendo uso de la
+narrativa cosmogónica, los mitos fundacionales de diferentes culturas, como base para entender la complejidad de
+la naturaleza y la espiritualidad, pero también de las relaciones sociales, culturales y axiomáticas. Una base para
+plantear otras formas para comprender el universo, permitiendo replantear el sentido de los contextos, y las
+problemáticas, que facilitan el proceso de abstracción y el diseño algorítmico. En síntesis, la presencia del
+pensamiento computacional, como parte de la memoria identitaria.
+El segundo caso conocido como «Tejidos Autómatas»,11 es un programa taller en el que se realiza un ejercicio
+de diálogo entre el estudio de los sistemas de autómatas celulares en relación con la composición de tejidos
+indígenas, mediante un lenguaje de programación conocido como P5.js.12 El programa enfocado a un público
+universitario,13 consiste en presentar reflexiones sobre los tejidos como sistemas de codificación y de memoria de
+cultura indígenas, expresadas por medio de una simulación de complejidad mediante el uso de lenguaje de programación.
+7 Históricamente definida por el pensamiento occidental.
+8 http://wawakipu.com
+9 Aplicado en 2017 con una participación de más de 300 niñas y niños en Infocentros de la provincia Pichincha del Ecuador.
+10 Uno de los fundamentos del proyecto se basa en que esta forma de razonamiento está presente casi de manera innata en los estudiantes,
+pero inactiva. Gracias al estudio del contexto y la problemática concreta es posible «despertar» el pensamiento computacional.
+11 http://tejidosautomatas.info
+12 Un lenguaje de programación enfocado al arte interactivo. https://p5js.org/
+13 El caso presentado es un taller desarrollado en 2018 en el marco del Encuentro de Artes mediales Hausmann 8.0 en la Universidad San
+Francisco de Quito.
+
+BREVES APUNTES SOBRE LOS APRENDIZAJES
+Tanto en el caso de Wawakipu, como de Tejídos Autómatas, son procesos formativos de una duración de 20 horas,
+en los cuales se pudo observar que, en el primer caso los niños llegaron a comprender de una manera muy rápida
+Scratch, si bien aceptar las referencias de mitos indígenas fuera de su contexto comunicacional mediático para el
+estudio de la lógica, no consiguió atención inmediata, la combinación con el desarrollo de un videojuegos si genera
+mucha atención y despierta curiosidad sobre sus raíces culturales.14
+Tejidos Autómatas al ser un ensayo de tipo universitario, requiere de mayores capacidades reflexivas y basadas
+en fundamentos de pensamiento decolonial, que no son en todos los casos comprendidas inicialmente por los
+estudiantes debido a la escasa comprensión de sus contextos culturales de memoria identitaria, sin embargo al
+hacer un acercamiento al tejer por medio de código, despierta el interés para reflexionar al tejido indígena como
+sistema complejo cultural.
+
+
+REFERENCIAS
+Aravena, A. (2003). «El rol de la memoria colectiva y de la memoria individual en la conversión identitaria
+mapuche». Estudios atacameños 26: pp. 89–96.
+Bergin, T. J. T. (2007). «A history of the history of programming languages». Communications of the ACM 50, no.
+5: 69–74.
+Cobo, C. (2016). La innovación pendiente. Reflexiones (y provocaciones) sobre educación, tecnología y conocimiento.
+Montevideo: Colección Fundación Ceibal.
+Collins, A. (1998): «El potencial de las tecnologías de la información para la educación» en Vizcarro, C. y León. A.
+(Eds.): Nuevas tecnologías para el aprendizaje. Madrid. Piramide.
+Jonassen, David H. (1994). «Thinking Technology: Toward a constructivist design model». Educational
+Technology 34, no. 4: 34–37.
+McCloskey, E. M. (2012). «Docentes globales: un modelo conceptual para el desarrollo de la competencia
+intercultural on–line». Comunicar. doi: 10.3916/C38-2011-02-04
+Papert, S., & Solomon, C. (1971). «Twenty things to do with a computer». MIT–A. I. Laboratory. Artificial
+Intelligence Memo 248. Recuperado de http://www.bitsavers.org/pdf/mit/ai/aim/AIM-248.pdf
+Papert, S. (1981). Desafío a la mente. Computadoras y educación. Buenos Aires: Galápago.
+Prieto, M. S. F. (2001). «La aplicación de las nuevas tecnologías en la educación». Tendencias pedagógicas 6: pp.
+139–148.
+Requena, S. H. (2008). «El modelo constructivista con las nuevas tecnologías: aplicado en el proceso de
+aprendizaje». RUSC. Universities and Knowledge Society Journal 5, no. 2: pp. 26–35.
+Resnick, M., Maloney, J., Monroy – Hernández, A., Rusk, N., Eastmond, E., Brennan, K., ... Silverman, B. (2009).
+«Scratch: Programming for all». Communications of the ACM 52, no. 11: pp. 60–67
+Resnick, M. (2017). Lifelong Kindergarten: Cultivating Creativity Through Projects, Passion, Peers, and Play. MIT
+Press.
+Sammet, J. E. (1972). «Programming languages: history and future». Communications of the ACM 15, no. 7: pp.
+601–610.
+Wexelblat, R. L. (Ed.). (2014). «History of programming languages». Academic Press.
+Wing, J. M. (2006). «Computational thinking». Communications of the ACM 49, no. 3: pp. 33–35.
+Wing, J. M. (2008). «Computational thinking and thinking about computing». Philosophical transactions of the
+royal society of London A: mathematical, physical and engineering sciences 366, no. 1881: pp. 3717–3725.
+Zapata–Ros, M. (2015). «Pensamiento computacional: Una nueva alfabetización digital». RED. Revista de
+educación a distancia 46: pp. 1–47.

@@ -1,0 +1,1580 @@
+2021
+Proyecto formulado por
+Camilo Ayala Monje
+Director de proyecto de grado
+Camilo Ayala García
+CO-CREACIÓN ENTRE EL SER HUMANO Y EL
+PENSAMIENTO COMPUTACIONAL
+
+2
+
+3
+Form
+Follows
+Force
+4
+EL
+DISEÑO
+GENE
+RATIVO
+CO-CREACIÓN ENTRE EL SER HUMANO Y EL
+PENSAMIENTO COMPUTACIONAL
+
+5
+Asesor de proyecto de grado
+Camilo Ayala García
+c.ayala954@uniandes.edu.co
+Profesor
+Departamento de Diseño
+Facultad de Diseño y Arquitectura
+2021 ©
+Universidad de los Andes
+Facultad de Diseño y Arquitectura
+Departamento de Diseño
+Maestría en Diseño
+Proyecto de grado
+Camilo Andrés Ayala Monje
+ca.ayalam1@uniandes.edu.co
+camiloayalamonje@gmail.com
+Website
+www.camiloayala.com
+
+6
+Imagen 1: Sedie, elaboración propia
+
+7
+Introducción
+Este proyecto de grado analizó el valor potencial del diseño generativo en diferentes ámbitos;
+presenta y ejemplifica el proceso de co-creación entre el diseñador y el pensamiento
+computacional, con seis prototipos. Muestra el proceso de diseño de un producto usando la
+metodología del diseño generativo, y expone la importancia de las tecnologías emergentes, el
+diseño generativo. Este último, se consideró fundamental para los diseñadores y se reconoció
+como una oportunidad valiosa de enseñanza y apropiación en la academia, porque permite crear
+productos, evaluar y optimizar rápidamente diseños, podría generar procesos más eficientes e
+influye en la toma de decisiones ágiles que permitan alcanzar un mayor rendimiento en todo
+el proceso de diseño. Además, esta tecnología ayuda a los diseñadores a hacer frente a los
+desafíos y retos en una era marcada por el alto grado de digitalización de la sociedad; donde
+cada vez: se hace necesaria la creación de productos que se integren con las nuevas tecnologías
+y con las necesidades humanas.
+El diseño generativo tiene múltiples definiciones que han variado a lo largo del tiempo, desde
+finales de los 80’s e inicios de los 90’s, cuando tuvo sus comienzos, hasta estos tiempos. Sin
+embargo, el presente proyecto de grado tendrá en cuenta lo expuesto por Lazzeroni, Bohnacker,
+Groß & Laub (2009) quienes definen esta tecnología como un proceso cíclico basado en una
+idea abstracta simple, que se aplica a un algoritmo y luego se traduce en un código fuente, esto
+produce una salida en serie a través de una computadora. Las salidas regresan a través de un
+circuito de retroalimentación, lo que permite al diseñador reforzar el algoritmo y el código de
+fuente. En tanto, es una operación iterativa que se basa en el intercambio y retroalimentación de
+información, entre el diseñador y el proceso de diseño.
+El diseño generativo llegó como un conjunto de instrumentos que revolucionarían la manera en
+que los diseñadores entienden y enfrentan el proceso de diseño; al utilizar algoritmos inspirados
+en la biomímesis se optimiza la forma y función de objetos, a través de un proceso repetitivo que,
+además, elimina el material innecesario, y obtiene como resultado una pieza funcionalmente
+adecuada, con una estética formal muy similar a la progresión ósea o a la estructura de
+crecimiento de un árbol.
+Hoy, las técnicas de diseño generativo tienen numerosos medios para crear variaciones en un
+proceso, no obstante, se reconocen dentro de las más importantes; algoritmos e inteligencia
+artificial, ya que hacen parte de un proceso de diseño en el que se proponen diferentes volúmenes
+que serían imposibles de idear para un diseñador humano. Aunque estas técnicas se han
+estudiado durante los últimos sesenta años a partir de la disertación de propuesta por Schmit
+(1960), y tienen su origen en la optimización topológica, que se centra principalmente en mejorar
+diseños preexistentes y en rediseñar un componente que ya está concebido, mientras que, el
+diseño generativo crea nuevas posibilidades de diseño. En muchos casos esta optimización
+no ha sido viable para la fabricación industrial por los impedimentos propios de las líneas de
+producción y de los métodos tradicionales de transformación. Pero, con el reciente auge de la
+fabricación aditiva, las piezas generadas por optimización pueden ser finalmente viables para
+la elaboración (García, Domínguez & Espinosa, 2020)
+
+8
+Actualmente, la Optimización de la Topología es la aplicación más popular del diseño generativo.
+Es un proceso de determinación de la ubicación y distribución de material en una estructura para
+una determinada función-objetivo y condiciones de restricción (Cortés, 2010). Esta tecnología
+comienza con un espacio de diseño que designa un volumen para trabajar. Los algoritmos de
+optimización de la topología eliminan partes de este volumen hasta que queda una fracción que
+cumple con la restricción. Las partes eliminadas vienen determinadas por la relación de carga,
+fuerzas y parámetros definidos para la función. Esta metodología de creación se convierte en
+un diálogo co-creativo entre el diseñador y el software, en la medida en que el primero, agrega
+a las distintas soluciones la carga de la estética, de los compromisos sociales, del gusto, de la
+semiótica y semántica objetual y de la viabilidad productiva. Y, el segundo, propone la solución
+más optima posible.
+Es importante resaltar que un antecedente histórico importante para que actualmente se
+pueda hablar del diseño generativo, fue lo que ocurrió en 1962, en el Lincoln Laboratory de
+Massachusetts Institute of Technology (MIT); cuando Ivan Sutherland desarrolló el sistema
+Sketchpad, basado en su propia tesis doctoral “A Machines Graphics Communications
+System”. Con ello establece las bases de los sistemas gráficos interactivos por asistidos de
+computador, Computer-Aided Design (CAD): diseño asistido por computadora y Computer-Aided
+Manufacturing (CAM): fabricación asistida por computadora.
+Originalmente, Sutherland propuso la idea de utilizar un teclado y un lápiz óptico para seleccionar,
+situar y dibujar juntamente con una imagen representada en la pantalla (Sutherland, 1964). La
+mayor innovación de sus postulados fue la estructura de los datos, ya que estaba orientada
+a la topología del objeto que iba a representar y por lo tanto describía con total exactitud las
+relaciones entre las diferentes partes, introduciendo así lo que se conoce como programación
+orientada a objetos, y dando origen a los sistemas CAD/CAM.
+Han pasado casi 60 años desde la ideación de estos sistemas, los cuales evolucionan a la par
+del artefacto tecnológico, multiplican su poder de procesamiento, aumentan su presencia en el
+proceso de diseño y adoptan tecnologías como las redes neuronales y la inteligencia artificial.
+A pesar de lo encontrado en la literatura revisada y pese a los avances que ha tenido el
+diseño generativo, aún se desconoce si esta tecnología podría generar un diseño viable para
+la fabricación que sea funcional, cumpla con los parámetros mínimos para la producción en
+masa y, a su vez contenga un criterio estético que convierta sus resultados en un objeto con
+un mercado potencial; asimismo, específicamente de qué manera el diseño generativo mejora
+los procesos de diseño; cuál es el propósito que tiene para los diseñadores y, además, cuál es
+su importancia en la academia y su implementación en la carrera de diseño. Por consiguiente,
+surgen las siguientes preguntas de investigación:
+¿Cuál es el valor potencial del diseño generativo en los procesos de diseño del producto y en la
+academia para los futuros diseñadores?
+¿Cómo se integra el diseño generativo en los procesos de diseño de producto?
+
+9
+Gracias a todos los que
+estuvieron en este camino,
+especialmente a mi familia,
+Carlos, Marina, Diego y Laura,
+por enseñarme a ver el
+mundo con profundidad y
+criterio, a tener siempre la
+curiosidad inquebrantable y
+una perseverancia obstinada,
+por su orientación, apoyo
+incondicional y comprensión
+A Natalia Gallo, por su
+amor, tolerancia, y por los
+momentos maravillosos que
+hemos pasado juntos
+A mis compañeros de la
+maestría por la buena
+compañia a lo largo de este
+viaje, y, a mi director en este
+proceso, y homónimo, Camilo
+Ayala García, por las verdades
+sin filtro, la guía comprensiva
+y acertada para desarrollar
+esta investigación
+··
+
+10
+ÍNDICE
+
+11
+01. Preguntas de investigación y objetivos
+02. Contexto histórico
+03.
+06.
+Proceso
+Primera parte
+Conclusiones
+04.
+07.
+Proceso
+Segunda parte
+Prototipos virtuales
+Experimentos con AR
+05.
+08.
+Potencial value
+Referencias
+
+12 01
+
+13 Preguntas de
+investigación
+y objetivos
+
+14
+raneoa.
+¿Cuál es el valor
+potencial del diseño
+generativo en los
+procesos de diseño
+del producto y en la
+academia para los
+futuros diseñadores?
+¿Cómo se integra el
+diseño generativo
+en los procesos de
+diseño de producto?
+
+15
+Objetivos
+Objetivo general
+Identificar el valor potencial y significado del diseño generativo en los
+procesos de diseño
+Objetivos específicos
+Explorar la relevancia de la enseñanza del diseño generativo en la
+academia
+Identificar la relación existente entre el diseño generativo y los procesos
+de diseño de un producto
+Determinar la importancia que tiene el diseño generativo para los
+diseñadores y para el avance de la carrera de diseño
+Entender el rol activo de los diseñadores frente a las nuevas tecnologías
+
+16 02
+
+17 Contexto
+histórico
+
+18
+raneoa.
+Less,
+but
+better
+Dieter Rams
+
+19
+“Desde los cojines de los sofás a la
+construcción de ciudades”
+Vom Sofakissen zum Städtebau
+En los albores de los años cincuenta, el Good Design, la
+Gute Form, el Bel Design o “Buen Diseño” apalancado
+por el Plan Marshall y el MoMA en Estados Unidos de
+America, la Deutscher Werkbund en Alemania y las
+instituciones de arte e mestieri en Italia, ofrecieron una
+nueva vida en occidente a los ideales y principios del
+movimiento moderno, actualizado convenientemente
+para los tiempos que corrían y mercadeando unos
+ideales democráticos y correctos que apalancaban el
+consumo, y forjaban un estilo que podía ser compartido
+y pensado a escala mundial. (Valls, 2016)
+La Gute Form fue el movimiento alemán por
+antonomasia, allí la idea del buen diseño alcanzó su
+formulación teórica más rigurosa y se presentaba
+en una frontal contraposición a styling y a su versión
+aerodinámica, el Streamline.
+Mientras que el Streamline promovía el beneficio
+inmediato, y el adorno a cambio de la funcionalidad
+(Valls, 2016), desde los sectores más rigurosos del
+neo funcionalismo se proponía la honestidad como el
+valor principal del diseño. Este valor se planteaba con
+el objeto para el usuario y para la sociedad, con formas
+simples, atemporales, funcionales y con ausencia de
+ornamentación, limitación cromática y con materiales
+auténticos; el diseño representaba a la empresa que lo
+concebía en sus valores, visiones y objetivos. (Valls, 2016)
+Alemania fue la cuna de la Deutscher Werkbund, una
+asociación mixta de arquitectos, artistas e industriales,
+fundada en 1907 en Múnich por Hermann Muthesius,
+su objetivo fue el de ennoblecer el trabajo artesanal,
+uniéndolo con el arte y la industria, de esta premisa
+se infiere que la Werkbund, buscaba redefinir el trabajo
+manual, construyendo una estética refinada que
+correspondía al espíritu de la época y que aumentaba
+el nivel de calidad de una obra o producto. La Gute
+Form tenia un componente ideológico en su núcleo,
+además del diseño de objetos y de la producción
+gráfica, se generó un abundante eje bibliográfico. Este
+llegó en forma de discursos, programas académicos,
+conferencias y libros de texto que permitían aleccionar
+a los diseñadores. (Heredia, 2013)
+La Deutscher Werkbund fue la precursora de la
+mundialmente famosa Bauhaus, sin embargo, también
+fue un fenómeno global y en parte responsable de la
+adopción del concepto de Good Design que se materializo
+y popularizo en América, gracias al curador del MoMA
+(Museo de Arte Moderno de Nueva York) Edgar Kaufmann,
+quien aglutinó en una serie de exposiciones los trabajos
+de aquellos diseñadores destacados de la mitad de siglo
+XX (Drexler, 1973), como Charles y Ray Eames, Marcel
+Breuer, Mies van der Rohe, Le Corbusier, George Nelson,
+etc. y que sentaron las bases de lo que en buena parte es
+el diseño contemporáneo. (Schepers, 1986)
+
+20
+Del diseño radical a
+la biomímeis tecnológica
+En 1960 durante la segunda conferencia sobre
+computación electrónica, Schmit planteó el diseño
+estructural por síntesis sistémica, que puede
+definirse como la evolución racional y dirigida de una
+configuración estructural que, en función de un criterio
+definido, cumple eficazmente una serie de objetivos
+funcionales específicos. Schmit Buscaba inicialmente
+un método para la convergencia sistemática de un
+diseño óptimo en el sentido de un peso estructural total
+mínimo. Ya para esta época se procesaron y los datos
+utilizando un ordenador digital IBM 653. (Schmit, 1960)
+Paralelamente, la década de los 60´s produjo cambios
+en diferentes aspectos; que no sólo afectarían a la
+sociedad, sino también al arte, la ilustración, el diseño
+gráfico e industrial, entre otros. El diseño se convirtió en
+un campo propicio para la experimentación. Materiales
+como el plástico, sobretodo el poliéster, el vinilo o las
+resinas se trasformaron en grandes aliados del diseño
+orgánico, inspirado en la naturaleza, dando vida a
+diseños tan icónicos como la silla Panton del diseñador
+Verne Panton, y promoviendo que muchos diseñadores
+se replantearan la visión que suponía el Estilo
+Internacional. En la búsqueda de una nueva identidad,
+tras la explosión de las Segundas Vanguardias, el
+campo del diseño se hizo más amplio, dando inicio a
+una nueva generación de diseñadores que exploraban
+la forma desde su capacidad provocadora, expresiva
+y emotiva; dejando en segundo plano, e incluso
+desvaneciendo, el patrón racionalista que imperaba
+desde un entendimiento del Good Design de un modo
+ortodoxo.
+A esto se suma el hecho de que los 60´s estuvieron
+marcados por la idea de que el hombre pudiera llegar
+a la luna; lo que finalmente sucedería en 1969 con el
+alunizaje del Apolo XI, lo que impulsó el nacimiento de
+lo que se conoce como Space Age Design, lo que marcó
+toda una década cautivada por el futurismo.
+En este periodo de transformación, el diseño se
+independiza de la arquitectura, retoma su función
+social y establece una estrecha relación con la
+industria. Nace el diseño radical, o también llamado
+“antidiseño” o “contradiseño”, una corriente que
+desarrolla entre los años 60 y 70. Es diametralmente
+opuesto al racionalismo, y le da especial importancia a
+las necesidades del individuo. (Valls, 2016)
+Grupos italianos como Alchimia en 1976 y Memphis en
+1981 trajeron nuevos valores psicológicos, semánticos
+e iconográficos a la escena del diseño que resonaron
+en toda Europa. Estos -principalmente jóvenesdiseñadores,
+artistas y arquitectos cazan furtivamente
+todos los estilos según los principios del arte
+contemporáneo. Siguiendo a Dada, el Surrealismo y el
+Pop-Art, se traen a casa objects trouves o ready mades.
+La forma ya no necesita seguir la función en opinión de
+muchos diseñadores. Ahora los slogans son “La forma
+sigue a la fantasía” o “La forma sigue a la ficción” o, lo
+mas extremo “La forma me sigue” (Valls, 2016)
+
+21
+Imagen 2: © Verner Panton Design AG
+
+22
+Imagen 3: Optimization process of a chair from the Bone Furniture collection, Joris Laarman, 2006
+
+23
+Imagen 4: Harmunt Bohnacker, Julia Laub, Benedikt Grob, Claudios Lazzeroni, 2009
+La forma sigue
+a la fuerza
+La optimización de estructuras, de las formas y de
+los materiales ha sido una meta principalmente de
+la ingeniería, la arquitectura y del diseño de producto
+desde hace más de cuarenta años. La primera etapa
+de desarrollo e investigación estuvo basada en la
+aplicación de técnicas de programación matemática,
+(Oh, Jung, Kim, Lee, & Kang, 2019) luego con la adopción
+y masificación del aparato tecnológico, y el aumento
+exponencial del poder computacional, las técnicas
+metaheúristicas basadas en la Computación Evolutiva,
+y de manera significativa, los Algoritmos Genéticos
+permitieron un salto en la tecnología. (Sanchez, 2012)
+Los productos y sus subyacentes estructuras han
+evolucionado en la variable del tamaño, y en el número
+de barras y coordenadas de los nudos (topología),
+y recientemente la evolución ha sido paralela y
+simultánea (Sanchez, 2012).
+El proceso de diseño combinado con el poder de las
+computadoras que pueden explorar una gran cantidad
+de posibles permutaciones de una solución y permite
+a los diseñadores generar y probar nuevas opciones,
+más allá de lo que un ser humano podría lograr, para
+llegar a un diseño más efectivo y optimizado. (Norvig &
+Russell, 2004)
+Este es un proceso iterativo que involucra un software
+que genera una cierta cantidad de salidas que cumplen
+con ciertas restricciones, (Matejka, Glucek, & Bradner,
+2018) y un diseñador que ajusta la región factible
+seleccionando una salida específica o cambiando los
+valores de entrada, los rangos y la distribución, entre
+otras variables. (Arias & Osorio, 2020)
+Idea
+Reglas algorítmicas
+Código fuente
+Salida
+Diseñador
+Abstracción
+Formalización de
+parámetros iniciales
+Interpretación por iA
+Modificación de las reglas
+Modificación del código
+fuente y los parámetros
+Selección de las salidas
+
+24
+Imagen 5: Bone Chair, Joris Laarman, 2006
+
+25
+Imagen 7: Generico Chair, Marco Hemmerling und Ulrich Nether, 2012, © Dirk Schelpmeier
+Imagen 6: proceso de la Generico Chair, Marco Hemmerling und Ulrich Nether, 2012, © Dirk Schelpmeier
+
+26
+Las redes neuronales y la
+inteligencia artificial en el
+método de diseño generativo
+La investigación en lo que ahora se conoce como diseño
+generativo inició gracias a Frazer (Gu, Xi Tang, & Frazer,
+2006) a principios de los años 70`s. Su desarrollo ha
+pasado por varias fases, dirigidas principalmente por
+investigadores académicos centrados en gran medida
+en la teoría del diseño. Aunque se reconoce la falta
+de métodos de aplicación, no se han desarrollado
+métodos formales para el diseño generativo. En el
+contexto del creciente interés de los profesionales y
+las escuelas de arquitectura y diseño, este vacío fue
+cubierto por las empresas de Computer-Aided Design
+(CAD): diseño asistido por computadora, que ofrecían
+diversas soluciones. Sin embargo, en la actualidad se
+reconoce la necesidad de un marco teórico orientador
+para esta metodología. El objetivo actual del diseño
+generativo lo resume Shea así: “los sistemas de diseño
+generativo tienen como objetivo crear nuevos procesos de
+diseño que produzcan diseños espacialmente novedosos
+pero eficientes y construibles mediante la explotación de
+las capacidades informáticas y de fabricación actuales”.
+(Shea, Aish, & Gourtovaia, 2005)
+Se define aquí el diseño generativo como un proceso
+de exploración del diseño impulsado por el diseñador,
+en conjunto con el uso de herramientas de inteligencia
+artificial, y con restricciones paramétricas, que opera
+sobre sistemas CAD paramétricos basados en historia,
+y que es aplicable tanto al diseño paramétrico como al
+procedimental. Ya que la mayoría de los sistemas CAD
+contemporáneos se basan en procedimientos internos
+para construir la geometría, aunque este aspecto
+procedimental está oculto para el usuario. (Buonamici,
+Carfagni, Furferi, Volpe, & Governi, 2021)
+El diseño generativo se refiere a los métodos de diseño
+computacional que pueden realizar automáticamente
+la exploración del diseño bajo las restricciones
+definidas por los diseñadores. Entre muchos enfoques,
+los diseños generativos basados en la optimización de la
+topología tienen como objetivo explorar diversos diseños,
+que no pueden ser representados por los enfoques
+convencionales de diseño paramétrico, ni por el enfoque
+tradicional iterativo del diseñador humano; por lo que
+hace uso de tecnologías como la inteligencia artificial y
+las redes neuronales. (Alcaide, Diego, & Acosta, 2020)
+La inteligencia artificial (IA, en inglés AI o Artificial
+Intelligence) es una rama de la ciencia de la computación
+que se ocupa de modelar la conducta inteligente. Los
+sistemas de IA utilizan algoritmos y modelos para
+analizar, organizar, procesar y convertir datos. (Radford,
+Metz, & Chintala, 2015) El objetivo es obtener información
+útil para la toma de decisiones. Una red neuronal es un
+modelo simplificado que simula cómo los cerebros de los
+seres vivos, en especial el humano, procesa información.
+(Gu, et al, 2006)
+Las redes neuronales artificiales (en inglés,
+ANN, Artificial Neural Networks) se inspiran en el
+sistema nervioso y el comportamiento biológico,
+creando un sistema de interconexión en capas de
+neuronas artificiales que colaboran para procesar
+datos de entrada y generar salidas. Como modelo
+computacional, las Artificial Neural Networks utilizan
+grafos y funciones, conformadas por elementos de
+proceso (nodos) y conexiones (enlaces). Procesan
+entradas y generan salidas que ayudan a resolver
+problemas. En algunos modelos se utiliza memoria
+local en los nodos o elementos de proceso. Los nodos
+están conectados entre sí y se agrupan en diferentes
+niveles que denominados capas; definida como un
+conjunto de neuronas cuyas entradas provienen de una
+capa anterior (o de los datos de entrada en el caso de
+la primera capa) y cuyas salidas son la entrada de una
+capa posterior. (Habig, Grossman, Cheong, Hashemi, &
+Fitzmaurice, 2017)
+
+27
+Las neuronas de la primera capa reciben como entrada
+los datos reales que alimentan a la red neuronal, para
+el caso de este proyecto la primera capa se compone
+de las restricciones, las cargas, los detalles y métodos
+de fabricación y los materiales en el sistema. (Pino,
+Gómez, & de Abajo, 2001) Es por eso que la primera
+capa se conoce como capa de entrada. La salida de
+la última capa es el resultado visible de la red, por lo
+que la última capa se conoce como la capa de salida.
+Las capas que se sitúan entre la capa de entrada y la
+capa de salida se conocen como capas ocultas, ya que
+desconocemos tanto los valores de entrada como los
+de salida. (Goudswaard, Hicks, & Nassehi, 2021)
+Una red neuronal, por lo tanto, siempre está compuesta
+por una capa de entrada, una capa de salida y puede
+contener cero y/o más capas ocultas. (Goudswaard, et
+al, 2021)
+El objetivo principal de la integración de estas
+tecnologías al proceso de diseño es ayudar a los
+diseñadores a explorar una gama más amplia
+de posibilidades de diseño que la que es posible
+manualmente. El método se basa en la construcción
+de un genotipo del diseño dentro de un sistema CAD
+paramétrico basado en la historia y, a continuación,
+en la variación aleatoria de sus parámetros dentro de
+unos límites predefinidos para generar un conjunto
+de diseños distintivos (GrabCAD Community, 2014).
+A continuación, los diseños generados se filtran a
+través de varias envolventes de restricciones que
+representan la viabilidad geométrica, la factibilidad de
+fabricación, el costo y otras restricciones relacionadas
+con el rendimiento, reduciendo así el extenso espacio
+de diseño a un espacio de diseño viable más pequeño
+representado por un conjunto de diseños diversos,
+con la posibilidad de que el diseñador pueda seguir
+desarrollando estos diseños. El método de diseño
+generativo impone un mínimo en el proceso de trabajo
+del diseñador y mantiene la flexibilidad y fluidez
+necesarias para la exploración creativa del diseño.
+(Jang, Yoo, & Kang, 2020)
+Imagen 8: Autodesk Generative design in Fusion 360 offers new ways to create and design products, 2019
+
+28 03
+
+29
+Proceso
+Primera
+parte
+
+30
+Imagen 9: © Eames Office, LLC; Marc Eggimann; © Vitra Design Museum, Thomas Dix; Cornel Windlin
+
+31
+“Getting the most of the best to the
+greatest number of people for the least”1
+Charles y Ray Eames
+Durante años, Carles y Ray Eames trabajaron sobre
+la idea de una carcasa de asiento de una sola pieza
+moldeada para adaptarse a los contornos del cuerpo
+humano. (Schepers, 1986) En la década de los 40,
+en los albores del diseño paramétrico con miras a la
+replicabilidad industrial, la búsqueda de materiales
+alternativos les llevó a la resina de poliéster reforzada
+con fibra de vidrio. (Drexler, 1973)
+En paralelo a esta búsqueda se desarrolló el sistema
+de unión para la base de madera hilada con traviesas
+que conectaba a la carcasa del asiento, lo que permitía
+completar la topología. Las sillas y bases se ofrecen
+hasta el día de hoy a los consumidores con múltiples
+combinaciones; en colores y formas, haciendo uso de
+distintos tipos de maderas, como el arce, el pino o el
+fresno, hilados con alambre de acero para aportar una
+base sólida y estructuralmente estable. (Vitra, 2018)
+Este diseño se ha mantenido invariable desde su paso
+a producción en 1948, cuando Charles y Ray Eames
+participaron en el “Concurso Internacional de Diseño
+de Mobiliario de Bajo Coste” organizado por el Museo
+de Arte Moderno de Nueva York. (Vitra, 2018)
+La comercialización de las Fiberglass Chairs en 1950
+supuso la introducción de una tipología de mobiliario
+que desde entonces se ha hecho omnipresente: la silla
+multifuncional cuya carcasa puede combinarse con
+diferentes bases en función del uso y como respuesta
+a la enorme popularidad de esta silla, pronto se
+ampliaron las opciones de bases y colores. Durante la
+década siguiente, las Fiberglass Chairs se convirtieron
+en uno de los diseños de muebles más conocidos del
+siglo XX. (© Eames Office, LLC, 2021)
+Para el desarrollo de esta primera parte del proyecto
+se utilizó la parte correspondiente al hilado de acero
+con miras a diseñar un remplazo que tenga las
+características estructurales propias de la función,
+a través de una metodología de diseño generativo,
+buscando una propuesta formal no definida por el
+diseñador en primera instancia.
+Al tener una base objetual predefinida y ya diseñada,
+el primer paso para realizar la exploración consistió en
+modelar en 3D una representación de la silla Eames
+Plastic Chairs DSW® , y adquirir una unidad física
+que sirviera como dispositivo de experimentación y
+comprobación.
+1 Conseguir más de lo mejor para más gente y por menos
+
+32
+Este trabajo estableció
+cinco consideraciones
+básicas para la creación
+de un estudio de caso de
+diseño.
+Para la configuración de los casos de diseño generativo que se abordan
+en este proyecto de grado se deben estudiar y especificar una serie de
+condiciones, para que este proceso colaborativo tenga éxito los valores de
+entrada (input) deben ser lo más precisos y certeros posibles. (Krish, 2011)
+
+33
+1
+2
+3
+4
+5
+Recopilar información sobre el comportamiento, el problema y observar,
+en un contexto más amplio, como encaja la pieza que se va a generar.
+¿Cómo interactúa la nueva pieza con el conjunto más amplio? ¿Qué tipo de
+fabricación, montaje u otras consideraciones prácticas están presentes?
+¿Hay alguna dinámica en juego (piezas móviles, cargas cambiantes, etc.)?
+¿Cuál es el objetivo final? ¿Es la reducción de peso/material, la mejora del
+rendimiento, la estética o alguna otra mejora métrica?
+Este también es un trabajo que se realiza en el modelo base, se crean
+las geometrías de los obstáculos que sean necesarias. Esto puede
+incluir elementos de fijación (tuercas, pernos, tornillos, pasadores,
+etc.) y además geometrías más complicada como sólidos barridos. Hay
+que incluir las distancias necesarias para el uso de las herramientas
+que se harán necesarias para hacer el ensamble.
+Se inicia con el modelo base existente, ya sea una sola pieza o un
+conjunto. Se crea la geometría de conservación que toma en cuenta las
+geometrías de la interfaz (salientes de tornillos, bridas, etc.) y se asignan
+como nuevos cuerpos que se utilizarán en el proceso generativo.
+Se especifican las restricciones, las cargas, los detalles y métodos de
+fabricación y los materiales en el sistema. Este punto es fundamental
+para el éxito en la generación de geometrías que cumplan con todas las
+restricciones y propiedades a las que puede estar expuesta una pieza.
+En este punto se ejecutan los estudios. El proceso se hace a través de
+servidores AWS para el caso de Autodesk Fusion®, este proceso online y
+on cloud aprovecha el poder incremental del aparato tecnológico, y hace
+uso de servidores en hub para multiplicar el flujo de datos procesados.
+Identificar
+Conservar
+Obstaculizar
+Condicionar
+Generar
+
+34
+Imagen 10: © Eames Office, LLC; Marc Eggimann; © Vitra Design Museum, Thomas Dix; Cornel Windlin
+
+35
+Para usar el espacio del software que corresponde a
+la metología generativa, se comienza con un espacio
+de diseño que designa un volumen para trabajar. En
+este caso, al momento de realizar el modelado se
+omiten las traviesas de acero. Este correspondió al
+espacio definido por el diseñador para que el software
+pueda realizar la búsqueda formal. Los algoritmos
+de optimización de la topología eliminaron las partes
+de este volumen hasta que queda una fracción que
+cumple con la restricción. Las partes eliminadas
+vienen determinadas por la relación de carga, fuerzas
+y parámetros definidos para la función. (Cotés, 2010)
+Imagen 11: Modelado en Autodesk Fusion de la silla Eames Plastic
+Chairs DSW® , elaboración propia
+
+36
+En el caso particular del estudio generativo realizado en el marco de este
+proyecto, para el remplazo de la parte correspondiente al hilado de acero,
+se obtuvieron 490 posibles formas a partir de los imputs, en su mayoría
+cumplen con los criterios de entrada. Al momento en que se realiza
+este documento, Autodesk Fusion® tiene funcionalidades en desarrollo
+o en estado beta, como algoritmos de resolución experimentales,
+desplazamiento de los límites de las geometrías o motores de forma
+múltiples, entre otras. (Autodesk.com, 2019)
+Para la resolución de este caso se emplean materiales predefinidos en
+el sistema que pueden ser usados en métodos de manufactura aditiva,
+por ejemplo, el aluminio AISi10mg, el acero inoxidable AISI 304, y otros
+materiales plásticos como el Orgasol ® Invent Smooth, el PLA o el ABS.
+
+37
+Imagen 12: Modelado en Autodesk Fusion de la silla Eames Plastic Chairs DSW® , elaboración propia
+
+38
+El proceso de optimización de la topología se hace a partir de varios puntos
+de entrada y arroja distintas soluciones formales, por ejemplo:
+La solución presentada en la imagen superior toma en cuenta un punto central como eje de soporte radial; sin
+embargo, no es la solución más optima en términos de volumen, factibilidad, diseño y estética.
+La solucion, presentada en la imagen superior, es una de las más optimas de acuerdo con la comparación
+progresiva de las salidas que ofrece el software en términos de masa, volumen, factor de seguridad mínimo y
+posible costo de producción de la pieza en el mercado. (Autodesk.com, 2019)
+Imagen 13: solución de caso generativo para una silla eames, elaboración propia.
+Imagen 14: solución de caso generativo para una silla eames, elaboración propia.
+
+39
+Imagen 15 (superior): Gráfico de dispersión de resultados
+producido por el entorno de exploración Autodesk Generative
+Design, masa frente a desplazamiento máximo, soluciones
+agrupadas según el material.
+Imagen 16 (lateral): Detalle
+
+40
+Si bien el software presenta una importante cantidad de opciones, es
+responsabilidad del diseñador hacer un proceso curatorial de las mismas.
+(Redshift, 2019)
+El diseñador tomará en cuenta factores que no están presentes en el
+proceso técnico de la configuración del caso, como el aspecto estético,
+la factibilidad de producción por medios locales, la penetración en el
+mercado, entre muchos otros.
+Imagen 17: detalle de la solución de caso generativo para una silla eames, elaboración propia.
+
+41
+Imagen 18: prototipado digital generativo para una silla eames, elaboración propia.
+Primer
+prototipo
+
+42
+El prototipo seleccionado está ideado bajo un método de manufactura
+aditiva no restrictiva, los parámetros materiales están de acuerdo a las
+características del ácido poliláctico o poliácido láctico (PLA), tiene un
+volumen de 369.604 mm3 en impresión sólida, con una masa aproximada
+de 0.367 kg y un factor de desplazamiento global de 0.01 mm.
+Para este caso puntual se encuentra valor en la creación topológica
+autónoma, a partir del modelado generado se proyecta una visualización
+en 3D del elemento en conjunto con la totalidad de la silla, sin embargo,
+por una restricción en el volumen de la impresora 3D se prepara una nueva
+iteración.
+Imagen 19: render para una silla eames, elaboración propia.
+
+43
+Imagen 20: render para una silla eames, elaboración propia.
+
+44
+Imagen 21: prototipado digital generativo para una silla eames, elaboración propia.
+Segundo
+prototipo
+
+45
+Para esta iteración se genera un caso de diseño por cada uno de los puntos de soporte (patas), con la finalidad de
+encontrar un elemento individual, que soporte las cargas, mantenga las restricciones y tenga un proceso agresivo
+de optimización topológica.
+El proceso finaliza con la propuesta de un elemento que se ajusta a los requerimientos intrínsecos y extrínsecos, es
+replicable por medio de manufactura aditiva, sin embargo, se proyecta en acero inoxidable AISI 304, por sus altas
+capacidades de carga, resistencia y solidez, ya que de acuerdo con el Laboratorio Nacional Lawrence Livermore el
+acero impreso en 3D es tres veces más resistente que el acero fabricado con métodos tradicionales, y estas variables
+son tenidas en cuenta al momento de hacer la simulación. (Wang, Y., Voisin, T., McKeown, J. et al., 2017)
+Al no contar con una impresora laser para polvo de acero inoxidable AISI 304, se valida a través de una impresión en
+PLA, y se toma en cuenta la variabilidad en el soporte de las cargas.
+Imagen 22: render para una silla eames, elaboración propia.
+Generalmente corresponde a los espación de conexión y toma en cuenta
+las geometrías de la interfaz con otros cuerpos.
+Corresponde a todos los espacios en los que la geometría por generación
+no puede ingresar, también toma en cuenta las geometrías de la interfaz.
+Geometría de conservación
+Espacio para obstaculizar
+
+46
+Imagen 23: render para una silla eames, elaboración propia.
+
+47
+Imagen 24: impresión de diseño genrativo en PLA, elaboración propia.
+Imagen 25: impresión de diseño genrativo en PLA, elaboración propia.
+
+48
+Imagen 26: piezas pre-armado, elaboración propia.
+Imagen 27: ensamble de las patas, elaboración propia.
+
+49
+Imagen 28 lateral: detalle de la patas
+ensambladas y aseguradas al asiento,
+elaboración propia.
+Imágenes 29 y 30 inferiores: detalles de
+la patas ensambladas y de los puntos de
+soporte, elaboración propia.
+
+50
+Imagen 31: silla eames, elaboración propia.
+
+51
+Imagen 32: silla eames, elaboración propia.
+
+52 04
+
+53
+Proceso
+Segunda
+parte
+
+54
+Imagen 33: sedie, elaboración propia.
+
+55
+Sedie^ e ottoman*
+Mobiliario tradicional re-generado por
+la metodología de diseño generativo
+Para la segunda parte de este proyecto se toma la
+silla Acapulco, creada por los artesanos del puerto de
+esta ciudad costera, con la finalidad de proporcionar
+descanso a los turistas. Su diseño invita a recostarse
+para admirar la bahía y olvidarse del paso del tiempo.
+La bahía de Acapulco se convirtió en la década de los
+años 50 en un destino para el turismo norteamericano
+y un refugio de las grandes estrellas de Hollywood: la
+familia Kennedy, Elvis Presley, Elisabeth Taylor y John
+Wayne, entre otros. Este auge en la actividad turística
+impulsó la creación de mobiliario destinado al disfrute
+y el descanso, la morfología está compuesta partir de
+un armazón metálico con acabado electrostático mate, y
+el asiento se forma gracias a un entretejido por tensión,
+que conforma una trama fresca y permeable, evitando
+el calor sofocante del verano Mexicano y emulando las
+antiguas técnicas de tejido Maya.
+La cualidad ergonómica de la silla Acapulco encuentra
+su antecedente en otro objeto de descanso mexicano:
+la hamaca, conformada por una red que se ajusta al
+cuerpo y deja pasar el aire. Los artesanos acapulqueños
+rescataron esta característica y la tradujeron en un
+colorido diseño que unifica la tradición con la innovación
+y la comodidad con la estética.
+Con un respaldo ancho, ligeramente inclinado, la silla
+Acapulco se disfruta mejor al recargar por completo
+el peso del cuerpo sobre la espalda y relajar las
+piernas. Ademàs, el peso no es un problema, debido
+a la resistencia de sus materiales y a la fuerza del
+entretejido, puede soportar más de 100 kilos.
+Este tejido, en colores vivos o pastel, está fabricado a
+partir de fibras naturales, cuerda de rattán sintético, PVC
+o vinilo, lo que facilita un diseño ergonómico gracias a
+la elongación y fácil adaptación al cuerpo, y se convierte
+en un clásico reflejo de la vida en el puerto, así como en
+uno de los diseños de sillas más reconocidos del siglo
+XX, vinculanose al lujo, sofisticación y las vacaciones.
+^ (It) Sillas, Del lat. sella., asiento individual con patas y respaldo.
+* (En) Otomana, adj.-s. Turco, cama a modo de sofá, sin respaldo ni
+brazos, que no tiene cabecera.
+
+56
+Su diseño es
+sorprendentemente
+sencillo. Se compone
+por una estructura
+circular sólida y
+un entretejido de
+cuerdas que cumplen
+una doble función,
+amoldarse al cuerpo y
+proporcionar frescura.
+
+57
+Imagen 34: © La Silla Acapulco 2020, https://www.lasillaacapulco.com
+Gracias a su lenguaje simple y caracteristico, de esta silla se han generado
+infinidad de versiones, y al no tener copyright, y no existir planos originales
+de diseño, ni fabricante oficial, se encuentran en el mercado gran cantidad
+de productores con un alto número de variaciones. Los modelos más
+conocidos son la silla Acapulco, de diseño ovalado y la silla Condesa, la
+cual tiene un respaldo más redondo y ha tenido diferentes reediciones, e
+incluso ha permeado la cultura material del caribe latinoamericano, con
+un énfasis especial en las ciudades costeras de Colombia.
+
+58
+Imagen 35: render para una silla acapulco, elaboración propia.
+
+59
+Composición estructural
+La silla Acapulco tiene tres puntos de soporte que
+conectan el anillo exterior con la estructura intermedia,
+y esta a su vez está soportada en tres patas.
+Por la variación de topologías la estructura de refuerzo
+inferior puede tener múltimples morfologías.
+Sedie
+
+60
+Resumen estructural
+3 PUNTOS DE
+SOPORTE AL
+ANILLO EXTERIOR
+ANILLO EXTERIOR
+PSE-S1
+PSE-S3
+PSE-I2
+PSE-I1
+PSE-I3
+PSE-S2
+ANILLO INTERIOR
+3 PUNTOS DE SOPORTE AL PISO (PATAS)
+Imagen 36: elaboración propia.
+
+61
+Análisis de morfología
+La silla se construye a partir de una forma cónica entre los puntos de
+soporte estructural superiores (PSE-s), que se une a través de varilla de
+acero con los puntos de soporte estructural inferiores, al suelo (PSE-i).
+La forma cónica será incluida en el estudio de diseño generativo por ser
+parte de la morfología inicial
+PSE-S1
+PSE-S3
+PSE-I2
+PSE-I1
+PSE-I3
+PSE-S2
+Imagen 37: elaboración propia.
+
+62
+Identificación y modelado de regiones a
+preservar
+Para la generación de este caso de diseño generativo se identificaron:
+Regiones a preservar
+3 puntos de soporte superior
+3 puntos de soporte inferior
+Anillo central como punto de unión estructural
+PSE-S1
+PSE-S3
+ANILLO INTERIOR
+PSE-I2
+PSE-I1
+PSE-I3
+PSE-S2
+Imagen 38: elaboración propia.
+
+63
+Identificación y modelado de obstáculos
+en la topología
+Se identificó una región a obstaculizar correspondiente al espacio que
+ocupa el cuerpo humano cuando hace uso de la silla
+PSE-S1
+PSE-S3
+ANILLO INTERIOR
+ESPACIO OCUPADO POR EL
+CUERPO HUMANO
+PSE-I2
+PSE-I1
+PSE-I3
+PSE-S2
+Imagen 39: elaboración propia.
+
+64
+PSE-S1
+PSE-S3
+ANILLO INTERIOR
+PSE-I2 PSE-I1
+PSE-I3
+PSE-S2
+ESPACIO OCUPADO POR EL
+CUERPO HUMANO
+Imagen 40: elaboración propia.
+
+65
+Configuración de caso de diseño
+generativo
+A partir de las topologías definidas se configuró:
+• Zonas de obstáculos
+• Zonas a preservar
+• Restricciones
+• Condiciones
+• Estructurales
+• De carga
+• Criterios de diseño
+• Métodos de fabricación
+• Materiales para análisis
+Para este diseño en concreto se realizó una
+configuración de caso distinta para:
+1. los 3 puntos de soporte superior y el anillo central
+como punto de unión estructural
+2. los 3 puntos de soporte inferior y el anillo central
+como punto de unión estructural
+3. la totalidad de los puntos
+Imagen 41: Autodesk Fusion 360.
+
+66
+Revisión y selección de un resultado
+A partir de los inputs iniciales el software propone 362 opciones
+1. 141 convergencias
+2. 188 completadas
+3. 33 fallidas
+Imagen 42: Autodesk Fusion 360.
+
+67
+Proceso de optimización
+Otros resultados experimentales
+Estudio seleccionado para la totalidad de los puntos de soporte y el anillo central como punto de unión estructural
+Estudio seleccionado para los 3 puntos de soporte inferior y el anillo central como punto de unión estructural
+Estudio seleccionado para los 3 puntos de soporte superior y el anillo central como punto de unión estructural
+Imagen 43: Autodesk Fusion 360.
+Imagen 44: Autodesk Fusion 360.
+Imagen 45: Autodesk Fusion 360.
+Imagen 46: Autodesk Fusion 360.
+
+68
+PSE-S1
+PSE-S3
+ANILLO INTERIOR
+PSE-S2
+Imagen 47: Resultado pos procesado para los 3 puntos de soporte
+superior y el anillo central como punto de unión estructural
+
+69
+Resultado pos procesado para los 3
+puntos de soporte superior y el anillo
+central como punto de unión estructural
+El resultado se selecciona a partir de una proyección
+de factibilidad procesual
+La forma cumple con los requisitos de tensión y fuerzas
+de acuerdo con la simulación
+La forma se generó a partir de la experimentación
+logarítmica proporcionada por el software en la fase
+experimental
+El proceso que se debe seguir para la producción es la
+fabricación por adición.
+El volumen de la forma es de 1.506,000 mm3
+El peso total aproximado es de 4.3 kg si la fabricación
+se realiza en acero inoxidable por impresión 3D
+
+70
+Resultado pos procesado de soporte
+inferior y el anillo central como punto
+de unión estructural
+El resultado se selecciona a partir de una proyección
+de factibilidad procesual
+La forma cumple con los requisitos de tensión y fuerzas
+de acuerdo con la simulación
+La forma se generó a partir de la experimentación
+logarítmica proporcionada por el software en fase
+experimental
+El proceso que se debe seguir para la producción es la
+fabricación por adición.
+El volumen de la forma es de 530,495.6 mm3
+El peso total aproximado es de 4.2 kg si la fabricación
+se realiza en acero inoxidable por impresión 3D
+
+71
+ANILLO INTERIOR
+PSE-I2
+PSE-I1
+PSE-I3
+Imagen 48: Resultado pos procesado de soporte inferior y el anillo
+central como punto de unión estructural
+
+72
+Unión del soporte inferior y superior, y
+adición de los anillos de la composición
+morfológica
+Imagen 49: Unión del soporte inferior y superior, y adición de los anillos
+de la composición morfológica
+
+73
+Tercer
+prototipo
+PSE-S1
+PSE-S3
+ANILLO INTERIOR
+PSE-I2
+PSE-I1
+PSE-I3
+PSE-S2
+Imagen 50: Unión del soporte inferior y superior, y adición de los anillos
+de la composición morfológica
+
+74
+Visualización
+Imagen 51: Unión del soporte inferior y superior, y adición de los anillos de la composición morfológica
+
+75
+Imagen 52, 53, 54: Detalle de la Unión del soporte inferior y superior, y adición de los anillos de la composición morfológica
+
+76
+PSE-S1
+PSE-S3
+ANILLO INTERIOR
+PSE-I2
+PSE-I1
+PSE-I3
+PSE-S2
+Imagen 55: Resultado pos procesado seleccionado para la totalidad de los puntos
+
+77
+Resultado pos procesado seleccionado
+para la totalidad de los puntos
+El resultado se selecciona a partir de una proyección
+de factibilidad de producción por técnicas de armado a
+partir de planos seriados
+La forma cumple con los requisitos de tensión y fuerzas
+de acuerdo con la simulación
+La forma se generó a partir de la experimentación
+logarítmica proporcionada por el software en fase
+experimental con un eje de simetría obligatorio
+El volumen de la forma es de 1.506,000 mm3
+El peso total aproximado será de 11.3 kg si la fabricación
+se realiza en plástico ABS por impresión 3D
+Se propone la madera en el render como una alternativa
+al ABS que es factible de producir
+
+78
+Cuarto
+prototipo
+ANILLO EXTERNO
+CON PVC
+ENCORDADO
+PSE-S1
+PSE-S3
+PSE-I2
+PSE-I1
+PSE-I3
+PSE-S2
+Imagen 56: Resultado pos procesado seleccionado para la totalidad de los puntos
+
+79
+Para completar la topología se propone el uso del tejido
+tradicional drapeandose alrededor de la pieza de hierro
+circular y uniendo lienzos con la base
+Imagen 57, 58, 59, 60: vistas del resultado pos procesado seleccionado para la totalidad de los puntos
+
+80
+Visualización
+Imagen 61: Resultado pos procesado seleccionado para la totalidad de los puntos
+
+81
+Imagen 62, 63, 64: detalles del resultado pos procesado seleccionado para la totalidad de los puntos
+
+82
+Para charlar, el sillón es
+el asiento más adecuado
+pues dota al usuario de
+un porte decente y cortés.
+Para descansar, la opción
+más acertada es el
+taburete turco (otomano)
+donde se consigue un
+fabuloso estado de
+tranquilidad y relajación.
+Reflexiones del asiento según Le Corbusier
+
+83
+Composición estructural
+Regularmente la morfología de las Otomanas está
+compuesta por 4 puntos de soporte al suelo que se
+conectan a un plano que sirve de apoyapiés o banco
+de asiento
+El plano es paralelo al soporte de la nalga-poplíteo de
+la silla
+La otomana tiene propiedades de resistencia similares
+a la silla y puede soportar cargas similares
+Ottoman
+La propuesta de este elemento nace a partir de
+la morfología inicial de las sillas presentadas, los
+taburetes otomanos que a continuación se presentan
+están ideados como un mueble acompañante de las
+propuestas formales iniciales, y son una comprobación
+de la aplicación metodológica presentada.
+
+84
+Resumen estructural
+Esta morfología se proyecta en estrecha relación con el estudio de diseño generativo realizado
+para la silla basada en la tipología Acapulco.
+Esta iteración busca comprobar la metodología, entendiéndola como un proceso co-creativo
+entre el ser humano y el pensamiento computacional, con miras a producir diseños que
+puedan hacer parte de una misma familia objetual, y tener similitudes razonables.
+El resumen estructural tiene la misma cantidad de elementos, hay una variación en las
+dimensiones, ajustandose a la volumentría del nuevo mueble.
+PSE-S1
+PSE-S3
+PSE-I2
+PSE-I1
+PSE-I3
+PSE-S2
+ANILLO CENTRAL
+Imagen 65: elaboración propia
+
+85
+Resumen estructural
+ANILLO CENTRAL
+La otomana se construye a partir
+de una serie de puntos de soporte
+estructural superiores (PSE-s),
+que se unen al anillo interior, con
+los puntos de soporte estructural
+inferiores, al suelo (PSE-i).
+3 Puntos de soporte
+estructural superiores
+(PSE-s)
+3 Puntos de soporte
+estructural inferiores
+(PSE-i)
+1 anillo central
+PSE-S1
+PSE-S3
+PSE-S2
+PSE-I1
+PSE-I3
+PSE-I2
+ANILLO CENTRAL
+Imagen 66: elaboración propia
+Imagen 67: elaboración propia
+
+86
+Configuración de caso generativo por
+puntos de soporte y obstaculización
+Para esta iteración se genera un caso de diseño para los puntos de
+soporte superiores e inferiores, y uno para la totalidad, con la finalidad
+de encontrar elementos individuales que funcionen mediante ensamble, y
+uno general que sea de un solo cuerpo, que soporte las cargas, mantenga
+las restricciones y tenga un proceso agresivo de optimización topológica.
+Imagen 68: Caso generativo para una otomana, elaboración propia.
+Geometría de conservación
+Espacio para obstaculizar
+
+87
+Revisión y selección de un resultado
+A partir de los inputs iniciales el software propone 522 opciones
+1. 174 convergencias
+2. 302 completadas
+3. 46 fallidas
+Imagen 69: Autodesk Fusion 36
+
+88
+Resultado pos procesado para los 3
+puntos de soporte inferior y el anillo
+central como punto de ensamble
+PSE-I2
+PSE-I1
+PSE-I3
+ANILLO CENTRAL
+Imagen 70: Caso generativo para una otomana, elaboración propia.
+
+89
+Resultado pos procesado para los 3
+puntos de soporte superior y el anillo
+central como punto de ensamble
+PSE-S1
+PSE-S3
+PSE-S2
+ANILLO CENTRAL
+Imagen 71: Caso generativo para una otomana, elaboración propia.
+
+90
+Unión del soporte inferior y superior, y
+adición de anillo de soporte
+Soporte superior
+Soporte inferior
+El diseño generado mantiene la morfología de la silla
+gracias a la similitud de los puntos de entrada, pero
+refuerza la pata posterior para aumentar la resistencia
+a las cargas.
+El diseño generado tiene una morfología en T que une
+los puntos y de sujeción al anillo de ensamble central,
+sin embargo, el proceso de optimización es muy
+agresivo en la pieza.
+Cuarto
+prototipo
+
+91
+PSE-S1
+PSE-S3
+PSE-I2
+PSE-I1
+PSE-I3
+PSE-S2
+ANILLO CENTRAL
+Imagen 72: Caso generativo para una otomana, elaboración propia.
+
+92
+Visualización
+Imagen 73: Caso generativo para una otomana, elaboración propia.
+
+93
+Imagen 74, 75, 76: detalle caso generativo para una otomana, elaboración propia.
+
+94
+Con base en la propuesta
+formal generada por la iA
+se generó un modelado
+con ajustes para el soporte
+superior, co-creado a partir
+de la morfología inicial
+
+95
+PSE-S1
+PSE-S3
+PSE-S2
+ANILLO CENTRAL
+Imagen 77: propuesta morfológica propia para otomana, elaboración propia.
+
+96
+Soporte superior
+Con base en la forma propuesta por la iA se modela
+una topología similar con ajustes significativos.
+La morfología se completa con un anillo exterior que
+funcionará como bastidor tensor para un material como
+tela, lámina o cuero microperforado, completando la
+forma a nivel funcional y estético
+Quinto
+prototipo
+PSE-S1
+PSE-S3
+ANILLO INTERIOR
+PSE-I2
+PSE-I1
+PSE-I3
+PSE-S2
+Imagen 78: propuesta morfológica propia para otomana, elaboración propia.
+
+97
+PSE-S1
+PSE-S3
+PSE-I2
+PSE-I1
+PSE-I3
+PSE-S2
+ANILLO CENTRAL
+Imagen 79: propuesta morfológica propia para
+otomana, elaboración propia.
+
+98
+Visualización
+Imagen 80: Caso generativo para una otomana, elaboración propia.
+
+99
+Imagen 81, 82, 83: detalle caso generativo para una otomana, elaboración propia.
+
+100
+Resultado pos procesado seleccionado
+para la totalidad de los puntos
+PSE-I2
+PSE-S2
+PSE-I1
+PSE-S1
+PSE-I3
+PSE-S3
+Imagen 84: Caso generativo para una otomana, elaboración propia.
+
+101
+El modelo seleccionado pasa por un proceso de suavizado en la malla para optimizar la forma
+y se completa la estructura con base en las caractrísticas físicas de la silla generada para la
+totalidad de los puntos de soporte, por tanto se agrega un anillo superior en acero forrado
+en mimbre plástico concéntrico por tensión a un anillo interior. Al ser una forma generada a
+partir de una metodología productiva no restringida se propone en la visualización el mármol
+por su estrecha relación con la escultura. El resultado se selecciona a partir de una proyección
+de factibilidad de producción por técnicas de armado a partir de planos seriados, o por la
+fabricación a partir de CNC en 5 ejes
+La forma se generó a partir de la experimentación logarítmica proporcionada por el software
+en fase experimental con un eje de simetría obligatorio
+El volumen de la forma es de 303.000 mm3
+Imagen 85: Caso generativo para una otomana, elaboración propia.
+
+102
+Al ser una forma generada a partir
+de una metodología productiva
+no restringida se propone en la
+visualización el mármol por su
+estrecha relación con la escultura
+Imagen 86, 87, 88: vistas de caso generativo para una otomana, elaboración propia.
+
+103
+Sexto
+prototipo
+Imagen 89: Caso generativo para una otomana, elaboración propia.
+
+104
+Visualización
+Imagen 90: otomana, elaboración propia.
+
+105
+Imagen 91, 92, 93: otomana, elaboración propia.
+
+106
+Sedie e
+Ottoman
+
+107
+Imagen 94: sedie e ottoman, elaboración propia.
+
+108
+Imagen 95: Sedie e ottoman, elaboración propia.
+
+109
+
+110
+Imagen 96: Sedie e ottoman, elaboración propia.
+
+111
+
+112 05
+
+113
+Potential
+value
+
+114
+The
+innovation
+distinguishes
+between
+leader
+and a
+follower
+Steve Jobs
+Commencement Speech, Stanford University, 2005
+
+115
+Las diferentes áreas de la vida que constituyen nuestra
+existencia como seres humanos, y sus múltiples
+facetas, y dimensiones, median gran parte de la
+definición formal de un objeto creado, a partir de la
+metodología que se analiza en este trabajo de grado,
+el papel activo del diseñador en la conversación con el
+pensamiento computacional introduce una creatividad
+dinámica y continua en los recursos generados, así
+como en la concepción del todo en el proyecto.
+Es importante conocer lo que estas herramientas
+pueden hacer, así como entender los límites de lo
+que no pueden hacer en estas primeras etapas de
+implementación . La visión en el futuro de estos sistemas,
+y la integración de más formas de inteligencia artificial
+son extraordinariamente prometedoras, pero existe
+el riesgo de que las expectativas sean desmedidas.
+Es difícil, incluso imposible, crear un algoritmo que
+permita a un sistema de diseño generativo tener en
+cuenta las sensibilidades estéticas de un diseñador,
+por ejemplo; esta tecnología se enfrenta a un problema
+verdaderamente sofisticado al intentar idear más allá
+de la forma automática. En este punto del desarrollo
+de la tecnología, el diseño generativo es realmente
+bueno calculando una cantidad finita de variables,
+y generando una cantidad virtualmente infinita de
+salidas, o propuestas formales, y eso es más de lo que
+puede hacer un diseñador humano; sin embargo, aún
+es pronto para que esta tecnología pueda proponer
+de forma autónoma, pues solo los humanos podemos
+entender las complejas dimensiones culturales que el
+diseño puede contener. Aunque no cabe duda de que,
+con el tiempo, los sistemas de diseño generativo serán
+capaces de abordar condiciones y consideraciones
+cada vez más matizadas, y más humanas, y que
+se convertirán en un instrumento importante en el
+conjunto de herramientas de diseño y desarrollo de
+producto.
+La inteligencia artificial será programada, y autoprogramada,
+cada vez mejor para entender las
+necesidades de los usuarios y estos a su vez serán
+más hábiles en la utilización de estas herramientas.
+Los retos más importantes serán los que tengan un
+rostro humano, es decir, los cambios fundamentales
+en las funciones, las relaciones y las organizaciones en
+las metodologías de desarrollo de productos.
+Este es el mejor momento para que los fabricantes
+de producto empiecen a abordar estos temas, y a su
+vez es el momento ideal para que los diseñadores
+integren estas tecnologías a sus saberes. Exponer a
+los diseñadores en formación, desde la academia, a
+estas tecnologías es fundamental para propender por
+un pensamiento crítico pero abierto a la inclusión de
+todas las posibles técnicas y tecnologías, dará a toda
+una generación de diseñadores más herramientas
+para hacer frente a los retos futuros.
+A nivel local, en Colombia, estas metodologías tienen
+la capacidad de generar una transformación de
+la industria, integrando a las cadenas productivas
+tecnologías como la fabricación aditiva, que se enfoquen
+en el ahorro consciente y eficiente de materiales, la
+producción escalable y a medida, y la autoproducción
+enfocada en la solución de problemas complejos con
+recursos limitados.
+Los creadores, diseñadores, ingenieros, proyectistas y
+emprendedores que comiencen a recorrer este camino
+tendrán una mejor oportunidad en el futuro, y las
+empresas que comiencen a adoptar tempranamente
+estas tecnologías van a asegurar un lugar delante
+de sus competidores. En palabras de Steve Jobs, “la
+innovación diferencia a un líder de un seguidor.”
+
+116 06
+
+117
+Conclusiones
+
+118
+Imagen 97: Sedie, elaboración propia.
+
+119
+Los diálogos que establece el ser humano con cualquier tecnología son
+valiosos en la medida en que esta evoluciona y permite la generación
+de conocimiento, además adquieren una relevancia mayor cuando esas
+colaboraciones tienen el potencial de cambiar la manera en que se
+producen las cosas, de democratizar el conocimiento y de ampliar las
+fronteras de la producción humana.
+El diseño generativo, como un proceso de co-creación entre el ser
+humano y el pensamiento computacional tiene una proyección valiosa, en
+tanto que, el aparato tecnológico ha mantenido una evolución constante
+conforme avanza el tiempo; el desarrollo de la inteligencia artificial y la
+evolución progresiva de las redes neuronales están mostrando fuertes
+avances en la industria, y se pronostica que el mercado global de software
+de inteligencia artificial (IA) crecerá rápidamente en los próximos años,
+alcanzando alrededor de 126 mil millones de dólares para 2025 (Shanhong,
+2020), potenciando y naturalizando la adopción de estas tecnologías en los
+procesos de diseño.
+La generación automática de elementos morfológicos optimizados a través
+de los sistemas de inteligencia artificial tienen potencial en la medida que los
+sistemas de manufactura aditiva se popularicen en la industria, esto representa
+un cambio importante en las líneas de producción actuales, y aunque los
+cambios pueden llevar tiempo y ademas pueden estar condicionados por la
+tecnologias, se veran los resultados a mediano o largo plazo.
+El diseño generativo requerirá nuevas formas de pensar, obliga a los
+diseñadores e ingenieros a cambiar sus modos de creación y producción, y
+este es uno de los principales retos, pues no solo se trata de aprender un
+nuevo software, o algunas funciones nuevas en los softwares existentes;
+en muchos casos se debe replantear la forma de abordar un proyecto
+desde la génesis. Con el diseño generativo, se crea una superabundancia
+de soluciones que cumplen con los requisitos planteados por el proyecto
+y se exploran las compensaciones de cada una. Labor para la que el
+diseñador debe estar formado con un criterio amplio y diverso.
+El proceso de diseño para la creación de objetos puede enriquecerse
+formalmente a partir de los sistemas de generación topológica mediante
+la IA, sin embargo, uno de los retos más importantes que enfrenta esta
+tecnología es la apropiación cultural. Los procesos de generación guardan
+una estrecha relación con la anatomía, y gran parte de las formas
+entregadas por el sistema son altamente orgánicas, sin embargo, no
+son compatibles con muchas de las morfologías que por décadas se han
+acumulado en los hogares y oficinas. Algunas soluciones innovadoras
+que técnicamente logran los requisitos deseados pueden ser demasiado
+inusuales para ser aceptadas.
+
+120 07
+
+121
+Prototipos
+virtuales
+Experimentos
+con AR
+
+122
+La realidad
+aumentada (o AR)
+permite ofrecer
+experiencias que
+mezclan objetos
+virtuales con el
+mundo real.
+
+123
+Este trabajo de grado se realizó en medio de la
+pandemia ocasionada por la Covid-19, esto trajo
+dificultades en el acceso a los equipos de prototipado,
+cambios importantes en el proceso de diseño de
+producto y nuevos retos.
+La solución seleccionada fue el prototipado digital a
+través de realidad aumentada (en inglés, AR, Augmented
+reality) que se refiere a las experiencias de usuario que
+añaden elementos en 2D o 3D a la vista en directo de
+la cámara de un dispositivo de forma que parezca que
+esos elementos habitan en el mundo real. (Schmitt,
+2018)
+Para este trabajo se usó el Framework ARKit de Apple
+Inc©, ya que combina el seguimiento del movimiento
+de un dispositivo compatible, la captura de escenas
+de la cámara, el procesamiento avanzado de escenas
+y de visualización para simplificar la tarea de crear
+una experiencia de AR, y gracias a la penetración de
+mercado de ese fabricante hay un número considerable
+de dispositivos que pueden reproducir la experiencia
+de forma satisfactoria. Para esto se hizo uso del
+estándar de Descripción Universal de Escenas de Pixar,
+USDZ (en inglés, Pixar’s Universal Scene Description
+standard), que permite distribuir contenidos de AR y 3D
+a los dispositivos de Apple y en algunos dispositivos
+Android® compatibles.
+A continuación, se listarán una serie de códigos QR (en
+inglés, QR, Quick Response code) que al ser escaneados
+por un dispositivo móvil compatible, celular o tableta,
+cargarán una visualización de los prototipos generados.
+PARA ACCEDER A LA VISUALIZACIÓN
+SE DEBE TOCAR EL ÍCONO EN LA
+ESQUINA SUPERIOR DE LA IMAGEN
+EN LA PANTALLA DE SU DISPOSITIVO
+https://raw.githubusercontent.com/CamiloAyalaM/mdes/
+main/acapulco-chair-and-ottoman-bone.usdz
+https://raw.githubusercontent.com/CamiloAyalaM/mdes/
+main/acapulco-chair-and-ottoman-red.usdz
+Imagen 98: Sedie e ottoman, elaboración propia.
+Imagen 99: Sedie e ottoman, elaboración propia.
+
+124
+https://raw.githubusercontent.com/CamiloAyalaM/mdes/
+main/acapulco-chair-bone.usdz
+https://raw.githubusercontent.com/CamiloAyalaM/mdes/
+main/acapulco-ottoman-bone.usdz
+https://raw.githubusercontent.com/CamiloAyalaM/mdes/
+main/acapulco-chair-red.usdz
+https://raw.githubusercontent.com/CamiloAyalaM/mdes/
+main/acapulco-ottoman-red.usdz
+Imagen 100: Sedie, elaboración propia.
+Imagen 101: Sedie, elaboración propia.
+Imagen 102: ottoman, elaboración propia.
+Imagen 103: ottoman, elaboración propia.
+
+125
+Imagen 104, 105, 106, : Sedie, elaboración propia.
+Imagen 107, 108, 109, : AR con humano, elaboración propia.

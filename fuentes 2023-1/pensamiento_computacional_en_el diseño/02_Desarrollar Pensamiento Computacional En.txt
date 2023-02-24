@@ -1,0 +1,2257 @@
+Desarrollar Pensamiento Computacional En
+DESARROLLAR PC EN ESTUDIANTES DE ARTES Y HUMANIDADES
+1
+Desarrollar Pensamiento Computacional En
+Estudiantes De Artes Y Humanidades
+Santiago Ojeda Ramírez
+Tesis de para optar al título de Magister en Humanidades Digitales
+Directora:
+Carola Hernández Hernández
+Facultad de Artes y Humanidades
+Universidad De Los Andes
+Julio de 2020
+2
+Tabla de Contenido
+Introducción 7
+Objetivos 13
+Metodología 14
+Situación Inicial 20
+Situación Imaginada 49
+Situación Arreglada 62
+Razonamiento Exploratorio 82
+Conclusiones 89
+Reflexión Final 91
+Bibliografía 94
+Anexos 101
+3
+Dedico este trabajo a mi mamá, Blanca Stella Ramírez, que es mi mayor inspiración y mi
+interlocutora constante. Cada paso que doy en mi vida sucede a años de esfuerzo y sacrificio
+amoroso de su parte. Gracias, mami.
+4
+Agradecimientos
+En primer lugar, quiero agradecer a Carola Hernández por haberme acompañado en este
+proceso. Debo decir que su apoyo y enseñanzas fueron los de una mentora y una amiga. Carola es
+un ejemplo de sabiduría y camaradería, de ella aprendí a materializar el pensamiento crítico para
+dar forma a un proyecto como este. También, así no parezca, aprendí a “respirar”.
+A Juan Sebastián Hoyos, que ha sido mi amigo desde hace años y que me concedió la
+oportunidad de enseñar. Sin saberlo, me ayudó a encontrarme con una pasión de vida; la educación.
+Su gran corazón y observación trascendente del aprendizaje y la formación me inspiran a ser un
+mejor maestro y ser humano cada día.
+A Jerónimo Pizarro, que realmente me dio un espacio en el que pude practicar las
+humanidades digitales. Considero a Jerónimo un ejemplo de rigor y felicidad, capaz de encantar a
+ingenieros como yo con la magia de las humanidades y la literatura. Agradezco inmensamente
+todas sus enseñanzas y los momentos en Lisboa.
+A María José Afanador, por la confianza y el acompañamiento a través de mi proceso de
+maduración durante la maestría. Gracias por toda la ayuda y las conversaciones; forjaron en mí
+una vocación por trabajar para que humanistas y científicos sociales se entusiasmen con la
+computación de la misma forma sincera y apasionada que ella.
+A Mauricio Álvarez, por su amistad y confianza. Por ser un ejemplo de criterio, agudeza
+en el pensamiento y valentía.
+A Stephanie Toro, que es la profesora que yo quisiera ser algún día. Gracias por la
+confianza, el apoyo y los consejos. Gracias por recordarme la belleza de enseñar y la importancia
+de ‘stay grounded’.
+A todo el equipo de amigos de Calle María Mercedes Carranza, especialmente a Andrea
+Sánchez, por la generosidad y las risas con las que me acompañaron mientras me convertía en un
+humanista digital.
+A mi hermana Patricia Ojeda, por su astucia, su elegancia y su amor.
+A mi papá, Ricardo Ojeda, por su cuidado y su fuerza.
+A Fernando Peñuela, por la esperanza.
+A mis amigos, mi comunidad de práctica de siempre. A Pablo, por la inteligencia, a Carlos
+por la empatía, a Jaime por el rigor, a Vélez por la creatividad, a Bayón por las risas, a Cheto por
+los debates.
+Gracias a todos.
+Santiago Ojeda Ramírez, Julio de 2020
+5
+“The creative mind plays with the objects it loves.”
+Carl Jung
+“Young people today have lots of experience interacting with new technologies,
+but a lot less so of creating or expressing themselves with new technologies. It's
+almost as if they can read but not write.”
+Mitchel Resnick
+6
+Resumen
+Estudiar cómo se enseña y se aprende programación se ha vuelto cada vez más relevante en espacios
+académicos como la Facultad de Arte y Humanidades de la Universidad de los Andes, que ofrece cursos de
+humanidades digitales, narrativas digitales y artes electrónicas, sobretodo a la luz de debates sobre si las
+prácticas de los humanistas digitales pueden ser no sólo la configuración de teorías y reflexiones sino
+también el desarrollo de tecnologías con principios humanísticos. Este estudio utiliza un modelo de
+investigación crítico y participativo para analizar cómo se usan y se desarrollan las habilidades de
+Pensamiento Computacional (CT) en los estudiantes de estos programas y proponer un curso de
+Introducción al Pensamiento Computacional diseñado explícitamente para este contexto. El análisis de
+datos incluye entrevistas a profesores de la facultad sobre conocimiento, desarrollo y uso del PC, y
+artefactos como pruebas de PC y reflexiones dentro de un curso virtual de Introducción al Pensamiento
+Computacional. El curso incluyó conceptos de PC y una transición desde actividades como la codificación,
+decodificación y creación de poemas con algoritmos a la marcación de texto con HTML para finalmente
+llegar a programación introductoria utilizando Processing en P5.js. Entre los profesores de la facultad
+destacó la creencia de que el PC se desarrolla mediante el uso de softwares de edición y gestión de datos.
+Los resultados del curso muestran que inicialmente, los estudiantes tenían un bajo desempeño en PC, pero
+a lo largo del curso, el rendimiento de los estudiantes en las pruebas mejoró significativamente. Esta
+investigación indica que el desarrollo de la PC en la facultad de Artes y Humanidades puede robustecerse
+a través de un curso introductorio como el propuesto.
+Palabras Clave
+Pensamiento Computacional, Arte, Humanidades, Educación, Programación, Educación en ciencias de la
+computación, Educación superior
+7
+Introducción
+Haber estudiado Ingeniería Biomédica y al mismo tiempo haber realizado una Opción en Literatura
+durante mi pregrado despertó en mí un interés paralelo por las humanidades y por las ciencias
+aplicadas. Mi propia experiencia como programador y desarrollador de algoritmos con
+aplicaciones biomédicas cultivó en mí una preferencia por las ciencias de la computación entre
+otras ramas de la ingeniería. Mi tesis de pregrado consistió en desarrollar un dispositivo para la
+inclusión de estudiantes invidentes en la educación superior y me motivó a seguir investigando en
+tecnologías para la educación, así que inicié a la Maestría en Humanidades Digitales con la
+inquietud de buscar intersecciones entre humanidades, tecnología y educación.
+Inicialmente quise investigar sobre video juegos para la educación humanística. Sin embargo, dos
+experiencias durante la maestría llamaron mi atención sobre la necesidad de que los humanistas
+conocieran conceptos y prácticas de computación. En primer lugar, en el curso de verano Videogames
+for social change noté que se promovió el trabajo en grupos interdisciplinarios compuestos
+por ingenieros y humanistas debido a que estos últimos declaraban no tener conocimientos para
+desarrollar videojuegos sencillos. Esto llevó a pensar por primera vez en un escenario donde los
+humanistas no dependieran absolutamente de ingenieros para realizar prototipos digitales.
+En segundo lugar, durante la maestría trabajé en el Semillero María Mercedes Carranza del
+departamento de literatura de la universidad, este semillero de investigación tiene como propósito
+la digitalización y crítica de la obra de la poeta colombiana María Mercedes Carranza. Trabajando
+allí encontré que era primordial pensar en un ambiente digital de aprendizaje que les permitiera a
+estudiantes de literatura aprender a diseñar fácilmente secciones de la página web y subir
+digitalizaciones a una página web propia del semillero, pero que no requiriera conocimientos de
+desarrollo web. Así, me pregunté si estudiantes de literatura estarían interesados en un taller de
+8
+marcado de texto en HTML, y con el apoyo del profesor Jerónimo Pizarro, pude realizar este taller
+durante una de las clases del semillero. Los estudiantes respondieron al taller con una excelente
+disposición y se manifestaron muy interesados por aprender más.
+De esta manera comenzó la idea de que mi proyecto de tesis de la maestría en Humanidades
+Digitales incluyera un prototipo de curso de programación para estudiantes de artes y
+humanidades. Esta idea se perfiló con la ayuda de Carola Hernández, que me permitió enmarcar
+mis intenciones dentro de la metodología de la investigación crítica y me mostró investigaciones
+previas relacionadas con la enseñanza de programación en la Universidad de los Andes, así como
+la tesis doctoral de Francisco Buitrago sobre Pensamiento Computacional (F. J. Buitrago Flórez et
+al., 2018). Así comprendí que enseñar programación no era lo que más me interesaba, sino que
+quería pensar en que estudiantes de la Facultad de Artes y Humanidades - sobre todo teniendo en
+cuenta programas como la Maestría en Humanidades Digitales, la Maestría en Artes Plásticas,
+Electrónicas y del tiempo y el pregrado en Narrativas Digitales - desarrollaran Pensamiento
+Computacional.
+Comenzaré hablando de las Humanidades Digitales y de los debates actuales que guardan relación
+con el desarrollo de pensamiento computacional en humanistas y artistas. En primer lugar, la
+definición de las Humanidades Digitales como campo disciplinar sigue siendo objeto de discusión.
+Sin embargo. suelen ser definidas en sentido amplio como un área o campo interdisciplinar que
+utiliza métodos computacionales para abordar cuestiones y resolver preguntas típicas de las
+humanidades. Algunos autores han propuesto un giro crítico a la disciplina que sugiere, entre otros
+planteamientos, que los humanistas digitales sean inmersos en el diseño de sus propias
+herramientas y objetos digitales, en lugar de simplemente trabajar con plataformas y protocolos
+9
+creados por disciplinas cuyas premisas metodológicas suelen estar en contravía e incluso ser
+hostiles con los valores y el pensamiento humanístico.
+Autores como Adeline Koh, hablan de la división ‘hack/yack’ en las Humanidades Digitales. (Koh,
+2014) Hack, por su significado en inglés de hackear, o jaquear, que es introducirse de forma no
+autorizada en un sistema informático pero que evoca el uso técnico de los computadores, en
+contraposición con el término Yack, que puede entenderse como una conversación prolongada y
+trivial. Sin embargo, más allá de la sobre-simplificación que entrañan estos términos, esta división
+pretende separar las Humanidades Digitales en sus ámbitos teóricos y prácticos. Respecto a este
+debate, Koh propone un contrato social o un buen proceder en la práctica de los humanistas
+digitales que incluye amabilidad, pero también conocimiento técnico por parte de los humanistas.
+El debate abre la posibilidad de considerar que un humanista digital deba tener un conocimiento
+técnico, como programación, para hablar sobre lo digital con autoridad.
+Dialogando con Koh, David Berry propone en su libro Digital Humanities: Knowledge and
+Critique in the Digital Age una pila o apilamiento de las prácticas y los alcances de las
+Humanidades Digitales que serían necesarios para entenderlas completamente. (Berry &
+Fagerjord, 2017) Es justamente Berry quien propone el giro crítico necesario para que las
+Humanidades Digitales ganen terreno y afiancen su lugar en la academia y la universidad. Esta
+pila busca ser un mapa del estado actual de las Humanidades Digitales, y pretende ordenar sus
+prácticas, una sobre otra, dependiendo del nivel de abstracción y su relación con otras. La pila
+tiene como base una categoría llamada Encoding and Education que es compuesta por dos grandes
+partes: La representación del conocimiento y el pensamiento computacional. Así, Berry se
+posiciona en el debate incluyendo el pensamiento computacional, y no el conocimiento meramente
+10
+técnico de la computación, como base de las prácticas y componente fundamental de la educación
+en Humanidades Digitales.
+El concepto de Pensamiento Computacional (PC) se planteó por Jeannette M. Wing, (2006), y
+desde allí ha ido refinándose y consolidándose, alcanzando amplia popularización. Hoy, se podría
+definir ampliamente como un proceso cognitivo que utiliza conceptos esenciales de computación
+y ciencias de la información para resolver problemas, diseñar y evaluar pensamientos complejos y
+entender el razonamiento y comportamiento humano. (F. J. Buitrago Flórez et al., 2018)
+Algunos investigadores, como Denning y Tedre (2019), resumen el PC como las herramientas y
+prácticas mentales necesarias para:
+• Diseñar computaciones para que computadores hagan tareas por nosotros y,
+• Explicar y entender el mundo como un complejo de procesos de información.
+Sin embargo, otros investigadores han definido el PC como un conjunto de habilidades (Selby &
+Woollard, 2013), que suelen ser: Abstracción, descomposición, pensamiento algorítmico,
+evaluación y generalización. Cada una de estas habilidades podría definirse de manera separada
+como lo hacen Curzon (2014) y Buitrago (2018):
+• Abstracción: Una forma de hacer que los problemas o sistemas sean más fáciles de pensar;
+eliminar los detalles y complejidades innecesarios para resolver un problema. La habilidad
+subyace en escoger cuáles detalles deben ser considerados y cuáles omitidos.
+• Pensamiento algorítmico: Es una forma de pensar que permite formular una solución
+definiendo una serie de pasos clara. Es la capacidad de desarrollar una serie de
+instrucciones y reglas para resolver un problema.
+11
+• Descomposición: Es la capacidad de pensar en problemas y soluciones como conjuntos de
+varios componentes; un problema complejo puede ser dividido en diferentes partes que se
+evalúan o solucionan por separado para finalmente resolver el conjunto completo.
+• Evaluación: Es una aproximación sistemática para encontrar y resolver defectos en una
+solución propuesta. Incluye la eliminación de pasos innecesarios con el fon de mejorar la
+experiencia y la efectividad.
+• Generalización: Es una forma de resolver nuevos problemas basándose en soluciones
+anteriores. Ser capaz de tomar una solución previa y adaptarla de tal manera que no
+resuelva solo uno sino también varios problemas similares.
+Sin embargo, no se ha hablado tanto de la definición de PC como de la manera correcta de
+aprenderlo o enseñarlo. Respecto a esto, es relevante la definición de Wing (2011), que menciona
+tres características importantes del PC que serán fundamentales a la hora de pensar su enseñanza.
+En primer lugar, indica que el PC es un proceso independiente de la tecnología, sugiriendo que
+para enseñar y aprender PC no son indispensables los computadores. Segundo, que el PC es una
+aproximación para resolver problemas y representar soluciones que puedan ser llevadas a cabo por
+un humano, una máquina o el conjunto de ambos. Esto refuerza la idea de que se puede enseñar
+PC a través de actividades en torno a la interacción entre humanos y no necesariamente en torno a
+la interacción humano-máquina, sugiriendo la posibilidad de que cualquier persona, sin importar
+su profesión, pueda ser capaz de desarrollar PC. Y tercero, que tradicionalmente la mejor forma
+de enseñar PC es enseñando programación. Estos tres incisos llevan a pensar en una forma de
+enseñar PC que incluya interacciones entre humanos y máquinas.
+La forma en que se enseña y se aprende el PC tiene aún más relevancia a la luz de literatura en la
+que se afirma que el PC es una forma de pensar a la que cualquier persona debería tener acceso (J.
+12
+M. Wing & Stanzione, 2016), pues significa una estrategia clave para la solución de problemas y
+además promueve el desarrollo procesos de pensamiento complejos. El PC no sólo prepara para
+campos como la ciencia de la computación, sino que además dota a los estudiantes de herramientas
+y habilidades para enfrentar problemas en distintas áreas del conocimiento, desde ciencias
+naturales hasta humanidades. (Rodger et al., 2009)
+Cada vez son más los biólogos, físicos, químicos, científicos sociales, artistas y humanistas que
+miran su objeto de estudio desde un lente computacional (Denning & Tedre, 2019). Hoy en día, el
+pensamiento computacional no está relacionado con un área del conocimiento específica, sino que
+facilitarle a cualquiera la adquisición de habilidades para resolver problemas, resolver sistemas y
+entender el poder y los límites de las inteligencias artificial y humana.
+Sin embargo, la enseñanza del pensamiento computacional ha rozado debates importantes que es
+necesario conocer a la luz de la intención de llevar el PC no sólo en escenarios relacionados con
+ciencias de la computación e ingeniería sino también a campos como las artes y las humanidades,
+en especial si se evidencia el robustecimiento de campos como las humanidades digitales.
+13
+Objetivos
+Este trabajo documentará una propuesta para apoyar el desarrollo de Pensamiento Computancional
+en la Facultad de Artes y Humanidades de la Universidad de los Andes. Se alineará en el debate
+junto a Koh (2014) y Berry (2017) al argumentar que el PC se utiliza en diversas prácticas de las
+artes y las humanidades, especialmente en las Humanidades Digitales, y que por lo tanto es
+pertinente pensar en cómo este se desarrolla en un escenario educativo que forma artistas y
+humanistas.
+Para esto, se delimitó un objetivo principal:
+Identificar cómo desarrollar Pensamiento Computacional en estudiantes de artes y
+humanidades a través de un curso en el que se utilicen prácticas humanísticas y artísticas.
+Que a su vez puede dividirse en dos objetivos específicos:
+1. Identificar las prácticas, dentro de la Facultad de artes y humanidades, en que se utiliza
+Pensamiento Computacional.
+2. Proponer, implementar y evaluar la implementación de un curso que desarrolle
+Pensamiento Computacional en estudiantes de Artes y Humanidades.
+En la siguiente sección se presenta la metodología propuesta en esta investigación, que se utilizará
+para llevar a cabo los objetivos propuestos.
+14
+Metodología
+Esta sección contiene una descripción de las metodologías de investigación utilizadas en este
+trabajo. En primer lugar, se explicará y justificará el uso de metodologías de investigación
+cualitativa y específicamente investigación crítica. Después se describirá el modelo metodológico
+de investigación crítica específico que se utilizó, se describirán los procesos de recolección y
+procesamiento de la información y datos obtenidos para finalmente explicar las categorías de
+análisis transversales a la investigación.
+Esta investigación se realizó desde el enfoque cualitativo, debido a que se concentró en estudiar
+las personas a través de lo que dicen y hacen en escenarios sociales y culturales (Taylor & Bogdan,
+1984). Además, al trabajar desde este enfoque, se buscó entender las realidades subjetivas
+construidas en la investigación, las cuales varían en su forma y contenido entre individuos, grupos
+y culturas (Hernández et al., 2014). Así, se partió de la premisa de que el contexto en que se
+pretende investigar es “relativo” y sólo puede ser entendido desde el punto de vista de los actores
+estudiados.
+También se trabajó desde paradigma de la investigación crítica que, según Guba y Lincoln (1994),
+se caracteriza por tener como propósito de indagación la crítica y la transformación de las
+estructuras sociales, políticas, culturales, económicas, étnicas y de género que constriñen o
+restringen a las personas (Skovsmose & Borba, 2004). El objeto principal de la investigación
+crítica es la transformación: restitución y emancipación.
+Modelo de investigación Crítica
+La metodología principal de investigación que se utilizará en este trabajo será la de investigación
+crítica propuesta por Skovmose y Borba (2004). Esta metodología se centra en estudiar las
+problemáticas de un proceso educativo y hacerles frente. No se ocupa tanto de comprender lo que
+15
+sucede, sino que considera situaciones hipotéticas partiendo de una situación problema que se
+puede imaginar de forma diferente. Las alternativas para hacerle frente a esta situación problema
+emergen de un proceso cooperativo entre profesores e investigadores, que implica toma de
+decisiones y negociación.
+La investigación crítica se centra en transformar las aulas y los procesos educativos, investigando
+procesos de cambio hacia las alternativas planteadas y los resultados de estos procesos. La
+situación hipotética y los problemas, así como los procesos, se ordenan en un modelo que proponen
+Skovmose y Borba donde se describen tres situaciones: Situación inicial, situación imaginada y
+situación arreglada y tres procesos entre las situaciones: imaginación pedagógica, razonamiento
+exploratorio y organización práctica.
+Figura 1. Representación Analítica del modelo de investigación crítica adaptada de Skovmose y
+Borba (2004)
+Se describirán en detalle las tres situaciones analíticas:
+• La situación inicial es el punto de partida de la investigación crítica, es la situación antes
+de que se realice el experimento educativo y donde se encuentran los aspectos
+16
+problemáticos que buscan ser transformados mediante una reflexión crítica conjunta entre
+los actores (profesores, estudiantes, investigadores) acerca de las situaciones problema que
+están teniendo lugar. Dado que es la situación que tiene potencial para ser transformada,
+“se puede imaginar diferente” (Skovsmose & Borba, 2004)
+• La situación imaginada tiene lugar en el análisis de las características de la situación
+inicial. Consiste en las expectativas, posibilidades y anhelos de cambio de los actores dada
+la situación inicial. Para conceptualizar esta situación, los profesores e investigadores
+trabajan en la imaginación de diferentes alternativas para abordar la situación inicial de tal
+manera que se tenga en cuenta las expectativas de maestros, estudiantes y demás actores.
+• La situación arreglada obedece a que la situación imaginada y lo que realmente es posible
+realizar no se alinean completamente debido a situaciones que restringen la posibilidad de
+hacer todo lo que se imagina. Así se llega a situaciones negociadas que apuntan hacia la
+situación imaginada más no la alcanzan completamente y a las que se llega a través de
+planes y acciones específicos; constituye entonces una versión realista de la situación
+imaginada. La situación arreglada y la situación imaginada son diferentes: la situación
+arreglada es la situación imaginada adaptada al contexto de la investigación.
+Sin embargo, la investigación crítica no solo tiene en cuenta estas situaciones sino también los
+procesos de negociación entre diferentes actores que son necesarias entre cada una de ellas. Por
+ello, surgen tres procesos distintos entre las tres situaciones: La imaginación pedagógica, el
+razonamiento exploratorio y la organización práctica.
+• La imaginación pedagógica permite la aparición de la situación imaginada a partir de la
+inicial. Es un proceso que permite crear situaciones imaginarias y representa el proceso de
+conceptualización de cosas dentro de la situación inicial que podrían hacerse de manera
+17
+diferente a partir de la negociación entre las posibilidades provenientes de la práctica
+pedagógica de los profesores, la experiencia de los investigadores y la cooperación con
+otros actores; pues se investiga con los profesores y estudiantes y no sobre ellos.
+• La organización práctica se encuentra entre la situación inicial y la situación arreglada.
+Está constituida por todas las acciones y actividades realizables y necesarias para pasar de
+la situación inicial a la situación arreglada. Incluye también la planificación de las
+verdaderas alternativas que permitirán cambiar la situación inicial teniendo en cuenta a
+todos los actores.
+• El razonamiento exploratorio permite analizar la situación imaginada basándose en
+observaciones de la situación arreglada. Este razonamiento debe permitir ver la situación
+imaginaria y reconsiderarla a partir de las negociaciones entre actores que permitieron la
+situación arreglada.
+En el caso de esta investigación, la situación inicial se obtuvo realizando una revisión de la
+literatura respecto a la enseñanza y el aprendizaje del PC en general en contextos de artes y
+humanidades y de revisar su lugar en las Humanidades Digitales. Para la construcción de este
+estado del arte también se revisaron las descripciones de algunos programas de la facultad y su
+relación con el PC y se realizaron entrevistas semiestructuradas a profesores de la facultad con el
+fin de dar cuenta del lugar del PC en las clases y entender las expectativas y anhelos de cambio
+por parte de los profesores.
+La situación imaginada se construyó a partir de la situación inicial y utilizando diferentes
+conocimientos pedagógicos como el aprendizaje basado en problemas (PBL), las comunidades de
+práctica, las teorías socio-culturales del aprendizaje, así como investigaciones y pedagogías de la
+educación computacional como la computación creativa.
+18
+La situación arreglada se materializó en un curso virtual de 6 semanas llamado ‘Algoritmos para
+no programadores: Pensamiento computacional’ al que asistieron veinte estudiantes de la
+facultad, inscritos en diferentes programas. Esta situación fue documentada a través de grabaciones
+de las clases, registros sistemáticos en el diario de campo del investigador, respuestas a ejercicios
+de clase por parte de los estudiantes y de la aplicación de dos pruebas (pre y pos intervención)
+previamente utilizadas para determinar habilidades relacionadas con PC.
+De la información recolectada a partir de entrevistas se transcribió solamente fragmentos
+relevantes para la construcción de la situación inicial y la situación imaginada. Respecto a la
+información obtenida a través de la grabación de clases, se incluyó una descripción detallada de
+los aspectos relevantes para el análisis en la situación arreglada; aquí también se incluyeron
+extractos de reflexiones o participaciones escritas por los estudiantes como parte de los ejercicios
+del curso.
+Toda la información se analizó a la luz de dos categorías, el Uso del Pensamiento Computacional
+en las prácticas humanísticas o artísticas y Desarrollo de Pensamiento Computacional. En cuanto
+a la categoría Uso del Pensamiento Computacional en la práctica humanística, se entendió uso
+como hacer servir una cosa para algo y ejecutar o practicar algo habitualmente o por costumbre
+(Real Academia Española, 2019). Se utilizó esta categoría para analizar las prácticas propias de
+las humanidades y las artes en las que se usa el PC con propósitos específicos.
+Respecto a la categoría Desarrollo del Pensamiento Computacional, se definirá desarrollo como
+el aumentar o reforzar algo de orden físico, intelectual o moral (Real Academia Española, 2019).
+Referentes en el estudio de la enseñanza y el aprendizaje del PC entienden el desarrollo del PC
+como subsecuente al desarrollo de las habilidades que caracterizan el PC (Brennan & Resnick,
+19
+2012; F. J. Buitrago Flórez et al., 2018). Se utilizará esta categoría para analizar información
+relacionada con escenarios o prácticas en que los actores aumentan o mejoran estas habilidades.
+En cuanto a la ética de la investigación, los métodos de recolección de información obtuvieron el
+aval ético por parte del Comité de Posgrados de la Facultad de Artes y Humanidades. La
+información fue utilizada solamente con fines académicos, sin riesgo alguno para los participantes,
+cuya participación en el estudio fue completamente voluntaria y aceptada a través de la firma de
+consentimientos informados. En las transcripciones de la información que se incluyen en este
+documento fueron removidos cualquier tipo de indicadores de tal manera que la identidad de los
+participantes permaneciera confidencial.
+Las siguientes secciones presentan los resultados a través de una narrativa que sigue la
+presentación de las situaciones analíticas y las relaciones entre ellas de manera que el lector
+evidencie el ciclo completo de transformación del proceso educativo.
+20
+Situación Inicial
+Uso del Pensamiento Computacional en Prácticas de Artes y Humanidades
+Las prácticas de artes y humanidades son extensas y diversas, definirlas y delimitarlas sobrepasaría
+los alcances de esta investigación. Sin embargo, este trabajo sí intentará dar cuenta de algunas
+prácticas humanísticas y artísticas que guardan una relación específica con tecnologías digitales y
+computación, para argumentar el uso de habilidades del PC dentro de estas.
+En primer lugar, se tendrán en cuenta las prácticas humanísticas que David Berry (2017) utiliza
+para dar ejemplos prácticos en los que se utilizan habilidades de PC en humanidades. Se hablará
+de cómo la automatización, la descomposición, la abstracción, la comprensión de algoritmos, el
+aprendizaje de lenguajes de programación y estéticas de la computación se ponen en práctica
+dentro de contextos humanísticos Esto ayudará a perfilar posteriormente las necesidades de
+prácticas específicas que deban incluirse en un curso de PC para humanistas.
+Para Berry, las habilidades del PC se encuentran con las prácticas de investigación humanística de
+la misma manera en que lo hace la inteligencia archivística, tan presente en la formación
+humanística actual, que permite un mejor uso de los archivos y los materiales que estos contienen.
+Antes los investigadores aprendían a utilizar sistemas de clasificación, bibliotecas, archivos y otros
+recursos, así como a interactuar con diferentes actores como libreros, bibliotecarios, archivistas y
+curadores. De manera similar, el PC facilita el uso de las herramientas digitales y permite una
+nueva mediación del acceso a fuentes de conocimiento anteriores, es decir, la digitalización de
+archivos, libros y catálogos.
+En primer lugar, debe observarse que la automatización es el núcleo de la computación. Antes de
+los computadores electrónicos humanos hacían cálculos utilizando rutinas estandarizadas y eran
+llamados ‘computadores’. Franco Moretti, en su libro Distant Reading (2013), demuestra la
+21
+utilidad de la automatización sin la ayuda de computadores. Por ejemplo, junto a sus estudiantes,
+Moretti leyó historias de detectives del siglo XIX, buscando pistas a la solución, ya conocida, del
+misterio de la novela. Los estudiantes entonces actuaron como calculadoras humanas o
+computadores, distribuyendo la carga de información que debía ser considerada y repitiendo
+rutinas de pasos para encontrar las pistas.
+La investigación humanística puede incluir la repetición minuciosa de pequeños pasos analíticos,
+indicando que la automatización no es un proceso extraño para los humanistas. Cuando mucho
+trabajo debe ser realizado, puede ser delegado a la automatización. Ya sea hecha por humanos o
+por compiladores electrónicos, la búsqueda de palabras es una de las herramientas más
+fundamentales hoy en día para localizar los usos de una palabra y también para generar estadísticas
+sobre su aparición. La búsqueda de palabras es también la base de la revolución computacional
+de la lingüística, al proveer una estrategia efectiva para denotar y describir las palabras que siguen
+o anteceden a una palabra determinada en un gran corpus de textos.
+El PC ofrece la capacidad de reflexionar rutinariamente sobre dónde las computaciones pueden
+aplicarse a las humanidades; la habilidad de entender el trabajo humanístico como un flujo de
+elementos discretos sujetos a la automatización. Esto es la base para la habilidad de crear y
+manipular datos humanísticos en las humanidades digitales.
+Respecto a la abstracción, no es un concepto que venga específicamente de las ciencias de la
+computación, todas las ciencias y las humanidades piensan en términos abstractos. Sin embargo,
+los humanistas deben pensar en tipos de abstracciones específicos. Cuando se entiende la
+abstracción como la capacidad de “ignorar detalles innecesarios para el problema en cuestión”,
+tiene sentido pensar que los humanistas necesitan buscar formas de representar sus materiales para
+que estos sean computados y puedan ser utilizados en otras computaciones. El uso de diferentes
+22
+niveles de abstracción para comprender algo, conocido también como la abstracción de problemas
+en capa como lo menciona Wing (2006, 2008), es muy importante para describir el uso del PC en
+las humanidades.
+Libros representados en lenguajes de marcado como HTML son buenos ejemplos de abstracción
+utilizando PC, y de abstracción en capas. En el nivel más básico de abstracción encontramos a las
+letras, puntuaciones y espacios en un libro, que son representados digitalmente como caracteres.
+En un nivel superior, segmentos compuestos por diferentes cadenas de caracteres se agrupan y se
+representan en códigos para párrafos, títulos y capítulos. Lo que en el papel se representa como
+espacio en blanco extra o encabezados, en los computadores está representado y entendido
+mediante código. Un nivel más alto de abstracción serían los códigos para unidades semánticas,
+citas de otros textos, diálogos y, en ediciones críticas, versiones alternativas del mismo pasaje.
+Lenguajes de marcado como Text Encoding Initiative (TEI) fueron creados con un objetivo
+práctico: permitir una futura automatización. Al codificar las mismas unidades semánticas, un
+mismo texto puede ser fácilmente representado en diferentes tipografías y estilos mediante la
+aplicación de reglas de formato automáticas. Estos mismos códigos se pueden utilizar para crear
+modelos abstractos del texto, como un índice, o para computar cuántas veces una palabra ha sido
+usada en diferentes unidades semánticas.
+Los lenguajes de marcado demuestran que un correcto número de abstracciones permite tanto un
+gran número de diferentes automatizaciones como una amplia diversidad de modelos
+computacionales de objetos humanísticos. La representación de conocimientos y codificación es,
+por esto, una parte importante de la práctica actual de las Humanidades Digitales.
+Así mismo, descomponer un gran problema o tarea en partes más pequeñas que puedan resolverse
+sucesivamente es una habilidad esencial que denota el Uso de Pensamiento Computacional en
+23
+prácticas humanísticas. Determinar qué tan finalmente puede descomponerse un problema es una
+competencia que se consigue con la alfabetización computacional. Un humanista, por su parte,
+debe definir un problema y sus posibles soluciones.
+El primer paso en la descomposición es delimitar la pregunta de investigación; transformar un gran
+campo de interés en una pregunta y responderla utilizando un procedimiento. Este procedimiento
+es lo que se conoce como metodología de la investigación es similar a un algoritmo y es una
+práctica con la que los investigadores en humanidades están muy familiarizados. Berry menciona
+el ejemplo de unos musicólogos que quieren entender el cómo se utilizan plataformas de
+reproducción de música en un país y dice que este problema podría descomponerse al proponer
+que “informantes”, ciudadanos del país, lleven un registro diario de sus hábitos de escucha de
+música en ciertos periodos de tiempo. El problema de toda la música se descompone en periodos
+de tiempo específicos y documentados por informantes, seguido de un análisis de esta
+documentación y entrevistas (Hagen, 2015).
+Ahora, respecto al pensamiento algorítmico podemos decir que en la creación de algoritmos
+intervienen la automatización, la abstracción y la descomposición. Aquí nos ceñiremos a una
+noción de algoritmo como “toda secuencia de estructurada de pasos para resolver un problema”.
+De esta manera, el PC es la habilidad de saber qué algoritmos usar para resolver un problema
+humanístico.
+Berry menciona que, en las humanidades, por ejemplo, algunos algoritmos utilizados en genética
+han sido utilizados en literatura para realizar hipótesis sobre cuándo diferentes versiones de un
+manuscrito medieval, Los cuentos de Canterbury de Geoffrey Chaucer, fueron escritas. Esta
+habilidad para mover algoritmos entre diferentes campos es una de las posibilidades de
+investigación que abren las humanidades digitales.
+24
+Otro ejemplo de la importancia de entender algoritmos desde las humanidades digitales subyace
+en que a pesar de que las investigaciones en Inteligencia Artificial (IA) han inspirado teorías
+modernas sobre la razón, siguen estando lejos de la psicología y la filosofía tradicionales. Los
+métodos han sido creados para resolver problemas de un campo específico y a pesar de su gran
+avance y su permanente interacción con otros campos del conocimiento, no hay garantías absolutas
+de que los métodos de AI puedan ser efectivamente exportados a otras áreas del conocimiento.
+Grupos de trabajo interdisciplinar entre humanistas que conozcan el funcionamiento de los
+algoritmos de aprendizaje e investigadores de IA podría ofrecer nuevas perspectivas críticas a estos
+algoritmos y facilitaría el surgimiento de alternativas más basadas en las tradiciones humanísticas.
+También, según Berry (2012), para poder actuar comprensiva y críticamente en una cultura de
+redes sociales basada en la modelación algorítmica de los comportamientos, cualquier persona,
+pero sobretodo un humanista, debe pensar críticamente sobre estos algoritmos y sus implicaciones.
+En cuanto al Uso del Pensamiento Computacional en prácticas artísticas sobresale la disciplina
+de los medios computacionales, una comunidad de práctica que utiliza conceptos de computación
+para la creación artística. Es frecuente que habilidades del PC como pensamiento algorítmico,
+descomposición y abstracción sean utilizadas en este campo para crear objetos de arte. Por otro
+lado, recientemente ha emergido el campo del arte hecho por inteligencia artificial (IA), o
+producción artística como producto de inteligencias artificiales, que no solo ha dado lugar a
+referentes relevantes en artes visuales sino también en otros campos creativos como música y
+literatura.
+En su libro The artist in the machine, Arthur Miller (2019) identifica factores importantes para
+entender los procesos creativos con AI desde teorías y categorías relevantes en el estudio de la
+creatividad. Entre ellas, menciona que las inteligencias artificiales utilizan rigurosos procesos
+25
+como resolución algorítmica de problemas y generalización. Se podría inferir entonces que las
+inteligencias artificiales que están involucradas en procesos creativos están creando y utilizando
+habilidades del pensamiento computacional.
+Por otro lado, ha habido una asociación frecuente con entre la práctica de la composición musical
+y el PC. Michael Edwards afirma en su artículo Algorithmic composition: Computational Thinking
+in music (2011) que la composición musical siempre ha sido guiada por el PC del compositor,
+incluso más que por lo que tradicionalmente se considera como inspiración. Dice también que la
+formalización de la técnica computacional en la programación de software puede liberar la mente
+de clichés musicales y culturales y llevar a composiciones originales. También menciona que los
+sistemas de composición algorítmica pueden contener todas las estéticas y estilos y agregarles
+variaciones ofreciendo una alternativa a lo ya conocido, así que prometen trascender lo que para
+muchos compositores define los límites de la composición.
+En su página web, la Universidad de los Andes define la Facultad de Artes y Humanidades como
+una instancia que “agrupa las disciplinas artísticas y humanísticas en la Universidad y tiene como
+objeto formar artistas, literatos, músicos, historiadores del arte, narradores digitales y periodistas
+conscientes, sensibles, imaginativos y creativos”. La facultad ofrece cinco programas de pregrado,
+entre ellos el de Narrativas Digitales; nueve programas de posgrado, entre ellos la Maestría en
+Humanidades Digitales y la Maestría en Artes Plásticas, Electrónicas y del Tiempo. Veinticinco
+opciones académicas, entre ellas la opción en Arte – Modalidad: Medios electrónicos y artes del
+tiempo; la opción en Cine, video y animación; la opción en Técnicas de grabación musical y la
+opción en Narrativas Digitales.
+Si se piensan las Humanidades Digitales como una comunidad de práctica de quienes se interesan
+por la relación entre las prácticas humanísticas y la computación, además de quienes narran temas
+26
+humanísticos utilizando medios computacionales, se puede inferir que en tres programas de la
+Facultad de Artes y Humanidades de la Universidad de los Andes: la Maestría en Humanidades
+Digitales, la Maestría en Artes Plásticas, electrónicas y del tiempo y el Pregrado en Narrativas
+Digitales, se forman Humanistas Digitales.
+Esto se hace explícito en la descripción de los perfiles de egreso de los programas. Por ejemplo,
+en el perfil del egresado de la Maestría en Humanidades Digitales que aparece en la página web
+de la universidad, se enuncia que al finalizar el programa un egresado de la maestría debe haber
+logrado desarrollar, entre otras competencias:
+• Saberes y habilidades comunicativas y técnicas en el uso de las herramientas de creación
+digital, sugiriendo que pueden existir espacios de formación técnica para el uso de
+herramientas digitales.
+• La capacidad para integrar su conocimiento de los temas, contenidos y problemas de
+investigación y creación de las humanidades con el trabajo en redes, plataformas y
+dispositivos digitales, lo cual abre la posibilidad de que en la maestría ocurran procesos
+de formación orientados a conocer a profundidad el funcionamiento de redes, plataformas
+y dispositivos digitales que fácilmente podría ser el funcionamiento de computadores.
+Además, se menciona que una de las líneas de investigación es el Texto digital: minería de datos,
+análisis y procesamiento de textos con métodos de marcado y etiquetado, lectura distante,
+modelado de tópicos, curaduría y ediciones críticas digitales. Esto permite inferir que algunos
+estudiantes realizarán investigación alrededor de conceptos de la ciencia de la computación y la
+información, como minería de datos y procesamiento de textos con métodos de marcado. Otra de
+las líneas de investigación mencionadas es la Cultura visual: métodos computacionales para el
+análisis de imágenes, trabajo con dispositivos de realidad aumentada, virtual y mixta para
+27
+análisis, y experimentación con colecciones de arte y narrativas digitales. Aquí se hace explícito
+que algunos estudiantes trabajarán con métodos computacionales y que integrarán conocimientos
+humanísticos a campos de estudio tradicionales de la ciencia de la computación como análisis de
+imágenes y computación visual: AR ,VR.
+Respecto a la Maestría en Artes Plásticas, Electrónicas y del Tiempo, la Universidad propone,
+entre sus áreas de estudio, la creación interdisciplinar entre Arte y Ciencia y Arte y tecnología.
+Además, dentro de las prácticas y referentes contextuales incluye Poder y Globalización. Así, se
+infiere que dentro de los procesos de formación podría haber Uso del pensamiento computacional,
+pero es necesario determinar qué actividades ocurren dentro de los cursos para poderlo afirmar.
+Así mismo, en la página web del pregrado en Narrativas Digitales, se describe el programa como
+innovador y dentro de los objetivos fundamentales está que el estudiante aprenda “los criterios,
+herramientas y prácticas de la creación digital (como redes y dispositivos)”, sugiriendo el
+requerimiento de un conocimiento sobre conceptos computacionales como redes, y de un
+conocimiento que se relaciona explícitamente con el PC: el funcionamiento de dispositivos.
+Además, se menciona que un Narrador Digital debe ser capaz de, entre otras, Comprender
+interdisciplinarmente las referencias teóricas e históricas que articulan los lenguajes, la cultura,
+los medios y la tecnología. Esto último puede implicar tener conocimientos sobre y alrededor de
+la tecnología, de tal manera que pueda articularse de forma interdisciplinar con otras áreas del
+conocimiento; esta aproximación de conceptos computacionales con aplicación en diferentes áreas
+ha sido previamente asociada con el pensamiento computacional(Marcelino et al., 2018; Rodger
+et al., 2009).
+Finalmente, se lee en la página web de la Universidad que “La carrera ofrece herramientas y
+oportunidades de reflexión y de práctica para que el estudiante sea artífice, crítico y creador del
+28
+nuevo universo mediático digital” alineándose con Denning y Tedre, que en su libro
+Computational Thinking (2019), afirman que el PC es sobre todo una herramienta para entender
+un mundo actual empapado de tecnología y que puede incrementar nuestra conciencia sobre cómo
+las herramientas digitales cotidianas funcionan y dan forma a nuestras interacciones sociales y
+mediáticas.
+Además de las relaciones que se han encontrado entre cada uno de los programas y el Uso de
+pensamiento computacional, la destreza en habilidades como abstracción, pensamiento
+algorítmico y descomposición también puede inferirse si se piensa que las prácticas de los
+egresados se encuentran dentro de la pila de las Humanidades Digitales propuesta por Berry, cuya
+base es el pensamiento computacional. Los egresados de MHD en su relación explícita, los
+egresados de MAPET por su área de estudios en Arte y Memoria que incluye el trabajo con
+archivos y la creación de plataformas u obras interactivas utilizando meta-data o métodos digitales
+y el pregrado en ND por su relación estrecha con métodos digitales.
+En cuanto al Uso del Pensamiento Computacional en prácticas humanísticas o artísticas este
+análisis se complementa con los dos grandes tipos de prácticas a los que se refieren los profesores
+de la facultad de diferentes maneras: El procesamiento de datos y la divulgación o difusión del
+conocimiento humanístico. Respecto al procesamiento de datos dicen, por ejemplo:
+Pr1: “Entonces, el ejercicio de la toma de datos y de la propuesta de visualizarlos,
+problematizar las interfaces de visualización con un patrón metodológico… Me interesa
+mucho el tema de los datos y ahí hay una discusión grande: ¿De qué hablamos cuando
+hablamos de datos en Humanidades, que es eso? Se está hablando de smart-data. Los datos
+de referencia a la experiencia humana son desordenados, muchas veces no estructurados.
+¿Qué perdemos y ganamos cuando intentamos capturar información sobre la experiencia
+29
+humana, sobre la historia, la producción cultural, el arte en tablas y cómo podemos
+articularla mejor?”.
+Pr3 “La intersección entre las humanidades y la tecnología. En función de cuatro
+campos, uno de comunicación, de desarrollo de contenidos, de investigación, del
+conocimiento. Dos, utilizar herramientas para generar mejores resultados de la
+investigación en humanidades. En tercer lugar, en la aparición de nuevas temáticas y
+nuevos problemas para las humanidades y, en cuarto lugar, el uso de las herramientas para
+desarrollar contenidos análogos…Poder generar contenido con bases de datos, con
+herramientas digitales, para desarrollo de información computacional, de análisis de datos
+con minería.”
+Varios profesores se refirieron a lo digital como una forma de divulgar el conocimiento
+humanístico en nuevos medios y de expresar temas relevantes en las artes y las humanidades
+mediante estos medios. Algunos hicieron énfasis en la creación:
+Pr4 :"En mí área es muy importante la tecnología, porque si uno no sabe usar una
+grabadora, si uno no puede usar un software de edición, pues no puede trabajar, entonces
+es imprescindible…(Los estudiantes) Llegan al punto de que ya no están en ese
+aprendizaje, de cómo funciona la grabadora, de dónde está el botoncito de la aplicación del
+software, sino que llegan al punto de que dominan súbitamente esa tecnología para
+abordarla a favor de su narrativa. Ya son maestros en eso y lo que pueden hacer, lo que
+importa es el contenido que producen con el programa.”
+Pr2 “Recursos digitales tanto para la investigación como para la divulgación de lo
+que se hace en términos digitales … Visitas virtuales a los museos… He visto últimamente
+30
+que las humanidades digitales hacen que la historia del arte reviva y no se quede
+anquilosada, sino que se vea como una forma de construir vida.”
+Pr3: “Si pueden hacer una infografía o un podcast estoy ayudando a que no lo
+apliquen solamente una materia de historia, sino al profesional que puede hacer una línea
+de tiempo en un informe elaborado.”
+Pr5: “Hay muchos tipos de obras de arte y tienen procesos artísticos que tienen en
+cuenta a comunidades, tienen en cuenta problemáticas sociales y en ese sentido, pues me
+parece que sería muy útil, tanto para comunicar o para expandir la lectura de las obras como
+para hacerlas multimediales y para diversificar sus formas de existencia… Para cuestión
+de redes, de volver colectivos los procesos, además de herramienta de producción, también
+hay muchas obras de arte que no salen del computador. Existen solamente las redes que
+existen solamente en las plataformas de difusión digitales.”
+Un profesor habló sobre el proceso de datos utilizando herramientas digitales para la divulgación
+de estos:
+Pr8: “Entonces, lo que permite hacer el trabajo de traducción sobre una estructura
+con las herramientas de las humanidades digitales es poder comparar todas las versiones y
+poder acceder a todas ellas. El proceso no solamente de la elaboración de la traducción,
+sino del lado de la publicación final. … edición crítica en línea.”
+Esta revisión de la situación inicial nos permite ver que los usos del PC en prácticas humanísticas
+y artísticas son diversos y que incluso se pueden identificar las habilidades del PC que se utilizan
+en algunas de estas prácticas. Además, se vio que los profesores de la facultad resaltan que el
+pensamiento computacional se utiliza, sobre todo, para investigación con datos y presentar el
+conocimiento de nuevas maneras. Se puede colegir que en la facultad predomina una concepción
+31
+del humanista como productor y divulgador de conocimiento mientras que campos como las artes
+visuales o la música se asocian más frecuentemente a la creación computacional. A pesar de esto,
+algunos autores sugieren que también debería entenderse al humanista como desarrollador de
+herramientas, plataformas, interfaces o aplicaciones (Koh, 2014) y para esto es fundamental el
+desarrollo de este tipo de pensamiento.
+Desarrollo del Pensamiento Computacional
+Dado que la programación ha sido extensamente utilizada como la herramienta principal para
+desarrollar habilidades de PC en entornos educativos, es necesario estudiar el estado del arte de su
+enseñanza y aprendizaje. Esta sección de la revisión de literatura es adaptada del trabajo de
+Buitrago y colaboradores (F. Buitrago Flórez et al., 2017), que da cuenta de las estrategias
+pedagógicas diseñadas para superar las dificultades en la enseñanza de la programación, por
+considerarlo pertinente para la definición de esta situación inicial. En el trabajo de Buitrago se
+revisaron 92 referentes, incluyendo artículos, revisiones, estándares de educación y políticas
+públicas entre otras, sobretodo de los últimos 15 años, debido al incremento de este campo de
+acción e investigación en este periodo de tiempo.
+La última década, las ciencias de la computación han permeado varios campos del conocimiento
+como la biología, la química, la medicina, la ingeniería e incluso humanidades como arte, música
+y ciencias sociales y creado otras áreas del conocimiento como las humanidades digitales, la
+bioinformática, el estudio de videojuegos y la ciber-ética (Kay et al., 2005). Como se muestra en
+la Tabla 1, adaptada de Buitrago (2018) la programación enfocada al desarrollo de habilidades de
+PC trae beneficios para estudiantes de varias disciplinas. (Se complementaron las aplicaciones en
+32
+ciencias sociales de acuerdo con algunos enfoques de las Humanidades Digitales). (Piteira &
+Costa, 2012)
+Tabla 1
+Campos en los que la programación y el pensamiento computacional pueden aplicarse
+directamente.
+Área Actividades relacionadas con la programación y el PC
+Biología Secuenciación de genomas, ensamblaje del genomas y predicción de genes
+Modelado de interacción de proteínas
+Reconstrucción de rutas metabólicas
+Biología de sistemas y poblaciones
+Química Descubrimiento y diseño de drogas
+Simulaciones de dinámica molecular
+Modelado de reacciones químicas
+Estudio de las propiedades fundamentales de los átomos y moléculas
+Física Comportamiento físico de los materiales
+Simulaciones de rendimiento óptico
+Modelados en Astrofísica
+Interacción física en biomoléculas
+Medicina Ensayos biomédicos de alto rendimiento
+Modelado de las vías neuronales
+Simulaciones de rendimiento fisiológico
+33
+Automatización de cirujías
+Análisis de drogas y toxinas ambientales
+Ilustración médica
+Ingeniería Computación móvil y de Internet
+Videojuegos
+Robótica
+Seguridad de la computadoras y redes
+Inteligencia artificial
+Sistemas de base de datos
+Arte Diseño de imágenes
+Arte Digital
+Animación de películas
+Música Simulaciones acústicas
+Técnicas de grabación
+Síntesis y manipulación del sonido
+Música por computador
+Ciencias Sociales Simulaciones Demográficas
+Modelados Epidemiológicos
+Data Science aplicado a Historia, Humanidades y Ciencias Sociales
+Análisis Geoespaciales
+Ediciones Digitales
+34
+Texto Digital
+Cultura Visual
+Humanidades Públicas
+Sin embargo, enseñar lenguajes de programación para fomentar el pensamiento computacional en
+educación superior ha sido una tarea extremadamente difícil tanto para profesores como para
+estudiantes, sobretodo debido a que el aprendizaje de programación significa una carga cognitiva
+pesada para los estudiantes de primeros semestres. Así, se ha realizado mucha investigación
+rigurosa con el fin de analizar las dificultades a las que se enfrentan estudiantes de cursos
+introductorios a la programación, (Ahmadzadeh et al., 2005) teniendo en cuenta sobre todo que
+muchos no tienen ninguna experiencia previa cuando asisten al curso e incluso algunos estudiantes
+no consiguen ser programadores proficientes incluso después de haber asistido a cursos de
+programación durante dos años.
+En su revisión, Buitrago identifica algunas de las causas por las que es difícil enseñar y aprender
+programación y posteriormente da cuenta de las estrategias para afrontar estas dificultades de las
+que más se encontró evidencia. Respecto a las dificultades, es difícil aprender programación
+porque el aprendiz no solamente debe memorizar una amplia cantidad de información, sino porque
+además de eso debe saber elaborar modelos mentales para solucionar problemas y debe especificar
+soluciones de tal manera que un computador pueda ejecutarlas.
+Otros problemas asociados han sido descritos por investigadores como Lahtinen (2005), que
+afirmó que la mayoría de los programadores novatos limitan su aprendizaje a un conocimiento
+superficial de los programas, casi siempre aprendiendo a programar mediante una memorización
+del significado de cada línea de código, línea por línea, en lugar de desarrollar estructuras mentales
+complejas o PC. Esto conduce a fallas a la hora de aplicar satisfactoriamente el conocimiento que
+35
+han adquirido. También es frecuente que estudiantes presenten problemas para entender nociones
+como bucles (loops), condicionales, arreglos y recursiones (Robins et al., 2003). También son
+frecuentes las dificultades para encontrar problemas o bugs en sus propios programas.
+Respecto a las estrategias para corregir estos problemas, Buitrago encuentra en su revisión que
+sesiones prácticas en salas de cómputo fueron calificadas como la mejor estrategia. Esto
+probablemente debido a que, en internet, los estudiantes encuentran ejemplos de códigos,
+tutoriales, videos educacionales y contenidos en plataformas como Moodle y Blackboard.
+Por su parte, Vihavainen (2014) agrupa las intervenciones a los cursos de programación en cuatro
+grandes categorías:
+1. Actividades de colaboración y apoyo entre pares, que se refiere sobretodo a
+programación en parejas o grupos de manera colaborativa entre los aprendices.
+2. Contenido relacionado y contextualización, que incluye computación en medios donde
+el diseño, audio y programas de páginas web son utilizados para facilitar la enseñanza.
+3. Acomodación de cursos, en la que los profesores implementan cambios en el contenido
+y la evaluación del curso dependiendo de los estudiantes y su desempeño.
+4. Aproximaciones híbridas que combinan algunas o todas las anteriores modalidades de
+intervención.
+Respecto a la efectividad de estas estrategias, Vihavainen (2014) encontró que, en promedio, las
+intervenciones mejoran la tasa de aprobación de los cursos de programación en un tercio al
+compararlas con aproximaciones tradicionales de clases magistrales y laboratorios. Además, los
+autores concluyen que cursos con contenidos relacionados (Ej. Medios computacionales) y
+elementos de aprendizaje cooperativo incrementan la tasa de aprobación del curso y la motivación
+de los estudiantes, aspecto en el cual los cursos tradicionales no tienen éxito alguno.
+36
+Con el ánimo de documentar un ejemplo de primera mano respecto a la enseñanza de PC en la
+Universidad de los Andes, Buitrago documenta la historia y los hallazgos del proyecto Cupi2, del
+Departamento de Ingeniería de Sistemas y Computación de la Universidad. Esto es pertinente
+puesto que es un referente fundamental en la construcción de un estado del arte respecto a
+investigaciones y proyectos previos que abordan la enseñanza de computación en el contexto
+donde se ubica este trabajo.
+Desde hace más de diez años, el departamento de Ingeniería de Sistemas y Computación de la
+Universidad de los Andes ha venido aplicando encuestas y trabajado con algunos de los problemas
+más comunes de la enseñanza de la computación que se han encontrado en la Universidad:
+1. Problemas de motivación, debido a que los estudiantes sienten que el éxito en la
+programación está fuera de su control y es independiente de su entendimiento de los
+conceptos.
+2. Ausencia de congruencia entre los conceptos y habilidades enseñados en las clases y la
+capacidad de escribir un programa que resuelva problemas en diferentes contextos.
+3. Problemas metodológicos, como que el profesor asuma que los estudiantes aprenderán con
+ejemplos presentados en clase y después podrán programar por sí solos.
+Debido a estos hallazgos, desde el 2006 se creó Cupi2 (https://cupi2.virtual.uniandes.edu.co/), una
+plataforma robusta con material que soporta los cursos introductorios de programación del
+departamento y material de apoyo a la enseñanza de la programación. Además, Cupi2 buscaba
+diseñar aprendizajes basados en problemas (PBL, por sus siglas en inglés) que introdujeran
+conceptos como tipos de datos, operadores y expresiones y llevara a los estudiantes a conceptos
+como estructuras de control, métodos, parámetros, vectores y colecciones en Java (Villalobos &
+Casallas, 2006). El sitio contiene artículos, solución a preguntas frecuentes, consejos, talleres y
+37
+lecturas para ayudar a los estudiantes, así como un reporte del desempeño de los estudiantes en
+cada curso de programación que ha hecho la universidad. El proyecto ha producido varias
+publicaciones respecto a enseñanza de la computación, ha trabajado con 25 universidades en el
+país y ha logrado disminuir en un 50 porciento la tasa de reprobación en los cursos de introducción
+a la programación.
+En este momento, el curso que Buitrago documentó como Algoritmica y Progrmación basada en
+Objetos 1 (APO-1), que introducía a los estudiantes a la programación por objetos en Java, fue
+reemplazado por el curso de Introducción a la Programación, que utiliza Python para los mismos
+fines. Sin embargo, la documentación y recursos del curso siguen estando en la plataforma y el
+curso sigue siendo parte de todos los programas de ingeniería, algunos programas de ciencias y,
+en la Facultad de Artes y Humanidades, para el programa de Música con énfasis en Producción
+musical. El curso se dicta a grupos de 26 estudiantes y consiste en 4 niveles en los que se enseñan
+gradualmente conceptos básicos de programación a través de clases y ejemplos. Además, los
+estudiantes asisten a sesiones de laboratorio en salas de cómputo donde pueden poner en práctica
+lo aprendido.
+Sin embargo, a pesar de los esfuerzos por corregir los problemas en el aprendizaje y enseñanza de
+la computación, muchos estudiantes aún encuentran dificultades con los conceptos de pensamiento
+abstracto y razonamiento lógico. Según Bruce (2004), un número importante de estudiantes y
+profesores sienten que la mayoría de los aprendices novatos entienden los conceptos, pero no
+pueden aplicarlos correctamente, quizás debido a la heterogeneidad de conceptos y lenguajes de
+programación que suceden a los cursos introductorios.
+Para aliviar este reto, menciona Buitrago, profesores sugieren que los estudiantes tengan
+conocimientos previos en PC y lógica algorítmica, de tal manera que puedan adaptarse a varios
+38
+lenguajes de programación. Antes de aprender a programar, los estudiantes deberían exponerse al
+uso de lógica, abstracción, descomposición y pensamiento algorítmico básico para mejorar su
+aprendizaje en la educación superior y lograr una proficiencia efectiva a la hora de programar por
+sí solos, aplicando los conceptos aprendidos. De esta manera, los cursos de programación se
+concentrarían en reforzar, más no en desarrollar las habilidades del PC.
+Dentro de su tesis de doctorado, siguiendo también la metodología de investigación crítica y en el
+marco de la situación arreglada, Francisco Buitrago desarrolló un curso prototipo de Pensamiento
+Computacional con una duración de 16 horas, al que asistieron 10 estudiantes voluntarios de
+diferentes carreras como derecho, diseño, geología e ingeniería que consistió en dos momentos:
+Primero, una sesión de dos horas en las que el profesor presentó y discutió las habilidades del
+pensamiento computacional y segundo, dos actividades de PBL en grupo; una utilizando Lego y
+otra con el objetivo de realizar una máquina de Rube-Goldberg. Encontró que después del curso
+los estudiantes demostraron desarrollo, fortalecimiento y conciencia sobre las habilidades del PC.
+De otro lado, David Berry, profesor de Humanidades Digitales en la Universidad of Sussex, es un
+referente clave para definir un estado del arte para el Desarrollo del Pensamiento Computacional
+en la formación humanista y específicamente en la formación de humanistas digitales. Berry
+propone el Pensamiento Computacional y la Representación de conocimiento como la base o los
+componentes más abstractos dentro de la práctica y la definición de las humanidades digitales. Se
+refiere a ambos como Codificación y Educación y los identifica como la base de la ‘pila de
+prácticas’ de las Humanidades Digitales. Dentro de PC incluye habilidades como: Abstracción,
+creación de algoritmos, descomposición, práctica técnica crítica y programación. Así, señala que
+el pensamiento computacional es la base de la naturaleza interdisciplinaria de las humanidades
+39
+digitales, al mezclar entendimientos y metodologías de la ciencia de la computación con preguntas
+y teorías de las humanidades.
+Berry propone que trabajar con Humanidades digitales requiere un nuevo tipo de aproximación a
+los computadores y que este debe ser el pensamiento computacional. Define el PC como la práctica
+cognitiva relacionada con un tipo de conocimiento desarrollado a través de una phronesis
+computacional. Aquí el término phronesis busca dar cuenta de una sabiduría o inteligencia, antes
+que un conocimiento meramente práctico o techné; una sabiduría práctica que deviene de la acción.
+El pensamiento computacional que se requiere, entonces, debe permitir reflexionar sobre la
+computación y la práctica computacional como un todo.
+El desarrollo de pensamiento computacional es de especial atención en las humanidades digitales
+en tanto que se sitúa en el lado hack del debate More hack and less yack, debido a que es un saber
+cómo antes que un saber qué; hace a los humanistas competentes para usar los computadores e
+integrarlos a sus prácticas, antes de analizar el significado y de usar computadores para las
+humanidades, que sí podría pensarse como un conocimiento más teórico.
+Las humanidades Digitales han discutido sobre qué alfabetizaciones son necesarias ante la
+emergencia y uso de nuevas tecnologías. Esta cuestión usualmente va dirigida hacia qué lenguaje
+de programación es más útil para las prácticas actuales y futuras. Aquí, aparece la pregunta de si
+es necesario aprender a programar e incluso quienes afirman que sí, entienden la programación no
+sólo como una habilidad sino como un tipo de razonamiento. Franco Moretti dice en una entrevista
+que:
+It’s an intelligence that takes the form of writing a script, but in the writing of the script
+there is also the beginning of a concept, very often not expressed as a concept, but that you
+can see that it was there from the results that the coding produces . . . [U]niversities that
+40
+have a digital humanities program, minor, major, should make sure that everybody gets a
+chance at having that type of intelligence. (Moretti 2016)
+Así, a pesar de que el mundo se encuentra en una permanente intersección con la cultura
+computacional, la mayoría de personas solo ha tenido una introducción práctica y empírica a las
+tecnologías que hoy son fundamentales en la vida cotidiana; una educación computacional para
+humanistas —O incluso una educación computacional en general— no sólo debe abordar los
+computadores de una manera instrumental sino ampliar esta alfabetización para que también
+incluya modos de pensamiento y prácticas humanísticas. Esto sería fundamental para darle un giro
+crítico a las humanidades digitales puesto que fortalecería las competencias de los humanistas para
+analizar la computación críticamente.
+Pensando en esto, investigadores en humanidades han propuesto iniciativas como The
+Programming Historian (TPH) (Crymble, 2012), que aloja tutoriales en distintos idiomas, con el
+propósito de contribuir a que humanistas aprendan una amplia variedad de herramientas digitales
+y técnicas para facilitar la investigación y el aprendizaje. TPH es un referente respecto a la
+alfabetización digital abierta pensada para humanistas, además de ser multilingüe e inclusiva.
+(Sichani et al., 2019), y el hecho de que muchos de sus tutoriales incluyan prácticas de
+programación sugiere que los usuarios podrían desarrollar PC utilizando esta herramienta. Sin
+embargo, su uso en escenarios educativos formales aún no ha sido analizado a la luz de aprendizaje,
+por lo que su uso para Desarrollo del pensamiento computacional aún no es claro.
+Respecto al Desarrollo del Pensamiento Computacional en contextos de educación artística, se
+debe entender que la programación se ha creído únicamente relacionada con disciplinas como las
+matemáticas y la ingeniería, lo cual devino en que durante un largo tiempo los educadores en artes
+sólo tuvieran una perspectiva externa de las lógicas y principios matemáticos que gobiernan la
+41
+programación. Hoy en día, programar creativamente ha dejado de ser un aparente oxímoron y es
+el nombre de metodologías que utilizan muchas herramientas pedagógicas. Actualmente muchos
+investigadores y educadores entienden la programación creativa como una manera de fortalecer
+tanto la educación computacional como la educación artística.
+Atraer a programadores novatos en el campo de las artes es mucho más fácil ahora debido a una
+amplia cantidad de recursos que ofrecen gratuitamente currículos de programación para
+principiantes. Además, últimamente han proliferado softwares en los que se puede programar
+visualmente, es decir, que utilizan editores de código en que los usuarios arrastran y conectan
+bloques de código como si estuvieran ensamblando piezas de lego. Este tipo de entornos virtuales
+utilizan lo que se conoce como ‘programación basada en bloques’ y quizás el ejemplo más famoso
+es el software Scratch (Resnick et al., 2009). Varios autores han argumentado que los ambientes
+de programación por bloques introducen fácilmente a los estudiantes a entornos computacionales
+y cultivan hábitos de diseño iterativo y resolución de problemas.
+La programación basada en bloques se alinea con varios enfoques investigativos que utilizan como
+premisa que la programación, como la escritura, es un medio para la expresión e investigan sobre
+cómo desarrollar PC a través de ambientes de aprendizaje —que casi siempre son
+computacionales. Entre estas investigaciones se encuentran estudios que proponen kits de
+programación virtuales y físicos y varios estudios sobre desarrollo de PC a través de juegos,
+creatividad y cooperación (Pellicone et al., 2019; Yu & Roque, 2019).
+Después de que el estudiante se ha familiarizado con las habilidades del PC y con entornos de
+programación, puede basarse en este conocimiento computacional para utilizar ambientes más
+avanzados: Processing es un ejemplo de un lenguaje de programación de código abierto —que
+cualquiera puede ver y modificar— que está diseñado para que artistas visuales creen objetos a
+42
+través de código. Ben Fry y Casey Reas crearon Processing al reconocer que trabajar directamente
+con software comenzaba a dejar de ser considerado un quehacer exclusivo de profesionales en
+tecnología y veían las tecnologías computacionales como un medio de creación cada vez más
+frecuente.
+Mientras tanto en otra cara de la educación artística, la educación musical, no son pocos los
+investigadores que se han interesado en el desarrollo del PC. El libro Computational Thinking in
+Sound, escrito por Grenher (Greher & Heines, 2014) , da cuenta de procesos documentados y
+sugiere prácticas pedagógicas relevantes para desarrollar el PC utilizando imaginación y
+creatividad, notaciones y representaciones musicales entre otras. En este contexto Scratch no deja
+de ser relevante, pues investigadores como Ruthmann y colaboradores (2010) estudian la
+enseñanza de PC a través de live coding —programación en tiempo real— utilizando Scratch.
+Diferentes investigaciones enmarcan la enseñanza del PC dentro del interés por que las asignaturas
+STEM (Inglés para Ciencias, Tecnología, Ingeniería y Matemáticas) puedan integrarse con las
+artes en un enfoque STEAM. Por ejemplo, Tim y Judith Bell (2018) consideran varias formas de
+explorar habilidades del PC como descomposición, generalización, pensamiento algorítmico y
+abstracción al explorar conceptos típicos y significativos en la educación musical. Utilizan
+comparaciones, por ejemplo, para ordenar y comparar elementos musicales como notas. También
+documentan clases con dispositivos en los que los estudiantes pueden programar e interactuar
+físicamente para representar notaciones musicales y otras clases de composición basadas en PC.
+Otro enfoque relevante es el de investigadores como Jamie Gorson (2017), que prototipan
+ambientes de aprendizajes computacionales que buscan desarrollar PC en niños a través de
+composición musical y encuentran que pensar en herramientas digitales específicas para este fin
+puede ser un campo de estudio con futuros hallazgos importantes.
+43
+Adicionalmente a la revisión de la literatura para entender mejor el contexto realicé una serie de
+entrevistas a profesores de la facultad donde indagué por su visión sobre este tema. En el análisis
+de las entrevistas se encontraron diferentes definiciones o nociones respecto al término
+Pensamiento Computacional y se ve que es común asociar la definición con procesamiento de
+información, narrar y entender formas de pensamiento no lineales, utilizar lógica y pensar a través
+de los computadores. Algunas definiciones presentadas por los profesores fueron:
+Pr1: “Yo me imagino siempre como una serie de herramientas de flujos de trabajo
+lógicas que permiten resolver problemas, problemas de muchos otros y que necesariamente
+estamos hablando de lógicas que operan en la lógica computacional, en las operaciones, en
+las discusiones que uno le puede dar a la máquina para resolver problemas.”
+Pr2: “ Como una sistematización y cómo yo pienso en una información, en una
+forma de organizar, de organizar los datos.”
+Pr3: “¿Cómo es el tipo de pensamiento que forman las ciencias sociales y humanas?
+Es un pensamiento crítico, interpretativo. La característica de un pensamiento crítico,
+interpretativo, hermenéutico es su pensamiento lineal y argumental. Aquí los profesores te
+enseñan a plantear un problema y argumentarlo. Yo propongo el pensamiento digital, la
+teoría y los pensamientos digitales. Parte de lo contrario son pensamientos no lineales, no
+argumentales, que es agarrar la forma como piensa un chico estupendo…. Entender cómo
+un videojuego que no es lineal, pero entiende que se ha fracturado la consciencia y
+comenzar a pensar en términos de una conciencia digitalizada es una conciencia
+tecnificada, ya no lineal, racional. Ese es un poco el ejercicio del pensamiento digital.”
+44
+Pr4: “¿Qué pensarías en clave del computador y de la computación? … Desarrollar
+la habilidad de pensar, de pensar a través del computador, cómo usar mejor la computación
+para pensar.”
+Pr5: “Yo creería que tiene que ver con una forma de organizar la información, no
+necesariamente relacionada con lo digital. Una forma de categorizar y organizar la
+información.”
+En cuanto a Desarrollo de Pensamiento Computacional, los profesores describieron qué ocurre en
+sus clases que consideran importante dentro de la alfabetización tecnológica de los estudiantes,
+actividades que fomentan el uso de computadores y procesos mentales relacionados con
+computación. En primer lugar, se encontró que algunos profesores incluyen ejercicios sobre
+búsqueda, organización y presentación de información. Por ejemplo:
+Pr1: “Hay un ejercicio colaborativo en grupos en los que cada grupo de diferentes
+maestrías se hace la pregunta: ¿Con qué conjunto de datos podría construirse sobre temas
+humanísticos? Para hacer un ejercicio metodológico de pensar en investigación basada en
+datos en humanidades. …ese grupo se interesó por trabajar con esa base de datos que ya
+existía y empezar a limpiarla y depurarla para dejar solamente los datos concernientes…
+Estos ejercicios de investigación basada en datos pueden contribuir a conversaciones e
+interpretaciones sobre temas humanísticos. …abre la puerta para que los estudiantes se
+enfrenten a un problema, digamos, práctico. Y yo intento modelar este ejercicio en el
+sentido del hacer y de la reflexión metodológica.”
+Pr3: “Enseñar historia, pero obligando al estudiante a utilizar herramientas
+digitales… (los estudiantes) le dan un uso muy básico al computador: es una máquina de
+escribir cara que permite conexiones, redes y buscar información. Y ahí paró todo el asunto.
+45
+Les hace falta a los estudiantes de humanidades una curiosidad de contacto con
+herramientas, ni siquiera la hay con los gestores de datos e información, (el computador)
+es sirve para conectarse a redes y nada más…Hago una abolición absoluta de ensayos
+formales, de que trabajo análogo que hacen los profesores: quices, ensayos y exámenes
+escritos. Eso no existe en la clase. entonces solo reemplazo con trabajo, con herramientas
+digitales básicas. Al principio semestre pregunto quienes tienen algún conocimiento en
+informática o en programación. Casi siempre hay uno o dos que tiene alguna información
+o tiene algún conocimiento. Lo que hago es elegir herramientas en las que no es necesario
+programación o una programación mínima y escojo ocho herramientas. El 50 porciento de
+la calificación del semestre es tratar las lecturas con esas herramientas. Entonces, hacer una
+y hacer infografías que reemplaza los quices clarísimamente, porque implica manejar una
+herramienta digital, diagramar, hacer un mapa conceptual, hacer un resumen, etc. pero
+indicar mapas interactivos. Entonces mi interés es ayudar a formar a la gente en
+Pensamiento digital. Ese el asunto, ver consciencias digitales.”
+Pr6: “Generar más que unas reflexiones en torno a lo digital, la manipulación
+digital…les digo que hablemos de bases de datos, desde la analogía a la metáfora. Todos
+tenemos cosas, el archivo ya está inventado. De ahí viene como la idea de pensar el gabinete
+de curiosidades, como un análogo de una curaduría virtual. El armario de Humboldt, que
+está en esa descripción de la biografía como una base de datos.”
+Otros profesores destacaron el aprendizaje y uso de herramientas computacionales para procesar
+medios sonoros o visuales y también para que los estudiantes puedan expresarse a través de ellos:
+Pr4: “Usamos un programa de edición sonora, entonces ahí sí hay un mayor uso del
+computador en la clase y hay enseñanza en la clase y también fuera de la clase. Hay
+46
+espacios para que estudien, aprendan a usar el software de edición en computador. …Al
+final ellos deben hacer una producción, la que va a ser emitida en internet. Entonces
+siempre hay un par de personas que, como los web-master del grupo, trabajan en eso y lo
+que ellos hacen es programación.”
+Pr5: “En mis cursos en arte casi siempre los estudiantes utilizan herramientas
+digitales de edición y muchas veces publican sus trabajos de forma digital en la clase de
+sonido… hay tendencia a usarlo lo digital, pero más en la clase de video. Sin duda siempre
+hay un componente, pues al menos en cuanto a herramientas de producción y luego para
+difusión.”
+Pr7: “Creo que nuestros estudiantes reciben una formación para, digamos,
+sumergirse en el mundo digital, las posibilidades de narrar, contar, comunicar, expresar, en
+ese mundo virtual”
+Solo un profesor mencionó específicamente el aprendizaje de lenguajes de programación o
+marcado de texto:
+Pr8: “Lo que hacemos es como una introducción breve a expresiones regulares. El
+semestre pasado vimos una introducción a Python y procesamiento de textos con
+Python…Este semestre va a ser una introducción a expresiones regulares, a procesamiento
+de textos, limpieza de textos, reordenamiento de textos con expresiones regulares y después
+una introducción a TEI.”
+El trabajo con datos a menudo requiere habilidades como abstracción y descomposición al
+determinar los datos realmente relevantes para resolver una pregunta, generalización para concluir
+extrapolaciones efectivas de los datos en contextos específicos y pensamiento algorítmico si es
+que los datos requieren algún tipo de tratamiento para poder ser utilizados. El uso de herramientas
+47
+de edición sonora y visual puede poner en práctica habilidades como abstracción, descomposición
+y quizás procesamiento algorítmico en procesos de edición que requieran la repetición de
+instrucciones una y otra vez. De esta manera puede inferirse que la situación inicial del Desarrollo
+de Pensamiento Computacional en la facultad de artes es que este ocurre mediante el uso de
+herramientas para el manejo de datos, edición de medios audiovisuales y en casos específicos de
+aprendizaje de lenguajes de programación.
+Se ha descrito una situación inicial de las dos categorías articulando una revisión de literatura y
+entrevistas a profesores. En cuanto a Desarrollo del Pensamiento Computacional se encontró que
+una de las herramientas más utilizadas para desarrollarlo es la enseñanza de programación, pero
+esto trae múltiples dificultades documentadas por varios investigadores dentro y fuera del contexto
+de la Universidad de los Andes; dificultades a menudo expresas en la incapacidad de los
+estudiantes por transferir los conocimientos aprendidos en clases de programación a otras clases o
+contextos reales. Investigaciones en torno a computación creativa han tratado de mitigar esta
+dificultad fomentando el desarrollo de PC dentro de contextos relevantes para los estudiantes y
+utilizando la computación como un medio de expresión en el que se aplican habilidades de
+pensamiento computacional.
+En la Facultad de Artes y Humanidades hay algunas clases incluyen enseñanza de la programación,
+pero sobretodo la relación de los estudiantes con los computadores es a través de manejo de datos
+y softwares de edición. Estos mismos ámbitos son los más recurrentes cuando los profesores se
+refieren a usos de la computación en sus prácticas, relacionándolos con el Uso del Pensamiento
+computacional en prácticas humanísticas y artísticas. Sin embargo, las prácticas humanísticas y
+artísticas que utilizan habilidades de PC encontradas en la literatura son mucho más diversas que
+las mencionadas por los profesores.
+48
+La situación inicial siguiere que existen muchos más contextos para el Uso del Pensamiento
+Computacional y que podrían ser relevantes a la hora de pensar un desarrollo del PC
+contextualizado a artes y humanidades, sobretodo si se quiere pensar a futuro en que la facultad
+ofrezca caminos tanto a los humanistas que se inclinen por la generación y divulgación de
+conocimiento como a aquellos que opten por programar, codificar y crear recursos digitales.
+Por ello, surge la pregunta de investigación que orienta esta investigación:
+¿Cómo se puede, a través de un curso, desarrollar habilidades de pensamiento computacional en
+estudiantes de Artes y Humanidades de la Universidad de los Andes?
+49
+Situación Imaginada
+El siguiente paso en la investigación consistía en imaginar una alternativa a la situación
+inicial: Pensar en alternativas que transformaran el desarrollo y el uso del PC en la Facultad de
+Artes y Humanidades. Este proceso es denominado por Skovsmose y Borba como Imaginación
+pedagógica y permite pensar en alternativas para generar cambios a través de acciones. Este
+proceso es enriquecido por las experiencias y conocimientos de los actores dentro del contexto.
+Como investigador basé mi imaginación pedagógica en mi propia experiencia como
+estudiante de la facultad, además del conocimiento adquirido en cursos vistos durante la maestría,
+como Currículo y Pedagogía y Fundamentos de Investigación en Educación. En un principio,
+imaginé un curso de programación para artistas y humanistas, pero debido a la lectura de
+bibliografía y referentes necesarios para construir la situación inicial hallé que investigadores
+como Buitrago (2018) habían encontrado que aprender a programar tiene muchos obstáculos y que
+una forma de aliviarlos es desarrollando Pensamiento Computacional en los estudiantes. Esta
+imaginación pedagógica también tuvo lugar en conversando con mi tutora, Carola Hernández, con
+el investigador en esta área Francisco Buitrago y con otros estudiantes de la Maestría en
+Humanidades Digitales, estudiantes de arte y literatura y profesores de la facultad.
+Entonces, ante la intención de que los estudiantes aprendieran o desarrollaran PC a través
+de un curso, se hizo necesario un marco teórico que definiera lo que se iba a entender como
+aprendizaje en esta investigación y de esta manera llegué a importantes teóricos como Lev
+Vygotsky y Etienne Wenger, que entienden el aprendizaje como un proceso sociocultural. Por esta
+razón, en este trabajo se entenderá el desarrollo del pensamiento computacional desde un amplio
+campo conceptual llamado la perspectiva sociocultural del aprendizaje.
+50
+Esta perspectiva es un conjunto de teorías que define el aprendizaje como una interacción
+recursiva entre los aprendices y estructuras sociales. El origen de las teorías que sustentan este
+pensamiento es la psicología histórico-cultural propuesta por Vygotsky, sobretodo en Mind and
+Society (Vygotsky, 1980), donde propone que los orígenes del pensamiento humano son
+inseparables de su praxis social y cultural; los humanos aprendemos interactuando entre nosotros.
+Vygotsky propone el conocimiento como producto de una negociación de significado que se da
+dentro de la interacción social entre individuos y la sociedad.
+Al entender los procesos educativos como actividades sociales desarrolladas en
+comunidades, imaginamos que el desarrollo de habilidades de pensamiento computacional
+ocurrirá a través de un proceso social en el que el aprendiz recorrerá un camino marcado por
+actividades e interacciones entre individuos en un contexto determinado llamado comunidad de
+práctica. El término comunidad de práctica fue acuñado por Etienne Wenger y Jean Lave (1991)
+y describe a un grupo de personas que comparten interés o pasión por lo que hacen y buscan hacerlo
+mejor mientras interactúan entre ellos constantemente. El aprendizaje ocurre dentro de una
+comunidad de práctica cuando las personas que la conforman comparten ideas, valores, creencias,
+y formas de hacer en un período de tiempo prolongado (Hernandez et al., 2015). Por eso, desde
+una perspectiva socio-cultural de la educación, es natural proponer que los estudiantes se
+involucren en experiencias de aprendizaje que los familiaricen con el Uso del Pensamiento
+Computacional en prácticas humanísticas y artísticas. Estas experiencias permitirán que
+adquieran habilidades, lenguajes y conocimientos asociados a esas prácticas específicas
+(Sutherland et al., 2005).
+Esta visión socio-cultural de la educación también permite que los estudiantes sean el
+centro de su propio aprendizaje y que la enseñanza no sea vista como un proceso de transmisión
+51
+de información, conceptos, habilidades y competencias desde el maestro a hacia los estudiantes
+(Roth & Lee, 2004). El profesor, entonces, deja de ser la fuente de conocimiento sino un miembro
+más experimentado de la comunidad de práctica que ayuda a los estudiantes a convertirse en
+miembros activos de la comunidad también (Radford, 2008). En esta investigación, el curso
+propuesto buscará que los estudiantes se vean inmersos en prácticas de una comunidad que utiliza
+y practica el pensamiento computacional, y que el profesor promueva y guíe estas participaciones
+como un miembro más experimentado de la comunidad.
+Por último, es importante notar que la perspectiva socio-cultural del aprendizaje permite y
+contempla que los estudiantes, profesores y investigadores realicen procesos de reflexión para
+asegurar la calidad del aprendizaje y la enseñanza. Esto me llevó a imaginar un curso en el que los
+estudiantes reflexionan constantemente sobre lo que ocurre en las clases y sobre cómo esto los está
+llevando a desarrollar habilidades de Pensamiento computacional. Estas reflexiones serán
+registradas dentro del curso y serán presentadas en la descripción de la situación arreglada.
+El curso también se imaginó respondiendo a los hallazgos de la situación inicial. Existe
+una gran diversidad de prácticas humanísticas y artísticas en las que se utiliza pensamiento
+computacional, pero estas no están presentes en los cursos de la facultad. Se imaginó entonces que,
+durante el curso, los estudiantes interactuaran con estas prácticas de formas distintas a la utilización
+de softwares de edición o al manejo de datos, puesto que los estudiantes participan de estas dos
+actividades en muchos escenarios y con bastante frecuencia.
+De esta manera, mi propia imaginación pasó de pensarse “Un curso de programación para
+artistas y humanistas” a conceptualizar, en su lugar, un curso en el que estudiantes de Artes y
+Humanidades desarrollen Pensamiento Computacional mediante el Uso de este en prácticas
+propias de las artes y las humanidades, aprendiendo a través de la participación en una comunidad
+52
+de práctica. El objetivo de este curso sería que los estudiantes desarrollen habilidades de PC y
+lógica algorítmica básica para que después puedan ser miembros más experimentados dentro de
+diferentes comunidades de práctica y esto les permita movilizarse con más facilidad a clases
+formales de programación.
+La imaginación de los profesores no distó mucho de la mía y propusieron diferentes
+aspectos para tener en cuenta respecto al Desarrollo de Pensamiento Computacional. En primer
+lugar, se habló de una contextualización histórica del PC para que los estudiantes desarrollen un
+uso crítico de herramientas digitales; también se propuso una alfabetización en mínimos
+conceptuales en computación:
+Pr1: “Deben tener mínimos conceptuales. ¿De qué hablamos cuando hablamos de
+interfaces? ¿A qué nos referimos cuando hablamos de un algoritmo? ¿Cuáles son las
+operaciones y cuál es la potencia del sistema? … Usar la lógica, si no se nos ocurre qué
+metodología puede ayudarnos a resolver un problema determinado… el uso de la
+computación, el lenguaje de programación de plataformas digitales, de herramientas de
+flujo de trabajo digital para resolver problemas metodológicos del arte, del quehacer del
+humanista, pero también para generar nuevas…Una cosa, por ejemplo, esencial para la
+formación de cualquier persona del mundo contemporáneo, es entender y conocer la
+historia del internet, la historia de las cosas, donde tiene su lógica para entender los
+contextos militares, de guerra de baja tecnología en que se desarrollan, para resolver
+problemas apremiantes de una guerra. No, yo creo que una sencilla introducción histórica
+sobre de dónde viene el pensamiento computacional que por lo demás sólo lo puede rastrear
+siglo XIX y seguramente mucho más atrás, me imagino… ¿Para qué y cómo se han
+53
+utilizado memorias computacionales en diferentes momentos de la historia? Nos permite
+entender mejor a qué nos enfrentamos cuando nos enfrentamos a lo digital.”
+Otros profesores hablaron de un componente más práctico que les permitiera a los
+estudiantes participar en diferentes contextos como TEI (Text Encoding Initiative), un proyecto de
+investigación en el que participan muchos humanistas digitales:
+Pr8: “Yo soy un gran defensor de TEI… Deberían manejar expresiones regulares,
+conocer un poco de TEI. Y si pudieran algo de Python, pero de pronto eso ya es demasiado
+para un estudiante de pregrado, o tal vez porque me parece importante que para mí sería
+importante que todos los estudiantes de la universidad, de las universidades, de estudiantes
+de pregrado, aprendieran un poquito de programación que digamos. Creo que eso cada vez
+se va haciendo más necesario y me parece un lenguaje accesible y potente.”
+Pr6: “Un componente práctico mucho más profundo y creo que también es
+importante procurarles mucho más énfasis en la investigación, enten der qué están haciendo
+otros en humanidades digitales, comprender un campo, practicar y ver qué están haciendo
+otros.”
+También se habló de la necesidad de saber un “mínimo de programación”; su terminología
+y lenguaje, para poder comunicarse efectivamente con profesionales de ciencia de la computación,
+programadores e ingenieros.
+Pr6: “No es un programador, no es un no es un ingeniero de sistemas… no
+necesariamente se va a echar código, como diríamos burdamente, pero sí tiene que estar en
+capacidad de tener mínimo conversación si no encontrar un plano de conversación con esa
+gente que está en ese plano.”
+54
+Pr7: “Lo que yo sí defendería es como la posibilidad de un pensamiento como
+integrador de otras disciplinas…Hay que pensar en equipos más que en que una persona
+sea hombre orquesta, que hace todo: programa, diseña, toma fotos de video en óptima
+calidad…Creo que lo que le falta a muchos, digamos, en la formación, es la capacidad de
+pensar, no cómo saber hacerlo, pero saber pensar para comunicar que el otro equipo en el
+que intervienen otros expertos y otros saberes, y no digamos el periodismo, pasa todo el
+tiempo.”
+Pr8: “La gente que cree que para trabajar en humanidades digitales hay que, por
+ejemplo, saber cómo codificar en algo de programación…Hay otra gente que dice de
+pronto yo no necesito conocer eso, pero sí necesito saber un poco de la estructura general
+y ayudarme o delegar a gente que conoce esas cosas.”
+Uniendo mi propia imaginación con la de los profesores tomó forma la situación inicial:
+Un curso presencial de seis semanas, con una sesión de una hora y media semanal, llamado
+‘Algoritmos para no programadores: Pensamiento Computacional’. El curso se difundiría entre
+estudiantes de la facultad de Artes y Humanidades y en el que los estudiantes participarían en
+diversos usos del PC. La duración se pensó para que fuera un tiempo menor al de los cursos de
+ocho semanas que ofrece la Universidad de los Andes, y se pudiera contar con tiempo suficiente
+durante el periodo académico para analizar los datos. Durante el curso se recolectaría suficiente
+información cualitativa a través de reflexiones escritas por los estudiantes y el diario de campo del
+investigador, con el fin de determinar los alcances y las limitaciones del curso propuesto.
+Para pensar en las actividades se tuvieron en cuenta los conceptos de participación y cosificación,
+mencionados por Wenger (1999) como esenciales en el momento de diseñar para el aprendizaje
+en ámbitos educativos basados en prácticas. Dice Wenger que: “El diseño para la práctica siempre
+55
+está distribuido entre la participación y la cosificación y su realización depende de cómo se encajen
+estos aspectos”.
+Así, Wenger utiliza el término participación para “describir la experiencia social de vivir en el
+mundo desde el punto de vista de la afiliación a comunidades sociales y de la intervención activa
+en empresas sociales. En este sentido, la participación es tanto personal como social. Es un proceso
+complejo que combina hacer, hablar, pensar, sentir y pertenecer”. Y así mismo define el término
+cosificación como el proceso de “dar forma a nuestra experiencia produciendo objetos que plasman
+esta experiencia en una ‘cosa’”.
+Entonces, se pensó en que casi todas las sesiones del curso deberían incluir espacios para que los
+estudiantes participen interactuando entre ellos o individualmente y cosifiquen, dando forma a sus
+experiencias y aprendizajes a través de procesos o productos. También se destinó tiempo en la
+primera y última sesiones para que los estudiantes realizaran una pre y pos prueba, utilizadas
+previamente para analizar el desarrollo de PC a través de un curso. Las reflexiones, así como las
+pruebas, serán versiones adaptadas de las utilizadas previamente por Buitrago (2018).
+Así, la situación imaginada que se propuso ante el Centro de Estudios en Periodismo, parte
+de la Facultad de Artes y Humanidades, que ayudó con la difusión del curso, fue la siguiente:
+Algoritmos para no-programadores: Pensamiento Computacional. Curso de seis semanas.
+• Sesión 1: Introducción al Pensamiento computacional y pre-prueba
+• Sesión 2: Ejercicio con LEGO.
+• Sesión 3: PC aplicado a Humanidades, literatura Generativa: N + 7, Larding, Lipogram.
+• Sesión 4: PC aplicado a Humanidades, marcado de texto en HTML.
+• Sesión 5: PBL: PC aplicado a Arte y Humanidades utilizando p5.js: Funciones y
+Parámetros. Color e Interactividad.
+56
+• Sesión 6: PC aplicado a Arte y Humanidades utilizando p5.js: Condicionales e iteraciones.
+Reflexión final y pos-prueba.
+Cada sesión incluiría unos minutos al final en que los estudiantes reflexionarían sobre el
+Desarrollo y el Uso del Pensamiento Computacional.
+A continuación, se presenta el diseño detallado de cada sesión:
+Sesión 1: Introducción al Pensamiento computacional y Pre-Prueba
+En esta sesión se realizará una introducción al pensamiento computacional (20 min) y a las
+competencias y habilidades características del pensamiento computacional: Abstracción,
+pensamiento algorítimico, depuración (debugging), descomposición y generalización. Después de
+esto se realizará una pre prueba cuyo objetivo es cuantificar el desempeño de los asistentes en
+cuando a ejercicios de pensamiento computacional antes y después del curso. La prueba se
+encuentra en el Anexo 1.
+Esta sesión fue imaginada con base en la investigación de Francisco Buitrago, que dedica
+las primeras sesiones de sus cursos a que los estudiantes conozcan el concepto de pensamiento
+computacional y tengan claras las habilidades que van a desarrollar.
+Sesión 2 : Ejercicios con LEGO, algoritmos.
+Para esta sesión se adecuó el ejercicio propuesto por Buitrago (2018): Cada estudiante
+recibirá una bolsa con 30 piezas de lego escogidas al azar y recibirá la instrucción de construir una
+estructura de 10 a 15 piezas y además escribir un conjunto de instrucciones (algoritmo) para que
+otro estudiante pueda construir la misma estructura usando el mismo material más tarde. Se darán
+tres recomendaciones específicas antes de comenzar esta parte de el ejercicio: 1) la estructura y el
+algoritmo deben ser elaborados en 30 minutos; 2) No habrá restricciones para la estructura en
+57
+cuanto a forma, longitud, altura o cualquier otra instrucción además del número de ladrillos; 3)
+anotar cada paso de la construcción en el algoritmo.
+Después de esto, otro estudiante recibirá el set de fichas y el algoritmo y deberá construir
+siguiendo las instrucciones. La sesión terminará con una reflexión sobre la precisión e importancia
+de las instrucciones y los algoritmos.
+Durante esta sesión los estudiantes participarán interactuando entre ellos a través de dos
+cosificaciones: El algoritmo o instrucciones escritas y las estructuras de lego construidas. Se
+escogió este ejercicio para la segunda sesión con el objetivo de que los estudiantes fueran
+expuestos a algoritmos ‘desconectados’: por fuera de entornos computacionales, Estudios han
+demostrado que trabajar con lego identificando patrones y siguiendo instrucciones es una forma
+de desarrollar PC. (Saxena et al., 2020)
+Sesión 3: PC aplicado a Humanidades (Análogo): N + 7, Larding, Lipogram.
+En esta sesión se realizarían ejercicios que implican habilidades de pensamiento
+computacional aplicados a humanidades. Estos ejercicios provienen de OuLiPo (acrónimo de
+«Ouvroir de littérature potentielle», en español «Taller de literatura potencial»); un grupo de
+experimentación literaria creado en 1960 en Francia. Oulipo propone un tipo de literatura llamada
+literatura generativa, en la que se generan textos a partir de estructuras, algoritmos y condiciones
+específicas. (Kuchina, 2018; Zamora & Jacobi, 2015) El uso de ejercicios de Oulipo y de literatura
+generativa en general ha sido previamente utilizado en clases de artes y humanidades. Para cada
+uno de los ejercicios, se les pedirá a los asistentes que realicen el ejercicio, pero además escriban
+la serie de pasos que debe seguir alguien para realizar el mismo ejercicio.
+En esta sesión se realizarían los ejercicios: N + 7, Larding y Lipogram.
+58
+N+7: El procedimiento N+7, inventado por Jean Lescure, de Oulipo, consiste en sustituir
+cada sustantivo de un texto por el séptimo que le sigue en un diccionario.
+Larding: El "Larding" (o "line stretching") es una técnica de en la que un escritor comienza
+con dos frases e inserta una nueva entre ellas. A continuación, el escritor toma los pares de
+oraciones que resultan -es decir, la primera y la segunda, así como la segunda y la tercera oraciones
+originales - e inserta una nueva oración entre cada par, repitiendo este proceso hasta que está
+convencido de que el pasaje está completo. Así, larding, en su forma más básica, es un método
+que no deja ningún rastro de sí mismo en un escrito terminado. Como el lector sólo ve el pasaje
+final, no puede deducir si el método ha sido utilizado. (Terry, 2019)
+Lipogram: El lipograma es una forma oulipiana en la que una determinada letra queda
+totalmente excluida de un texto.
+El objetivo de esta sesión se imaginó como una transición entre la práctica de algoritmos
+no computacionales con LEGO en la segunda sesión y las prácticas posteriores de algoritmos
+digitales que sucederían en las siguientes sesiones. Practicar con literatura generativa permite
+desarrollar habilidades de PC como el pensamiento algorítmico, la descomposición y la
+generalización. En esta sesión los estudiantes cosificarían al generar los textos utilizando las
+diferentes técnicas y participarían en un momento final, donde deberían compartir sus productos
+con sus compañeros.
+Sesión 4: PC aplicado a Humanidades, marcado de texto en HTML
+Se decidió dedicar esta clase a que los estudiantes se familiarizaran con HTML a través de una
+práctica de marcado de texto, importante en diferentes campos humanísticos e imaginada por los
+profesores como imperativa para el Desarrollo del Pensamiento Computacional en estudiantes de
+la facultad. En el marcado de texto se practican habilidades como descomposición, generalización
+59
+y abstracción en un contexto digital muy relevante en la práctica humanística. Además, el marcado
+de texto se ha utilizado previamente para facilitar comunidades de práctica y aprendizaje para
+humanistas digitales (Green, 2014).
+Se escogió la práctica de marcado utilizando HTML porque a partir de esta práctica los estudiantes
+podrían utilizar este conocimiento tanto para la construcción de páginas web como para participar
+otros proyectos y prácticas muy importantes en las humanidades digitales, como el marcado de
+texto utilizando un formato de XML conocido como TEI.
+Basado en las propias prácticas humanísticas del investigador dentro de la facultad, se pensó que
+los estudiantes practicaran el marcado en poema de la poeta colombiana María Mercedes Carranza.
+En tanto que el archivo digital de María Mercedes Carranza es uno de los semilleros de
+investigación en humanidades digitales dentro de la facultad y que dentro de este se ha utilizado
+el marcado de texto, esta clase permitiría a los estudiantes participar en una práctica realmente
+contextualizada.
+Sesión 5: PC aplicado a Humanidades (Digital): Funciones y Parámetros. Color e Interactividad
+en p5.js
+En esta sesión los estudiantes construirían un dibujo utilizando funciones y parámetros de
+lenguajes como javascript y processing, sobretodo familiarizándose intuitivamente con la sintaxis
+de javascript. Podrán ayudarse utilizando el editor web de p5.js , que además permite guardar y
+compartir sus resultados. El propósito de este ejercicio era el desarrollo de las 5 habilidades del
+PC poniéndolas en práctica en un entorno digital generativo, que puede tener muchas aplicaciones
+en narrativas digitales y arte, además de haber sido utilizado previamente para enseñar
+programación a estudiantes de artes visuales y para visualizar datos en humanidades digitales.
+(Harris, 2017; Sarachan, 2017)
+60
+El aprendizaje de p5.js es ideal para este contexto, no sólo por su previa y amplia utilización
+en artes y humanidades (Arslan, 2018), sino por su alineación con la situación imaginada de los
+profesores, en las que fue frecuente encontrar un deseo por que los estudiantes de la facultad
+aprendieran a Usar el PC en prácticas artísticas y humanísticas para comunicar conocimiento de
+nuevas formas, como se evidencia en los siguientes apartados de sus entrevistas:
+Pr4: “Entonces es un poco lo mismo que con la grabadora, es que eso sirva el
+contenido, que la computación sirva a la narrativa, que la tecnología no es un fin en sí y
+que si usted va a aprender ciencias de la computación o hacer código o usar una grabadora
+es para que le sirva para hacer algo claro.”
+Pr2: “Que aprendan a mostrar sus contenidos de una forma no lineal, por ejemplo,
+porque la historia del arte no es lineal y aunque a uno le enseñan cronologías, pues eso no
+es así. Y otra cosa que me interesaría que aprendan cómo manifestar la sincronicidad de
+eventos en diferentes lugares del mundo.”
+Pr3: “Que tengan la posibilidad de comunicar de formas nuevas es otro interés.
+Finalmente, con todo lo que es cómo desarrollar nuevas formas de presentar el
+conocimiento, es decir, muy pocos de estos chicos se van a dedicar a la Academia, no me
+interesa, pero hagan lo que hagan, trabaje donde trabaje, puedan entender que se puede
+presentar los desarrollos de investigación en entornos distintos, es decir, generar más
+imaginación. ¿Con respecto a este tipo de cosas se presentaron? Sí, aprender a jugar con
+más narrativas.”
+Pr7: “De pronto, un proyecto multimedia interactivo… un trabajo de equipo, no de
+que una persona tuviera todas la capacidades. Para narrar digitalmente se necesita
+seguramente habilidades de programación, pero no creo que todo narrador digital tenga
+61
+que ser un programador o saber programar. Lo que tiene que saber plantear una historia de
+manera que pueda trabajar luego con un programador diciéndole: Mire, yo quisiera que
+esto narrativamente funcionara así.”
+Conocer la sintaxis de Javascript a través de p5.js, por lo tanto, no sólo desarrollará PC en los
+estudiantes, sino que cosificarán su aprendizaje al programar elementos visuales interactivos. En
+tanto que Javascript es el lenguaje predilecto en que se programan las interacciones en la web 2.0,
+los estudiantes serán introducidos a la participación en una práctica común en las artes y
+humanidades digitales: la presentación de conocimiento a través de páginas web interactivas.
+Sesión 6: PC aplicado a Arte y Humanidades utilizando p5.js: Condicionales e iteraciones.
+Reflexión final y pos-prueba.
+Durante esta sesión final, los estudiantes practicarían más programación interactiva en
+p5.js. Para esto, el profesor haría una breve introducción a dos conceptos: Condicionales e
+iteraciones (loops) en p5.js para que los estudiantes los utilicen libremente, cosificando una
+experiencia visual interactiva. Finalmente, se destinaría un tiempo de la clase para que los
+estudiantes realicen la pos-prueba y la reflexión final sobre el curso.
+62
+Situación Arreglada
+Debido a que las circunstancias específicas de una comunidad educativa no siempre permiten
+llevar a cabo la situación imaginada tal y como se pensó, son necesarias nuevas negociaciones,
+planes y acciones que se denominan organización práctica.
+Para llevar a cabo la situación imaginada propuesta, se realizó un proceso de organización práctica
+con el Centro de estudios en periodismo (CEPER), que hace parte de la Facultad de Artes y
+Humanidades. Teniendo en cuenta que el semestre académico en la universidad se divide en dos
+ciclos, cada uno con materias de ocho semanas, se planeó un curso de seis semanas que iniciara
+con los cursos de segundo ciclo del primer semestre del 2020. El curso sería voluntario, gratuito,
+y su información se difundiría entre los estudiantes de la facultad. También se pensó en un nombre
+que resumiera de alguna manera el nombre del curso y que al mismo tiempo fuera atractivo para
+los estudiantes: Algoritmos para no programadores, Pensamiento Computacional. El CEPER
+contribuyó con la creación de una pieza gráfica y su difusión entre los estudiantes del pregrado en
+narrativas digitales. De igual manera, con la ayuda de la secretaría académica de la facultad, se
+difundió la pieza gráfica entre todos los estudiantes de posgrados de la facultad, con el ánimo de
+llegar especialmente a los estudiantes de la Maestría en Humanidades Digitales (MHDIG) y la
+Maestría en Artes Plásticas, Electrónicas y del Tiempo. (MAPET)
+Sin embargo, antes de comenzar la convocatoria, la Organización Mundial de la Salud declaró el
+COVID-19 como Pandemia y por tanto la Universidad de Los Andes tomó medidas de prevención
+de contagio, entre ellas la virtualización del cien porciento de las clases y la prohibición de
+cualquier espacio académico para actividades docentes. Esto significó pensar también en la
+virtualización del curso.
+63
+Figura 2. Pieza gráfica utilizada para la difusión del curso en la Facultad de Artes y
+Humanidades.
+En un principio, no se pensó en cambiar las actividades propuestas, puesto que casi todas se podían
+hacer de manera virtual y remota. El único cambio inicial en el que se pensó fue en reemplazar la
+actividad de LEGO por una actividad de codificación y decodificación de textos en la que los
+estudiantes pudieran poner en práctica las mimas habilidades de PC que utilizarían en el ejercicio
+con LEGO: Sobretodo pensamiento algorítmico, abstracción y descomposición. Además, en tanto
+64
+que la naturaleza de las interacciones sería diferente, se pensó en que el curso virtual cumpliera
+con los aspectos esenciales que definen a una comunidad de práctica según Wenger: Un dominio
+de conocimiento común entre los participantes, una práctica compartida y una comunidad de
+aprendizaje (Wenger, 1999).
+En este caso el dominio, el campo de estudio que hace que las personas se reúnan, es el
+Pensamiento Computacional; la práctica se constituiría con las actividades que los estudiantes
+realizaran durante las clases y la comunidad de aprendizaje sería el conjunto de sujetos
+involucrados en el curso: el profesor y los estudiantes. Era imperativo que, como comunidad de
+práctica, el curso redujera el aislamiento y proveyera soporte para la conectividad social, de tal
+manera que los estudiantes participaran en el aprendizaje de sus compañeros. Una comunidad de
+práctica mediada y soportada por tecnologías digitales es denominada por Wenger como Hábitat
+Digital. (2009)
+También se pensó que cada sesión virtual debía promover la negociación de significados a través
+de dos procesos que Wenger llama Participación y Cosificación. De esta manera, los estudiantes
+darían forma a sus experiencias en clase a través de la cosificación y participarían en interacciones
+sociales con sus compañeros y con el profesor. En el diseño de Hábitats Digitales también es
+necesario tener en cuenta las polaridades, o características la cultura y los modos de interacción
+en la comunidad. (Druckenmiller & Mittleman, 2015) Se determinó entonces que las sesiones
+serían de trabajo sincrónico, que los estudiantes participarían y cosificarían y que además serían
+sesiones de trabajo individual.
+Para dar un soporte tecnológico coherente a esta comunidad de práctica virtual, se tuvo en cuenta
+el libro Digital Habitats: Stewarding Technologies for Communities, que guía la escogencia de
+tecnologías para apoyar la formación y el mantenimiento de comunidades. En el libro, escrito en
+65
+el 2009, Wenger ya menciona la capacidad de softwares actuales como Google Docs para
+promover la participación de actores en una comunidad. Por esto se escogió la plataforma Google
+Classroom, que provee acceso directo a Google Docs y también facilita diferentes formas de
+participación e interacción social como el acceso a formularios y herramientas para que el profesor
+retroalimente el trabajo de los estudiantes. Además, su uso facilitó la obtención de datos para la
+investigación.
+Una vez decididos los detalles necesarios para la virtualización del curso, se procedió a la
+convocatoria, esta vez especificando que se realizaría de forma virtual. Se inscribieron 32
+estudiantes, pero pensando en una comunidad de práctica en la que todos los estudiantes y el
+profesor pudieran participar significativamente, se pensó en un curso con un máximo de 20
+estudiantes. El criterio de selección fue el orden de inscripción.
+Los estudiantes inscritos con los que se realizó el curso fueron 14 mujeres y 6 hombres. La mayoría
+estaban inscritos en algún programa de la Facultad de Artes y Humanidades (16): Narrativas
+Digitales (9), Arte (2), Literatura (1) y Maestría en Humanidades Digitales (4). Otros 4 estudiantes
+no pertenecían programad de la Facultad de Artes y Humanidades, pero se encontraban haciendo
+alguna opción académica en la facultad o manifestaron gran interés en asistir al curso, sus
+programas principales eran Ciencias Políticas (2), Filosofía (1) y Doctorado en Administración
+(1).
+A continuación, se describirá lo acontecido en cada una de las sesiones del curso:
+Sesión 1:
+Para la primera sesión se había planeado que los estudiantes realizaran la pre-prueba durante media
+hora y que después de esto el profesor explicaría conceptos de Pensamiento Computacional con
+énfasis en las habilidades que lo componen: Abstracción, Descomposición, Pensamiento
+66
+Algorítmico, Generalización y Depuración. Sin embargo, los estudiantes utilizaron un poco más
+de una hora en realizar la prueba y por lo tanto la presentación de PC no se puedo completar.
+Varios estudiantes manifestaron dificultad en la prueba debido a que no realizaban ejercicios de
+pensamiento lógico hacía mucho tiempo. Ante esto se tomó la decisión de que se realizaría como
+máximo dos actividades por sesión además de una breve reflexión final sobre el Uso del
+Pensamiento Computacional.
+Sesión 2
+Pensando en el ritmo de los estudiantes y el corto tiempo, además de la necesidad de terminar la
+presentación sobre conceptos de PC que no se había completado la sesión pasada, se planeó para
+la segunda sesión dos actividades cortas de pensamiento computacional análogo: La codificación
+y decodificación de textos (Que reemplazaría el ejercicio con LEGO visualizado en la situación
+imaginada), y un ejercicio de literatura generativa: N+7. Se escogió la actividad de codificación y
+decodificación pensando en que sería una introducción breve para trabajar algoritmos aplicados a
+textos y que esto ayudaría a los estudiantes a entender mejor los ejercicios de literatura generativa.
+En el ejercicio cada estudiante recibía un verso diferente de un poema y debía hacer dos cosas con
+él: encriptarlo y escribir los pasos o instrucciones que alguien debería seguir para desencriptarlo.
+Después de esto, debían entregar la frase a uno de sus compañeros. Cada uno debería intentar
+decodificar el verso de un compañero por sí solo y después utilizando las instrucciones que el
+compañero había elaborado. Finalmente, cada estudiante compartiría el verso recibido en el estado
+de menor encriptación posible y se intentaría completar el poema inicial. Finalmente, los
+estudiantes debían contestar las siguientes preguntas: ¿Fueron sus instrucciones para desencriptar
+lo suficientemente claras? ¿Qué cree que hizo bien al escribirlas? ¿En qué pudo haber mejorado?
+¿Cree que una persona que no hubiera hecho parte de esta actividad podría desencriptar su verso?
+67
+En este ejercicio los estudiantes participarían en la comunidad de práctica al pensar en
+instrucciones que ejecutaría alguno de sus compañeros y también al desencriptar el verso
+encriptado por alguien más. La cosificación de la experiencia consistiría en el verso codificado, el
+algoritmo de decodificación y el verso tan decodificado como haya sido posible para cada
+estudiante.
+Contrario a lo planeado, este ejercicio tomó casi todo el tiempo de la segunda sesión. Debido a
+esto, se decidió que solamente se planearía una actividad y una reflexión para cada sesión. De
+acuerdo con el diario de campo del investigador, los estudiantes se mostraron muy motivados
+durante la actividad, manifestando especial interés por decodificar correctamente la frase del
+compañero.
+Sesión 3
+La actividad de esta sección consistió en un taller de marcado de texto utilizando HTML, que se
+realizó a través del editor web libre codepen.io. Cada estudiante recibiría un poema diferente de la
+poeta colombiana María Mercedes Carranza y debía marcarlo utilizando HTML. Además, debían
+agregar al documento un hipervínculo y una imagen. Para esto, los estudiantes contaron con
+etiquetas de marcado que el profesor había provisto en un documento. Durante el ejercicio,
+entenderían también cómo se visualizaría un texto marcado en un explorador.
+Los estudiantes participaron siguiendo las instrucciones dadas por el profesor y discutiendo su
+código final con sus compañeros y cosificaron a través del documento HTML final, que cada
+estudiante podía revisar en su propio explorador. Mientras cada estudiante trabajaba en este
+marcado de texto individualmente, el profesor ejemplificaba cómo se aplicaría el marcado de texto
+usando HTML en otro poema de Carranza. Finalmente, se introdujo a los estudiantes a los tres
+componentes principales del desarrollo web: HTML, CSS y Javascript mediante una demostración
+68
+sobre cómo aplicar estilos en CSS al documento de HTML que habían realizado. Algunos
+estudiantes aplicaron CSS a su documento final, como se ve en la Figura 3.
+Figura 3. Documentos de HTML y CSS realizados por una estudiante del curso en la sesión 3 y
+visualizados a través del editor de codepen.io
+El profesor escribió en su diario de campo que durante esta sesión los estudiantes presentaron
+algunas dificultades para entender, sobre todo, los elementos de HTML cuya función no es
+69
+propiamente el marcado de texto, sino imágenes e hipervínculos. La mayor dificultad estuvo en
+familiarizarse y recordar que etiquetas como < a > (para hipervínculos) e < img > (para imágenes)
+no necesitan un cierre, como sí ocurre con las etiquetas para texto.
+Sesión 4
+Puesto que los estudiantes ya habían tenido experiencias con codificación distintas a la
+programación, se consideró oportuno que la próxima práctica para desarrollar PC fuera a través de
+programación. Para esto, se planeó una breve introducción a p5.js en la que los estudiantes se
+familiarizarían con los conceptos de función y parámetro a través de una demostración hecha por
+el profesor seguida de un tiempo en que los estudiantes explorarían el editor de p5.js, los conceptos
+y la sintaxis de JavaScript haciendo un dibujo; la cosificación correspondiente a la sesión. Además,
+estudiantes participarían compartiendo su código y su dibujo entre ellos, explicando cómo usaron
+las herramientas para su creación. Esta discusión permitiría la negociación de significado.
+P5.js resultó ideal para las sesiones 4 y 5 debido al editor online gratuito que ofrece. Además, p5.js
+está pensado para hacer la programación accesible e inclusiva a artistas, diseñadores, educadores
+y principiantes y ha sido utilizada previamente en cursos de programación para artistas. Durante
+la sesión, los estudiantes manifestaron haber disfrutado mucho la actividad, muchos de ellos
+exploraron nuevas funciones de p5.js y experimentaron con nuevos parámetros. En la Figura 4 se
+pueden ver algunos de los dibujos finales que se obtuvieron en esta sesión.
+Sesión 5
+Las actividades que tuvieron lugar en la quinta sesión se imaginaron inicialmente para la última.
+Sin embargo, priorizando que los estudiantes tuvieran suficiente tiempo en la sesión final para
+responder la pos-prueba, se optó porque siguieran, practicando y profundizando el uso de p5.js. La
+dinámica de esta sesión fue muy similar a la de la sesión 4, una demostración de
+70
+Figura 4. Dibujos y códigos en p5.js hechos por los estudiantes en la sesión 4 del curso.
+71
+herramientas y sintaxis específicas en p5.js hechas por el profesor al inicio de la clase y un tiempo
+de práctica posterior en que los estudiantes explorarían los conceptos para crear y compartir con
+los demás. En esta clase, teniendo en cuenta que los estudiantes ya se habían familiarizado con
+conceptos básicos de JavaScript, se buscaba que conocieran y practicaran el uso de expresiones
+lógicas y condicionales, con el pretexto de programar la interacción de un usuario en un lienzo de
+dibujo, que sería la cosificación de la experiencia.
+En esta sesión los estudiantes presentaron más dificultades respecto al uso de P5.js. Sin embargo,
+fue la sesión en la que hubo más participación por parte de los estudiantes, ayudándose
+Figura 5. Códigos en p5.js y lienzos de dibujo creados por estudiantes en la sesión 5.
+72
+mutuamente y revisando sus respectivos códigos. La dificultad mayor fue la ubicación espacial en
+el lienzo, que puede relacionarse con competencias como coordinalidad y ubicación espacial en el
+plano cartesiano y que se practica sobre todo en las ciencias exactas, antes que en las artes y
+humanidades. En la Figura 5 se presentan algunos de los resultados de esta sesión.
+Debido a que los estudiantes utilizaron más de una hora para hacer la pre-prueba, se pensó para
+esta última sesión una introducción breve al concepto de loop o bucle en JavaScript y una breve
+puesta en práctica por parte de los estudiantes. Seguido a esto, se dispuso un tiempo de una hora
+para realizar dos actividades: La pos-prueba y una reflexión breve respecto al curso. Sin embargo,
+fue notable que ningún estudiante tardó más de 40 minutos en terminar la prueba.
+Como se mostró en la descripción de cada sesión, durante el curso se utilizó una recolección de
+datos mediante diferentes métodos: pre y pos prueba, reflexiones después de cada actividad,
+reflexión final y diario de campo del investigador. Las reflexiones y las pruebas permiten conocer
+las percepciones y procesos de los estudiantes mientras que el diario de campo del profesor provee
+detalles desde otro punto de vista. (Merriam & Tisdell, 2015) Las preguntas de las reflexiones
+buscaban indagar sobre el Uso de habilidades de Pensamiento Computacional, así como la pre y
+pos pruebas pueden dar cuenta del Desarrollo de Pensamiento Computacional durante el curso.
+Resultados
+Durante el curso, los estudiantes progresaron en la identificación del Uso de habilidades de
+pensamiento Computacional. En un principio, no identificaban el significado de cada habilidad, o
+confundían sus nombres e inventaban nuevos. Por ejemplo, al preguntarles sobre uso del PC en la
+sesión 2, durante el ejercicio de codificación y decodificación, dijeron:
+Est 19: “Creo que pensamiento algorítmico porque tratamos de seguir unos pasos
+o encontrarlos para llegar a una solución.”
+73
+Est 7: “Pensamiento algorítmico, porque nos guiamos de instrucciones y
+depuración, porque es utilizada para asegurar que las soluciones algorítmicas son
+adecuadas.”
+Est 8: “Descomposición, ya que tanto para hacer mi frase como para tratar de
+entender la de la compañera, tuve que dividir los tipos de signos en categorías (si eran
+letras, números, símbolos). También puede decirse que abstracción ya que, al escribir mis
+instrucciones, unifiqué tres símbolos en una ecuación. Eso significa que, con un proceso
+sencillo, la persona puede extraer rápidamente tres símbolos.”
+Est 16: “Simbolismo, ya que x cosa significa y .”
+Est 17: “Deconstrucción, porque hay que ir entendiendo cada carácter. No se puede
+entender toda la palabra de una sola. No recuero bien la habilidad específica para crear
+como tal un algoritmo, pero esa también se pone en practica al escribir las instrucciones
+para desencriptar el mensaje. Había que delimitar las opciones que uno tenía para traducir
+la palabra.“
+Est 18: “Abstracción: porque de algo que no tiene “forma” logra obtener una
+imagen, en este caso logré decodificar la frase dado que interprete el patrón que se ve sin
+sentido y le di sentido. Patrones: en muchos casos la des-encriptación lleva patrones que
+se repiten para las letras, así que si se descifra el patrón de descubre la frase.”
+En la siguiente sección, después de la actividad de marcado de texto en HTML, algunos estudiantes
+pudieron identificar correctamente el uso de descomposición y abstracción. Sin embargo, no todos
+identificaban el pensamiento algorítmico como la capacidad de resolver un problema utilizando
+una serie de pasos cuidadosamente determinados:
+74
+Est 2: “Creo que hoy utilicé mucho, la descomposición, el pensamiento algorítmico
+y la abstracción. Al intentar organizar en mi cabeza cómo iba a quedar la página organizada
+gracias a las etiquetas como head y body.”
+Est 5: “Pensamiento algorítmico, porque le estábamos dando instrucciones al
+programa sobre qué hacer y cómo poner los textos y también abstracción porque buscamos
+alternativas para los problemas como al cambiar los tipos de letra. “
+Est 14: “Pensamiento Algorítmico: En la clase de hoy trabajamos con el lenguaje
+HTML y desarrollamos pensamiento algorítmico en la medida que tuvimos que utilizar
+comandos para poder poner un titulo, párrafos y otras ediciones.
+Abstracción: Esta habilidad se denotó específicamente, cuando utilizamos el comando de
+<head></head> pues es un comando que se utiliza para guardar información que no se
+visualiza. Es decir, es la parte interna del funcionamiento.
+Asimismo utilizamos la habilidad de descomposición pues para la visualización del poema
+se descompuso la estructura del texto.”
+En la sesión 4, después de la actividad de utilizar comandos de p5.js para hacer un dibujo,
+identificaron correctamente el uso de habilidades como abstracción, pensamiento algorítmico y
+descomposición. Aparecieron también relaciones con otras habilidades que no habían sido
+mencionadas en reflexiones anteriores, evaluación y descomposición:
+Est 1: “Abstracción, ya que extraje la información de referencia de p5js para
+ayudarme a hacer el dibujo . También descomposición por los triángulos equiláteros que
+75
+cambié al alterar los valores de x,y para crear los rayos del sol. Pensamiento algorítmico
+ya que yo asigné las instrucciones para que el dibujo fuera posible.”
+Est 6: “Pienso que en este ejercicio entran todas las habilidades, fue necesario
+abstraer, descomponer, generalizar y por supuesto dar ordenes al programa en forma
+organizada.”
+Est 10: “Depuración y pensamiento algorítmico porque le estábamos dando
+instrucciones al programa de como hacer las formas que queríamos con las coordenadas de
+donde lo queríamos posicionado y el color.”
+Est 11: “Utilicé la abstracción y la generalización al asimilar la información que
+nos dio el profesor, descomposición y pensamiento algorítmico al tratar de crear nuestro
+propio dibujo y debugging al corregir algunos errores que surgieron en el procedimiento,
+para lograr el resultado final.”
+Est 1: “Utilicé mucha abstracción y descomposición ya que tenía que imaginar en
+mi cabeza los pixeles para acomodar las figuras, sobre todo los triángulos. También el
+pensamiento algorítmico ya que tenía que pensar "si doy esta orden pasará esto y aquello",
+nunca me había concentrado tanto. “
+En la sesión 5 los estudiantes ya identificaban que para realizar los ejercicios se utilizaban todas
+las habilidades y además podían asociar correctamente las habilidades con su significado y además
+asociarlas a un uso específico durante la sesión:
+Est 9: “La principal habilidad que utilizamos fue el pensamiento algorítmico,
+porque le dimos instrucciones al p5js de cómo queríamos que funcionara el programa,
+76
+debugging, en donde nos aseguramos de que las soluciones fueran las adecuadas y
+abstracción, porque pudimos aplicar los conocimientos de la clase pasada y pudimos
+programar los algoritmos más fácilmente.”
+Est 12: “Me parece que trabajé la generalización (condicionales), evaluación
+(prueba y error), la abstracción (funciones) y el pensamiento algorítmico (repetición de
+funciones).
+Est 18: Mucho pensamiento algorítmico y descomposición porque cada parte del
+código era una parte del preview y si no lo descomponías, no podías entender qué estaba
+mal o por qué no funcionaba bien. “
+Finalmente, este progreso se confirma con algunas de las respuestas en la reflexión final. Cuando
+se les preguntó: ¿Considera que los ejercicios realizados abordaron las cinco habilidades del
+Pensamiento Computacional?¿Por qué? Muchos pudieron identificar el significado de una o
+varias habilidades y asociarlo con un uso, incluso para identificar cuáles fueron utilizadas más que
+otras:
+Est 2: “Creo que, todas las áreas fueron abordadas, aún así, considero que la de
+depuración no fue tan profunda.”
+Est 3: “Sí. En general cada ejercicio requería una o varias de estas habilidades. En
+el conjunto de los ejercicios realizados se abordaron todas. Además, los ejercicios
+exigieron poner en práctica estas habilidades en contextos diferentes, es decir, para tratar
+de solucionar problemas diversos.”
+Est 9: “Si, el intentar imaginar todo lo que sucede para que las funciones que uno
+coloca en código se ejecuten hace que utilices cada una de las habilidades, en el caso de
+solo escribir el código se usa mucho la abstracción, luego el pensamiento algoritmo cuando
+77
+pongo el paso a paso del código para que funcione, cuando descompongo por fracciones
+para comprender qué estoy digitando o cuando hago una depuración para averiguar el error
+que no me permite continuar con la programación. “
+Est 10: “Sí, considero qué los distintos ejercicios con los lenguajes de programación
+abarcaron las cinco habilidades del pensamiento computacional. Abstracción, porque
+aprendimos códigos qué eran funcionales, pero qué realmente no se visualizaba al
+momento de ejecutar. Pensamiento algorítmico porque tocaba seguir cierta estructura al
+momento de correr un código y que funcionara. Descomposición, fue necesario para ver
+cual parte del código era la qué generaba el fondo, la qué generaba la figura y demás.”
+Respecto al uso de Pensamiento Computacional en sí, que es definido frecuentemente como una
+aproximación sistemática a la resolución de problemas, los estudiantes también identificaron un
+uso frecuente. Al preguntarles: ¿Cree que este curso ayuda al desarrollo o aumento de la
+capacidad de resolver problemas?, contestaron:
+Est 2: “Si, este curso me ayudó a entender y abordar los problemas desde otra
+perspectiva.”
+Est 4: “Sí. Las habilidades ejercitadas se pueden poner en práctica en muchos otros
+contextos, no sólo computacionales.”
+Con el objetivo de obtener información sobre la percepción del uso de PC en contextos creativos,
+también se les preguntó ¿Cree que este curso ayuda al desarrollo o al aumento de la creatividad?
+Los estudiantes identificaron que utilizar nuevas herramientas, siempre y cuando se usen de
+manera comprensiva, puede ayudar al desarrollo de la creatividad:
+78
+Est 1: “Sí, ya que se dan las herramientas y se brinda el conocimiento para tener
+base para crear, pero la creación es libre por lo que las capacidades de creación son
+infinitas.”
+Est 2: “Sí, ya que es una nueva herramienta, diferente a las tradicionales, con la que
+se puede ser creativo.”
+Est 3: “Como primer módulo, no mucho, siempre estamos condicionados a saber
+cómo funcionan los comandos, y crear una figura o combinar los mismos comandos es algo
+un poco enredado si uno apenas le coge el tiro a que significa y cómo funciona cada palabra
+o letra o espacio con el tiempo y a practica se pueden crear más cosas. Toma tiempo y
+práctica entender los comandos pero es muy útil para luego entender que todas las
+habilidades están siendo utilizadas y que todas son un conjunto, se pueden crear cosas muy
+útiles con estos pocos comandos y es fácil hacerlo cuando uno entiende lo básico y lo
+práctica.”
+Se evidencia entonces que durante el curso los estudiantes identificaron el Uso del Pensamiento
+Computacional en las actividades de cada sesión, especialmente en prácticas humanísticas como
+el marcado de texto y uso de expresiones regulares y prácticas artísticas como la creación y el
+dibujo. Además, se demostró que mejoraron en la identificación de las habilidades del PC
+conforme el curso avanzaba.
+Desarrollo del Pensamiento Computacional
+Para analizar el Desarrollo del Pensamiento Computacional durante el curso, se hará una
+triangulación utilizando las reflexiones de los estudiantes y los resultados de las pre y pos pruebas.
+Se mostrará que los estudiantes consideran que el curso les permitió desarrollar pensamiento
+79
+computacional y que además las pruebas muestran un aumento significativo en el desempeño de
+los estudiantes a la hora de identificar las habilidades de PC y resolver problemas.
+Los estudiantes desarrollaron un sentido de reflexión sobre su propia capacidad de resolver
+problemas. En la Sesión 3, por ejemplo, identificaron la importancia de la claridad y minuciosidad
+en la escritura de instrucciones:
+Est 7: “Aunque las instrucciones del profesor fueron claras, la frase encriptada no
+tenía las suficientes instrucciones de su creador para poder descifrar la frase.”
+Cuando se les preguntó: ¿Cree que el proceso de reflexión es útil en este curso? Varios estudiantes
+consideraron el proceso de reflexión importante para entender algoritmos y programas, así como
+para la resolución de problemas. También identificaron la reflexión como una forma de mejorar
+sus prácticas durante el curso:
+Est 2: “Sí, ya que es necesario para utilizar los elementos aprendidos y explorar
+nuevas cosas en programación.”
+Est 3: “Claro, muchos no pueden estar entendiendo que está haciendo cada
+algoritmo respectivamente, u otros habrán encontrado otra forma de resolver el ejercicio
+de una forma más óptima.”
+Est 4: “Es esencial, ya que, si bien hay elementos que se repiten en la forma en la
+que se solucionan algunos problemas, cada uno de ellos requiere una reflexión acerca de
+las formas específicas en las que debe o puede ser solucionado.”
+Est 5: “Sí, porque en los ejercicios tuvimos que descomponer lo que queríamos en
+líneas de código, abstraer nuestras instrucciones y conceptos a código, revisar los errores
+si el código no corría como esperábamos.”
+80
+Est 9: “Súper útil, dado que con este ejercicio puedo determinar que me hace falta
+reforzar o aprender.”
+En tanto que algunos investigadores definen el pensamiento computacional como la habilidad para
+comunicar una serie de pasos para resolver un problema de una forma tan clara y sencilla que
+incluso un computador pueda ejecutarla (J. M. Wing, 2014), los estudiantes respondieron que
+habían aprendido nuevos lenguajes para comunicarse y que sí podrían comunicarse mejor al haber
+ganado un mejor entendimiento sobre computación:
+Est 2: “Sí, ya que se entiende mejor, el funcionamiento de los computadores y esas
+tecnologías, elementos usados para la comunicación de hoy en día.”
+Est 5: “Sí, escribir en código obliga a pensar en formas claras y precisas de dar
+instrucciones, eso puede resultar en una mejora en las habilidades comunicativas. “
+Est 6: “Sí, porque el curso se centra en el lenguaje que dependerá de volver
+autónomo a un medio, que a su vez intercambiará con más personas.”
+Estos resultados coinciden con que, a lo largo del curso, el rendimiento de los estudiantes en las
+pruebas que evaluaban conocimiento sobre habilidades de PC y habilidad para resolver preguntas
+y problemas específicos relacionados con PC presentó una mejora notoria y estadísticamente
+significativa. En la pre prueba el promedio de respuestas correctas sobre un total de 15 posibles
+fue de 5.33, con una desviación estándar de 2.33. La puntuación más alta en la pre prueba fue de
+9 y la más baja de 3. En contraste, el promedio de respuestas correctas de la pos prueba fue de 9.2
+con una desviación estándar de 2.34. La puntuación más alta esta vez fue de 13 y la más baja de
+5. Además, al aplicar una prueba-T pareada para diferencia de medias muestra una diferencia
+significativa con un valor de T(14)= 4.4 y un p-valor de 0.001. Las respuestas a las preguntas
+abiertas fueron evaluadas utilizando rúbricas de evaluación creadas por el investigador conforme
+81
+a la completitud de cada respuesta y a la identificación de las habilidades del Pensaiento
+Computacional.
+Figura 6. Representación de los resultados de la Pre-prueba y la Pos-Prueba. La prueba-t pareada
+muestra un aumento significativo en el desempeño de los estudiantes para resolver problemas y
+responder preguntas relacionadas con PC.
+Así, las reflexiones de los estudiantes y las pruebas permiten evidenciar un Desarrollo del
+Pensamiento Computacional durante el curso. Una vez descrita la Situación Arreglada y
+demostrados los lugares de las dos categorías en el conjunto de actividades realizadas durante el
+curso, es necesario reflexionar a la luz de la situación imaginada y los objetivos propuestos. Estos
+análisis y reflexiones ocuparán los siguientes capítulos.
+82
+Razonamiento Exploratorio
+El razonamiento exploratorio consiste en una reflexión analítica de la situación imaginada en
+contraste con las experiencias vividas en la situación arreglada. En este proceso se reconsidera la
+viabilidad de la imaginación pedagógica, teniendo en cuenta los aspectos innovadores de la
+situación arreglada. En este estudio, debido a la virtualización del curso a causa de la pandemia
+del COVID-19, la situación arreglada fue muy diferente a la situación imaginada, por lo que fue
+necesario considerar esta circunstancia a la hora de contrastar las dos situaciones.
+Un aspecto de análisis relevante tanto para el Uso de prácticas de PC en prácticas humanísticas y
+artísticas como para el Desarrollo de Pensamiento Computacional fue que los estudiantes tardaron
+mucho más tiempo en cada actividad del que se había pensado en la situación imaginada, obligando
+a modificar el número de actividades realizadas, así como su velocidad. En la situación arreglada
+se realizaron menos ejercicios de los que estaban planeados en la situación imaginada, suprimiendo
+por ejemplo todos los ejercicios de literatura generativa. Respecto a esto, en conversaciones con
+Carola Hernández, hablamos de cómo es muy importante tener presente que el aprendizaje es más
+lento de lo que los profesores pensamos al diseñar ambientes de aprendizaje: “Quien es experto
+olvida la dificultad del novato”. Se infiere entonces que es necesario un curso más largo,
+posiblemente de ocho semanas o más, para que se realicen todas las actividades planeadas y se
+consoliden aprendizajes más solidos. También es importante reconsiderar el formato de una sesión
+semanal, puesto que un curso de dos sesiones semanales también significaría más tiempo para
+realizar todas las actividades y que los estudiantes transiten adecuadamente entre usar el PC
+desconectado y la práctica de programación.
+Respecto al Uso de Pensamiento Computacional en prácticas humanísitcas y artísticas, los
+estudiantes destacaron, entre varios aspectos positivos del curso, la naturaleza experiencial de las
+83
+actividades, en la que los estudiantes ponían en práctica lo aprendido y en efecto usaban el PC en
+contextos artísticos y humanísticos:
+Est 1: “El método de aprender que era no sólo mostrando sino haciendo. Cuando
+algo no salía como se esperaba al poner a correr el programa, a través de compartir pantalla
+el profesor podía ver en qué se estaba equivocando uno. Tampoco se trataba de reglas sino
+más bien bases que permitieron desarrollar los ejercicios con efectividad.”
+Est 2: “La manera de explicar del profesor y el funcionamiento y contenido de la
+clase.”
+Est 4: “Lo bueno es que se introdujo a los participantes al pensamiento algorítmico
+y computacional desde sus más básicos conceptos. Es innovador en el sentido de tener a
+alguien muy pendiente del progreso individual en un ambiente virtual.”
+Est 9: “Sin duda creo que lo más innovador fue que este curso no se enfocó en
+alguna nota cuantitativa o cualitativa. Eso demostró que quienes asistían y subían las
+actividades no lo hacían porque dependían de una nota, si no porque de verdad les gustaba
+aprender del tema. En mi caso, sentí que realmente aprendí.”
+Estas reflexiones permiten pensar que, a pesar de la necesidad de virtualización del curso, se logró
+empezar a crear una comunidad de práctica en la que los participantes compartían un dominio del
+conocimiento y ejercían unas prácticas dentro de una comunidad. Esto también se confirma al
+indagar sobre la pertinencia del curso y la voluntad de tomarlo si tuviera una duración de un
+semestre. Al respecto, los estudiantes estuvieron de acuerdo en que el Uso de Pensamiento
+Computacional sería útil en sus campos de estudio, y que un curso más largo podría facilitar una
+comprensión más profunda:
+84
+Est 1: “Al ser narradora digital considero de gran importancia estar relacionada no
+solo con las distintas plataformas digitales sino como estas funcionan en un sentido más
+profundo y técnico. En ese sentido, esta clase logra esto. No sólo la recomendaría por lo
+útil sino por la manera en que se presentan los conceptos que considero que jugaron un
+gran papel en que yo lograra entender lo que enseñaba.”
+Est 2: “Considero que sí tendría un efecto positivo. Me gustaría hacerlo y lo
+recomendaría. Me parece necesario para la nueva carrera de los andes, narrativas digitales.”
+Est 3: “Sí, sería útil y me gustaría. La actividad de escribir y cambiar el formato de
+letra agrandar la imagen, que hicimos con el poema sería muy útil para uno recurrir como
+alternativa innovadora a un ensayo, le permitiría a uno crear una página o una columna o
+blog de forma personalizada y eficiente y no recurrir a los programas o plantillas de
+internet. Aunque explica comando básico, es muy útil cuando uno va a hacer otro curso de
+programación o quiera aplicar su conocimiento en otras áreas. Si fuera un curso presencial
+sería útil seguir con la modalidad de compartir pantalla, pues a veces uno se pierde o se
+demora en copiar el comando y que esté en la pantalla ayuda a no perder el hilo.”
+Est 4: “Sí, lo haría, sería muy pertinente para mis intereses académicos y
+profesionales. Lo recomendaría a las personas que siempre han querido aprender a
+programar y no han tenido la oportunidad de hacerlo por fuera de ambientes no
+necesariamente ingenieriles.”
+Est 5: “Sí, lo recomendaría, las personas de humanidades tendemos a asumir que
+no se nos dan bien este tipo de cosas sin intentarlas siquiera y pueden resultar ser
+herramientas muy útiles, entonces un curso de este tipo es una buena forma de acercarse a
+los temas.”
+85
+Est 6: “Me gustaría y lo recomendaría, ya que considero que se debe tomar un curso
+más extenso para entender mucho más la programación.”
+Est 7: “Lo recomendaría en absoluto. Creo que profundizar más sobre los temas de
+computación ayudan a comprender el panorama digital.”
+Est 8: “Sí tendría un efecto positivo porque de esta forma podríamos tener un
+manejo más completo de las herramientas y podríamos entender más a fondo cómo
+funciona el pensamiento computacional. Me gustaría hacer el curso para tener un
+conocimiento más completo del tema y lo recomendaría a mis compañeros para qué
+también lograran aprender la importancia que la programación tiene en nuestra carrera.”
+Est 9: “Lo amaría hacer y desde mi campo sería bastante útil ya que necesito saber
+programar para algunas de las materias de mi carrera. Asistiría con todo el gusto y claro
+que se lo recomendaría a todos mis amigos. Programar es muy importante en estos
+tiempos.”
+Est 12: “Si, considero qué sería un curso qué dejaría muchas enseñanzas positivas
+puesto qué algunas veces no estamos expuestos a lenguajes de programación concretos.
+Nos ayuda a abstraer nuestros pensamientos y a pensar de manera organizada.”
+Por otro lado, en relación con el Desarrollo del Pensamiento Computacional surgieron varias
+reflexiones. En primer lugar, la situación imaginada se había pensado para que las actividades
+constituyeran una transición desde el uso de PC en contextos desconectados (Unplugged) hacia
+contextos más digitales, como el marcado de texto, para finalmente introducir a los estudiantes a
+entornos de programación. Debido a la virtualización del curso, todos los ejercicios tuvieron que
+ser mediados por computadores o entornos digitales de alguna manera.
+86
+La necesidad de más tiempo para un mejor Desarrollo fue ampliamente notada por los estudiantes.
+Al preguntarles por aspectos en los que el curso podría mejorar, señalaron que se necesitaría más
+tiempo para comprender las actividades a profundidad y también para realizar más ejercicios y
+seguir profundizando:
+Est 1: “Que durara más tiempo porque siento que hay mucho por aprender, pero fue
+un buen abrebocas de lo que es la programación.”
+Est 2: “Poco contenido visto debido a la corta duración del curso.”
+Est 3: “Aunque con el tiempo se entiende cada comando, las indicaciones de
+“peguen esto”, “esto significa esto”, de pronto no es tan eficiente para el conocimiento que
+se busca aplicar en el futuro, si uno entiendo cómo se creo ese comando o aun mas paso a
+paso cómo afecta en la cuadrícula, el conocimiento aplicado sería un poco más eficaz. Es
+decir, si los comandos del círculo tienen X y Y tamaño y los vamos revisando uno a uno;
+sería pertinente explicar todas las palabras que vamos a utilizar como primer módulo
+también.”
+Est 7: “Se podrían agregar más clases.”
+Est 9: “En general sólo podría decir que, si se alarga un poco más el curso y se
+pueden ver más temas, sería perfecto.
+Est 10: “Profundizar más y hacer mas ejercicios. creo qué el curso estuvo chévere.
+Sería interesante profundizar más y hacer nuevos retos.”
+También manifestaron dificultad en la comprensión de coordenadas cartesianas durante los
+ejercicios de p5.js, por lo que sería pertinente pensar en explicaciones previas a estos ejercicios en
+los que los estudiantes puedan familiarizarse con el plano cartesiano.
+87
+Respecto a los aspectos innovadores del curso, el profesor escribió en su diario de campo que los
+estudiantes se mostraron muy motivados durante el ejercicio de codificación y durante el ejercicio
+de programación de interacciones con p5.js, y que manifestaron en varias ocasiones un gusto por
+los retos. Este es un detalle notable porque la estrategia de proponer ‘retos’ o competencias podría
+estudiarse posteriormente para desarrollar PC, puesto que estas actividades permiten a los
+estudiantes practicar la resolución de problemas en diferentes contextos; justamente lo que el PC
+es.
+Los hallazgos en las reflexiones de los estudiantes se alinean con investigaciones que proponen el
+desarrollo de PC a través de actividades ‘desconectadas’ para motivar a niños con respecto a la
+programación y ciencias de la computación. (Jiang & Wong, 2018) Sin embargo, si se quisiera
+determinar la motivación de estudiantes de artes y humanidades en un curso de pensamiento
+computacional, debería plantearse un estudio que utilice instrumentos previamente utilizados en
+educación superior, por ejemplo, los que investigadores han usado para determinar la autoeficacia
+de estudiantes en cursos introductorios de programación. (Gorson & O’Rourke, 2019) Esto
+también atendería a las sugerencias de los estudiantes sobre un curso con las dinámicas propuestas,
+pero de una duración más extensa: Un siguiente paso de iteración en la investigación crítica podría
+ser un curso con la duración de un semestre en el que se determine la motivación de los estudiantes
+en diferentes momentos. Así, los resultados de esta investigación respaldan a estudios
+mencionados en la situación inicial al sugerir que actividades de aprendizajes contextualizadas a
+las prácticas de artistas y humanistas podrían en efecto motivar a los estudiantes y facilitar el
+desarrollo de PC. (Tew et al., 2005).
+Además, si bien el objetivo de este estudio era determinar el uso y el desarrollo de PC en la facultad
+de artes y humanidades para proponer un curso, la posibilidad de pensar en que artistas y
+88
+humanistas se formen como programadores se inscribe dentro de un campo emergente en los
+estudios de educación computacional: La ampliación de la participación. No solo esto, sino que
+configuraciones específicas de las actividades propuestas ya han comenzado a ser utilizadas en
+enfoques de aprendizaje como STEAM, que justamente plantea la posibilidad de incluir las artes
+dentro de ambientes de aprendizaje de ciencias, tecnología, ingeniería y matemáticas. (Madden et
+al., 2013) Esta investigación se une a otros estudios que denotan la importancia de experiencias
+desconectadas y tangibles, así como momentos de programación, a la hora de diversificar y ampliar
+la participación en ciencias de la computación e ingeniería. (M. Horn et al., 2020; M. S. Horn et
+al., 2020) Si bien dichos estudios se han concentrado en promover la participación de niños en
+educación básica y secundaria, esta investigación propone que cursos con actividades tangibles y
+digitales también pueden ser utilizados en educación superior.
+En síntesis, tanto el Uso de Pensamiento Computacional en prácticas humanísticas y artísticas
+como el Desarrollo del Pensamiento Computacional podrían optimizarse en un curso de mayor
+duración y en modalidad blended, con actividades presenciales y virtuales de tal manera que se
+diversifiquen las formas de participación y cosificación. Así, se podría llevar a cabo una transición
+lenta entre ejercicios ‘desconectados’ y programación de computadores, de tal manera que los
+estudiantes puedan familiarizarse sólidamente con los conceptos y las prácticas del PC para que
+puedan usarlas efectivamente en contextos artísticos y humanísticos.
+89
+Conclusiones
+Se puede concluir que se cumplió el objetivo propuesto al lograr identificar que un curso centrado
+en el estudiante, en el que ocurre negociación de significado a través de participación y
+cosificación, es efectivo para desarrollar Pensamiento Computacional en estudiantes de Artes y
+Humanidades.
+Respecto a los objetivos específicos, se concluye que existen diversas prácticas dentro de las artes
+y las humanidades que pueden incluirse efectivamente dentro de las actividades de un curso que
+pretenda desarrollar Pensamiento Computacional. Se observó que los profesores identifican,
+dentro de estas prácticas, sobretodo el trabajo con datos y con softwares de edición de medios así
+como el aprendizaje de expresiones regulares en lenguajes de programación y marcado de texto.
+Esta investigación documenta la efectividad del uso efectivo de otras prácticas para desarrollar PC,
+específicamente: el marcado de textos literarios utilizando HTML y CSS, que se utiliza
+ampliamente en investigaciones de Humanidades Digitales y en la creación de páginas web y el
+aprendizaje de sintaxis de JavaScript utilizando p5.js, que se relaciona con prácticas artísticas
+como la computación creativa y prácticas humanísticas como la creación de herramientas y
+aplicaciones interactivas para la comunicación de conocimiento humanístico.
+Adicionalmente, como se documenta en los tres capítulos correspondientes a las situaciones que
+describe la metodología de investigación crítica utilizada, se logró cumplir con el objetivo
+específico de diseñar, implementar y evaluar un curso que desarrolle PC en estudiantes de artes y
+humanidades.
+Trabajos que documentan el desarrollo de Pensamiento Computacional en contextos humanísticos
+y artísticos describen la efectividad de herramientas como p5.js entre otras, pero este trabajo da
+luces sobre su efectividad en un curso pensado desde la teoría socio-cultural del aprendizaje. Así,
+90
+los hallazgos de este trabajo podrían articularse con literatura que documenta el uso pedagógico
+de herramientas como The Programming Historian, que contiene muchas prácticas en las que se
+relaciona programación con humanidades, o proyectos como Scratch, Processing, COBO y P5.js,
+pensados para enseñar programación a artistas para que así se formen nuevas y más amplias
+comunidades de práctica en las que los estudiantes reflexionen críticamente sobre el desarrollo de
+habilidades del Pensamiento Computacional.
+Finalmente, este trabajo evidencia el uso la investigación crítica y el análisis de datos cualitativo
+como una metodología sólida para investigaciones que pretendan ser base de transformaciones
+educativas. Por lo tanto, se puede utilizar en investigaciones futuras que apunten a diversificar la
+participación en prácticas computacionales, de tal manera que artistas y humanistas se vean cada
+ves más inmersos en ellas.
+91
+Reflexión Final
+Durante esta investigación reflexioné sobre las transformaciones educativas que trae la aparición
+de nuevos campos interdisciplinares de estudio como las Humanidades Digitales. Uno de los
+primeros entendimientos que tuve fue que las Humanidades Digitales son una comunidad de
+práctica. La conforman un grupo de personas con un dominio común —El uso de la computación
+para la investigación y comunicación humanística—, que comparten prácticas interactuando entre
+sí. Durante la maestría, y sobre todo en esta investigación al preguntarme por el Uso de
+Pensamiento Computacional en las prácticas artísticas y humanísticas, encontré que las prácticas
+de las Humanidades Digitales son múltiples, heterogéneas, y que hay muchas formas distintas de
+participar en ellas: Un humanista digital puede participar investigando, leyendo, reuniendo datos
+o programando. No obstante, el debate sobre la importancia de que estas formas de participar se
+diversifiquen y que la cada vez más humanistas puedan desarrollar tecnologías computacionales
+seguirá siendo relevante en contextos como la facultad de artes y humanidades, que con sus
+programas pretende preparar a sus estudiantes para muchas prácticas distintas.
+Así, al conversar con los profesores de la facultad y leer a autores como David Berry (2017) me
+pregunté qué tan necesario sería que los estudiantes de la facultad aprendieran programación, y
+para qué prácticas de las artes y humanidades es realmente necesario saber programar. Tanto los
+profesores como la literatura apuntaban a lo mismo: Antes que pretender formar programadores
+hábiles, los estudiantes de artes y humanidades deben tener un conocimiento básico sobre
+computación, de tal manera que quienes quieran formarse como programadores no encuentren
+tanta dificultad y quienes no, tengan insumos suficientes para participar en equipos
+interdisciplinarios de creación o investigación. El concepto de Pensamiento Computacional se
+acomoda a esta necesidad porque comprende las habilidades que normalmente se alcanzan
+92
+mediante el aprendizaje de programación, pero abre las posibilidades a muchas actividades y
+prácticas distintas. Además, como dice Berry, el Pensamiento Computacional es la base de muchas
+prácticas de las Humanidades Digitales, no sólo de la programación.
+En el curso que desarrollé en este proyecto propongo el desarrollo de Pensamiento Computacional
+comenzando mediante actividades que no implican programación, introduciendo lentamente a los
+estudiantes al uso de herramientas digitales, donde sí comenzarán a programar poco a poco. Esta
+transición desde lo análogo a lo digital se alinea con trabajos como el de Francisco Buitrago (2018)
+y varios otros autores, que han descubierto formas ‘apartadas, o desconectadas de los
+computadores’ para desarrollar Pensamiento Computacional. Sin embargo, hallé que es necesario
+un curso más largo, con componentes tanto virtuales como presenciales, en el que el aprendizaje
+pueda ocurrir más lentamente y los estudiantes puedan tener contacto con más prácticas
+humanísticas o artísticas que les ayuden a afianzar aún más habilidades como abstracción,
+pensamiento algorítmico, generalización, depuración y descomposición.
+Considero que la metodología de investigación crítica utilizada, que busca comprender los
+contextos educativos para transformarlos, es esencial para la consolidación de campos como las
+Humanidades Digitales pues permite imaginar y experimentar con nuevas prácticas educativas que
+formen nuevas comunidades de práctica interdisciplinares. Hace falta seguir iterando, imaginando
+y ensayando críticamente nuevas formas para que artistas y humanistas desarrollen Pensamiento
+Computacional.
+Es recomendable que nuevos ensayos utilicen lo encontrado en este trabajo, que entiendan el
+aprendizaje como un proceso social en que los estudiantes participan y cosifican sus experiencias
+mientras se familiarizan con usos prácticos del Pensamiento Computacional en artes y
+humanidades. Con los resultados de esta investigación sugiero que el desarrollo de Pensamiento
+93
+Computacional en la facultad no ocurra solamente a través del trabajo con datos o la utilización de
+softwares de edición, sino también mediante el uso de la computación como un medio expresivo
+y creativo, de tal manera que los estudiantes no solo se formen a través de la crítica y el análisis
+de ‘lo digital’, sino también creando herramientas, plataformas, aplicaciones y métodos
+computacionales.
+Programas como la Maestría en Humanidades Digitales constituyen una oportunidad para pensar
+una educación computacional más accesible a todas las disciplinas del conocimiento, lo cual será
+cada vez más imperativo. Las instituciones educativas pueden seguir transformándose, a través de
+procesos como esta investigación, para que cada vez los artistas y humanistas participen de
+múltiples maneras en la cultura digital y computacional.
+94
+Bibliografía
+Ahmadzadeh, M., Elliman, D., & Higgins, C. (2005). An analysis of patterns of debugging among
+novice computer science students. 84–88.
+Arslan, E. (2018). Learn JavaScript with P5. Js: Coding for Visual Learners. Apress.
+Bell, J., & Bell, T. (2018). Integrating Computational Thinking with a Music Education Context.
+Informatics in Education, 17(2), 151–166.
+Berry, D. M. (2012). Introduction: Understanding the Digital Humanities. In D. M. Berry (Ed.),
+Understanding Digital Humanities (pp. 1–20). Palgrave Macmillan UK.
+https://doi.org/10.1057/9780230371934_1
+Berry, D. M., & Fagerjord, A. (2017). Digital humanities: Knowledge and critique in a digital
+age. John Wiley & Sons.
+Brennan, K., & Resnick, M. (2012). New frameworks for studying and assessing the development
+of computational thinking. 1, 25.
+Bruce, K. B. (2004). Controversy on how to teach CS 1: A discussion on the SIGCSE-members
+mailing list. In Working group reports from ITiCSE on Innovation and technology in
+computer science education (pp. 29–34).
+Buitrago Flórez, F., Casallas, R., Hernández, M., Reyes, A., Restrepo, S., & Danies, G. (2017).
+Changing a generation’s way of thinking: Teaching computational thinking through
+programming. Review of Educational Research, 87(4), 834–860.
+Buitrago Flórez, F. J., Hernández Hernández, C., Castro Barrera, H. E., & Mendoza García, J. A.
+(2018). Designing, implementing and evaluating, a first step approach for computational
+thinking development in novice students [Uniandes]. WorldCat.org.
+http://biblioteca.uniandes.edu.co/acepto201699.php?id=17463.pdf
+95
+Crymble, A. (2012). The programming historian.
+Curzon, P., Dorling, M., Ng, T., Selby, C., & Woollard, J. (2014, June). Developing computational
+thinking in the classroom: A framework [Monograph]. Computing At School.
+https://eprints.soton.ac.uk/369594/
+Denning, P. J., & Tedre, M. (2019). Computational thinking. MIT Press.
+Druckenmiller, D. A., & Mittleman, D. (2015). A design theory for digital habitats: Building
+virtual communities of practice. 571–580.
+Edwards, M. (2011). Algorithmic composition: Computational thinking in music.
+Communications of the ACM, 54(7), 58–67.
+Española, R. A. (2019). Diccionario de la lengua española (versión electrónica). Madrid, Espana:
+Real Academia espanola.
+Gorson, J., & O’Rourke, E. (2019). How Do Students Talk About Intelligence? An Investigation
+of Motivation, Self-efficacy, and Mindsets in Computer Science. 21–29.
+Gorson, J., Patel, N., Beheshti, E., Magerko, B., & Horn, M. (2017). TunePad: Computational
+Thinking Through Sound Composition. In Proceedings of the 2017 Conference on
+Interaction Design and Children (pp. 484–489). Association for Computing Machinery.
+https://doi.org/10.1145/3078072.3084313
+Green, H. E. (2014). Facilitating communities of practice in digital humanities: Librarian
+collaborations for research and training in text encoding. The Library Quarterly, 84(2),
+219–234.
+Greher, G. R., & Heines, J. M. (2014). Computational thinking in sound: Teaching the art and
+science of music and technology. Oxford University Press.
+96
+Guba, E. G., & Lincoln, Y. S. (1994). Competing paradigms in qualitative research. Handbook of
+Qualitative Research, 2(163–194), 105.
+Hagen, A. N. (2015). The playlist experience: Personal playlists in music streaming services.
+Popular Music and Society, 38(5), 625–645.
+Harris, D. (2017). An easy-to-use p5. Js 3D object picker for visual artists. Journal of Open Source
+Software, 2(20), 475.
+Hernandez, C., Ravn, O., & Valero, P. (2015). The Aalborg University PO-PBL Model from a
+Socio-cultural Learning Perspective. Journal of Problem Based Learning in Higher
+Education, 3(2), Article 2. https://doi.org/10.5278/ojs.jpblhe.v0i0.1206
+Hernández, S., Fernández, C., & Baptista, L. (2014). Metodología de la Investigación.(6ta. Ed.)
+Caracas.
+Horn, M., Banerjee, A., West, M., Pinkard, N., Pratt, A., Freeman, J., Magerko, B., & McKlin, T.
+(2020). TunePad: Engaging learners at the intersection of music and code.
+Horn, M. S., Banerjee, A., Bar-El, D., & Wallace, I. H. (2020). Engaging families around museum
+exhibits: Comparing tangible and multi-touch interfaces. 556–566.
+Jiang, S., & Wong, G. K. (2018). Are Children More Motivated with Plugged or Unplugged
+Approach to Computational Thinking? 1094–1094.
+Kay, D. G., Van Der Hoek, A., & Richardson, D. J. (2005). Informatics: A focus on computer
+science in context. ACM SIGCSE Bulletin, 37(1), 551–555.
+Koh, A. (2014). Niceness, building, and opening the genealogy of the digital humanities: Beyond
+the social contract of humanities computing. Differences, 25(1), 93–106.
+Kuchina, S. A. (2018). On Generative Poetry: Structural, Stylistic and Lexical Features. MATLIT:
+Materialidades Da Literatura, 6(1), 73–83.
+97
+Lahtinen, E., Ala-Mutka, K., & Järvinen, H.-M. (2005). A study of the difficulties of novice
+programmers. Acm Sigcse Bulletin, 37(3), 14–18.
+Lave, J., & Wenger, E. (1991). Situated learning: Legitimate peripheral participation. Cambridge
+university press.
+Madden, M. E., Baxter, M., Beauchamp, H., Bouchard, K., Habermas, D., Huff, M., Ladd, B.,
+Pearon, J., & Plague, G. (2013). Rethinking STEM education: An interdisciplinary
+STEAM curriculum. Procedia Computer Science, 20, 541–546.
+Marcelino, M. J., Pessoa, T., Vieira, C., Salvador, T., & Mendes, A. J. (2018). Learning
+Computational Thinking and scratch at distance. Computers in Human Behavior, 80, 470–
+477. https://doi.org/10.1016/j.chb.2017.09.025
+Merriam, S. B., & Tisdell, E. J. (2015). Qualitative research: A guide to design and
+implementation. John Wiley & Sons.
+Miller, A. I. (2019). The Artist in the Machine: The World of AI-Powered Creativity. Mit Press.
+Moretti, F. (2013). Distant reading. Verso Books.
+Pellicone, A., Lyons, L., Kumar, V., Zhang, E., & Berland, M. (2019). Rainbow Agents: A
+Collaborative Game For Computational Literacy. 597–604.
+Piteira, M., & Costa, C. (2012). Computer programming and novice programmers. 51–53.
+Radford, L. (2008). The ethics of being and knowing: Towards a cultural theory of learning. In
+Semiotics in mathematics education (pp. 215–234). Brill Sense.
+Resnick, M., Maloney, J., Monroy-Hernández, A., Rusk, N., Eastmond, E., Brennan, K., Millner,
+A., Rosenbaum, E., Silver, J., Silverman, B., & Kafai, Y. (2009). Scratch: Programming
+for all. Communications of the ACM, 52(11), 60–67.
+https://doi.org/10.1145/1592761.1592779
+98
+Robins, A., Rountree, J., & Rountree, N. (2003). Learning and teaching programming: A review
+and discussion. Computer Science Education, 13(2), 137–172.
+Rodger, S. H., Hayes, J., Lezin, G., Qin, H., Nelson, D., Tucker, R., Lopez, M., Cooper, S., Dann,
+W., & Slater, D. (2009). Engaging middle school teachers and students with alice in a
+diverse set of subjects. 271–275.
+Roth, W.-M., & Lee, S. (2004). Science education as/for participation in the community. Science
+Education, 88(2), 263–291. https://doi.org/10.1002/sce.10113
+Ruthmann, A., Heines, J. M., Greher, G. R., Laidler, P., & Saulters, C. (2010). Teaching
+computational thinking through musical live coding in scratch. 351–355.
+Sarachan, J. (2017). SEM06-Visualizations using p5. Js for Digital Humanities Projects.
+Saxena, A., Lo, C. K., Hew, K. F., & Wong, G. K. W. (2020). Designing Unplugged and Plugged
+Activities to Cultivate Computational Thinking: An Exploratory Study in Early Childhood
+Education. The Asia-Pacific Education Researcher, 29(1), 55–66.
+https://doi.org/10.1007/s40299-019-00478-w
+Selby, C., & Woollard, J. (2013). Computational thinking: The developing definition
+[Monograph]. University of Southampton (E-prints). https://eprints.soton.ac.uk/356481/
+Sichani, A.-M., Baker, J., Afanador-Llach, M. J., & Walsh, B. (2019). Diversity and inclusion in
+digital scholarship and pedagogy: The case of The Programming Historian. Insights: The
+UKSG Journal, 32(1), 1–6.
+Skovsmose, O., & Borba, M. (2004). Research methodology and critical mathematics education.
+In Researching the socio-political dimensions of mathematics education (pp. 207–226).
+Springer.
+99
+Sutherland, L. M., Scanlon, L. A., & Sperring, A. (2005). New directions in preparing
+professionals: Examining issues in engaging students in communities of practice through
+a school–university partnership. Teaching and Teacher Education, 21(1), 79–92.
+https://doi.org/10.1016/j.tate.2004.11.007
+Taylor, S. J., & Bogdan, R. (1984). Introduction to qualitative research methods: The search for
+meanings. Wiley-Interscience.
+Terry, P. (2019). The Penguin Book of Oulipo: Queneau, Perec, Calvino and the Adventure of
+Form. Penguin Books Limited. https://books.google.com.co/books?id=FISGDwAAQBAJ
+Tew, A. E., Fowler, C., & Guzdial, M. (2005). Tracking an innovation in introductory CS
+education from a research university to a two-year college. ACM SIGCSE Bulletin, 37(1),
+416–420.
+Vihavainen, A., Airaksinen, J., & Watson, C. (2014). A systematic review of approaches for
+teaching introductory programming and their influence on success. 19–26.
+Villalobos, J., & Casallas, R. (2006). Teaching/learning a first object-oriented programming
+course outside the CS curriculum. 10th Workshop on Pedagogies and Tools for the
+Teaching and Learning of Object Oriented Concepts-ECOOP (European Conference on
+Object-Oriented Programming).
+Vygotsky, L. S. (1980). Mind in Society: The Development of Higher Psychological Processes.
+Harvard University Press.
+Wenger, E. (1999). Communities of practice: Learning, meaning, and identity. Cambridge
+university press.
+Wenger, E., White, N., & Smith, J. D. (2009). Digital habitats: Stewarding technology for
+communities. CPsquare.
+100
+Wing, J. (2011). Research notebook: Computational thinking—What and why. The Link
+Magazine, 6.
+Wing, J. M. (2006). Computational thinking. Communications of the ACM, 49(3), 33–35.
+Wing, J. M. (2008). Computational thinking and thinking about computing. Philosophical
+Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences,
+366(1881), 3717–3725.
+Wing, J. M. (2014). Computational thinking benefits society. 40th Anniversary Blog of Social
+Issues in Computing, 2014, 26.
+Wing, J. M., & Stanzione, D. (2016). Progress in computational thinking, and expanding the HPC
+community.
+Yu, J., & Roque, R. (2019). A review of computational toys and kits for young children.
+International Journal of Child-Computer Interaction, 21, 17–36.
+Zamora, M., & Jacobi, M. (2015, July 19). What is Generative Literature? Introducing “The
+Generative Literature Project.” Hybrid Pedagogy. https://hybridpedagogy.org/what-isgenerative-
+literature-introducing-the-generative-literature-project/
+101
+Anexos
+Anexo 1: Pre- Prueba
+1. ¿Qué sabe sobre el pensamiento computacional?
+2. Describa e incluya un ejemplo de lo que entiende sobre las siguientes habilidades:
+Abstracción, pensamiento algorítmico, descomposición, depuración y generalización.
+3. En la siguiente secuencia:
+¿Qué figura completa la serie?
+4. En la siguiente secuencia:
+¿Qué figura completa la serie?
+5. ¿A qué conjunto pertenece la figura?
+102
+6. En un planeta distante, el carnívoro dominante, el zab, está cerca de la extinción. El
+número de zabs nacidos en cualquier año es uno más que la diferencia (positiva) entre el
+número de nacidos en el año anterior y el número de nacidos en el año anterior a ese.
+Ejemplo Si 7 zabs nacieron el año pasado y 5 el anterior, 3 nacieron este año.
+Ejemplo 2: Si 7 zabs nacieron el año pasado y 10 el anterior, 4 nacieron este año.
+5 zabs nacieron en el año 2010 y 12 zabs nacieron en 2011.
+Predecir el número de zabs nacidos en 2009 y 2013.
+7. Una búsqueda de palabras utiliza los siguientes símbolos especiales: ? Representa una sola
+letra * Representa cualquier número de letras, incluso sin letras (Espacio). Para que un
+término de búsqueda coincida con una palabra, debe representar la palabra completa de
+principio a fin. Por ejemplo, b * t coincide con bat pero no con bath.
+¿Cuántas de las siguientes palabras coinciden con b??st*ing?
+blasting, blustering, boasting, boosting, bootstrapping, bowstrings, bristling, busting, boostings,
+103
+(A) 2 (B) 4 (C) 5 (D) 6 (E) 7
+104
+Anexo 2: Pos Prueba
+1. ¿Cuál de las siguientes características pertenece al pensamiento computacional?
+a. Es la forma en que los ordenadores interpretan el código.
+b. Es una forma de abordar y resolver problemas
+c. Puede utilizarse en cualquier situación, no sólo en situaciones de cálculo
+d. Es el pensamiento algorítmico
+2. ¿Cuál de las siguientes situaciones representa el uso de la abstracción?
+a. Hacer un conjunto de instrucciones paso a paso para resolver una situación
+b. Buscar errores en tiempo real.
+c. Usar una forma diferente de pensar para abordar situaciones, en las cuales
+los detalles están ocultos.
+d. Usar las soluciones anteriores para resolver nuevas situaciones problemáticas.
+e. Dividir un problema complejo en pequeños problemas para resolver la situación de manera
+eficiente.
+3. ¿Cuál de las siguientes situaciones representa el uso del pensamiento algorítmico?
+a. Hacer un conjunto de instrucciones paso a paso para resolver una situación
+b. Buscar errores en tiempo real.
+c. Usar una forma diferente de pensar para abordar situaciones, en las cuales
+los detalles están ocultos.
+d. Usar las soluciones anteriores para resolver nuevas situaciones problemáticas.
+e. Dividir un problema complejo en pequeños problemas para resolver la situación de manera
+eficiente.
+4. ¿Cuál de las siguientes situaciones representa el uso de la descomposición?
+a. Hacer un conjunto de instrucciones paso a paso para resolver una situación
+105
+b. Buscar errores en tiempo real.
+c. Usar una forma diferente de pensar para abordar situaciones, en las cuales
+los detalles están ocultos.
+d. Usar las soluciones anteriores para resolver nuevas situaciones problemáticas.
+e. Dividir un problema complejo en pequeños problemas para resolver la situación de manera
+eficiente.
+5. ¿Cuál de las siguientes situaciones representa el uso de la depuración?
+a. Hacer un conjunto de instrucciones paso a paso para resolver una situación
+b. Buscar errores en tiempo real.
+c. Usar una forma diferente de pensar para abordar situaciones, en las cuales
+los detalles están ocultos.
+d. Usar las soluciones anteriores para resolver nuevas situaciones problemáticas.
+e. Dividir un problema complejo en pequeños problemas para resolver la situación de manera
+eficiente.
+6. ¿Cuál de las siguientes situaciones representa el uso de la generalización?
+a. Hacer un conjunto de instrucciones paso a paso para resolver una situación
+b. Buscar errores en tiempo real.
+c. Usar una forma diferente de pensar para abordar situaciones, en las cuales
+los detalles están ocultos.
+d. Usar las soluciones anteriores para resolver nuevas situaciones problemáticas.
+e. Dividir un problema complejo en pequeños problemas para resolver la situación de manera
+eficiente.
+7. En la siguiente secuencia
+106
+¿Qué figura completa la serie?
+8. En la siguiente secuencia:
+¿Qué figura completa la serie?
+9. ¿A qué conjunto pertenece la Figura?
+Conjunto A
+Conjunto B
+107
+Figura:
+10. En un planeta distante, el carnívoro dominante, el zab, está cerca de la extinción. El
+número de zabs nacidos en cualquier año es uno más que la diferencia (positiva) entre el
+número de nacidos en el año anterior y el número de nacidos en el año anterior a ese.
+Ejemplo: Si 7 zabs nacieron el año pasado y 5 el anterior, 3 nacieron este año.
+Ejemplo 2: Si 7 zabs nacieron el año pasado y 10 el anterior, 4 nacieron este año.
+5 zabs nacieron en el año 2010 y 12 zabs nacieron en 2011.
+Predecir el número de zabs nacidos en 2009 y 2013.
+11. Una búsqueda de palabras utiliza los siguientes símbolos especiales: ? Representa una
+sola letra * Representa cualquier número de letras, incluso sin letras (Espacio). Para que un
+término de búsqueda coincida con una palabra, debe representar la palabra completa de
+principio a fin. Por ejemplo, b * t coincide con bat pero no con bath.
+¿Cuántas de las siguientes palabras coinciden con b??st*ing?
+blasting, blustering, boasting, boosting, bootstrapping, bowstrings, bristling, busting, boostings,
+(A) 2 (B) 4 (C) 5 (D) 6 (E) 7
+Un primer paso para el desarrollo del Pensamiento Computacional
+108
+140
+12. Escriba el número a la luz del faro que continúa el patrón.
+L1: L2:
+109
+Anexo 3: Reflexión final
+1. ¿Considera que los ejercicios realizados abordaron las cinco habilidades del Pensamiento
+Computacional? (Abstracción, pensamiento algorítmico, descomposición, depuración y
+generalización), ¿Por qué?
+2. ¿Cree que el proceso de reflexión es útil en este curso?
+3. ¿Cree que este curso ayuda al desarrollo o aumento de la capacidad de resolver problemas?
+4. ¿Cree que este curso ayuda al desarrollo o al aumento de la creatividad?
+5. ¿Cree que este curso ayuda al desarrollo o aumento de la capacidad de comunicarse de manera
+efectiva?
+6. Por favor, indique algo que crea que fue bueno, que destaca o que haya sido innovador en este
+curso.
+7. Por favor, indique algún aspecto del curso que usted piense que podría ser mejorado.
+8. Si este curso formara parte de su plan de estudios, es decir, si tuviera una duración completa de
+1 semestre. ¿Considera que podría tener un efecto positivo en el desarrollo de que podrían ser
+útiles en el campo académico y/o personal para la universidad, estudiantes? ¿Te gustaría hacer el
+curso? ¿Lo recomendaría a sus amigos / compañeros de clase?

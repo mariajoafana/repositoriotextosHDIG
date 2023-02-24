@@ -1,0 +1,1213 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/329487444
+Humanidades Digitales/ pensamiento computacional. Pasajes de una historia
+Chapter · October 2018
+CITATIONS
+0
+READS
+501
+15 authors, including:
+Some of the authors of this publication are also working on these related projects:
+Seminario de Tecnologías Filosóficas View project
+#LatamHD View project
+Marco Antonio Godínez
+Universidad Nacional Autónoma de México
+3 PUBLICATIONS 14 CITATIONS
+SEE PROFILE
+Francisco Barrón
+Universidad Nacional Autónoma de México
+14 PUBLICATIONS 15 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Francisco Barrón on 07 December 2018.
+The user has requested enhancement of the downloaded file.
+Humanidades Digitales/
+pensamiento computacional.
+Pasajes de una historia
+I José Francisco Barrón Tovar, Marat Ocampo Gutiérrez de
+Velasco, Sandra Leticia Reyes Alvarez, Elena León, Marco Antonio
+Godínez Bustos, Ana María Guzman' Olmos,
+Luis Agustín Sánchez Arreola, Ethel Z. Rueda Hernan'dez,
+Mauricio Sosa Santiban'"ez, Daniela Pérez Michel,
+Francisco Giovanni Salinas Romero y Santiago Rosales Escalera
+PROYECTO
+Las humanidades son disciplinas que tradicionalmente se han
+concebido en contraste con otros órdenes de prácticas discursivas.
+Su historia puede rastrearse hasta Ia postura de los
+intelectuales de Ia Edad Media y el Renacimiento que comenzaron
+a romper con los límites de la tradición que ponía énfasis
+en el pensamiento teolo’gico, preguntándose por la experiencia
+de lo humano. Durante el Renacimiento lo humano ocupará el
+lugar nodal de reflexión con la ciencia y las humanidades, en
+124 I 
+contraste con la postura medieval de tener a la divinidad como
+único punto focal del pensamiento. Así,
+mientras que los cimientos de la investigación humanística y las
+artes liberales pueden rastrearse en el Occidente en el trivium y el
+quadrivium medievales, las ciencias humanas modernas se arraigan
+en el desplazamiento del Renacimiento desde la visio’n teocra'-
+tica del mundo medieval, dominada por la iglesia, a una centrada
+en el hombre. (Burdick, Drucker, Lunenfeld, Presner y Schnapp.
+2012, p. 5).1
+Actualmente lo que identificamos bajo el nombre humanidades
+se refiere comúnmente, y según el criterio de quien
+enliste, a disciplinas como la filología, la filosofia, la historia.
+la geografía, el derecho, la pedagogía, los estudios sobre las
+artes, los estudios sobre religión, la antropología, la psicologia.
+la sociología, la ciencia política, las ciencias de Ia comunicación
+y el urbanismo, entre otras. La inclusión de dichas disciplinas
+bajo la categoría de humanidades no es cerrada. algunas resultan
+pertenecer de maneras periféricas, eventuales y marginales,
+mientras que otras plantean la gran relevancia que esa
+categorización tiene en su práctica. Se trata de saberes profesionalizados,
+estrechamente vinculados con la universidad y
+el quehacer académico, así como con las prácticas de lectio e
+¡mitatío heredadas de la tradición escola'stica. En efecto.
+1 [while the foundations of humanistic inquiry and the liberal arts can bo haced
+back ¡n the West to the medieval trivium and quadn‘vium, the modem, ,
+sciences are rooted in the Renaissance shift from a medieval, Church-do ‘
+theocratic wortdview to a human-centered one].
+ | 125
+La gradual transformación del humanismo temprano en las disciplinas
+que integran hoy las humanidades estuvo originariamente
+conformada por las prácticas editoriales que participaron en la
+recuperación del corpus de obras de la antigüedad clásica. [...] El
+desplazamiento del humanismo a las prácticas disciplinarias institucionalmente
+sancionadas y protocolos que hoy asociamos con
+las humanidades se describe mejor como un proceso gradual de
+subdivisión y especialización. [...] En la segunda mitad del siglo xrx,
+con la industrialización en pleno desarrollo y la construcción de
+sistemas de escuelas públicas y universidades públicas en marcha
+en Europa y los Estados Unidos, las humanidades empezaron a
+adoptar su apariencia contemporánea. Esta es la época en la que
+el estudio de la literatura, la filosofía y los clásicos se escindió de
+las ciencias físicas y naturales, así como la “historia” y las disciplinas
+históricas comenzaron a entenderse como expresiones de
+Wissenschaft en el doble sentido de una “ciencia” y una disciplina
+dotada de un conjunto de herramientas distintivo para lidiar con el
+registro cultural. (Burdick, Drucker, Lunenfeld, Presner y Schnapp,
+2012, p. 6).?-
+2 [The gradual transformation of ear1y humanism into the disciplinas that make up
+the humanities today was profoundly shaped by the edit'on'al practices rn'volved
+in the recovery of the corpus of works from classical antiqurt'y. [...] The shift from
+humanism to the institutional/y sanctioned disciplinary practices and pmtocols that
+we associate with the humanities today is best descn'bed as a gradual process
+of subdivision and specialization. [...] By the second half of the 19th century, wrth'
+industrialization in full swing and the building of public school systems and public'
+universities undenrvay in Europe and the United States, the humanitre’s began to
+assume their contemporary guise. This is the era in which the study of literature,
+philosophy, and classics was split off frorn the natural and physical sciences, even
+as “history” and the historical disciplinas carne to be understood as expressions of
+Wissenschaft in the double sense of a “science” and a disciplina endowed with a
+distinctive too/kit for grappling with the cultural record] (Traduccrón de los autores).
+126 I 
+Si bien el humanismo, movimiento histórico y cultural del
+que las humanidades toman nombre, no se produjo netamente
+dentro de Ia vida académica, sucede que e'sta se vio afectada
+por aquél. El cambio más notorio que acarrea este movimiento
+—y de ahí la denominación de humanismo- sera’ la de una cierta
+idea de experiencia de lo humano que cobra importancia
+en la producción del saber. Con Ia colonización de América y
+África “al mismo tiempo que se relativiza la geografía humana
+empieza a resquebrajarse la arquitectura estamentaria de Ia
+sociedad” (Villoro, 1998, p. 20). Las prácticas humanas se ven
+puestas en duda por Ia gran diferencia que yace entre las vidas
+de los seres humanos y sus contextos. Ya no dependen, según
+este autor, de un presupuesto divino, sino que “el individuo emprende
+para ser, su acción libre le da un sitio en el mundo, no
+la naturaleza” (p. 23). Es a través de dicho desplazamiento que Ia
+acción humana comienza a ser el lugar de la disputatio. Dado
+que no hay una determinación divina, se vuelve más relevante
+la pregunta por el individuo como un sujeto libre e indeterminado,
+así como por Ia sociedad de Ia cual forma parte. En esa
+modificación reside Ia posibilidad humana de transformarse a
+sí mismo y al mundo.
+La construcción del pensamiento humanista responde a las
+necesidades que surgen con el colapso de los regímenes feudales
+y la visión de mundo que los sustentaba, necesidades tales
+como la habilidad de educar ciudadanos, mejorar la economia de
+un país, educar profesionales y justificar las prácticas culturales
+y políticas. Los intelectuales encargados de esas tareas constituidas
+en el Renacimiento como responsabilidades inherentes al
+individuo (las de transformar al mundo, imaginar nuevos órdenes
+culturales y nuevas prácticas políticas y pedagógicas) son a
+quienes podríamos llamar en un primer momento humanistas. En
+ I 127
+ese sentido se puede afirmar que las humanidades como disciplinas
+escolares se articulan a esta modificación en la forma de
+ejercer Ia experiencia de Io humano.
+EI surgimiento de la universidad durante la Edad Media fue
+un paso fundamental para el desarrollo de ios estudios humanísticos,
+pues “significó Ia posibilidad de superar al individuo
+como medio y protagonista de las ciencias y las humanidades”,
+además de que “propuso el trabajo colectivo animado por la
+búsqueda común de Ia verdad” Io cual “implicó un profundo
+cambio en Ia vida política”. Con ello “surgió la idea de que nada
+podía escapar a su investigación ni a su cuestionamiento ni
+aún la fuerza de los ma's poderosos” (Migaiión Serrano, 2005,
+p. 5). Teniendo en cuenta esto, parece acertado sostener que
+las humanidades surgidas dentro del ámbito acade’mico tienen
+Ia pretensión de Iievar a cabo la formación de individuos
+autónomos mediante las prácticas del saber humanístico. Sin
+embargo, hemos de enfatizar que dicha formación parece no
+centrarse únicamente en la producción de contenidos específicos
+de conocimiento, sino que también contempla la forma en
+que se produce ese saber; es decir, la formación humanística
+dentro de la institución universitaria no sólo quiere formar individuos
+críticos, sino que pone énfasis en el modelo de crítica
+que llevarán a cabo.
+De esta manera, la función de las humanidades no sólo busca
+cubrir los aspectos requeridos por las instituciones que las
+sustentan, sino que pretenden que el desarrollo de sus prácticas
+dentro de tales instituciones tenga efectos en el contexto
+social y cultural, que de algún modo se modifiquen las prácticas
+de colectivos más amplios que los académicos. Podríamos
+decir que se trata, en efecto, de educar, de formar al hombre
+para que se enfrente al mundo en que se encuentra. Un modo
+128 I 
+de pensar esta función de la humanidades nos los ofrece lmmanuel
+Kant, quien sostiene que “EI hombre es la única criatura
+que ha de ser educada” (Kant, 2003, p. 29). Para este autor
+Ia educación se compone de disciplina e instrucción; la primera
+“convierte la animalidad en humanidad” (p. 29), ya que
+“la disciplina es meramente negativa, esto es, la acción por
+Ia que se borra al hombre la animalidad; la instrucción, por
+el contrario, es la parte positiva de la educación” (p. 30). Al
+referirse a ambos componentes de la educación, habria que
+comprender tanto el sentido positivo como el negativo, puesto
+que la finalidad de la educación es la mejoría constante para
+que “cada generación de' un paso hacia la perfección de la
+humanidad; pues tras Ia educación está el gran secreto de la
+perfección de la naturaleza humana” (p. 32). Aquí resulta muy
+evidente que la meta de la educación no se restringe a un mero
+compendio o transmisión de conocimientos particulares que
+estarían proporcionando las humanidades dentro de la vida
+académica, sino que a trave's del proceso educativo es posible
+el perfeccionamiento de la humanidad misma.
+El humanismo oscila desde su nacimiento entre estos campos
+problemáticos que constituyen un conjunto de saberes
+académicos que se desarrollan fundamentalmente dentro de
+Ia estructura acade'mica-universitaria, pero que también pretenden,
+a través de un ejercicio de pensamiento y critica de la
+existencia humana, tener impacto en la esfera ma's amplia de
+la experiencia de lo humano. La consolidación del humanismo
+transcurre entre corrientes historicistas, proyectos politicos y
+la hilación de una retórica de cambio, de mejoramiento. Tradicionalmente
+los humanistas llevan a cabo tareas de modificación
+del mundo a través de la reflexión, del ejercicio del pensar,
+asumiendo que el pensamiento es capaz de alterar las condiHUMANIDADES
+DIGITALES. PENSAMIENTO COMPUTACIONAL I 129
+ciones concretas del mundo, de transformar, de mejorar a los
+hombres y al mundo. Entendido como un proyecto cultural el
+humanismo permea toda la cultura moderna con su forma de
+producción del saber y formas de subjetivación.
+¿Lo CIENTÍFICO?
+A pesar de la multiplicidad de prácticas y posturas al interior
+dela comunidad humanista, parece plausible afirmar un cierto
+consenso respecto a la situación de las humanidades con respecto
+de las tecnologías computacionales. Esta postura puede
+resumirse como una preocupación por la manera en que esas
+tecnologías alteran las prácticas humanistas tradicionales y la
+manera en que esos cambios reconfiguran a las humanidades.
+Podemos encontrar varios ejemplos de esta idea. Aquí mencionaremos
+lo dicho en el libro DigitaI_Humanities, editado en
+el MIT, en 2012:
+Vivimos en uno de esos raros momentos de oportunidad para las
+humanidades, no diferente a otras grandes épocas de transformación
+histórico-cultural, tales como el cambio del papiro al co'dice, la
+invención de los tipos móviles, el descubrimiento del Nuevo Mundo,
+y Ia revolución industrial. La nuestra es una época en la que las
+ciencias humanas tienen el potencial de desempeñar un ampliado
+papel creativo en la vida pública. El presente volumen promueve
+unas Humanidades Digitales que preguntan lo que significa ser
+un ser humano en la era de la información en red y participar en
+comunidades de prácticas fluidas, haciendo y respondiendo preguntas
+de investigación que no pueden reducirse a un solo género,
+130 I 
+medio, disciplina, o institución (Burdick, A., Drucker, J., Lunenfeld,
+P., Presner, T. & Schnapp, J., p. vii).3
+Es como si Ia aparición de las tecnologías digitales y su introducción
+en el campo de las humanidades no pudiera más
+que cambiar radicalmente las prácticas que han caracterizado
+tradicionalmente el quehacer humanista. Otro ejemplo es lo
+que sostiene Berry en 2011:“Pocos impugnan que la tecnologia
+digital está cambiando en lo fundamental cómo nos relacionamos
+con el proceso de investigación. Sin duda, hay creciente
+evidencia de que la investigación está mediada cada vez más
+por la tecnologia digital” (p. 1).4
+Estas modificaciones en las prácticas de investigación, catalizadas
+por la mediación de la tecnologia digital, parecen provocar
+un impacto que alcanza a esferas que exceden el ámbito
+de las humanidades académicas, pues se trata de un cambio
+que incide en lo social mismo, en la manera en que se concibe
+lo público. La misma idea aparece en el abstract del volumen
+Ciencias Sociales y Humanidades Digitales de 2014:
+3 [We live in one of those rare moments of opportunity for the humanitre's, not
+unlike other great eras of cultural-histon'cal transformation such as the shift from
+the scroll to the codex, the ¡nvention of moveable type, the encounter with the
+New World, and the Industn’al Revolution. Ours is an era in which the humanitie's
+have the potential to play a vastly expanded creative role in public life. The present
+volume puts itself forward ¡n support of a Digital Humanities that asks what it means
+to be a human being ¡n the networked information age and to participate in fluid
+communities of practice, asking and answering research questions that cannot be
+reduced to a single genre, medium, discipline, or Institution]. (Traduccion de los
+autores del articulo).
+4 [Few dispute that digital technology is fundamental/y changing the way in whrc'h
+we engage in the research process. Indeed, it ¡s becoming more and more evident
+that research ¡s ¡ncreasingly being mediated through digital technology].
+ I 131
+EI desarrollo, a lo largo de la segunda mIt'ad del siglo >o<, de las tecnologías
+de la información y la comunicación ha transformado profundamente
+la sociedad, la academia y las formas de generación de
+conocimiento. El indiscutible impacto social de este fenómeno ha modif'icado
+significativamente las ciencias sociales y las humanidades,
+las cuales viven un tiempo de redefinición, cuestionamiento y puesta
+en valor en un contexto social cada vez más hiperconectado (p. 6).
+Esta relación entre la tecnología y las humanidades frecuentemente
+trae a colación también a la ciencia, sus procedimientos
+y pra'cticas en relación con aquellas de los humanistas.
+Parece, se podría afirmar, que el encuentro y la inclusión de las
+tecnologías digitales en las humanidades las acerca a los parámetros
+y métodos que forman parte de la manera de operar
+de las ciencias. Las humanidades se vuelven científicas, o en
+todo caso adquieren la validez, el rigor, la capacidad crítica de
+las ciencias. Este punto de vista puede verse ejemplificado en
+diferentes autores, como lo que dice Paul Spence en el prólogo
+de Ciencias Sociales y Humanidades Digitales de 2014:
+Nadie puede negar el impacto de la cultura digital sobre la investigación
+científica en los últimos años, un hecho que resulta desconcertante
+y sirve de inspiración a la vez. Mi experiencia personal
+sale del campo de las Humanidades Digitales, un campo en auge
+que en parte surge de la ya histórica informática humanística con
+raíces en los años cincuenta, y que se une con (y a veces se enfrenta
+a) otras áreas científicas interesadas en los efectos de la tecnología
+digital. [...] Las Humanidades Digitales son un área cientifica que
+ha pasado de ser un espacio para la experimentación tecnológica
+[...] a ser un campo que abarca casi todas las a'reas tradicionales y
+emergentes de las humanidades (p. 9).
+132 I 
+También Susan Hockey concibe esa incursión de Ia tecnologia
+computacional como un movimiento que acerca humanidades
+y ciencias, menciona en “The history of humanities
+computing”, que forma parte de A Companion to Digital Humaníties
+(2004) que:
+Por su misma naturaleza, las humanidades computacionales han
+tenido que adoptar “las dos culturas” para brindar el rigor y Ia univocidad
+de los procedimientos metodológicos característicos de
+las ciencias al hacer frente a los problemas que, al interior de las
+humanidades, hasta ahora se han tratado con frecuencia de manera
+fortuita.5
+De igual forma en las Digital Humanities encontramos el señalamiento
+de esa relación que las tecnologías digitales parecen
+hacer mostrar entre las ciencias y las humanidades:
+Las humanidades comparten con las ciencias su apego al rigor intelectual
+y libertad de investigación. Pero a pesar de que las humanidades
+no rehuyen los métodos empíricos, difícilmente han sido
+caracterizadas por sus estrictas formas empíricas. Los humanistas
+se comprometen con asuntos de valor e interpretación, en el ámbito
+de la retórica así como de la lógica, con juicios subjetivos junto
+con atención a verdades verificables. El espectro del pensamiento
+humanístico, así como Ia investigación científica, abarca una gama
+de ideas relacionadas con la naturaleza del conocimiento, el mundo,
+y Ia habilidad humana para establecer un entendimiento con
+5 [By its very nature, humanities computing has had to embrace “the two cultums'.
+to bn'ng n'gor and systematic unambiguous procedural methodologies characteristic
+of the sciences to address problems within the humanities that had hima'lo
+been most often treated ¡n a serendipítous fashion] (Traducción de los autores del
+articulo). j
+ I 133
+varios grados de certeza. Las habilidades digitales han desafiado
+al humanista a hacer explícitas muchas de las premisas sobre las
+que este entendimiento está basado, para hacerlo operativo en
+ambientes computacionales (Burdick, Drucker, Lunenfeld, Presner
+y Schnapp, 2012, p. 4).6
+Lo anterior permite afirmar que en nuestros días las humanidades
+se encuentran en un entorno académico en que las prácticas
+de las llamadas ciencias exactas, su experimentación, su
+participación en la noción de progreso, y otras características
+que les son propias, interpelan de manera directa la práctica
+humanística. Esto ha hecho que ios humanistas se pregunten
+y disputen por el papel que juegan las humanidades en la
+producción y administración del conocimiento. La percepción
+del trabajo humanista como amenazado por Ia popularidad y
+aceptación de las ciencias y por lo tanto la formulación de una
+defensa es hoy parte del pensamiento humanista. Los humanistas
+buscan otras formas de participar, que al mismo tiempo
+que permitan encontrarse con otros saberes, reconozcan la necesidad
+de una labor autocrítica de las disciplinas.
+Las preguntas por la transformación del entorno y por la
+acción del hombre se encuentran así con las tecnologías digitales.
+Esto hace que las preguntas por el uso de herramientas
+6 [The humanities are siblings of the sciences in their embrace of intellectual n'gor
+and free inquiry. But while the humanitie's do not shun empin'cal methods, they
+have rare/y been characten'zed by the stn'ctest forms of empin'cism. [...] Humanists
+engage with questions of value and interpretation, with the rea/ms of rhetonc' as
+well as logíc, with subjective judgment alongside attention to ven'fiable truths. The
+spectrum of humanistic thought, like that of scientific investigation, encompasses
+the gamut of beliefs regarding the nature of knowledge, the world, and the human
+ability to establish understanding with van'ous degrees of certainty. Digitai' capabilities
+have challenged the humanist to make explicit many of the premisas on which
+those understandings are based in order to make them operativa ¡n computational
+environments] (traducción de los autores del artículo).
+134 I 
+tecnológicas propias de la experiencia del mundo al día de hoy
+incidan en transformar la concepción del trabajo humanista. Se
+trata de una relación que va en ambos sentidos. Una pregunta
+por el uso de las herramientas en tareas humanísticas, y otra en
+co’mo el pensamiento humanista afecta a estas herramientas.
+¿Dónde estamos en la situación técnica al pensar con estas
+herramientas? Y, por otra parte, ¿qué lugar o qué pasa con
+las herramientas que han sido usadas tradicionalmente por las
+humanidades?
+Llegados aquí es que parece pertinente empezar a hablar
+de manera explicita de Humanidades Digitales. Se podria problematizar
+al pensamiento humanístico-digital a partir de la
+diferencia entre un pensamiento que es reconocido como tradicional
+y otro que incorpora el uso de tecnologías digitales. No
+significa que el pensamiento no haya usado tecnologías antes,
+o que el simple hecho de usar una computadora haga de un investigador
+en humanidades un humanista digital, sino que hay
+un encuentro entre las humanidades y la computación que obligan
+a preguntarse co'mo este cambio ha hecho una transformación
+sustantiva de las prácticas de las humanidades. ¿Cuáles
+son las tecnologias y técnicas a las que se hace referencia con
+esto? Y, ¿en qué consiste la diferencia, si la hay, que hace del
+pensamiento humanístico-digital algo sustantivamente diferente
+con la práctica tradicional de las humanidades? Incluso si
+esa separación pertenece a una reformulación de la práctica de
+las humanidades o es una escisión que se puede reducir a la
+práctica tradicional.
+En efecto la pregunta preponderante que aparece con las
+Humanidades Digitales es la que interroga por la naturaleza de
+los cambios que las mediaciones tecnológicas conllevan a las
+prácticas humanistas, a la producción del conocimiento, a la
+ I 135
+manera en que opera el pensamiento. Parece haber consenso
+con respecto a que las tecnologías computacionales implican
+un cambio, pero cuál sea ese cambio, cuáles son sus alcances
+y sus límites, de qué forma repercute en el mundo, son
+preguntas que apenas empezamos a plantear. Desde luego la
+tecnología tampoco es un objeto neutro, sino que trae consigo
+ya toda una historia de discursos y prácticas, así como debates
+que giran en torno a ella y que también problematizan su
+relación con las humanidades. La relación con las ma’quinas es
+problemática para el pensamiento.
+Podemos rastrear la aparición de discursos polarizantes sobre
+todo en las e'pocas de guerra y posguerra mundiales. Es en
+este tiempo que la tecnología que fuera considerada la forma
+de progreso de la humanidad, ante la evidencia de su capacidad
+de destrucción y exterminio, pasó a concebirse como
+factor importante del retroceso de esa misma humanidad. En
+ese sentido, los discursos que defendían o rechazaban la tecnología
+produjeron determinadas prácticas que, o promovían e
+incentivaron su intervención en los procesos de producción, o
+se distanciaban de ella, a veces hasta el punto de clamar por
+una regresión al estado “natural”, carente de tecnología, de la
+humanidad.
+Las Humanidades Digitales no están exentas de esas disputas
+y corren el peligro de caer en el discurso salvífico de la
+tecnología, como bien es señalado por C. Ess en el apartado
+“Revolution? What Revolution? Successes and Limits of Computing
+Technologies in Philosophy and Religion” que forma parte
+del volumen A Companíon to Digital Humanítíes (2004):
+Las tecnologías computacionales, como otras innovaciones tecnológicas
+en eI occidente moderno, son inevitablemente presentadas
+136 I 
+con la retórica de “revolución”. Especialmente durante los años
+ochenta (la revolución de la PC) y los años noventa (la revolución
+de internet y la web), los entusiastas celebraron insistentemente
+los cambios radicales, cambios ostensiblemente inevitables y ciertamente
+tan radicales como aquellos traídos por la invención dela
+imprenta, si no del descubrimiento del fuego.7
+Mediciones, representaciones, procesamiento de datos, interpretación
+entre otras formas de trabajo se ven puestas en
+cuestión. Un juego del discurso a partir de filtros elaborados a
+base de algoritmos y soportes que permiten contar, visualizar,
+demostrar Io que se dice, ver los datos, leerlos, interpretar lo
+que siempre ha estado inserto en el lenguaje pero que hoy es
+posible distinguir a partir de una mediación tecnológica que
+responde a procesos que tienden a separarse del pensar humano.
+Es decir, el lenguaje computacional no necesariamente
+se traduce como la visualización en sí misma, sino que se refiere
+al condicionamiento de Ia mineria de datos que más tarde
+fungira’ como una interfaz que representa un estado de cosas
+de lo social.
+Parece prudente tomar con cuidado las afirmaciones de los
+cambios radicales que la tecnología acarrea a Ia existencia en
+general y a las humanidades en particular, no está demás 1am
+con suspicacia aquellos discursos que insisten en la capacidad
+revolucionaria de las tecnologías digitales, en particular aquellas
+que las presentan, de manera casi milagrosa, como una
+7 [Computing technologies -Iike other technologica/ innovations in the m _
+West- are inevitably introduced with the rhetoric of “revolution.” Especial/y dunm
+the 19805 (the PC revolution) and 19905 (the Internet and Web revolutions), enthuv
+siasts insistently celebrated radical changes - changes ostensib/y inevitable .1:
+certain/y as radical as those brought about by the invention of the printing press, x
+not the discovery of fire] (Trad. de los autores del artículo).
+ I 137
+solución a todo problema anterior, pues si bien estas tecnologías
+pueden ser efectivas al satisfacer algunas de nuestras
+expectativas, no carecen de problemas y limitaciones propios,
+de implicaciones éticas, políticas o económicas, que apenas
+estamos empezando a conocer.
+Charles Ess continúa en A Companion to Digital Humanities
+mencionando esta caracterización esperanzadora que se atribuye
+a la tecnología en el texto que ya hemos citado, donde
+indica cómo:
+Muchas de las esperanzas y promesas tempranas, ejemplificadas
+por proyectos específicos como inteligencia artificial y la premonición
+de las comunidades virtuales religiosas, han desvanecido
+ante los infranqueables limites de incluso tan notables tecnologías.
+Mientras estos fracasos han sido usualmente olvidados, dejan a su
+paso claridad sobre lo que estas tecnologías pueden y no pueden
+hacer (2004).8
+INTERSECCIONES
+Consideramos que las Humanidades Digitales son -independientemente
+de los discursos que los humanistas digitales utilizan
+para introducirse como una disciplina nueva, a través de
+una historia que la sustente- un punto de partida para discutir
+los efectos que trae tanto al discurso como a las prácticas, la
+8 [Many of the early hopes and promises — instantiated ¡n such specific projec'ts as
+Artificial Intelligence and antícipations of virtual religious communities — have been
+dashed against the apparently ¡ntractable limits of even these most remarkable
+technologies. While these failures are usually forgotten, they leave ¡n their wake a
+clearer sense of what these new technologies can, and cannot do] (Traducción de
+los autores).
+138 I 
+intersección de dos tipos de pensamiento que, en principio,
+suelen oponerse e incluso contradecirse, pero que a través de
+las prácticas y discursos de las Humanidades Digitales es posible
+caracterizar de una manera mucho más adecuada.
+Antes de desarrollar esta caracterización, presentamos algunas
+de las concepciones que los mismos humanistas digitales
+han desarrollado en torno a su quehacer. Algunos de ellos
+piensan que: “Lo que define, pues, las Humanidades Digitales
+frente al conjunto de disciplinas humanísticas que utilizan herramientas
+tecnológicas es la búsqueda de nuevos modelos
+interpretativos, nuevos paradigmas disruptivos en la compresión
+de la cultura y del mundo” (Romero y Sánchez, 2014, p.
+14) .Tomando en cuenta esto habría que analizar con mayor
+detalle los discursos que tajantemente polarizan al pensamiento
+humanístico del computacional así como aquellos que, para
+ahorrarse discusiones, simplifican las diferentes características
+de cada tipo de pensamiento.
+En ese cariz quisiéramos tomar a algunos discursos de Humanidades
+Digitales que no polarizan ni simplifican la cuestión
+y que más bien tratan de comprender cada tipo de pensamiento
+pues
+las Humanidades Digitales apuestan decididamente por Ia hibridación,
+Ios saberes múltiples, el conocimiento abierto y compartido,
+la convergencia de los entornos formales e informales, el pensamiento
+transdisciplinar, la transmedialidad, la cros-culturalidad, la
+colaboración en los márgenes disciplinares, la experimentación
+creativa, el riesgo del error (p. 15).
+ I 139
+Pero, ¿qué significa esta apuesta de las humanidades digitales?,
+¿hacia dónde conducen, o mejor, hacia dónde pretenden
+conducir estas prácticas?
+Podría considerarse que la apuesta mayor favorece al pensamiento
+computacional pues e’ste se inclina hacia prácticas
+tecnológicas más que humanísticas, sin embargo “el compromiso
+de las Humanidades Digitales y, por ende, del humanista
+digital, no se establece con el desarrollo tecnológico, sino con
+el Hombre, materializando así una vuelta a la esencia del Humanismo”
+(p. 15). Ahora, cabe preguntar: ¿que’ es esta vuelta a
+la esencia del humanismo? ¿Qué supuestos hay en ese compromiso?
+Más aún, ¿qué efectos podemos inferir a partir de
+dicho compromiso?
+Estos efectos podrían comprenderse mejor tomando en
+cuenta que:
+Las Humanidades Digitales, por tanto, son también estructuras de
+poder, políticas de gestión, criterios de inclusión y exclusión, intereses
+geopolíticos y culturales. Ya lo dijo Foucault, toda institución
+implica la construcción de un discurso legitimador y la consolidación
+de una estructura de poder que define las relaciones entre sus
+sujetos (p. 16).
+Si las HD son estructuras de poder, ¿qué efectos tienen las
+distintas herramientas tecnológicas que emplea dentro y fuera
+de Ia producción del saber humanístico? Pensemos primero
+en lo que hemos llamado humanidades tradicionales. Si hubiese
+una serie de discrepancias por parte de la concepción del
+pensamiento desde esta perspectiva respecto al pensamiento
+computacional creemos que sería atribuir a este u’ltimo una carencia
+de autenticidad además de una mecanicidad en cuanto
+140 I 
+a sus procesos. Sin embargo algunos de los discursos de los
+humanistas digitales no compartirán esta opinión pues su concepción
+del pensamiento humanístico abarcaría procesos similares
+que han sido contemplados en los discursos y prácticas
+del pensamiento computacional. En ese sentido, éste les ayuda
+a producir una concepción más amplia de lo que es el pensamiento
+humano. Pero esto no necesariamente implica que se
+deslindan de una herencia del humanismo clásico, al menos
+se conservarían determinados aspectos, como el un afa'n por
+independizar al hombre, por emanciparlo y darle autonomía
+respecto a un desarrollo y mejoramiento así como al modo en
+que se produce el conocimiento.
+Si admitimos lo anterior resulta que uno de los puntos donde
+convergen ambos pensamientos es en la determinación que tienen
+del pensamiento culmina en una disposición frente al mundo,
+a sus componentes y frente al hombre. Pues independientemente
+de las prácticas que tengan ambas formas de pensamiento
+moldean un camino a seguir, más aún su pensamiento genera
+herramientas, modos y prácticas que permiten un determinado
+ordenamiento no sólo de los productos que de aquel derivan,
+sino que esos productos con su ordenamiento particular le
+otorgan una visión —ordenada— del mundo y de sí mismo.
+Por ejemplo, para el humanismo clásico el desarrollo de su
+pensamiento implicaba un conocimiento que le encaminaba
+hacia un proyecto político, cultural, económico, artístico, social,
+etcétera; como sucedió en el Renacimiento y posteriormente
+en la Ilustración. El pensamiento humanístico fue la clave para
+proyectar los ideales hacia los cuales se pretendía llevar a la
+humanidad. En el caso del pensamiento computacional, sus
+procesos lo determinan en su concepción del mundo y en esa ‘
+medida busca soluciones a problemas concretos, ya no Sáb
+ I 141
+problemas hipotéticos, sino problemas situados en la realidad
+social. En ese sentido ambos pensamientos, a pesar de sus
+divergencias, tienen como una finalidad primordial intervenir en
+los procesos sociales, políticos y culturales, si bien sus procedimientos
+y prácticas para realizarlo son distintas, en te'rminos
+metodológicos. Las discrepancias entre ambos tipos de pensamiento
+quiza’ se deban más a un posicionamiento teórico-práctico
+de dos tradiciones dominantes que se ha polarizado con el
+paso del tiempo, que a diferencias irreconciliables.
+Por esta razón nos parece pertinente hablar de las Humanidades
+Digitales pues de cierto modo sus prácticas y discursos
+-principalmente sus pra’cticas- nos muestran una manera de
+evitar los discursos que oponen de manera radical y simplista
+el pensamiento humanístico y el computacional. Un acercamiento
+que se propone sería analizar que’ se entiende por
+pensamiento computacional y su relación con el humanístico
+como un esfuerzo de encontrar los vértices que establecen alegorías,
+mediaciones y relaciones entre ambos tipos de saberes
+para crear nuevas formas de entender aquello que es parte de
+Io humano, sus límites, sus problemas y su mecánica, con las
+articulaciones que posibilitan las herramientas digitales, con el
+apoyo de lo que permite el pensamiento computacional. Y a su
+vez extender el alcance de Io computacional a su concepción
+humanista, pensando que este pensamiento que se basa en
+la eficacia hacia puntos donde normalmente no se ve, pero no
+pertenece a una existencia separada de lo humano.
+La aplicación de recursos de tecnología digital en el campo
+de las humanidades ha traído nuevos objetos para la producción
+de saber dentro de la disciplina. El uso de visualizaciones de
+datos, bases de datos, procesamiento de lenguaje natural, entre
+otros, han permitido cuestionar las metodologías clásicas de las
+142 I 
+humanidades y han traído como consecuencia nuevos acercamientos
+a los objetos de estudio de las humanidades. La lista
+de proyectos que se basan en el análisis de datos para producir
+tesis en el área de humanidades es ya imposible de reconstruir.
+La cuestión que esta producción de proyectos ha traido es la
+de tratar de comprender cómo se produce el saber humanístico
+cuando está apoyado por herramientas digitales y no sólo ya
+por aquellas que había usado durante una larga tradición.
+Se afirma, por ejemplo, en relación con el análisis textual,
+que el modo de acercamiento a través del uso de herramientas
+digitales no es el mismo que aquel que se hacía tradicionalmente
+a trave’s del libro. ¿En que' sentido se habla de otro modo
+de acercamiento?
+Tal vez el u’nico asunto más importante en llevar a cabo la transformación
+es la escala. Gregory Cane estima al alza el número de
+libros que cualquiera puede leer en la vida es veinticinco mil (asumiendo
+que se lee un libro al día de los quince a los ochenta y cinco
+años). Por su parte, los textos digitalizados pueden ser buscados,
+analizados y correlacionados por algoritmos computacionales en
+una cantidad de cientos de miles (ahora con Google Books, en un
+millón más), limitado únicamente por la cada vez mayor velocidad
+del procesador y capacidad de almacenamiento. En consecuencia,
+las búsquedas en la máquina permiten preguntas que simplemente
+sería imposible ser formuladas por un cálculo manual (Hayles,
+2012, p. 27).g
+9 [Perhaps the single most important issue ¡n effecting transformation is scale. Gre
+gory Crane estimates that the upward bound for the number of books anyone can
+read in a Iifetime ¡s twenty-five thousand (assuming one reads a book a day from
+age fifteen to eighty-fi’ve). By contrast, digitized texts can be searched, analyzed,
+and correlated by machine algon‘thms number ¡n the hundreds of tha/sanos (no,w
+with Google Books, a mil/¡on more), Iimrte'd only by ever-íncreasrng processor
+ I 143
+En este sentido, el uso de computadoras para realizar investigaciones
+en las humanidades marcaría una diferencia de
+los enfoques con los que el humanista se acerca a sus objetos
+de investigación. A partir de este cambio en las metodologías
+K. Hayles en How we think: digital medía and contemporary
+technogenesis propone que la aparición de nuevos recursos y
+métodos han terminado por producir una nueva forma del pensamiento.
+La tesis de Hayles es que los cambios producidos
+por el uso de tecnología digital se dan tanto en el nivel de la
+estructura cerebral como en las formas de temporalidad involucradas
+en los procesos de interacción con la máquina. Hay les
+llama Tecnogénesis al proceso de interacción, que describe con
+la forma de una espiral, en el que tanto el cuerpo humano como
+la técnica cambian en el intercambio producido por su relación.
+Una de las preguntas que nos parecen relevantes en torno
+al discurso sobre el cambio de la forma de pensamiento en las
+humanidades, es en que’ sentido se entiende el concepto de
+pensamiento. La descripción que hemos hecho de la distinción
+que una cierta tradición humanística clásica ha hecho entre el
+pensamiento propio de lo humano, y el que es producto de las
+operaciones de la máquina, nos parece útil para acercarnos a
+una comprensión del sentido en que se habla de una nueva forma
+de pensamiento en el campo humanístico a partir del uso de
+tecnología digital. En efecto, no se trata de abordar los cambios
+del pensamiento de manera trivial, sino de pensar las herramientas
+con un alcance distinto al de las mod ificaciones de la materia,
+las herramientas que intervienen el pensamiento juegan así un
+papel en la conformación del mismo, lo influencian, lo modelan:
+speed and memory storage. Consequently, machine quen'es allow questions that
+would simply be impossib/e by hand calculatíon] (Traducción de los autores).
+144 I 
+Como Alan Liu observa acertadamente sobre las tecnologías digitales
+(igualmente ciertas para la imprenta) “estas no son solo herramientas
+sino herramientas a través de las cuales pensamos”. Las
+tropas marchan juntas: herramientas con ideas, modelando suposiciones
+con presuposiciones sobre la naturaleza de los eventos, el
+significado de “leer” con el lugar del ser humano (p. 30).10
+En esta misma línea reflexiva es también pertinente la pregunta
+sobre la materia de trabajo tradicional del humanista, que
+no es tratada como “dato” en el mismo sentido de aquellas
+disciplinas que utilizan y procesan los datos de manera computable.
+Las aplicaciones y herramientas tecnológicas actuales
+y su uso por parte de los humanistas, como visualizaciones de
+datos, o diversos usos de Big Data, denotan una consideración
+diferente, en la que existe una comprensión de los datos de
+forma objetiva, determinante y acabada; es decir, que reconoce
+los te’rminos como completos para considerarlos datos. ¿Cómo
+puede un concepto en revisión continua ser sujeto de ser computable?
+¿En qué medida el humanista aporta esta revisión
+continua en el algoritmo de su tratamiento? ¿En que’ momento
+el humanista considera su propia materia de trabajo como datos
+computables para ofrecer un procesamiento diferente (en
+cantidad, calidad o proyección), de tal forma que complemente,
+mejore o incremente la pertinencia de su aproximación a un
+determinado problema de propio de las humanidades?
+Si aceptamos que la mayoría del conocimiento y prácticas
+humanísticas, dentro de la vida académica, toman una pers-
+10 [As Alan Liu apt/y obsen/es about digital technologies (equal/y true ofpn'nt), “These
+are not just tools but tools that we think through". The troops march together.
+tools with ideas, modeling assumptions with presuppositíons about the nature of
+events, the meaning of “reading” with the place of the human] (Traduccion de los
+autores).
+ | 145
+pectiva kantiana, su función es principalmente la formación
+de individuos que se dirijan al perfeccionamiento -po|itico y
+moral, partiendo de que la ilustración, al menos la kantiana,
+es Io que pretendía- de la humanidad. Ahora, habría que considerar
+que las prácticas dentro de la vida académica se han
+ido modificando constantemente, sobre todo en lo que respecta
+a los modos en que se produce el saber en dichas instituciones.
+Por ejemplo, de un esquema catedrático cerrado, en
+donde sólo el profesor tiene la palabra, pasamos a uno que,
+si bien no cambia radicalmente, si permite una interacción
+mayor, abriendo Ia oportunidad de discutir los planteamientos
+desarrollados dentro de las aulas. Este pequeño desplazamiento
+nos lleva a preguntar si la finalidad de las prácticas
+humanísticas dentro de la academia ha permanecido intacta
+hasta antes de la llegada de las computadoras o si han tenido
+variaciones.
+En principio, parece que con Ia aparición de las tecnologías
+digitales lo único que ocurre es que la función de las humanidades,
+Ia de formar individuos mejores, se extiende, cuantitativamente
+hablando, pues la formación ya no le compete sólo
+a quienes gestionan el saber, sino a aquellos que lo reciben
+y que pueden cuestionarlo. Pero esta podria ser una conclusión
+apresurada, pues Ia estructura de poder bajo la cual se
+rigió -y aún se rige en algunos espacios- tradicionalmente la
+academia (por ejemplo bajo el esquema profesor-alumno, que
+básicamente otorga la autoridad al primero produciendo una
+relación activo-pasivo) es puesta en cuestión, no so’Io porque
+la participación e interacción dentro de las aulas es mayor y
+genera prácticas extra académicas, sino porque los métodos
+de produccio’n y distribución del saber también cambian.
+146 l 
+Por ejemplo, ese mismo esquema catedrático dificilmente
+permitía utilizar herramientas para difundir el saber humanístico,
+fuera de los discursos pronunciados en las aulas. Una de
+las formas en que quiza’ se promovían estos saberes son los
+libros, respecto a los cuales ha habido infinidad de debates últimamente
+respecto a su permanencia y alcance, debido, por
+ejemplo, a Ia disponibilidad de ellos; ya que los costos de producción
+suelen ser determinantes en el aumento o disminución
+de su asequibilidad. No obstante, el uso de las tecnologías digitales
+por parte del sector académico ha trascendido en el uso
+del libro como único soporte para la transmisión del saber; así,
+las tecnologías digitales han modificado las maneras en que el
+conocimiento se hace visible.
+Siguiendo esto, la discusión acerca de una supuesta distinción
+entre el pensamiento humanístico y el pensamiento
+computacional tiene lugar en un contexto en el que las humanidades
+comienzan a posicionarse a partir del uso de los
+dispositivos tecnológicos en donde interviene el cómputo. No
+sólo mediante su uso, sino como herramientas para producir
+conocimientos a trave’s del trazo de correlaciones entre datos
+y Ia visualización de los mismos. La administración de la información
+que permiten las nuevas plataformas han permitido a
+los involucrados en las tareas académicas y de investigación
+llevar a cabo una supuesta interpretación de un gran cúmulo
+de datos, así como proponer herramientas para gestionarlos.
+HISTORIAS
+Llegados aquí nos interesa abordar preguntas como: ¿de qM‘
+tecnologías estamos hablando? ¿A qué nos referimos con pe ne
+ l 147
+samiento computacional? Entenderemos al pensamiento computacional
+como la producción de un conocimiento basado en
+la administración eficaz del manejo de grandes cantidades de
+datos. La computación tiene como finalidad la abstracción y
+sistematización de la información. A partir de la creacio’n de
+lenguajes, sistemas de organización y la organización de sistemas,
+se busca reproducir un sistema de almacenamiento,
+ordenamiento y disposicio’n de datos.
+Charles Babbage (1791), Leibniz (1646) y Blaise Pascal
+(1623) son considerados los forjadores de la computación. El
+trabajo de estos tres personajes coincide en su interés por
+crear calculadoras mecánicas capaces de procesar grandes
+cantidades de datos numéricos. Es asi que podemos esbozar
+que el objetivo de la computación en sus orígenes estuvo ligado
+al procesamiento de ca’lculos matemáticos y a la necesidad
+de agilizarlos. Pero no sólo a las matemáticas, también
+podemos encontrar a la filosofia relacionada de manera intima
+con las computadoras desde los inicios de la tecnología digital,
+como sostiene Charles Ess en el apartado 12 de A Companíon
+to Digital Humanities:
+Podría decirse que la computación es filosofía - específicamente
+la rama de la filosofía que concierne a la lógica. Nuestros aparatos
+computacionales dependen del sistema lógico desarrollado por
+George Boole en las décadas de los 403 y 503 del siglo XlX; previo
+a Boole, cierto número de filósofos de la era moderna -de manera
+notable Leibniz- se preocupaban de las posibilidades de las máquinas
+que pudieran automatizar el razonamiento como manipulación
+de símbolos. Por Io tanto, quizá no es sorprendente que algunas
+de las aplicaciones más tempranas de las tecnología computacional
+en la filosofía fueron precisamente en el área de la lógica - en
+148 I José FRANCISCO BARRÓN TOVAR BT AL.
+un esfuerzo tanto por explotar a la computadora como un aparato
+de cálculo lógico (por ejemplo, para evaluar validez argumental y
+generando conclusiones válidas a partir de premisas específicas;
+ibid.) como por automatizar la enseñanza de la lógica [...]. Mas' aún,
+dado que las computadoras automatizan y expanden nuestra habilidad
+de emprender análisis lógicos, ellas no sólo ofrecen nuevas
+maneras de llevar a cabo tareas lógicas clásicas [...], ademas' ellas
+abren formas distintivamente nuevas de explorar preguntas filosóficas
+clásicas (Schreibman, Siemens y Unsworth, 2004).11
+Entre los instrumentos que podemos nombrar en relación
+con esta finalidad está el a'baco y las tarjetas perforadas, instrumentos
+tecnológicos que más tarde tomarían cualidades
+electrónicas, y que harían posible el procesamiento de cálculos
+matemáticos en segundos. De esta manera, podemos decir
+que la computación ha trabajado a partir de reglas que le permitan
+elaborar un procedimiento sistemático que proporcione
+una cierta certeza y velocidad a quienes utilizan las máquinas
+de procesamiento de datos; por ejemplo, las calculadoras.
+En la dec’ada de los cuarenta, John Von Neumann desarrolla
+la primera computadora, cuyo nombre en latín hace referencia
+11 [Arguably, computing is philosophy —specifically, the branch of philosophy concerned
+with logic. Our computing devices depend on the logical system developed
+by George Boo/e in the 1840s and 18503; pn'or to Boo/e, a number of philosophers
+in the modern era -most notably, Leibniz- concerned themselves with the possibi-'
+Iities of machines that might automate reasoning as the manipulation of symbols.
+Hence, ¡t is perhaps not surprising that some of the earliest applications of computíng
+technology in philosophy were precise/y in the area of logic' — in efforts both to
+exploit the computer as a logica! calculatlng device (e.g., for assessing argument
+validity and generating valid conclusions from specified premisas; ibid.) as well
+as to automate the teaching of logic [...]. Moreove,r as computers automate and
+expand our ability to undertake logica! analyses, they not only offer new ways of
+accomplishing classical logica! tasks [...], they further open up distinctively new 1‘U
+ways of explon'ng classical philosophical questions] (Traducción de los autores).
+ I 149
+al cálculo; en este caso, y como se mencionó en párrafos anteriores,
+su uso estaba estrechamente ligado al trabajo científico.
+A partir de este momento las computadoras estara'n divididas
+en cuatro unidades: la aritme'tico-lo’gica, la unidad de control,
+Ia memoria y los dispositivos de entrada y salida. Es decir, la
+computadora debía contar con un lenguaje capaz de procesar
+o entender los datos que le eran suministrados del exterior y
+emitir una respuesta a las preguntas planteadas, además de
+tener una unidad capaz de administrar las tareas y almacenar
+la información procesada.
+El contexto anterior implicó el desarrollo de un lenguaje'
+mediante el cual fuese posible estar en comunicación con la
+computadora, y a través del cual pudie’semos solicitarle tareas
+específicas, mismas que representaban, y representan, un ahorro
+de tiempo para los humanos, particularmente, el de los investigadores,
+en esta primera parte de la computación. De esta
+manera, podemos pensar que en su inicio el pensamiento computacional
+tenía la misión de procesar rápidamente ingentes
+cantidades de información, destinados a encontrar resultados
+matemáticos enfocados a tareas específicas.
+A partir del uso de los dispositivos que gestionan información
+computable, así como la expansión de los datos que
+generamos, el manejo y administración de los datos se ha
+transformado profundamente en los años recientes. Las predicciones
+realizadas sobre las implicaciones de este crecimiento
+se vieron superadas por el desarrollo tecnolog’ico, provocando
+una mayor comunicación y transmisión de datos entre las
+personas y los canales disponibles para hacerlo. A finales de
+los años noventa, los investigadores de la NASA Michael Cox y
+David Ellsworth, afirmaron que el ritmo de crecimiento de los
+150 I 
+datos que se estaban generando, implicaba un problema para
+los sistemas informáticos vigentes: el problema del Big Data.
+La información transferida y comunicada a través de dispositivos
+computacionales, así como los metadatos que se generan
+entre los sistemas que comunican dicha información, se
+multiplicaron rápidamente. La información creada de manera
+ana’loga migro' a una versión digital que facilitó procesos de almacenamiento,
+organización, investigación y análisis.
+De acuerdo a Scho"nberger y Cukier (2013), lo que llamamos
+Big Data se refiere a lo que puede realizarse con grandes muestras
+de datos que no podría ser realizado con muestras más
+pequeñas, para generar nuevas aproximaciones o crear nuevas
+formas de valor de tal forma que transforme mercados, organizaciones,
+la relación entre ciudadanos y gobiernos, entre otros.
+El uso de Big Data, se refiere en principio a trabajar con grandes
+bases de datos de distintas características, de tal manera que
+sea posible identificar patrones y correlaciones en la información.
+En este sentido es posible sustituir el uso de muestras
+de información, por la información misma de los universos que
+queremos conocer, medir o predecir a trave's de algoritmos y
+metodologías diversas. Esta posibilidad, implica un cambio de
+paradigma en la forma en la que es aprehendido un problema
+de investigación y su metodología, de manera que el problema
+de investigación o estudio puede dejar de ser modelado
+a través de muestras de información que lo representan, y ser
+modelado a través de la totalidad de ¿os datos que se tienen
+sobre el mismo.
+En este sentido, la cantidad de información producida “por”
+las personas y sus interacciones, y “sobre” las personas y sus
+interacciones entre sí y los objetos, lugares, etcétera, provoca
+un acercamiento diferente a la investigación, siendo que
+ I 151
+es posible conocer las relaciones desde una perspectiva más
+amplia a través de algoritmos matemáticos pertinentes. La investigación
+en las humanidades se ve a su vez transformada en
+este escenario, pues cuenta con las condiciones para acceder,
+organizar, administrar y analizar los datos de una manera diferente
+a la que se había realizado de manera previa. El uso de las
+herramientas disponibles permite identificar nodos de datos,
+textos, referencias, autores, conceptos, obras, etcétera, de tal
+manera que se visibilizan relaciones que por el manejo previo
+de los datos no era posible.
+Esto introduce a su vez, la posibilidad de generar nuevas
+preguntas y aproximaciones a los estudios humanísticos (¿de
+cuáles datos pueden apropiarse las humanidades para realizar
+aproximaciones impensables anteriormente?), así como al replanteamiento
+de las implicaciones que el Big Data tiene desde
+una perspectiva de las humanidades (tecnovigilancia, privacidad,
+Ia dimensión e'tica del uso de datos para fines de salud
+pública, etcétera).
+Hemos dicho que las humanidades tenían, sobre todo, una
+perspectiva kantiana, pero la formación humanística del individuo
+en pos de un mejoramiento de lo humano, ideal de las humanidades
+tradicionales y que en buena parte se mantiene para los humanistas
+digitales, au'n parece lejana, pues aunque es cierto que:
+Gracias al arte y la ciencia somos extraordinariamente cultos. Estamos
+civilizados hasta la exageración en lo que atañe a todo tipo de
+cortesía social y a los buenos modales. Pero para consideramos moralizados
+queda todavía mucho. Pues si bien la idea de la moralidad
+forma parte de la cultura, sin embargo, la aplicación de tal idea, al
+restringirse a las costumbres de la honestidad y de los buenos modales
+externos, no deja de ser mera civilización (Kant, 1994, p. 17).
+152 I 
+Esto enfatiza que el conocimiento humanístico no implica
+únicamente una serie de contenidos producto del desarrollo del
+pensamiento, sino formas y prácticas en donde dichos contenidos
+se despliegan, produciendo actitudes o tipos de individuos
+con características particulares.
+Pese a esta afirmación, resulta interesante que la concepción
+que se tiene de las humanidades no expresa este carácter,
+al contrario muchas veces Ia apreciación del saber humanístico
+es desdeñosamente calificado como poco eficaz para el mundo
+de nuestros dias. Así en algunos cursos para docentes de
+educación media superior se plantea que: “Existe actualmente
+un consenso general dentro de la comunidad educativa mundial
+sobre la necesidad de superar el tipo de enseñanza basada
+en la transmisión de contenidos para apuntar en su lugar al
+desarrollo de capacidades” (García, 2009, p. 4).
+Dejando de lado por el momento lo que respecta a la transmisio’n
+de conocimientos centrémonos en ese desarrollo de
+capacidades que se piensa adolecen los saberes humanísticos
+y que si es parte esencial de otro tipo de saberes, como el computacional,
+que provee al individuo herramientas suficientes
+para la resolución de problemas. De ahí que “la programación
+de computadores constituye una buena alternativa” (García,
+2009, p. 4).
+PEDAGOGÍA
+¿Se podría hablar de una instrucción tecnológica al margen de
+un pensamiento humanista digital? Para el caso de Ia relación
+humanidades-tecnología para la producción de conocimiento,
+e’sta resulta inadecuada para algunos, incluso negativa. En
+ I 153
+cambio a otros, les parece un camino posible para efectuar,
+de algún modo, la finalidad que la Ilustración determinó para
+sí en su momento: la emancipación del individuo. Sin embargo,
+hay que tener presente que estos dos polos no surgen a
+partir del vínculo human¡dades-tecnología, por el contrario,
+muchos de estos discursos surgieron desde la ciencia aplicada,
+en los laboratorios, en la industria y algunos otros desde
+la academia.
+En tales discursos se hallan, como ya hemos mencionado,
+básicamente dos tendencias: una que vería en el uso y efectos
+de la tecnología una causa de retroceso y otra que por el contrario
+mire en ella una forma de progreso de la humanidad. Es
+importante hacer notar que estas tendencias au’n son vigentes
+en discursos y prácticas actuales, dentro y fuera de la vida académica
+de las humanidades. Uno de los principales aspectos
+que se rechaza y crítica de la tecnología en relación con las
+humanidades es el hecho de que la primera es un elemento
+que juega a favor de la producción capitalista, por lo que las
+humanidades en su afán por otorgar autonomía al individuo,
+estarian traicionando o fomentando la participación del capital
+dentro de sus procesos de producción del saber. En ese cariz,
+la tecnologia propicia la enajenación de los individuos que en
+lugar de avanzar hacia su perfeccionamiento y el de la humanidad
+en su conjunto, van en retroceso y destruyen los vínculos
+que hasta ahora se habían formado, pues:
+El sujeto, en su condición de enajenamiento, acepta gustoso la
+sentencia última de la industria cultural, y bien, podríamos decir
+del modo de producción capitalista: “Ada'ptate a mi o muere". Así
+como al siervo no le quedaron más opciones que vender su fuerza
+de trabajo después de la expropiación de las tierras a manos de
+154 I 
+los grandes capitales, a la masa no le queda otra opción que consumir
+lo que se le da para consumir, so pena de quedar relegado y
+excluido del socius (Rodríguez Munguía, 2014, p. 71).
+Si tomamos en cuenta lo que la cita anterior nos dice y
+asumimos que este planteamiento no es exclusivo de unos
+cuantos sino una fuerte tendencia tanto en la academia como
+fuera de ella, habría que analizar cuidadosamente el uso que
+la tecnología adquiere en la labor de los humanistas. Además
+del uso concreto que se le da, habría que ser cauteloso con
+los discursos que propician tales usos en relación con las
+prácticas del saber humanístico, pues a partir de e'l se producen
+imágenes sobre la función de cada una de ellas. Es importante
+este primer punto porque no so’lo se asume que la tecnología
+propicia Ia enajenación de los individuos, sino se reitera que
+es un factor que imposibilita el despliegue de las capacidades
+del hombre y, por ello, debe evitarse a toda costa cualquier
+elemento que impida dicho desarrollo.
+Nuestra idea de lo que es el pensamiento se relaciona con
+las prácticas que lo hacen posible, dentro y fuera de los espacios
+académicos que son los que principalmente sostienen
+su producción y quienes le adjudican un sentido particular.
+La concepción del conocimiento que generalmente se asume
+en la academia se debate entre dos posturas que, aunque se
+formulan como distintas, apuntan al mismo anhelo de perfeccionamiento
+del proceso racional, hacia una intención de eliminar
+la mediación del saber, por un lado puede suponerse una
+imagen como representación de lo que es ideal conseguir para
+la humanidad y encaminar los esfuerzo a lograr ese ideal, por
+otro lado se establece un esquema que regula una serie de
+procedimientos que son propios de los seres con razonamiento
+ l 155
+y que, por tanto, una vez delimitados pueden ser perfeccionados
+y potencializados con la ayuda de la tecnología.
+Una de las definiciones de pensamiento computacional ma’s
+relevante y que tiene que ver con esta concepción del perfeccionamiento
+de lo humano se ha formulado desde la perspectiva
+de la enseñanza de computación en las escuelas, como
+un problema didáctico que implica generar una argumentación
+que justifique la inclusión de la computación, del llamado pensamiento
+computacional, en los programas pedagógicos de
+educación básica. En 2006, Jeannette Wing formula una definicio’n
+de pensamiento computacional que resulta ampliamente
+influyente en los círculos pedagógicos, tanto entre educadores
+e investigadores, como entre personas encargadas de decidir
+nuevas políticas educativas.
+El texto de Wing abrió el campo de discusión con respecto
+al pensamiento computacional aplicado fuera de la esfera de
+las ciencias de la computación, al declarar: “El pensamiento
+computacional es una habilidad fundamental para todos, no
+sólo para los científicos computólogos. Junto con la lectura, la
+escritura y la aritmética, deberíamos añadir pensamiento computacional
+a las habilidades analíticas de todos los niños".12 Se
+trata, por lo tanto, de una habilidad que puede (y debe) ser
+desarrollada por todos, que no es accesoria y que además se
+equipara a la habilidad de leer, o a la de escribir. Una habilidad
+que más que depender del uso de máquinas consiste en una
+manera de pensar, un marco interpretativo del mundo.
+En dicho texto se define al pensamiento computacional
+como una manera de resolver problemas en la cual intervienen
+12 [computational thinking is a fundamental skill for everyone, not just computer
+scientists. To reading, wn'ting, and an'thmetic, we should add computational thinking
+to every chi!d”s analytical ability] (l'raduccio'n de los autores).
+156 I José FRANCISCO BARRÓN TOVAR BT AL.
+ciertas herramientas mentales que se consideran fundamentales
+en la ciencia de la computación. Este tipo de resolución de
+problemas toma en cuenta las capacidades de la máquina, tanto
+materiales como operativas, y la manera en que pueden ser u’tiles
+para complementar o sustituir las capacidades humanas. Wing
+sostiene que “El pensamiento computacional confronta el acertijo de
+la inteligencia de las máquinas: ¿Qué pueden hacer los humanos mejor
+que las computadoras? y ¿que’ pueden hacer las computadoras mejor
+que los humanos? De forma más fundamental encara la pregunta: ¿qué
+es computable?” (2006, p. 1).13 No se trata de aprender a pensar
+como la ma'quina, ni tampoco de aprender a programar dispositivos,
+segu'n esta definición, sino de determinar de que' manera
+puede reformularse un problema para poder solucionarlo.
+En un texto de 2010 Wing replantea su definición para decir
+que:
+el pensamiento computacional describe la actividad mental de formular
+un problema para que admita una solución computacional.
+La solución puede llevarla a cabo un ser humano, una máquina o,
+de manera más general, una combinación de seres humanos y máquinas.
+[...] No me refiero sólo a problemas bien definidos matemáticamente,
+cuyas soluciones son completamente analizables -por
+ejemplo, una prueba, un algoritmo, o un programa- sino también
+a problemas del mundo real cuya solución pueda estar en la forma
+de grandes y complejos sistemas de software. [...] interpretado de
+manera amplia, el pensamiento computacional se utiliza en el análisis
+y diseño de los problemas y sus soluciones.
+13 [computational thinking confronts the n'ddle of the machine intelligence: What
+can humans do better than computers? and What can computers do better than1
+humans? Most fundamenta/ly ¡t addresses the question: What is computable9].
+(Traducción de los autores).
+ I 157
+A partir de estas definiciones podemos observar que hay
+implícita en Wing (y tal vez en otros pensadores de Io computacional)
+una distancia o diferenciación entre “el mundo real” y
+elementos abstractos como las matemáticas o los sistemas de
+software. Se sugiere desde esta perspectiva, que en buena medida
+prima en la forma en que se concibe a la tecnología desde
+las políticas educativas, que las soluciones a problemas reales
+pueden ser obtenidas a través de ese otro mundo, más claro
+y organizado, de lo computacional. Vemos aquí repetido el
+discurso salvífico de la tecnología, que insiste en abordarla de
+manera acrítica como una solución indiscutible a problemáticas
+que le son externas, pues se encuentre en ese otro mundo, el
+real, al que ella no pertenece.
+APUNTES FINALES
+Este breve recorrido por algunas de las articulaciones históricas
+o discursivas de humanidades y pensamiento computacional
+nos permite caracterizar a este último como un modo de pensamiento
+en el que se resalta el carácter utilitario, es decir, aún
+cuando en el pensamiento computacional intervienen una serie
+de procesos complejos en la manera de entender el mundo, Io
+humano y las máquinas, su valor preeminente, según sus teóricos,
+lo obtiene de su utilidad en la resolución de problemas.
+También es pertinente notar que esa “resolución” de problemas
+está formulada de acuerdo a un ideal de mundo, de vida y de
+lo humano que abreva del discurso ilustrado que aqui hemos
+ejemplificado en su versión kantiana.
+Aunque la nocio’n misma de pensamiento computacional (o
+de términos que mientan conceptos similares, como “teoría de
+158 I 
+la computación”, “conocimiento en informática”, “pensamiento
+procesal”, o “programación procesal”)14 se remite a los años
+sesenta, la preocupación por abordar los conceptos y herramientas
+de la computación de formas que van más allá de la
+mera programación surge con fuerza entre personas dedicadas
+a las humanidades, y a otros ámbitos del saber que no son
+las ciencias de la computación, en tiempos más recientes.
+Los pensadores de Ia computación son los creadores, diseñadores
+y desarrolladores de herramientas tecnológicas y de
+sistemas que actualmente contribuyen a los mayores avances
+en casi todos los campos del entendimiento y el quehacer humano.
+A partir de estas nociones la promesa del pensamiento
+computacional es que puede mejorar la solución de problemas
+y el pensamiento critico aprovechando todo el potencial que
+ofrece la computación.
+Para concluir, quisiéramos señalar que tanto el pensamiento
+humanistico, sea clásico o sea humanístico-digital, como el
+pensamiento computacional, poco han criticado los principios
+desde los cuales se ha construido una idea de lo humano, del
+pensamiento humano, de los ideales hacia los cuales debe encaminarse
+la humanidad, la delimitación de sus prácticas, etcétera.
+En ese sentido, sus discursos au'n se rigen, con mayor o menor
+medida, bajo esquemas del humanismo clásico, bajo pretensiones
+de autonomía, emancipación y mejoramiento del hombre,
+de la humanidad en su conjunto. Si bien en los modos que las
+Humanidades Digitales ponen en operación para alcanzar estas
+metas lo que variarían serían las herramientas que emplean para
+lograrlo. Lo interesante es poner atención a sus prácticas, a los
+usos que hacen de las herramientas para producir su saber, pues
+14 [computer Iiteracy, procedure! thinking o procedural programming].
+ l 159
+aunque en sus discursos au'n permanecen cercanos a los ideales
+del humanismo clásico, sus prácticas no necesariamente esta’n
+vinculadas con la realización de dichos ideales, pues a pesar que
+sus discursos ordenan y encaminan sus prácticas, éstas resultan
+lejanas, pues sus efectos no pueden preverse a partir de los discursos
+con las cuales fueron planteadas.
+Este no prever los efectos nos obliga a pensar la tecnología,
+sus usos, sus efectos, más allá de los lugares y discursos
+comunes con que se ha tratado, en este caso, el tratamiento
+que los humanistas le adjudican dentro de sus discursos,
+pero que en sus prácticas arroja efectos distintos a los que se
+habían planeado. De lo que se trata es de pensar la tecnologia
+en su relación con las humanidades, más alla’ de discursos mediáticos
+y comenzar a construir nuevos discursos a través de
+los resultados que en sus prácticas se van produciendo dentro
+y fuera del quehacer humanístico y de las prácticas computacionales.
+Pues lo que las Humanidades Digitales deberian aún
+mostrar es si es posible hacer critica con tecnología.
+REFERENCIAS
+AMOZURRUTIA, J. (2011). Complejidad y Ciencias Sociales, un modelo
+adaptatívo para la investigación interdisciplinan'a. México:
+UNAM.
+Benny, D. M. (2011). The Computational Turn: Thinking About the
+Digital Humanities. Culture Machine. Recuperado de: <htth'/
+www.cuIturemachine.net/index.php/cm/article/viewArti-
+CIe/440>.
+. (2012). Understanding DigitalHumaníties. Recuperado de:
+<https://e-edu.nbu.bg/pluginfile.php/821512/mod_resour—
+160 I 
+ce/content/1/Berry%202012%20-/°020Understanding/°020
+Digital/°020Humanities.pdf>.
+Bovo, D., y Crawford K. (2012). Critical Questions for Big Data,
+Information, Communication & Society, 15(5), 662-679, DOI:
+10.1080/13691 18X.2012.678878; <http://dx.doi.org/10.1080
+/1369118X.2012.678878>.
+BURDICK, A., Drucker, J., Lunenfeld, P., Presner, T., y Schnapp, J.
+(2012). Digital Humanities. MIT Press. Recuperado de: <http://
+mitpressmit.edu/sites/default/files/9780262018470_Open_
+Access_Edition.pdf>.
+FINKBEINER, A. (2007). Los Jasons: La historia secreta de los cientificos
+dela Guerra Fna'. Barcelona: Ed. Paidós.
+GROVER, S., y Pea, R. (2012). “Computational thinking in K-12. A
+Review of the State of the Field”. Sage Journals. Recuperado
+de: <http://edr.sagepub.com/content/42/1/38.fu||>.
+HAYLES, K. (2012). How We Think: Digital Media and Contemporary
+Technogenesis. Chicago: University Chicago Press.
+KANT, l. (1994). Ideas para una historia universal en clave cosmopolita.
+Madrid: Te'cnos.
+__. (2003). Pedagogia. Madrid: Akal.
+LEW, P. (1999). ¿Qué es lo virtual? Barcelona: Ed. Paidós.
+Lopez GARCÍA, J. C. (2009). Educación Básica. Algon‘tmos y programación.
+Gura' para docentes. Recuperado de: <http://
+www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf>.
+MIGALLÓN SERRANO, F. (2005). La Universidad frente al tercer milenio.
+México: UNAM.
+RODRÍGUEZ MUNGUÍA, R. (2014, enero-junio). “La enajenación dela
+clase media en la sociedad capitalista”. Murmu/Ios Filosóficos.
+Número 6.
+ROMERO FRÍAS, E., y Sánchez González, M. (eds.) (2014). Ciencias
+Sociales y Humanidades Digitales. Técnicas, herramientas y
+ I 161
+expen'encias de e-Research e investigación en colaboración.
+CAC, Cuadernos Artesanos de Comunicación, 61 . Recuperado
+de: <htth'/www.cuadernosartesanos.org/2014/cac61.pdf>.
+SALGADO PÉREZ, H. F. (2014, Mayo). “Escribir desde la informática”.
+Ponencia presentada en el XXX Encuentro Nacional de
+Estudiantes y Pasantes de Filosofía 30 años de la CONEFI:
+Pensamientos subversivos de las filosofías que constituyen la
+mesa denominada Filosofía y tecnología. Guadalajara, Jalisco,
+7 de mayo de 2014. Dropbox. Recuperado de: <https://www.
+dropbox.com/s/ypi253t8qnOrfyh/Escribir_desde_la_informatica_
+CORREGI DO.docx>.
+SCHÓNBERGER V.M., y Cu kier, K. (2013). Big Data: A Revolution that
+Will Transform How We Live, Work and Think. Recuperado de:
+<http://ow.ly/L0iep>.
+SCHREIBMAN, S., Siemens, R., y Unsworth, J. (Eds.). (2004). A Companion
+to Digital Humanities. Blackwell Publishing. Recuperado
+de: <http://www.digitalhumanities.org/companion/>.
+SYKORA, C. (2014, Septiembre). “Computational thinking for all.
+ISTE”. Recuperado de: <http://www.iste.org/explore/articledetail?
+articleid=1 52>.
+WlNG, J. (2006). “Computational thinking". Carnegie Mellon University.
+School of Computer Science. Recuperado de: < https://
+www.cs.cmu.edu/N151 10-s13/Win906-ct.pdf>.
+___. (2010, Noviembre). “Pensamiento computacional. ¿Qué
+y por qué?” Scribd. Recuperado de: <http://es.scribd.com/
+doc/129100891/Pensamiento-Computacional-Que-y-Por-
+Que-Je annette-Wing>.
+View publication stats

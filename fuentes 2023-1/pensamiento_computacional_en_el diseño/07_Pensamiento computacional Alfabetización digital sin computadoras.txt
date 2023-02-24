@@ -1,0 +1,664 @@
+Pensamiento computacional. Alfabetización digital sin computadoras
+
+Dr. Umberto Roncoroni Osio
+Profesor principal
+Facultad de Comunicación
+(Universidad de Lima)
+https://orcid.org/0000-0002-9120-2390
+Perú
+
+Magister Jaime Bailón Maxi
+Profesor Asociado
+Facultad de Comunicación
+(Universidad de Lima)
+https://orcid.org/0000-0003-3544-3664
+Perú
+
+Resumen
+El pensamiento computacional es un conjunto de conocimientos en las áreas
+STEM introducido en los programas educativos para preparar a los estudiantes en la
+comprensión y el uso de los medios y las herramientas digitales. Sin embargo, no se
+ha tomado en cuenta que los medios digitales influyen no solo en el desarrollo del
+conocimiento, sino también en la economía, la cultura, la comunicación y las relaciones
+sociales. El objetivo es revisar y superar algunas limitaciones del paradigma
+del pensamiento computacional para aprovechar todo su potencial. Queremos demostrar,
+mediante la literatura científica y el trabajo de campo, que el pensamiento
+computacional rescate las humanidades, las manualidades y las tradiciones culturales
+locales. Para esto se estudiarán: a) la crítica a los fundamentos neopositivistas
+del tecnocentrismo; b) la naturaleza del medio digital, con énfasis en el software y
+la creatividad digital, y c) las metodologías y prácticas educativas, entre las que se
+proponen la máquina de Turing y las shape grammars. Se concluye que, para fortalecer
+el pensamiento computacional, las maquinarias informáticas no son imprescindibles;
+más aún, podrían ser contraproducentes para el aprendizaje y la creatividad.
+Palabras clave: Computación; Creatividad, educación; Identidad cultural; Software;
+Tecnocentrismo
+
+1. Introducción
+La economía de redes, la fabricación digital, la robótica, la inteligencia artificial
+y las redes sociales generan cambios disruptivos en las empresas, en la producción,
+en el marketing y en la comunicación. En el campo educativo, las instituciones, los
+docentes y los estudiantes encuentran dificultades para relacionarse con la revolución
+digital y responder eficazmente a las complejas transformaciones políticas,
+económicas y sociales. Tanto es así que, luego de muchos entusiasmos iniciales, se
+comienza a reconocer que la informática educativa no está dando los resultados esperados
+(Buckingham, 2006; Dussel y Quevedo, 2010; Denning, 2017; Wolf, 2018).
+Hay dos razones principales que explican este desencuentro.
+En primer lugar, las tecnologías, y en especial las digitales, no son política y
+culturalmente neutrales. Como señalaron Deleuze (2006) y Flusser (1984), hoy las
+máquinas son sistemas complejos que capturan al usuario en una cadena de procesos
+ocultos y cada vez más dependientes del poder económico y político. Por tanto,
+los medios digitales deben ser leídos considerando las contradicciones del sistema
+capitalista contemporáneo: las dinámicas de la innovación democrática y la realidad
+de los monopolios. La primera se expresa en la utopía de internet de Barners
+Lee y en la cultura hacker y del software libre (Stallmann, 2002; Lanier, 2014); la
+otra consiste en los nuevos sistemas de control y censura de los monopolios digitales
+como Google o Facebook.
+En segundo lugar, aún no existe una idea suficientemente clara de los procesos,
+las propiedades y los efectos socioculturales de los medios digitales. Se acelera el
+desarrollo tecnológico como consumo, pues las TIC son consideradas herramientas
+prácticas y operativas sin connotaciones culturales, pero se ignora la naturaleza
+creativa del medio digital y el hecho de que las aplicaciones comerciales condicionan
+a los usuarios, debido a la mediación de las interfaces, en un universo simbólico
+y en un paradigma epistemológico y operativo único y globalizado.
+Las recientes reformas curriculares en Europa o Estados Unidos (Ministero dell’
+Istruzione, dell’Universitá e della Ricerca [MIUR], 2010; Johnson, Adams Becker,
+Estrada y Freeman, 2015) han intentado mejorar el uso de las TIC introduciendo
+en los currículos de primaria y secundaria el pensamiento computacional (Wing,
+2006; Aho, 2012). Pero esta solución padece de las mismas limitaciones que pretende
+superar. En efecto, los medios digitales establecen un verdadero zeitgeist
+que, trascendiendo el dominio del aparato tecnológico, requiere principios neurolingüísticos,
+cognitivos, computacionales y, sobre todo, filosóficos y estéticos.
+Estos contenidos trascienden el ámbito de las disciplinas STEM y apelan a las
+humanidades y a los saberes y habilidades analógicos, precisamente aquellos que
+las TIC pretenden reemplazar. En este artículo discutiremos algunas cuestiones cruciales desde el punto de vista educativo: los límites del “tecnocentrismo” (Papert,
+1980) y del “solucionismo tecnológico” (Morozov, 2014);1, la naturaleza creativa
+de los medios digitales; y la importancia de la identidad cultural y de las prácticas
+educativas tradicionales, para lo cual más adelante proponemos dos soluciones
+tecnológicas alternativas
+
+2. Método
+2.1 Problema de la investigación
+En su formulación original, Wing (2006) plantea que el pensamiento computacional
+tiene por finalidad preparar a los futuros profesionales (no solo a los de la
+ingeniería informática) para la sociedad red y el mundo digital. En este sentido,
+el pensamiento computacional se centra en los conocimientos y las competencias
+STEM (acrónimo en inglés para referirse a las habilidades en las ciencias, tecnología,
+ingenierías y matemáticas).
+Sin embargo, algunos investigadores como Denning (2017), han señalado que,
+con excepción de los especialistas en informática, el pensamiento computacional
+resulta de poca utilidad práctica y educativa. Sobre el mismo concepto, Guzdial,
+Kay, Norris y Soloway (2019) han indicado que sus contenidos son genéricos e incompletos
+para una efectiva contribución a la innovación de las políticas educativas,
+sobre todo, en lo que se refiere a la creatividad, la inclusión y la sostenibilidad
+(Fonseca, 2005; Varma, 2006). Algunos estudiosos incluso han observado que la
+teoría del pensamiento computacional carece de una clara visión de las peculiares
+propiedades de los medios digitales esenciales para una real innovación educativa
+(Buckingham, 2006; Manovich, 2013).
+
+2.2 Objetivos, hipótesis y justificación
+Nuestro objetivo es revisar y superar algunas limitaciones del paradigma del pensamiento
+computacional para aprovechar todo su potencial, bajo el supuesto que es
+indispensable la inclusión de las humanidades, el rescate de las prácticas educativas
+analógicas y las tradiciones culturales locales, a partir del desarrollo de tres tareas.
+La primera es la revisión del concepto de pensamiento computacional, centrado
+en el desarrollo de capacidades cognitivas STEM, originalmente elaborado por Wing
+(2006). El pensamiento computacional no debería reducirse a las ciencias de la
+computación, pues no todo es computable; incluso aquello que lo es depende del
+devenir del contexto sociocultural. Por esto necesitamos una visión más compleja
+de los procesos mentales de emisión de juicios y de resolución de problemas implicados
+en la computación. Aquí el pensamiento computacional se construiría en
+el límite de lo analógico y lo digital. El reto es que estos dominios, sin entrar en
+conflicto, colaboren enriqueciéndose mutuamente.
+La segunda tarea es desvelar las características más importantes de los medios
+digitales dentro de su conexión con las ciencias de la complejidad, el lenguaje y los
+saberes humanísticos. Sin la inclusión de aspectos más humanos en la enseñanza,
+como han señalado Reiman y Maday (2017), el pensamiento computacional no
+puede superar lo meramente operativo y contingente.
+Finalmente, la tercera es proponer una alternativa de alfabetización digital sin
+computadoras, para lo cual presentaremos las posibilidades y ventajas educativas
+de la máquina de Turing y de las shape grammars2.
+La forma de aprender los medios digitales que proponemos es especialmente relevante
+para un país como el Perú, porque permite incorporar los valores culturales
+y los saberes ancestrales de sus diversas regiones. Esto ayudaría a cerrar brechas
+y mejorar la inclusión de los estudiantes de zonas alejadas con escasos recursos
+económicos.
+
+2.3 Metodologías, materiales y resultados
+El contenido de este artículo deriva de las investigaciones desarrolladas en el
+Instituto de Investigación Científica de la Universidad de Lima (IDIC) en los últimos
+tres años. Desde el punto de vista teórico, se hizo una revisión crítica de la
+literatura indexada y se trabajó en el desarrollo de contenidos para los cursos y
+talleres y en el diseño de software educativo experimental3. Concretamente, se han
+desarrollado dos aplicaciones en C#: un simulador de la máquina de Turing y un
+simulador de la yupana, la calculadora inca4. Para el diseño de la interfaz y de las
+funciones, se han capitalizado las actividades de los talleres.
+El trabajo de campo ha sido esencial para poner a prueba nuestras hipótesis
+metodológicas y didácticas y ha revelado un componente fundamental para mejorar
+la eficacia educativa de la tecnología: el desarrollo manual previo mejora el
+entendimiento de las simulaciones digitales y su evaluación crítica. Esto vale tanto
+para los estudiantes como para los investigadores y programadores que diseñan
+aplicaciones educativas.
+
+2.4 Estructura del artículo
+El primer tópico que discutiremos será la crítica al tecnocentrismo, considerando
+el contexto social y, especialmente, ciertos tópicos de las ciencias de la complejidad
+que contribuyen al desarrollo de las ciencias de la computación. Luego,
+haremos un análisis de las características peculiares de los medios digitales: el
+lenguaje numérico y su dimensión de metamedio (Kay, 1984).
+En el siguiente apartado se tomarán en cuenta estas reflexiones para otorgar
+relevancia educativa al paradigma del pensamiento computacional en sentido inclusivo,
+creativo y sostenible.
+En el último apartado, presentaremos las ventajas de las máquinas de Turing y
+de las shape grammars. Las conclusiones se formulan alrededor de una paradoja:
+para desarrollar un verdadero pensamiento computacional necesitamos las humanidades,
+los contenidos y las didácticas que el tecnocentrismo casi ha logrado
+suplantar. Más aún, las maquinarias informáticas son prescindibles y hasta contraproducentes
+para el aprendizaje y la creatividad.
+
+3. Discusión
+Las TIC se consideran herramientas dedicadas principalmente al desarrollo científico
+y económico y a la gestión de las instituciones educativas, lo que explica el
+enfoque STEM del pensamiento computacional. El tecnocentrismo tiene alguna razón de ser; sin embargo, los medios digitales no son solamente herramientas utilitarias,
+sino también agentes importantes de las contradicciones de la sociedad red.
+
+3.1 Los límites del tecnocentrismo
+Detrás de ciertas inconsistencias de las reformas y de los escasos éxitos educativos
+de los medios digitales, está el desencuentro entre la tecnociencia, la sociedad
+del conocimiento y los problemas de sostenibilidad del modelo de desarrollo
+neoliberal. Estos son los ejes principales que seguiremos para entender el rol del
+pensamiento computacional en las dinámicas que ya hemos delineado
+
+3.1.1 El auge de la complejidad y el pensamiento computacional
+El marco teórico del pensamiento computacional se basa en una idea de ciencia
+que no refleja la puesta en discusión y los cuestionamientos del realismo y del
+determinismo neopositivista, pues hoy la ciencia reconoce, por ejemplo, el caos, el
+tiempo y los sistemas dinámicos. El pensamiento computacional debería, entonces,
+incluir los algoritmos generativos, los fractales y la vida artificial (figuras 3, 4 y 6).
+Tanto es así que estos principios de la complejidad sustentan el desarrollo de nuevas
+herramientas cognitivas que tienen aplicaciones concretas en la computación,
+en la industria informática y en la producción audiovisual, como los videojuegos.
+Por otro lado, en la filosofía se avala la crítica al método científico y se da pase
+a la hermenéutica, al posestructuralismo y a la lingüística. Particularmente significativos
+son los aportes de las neurociencias y de la psicología cognitiva acerca
+de la relación entre caso, emociones y racionalidad (Damasio, 2005; Kahneman,
+2012). Aquí se pone en tela de juicio la ilusión del mundo lógico y ordenado en el
+que confía la informática. Esta suerte de deconstrucción del método cartesiano es
+clave para entender las limitaciones del big data y del machine learning (Rahimi,
+2019; Zador, 2019). La cientificidad de estas tecnologías es una ilusión, porque,
+por ejemplo, la selección de los datos y los parámetros del aprendizaje de las redes
+neuronales no tienen mayor sustento que las creencias de los programadores: “somos
+propensos a sobrestimar lo que entendemos del mundo y a subestimar el papel
+del azar en los acontecimientos” (Kahneman, 2012, p. 27).
+Si tomamos en cuenta estos factores, es justificado afirmar que el pensamiento
+computacional, en cuanto instrumento conceptual, debería ayudar a los futuros
+ciudadanos a reconocer las polaridades que alimentan las contradicciones de la
+sociedad red: la lógica rígida y mecanicista de la computación y la impredecible
+complejidad de los acontecimientos socioculturales.
+3.1.2 Los desencuentros de la sociedad del conocimiento
+Las contradicciones entre el tecnocentrismo, el pensamiento computacional y
+la complejidad sociocultural se reflejan también en la sociedad del conocimiento y
+en las falacias del “solucionismo” tecnológico (Morozov, 2014). La primera ilusión
+que se desvanece es la del libre acceso al conocimiento en internet, que admitía
+preguntas como ¿Para qué investigar o reflexionar? y ¿Para qué construir teorías?
+Para el solucionismo tecnológico la teoría es inútil, porque confía en que los grandes
+servidores pueden extraer conocimiento verdadero y construir tendencias que
+se pueden verificar con exactitud simplemente procesando la enorme cantidad de
+datos disponibles (Han, 2014).
+Kurz (2003), Deleuze (2006), Rifkin (2013) y Lanier (2014) han mostrado cómo
+las relaciones entre los medios digitales, la política y la economía generan nuevas
+formas de poder y control. Los monopolios de internet —Google o Facebook— ponen
+ulteriormente a prueba el dato como correspondencia objetiva a los fenómenos
+de la realidad. El proceso se consuma a través de la invasión de nuestra privacidad
+y el control de los criterios de acceso a los datos, que en realidad recibimos filtrados
+por las prioridades de dichos monopolios.
+En este sentido, el perfil tecnocéntrico del pensamiento computacional es inadecuado
+y autorreferencial, en tanto que pretende solucionar computacionalmente
+problemas cuyos orígenes son las mismas estructuras de la computación.
+3.1.3 Desarrollo, políticas educativas y sostenibilidad
+El último paso para reconsiderar los contenidos del pensamiento computacional
+es averiguar su compatibilidad con las demandas del desarrollo y del mercado.
+Respecto al desarrollo tecnológico, se ha señalado la falta de inclusión y sostenibilidad
+y la manifestación de nuevas formas de colonización que caracterizan el
+neoliberalismo globalizado (Harris et al., 2018; Varma, 2006). La lógica empresarial
+atrapa a los estudiantes en lo contingente y los obliga a aprender habilidades o saberes
+que serán rápidamente expropiados por la inteligencia artificial y los robots.
+En cuanto a las políticas educativas, la instrucción formal entra en competición
+con los “aprendizajes invisibles” (Cobo Romaní y Moravec, 2011), pues las TIC se
+aplican sin considerar que los jóvenes aprenden contenidos digitales fuera de las
+instituciones educativas tradicionales: celulares, consolas e internet. Además, la
+calidad del software educativo está lejos del nivel del mercado, lo que justifica el
+rechazo de los estudiantes, acostumbrados a los juegos AAA para Xbox o PlayStation
+(Buckingham, 2006). Los aprendizajes invisibles, la aceleración científica y
+tecnológica, y las ofertas educativas virtuales requieren del sujeto la disposición
+al autoaprendizaje, la autodisciplina educativa y la autonomía en la navegación
+del saber en lo que por ahora no tienen ni mentores ni tutores. Nadie explica a los
+jóvenes cómo buscar información en internet ni los criterios éticos, sociales y políticos
+para averiguar su calidad; es decir, el pensamiento crítico y socialmente contextualizado.
+Esto se adquiere solo mediante el conocimiento histórico, filosófico
+y literario. Para ofrecer al estudiante la posibilidad de adquirir estas competencias
+esenciales, el pensamiento computacional debe reencontrar de alguna forma las
+ciencias humanas.
+
+3.1.4 Complementos para una epistemología del pensamiento computacional
+¿Qué indicaciones podemos deducir para corregir el marco teórico del pensamiento
+computacional? En primer lugar, hay que tomar en cuenta la manifiesta relación
+entre las ciencias de la complejidad, la computación y la creatividad. La industria de
+la producción audiovisual digital, por ejemplo, requiere de sus profesionales habilidades
+fundadas en la creativa hibridación de ciencia, letras y arte. En segundo lugar,
+las idiosincrasias de la sociedad del conocimiento, los peligros de los monopolios y la
+inteligencia artificial, desbordando los parámetros cuantitativos, apelan a las humanidades,
+pues requieren verificar fundamentos, criterios y fines del quehacer tecnológico.
+Considerando todo esto, es claro el peligro del pragmatismo mal entendido y
+de la miopía computacional que rechaza las humanidades. 
+En relación con nuestra hipótesis, podemos concluir que los conocimientos y
+las habilidades necesarias para comprender los medios digitales exceden lo que
+las ciencias de la computación y la maquinaria informática pueden ofrecer. En el
+siguiente apartado, analizando las peculiares propiedades de los medios digitales,
+mostraremos con mayor evidencia los límites del tecnocentrismo y el potencial de
+la complejidad.
+
+3.2 Acerca de la naturaleza de los medios digitales
+El pensamiento computacional se propone como un conjunto de saberes y competencias
+para sobrevivir en escenarios diseñados por los avances tecnológicos; sin
+embargo, su efectividad es limitada en cuanto se basa en una visión superficial
+y hasta incorrecta de los medios digitales y de sus requisitos epistemológicos y
+pedagógicos. El objetivo de este apartado es individuar tres aspectos de los medios
+digitales que el marco del pensamiento computacional debería necesariamente
+considerar: el proceso computacional en sí, la materia digital y las capas mediáticas
+del software en cuanto metamedio.
+3.2.1 El proceso computacional
+Una de las razones por la cual las computadoras son mal utilizadas en la práctica
+educativa (Buckingham, 2006; Wolf, 2018) es que ni sus propiedades ni las
+características del proceso computacional son comprendidas a cabalidad, tal como
+Turing ha mostrado con la máquina de Turing. En primer lugar, la computación
+no es cálculo, sino un proceso iterativo que actúa mediante el posicionamiento,
+la lectura y la escritura de ceros y unos en un espacio lineal. En segundo lugar, el
+cómputo no tiene ni inteligencia ni conciencia, pues es indiferente al contenido
+informativo que lee o escribe. La magia del proceso computacional consiste precisamente
+en lograr resultados correctos a pesar de no saber ni calcular ni leer. Por
+esto, para diseñar un proceso computacional, además de los contenidos STEM, se
+necesitan fantasía, diseño, razonamiento lingüístico y manipulación simbólica,
+contenidos que no están del todo incluidos ni siquiera en su extensión STEAM
+(Henriksen, 2017).
+3.2.2 La materia digital
+Para comenzar, hay que hablar de las mitologías que ofuscan la relación entre
+lo analógico y lo digital. Los medios digitales no son, en cuanto digitales, una novedad,
+porque son siempre simulaciones de los procesos analógicos. Por lo tanto,
+no se comprenden sin conocer a sus ancestros o los modelos en el mundo físico, en
+la historia y en la naturaleza. Dos evidencias ejemplares son el diseño 3D, que se
+basa en la perspectiva renacentista y en la elaboración de las imágenes en mapa de
+bits, cuyos algoritmos simulan las técnicas artísticas y fotográficas tradicionales,
+como los efectos de la aeropittura futurista utilizados para los filtros de programas
+como Photoshop (figura 1).
+
+La otra posibilidad característica del medio digital que no se aprovecha es la
+unificación de todas las impresiones que comunican los sentidos (formas, colores,
+sonidos) en una información numérica binaria. Esta es imperceptible, pues las
+salidas audiovisuales a través de monitores o parlantes pertenecen al dominio analógico.
+La ignorancia de este detalle tan importante hace que se siga “explicando”
+lo digital mediante sus instancias analógicas, lo que oculta el contenido original y
+propiamente numérico dentro una caja negra.
+Por esto resulta muy difícil lograr que los estudiantes comprendan a fondo lo
+digital y aprovechen aquellos procesos que resultan imposibles en el mundo analógico.
+Así, la retroalimentación entre letras, imágenes, sonidos y cálculos, que
+redefine la idea analógica de la multimedia en el plano abstracto del algoritmo, del
+código y de los datos.
+Aquí lo digital permite utilizar un proceso como contenido (códigos y algoritmos),
+medio (textos, imágenes o sonidos) o herramienta (las aplicaciones). Desde
+el punto de vista de los contenidos educativos, es esencial comprender que lo
+digital no existe sin el soporte de las técnicas, las recetas y los ingredientes del
+mundo físico.
+Un ejemplo es la generación de los mundos virtuales 3D para los videojuegos o
+las películas de animación (figura 2), que se basa en los procesos naturales orgánicos
+e inorgánicos, como los fractales y los procesos generativos5 estudiados en las
+ciencias de la complejidad (Flake, 2000).
+3.2.3 Las capas del software
+De acuerdo con lo anterior, una conclusión obvia es que el medio digital propiamente
+dicho es el software con sus múltiples capas: es un almacén y canal que
+transporta datos e informaciones, una herramienta operativa, un patrimonio de
+conceptos y saberes, y es un medio de comunicación, pues el código y las interfaces
+son textos. Y el código, en cuanto texto, permite dirigir los procesos que
+se ejecutan en la computadora, siguiendo normas lingüísticas que posibiliten su
+escritura y lectura (Fishwick, 2008; Manovich, 2013).
+Desde aquí se deduce la característica única del software, como subrayó uno de
+los padres de la computación, Alan Kay (1984, p. 52-59): “It is not a tool, although
+it can act like many tools. It is the first metamedium, and as such it has degrees
+of freedom for representation and expression never before encountered and as yet
+barely investigated”6. Es decir, el software es una herramienta que puede crear
+otras herramientas.
+La creatividad es su rasgo esencial. La prueba son los lenguajes de programación,
+que pueden crear otro lenguaje de programación (Python está escrito en el
+lenguaje de programación C), con el cual se puede crear una aplicación como un
+videojuego o una DAW (Digital Audio Workstation o estación de trabajo de audio
+digital). Pero esta característica sigue subestimada si no del todo ignorada, y, por
+lo tanto, desaprovechada para la educación.
+
+3.3. El pensamiento computacional 2.0
+En síntesis, el pensamiento computacional debe brindar a los futuros profesionales
+herramientas críticas y competencias específicas para explotar creativamente
+las propiedades del software como proceso primario de todas las aplicaciones digitales.
+En primer lugar, deben ser habilidades para el autoaprendizaje permanente
+que las transformaciones sociales, científicas y tecnológicas imponen a las nuevas
+generaciones y que, en la mayoría de los casos, se hace sin las instituciones educativas
+tradicionales. Además, el pensamiento computacional debe incluir las características
+y los saberes propios de los medios digitales, pues estos son el motor de
+la evolución del paisaje cultural tecnológico.
+En efecto, para las aplicaciones educativas del pensamiento computacional existen,
+como la literatura ha evidenciado (Fonseca, 2005; Varma, 2006; Denning,
+2017; Guzdial et al., 2019), dos riesgos: o bien difuminar sus contenidos dentro de
+una genérica interdisciplinariedad que le quita el derecho a proponerse como una
+nueva disciplina, o bien cerrarse en contenidos especializados que restringen el
+universo de su público objetivo.
+En segundo término, para el pensamiento computacional se presenta un escenario
+compuesto por combinaciones de contenidos interdisciplinarios apoyados en
+lo analógico, y por los conocimientos específicos del universo informático. El reto
+de manejar los medios digitales se revela en toda su complejidad, pues necesitamos
+coordinar dominios epistemológicos que van desde las ingenierías hasta las artes,
+lo que requiere del individuo un esfuerzo cognitivo enorme y de las instituciones
+educativas cambios más complicados y estructurales. Es aquí cuando el tecnocentrismo
+—que consiste precisamente en pensar los medios digitales de modo instrumental,
+sin creatividad y sin relación con los contextos socioculturales— impide
+el avance del pensamiento computacional.
+3.3.1 Pensamiento computacional 2.0 y creatividad
+Desde el punto de vista del pensamiento computacional en la práctica
+educativa, lo analizado muestra que se requiere priorizar las competencias
+críticas, desmitificando el aura del aparato tecnológico. Asimismo, se pone
+en claro que el pensamiento computacional tiene dos grandes retos: diseñar
+las nuevas competencias para manejar la convergencia de medios y lenguajes,
+y explotar la peculiar dimensión creativa del software. En ambos casos, hay
+que saber jugar con los referentes analógicos y con las dificultades completamente
+nuevas del código. Por lo tanto, no debemos enseñar el medio digital
+mediante las aplicaciones comerciales dedicadas a una tarea específica, como
+Excel o Photoshop, porque encierran al usuario en el marco establecido por el
+programador y porque hacen cosas que conceptualmente se pueden realizar
+de manera analógica. La única diferencia sería cuantitativa: menos tiempo y
+menores costos.
+Con esta limitación, se pierde el potencial creativo propio del medio digital.
+Instituir el coding como competencia es un buen avance, pero es insuficiente si no
+se completa tomando en cuenta las exigencias del software.
+3.3.2 Information literacy y computational creativity
+La complejidad del pensamiento computacional corresponde a la naturaleza
+compleja del software: medio creativo o expresivo, y herramienta de investigación,
+producción y comunicación. En la primera modalidad, el dominio de lo
+digital es general, transdisciplinario y fundamentalmente humanístico; en la
+segunda, se ubica en las ciencias de la computación y constituye un conjunto
+de disciplinas cercanas a las matemáticas e ingenierías. Ahora bien, es evidente
+que el pensamiento computacional no puede resolver las dos culturas de la
+misma manera.
+Para individuar contenidos y métodos adecuados a la dimensión sociocultural
+del pensamiento computacional, regresamos al concepto de information literacy
+propuesto por Shapiro y Hughes (1996). Desde este punto de vista, se considerarían
+aquellos conceptos y métodos de los medios digitales que se podrían generalizar
+e incluir en cualquier asignatura. En otras palabras, la information literacy
+consistiría en lo siguiente: a) conectar los contenidos de cada disciplina con sus
+apropiadas soluciones tecnológicas de acuerdo con las propiedades del medio digital,
+y b) aprender a utilizar la computación como auxilio creativo y expresivo.
+Precisamente, esto es lo que propone la computational creativity, que, en efecto,
+algunos consideran una nueva rama del pensamiento computacional (Mazzone y
+Elgammal, 2019).
+Considerando las características de la cultura digital y del software como metamedio
+creativo, resulta que los aparatos informáticos y los gadgets digitales
+en la educación son una mediación innecesaria que interfiere con el potencial
+de la computación, su inclusión y sostenibilidad. Esta afirmación se sustenta
+tanto desde el punto de vista de la information literacy como desde las ciencias
+de la computación en las que hemos dividido el campo del pensamiento computacional.
+
+3.3.3 Cultura digital sin computadoras
+El uso y abuso de aplicaciones digitales —en Latinoamérica casi siempre importadas—
+impone un modelo de cultura digital limitado al consumismo pasivo,
+que incluso permite una expresión tecnológica de la colonización (Fonseca,
+2005; Varma, 2006; Lanier, 2014). Con esto se le resta espacio a la autonomía
+educativa, la creatividad de los estudiantes y los recursos para la investigación
+de software original.
+Poner límites al uso de la maquinaria de las TIC fortalece la identidad cultural,
+pues dejaría espacio a la etnomatemática y a la etnocomputación, como
+la yupana (figura 3) o los kenés shipibos peruanos (figura 4) (Apaza Luque,
+2017)4.
+Estos artefactos y tecnologías ancestrales permiten que los estudiantes hagan una
+conexión espontánea entre el medioambiente, las tradiciones culturales y la computación,
+puesto que se pueden armar y operar manualmente con recursos que son parte
+de su entorno. Para el diseño del proceso computacional, las mejores herramientas
+son el arte y el dibujo a mano alzada porque, primero, transmiten sin interferencias
+la idea al desarrollo del proceso, y, segundo, se pueden aplicar trasversalmente en
+diferentes asignaturas. Con esto, los contenidos más abstractos se vuelven significativos,
+refuerzan la autoestima y, por ende, el impulso creativo de los estudiantes.
+En lo que se refiere a las ciencias de la computación, el pensamiento computacional,
+como señalaron Wing (2006) y Aho (2012), comprende el pensamiento algorítmico
+y recursivo, la lógica, la gestión de datos y el diseño de sistemas interactivos. En
+este sentido, define correctamente los contenidos STEM que preparan al estudiante
+para gestionar de modo profesional las aplicaciones informáticas o la programación.
+Pero, aun así, el modelo STEM resulta insuficiente. Recuperemos lo esencial: la naturaleza
+de metamedio de la computación y la diferencia entre el diseño de tecnologías
+originales y el consumo de aplicaciones ya hechas. Incluso en el marco restringido
+de las ciencias de la computación, aparece la naturaleza esencialmente creativa del
+medio digital; por lo tanto, el pensamiento computacional no tendría mucho que ver
+con soluciones TIC prefabricadas. Como es evidente, esto provoca problemas metodológicos
+en relación con su enseñanza en las clases. No obstante, existen tecnologías,
+todavía poco aprovechadas, que ofrecen alternativas educativamente viables.
+3.3.4 Métodos y materiales para el pensamiento computacional 2.0
+En las reformas educativas de los Estados Unidos y de varios países de la Unión
+Europea, el primer cambio curricular para mejorar las competencias digitales de
+los estudiantes ha sido introducir el coding. Esta decisión, en la opinión de varios
+educadores e investigadores (Schmidt-Crawford, 2018; Guzdial et al., 2019),
+se valida porque programar mejoraría la lógica, el design thinking, la gestión de
+proyectos y las habilidades blandas tan necesarias para el trabajo colaborativo y
+grupal. Sin embargo, el coding, para ser efectivo y significativo, demanda muchos
+conocimientos previos y demasiado tiempo para aprender los lenguajes utilizados
+(incluso aquellos visuales como Scratch). Sobre todo, necesita algo que no todos
+los estudiantes tienen: el compromiso y la pasión. Y, finalmente, no hay pruebas
+de que el coding mejore realmente las habilidades STEM y que sea útil para aquellos
+que no estudiarán informática (Schmidt-Crawford, 2018). En este sentido el
+coding, sin negar su utilidad educativa, no puede ser el principal medio de acercamiento
+al mundo digital.
+Una alternativa susceptible de ser investigada son aquellos procesos computacionales
+que desarrollan el diseño algorítmico y los principios de la programación
+de forma más simple, suavizando la transición entre los procesos analógicos y la
+aplicación informática. Lo aprendido mediante el desarrollo de software y los resultados
+de los talleres experimentales nos permiten sugerir las máquinas de Turing y
+las shape grammars, como se explica más abajo.
+Ambos procedimientos se llevan a cabo mediante una sintaxis minimalista y un
+lenguaje visual compacto, con mecanismos que se aprenden rápidamente y que
+se pueden desarrollar a mano alzada, lo que lleva a comprender los procesos de la
+programación de manera más intuitiva (figuras 5 y 6).
+La genial simplicidad de estos procesos permite resolver cualquier tipo de problema
+computable solo con el auxilio de nuestro cerebro, nuestra mano y materiales
+simples, como lápiz, papel u objetos de uso cotidiano. La implementación
+informática, pues, sirve solo para ejecutar el proceso más rápidamente; pero, precisamente
+por esto, oculta sus procesos cognitivos y creativos dejando al usuario
+frente a las limitaciones de las interfaces.
+4. Conclusiones
+Este artículo analiza ciertas dimensiones del contexto sociocultural y los medios
+digitales, para precisar el ámbito, las fortalezas y las debilidades epistemológicas y
+metodológicas del pensamiento computacional. En estas conclusiones precisamos
+los elementos de la complejidad educativa a la que el pensamiento computacional
+tiene que adecuarse y se pone en claro el entramado de problemas que ha evidenciado
+la literatura, la práctica educativa y el diseño de software.
+En primer término, la evolución social, científica y cultural, y la crisis de algunos de
+los principios del neopositivismo nos han mostrado los límites del tecnocentrismo y del
+solucionismo tecnológico. Paradójicamente, estas limitaciones se presentan en vista de
+la sociedad red y de innovaciones como la inteligencia artificial y la robótica. Al respecto,
+el pensamiento computacional debe ayudar a los futuros profesionales y ciudadanos
+a moverse en un escenario impredecible y de múltiples choques sociales, culturales
+y ambientales. Los medios digitales son una causa de estas transformaciones, pero los
+saberes y las habilidades que se necesitarán exceden el dominio de las ciencias de la
+computación. Por esto, las humanidades son herramientas fundamentales.
+En lo referido al contexto tecnológico, hemos analizado el proceso computacional,
+la complejidad del medio digital y, al final, el software como medio digital propiamente
+dicho, identificando su naturaleza —en esencia creativa— de metamedio.
+El análisis conduce a determinar que el objetivo fundamental de una estrategia de
+desarrollo digital tecnológico inclusivo y sostenible es la producción de tecnología
+original. Hemos resaltado, a través del concepto de computational creativity, el rol
+primordial de las identidades y tradiciones culturales (la etnomatemática y la etnocomputación),
+en tanto conservan algo esencial para la creatividad: la disponibilidad
+de ingredientes únicos y diferentes. Para el pensamiento computacional, todo esto
+apela a contenidos más complejos que las ciencias de la computación y el modelo
+STEM. Incluso el paradigma STEAM parece insuficiente (Henriksen, 2017), pues la
+convergencia con el arte no se debería dar en sentido romántico, sino coherentemente
+con las propiedades de las ciencias de la complejidad y del software.
+Estas conclusiones han servido para actualizar el modelo de pensamiento computacional
+vigente. Para comenzar, los contenidos del pensamiento computacional son efectivamente
+muy amplios y genéricos, pero hay poco que hacer. Por un lado, la complejidad del
+paisaje cultural tecnológico creado por los medios digitales es real. En este sentido, hemos
+propuesto dividir el campo del pensamiento computacional entre contenidos genéricos y de corte humanístico; es decir, la information literacy y los contenidos relativos a
+las ciencias de la computación, relacionados con la computational creativity. En el primer
+caso, el pensamiento computacional sería un contenido añadido a cada asignatura, con
+la tarea de traducir sus contenidos y procesos cognitivos propios para ser ejecutados por
+una máquina. En el segundo, hablamos de una asignatura más en las mallas curriculares.
+Además, es claro que las humanidades deben modernizar sus criterios, adaptándose a las
+características de los medios digitales, lo que todavía no sucede.
+Por otro lado, esta complejidad nos pide también buscar soluciones tecnológicas y
+prácticas didácticas alternativas. Hemos propuesto recuperar los saberes y las habilidades
+tradicionales y analógicas, como el dibujo procedural o el algorítmico a mano
+alzada (figuras 5 y 6), y hemos presentado dos posibles soluciones, la máquina de
+Turing y las shape grammars, porque realizan el ideal de la cultura digital de combinar
+ciencia, arte, creatividad, naturaleza y tradiciones culturales (figuras 7 y 8).
+
+Las ideas aquí planteadas no son las únicas posibles ni quizá las mejores. En
+todo caso, es posible concluir reafirmando un par de principios fundamentales y
+una recomendación para las instituciones educativas:
+a. La computación y lo digital son hijos de ciertos principios, ideales y fines,
+de la historia y del contexto político y social. Estos contenidos son embebidos
+en los medios digitales que, por lo tanto, no deben ser utilizados como
+medios didácticos, pues sería como poner el carro antes que los bueyes.
+b. El mayor poder educativo se obtiene por medio de las humanidades y los procesos
+naturales, desde el dibujo a mano alzada hasta el uso de materiales y
+artefactos analógicos. Es decir, para comprender los medios digitales y fortalecer
+el pensamiento computacional, ¡debemos limitar el uso de la tecnología!
+Finalmente, los medios digitales son un reto mucho más complejo de lo que la
+literatura científica y las reformas educativas suponen; asimismo, es indispensable
+más investigación y experimentación para abordarlos de manera más consistente.
+
+No será una tarea fácil: si bien la retórica digital apela a la libertad de acceso y a
+la colaboración, en la práctica los medios digitales están en manos de monopolios
+que explotan tanto la tecnología como a los usuarios. Mejorar realmente la cultura
+tecnológica del ciudadano no está en el blanco del poder y del mercado, pues libera
+a los usuarios de la red a la que están vinculados. Nosotros, los educadores, debemos
+brindar a los estudiantes los aparatos críticos para moverse en este contexto y
+quizá sea este el compromiso más elevado del pensamiento computacional.
+
+Referencias
+Aho, A. V. (2012). Computation and computational thinking. Computer Journal,
+55(7), 832-835.
+Apaza Luque, J. (2017). La yupana, material educativo para la educación matemática.
+Madrid: Universidad Autónoma de Madrid.
+Buckingham, D. (2006). Media education in the age of digital technology. 10th
+Anniversary MED Congress “La sapienza di comunicare”. Recuperado de https://
+www.academia.edu/2748203/.
+Cobo Romaní, C., y Moravec, J. W. (2011). Aprendizaje invisible. Hacia una nueva
+ecología de la educación. Barcelona: Edicions de la Universitat de Barcelona.
+Damasio, A. (2005). Descartes’ Error. Nueva York: Penguin Books.
+Deleuze, G. (2006). Postscriptum sobre las sociedades del control. Polis. Revista
+Latinoamericana, 13. Recuperado de https://journals.openedition.org/polis/5509.
+Denning, P. J. (2017). Remaining trouble spots with computational thinking.
+Communications of the ACM, 60(6), 33-39. doi: 10.1145/2998438.
+Dussel, I., y Quevedo, A. (2010). Educación y nuevas tecnologías: los desafíos
+pedagógicos ante el mundo digital. En VI Foro Latinoamericano de Educación.
+Buenos Aires: Santillana.
+Flake, G. W. (2000). The computational beauty of nature. Cambridge (Ma): The MIT Press.
+Flusser, V. (1984). Towards a philosophy of photography. Göttingen: European Photography.
+Fishwick, P. (Ed). (2008). Aesthetic computing. Cambridge (Ma): The MIT Press.
+Fonseca, C. (2005). Educación, tecnologías digitales y poblaciones vulnerables: una
+aproximación a la realidad de América Latina y el Caribe. Consulta Regional del
+Programa Pan Américas IDRC. Recuperado de https://idl-bnc-idrc.dspacedirect.
+org/handle/10625/55410.
+Galanter, P. (2012). What is generative art? Complexity theory as a context for art.
+GA2003 - 6th Generative Art Conference proceedings. Recuperado de https://
+www.generativeart.com/GA2012/phil.pdf.
+Gil, A. (s. f.). Tipón, Perú. [Fotografía]. Recuperado de http://www.fotoaleph.com/
+imagen-galeria.php/referencia/84110156/exposicion.
+Guzdial, M., Kay, A., Norris, C., y Soloway, E. (2019). Computational thinking
+should just be good thinking. Communications of the ACM, 62(11), 28-30. doi:
+10.1145/3363181.
+Han, B. C. (2014). En el enjambre. Buenos Aires: Herder.
+Harris, K., Kimson A., y Schwede A. (2018). Labor 2030: The collision of
+demographics, automation, and inequality. Recuperado de http://www.
+bain.com/publications/articles/labor-2030-the-collision-of-demographicsautomation-
+and-inequality.aspx.
+Henriksen, D. (2017). Creating STEAM with design thinking: Beyond STEM and arts
+integration. The STEAM Journal, 1(3). doi: 10.5642/steam.20170301.11
+Johnson, L., Adams Becker, S., Estrada, V., y Freeman, A. (2015). NMC horizon
+report: 2015 higher education edition. Austin (TX): The New Media Consortium.
+Kahneman, D. (2012). Pensar rápido, pensar despacio. Barcelona: Debate.
+Kay, A. (1984). Computer Software. Scientific American, 251(3), 52-59.
+Kurz, R. (2003). La ignorancia de la sociedad del conocimiento. Recuperado de
+http://www.antroposmoderno.com/antro-articulo.php?id_articulo=247.
+Lanier, J. (2014). ¿Quién toma el control? Barcelona: Debate.
+Lorenzo, E. (2019). Yupana. [Fotografía]. Recuperado de http://elieducacion.
+blogspot.com/2019/03/yupana-y-quipu.html.
+Manovich, L. (2013). El software toma el mando. Barcelona: Fondo Editorial de la
+Universitat Oberta de Catalunya.
+Mazzone, M., y Elgammal, A. (2019). Art, creativity, and the potential of artificial
+intelligence. Arts, 8(26). doi:10.3390/arts8010026.
+Ministero dell’ Istruzione, dell’Universitá e della Ricerca. (2010). La riforma
+della scuola secondaria superiore. Recuperado de http://archivio.pubblica.
+istruzione.it/riforma_superiori/nuovesuperiori/index.html.
+Morozov, E. (2014). La locura del solucionismo tecnológico. Buenos Aires: Katz.
+Papert, S. (1980): Mindstorms: Children, computers, and powerful ideas. Nueva
+York: Basic Books.
+Prusinkiewicz, P., Cieslak, M., Ferraro, P., Hanan, J. (2018). Modeling plant development
+with L-systems. R. Morris (ed.), Mathematical modelling in plant biology (139-169).
+Recuperado de https://link.springer.com/chapter/10.1007/978-3-319-99070-5_8.
+Prusinkiewicz, P., et Al. (2018). Modeling plant development with L-systems. [Gráfico
+por computadora]. Recuperado de https://bit.ly/2WZPtdg
+Rahimi, A. (2019). Machine learning is alchemy. Recuperado de https://yahnd.
+com/theater/r/youtube/x7psGHgatGM/.
+Reimann, D., y Maday, C. (2017). Enseñanza y aprendizaje del modelado
+computacional en procesos creativos y contextos estéticos. Education in the
+knowledge society, 18(3), 87-97.
+Rifkin, J. (2013). La era del acceso. La revolución de la nueva economía. Barcelona:
+Paidós.
+Roncoroni, U. (2017-2019). Digital Poiesis. [Página web]. Recuperado de http://
+www.digitalpoiesis.org.
+Sansoni, G. (1930). Aeropittura. [Pintura.] Recuperado de https://www.italianways.
+com/tatos-dynamic-aerial-paintings/.
+Schmidt-Crawford, D. (2018). Coding for teacher education: A recurring theme that
+requires our attention. Journal of Digital Learning in Teacher Education, 34(4).
+Recuperado de https://www.tandfonline.com/doi/full/10.1080/21532974.20
+18.1499992.
+Shapiro, J., y S. K. Hughes. (1996). Information literacy as a liberal art. Enlightenment
+proposal for a new curriculum. Educom Review, 31(2). Recuperado de https://
+www.educause.edu/ir/library/html/erm/31231.html.
+Shen, G. (2014). Shape grammar exercises. [Gráfico por computadora]. Recuperado
+de https://pt.slideshare.net/GiapSheng/shape-grammar-exercises.
+Stallmann, R. (2002). Free software, free society. Boston: GNU Press.
+Stiny, G, y J. Gips. (1971). Shape grammars and the generative specification of
+painting and sculpture. IFIP Congress, (71), 1460-1465. Recuperado de http://
+www.cs.bc.edu/~gips/ShapeGrammarsIFIPS71.pdf.
+Varma, R. (2006). Making computer science minority friendly. Communications of
+the ACM, 49(2) 129-134.
+Wing, J. (2006). Computational thinking. Viewpoint. Communication of ACM,
+49(3), 33-35. Recuperado de http://www.cs.cmu.edu/afs/cs/usr/wing/www/
+publications/Wing06.pdf.
+Wolf, M. (2018). Reader, come home. The reading brain in a digital world. Nueva
+York: Harper & Collins.
+Zador, A. M. (2019). A critique of pure learning and what artificial neural networks
+can learn from animal brains. Nat Commun, 10(3770). Doi: 10.1038/s41467-
+019-11786-6
+Notas
+[1] Se entiende por tecnocentrismo la postura que considera la educación tecnológica como simple
+capacitación en el uso de aparatos, y por solucionismo tecnológico, la creencia de que la
+tecnología, por sí misma, es una solución educativa eficaz y suficiente.
+[2] La máquina de Turing, considerada el prototipo del proceso computacional, se basa en datos
+binarios y en reglas para su acceso, lectura y escritura. Las shape gramamars (Stiny y Gips,
+1972) son procesos recursivos basados en la sustitución de símbolos alfanuméricos por secuencias
+de otros símbolos. Permiten generar formas complejas y fractales que se observan
+también en la naturaleza. Para más información, véase Digital Poiesis (http://www.digitalpoiesis.
+org).
+[3] El taller experimental se dictó en la ONG educativa Laboratoria (https://www.laboratoria.
+la/), una startup ubicada en Lima, Perú, que se dedica a la formación tecnológica de mujeres
+de bajos recursos. Para el estudio de la máquina de Turing, de las etnomatemáticas y de las
+gramáticas generativas, véase Digital Poiesis, de donde es posible descargar las aplicaciones
+correspondientes.
+[4] La yupana es la calculadora inca. Matemáticamente, es una máquina de estados finitos con
+principios similares a los de la máquina de Turing. Es una alternativa etnomatemática a
+esta última. Consiste en un tablero de cuatro columnas y n filas (que corresponden a las
+unidades, decenas, centenares, etcétera) en el que los cálculos se hacen moviendo piezas
+(piedritas o semillas de maíz) de acuerdo a reglas, de modo similar a juegos como el ajedrez
+o las damas chinas.
+[5] “Generative art refers to any art practice where the artist uses a system, such as a set of natural
+language rules, a computer program, a machine, or other procedural invention, which
+is set into motion with some degree of autonomy contributing to or resulting in a completed
+work of art”. (Galanter, 2003).
+[6] No es una herramienta, a pesar de que actúa como diferentes herramientas. Es el primer metamedio
+y, como tal, tiene un nivel de libertad para la representación y la expresión que nunca
+antes ha sido encontrado y que todavía está poco estudiado. (Traducción de los autores).
