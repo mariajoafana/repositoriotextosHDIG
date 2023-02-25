@@ -6,11 +6,23 @@ autor:
 etiquetas: software, pensamiento computacional, programación creativa, diseño
 ---
 
-### Reflexión Ejercicio Voyant Tools
+## Reflexión Ejercicio Voyant Tools
 
+Realiza una busqueda de documentos en español porque dos referencias importantes que ya quería analizar las tenía en este idioma. Esto derivo en unos resultados que mencionan de forma reiterativa los términos de busqueda, que para este casos fueron *pensamiento computaciona*, *diseño* y *medios*. Sin embargo otras palabras que siendo relevantes para mi ejercicio, no fueron evidentes como terminos de busqueda fueron *datos*, *técnica*, *digital, *estudiantes*, *humanidades* y *crear*.
 
-### Enlace Resultados Análisis Voyant Tools
-**Enlace a [Voyant Tools]([https://voyant-tools.org/?corpus=054f18098571e03bcba461771a5583d9&stopList=keywords-cea596ed766d22de7c12f7c92c8a8048&panels=cirrus,reader,trends,summary,contexts](https://voyant-tools.org/?corpus=9827efafaa2a1a51cc45325207400b2a))**.
+Para mi sorpresa, algunas palabras que parecieran obvias dentro del contexto de la busqueda no tuvieron mayor protagonismo o nisiquiera aparecieron. Esto podría se en parte por haber realizado la busqueda en español. Terminos como *algoritmos* *big data*, *programación*, *redes neuronales*, *codigo* o *inteligencia artificial* podrían ser para una próxima busqueda muy útiles, porque reflejan los retos de la alfabetización digital actual.
+
+Se hace evidente también que las palabras podrían categorizarse por dos grupos de temática que son:
+- Componente técnico: Todas la palabras relacionadas con el caracter técnologico como reflejo de lo digital y lo computacional. (*arduino, software, computador, programación, datos, técnica*).
+- Componente humanista: Las palabras que hacen referencias o a la formación o a la relación con la experiencia humana (*diseño, estudiante, humanidades, creatividad, originalidad, tecnocentrismo*).
+
+Aunque esta diferenciación siempre a estado presenta en la idea del proyecto, nuevamente se hace evidente que gran parte del reto va a ser la conjugación de dos mundos que paracen opuestos en contenidos y propósitos, pero que conviven inherentemente en el ámbito educativo y social.
+
+Por último la palabra *medios*, ya que según el resultado del análisis fue la más importante, debería ser más relevante tanto en como mecanismo para acotar la busqueda, como norte conceptual del proyecto. Las herramientas técnologicas como un mediador para conseguir diferentes propósitos y no necesariamente como un fin. 
+
+---
+
+**Enlace a resultados [Voyant Tools](https://voyant-tools.org/?corpus=9827efafaa2a1a51cc45325207400b2a)**.
 
 ___________________________________________________________________________________
 ### Corpus
