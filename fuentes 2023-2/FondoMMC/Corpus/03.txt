@@ -1,0 +1,932 @@
+Universidad de los Andes
+Facultad de Artes y Humanidades
+Escuela de posgrados
+Maestría en Humanidades Digitales
+Sab: lectura digital anotada
+Génesis Natalia Tobón Becerra
+Bogotá, 2022
+2
+Sab: lectura digital anotada
+Génesis Natalia Tobón Becerra
+Trabajo de grado presentado para optar por el título de:
+Magister en Humanidades Digitales
+Tutor: Nicolás Vaughan Caro
+Bogotá, 2022
+3
+Para papá: su ausencia
+me hizo amar la vida de nuevo.
+Para papá: su ausencia
+me hizo amar la vida de nuevo.
+4
+AGRADECIMIENTOS
+En primer lugar, agradezco a mi tutor Nicolás Vaughan, por su paciencia, dedicación y guía que
+siempre estuvieron presentes en este proceso. También por sus comentarios que siempre
+aterrizaban mis propuestas más descabelladas que parecían tener alas propias.
+En segunda estancia, debo agradecer la Universidad de los Andes por darme la
+oportunidad de hacer parte de la institución, por permitirme desarrollar este proyecto y
+brindarme la orientación que en los momentos personales más difíciles necesité. Todo esto es
+gracias a la Asistencia Graduada que me otorgaron, sin esa beca nada de esto habría sido posible.
+Para cerrar, quisiera agradecer a mis familiares que siempre me apoyaron y me dieron
+aliento para seguir en el camino hacia cumplir mis metas profesionales y personales. Gracias a
+papá que, aunque ya no está a mi lado, fue quien plantó la piedra angular de las proyecciones
+profesionales que, en parte, estoy alcanzando con este proyecto.
+5
+RESUMEN
+El presente documento relata el desarrollo del proyecto Sab: lectura digital anotada a través de la
+exposición de las distintas metodologías de las Humanidades Digitales que fueron utilizadas en
+dicho proyecto. Sab: lectura digital anotada es una edición moderna de la novela Sab (1841) de la
+autora cubana Gertrudis Gómez de Avellaneda (1814-1873). Esta edición contiene notas críticas
+con las que se pretende guiar al lector a una interpretación del discurso antiesclavista presente
+en la novela, la cual es denominada “la primera novela antiesclavista escrita en español”. Se
+codificó la primera edición de Sab utilizando la metodología de marcado TEI-XML, y se logró
+una edición moderna y anotada que permitiera revisar la ortografía original y propusiera
+anotaciones que guiaran la lectura hacia un análisis del discurso antiesclavista desde el concepto
+de negritud de Aimé Césaire.
+PALABRAS CLAVE
+Literatura digital; Edición digital; Marcado TEI-XML; Novela antiesclavista; Humanidades
+Digitales.
+ABSTRACT
+This document describes the development of the project Sab: An Annotated Digital Reading
+through the exposition of the different methodologies of the Digital Humanities that were used
+in this project. This is a modern edition of the novel Sab (1841) by the Cuban author Gertrudis
+Gómez de Avellaneda (1814-1873). This edition contains critical notes intended to guide the
+reader to an interpretation of the anti-slavery discourse present in the novel, which is called "the
+first anti-slavery novel written in Spanish". The first edition of Sab was codified using the TEIXML
+markup methodology, and a modern and annotated edition was achieved, allowing the
+revision of the original spelling, and proposing annotations to guide the reading towards an
+analysis of the anti-slavery discourse from Aimé Césaire's concept of negritude.
+KEY WORDS
+Digital literature; Digital edition; TEI-XML Markdown, Anti-slavery novel; Digital Humanities.
+6
+ÍNDICE
+1. INTRODUCCIÓN ............................................................................................................................. 7
+1.1 Objetivos generales ................................................................................................................ 10
+1.2. Productos esperados ............................................................................................................. 10
+2. ANTECEDENTES Y REFERENTES ........................................................................................ 12
+2.1. Fuentes primarias .................................................................................................................. 12
+2.2. Referentes de proyectos digitales ....................................................................................... 15
+3. LA CUESTIÓN DIGITAL ............................................................................................................. 19
+3.1. Herramientas utilizadas ........................................................................................................ 19
+3.2. Metodología ........................................................................................................................... 21
+3.3. Límites y hallazgos ................................................................................................................ 25
+4. LA CUESTIÓN EDITORIAL ....................................................................................................... 27
+4.1. Criterios editoriales ............................................................................................................... 27
+4.2. Convenciones usadas en el prototipo ................................................................................ 28
+4.3. Anotaciones ........................................................................................................................... 29
+4.4. La perspectiva étnica ............................................................................................................ 29
+5. ESTUDIO DE LA CUESTIÓN LITERARIA ............................................................................ 31
+5.1. Breve análisis de la construcción del discurso antiesclavista en la novela Sab (1841) 31
+6. CONCLUSIONES ............................................................................................................................ 41
+7. BIBLIOGRAFÍA ............................................................................................................................... 44
+7
+1. INTRODUCCIÓN
+Sab: lectura digital anotada1 es un proyecto de grado realizado en el marco de la Maestría en
+Humanidades Digitales de la Universidad de los Andes. En el cual se produjo una edición digital
+anotada de la novela Sab (1841) de la autora cubana Gertrudis Gómez de Avellaneda (1814 -
+1873), mediante la de digitalización con OCR2 de la primera edición impresa, marcado TEI tanto
+de las actualizaciones ortográficas como de las notas críticas, y transformación por medio de
+XSLT a HTML y CSS para su visualización en línea como página web.
+La iniciativa de este proyecto nació de dos necesidades principales. Primero, la necesidad
+de una edición digital moderna y comentada desde la perspectiva étnica, que se pregunte por la
+construcción del protagonista Sab, un personaje ficcional negro, por el cual está nombrada la
+novela. Y segundo, la democratización del conocimiento o de la literatura por medio de su
+divulgación a través del medio digital. Además, con el prototipo pretendo ofrecer soluciones
+estéticas y funcionales a problemas a los que el lector digital podría llegar a enfrentarse, pensado
+siempre en su comodidad a la hora de la lectura y también con la intención de “atraparlo” en
+ella.
+Esto nos lleva a preguntarnos en primer lugar: ¿por qué editar en digital a Gertrudis
+Gómez de Avellaneda?, ¿qué conlleva una edición digital y anotada? Y, en segundo lugar: ¿cómo
+se puede democratizar la cultura desde el medio digital, sin caer en el reduccionismo de “solo
+subir información”?
+En primera instancia, es importante examinar las ediciones de la novela que se
+encuentran disponibles en línea: Google Books3 (en adelante GB) y Cervantes Virtual4 (en
+1 Acceda al proyecto aquí: https://gntobonb.github.io/Sab/index.html
+2 Por sus siglas en inglés: reconocimiento óptico de caracteres.
+3 https://books.google.com.co/books?id=RJArAQAAMAAJ&printsec=frontcover#v=onepage&q&f=false
+4 https://www.cervantesvirtual.com/obra-visor/sab--0/html/
+8
+adelante CV). GB ofrece la edición de 1841 escaneada, tanto para leer en línea como para
+descargar en formato PDF. CV ofrece la misma edición, pero transcrita a HTML, es decir, un
+texto digitalizado que se puede intervenir —copiar y pegar. Por un lado, la edición que pone a
+disposición GB fue la materia prima para el prototipo. Por otro lado, la de CV sirvió para
+recuperar algunas páginas que no estaban disponibles o no eran muy claras en la versión de GB5.
+Ahora bien, el presente prototipo ofrece aquello de lo que estas ediciones carecen: una
+lectura anotada —étnica— de la denominada “primera novela antiesclavista escrita en
+castellano” (Mahmoud-Amin, 2010). De la categorización como novela antiesclavista es donde
+nace la necesidad de una nueva edición que incluya anotaciones enfocadas especialmente en las
+cuestiones de raza que propone Gómez de Avellaneda. Además, el prototipo se ubica un poco
+más cerca de la edición de CV en la medida que ambas son transcripciones de la edición original.
+Sin embargo, Sab: lectura digital anotada presenta una edición moderna de la novela, ya que actualiza
+su ortografía y ofrece anotaciones explicativas sobre algunos arcaísmos.6 Sin embargo, es
+importante aclarar que con esta edición no pretendo hacer una propuesta formal e íntegra que
+critique la novela, sino que, más bien, busco acercar al lector a la discusión étnica que presenta
+la autora.
+Así pues, teniendo claro que la principal razón de esta edición es su carácter “anotado”,
+es decir, lo que realmente la diferencia de las demás ediciones que existen en línea son sus
+anotaciones, podemos pasar a entender ahora los detalles de su naturaleza digital. ¿Por qué esta
+edición no pudo ser una edición impresa? En primer lugar, porque con el prototipo propongo
+una manera diferente de leer las anotaciones que no puede ser concebida en un libro físico ya
+que las presenta de manera inmediata: al hacer clic sobre un asterisco se despliega un comentario
+5 Sobre los errores de escaneo que tiene esta versión se hablará en el capítulo “La cuestión digital”.
+6 Más sobre arcaísmos y actualización o modernización de la ortografía, cf. el capítulo “La cuestión editorial”, abajo.
+9
+consecutivo al texto de la novela, es decir, no existe un salto al pie de página para acceder a la
+anotación —acción que sí debe realizarse en ediciones en físico. En segundo lugar, impresa ya
+existe la edición de Cátedra (2007), anotada y editada por José Servera, la cual se enfoca más en
+anotar cuestiones gramaticales y contextuales de la obra, que en el problema étnico. De esta
+manera, el medio propicio para Sab: lectura digital anotada es el digital porque propone una lectura
+de las anotaciones que solo se puede desarrollar en este medio y por la intención de
+“democratizarla”.
+Esto último significa “hacer democráticas” las cosas, en este caso la novela Sab. Al hacer
+democrático algo se intenta incluirlo en la democracia. Y esta, en una de sus acepciones, es hacer
+partícipe a “cada uno de los miembros de un grupo o de una asociación en la toma de
+decisiones”7. Si bien no se está haciendo partícipe al pueblo de una toma de decisiones, sí se les
+está haciendo partícipes de una edición de una novela de literatura. Con el prototipo se está
+poniendo la edición anotada de Sab en línea, esto quiere decir que quien tenga acceso a internet
+puede acceder también a esta literatura. Pienso que el medio digital es el más democrático para
+la divulgación de una edición anotada de la novela, porque este medio hace gratuito su acceso
+para quien pague el servicio de internet.
+La gran brecha digital en Colombia es un hecho que atenta contra mi intención de
+democratizar la literatura desde el medio digital. Es evidente que las cifras de conectividad en el
+país son muy bajas y que esto, sin ninguna duda, disminuye considerable el número de lectores
+que pueden acceder a la edición propuesta en el prototipo. No obstante, pienso que no es mi
+trabajo, sino del gobierno, solucionar la brecha digital que existe en Colombia. Creo que trabajé
+en el prototipo y en él propuse, de una manera altruista, una pequeña salida al problema de
+divulgación de la cultura en general y de la literatura en específico. Esta salida fue publicar el
+7 Tomado del diccionario de la RAE.
+10
+prototipo en el medio digital que, de una u otra manera, pone a disposición gratuita la edición
+de la novela, al menos para esta pequeña parte de la población colombiana que sí goza de acceso
+a internet.
+1.1 Objetivos generales
+Realizar una lectura de la novela Sab, partiendo de la construcción conceptual de raza que hace
+Aimé Césaire, para iluminar la edición presente en el prototipo con estas anotaciones. Proponer
+un prototipo de “ambiente de lectura” digital que “atrape al lector”, que sea lo suficientemente
+ajustable como para adaptarse a diferentes lectores y lo suficientemente “rígido”, o estático,
+como para no abrumarlo y distraerlo del objetivo principal de la edición: leer —a Gertrudis
+Gómez de Avellaneda, en este caso.
+1.2. Productos esperados
+a. Archivos de texto sin formato (uno por cada capítulo para facilitar su manipulación).
+b. Documentos TEI-XML que incluyan las anotaciones propias de la autora y las mías
+frente al tema racial, además de algunas notas explicativas sobre algunos conceptos que
+podían resultar confusos (un archivo por capítulo).
+c. Un documento XSLT que contenga los templetes necesarios para transformar todos los
+capítulos de la novela de XML a HTML.
+d. Un documento CSS que permita darle estilo a la disposición en línea de todos los
+capítulos.
+e. Documentos HTML obtenidos de la transformación con la transformación de XSLT.
+f. Una imagen de portada que, a su vez, predispuso la sencilla paleta de colores manejada
+en la edición.
+11
+g. Una página web estática que permita la visualización de la novela.
+12
+2. ANTECEDENTES Y REFERENTES
+2.1. Fuentes primarias
+Como se ha mencionado anteriormente, las fuentes primarias de apoyo para realizar el prototipo
+las encontré en Google Books (GB) y en la Biblioteca Cervantes Virtual (CV). Las versiones de
+ambos sitios están basadas en la primera edición de la novela (1841),
+GB es una base de datos de textos de todo tipo que se encuentran en dominio público,
+como lo está Sab. Con esto se cumple con la función —a mi parecer— de preservar de manera
+digital la producción literaria. De allí obtuve el insumo primario del prototipo: la edición
+escaneada de 1841. El procedimiento que seguí fue encontrar en la base de datos de GB la
+edición de mayor calidad que presentara la menor cantidad de errores de escaneo, es decir, que
+no tuviera tantas páginas con transparencias (véase imagen 1, abajo) o sobresaturadas (imagen
+2); y posteriormente descargué la edición en formato PDF. En adelante, procedí a dividir el
+archivo por capítulos para una mejor manipulación y organización y, después, los pasé por el
+motor de OCR ABBYY FineReader8 para obtener archivos de texto sin formato que me
+permitieran su posterior codificación.
+Sin embargo, antes de poder codificarlo fue necesario hacer una revisión detallada de
+cada uno de los capítulos en archivos de texto plano que arrojó el procesador de OCR. Esto
+debido a que en muchos casos el OCR detectó erróneamente algunas palabras añadiendo tildes
+en los lugares donde se trataba de un error en el proceso de escaneo, o, de lleno, no haber
+interpretado correctamente páginas completas debido a los problemas que mencioné
+8 https://pdf.abbyy.com/
+13
+anteriormente, como las transparencias o sobresaturaciones que tenían algunas páginas. En la
+imagen 3 podemos ver un ejemplo de los resultados que se obtenían en el OCR cuando se
+procesaban las páginas con este tipo de problemas:
+Imagen 1: la transparencia deja al descubierto las palabras que
+están al reverso de la página.
+Imagen 2: la sobresaturación desdibuja las siluetas de las letras
+dificultando en muchos casos su lectura.
+14
+Imagen 3: Resultados arrojados por el lector OCR con una página que presenta los errores anteriores.
+Por otra parte, CV es un repositorio que ofrece un amplio catálogo de literatura hispánica
+para su lectura en línea. CV ofrece una edición en formato HTML de las obras, en otras palabras,
+una versión de cada capítulo de la novela en un formato que puede leer cualquier navegador
+web. En el caso de Sab, CV ofrece una edición moderna de la novela, es decir, una edición que
+ha modernizado la ortografía de la edición original. También, para una visualización en línea más
+cómoda, CV despliega las notas de la autora —que no son las mismas notas críticas y expositivas
+que propuse en el prototipo Sab: lectura digital anotada, sino que son las notas que Gómez de
+Avellaneda añadió a la primera edición de 1841, las cuales incluí también en el prototipo— en
+una pequeña ventana emergente (imagen 4). La edición de CV sirvió para realizar el prototipo
+en tanto me permitió la revisión y corrección de las páginas que no eran nítidas en la edición de
+GB y que, incluso, faltaban. No obstante, esto puso sobre la mesa el problema de la “fidelidad”
+con la primera edición ya que, como dije anteriormente, CV ofrece una edición que modernizó
+la ortografía y, por tanto, no permite una transcripción diplomática del texto en las páginas
+perdidas en la edición de GB. En estos casos, reconstruí de una manera muy precaria la ortografía
+15
+original implementando los arcaísmos que ya sabía eran recurrentes —por ejemplo, las “a” y “o”
+tildadas.
+2.2. Referentes de proyectos digitales
+Los referentes de ediciones literarias digitales en los que más me apoyé para el desarrollo del
+prototipo, y que recogen las necesidades principales que satisfizo el prototipo, fueron los
+siguientes: primero, el proyecto La dama boba: edición crítica y archivo digital9que muestra la necesidad
+de realizar un marcado TEI. Segundo, la edición de Cervantes Virtual, que se comentó en el
+acápite anterior, que señala la necesidad de plantear una nueva forma de visualizar las notas, la
+cual no implique movilizar al lector hasta el final de la página, lo que, en el caso de la web, termina
+siendo poco práctico. Tercero, el proyecto … et le chiens se taisaient10, que muestra la necesidad de
+integrar dos ediciones en una: la edición diplomática y la edición moderna.
+Imagen 4: Notas de la autora presentadas en ventana emergente en Cervantes Virtual
+9 http://damaboba.unibo.it/index.html
+10 https://cesaire.elotroalex.com/chiens/
+16
+En el primer caso, La dama boba es un proyecto realizado por el equipo de investigación
+PROLOPE, en convenio con la Biblioteca Nacional de España, que ofrece una edición en línea
+compuesta del texto crítico, y un archivo con los diferentes testimonios de la obra y su
+transcripción. Este último componente de la edición es el que me sirvió de referente para el
+prototipo Sab: lectura digital anotada, ya que la metodología que utilizaron fue la transcripción en
+un archivo XML con la gramática TEI —tal como lo hice en el prototipo. Con este
+procedimiento, en el proyecto La dama boba buscaron codificar las diferencias entre los distintos
+testimonios estudiados en la edición, además de conectar el texto crítico con los testimonios a
+través de llamados entre los mismos. Frente este procedimiento, decidí retomar también los
+lineamientos TEI para codificar las modificaciones ortográficas y las notas de la autora, críticas
+y expositivas. Además, utilicé la codificación de los diálogos según las recomendaciones del
+consorcio TEI para textos teatrales —igual que se hizo en La dama boba, dada la naturaleza
+dramática de su fuente primaria: la obra de Lope de Vega—, para ordenar las intervenciones de
+los personajes, aunque en este caso, de un texto de carácter narrativo. Los lineamientos de TEI11
+básicamente definen una gramática para el marcado textos digitales. Más que normas son guías
+que permiten tener un consenso sobre cómo codificar todo tipo de textos —poesía, teatro,
+epistolar, diccionario, etc. En el prototipo utilicé los lineamientos recomendados para marcar
+versos, en el caso de los poemas y romances citados en la novela; teatro, en los diálogos de los
+personajes como se mencionó anteriormente; y diversos elementos como <corr> y <sic> en el
+caso de las correcciones ortográficas o <note> para las notas, pero en esto se profundizará en el
+capítulo “La cuestión editorial”.
+11 Por sus siglas de Text Encoding Initiative, “Iniciativa de codificación de textos”.
+17
+En el segundo caso, como ya se dijo, CV ofrece una edición moderna de la novela en
+donde se propone la visualización de las notas de la autora en una pequeña ventana emergente
+que resulta más cómoda que la forma de presentarlas tradicionalmente en las ediciones digitales.
+Esta es con hipervínculos al pie de la página web. Esto resulta poco práctico en tanto el lector
+debe moverse hasta el final de la página digital que, evidentemente, no es la misma “distancia”
+que la de un libro físico. En otras palabras, resulta incómodo desplazar tanto la vista, y por ende
+la atención, del lector para la lectura de una nota al pie. Creo que, en este caso, sería más fácil
+para el lector evitar la lectura de las anotaciones. En CV se evita dicho desplazamiento, ya que la
+aplicación web muestra una ventana emergente que resulta un poco invasiva pero que es
+inmediata. Esa ilusión de “inmediatez” que genera la solución de CV fue la que inspiró la
+solución que planteé en el prototipo: desplegar las notas en la misma línea en la que son indicadas
+por el * para que el lector no necesite desplazarse de manera vertical hasta el pie de página, sino
+que se siga desplazando de forma horizontal, movimiento que resulta más natural a la lectura. A
+grandes rasgos, con esta solución quise integrar de una mejor manera las anotaciones que, por
+su naturaleza, se encuentran “afuera” del texto, pero que son, en mi opinión, casi indispensables
+para la lectura. Se trata de enlazar lo paratextual con la narración misma para que el lector obtenga
+toda la información que se quiere comunicar, tanto la de la autora en su ficción como la de la
+lectura desde lo étnico que propongo en el prototipo.
+En el tercer caso, el proyecto …et le chiens se taisaient es un repositorio, una edición y
+exhibición del texto mecanografiado de la obra de teatro Y los perros callaban del autor martiniqués
+Aimé Césaire. El proyecto ofrece, aparte de las páginas escaneadas del primer insumo —el texto
+a máquina de Césaire—, dos ediciones de la obra: la diplomática y la “de lectura”. La primera
+busca ser lo más “fiel” al texto mecanografiado, creando incluso un sistema de convenciones
+para denotar las tachaduras o supresiones y las adiciones que hizo el autor a mano. Y la segunda
+18
+propone una interpretación del texto primario mostrándolo sin las eliminaciones, pero con las
+adiciones hechas a posteriori por Césaire. Ahora bien, este proyecto me inspiró a unir la edición
+diplomática y la moderna, en una sola, simultánea y siempre cómoda para el lector. Si bien la
+fuente primaria del prototipo Sab: lectura digital anotada no es el manuscrito de la novela —que no
+está disponible en línea—, sí se intentó hacer una transcripción lo más cercana posible a la
+primera edición. Además de que añadí las notas explicativas, críticas y de la autora, busqué
+también incorporarlas en una edición de “cómoda lectura” para el lector digital. Por tanto, en el
+prototipo planteo unificar la transcripción del texto original con las modificaciones ortográficas
+que se visualizan posando el cursor sobre las palabras escritas en azul. Es decir, al lector se le
+muestra, primeramente, una edición de lectura que, de manera fácil, le permite acceder a la
+edición diplomática: se presenta la edición moderna, pero se da acceso a la edición diplomática
+mediante las banderillas que surgen al poner el cursor sobre las palabras y signos de puntuación
+intervenidos.
+19
+3. LA CUESTIÓN DIGITAL
+A continuación, haré un breve recuento de las herramientas digitales que fueron necesarias para
+desarrollar el prototipo, así como la metodología que utilicé y los hallazgos y límites que alcancé
+durante el proceso.
+3.1. Herramientas utilizadas
+A lo largo del desarrollo del prototipo Sab: lectura digital anotada utilicé tres herramientas digitales
+cruciales que, a su vez, definieron los pasos principales del proceso que detallaré más adelante.
+La primera herramienta fue el motor de reconocimiento óptico de caracteres (OCR)
+ABBYY FineReader.12 ABBYY reconoce los caracteres alfanuméricos existentes en archivos
+escaneados de imágenes o en formato PDF y permite su extracción en diferentes formatos
+electrónicos para su posterior edición. En este caso utilicé el texto plano (TXT) como formato
+de salida esperado en ABBYY ya que era necesario obtener un texto sin formato que pudiera ser
+marcado con los lineamientos TEI. Decidí transformar íntegramente cada capítulo sin echar
+mano a la previsualización que ofrece ABBYY para corregir los errores de escaneo, pues
+consideré más eficiente hacerlo de manera manual con el Bloc de notas de Windows
+(notepad.exe) y el PDF original de la novela. Por efectos prácticos, resolví hacer la
+transformación lo más rápido posible y posteriormente verificar los errores por fuera de la
+interfaz de ABBYY. En general, el acierto de este programa es directamente proporcional a la
+calidad de la imagen de entrada. Es decir que en las páginas donde existen defectos de escaneo
+—como las sobresaturadas o sobreexpuestas— se van a obtener resultados defectuosos. Por un
+lado, esto redujo el tiempo de trabajo, pues se podría decir que el 90% de las páginas tenían una
+12 https://pdf.abbyy.com/
+20
+calidad superior. Pero, por otro lado, tuve que hacer una vigilancia exhaustiva frente a algunas
+cuestiones ortográficas que el motor tendía a modernizar o a transformar erróneamente —como
+la creación de tildes o comas a partir de manchas en la edición escaneada. Además, tuve que
+corregir los errores resultantes de casos como las transparencias y las sobresaturaciones que
+expuse en el capítulo anterior.
+La segunda herramienta digital que utilicé fue el software Oxygen XML Editor13 que
+permite la trasformación de archivos XML a HTML por medio de templetes en XSLT. Esto es:
+transformar los archivos que marqué siguiendo los lineamientos TEI a un formato que puede
+ser interpretado por un navegador web, como lo es HTML, a través de un conjunto de
+indicaciones en idioma XSLT. Si bien todo este proceso pudo haber sido realizado en otro editor
+—uno de código abierto, por ejemplo— para la codificación y otro motor de transformación, la
+realidad es que Oxygen ofrece las dos opciones al mismo tiempo, el editor de texto y el motor
+de transformación, facilitando el trabajo al usuario.
+La tercera herramienta utilizada fue Github Pages,14 que permite crear una página web
+estática a partir de un repositorio de Github. Esta herramienta es gratuita y es donde quedó
+alojado el prototipo. Los pasos que seguí para utilizar esta herramienta fueron: crear un
+repositorio que contuviera cada uno de los capítulos de la novela en formato HTML, una hoja
+de estilos en cascada (CSS) que personalizara la interfaz de lectura y un breve script de JavaScript
+para implementar el “modo oscuro”. De esta manera, GitHub Pages me permitió de una forma
+sencilla desarrollar una página estática que sirviera de interfaz de lectura para el prototipo.
+13 https://www.oxygenxml.com/
+14 https://pages.github.com/
+21
+3.2. Metodología
+Llevé a cabo el desarrollo del prototipo en cinco grandes pasos que implementan las
+herramientas anteriormente mencionadas.
+Primero localicé, descargué y dividí por capítulos la primera edición de la novela
+disponible en GB, teniendo siempre presente que debía ser la edición de mayor calidad visual
+que tuviera el mínimo número de errores de escaneo para evitar problemas con el OCR.
+Segundo, transformé el PDF en archivos de texto sin formato (TXT), uno por cada
+capítulo de la novela, haciendo uso del software ABBYY FineReader que, como ya dije, reconoce
+los caracteres alfanuméricos presentes en el PDF descargado de GB.
+Tercero, desarrollé dos actividades: la primera fue revisar que la transformación realizada
+por el OCR estuviera correcta, en caso contrario debía arreglar manualmente los errores que
+hubieran podido surgir apoyándome en el PDF original y la edición de CV; la segunda fue la
+codificación de los capítulos en documentos TEI-XML. En este punto codifiqué tanto las
+actualizaciones ortográficas, en busca de “modernizar” la edición, así como las anotaciones15
+externas al texto que clasifiqué en tres: las notas críticas, que proponen una lectura étnica; las
+notas expositivas, que buscan ampliar brevemente conceptos que pueden resultar confusos para
+el lector, pero que pueden también ser resueltos si bien con sinónimos o con un par de líneas
+explicativas; y las notas de la autora, que ya venían en la edición original y que traté únicamente
+de codificarlas apropiadamente en TEI. Además, etiqueté los diálogos de los personajes según
+las recomendaciones de TEI indicadas para textos dramáticos, y los poemas y romances bajo los
+lineamientos para textos en verso.
+Esta es la lista de los elementos TEI utilizadas y su propósito:
+15 Al respecto de las actualizaciones o modernizaciones ortográficas hablaré con más detalle en el siguiente
+capítulo “La cuestión editorial”.
+22
+• para intervenciones editoriales como la añadidura de signos de puntuación <corr>.
+• para las eliminaciones <sic>.
+• para las abreviaturas <choice> <abbr> D. </abbr> <reg> don </reg> </choice> donde la
+abreviatura es <abbr>, en este caso “D.”, y su expansión es <reg>, “Don”.
+• para las actualizaciones ortográficas choice> <orig> viajeros </orig> <reg> viajeros
+</reg> </choice> donde la ortografía original es <orig> y la regulación es <reg>.
+• en los poemas, para los párrafos <lg> y para los versos <l>.
+• para los diálogos <sp who="carlos"> en donde después de who se identifica por el nombre
+al personaje que habla.
+• para los epígrafes y citas de romances y poemas <quote> diferenciándolas en dos tipos:
+los epígrafes <quote type="epigrafe"> y las citas dentro del cuerpo de la novela <quote
+type="cita">.
+• Para las notas <note> diferenciándolas en tres tipos: las notas de la autora <note
+type="autora">, las expositivas <note type="expo"> y las críticas <note type="critico">.
+Es importante aclarar la razón detrás de esta codificación tan rigurosa: los elementos permiten
+identificar los diferentes tipos de correcciones y notas que se hicieron en la edición. Al tener
+todas estas modificaciones etiquetadas se le puede dar estilos específicos a cada una en HTML
+y CSS para que en la interfaz de lectura se puedan diferenciar entre sí. Entonces, por ejemplo, a
+las actualizaciones ortográficas se les atribuyen ciertos valores de estilo para desplegarlas en el
+cuerpo de texto, identificándolas con el color azul, y la ortografía original se despliega en la
+banderilla que aparece al pasar el cursor sobre la palabra.
+Un ejemplo concreto sería la palabra “país” que en la edición original aparece sin tilde:
+“pais”.
+23
+La codificación sería: <choice><orig>pais</orig><reg>país</reg></choice>: en la interfaz
+de lectura se vería país (imagen 5), pero al pasar el cursor se vería pais (imagen 6).
+Imagen 5
+Imagen 6
+En el cuarto paso del desarrollo del prototipo, creé un documento XSLT con las plantillas
+necesarias para la transformación de cada uno de los archivos TEI-XML a HTML. En este punto
+agregué información nueva a cada uno de los capítulos: la barra lateral donde se encuentran
+título, autor, portada e índice fue creada en la plantilla XSLT, así como los botones al final de
+cada página que dirigen a los capítulos siguiente y anterior. En conjunto, lo que logré en este
+paso fue codificar la gramática de los archivos XML para transformarla a etiquetas compatibles
+con HTML. Así, procedí a crear templetes por cada uno de los elementos que asigné en el paso
+anterior. Un ejemplo sencillo puede evidenciarse en las abreviaturas:
+<!--ABREVIATURAS-->
+<xsl:template match=“abbr”>
+<span class=“abreviatura”>
+<xsl:text>(abrev.)</xsl:text>
+<xsl:apply-templates/>
+</span>
+</xsl:template>
+Con esta plantilla de XSLT logré tres cosas: primero, transformar el elemento <abbr> a un
+elemento HTML <span>; segundo, añadirle al nuevo elemento HTML <span> un atributo @class
+para poder identificarlo en la hoja de estilos CSS; tercero, añadir el texto “(abrev.)” que el lector
+24
+podrá ver en una banderilla sobre la respectiva abreviatura junto con la palabra como estaba
+escrita en la edición original. Así, la expansión de la abreviatura se presenta en la interfaz de
+lectura en color azul (imagen 7) y al pasar el cursor sobre ella se despliega la banderilla con lo
+codificado en el archivo XML más el texto añadido en la plantilla XSLT (imagen 8).
+Imagen 7
+Imagen 8
+Para terminar este paso realicé la transformación de todos los capítulos de la novela de XML a
+HTML utilizando el mismo XSLT para agilizar el proceso.
+Por último, ya habiendo obtenido los documentos HTML, en el quinto paso creé el
+repositorio en Github con todos los capítulos de la novela más una página introductoria al
+proyecto y una con el índice. En este punto incluí la hoja de estilos CSS y el código de JavaScript
+para configurar el modo oscuro, el cual se activa dando clic en el ícono del bombillo al lado del
+título de la novela.
+En aras de la transparencia y siguiendo los principios del open access y el open source, el
+repositorio donde se encuentra la novela también contiene el PDF original obtenido de GB en
+el primer paso, todos los archivos XML, la plantilla XSLT y los archivos en formato de texto
+plano. Planté todo esto en el repositorio con el fin de ayudar a soportar la documentación y para
+ofrecer más claridad de los procesos. También por la intención de dejar libre acceso al proyecto
+en cada una de sus instancias.
+25
+3.3. Límites y hallazgos
+En el estado en el que se encuentra el proyecto, un estado de prototipo apenas, se debe
+considerar agrandar las posibilidades de visualización e interacción con la novela por parte del
+lector digital. En un principio, pensé en una aplicación web que no solo albergara la novela, sino
+que también pudiera convertirse en un nicho para la discusión e interacción de sus lectores por
+medio de una caja de comentarios. También esperaba poder ofrecer al lector la posibilidad de
+iniciar sesión y así grabar el registro de sus interacciones con el texto, sean apuntes o simplemente
+los fragmentos resaltados durante la lectura que, seguramente, le servirán como citas en algún
+futuro. Del mismo modo, pretendía presentar un ambiente de lectura que se acomodara a cada
+lector, que le permitiera modificar el tamaño y el tipo de la letra, además de la posibilidad de
+habilitar un modo oscuro, lo que sí se logró realizar en el prototipo, aunque de una manera algo
+precaria. Sin embargo, el código para llegar a ofrecer una interfaz así de dinámica e interactiva
+resulta muy largo y complejo para el tiempo y las capacidades que poseo en este momento para
+llevar este proyecto a buen puerto.
+Ahora bien, más allá de las promesas que se quedaron en el tintero, puedo resaltar los
+aciertos y hallazgos a los que llegué mientras desarrollaba el prototipo. En primer lugar, un gran
+logro fue presentar las notas de manera inmediata en la edición: se señalan las notas con asterisco
+de color naranja (imagen 9) que cuando se le da clic despliega la nota en la misma línea dónde
+se encuentra el asterisco (imagen 10). Esta forma de presentar las notas de la autora, las
+expositivas y las críticas, en mi opinión, invitan a leerlas y evitan su omisión. Es la manera de
+presentarlas —inmediata— la que ayuda a su lectura, al menos rápida.
+26
+Imagen 9
+Imagen 10
+Y, en segundo lugar, facilitar la revisión de la ortografía de la edición original de una manera
+sencilla e inmediata también con el uso de las banderillas que la muestran, como se evidenció
+anteriormente en el ejemplo con la palabra “país”, compete un avance en el desarrollo de
+ediciones digitales que buscan atraer a lectores digitales de todo tipo: tanto el académico como
+el convencional.
+27
+4. LA CUESTIÓN EDITORIAL
+En este capítulo hablaré de los cambios y convenciones editoriales que tuve en cuenta para
+realizar el prototipo. También hablaré un poco de la perspectiva étnica que propuse cuando
+realicé las anotaciones.
+4.1. Criterios editoriales
+Al editar el texto de la fuente primaria de 1841 seguí dos principios editoriales. Primero, la
+modernización de las grafías según las normas vigentes de ortografía de la RAE. Segundo, la
+regularización de los signos de puntuación y acentuación.
+Para lo primero, el caso más común a lo largo de la novela fue la modernización de las
+grafías ‘g’ y ‘j’. Un ejemplo de esto es la palabra ‘paisaje’, que en la primera edición aparece escrita
+siempre como ‘paisage’ (imagen 11). Esto también ocurre la palabra ‘viagero’, (imagen 12) entre
+otras.
+Imagen 11
+Imagen 12
+Para la normalización de la puntuación y de los acentos gráficos tenemos varios ejemplos: la
+modernización de los signos de puntuación cuando se presenta un diálogo en la novela es el más
+significativo, de la mano con la supresión de acentos gráficos que hoy se consideran arcaicos
+como en la preposición ‘a’ (imagen 13) o en la conjunción ‘o’ (imagen 14).
+28
+El tratamiento de la puntuación de los diálogos en la edición original se daba de manera
+desordenada: algunas veces se delimitaban las intervenciones de los personajes con comas o dos
+puntos, otras, muy pocas, veces se hacía uso del guion (imagen 15). Puesto que en la edición
+original era inconsistente la puntuación utilizada para delimitar los diálogos, la unifiqué con el
+uso de la raya al inicio y para delimitar las intervenciones del narrador como los incisos —que la
+autora delimitaba generalmente con comas. Además, expandí todas las abreviaturas presentes en
+la novela como ‘vd.’ para usted o ‘D.’, seguido de un nombre propio, para Don.
+Imagen 13
+Imagen 14
+Imagen 15
+4.2. Convenciones usadas en el prototipo
+A continuación, una relación de las convenciones de lectura que se presentan en el prototipo:
+a. En el prototipo encontrará el símbolo ^ que, al posar el cursor en él, mostrará una
+banderilla con la abreviatura sic, la cual indica supresiones de signos de puntuación que
+resultaban innecesarios o redundantes en la edición modernizada.
+b. corr. indica una adición al texto: un signo de puntuación, generalmente, que no se
+encuentra en la edición original.
+c. abrev. indica una abreviatura.
+29
+d. p. indica el inicio de una nueva página en la edición original, seguida siempre del número
+que corresponde a dicha página. En el prototipo está señalado con el símbolo|.
+e. * los asteriscos indican una anotación que se despliega al hacerles clic.
+4.3. Anotaciones
+En el prototipo implementé tres tipos de anotaciones: las notas de la autora, indicadas con N.
+A.; las expositivas, indicadas con N. E.; y las críticas, indicadas con N. C. Las primeras son
+anotaciones que están incluidas en la primera edición, realizadas en su momento por la misma
+autora. Las notas expositivas se refieren a conceptos que pueden resultar confusos y requieren
+de una breve explicación o solo el uso de un sinónimo que aclare el significado moderno de la
+palabra resaltada. Las notas críticas provienen de una lectura a partir del concepto de la negritud
+de Aimé Césaire, y pretenden hacer un análisis del discurso “antiesclavista” que propone
+Gertrudis Gómez de Avellaneda en la novela16.
+4.4. La perspectiva étnica
+En cuanto a la perspectiva étnica que pretendo exponer en las notas críticas puedo decir que esta
+lectura se encuentra fundamentada principalmente en el concepto de raza de Aimé Césaire,
+propuesto en gran parte de su poesía, pero resumido más específicamente en un corto ensayo
+llamado Discurso sobre la negritud (2015). El autor martiniqués comprende el concepto de raza más
+allá de las características físicas, incluso reemplaza la palabra ‘etnia’ por la palabra ‘identidad’ y
+reafirma la negritud desde la historia compartida: “más de lo biológico inmediato, […] hace
+referencia a […] una suma de experiencias vividas […]: es una de las formas históricas de la
+16 Puede ver más sobre este análisis de la construcción del discurso antiesclavista en la novela en el siguiente
+capítulo: “Estudio de la cuestión literaria”.
+30
+condición impuesta al hombre.” (86). La condición impuesta al hombre es la esclavitud, la cual
+Césaire ve como experiencia histórica que une a los pueblos negros, une a la “raza”.
+El autor también habla de una renuncia a la esclavitud por parte del negro. Césaire
+argumenta que el negro ha renunciado a la esclavitud en tanto la reconoce en su historia pero,
+como él mismo lo dice:
+No pertenece al orden de padecer y sufrir.
+No es ni un patetismo ni un dolorismo.
+La negritud resulta de una actividad activa y ofensiva del espíritu.
+Es sobresalto, y sobresalto de dignidad.
+Es rechazo, quiero decir, combate contra la desigualdad.
+Es también revuelta. [sic](87)
+En otras palabras, la negritud no solo acepta la esclavitud como parte de su historia sino que, al
+mismo tiempo, reconoce su constante lucha en contra de esta. Así pues, Césaire ancla su
+argumento en la renuncia a la esclavitud como condición de vida en tanto se refuerce el
+conocimiento de la diferencia. Hace de la diferencia la piedra angular para construir la identidad
+racial del hombre negro. En suma, busca hacer hincapié en aquello que los diferencia,
+reconociendo a los negros no como una raza —pues la única raza que existe es la humana—
+sino como una comunidad identitaria, o bien una identidad específica y diferente a la blanca.
+Ahora bien, desde este concepto de raza que construye Césaire, como diferencia y,
+especialmente, como experiencia histórica compartida —la esclavitud—, fue donde nacieron las
+notas críticas, con las que pretendo resaltar los momentos discursivos, a lo largo de la novela, en
+los que se señala directamente a la esclavitud y se le pretende juzgar moralmente. En siguiente
+capítulo ahondaré un poco más sobre esta perspectiva de raza.
+31
+5. ESTUDIO DE LA CUESTIÓN LITERARIA
+5.1. Breve análisis de la construcción del discurso antiesclavista en la
+novela Sab (1841)
+Sab (1841), de la autora cubana Gertrudis Gómez de Avellaneda (1841-1873), ha sido
+categorizada como la primera novela antiesclavista escrita en castellano (Mahmoud-Amin, 2010).
+Su protagonista, Sab, es un mulato esclavo al que se le da voz —como un acto de ventriloquía
+letrado— y su interacción con personajes criollos blancos de la isla de Cuba da pie a la discusión
+sobre su condición de esclavo y, a su vez, sobre la esclavitud misma.
+En resumen, la novela relata el amor no correspondido que siente el mulato y esclavo
+Sab por su ama Carlota, quien está prometida al hijo de un famoso comerciante extranjero:
+Enrique Otway. En medio de las vicisitudes de esta historia de amor, el padre de Carlota pierde
+su fortuna, y por tanto la dote de su hija, y Sab gana una suma muy alta de dinero en la lotería.
+Así, se narra una historia de amor profundo y desinteresado, que parece humanizar el esclavo,
+cuando Sab dona su fortuna recientemente adquirida a su amada Carlota para que esta pueda
+casarse con quien ella dice desear: Enrique.
+Ahora bien, intentaré reconstruir el discurso antiesclavista que propone esta ficción. Para
+tal fin me centraré en tres momentos discursivos principales que rastreé en la novela: el primero
+es la descripción de la vida del esclavo, en este caso hecha por un labrador desconocido —que
+termina siendo el mismo Sab, aunque en este punto el lector aún no sabe realmente quien
+habla—; el segundo son las refutaciones de la esclavitud que hacen los tres personajes
+principales, tanto el esclavo Sab, como su objeto de su amor Carlota y su próximo amo Enrique;
+y el tercero la defensa de la libertad particular de Sab desde lo que yo llamo “la figura del negro
+domesticado”. Más allá de dictaminar si esta novela encaja en una literatura “antiesclavista”, mi
+intención última es desmenuzar y entender el concepto de raza que se percibe entre líneas.
+32
+El primer momento discursivo de la novela en el que podemos encontrar una postura
+crítica frente a la posición social del esclavo está en el primer capítulo, incluso antes de nombrar
+o identificar a cualquiera de los personajes que interactúan en la escena. Se trata de la
+conversación entre un labrador sin nombre y un extranjero que se encontraba buscando un
+ingenio en específico. Ambos personajes se encuentran, el primero hace de guía del segundo y
+lo lleva al ingenio que busca. El extranjero empieza a indagar por las tierras que están recorriendo
+y señala: “Vida muy fatigosa deben tener los esclavos en estas fincas […] y no me admira se
+disminuya tan considerablemente su número.” (106), a lo que el humilde labrador responde con
+un largo discurso sobre los detalles específicos de la vida de los esclavos. Habla del arduo trabajo
+que cumplen y la poca recompensa que reciben. En algún momento hace referencia a la molienda
+de la caña, casi como única labor del esclavo: girar “sin cesar en torno a máquina que arranca a
+la caña su dulce jugo” (106).
+Sin embargo, lo más importante de este momento discursivo es el adjetivo que
+reiteradamente se le otorga al esclavo: “infeliz”. Esta condición de infeliz que se le impone al
+negro, en este caso, el labrador la desmenuza con pesar de la siguiente manera: “¡Ah! Sí; es un
+cruel espectáculo la vista de la humanidad degradada, de hombres convertidos en brutos, que llevan
+en su frente la marca de la esclavitud y en su alma la desesperación del infierno.” (106). Aquí
+podemos ver una relación directa: la degradación de la humanidad, que es la vida del esclavo,
+con la condena del alma al infierno.
+En consecuencia, se establecen en este momento discursivo dos condiciones intrínsecas
+de la vida del negro: la deshumanización del esclavo, al ser una humanidad degradada, y la
+condena ineludible a un mundo de pecadores, como lo es el infierno. Así, este primer momento
+discursivo, que señala a la esclavitud, propone la condición de esclavo como una degradación
+del ser humano —cuestión que más adelante se ligará no tanto a quien está sujeto a la
+33
+esclavización, sino al proceso mismo de esclavitud— y también que su condición se encuentra
+escrita en su frente, y en todo su cuerpo, debido al tono de su piel.
+En relación con lo anterior se construyen otros momentos discursivos, esta vez
+encarnados en diferentes personajes, que soportan la idea de condena al hombre negro, que es
+el problema de su fisionomía, por un lado, y de su herencia, por otro. En cuanto a la fisonomía17
+del esclavo negro, Sab señala que el problema es el cuerpo heredado más no el alma, pues esta
+es más parecida a la del blanco: “Es […] que a veces es libre y noble el alma, aunque el cuerpo
+sea esclavo y villano” (108); y señala al cuerpo esclavo, y por tanto negro, como un cuerpo
+vilipendiado por la sociedad que lo usa. No obstante, lo que humaniza el alma de Sab es su
+capacidad de amar a Carlota no su condición como ser humano. Sab no contradice su
+degradación, pues es consciente que la esclavitud lo lleva a la deshumanización. Carlota, por su
+parte, habla de la condición hereditaria de la esclavitud y la aparente ceguera de los esclavos
+frente a su posición:
+¡Pobres infelices! […]. Se juzgan afortunados, porque no se les prodigan palos e injurias, y comen
+tranquilamente el pan de la esclavitud. Se juzgan afortunados y son esclavos sus hijos antes de
+salir del vientre de sus madres, y los ven vender luego como a bestias irracionales… ¡A sus hijos,
+carne y sangre suya! (146)
+Aquí Carlota hace referencia a la “ley del vientre”, que establecía la propiedad del hijo de una
+esclava desde su concepción. Y, en cuanto a la aparente ceguera de los esclavos, parece que todos
+los personajes blancos criollos piensan que los esclavos se acostumbraron al “pan de la
+esclavitud”. Enrique habla de algo similar cuando se entera de que el labrador con quien ha
+17 Con esto me refiero a lo que Césaire llama “lo biológico inmediato” (2015, p. 86), que son los rasgos físicos
+característicos de la etnia negra.
+34
+estado hablando es un esclavo del ingenio al que se dirige: “Estás acostumbrado a la esclavitud”
+(110). Parece un lugar común entre los “amos” encontrar una resignación frente a la esclavitud
+de parte de los esclavos. Es más: el mismo Sab parece pensar igual que el amo al hablar desde el
+lugar de la desesperanza tratando de explicar la pasividad del esclavo frente a la esclavitud:
+En vano sentirán en su cabeza una fuerza pensadora, en vano en su pecho un corazón que palpite.
+¡El poder y la voluntad! En vano un instinto, una convicción que les grite, «levantaos y marchad»
+porque para ellos todos los caminos están cerrados, todas las esperanzas destruidas. (220)
+De esto podemos concluir que el discurso antiesclavista en la novela se apoya también en una
+incapacidad del esclavo a “rebelarse” frente al sistema esclavizador. Y esta pasividad se
+fundamenta en una visión fatalista de la vida del esclavo en donde no hay futuro porque no hay
+esperanzas de acabar con la esclavitud como sistema.
+En contraposición con lo anterior, para el final de la novela, Sab nos revela sus
+verdaderos deseos:
+He pensado también en armar contra nuestros opresores, los brazos encadenados de sus
+víctimas; arrojar en medio de ellos el terrible grito de libertad y venganza; bañarme en sangre de
+blancos; hollar con mis pies sus cadáveres y sus leyes y perecer yo mismo entre sus ruinas […].
+(209).
+Aquí, Sab se dibuja a sí mismo como un héroe mártir que quisiera liderar la revolución de los
+esclavos cubanos —y, ¿por qué no?, de todos aquellos que se encuentran oprimidos. Esta
+posición es interesante pues se alinea con la “definición” de raza que propone Césaire, en Discurso
+sobre la negritud, donde se define la posición del negro frente al mundo no como una cuestión
+35
+únicamente del “orden del padecer”, sino más bien como una toma de acción, del resistir y del
+rebelarse. Dentro de este discurso, que se construye desde la voz del personaje esclavo, también
+se intenta resolver el problema de la libertad, o más bien, de la búsqueda de libertad de los
+esclavos a través de su reafirmación como seres humanos. Recordemos que en el principio de la
+novela se establece, como primer esbozo de la condición de esclavitud, al esclavo como la
+“degradación de la humanidad”, en otras palabras, como apenas un despojo de hombre; para el
+final de la novela, Sab pretende reivindicar la humanidad del esclavo y hacer de esta
+reivindicación la génesis de su rebelión, el inicio del fin de la esclavitud: “[…] los esclavos
+arrastran pacientemente su cadena: acaso solo necesitan para romperla, oír una voz que les grite:
+«¡Sois hombres!» […]” (207). En este punto también se retoma la idea de Césaire que ve la
+negritud, al negro, como personajes de una historia de vejámenes, de sufrimiento impuesto y
+compartido, pero, al mismo tiempo, como seres activos, en pie de lucha. Sab parece pensar que
+los esclavos solo necesitan despertar de ese adormecimiento al que los condujo las cadenas de la
+esclavitud. Y ese despertar solo se puede dar a través de la reafirmación de su propia humanidad.
+Por último, en un tercer momento discursivo domina la premisa que yo denomino “el
+negro domesticado”, pues nace de la necesidad de “blanquear al negro”, de acercarlo al hombre
+blanco ilustrado. Aquí confluyen los discursos tanto de Carlota como de su prometido Enrique
+ya que ambos pretenden defender a Sab por los valores “blancos” que se le imponen. Carlota,
+por un lado, lo diferencia del resto de esclavos argumentando que Sab ha sido criado junto a ella,
+de ahí su afición a la lectura, que resulta deslumbrante —y hasta poco creíble— para un esclavo
+que tiene que dirigir un ingenio. Por otro lado, Enrique justifica su “gusto” por Sab a partir de
+sus comportamientos sumisos y modales refinados —bastante alineados con los criollos blancos
+que son él y Carlota. Sin embargo, Enrique sí objeta algo que puede hacernos reflexionar sobre
+la incongruencia de un negro esclavo que sabe y tiene tiempo para leer: “¿para qué necesita del
+36
+talento y la educación un hombre destinado a ser esclavo?” (128). Con esta pregunta Enrique
+construye dos verdades: primero, su posición como villano de la historia pues Carlota, su amada,
+siempre defenderá a Sab como su hermano; y segundo, el sinsentido y la inutilidad de un esclavo
+ilustrado, o bien de la educación en un hombre que está destinado únicamente a trabajar como
+animal.
+A lo largo de la novela se va a jugar con esta contradicción, tal vez casi siempre exaltando
+la posición privilegiada de Sab. Él mismo se distancia de los demás esclavos: “[…] jamás he
+sufrido el trato duro que se da generalmente a los negros, ni he sido condenado a largos y
+fatigosos trabajos” (109). Esto nos hace preguntarnos también por el verdadero lugar de donde
+nacen sus reclamos frente al sistema esclavista ¿Por qué Sab reniega de un sistema que parece
+no haberlo perjudicado realmente? Lo que sucede es que la verdadera motivación del discurso
+antiesclavista de Sab en la novela es el desamor, o más bien, el amor no correspondido, la
+imposibilidad de ser amado, la imposibilidad de ser visto como igual por la persona que ama, a
+pesar de que todo el tiempo se trata de diferenciarlo de los otros esclavos. Sab, desde su primera
+presentación, es un negro particular. Empezando por el hecho que no es tan negro como los
+otros esclavos, sino que su tez es “tostada o amarillenta, casi” (103). Pero tampoco era del color
+de sus amos:
+No parecía un criollo blanco. Tampoco era un negro ni podía creérsele descendiente de los
+primeros habitantes de las Antillas. Su rostro presentaba un compuesto singular en que se
+descubría el cruzamiento de dos razas diversas, y en que se amalgamaban, por decirlo así, los
+rasgos de la casta africana con los de la europea, sin ser no obstante un mulato perfecto. […] su
+nariz era aguileña pero sus labios gruesos y amoratados denotaban su procedencia africana. (104)
+37
+A partir de la descripción de su fisonomía se particulariza a Sab: no es blanco, ni negro, ni
+indígena; en algún punto se lo denomina como un “mulato perfecto”, pero ¿qué tan perfecto
+debía ser su mestizaje para distanciarlo tanto de los otros esclavos del ingenio? Para esto se
+incluye una descendencia ligada a la realeza:
+Mi madre vino al mundo en un país donde su color no era un signo de esclavitud: mi madre […]
+nació libre y princesa. Bien los saben todos aquellos que fueron conducidos por los traficantes
+de carne humana. Pero princesa en su país fue vendida a este como esclava. (109)
+Aunque en este punto es clara la denuncia al tráfico de esclavos trasplantados de África a
+América, también se hacer evidente el enaltecimiento de este esclavo en particular por pertenecer
+a una supuesta casta monárquica africana.
+En suma, los anteriores momentos discursivos proponen una posición antiesclavista, en
+general, que señala las condiciones negativas a las que estaba sometido el negro en la Cuba del
+siglo XIX. No obstante, es evidente que en esta construcción discursiva no se señala al sistema
+esclavista como verdadero responsable de las circunstancias del negro, más bien es la condición
+de personaje romántico de Sab la que lleva a pensar que la esclavitud es un mecanismo ficcional
+para volcarlo a la fatalidad romántica. También podemos dilucidar un concepto de raza enfocado
+a este mismo fatalismo. Sab ve su fisonomía como una maldición más que como la imposición
+de un constructo social, racista por excelencia, a su apariencia física:
+¿No notáis este color opaco y siniestro?... Es la marca de mi raza maldita… Es el sello del oprobio
+y del infortunio. […] Esclavo, he debido pensar como esclavo, porque el hombre sin dignidad ni
+derechos no puede conservar sentimientos nobles. (219)
+38
+Sab maldice su color de piel tanto como su libertad de pensamiento, como su condición de
+hombre ilustrado. O más bien, reniega de que su mente se encuentre atrapada en un cuerpo
+negro, un cuerpo “villano”, como vimos anteriormente.
+Además, se evidencia una construcción racial desde el despojo de la tierra —muy
+parecido a lo que piensa Césaire sobre los hombres trasplantados— donde el negro no tiene una
+verdadera “nacionalidad” sino que se encuentra tan deshumanizado que ni deberes —y por tanto
+derechos— tiene por cumplir:
+Yo no tengo padre ni madre… […] No tengo tampoco una patria que defender, porque los
+esclavos no tienen patria; no tengo deberes que cumplir, porque los deberes del esclavo son los
+deberes de la bestia de carga, que anda mientras puede y se echa cuando ya no puede más. Si al
+menos los hombres blancos, que desechan de sus sociedades al que nació con la tez de un color
+diferente, le dejasen tranquilo en sus bosques, allá tendría patria y amores… porque amaría a una
+mujer de su color, salvaje como él, […] Pero ¡ah!, al negro se le rehúsa lo que es concedido a las
+bestias feroces, a quienes le igualan; porque a ellas se les deja vivir entre los montes donde
+nacieron y al negro de le arranca de los suyos. (219)
+Sab reivindica también la posición que tiene el hombre blanco frente al negro —o a cualquiera
+que se vea diferente— esta es la barbarie: el esclavo negro es un salvaje que debe volver a su
+mundo incivilizado para poder ser feliz. Aunque también se habla desde un lugar donde se
+reivindica la autonomía del negro y, más bien, se condena la opresión y el afán civilizador del
+hombre blanco colonizador.
+En una última instancia, en la novela, desde la voz de Sab, se interpela directamente a
+Dios para reclamar por la incongruencia, tanto de sus leyes como de sus ministros:
+39
+¿El gran jefe de esta gran familia humana, habrá establecido diferentes leyes para los que nacen
+con la tez negra y la tez blanca? ¿No tienen las mismas necesidades, las mismas pasiones, los
+mismos defectos? ¿Por qué, pues, tendrían los unos el derecho de esclavizar y los otros la
+obligación de obedecer? […] ¿Dios podrá sancionar los códigos inicuos en los que el hombre
+funda sus derechos para comprar y vender al hombre, y sus intérpretes en la tierra dirán al
+esclavo; «tu debes es sufrir: la virtud del esclavo es olvidarse de que es hombre, renegar de los
+beneficios que Dios le dispensó, ¿abdicar la dignidad con que le ha revestido, y besar la mano
+que le imprime la infamia? (265)
+En esta última diatriba, Sab, es decir el negro, construye la mayor defensa de su raza ya que iguala
+al esclavo al nivel del blanco reconociéndolo también como hombre y no como una “humanidad
+degradada”, sino que invierte este concepto y hace de la esclavitud una “degradación de la
+humanidad”. Es más, señala la hipocresía de los “intérpretes de Dios en la tierra” al pretender
+aliviar el sufrimiento del negro con la resignación que implica su condición social como esclavo.
+En este punto, Sab reduce el problema de la esclavitud a la cuestión de la raza, esto es, la
+organización social de la sociedad —en este caso cubana— se fundamenta en un racismo
+estructural que, evidentemente, perjudica a aquellos cuerpos diferentes al blanco.
+Grosso modo, en la novela se construye un discurso que sí es antiesclavista para la Cuba
+del siglo XIX, y para el lugar de enunciación desde donde nace. Gómez de Avellaneda fue una
+mujer privilegiada, que provenía de una familia esclavista de la isla, que escribe desde la nostalgia
+por su patria pero que, a todas luces, tiene una intensión de reivindicar la condición del esclavo
+y de darle voz al negro —cosa que no es muy popular en la literatura del romanticismo. Es más,
+a lo largo de este discurso ficcional se puede hilar una concepción de raza que no dista mucho
+de otras concepciones más contemporáneas como la de Césaire: un negro que, si bien en la
+mayoría de sus intervenciones acepta pasivamente su rol de oprimido, también muestra su
+40
+intención activa de rebelión, acoplándose muy bien a la visión del martiniqués que habla de la
+negritud no solo en el orden de “padecer, sino también en el de resistir” y tomar acción, aunque
+Sab termina pereciendo sin tomar acción frente al sistema antiesclavista.
+41
+6. CONCLUSIONES
+Durante el desarrollo del prototipo Sab: lectura digital anotada, encontré varios obstáculos que en
+la mayoría de los casos pude resolver. El primero fue la imposibilidad de ampliar el proyecto.
+Cabe aclarar que en un principio concebí este proyecto como una edición mucho más amplia
+que buscaba editar todas las obras de Gertrudis Gómez de Avellaneda, anotarlas y crear una
+aplicación web que permitiera su lectura y constituyera un nicho de estudio y discusión de la
+literatura. Sin embargo, por cuestiones de tiempo tuve que acotar. El obstáculo en este caso fue
+el tiempo y mis limitados conocimientos de programación, pues pensaba hacer de la aplicación
+web un nicho de estudio y discusión a partir de la incorporación de comentarios de los
+lectores/usuarios.
+Debido a que no logré realizar el proyecto que tenía en mente, resolví realizar la edición
+de un solo texto de la autora, la novela Sab (1841) y agregarle las anotaciones que son las que
+más peso le suman al proyecto. De esta manera, un megaproyecto de, tal vez, años se convirtió
+en uno más pequeño, pero donde el ejercicio académico de reflexionar sobre la novela desde la
+negritud de Césaire tuvo mucho más peso. Con esto traté de romper un poco con el paradigma
+bastante recurrente en el medio digital de “solo subir información”, sino que robustecí esa
+información que puse en línea —la novela— por medio de mis anotaciones.
+Habiendo dejado claro que esas fueron mis mayores obstáculos —el tiempo y el
+conocimiento del área—, podemos dividir los obstáculos menores en los tres campos de los que
+hablé anteriormente en este documento: lo digital, lo editorial y lo literario.
+En primer lugar, la cuestión digital implicó tantas limitaciones como mis conocimientos
+de herramientas y procedimientos digitales permitieran. Lo más difícil siempre fue la codificación
+TEI-XML y el proceso de verificación de la lectura del motor OCR, puesto que son trabajos de
+42
+mucha minucia que, usualmente, requieren varias revisiones y, preferiblemente, varios ojos que
+encuentren detalles nuevos que yo pudiese haber pasado por alto. Las limitaciones en la cuestión
+digital van muy ligadas a las limitantes del proyecto en general que expuse anteriormente, puesto
+que de las muchas ideas iniciales que tenía solo pude realizar por mis propios medios la del modo
+oscuro. Este modo aporta un poco de personalización de la lectura por cuenta del lector, pero
+no se acerca mucho a la intensión original que era la modificación más libre de las características
+tipográficas del texto y la interacción entre diferentes lectores que, eventualmente, daría inicio a
+un nicho de discusión y estudio de la literatura. Sin embargo, considero que el estado actual del
+prototipo permite una lectura cómoda de la novela lo cual, en últimas, era la meta: proporcionar
+un ambiente de lectura que permitiera también la revisión de la ortografía original y también
+ofreciera anotaciones críticas que guiaran la lectura de la obra acercándola al concepto de la
+negritud de Aimé Césaire.
+En cuanto a lo editorial y lo literario, creo que la limitación fue no anotar la edición desde
+más perspectivas, es decir, no poseer notas críticas que refieran a problemas literarios afuera del
+problema étnico. El ideal, en un futuro, sería ampliar ese conjunto de anotaciones incluyendo
+más discusiones literarias presentes en la novela como lo es la cuestión de género que es tan
+significativa como la racial: Gertrudis señala directamente la opresión a la mujer que ella como
+mujer letrada sentía, y en muchas ocasiones está opresión es comparada con la opresión al
+esclavo. No obstante, creo que esta edición satisfizo una necesidad importante que era la de guiar
+al lector en la lectura del subtexto antiesclavista que subyace en la novela.
+Ahora bien, también hubo varios aciertos en el prototipo, como poner las notas de
+manera inmediata en el texto, es decir, después de que el lector/usuario haga clic en los asteriscos
+que muestran las notas, estas se despliegan en el mismo renglón donde se está leyendo. Creo que
+43
+ese fue un gran acierto del prototipo: aprovechar de una mejor manera el medio digital con el
+objetivo de mover lo más mínimo la atención del lector desde la novela hacia las anotaciones.
+También pienso que al proyecto le quedan muchas más metas por lograr como, lo que
+nombré anteriormente, crear un nicho de discusión y lectura de la novela y de la literatura en
+general. Creo que, a grandes rasgos, se lograron los objetivos planteados, pero también creo que
+el problema de democratizar la literatura y el conocimiento es uno que queda en el tintero en
+tanto es imposible solventar la brecha digital que existe en el país y, por tanto, pretender
+democratizar el conocimiento cuando existen poblaciones enteras privadas del medio de digital
+es irrisorio. Sin embargo, puedo decir que, entre la población colombiana que tiene acceso a
+internet, el problema quedó solucionado: con el prototipo se aportó a la democratización de la
+literatura en tanto se puso disponible en línea la novela Sab a todo aquel que tenga acceso a
+internet y esté interesado en leerla. Además de que guía, al que esté interesado, a una lectura
+detallada del discurso antiesclavista presente en la novela.
+En suma, el prototipo cumplió con las expectativas propuestas en un inicio y creo que
+aportó un tanto en la creación de ediciones literarias digitales en tanto propuso una interfaz
+sencilla de lectura que también ofrece al lector la posibilidad de revisar la ortografía original y, al
+mismo tiempo, pretende guiarlo en una lectura que vaya más allá del nivel anecdótico de la
+novela: la interpretación del discurso antiesclavista planteado por la autora Gertrudis Gómez de
+Avellaneda.
+44
+7. BIBLIOGRAFÍA
+After the editing is done: Designing a Graphic User Interface for digital editions.
+https://journal.digitalmedievalist.org/articles/10.16995/dm.30/. Accedido 24 de abril
+de 2021.
+Blecua, A. Manual de crítica textual, 1983. Castalia, Madrid.
+«Bresciano - Investigar en humanidades.pdf». Google Docs,
+https://drive.google.com/file/u/1/d/1K7TNxFw8Zisp_Ds8vUngVYVysJdgAEh8/vi
+ew?usp=embed_facebook. Accedido 9 de abril de 2021.
+Bueren, José Luis, y Lucía Cotarelo. «Aproximaciones a la edición y la literatura digital». Revista
+de Humanidades Digitales, n.o 4, 2019, pp. 86-92.
+Césaire, A. Discurso sobre el colonialismo, 2015. Ediciones Akal, Madrid.
+Cordón, José Antonio. «Los libros en la encrucijada digital. Nuevas formas de edición, nuevas
+formas de lectura». Nuevas tecnologías en bibliotecas y archivos, 2011, pp. 15-33,
+https://ruc.udc.es/dspace/bitstream/handle/2183/13112/CC-
+116_art_2.pdf?sequence=1&isAllowed=y.
+«“Debates in the Digital Humanities” on Debates in the DH Manifold». Debates in the Digital
+Humanities, https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities.
+Accedido 2 de junio de 2021.
+Gertrudis Gómez de Avellaneda en Madrid. 30 de marzo de 2010,
+https://web.archive.org/web/20100330072129/http://revistas.ucm.es/fll/02104547/
+articulos/ALHI9393110115A.PDF.
+Gertrudis Gómez de Avellaneda. La eterna romántica. canal.uned.es,
+https://canal.uned.es/video/5a6f5613b1111f665d8b456f. Accedido 16 de mayo de
+2021.
+Gil, Manuel. «Repensar el ecosistema del libro». Trama & Texturas, n.o 29, 2016, pp. 107-11.
+Gomez de Avellaneda, Gertrudis. Sab. 1844. www.cervantesvirtual.com,
+http://www.cervantesvirtual.com/obra-visor/sab--0/html/.
+---. Sab: novela original. 1841.
+---. Sab, 2007 Ediciones Cátedra, Madrid.
+González Sánchez, Rafael. «Oportunidades y riesgos de la lectura digital». MÉI: Métodos de
+Información, vol. 7, n.o 13, 2016, pp. 119-43.
+45
+González-Blanco García, Elena. «La edición digital de textos literarios: planteamientos y
+perspectivas de futuro». RILCE: Revista de filología hispánica, vol. 33, n.o 1, 2017, pp. 239-
+58.
+Kelemen, Erick, y Donald H. Reiman. Textual Editing and Criticism: An Introduction. 2008.
+Mahmoud-Amin, G. “Sab y la novela antiesclavista” en Textos sin fronteras. Literatura y sociedad,
+II, 2010, ed. Hala Awaad y Mariela Insúa, Pamplona, Universidad de Navarra
+(Ediciones digitales del GRISO), pp. 103-116.
+Morales Sánchez, María Isabel. «Leer literatura en la era digital». Palabra Clave (La Plata), vol. 7,
+n.o 2, 2, marzo de 2018, pp. e049-e049. www.palabraclave.fahce.unlp.edu.ar,
+https://doi.org/10.24215/18539912e049.
+PROLOPE. La edición del teatro de Lope de Vega: las «Partes» de comediasCriterios de edición, 2008.
+Grupo de investigación prolope, Universitat Autònoma de Barcelona.
+Regnier, Philippe, et al. Digital critical editions. University of Illinois Press, 2014. Catálogo
+Público Uniandes, Biblioteca General - Humanidades - Piso 3 808.0270285,
+EBSCOhost,
+https://ezproxy.uniandes.edu.co:8443/login?url=http://search.ebscohost.com/login.a
+spx?direct=true&db=cat07441a&AN=cpu.778552&lang=es&site=edslive&
+scope=site.
+Rettberg, Scott. «Electronic literature as Digital Humanities». A new companion to Digital
+Humanities, 2016, pp. 127-36.
+Revenga García, Nàdia. «La edición crítica digital de textos teatrales: la Estrella de Sevilla como
+ejemplo». Anuario Lope de Vega: Texto, literatura, cultura, n.o 20, 2014, pp. 99-121.
+Ribas Fialho, Vanessa. «El hipertexto electrónico: un nuevo paradigma para los papeles de
+Autor, Lector y Texto». Espéculo: Revista de Estudios Literarios, n.o 34, 2007,
+http://webs.ucm.es/info/especulo/numero34/hptxt.html.
+Solodkow, D. “Introducción. Hacia una definición del discurso etnográfico colonial” en Etnógrafos
+coloniales. Alteridad y escitura en la conquista de América (siglo XVI). 2014. Iberoamericana,
+Madrid, pp. 15-54.
+Tommy Wasserman y Peter J. Gurry. A New Approach to Textual Criticism : An Introduction to the
+Coherence-Based Genealogical Method. 2017,
+http://search.ebscohost.com/login.aspx?direct=true&db=e000xww&AN=1628541&s
+ite=eds-live. eBook Academic Collection (EBSCOhost), 1628541.
+Turco, Roberto Rosselli Del. «After the Editing Is Done: Designing a Graphic User Interface
+for Digital Editions». Digital Medievalist, vol. 7, n.o 0, 0, febrero de 2012.
+journal.digitalmedievalist.org, https://doi.org/10.16995/dm.30.
+46
+«WHAT IS A DIGITAL HUMANITIES PROJECT?» DHI, 27 de junio de 2019,
+https://www.dhi.ac.uk/what-is-a-digital-humanities-project/.
+Proyectos digitales
+Césaire, Aimé. ...«...Et Les Chiens Se Taisaient». ...... ...... Et Les Chiens Se Taisaient, 2019,
+http://cesaire.elotroalex.com/chiens/.
+«“Introduction: The Digital Humanities Moment | Matthew K. Gold” in “Debates in the
+Digital Humanities” on Manifold». Debates in the Digital Humanities,
+https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-
+3fdb36bfbd1e/section/fcd2121c-0507-441b-8a01-dc35b8baeec6. Accedido 10 de abril
+de 2021.
+«Los ingenios del pincel - Geografía de la pintura y cultura visual en América colonial». Los
+ingenios del pincel, https://losingeniosdelpincel.uniandes.edu.co. Accedido 10 de abril de
+2021.
+Mandala :: Por Alejandra Jaramillo Morales. https://www.novelamandala.com/#/. Accedido 10
+de abril de 2021.
+Piedra y Cielo. http://bibliotecanacional.gov.co/es-co/colecciones/biblioteca-digital/piedra-ycielo/
+libro%20digital/index.html. Accedido 10 de abril de 2021.
+Rayuela. http://moebio.com/research/rayuela/. Accedido 10 de abril de 2021.
+Vega, Lope De. La dama boba: edición crítica y archivo digital. HTML,PDF,XML, 2015. DOI.org
+(Datacite), https://doi.org/10.6092/UNIBO/LADAMABOBA

@@ -1,0 +1,516 @@
+Automatización de marcado de texto en TEI
+Trabajo de grado para optar al título de:
+Maestro en Humanidades Digitales
+Álvaro Andrés Rivera Parra
+Director:
+Nicolás Vaughan
+Universidad de los Andes
+Facultad de Artes y Humanidades
+Maestría en Humanidades Digitales
+Bogotá D. C., Colombia
+Agosto de 2023
+Margie lo anotó esa noche en el diario.
+En la página del 17 de mayo de 2157 escribió:
+“¡Hoy Tommy ha encontrado un libro de verdad!”.
+El abuelo de Margie contó una vez que,
+cuando él era pequeño,
+su abuelo le había contado que
+hubo una época en que los cuentos siempre estaban impresos en papel.
+Uno pasaba las páginas, que eran amarillas y se arrugaban,
+y era divertidísimo ver que las palabras se quedaban quietas
+en vez de desplazarse por la pantalla.
+Y, cuando volvías a la página anterior,
+contenía las mismas palabras que cuando la leías por primera vez (…)
+Isaac Asimov
+Cuánto se divertían
+(1951)
+3
+Tabla de contenido
+Lista de figuras ........................................................................................................................... 4
+Lista de tablas ............................................................................................................................ 5
+Resumen ..................................................................................................................................... 6
+Palabras clave............................................................................................................................. 7
+Introducción ............................................................................................................................... 8
+Objetivos .................................................................................................................................. 11
+1. Capítulo 1. Marco teórico ................................................................................................. 12
+1.1. Digitalización ................................................................................................. 12
+1.2. Marcado de textos .......................................................................................... 18
+1.3. TEI .................................................................................................................. 19
+1.4. Tecnologías del lenguaje ................................................................................ 23
+1.5. Procesamiento de lenguaje natural (PLN) ...................................................... 24
+1.7. Técnicas de análisis de textos......................................................................... 30
+1.8. Tokenización .................................................................................................. 32
+1.9. Transformadores (Transformers) ................................................................... 33
+1.10. ChatGPT ..................................................................................................... 34
+1.11.1.¿Qué es una API? ................................................................................................ 36
+1.11.2. API de Open AI ................................................................................................... 37
+1.11.3. Precios de la API de Open AI ............................................................................. 37
+1.11.4. Modelos ............................................................................................................ 39
+1.11.5. Peticiones a la API ............................................................................................. 40
+1.11.6. Buenas prácticas recomendadas por Open AI .................................................. 41
+2. Capítulo 2. Descripción del programa ................................................................................. 42
+2.1. Requisitos del programa ................................................................................. 42
+3. Capítulo 3. Corpus ............................................................................................................ 45
+4. Capítulo 4. Resultados del proceso ................................................................................... 51
+4.1. Evaluación de las etiquetas ............................................................................ 51
+4.1.1. Encabezado XML y TEI ...................................................................................... 51
+4.1.2. Header .............................................................................................................. 51
+4.1.3. Text ................................................................................................................... 52
+Conclusiones ............................................................................................................................ 54
+Bibliografía .............................................................................................................................. 55
+Anexo 1. Código del programa ................................................................................................ 60
+4
+Lista de figuras
+Figura 1 Proceso de digitalización de textos .......................................................................... 16
+Figura 2 Ejemplo de digitalización de un texto ....................................................................... 17
+Figura 3 Interrelación entre NLP, ML y DL ........................................................................... 25
+Figura 4 Relación de ramas de la lingüística y procesos de NLP .......................................... 30
+Figura 5 Ejemplo de petición a la API de Open AI.................................................................. 40
+Figura 6 Respuesta de la API en formato JSON ..................................................................... 40
+Figura 7 Partes de la interfaz del programa ........................................................................... 43
+Figura 8 Diagrama de uso del programa ............................................................................... 45
+Figura 9 Captura electrónica de información bibliográfica del poema ................................. 47
+Figura 10 Captura electrónica del poema 'A un pesimista' ..................................................... 48
+Figura 11 Texto plano en limpio .............................................................................................. 48
+Figura 12 Tokenización del poema ......................................................................................... 49
+Figura 13 ID asignados a cada token ..................................................................................... 49
+Figura 14 Codificación TEI .................................................................................................... 50
+Figura 15 Resultado de encabezados ...................................................................................... 51
+Figura 16 Comparación de sección de encabezado ................................................................ 51
+Figura 17 Comparación de sección text.................................................................................. 52
+5
+Lista de tablas
+Tabla 1 Principales modelos de lenguaje extensos................................................................. 34
+Tabla 2 Precios de la API de ChatGPT .................................................................................. 38
+Tabla 3 Modelos y servicios de la API de ChatGPT .............................................................. 39
+6
+Resumen
+Este trabajo de grado describe la creación de un programa que automatiza la codificación de texto plano a la guía y estándar TEI, a través de peticiones al transformador generativo preentrenado de ChatGPT, mediante su API. En el campo de las humanidades digitales, la digitalización de textos conlleva un proceso de codificación y marcado de texto, que es hecho usualmente de forma manual o con ayuda de editores de texto pagos, lo que conlleva una alta inversión de tiempo, dinero y trabajo. Las directrices TEI son usadas en preservación digital, creación de bases de datos y mejora de búsquedas, colecciones digitales, corpus lingüísticos y libros electrónicos, entre otros. La interfaz de usuario gráfica (GUI) del programa fue hecha con el lenguaje de programación Python, con la librería Tkinter, al igual que el código para realizar las peticiones (prompts) de marcado al, mediante la API de OpenAI.
+Para la conformación del corpus poemas de José Asunción Silva extraídos de los archivos digitalizados y de dominio público de la Biblioteca Digital de la Biblioteca Nacional de Colombia, de la revista El Nuevo Tiempo Literario, fundada por el poeta y ensayista Carlos Arturo Torres, suplemento del periódico El Nuevo Tiempo, que fue alguna vez uno de los diarios más importantes de Colombia.
+Los modelos de lenguaje de Open AI que se probaron fueron text-davinci-003, GPT-4 y GPT-4 Code Interpreter (beta). Al mismo tiempo, se probó el diseño de los prompts para establecer el más adecuado. Los resultados muestran que es posible hacer un marcado de texto automático eficiente con el estado actual de los grandes modelos de lenguaje (inteligencia artificial generativa), sin incurrir en altos costos y con mejores tiempos de codificación. La automatización del marcado de texto facilita la digitalización de textos con estándares utilizados en las ciencias humanas, como punto de inicio para la investigación y la creación.
+7
+Palabras clave
+Digitalización, texto digital, TEI, XML, iniciativa de codificación de textos, marcado de texto, preservación digital, modelos de lenguaje extensos (LLM), procesamiento de lenguaje natural (NLP), GPT, transformador generativo preentrenado.
+8
+Introducción
+Los objetos de análisis empírico en el estudio en las humanidades generalmente se encuentran en formato análogo, sus fuentes primarias y secundarias suelen ser manuscritos, libros, documentos históricos, registros sonoros y visuales, etc. En algunas ocasiones, es la única forma disponible de estos recursos. Sin embargo, el contexto y las necesidades actuales exigen de estas fuentes una disponibilidad en formato digital.
+Justamente, desde hace un tiempo el consorcio Text Encoding Initiative ha desarrollado y mantenido colectivamente un estándar para la representación de textos en formato digital, principalmente en el campo de humanidades, ciencias sociales y lingüística, conocido como TEI. Estas directrices para la codificación de textos, publicadas en 1994, son usadas actualmente en bibliotecas, museos, editoriales, educación, investigaciones y acervos lingüísticos, entre otros. Las guías exponen una determinada etiquetación y estructuración para crear textos que sean “legibles” para la máquina.
+No obstante, el marcado de texto manual bajo estas directrices conlleva altos tiempos y trabajo. Además, como señalan Allés y Del Río (2016), una de las paradojas de TEI es su ubicación dentro del software libre, pero al mismo tiempo no contar con un editor de texto no pago o que solo los miembros del consorcio puedan usar su repositorio TAPAS.
+Este trabajo expone la creación de un programa que automatiza el marcado semántico de texto plano en formato TEI, con base en herramientas y tecnologías digitales de fácil acceso, en este caso modelos de lenguaje extensos. El propósito principal es evaluar la calidad de los resultados producidos por el programa.
+En el capítulo 2 se describe el programa, su interfaz gráfica de usuario (GUI) y la estructura del código para enviar las instrucciones o prompts al transformador generativo preentrenado, lo cual se hizo por medio del lenguaje de programación Python, junto con el
+9
+paquete Tkinter y la librería CustomTkinter. El programa utiliza la API de la empresa Open AI para solicitar la codificación de texto con base en las etiquetas de la TEI Encoding Iniciative, a través del envío de peticiones (prompts) a su modelo de lenguaje extenso (LLM). La entrada es un texto en formato plano y el resultado es dicho texto codificado y marcado en formato TEI.
+La prueba del software se hizo con base en un conjunto de documentos de la Biblioteca Nacional a través de su Biblioteca Digital, compuesto por textos planos (.txt) del libro Orinoco ilustrado: historia natural civil y geográfica de este gran río y sus caudalosas vertientes, así como poemas de José Asunción Silva y Porfirio Barba Jacob extraídos de los archivos digitalizados y de dominio público de la Biblioteca Digital de la Biblioteca Nacional de Colombia, extraídos de la publicación El Nuevo Tiempo Literario. El proceso de recopilación de los archivos usados, la corrección del OCR y la transformación a texto plano se describe en el capítulo 3.
+Asimismo, se hace un acercamiento al componente técnico relacionado con la API de OpenAI, sus características, exigencias y mejores prácticas recomendadas para cumplir con peticiones (prompts) eficientes y que cumplan con lo requerido por cualquier usuario. También se hace una descripción de los procesos de preparación de textos planos utilizados en el proyecto, así como del proceso de limpieza de datos, derechos de autor del corpus y transformación del texto plano a texto codificado en TEI.
+En la revisión de resultados se evalúa la calidad de la codificación del texto, sus etiquetas, errores o fallas identificadas y limitaciones en el proceso.
+Las limitaciones más importantes del programa radican en que el uso del modelo de lenguaje a través de la API tiene un costo, lo que impide el tránsito hacia el campo del
+10
+software libre. El constante desarrollo de estas tecnologías hace que los modelos se mejoren con el tiempo, por lo que están sujetos a actualizaciones o cambios.
+La cantidad de tokens tienen límite tanto de ingreso como de salida, e implican otros procesos como el uso de otros programas como Tiktoken para separar los textos en tokens o la herramienta Playground de Open AI, antes de enviarlos al transformador generativo preentrenado.
+Las peticiones o prompts de este programa requieren texto plano, esto implica una “limpieza” de los datos que va desde obtener el texto, realizar su transcripción en caso de que no exista y realizar reconocimiento óptico de caracteres (OCR), entre otros.
+11
+Objetivos
+Objetivo general:
+Crear un programa que automatice eficientemente el marcado de texto plano en formato TEI, con el fin de facilitar la creación y edición de documentos digitales según dicho estándar.
+Objetivos específicos:
+• Establecer una estructura básica, según las necesidades y requisitos de la codificación en TEI, para cumplir con las recomendaciones y pautas del estándar.
+• Diseñar un flujo de trabajo que permita marcar automáticamente los elementos y estructuras exigidos por las guías TEI.
+• Desarrollar una interfaz de usuario que facilite la interacción con el programa.
+• Crear un corpus que permita ingresar los textos al programa de la forma más limpia posible.
+• Realizar pruebas de la marcación a partir de un corpus de prueba.
+• Documentar el proceso de desarrollo del programa.
+• Validar los resultados de la codificación.
+• Evaluar la utilidad y efectividad del programa en tiempos, calidad y costos.
+12
+1. Capítulo 1. Marco teórico
+Las humanidades no han sido ajenas a los avances tecnológicos. Actualmente, gracias a internet es posible acceder a una buena cantidad de recursos en línea, bibliotecas digitales y bases de datos académicas o especializadas. La digitalización y disposición electrónica de fuentes primarias como libros, manuscritos y documentos históricos permite acceder fácilmente a todas las personas a objetos cuyo acceso era antes limitado. Esto ha revolucionado la forma de investigar, difundir y de visualizar conocimiento, ya que, entre otros, la era del big data no ha pasado desapercibida en las humanidades y las ciencias sociales.
+Existe un núcleo utópico de las humanidades digitales surgido en las décadas de 1960 y 1970, a partir de los entrelazamientos entre contracultura y cibercultura, donde se resalta la erudición, la democratización de la cultura y el libre acceso al conocimiento, más allá de estándares de propiedad intelectual y derechos de autor (Jensen, 2014, p. 121),
+Los proyectos en humanidades digitales están concebidos para ser usados o consultados desde cualquier parte del mundo y al alcance de todas las personas. El acceso a estos datos promueve su uso y abre una puerta a nuevos análisis, con mejores niveles de precisión, profundidad y como punto de partida para la creación de nuevas narrativas.
+1.1. Digitalización
+La digitalización se refiere a la conversión de una señal análoga a una señal o código digital (Lee, 2022, p. 3). Es un proceso valioso, no solo para sectores de la información, sino también para los de patrimonio y la cultura, como bibliotecas, archivos, museos, galerías e incluso colecciones particulares, que la han usado desde sus comienzos y han recorrido un camino de más de 50 años, por lo que no es para nada algo nuevo.
+13
+En el centro de las herramientas de digitalización están las computadoras. Además, una de las bases de la informática es la computación binaria, aquella capacidad de las computadoras para procesar y manipular patrones de cargas eléctricas en un sistema de encendido o apagado (0 y 1). Al respecto, Sperberg-McQueen señala el aspecto físico al procesar textos los cuales son objetos lingüísticos y culturales abstractos, y números, no como los objetos culturales:
+Comencemos con un simple hecho incontrovertible. Los textos no se pueden poner en las computadoras. Los números tampoco. Las computadoras pueden contener y operar con patrones de cargas electrónicas, pero no pueden contener números, que son objetos matemáticos abstractos, no cargas electrónicas; ni textos, que son objetos culturales y lingüísticos complejos y abstractos. (Sperberg-McQueen, 1991).
+El padre italiano Roberto Busa comenzó la práctica de crear textos legibles por máquina en 1949 al usar equipos de tarjetas perforadas de IBM con el Index Thomisticus. Los primeros registros que se conocen de revistas académicas con referencias a informática de humanidades son de mediados de los 60, junto con la Lista de obras literarias en formato de máquina con 25 páginas (Renear, 2004, citando a Carlson, 1997).
+En la década de 1970, algunas instituciones comenzaron a usar sistemas informáticos y crearon catálogos electrónicos que permitían, a través de tarjetas análogas, acceder automáticamente a objetos análogos.
+En la década de 1980, la conversión de objetos análogos a digitales como libros, trabajos, documentos y obras de arte se popularizó en campos como las humanidades, bibliotecología, archivística y las artes. Dos tipos de archivos digitales se distinguieron entonces: uno que representa al medio de almacenamiento del documento análogo original (imagen digital) y el otro que representa el contenido codificado (caracteres, figuras, etc.) (Terras, 2012).
+14
+La digitalización ha permitido la creación de bibliotecas digitales. Uno de sus pioneros es Michael Hart, quien en 1971 lanzó el Proyecto Gutenberg, cuya misión es fomentar la creación y distribución gratis de libros electrónicos. The Internet Archive, creado en 1976, es otro proyecto que conforma una “biblioteca digital de sitios de internet y otros artefactos culturales en forma digital”, con la misión de “proporcionar acceso universal a todo el conocimiento” (Internet Archive, 2023).
+Desde 1980, algunas empresas importantes comenzaron a interesarse en proyectos importantes de digitalización. Entre ellas estuvieron Kodak, con la Genealogical Society de Utah y la digitalización de millones de rollos de microfilm; o IBM, con el Archivo General de Indias, en España; la National Gallery of Art y la colección del artista Andrew Wieth, así como la biblioteca de la universidad de Yale, en Estados Unidos; el Museo de Etnología, en Japón (Osaka); la Biblioteca del Vaticano, en Italia, o The Hebrew Union College, en Israel (Terras, 2011).
+Con la entrada de internet, a comienzos de 1990, y la creación de políticas públicas en Norteamérica y Europa para incentivar la producción de recursos digitales y las primeras fuentes de financiamiento, los procesos de digitalización se aceleraron, por lo que de muchos proyectos de pequeña escala se pasó a dimensiones y alcances más ambiciosos, como por ejemplo los centros mundiales de memoria. Además de crear imágenes y representaciones digitales de objetos, se popularizaron las investigaciones para que estos registros fueran almacenados, buscados y entregados a los usuarios.
+A partir del 2000, multinacionales como Microsoft y Google se interesaron en digitalizar instituciones enteras, por lo que asuntos de derechos de autor, restricciones e intereses comerciales de estas compañías empezaron a ser fuente de discusión pública.
+15
+Actualmente, empresas como Open AI son señaladas de transgredir los derechos de autor para entrenar sus modelos de lenguaje.
+Por otra parte, para representar digitalmente documentos históricos, objetos o artefactos análogos hay un proceso que comienza con el objeto digitalizado, como un documento histórico, un artefacto o una imagen. Cualquier objeto visual que pueda ser fotografiado es susceptible de ser digitalizado. Esto involucra escaneo, microfilm, escaneo del microfilm, reconocimiento óptico de caracteres (OCR) del contenido textual y técnicas avanzadas de imagen para formatos grandes o artículos especializados, además del sonido y la imagen en movimiento, que también pueden ser digitalizados.
+Se suele pensar que la digitalización textual se da únicamente con escanear un documento impreso. Sin embargo, a pesar de que así se obtiene una primera representación digital de una fuente análoga, un punto clave es el paso de datos inestructurados a estructurados y la transformación de fuentes análogas en formatos legibles para máquina. En consecuencia, el paso siguiente involucra un proceso de reconocimiento óptico de caracteres (OCR), con el fin de obtener texto plano que facilite su uso e interoperabilidad.
+Un paso posterior se lleva a cabo con la limpieza del texto plano obtenido. Si el OCR fue de buena calidad habrá menos tareas, como corregir errores de reconocimiento o escaneo de palabras, letras que no corresponden al original, eliminar caracteres no deseados y separar palabras o párrafos mal unidos. En la normalización se unifica el texto en cuanto a minúsculas y se corrigen errores de puntuación y ortografía.
+Después de obtener el texto limpio, el siguiente paso es añadir información, por un lado, referente a metadatos, como autor, editorial, fecha de publicación, etc.; por el otro, con relación a la estructura, mediante la codificación textual hecha con lenguajes de marcado como XML, TEI o incluso HTML, para indicar dónde empiezan y terminan títulos, párrafos,
+16
+versos o estrofas, o para incluir información adicional externa que complemente o explique marcaciones de personas, lugares, fechas, instituciones o compañías.
+Figura 1 Proceso de digitalización de textos
+Nota. Pasos involucrados en un proceso de digitalización.
+TEI es ya parte de la infraestructura técnica y social de las humanidades. Con el lanzamiento de las directrices TEI se materializó un “estándar” (oficialmente el consorcio no lo llama así) para la codificación de textos digitales, que es usado cada vez más por investigadores, humanistas, bibliotecas y proyectos digitales, cuyo objetivo es intercambiar y representar datos estructuradamente.
+Las infraestructuras en este caso están constituidas por el conjunto de elementos que intervienen en su sostenimiento y popularización, como estándares, hardware, software (código), institucionalidad, investigación y sostenimiento. Del Río (2019) señala la importancia en la investigación de las humanidades digitales tanto de las infraestructuras de investigación digital como de las infraestructuras digitales, como un medio para expandir y apoyar la investigación colaborativa y la disposición pública de resultados.
+La codificación es un paso más de la infraestructura informática, la cual está compuesta además por gestión institucional, personas, financiación, recursos, hardware y software. Por otro lado, un proceso de digitalización crea lo necesario en cuanto a contenido, pero no significa su totalidad, ya que también son necesarias infraestructuras adicionales
+17
+correspondientes a bases de datos, páginas web, software para la visualización, lectura y exploración de los textos, etc.
+La figura 2 representa un proceso de digitalización de un objeto textual, que en este caso corresponde a un documento original de María Mercedes Carranza. Se necesitó un escáner (hardware) para digitalizar el objeto físico, software para el OCR, intervención humana para finalizar la limpieza del texto y obtener su transcripción en texto plano, posteriormente una codificación textual bajo el estándar TEI y un resultado final que entre otros también depende de software para su visualización y publicación.
+Figura 2 Ejemplo de digitalización de un texto
+Nota. Proceso de digitalización de un poema de María Mercedes Carranza. El texto original se encuentra en el Banco de Archivos Digitales de Artes en Colombia de la Universidad de los Andes. La imagen a la publicación corresponde a una captura de imagen del libro electrónico de la editorial Lumen (2019) de la poeta.
+18
+1.2. Marcado de textos
+La aparición del texto electrónico cambió la forma de acceder, interactuar almacenar y compartir información, aunque muchos de los términos usados en este mundo digital provienen y se mantienen del campo editorial, por ejemplo, “marcado de texto” se refería a la información que los autores agregaban sobre el texto en la corrección de pruebas antes de enviarlo a impresión (Renear, 2004).
+El marcado de texto actualmente se refiere a aquella información que se incluye distinta al conjunto de caracteres que conforman el contenido del documento (Sperberg-McQueen, 1991), esta puede referirse a su formato (márgenes, saltos de página, tipo y tamaño de fuente, etc.) o a su estructura (información analítica o interpretativa). El marcado de texto, también llamado etiquetado o codificación, añade información estructural por medio de etiquetas que indican títulos, párrafos, citas, contenido, al igual que anotaciones lingüísticas o descripción de aspectos estilísticos y de forma.
+Hay dos tipos de marcado: de procedimiento, donde un programa procesa un texto y su marcado sirve para controlar lo que el programa hace (cambiar o establecer elementos de formato como márgenes, espacios, etc.); y descriptivo, donde el marcado declara los elementos que conforman el texto (esto es un párrafo, esto es un capítulo, esto va en negrita, etc.).
+En la década de 1980 algunas instituciones y proyectos de humanidades computacionales usaron el marcado de texto, pero al no existir un estándar era difícil o imposible la interoperabilidad entre los proyectos desarrollados y, por lo tanto, no se hablaba el mismo lenguaje, lo que demandaba tiempo y trabajo al tratar de hacerlos compatibles.
+19
+1.3. TEI
+La sigla TEI se refiere al consorcio de la Text Encoding Initiative, una organización internacional que se encarga de desarrollar y mantener los lineamientos para crear y gestionar toda clase de información o datos en formato digital como “fuentes históricas, manuscritos, documentos de archivo, inscripciones antiguas y muchos otros” (TEI, 1997, p. 8). Además de referirse al consorcio, TEI también es el documento conformado por las guías o estándar de digitalización de textos, cuya última versión es la P5: Directrices para la codificación y el intercambio de textos electrónicos.
+El consorcio TEI fue pionero al establecer unas guías para la codificación de textos humanísticos, con el fin de que los datos sean computacionalmente legibles y puedan ser compartidos, intercambiados y reutilizados entre proyectos e investigadores sin problema.
+Esta iniciativa fue impulsada por instituciones, en su mayoría norteamericanas y europeas, como la Computational Linguistics, la Association for Literary and Linguistic Computing, así como el Expert Advisory Group on Language Engineering, entre otros. Actualmente, el consorcio cuenta con miembros de todo el mundo, con grupos de trabajo e intereses diversos. Asimismo, ofrece varias herramientas al público en general. Michael Sperberg-McQueen, de la Universidad de Illinois en Chicago, y Lou Burnard, de la Universidad de Oxford, son los coeditores de las guías desde su origen.
+Uno de los principales objetivos para crear este consorcio fue la publicación de unas guías que definieran un formato de texto fácil de usar, compatible con varios formatos y que posibilitara el intercambio de datos sin estar atado a ningún tipo de hardware o software, con objetos textuales claramente definidos (Nyhan, 2012).
+El marcado de texto TEI puede utilizarse en diversos tipos de documentos o fuentes como manuscritos, obras literarias, diccionarios y audio, entre otros. La codificación permite
+20
+que programas informáticos operen sobre los contenidos de los textos, con tareas como el análisis estadístico, visualización o publicación y preservación digital.
+TEI es un lenguaje de marcado construido sobre la sintaxis del lenguaje XML (eXtensible Markup Language), cuyo propósito es codificar documentos legibles tanto para humanos como para la máquina o computadora. XML es uno de los formatos para el intercambio de información más usados y comunes. Inicialmente, TEI usaba como base SGML (Standard Generalized Markup Language), una especificación ISO para definir lenguajes de marcado declarativos (8879:1986 Information processing. Text and office systems. Standard Generalized Markup Language). Sin embargo, posteriormente fue lanzado en 1998 el metalenguaje XML, desarrollado por el consorcio W3C, con la función de garantizar que los lenguajes de marcado nuevos y especializados usados en la web funcionen efectivamente, sin coordinación alguna entre desarrolladores de software y desarrolladores de contenido.
+La organización de la información en un documento en XML se basa en lo que se denomina un esquema, un conjunto de reglas para controlar y validar la estructura y visualización de un documento XML. Se considera que un documento XML está bien formado cuando respeta sus reglas sintácticas y el orden en que pueden aparecer los elementos; y que es válido cuando cumple con un esquema básico o definido, como qué elementos están permitidos o en qué orden deben aparecer (Burnard, 2022, p. 8). Un documento mínimo en formato TEI se puede representar de la siguiente forma en cuanto a sus elementos mínimos requeridos:
+1 <?xml version="1.0" encoding="UTF-8"?>
+2 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+3 <teiHeader>
+4 <fileDesc>
+5 <titleStmt>
+6 <title></title>
+7 </titleStmt>
+8 <publicationStmt></publicationStmt>
+21
+9 <sourceDesc></sourceDesc>
+10 </fileDesc>
+11 </teiHeader>
+12 </TEI> En la primera línea (<?xml version="1.0" encoding="UTF-8"?>) se declara que este es un archivo con estructura XML y que usa su sintaxis. Se divide en dos partes: una que especifica la versión que se está usando (1.0); otra que declara la codificación de caracteres (UTF-8) Unicode.
+La segunda línea (<TEI xmlns="http://www.tei-c.org/ns/1.0">) es el elemento raíz TEI, declara que el archivo está en formato TEI. Su etiqueta de cierre es </TEI> (línea 12). La abreviatura xmlns significa XML Namespaces, un atributo que define el espacio de nombres XML. El valor de la URL significa que el documento se debe interpretar de acuerdo con las guías TEI.
+La tercera línea (3) es una de las dos partes mínimas de un documento TEI: el encabezado, representado por el elemento <teiHeader>, donde se encuentran los metadatos del texto, es decir, información y descripción de la estructura del documento digital.
+La etiqueta <fileDesc> de la línea 4, cuya etiqueta de cierre está en la línea 10, contiene una sección de descripción bibliográfica del archivo, con información general.
+TEI utiliza un marcado semántico para distintos tipos de documentos, con cientos de elementos textuales disponibles y módulos especializados para corpus lingüísticos, transcripción de fuentes, teatro, manuscritos, etc. TEI contiene 21 módulos independientes, que se pueden combinar o seleccionar, según los requerimientos. De estos hay módulos obligatorios: tei, core, header y textStructure.
+El encabezado se creó con el objetivo de ser una mejor forma de catalogar los objetos y así guiar a los bibliógrafos y bibliotecarios en la documentación tanto de documentos electrónicos como de prácticas de codificación (Burnard, 2022, p. 58).
+22
+Los elementos tienen unos nombres cuyos sufijos dan información sobre su tipo de contenido. Por ejemplo, el sufijo -Stmt en los nombres de elementos (como <editionStmt> o <titleStmt>) se refiere a un grupo de elementos especializados que almacenan información estructurada. Por su parte, en el caso de -Decl’ (como <tagsDecl> o <refsDecl>), son declaraciones o información sobre prácticas de codificación específicas usadas en el texto electrónico. Y ‘-Desc’ se relaciona con la descripción de prosa.
+El encabezado tiene cuatro componentes que a continuación son descritos, están basados en ISBD (International Bibliographic Standard Description), una norma usada en catalogación de elementos en colecciones de bibliotecas (Burnard, 2022, pp. 58-59):
+1. <fileDesc> (file description, descripción del archivo) contiene una descripción bibliográfica completa de un archivo electrónico;
+2. <encodingDesc> (encoding description, descripción de la codificación) documenta la relación entre un texto electrónico y la fuente o fuentes de las que se ha derivado;
+3. <profileDesc> (profile description, descripción del perfil) proporciona una descripción detallada de los aspectos no bibliográficos de un texto, concretamente los idiomas y subtipos de idiomas utilizados, el contexto en que se produjo, los participantes y su entorno (casi todo lo que no está contemplado en los demás elementos del encabezado);
+4. <revisionDesc> (revision description, descripción de la revisión) resume el historial de revisiones de un archivo.
+El elemento <fileDesc> es obligatorio, al igual que las tres partes que lo componen:
+1. Declaración del título (<titleStmt>) que agrupa información sobre título y responsables del contenido, puede incluir los siguientes elementos:
+• <title> (title) contiene el título completo de una obra de cualquier tipo.
+• <author> (autor/a) en una referencia bibliográfica, contiene el nombre del autor/a/es, ya sea una persona o una institución, de una obra; por ejemplo, en la misma forma que la proporcionada por una autoridad bibliográfica reconocida.
+• <editor> declaración secundaria de responsabilidad para un ítem bibliográfico, por ejemplo, un nombre particular o institucional (o cualquier otro) que ha actuado como editor, compilador, traductor, etc.
+• <sponsor> (sponsor) especifica el nombre de la organización o institución responsable.
+• <funder> (responsable de la financiación) proporciona el nombre del individuo, la institución o la organización responsable de la financiación de un proyecto o de un texto.
+• <principal> (investigador principal) proporciona el nombre del investigador principal de la creación de un texto electrónico.
+• <respStmt> (declaración de responsabilidad) proporciona la declaración de la responsabilidad para el contenido intelectual de un texto, edición, grabación o serie, donde no basten o no se apliquen los elementos especializados para autores, editores, etc.
+• <resp> (responsabilidad) contiene un sintagma que describe la naturaleza de la responsabilidad intelectual de una persona.
+23
+• <name> (nombre, nombre propio) contiene un nombre propio o un sintagma nominal. (TEI, 2005).
+2. Declaración de publicación y descripción de la fuente (<publicationStmt>) describe, por ejemplo, cómo obtener el recurso digital, la persona o institución que pone a disposición el recurso, número de catálogo, licencias, etc. Puede ser una simple descripción o contener elementos como: <publisher>, para el nombre de la organización que publica o distribuye; <distributor>, es decir, el responsable del texto o distribución; <authority>, que es el responsable de hacer disponible el archivo electrónico, distinto al editor o distribuidor.
+3. Descripción de la fuente <sourceDesc>, que explica el origen o derivación del texto fuente, además, puede incluir varios elementos especializados, como descripción bibliográfica.
+1.4. Tecnologías del lenguaje
+El desarrollo de la digitalización conllevó lo que se ha llamado como tecnologías del lenguaje, que “consisten en la aplicación del conocimiento sobre la lengua al desarrollo de sistemas informáticos capaces de reconocer, analizar, interpretar y generar lenguaje” (Lavid, 2005). Al respecto, Megías (2007) detalla, en relación con lo que llama informática textual, cuatro campos de estudios principales:
+1. Editorial: difusión del texto con nuevos soportes (desde la digitalización al diseño del hipertexto), diseño y gestión de ediciones hipertextuales y de la estructura de las bibliotecas virtuales, difusión de hipertextos informativos e, incluso, de hipertextos creativos.
+2. Documental: diseño y gestión de archivos hipertextuales y de bases de datos textuales.
+3. Instrumental: uso y perfeccionamiento de programas específicos para la edición y el análisis de los textos.
+4. Hermenéutico: utilización de las herramientas informáticas para analizar los textos desde diversas perspectivas, hasta ahora no exploradas.
+24
+1.5. Procesamiento de lenguaje natural (PLN)
+Los avances en informática textual estuvieron interrelacionados de manera inseparable con el procesamiento del lenguaje natural (PLN). Considerando los campos de estudio que Megías ha señalado, el PLN tiene aplicaciones en cada uno de ellos. En el campo editorial, por ejemplo, las tecnologías del lenguaje pueden facilitar la edición de textos y el diseño de hipertextos. Las herramientas de PLN pueden ayudar a detectar errores gramaticales, mejorar el estilo de escritura y optimizar la legibilidad del contenido.
+En cuanto al campo documental, el PLN puede contribuir a la gestión de bases de datos textuales y archivos hipertextuales. Las técnicas de PLN, como la recuperación de información, el resumen automático y la clasificación de documentos, pueden mejorar la eficiencia de los sistemas de gestión documental. El campo instrumental también se beneficia enormemente del PLN. Los programas informáticos para la edición y análisis de textos pueden ser potenciados mediante el uso de algoritmos de PLN para tareas como el análisis de sentimientos, la detección de temas o tópicos y la traducción automática.
+El campo hermenéutico también puede verse impactado por las tecnologías del lenguaje. Las herramientas de PLN pueden proporcionar formas innovadoras de analizar textos desde perspectivas no exploradas anteriormente.
+El procesamiento de lenguaje natural es una parte de la inteligencia artificial, específicamente aprendizaje de máquina (machine learning), que investiga y formula mecanismos computacionales para permitirles a las computadoras interpretar y comprender lenguaje humano. Es un campo interdisciplinario que se beneficia de varias disciplinas: ciencias de la computación (algoritmos, software y hardware), estadística (modelos teóricos e interpretación basada en probabilidades), lingüística computacional (conocimientos sobre la lengua) e inteligencia artificial y aprendizaje de máquina.
+25
+Debido a la finalidad práctica de las investigaciones, los lingüistas prefieren hablar de la lingüística computacional como un área de conocimiento dentro de la lingüística aplicada. En cambio, debido a la posibilidad de desarrollar sistemas de computación que simulen algún aspecto de la capacidad lingüística del ser humano, los informáticos consideran la lingüística computacional como una rama de la inteligencia artificial, al igual que los sistemas expertos o la robótica, en cuyo caso prefieren hablar de PLN. Por tanto, mientras la lingüística computacional se centra más en la modelización del conocimiento lingüístico para posibilitar la construcción de sistemas computacionales que analicen y/o generen textos en lenguaje natural, el PLN hace un mayor énfasis en la búsqueda de soluciones a los problemas que plantea la lingüística computacional, pero en el marco de aplicaciones concretas: p.ej. recuperación y extracción de información, resúmenes automáticos, traducción mecánica, etc. (Periñan, 2012).
+Figura 3 Interrelación entre NLP, ML y DL
+Nota. Tomado y adaptado de Sowmya et. al. (2020).
+A finales de la década del 40 y principios de la del 50, el matemático Warren Weaver propuso técnicas como criptografía, modelos estadísticos y teoría de la información para realizar traducción automática. En sus inicios, la traducción automática estuvo basada en comparaciones de vocabularios entre lenguas, pero esto no era muy funcional cuando se enfrentaba a, entre otros, palabras con distintos significados (polisemia) (Periñan, 2012, p. 18).
+En los 60, se consolidó un enfoque simbólico gracias a los avances en la teoría de la inteligencia artificial y la aparición de la gramática generativo-transformacional. Uno de los momentos clave de esta época tiene lugar en una conferencia que se llevó a cabo en el
+26
+Darmouth Colllege (New Hampshire, EE. UU.) con pioneros en inteligencia automática como Marvin Minsky y Nathaniel Rochester, al igual que Claude Shannon, este último considerado como el precursor de la teoría de la información y conocido por sus contribuciones al diseño de circuitos digitales y al criptoanálisis. En el evento señalado el debate recayó sobre el “desarrollo de sistemas basados en el razonamiento lógico”, por lo que suele ser un punto importante de referencia en el desarrollo de este campo.
+También, en esta década Joseph Weizenbaum, del MIT (Massachusetts Institute of Technology), diseñó el programa informático ELIZA, con base en reglas de concordancia de patrones aplicadas a frases de humanos. ELIZA simulaba ser un psicólogo para generar empatía.
+Syntactic Structures (1957) y Aspects of the Theory of Sintax (1965) del lingüista Noam Chomsky y la presentación de un modelo generativo del lenguaje y posteriormente la teoría estándar de la gramática generativo-transformacional provocaron un entusiasmo en investigadores porque era un modelo formal del lenguaje que podría facilitar su implementación computacionalmente. Sin embargo, “se demostró que esta no era adecuada para el PLN: la teoría mostró tanto interés en el procesamiento sintáctico que no prestaba atención alguna al tratamiento semántico (Periñán, 2012):
+En realidad, la Gramática Generativo-Transformacional no se ideó pensando en el PLN. De hecho, los lingüistas generativistas nunca concibieron el PLN como un escenario donde probar su teoría lingüística, ya que pensaban que las realizaciones lingüísticas estaban íntimamente conectadas con las intuiciones (p. 20)
+La década del 70 se enfocó en desarrollar sistemas de comprensión del lenguaje natural. La Escuela de Yale con Robert Schank y colaboradores lideraron la teoría del guion como base para un modelo dinámico de la memoria, basada en el formalismo de la dependencia conceptual, es decir, grafos que permiten representar conceptualmente un texto de entrada a partir de la descomposición semántica de los verbos, basado en la gramática de
+27
+casos de Fillmore (1968). Algunos programas se crearon en este periodo para demostrar que la teoría de memoria dinámica podía replicar el proceso de comprensión del ser humano, como MARGIE, SAM o PAM (Periñán, 2012, p. 21).
+En la década de 1980 comenzó el auge de los modelos probabilísticos, principalmente aplicados a tecnologías del habla, etiquetado gramatical, análisis sintáctico y semántica. Además, hubo un enfoque en la sintaxis en cuanto a las relaciones del léxico que contribuyó a determinar la forma sintáctica de una cadena de habla.
+Los años 90 se caracterizaron en este campo por la aplicación de métodos estadísticos, que se convirtieron en el estándar para varios campos del procesamiento de lenguaje natural. Además, se dio la llegada de internet, al igual que los avances tanto en software y hardware, como procesamiento y almacenamiento.
+En el 2001, los modelos de lenguaje natural innovaron al aplicar aprendizaje de máquina al procesamiento de lenguaje natural, mediante el uso de redes neuronales para predecir la siguiente palabra, con base en palabras anteriores. También se introdujo la técnica de word embedding, que usa vectores de números reales para representar palabras. Posteriormente, en el 2008 apareció el aprendizaje multitarea o multi-task learning, donde un modelo es entrenado para realizar varias tareas a la vez y compartir información entre estas, en lugar de aprender cada tarea de forma aislada.
+En el 2013 y 2014 surgieron nuevos modelos o arquitecturas de procesamiento de lenguaje natural impulsados por las redes neuronales como, por ejemplo, las redes neuronales recurrentes (RNN), reemplazadas posteriormente por redes de memoria a largo plazo (LSTM) y unidades recurrentes cerradas (GRU); redes neuronales convolucionales (CNN) y modelos secuencia a secuencia (Periñán, 2012). En el 2015, el mecanismo de atención (Vaswani et al.,
+28
+2017) fue importante para identificar solo la sección más relevante, en vez de la oración completa, para ser procesada por una red neuronal.
+Sobre la base de los desarrollos anteriores, en el 2017 surgió la nueva arquitectura de los denominados modelos de lenguaje extenso (LLMs) o modelos de lenguaje preentrenados, diseñados para entrenar previamente modelos de lenguaje generales con grandes cantidades de datos y parámetros. Esto produjo que varias empresas desarrollaran varios módulos o bibliotecas, como los siguientes:
+• Transformers (Google Brain – 2017).
+• BERT (Bidirectional Encoder Representations from Transformers) (Google – 2018)
+• T5 (Google – 2019).
+• GPT-3 (Generative Pre-trained Transformer) (Open AI – 2020).
+• PaLM (Pathways Language Models) (Google -2022).
+• PaLM 2 (Google – mayo de 2023).
+1.6. ¿La máquina entiende el lenguaje humano?
+El procesamiento de lenguaje natural (PLN) podría entenderse como un sistema de entrada-proceso-salida (input-process-output), donde la entrada (input) es lenguaje natural (texto o habla) (Google, 2023).
+Para que el computador pueda procesar (process) esta entrada necesita dos pasos: primero, traducirla a lenguaje de máquina, lo cual se denomina representación de texto. Segundo, para procesar el lenguaje hace uso de dos métodos: uno es el razonamiento basado en reglas (Rule-based reasoning), donde se le dice a la computadora qué hacer, con base en reglas codificadas a mano; por ejemplo, se le indica que haga coincidir ‘hola’ en inglés con ‘hola’ en español. Esto recuerda las técnicas usadas en la década del 40 que se mencionaron anteriormente o el programa ELIZA. La otra forma es el aprendizaje automático (machine learning), donde la computadora aprende las reglas por sí misma a través de una gran
+29
+cantidad de datos y sus correspondientes resultados. La salida (output) depende de la tarea seleccionada, según las posibilidades que ofrece el PLN.
+Existen varias aplicaciones cotidianas actualmente, en el campo de los correos electrónicos se usa para clasificar spam, organizar automáticamente la bandeja de entrada y el autocompletado al momento de escribir. Así mismo, asistentes de voz en los dispositivos móviles como Google Assistant, Siri (Apple) o Alexa (Amazon) se usan para impartir tareas o acciones mediante el habla. También son populares los servicios de traducción automática ofrecidos por multinacionales. Los motores de búsqueda como Bing tienen incorporados ahora estos servicios, especialmente para consultas y preguntas de los usuarios.
+Las tareas fundamentales del PLN podrían resumirse en: i) Modelado de lenguaje (language modeling), que tiene la función de predecir la siguiente palabra en una oración, según las palabras anteriores, y se usa en tareas como OCR, reconocimiento de voz, de escritura a mano y corrección ortográfica. ii) La clasificación automática de texto (text classification), que se encarga de organizar el contenido de un texto o parte de este en unas categorías comunes, la cual se usa para identificar spam en correos electrónicos y clasificación de temas (identificar el tema del contenido). iii) La extracción de información, que identifica y extrae información o datos relevantes o específicos en grandes cantidades de textos y de distintos tipos, como calendarios, correos electrónicos, redes sociales (Sowmya V. B. et al., 2020).
+30
+Figura 4 Relación de ramas de la lingüística y procesos de NLP
+Nota. Tomado y adaptado de Sowmya et. al. (2020).
+1.7. Técnicas de análisis de textos
+El análisis de texto es un proceso en el que un algoritmo de inteligencia artificial (AI) ejecutado en un equipo evalúa atributos en un texto para determinar conclusiones específicas. Normalmente, una persona se basará en sus experiencias y conocimientos para obtener las conclusiones.
+Las técnicas de análisis de textos han tenido un notable avance gracias al poder de la inteligencia artificial y el aprendizaje automático. La capacidad de extraer conocimiento y significado de grandes cantidades de texto abre nuevas posibilidades en campos como la investigación académica y la industria. Varias técnicas desarrolladas en el campo del procesamiento de lenguaje natural profundizan en la estructura y el contenido de los textos, lo cual produce o devela información valiosa que antes podría haber pasado desapercibida. Estas técnicas incluyen análisis estadísticos y de patrones que facilitan su comparación y clasificación y permiten dislumbrar sus relaciones semánticas. Estas metodologías se aplican
+31
+en distintos escenarios, según las necesidades y recursos, y van desde la clasificación de documentos hasta el análisis de opiniones. A continuación, se enumeran algunas técnicas frecuentes para el análisis de texto (Google, 2023):
+• Análisis estadísticos de los términos usados en el texto. Por ejemplo, mediante la eliminación de las "palabras vacías" (stop words) comunes (palabras como "la" o "un", que revelan poca información semántica sobre el texto) y el análisis de frecuencia de las palabras restantes (contando la frecuencia con la que aparece cada palabra) se pueden proporcionar pistas sobre el asunto principal del texto.
+• Ampliación del análisis de frecuencia a frases de varios términos (N-gramas): una expresión de dos palabras es un bigrama, una frase de tres palabras es un trigrama, etc.
+• Algoritmos de lematización. Normaliza palabras antes de contarlas; por ejemplo, para que las palabras como “amo”, “amaría”, “amante”, etc. se interpreten como la misma palabra al tener la misma raíz.
+• Aplicación de reglas de estructura lingüística para analizar frases; por ejemplo, dividir las frases en estructuras de tipo árbol, como una frase nominal, que a su vez contiene sustantivos, verbos, adjetivos, etc.
+• Codificación de palabras o términos características numéricas que se pueden usar para entrenar un modelo de aprendizaje de máquina. Por ejemplo, para clasificar un documento de texto en función de los términos que contiene. Esta técnica se usa a menudo para realizar análisis de opiniones, en los que un documento se clasifica como positivo o negativo.
+• Modelos vectorizados: capturan relaciones semánticas entre palabras asignándoles ubicaciones en un espacio de n dimensiones. Esta técnica de modelado podría, por ejemplo, asignar valores a las palabras flor y planta, por lo
+32
+cual en un gráfico 2D visualmente se verán más cerca la una de la otra, mientras que monopatín podría recibir un valor que la posicione lejos de estas dos palabras.
+1.8. Tokenización
+La tokenización es un paso fundamental en el procesamiento del lenguaje natural, es el proceso de dividir el texto en piezas más pequeñas llamadas "tokens", los cuales pueden ser palabras o caracteres. Los modelos de lenguaje como GPT-3 y GPT-4 usan tokenización basada en Byte Pair Encoding (BPE), que divide el texto en "tokens" frecuentes, en lugar de dividir el texto en palabras o caracteres. Esto evita que por ejemplo palabras desconocidas puedan ser procesadas. La API de OpenAI tiene límites en el máximo de tokens, según el modelo escogido. En el caso de GPT-3, el límite es de 2048 tokens, que incluye tanto tokens de entrada, en el prompt, como los de salida, es decir, la respuesta del transformador generativo preentrenado (Open AI, 2023).
+Open AI dispone de una herramienta llamada Tokenizer que sirve para contar la cantidad de tokens en un texto. El proceso de tokenización tiene que ver con aspectos técnicos y limitaciones, más que por asuntos de precio. Las siguientes equivalencias de tokens con base en palabras en inglés sirven como una referencia para entender su medición o equivalencia (Baker, 2023):
+• 1 token: 4 caracteres
+• 100 tokens: 75 palabras
+• 2 oraciones: 30 tokens
+• 1 párrafo: 100 tokens
+• 1500 palabras: 2048 tokens
+33
+1.9. Transformadores (Transformers)
+En el 2017 Google introdujo la arquitectura del transformador (transformer) en un artículo de investigación titulado Attention is All You Need (Vaswani et al., 2017). Esta innovación reemplazó las capas recurrentes, como las LSTM que se habían empleado en el PLN hasta ese momento, con capas de atención. Estas interpretan cada palabra de una secuencia en relación con el resto, facilitando la inclusión del contexto en la representación matemática del texto. Por dicha característica, los modelos basados en transformadores también se conocen como embeddings contextuales.
+Hace más de diez años, el procesamiento de lenguaje natural usaba la técnica de Bag of Words, que se puede explicar así: cada vez que aparece una frase, en lugar de entender el orden de las palabras y su significado en conjunto, se cuentan cuántas veces aparece cada palabra. A mediados de 2010, el aprendizaje profundo permitió manipular y analizar más y mejor los datos, con los embeddings, las palabras se representan en un espacio tridimensional, donde aquellas que tienen significados relacionados están más cerca las unas de las otras.
+Posteriormente, con las Redes Neuronales Recurrentes hubo un gran cambio al ir más allá del orden de las palabras, pues en este caso se procesa cada palabra a la vez, pero esta mantiene información de las palabras anteriores, lo que les permite entender el contexto.
+Los transformadores tienen la capacidad de tomar una entrada, como un texto en un idioma, y generar una salida, como una traducción de ese texto a otro idioma. Cuentan con la habilidad de identificar patrones y relaciones entre los elementos de la entrada, que no necesariamente están adyacentes. Este enfoque basado en la "atención" les permite a los modelos de transformadores considerar el contexto completo de la entrada, lo que facilita tareas como la traducción automática y la generación de texto, donde la semántica y la gramática dependen a menudo del contexto más amplio (Loukides, 2023).
+34
+Tabla 1 Principales modelos de lenguaje extensos LLM Desarrollador Características ChatGPT OpenAI Desarrollado por OpenAI, basado en GPT-3.5. con entrenamiento especializado. Cuenta con API GPT-2, 3, 3.5 y 4 OpenAI Desarrollado por OpenAI. GPT-2 es open source. GPT-3 y GPT-4 no son open source, pero tienen versión gratisy paga. La interfaz de usuario de GPT-4 es parecida a ChatGPT. Sydney Microsoft Es el nombre clave para el chatbot del motor de búsqueda Bing. Kosmos-1 Microsoft Entrenado en contenido de imagen y texto.Se planea lanzarlo para desarrolladores. LaMDA Google Pocas personas tienen acceso a él, aunque sus capacidades parecen ser muy similares a las de ChatGPT. Conocido por haber llevado a un empleado de Google a creer que era sensible. PaLM Google Con tres veces más parámetros que LaMDA, parece ser muy poderoso. PaLM-E, una variante, es un modelo multimodal que puede trabajar con imágenes; se ha utilizado para controlar robots. Google ha anunciado una API para PaLM, pero en este momento solo hay una lista de espera. Chinchilla Google Un poco más pequeño que modelos como GPT-3 y ofrece un rendimiento similar. Bard Google Bbasado en LaMDA. Solo se demostró una vez en público. Recientemente se abrió una lista de espera para probarlo. Claude Anthropic Startup financiada por Google. Poe es una aplicación de chat basada en Claude y disponible a través de Quora; hay una lista de espera para acceder a su API. LLaMA Facebook/Meta Su versión anterior, OPT-175B, es ofrecida como código abierto. El código fuente de LLaMA se ha portado a C++, y se ha filtrado al público una pequeña versión del propio modelo (7B), lo que da como resultado un modelo que puede ejecutarse en portátiles. BLOOM BigScience Modelo de código abierto Stable Diffusion Stability AI Genera imágenes a partir de texto. Un modelo de lenguaje grande “entiende” el aviso y controla un modelo de difusión que genera la imagen. Aunque Stable Diffusion genera imágenes en lugar de texto, es lo que alertó al público sobre la capacidad de la IA para procesar el lenguaje humano.
+Nota. Información tomada de Loukides (2023).
+1.10. ChatGPT
+Los chatbots no son nuevos. Han utilizado el PLN para crear asistentes digitales como Google Assistant, Siri o Alexa, cuyas limitaciones más evidentes son la falta de entendimiento del contexto y la capacidad de toma de decisiones. En contraste, ChatGPT entiende contextos, puede tomar decisiones y procesar un diálogo largo con un lenguaje que parece más natural (Baker, 2023).
+GPT es la sigla de “transformador generativo preentrenado” (generative pretrained transformer), un modelo de red neuronal de aprendizaje profundo creada por la empresa estadounidense de investigación y desarrollo de inteligencia artificial Open AI.
+Se suele pensar que ChatGPT es un modelo de lenguaje en sí. Sin embargo, en realidad es una interfaz de usuario que utiliza GPT-3.5 (y superior), que sí es un modelo de
+35
+lenguaje con entrenamiento especializado, perteneciente a la clase denominada modelos de lenguaje extenso (LLM). Estos modelos son parte de una categoría conocida como inteligencia artificial generativa, que tiene la capacidad de generar nuevo contenido. ChatGPT podría entenderse como software que imita a los humanos mediante la identificación de patrones en textos (que reflejan habla, pensamientos y acciones) y cálculos de probabilidades basado en esos patrones (Baker, 2023).
+Según Mira Murati (2023), ChatGPT es una red neuronal entrenada con una enorme cantidad de datos en una supercomputadora. El entrenamiento tiene el objetivo de predecir la siguiente palabra en una oración, dadas las palabras anteriores. Al entrenar modelos más y más grandes y agregar más y más datos, las capacidades de estos modelos también se afianzan al alinearlos, y en consecuencia se vuelven más útiles.
+Al igual que en otros modelos de aprendizaje de máquina y aprendizaje profundo, la clave de ChatGPT es el reconocimiento e identificación de patrones. ChatGPT predice el orden de las palabras basado en patrones aprendidos. Para esto se entrena con grandes volúmenes de información y datos, por lo que posteriormente es posible usar el modelo en otros conjuntos de datos. Sin embargo, por esto mismo puede concluir erróneamente lo que se le pide y puede mentir o “alucinar” (Baker, 2023).
+Dos meses después del lanzamiento en noviembre de 2022, ChatGPT alcanzó 100 millones de usuarios activos por mes, en su versión gratuita, ya que ofrece sus servicios en más de 94 lenguas y varios lenguajes de programación populares, como JavaScript o Python.
+No obstante, Open AI, como varias empresas en distintos países, enfrenta acciones legales por ser acusadas de violar derechos de autor y propiedad intelectual, al usar sin permiso millones de textos e imágenes con derechos de autor, para entrenar sus modelos de IA, lo cual generalmente se hace a través de técnicas como el scrapping, para extraer
+36
+información de sitios web. Esto pone de manifiesto que la legislación a menudo no se encuentra preparada para abordar este tipo de problemas y necesita actualizar sus estándares y políticas.
+1.11.1.¿Qué es una API?
+Una interfaz de programación de aplicaciones, conocida como API (por Application Programming Interface), es un conjunto de definiciones y protocolos que les permiten a dos componentes de software comunicarse entre sí. Funciona como un módulo de software que establece comunicación e interactúa con aplicaciones o sistemas informáticos. Las API que son expuestas públicamente en la red y son utilizadas por personas diferentes se conocen como “APIs web” (Geewax y Skeet, 2021).
+Los endpoint son puntos de acceso a un servidor a los que se les realizan solicitudes por medio deAPIs y ofrecen respuestas. Está en forma de URL, es decir, en este caso especifica una dirección web para enviar los prompts (datos de entrada) y recibir la respuesta HTTP del servidor de Open AI a través de la respuesta. Por ejemplo, este es el endpoint para acceder a los servicios de finalización o completado de chat (completion) de los modelos gpt-4 y gpt-3.5: POST https://api.openai.com/v1/chat/completions.
+La disponibilidad, características y alcances de los endpoints pueden cambiar con el tiempo o incluso ser desactivados. En el código de Python es necesario especificar entre chatCompletion o completion, para apuntar al endpoint, de acuerdo con los servicios del modelo escogido, es decir que en caso hacer una petición de completion a un modelo que no lo acepte, el resultado no se mostrará porque señalará un error indicando que el modelo no existe.
+37
+1.11.2. API de Open AI
+Actualmente, el uso de ChatGPT es muy popular para tareas de diversa índole. Un poco menos que en los primeros meses posteriores a su lanzamiento, se usa muy a menudo a través de su interfaz web. Sin embargo, la API de Open AI es otra alternativa, con la cual, por medio de métodos de petición HTTP, es posible realizar peticiones (prompts) a su transformador generativo preentrenado y recibir respuestas. Esto permite una gran gama de posibilidades de creación para desarrolladores e interesados, porque permite construir aplicaciones de software eficientes y en muy poco tiempo.
+De acuerdo con su documentación (Open AI, 2023), ChatGPT puede ser usado en un amplio rango de aplicaciones que requieren interpretar o producir lenguaje humano o código, al igual que para crear y modificar imágenes o transcribir voz a texto. Los modelos de la API de Open AI no son totalmente abiertos; solo es posible acceder a través de una cuenta verificada y con pago. El uso y experimentación de los modelos es posible mediante dos formas: una interfaz ofrecida por la empresa llamada Playground o mediante la creación de una API key para conectarla a una aplicación o programa.
+Las API keys son una forma de autenticación que usa Open AI por seguridad. Son una cadena de caracteres única y secreta que sirve para identificar a los usuarios o proyectos que intentan conectarse a la API, esta se obtiene al momento del registro de la API o en la sección Ver API keys de su página web, para lo cual se necesita estar registrado.
+1.11.3. Precios de la API de Open AI
+El costo de la API ChatGPT es distinto al cobro de ChatGPT Plus; son dos servicios distintos. Mientras que la suscripción a ChatGPT Plus cuesta $USD 20 en un solo pago mensual, la API de ChatGPT cobra según el modelo escogido (de acuerdo con la necesidad) y el número de tokens tanto de inserción (input) como de resultado (ouput), como referencia la tabla 4.
+38
+Los precios de OpenAI por el uso de su modelo de lenguaje se hace por tokens, para la cual tienen una referencia para el inglés donde 750 palabras son aproximadamente 1000 tokens.
+En la tabla 4 se relacionan los servicios de embedding y fine tunnig. El servicio de embedding es una técnica del procesamiento de lenguaje natural que convierte texto en vectores matemáticos. Esto facilita su trato como datos y su manipulación matemática y computacional, al permitir mediciones de la relación entre sus vectores.
+Los modelos GPT ofrece Open AI con su API son variados, con distintas capacidades y precios. Con estos modelos es posible desde crear borradores de documentos, escribir código, responder preguntas sobre una base de conocimientos, analizar textos o crear agentes conversacionales hasta traducir idiomas o simular personajes para juegos. En julio de 2023, la empresa anunció la desactivación de los modelos ada, babbage, curie y davinci para enero de 2024 (Open AI, 2023). Por esto, los modelos más recientes son gpt-3.5-turbo y gpt-4.
+Tabla 2 Precios de la API de ChatGPT Modelo de lenguaje Modelo Input Output Training Use (1K tok.) GPT-4 8K content $0.03 /1000 tokens $0.06 / 1000 tokens GPT-4 32K content $0.06 / 1000 tokens $0.12 / 1000 tokens Chat 4K context $0.0015 / 1000 tokens $0.002 / 1000 tokens Chat 16K context $0.003 / 1000 tokens $0.004 / 1000 tokens InstructGPT Ada (fastest) $0.0004 / 1000 tokens InstructGPT Babbage $0.0005 / 1000 tokens InstructGPT Curie $0.0020 / 1000 tokens InstructGPT Davinci (most powerful) $0.0200 / 1000 tokens Fine-tuning models Ada $0.0004 $0.0016 Fine-tuning models Babbage $0.0006 $0.0024 Fine-tuning models Curie $0.0030 $0.0120 Fine-tuning models Davinci $0.0300 $0.1200 Embedding models Ada v2 $0.0001 Embedding models Ada v2 $0.0040 Embedding models Babbage v1 $0.0050 Embedding models Curie v1 $0.0200 Embedding models Davinci v1 $0.2000 Image models DALL-E (1024×1024) $0.020 / imagen Image models DALL-E (512×512) $0.018 / imagen Image models DALL-E (256×256) $0.016 / imagen Audio models Whisper $0.006 / min.
+Nota. Elaboración propia con base en información de la documentación de la API (Open AI, 2023).
+39
+1.11.4. Modelos
+GPT-4 es el modelo más reciente y preciso de la empresa, desde julio de 2023 fue liberado para aquellos clientes e la API que tuvieran al menos un pago. Estos son los principales y recientes modelos de GPT:
+• GPT-4 es un modelo multimodal, es decir, acepta entradas de texto y emite salidas de texto. Es el modelo más capaz de la compañía y, al parecer, también debido a las desactivaciones de otros modelos, será el modelo más usado.
+• GPT-3.5 es un modelo que puede entender y generar lenguaje natural o código. Es uno de los modelos hasta ahora más usados, fue optimizado para tareas de chat, pero también es capaz de desarrollar tareas de completion o completado de chat. Para el caso del objetivo del programa de este proyecto, esta última capacidad permite llevar a cabo la automatización de marcado.
+Tabla 3 Modelos y servicios de la API de ChatGPT
+Nota. Elaboración propia con información de Open AI (2023).
+Los modelos GPT de OpenAI, entrenados para interpretar tanto lenguaje natural como código, generan respuestas de texto a partir de prompts. Estas entradas, con un diseño específico, son la forma de "programar" las preguntas o solicitudes a los modelos GPT y la base para crear aplicaciones que involucren redacción de documentos, análisis de textos, creación de agentes de chat, tutorías en diversos temas, traducción de idiomas, etc
+Modelo API
+Descripción
+GPT-4
+Conjunto de modelos que mejoran GPT-3.5 y pueden comprender y generar lenguaje natural o código.
+GPT-3.5.
+Conjunto de modelos que mejoran GPT-3 y pueden comprender y generar lenguaje natural o código.
+DALL-E
+Modelo que puede crear y editar imágenes según una instrucción (prompt) dada en lenguaje natural.
+Whisper
+Modelo que puede convertir audio en texto.
+Embeddings
+Conjunto de modelos que pueden convertir texto en formas númericas.
+Moderation
+Modelo afinado (fine-tuning) que puede detectar si un texto tiene contenido sensible o inseguro.
+GPT-3 Legacy
+Conjunto de modelos que pueden entender y producir lenguaje natural (desactivación en junio de 2024).
+Desactivados
+gpt-3.5-turbo-0301, gpt-4-0314, gpt-4-32k-0314, code-davinci-002, code-davinci-001, code-cushman-002, code-cushman-001.
+40
+1.11.5. Peticiones a la API
+Para usar un modelo GPT a través de la API de OpenAI hay que hacer una petición cuya estructura incluye el prompt o petición junto con la clave de la API para autorizar, a cambio se obtiene una respuesta. Actualmente, los modelos más recientes, GPT-4 y GPT-3.5-turbo, están disponibles a través del punto final (endpoint) de la API. Una estructura básica en Python para hacer una petición que diga “Di esto es una prueba” en inglés:
+Figura 5 Ejemplo de petición a la API de Open AI
+Nota. Captura electrónica tomada de la documentación de Open AI (2023).
+La respuesta en la figura 7 incluye la identificación de la petición, el modelo escogido, la respuesta (en choices) y al final una función que muestra la cantidad de tokens del prompt, la cantidad de tokens empleados para el proceso y el total, que es la suma de los aspectos anteriores. La respuesta a la solicitud de la figura 5 se relaciona en la figura 6:
+Figura 6 Respuesta de la API en formato JSON
+41
+Nota. Captura electrónica tomada de la página web de Open AI (2023).
+1.11.6. Buenas prácticas recomendadas por Open AI
+Open AI tiene varias recomenaciones para crear prompts acertados. La claridad, especificidad y concisión hacen que la respuesta sea más precisa. En el programa, uno de los objetivos de las opciones que puede seleccionar el usuario en la interfaz, como tipo de texto y etiquetas, fue precisamente esto, ya que estas selecciones influyen en el prompt que se estructura y envía en el programa.
+Existen algunas recomendaciones en el blog de Open AI (2023a) y en el curso virtual que ofrece junto con la empresa DeepLearning.AI (2023) sobre ingeniería de prompts para desarrolladores, resumidas así:
+• Usar el último modelo: hasta noviembre de 2022 la recomendación general por la empresa era usar el modelo text-davinci-003. No obstante, a partir de julio de 2023 se lanzó GPT-4 en principio para una parte de los usuarios de la API, por lo que puede cambiar en cualquier momento.
+42
+• Registrar las instrucciones al comienzo del prompt y usar símbolos como ### o ’’’ para separar la instrucción del contexto.
+• Ser específico, descriptivo y tan detallado como sea posible sobre el contexto, la estructura y formato de salida, la extension, el formato o estilo, etc.
+• Dar ejemplos que especifiquen el formato deseado de salida.
+• Especificar qué hacer por encima de decir lo que no quiere que haga.
+2. Capítulo 2. Descripción del programa
+El programa fruto del presente trabajo de grado fue escrito en Python. La interfaz gráfica de usuario (GUI) se hizo con la biblioteca Customtkinter, que a su vez es una versión personalizada del popular framework Tkinter. Este último es una interfaz que viene por defecto con Python, es multiplataforma (el mismo código sirve en Linux, macos y Windows) y de hecho usa elementos nativos del sistema operativo donde se esté ejecutando.
+Esta herramienta dispone de widgets, que en este caso pudrían ser entendidos como módulos o bloques de código predeterminados que permiten desarrollar interfaces de usuario interactivas y fácilmente. También dispone de algunas opciones de color con tonos claro u oscuro, que la hacen ver agradable y ordenada a la vista.
+2.1. Requisitos del programa
+En cuanto al software, es necesario tener instalado Python 3.5. y el código del programa (main.py). También se debe instalar pip, el gestor de paquetes de Python para instalar bibliotecas y módulos hechos por terceros. Adicionalmente, en la carpeta donde se encuentre main.py, deberá instalarse Tkinter, CustomTkinter y Open AI (para conectarse con la API). Estos programas y bibliotecas son multiplataforma y funcionan en Windows, macOS y Linux.
+43
+2.2. Instalación y configuración
+Los siguientes comandos instalan las herramientas anteriormente descritas, su instalación se debe llevar a cabo en la terminal, en la carpeta donde esté instalado el archivo main.py:
+• pip install tkinter
+• pip install customtkinter
+• pip install openai
+2.3. Descripción general y elementos de la GUI
+Figura 7 Partes de la interfaz del programa
+La interfaz del programa desarrollado tiene cinco partes, como se puede ver en la figura 7. El campo para ingresar el texto se encuentra ubicado debajo del título del programa (1). Debajo hay una opción para escoger el tipo de texto entre opciones como poema, manuscrito o libro. La parte 3, referente a etiquetas, tiene las opciones en forma de verificación de casilla con las opciones de nombres, topónimos y lugares, esto no solo tiene que ver con la interacción con el usuario, sino también influye en el código y la estructura del prompt que se enviará al transformador generativo preentrenado.
+44
+El único botón del programa es el de generar marcado (4), el cual envía el prompt ya estructurado a partir de las opciones que seleccionó el usuario. El resultado (5) se muestra en el campo inferior de la interfaz. Cabe aclarar que el programa tiene una parte en el código que le envía un requerimiento de la información sobre la cantidad total de tokens usados tanto en el prompt como en la respuesta junto con el total de la tarea.
+El programa en general se usa así: el usuario introduce su texto plano en la interfaz de la aplicación (1). Luego, después de seleccionar opciones como tipo de texto (poema, manuscrito, libro) y etiquetas (lugar, (al hacer clic en un botón, el programa envía este texto a la API de ChatGPT como un prompt. La API procesa el prompt y devuelve una respuesta en formato TEI, que el programa luego muestra en la interfaz.
+La figura 8, ilustra el diagrama de uso del programa con las acciones del usuario, de la siguiente forma:
+1. Usuario: comienza con sus acciones. La primera es ejecutar el programa. Después se espera que pegue el texto plano. Después se espera que selecione el tipo de texto y las etiquetas.
+2. Programa: posterior a las acciones del usuario y basadas en estas, el programa realiza los requerimientos. Después de que el usuario hace clic en 'generar marcado', envía la petición a la API de Open AI. Cuando el transformador generativo preentrenado envía la respuesta por la API, el programa lo recibe y lo despliega en el campo porgramado para esto.
+3. API de Open AI: recibe y procesa el texto enviado por el usuario a través del programa, pero antes verifica la API key del usuario para validarlo. La API genera y envía el resultado (output) en formato TEI.
+45
+Figura 8 Diagrama de uso del programa
+Nota. Funcionamiento básico del programa.
+3. Capítulo 3. Corpus:
+El corpus para este proyecto está conformado por textos planos extraídos de digitalizaciones realizadas por la Biblioteca Nacional de Colombia, que incluyen poemas del artista colombiano José Asunción Silva. Este proceso involucró intervención humana y manual para obtener el texto plano en limpio.
+En primer lugar, se inició con una búsqueda exhaustiva en el catálogo en línea de la Biblioteca Digital de la Biblioteca Nacional de Colombia, con el objetivo de identificar y seleccionar una variada colección de poemas creados por artistas colombianos destacados, que estuvieran libres de derechos de autor. Durante el proceso de elaboración del corpus, al
+46
+comienzo se conformó un conjunto de poemas de la artista bogotana María Mercedes Carranza en texto plano y limpio. Sin embargo, el tiempo para obtener los permisos de derechos de autor no permitió el uso de este conjunto de datos.
+Una vez identificados los materiales adecuados, se procedió a aprovechar el reconocimiento óptico de caracteres (OCR), producto del proceso de digitalización de la biblioteca que se pueden obtener de los PDF. Sin embargo, el OCR no logró obtener una precisión perfecta en la extracción del texto. Por ende, esta etapa representó un desafío de tiempos en el proceso. porque se implementó un proceso de ajuste manual, con una revisión y corrección minuciosa de cada poema y del contenido del libro de historia. Mediante esta labor, se corrigieron las imperfecciones generadas por el OCR y se obtuvo un texto en limpio, fiel a la imagen original representada en el PDF, con el fin de asegurar la máxima calidad lingüística.
+Posterior a la corrección manual, se procedió a compilar y organizar todos los textos en un solo corpus, en un archivo de una herramienta digital llamada Notion, El enlace al corpus y los resultados se pueden ver en el siguiente enlace: https://www.notion.so/aariverap/Corpus-y-resultados-54397e57a8864491b5aac697a061e19c?pvs=4
+Para facilitar la navegación y búsqueda futura de los documentos, se compilaron en archivos de texto plano (.txt). El corpus resultante es una colección de poemas y un libro de historia enriquecedor codificados, que pueden ser usados por la misma biblioteca como una forma de disponer de una mejor forma los recursos y procesos.
+El proceso de creación de este corpus ha sido una tarea compleja, pero el resultado final justifica el esfuerzo invertido incluso tan solo en su formato de texto plano. La codificación de estos textos significa que están disponibles para que sean procesados
+47
+computacionalmente y sirvan como fuente de análisis e la investigación, contribuyendo a preservar y difundir el patrimonio cultural colombiano, por ejemplo, en este proyecto.
+En primer lugar, como se puede ver en la figura 9, se utilizó el catálogo de la Biblioteca Digital de la Biblioteca Nacional de Colombia, donde fue posible ubicar y descargar PDF digitalizaciones del suplemento cultural El Nuevo Tiempo Literario con poemas de José Asunción Silva.
+Figura 9 Captura electrónica de información bibliográfica del poema
+Nota. Corresponde al archivo digitalizado al poema A un pesimista:
+https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/173608/0
+Posterior a la localización del archivo, se descargaron los archivos en formato PDF, que contenían el archivo del escáner donde aparece el poema.
+48
+Figura 10 Captura electrónica del poema 'A un pesimista'
+Nota. Digitalización correspondiente a: El Nuevo Tiempo Literario. Bogotá D.C.: Imprenta La Crónica. Tomo 1, número 453-24 (noviembre 1903).
+El OCR con el que cuentan los archivos descargados no es el mejor, por lo que necesita intervención humana, ya que puede contener errores o encabezados, pies de página, negritas, cursiva, etc. Así, se empieza con la limpieza manual del texto plano para asegurar que el contenido sea fiel al original. La Figura 11 muestra el resultado final, después de limpiar el texto manualmente.
+Figura 11 Texto plano en limpio
+Nota. Texto plano en limpio obtenido después de un proceso de intervención humana para corregir el OCR
+49
+El límite de tokens que se pueden enviar a Open AI depende del modelo escogido. En la mayoría de las pruebas se usó el modelo text-davinci-003. Este proceso identifica cada palabra o subunidad de palabra.
+Figura 12 Tokenización del poema
+Nota. Captura electrónica de la tokenizacion del texto del poema A un pesimista, por medio de la herramienta de Open AI.
+Figura 13 ID asignados a cada token
+50
+Nota. Captura electrónica de la tokenización del poema A un pesimista, los números corresponden a cada uno de los ID asignados a cada token.
+Figura 14 Codificación TEI
+Nota. Captura electrónica del resultado de la codificación en TEI obtenida del poema A un pesimista.
+51
+4. Capítulo 4. Resultados del proceso
+4.1.Evaluación de las etiquetas
+El desarrollo de estas tecnologías avanza vertiginosamente, como ejemplo, en el transcurso del desarrollo del programa y la escritura de esta tesis, hubo cambios constantes que influyeron en la versión final, la mayoría de las veces para facilitar procedimientos o usar los últimos avances de la compañía. El último cambio tuvo que ver con uno de los modelos utilizados (text-davinci-003) y el hecho de que en el 2024 será desactivado, por lo cual las pruebas se hicieron también con el modelo de GPT-4 y su versión en beta de Code Interpreter ofrecido junto con dicho modelo.
+4.1.1. Encabezado XML y TEI
+Figura 15 Resultado de encabezados
+4.1.2. Header
+Figura 16 Comparación de sección de encabezado
+52
+4.1.3. Text
+Figura 17 Comparación de sección text
+Estas dos codificaciones, una generada por el modelo GPT-3 (text-davinci-003) y otra por el modelo GPT-4, son dos formas diferentes de marcar el mismo poema A un pesimista, escrito por José A. Silva, utilizando el estándar de la Iniciativa de Codificación de Texto (TEI). En la codificación de la izquierda, el poema completo está encapsulado en un solo bloque <lg type="poema">. Este bloque contiene cada línea del poema marcada con la etiqueta <l>. La información sobre la publicación y el autor está separada del cuerpo del poema. La publicación se encuentra en <publicationStmt> y el autor en <sourceDesc>.
+En la segunda codificación, el poema está dividido en estrofas, cada una marcada por su propio bloque <lg>. Este método puede ser útil para estructurar el poema de una manera más clara y para resaltar las pausas. En este caso, la información del autor se encuentra directamente en la etiqueta <titleStmt>, junto al título del poema. Además, el autor se menciona al final del poema en <persName>.
+53
+En cuanto a estructura del poema, la segunda codificación sería más útil, ya que divide el poema en estrofas. Sin embargo, si se está trabajando con metadatos como el título, el autor y la fecha de publicación, la primera codificación podría ser más útil, ya que presenta esta información de una manera más estructurada y separada del texto del poema. Ambas codificaciones constituyen diferentes formas de representar la misma información.
+54
+Conclusiones
+La combinación de una interfaz de usuario intuitiva y funcional, el procesamiento de lenguaje natural de vanguardia proporcionado por la API de ChatGPT, y la habilidad de convertir texto plano en documentos TEI/XML hace que este programa sea una herramienta potente y útil para la automatización de la codificación de textos.
+El desarrollo de estas tecnologías avanza vertiginosamente, como ejemplo, en el transcurso del desarrollo del programa y la escritura de esta tesis, hubo cambios constantes que influyeron en la versión final, la mayoría de las veces para facilitar procedimientos o usar los últimos avances de la compañía.
+Las diferencias entre las codificaciones ponen de manifiesto la flexibilidad del estándar TEI en cuanto a la adaptación, según las necesidades específicas del análisis textual. Un objetivo debe ser facilitar la interoperabilidad y el análisis a gran escala.
+Es esencial tener en cuenta que la elección de la estrategia de codificación depende en gran medida de los objetivos de investigación y de la naturaleza del texto. Aunque una codificación puede ser más ventajosa para un tipo específico de análisis, como el análisis de la estructura del poema, puede no ser tan beneficiosa para otros, como el análisis de metadatos. Por lo tanto, una acertada codificación influirá en dependerá de su capacidad para satisfacer las necesidades específicas de un proyecto.
+Bibliografía
+Alammar, J. (s/f). The Illustrated GPT-2 (Visualizing Transformer Language Models). Recuperado el 4 de junio de 2023, de http://jalammar.github.io/illustrated-gpt2/
+Author, C., Book, B. G., Editor, B., Hamidović, D., Clivaz, C., & Savant, S. B. (s/f). Using Natural Language Processing to Search for Textual References Title: Ancient Manuscripts in Digital Culture Book Subtitle: Visualisation, Data Mining, Communication. https://doi.org/10.1163/j.ctvrxk44t.11
+Bang, Y., Cahyawijaya, S., Lee, N., Dai, W., Su, D., Wilie, B., Lovenia, H., Ji, Z., Yu, T., Chung, W., Do, Q. V., Xu, Y., & Fung, P. (2023). A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity (arXiv:2302.04023). arXiv. http://arxiv.org/abs/2302.04023
+Bowers, J., & Romary, L. (2018). Bridging the Gaps between Digital Humanities, Lexicography, and Linguistics: A TEI Dictionary for the Documentation of Mixtepec-Mixtec. Dictionaries: Journal of the Dictionary Society of North America, 39(2), 79–106. https://doi.org/10.1353/dic.2018.0022
+Burnard, L. (2022). ¿Qué es la Iniciativa de Codificación de Textos?: Cómo añadir marcado inteligente a los recursos digitales (N. Vaughan, Trad.). Open Edition Press. https://doi.org/10.4000/books.oep.15662
+Del Río, G. (2019, diciembre 6). Humanidades Digitales, infraestructuras visibles e invisibles. Humanidades Digitales, infraestructuras visibles e invisibles. https://hdlabconicet.github.io/HD-infraestructuras/
+Don, Z. M., & Knowles, G. (2021). The digital humanities and re-imagined language description: A linguistic model of Malay with potential for other languages. Digital Scholarship in the Humanities. https://doi.org/10.1093/llc/fqab101
+Geewax, J. J., & Skeet, J. (2021). API design patterns. Manning.
+Hammond, M. (2020). Python for Linguists. Cambridge University Press; Cambridge Core. https://doi.org/10.1017/9781108642408
+https://www.facebook.com/DeepLearningAIHQ. (2023, mayo 17). Google Goes All-In on AI, Do You Share GPT-3’s Politics?, and more. Google Goes All-In on AI, Do You Share GPT-3’s Politics?, And More. https://www.deeplearning.ai/the-batch/issue-197/
+Ide, N., & Pustejovsky, J. (Eds.). (2017). Handbook of Linguistic Annotation. Springer Netherlands. https://doi.org/10.1007/978-94-024-0881-2
+Jensen, K. E. (2014). Linguistics and the digital humanities: SMID, 57, 20.
+Krohn, J., Beyleveld, G., & Bassens, A. (2020). Deep learning illustrated: A visual, interactive guide to artificial intelligence (1st edition). Addison-Wesley.
+Li, H. (2019). Research Methods for the Digital Humanities. Lewis Levenberg, Tai Neilson and David Rheams (eds.). Digital Scholarship in the Humanities, 34(3), 699–701. https://doi.org/10.1093/llc/fqz049
+Loukides, M. (2023). What Are ChatGPT and Its Friends? O’Reilly Media, Inc. https://learning.oreilly.com/library/view/what-are-chatgpt/9781098152604/ch01.html
+Manning, C. D., & Schiitze, H. (s/f). Foundations of Statistical Natural Language Processing.
+McShane, M., & Nirenburg, S. (2021a). Linguistics for the Age of AI. En Linguistics for the Age of AI. The MIT Press. https://doi.org/10.7551/mitpress/13618.001.0001
+McShane, M., & Nirenburg, S. (2021b). Linguistics for the Age of IA. MIT Press Direct. https://doi.org/10.7551/mitpress/13618.001.0001
+Mehl, S. (2021). Why Linguists Should Care about Digital Humanities (and Epidemiology). Journal of English Linguistics, 49(3), 331–337. https://doi.org/10.1177/00754242211019072
+Mylonas, E., & Renear, A. (1999). The Text Encoding Initiative at 10: Not Just an Interchange Format Anymore – But a New Research Community. Computers and the Humanities, 33(1), 1–9. https://doi.org/10.1023/A:1001832310939
+OpenAI Cookbook. (2023). [Jupyter Notebook]. OpenAI. https://github.com/openai/openai-cookbook (Obra original publicada en 2022)
+Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., Schulman, J., Hilton, J., Kelton, F., Miller, L., Simens, M., Askell, A., Welinder, P., Christiano, P., Leike, J., & Lowe, R. (2022). Training language models to follow instructions with human feedback (arXiv:2203.02155). arXiv. http://arxiv.org/abs/2203.02155
+Ozdemir, S. (2023). Quick Start Guide to Large Language Models: Strategies and Best Practices for Using ChatGPT and Other LLMs. Pearson Education (US). https://books.google.com.co/books?id=U6HWzwEACAAJ
+Pricing. (s/f-a). Recuperado el 15 de junio de 2023, de https://openai.com/pricing#language-models
+Pricing. (s/f-b). Recuperado el 21 de junio de 2023, de https://openai.com/pricing#language-models
+¿Qué es la automatización? Ventajas e importancia de automatizar. (s/f). Recuperado el 9 de junio de 2023, de https://www.redhat.com/es/topics/automation
+Roy, N., & Forget, B. (2019). MIT Schwarzman College of Computing Task Force Working Group on Computing Infrastructure Final Report. http://web.mit.edu/comptfreport/infrastructure.pdf
+Sanh, V., Webson, A., Raffel, C., Bach, S. H., Sutawika, L., Alyafeai, Z., Chaffin, A., Stiegler, A., Scao, T. L., Raja, A., Dey, M., Bari, M. S., Xu, C., Thakker, U., Sharma, S. S., Szczechla, E., Kim, T., Chhablani, G., Nayak, N., … Rush, A. M. (2022). Multitask Prompted Training Enables Zero-Shot Task Generalization (arXiv:2110.08207). arXiv. http://arxiv.org/abs/2110.08207
+Shen, Y., Song, K., Tan, X., Li, D., Lu, W., & Zhuang, Y. (2023). HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face.
+Sperberg-McQueen, C. M. Text in the Electronic Age: Texual Study and Textual Study and Text Encoding, with Examples from Medieval Texts, Literary and Linguistic Computing, Volumen 6, Número 1, 1991, pp. 34–46, https://doi.org/10.1093/llc/6.1.34
+Silva, J. A. /2017a). A un pesimista / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/173608/0
+Silva, J. A. /2017b). Nocturno / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/169473/0
+Silva, J. A. /2017c). Nidos / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/169436/0
+Silva, J. A. /2017d). Estrofas / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/169505/0
+Silva, J. A. /2017e). Nocturno III /José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/169473/0
+Silva, J. A. (2017f). Psicopatía /José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/169700/0
+Silva, J. A. (2017g). Vejeces / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/174203/0
+Silva, J. A. (2017h). Las crisálidas / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/169756/0
+Silva, J. A. (2017i). Primera comunión / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/169241/0
+Silva, J. A. (2017j). Sus dos mesas / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/170888/0
+Silva, J. A. (2017k). Estrellas fijas / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/170472/0
+Silva, J. A. (2017l). Serenata / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/169505/0
+Silva, J. A. (2017m). Paisaje tropical / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/168908/0
+Silva, J. A. (2017n). ¡Paso! / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/172711/0
+Silva, J. A. (2017o). Triste / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/173090/0
+Silva, J. A. (2017p). Los maderos de San Juan / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/170338/0
+Silva, J. A. (2017q). Día de difuntos / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/171772/0
+Silva, J. A. (2017r). Las golondrinas / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/170472/0
+Silva, J. A. (2017s). Al oído del lector / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/170033/0
+Silva, J. A. (2017t). Zig-zags / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/174376/0
+Silva, J. A. (2017u). Muertos / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/176473/0
+Silva, J. A. (2017v). Suspiros / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/176474/0
+Silva, J. A. (2017w). Nupcial / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/173202/0
+Silva, J. A. (2017x). De Lord Tennyson / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/172435/0
+Silva, J. A. (2017y). Don Juan de Covadonga / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/171996/0
+Silva, J. A. (2017z). Media noche / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/170954/0
+Silva, J. A. (2017aa). Oratorio / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/172855/0
+Silva, J. A. (2017bb). Luz de Luna / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/171235/0
+Silva, J. A. (2017). En la tortura / José Asunción Silva. https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/174741/0
+Speech and Language Processing An Introduction to Natural Language Processing,Computational Linguistics, and Speech Recognition. (s/f).
+Sussana, A., & Del Río, G. (2018). Enseñar edición digital con TEI en español. Aprendizaje situado y transculturación. Humanidades Digitales: Construcciones locales en contextos globales: Actas del I Congreso Internacional de la Asociación Argentina de Humanidades Digitales. https://www.aacademica.org/gimena.delrio.riande/167
+Text encoding and scholarly digital editions (Chapter 6)—Digital Humanities in Practice. (s/f). Recuperado el 10 de junio de 2023, de https://www.cambridge.org/core/books/abs/digital-humanities-in-practice/text-encoding-and-scholarly-digital-editions/5AC5C3A56960C60B3F9450B74FED42FB
+Tingiris, S., & Kinsella, B. (2021). Exploring GPT-3. Packt Publishing. https://learning.oreilly.com/library/view/exploring-gpt-3/9781800563193/B16854_01_ePub_AM.xhtml
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., & Polosukhin, I. (2017). Attention Is All You Need (arXiv:1706.03762). arXiv. http://arxiv.org/abs/1706.03762
+Vivek, S. (2023). When Should You Fine-Tune LLMs? https://towardsdatascience.com/when-should-you-fine-tune-llms-2dddc09a404a
+Wettig, A., & Deshpande, A. (s/f). How Does ChatGPT Work? An Overview of Large Language Models (Part 1 of 3). Princeton University Media Central. Recuperado el 4 de junio de 2023, de
+https://mediacentral.princeton.edu/media/How+Does+ChatGPT+WorkF+An+Overview+of+Large+Language+Models+%28Part+1+of+3%29/1_d3gex17b
+What is NLP? (s/f).
+Williams, S. A. (s/f). ChatGPT for Coders.
+Wittgenstein, L. (1996). Philosophical investigations. Blackwell.
+Anexo 1. Código del programa
+https://github.com/aariverap/automatizaciontei

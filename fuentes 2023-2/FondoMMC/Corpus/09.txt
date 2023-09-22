@@ -1,0 +1,442 @@
+Gómez, Susana
+Memorias semióticas y fondos
+documentales: el caso "Fondo Julio
+Cortázar". Una lectura con Lotman
+Orbis Tertius
+2020, vol. 25, nro. 32, e163
+Gómez, S. (2020). Memorias semióticas y fondos documentales: el caso "Fondo Julio Cortázar". Una
+lectura con Lotman. Orbis Tertius, 25 (32), e163. En Memoria Académica. Disponible en:
+http://www.memoria.fahce.unlp.edu.ar/art_revistas/pr.12293/pr.12293.pdf
+Información adicional en www.memoria.fahce.unlp.edu.ar
+Esta obra está bajo una Licencia Creative Commons
+Atribución-NoComercial-CompartirIgual 4.0 Internacional
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Memorias semióticas y fondos documentales: el caso ‘Fondo Julio
+Cortázar’. Una lectura con Lotman
+Semiotic memories and documentary collections: e case “Julio Cortázar Fund”.
+A reading from Lotman
+Susana Gómez
+sunygomez@gmail.com
+Universidad Nacional de Córdoba, Argentina
+Recepción: 11 Junio 2020
+Aprobación: 24 Septiembre 2020
+Publicación: 06 Noviembre 2020
+Resumen: Exploraremos hipótesis epistemológicas abiertas a
+partir de pensar los fondos documentales de escritor con
+nociones de Iuri Lotman. ¿Cómo reflexionamos sobre la
+textualidad en el sistema de un fondo centrado en la obra de un
+escritor? El sistema cultural, la memoria textual y la crítica sobre
+obras literarias poseen interesantes facetas que se conocen desde
+una lectura semiótica.
+Palabras clave: Fondo documental, Semiótica, Memoria textual,
+Fondo Julio Cortázar1.
+Abstract: We will explore epistemological hypotheses emerging
+from applying Iuri Lotman's notions to writers' archival fonds.
+How do we reflect on textuality within the system of a fond based
+on a writer's works? e cultural system, textual memory and the
+critique of literary works have interesting aspects best analyzed
+in a semiotic reading.
+Keywords: Archival fonds, Semiotics, Textual memories, Julio
+Cortázar’s Fonds.
+La vigencia de la teoría lotmaniana ofrece lecturas que vienen en nuestra ayuda para considerar los
+cambios culturales que se han dado en este siglo, sobre todo por la circulación de grandes sistemas
+informáticos, considerando cómo la virtualidad se incorpora a la vida cotidiana y en la conformación de
+identidades y prácticas. Hoy comprendemos cómo los procesos digitales en el desarrollo de redes veloces de
+tránsito de la información, así como los procesos globales que se vuelven simultáneos, dan lugar a su vez a
+subjetividades y nuevos roles digitales que no poseen cuerpos físicos sino numéricos, entidades tales como
+los avatares y las identidades ficcionales en redes sociales. En estos momentos, la noción de “hipertexto” está
+siendo reemplazada por nuevas metáforas en que “digital” pareciera ser el lugar común u objeto de base para
+sustituir los viejos procesos en las nuevas formas de actuación sobre los depósitos de datos que es la cultura
+escrita.
+“Digital” supone el dígito (una categoría matemática que sostiene todo el aparato de la informática) pero
+también el dedo que cliquea y pone en movimiento el sistema entero donde este acto de lectura se ejerce.
+Con ello, la renovada discusión sobre la memoria y el archivo, en especial sobre la puesta en línea de textos
+como derecho en el acceso al conocimiento, suponen un traslado epistémico entre formas de la cultura escrita,
+el acervo de archivos en papel vueltos digitales y la creación de nociones diferenciales para observar estos
+procesos de oferta de lo textual a los lectores en su consulta en la web sin mediar ya el espacio geográfico
+Orbis Tertius, vol. XXV, nº 32, e163, noviembre 2020-abril 2021. ISSN 1851-7811
+Universidad Nacional de La Plata
+Facultad de Humanidades y Ciencias de la Educación
+Centro de Estudios de Teoría y Crítica Literaria
+ARTÍCULO / ARTICLE
+Cita sugerida: Gómez, S. (2020). Memorias semióticas
+y fondos documentales: el caso ‘Fondo Julio Cortázar’.
+Una lectura con Lotman. Orbis Tertius, 25(30), e163.
+https://doi.org/10.24215/18517811e163
+Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
+2
+ni el tiempo de espera como condicionantes. Hemos logrado capacidades de acceso, pero hemos creado
+condicionamientos específicos ante la acción y las prácticas que producen el sentido del sentido en prácticas
+de diseño de acciones o de procesos (Dondero, 2015, p. 117).2
+En “La memoria a la luz de la culturología”, se lee un interrogante planteado por Iuri Lotman que tiene
+hoy –como muchos de sus textos- una sorprendente actualidad.
+A lo largo de toda la historia de la cultura, constantemente se hallan, se descubren, se sacan de la tierra o del polvo de las
+bibliotecas, monumentos “desconocidos” del pasado ¿De dónde salen? […] Cada cultura define su paradigma de qué debe
+recordar (esto es, conservar) y qué ha de olvidar. (Lotman, 1996 [1985], p. 159)
+Esta cita funciona como la palabra maestra que posibilitará dar cuenta de cómo su pensamiento ofrece
+alternativas en espacios y modelos de investigación poco conocidos o no reconocidos como tales. Tal es
+el trabajo de diseñar un sistema de ordenamiento, rescate y puesta en valor de un fondo documental. El
+Fondo Julio Cortázar, en la Universidad de Poitiers, digitalizado nuevamente manteniendo su primer diseño
+informático de catalogación, viene a ser el caso en que situamos aportes de su teoría, quizá impensados para
+él.3 Este Fondo fue catalogado primero en 2008 y en 2011 se coloca en la web en un formato que permitía
+conocer de manera lineal y vertical los documentos en él resguardados (cerca de 1700 documentos). Pero el
+sistema informático caduca y en 2019 comienza a trasladarse a un nuevo sitio web donde se reorganiza su
+visualización a partir de la anterior pero generando una ubicación en capas. Este nuevo diseño, ya se separa
+de su materialidad física en carpetas-biblioratos situadas en un armario físico con números consecutivos y
+folios4 con los papeles, otorga otra densidad y da lugar a una horizontalidad de localización, en que cada capa
+de datos provee a su vez todos los que identifican a un documento. Se abre el sitio web y las solapas reenvían
+en despliegues a diferentes modos de acceder a ellos, según la capa de datos en que se hallen: carpetas, títulos,
+autores, fechados, colecciones y un buscador expande aún más estas posibilidades de que el documento halle
+su lector.5
+De este modo, un desarrollo técnico produce otros formatos para conocer aquello que estuvo disperso
+y que sería imposible tener frente a la vista en la época analógica en que se publicaron o se redactaron los
+documentos. Nos preguntamos con Lotman de dónde “salen”, qué origen les da lugar y porqué preservarlos
+involucra también su “apertura” (una metáfora, igual que usamos la navegación para señalar cómo nos
+movemos en el espacio de la web). Abrir un fondo documental ratifica nociones que Lotman nos había
+enseñado, aquellas ligadas a la cibernética, pero antes que eso a una serie de nociones/figuras cuyo punto
+central es la memoria. Nos preguntamos acerca de qué responsabilidades se ven implicadas en su diseño,
+reconociendo que este deriva de operaciones mentales que rodean al actuar en un mar de documentos.
+Asimismo, qué incidencia tiene el texto documental publicado en papel pero subido a la pantalla, en tanto
+es propiciador de un uso lógico particular de los lenguajes en segundo grado que son los textos informáticos
+que “devuelven a la vista” del usuario aquellos lenguajes primarios de una crítica, un dibujo o una fotografía.
+El aporte de la teoría de Lotman (y de la Escuela de Tartu) habilitó nuevos conceptos para pensar estos
+procesos de cambio digitales del FJC. En el momento inicial de su diseño, sus perspectivas basadas en la
+cibernética de los años setenta y ochenta permitieron salir de nociones cerradas y sostenidas fuertemente
+en una horizontalidad diacrónica –el tiempo como una línea), así como de la necesidad de clausurar una
+cronología o de inscribir los documentos en un plano fijo con datos (la catalogación abre dimensiones
+pero el documento debe quedar situado en un punto estable). Además, motivó comprender otro sentido al
+establecimiento de cada documento en una “serie”, colección o grupo de textos que derivaba siempre en una
+taxonomía que, por otra parte, necesitábamos para ofrecer la certeza de su origen, la claridad de su presencia
+en el campo crítico sobre Cortázar. Se impone una consideración del tiempo ya no como duración sino lo que
+el propio Lotman llama “pancronicidad” (Lotman, 1996 [1981], p. 93) al hablar de un segundo enfoque para
+la noción de texto, consistente en pensar un texto como “formación finita, delimitada, cerrada en sí misma”
+(ibid, p. 93) que ofrece una arista interesante: la vinculación entre texto y lenguaje inscribe un tiempo interno
+Orbis Tertius, vol. XXV, nº 32, e163, noviembre 2020-abril 2021. ISSN 1851-7811
+3
+propio, que produce sentido en su relación con el tiempo natural. Hablamos de una integración de marcos
+temporales diferentes en cada lectura de los documentos, además marcados por las fronteras finitas de cada
+texto del archivo que conforma el FJC u otro Fondo de escritor. Por otra parte, ese mismo texto inmanente
+allí donde parece cerrarse su organización, se vuelve abierto a interpretaciones y, por ende, se afirma como
+inconcluso.
+En esta reflexión sobre la temporalidad descubrimos algo en común entre Cortázar y Lotman: una
+preocupación por el tiempo, por la situación de los textos y de la cultura de cara a un futuro que es siempre
+colocado en sus escritos como una prospectiva. En Cortázar, leemos anotaciones que indican una particular
+reflexión sobre la temporalidad.6 Lotman, por su parte, habla en presente en nuestra cita –si la traducción es
+fiel y confiamos- para señalar el constante descubrimiento de textos en la memoria de una cultura, como lo es
+para nosotros esta anotación manuscrita que pareciera reunir una compleja red semiótica de consideraciones
+acerca del tiempo. Cómo conciben el tiempo ambos autores ilumina el proceso de diseñar un Fondo de
+Escritor. Nos inspira una traslación epistemológica que resulta fundadora de otras lógicas para pensar el
+sistema de su diseño informático en una red de textualidades pancrónicas (e intensas, como indica Cortázar)
+donde la partición lineal del tiempo en tres instancias (pasado, presente, futuro) se vuelve un plano textual en
+que la memoria cultural se nos ofrece como un espacio semiótico. Recordemos que Lotman, en el texto que
+citamos propone reemplazar “largo/corto” por diversas intensidades y velocidades para la transformación
+de una cultura, para su producción autorregulada en que el arte es ejemplo central. Con ello, organizar un
+conjunto de papeles pertenecientes a un escritor también implica encontrar el sistema autorregulador que
+permita incluir la memoria en su devenir informático.
+Subrayamos de la última frase en la cita que inicia este artículo, donde se indica que “cada cultura define”
+qué documentos o textos resguardar para que sean recordados, en tanto es una “inteligencia colectiva y una
+memoria colectiva”. De este modo, cada cultura propone para sí un modelo de selección y de recordación. Tal
+es el paradigma regulador de modos de pensar y de sentir la temporalidad en que se crean, y resuelve cómo
+se decide que perduren.
+Otro artículo iluminador de Lotman es “Discontinuo y continuo”, donde refiere a los procesos explosivos
+en la cultura y a cómo el estructuralismo tradicional pasaba por alto su carácter dinámico al considerar al
+texto como “sistema cerrado, autosuficiente, organizado de manera sincrónica” y, ante esto, propone revisar
+esa idea para recuperar el tiempo como factor central en la existencia de los textos:
+En el tiempo, el texto es percibido como una imagen establecida sui generis, un momento fijado artificialmente entre el pasado
+y el futuro. La relación entre estos no es simétrica. El pasado se deja aferrar en dos manifestaciones: en la memoria directa del
+texto, encarnada en su estructura interna, con su inevitable contradicción, en la lucha inmanente con el sincronismo interno,
+y externamente, como correlación con la memoria textual. (1999, [1993], p. 27)
+En el FJC vemos claramente que esta doble valencia de lo temporal en los textos orienta tanto la
+organización interna de los documentos en su lugar en una carpeta, o una cronología obligada por las
+regulaciones bibliotecológicas y archivísticas -a su vez memoria cultural, con su valor y su justificación en
+tesauros internacionales -, como este otro aspecto señalado recién: una correlación en la memoria en un
+entorno textual. Tal entorno genera una indicación con respecto a que los contextos –históricos en este casono
+son ajenos ni exteriores sino que se inscriben en el mismo texto desde su origen. Cada documento del
+Fondo genera su propio contexto, lo crea para el sistema de búsquedas pero también para su producción de
+sentido; ya que no es posible –desde Lotman- pensar una existencia externa o precedente al texto mismo, que
+resultase separable de él; menos aún al situarlos en un sistema informático de archivos virtuales, ya que ese
+contexto se vuelve en segundo grado significativo de cada documento.7
+Hilos de Ariadna (o Ariana), mapas del metro subterráneo parisino o porteño, encuentros del azar entre
+los amantes, la obra de Cortázar se torna metáfora de sí misma a la luz de este planteo lotmaniano en que
+percibimos la relatividad e inconsistencia del tiempo en el presente siempre renacido en que cada texto es
+Orbis Tertius, vol. XXV, nº 32, e163, noviembre 2020-abril 2021. ISSN 1851-7811
+4
+convocado y leído. Llama la atención la formación de las carpetas que inicialmente crease Gladis Ancieri:
+los títulos de las obras son la base para clasificar los documentos, pero en ellas, se impone la cronología por
+necesidad física de ordenar cada uno de ellos. Luego, el sistema informático produce, como en la cultura, un
+estallido que reubica en la pancronicidad cada documento.
+Excedemos aquí la apreciación lotmaniana, porque él se refiere a las obras literarias y al arte, para desplazar
+su concepto al diseño –proceso inacabado tanto en lo archivístico como en la recepción posible- de un Fondo
+Documental por lo que tiene de creativo y, exagerando, de “estallido de espacio no desplegado” (1999, [1993],
+p. 29).
+Una obra en singular, la de Cortázar, se produce en muy disímiles interacciones culturales que la
+dinamizan, que le dan con ello un movimiento en entornos culturales más amplios. Entonces, los textos
+que derivan de ella también son proclives a tal dinamismo, así como a una igual manera de resguardar en sí
+mismos su propio germen de futuro. Un paradigma capaz de otorgarle singularidad a cada texto individual
+en el recorte de un hacer y saber comunes a la cultura en que se desvela y muestra. El arte ofrece en segundo
+grado componentes que son receptados por los textos críticos (el conjunto de la crítica y sus recorridos
+recurrentes) para ser devueltos a un habla primaria, a un lenguaje primero en que comentamos, intervenimos,
+entrevistamos, transcribimos otros textos.
+Podemos acudir a la idea de un modelo –la declinación, las formas verbales- o de una regla de producción
+e intuimos, también sería un elemento regulador inherente a la propia cultura para el resguardo de sus textos
+como codificadores de la memoria. El paradigma sobre el que se recorta la decisión de guardar implica un
+modelo del tiempo, del pensar la memoria en prospectiva por definición. ¿Qué es la memoria sino una
+prospectiva silente de sus textos?
+La conservación de la que habla Lotman, no sería en este caso ya un reservorio material, físico en carpetas
+azules por ejemplo, conteniendo recortes de periódicos doblados por la mitad con sus correspondientes
+marcas a lapicera roja o morada. “Conservar” atiende a la textualidad inscripta en ellos por fuera del lenguaje
+verbal: es texto –dispositivo pensante- también aquel disperso en otros espacios de la cultura que son
+receptados por las palabras del escritor o del crítico, atendidos en su in-materialidad semiótica, su presencia
+en la mente y el recuerdo de la colectividad.
+Nos atrevemos a decir que la selección de aquellos textos o documentos para su resguardo futuro, por parte
+del propio Cortázar, trasciende el individuo en una decisión solitaria como lo sería la elección de un tema
+para narrar o una anécdota; lo involucra en tanto que participa de la colectividad, del común en que se crean
+los textos/documentos.
+Por ejemplo, el cuento “Los amigos” sale editado en una revista cultural del diario La Prensa de San
+Salvador en 1965 y luego lo encontramos en idioma ucraniano en una revista de 1974, donde anuncia la
+aparición de Final del Juego.8 Igualmente, vemos como una figura metonímica de la literatura cortazariana, en
+el cuento “Shine, shoshine, shoe shine boy” –título original en inglés– al pequeño lustrabotas de Bombay que
+canta mientras lustra los zapatos de este narrador en primera persona, que reconocemos como el otro yo de
+Cortázar. Este segundo cuento figura en una carpeta de fotografías de las diferentes ediciones casi simultáneas
+en 1970, publicadas en revistas y periódicos en diferentes idiomas, pero recién se publica en libro de manera
+póstuma en Papeles inesperados, en 2014. Nos preguntamos: ¿Quién preserva qué habla, la del cuento policial
+que dura lo que un atraco o acaso es la India atestada de pobres la que dibuja un mismo mundo desde la palabra
+modélica de un narrador asustado por la probabilidad de que le arruinen los zapatos de gamuza con betún?
+Tales los textos, así se oyen en el FJC referidos en un tercer grado del metadato necesario para “colgarlo” (otra
+metáfora) de la percha que lo hace elegible por un clic de un usuario.
+Volvemos a la cita de nuestro incipit: “qué debe recordar”, dice Lotman. Ese objeto recordable ratifica
+su presencia constante a posteriori en la vida cultural y en la producción de nuevos textos, lo cual implica
+también una decisión y un reparo a la inclemencia de los cambios y del tiempo: “esto es, conservar”, como
+Orbis Tertius, vol. XXV, nº 32, e163, noviembre 2020-abril 2021. ISSN 1851-7811
+5
+coloca entre paréntesis. Regla del paradigma, ley de la obligatoria tarea de constituir un texto mnemónico,
+un recordatorio que es a su vez, un nuevo texto.
+Cada texto, sabemos, traduce y se reúne con el anterior y con el subsiguiente, pero a su alrededor hay
+otros procesos similares. Traduce en una lengua a otra, traspasa las fronteras del texto/dispositivo pensante
+migrante por un espacio virtual. Trasluce, además, qué se ha resguardado al recuperarlo en la pantalla. Retoma
+al presente perenne el pasado de su producción y anticipa futuras lecturas, que se dejan plausibles para cuando
+vuelva a leerse. He ahí la “actualidad” que toman muchos documentos del FJC, como las entrevistas al
+autor, en una colección de memorias de hablas, de lenguajes de época y de circunstancias que vuelven a ser
+perceptibles, dinamizando con ello la lectura investigativa de la obra y trayendo al interés de los lectores de
+a pie un personaje singular.
+Intento resumir algunos postulados lotmanianos interviniendo en la organización del FJC en esta tríada
+de nociones; traducir, traspasar y traslucir como movimientos que toda significación requiere para ser
+parte del registro a conservar que, en prospectiva, será necesario en la unidad cultural que se vive o vivirá,
+indefectiblemente. En la Historia no somos nada sin textos, vieja máxima de los historiadores, porque los
+textos son a nosotros como la historia a sus acontecimientos cotidianos, ínfimos que se rescatan en el relato
+de la existencia en la vida social.
+Cada documento del FJC remite a un momento o un acontecimiento que muta en otro cada vez que es
+leído; con ello, habilita acontecimientos nuevos que se superponen y mixturan con los anteriores. Tal es el
+caso de las polémicas literarias que se reúnen en in-feliz ocasión al verse sus textos remitir a otros, palabras
+sobre palabras que hablan de formas de percibir e imaginar el mundo, de volcar esta percepción en la existencia
+de otro estatuto que son las ficciones. Entre ellas, la polémica obra Libro de Manuel. Ocupa la Carpeta 18 pero
+el buscador despliega por citaciones por la aparición del título en otros lugares del Fondo. Vemos cómo un
+crítico literario argentino no ha leído la novela pero igualmente la rechaza de plano.9 Rechaza su signo/novela,
+por la destinación de los derechos a causas políticas y eso le resulta suficiente para desmerecer una obra. Este
+acontecimiento en la vida del texto (el que se titularía: “lo que se dijo sobre Libro de Manuel que la gente se
+atrevió a pronunciar”) está presente en esa serie al infinito de lenguajes y metalenguajes verbales, numéricos
+e informáticos. Al técnico de computadoras que programa la base de datos (no otra cosa que una lengua
+artificial que interpreta y a su vez traduce, traspasa y trasluce) no le interesa este acontecimiento que enlaza
+una obra literaria (en segundo grado, un Manuel y un grupo de adultos, pingüinos fucsias y peludos reales)
+con su referencia literaria, sino la sola presencia de los textos en una invisibilidad del dato en un lenguaje
+artificial, doblemente un código.
+La pregunta constante es: “Este código, este número, ¿está?”. Si está bien o mal ubicado, si falta una hoja, si
+el autor está mal escrito o es el mismo que otro texto, no le interesa en absoluto. Su lenguaje artificial reconoce
+otras referencias y no sabe –no le interesa, insisto- que son semióticas también. Lo dice Lotman, antes de
+que se inventara la web y Cortázar lo imaginó con su máquina Rayuela, con su recortar y pegar de sus libros
+miscelánicos y en la metáfora recurrente de “la gota que tiembla adentro de un cristal” en sus variadas formas
+de escritura, ese imponderable imaginativo.
+Percibimos con curiosidad la lista de verbos de la cita central en este trabajo, hilando fino: definir, recordar,
+conservar y finalmente, olvidar. Los pasos no oponen el recuerdo al olvido, sino que se los inscriben en una
+particular organización en que ambos son proceso y resultado de una presencia de los textos en la dinámica
+de la cultura. Textos fundantes, formadores y a la vez legado (“polvo de bibliotecas”).
+Tomamos dos aspectos que devienen de esta reflexión: por un lado la presencia de la transmisión, concepto
+que en su interior supone un traspaso temporal, una incorporación de procesos culturales de diferente
+duración que dinamizan los textos (documentos en este caso) frente a los cambios culturales y, por otro lado,
+que este traspaso no es trabajo de los individuos sino de la cultura en sí. Es ella la que desarrolla sus propias
+estrategias de definición-conservación-transmisión, habida cuenta de que los textos en sí mismos parecen
+tener menos importancia que aquello de lo cual son portadores. Dice Lotman en “La memoria a la luz de la
+Orbis Tertius, vol. XXV, nº 32, e163, noviembre 2020-abril 2021. ISSN 1851-7811
+6
+culturología”, pensando en la memoria como una inteligencia colectiva, que en su interior es enormemente
+variada:
+Así pues, la memoria común para el espacio de una cultura dada es asegurada, en primer lugar, por la presencia de algunos
+textos constantes y, en segundo por la unidad de los códigos o por su invariancia, o por el carácter ininterrumpido y regular
+de su transformación. (Lotman, 1996 [1985], p. 157)
+Los textos a los que atendemos, implican también una superación del concepto estructural de texto/unidad
+de significación, ya que en la propuesta semiótica de Lotman un texto cultural atraviesa unidades/signo o
+materialidades y, con ello le da seguridad de transmisión.
+Venimos diciendo que un texto constituye un sistema de conjuntos de sistemas extratextuales que le dan
+condición de existencia, cuya organicidad está supeditada a su presencia a través de lenguajes en la cultura
+y no sólo en un formato o un recorte material (una novela o un cuadro, un pin que vendría a ser como las
+medallas en la época de los zares, que estudiaran los del grupo del Tartu). La presencia del texto, entendido en
+sus funciones de cumplir la destinación de un mensaje en una memoria cultural, siendo esta la función más
+importante ya que el destinatario “trata” consigo mismo, le permite vincularse a estas estructuras culturales
+amplias en que pervive como receptor.10 Por ende, la presencia del texto en un espacio cultural es también
+amplio pero no por ello ilimitado.
+Esta operación teórica se puede ver a través de un Fondo documental como este, y tantos otros, entre ellos
+un archivo de un hospital o de un juzgado. Cada texto (por caso: las patologías y su sanación en “La señorita
+Cora” como invariante cultural que emite textos/receptores de comunicación de, por ejemplo, un mandato
+bíblico) inscrito en ese archivo, datado y marcado para su localización, abre interrogantes memorísticos en
+un espacio limitado de la cultura. La obra de Cortázar está fortalecida por el trabajo memorioso de la crítica
+y la prensa, por la analítica que cimenta un artículo en una revista universitaria. Sí, pero en eso no radica la
+presencia de un texto en la cultura. No son estos los textos que se “define guardar” en ella. Los documentos
+del FJC están empapados de relatos sobre el mundo, de arqueológicas formas de percepción de lo real (el
+fantástico) o simplemente de flores amarillas, de cuellos suaves de mujer en el metro o de juegos infantiles
+congelados en metáfora creadora de una novela; Ariadna es Ariana enamorada y los castillos sangrientos
+llevan a una red de significaciones sociales ligadas a la muerte caníbal, o la infancia es una moratoria vital de
+un niño llamado Manuel que deberá leer –cuando aprenda- qué fue de sus padres quizás hoy desaparecidos
+o muertos.
+La cultura tiene su límite, lo cuida y lo asevera para la propia transmisión época a época. La constancia
+de la que habla arriba, entendida en esos términos, implica pensar que podemos hallar textos culturales
+en lugares que insospechadamente reciben una estructuración en la colectividad que la crea al receptarla o
+comprenderla, que le da dinamismo creador. Nos recuerda otra cita de Lotman que indica en “la semiótica de
+la cultura y el concepto de texto” que éste sería: “un complejo dispositivo que guarda variados códigos, capaz
+de transformar los mensajes recibidos y de generar nuevos mensajes” (Lotman, 1996 [1985], p. 82)
+Un Fondo documental redunda en dispositivo, pensamos ahora. Un mecanismo de resguardo pero
+también un sistema productor de un modo de resguardar: pienso en la catalogación, en los acuerdos históricos
+con respecto a qué considerar (“definir”) un autor, un año, un dato editorial. Por ende, el dispositivo crea
+maneras de guardar las instrucciones del pensar mnemotécnico. Este mismo que se halla en otros sitios en la
+cultura: otras bibliotecas, los archiveros, las bibliografías y los catálogos editoriales que por siglos “definieron”
+autor, año, título, edición, lugar. Pero antes que nada, se encuentran en la propia memoria de los individuos,
+en su memoria táctil, en su memoria afectiva, en sus redes cognitivas que les motivan el imaginar, que alientan
+la escritura de una nueva obra.11
+El sistema de la cultura es una ingeniería de la memoria, podríamos decir. No una simple proliferación
+de textos u objetos textuales que fuesen portadores de una cierta significación –con Lotman aprendimos a
+relativizar absolutos de sentido. Por ello, las nociones se oyen como el sonido de una maquinaria funcionando
+Orbis Tertius, vol. XXV, nº 32, e163, noviembre 2020-abril 2021. ISSN 1851-7811
+7
+en largos períodos de tiempo, aunque no ininterrumpida. La memoria, entonces, no es un reservorio, sino
+un mecanismo productor de signos cuya combinatoria constituye la cultura. Mientras más textualizada es
+una cultura (independientemente de su materialidad en escritura o formas de codificación), más complejo y
+económico es el funcionamiento de su potencial de memoria.
+Una semiósfera se constituye de este modo, en una combinación de economías del recuerdo, de lo olvidado
+y de la temporalidad inscripta en ella. La legibilidad de los textos culturales es una feliz resultante de estos
+procesos de la semiósfera, ya que autoconstruye sus propias gramáticas de generación-resguardo/olvido.
+Un fondo documental digitalizado en la web viene a ser, según mi lectura de Lotman, un ejemplo del
+funcionamiento de la semiósfera. Dice Lotman, al respecto: “La diversidad interna de la semiósfera presupone
+la integralidad de esta. Las partes no entran en el todo como detalles mecánicos, sino como órganos de un
+organismo” (Lotman, 1996, p. 32), que precisa tanto de partes como del isomorfismo, aquella capacidad de
+generar un aumento de los mensajes porque son a la vez parte de un todo y semejantes cada uno a ese todo.
+Así, el sistema de catalogación / digitalización es capaz de convertir el texto en “una avalancha de textos”
+(Lotman, 1996 [1985], p. 32) que no son los nuevos, ya que otro es su mecanismo productivo, dados por
+los intercambios. Por eso, recuperamos el concepto de frontera, ya que si bien este Fondo Documental está
+cerrado, su jerarquizacón es vertical e interna, su avalancha de textos en el interior de lo que se resguarda
+en Poitiers ha cedido el lugar al proceso exterior y ulterior de utilizarse para la búsqueda de datos y de una
+historicidad cuyos nuevos textos ya están fuera de los límites del fondo, en otro funcionamiento diferente de
+los textos en que la diferencia (otra forma de isomorfismo) pesa más. Radica allí un diferencial de significación
+marcado en otra época en que estos textos se publican pero, en tanto son también una comunicación para
+receptores nuevos, producen otra significación. El FJC cumple su rol como ejemplo pero también como
+imagen (un tropo) del legado. ¿Habría pensado en ello Cortázar cuando decide donar a las universidades
+sus papeles, vendiendo primero los manuscritos a Texas y luego esto? El traslado de los materiales físicos (las
+carpetas, para entendernos) implicaba también un traslado en ese mundo extrasemiótico que Lotman señalara,
+de la realidad, traducido a otro lenguaje, esta vez, el informático.
+Quisiera dejar señaladas aquí algunas consecuencias de la observación del Fondo Cortázar a partir de la
+perspectiva de Lotman, en su enfoque semiótico que –motivado por la aparición de la cibernética y luego la
+informática en los años 60 y 70, hasta llegar a sus últimos trabajos. Es posible reconocer que conllevan a la
+comprensión de una mirada epistemológica sobre un hacer investigativo con Archivos de Escritor y Archivos
+Virtuales que excede las prácticas demostrativas y abandona un conocimiento cómodo, aquel en que nada se
+afirma sino que se ofrece al otro sólo como una posibilidad de re-verificación.
+Y en segundo lugar porque el pensamiento de Lotman – que consideró en su momento a la naciente
+cibernética- permitió salir de los estables tablones en que pretendemos cruzar de un edificio a otro en la
+cultura de los archivos abiertos en la era digital global. Remitimos a esta metáfora en la comprensión del
+capítulo de Rayuela tan conocido (el capítulo 41) en que se intenta trasladar un paquete de yerba, cruzar
+con ese contenido en las alturas por comodidad, por juego y, finalmente por absurdo. Con ello, pretendemos
+explicitar cómo se logró constituir un archivo de documentos –este, quizá otros- en especial involucramiento
+de las nociones de memoria –siempre común, colectiva aunque requiera de un acto de recordar individualy
+de textos en tanto portadores de significación que pudieran estar dispersos en un recorte cultural, de una
+época, un nombre propio de autor como Cortázar y una reunión de metatextos, y ese conjunto sistémico de
+signos conformadores de un “archivo”. Por ejemplo, la bibliografía es un modelo textual de identificación de
+textos que pudieron estar repartidos por el mundo pero de pronto encontramos reunidos en una colección.
+¿Cómo definió la cultura cuáles textos culturales estarían presentes y actuantes en un conjunto documental
+coleccionado por quien operaba de manera inaudita con ellos? ¿Es por eso que se busca ordenarlos,
+clasificarlos; por ser reserva y resguardo en un espacio cultural llamado literatura?
+Diseñar el Fondo Julio Cortázar requirió pensar en la noción de migración semiótica que llevaba/traía
+palabras clave o descriptores libres. Elegirlos recaía una y otra vez en la conformación de un repertorio de
+Orbis Tertius, vol. XXV, nº 32, e163, noviembre 2020-abril 2021. ISSN 1851-7811
+8
+temas, de lugares comunes (topoï), de retóricas compartidas (el género, la metáfora de los títulos, el tropo
+central de la crítica y la imagen intertextual que, basada en la obra de Cortázar daba lugar a muchos “nudos
+temáticos” de la prensa y crítica, o de las entrevistas).
+Investigar ese Archivo como un arché, un arcaísmo (vivo, diría Bajtín, que sería cada documento) y a la
+vez un alerta y elogio al anacronismo. Un arché, que remeda a arqueología y con ello a colección, haciendo
+las veces de indicador de huellas de sistemas codificantes (que siempre modelizan el mundo porque devienen
+de él) que un informático (un técnico en un metalenguaje) debía reconocer, interpretar y luego, traducir
+en un otro sistema. Colocar las palabras clave (palabras-llave les nombré en su momento, capaces de abrir
+el archivo en múltiples cerraduras) involucraba crear textos de textos de textos al infinito. Un término tal
+como “literatura latinoamericana”, habría otra entrada en las palabras claves como “Latinoamérica” y esta, a
+su vez, por ejemplo, “boom”. En entrevistas a Cortázar sabemos que, como escritor que leía sus reseñas, no se
+reconocía en esa corriente de los años sesenta y debatía fuertemente críticos al respecto. Este detalle derivado
+de la inscripción de descriptores en la indización del FJC, pone de manifiesto una huella de un proceso textual
+compuesto por todos los textos críticos, en el conjunto por su colectividad, su memoria teórica y retórica,
+su dicción y sus dispositivos descriptivos/persuasivos). Así como vemos una red implícita en este conjunto
+textual disperso, observamos que funcionaba cada artículo referido a “Boom” como texto/clave y textos/llave,
+que permiten decodificar y habilitar el encuentro de un artículo o una tesis doctoral por parte de un usuario.
+En fin, hablamos de un cuerpo de significación que sólo pudimos pensar gracias a la tecnología de las bases
+de datos y a que somos capaces de pensar en términos de bases de datos porque la cultura las ha incorporado
+a nuestra vida diaria. Por ende, pensamos en el Fondo a través de esta visión lotmaniana que convoca la
+consideración de un conjunto orgánico de textos cuya codificación establece un mecanismo estructurante
+interno: se reenvía a sí mismo, motiva reenvíos entre los componentes del sistema de la catalogación y,
+finalmente se constituye como texto “Cortázar” desplegado en la multiplicidad de los más de mil documentos.
+¿Supo Cortázar quién reuniría esta pequeña memoria cultural sobre su obra, guardando en cajas cuanta
+cosa saliera publicada o le enviaran sus amigos e instituciones? ¿Es en la cultura–memoriosa de su propia
+complejidad, ese tejido todo junto– donde reposa la obra de Cortázar, permitiendo su interpretación/
+traducción por individuos/técnicos que nada saben de él y sin embargo leen sus datos? ¿Es la base de datos
+un sistema modelizante en sí mismo, una estructura en segundo grado que deja insonoras las funciones del
+texto cortazariano y, a la vez, las vuelve audibles en la telaraña documentos del Fondo Cortázar albergados
+en la web?
+Referencias
+Dondero, M. G. (2015). Semiótica de la acción: textualización y notación. Tópicos del Seminario, 33, enero-junio 2015,
+101-130.
+Lotman, I. (1996 [1985]). La memoria a la luz de la culturología. En Lotman, I., Semiosfera I. Valencia: Frónesis. [Trad.
+Desiderio Navarro].
+Lotman, I. (1996 [1981]). La semiótica de la cultura y el concepto de texto (Tartu). En Lotman, I., Semiosfera I.
+Valencia: Frónesis. [Trad. Desiderio Navarro].
+Lotman, I. (1999 [1993]). Cultura y explosión, Barcelona: Gedisa. [Trad. Delfina Muschietti]
+Lotman, M. (2013 [2002]). “Umwelt y semiosfera” Mijail Lotman Fuente: Sign Systems Studies 30.1. En Hoffmeyer,
+J. et.al., Semiótica de la cultura, ecosemiótica, biorretórica (pp. 33 a 40). Córdoba: Facultad de Lenguas –
+UNCórdoba.
+Orbis Tertius, vol. XXV, nº 32, e163, noviembre 2020-abril 2021. ISSN 1851-7811
+9
+Notas
+1 El Fondo Julio Cortázar se crea en el Centre de Recherches Latinoaméricaines –Archives (CRLA-Archives) en la
+Universidad de Poitiers, Francia. Hoy cargado en una nueva plataforma, se conforma de casi 2000 documentos de prensa
+y crítica que pertenecieron al escritor y que se catalogaron para crear las bases de datos en Archivos Virtuales Abiertos
+(Open Access) en 2011. Con ello se desarrollan elaboraciones críticas y teóricas acerca de los Archivos Digitales, en el
+diseño y puesta en línea, aprovechando conocimientos que provienen tanto desde los estudios literarios –en este caso
+semióticos- y archivístico-informáticos. Consultar en: https://cortazar.nakalona.fr/
+2 Dondero trabaja una semiótica con Fontanille, postulando una metodología de observación de procesos de diseño en
+arquitectura que, incluso usan mesas digitales donde las notaciones “quedan” fijadas y pueden luego relevarse. Nos sirve
+este artículo para pensar los diseños de archivos de escritores, también colaborativos y de intersecciones de prácticas
+semióticas.
+3 De ahora en más FJC
+4 En Argentina se denomina así a bolsitas de polipropileno con margen perforado que pueden ser encarpetadas. Sin
+embargo, en la terminología archivística, “folio” se utiliza para hoja a numerar consecutivamente.
+5 Los documentos que forman el Fondo Cortázar, fueron cedidos al Centre de Recherches Latino- Américaines-Archives,
+en la Universidad de Poitiers por el propio autor a partir de la organización que le encargara a Gladis Anchieri en 1981.
+Las cajas de supermercado en que se transportaron al departamento del matrimonio Anchieri-Yurkievich, establecían
+una historia de la obra de Cortázar impensada en ese momento. En 2019, Gladis cede más papeles que pertenecieron a
+su esposo Saúl Yurkievich y ya están incorporados al Fondo en su nueva instalación sita en https://cortazar.nakalona.
+fr/ en la plataforma Huma-Hum, Francia.
+6 Leemos en el “Cuaderno de Bitácora de Rayuela” a mano lo siguiente:
+“El tiempo
+Como duración.
+Como condensación (en el sueño)
+En las mutaciones animales: (de Vries): el tiempo como intensidad” (p. 33: anotada por Ana María Barrenechea)
+7 Un trabajo donde se dialoga acerca de los entornos y la noción de contexto está en «Umwelt y semiosfera», de Mijail
+Lotman publicado en Sign Systems Studies 30.1 (2002), pp. 33 a 40. En Bibliografía citaremos la traducción en Semiótica
+de la Cultura / Ecosemiótica / Biorretórica (UNC, Córdoba, 2013, p. 197)
+8 “Los amigos”, ficha #1246 y #447 respectivamente, en el FJC (ver link en nota al pie 3)
+9 Es la famosa discusión del primer número de la revista Crisis en 1973, donde debaten Raimundo Ongaro, Liliana Heker
+y otros; allí se publica una breve anotación del Padre Mujica, quien dice no haberla leído ni pretender hacerlo porque
+no la acepta.
+10 El texto es un receptor de textos, en la teoría de la Escuela de Tartu.
+11 Es interesante ver la cantidad de obras escritas a la luz de las cortazarianas, así como la proliferación ( por ello utilizamos
+con Lotman la metáfora de la explosión) de citas, blogs, sitios de internet, de duplicados y de la presencia en la cultura
+de los aportes de Cortázar por generaciones: los cronopios y famas, las Magas, las morellianas. O cómo se recuerda la
+masacre de Trelew de 1972 en la dedicatoria de Libro de Manuel, sus cuentos en filmes, etcétera. ¿Cuál será entonces
+la figura retórica que designa a esa reduplicación en espejo de texto a texto, sistema a sistema, dato a dato al infinito?
+Son archivos, serán arché pronto.
+Orbis Tertius, vol. XXV, nº 32, e163, noviembre 2020-abril 2021. ISSN 1851-7811
+Modelo฀de฀publicación฀sin฀fines฀de฀lucro฀para฀conservar฀la฀naturaleza฀académica฀y abierta฀de฀la฀comunicación฀científica
+PDF generado a partir de XML-JATS4R

@@ -1,0 +1,356 @@
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+La conservación de un legado literario: El Archivo Miguel Delibes *
+The preservation of a literary legacy: Miguel Delibes Archive
+JAVIER ORTEGA ÁLVAREZ
+Fundación Miguel Delibes
+C/.Torrecilla, 5, 47003
+director@fundacionmigueldelibes.es
+Recibido: 05/11/2019. Aceptado: 05/12/2019.
+Cómo citar: Ortega Álvarez, Javier, “La conservación de un legado literario: El Archivo Miguel Delibes”, Notas Hispánicas 5 (2019): 80-104
+Este artículo está sujeto a una licencia “Creative Commons Reconocimiento-No Comercial” (CC-BY-NC)
+DOI: https://doi.org/10.24197/nh.5.2019.80-104
+Resumen: Las soluciones adoptadas en el Proyecto de Organización y Digitalización del Fondo documental Miguel Delibes han respondido a la decisión estratégica adoptada por la Fundación Miguel Delibes en relación con la custodia, conservación y difusión del legado del gran escritor vallisoletano. La aportación de Bodegas Vega Sicilia nos ha permitido disponer de un fondo documental identificado organizado, completamente descrito, contando para ello con una herramienta basada en los estándares internacionales de descripción archivística. Asimismo, nos ha permitido digitalizarlo en su totalidad, y disponer de una copia de seguridad del mismo que asegure su preservación a lo largo del tiempo, así como su consulta y difusión.
+Palabras clave: Archivos de escritores, Conservación preventiva, Digitalización, Fundación Miguel Delibes, Tratamiento archivístico.
+Abstract: The solutions adopted in the Organization and Digitization Project documentary Miguel Delibes have responded to a strategic decision made by the Fundación Miguel Delibes in relation to te custody, maintenance, and management of the documentary legacy of the great writer from Valladolid. The contribution of Bodegas Vega-Sicilia has allowed us have a documentary identified and organized, completely described, counting with a tool based on international standards for archival description. Also, it has allowed us digitize a hole, and have a backup of it to ensure its preservation over time, as well as consultation and dissemination.
+Keywords: Archival treatment, Digitization, Miguel Delibes Archive, Preventive conservation, Writers Archives.
+* El presente Proyecto ha sido posible gracias al patrocinio de Bodegas Vega-Sicilia.
+La conservación de un legado literario 81
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+INTRODUCCIÓN
+Miguel Delibes no solo fue el escritor al que todos admiramos y quisimos. Fue, sobre todo, una persona respetada, toda una referencia intelectual y moral. Y son precisamente estos valores, asociados a su vida y a su obra, el enorme patrimonio que hemos heredado, y que todos y cada uno de nosotros tenemos la obligación de conservar y difundir. Y digo “heredamos” y “tenemos” porque Miguel Delibes es de todos. Porque sus preocupaciones, los valores y la ética que a lo largo de su vida defendió, plasmados en una literatura de alto nivel, no pueden ni deben circunscribirse a un ámbito geográfico o humano reducido. Muy al contrario, son universales y nos incumben a todos, de ahí que no podamos ni debamos permitirnos el lujo de que desaparezcan.
+El equipo humano de la Fundación Miguel Delibes ha sido consciente de esta responsabilidad desde su constitución en Valladolid, el 12 de marzo de 2011, coincidiendo con el primer aniversario del fallecimiento del escritor y académico. La Fundación tiene, como principales fines, recopilar y custodiar el legado cultural del escritor, estudiar y difundir su figura y su obra y fomentar y apoyar estudios sobre los temas que han sido constantes en su biografía y su obra literaria1. Según se establece en el artículo 6 de sus Estatutos2, la recopilación y custodia del legado cultural de Miguel Delibes comprendería los manuscritos de sus obras, la bibliografía sobre el escritor, filmografía, colecciones personales, etc.3.
+A partir de ese momento, una de las líneas de acción estratégica de la Fundación ha consistido en conservar y gestionar adecuadamente todo ese inmenso legado. Ahora bien, gestionar el legado literario de Miguel Delibes -si nos atenemos a la definición que de Gestionar realiza el Diccionario de la RAE: “Hacer diligencias conducentes al logro de un negocio o de un deseo cualquiera”, pasaba necesariamente, y en primer lugar, por la redacción de un proyecto donde quedasen perfectamente reflejadas estas diligencias conducentes al logro del negocio u objetivos establecidos en el mismo.
+1 El 17 de octubre de 2011 se procedió a la presentación oficial de la Fundación en un acto que contó con la presencia de Sus Altezas Reales los Príncipes de Asturias.
+2 Pueden consultarse los Estatutos de la Fundación en www.fundacionmigueldelibes.es
+3 El legado, junto con otros bienes, fueron entregados a la Fundación Miguel Delibes por los hermanos Delibes de Castro en virtud de un Contrato de Comodato.
+82 Javier Ortega Álvarez
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+El Proyecto de Organización y Digitalización del Fondo documental Miguel Delibes ha constituido consecuentemente la primera piedra en la estrategia de la Fundación en relación con la conservación y la gestión de dicho legado. A través de la metodología empleada, de las soluciones adoptadas y de los resultados alcanzados tras la finalización del mismo, el Proyecto ha supuesto igualmente, por parte de la Fundación Miguel Delibes, una apuesta para servir como referencia o ayuda a instituciones de similares características a la hora de abordar este tipo de proyectos.
+Las distintas tareas que se han llevado a cabo sobre el legado documental del gran escritor, se han desarrollado en dos fases:
+• 1ª FASE (A): Identificación-Organización-Descripción. Con una duración de 12 meses, del 7 de 2014 al 31 de diciembre de 2014.
+• 2ª FASE (B): Digitalización. Con una duración de 11 meses, del 15 de febrero de 2015 al 15 de enero de 2016.
+1. 1ª FASE DEL PROYECTO: IDENTIFICACIÓN, ORGANIZACIÓN, DESCRIPCIÓN4
+1.1. Análisis. situación de partida
+Entendemos por Archivos familiares, según la clásica definición de Olga Gallego Domínguez5, “los generados por las actividades de una persona a lo largo de su vida o por las de los distintos componentes de una familia a través de generaciones”. Estos archivos reúnen una documentación heterogénea, generada o reunida por una persona o grupo de personas vinculadas entre sí por lazos de parentesco a lo largo de su existencia, durante sucesivas generaciones o en el marco de sus actividades personales o profesionales. Pilar Bravo Lledó, partiendo de estas premisas, define el archivo personal como “aquél formado por la documentación generada, recibida y agrupada por una persona en el desempeño de sus actividades tanto profesionales como personales a lo largo de su vida, en
+4 Para la planificación y ejecución de este proyecto, se han seguido las indicaciones establecidas en la Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK), desarrollada por el Project Management Institute.
+5 GALLEGO DOMÍNGUEZ, O. (1993), Manual de Archivos familiares, ANABAD, p.17
+La conservación de un legado literario 83
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+cualquier formato y con una organización que se corresponde con criterios muy subjetivos”6.
+El archivo personal de Miguel Delibes –que responde a la realidad descrita más arriba- podemos considerarlo como los documentos producidos, recibidos o reunidos por el escritor a lo largo de su trayectoria vital, testimonio de la labor realizada en su tarea profesional y en su relación con el contexto histórico en el que la desempeñó.
+Como principales características7 de la situación en la que se encontraba antes de proceder a su organización, podemos señalar:
+• El fondo se hallaba distribuido en diferentes residencias familiares y, dentro de éstas, en armarios, estanterías, muebles... No contaba con ningún tratamiento documental previo aplicado por el autor, ni con ningún instrumento de descripción (índice, inventario o catálogo) que nos aproximase a su contenido.
+• Los documentos se hallaban agrupados en carpetas, cuadernos y blocs de diferentes formatos y tamaños, e introducidos –en muchos casos- en fundas de plástico como forma de protección.
+• Heterogeneidad de tipologías documentales (cartas, telegramas, tarjetas, manuscritos, facturas, certificados, carnés…) así como de soportes y formatos (papel, fotografía…).
+• En cuanto al estado de conservación del fondo, éste era, en general, bueno. Existía correspondencia en papel cebolla, expuesta al deterioro por su uso y por los cambios ambientales. Asimismo, se encontraron gran cantidad de grapas y clips utilizados para unir documentos que, al estar oxidados, afectaron a la buena conservación de la documentación. Muchos de ellos, como se ha señalado, se conservaban en carpetas y fundas de plástico.
+Tras una primera cata de aproximación al fondo, percibimos cómo diversas tipologías documentales se confundían con agrupaciones que
+6 BRAVO LLEDÓ, P. (2006), “Los archivos personales. Una manera de trabajar sus documentos”, en SEMINARIO DE ARCHIVOS PERSONALES, Madrid: Biblioteca Nacional, p. 91.
+7 Estas características constituyen la verdadera seña de identidad de este tipo de Archivos, lo que la bibliografía se ha encargado de resaltar convenientemente. Sirva como botón de muestra, GALIANA CHACÓN, J.P. (2006), “De los archivos personales, sus características y tratamiento”, en SEMINARIO DE ARCHIVOS PERSONALES, Madrid: Biblioteca Nacional, p.17-28.
+84 Javier Ortega Álvarez
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+parecían responder a “cierta organización temática”8. A falta de una identificación y clasificación posterior (objeto de este proyecto), pudimos concretarlas en las siguientes:
+1. CORRESPONDENCIA: en folio, cuartilla, tarjeta. Estaba ordenada cronológicamente.
+2. ENTREVISTAS: tanto recortes de prensa como los cuestionarios de las mismas (manuscrita y mecanografiada).
+3. PRENSA: constituida por recortes de prensa.
+4. OBRA LITERARIA (incluía manuscritos, guiones, adaptaciones cinematográficas, teatrales y para televisión).
+5. ARTÍCULOS: para EFE, ABC, Informaciones, y otros medios.
+6. PREMIOS: Príncipe de Asturias, Cervantes…
+7. BLOCS: diferentes asuntos (manuscritos).
+8. FOTOGRAFÍAS: distribuidas en álbumes, carpetas, sobres y cajas.
+9. Asimismo, existían cintas de vídeo VHS, CD,s y casetes, con entrevistas, documentales, homenajes…
+En el caso de la Correspondencia, contábamos con publicaciones que nos acercaban a su contenido9:
+• M. DELIBES – J. VERGÉS, Correspondencia, 1948-1986, Ed. Destino, 2002.
+1.2. Objetivos
+Una vez analizada la situación en la que se encontraba el fondo, procedimos a fijar los objetivos en esta primera fase del proyecto, que no fueron otros que la Identificación, Organización y Descripción del Fondo documental. Al estar formado por los documentos generados o reunidos de un modo natural por el escritor, era fundamental que su tratamiento respetase los principios fundamentales de la Archivística: el Principio de Procedencia y el Principio de Respeto del orden original.
+8 Desde 1986, y hasta el fallecimiento de Miguel Delibes, Dª Josefa Caballero Casillas desarrolló tareas de apoyo al escritor, de ahí que cuente con un profundo conocimiento de los “procedimientos de trabajo” del mismo, y del fondo documental. Hasta su reciente jubilación, ha sido la Conservadora del legado.
+9 En el transcurso de la ejecución del proyecto, se publicó Miguel Delibes/Gonzalo Sobejano, Correspondencia. 1960-2009, Valladolid, 2014.
+La conservación de un legado literario 85
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+La finalidad era disponer de un fondo documental identificado y organizado, perfectamente descrito, contando para ello con una herramienta basada en los estándares internacionales de descripción archivística que, además de un instrumento de trabajo interno, constituyese un medio de investigación y de difusión de la obra. Para ello se seguiría el nuevo modelo conceptual de descripción archivística que hoy exigen todas las normas, atendiendo su estructura a las entidades principales o clases de “objetos” sobre los que se recoge información: documentos de archivo, agentes, funciones, instituciones archivísticas, temas y lugares10.
+Los resultados alcanzados en esta primera fase de tratamiento archivístico del Fondo (FASE A) nos han permitido su Digitalización en la siguiente fase (FASE B), orientada tanto a la conservación como a la difusión del mismo.
+1.3. Ejecución
+Tras la presentación del Proyecto, el 9 de octubre de 2013, la ejecución inició su andadura el 7 de enero de 2014, una vez cumplimentadas una serie de actuaciones:
+• Traslado del fondo desde el domicilio particular a la sede de la Fundación Miguel Delibes (con un volumen de 33 cajas de mudanza).
+• Adquisición de material inventariable.
+• Adquisición de material fungible y de archivo.
+Desde ese momento, la sede de la Fundación se convirtió en el emplazamiento donde se han llevado a cabo los trabajos propuestos.11 En este sentido, el tratamiento archivístico del Fondo documental Miguel Delibes implicaba la realización de múltiples tareas –intelectuales y
+10 Modelo Conceptual de Descripción Archivística y Requisitos de Datos Básicos de las Descripciones de Documentos de Archivo, Agentes y Funciones. Parte 1: Tipos de Entidad. Parte 2: Relaciones. Documento de la CNEDA (18-06-2012). Disponible en http://www.mecd.gob.es/cultura-mecd/areas-cultura/archivos/mc/cneda/documentos.html [última consulta realizada el 31 de agosto de 2014]
+11El equipo que ha llevado a cabo la Ejecución del Proyecto, ha estado compuesto por Javier Ortega Álvarez (Director), Óscar Izcara Alonso (Técnico) y Verónica Rodríguez Hervada (Auxiliar).
+86 Javier Ortega Álvarez
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+materiales-, algunas de las cuales, por la propia metodología de trabajo empleada, debieron ser realizadas de forma paralela o simultánea.
+1.3.1. Identificación
+Fase intelectual del tratamiento archivístico que consiste en la investigación y sistematización de las categorías archivísticas en que se sustenta la estructura de un fondo.
+1.3.1.1. Identificación del sujeto productor. Quien, como consecuencia de sus funciones, ha generado el archivo.
+1.3.1.1.1.- Estudio biográfico del autor
+1.3.1.1.2.- Estudio de las funciones desarrolladas
+1.3.1.2. Identificación del tipo documental. Investigación de la materialización, por escrito, de las tareas desarrolladas.
+1.3.1.3.- Delimitación de las Series documentales del fondo
+En relación con las tareas de Identificación, primer paso de toda investigación documental tendente a su organización, una vez identificado el sujeto productor, sus funciones y los tipos documentales reflejo de las mismas, se identificó el 100% del fondo.
+En nuestro caso, la información, el asesoramiento y la permanente colaboración de la familia del gran escritor, han resultado ser más importantes aún que las biografías y los trabajos con los que contábamos para investigar a la persona productora de la documentación. Especialmente la de su hija y Presidenta de la Fundación, Dª Elisa Delibes de Castro, y la de la Conservadora del legado y nuera del escritor, Dª Josefa Caballero Casillas12.
+En paralelo a la tarea de Identificación se fue confeccionando un inventario provisional del fondo, producto de ir describiendo las distintas agrupaciones y unidades documentales que lo componían. Todo ello dio como resultado disponer del Inventario del Archivo y del Repertorio de Series Documentales, instrumento que nos proporcionó un conocimiento
+12Deseo agradecer públicamente su constante implicación y colaboración a lo largo de todo el Proyecto. Sin las mismas, hubiera sido imposible obtener –ante la complejidad de la documentación y en tan corto espacio de tiempo-, los resultados que estamos presentando.
+La conservación de un legado literario 87
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+exhaustivo de los elementos que constituyen cada serie documental, lo que permitió establecer los criterios adecuados para la correcta organización del Fondo, es decir, su clasificación y ordenación.
+1.3.2.- Organización
+1.3.2.1.- Clasificación. Operación intelectual consistente en el establecimiento de las categorías y grupos que reflejan la estructura orgánica y/o funcional del fondo.
+1.3.2.1.1.- Agrupación jerárquica. Establecer agregados o clases, desde los más específicos a los más amplios.
+1.3.2.1.2.- Codificación. Aplicar, a cada nivel jerárquico, un código que lo identifique.
+Desde el principio abordamos la clasificación con la premisa de realizar un cuadro de clasificación funcional. Como se apuntó más arriba, la heterogeneidad de tipologías documentales y de soportes y formatos es una de las señas de identidad que caracterizan a este tipo de archivos, y que vienen a hacer más compleja si cabe su adscripción a una determinada función o actividad. En nuestro caso, a ello había que sumar las distintas actividades profesionales que había desarrollado Miguel Delibes a lo largo de su vida: periodista, docente y escritor.
+Para su elaboración, hemos adoptado como modelo el Cuadro de Clasificación propuesto por la Conferencia de Archiveros de Universidades Españolas13, lo que ha redundado, a nuestro juicio, en una mejor contextualización de los documentos, independientemente de su soporte o formato, prescindiendo de este modo del empleo de colecciones facticias.
+Mientras que, como muy bien apunta Yolanda Cagigas, el cuadro propuesto desarrolla únicamente los tres primeros niveles (Fondo, 1ª División de fondo y 2ª División de Fondo)14, el Cuadro de Clasificación del Archivo Miguel Delibes desciende hasta el nivel de Subserie, lo que
+13 Agradezco a Inés Irurita Hernández, del Archivo General de la Universidad de Navarra, haber puesto a mi disposición la Propuesta CCFP. Madrid 2013, así como sus aclaraciones y orientaciones al respecto.
+14 CAGIGAS, Y. (2012), “Los Fondos personales del Archivo General de la Universidad de Navarra”, en 5ª JORNADAS ARCHIVANDO. Los Archivos privados, León: Fundación Sierra- Pambley, 81-88.
+88 Javier Ortega Álvarez
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+ha supuesto todo un esfuerzo intelectual de análisis y concreción por nuestra parte15.
+A través del mismo, se podrá observar la organización del fondo documental y los datos esenciales de su estructura.
+1.3.2.2.- Ordenación e Instalación
+1.3.2.2.1.- Ordenación. Tarea material consistente en relacionar unos elementos con otros de acuerdo con un criterio establecido de antemano: onomástico, cronológico, topográfico…
+1.3.2.2.1.1.- Desdoble o despliegue. Para su mejor conservación, ordenación y uso.
+1.3.2.2.1.2.- Signaturación y sellado. La conservación del documento requiere el control del mismo, lo que llevó consigo su signaturación y sellado16.
+1.3.2.2.1.3.- Foliación y numeración. La foliación consiste en la numeración corrida de todos los folios escritos de una unidad de instalación. Mientras que la numeración es el número de orden dado por unidades archivísticas.
+1.3.2.2.2.- Instalación. Tarea material íntimamente relacionada con la organización de los fondos, consistente en la ubicación física de los documentos en las estanterías mediante unidades de instalación, ya sean cajas, legajos o libros.
+1.3.2.2.2.1.- Formación de las unidades. Utilización de fundas, camisas, carpetas…
+1.3.2.2.2.2.- Signatura. Siguiendo un número currens: 1, 2, 3…).
+1.3.2.2.2.3.- Colocación física. En las estanterías, el orden de colocación es de abajo-arriba y de izquierda-derecha.
+En relación con las tareas de ordenación e instalación, el fondo se halla completamente ordenado e instalado. Para ello, se han tomado una serie de medidas destinadas a asegurar su preservación.
+15Con la propuesta que presentamos, además de responder al deseo de la Fundación de organizar el Fondo Miguel Delibes esperamos contribuir, asimismo, al estudio de la organización de los archivos personales.
+16Debe apuntarse que, al no existir inventario alguno y por motivos de seguridad y control de los documentos, se decidió su sellado previo al inicio del Proyecto.
+La conservación de un legado literario 89
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+En este sentido, se fueron realizando tareas físicas de acondicionamiento de los documentos, limpiándolos de elementos nocivos o perjudiciales, realizando tareas de protección primaria (guardándolos en carpetas y fundas de papel, y asegurándolos con balduque), e instalándolos en cajas normalizadas de archivo.
+Respecto a los manuscritos originales, se ha actuado con idéntico procedimiento: se protegieron con una funda o camisa y balduque, y se instalaron en cajas realizadas a medida, opción ésta que nos ha parecido la más adecuada para su conservación.
+El volumen del fondo instalado asciende a 162 unidades de instalación.
+1.3.3.- Conservación preventiva
+Como se ha señalado al principio de esta comunicación, en paralelo al tratamiento archivístico se han ido adoptando unas pautas de actuación tendentes a la adecuada conservación de los documentos que constituyen, a nuestro juicio, todo un protocolo de buenas prácticas que cualquier institución o profesional debería adoptar a la hora de abordar un proyecto de estas características:
+• En primer lugar, previo al tratamiento archivístico de la documentación y para nosotros indispensable, realización de un Informe Técnico -a cargo de una empresa especializada en conservación y restauración- para establecer un diagnóstico lo más certero posible sobre el estado de conservación del fondo.
+• En segundo lugar, traslado del fondo desde el domicilio familiar a la sede de la Fundación por una empresa especializada en este tipo de transportes.
+• En relación a su protección primaria, eliminación de cualquier objeto o material que pudiera dañar los documentos, y su colocación en carpetillas, fundas y camisas de papel libres de ácido, asegurándolos –en su caso- con cinta balduque.
+• En relación con su instalación, utilización de cajas estándar (cartón no ácido, reserva alcalina), y confección de otras a medida de iguales características, para aquellos documentos (manuscritos o álbumes fotográficos) cuya instalación en cajas estándar suponía un riesgo para su adecuada conservación.
+90 Javier Ortega Álvarez
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+• En el depósito, uso de estanterías metálicas, control de las condiciones ambientales (humedad y temperatura), y limpieza regular del mismo.
+La conclusión que podemos extraer de todo lo expuesto es que la colaboración entre empresas y profesionales de disciplinas afines y con objetivos comunes conlleva una mejor aplicación de los métodos y técnicas de conservación.
+1.3.4.- Catalogación del fondo documental
+La Descripción es la fase del tratamiento archivístico destinada a la elaboración de los instrumentos de consulta para facilitar el conocimiento y consulta del fondo.
+1.3.4.1.- Implementación de una herramienta informática de descripción y difusión basada preferentemente en una aplicación de código abierto.17
+1.3.4.1.1.- Análisis del mercado.
+• Presupuesto de implementación y mantenimiento.
+1.3.4.1.2.- Gestión de datos
+1.3.4.1.3.- Política y condiciones de acceso y uso:
+• Servicio de referencia digital.
+• Respuesta en tiempo real.
+• Alfabetización informacional.
+Las soluciones adoptadas en la primera fase del Proyecto han respondido a la decisión estratégica adoptada por la Fundación Miguel Delibes en relación con la custodia, conservación y gestión del legado documental del gran escritor vallisoletano.
+El reflejo más evidente de la misma ha sido la adopción –entre otras opciones valoradas- de un software de descripción archivística de código
+17 Queremos agradecer a Clara Herrera (Archivo del Ateneo de Madrid) y a Núria Téllez (Archivo Histórico del Centro Excursionista de Cataluña), la información y orientación prestadas en torno a la adopción y uso del software de descripción archivística ICA-AtoM.
+La conservación de un legado literario 91
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+abierto, ICA-AtoM, patrocinado por el Consejo Internacional de Archivos, basado en web para la descripción archivística y su difusión según las normas del ICA:
+• ICA: significa que incorpora las normas de descripción publicadas por el Consejo Internacional de Archivo (ISAD, ISAAR, ISDIAH, ISDF).
+• AtoM: “Access to Memory”.
+Entre los objetivos de la International Council on Archives respecto a ICA-AtoM figuran:
+• Software libre sin pago de licencias anuales.
+• Facilidad de importación de archivos existentes en formatos CSV, XML y SKOS.
+• Posibilidad de exportación en formatos EAD 2002 XML, EAC, Dublin CORE 1.1 XML y SKOS.
+• Soporta el protocolo OAI-PMH de recolección de metadatos entre repositorios.
+• Hacer visible el archivo controlando la política de difusión del mismo.
+Con ello la Fundación, además de implementar una excelente herramienta tecnológica, ha armonizado con lo dispuesto en el RD 4/2010, por el que se aprueba la Norma Técnica de Interoperabilidad (art.11), en relación a la preferencia de uso de estándares abiertos por parte de las Administraciones Públicas, tendencia que comienza a extenderse al resto de organizaciones e instituciones privadas18.
+Para su difusión a través de esta herramienta, el Archivo contará con el acceso a través de la página web de la Fundación, mediante un enlace al mismo: www.fundacionmigueldelibes.es.
+1.3.4.2.- Descripción
+18 Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, BOE de 29 de enero de 2010, núm. 25.
+92 Javier Ortega Álvarez
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+1.3.4.2.1- Plan descriptivo. Establecer los niveles de descripción y la profundidad de la misma.
+1.3.4.2.1.1.- Identificación de Niveles intelectuales a describir. Niveles que forman la estructura archivística que se organiza según el principio de procedencia: Fondo y Serie necesariamente.
+1.3.4.2.1.2.- Identificación de Niveles físicos a describir. Niveles que se corresponden con unidades tangibles físicamente y que, en su conjunto, componen los niveles intelectuales: Unidad documental simple y compuesta necesariamente.
+1.3.4.2.1.3.- Cumplimentación de los elementos asignados a cada nivel de descripción. Al menos los 6 obligatorios, en el Software de Descripción Archivística establecido al efecto:
+• Código de Referencia
+• Título
+• Nombre del productor
+• Fecha (s)
+• Volumen y soporte
+• Nivel de descripción
+1.3.4.2.1.4.- Confección de índices. Facilitan el acceso y recuperación de la información:
+• Personas
+• Lugares
+• Materias
+• Otros
+Para la descripción del Fondo se ha utilizado la Norma Internacional General de Descripción Archivística ISAD (G)2, lo que ha supuesto seguir la lógica de la clasificación con la que la descripción está estrechamente relacionada, aprovechando la estructuración de las agrupaciones documentales. Según esta lógica, a cada nivel de clasificación le
+La conservación de un legado literario 93
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+corresponde un nivel de descripción normalizada, siendo ambas actuaciones paralelas. Es lo que se denomina Descripción Multinivel19.
+Teniendo en cuenta que el Fondo Miguel Delibes es un fondo cerrado, con un gran interés por parte no sólo de la comunidad universitaria e investigadora nacional e internacional, sino también del entorno poblacional en el que el escritor desarrolló su experiencia vital y sus actividades profesionales, se tomó la decisión de describir el fondo en su totalidad, descendiendo hasta el nivel de descripción de unidad documental.
+Identificados los niveles intelectuales y físicos a describir –aprovechando para ello la estructuración de las agrupaciones documentales-, e implementado el software de descripción archivística, se procedió a iniciar los trabajos.
+En primer lugar se volcó el cuadro de clasificación en el software para, a continuación, ir cumplimentando los elementos asignados a cada nivel de descripción. En el caso del Archivo Miguel Delibes, además de los 6 elementos obligatorios definidos en la ISAD (G)2, se ha determinado incluir el opcional “Alcance y contenido” por dos razones fundamentalmente:
+1. Proporcionar al investigador y/o usuario una información orientativa de lo que puede encontrar en esa agrupación documental.
+2. Explicar a qué responde el contenido de determinada agrupación. Es el caso de, entre otros, la agrupación denominada Críticas20.
+19 ISAD (G)2, Norma Internacional General de Descripción Archivística, 2000, Madrid, Subdirección General de los Archivos Estatales.
+20 Bajo el concepto de "Críticas" encontramos -recortados y/o reunidos por el propio Delibes de diferentes medios periodísticos y revistas, tanto nacionales como extranjeros-, reseñas críticas e informativas, transcripciones radiofónicas, artículos y entrevistas aparecidos con ocasión de la publicación de una nueva obra del autor, o de la edición en una lengua extranjera. Asimismo, y como consecuencia del mismo motivo, pueden encontrarse algunas cartas que, por decisión del propio escritor, quedaron conservadas junto con esta documentación.
+De esta forma, se ha mantenido el orden original de la unidad dado por el propio escritor: cartas, reseñas, transcripciones y recortes reunidos, responden al deseo de Miguel Delibes de tener agrupado, en una misma carpeta, todo aquello que aparece con motivo de la publicación o edición de una nueva obra, o reedición de una anterior.
+94 Javier Ortega Álvarez
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+En paralelo, se han ido creando los descriptores y puntos de acceso normalizados que nos acercarán posteriormente a su contenido. Todo ello nos ha dado como resultado la Guía del Archivo, el Inventario del Fondo y los Índices.
+1.3.5. Cumplimiento de objetivos
+Tras la ejecución de los trabajos planificados, y en relación a los objetivos definidos en esta primera fase, una vez expuesto todo lo anterior podemos apuntar lo siguiente:
+1. En primer lugar, el Fondo documental Miguel Delibes se ha transformado en el Archivo Miguel Delibes: un conjunto orgánico de documentos identificado y organizado 21.
+2. Un Archivo completamente descrito, que cuenta con instrumentos que nos acercan a su contenido y estructura.
+3. Un Archivo instalado en unas condiciones que van a permitir su conservación a largo plazo.
+2. 2ª FASE DEL PROYECTO: DIGITALIZACIÓN
+El Archivo Miguel Delibes no es ajeno a una de las tareas más importantes que tienen encomendadas los archivos: la reproducción de documentos con fines de preservación, consulta o difusión. Este tipo de reproducción permite conservar los documentos originales salvaguardándolos de la manipulación directa22, excepto en casos justificados, al tiempo que permite su fácil difusión y consulta a través de medios informáticos.
+21 Coincidimos en este sentido con BLASCO MARTÍNEZ, Rosa M. y CUÑAT CISCAR, Virginia M. (1996), “Los Archivos familiares en Cantabria”, en Los archivos familiares en España: estado de la cuestión, Santander, p. 107.
+22 La consulta de fondos de archivo conlleva el aumento de su manipulación, lo que acelera el proceso de deterioro de los documentos.
+La conservación de un legado literario 95
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+De ahí que se haya procedido a su digitalización, lo que contribuirá a mejorar su estado de conservación creando una copia de seguridad de esos documentos, así como facilitar el acceso a los mismos y la posibilidad de reproducirlos, situación que hasta ahora era inviable en unas condiciones adecuadas.
+2.1.- Objetivos
+Esta segunda fase del proyecto –FASE B-, ha consistido en la Digitalización del Archivo Miguel Delibes. La finalidad era disponer tanto de una copia de seguridad de todo el Archivo -en un formato que garantizase su conservación a largo plazo-, como de copias que nos permitan en un futuro realizar la difusión del mismo. Todo ello contando con una herramienta que, además de un instrumento de trabajo interno, constituyese un medio de investigación y de difusión de la obra. Los objetivos se concretaron en:
+• Reducir el uso de los documentos originales.
+• Crear una copia de seguridad.
+• Mejorar los servicios proporcionados al usuario poniendo a su alcance un acceso de mayor calidad.
+• Incrementar el acceso a la información.
+2.2. Soluciones
+Al no contar la fundación Miguel Delibes con medios propios, se procedió a contratar el Servicio de Digitalización, previa elaboración de un Pliego de Prescripciones Técnicas de obligado cumplimiento por las empresas invitadas a participar.
+2.2.1. Criterios de selección
+En orden a los objetivos definidos, el Archivo Miguel Delibes ha sido digitalizado en su totalidad.
+96 Javier Ortega Álvarez
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+ARCHIVO MIGUEL DELIBES
+Soporte de la documentación: papel, positivos fotográficos (color y blanco y negro), negativos, fotolitos, diapositivas.
+Número de unidades: 140 unidades de instalación (aprox.)
+Fechas extremas: 1791-2010
+Nº total de documentos: 14.352, en formato folio, cuartilla, tarjeta, libro, planos, prensa…
+Nº total de imágenes digitales: 112.579
+Estado de conservación: en general, bueno.
+2.2.2. Preparación de la documentación
+Fruto de los trabajos realizados en la primera fase, la documentación estaba identificada y organizada (clasificada y ordenada). Asimismo, se encontraba ordenada y perfectamente instalada en unidades de instalación definitivas.
+2.2.3. Fase de captura
+La digitalización se ha efectuado 1:1 de todas las páginas que componen cada uno de los documentos, manuscritos, fotografías, etc.
+La resolución óptica real ha sido de 300 puntos por pulgada (dpi), en modo RGB (color, 24 bit por píxel) sobre un área de digitalización equivalente a DIN A2 (420 x 594 mm), sin compresión y en una sola toma de cada verso y recto. Al mismo tiempo de la captura, mediante el
+La conservación de un legado literario 97
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+software incorporado, se ha realizado la separación de la imagen en dos zonas predefinidas (izquierda y derecha correspondientes a verso y recto de cada documento, o cada una de las dos caras, haces planas u hojas que componen un libro o documento).
+En el caso de los documentos que presentaban algún grado de deterioro, como pérdidas irreversibles de soporte, pero que no era necesario su reserva para restauración, se colocó debajo una hoja de papel de color neutro adecuado para que resaltasen las zonas deterioradas, tanto si se trataba de pequeños agujeros como de zonas completas de la página, pero que a su vez no favoreciese el transparentado de las tintas del reverso.
+2.2.4. Organización y nomenclatura de los archivos digitales
+En relación con la nomenclatura de los ficheros, la Fundación creó una tabla con las signaturas de las unidades de instalación a digitalizar para posteriormente vincular páginas a signaturas en su carga en ICA-AtoM. Por cada unidad de instalación digitalizada se creó un directorio cuyo nombre era la signatura. Dentro de cada directorio se han grabado las páginas correspondientes a dicha unidad de instalación. El nombre de cada imagen ha tenido en cuenta la signatura y ha seguido un orden alfanumérico que tiene relación directa con el orden de importación. Ejemplo: directorio AMD_XXXX_XXXX (para la signatura AMD y con XXXX_XXXX numérico para el nº de caja y nº de orden del documento en la caja); y las páginas de este directorio serán AMD_XXXX_XXXX_YYYY (con YYYY también numérico). EJEMPLO: AMD_0098_0082_0001 (Archivo Miguel Delibes, Caja 98, doc. 82, imagen nº 1 ).
+Cada fichero contiene los siguientes metadatos:
+• Fecha de digitalización.
+• Tamaño del fichero.
+• Formato: TIFF-JPEG.
+• Resolución de captura.
+• Tecnología y metodología utilizada.
+98 Javier Ortega Álvarez
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+• Resolución de las páginas.
+• Volumen.
+• Institución: España. Fundación Miguel Delibes. Archivo Miguel Delibes.
+La estructuración de los ficheros en directorios y subdirectorios se ha efectuado en función de la estructura archivística de origen creada por la Fundación Miguel Delibes, en concordancia con el trabajo previo de descripción realizado. De ahí la importancia en el orden de realización de los trabajos.
+2.2.5. Registro de los ficheros
+En paralelo a la captura de imágenes se fue cumplimentando una base de datos de digitalización, tanto con los datos de control de la captura de imágenes (signatura, nº de imágenes, peso y formato) para su correcto archivado en el repositorio de imágenes del Archivo, como con los datos básicos de control desde la salida de cada unidad de instalación hasta su devolución al depósito.
+2.2.6. Tratamiento de la imagen digital
+Durante la fase de escaneo de los documentos se han visualizado todas las imágenes según se han ido obteniendo para, de esta manera, detectar posibles pérdidas de calidad en las imágenes que aconsejasen la repetición de alguna, comprobando que:
+• Las imágenes estaban correctamente alineadas.
+• No tenían márgenes añadidos.
+• Representaban fiel e íntegramente la unidad documental.
+• Fuesen legibles y/o visibles.
+• Tuviesen un índice de calidad (QI) igual a Bueno (QI=5).
+2.2.7. Formatos
+La conservación de un legado literario 99
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+La grabación de las imágenes digitalizadas (ficheros máster) se ha realizado en formato TIFF estándar, a 300 dpi. sin compresión. El fichero maestro, también denominado máster o de archivo, es una versión de alta calidad que contiene el máximo de información del original. Sus funciones principales consisten en actuar como copia de seguridad (para garantizar su preservación y el acceso a lo largo del tiempo), y permitir la generación de ficheros derivados.
+Se ha grabado tanto en soporte DVD/R, debidamente identificado y serigrafiado, como en soporte de disco duro con conexión USB.
+Respecto a los ficheros derivados utilizados para la consulta y difusión, se ha realizado una copia de los ficheros máster, reducidos a 150 dpi., en formato JPEG de calidad, con mínima pérdida de información, sobre soporte de disco duro con conexión USB. Asimismo, una copia en PDF/A, a 96 dpi., para su ingesta y vinculación con las descripciones en el software ICA-AtoM.
+2.2.8. Marca de agua
+En los ficheros de difusión y consulta (JPEG y PDF/A), se ha insertado una marca de agua correspondiente a AMD, de tamaño reducido, en el ángulo inferior derecho, a efectos de identificación de la procedencia y propiedad intelectual de las imágenes digitales.
+2.2.9. Tranferencia y alojamiento
+Ingesta, en el software ICA-AtoM, de todos los derivados de visualización en cada una de sus descripciones correspondientes.
+2.2.10. Política de preservación
+La obsolescencia de los recursos digitales requerirá que, con el paso del tiempo, sea necesario realizar actuaciones de preservación digital, lo que conllevará el establecimiento de una Política de preservación. Entre las distintas actuaciones que se pueden adoptar, podemos citar:
+• Back-up: integrado en el propio ICA-AtoM.
+100 Javier Ortega Álvarez
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+• Refrescamiento (Refreshing): copiar periódicamente el contenido de un soporte de almacenamiento en otro, sin manipular el formato de los documentos.
+• Migración (Migration): transferencia de la información digital de una plataforma obsoleta a otra
+2.2.11. Acceso
+Salvo casos excepcionales, debidamente razonados, la consulta de la documentación se realizará a través del visionado de las imágenes digitales.
+El acceso se realizará siguiendo las pautas establecidas en las Normas de Acceso y Uso del Archivo Miguel Delibes, dando respuesta a los problemas legales derivados de la titularidad y el contenido del mismo (protección de datos, derecho al honor…).
+2.3. Cumplimiento de objetivos
+Tras la ejecución de los trabajos planificados, y en relación a los objetivos definidos en esta segunda fase, una vez expuesto todo lo anterior podemos apuntar lo siguiente:
+1. El Archivo Miguel Delibes ha sido digitalizado en su totalidad.
+2. Contamos con:
+• Un copia de seguridad, en formato TIFF, a 300 dpi, en un doble soporte:
+✓ Disco duro, con conexión USB
+✓ DVD/R
+• Una copia de consulta, en formato JPEG a 150 dpi.
+• Una copia de difusión, en formato PDF, a 96 dpi.
+3. Todas las imágenes digitales están vinculadas con su descripción correspondiente.
+La conservación de un legado literario 101
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+BIBLIOGRAFÍA
+Abadal Falgueras, Ernest (2004), Gestión de Proyectos en información y documentación, Gijón, TREA.
+Araña Cruz, Jonathan y Clara Herrera Tejada (2011), “ICA-AtoM, una buena herramienta para la difusión de los archivos en la web”, http://www.ateneodemadrid.com/index.php/esl/Media/Files/ICA-AtoM-una-buena-herramienta-para-la-difusion-de-los-archivos-en-la-web (18-9-2014).
+Blasco Martínez, Rosa María (Coord.) (1996), Los archivos familiares en España: estado de la cuestión. I Simposium, Santander, Asociación para la Defensa del Patrimonio Bibliográfico y Documental de Cantabria.
+Blasco Martínez, Rosa María y Virginia María Cuñat Ciscar (1996), “Los Archivos familiares en Cantabria”, en Los archivos familiares en España: estado de la cuestión, Santander, Asociación para la Defensa del Patrimonio Bibliográfico y Documental de Cantabria, pp. 95-115.
+Bravo Lledó, Pilar (2006), “Los archivos personales. Una manera de trabajar sus documentos”, en Seminario de Archivos Personales, Madrid, Biblioteca Nacional, pp. 91-103.
+Bello Urgelles, Carme y Angels Borrell Chrehuet (2002), El patrimonio bibliográfico y documental: claves para su conservación preventiva, Gijón, TREA.
+Bello Urgelles Carme y Angels Borrell Chrehuet (2008), Los documentos de archivo. Cómo se conservan, Gijón, TREA.
+Cagigas, Yolanda (2012), “Los Fondos personales del Archivo General de la Universidad de Navarra”, en 5ª Jornadas Archivando. Los Archivos privados, León, Fundación Sierra-Pambley, pp. 81-88.
+Espinosa Ramírez, Antonio Bernardo (1995), “Los Archivos personales: metodología para su planificación”, en Manual de Archivística, Madrid, Síntesis, pp. 263-279.
+102 Javier Ortega Álvarez
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+Galiana Chacón, Juan P. (2006), “De los archivos personales, sus características y tratamiento”, en Seminario de archivos personales, Madrid, Biblioteca Nacional, pp. 17-28.
+Gallego Domínguez, Olga (1993), Manual de Archivos familiares, Madrid, ANABAD.
+Herrera Tejada, Clara (2010), “Una experiencia con ICA-AtoM Beta en el Archivo del Ateneo de Madrid”, Versión castellana del artículo publicado en catalán, Butlletí de l’Associació d’Arxivers Valencians, 39, http://www.ateneodemadrid.com/index.php/esl/Media/Files/Una-experiencia-con-ICA-AtoM-beta-en-el-archivo-del-Ateneo-de-Madrid (18-9-2014).
+Iglesias Franch, David (2008), La fotografía digital en los archivos, Gijón, TREA.
+Irurita Hernández, Inés (2012), “Los archivos personales y familiares en el Archivo General de la Universidad de Navarra: el difícil equilibrio entre el libre acceso y la restitución de uso”, TABULA: revista de archivos de Castilla y León, 15, pp. 223-232.
+La Torre, José Luis y Mercedes Martín Palomino (2000), Identificación y valoración, Madrid, Escuela Iberoamericana de Archivos, Madrid, Ministerio de Educación, Cultura y Deporte.
+Laso Ballesteros, Isidro (2002), “Estrategias de preservación de documentos digitales”, TABULA: revista de Archiveros de Castilla y León,5, pp. 131-146.
+Delibes, Miguel y Josep Vergés (2002), Correspondencia, 1948-1986, Barcelona, Destino.
+Delibes, Miguel y Gonzalo Sobejano (2014), Correspondencia, 1960-2009, Valladolid, Fundación Miguel Delibes-Universidad de Valladolid.
+La conservación de un legado literario 103
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+Martínez Montero, Jorge y Lourdes Santos de Paz (Coord.) (2015), El conservador-restaurador del patrimonio cultural: la conservación preventiva de la obra de arte, León, Universidad de León.
+Ortega Álvarez, Javier (2014), “La gestión del Archivo Miguel Delibes. Proyecto de Organización y Digitalización del Fondo documental Miguel Delibes. 1ª FASE (FASE A)”, en 7ª Jornadas ARCHIVANDO. La nueva gestión de Archivos, León, Fundación Sierra Pambley, pp. 216-229.
+https://archivofsierrapambley.files.wordpress.com/2015/02/actas_archivando_2014.pdf
+Ortega Álvarez, Javier (2015), “The Digitization of Miguel Delibes’ Archives. Conservation and dissemination of a private archive”, en APEX CONFERENCE BUDAPEST 2015. Collaboration and networking for a digital archival future. Sustainable perspectives through the Archives Portal Europe, Budapest, 8 de septiembre.
+Romero y Fernández Pacheco, Juan Ramón (1999), “La conservación de documentos de Archivos”, en Escuela Iberoamericana de Archivos. Experiencias y materiales. Conservación y reproducción, Madrid, Ministerio de Educación, Cultura y Deporte.
+Tacón Clavín, Javier (2008), La conservación en Archivos y Bibliotecas. Prevención y protección, Madrid, Ollero y Ramos.
+Vaillant Callol, Milagros y Nieves Valentín Rodrigo (1996), Principios básicos de la conservación documental y causas de su deterioro, Madrid, Instituto del Patrimonio Histórico Español.
+(2010) Curso de verano “La hoja de ruta de los archivos personales, familiares y de empresa”, organizado por el Archivo General de la Universidad de Navarra, http://hdl.handle.net/10171/12665
+(2002), Directrices para proyectos de digitalización de colecciones y fondos de dominio público, en particular para aquellos custodiados en bibliotecas y archivos, La Haya, International Federation of Library Associations and Institutions.
+104 Javier Ortega Álvarez
+NOTAS HISPÁNICAS, 5 (2019): 80-104
+ISSN 2695-6136
+(2014) Modelo conceptual de descripción archivística y requisitos de datos básicos de las descripciones de documentos de archivo, agentes y funciones. Parte 1: Tipos de Entidad. Parte 2: Relaciones. Documento de la CNEDA, http://www.mecd.gob.es/cultura-mecd/areas-cultura/archivos/mc/cneda/documentos.html (31-8-2014).
+(2008) Project Management Institute, Guía de los Fundamentos para la Dirección de Proyectos (Guía del PMBOK), Pennsylvania.
+(2006) Seminario de Archivos Personales, Madrid, Biblioteca Nacional.
+(2010) Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, BOE de 29 de enero de 2010, núm.25.
+(2012) 5ª Jornadas Archivando, Los Archivos privados, León, Fundación Sierra-Pambley.
+(2011) 5ª Jornadas Archivo y Memoria, Extraordinarios y fuera de serie: formación, conservación y gestión de archivos personales, Madrid.
+(2014) 7ª Jornadas Archivando, La nueva gestión de Archivos, León, Fundación Sierra Pambley.

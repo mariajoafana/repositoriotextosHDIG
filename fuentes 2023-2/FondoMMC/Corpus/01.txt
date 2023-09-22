@@ -1,0 +1,590 @@
+Resumen
+Este artículo explica el proceso de trabajo de edición digital y marcado de categorías
+de análisis de los paratextos contenidos en obras de escritoras españolas de la
+primera edad moderna, desde los primeros impresos conservados hasta los años
+finales del siglo XVIII. Una primera parte de este trabajo se dedica a analizar la
+metodología de investigación que el equipo de investigación del Proyecto BIESES
+ha llevado a cabo para definir las categorías de análisis que explican la escritura
+femenina de este período, en relación a los conceptos de autora, obra y receptor. En
+la segunda parte se da cuenta de las fases de trabajo de edición digital del corpus
+paratextual, marcado en TEI y el diseño de un buscador que permite recuperar esas
+categorías de análisis. El resultado de este proyecto de investigación es un entorno
+virtual de trabajo, que pone a disposición de la comunidad investigadora, en acceso
+abierto, herramientas de análisis, textos y una propuesta metodológica que proyecta
+el análisis literario en las humanidades digitales
+Aunque no se subraya con la frecuencia con la que se debiera, las
+disciplinas humanísticas, entre ellas la Filología, siempre están en la
+vanguardia del pensamiento. Los textos son siempre la fuente de
+conocimiento, pero sí que van variando las preguntas que estos suscitan a lo
+largo de la historia y también las herramientas metodológicas y los
+paradigmas hermenéuticos con los que los interrogamos, buscando
+respuestas a cuestiones que son tan antiguas como actuales.
+Las escritoras españolas en la Edad Moderna es el campo de estudio
+en el que ha centrado la actividad investigadora el equipo de BIESES
+(Bibliografía de Escritoras Españolas) desde hace ya más de una década1.
+En su base de datos, con más de 13.000 entradas, el investigador y cualquier
+curioso lector encuentra la información más exhaustiva y rigurosa sobre la
+producción literaria de las escritoras españolas hasta el siglo XVIII2. Una vez
+recopilado y jerarquizado este caudal de datos, relativos a lo literario pero también a lo biográfico, lo histórico y lo sociológico, la investigación se
+orienta a su interpretación, con el objetivo de determinar los
+condicionamientos y posicionamientos de estas escritoras en el campo
+literario.
+Para ello, la producción impresa conocida de estas mujeres es un
+corpus extraordinariamente valioso para fijar tendencias, constantes y
+evoluciones de la escritura femenina en un período que abarca tres siglos.
+Los impresos de autoría femenina contienen información sustancial sobre el
+contexto de producción y recepción de estos escritos, de los cuales da
+testimonio un corpus hasta hace poco desatendido o no estudiado de forma
+sistemática: los paratextos. La información que ofrecen es marcadamente
+valiosa en el caso de las escritoras, dada la escasez de fuentes informativas
+sobre ellas, constante de estudio que determina los usos metodológicos que
+se aplican en este campo de investigación.
+LOS PARATEXTOS: CORPUS TEXTUAL Y METODOLOGÍA
+Los enunciados paratextuales que acompañan la obra literaria, como
+puedan ser el título, los prólogos, las dedicatorias, composiciones
+preliminares de alabanza, censuras, aprobaciones o epílogos, orientan al
+lector, ya sea en su momento histórico, ya en la actualidad, hacia la
+construcción de los sentidos del texto que va a leer, a la vez que lo sitúa en
+su contexto comunicativo, al confluir en ellos las instancias del emisor y el
+receptor. Este entramado de opiniones, valoraciones y juicios son una fuente
+de primer orden para formular preguntas y también para encontrar respuestas
+sobre la posición de las mujeres y sus receptores en el campo de la
+producción cultural durante la Edad Moderna y sus cambios a lo largo de
+período. El corpus de análisis del proyecto abarca los textos de autoras
+impresos entre 1497 (año en que se publica el Vita Christi de Isabel de
+Villena, primera obra impresa en España de una mujer) y 1800. El número
+de obras que de forma nuclear pertenecen a este corpus se sitúa en torno a las
+90, principalmente del siglo XVII, solo aproximadamente un tercio son del
+XVIII y una pequeña parte del siglo XVI.
+Las preguntas que se plantean sobre este discurso paratextual vienen
+formuladas desde una combinatoria de metodologías. La metodología marco
+para este análisis cualitativo de los paratextos es la teoría fundamentada
+(grounded theory), que han desarrollado y utilizado en las ciencias sociales y
+que adaptamos a nuestro campo de estudio y objetivos (Urquhart, 2013). Su
+principio básico, que es el que nos sirve de punto de partida, consiste en
+generar la teoría a partir de los datos, de modo que solo la información
+seleccionada como corpus de estudio y los datos empíricos extraídos de éste servirán para establecer las conclusiones. Nuestro objetivo de investigación
+no es un análisis inmanente de los textos, sino definir las posiciones relativas
+de los agentes implicados en la obra dentro del campo de la cultura escrita,
+sus funciones y cómo se posicionan respecto al resto de instancias
+discursivas, identificar sus creencias, valores, actitudes u objetivos, en el
+marco de una sociología de la cultura escrita (Arbizu-Sabater, 2008). Aun
+sin hipótesis de partida, sí que aplicamos las teorías del sociologo y
+antropólogo Pierre Bourdieu sobre el campo literario, en torno a conceptos
+como poder, recepción, autoridad, prejuicios, validación, sumisión, posición
+del sujeto, calificación, definición del receptor, escalas de valores
+simbólicos, etc., que nos servirán a la hora de fijar categorías de análisis para
+el etiquetado. La aplicación sistemática de las ideas de Bourdieu a la realidad
+literaria de los siglos XVI y XVII aún ha sido poco desarrollada y puede
+tener gran rendimiento crítico para establecer una tipología de agentes
+implicados en el campo literario femenino, sus funciones, valores y
+características, como se verá en el epígrafe correspondiente de este trabajo3.
+También ha de acudirse a la teoría de la recepción y el trabajo de Genette
+(1987), que han fijado un paradigma teórico para el estudio de este tipo de
+textos4.
+Desde la materialidad de los impresos y de su aparato paratextual se
+dibuja una vía de interpretación de los textos que acude a la sociología como
+disciplina auxiliar de la filología. La sociología de los textos, desde la
+propuesta teórica del neozelandés D. F. McKenzie (2005), nos permite
+estudiar las relaciones que se producen en la obra literaria, desde una triple
+perspectiva: primero, de producción (autorial); segundo, de transmisión
+(instancias editoriales); y, tercero, de consumo (lectores). Toda una serie de
+interacciones que se produce en torno a una obra (el proceso produccióntransmisión-
+consumo) y que son tanto personales como institucionales. En
+este sentido, planteamos una noción amplia de autora, partiendo de la
+premisa de que en el significado autorial intervienen los intermediarios en el
+proceso de producción y de recepción: escritora, impresores, libreros y
+público lector. La propia existencia de la autora se configura desde la
+intencionalidad con la que el texto es dado al público. Los paratextos
+forman, así, una red de comunicación entre diversos actores (autorainstancias
+editoriales-lector) en la que se construye una interpretación y un sentido de la obra, a la vez que la ubican en un contexto sociológico que
+trasvasa lo meramente textual. Los elementos paratextuales son los que
+contienen esta información como espacios de transición y transacción. En
+este mismo paradigma conceptual, las teorías de la pragmática, escasamente
+aplicada a análisis concretos, anima a estudiar el texto como acto
+comunicativo, incidiendo en el papel del emisor y de los receptores en la
+producción de sentido de la obra literaria5.
+Fases de trabajo y objetivos
+La metodología de investigación se plantea siempre en función del
+corpus textual que se maneja y desde los datos que de él pueden extraerse.
+Hemos planteado la representación textual en un entorno digital y desde las
+herramientas e innovaciones instrumentales que ofrecen las Humanidades
+Digitales. Vamos a explicar seguidamente las fases de este proceso y las
+principales conclusiones del mismo. Tenemos que dejar constancia de que
+tal tarea solo puede emprenderse y llevarse a cabo en equipo y desde la
+coordinación del trabajo de investigación (filológico y literario) con el
+técnico informático. Por tanto, todo lo que va detallarse a lo largo de este
+artículo es producto y resultado de esa labor de equipo coordinada, que se ha
+estructurado de la siguiente manera: a) Equipo investigador, dirigido por
+Nieves Baranda (UNED) y compuesto por: Mª Carmen Marín (Universidad
+de Zaragoza) Anne J. Cruz (Universidad de Miami), Mercedes Marcos
+(Universidad de Salamanca), Inmaculada Osuna (Universidad Complutense
+de Madrid), Isabelle Poutrin (Université Paris-Est Créteil Val de Marne),
+Leticia Sánchez (Patrimonio Nacional), Helena Establier (Universidad de
+Alicante), María D. Martos (UNED) y Blanca Vizán (Investigadora
+Predoctoral, BIESES); b) Editores digitales en TEI: Álvaro Piquero y María
+D. Martos; c) Equipo técnico informático: Miguel Urízar, Mª Luisa Díez y
+Paloma Centenera.
+Las líneas de actuación básicas pueden resumirse en tres fases.
+1. Primero, la definición del corpus textual y la metodología a
+aplicar, tal como se ha expuesto en el epígrafe previo de este artículo (“Los
+paratextos: corpus textual y metodología”). Una fase inicial del trabajo ha
+consistido en la transcripción y edición de los paratextos como primer paso
+para fijar un corpus de gran valor informativo sobre la producción literaria
+femenina durante los tres siglos de imprenta que abarca el proyecto (labor
+realizada por el Equipo Investigador7). La edición se ha planteado en un
+entorno digital (labor realizada por el Equipo Técnico) y los criterios de
+edición y la biblioteca de textos editados, descargable en pdf, está disponible
+en la web: <http://www.bieses.net/tabla_paratextos>
+2. Segundo, el establecimiento de categorías de análisis que operan
+en ese corpus y el marcado de los fenómenos textuales de interés, diseñando
+una estructura y semántica de los datos. Aquí debemos distinguir dos
+momentos:
+2.1. El establecimiento y definición de las categorías que operan en
+estos paratextos y que proceden tanto del campo sociológico (perfil
+biográfico de las autoras, menciones coetáneas de obras o autores) como del
+literario o de consumo, así como su operatividad en un arco de tiempo muy
+extenso que abarca tres siglos (labor realizada por el Equipo Investigador).
+2.2. Para poder manejar un corpus amplio de paratextos y las
+variables de análisis mencionadas aplicadas a emisores, tipos de discursos y
+receptores hemos optado por el lenguaje TEI (Textual Encoding Initiative8),
+que no es otra cosa que un sistema de marcado o etiquetado (markup,
+encoding), diseñado especialmente para las Humanidades. El esquema de
+codificación que usa TEI se expresa a través de un lenguaje formalizado muy extendido, el conocido como XML (Extensible Markup Languague).
+Este cifrado de texto permite al editor digital, señalar aquellos rasgos
+textuales que se consideran relevantes, de forma que este proceso de
+codificado acompaña la labor de edición y el propio proceso de etiquetado
+va construyendo una interpretación del texto, mediante la definición previa
+de esas categorías de marcado (labor realizada por los Editores digitales).
+Considerando el volumen de obras implicadas y las preguntas de
+investigación a responder, un sistema conceptual de etiquetado semántico
+como TEI era la herramienta que ofrecía más posibilidades, de modo que las
+categorías de análisis pudieran luego rastrearse mediante una herramienta de
+búsqueda (Equipo informático, en coordinación con el Equipo Investigador).
+Para ello se desarrolló un software de edición digital, TEIScribe
+(http://linhd.es:8080/TextEditor/?session=bieses), con el lenguaje de
+marcado TEI, destinado a un usuario con perfil filológico (diseñado por el
+Equipo Informático, Miguel Urízar). El diseño conceptual de categorías de
+análisis se plasma en un modelado de datos a través de una DTD, con la
+jerarquía de etiquetas y elementos, con atributos y valores, para el marcado
+tanto estructural como semántico (tarea realizada por el Equipo informático
+en coordinación con los Editores digitales).
+2.3. Una vez finalizado este proceso se ha pasado al diseño y la
+definición de hojas de estilo (CSS y XSL) para la visualización de las
+ediciones de paratextos y su presentación web. Ello ha culminado en el
+diseño de una interfaz para la recuperación de datos, donde se han definido
+criterios de búsqueda y su combinatoria, y del que ha resultado un buscador,
+que permite recuperar, mediante fragmentos de ese discurso paratextual,
+cinco formas de búsqueda: por autoras; por siglos; una búsqueda avanzada,
+que filtra por criterios como tipo de paratexto, mediados, receptor o estado
+de la autora; una búsqueda por valores clave, que responde a las categorías
+de análisis más relevantes; y, finalmente una búsqueda pro, para un usuario
+investigador avanzado, que permite realizar búsquedas por etiquetas,
+atributos o valores de estos. Esta labor ha sido realizada por el Equipo
+informático (en coordinación con el Equipo investigador). El buscador puede
+consultarse en <http://www.bieses.net/buscador.php9>.
+Los objetivos que se han perseguido en este proceso pueden
+resumirse en los siguientes:
+1. Edición digital de los paratextos de las obras impresas por
+escritoras hasta el siglo XVIII.
+2. Procesamiento técnico de esas ediciones digitales, mediante un
+marcado XML con TEI, del que ha resultado el diseño de un editor de texto
+(TEIScribe), con dos objetivos:
+1) Adaptabilidad: una herramienta de etiquetado amigable adaptada
+a un usuario filológico, que permite un fácil manejo de las etiquetas.
+2) Customización: esta herramienta, a través del manejo de una DTD
+diseñada bajo las premisas y categorías de análisis determinadas por las
+preguntas de investigación, se adapta a distintos intereses al permitir trabajar
+con un subconjunto de etiquetas definidas a partir de unos intereses de
+investigación concretos.
+3. Creación de un entorno de trabajo en edición digital y marcado
+que sea aplicable a proyectos de similares objetivos de investigación, a partir
+de toda la documentación que genera el proyecto de investigación. El
+entorno y las herramientas digitales que el investigador tiene a su disposición
+debe traducirse en softwares de edición y sistemas de recuperación de la
+información de esos textos digitales que sean no sólo eficaces, sino que sean
+fácilmente usables y modulables para distintos tipos de usuarios.
+4. Interoperabilidad con proyectos de investigación que trabajan en
+la misma cronología y con similares categorías de análisis10.
+5. Difusión del conocimiento e investigación sobre las escritoras en
+la Edad Moderna y de las categorías culturales bajo las que se creó y recibió
+la escritura femenina de este período.
+Lo que hemos llamado fase 2 ha constituido el eje nuclear del
+trabajo investigador, de la toma de decisiones y de los resultados finales, por
+lo que dedicaremos especial atención a dar cuenta de este proceso en el
+epígrafe siguiente de este artículo.
+EDICIÓN DIGITAL, MARCADO Y CODIFICACIÓN EN TEI-XML. UNA
+ESTRUCTURA DE DATOS SOBRE DATOS
+La información contextual que aportan los paratextos (sobre sus
+autoras, sobre el contexto de producción, sobre las motivaciones que
+impulsaron su escritura, sobre su recepción o sobre su proceso de edición)
+llevan a contemplar la obra literaria no como un producto hecho sino como
+un acto de producción de sentido, que se reactualiza en cada cultura o época
+y en cada lector (Bryant, 2002) y que comprende las diferencias, si es que las hubo, que presentan las distintas ediciones de una obra, las licencias que
+permitieron su publicación, los dedicatarios a los que se dirigen, los prólogos
+en los que las autoras establecieron pautas de lectura, las composiciones,
+notas, cartas o comentarios que los lectores contemporáneos hicieron de
+estas obras, etc. Cuando el filólogo se plantea cómo representar todo ese
+entramado textual y contextual para que los distintos estratos actúen
+simultáneamente en la creación del significado, la edición digital y el
+codificado con TEI aporta una gran cantidad de posibilidades que no
+proporciona la edición impresa tradicional (Canet y Serrano, 2004 y Allés,
+2015)11. Estas nuevas posibilidades se encaminan a reproducir, en lo que
+aquí nos interesa, la semántica natural de los paratextos para dar cuenta de la
+dinámica de la red de relaciones que se establecen en los distintos niveles de
+contenido que venimos comentando (Routolo y Gibson, 2003; Priani y
+Guzmán, 2015; Priani, 2015). La segmentación paralela del codificado con
+TEI facilita al lector la posibilidad de comparar y superponer los distintos
+niveles de todo este entramado textual (Vanhoutte, 2004).
+Todo documento electrónico, por ejemplo los formatos más
+habituales de Word o de PDF, se ha configurado con un software y un
+procesador de texto que tiene su propio lenguaje de marcado estandarizado y
+que codifican tanto desde el punto de vista de su estructura o de marcas
+formales como de su semántica.
+En esta dirección, los metadatos y su estructura se constituyen en un
+método hermenéutico, en tanto que describen y categorizan los textos
+literarios electrónicos en función de una gran variabilidad de paradigmas
+interpretativos. Desde finales del siglo pasado, la comunidad científica ha
+desarrollado diversos estándares de metadatos, entre los que cabe subrayar
+dos en el ámbito humanístico: el Dublin Core12, de carácter más general, y
+en su aplicación específica al texto literario, TEI13. La información que
+podemos almacenar sobre los textos es inmensa, pero es esencial fijar un
+sistema de metadatos en consonancia con el tipo de datos que se quieren
+recuperar (Irizarry, 1997).
+Las ventajas que ofrece este sistema frente a la edición tradicional
+son sustanciales, especialmente a través de las enormes posibilidades que
+ofrecen la meta-información. En particular, destacamos las siguientes:
+• Está diseñado por y para filólogos, que lo han adoptado de forma
+muy generalizada tanto en EE.UU. como en Europa.
+Es modular, es decir, que siempre es posible añadir nuevas etiquetas.
+• Es adaptable, ya que permite definir valores y atributos propios de
+las etiquetas existentes.
+• Es un estándar open source y gratuito, asociable a otras herramientas
+también de uso libre.
+• Se puede transformar en HTML a través de hojas de estilo.
+• Permite búsquedas textuales de cualquier tipo.
+• Permite que el recurso creado sea enlazable en el futuro desde otros
+motores de búsqueda que emplean los mismos lenguajes.
+TEI se ofrece como el lenguaje descriptivo de mayor estandarización
+y especificidad para la descripción tanto estructural como semántica de
+textos literarios (Isasi, Lobo, Leyre, et. al., 2014; Alcaraz y Vázquez, 2016).
+Sirviéndonos de este subconjunto de marcado de XML podemos incorporar
+a las obras literarias un conjunto de metadatos explicativos que ayudan al
+investigador a fijar una interpretación sobre un amplio corpus de datos
+textuales14. TEI pone a disposición del filólogo una amplia serie de etiquetas
+y elementos, tanto estructurales como semánticos, susceptibles de ser
+particularizados con múltiples atributos que hemos “customizado” a las
+particularidades del corpus de paratextos que estudiamos.
+La extensión de la última versión de las Guidelines (P5) evidencia la
+complejidad del lenguaje, por lo que es imprescindible que cada proyecto
+diseñe su esquema de codificación reducido y adaptado a sus preguntas de
+investigación. Una vez codificados los paratextos en TEI (xml), su estructura
+se valida a través de una DTD15 (Document Type Definition). Esta DTD, de
+relativa complejidad, fija la estructura jerarquizada de datos y recoge el
+esquema customizado para la validación posterior de todo el corpus de
+paratextos etiquetado. Recoge, así mismo, las etiquetas y los elementos que
+describen el corpus textual de los paratextos y los atributos que los
+particularizan y explican, según la singularidad de los fenómenos y de los
+datos que se quieren estudiar. Estos atributos se han jerarquizado a través de
+taxonomías o vocabularios controlados, que fijan la coherencia del
+etiquetado.
+Ahora vamos a dar cuenta de esa arquitectura de metadatos que
+hemos aplicado a los paratextos, incidiendo en el thesaurus de categorías jerarquizadas que establecen el modelo de análisis filológico sobre estos
+textos.
+Debemos distinguir, en primer lugar, dos niveles y tipos de
+metadatos: primero, los generales o formales; y segundo los semánticos, que
+marcan categorías de análisis internas al proceso de investigación y sobre las
+preguntas formuladas al corpus. En ambos casos, los datos se han definido
+en torno a tres grupos: a) referidos a la autora (circunstancias de vida,
+escritura y autoría); b) referidos a la obra literaria, como objeto material y su
+contenido intelectual (descripción, difusión, género, finalidad, justificación);
+y, finalmente, c) sobre la recepción (lectores, intermediarios, valoración de
+la autora y la obra o receptores en sentido amplio).
+En cuanto a la organización de la dinámica de trabajo en esta fase
+central del proyecto de investigación, hay que subrayar la labor de
+coordinación de los tres equipos. El Equipo investigador, a través del análisis
+del contenido del corpus de paratextos asignados a cada estudioso/a en
+función de su campo de conocimiento, establece una serie de categorías de
+análisis, a partir de las metodologías del campo literario y sociológico
+expuestas, señalando en cada texto las que operan. El equipo de Edición
+digital formaliza el etiquetado, de forma mecánica en su codificación
+general, y de forma particular en el caso del etiquetado profundo. Para ello
+se dispone del software TEIScribe16. Y, finalmente, el Equipo informático se JANUS 8 (2019)
+ocupa de la creación de una base de datos del corpus textual editado en TEI,
+de la implementación de la DTD, y de su transformación, a través de una
+hoja de estilo, para el diseño de una interfaz de búsqueda (en coordinación
+con los Editores digitales y con el Equipo Investigador). La estructura de
+datos que se ha diseñado es compleja, no solo desde el punto de vista
+conceptual, sino también en su formulación técnica. En nuestra experiencia,
+estas dificultades solo ha podido solventarse desde el trabajo estrecho y
+coordinado de los tres equipos.
+A partir de lo ya comentado, exponemos de forma sintética la
+jerarquización de categorías de análisis y datos que hemos empleado para
+codificar los paratextos y que constituyen el diseño de la DTD de este
+proyecto de trabajo.
+Empezaremos por comentar el etiquetado superficial o formal. La
+unidad textual básica con la que trabajamos no es la obra literaria sino los
+paratextos, por lo que será el módulo de “front” la unidad estructural básica,
+siguiendo el siguiente esquema:
+<text>
+<front>
+<titlePage>
+</titlePage>
+<div type=" ">
+</div>
+<div type="…">
+</div>
+</front>
+</text>
+Si hay anidaciones de paratextos hemos optado por incorporar el elemento
+“group” al diseño estructural:
+<front>
+<titlePage>
+</titlePage>
+</front>
+<group>
+<text>
+<front>
+<div type="">
+</div>
+<div type=" " subtype=" ">
+</div>
+</front>
+<body>
+<p> >/p>
+</body>
+</text>
+<text>
+<front>
+<div type=" ">
+</div>
+</front>
+<body>
+<p> </p>
+</body>
+</text>
+</group>
+</text>
+La tipología de paratextos que se ha considerado se formaliza en la
+siguiente taxonomía: portada, prólogo, dedicatoria, licencia (civil/ eclesiástica),
+aprobación [civil/eclesiástica), privilegio, tasa, fe de erratas, tabla, carta, nota,
+sumario, poema (se marca el tipo, de acuerdo a este vocabulario controlado:
+pareado, terceto , cuarteto, redondilla, lira, endecha, sexteto, sextilla, octava,
+octavilla, décima, soneto, silva, romance, libre, seguidilla, quintilla), protesta,
+grabado, advertencia, epílogo, colofón, textos biográficos, paratextos
+encubiertos (“interliminares” o “intermedios”). El idioma de los paratextos
+también se codifica en el caso de que sea distinto al español, siguiendo este
+conjunto acotado: latín, catalán, portugués, italiano, francés, griego, inglés.
+Para establecer una categorización de los mediadores textuales
+hemos optado por los valores @resp y @rol, que identifican los siguientes
+modos de intermediación:
+a) Textual: engloba a los editores textuales. Se trata de personas que
+actúan para que la obra termine editándose, pero que no tienen una
+presencia textual efectiva en la misma.
+b) Comanditario: persona que da instrucciones a otra para que redacte
+una censura, un prólogo, etc.
+c) Solicitante: persona que realiza gestiones de solicitud que conducen
+a la impresión de la obra, y que puede ser la misma autora.
+d) Impresor.
+e) Agente: personas que tienen una intervención activa en el proceso de
+edición de la obra, pero de las que no te tiene información explícita
+sobre una responsabilidad concreta.
+f) Financiador/a de la obra.
+g) Traductor/a, que traduce a otra lengua la obra de una autora.
+h) Informante: cualquier persona que ha realizado algún tipo de escrito
+de autorización o censura o licencia administrativa.
+i) Confesor: este atributo se utiliza para marcar el nombre del confesor
+de las escritoras religiosas, cuando se formule explícitamente.
+La categorización de los receptores se ha divido en tres grandes
+grupos. De ellos se marcan títulos nobiliarios u otro tipo de información
+descriptiva que va asociada a la identidad personal de cada uno dee los
+individuos a través de las etiquetas “AddName” y “RoleName”:
+a) Lectores. Bajo esta etiqueta se agrupan todo tipo de sujetos que
+reciben la obra o a quien está destinada, bien sean históricos
+individualizados o colectivos o lectores ideales. Además, se ha
+utilizado esta misma etiqueta para indicar que ha existido una lectura
+extensa y que la obra se ha agotado, o si se ha dado una circulación
+manuscrita previa o en formato oral.
+b) Destinatario: receptores en sentido amplio, a los que se hace una
+referencia explícita como destinarios de algún paratexto, y que no se
+incluyen en ninguna otra de las categorías fijadas.
+c) Dedicatario.
+En un segundo nivel de concreción del etiquetado, que hemos
+llamado profundo, se marcan metadatos referentes a categorías de análisis
+que el Equipo investigador ha considerado imprescindibles para el estudio de
+los paratextos. Este marcado se agrupa en torno a dos grandes bloques.
+El primero de ellos es el que codifica datos relativos a la información sobre
+la obra como texto literario. Para todo este módulo se ha empleado la etiqueta <desc type=“ ” subtype=>, </desc>, fijando valores y atributos
+sobre la siguiente taxonomía:
+a) Género literario, con los siguientes valores: profano, religioso,
+biográfico, histórico, tratado, epistolar, traducción, poesía, teatro,
+ficción, ensayo, prosa.
+b) Finalidad de la obra: persuadir, entretener, alabar, enseñar, informar
+c) Contenidos: comentarios relativos a la descripción de la obra y sus
+contenidos.
+d) Dispositio: capítulos, partes, etc.
+e) Estilo.
+f) Recepción.
+g) Circunstancias de producción de la obra: anónima, póstuma.
+h) Referentes intertextuales: fuentes, modelos o citas.
+El segundo bloque es el referido a la autora. Sobre estas se
+categorizan tanto cuestiones personales (estado jurídico, social) como
+autoriales (autorepresentación, referentes literarios, círculo familiar, redes
+literarias, o valoraciones de la propia obra). Resumimos la estructura de
+datos y las cuestiones más relevantes del marcado:
+a) El estado jurídico se codifica con la etiqueta “state” y se
+particulariza con taxonomías customizadas a través de los valores
+type y subtype: person> <state type=(taxonomía) subtype=(taxonomía)>
+<p> … </p> </state>.
+Este estado jurídico se define por los siguientes valores: casada,
+madre, viuda, soltera, monja (con los siguientes sub atributos:
+dominica, franciscana, carmelita, benedictina, clarisa, agustina,
+capuchina, cisterciense), niña, terciaria.
+b) El estatus social se marca a través de la etiqueta <socecStatus
+role=(taxonomía) resp=(taxonomía)>, y se concreta con los valores
+(mediante “role” y “resp”) de: noble, criada y religiosa, esta última
+con los sub atributos de abadesa, fundadora, beata, monja, maestra,
+velo blanco, priora, santa.
+c) La situación personal se define bajo valores que tiene la etiqueta de
+persona en TEI: edad (<age>), nacimiento (<birth>), locación
+(<residence>) o educación (<education>), al que hemos añadido el
+de género, aplicado a cualquier mención a roles de género,
+separación, conciencia de femenino / masculino, cualidades
+varoniles, etc.
+d) Se han definido, finalmente, un conjunto de categorías relacionadas
+con las circunstancias de escritura vinculadas a las autoras, que
+customizan, desde las posibilidades de etiquetas de TEI, la estructura
+general de datos. Son valores como:
+a. Circunstancias de composición, como la escritura por
+mandato o la inspiración divina como motor de la escritura (order o
+enlightenment).
+b. Aspectos relacionados con la imagen autorial de las
+escritoras: autorrepresentación, heterorrepresentación, humildad o
+transgresión.
+c. Referentes y modelos de escritura.
+d. Menciones al círculo familiar como medio de legitimación o
+autorización.
+e. Redes literarias o círculos culturales y personales, en que se
+desenvuelve la actividad de la escritora.
+f. Menciones a otras obras o textos de la autora.
+DE LA SEMÁNTICA Y FORMALIZACIÓN DE LOS DATOS A SU
+INTERPRETACIÓN: RESULTADOS Y ENTORNO DIGITAL PARA LA
+INVESTIGACIÓN DE LA ESCRITURA FEMENINA
+Para la definición y validación de la estructura concreta de los
+documentos etiquetados mediante XML-TEI se diseñó, como ya se ha
+comentado, una DTD (Definición de Tipo de Documento). En ella se incluye
+información relativa a los elementos (etiquetas) que pueden aparecer en el
+texto editado y su posible ubicación en el mismo, los atributos que pueden
+tener asociados esos elementos así como los valores que podrán tomar
+dichos atributos. La DTD, aunque presenta una gran complejidad, permite
+comprobar el correcto etiquetado de los distintos documentos.
+Posteriormente esto facilita la implementación de las búsquedas por
+categorías y la visualización de los mismos de acuerdo con su estructura
+original, a pesar de observarse diferencias significativas entre los diferentes
+textos, en función de su tipología, género, tipo de obra en la que aparecen los
+paratextos, etc.
+Al tratarse de un etiquetado basado en TEI se ha mantenido,
+obviamente, la compatibilidad con su estructura para preservar el estándar,
+sobre todo en el etiquetado general y formal. Para el etiquetado profundo se
+han buscado soluciones customizadas, siempre dentro de las etiquetas que
+posee el subconjunto TEI, pero adaptando las posibilidades de incluir valores
+y atributos. Para agilizar tanto la formalización del etiquetado como el
+manejo de la aplicación TEIScribe, la DTD incluye exclusivamente los
+elementos y atributos de TEI que están presentes en los documentos de
+Bieses.
+Como se ha podido observar en las páginas previas, se han definido
+vocabularios controlados en los valores de aquellos atributos para los que se
+ha considerado conveniente restringir el conjunto de categorías y
+normalizarlo, como por ejemplo para identificar los tipos de paratextos, el
+lenguaje de los mismos, las órdenes religiosas, el estatus social y personal de
+las autoras o los roles de los personajes mencionados en los textos. El uso de
+estas taxonomías permite garantizar la coherencia en el etiquetado y facilita
+la búsqueda y recuperación de documentos en función de los valores de sus
+atributos, además de permitir la clasificación por categorías. Sobre la
+jerarquización de datos que conforma la DTD, subrayamos que esta es el
+elemento base para diseñar un buscador que permita recuperar las categorías
+de análisis definidas en ellas (etiquetas, elementos y atributos) y definir la
+visualización de los documentos a través de una hoja de estilos.
+El resultado final de este proceso ha sido la creación de un entorno
+de recuperación de la información (<http://www.bieses.net/>) en torno a los
+paratextos de escritoras en la Edad Moderna, modelado sobre los criterios de
+jerarquía y relevancia de los datos así como criterios de asociación entre
+estos, que han combinado la presentación de los paratextos editados, una
+base de datos que los contiene, un buscador que permite la recuperación de
+esa información etiquetada, y, finalmente, la presentación de otros elementos
+relacionados con estos datos, como son los gráficos y los grabados que van
+al frente de las obras que contienen los paratextos.
+Las secciones principales de este entorno web, diseñado por el
+Equipo informático, y que van acompañadas de la correspondiente
+documentación explicativa, son las que se van a comentar seguidamente.
+Sobre ellas ofrecemos algunas precisiones técnicas:
+1. Repositorio textual con las ediciones de los paratextos y
+repositorio de portadas y grabados de la producción literaria impresa de estas
+escritoras.
+2. Base de datos de los paratextos codificados en TEI-XML, que
+tiene detrás una DTD, en la que se describe la estructura de etiquetas,
+atributos y vocabularios controlados que regulan el marcado tanto estructural
+como semántico de los textos analizados. Los documentos se almacenan en
+una base de datos nativa XML que puede ser interrogada mediante el
+lenguaje de consultas XQuery. Se ha optado por el sistema gestor de bases
+de datos XML eXist-db, que proporciona mecanismos para el trabajo con la
+base de datos.
+Para la visualización de contenidos se ha seguido un diseño de
+estilos CSS y hojas de transformación XSL, que convierten el etiquetado de
+las ediciones en un documento formateado para su visualización y
+presentación en la web. Con el fin de mantener la fidelidad con los textos
+marcados, las visualizaciones se generan de manera automática mediante la
+definición de estos estilos CSS y las hojas de transformación. Los estilos
+definen los diferentes formatos aplicados al texto visualizado: tipo de fuente,
+tamaño, márgenes, resaltados… Las hojas de transformación, por su parte,
+describen la manera en que los distintos elementos etiquetados aparecen en
+la presentación, su orden y los estilos aplicados a los mismos. De esta
+manera se consigue estandarizar las visualizaciones y dotar a estas de un
+componente dinámico, ya que cualquier cambio en el etiquetado de una
+edición se traslada automáticamente a su presentación visual en la web.
+3. Interfaz web de un buscador (XML Query) para la recuperación
+de la información etiquetada. El buscador, basado en PHP y haciendo uso
+del lenguaje de interrogación XQuery antes citado, permite recuperar las
+ediciones etiquetadas según su contenido semántico. Como ya se ha
+comentado previamente, además de dos búsquedas básicas, cronológica y
+por autora, proporciona una búsqueda avanzada, una búsqueda por valores
+clave y una pro. En la búsqueda avanzada es posible preguntar por palabras
+en el interior de los textos completos. Además, permite recuperar
+mediadores y receptores, estados de las autoras, indicadores de su situación
+personal, características de la obra y poemas dentro de paratextos. Estas
+búsquedas están basadas en los vocabularios controlados diseñados a tal fin.
+La búsqueda de valores clave permite localizar las ediciones que incluyen
+una determinada palabra con un fuerte contenido semántico para el análisis.
+En la búsqueda pro pueden combinarse diferentes filtros de la secuencia
+etiqueta–atributo–valor.
+Con la organización de la información en este entorno se representa
+el contenido tanto estructural como semántico de estos textos literarios. Con
+su diseño se han perseguido los siguientes propósitos:
+1) Avanzar en la incorporación de herramientas digitales a la
+investigación literaria (edición digital, marcado, recuperación de
+información hipermedia), desde la aplicación de metodologías
+innovadoras (filológicas y sociológicas).
+2) Profundizar en el uso y adaptabilidad de los documentos electrónicos
+con la creación de aplicaciones (TEIScribe), que adapten sus
+potencialidades al ámbito literario y a un usuario filológico.
+3) Difundir los resultados, poniendo a disposición de la comunidad
+científica y universitaria, así como de toda la sociedad, la producción literaria de las escritoras españolas en la Edad Moderna,
+concretamente el contexto de producción y recepción de estos
+textos.
+4) Favorecer la accesibilidad, mediante las amplias posibilidades de
+consulta a través de la Red.
+5) Fomentar la aplicabilidad a otros ámbitos o proyectos de la
+investigación y la docencia a través de: a) el desarrollo de una
+customización del metalenguaje TEI-XML (DTD); b) el desarrollo
+de una aplicación (TEIScribe) que pueda dar respuesta a las
+necesidades de investigación de otros proyectos; y c) el diseño de un
+entorno de recuperación de la información que responda a los
+objetivos de investigación del corpus paratextual (motor de
+búsqueda y posibilidades de visualización a partir de hojas de estilo
+aplicadas a los documentos literarios electrónicos).
+El proceso de análisis de este valioso caudal de datos, además de los
+resultados metodológicos e instrumentales comentados, continúa abriendo
+nuevas líneas de trabajo para seguir ahondando en la fijación de modelos de
+interpretación y análisis para una historia literaria y cultural de la posición de
+las mujeres y sus receptores en el ámbito de la producción cultural en la
+primera Edad Moderna.
