@@ -9,6 +9,8 @@ etiquetas: nación, hipertexto, proyecto nacional
 Las palabras más comunes son: Nación - nacional, historia, mundo, texto, forma, sociedad, pasado, digital y cultura. Estas palabras tienen sentido y explicitan bien el tema general que me interesa. No obstante, este ejercicio también me permitió encontrar un par de vacíos en el corpus que he consultado. Así pues, en mis futuras consultas priorizaré la lectura de artículos que se centren en  el hipertexto, las características de la novela como género y la relación entre identidad, formación de comunidades y literatura. Según lo arrojado, la lista de “distintive words” podría organizarse en dos categorías: forma y contenido y/o bajo dos etiquetas: creación y proyecto fundacional.  Finalmente, me gustaría decir que, este ejercicio no sólo me permitió visualizar el rumbo de mi investigación, sino que también me señaló nuevas rutas de indagación: hasta ahora no había considerado cuán revelador puede ser el centrarme en las formas, la literarariedad (“literaturnost”), para comprender el proyecto literario de nación. 
 
 Enlace: https://voyant-tools.org/?corpus=8fb92307e95324c57684a80823a5edb9&stopList=keywords-a2887681837cbb0226131b4c9be1cb85&whiteList=&view=Cirrus
+
+
 Corpus:
 01 Bhabha, Homi. “Narrando la nación”. La invención de la nación, Álvaro Fernández Bravo ed. Buenos Aires: 
 Manantial, 2000.
