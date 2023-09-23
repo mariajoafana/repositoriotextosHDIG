@@ -14,12 +14,21 @@ Enlace: https://voyant-tools.org/?corpus=8fb92307e95324c57684a80823a5edb9&stopLi
 Corpus:
 01 Bhabha, Homi. “Narrando la nación”. La invención de la nación, Álvaro Fernández Bravo ed. Buenos Aires: 
 Manantial, 2000.
+
 02 González, Aníbal. "Adiós a la nostalgia: la narrativa hispanoamericana después de la nación." Revista de Estudios Hispánicos, vol. 46 no. 1, 2012.
+
 03 Colom González, Francisco. “La nación como relato.” Theoría: Revista del Colegio de Filosofía 22, 2010. 
+
 04 Mellado, Luciana. “Aproximaciones a la idea de Nación: convergencias y ambivalencias de una comunidad imaginada”. Alpha (Osorno) (26), 2008. 
+
 05 Acosta Peñaloza, Carmen Elisa. “Introducción”. Lectura y nación: novela por entregas en Colombia, 1840-1880. Vol. 363. Bogotá: Universidad Nacional de Colombia, Facultad de Ciencias Humanas, Departamento de Literatura, 2014.
+
 06 Acosta Peñaloza, Carmen Elisa. “Sociedad y nación: temas y problemas en la narración”. Lectura y nación: novela por entregas en Colombia, 1840-1880. Vol. 363. Bogotá: Universidad Nacional de Colombia, Facultad de Ciencias Humanas, Departamento de Literatura, 2014.
+
 07 Regueiro, Begoña. “Innovación y creatividad: enseñar literatura en el siglo XIX. Humanidades digitales: desafíos, logros y perspectivas de futuro, SIELAE, 2014.
+
 08 Spence, Paul."La investigación humanística en la era digital: mundo académico y nuevos públicos» Humanidades Digitales: una aproximación transdisciplinar". Janus, Anexo 2, 2014.
+
 09 George, Landow. “Literatura comparada del texto al hipertexto, o ¿qué pueden ofrecer los medios electrónicos a la disciplina?”. En Literaturas del texto al hipermedia. Anthropos, 2008.
+
 10 Geertz, Clifford. “La política del significado”. La interpretación de las culturas. México: Gedisa, 1991.
