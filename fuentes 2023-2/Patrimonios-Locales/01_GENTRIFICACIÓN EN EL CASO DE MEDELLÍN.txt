@@ -1,0 +1,362 @@
+
+
+
+CAPITAL Y DESARROLLO TERRITORIAL. DISEÑOS INSTITUCIONALES Y GENTRIFICACIÓN EN EL CASO DE MEDELLÍN, COLOMBIA.
+
+El proceso de globalización ha fracturado los límites impuestos a la circulación de capitales. La planeación y gestión del suelo han sido impactados por este proceso y grandes ciudades han venido adoptando estrategias para capturar capital privado en procesos de desarrollo urbano y prevenir o mitigar los impactos gentrificadores que ello supone. A pesar de la importancia del tema, en Colombia no hay producción académica que permita definir elementos y criterios de atención del fenómeno, ya que esta es una necesidad sentida en la que el derecho juega un papel fundamental. A partir de un rastreo documental se reconstruye un marco teórico sobre la gentrificación, se describen los diseños institucionales para motivar la inversión de capital privado en la gestión del suelo y se analiza la política de protección a moradores en Medellín, Colombia. Finalmente, se identifican los retos que debe asumir el derecho con respecto a la relación entre estos tres aspectos. Se concluye que es necesario desarrollar procesos de investigación interdisciplinaria para identificar la tensión entre el proceso de intervención territorial urbana, la inversión de capitales y el régimen de derechos constitucionales.
+
+The globalization process has fractured the limits imposed to the circulation of capitals. The soil planning and management have been impacted by this process and some big cities have increasingly adopted strategies intended to catch private capitals in the form of urban development processes, thus preventing or mitigating the implied gentrification impacts. Despite the importance of this issue, there is not any scholarly production in Colombia enabling to define the elements and criteria to focus the phenomenon. This is a strong need where the law has a crucial role to play. Starting from a documentary tracking, a theoretical framework is reconstructed for the gentrification, institutional designs are outlined to encourage the private capital investment in the soil management, and the policy of protection to dwellers is studied for the case of Medellín (Colombia). Finally, this work identifies the challenges to be coped with by the law regarding the relationship between these three aspects. A conclusion is drawn on the need to develop interdisciplinary research processes in order to identify the tension between the urban territorial intervention process, the capital investment and the regime of constitutional rights.
+
+Keywords: gentrificación; plan de ordenamiento territorial; asociaciones público-privadas; globalización; derechos constitucionales; gentrification; zoning plan; public-private ventures; globalization; constitutional rights
+
+SUMARIO
+INTRODUCCIÓN. I. UN MARCO TEÓRICO PARA LA COMPRENSIÓN DE LA GENTRIFICACIÓN COMO FENÓMENO JURÍDICO. A. Una aproximación conceptual a la naturaleza de la gentrificación. B. Características de la gentrificación. C. Causas y consecuencias de la gentrificación. II. DISEÑOS INSTITUCIONALES PARA LA INVERSIÓN DE CAPITAL PRIVADO EN LA GESTIÓN DEL TERRITORIO URBANO. EL CASO DE LA CIUDAD DE MEDELLÍN, COLOMBIA. A. Agencia para la gestión del paisaje, el patrimonio y las alianzas público-privadas. B. La gentrificación en el Plan de Ordenamiento Territorial de Medellín, Colombia. CONCLUSIONES Y RECOMENDACIONES. LOS RETOS QUE LA GLOBALIZACIÓN, EL CAPITAL PRIVADO Y EL DESARROLLO URBANO EN MEDELLÍN PROPONEN AL DERECHO. REFERENCIAS BIBLIOGRÁFICAS
+
+INTRODUCCIÓN
+La gentrificación puede definirse como un proceso de reestructuración de clase y de relaciones sociales en el espacio[ 1] caracterizado por la inversión de capital público o privado, el incremento del valor del suelo y los bienes y servicios, que fomenta la llegada de población de mayores ingresos y desemboca en la expulsión del habitante tradicional popular.[ 2] A pesar de que hace presencia en mayor medida en suelo urbano, también puede presentarse en suelo rural. De naturaleza compleja, relaciona aspectos espaciales, temporales y sociales,[ 3] y para algunos debe ser analizada a la par con el carácter extractivo del capitalismo contemporáneo.[ 4]
+
+La gentrificación puede incidir en los niveles de movilidad y desplazamiento intraurbano, la segregación socioespacial y el déficit de infraestructura y equipamiento para la prestación de servicios públicos. Así mismo, supone una tensión entre el desarrollo urbano y un conjunto de derechos constitucionales de distinta naturaleza: fundamentales, económicos, sociales, culturales y colectivos. En este sentido, analizar el proceso de gentrificación es explicar la transformación social y los cambios demográficos que operan principalmente en las áreas centrales de las ciudades,[ 5] la periferia urbana y las áreas periurbanas.
+
+La globalización puede definirse como un fenómeno político, social, económico y cultural en el que las fronteras o límites para la circulación de bienes y servicios, mercancías, personas, información, energía, residuos y otros elementos, se disuelven; las fronteras pierden su vocación de contenedores y operan, más bien, como zonas de buffer para el tránsito de todos aquellos elementos. Sobre este aspecto, el impacto del neoliberalismo se traduce en la tercerización de la economía, la producción flexible, la gestión proempresarial y el empresarialismo urbano.[ 6]
+
+Dentro de los elementos de la globalización quizás sean los capitales privados los que mayor movilidad representan en esta dinámica. Si bien el impacto de la circulación de capitales privados suele asociarse a bienes y servicios, las ciudades latinoamericanas han sufrido los impactos de la sustitución de la vocación económica de los territorios y la inversión de capital en el desarrollo urbano.[ 7] Así, algunos afirman que las ciudades de América Latina se enfrentan a una fase de modernización del capitalismo[ 8] y las colombianas no escapan a este proceso.
+
+Se reconocen por lo menos cinco nuevas tendencias constitutivas de esta nueva fase modernizadora: nuevas estructuras productivas y nuevas dinámicas urbanas; desregulación, mercados de trabajo y desigualdad social; negocios inmobiliarios y nuevos criterios urbanísticos; explosión de movilidad en la nueva morfología urbana y uniformización del paisaje urbano.[ 9]
+
+La ciudad de Medellín, Colombia, ha sufrido en los últimos años importantes procesos de mejoramiento integral y renovación urbanística, y ha planeado el desarrollo de macroproyectos. Esto ha impactado y espera impactar el sistema de movilidad, la oferta de espacio público y vivienda, la industria y el comercio, entre otros aspectos. En ese mismo sentido ha incluido dentro de su Plan de Ordenamiento Territorial[10] la implementación de la política de protección de moradores y prevenir o mitigar la gentrificación y, dentro de algunos de sus instrumentos de desarrollo, diseños institucionales para incentivar la inversión de capital privado en la ejecución de obras públicas. Esta situación plantea retos a la academia, el sector privado, el sector público y la comunidad en general. Entre ellos está evaluar los impactos de los procesos de transformación urbana propuestos en los instrumentos de planeación y gestión territorial sobre el régimen de derechos y garantías constitucionales. Sin embargo, los estudios sobre el fenómeno son escasos a nivel local.[11]
+
+El presente texto tiene como objetivos evaluar el estado del arte en relación con el fenómeno gentrificación en Medellín para la formulación de un marco de referencia teórico que permita interpretar la ocurrencia del fenómeno en la ciudad, a partir del análisis de la literatura existente sobre el tema y las disposiciones normativas en los órdenes nacional y local que permiten el diseño de dispositivos de inversión privada para el desarrollo urbano en Medellín, Colombia. Para ello se realizó un levantamiento de información documental en bases de datos especializadas, se procesó esta información mediante instrumentos de gestión de información documental y, en sesiones de trabajo, se discutió un marco teórico para la comprensión de la gentrificación como un fenómeno jurídico. Además de este marco teórico, se describe la regulación de la gentrificación en el Plan de Ordenamiento Territorial y el diseño institucional del municipio de Medellín para incentivar la inversión de capitales privados en el desarrollo urbano. Se concluye con el planteamiento de los retos que representa para el derecho el análisis de la gentrificación como fenómeno territorial consecuente con el proceso de globalización y los impactos de corte neoliberal que trae consigo este fenómeno. Para ello se analizaron los instrumentos de planificación y gestión territorial, particularmente el Plan de Ordenamiento Territorial de Medellín y los instrumentos de diseño institucional de la Agencia para la Gestión del Paisaje, el Patrimonio y las Alianzas Público-Privadas.[12]
+
+I. UN MARCO TEÓRICO PARA LA COMPRENSIÓN DE LA GENTRIFICACIÓN COMO FENÓMENO JURÍDICO
+Por gentrificación se ha entendido el fenómeno de sustitución poblacional y de actividades económicas de los territorios favoreciendo la movilidad de familias de mayores ingresos, atraídas por los procesos de renovación urbana y el consecuente desplazamiento de familias más pobres con ocasión del incremento de los valores de propiedad del suelo y de los bienes y servicios asociados al territorio. Al fenómeno se suman fuertes transformaciones urbanísticas, sociales, económicas y demográficas que acaecen en el territorio[13] acompañadas de la sustitución poblacional. Su reflexión comienza en la literatura anglosajona urbana de los años sesenta, acuñado por Glass,[14] quien lo relacionó con los procesos de renovación o rehabilitación de las propiedades en un área y su consecuente cambio en la composición social.[15]
+
+La apropiación del uso del concepto al contexto latinoamericano se ha dado desde diversas perspectivas teóricas y metodológicas; sin embargo, se aprecian particularidades que se diferencian del discurso anglosajón y que parten de las características propias del desarrollo de las ciudades latinoamericanas.[16] En tanto se hace necesario, el presente apartado se ocupa de ofrecer una definición del fenómeno gentrificación que permita determinar su naturaleza, características, causas y consecuencias y, de esta manera, identificar las relaciones que existen entre este fenómeno, los capitales privados y los derechos constitucionales. Esto último representa un aporte para los estudios de gentrificación en América Latina.
+
+A. Una aproximación conceptual a la naturaleza de la gentrificación
+Para definir la gentrificación puede apelarse a sus componentes objetivos o subjetivos. Desde el primero, se hace referencia a las condiciones espaciales y territoriales que determinan la ocurrencia del fenómeno, como los cambios de uso del suelo, el desarrollo inmobiliario para uso habitacional, construcción de equipamiento urbano (servicio, comercio, etc.), entre otros aspectos. Desde el segundo punto de vista, se atiende al carácter sociológico del proceso, los aspectos simbólicos de la transformación, la exclusión de espacios y prácticas de consumo, de relaciones sociales, vida cotidiana, etcétera.
+
+Objetivamente podría entenderse como el proceso mediante el cual barrios pobres y obreros espacialmente céntricos, se transforman por la llegada de clase media alta y capital privado.[17] Desde esta perspectiva, el centro de atención es el proceso de transformación espacial que padece el territorio. Para algunos, a pesar de que el fenómeno se relaciona fundamentalmente con el mercado inmobiliario y el acceso a la vivienda de pobladores de alto poder adquisitivo, el espacio público[18] y la movilidad[19] juegan un papel fundamental como objeto de transformación, donde se parte de la consideración del inadecuado uso de pobladores tradicionales y vulnerables. Ello deriva en la adopción de mecanismos de vigilancia, la criminalización de actividades y la implementación de programas de limpieza social.
+
+Por su parte, subjetivamente, la gentrificación podría ser entendida como un proceso de sustitución social.[20] Esto es, de desplazamiento de los habitantes tradicionales de sectores pauperizados, con ocasión del desarrollo de procesos de transformación territorial que impactan el valor del suelo y sustituyen rápidamente las fórmulas de intercambio de bienes y servicios y la llegada de población con mayor capacidad económica y de consumo de alto costo. Nótese que esta aproximación conceptual hace énfasis en el proceso de transformación del componente subjetivo del territorio.
+
+Desde estas perspectivas se debate el carácter positivo o negativo de la gentrificación. Así, se ha desarrollado teoría alrededor de la llamada "gentrificación positiva",[21] que destaca que los procesos de gentrificación son vistos con buenos ojos en tanto permiten la transformación de un territorio pauperizado, con déficit de infraestructura y equipamiento, que padece procesos de violencia e inseguridad y es precario en materia de salubridad. Por otro lado, la perspectiva crítica del concepto, en la que se inscribe el presente trabajo, hace evidente que este proceso forma parte de un revanchismo urbano,[22] en el que el capital y la población de ingresos medios y altos "regresan" a las áreas centrales de la ciudad. La gentrificación supone un proceso de sustitución poblacional en donde se ven desplazados los habitantes tradicionales para darle paso a nuevos habitantes con mayor poder adquisitivo, afectando, entre otras cosas, la garantía de derechos de los sujetos obligados a desplazarse.
+
+La postura crítica del proceso brinda elementos para acercarse al fenómeno de gentrificación desde el derecho; particularmente en relación con los derechos constitucionales que tienen que ver con el fenómeno. Así, desde la perspectiva objetiva, puede hacerse referencia a los derechos a la ciudad,[23] al medio ambiente sano, al espacio público, a la plusvalía o a la infraestructura de servicios. Desde la perspectiva subjetiva, puede hacerse referencia a derechos tales como la libertad de residencia, la vivienda, la libertad de empresa, el libre desarrollo de la personalidad, el mínimo vital, el trabajo, la identidad cultural o la educación.
+
+B. Características de la gentrificación
+El proceso de gentrificación ha sido objeto de preocupación por las ciencias sociales, en general, y por la geografía en particular, en los últimos años. Ello, entre otras razones, por ser un marco común a las urbes contemporáneas, lo que lo caracteriza como un fenómeno global y por suponer un proceso de presión de una clase sobre otra, que desemboca en un proceso de desplazamiento.[24] Esta presión se hace evidente, conforme a la clasificación supra, sobre el territorio –dimensión objetiva– o sobre los sujetos –dimensión subjetiva–. De acuerdo con las características puntuales del fenómeno esta puede denominarse como: gentrificación rural, estudiantil, de nuevas construcciones y turística.[25]
+
+Desde el punto de vista objetivo la gentrificación se caracteriza por la transformación espacial del territorio céntrico urbano desde la reconversión urbanística, la recalificación urbanística, la revalorización del precio, la variación en el régimen de propiedad, la modificación del paisaje urbano o rural, entre otros.[26] De esta forma, supone una decisión de política pública que viene formalmente acompañada de la expedición de instrumentos de planeación y gestión del suelo que la autorizan, fomentan o patrocinan.[27] De ahí que algunos afirmen que "la incidencia de la política en la gentrificación es alta",[28] y se exprese en la intervención en zonas centrales y su periferia inmediata que se consideran residuales, decaídas o problemáticas; que no es una estrategia exclusiva del capital financiero e inmobiliario sino que, además, es resultado de políticas de Estados proempresariales "para el restablecimiento del valor potencial económico de las economías urbanas locales y su captura por agentes del mercado".[29]
+
+Esto da cuenta del papel activo que cumplen los gobiernos locales, que contribuyen a la celeridad del proceso con el aumento del precio del suelo mediante la transformación de los espacios y alimentando la vocación de inversión del lugar y sus propietarios.[30] Se ratifica para algunos la tesis de politización-fragmentación de la metrópolis, que pone de manifiesto el papel del Estado como interventor para restringir o favorecer accesibilidades y apropiaciones del espacio urbano.[31]
+
+Desde el punto de vista subjetivo la gentrificación se caracteriza por el desplazamiento y expulsión del habitante tradicional –generalmente pobre y obrero–, y su reemplazo por habitantes de clase media o alta. Este fenómeno viene precedido de un incremento en el valor del suelo y los bienes y servicios asociados al territorio. Así mismo, viene acompañado de un importante proceso de inversión de capital privado. En ambos casos, la gentrificación se caracteriza por la acelerada valorización del suelo, el deterioro de los activos, la aparición de los procesos de libre mercado, el desplazamiento de la población de bajos recursos y la transformación de la deteriorada infraestructura urbana.[32]
+
+Si bien la gentrificación es producto de transformaciones de diversas dimensiones en lugares céntricos urbanizados, la movilidad social y el desplazamiento que la acompañan también hacen presencia en el sector rural. Allí el fenómeno se caracteriza por el incremento de la segunda residencia, la reconversión de la actividad agropecuaria por el sector terciario y la sustitución de la población local por habitantes citadinos con alto poder adquisitivo.[33]
+
+C. Causas y consecuencias de la gentrificación
+Bien que sea entendido desde una perspectiva objetiva o subjetiva, el proceso de gentrificación está motivado por la llegada al territorio de clase media alta o alta e inversión de capital en la recuperación de las deterioradas edificaciones aprovechando los bajos precios y la localización central.[34] Así mismo, de sectores productivos asociados a la cultura, el ocio y el arte[35] y a cambios de uso del suelo.[36] Se presenta de forma paralela a la Revolución Industrial en Europa y se recrudece con el capitalismo posfordista, la introducción de nuevas tecnologías de la información, la prestación de servicios, la modificación del rol productivo de la mujer y la globalización del capital financiero.[37]
+
+Para algunos casos de América Latina el proceso de gentrificación supone el suceso de tres etapas: desplazamiento, repoblación y revitalización. El primero de ellos se corresponde con el abandono de las clases altas y los sectores productivos del territorio urbano central, situación motivada por distintos factores, entre ellos: violencia, inseguridad, movilidad, pauperización, entre otros. Este proceso se manifiesta, fundamentalmente en el estado de dejadez de sus edificaciones.[38] El segundo, repoblación de clases populares y obreras, que aprovechan el abandono y los bajos precios, es motivado, entre otras cosas, por lo procesos de migración campo-ciudad y caracterizado por el uso colectivo de los inmuebles pauperizados o descuidados –vecindades–.[39] Finalmente, la revitalización económica, fenómeno central de la gentrificación, implica el proceso de inversión de capital privado y de sustitución social.
+
+Pero no son exclusivamente factores económicos –empleo e inversión de capital– los que determinan el desarrollo del proceso. La transformación de las estructuras familiares y la presencia de colectivos específicos inciden en las dinámicas gentrificadoras. Así la reducción del número de hijos por pareja, la aparición de familias monoparentales, el aumento de los índices de solteros y divorciados serán parte del primer factor. Los colectivos de homosexuales, dinámicas artísticas y culturales, entre otras, serán parte del segundo.[40]
+
+De modo que algunos distinguen dos líneas generales de actuación ante los procesos de gentrificación. Por un lado las dimensiones patrimonial y cultural, en cualquiera de sus expresiones, que se posicionan estratégicamente para convertir los barrios pauperizados y populares en lugares con atractivos turísticos. Por otro lado, la utilización de políticas gentrificadoras para desplazar economías informales y generar mercados funcionales a los procesos de reproducción del capital, en especial en el sector inmobiliario.[41]
+
+Las consecuencias del proceso gentrificador se expresan en dos dimensiones. En primer lugar, la transformación material y simbólica del territorio a partir de las intervenciones constructivas y de infraestructuras, el incremento de valor del suelo y de los bienes y servicios y el desplazamiento del habitante popular tradicional y su expulsión hacia la periferia urbana, dada la ausencia de vivienda, bienes y servicios asequibles.[42] En segundo lugar, la gentrificación desemboca en la pérdida de las cualidades, componentes y utilidades naturales, culturales, productivas, paisajísticas e históricas del territorio, que termina convertido en capital fijo y acumulativo regido por las leyes de circulación monetaria simple de la mercancía.[43]
+
+Este proceso de desplazamiento supone otros fenómenos asociados: el aumento de presión sobre la periferia y el aumento de la segregación socioespacial. La gentrificación obliga a los pobladores tradicionales a recurrir a la presión sobre la periferia urbana para reubicarse en el territorio urbano. Este proceso de ocupación de la periferia incrementa sus condiciones de pauperización en tanto implica mayor demanda de servicios ante la ya ineficiente o inexistente infraestructura y equipamiento para su satisfacción, radicalizando las condiciones de desarrollo incompleto de los asentamientos humanos receptores. Esto agrava el aislamiento de las víctimas de la pobreza urbana, que resultan expulsados de las áreas centrales de la ciudad y llegan a ocupar áreas periféricas.
+
+Así, podría afirmarse que el proceso de transformación territorial en sus dimensiones objetiva y subjetiva, que caracterizan a la gentrificación, tiene su origen o está potencializado por la existencia de dispositivos y diseños institucionales que promueven la inversión de capitales para la renovación urbana y, en ese sentido, el Estado es responsable de la prevención, mitigación y reparación de los daños que produce el fenómeno. De acuerdo con lo anterior, se analizará, según las normativas nacional y local vigentes para Medellín, Colombia, la existencia de mecanismos y diseños institucionales que, en procura de la inversión de capital privado para el desarrollo urbano, potencialicen la aparición de procesos de gentrificación y los dispositivos de la ciudad para prevenir, mitigar y reparar las consecuencias negativas que produce el hecho.
+
+II. DISEÑOS INSTITUCIONALES PARA LA INVERSIÓN DE CAPITAL PRIVADO EN LA GESTIÓN DEL TERRITORIO...
+La gentrificación suele requerir un proceso previo de pauperización del territorio expresado en la desinversión en infraestructura y equipamiento, de tal suerte que la renovación urbana se vuelva atractiva para el inversor. Este ciclo de desplazamiento, repoblación y revitalización les entrega a las autoridades públicas en general, y en particular a las de planeación y gestión del suelo, un rol protagónico. Es así como en el contexto latinoamericano el papel de las autoridades ha sido fundamental para la producción del fenómeno. En Medellín, por ejemplo, el olvido al que han sido sometidos los territorios de la periferia urbana en las laderas occidental y oriental ha condenado a sus habitantes a padecer déficit en la infraestructura y equipamientos para la prestación de servicios públicos, la segregación socioespacial y la estigmatización territorial. Ello ha motivado el desarrollo de proyectos de inversión de capital público en proyectos de renovación urbana que se han descrito como exitosos (Proyectos Urbanos Integrales [PUI]) y de capital privado en planes parciales de renovación urbana. Algunos estudios, por ejemplo, han logrado identificar la relación entre el proceso, los agentes y las políticas de renovación urbana con la emergencia del proceso de gentrificación en algunas ciudades latinoamericanas.[44]
+
+Algunas ciudades de Latinoamérica han venido soportando procesos de reestructuración urbana acorde con las lógicas neoliberales de producción del espacio urbano.[45] Estos procesos han permitido la apropiación del capital privado de espacios dotados de infraestructura pública sometidos a un histórico olvido en la inversión pública; esto se denomina "desiertos institucionales".[46] Esta apropiación ha desembocado en procesos de gentrificación –sustitución de población y de las actividades económicas ligadas al territorio–, determinados por la captura desigual de la renta del suelo urbano.[47]
+
+La implementación de medidas económicas urbanas neoliberales no actúa de forma autónoma. Para que el proceso resulte exitoso se requiere de importantes transformaciones sociales y políticas que lo acompañen. La conjugación entre estos fenómenos –las transformaciones económicas, sociales y políticas– ha permitido la reconquista de los centros urbanos a manos de las clases acomodadas.[48] Así, las dimensiones simbólicas que favorecen la gentrificación pueden sintetizarse en:
+
+La transición hacia una economía de servicios, las nuevas actividades comerciales y nuevos tipos y formas organizativas del trabajo [que] implican que barrios anteriormente degradados se hayan reconvertido en "contenedores" que tienen una importancia simbólica para la economía del conocimiento.[49]
+
+La sustitución de actividades económicas ligadas al territorio parece ser una determinante del proceso. Por ello, el tránsito hacia actividades del sector terciario de la economía,[50] sustituyendo las actividades de producción de materias primas y su transformación para la producción de bienes o mercancías, en favor de actividades comerciales y de servicio, está catalizado por los procesos de inversión de capitales privados, interesados, en ese sentido, en la renovación de sectores precarizados. Ello ha dado lugar a la propuesta de una categoría especial para referir este particular proceso: gentrificación productiva.[51]
+
+El papel de las autoridades públicas ante este fenómeno puede analizarse en dos frentes: por un lado, su papel activo en la creación de condiciones para el fomento y atracción de la inversión de capitales privados en el diseño y ejecución de proyectos de desarrollo urbano, mediante diseños institucionales. Por otro lado, su obligación de diseñar instrumentos que permitan la prevención, mitigación y reparación de los impactos negativos y la promoción de los impactos positivos –suponiendo que existan– que producen la revitalización del territorio con la inversión de capitales privados en los proyectos de desarrollo urbano.
+
+En el presente apartado se describe la estrategia prevista por la ciudad de Medellín para la ejecución de proyectos urbanos que revitalicen la vocación económica del territorio municipal mediante la participación de capitales privados y las herramientas de prevención y mitigación de las consecuencias negativas de este proceso, con fundamento en la previa reflexión sobre el papel del capital privado en la cualificación del espacio urbano.
+
+A. Agencia para la gestión del paisaje, el patrimonio y las alianzas público-privadas
+En relación con el primer rol propuesto, esto es, su responsabilidad en la creación de diseños institucionales para el fomento de la inversión de capitales privados, Medellín mediante el artículo 338 del Decreto 1364[52] creó la Agencia para las Alianzas Público- Privadas (APP), como una unidad administrativa especial del orden municipal, con personería jurídica, autonomía administrativa, financiera y presupuestal, y patrimonio propio, adscrita a la Secretaría Vicealcaldía de Ciencia, Tecnología e Innovación, Desarrollo Económico, Internacionalización y Alianzas Público-Privadas.
+
+El objetivo de esta agencia, conforme al artículo 340 del Decreto 1364, es:
+
+Fomentar la incorporación de capitales privados a proyectos de inversión de beneficio público que busquen el mejoramiento integral en las condiciones de vida de los habitantes de la ciudad, mediante la incorporación de estrategias, instrumentos y mecanismos de relacionamiento entre el municipio de Medellín y sus entidades descentralizadas con entidades privadas, generando la confianza necesaria para el éxito.
+
+Ello implica una participación importante del sector privado en la provisión de bienes y servicios públicos que supone una retención y transferencia de riesgos entre el sector público y la empresa privada.
+
+Más adelante el Decreto 883 de 2015[53] en su artículo 351 modificó la agencia en su denominación, estructura y funciones: pasó a denominarse Agencia para Gestión del Paisaje, el Patrimonio y las Alianzas Público-Privadas y a estar adscrita a la Secretaría Vicealcaldía de Planeación y Gestión Territorial. Su objeto, definido por el artículo 353 del Decreto 883, es:
+
+[...] gestionar y promover las acciones que garanticen la cualificación, sostenibilidad y mantenimiento del sistema público y colectivo definido por el Plan de Ordenamiento Territorial, enfocándose al espacio público de esparcimiento y encuentro, paisaje, patrimonio, los equipamientos y demás bienes fiscales que hagan parte de los correspondientes proyectos; realizar la gestión requerida para promover la generación o incremento de recursos a través de la implementación y gestión de los instrumentos financieros definidos en el POT y fomentar la incorporación de capitales privados a proyectos de inversión de beneficio público.
+
+En relación con este último elemento de su objeto, el artículo 354 del Decreto 883 dispone que dentro de las funciones de la agencia está la concreción de negocios y demás que posibiliten generar ingresos, entre otras, mediante APP, y fomentar la inversión de capital privado en los proyectos de ciudad que busquen un mejoramiento de la calidad de vida de todos los habitantes.
+
+En términos generales, conforme con lo afirmado por el Gobierno municipal, la agencia tiene dentro de sus objetivos la promoción, desarrollo y gestión de proyectos de impacto social y económico que permitan, entre otras cosas, la cualificación del paisaje y del patrimonio y la vinculación de capitales privados para la estructuración de los proyectos.
+
+La Ley 1508[54] estableció en Colombia el régimen jurídico de las Asociaciones Público- Privadas. Su artículo 1 las define como un instrumento de vinculación de capital privado para la provisión de bienes públicos y sus servicios relacionados. Conforme al mismo artículo 1 de la Ley, esta vinculación se materializa en un contrato entre una entidad estatal y una persona de derecho privado. Según el artículo 4, los principios aplicables a los esquemas de asociación público-privada son los mismos de la función administrativa, los de la contratación pública y los de la sostenibilidad fiscal.[55] Así mismo, el artículo 14 de la Ley faculta a los particulares para estructurar proyectos de infraestructura o de prestación de servicios asociados a esta, por su propia cuenta y riesgo, cuando estos asuman todos los costos.[56]
+
+El municipio de Medellín responde institucionalmente al proceso de inserción de la ciudad y la gestión del territorio a la lógica del mercado neoliberal. Los diseños institucionales se hacen necesarios como estrategia para la atracción de capital privado y la garantía de seguridad jurídica para la inversión de recursos.
+
+B. La gentrificación en el Plan de Ordenamiento Territorial de Medellín, Colombia
+Medellín ha venido adoptando atrevidos y vanguardistas programas de mejoramiento barrial que han institucionalizado el reasentamiento de población pobre que ocupa áreas "estratégicas" de la ciudad. Con fundamento en el bien común y el interés colectivo, se ha definido una planeación urbana que ha desembocado en el desplazamiento de la población de bajos ingresos y vulnerable, mediante el reasentamiento o la expropiación, en tanto los barrios centrales que habitan se destinan a otros usos por causa del "interés público".[57]
+
+Ante esta situación, no es extraña la preocupación del municipio de Medellín por prevenir el desplazamiento de moradores y actividades económicas en el marco de los proyectos de ciudad. Algunos estudios han demostrado que la gentrificación, si bien puede entenderse como una estrategia de solución a los problemas de degradación del espacio y descomposición social, encierra estrategias de incorporación de mecanismos del capitalismo que buscan rendimientos a corto plazo.[58] De forma que, estas estrategias impactan la permanencia de grupos poblacionales con condiciones económicas vulnerables en los territorios intervenidos y les condena a desplazarse a la periferia urbana, caracterizada por la precariedad e inexistencia de infraestructura y equipamiento para la prestación de servicios públicos y la satisfacción de las necesidades individuales y colectivas de quienes se asientan en ellas.
+
+En este sentido, el artículo 575 del Plan de Ordenamiento Territorial de Medellín,[59] Colombia, regula la implementación de la política de protección a moradores. Esta debe articularse a la gestión urbanística e inmobiliaria de macroproyectos y procesos de renovación urbanística, mejoramiento integral y demás instrumentos de planeación y gestión complementaria, como gestión social. Debe partir del análisis del riesgo social y económico asociado al desarrollo urbano, de tal forma que sea posible identificar la realidad de los grupos sociales, la magnitud y la dinámica de las actividades productivas de la población.
+
+Estas estrategias están orientadas al desarrollo de medidas preventivas que ayuden a proteger y potenciar estas actividades. Dentro de las acciones previstas por estas políticas se encuentra la prevención de gentrificación. El numeral 1 del artículo 575 del POT dispone:
+
+Los instrumentos de planificación complementaria se formularán incorporando este criterio [gentrificación] con el fin de que con sus planteamientos se evite la expulsión de la población y de las actividades económicas por efectos del desarrollo urbano en las Áreas de Intervención Estratégica en las cuales se espera una alta transformación de la ciudad y, especialmente, en las áreas de Renovación Urbana. En algunos sectores, con esta línea de acción se podrá potenciar la gestión del suelo, mediante la participación de las comunidades y propietarios del suelo y de las actividades económicas existentes en el desarrollo urbano, al utilizar sus capacidades sociales y económicas en beneficio de ellos y de la renovación urbana.
+
+De acuerdo con el texto normativo puede afirmarse que la disposición combina las dimensiones objetiva y subjetiva de la gentrificación, en tanto relaciona la expulsión de la población y de las actividades económicas, sobre las áreas de renovación urbana. A esta estrategia articula acciones orientadas al análisis en las unidades económicas, sobre la propiedad privada, el acompañamiento y la gestión social, el análisis de la oferta institucional y las compensaciones. Entendiendo que el fenómeno no es exclusivo de las áreas urbanas, le asigna un alcance urbano y rural, en todo tipo de proyectos y de manera individual y colectiva, articulado con instrumentos económicos, jurídicos y socioeconómicos –artículo 576 del POT–.
+
+De esta forma el municipio de Medellín responde a los retos que impone la prevención y mitigación de los impactos que objetiva y subjetivamente, en clave de gentrificación, producen los procesos de intervención sobre el territorio en la lógica del mercado. El diseño de estrategias que atiendan los procesos de gentrificación demanda la creación de mecanismos democráticos, sostenibles y de alto contenido social que les permita a las poblaciones y las actividades económicas asociadas al territorio, mantenerse incólumes ante la presión de la inversión de capital y la renovación urbana.
+
+CONCLUSIONES Y RECOMENDACIONES. LOS RETOS QUE LA GLOBALIZACIÓN, EL CAPITAL PRIVADO Y EL DESAR...
+La gentrificación es un fenómeno territorial que relaciona la inversión de capital, los procesos de transformación urbana, los valores del suelo y los bienes y servicios y la sustitución poblacional y de actividades económicas asociadas al territorio. Desde su dimensión objetiva implica una transformación físico-espacial de un territorio y el aumento del valor del suelo y los bienes y servicios asociados a él. Desde su dimensión subjetiva implica un proceso de sustitución poblacional: expulsión de la población que tradicionalmente ha ocupado el territorio y llegada de nueva población con mayor capacidad de consumo. Esta segunda dimensión del fenómeno se ha interpretado como una consecuencia que tiene su origen en la captura desigual de la renta urbana.
+
+De acuerdo con lo anterior, la gentrificación está estrechamente ligada al proceso de globalización económica, las estrategias neoliberales de producción del suelo urbano, el incentivo a la inversión de capitales privados en el desarrollo urbano y en la producción de bienes y servicios, a la captura y privatización de la renta del suelo urbano y, de manera particular para el presente análisis, al papel del Estado como actor principal en la articulación de las transformaciones urbanas. A estos fenómenos ha obedecido, entre otras, el proceso de evolución del derecho urbanístico en Colombia, de tal suerte que la normativa que regula los fenómenos asociados al desarrollo del territorio ha venido incorporando instituciones, herramientas técnicas, procedimientos y competencias que se ajusten a la dinámica económica.[60]
+
+Graph: Cuadro 1
+
+Graph: Cuadro 2
+
+A las relaciones entre las características del territorio, el valor del suelo y los inversores privados, se les unen las responsabilidades de las autoridades, que con sus actuaciones producen las condiciones formales e incentivan la ejecución de acciones materiales para la producción del proceso gentrificador. La participación de las autoridades gira en torno a dos procesos: la producción de diseños institucionales para incentivar la inversión de capital privado en el desarrollo urbano y el diseño de mecanismos y procedimientos para la prevención, mitigación y reparación del impacto gentrificador que produce el desarrollo urbano. De allí que para ellas deriven responsabilidades, no solo en la adecuación de estructuras institucionales que regulen y controlen la inyección de capitales al desarrollo de proyectos de desarrollo urbano, sino, y más importante aún, en el diseño de estrategias para prevenir, mitigar y reparar los impactos negativos de este proceso.
+
+En la producción de la gentrificación juegan un papel fundamental las políticas de planeación y gestión urbana. Es así como los instrumentos de planeación y gestión han reconocido los impactos negativos del fenómeno y definido estrategias de prevención, mitigación y reparación de los impactos expulsores sobre las actividades económicas y las personas. Sin embargo, a la par que se definen estrategias de prevención y atención del fenómeno, se realizan y promueven diseños institucionales que incentivan la inversión de capitales privados en la producción del suelo urbano.
+
+Así, el municipio de Medellín cuenta con la Agencia para la gestión del Paisaje, el Patrimonio y las Alianzas Público-Privadas, como plataforma que, entre otras cosas, gestiona la inversión de capital privado en obras y servicios públicos urbanos. Por otro lado, con su principal instrumento de planeación urbana, el Plan de Ordenamiento Territorial, establece mecanismos de prevención y mitigación de los impactos negativos que produce el desarrollo urbano: la política de protección a moradores y el principio de prevención de la gentrificación.
+
+Graph: Cuadro 3
+
+Graph: Cuadro 4
+
+Esto obliga a pensar en las tensiones y en los importantes retos que, al parecer, se le presentan al derecho público en el contexto de la globalización y el neoliberalismo; sobre todo cuando aquellas se han resuelto en favor de la adopción de fórmulas nacidas en las plataformas del derecho privado y las estrategias financieras globales, para la gestión de los asuntos públicos.
+
+De todo lo expuesto puede anticiparse la necesidad de desarrollar procesos de investigación que den cuenta, en primer lugar, de la existencia de condiciones que alientan el fenómeno de gentrificación; en segundo lugar, la identificación de porciones del territorio que puedan estar amenazadas por este fenómeno; en tercer lugar, la caracterización de los territorios urbanos y rurales amenazados para, finalmente, definir criterios y líneas de acción articuladas a los instrumentos de planeación y gestión que prevengan y atiendan el fenómeno.
+
+Paralelo a este proceso, deben identificarse las tensiones entre los derechos que fundamentan los proyectos de renovación urbana y los derechos constitucionales afectados por las dimensiones objetivas y subjetivas de la gentrificación.
+
+Graph: Cuadro 5
+
+Así mismo, deben identificarse los mecanismos de garantía y protección de estos derechos y, de no ser adecuados, eficientes y efectivos, deben adecuarse o crearse diseños institucionales y dispositivos judiciales, cuasijudiciales y administrativos destinados a la prevención, mitigación y reparación de los daños producidos por la gentrificación.
+
+Este trabajo deberá estar en manos de grupos interdisciplinarios que permitan el levantamiento, procesamiento y análisis de datos de distinta naturaleza (jurídicos, políticos, económicos, sociológicos, geográficos, entre otros) y la atención del fenómeno en todas sus dimensiones: en últimas, una estrategia local, metropolitana y regional, para la atención de un fenómeno global.
+
+Agradecimientos
+Producto del proyecto de investigación Observatorio Regional del Paisaje, ejecutado durante el año 2015 con financiación de la Universidad Pontificia Bolivariana, sede Medellín. En la elaboración de este trabajo participaron los miembros del Semillero de Investigación Territorio, Políticas Públicas y Derecho de la línea Derecho, Sociedad y Contexto del Grupo de Investigaciones en Derecho de la Universidad Pontificia Bolivariana, sede Medellín – Colombia: Mariana Martínez-Gómez, Maria Paulina Aguilar Salazar, José Luís Zuluaga-Pérez, Juan Pablo Marín Sierra, Daniel Bernal-Jiménez, Adriana Isabel Naranjo-Agámez, Daniela Beatriz Díazgranados-Ojeda, Marlon Vargas Patiño, Gabriela Patiño Esparza, Isabela Ospina Sosa, Desrith Diesnet Bent Lever y Paula Cathalina González González.
+
+Notas
+1 LUIS ALBERTO SALINAS-ARREORTÚA, Transformación de mercados municipales de Madrid. De espacio de consumo a espacio de esparcimiento, 31, Revista INVI, 86, 179-201 (2016).
+
+2 LORETTA LESS, TOM SLATER & ELVIN WYLY, Gentrification (Routledge, New York, 2008).
+
+3 RICARDO DUQUE-CALVACHE, La sombra de la gentrificación (Working Paper Series Contested Cities, 14008, 2014).
+
+4 MICHAEL JANOSCHKA & JORGE SEQUERA, Procesos de gentrificación y desplazamiento en América Latina, una perspectiva comparativista, en Desafíos metropolitanos. Un diálogo entre Europa y América Latina, 82-104, (JUAN JOSÉ MICHELINI, ed., Catarata, Madrid, 2014).
+
+5 MARTÍN MANUEL CHECA-ARTASU, Gentrificación y cultura: algunas reflexiones, XVI, Revista Bibliográfica de Geografía y Ciencias Sociales, 914, 1-37 (2011).
+
+6 A propósito de este fenómeno, LUIS ALBERTO SALINAS-ARREORTUA, Empresarialismo y transformación urbana: el caso de la Ciudad de México, Revista Andaluza de Ciencias Sociales, 59-74 (2014), ANTÒNIA CASELLAS & CARLOS VERGARA-CONSTELA, Políticas estatales y transformación urbana: ¿Hacia un proceso de gentrificación en Valparaíso Chile?, EURE, 123-144 (2016) y JOAQUIM RIUS-ULLDEMOLINS & LADYS POSSO JIMÉNEZ, Cultura, transformación urbana y empoderamiento ciudadano frente a la gentrificación. Comparación entre el caso de Getsemaní (Cartagena de Indias) y el Raval (Barcelona), EURE, 97-122 (2016).
+
+7 El análisis realizado por Harvey del proceso de neoliberalización en las ciudades resulta interesante. El autor sostiene: "El Gobierno de la ciudad se organizó cada vez más como una entidad empresarial en lugar de socialdemócrata o siquiera gerencial. La competencia interurbana por el capital de inversión transformó al Gobierno en un modelo de gestión urbano en torno a asociaciones público-privadas. Las empresas municipales comenzaron a dirigirse de manera progresiva a puerta cerrada, mientras se desvanecía el contenido democrático y representativo de la forma de gobierno". DAVID HARVEY, Breve historia del neoliberalismo (Akal, Madrid, 2007).
+
+8 CARLOS A. MATTOS, Modernización capitalista y transformación metropolitana en América Latina: cinco tendencias constitutivas, en América Latina: cidade, campo e turismo, 41-73 (AMALIA INÉS GERAIGES DE LEMOS. MÓNICA ARROYO & MARÍA LAURA SILVEIRA, eds., Consejo Latinoamericano de Ciencias Sociales, Sao Pablo, [Clacso], 2006).
+
+9 CARLOS VERGARA-CONSTELA, Gentrificación y renovación urbana. Abordajes conceptuales y expresiones en América Latina, 33, Anales de Geografía, 1, 219-234, 21 (2013).
+
+Concejo Municipal de Medellín, Acuerdo 048 de 2014, por medio del cual se adopta la revisión y ajuste de largo plazo del Plan de Ordenamiento Territorial del Municipio de Medellín y se dictan otras disposiciones complementarias, 4267 Gaceta Oficial, 17 de diciembre de 2014.
+
+Algunos estudios han demostrado la relación entre los procesos de renovación urbana y la gentrificación: "Luego de la revisión de algunos de los impactos del nuevo modelo socioeconómico global en la dinámica social y urbana; elementos de la relación ente planes de renovación urbana y gentrificación y abordajes conceptuales provenientes de las principales investigaciones realizadas en ciudades europeas, norteamericanas y latinoamericanas, podemos reconocer la existencia de cuatro grandes dimensiones que, en su integralidad y capacidad de interrelación, son atingentes para el estudio de la gentrificación, a propósito de los planes de renovación urbana en determinadas zonas de la ciudad. Expulsión de residentes de menores ingresos, alza del precio del suelo, transformación del uso del suelo y transformación del paisaje urbano, van marcando las transformaciones de las ciudades, a raíz de la gentrificación y la renovación urbana". CARLOS VERGARA-CONSTELA, Gentrificación y renovación urbana. Abordajes conceptuales y expresiones en América Latina, 33, Anales de Geografía, 1, 219-234, 21 (2013).
+
+Alcaldía de Medellín, Decreto 883 de 2015, por el cual se adecúa la estructura de la Administración Municipal de Medellín, las funciones de sus organismos, dependencias y entidades descentralizadas, se modifican unas entidades descentralizadas y se dictan otras disposiciones, 3 de junio de 2015 y Alcaldía de Medellín, Decreto 1364 de 2012, por el cual se adopta la Estructura de la Administración Municipal, se definen las funciones de sus organismos y dependencias, se crean y modifican unas entidades descentralizadas y se dictan otras disposiciones, 4087, Gaceta Oficial, 9 de septiembre de 2012.
+
+IBÁN DÍAZ-PARRA, Viaje solo de ida. Gentrificación e intervención urbanística en Sevilla, 41, EURE, 122, 1-18 (2015).
+
+RUTH GLASS, London: Aspects of Change (University College, London, 1964).
+
+GEMMA CÁNOVES-VALIENTE & ASUNCIÓN BLANCO-ROMERO, Teletrabajo, género y gentrificación o elitización en los espacios rurales: nuevos usos y nuevos protagonistas. Los casos de Cataluña y Ardéche (Francia), Geographicalia, 50, 27-44 (2006).
+
+MICHAEL JANOSCHKA, JORGE SEQUERA & LUIS SALINAS, Gentrificación en España y América Latina. Un diálogo crítico, Revista de Geografía Norte Grande, 58, 7-40 (2014).
+
+NEIL SMITH, Gentrification, the frontier and the restructuring of urban space, en Readings in Urban Theory, 260-277 (SUSAN S. FAINSTEIN & SCOTT CAMPBELL, eds., Blackwell, Cambridge, 1996A).
+
+URIEL MARTÍNEZ-RAMÍREZ, Proceso de gentrificación y desplazamiento en el espacio público del centro de la Ciudad de México (Working Paper Series Contested Cities, 15006, 2015).
+
+JORGE BLANCO, RICARDO APAOLAZA, LUCIANA. BOSOER & ARIEL GONZÁLEZ, Movilidades, desplazamientos y territorios: algunos aportes para el debate de la gentrificación (Working Paper Series Contested Cities, 15004, 2015).
+
+AMPARO DE URBINA-GONZÁLEZ, El Centro Histórico de Bogotá "de puertas para adentro": ¿el deterioro del patrimonio al servicio de la gentrificación?, 5, Cuadernos de Vivienda y Urbanismo, 9, 46-69 (2012).
+
+FRANCISCO SABATINI E ISABEL BRAIN, La segregación, los guetos y la integración social urbana: mitos y claves, EURE, 103, 5-26 (2008) y FRANCISCO SABATINI, LUIS RIZZI, L., GONZALO CUBILLOS, ALEJANDRO ARAVENA, ISABEL BRAIN & PÍA MORA, Aprovechar el potencial gentrificador de la infraestructura urbana de línea para la renovación y reactivación de barrios vulnerables mediante coordinación intersectorial, en Camino al Bicentenario. Propuestas para Chile, 123-153 (Pontificia Universidad Católica de Chile, Santiago, 2014).
+
+NEIL SMITH, The New Urban Frontier: Gentrification and the Revanchist City (Routledge, London, 1996B).
+
+El análisis crítico de los debates en España y América Latina podría invalidar y deslegitimar cualquier visión acrítica de la gentrificación que indique los efectos positivos de las políticas de renovación en cualquiera de las ciudades que se examinan. Al contrario, amplía las reflexiones críticas, como por ejemplo los debates acerca del derecho a la ciudad y esto ocurre especialmente en relación con el papel que tiene el espacio público para las políticas e intervenciones urbanas y, por ende, para la gentrificación. MICHAEL JANOSCHKA, JORGE SEQUERA & LUIS SALINAS, Gentrificación en España y América Latina. Un diálogo crítico, Revista de Geografía Norte Grande, 58, 7-40, 26 (2014).
+
+MARTÍN MANUEL CHECA-ARTASU, Gentrificación y cultura: algunas reflexiones, XVI, Revista Bibliográfica de Geografía y Ciencias Sociales, 914, 1-37 (2011).
+
+JORGE SEQUERA, A 50 años del nacimiento del concepto 'gentrificación'. La mirada anglosajona, XX, Revista Bibliográfica de Geografía y Ciencias Sociales, I, 1-23 (2015).
+
+MARTÍN MANUEL CHECA-ARTASU, Gentrificación y cultura: algunas reflexiones, XVI, Revista Bibliográfica de Geografía y Ciencias Sociales, 914, 1-37 (2011).
+
+ESTEVE DOT-JUTGLA, ANTÒNIA CASELLAS & MONSERRAT PALLARES-BARBERA, Estrategia de regeneración urbana y procesos de gentrificación en el distrito Tecnológico de Barcelona. Globalización económica: Amenazas y oportunidades para los territorios, en III Jornadas de Geografía Económica, 109-118 (Valencia, 2008).
+
+ERNESTO LÓPEZ-MORALES, Gentrificación y desplazamiento en América Latina: tres factores causales conectados (Working Paper Series Contested Cities, 3, 15003, 2015).
+
+ERNESTO LÓPEZ-MORALES, Gentrificación y desplazamiento en América Latina: tres factores causales conectados (Working Paper Series Contested Cities, 9, 15003, 2015).
+
+MARTÍN MANUEL CHECA-ARTASU, Gentrificación y cultura: algunas reflexiones, XVI, Revista Bibliográfica de Geografía y Ciencias Sociales, 914, 1-37 (2011).
+
+MÓNICA BEATRIZ LACARRIEU, MARÍA FLORENCIA GIROLA, ANA GRETEL THOMASZ, MARÍA PAULA YACOVINO, VANINA LEEKERMAN & MARÍA EUGENIA CROVARA, Procesos de recualificación y relegación en la ciudad de Buenos Aires. Repensando la noción ciudad-fragmento y la despolitización de lo urbano, 24, Argumentos, 66, 15-35 (2011).
+
+AMPARO DE URBINA GONZÁLEZ, El Centro Histórico de Bogotá "de puertas para adentro": ¿el deterioro del patrimonio al servicio de la gentrificación?, 5, Cuadernos de Vivienda y Urbanismo, 9, 46-69 (2012).
+
+GEMMA CÀNOVES-VALIENTE & ASUNCIÓN BLANCO ROMERO, Teletrabajo, género y gentrificación o elitización en los espacios rurales: nuevos usos y nuevos protagonistas. Los casos de Cataluña y Ardéche (Francia), Geographicalia, 50, 27-44 (2006).
+
+AMPARO DE URBINA GONZÁLEZ, El Centro Histórico de Bogotá "de puertas para adentro": ¿el deterioro del patrimonio al servicio de la gentrificación?, 5, Cuadernos de Vivienda y Urbanismo, 9, 46-69 (2012).
+
+MARTÍN MANUEL CHECA-ARTASU, Gentrificación y cultura: algunas reflexiones, XVI, Revista Bibliográfica de Geografía y Ciencias Sociales, 914, 1-37 (2011).
+
+LUIS ALBERTO SALINAS ARREORTUA, Empresarialismo y transformación urbana: El caso de la Ciudad de México, Revista Andaluza de Ciencias Sociales, 13, 59-74 (2014).
+
+AMPARO DE URBINA-GONZÁLEZ, El Centro Histórico de Bogotá "de puertas para adentro": ¿el deterioro del patrimonio al servicio de la gentrificación?, 5, Cuadernos de Vivienda y Urbanismo, 9, 46-69 (2012). Para algunos autores los estudios sobre gentrificación en América Latina se concentran en el análisis de sus causas y sus consecuencias estructurales. Estas están asociadas a transformaciones socioeconómicas en la estructura productiva y financiera de las ciudades, incluso de las economías locales en las nacionales. ERNESTO LÓPEZ-MORALES, Gentrificación y desplazamiento en América Latina: tres factores causales conectados (Working Paper Series Contested Cities, 15003, 2015). Para otros, la gentrificación tiene como centro de atención la diferencia de renta en función de los procesos de desinversión, la baja renta del suelo y el descenso de los precios de compra y alquiler. DIEGO PERIS-LÓPEZ, El caso Triball en número. 1, 2, 3. Abandono, especulación, expulsión: gentrificación (Workin Paper Series Contested Cities, 14003, 2014).
+
+ANA I. FERNÁNDEZ-MORENO, «Arts-Led»: reinventando las ciudades del siglo XXI, Revista de Urbanismo, 32, 1-21 (2012).
+
+IBÁN DÍAZ-PARRA, La transformación del centro histórico de la Ciudad de México. ¿Gentrificación o repoblación?, en XII Coloquio y Trabajos de Campo del Grupo de Geografía Urbana (AGE). Territorios inconclusos y sociedades rotas, 1-10 (AGE, Madrid y Castilla La Mancha, 2014).
+
+MARTÍN MANUEL CHECA-ARTASU, Gentrificación y cultura: algunas reflexiones, XVI, Revista Bibliográfica de Geografía y Ciencias Sociales, 914, 1-37 (2011).
+
+MICHAEL JANOSCHKA & JORGE SEQUERA, Procesos de gentrificación y desplazamiento en América Latina, una perspectiva comparativista, en Desafíos metropolitanos. Un diálogo entre Europa y América Latina, 82-104 (JUAN JOSE MICHELINI, ed., Catarata, Madrid, 2014).
+
+ANA I. FERNÁNDEZ-MORENO, «Arts-Led»: reinventando las ciudades del siglo XXI, Revista de Urbanismo, 32, 1-21 (2012).
+
+DIEGO PERIS-LÓPEZ, El caso Triball en número. 1, 2, 3. Abandono, especulación, expulsión: gentrificación (Workin Paper Series Contested Cities, 14003, 2014).
+
+ANTÒNIA CASELLAS & CARLOS VERGARA-CONSTELA, Políticas estatales y transformación urbana: ¿Hacia un proceso de gentrificación en Valparaíso, Chile?, 42, EURE, 126, 123-144 (2016).
+
+ERNESTO LÓPEZ-MORALES, IVO GASIC-KLET & DANIEL MEZA-CORVALÁN, Captura desigual de renta de suelo y desplazamiento exclusionario. Indicadores generales del proceso de gentrificación en Santiago de Chile, 2000-2012, 16, Cadernos Metrópole, 32, 565-586 (2014).
+
+LOÏC WACQUANT, Los condenados de la ciudad (Siglo V Editores, Buenos Aires, Argentina, 2013).
+
+ERNESTO LÓPEZ-MORALES, IVO GASIC-KLET & DANIEL MEZA-CORVALÁN, Captura desigual de renta de suelo y desplazamiento exclusionario. Indicadores generales del proceso de gentrificación en Santiago de Chile, 2000-2012, 16, Cadernos Metrópole, 32, 565-586 (2014).
+
+MICHAEL JANOSCHKA, JORGE SEQUERA & LUIS SALINAS, Gentrificación en España y América Latina. Un diálogo crítico, Revista de Geografía Norte Grande, 58, 7-40 (2014).
+
+MICHAEL JANOSCHKA, JORGE SEQUERA & LUIS SALINAS, Gentrificación en España y América Latina. Un diálogo crítico, Revista de Geografía Norte Grande, 58, 7-40, 26 (2014).
+
+Actividades que no producen una materia prima ni un bien o mercancía, pero son necesarias para el movimiento de la economía.
+
+ESTEVE DOT-JUTGLA, ANTÒNIA CASELLAS & MONSERRAT PALLARES-BARBERA, Estrategia de regeneración urbana y procesos de gentrificación en el distrito Tecnológico de Barcelona. Globalización económica: Amenazas y oportunidades para los territorios, en III Jornadas de Geografía Económica, 109-118 (Valencia, 2008).
+
+Alcaldía de Medellín, Decreto 1364 de 2012, por el cual se adopta la estructura de la administración municipal, se definen las funciones de sus organismos y dependencias, se crean y modifican unas entidades descentralizadas y se dictan otras disposiciones, 4087 Gaceta Oficial, 9 de septiembre de 2012.
+
+Alcaldía de Medellín, Decreto 883 de 2015, por el cual se adecúa la estructura de la Administración Municipal de Medellín, las funciones de sus organismos, dependencias y entidades descentralizadas, se modifican unas entidades descentralizadas y se dictan otras disposiciones, 3 de junio de 2015.
+
+Colombia, Ley 1508 de 2012, por la cual se establece el régimen jurídico de las Asociaciones Público Privadas, se dictan normas orgánicas de presupuesto y se dictan otras disposiciones, 48308 Diario Oficial, 10 de enero de 2012.
+
+Ley 1508, artículo 4°. Principios generales. A los esquemas de asociación público-privada les son aplicables los principios de la función administrativa, de contratación y los criterios de sostenibilidad fiscal. Los esquemas de asociación público-privada se podrán utilizar cuando en la etapa de estructuración, los estudios económicos o de análisis de costo beneficio o los dictámenes comparativos, demuestren que son una modalidad eficiente o necesaria para su ejecución. Estos instrumentos deberán contar con una eficiente asignación de riesgos, atribuyendo cada uno de ellos a la parte que esté en mejor capacidad de administrarlos, buscando mitigar el impacto que la ocurrencia de los mismos pueda generar sobre la disponibilidad de la infraestructura y la calidad del servicio.
+
+Ley 1508, artículo 14. Estructuración de proyectos por agentes privados. Los particulares podrán estructurar proyectos de infraestructura pública o para la prestación de sus servicios asociados, por su propia cuenta y riesgo, asumiendo la totalidad de los costos de la estructuración y presentarlos de forma confidencial y bajo reserva a consideración de las entidades estatales competentes. El proceso de estructuración del proyecto por agentes privados estará dividido en dos (2) etapas, una de prefactibilidad y otra de factibilidad. En la etapa de prefactibilidad el originador de la propuesta deberá señalar claramente la descripción completa del proyecto incluyendo el diseño mínimo en etapa de prefactibilidad, construcción, operación, mantenimiento, organización y explotación del mismo, alcance del proyecto, estudios de demanda en etapa de prefactibilidad, especificaciones del proyecto, su costo estimado y la fuente de financiación. Para la etapa de factibilidad, la iniciativa para la realización del proyecto deberá comprender: el modelo financiero detallado y formulado que fundamente el valor del proyecto, descripción detallada de las fases y duración del proyecto, justificación del plazo del contrato, análisis de riesgos asociados al proyecto, estudios de impacto ambiental, económico y social y estudios de factibilidad técnica, económica, ambiental, predial, financiera y jurídica del proyecto. En la etapa de factibilidad el originador del proyecto deberá anexar los documentos que acrediten su capacidad jurídica, financiera o de potencial financiación, de experiencia en inversión o de estructuración de proyectos o para desarrollar el proyecto, el valor de la estructuración del proyecto y una minuta del contrato a celebrar que incluya, entre otros, la propuesta de distribución de riesgos. En esta etapa se deberá certificar que la información que entrega es veraz y es toda de la que dispone sobre el proyecto. Esta certificación deberá presentarse mediante una declaración juramentada. No podrán presentarse iniciativas en los casos que correspondan a un proyecto que, al momento de su presentación modifiquen contratos o concesiones existentes o para los cuales se haya adelantado su estructuración por parte de cualquier entidad estatal. Tampoco se aceptarán aquellas iniciativas que demanden garantías del Estado o desembolsos de recursos del Presupuesto General de la Nación, las entidades territoriales o de otros fondos públicos, superiores a los establecidos en la presente ley. Cuando existan varios originadores para un mismo proyecto tendrá prioridad para su estudio el primero que radique una oferta ante la entidad estatal competente y que posteriormente sea declarada por esta como viable.
+
+VÍCTOR DELGADILLO, Desafíos para el estudio de desplazamientos sociales en los procesos de gentrificación (Working Paper Series Contested Cities, 15002, 2015).
+
+MARTÍN MANUEL CHECA-ARTASU, Gentrificación y cultura: algunas reflexiones, XVI, Revista Bibliográfica de Geografía y Ciencias Sociales, 914, 1-37 (2011).
+
+Concejo de Municipal de Medellín, Acuerdo 048 de 2014, por medio del cual se adopta la revisión y ajuste de largo plazo del Plan de Ordenamiento Territorial del Municipio de Medellín y se dictan otras disposiciones complementarias, 4267 Gaceta Oficial, 17 de diciembre de 2014.
+
+Para una revisión del proceso de evolución del derecho urbanístico en Colombia véase FELIPE ARBOUIN-GÓMEZ, Derecho urbanístico y desarrollo territorial colombiano. Evolución desde la colonia hasta nuestros días, Vniversitas, 124, 17-42 (2012).
+
+REFERENCIAS. Libros
+HARVEY, DAVID, Breve historia del neoliberalismo (Akal, Madrid, 2007).
+
+LESS, LORETTA, SLATER TOM & WYLY, ELVIN, Gentrification (Routledge, New York, 2008).
+
+SMITH, NEIL, The New Urban Frontier: Gentrification and the Revanchist City (Routledge, London, 1996B).
+
+WACQUANT, LOÏC, Los condenados de la ciudad (Siglo XXI Editores, Buenos Aires, Argentina, 2013).
+
+REFERENCIAS. Revistas
+ARBOUIN-GÓMEZ, FELIPE, Derecho urbanístico y desarrollo territorial colombiano. Evolución desde la colonia hasta nuestros días, Vniversitas, 124, 17-42 (2012).
+
+CÁNOVES-VALIENTE, GEMMA & BLANCO-ROMERO, ASUNCIÓN, Teletrabajo, género y gentrificación o elitización en los espacios rurales: nuevos usos y nuevos protagonistas. Los casos de Cataluña y Ardéche (Francia), Geographicalia, 50, 27-44 (2006).
+
+CASELLAS, ANTÒNIA & VERGARA-CONSTELA, CARLOS, Políticas estatales y transformación urbana: ¿Hacia un proceso de gentrificación en Valparaíso, Chile?, 42, EURE, 126, 123-144 (2016).
+
+CHECA-ARTASU, MARTÍN MANUEL, Gentrificación y cultura: algunas reflexiones, XVI, Revista Bibliográfica de Geografía y Ciencias Sociales, 914, 1-37 (2011).
+
+DE URBINA-GONZÁLEZ, AMPARO, El Centro Histórico de Bogotá "de puertas para adentro": ¿el deterioro del patrimonio al servicio de la gentrificación?, 5, Cuadernos de Vivienda y Urbanismo, 9, 46-69 (2012).
+
+DÍAZ-PARRA, IBÁN, Viaje solo de ida. Gentrificación e intervención urbanística en Sevilla, 41, EURE, 122, 1-18 (2015).
+
+FERNÁNDEZ-MORENO, ANA I., «Arts-Led»: reinventando las ciudades del siglo XXI, Revista de Urbanismo, 32, 1-21 (2012).
+
+GLASS, RUTH, London: Aspects of Change (University College, London, 1964).
+
+JANOSCHKA, MICHAEL, SEQUERA, JORGE & SALINAS, LUIS, Gentrificación en España y América Latina. Un diálogo crítico, Revista de Geografía Norte Grande, 58, 7-40 (2014).
+
+LACARRIEU, MÓNICA B., GIROLA, MARÍA FLORENCIA, THOMASZ, ANA GRETEL, YACOVINO, MARÍA PAULA, LEEKERMAN VANINA & CROVARA, MARÍA EUGENIA, Procesos de recualificación y relegación en la ciudad de Buenos Aires. Repensando la noción ciudad-fragmento y la despolitización de lo urbano, 24, Argumentos, 66, 15-35 (2011).
+
+LÓPEZ-MORALES, ERNESTO, GASIC-KLET, IVO & MEZA-CORVALÁN, DANIEL, Captura desigual de renta de suelo y desplazamiento exclusionario. Indicadores generales del proceso de gentrificación en Santiago de Chile, 2000-2012, 16, Cadernos Metrópole, 32, 565-586 (2014).
+
+RIUS-ULLDEMOLINS, JOAQUIM & POSSO-JIMÉNEZ, LADYS, Cultura, transformación urbana y empoderamiento ciudadano frente a la gentrificación. Comparación entre el caso de Getsemaní (Cartagena de Indias) y el Raval (Barcelona), 42, EURE, 126, 97-122 (2016).
+
+SABATINI FRANCISCO & BRAIN, ISABEL, La segregación, los guetos y la integración social urbana: mitos y claves, EURE, 103, 5-26 (2008).
+
+SALINAS-ARREORTUA, LUIS ALBERTO, Empresarialismo y transformación urbana: El caso de la Ciudad de México, Revista Andaluza de Ciencias Sociales, 13, 59-74 (2014).
+
+SALINAS-ARREORTUA, LUIS ALBERTO, Transformación de mercados municipales de Madrid. De espacio de consumo a espacio de esparcimiento, 31, Revista INVI, 86, 179-201 (2016).
+
+SEQUERA, JORGE, A 50 años del nacimiento del concepto 'gentrificación'. La mirada anglosajona, XX, Revista Bibliográfica de Geografía y Ciencias Sociales, I, 1-23 (2015).
+
+VERGARA-CONSTELA, CARLOS, Gentrificación y renovación urbana. Abordajes conceptuales y expresiones en América Latina, 33, Anales de Geografía, 1, 219-234 (2013).
+
+REFERENCIAS. Colaboración en obras colectivas
+JANOSCHKA, MICHAEL & SEQUERA, JORGE, Procesos de gentrificación y desplazamiento en América Latina, una perspectiva comparativista, en Desafíos metropolitanos. Un diálogo entre Europa y América Latina, 82-104 (JUAN JOSÉ MICHELINI, ed., Catarata, Madrid, 2014).
+
+MATTOS, CARLOS, Modernización capitalista y transformación metropolitana en América Latina: cinco tendencias constitutivas, en América Latina: cidade, campo e turismo, 41-73 (AMALIA INES, GERAIGES DE LEMOS, MÓNICA ARROYO, & MARIA LAURA SILVEIRA, eds., Consejo Latinoamericano de Ciencias Sociales, [Clacso], Sao Pablo, 2006).
+
+SABATINI, FRANCISCO, RIZZI, LUIS, CUBILLOS, GONZALO, ARAVENA, ALEJANDRO, BRAIN, ISABEL & MORA, PÍA, Aprovechar el potencial gentrificador de la infraestructura urbana de línea para la renovación y reactivación de barrios vulnerables mediante coordinación intersectorial, en Camino al Bicentenario. Propuestas para Chile, 123-153 (Pontificia Universidad Católica de Chile, Chile, 2014).
+
+SMITH, NEIL, Gentrification, the frontier and the restructuring of urban space, en Readings in Urban Theory, 260-277 (SUSAN S. FAINSTEIN & SCOTT CAMPBELL, eds., Blackwell, Cambridge, 1996A).
+
+REFERENCIAS. Working paper
+BLANCO, JORGE, APAOLAZA, RICARDO, BOSOER, LUCIANA & GONZÁLEZ, ARIEL, Movilidades, desplazamientos y territorios: Algunos aportes para el debate de la gentrificación (Working Paper Series Contested Cities, 15004, 2015).
+
+DELGADILLO, VÍCTOR, Desafíos para el estudio de desplazamientos sociales en los procesos de gentrificación (Working Paper Series Contested Cities, 15002, 2015).
+
+DUQUE-CALVACHE, RICARDO, La sombra de la gentrificación (Working Paper Series Contested Cities, 14008, 2014).
+
+LÓPEZ-MORALES, ERNESTO, Gentrificación y desplazamiento en América Latina: tres factores causales conectados (Working Paper Series Contested Cities, 15003, 2015).
+
+MARTÍNEZ-RAMÍREZ, URIEL, Proceso de gentrificación y desplazamiento en el espacio público del centro de la Ciudad de México (Working Paper Series Contested Cities, 15006, 2015).
+
+PERIS-LÓPEZ, DIEGO, El caso Triball en número. 1, 2, 3. Abandono, especulación, expulsión: gentrificación (Workin Paper Series Contested Cities, 14003, 2014).
+
+REFERENCIAS. Normativa colombiana
+Alcaldía de Medellín, Decreto 883 de 2015, por el cual se adecúa la estructura de la Administración Municipal de Medellín, las funciones de sus organismos, dependencias y entidades descentralizadas, se modifican unas entidades descentralizadas y se dictan otras disposiciones, 3 de junio de 2015.
+
+Alcaldía de Medellín, Decreto 1364 de 2012, por el cual se adopta la Estructura de la Administración Municipal, se definen las funciones de sus organismos y dependencias, se crean y modifican unas entidades descentralizadas y se dictan otras disposiciones, 9 de septiembre de 2012.
+
+Concejo de Municipal de Medellín, Acuerdo 048 de 2014, por medio del cual se adopta la revisión y ajuste de largo plazo del Plan de Ordenamiento Territorial del Municipio de Medellín y se dictan otras disposiciones complementarias, 4267 Gaceta Oficial, 17 de diciembre de 2014.
+
+Colombia, Ley 1508 de 2012, por la cual se establece el régimen jurídico de las Asociaciones Público Privadas, se dictan normas orgánicas de presupuesto y se dictan otras disposiciones, 48308 Diario Oficial, 10 de enero de 2012.
+
+REFERENCIAS. Otros
+DÍAZ-PARRA, IBÁN, La transformación del centro histórico de la Ciudad de México. ¿Gentrificación o repoblación?, en XII Coloquio y Trabajos de Campo del Grupo de Geografía Urbana (AGE). Territorios inconclusos y sociedades rotas, 1-10 (AGE, Madrid y Castilla La Mancha, AGE, 2014).
+
+DOT-JUTGLA, ESTEVE, CASELLAS, ANTÒNIA & PALLARES-BARBERA, MONSERRAT, Estrategia de regeneración urbana y procesos de gentrificación en el distrito Tecnológico de Barcelona. Globalización económica: Amenazas y oportunidades para los territorios, en III Jornadas de Geografía Económica, 109-118 (Valencia, 2008).
+
+~~~~~~~~
+
+By César Augusto Molina-Saldarriaga and Luis Alberto Salinas-Arreortua
+
+Reported by Author; Author

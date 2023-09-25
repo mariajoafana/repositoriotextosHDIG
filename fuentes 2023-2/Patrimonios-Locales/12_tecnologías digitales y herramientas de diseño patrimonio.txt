@@ -1,0 +1,287 @@
+Revisión descriptiva sobre el uso de tecnologías digitales y herramientas de diseño para la difusión y comunicación del patrimonio 
+
+Introducción
+En el contexto actual, la diversidad de entornos, aplicaciones y plataformas digitales, así como la
+implementación detecnologíasemergentes y herramientas de diseño inciden signicativamenteen la gestión,
+preservación y valoración de los bienes culturales, y pueden aportar tanto en su patrimonialización como en
+la difusión y comunicación del patrimonio, con miras a su sostenibilidad y disfrute.
+Así, desde unaperspectiva descriptiva y exploratoria,con esteartículo sepretende mostrar unapanorámica
+sobre el modo en que se están empleando dichas tecnologías y herramientas en el desarrollo de diversos
+proyectos, vinculados a lo patrimonial, así como revisar las aproximaciones conceptuales y las variables
+o fenómenos asociados a su estudio, de manera que se puedan determinar los vacíos en este campo del
+conocimiento y delinear posibles líneas de investigación.
+Deigual forma,apartir delaindagación en bases de datos deacceso abierto, seespera determinar los tipos
+de patrimonio vinculados a las investigaciones, las tecnologías utilizadas, los conceptos relacionados y los
+puentes interdisciplinarios queallí setejen. Todo ello,pensando en esclarecer si,apartir desu uso, se generan
+nuevas posibilidades comunicativas o formas de narrar que permitan visibilizar los valores patrimoniales,
+enriquecerlaexperienciaen torno aestelegado en diversosescenarios y aportaren losprocesos deapropiación
+social y cultural.
+Metodología
+Para el desarrollo de este artículo se establecieron cuatro etapas, que se describirán a continuación: 1)
+búsqueda bibliográca; 2) recopilación, selección y organización de la información; 3) análisis de la
+información; y 4) estructuración y redacción del artículo de revisión.
+Búsqueda bibliográfica
+Duranteestaetapa deindagación delaliteraturaseestablecieron loscriterios deselección y recuperación dela
+información, y se optóportrabajarapartir deartículos deinvestigación, derevisión y dereexión,publicados
+en dos bases de datosconables deacceso abierto y con licencia Creative Commons (Redalyc y Scielo), dado
+que ambas contienen estudios cientícos originales y recientes, además de que así se aseguraba la abilidad
+y validez de las fuentes, al igual que la posibilidad de acceder a la información completa. La búsqueda se
+realizó el 10 de julio de 2020, a partir de los términos “heritage” y “technology”,
+2
+teniendo en cuenta que las
+búsquedasen ingléspermiten ampliarelrango delos hallazgos de materiales. Como resultado seencontraron
+6 documentos en Redalyc y 71 en Scielo.
+Recopilación, selección y organización de la información
+Luego delarevisión delosresúmenesseseleccionaron,en principio, losartículosmáspertinentescon relación
+a los criterios establecidos y a los objetivos planteados. Con base en esto se determinó que, en el caso de
+Redalyc, delos 6 artículosencontrados solo 1 cumplíacon laspautas;en cuanto alos 71 documentos hallados
+en Scielo, 27 de ellos podían incluirse en la revisión descriptiva, dado que los resultados eran aplicables al
+objeto de estudio del presente artículo. Teniendo en cuenta que el objetivo de esta etapa era sistematizar la
+información hallada, se procedió a elaborar una primera matriz que permitiera organizar los datos de los 28
+artículos seleccionados (en español, inglés y portugués), para facilitar su análisis.
+Sandra Uribe-Pérez, et al. Revisión descriptiva sobre el uso de tecnologías digitales y he...
+Análisis de la información
+La matrizelaboradaen laetapapreviase usóparaestablecerlasaproximacionesconceptuales y metodológicas
+mencionadasen losartículos,asícomo lastendenciasen el uso delastecnologías digitales y las herramientas de
+diseño, los tipos de patrimonio vinculadosalas investigaciones, las intervencioneseiniciativas desarrolladas,
+las organizaciones y entidades que aportaron a dichos trabajos y los espacios geográcos asociados.
+Estructuración y redacción del artículo de revisión
+Con el n de estructurar apropiadamente el artículo, se elaboró un mapa mental (ver gura 1) que
+permitió delimitar cuatro aspectos fundamentales: 1) tipos de patrimonio vinculados a las investigaciones;
+2) tecnologías (incluidas las tecnologías de la información y las comunicaciones [TIC])
+3
+y herramientas
+digitales; 3) puentes interdisciplinarios
+4
+referidos a los campos del conocimiento relacionados (BarbaPingarrón y Medina-González, 2016); y 4) conceptos vinculados. Esta organización obedeció a la idea de
+categorizar de forma adecuada los hallazgos y buscar un orden lógico para construir el siguiente apartado
+de desarrollo y discusión. Se elaboró entonces una segunda matriz, en la cual se identicaron aspectos
+como el tipo de patrimonio que se mencionaba en el artículo y se desglosaron las conceptualizaciones,
+las herramientas, las organizaciones vinculadas y los espacios geográcos en los que se llevó a cabo la
+investigación.
+Desarrollo y discusión
+Como se mencionó en la introducción, se espera presentar un panorama sobre el uso de las tecnologías
+digitales y las herramientas de diseño a partir de los hallazgos realizados en los artículos. Para organizar
+de manera lógica el discurso, en primer lugar, se señalan algunos aspectos sobre las revistas, los artículos
+explorados y los idiomas en los que se encuentra la información, los cuales se complementan con datos
+estadísticos. En segundo lugar, se hace una revisión del mapa mental elaborado previamente, para establecer
+los temas que se abordan en los documentos y, a partir de los ejes temáticos, desglosar los aspectos más
+relevantes del análisis. Finalmente, se presentan las iniciativas de diferentes organizaciones, que inciden para
+que se otorgue mayor importancia a la difusión del patrimonio.
+Contextualización sobre la búsqueda bibliográfica
+Paraelanálisis seconsideró pertinenterevisaralgunos datos relacionadoscon la pesquisarealizada. Como se
+señaló,elestudio seabordó apartir de un corpus de 28 artículostomados delas bases de datos Scielo yRedalyc,
+8 de ellos (28,5 %) en portugués, 4 (14,3 %) en inglés y 16 (57,1 %) en español, lo cual permite establecer
+en principio una prevalencia del español y el portugués frente al inglés en la comunicación de este tipo de
+conocimiento cientíco. Las revistas en las que se registran los artículos se presentan en la tabla 1.
+Apuntes: Revista de Estudios sobre Patrimonio Cultural, 2022, vol. 35, ISSN: 1657-9763 / 2011-9003
+TABLA 1.
+Revistas seleccionadas para el estudio
+Fuente: elaboración propia con base en los artículos consultados
+Delosartículos seleccionados, 7 fueron publicadosen Brasil, 6 en Colombia, 4 enArgentina, 4 en México,
+2 en Sudáfrica, 2 en Venezuela, 1 en Ecuador, 1 en Chile y 1 en Estados Unidos. También se observa que las
+revistas con el mayor ujo de información al respecto son Apuntes: Revista de Estudios sobre Patrimonio
+Cultural -Journal of Cultural Heritage Studies(Colombia),Intervención (México), Perspectivasem Ciência
+da Informação (Brasil) y Anais do Museu Paulista: História e Cultura Material (Brasil). Es claro que la
+prevalencia del interés por realizar publicaciones sobre el tema se concentra, en orden descendente, primero
+en Suramérica(21 artículos, quecorresponden al 75 % dela muestra), y luego en Centroamérica(4 artículos,
+es decir, 14,3 %), Sudáfrica(2 artículos,equivalentesal 7,1 %) y Estados Unidos (1 artículo,esto es,el 3,6 %).
+Aproximación conceptual y puentes interdisciplinarios que se vinculan con el uso de
+tecnologías y el patrimonio
+Antes derealizarelanálisis,primero seenuncian losartículosrevisadosen latabla 2, organizados desdeel más
+reciente (2019) hasta el más antiguo (2005). Se incluyeron 5 de 2019, 3 de 2018, 3 de 2016, 2 de 2015, 4 de
+2014, 1 de 2013, 1 de 2012, 1 de 2011, 2 de 2010, 1 de 2009, 3 de 2007, 1 de 2006 y 1 de 2005.
+Sandra Uribe-Pérez, et al. Revisión descriptiva sobre el uso de tecnologías digitales y he...
+TABLA 2.
+Artículos revisados como parte del estudio
+Fuente: elaboración propia con base en los artículos consultados
+TABLA 2.
+Artículos revisados como parte del estudio
+Fuente: elaboración propia con base en los artículos consultados
+Apuntes: Revista de Estudios sobre Patrimonio Cultural, 2022, vol. 35, ISSN: 1657-9763 / 2011-9003
+Para realizar el proceso de aproximación conceptual y determinación de las disciplinas y campos del
+conocimiento que se enuncian como parte de las investigaciones, y que están presentes en los diferentes
+textos revisados, se hizo una revisión detallada de los resúmenes de los artículos, resaltando los aspectos más
+relevantes de cada uno, y se elaboró un mapa mental a modo de resumen (gura 1).
+FIGURA 1.
+Mapa mental sobre el uso de las tecnologías para la difusión
+del patrimonio que se evidencia en los artículos revisados
+Fuente: elaboración propia con base en los artículos consultados
+Del análisis efectuado se concluye que, en relación con el uso de las tecnologías digitales y las herramientas
+de diseño enfocadas en la difusión del patrimonio, los puentes interdisciplinarios están dados entre campos
+del conocimiento como la educación, la comunicación, las ciencias de la información, la bibliotecología, la
+ciencia en general (aunque se hace énfasis en el rol de la química y la física), la antropología, la arqueología,
+la historia, las artes y la arquitectura y, por supuesto, el diseño y la ingeniería como disciplinas directamente
+relacionadas con las tecnologías y las herramientas empleadas.
+Por otra parte, al hablar de patrimonio se engloban diferentes tipos que, en cualquier caso, están vinculados
+con el concepto de patrimonio cultural, tales como: patrimonio documental, industrial, cientíco, histórico,
+arqueológico y cultural (este último se asocia a museos de diversas denominaciones, centros de exposiciones
+e investigaciones, tradiciones, folclor, arte y patrimonio arquitectónico y constructivo).
+En cuanto al tema amplio de la tecnología, hay diversas ramas que se derivan de este término, al igual que de
+las TIC y de las herramientas empleadas y desarrolladas, entre las cuales se cuentan los entornos digitales, las
+aplicaciones para diferentes tipos de dispositivos, el soware libre, las bases de datos, la georreferenciación, la
+reproducción, la hipermedia, la realidad aumentada, la fotogrametría digital tridimensional, la microscopía,
+la espectroscopía, los códigos QR y las plataformas como Unity y Vuforia, entre otros.
+Por ejemplo, el soware, además del procesamiento fotogramétrico de imágenes digitales, puede servir para
+documentar el patrimonio cultural, medir objetos de diferentes escalas, producir efectos visuales y contribuir
+Sandra Uribe-Pérez, et al. Revisión descriptiva sobre el uso de tecnologías digitales y he...
+ala generación de datosespaciales 3D parasu empleo en aplicaciones desistemas deinformación geográca,
+con calidad y precisión.
+Por otro lado, en cuanto a la realidad aumentada, esta cuenta con un gran potencial como herramienta
+educativa y didáctica, y puede conducir al diseño de aplicaciones móviles que a través de herramientas libres
+como Vuforia y Unity generen, entre otros, sólidos de revolución y animaciones en las que el patrimonio
+sea protagonista. Con todo ello se amplía la perspectiva en cuanto a las estrategias, los contenidos digitales
+y los modos de comunicar y narrar el patrimonio, en escenarios y plataformas que se salen del entorno
+museístico tradicional y facilitan la presentación de los valores patrimoniales y su riqueza a través del diseño
+de experiencias y la navegación remota, teniendo en cuenta las necesidades e intereses del público objetivo.
+Entre otras de las tecnologías mencionadas, la espectroscopía y la microscopía (electrónica y óptica)
+pueden ofrecer posibilidades importantes para la caracterización y posterior conservación de los bienes
+culturales y patrimoniales, teniendo en cuenta que son complementarias. Entre otros usos, se podrían
+realizar observaciones de diversos aspectos morfológicos, de color y textura, e incluso análisis químicos y
+microquímicos de las piezas y muestras patrimoniales (como pinturas, elementos de metalurgia, papeles,
+textiles, soportes pétreos, entre otros).
+Todo lo anteriorremiteaalgunoselementoscontextuales quepermiten vercómo el tema delpatrimonio se
+ramica hacia diferentes ámbitos. Para complementar esta aproximación conceptual, se retomaron aspectos
+macro que, de alguna manera, enmarcan la discusión en torno a los temas centrales, las problemáticas
+y las necesidades que surgen desde diversas comunidades, instituciones, organizaciones, redes, centros de
+investigación y museos, entre otros, en un contexto social, cultural y cientíco.
+Entre dichos elementos se cuentan conceptos tan amplios como la era digital y la cibercultura, y en
+torno a estos aparecen algunos más puntuales como la curaduría digital, la relación de la virtualización
+vs. la materialidad, el acceso a recursos digitales (del que hace parte el acceso abierto), la transferencia de
+tecnología y de conocimiento, y la innovación tecnológica y social. En cuanto al patrimonio, se aborda
+su conservación, restauración, rehabilitación, gestión, valoración, revalorización y digitalización, así como
+la misma patrimonialización; y como ejes transversales están la memoria (plural y colectiva), la cultura y
+la sociedad, tanto de la información como del conocimiento. Todos estos son aspectos que, en denitiva,
+enfatizan la importancia de la difusión del patrimonio y la transferencia del conocimiento, así como la
+oportunidad quese deriva delas innovaciones y losavances tecnológicosparaampliar lacobertura y elacceso
+abierto a los diferentes recursos disponibles.
+Ahora bien, al realizar una categorización de los proyectos en cuanto al tipo de patrimonio que se vincula
+alas investigaciones o intervenciones,el resultado escontundente: una gran mayoría(75 %)apareceasociada
+al patrimonio cultural, ya que 21 artículos hacen referencia directa a este, y otros lo vinculan con aspectos
+de patrimonio arqueológico, documental, histórico, industrial, arquitectónico y constructivo, cientíco y
+tecnológico.
+Esta prevalencia y los conceptos, herramientas y tecnologías asociadas se hacen incluso más evidentes al
+elaborar una nube de palabras clave de los diferentes artículos (gura 2).
+Apuntes: Revista de Estudios sobre Patrimonio Cultural, 2022, vol. 35, ISSN: 1657-9763 / 2011-9003
+FIGURA 2.
+Nube de palabras clave de los artículos estudiados
+Fuente: elaboración propia con base en los artículos consultados
+Como se observa, entre todos los términos sobresale el patrimonio cultural, seguido por los conceptos
+de patrimonio, arqueología, ciencia, investigación y tecnología; en una escala menor se encuentran palabras
+como tecnologías de la información y las comunicaciones, transferencia tecnológica, información, museo,
+museología, conservación, preservación, restauración y curaduría digital; en un último peldaño, se pueden
+mencionar descriptores como metadatos, trabajo, tipología, e-ARQ, códigos QR, herencia, tecnología
+digital, cartografía digital, tecnologías informáticas, condiciones de vida, formación, hipertexto académico,
+apropiación tecnológica, educación, dispositivo hipermedial, capacitación, arqueología urbana, herencia,
+gestión deproyectos, memoria bibliográca,arqueología urbana, tecnología detierra,contexto físico-virtual,
+diseño de la información, prevención, memoria colectiva, fotogrametría, memoria plural, cibercultura,
+instrumentos cientícos, pobreza, astronomía, internet, agrimensura, tecnología 2.0, Vuforia, hallazgos,
+geocaching, cerámica, gobernanza, era digital, inmaterial, cultura material, Unity, folclor, construcción del
+conocimiento, riesgos, adobe, red, metodologías activas, cultura, patrimonio cientíco, salvaguardia del
+patrimonio cultural inmaterial, tecnología y sociedad, rehabilitación, acceso abierto, levantamiento 3D,
+educación activa, tecnologías informáticas de la música, digital, ideología, cultura musical, patrimonio
+arqueológico, sistemas constructivos, identidad, edu-comunicación, divulgación cientíca, información
+y tecnología, investigación bibliográca, descripción del archivo, arqueología industrial, patrimonio
+documental, realidad aumentada, hecho museológico y NOBRADE (Norma Brasileira de Descrição
+Arquivística).
+Los términos mencionados anteriormente fueron clasicados con el n de comprender las tendencias y
+prevalenciastemáticas, disponiendo nalmenteseiscategorías: 1) Educación y conocimiento; 2) Patrimonio;
+3) Sociedad y cultura; 4) Información; 5) Herramientas y tecnología; 6) Investigación, ciencia y tecnología
+(tabla 3).
+Sandra Uribe-Pérez, et al. Revisión descriptiva sobre el uso de tecnologías digitales y he...
+TABLA 3.
+Clasicación de las palabras clave de los artículos revisados como parte del estudio
+Fuente: elaboración propia con base en los artículos consultados
+Por otra parte, al analizar los artículos, se pudo evidenciar que los espacios geográcos en los que tenían
+lugar las investigaciones y las intervenciones eran los siguientes: 6 investigaciones en Brasil; 4 en Argentina;
+3 en México; 3 en Colombia; 2 en Chile; 2 en Sudáfrica; 1 en Mesoamérica; 1 en Ecuador; 1 en Perú; 1 en
+Venezuela; 1 en África y Brasil; 1 en Brasil, Venezuela, España, Perú, Chile, Portugal, Colombia, Argentina,
+El Salvador y Francia; 1 en Lejano Oriente (Rusia y China); y 1 sin ninguna especicidad geográca.
+Entre los espacios físicos que se abordaron se cuentan monumentos históricos nacionales, museos
+(arqueológicos, de ciencia, históricos y relacionados con la literatura), bibliotecas académicas, mataderos
+públicos, sitios arqueológicos, muestras interactivas, ferias tecnológicas, barrios, aldeas, provincias,
+observatorios, regiones especícas, institutos y universidades.
+Iniciativas, proyectos o intervenciones de diferentes organizaciones
+A través de la revisión de las fuentes bibliográcas fue posible identicar algunos proyectos, programas,
+universidades, instituciones, centros, redes y organizaciones que tienen vinculación con los trabajos en
+mención, y cuyo papel en la gestión y divulgación del patrimonio son fundamentales.
+A nivel de los países iberoamericanos, se destacan los aportes del Programa Iberoamericano de Ciencia y
+TecnologíaparaelDesarrollo y del Proyecto yRed Iberoamericana Proterra(Garzón y Martins-Neves, 2007);
+en Europa, está el equipo Arca de Noé de la Universidad de Bolonia (Zanirato, 2010); y en Sudáfrica se
+Apuntes: Revista de Estudios sobre Patrimonio Cultural, 2022, vol. 35, ISSN: 1657-9763 / 2011-9003
+cuentan las bibliotecas académicas (Masenya y Ngulube, 2019), así como el proyecto SADFA, que además
+deinteresarse por la preservación del pasado y latransmisión del legado dela historia nacionalconjuntaalas
+generaciones futuras, de una manera nueva y emocionante, también propende por la creación de puestos de
+trabajo para las comunidades de todo el país (Malan, 2016).
+Para el caso de Latinoamérica, son de resaltar las actividades del Consejo Nacional de Investigaciones
+Cientícas y Técnicas (Rotondaro y Cacopardo, 2012) y del proyecto MiRA (Microscopía y realidad
+aumentada, la aventura de descubrir y comprender lo que no se ve) en Argentina (San Martín y Andrés,
+2019), del Instituto Federal de Tecnología de Perú (Zanirato, 2010), de los Museos de Ciencia y Tecnología
+de Venezuela (Rojas-Sola, 2006), del Museo Arqueológico San Miguel de Azapa en Chile (Muñoz-Sajama
+et al., 2018), y de la Universidad de Antioquia (Múnera-Torres et al., 2007) y la Corporación Universitaria
+Minuto de Dios (Gutiérrez, 2011) en Colombia.
+Con respecto a Brasil, resultaevidente queexiste un enormeinterés por los temasasociadosal patrimonio
+y la tecnología, destacándose allí como referentes el Museu da Pessoa (Vicentini-Jorente y Kahn, 2019), el
+Museu HistóricoNacional(Ferreira yOliveira-Borsani, 2019),elObservatorio deValongo y elColegio Pedro
+II (Granato et al., 2014), así como el Instituto Brasileño del Patrimonio Nacional (Iphan), el Instituto del
+Patrimonio Cultural del Estado de Río deJaneiro (Inepac) (Granato etal., 2007) y la Universidad Federal de
+Santa María(Carpes y Flores, 2014). Finalmente, deestepaíscabe mencionartambién elprograma“Sistemas
+de información, cibercultura y digitalización del patrimonio en Sergipe: museología en la web”, que implica
+la elaboración y mantenimiento de un sitio web con un archivo digital que contiene capturas de imágenes
+y entrevistas orales por parte de quienes se encargan del mantenimiento de la cultura inmaterial local en
+Laranjeiras, a lo que se suma la producción de instalaciones culturales digitales y el fomento de la relación
+enseñanza-aprendizaje vinculadacon la museología y las innovaciones tecnológicas (Cardoso de Mello etal.,
+2015).
+Cabe mencionar la singularidad del caso de México, debido a las sinergias que se dan entre diversas
+instituciones y organizaciones, dentro de las cuales se pueden mencionar la Red de Ciencias Aplicadas
+a la Investigación y la Conservación del Patrimonio Cultural (Red-CAICPC) y el Consejo Nacional de
+Ciencia y Tecnología,cuyo interésespromover lacooperación y el intercambio entreexpertos, laboratorios y
+organizaciones decienciasaplicadasa n defacilitarlainvestigación colectivaeinterdisciplinaria quepermita
+establecer los procedimientos y las metodologías para el estudio, la conservación, la gestión y la difusión del
+patrimonio cultural (Barba-Pingarrón y Medina-González, 2016).
+Otro organismo muy importante a tener en cuenta es el Laboratorio Nacional de Ciencias para la
+Investigación y la Conservación del Patrimonio Cultural (LANCIC) dela Universidad Nacional Autónoma
+de México (UNAM), el cual se vincula colaborativamente con otras entidades y surge como una iniciativa
+interdisciplinaria e interinstitucional que busca investigar los materiales y técnicas que constituyen el legado
+patrimonial de México, realizando:
+[…] el análisis de sus alteraciones, la evaluación y síntesis de nuevos productos para intervenciones de conservaciónrestauración, el diseño de metodologías cientícas y […] la elaboración de propuestas para la resolución de complejas
+problemáticas de conservación-restauración en el ámbito nacional. LANCIC es un laboratorio “sin paredes” y multisede
+que cuenta con expertos y equipamientos de frontera en análisis microquímico, estudio microscópico, y caracterización
+por tecnologías de imagen y espectroscopia de los institutos de Investigaciones Estéticas (IIE), de Física (IF) y de Química
+(IQ), todos de la UNAM, en colaboración con el Instituto Nacional de Investigaciones Nucleares (ININ, México); integra,
+asimismo, investigadores de otros dos institutos: el de Antropología e Historia (INAH, México) y el Tecnológico de
+Tijuana (TEC-Tijuana, México), a la par que se vincula con los posgrados de historia del arte de la UNAM y el Centro de
+Investigación en Corrosión, Universidad Autónoma de Campeche (CIC-UAC, México). (LANCIC, 2015, p. 77)
+Sandra Uribe-Pérez, et al. Revisión descriptiva sobre el uso de tecnologías digitales y he...
+Conclusiones
+Con base en el panorama que se vislumbra a partir de los datos y artículos analizados, y teniendo en cuenta
+los diferentes aspectos que entraron en la discusión, se puede concluir lo siguiente:
+• Con respecto a lo que se sabe sobre el tema y los tipos de investigaciones que están surgiendo, se
+presenta un panorama amplio en el que la sociedad del conocimiento, la cultura y los desarrollos
+tecnológicos y cientícos se conguran como ejes fundamentales de los intereses investigativos de
+las diferentes disciplinas involucradas, así como de numerosos centros académicos y de estudio, y de
+organismos vinculados con la ciencia y la cultura.
+En este contexto, el patrimonio (que se podría agrupar en la categoría amplia de patrimonio cultural,
+siguiendo la tendencia presente en los artículos objeto del estudio) ocupa un lugar relevante que es abarcado
+desde la historia, la arqueología, la arquitectura, la industria, la ciencia, la educación, la museología y la
+documentación, como un elemento clave asociado al desarrollo de innovaciones y a la implementación de
+aplicaciones, herramientas de diseño, soware y diversas tecnologías emergentes (que incluyen no solo las
+TIC), lascualesapoyan tanto su gestión como su preservación y difusión. En particular,esta últimase ha visto
+privilegiada a partir de los intereses por la digitalización del patrimonio y por la misma patrimonialización,
+además de los esfuerzos por facilitar el acceso desde diferentes rincones del planeta y ampliar la cobertura
+a los productos y servicios culturales que se contemplan como parte de las industrias creativas y culturales.
+Esto, en el marco de la pandemia y el connamiento del año 2020 derivados de la Covid-19, ha generado un
+augeinusitado en el uso detecnologías que, seguramente, seráreportado en las nuevas investigaciones quese
+desarrollen y que se tendrán en cuenta como parte de los efectos pospandemia para el desarrollo de posibles
+futuras líneas de trabajo.
+• En la mayoría de los casos, no se observa una relación explícita entre el uso de las nuevas tecnologías
+y la generación de nuevas estrategias de comunicación y formas de narrar asociadas al patrimonio.
+Se considera entonces que es un tema que se debe explorar, teniendo en cuenta la importancia de
+las narrativas digitales, la hipermedia, las narrativas transmedia y otras herramientas de diseño para
+la valoración y revalorización del patrimonio, y para que se tenga acceso, de formas novedosas y
+atractivas, a los bienes culturales que constituyen el legado de las futuras generaciones.
+• Cabe mencionar la importancia de las publicaciones cientícas en América Latina y Sudáfrica para
+la difusión de la ciencia producida en estos lugares. También se destaca el hecho de que el español
+y el portugués sean los idiomas principales en los que se decide realizar la divulgación cientíca de
+los resultados, porencima del inglés. Esto dacuenta de un interés por generarconocimiento y hablar
+desde, con y para los países q
