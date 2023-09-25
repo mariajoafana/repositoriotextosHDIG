@@ -29,6 +29,7 @@ Excluiría las palabras:  urbana, espacio y gestión ya que son términos eviden
 Al revisar la lista de "distinctive words", ¿podrías organizar bajo una etiqueta común algunas "palabras distintivas"?
 
 Se proponen dos etiquetas comunes que según el listado de palabras se puedes clusterizar:
+
 •	Consideraciones Online 
 •	Consideraciones Offline  
 
