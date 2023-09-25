@@ -8,6 +8,7 @@ etiquetas: Patrimonio y memoria, narrativa digital, habitar transmedia
 
 
 ¿Cuáles son las palabras más frecuentes en tus artículos y/o capítulos?
+
 •	Territorio
 •	Memoria
 •	Ciudad
@@ -31,6 +32,7 @@ Al revisar la lista de "distinctive words", ¿podrías organizar bajo una etique
 Se proponen dos etiquetas comunes que según el listado de palabras se puedes clusterizar:
 
 •	Consideraciones Online 
+
 •	Consideraciones Offline  
 
 ¿Ves alguna forma de acotar o ampliar tus búsquedas y/o tema de investigación después de hacer el ejercicio?
