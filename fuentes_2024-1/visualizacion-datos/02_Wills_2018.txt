@@ -1,0 +1,227 @@
+
+User Interfaces for Creating Digital Research 
+
+
+Tarrin Wills 
+
+ People working in the humanities often do repetitive and structured analyses of texts, images, or other cultural products. often these processes could be done through digital methodologies, but more often than not, humanities scholars and students choose to do them in a non-digital way, limiting the way their work might be used by others. These choices are difficult to understand for those of us working in Digital Humanities. 
+
+ The problem can be addressed in part by paying attention to the way applications 
+ and interfaces are used by humanities scholars to interact with information in their particular fields. Projects can develop methods and interfaces that allow students and researchers to feel comfortable when producing and analyzing data, while maximizing the potential of that data for research purposes. \'93Skaldic Poetry of the Scandinavian Middle Ages\'94 is a Digital Humanities project that exemplifies small-scale custom interface solutions. This chapter focuses on the technologies and applications that connect scholars who produce data with the data itself, namely, the user interface (UI).
+
+A Short History of UIs and Digital Humanities
+
+ In the late 1980s and 1990s graphical interfaces emerged for creating digital documents. In particular,  word processors, such as Microsoft Word, which displayed a close approximation of the print document being created on screen developed what you see is what you get (WYSIWYG) interfaces. This development rapidly promoted the use of computers in all fields where documents were used and exchanged. Humanities research was no exception, and the technology, which is now ubiquitous, highlights one of the important factors in a successful user interface: it is much easier for a user to create data if they get very accurate and quick feedback on how the data will be displayed and under- stood. In other words, the WYSIWYG interface not only allows the user to accurately create formatted textual data, but also brings that data as close as possible to what the end-users (their audience) will need to see: the printed page. 
+
+ Word processors have limitations for working with research data. A researcher could use a word processor to produce a scholarly edition, a dictionary, or a catalogue suitable for print publication, but they would lose much of the information about the structure and meaning of the resource. The kinds of useful information which cannot be retrieved easily from a word processor file might include: a particular version of a text in an edition, dictionary entries organized by part of speech instead of alphabetically, or the cross-references to texts in a catalogue of manuscripts. These situations mean that electronic documents created by word processors are often little better than print publications in terms of exchanging data. 
+
+
+The solution to these problems was to develop standards, such as the Text Encoding Initiative (TEI) standards, that would record the semantic information and structure.
+ Data produced using these standards could form the basis of print and electronic publication by using programming languages or style sheets to transform the code into more readable documents or web pages. To do so, the data creator must have a close understanding of a complex technical standard and the ways it can be transformed. TEI and similar standards have been widely adopted and most users of TEI directly create the (normally) code themselves, although often with the aid of applications that check the validity of the code. Using these methods the data creator has very close control over the semantics (the meaning of the data), but the trade-off is that the code must be separately processed to make it useful to someone who does not understand it. The main question that this chapter addresses is how to manage and minimize the trade-offs between the integrity and usability of the research data, the needs and methods of the data crea- tor(s), and the needs of the end-users and research field more generally. 
+
+
+ The Data and the User
+
+ This chapter has already mentioned two types of interface for data creation, namely WYSIWYG word processors and editors for producing XML code. These represent extreme ends of the spectrum between data accessibility and integrity. There is (almost) no scholar alive today who is not comfortable with creating a word processor document, so in many ways this technology represents maximum accessibility.  TEI XML documents represent the pinnacle of data integrity, combining a well- documented de facto standard with detailed semantic and metadata tagging, but very few scholars end up directly creating research data using such a standard. 
+
+
+ Depending on the detail of the information required, the two types of encoding may be exchangeable within a single project. Consider the following: a convention for typesetting transcriptions of manuscripts is to expand abbreviations using italics, TEI might encode this using the expansion tag: gefn. Someone with knowledge of manuscript transcription conventions but not digital text encoding would be able to correctly interpret the italics, but not the code. Conversely, someone with an XML background but no transcription experience may not understand the italics, but could interpret the code by looking up the TEI standard. The TEI/XML text would ideally be used for archival and exchange purposes. But, a digital transcriber need not necessarily under- stand this format: if the italics unambiguously represent expansions of abbreviations, they can be transformed at the point of storage into TEI/ XML code and can be retrieved through the interface as italics. Even easier to transform in this way are different types of brackets, which might, within a particular project, indicate expansions, editorial interventions, text supplied from other sources, damaged or difficult sections, and so on. 
+
+
+TEI allows the encoder to include both the abbreviated and expanded form in the above example. If that level of detail is required, where parallel information is encoded at the same point, it becomes much harder to convert between a word processor format and XML. Nonetheless, a user interface might be able to find other ways, such as through a pop-up dialogue, to enter the additional information. The information might then be hidden under normal circumstances, or in print, but available when the user clicks on a word in a web page, for example. 
+
+
+ A project might use different methods and standards to give a variety of end-users outputs in appropriate formats. For a digital repository such as the oxford Text Archive or Menota, the data should be in a standardized, exchangeable format such as TEI. This allows other digital scholars to use the data with reference to a common standard, but without requiring specific disciplinary knowledge to understand the data and its structure. A researcher working in the discipline (e.g. a historian or linguist) may want the data in a traditional format such as a book, or a format which they can print or view on an e-book. Such a format can also be stored in a library without the pitfalls of digital-only archiving. other researchers may be able to make use of an interface that allows them to query the data, transform it, or combine it in ways that they can use for research purposes. Some projects might have the general pub- lic in mind and create an interface which allows the public to access the information in an accessible form. All these types of output can be created from a single data repository, using different techniques to trans- form the data as necessary. 
+
+The skills and interests of the end user are highly diverse, but we can reduce them to four types: 
+
+
+ 1. Digital specialists without a background in the specific discipline of the project; 
+
+
+2. Discipline specialists with a reasonable comfort level with digital approaches and interfaces; 
+
+
+3. Discipline specialists with a low interest in digital interfaces; 
+
+
+4. The general public, who may be interested in accessing the information digitally but who have little or no training in the particular subject. 
+
+
+For each type of user, the interface to the data might be organized in a different manner with an application converting the data from the form used by the project to the form required by the user. This model is shown in Fig. 15.1(It should be noted that there is no restriction on how input formats might be exported in various output formats.) 
+
+
+\fs26\fsmilli13333 The left of the figure also demonstrates the trade-off between disciplinary skills and digital skills. There is no inherent trade-off, but in practice this tends to be the case. A traditional print outlet in a particular discipline, such as a historical dictionary or a scholarly edition of a book, relies on the conventions of print media, which can be explained further in an electronic interface, but are already familiar to someone with greater disciplinary skills, who is used to those conventions. 
+
+ The figure also represents different ways of inputting information for a project. Different end-users, if they are supplying the data, will need different methods for producing the data. A student might submit a TEI/XML document that is then processed by the project\'92s application (as in the Menota text archive at clarino.uib.no/menota); a researcher with more limited digital interests might retrieve and edit the data using web forms or another type of interface; formatted text might be submitted by someone really uncomfortable with anything beyond a Word file, but if it is consistently formatted then it could be transformed into a standard technical format; and, a member of the public might be able to submit data using a more restrictive, but user-friendly, platform. The same project may use some or all these interfaces, depending on the audience and the contributors. The case study outlined below (The Skaldic Project) will illustrate how many of these approaches work. 
+
+
+ projeCt  eQuireMents for  eLeCting  interfaCes 
+
+There are a number of practical issues which need to be considered before an interface is chosen. The number and variety of users will have an enormous impact on the solution required, regardless of the project. The first question is therefore about the diversity of users: 
+
+ 1.  Who will be working on the data? Will more than one person be work- ing on similar data at overlapping times? 
+
+
+If you are the only person working on the data for the duration of the project the solution can be very simple, as it may be a matter of learn- ing the necessary technology. As soon as there is more than one person, there is the problem that users may have different approaches, skills, or interests in technology, and may need to edit the data at the same time. 
+
+ 2.  Where will the users be? At the same workplace? Working internationally? In the field? Do they have access to the same technology (software and hardware)? 
+
+
+ People working at the same workplace will normally have access to shared storage, so they can access the same data simultaneously. This makes it much easier to determine what solution is used, as it is a matter of choosing an application for a particular operating system and storing the data on a network drive. Security is largely taken care of by the institutional infrastructure. outside of a single organization there are a number of other issues to deal with, including security, and software and hardware support. If data will be created or edited in a fieldwork environment, researchers need to consider whether the users will have net- work access, the kinds of devices they will be able to use, and how much information they need to support data creation. 
+
+3. 
+ What is the nature of the data to be created? Is it, for example, textual, geographical, or visual? Do different types of data or media need to be linked together? Are there external resources that should be linked, such as online gazetteers and registries? 
+
+ These issues are dealt with elsewhere in more detail in this book, but some types of data require more graphical or interactive interfaces than others. Information that can be found digitally, in an authoritative form, should link to the source in a way that facilitates updates. The interface needs to be able to handle all the necessary types and sources of data. 
+
+Solutions to the problems outlined here (including, multiple users, semantic tagging of information, multiple uses and contexts of the data, simultaneous updating, and so on) have been solved most spectacularly by social media. It is in the nature of a social network to try to bring together those creating information and their audience. Social net- working platforms such as Facebook and Twitter incorporate a range of external sources of information provided implicitly or explicitly by the user: geographical information (location, from device or photos), links to external resources (web links shared), semantic tagging (hashtags), networks (friends/followers) and links to networks (tagging friends/ handles), and metadata about the users themselves (profiles). These are applied to text, images, videos, links, and other types of resources. This information is used largely to generate targeted advertising, but it is worth considering how such interfaces facilitate the supply, linking, and categorizing of a very broad range of media and data. 
+
+
+Interface solutions
+
+There are a variety of interface solutions, which range from simpler to more complex depending on the type of users for the project and the kind of data to be created. The following is a list of user interface solutions depending on the complexity of the project, the number of contributors, the type and complexity of the data, and the storage format for the data.
+
+ Single User, Desktop Environment, Data as Files on Computer 
+
+ If your project has one user working on one type of data at a time, there are several desktop tools with easy to learn interfaces, many of which are free and open source. These solutions do not rely on creating new inter- faces or systems. Many of these applications are mentioned elsewhere in this volume: e.g. text encoding (oxygen), statistics (R, Gephi), geographical data (ArcGIS, QGIS), tabular data (spreadsheet applications), relational data (Access [Windows only], FileMaker). Note that word processors are not considered appropriate solutions in Digital Humanities in themselves, because they do not structure data in a way that can be further processed.
+
+ Multiple Users, Desktop Environment, Data as Files on Network 
+
+
+A certain amount of complexity occurs when you have different people working concurrently on the same data or on data that have to work together in some way, such as when it is processed by the same application. If you are all working together in the same location or can otherwise communicate directly, the solution can be as simple as a manual division of labor and manual data management. This might work by using the applications described in the previous section, but storing the files generated in a collaborative repository such as Dropbox or Google Drive. This type of solution is widely used (e.g. projects such as the Menota Handbook [\cf3 menota.org\cf2 ], Stories for All Time [\cf3 fasnl.ku.dk\cf2 ]) and requires manual management of file storage, so that the data are retrievable and processable by the project\'92s applications and by other members of the project. Participants in the project should define files naming protocols and the folder arrangement in the drive. This means that an XSLT application, for example, can generate web pages from the contributors\'92 XSML files. Individual files, however, cannot be edited concurrently without the risk of data being overwritten. So, normally, such a project would divide the files and work between different members of the project. 
+\fs24 \
+
+Code repositories such as Sourceforge, Github and Google Code pro- vide interfaces, which allow contributors to safely check out, edit, and check in files as well as other features for managing collaborative projects. This means that files are not overwritten by mistake and changes can be tracked, particularly if text files are used by the project, such as XML and programming code. Compiling and processing of the files, however, needs to be done off the site, which may require some projects to develop scripts or applications for downloading the files in addition to processing them. A number of Digital Humanities projects use these repositories for managing code, particularly where the code is intended for programming libraries or applications. 
+
+
+ Multiple Users, Desktop Environment, Data on Network 
+
+When you have multiple users working on the same data or data structures at the same time the normal solution is to use a networked data- base. Structured Query Language (SQL) is the standard that governs how data is retrieved, stored, and managed in such databases. There are various free and open source SQL databases, which can be used to implement this solution. Some desktop or web applications (such as GATE Teamware [\cf3 gate.ac.uk\cf2 /teamware]) will set up a database for you, meaning that there is little extra work except in learning how the application connects to the database, so that other users can access the data. Geographical (GIS) applications (such as ArcGIS and QGIS) work with data in tables that can be stored and shared on various SQL database server applications. 
+\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f4\i\b\fs26\fsmilli13333 \cf2 Multiple Users, Web Environment, Data on Network 
+\f0\i0\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\fs26\fsmilli13333 \cf2 Where the data used by the project is relatively simple, such as data in tables or geographical data, there may be cloud solutions to edit and store the data using web or mobile applications. Google provides a few free services which allow multiple users to edit tabular data (Sheets, Fusion Tables) or geographical data (My Maps, Fusion Tables) on different devices. There are often web alternatives to desktop research applications, such as RStudio for the R statistics application and GATE Teamware for the GATE language processing application. All these solutions allow for different people to work simultaneously on the same data in different locations and on different devices. 
+\fs24 \
+
+\fs26\fsmilli13333 other applications may require the data to be stored in a networked (SQL) database. There is a powerful web open source application for MySQL and MariaDB called phpMyAdmin, which can be used to set up these databases (the equivalent for PostgreSQL is phpPgAdmin) and 
+\fs24 \
+
+\fs26\fsmilli13333 enter and edit information online for different users. Most universities provide a MySQL or similar server for staff and students, which can be used for these purposes, although it is increasingly common to use virtual servers for SQL databases. 
+\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f4\i\b\fs26\fsmilli13333 \cf2 Multiple Users, Custom Desktop Application, Data on Network 
+\f0\i0\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\fs26\fsmilli13333 \cf2 In situations where you are dealing with very complex data, the available software applications may not be able to link together and structure the data adequately for the research purposes of the project. If people are working at the same workplace, where equipment, software, and support are consistent, a desktop application may be the most appropriate inter- face for entering data. Such systems are often used by larger museums to manage information about their collections, or long-term projects such as dictionaries. 
+\fs24 \
+
+\fs26\fsmilli13333 The screenshot in Fig. \cf3 15.2 \cf2 shows an interface to the Dictionary of old Norse Prose\'92s database.
+\fs18\fsmilli9333 \cf3 \up8 4 
+\fs26\fsmilli13333 \cf2 \up0 Visual information (here the original citation slip and a scan of the printed edition, which the citation is taken from) is provided to assist the lexicographer in organizing citations within an entry. The interface is a desktop application that connects to an oracle SQL database server. 
+\fs24 \
+
+\fs26\fsmilli13333 Desktop applications tend to be highly responsive to user input, as there is little time lag in connecting to the database and very fast transfer speeds between the application and the data source. Additionally, the code is normally executed natively by the operating system, rather than by an intermediate application such as a browser. This often makes the inter- face much faster to respond to user input than a web application, but the user needs to have access to the required network and operating system, and to be able to install the software for any device they need to use. 
+\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f4\i\b\fs26\fsmilli13333 \cf2 Multiple Users, Custom Web Application 
+\f0\i0\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\fs26\fsmilli13333 \cf2 In situations where there are different users in different locations using varying devices, a custom web application is often the most powerful and flexible solution. As mentioned previously, social media sites are examples of this type of solution, where multiple users are able to access, contribute, and link information. Social media sites represent the enormous 
+\f2\b scalability 
+\f0\b0 of the technology, to the extent that hundreds of millions of users can simultaneously edit and link within a single database. 
+\fs24 \
+
+\fs26\fsmilli13333 The popularity of this model means that the technologies it uses (database, programming interface and website framework) are free and open source, and are accompanied by a massive amount of support avail- able online. This solution, the custom web application, is discussed at length in the next section. 
+\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f4\i\b\fs26\fsmilli13333 \cf2 Crowdsourced, Web Form (No Editing) 
+\f0\i0\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\fs26\fsmilli13333 \cf2 Situations where data is collected from non-specialists is often called 
+\f2\b crowdsourcing
+\f0\b0 , but traditionally researchers have often gathered data from the public for research through surveys and forms. Simple digital forms\'97where the input is in the form of text, yes/no answers, and multiple-choice options\'97can be created using a variety of free online tools. The information is normally stored in a tabular format such a spread- sheet, which can be used for statistical and qualitative analysis. This type of interface involves single direction information gathering from the end-user\'92s perspective: they submit the information and, once submit- ted, it cannot normally be edited it. Because the interface is one-way, it is much simpler to create than a system that allows the users to retrieve and edit the information themselves.
+\fs18\fsmilli9333 \cf3 \up8 5 
+\fs24 \cf2 \up0 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f4\i\b\fs26\fsmilli13333 \cf2 Crowdsourced, Custom Web Application 
+\f0\i0\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\fs26\fsmilli13333 \cf2 A custom web application may be appropriate in situations where a project is 
+\f2\b crowdsourced
+\f0\b0 , but either requires more complex input than traditional forms (e.g. where images are involved, or linking of data) or a more complex process, where contributors can retrieve and edit their contributions. These interfaces are the most difficult interfaces to develop because they need to be understandable and usable to a very large variety of people with little or no training in the particular discipline. The interface needs to be very clear and simple, with workflows that can be followed by members of the public. Any inconsistencies or faults may put people off from contributing, thus negating the benefits of crowdsourcing. The application must be sufficiently flexible to allow complex input, but at the same time there must be systems in place to deal with deliberate misinformation supplied by contributors. 
+\fs24 \
+
+\fs26\fsmilli13333 Such projects are normally limited to particular processes that are more reliably or easily done by humans than machines, such as transcribing handwritten documents. Projects such as Zooniverse (\cf3 zooniverse.org\cf2 ) pro- vide support for developing crowdsourced research projects. At the time of writing all the humanities projects on Zooniverse involve transcribing and annotating manuscripts and other documents, a process that is still easier for humans to do than computers. For example, one project asks users to identify images in historical scientific publications and annotate them according to captions and keywords. Another example of a largely crowdsourced project is the Textual Communities project, which allows signed-up users to contribute XML transcriptions of manuscripts. 
+\fs24 \
+
+\fs26\fsmilli13333 This latter type of application gives users much more control over their contributions and credits contributors. It is limited to producing XML code directly (with syntax highlighting to assist) and does not link to detail outside of the page. There are several advantages to giving users this amount of control and credit: they have an incentive to provide more and better-quality input if their responsibility is acknowledged. Additionally, contributions can be included as assessed work in taught courses, or as part of other research projects. There is added complexity in such an interface, because user access and privileges must be carefully managed. 
+\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\fs36 \cf2 Web Interfaces for Creating and Editing Data
+\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\fs26\fsmilli13333 \cf2 The following is meant as background to creating a web application as a user interface for a Digital Humanities project. A web interface sits at one end of a complete web application providing the necessary information and context to assist input, dealing with the user input, and feeding back information about the input. A user opens a web site by inputting a URL in a browser. The web server executes an application, which pro- duces a web page. The resulting web pages normally have links and/or forms that allow the user to continue the process by opening new pages. The information that is sent may be used to store new information on the server, to retrieve information, or a combination of both. 
+\fs24 \
+
+\fs26\fsmilli13333 Web applications can be very complex because they require a knowledge of the structure of the underlying data (e.g. XML, relational data), the ways in which the data can be accessed and transformed (e.g. XSLT, SQL), the programming language used to make the transformation (the Application Programming Interface (
+\f2\b API
+\f0\b0 ) language), as well as the web output technologies (normally HTML, CSS and Javascript) used to generate the resulting pages. Fortunately, many of the issues are solved by a range of libraries and plugins, which various projects and initiatives have made public and continue to support. 
+\fs24 \
+
+\fs26\fsmilli13333 Figure \cf3 15.3 \cf2 shows the structure of the application from user to data- base and the various technical languages commonly used at each stage of the process, although the application will tend to focus development on one of the stages (web, API or SQL). There are many libraries and frameworks, which simplify this process. Figure \cf3 15.3 \cf2 represents a con- figuration widely used by large applications wherein users both con- tribute and access data. It is the model (with minor variations) used by Facebook, Twitter and Wikipedia, for example, which all specifically use MySQL/MariaDB as the database server and PHP as the API language. Alternatively, an XML-based project might use XLST to read and trans- form XML data, for example, and there are many other languages which can be used to write the application itself. 
+\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\fs36 \cf2 Designing the Interface\
+\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\fs26\fsmilli13333 \cf2 The design of user interfaces is the subject of an international standard (ISo 9241), which covers all human-machine interfaces. The standard describes, in great detail, standard ways in which information in the interface should be organized and formatted. These principles of presentation are fairly self-evident and include: clarity, discriminability, conciseness, consistency, detectability, legibility, and comprehensibility. Normally a project will use a pre-existing framework or template and adapt it to its own purposes. Pre-existing frameworks such as Bootstrap and omeka provide structures for arranging information in a web inter- face according to these principles, but attention should still be paid to the clarity and conciseness of the specific application\'92s content. 
+\fs24 \
+
+\fs26\fsmilli13333 The user interface always involves a 
+\f2\b dialogue 
+\f0\b0 between the application and the user, where the application asks the user for input and gives feed- back in response to input and information to assist in the input. There are seven principles that outline how the process of interaction should work in relation to the user\'92s knowledge and expectations on one hand, and the required result of the process for research purposes, on the other. These principles are outlined below, with some examples from the Skaldic Project case study. 
+\fs24 \
+
+ 1. Suitability for the task: the interface should effectively work towards completing the desired outcome of the process. In our case study, the end result is the digital edition with accurate linking of text, translation, and other features. 
+
+2.	
+Self-descriptiveness: the input required and the output desired by the user should be understandable at the point it is used, providing immediate feedback automatically (such as through real time updates based on the form input) or as requested by the user (such as through pop-ups).
+
+3.
+Controllability: the interface should allow the user to determine the speed of the process, as well as go to earlier or later stages in the process. In our case study, this is achieved by separating the stages of entering the edition into separate forms, which can be revisited to modify previously submitted information. 
+
+4.	
+Conformity with user expectations: the interface should be consistent; be sensitive to the knowledge, expectations and digital proficiency of the user; and, use conventional terminology and for- matting wherever possible.	
+
+5.
+Error tolerance: the interface should prevent users from entering input erroneously, but also where possible it should be able to handle errors from the user, minimizing additional input. Various filters in the Skaldic interface, for example, take the free text input and remove extraneous formatting to ensure the stored data is semantically unambiguous and simple. 
+
+6.
+Suitability for individualization: the interface should be modifiable according to the user\'92s needs, preferences, and knowledge of the system or discipline. The Skaldic interface makes common processes easily available, but allows additional and more complex data to be edited through additional forms. A bookmarking feature also allows users to easily return to pages and forms. 
+
+7.
+Suitability for learning: the interface should guide the user to help them learn the processes and thus improve speed and accuracy of input. 
+These principles are underpinned by a body of research into user interfaces.
+ 
+ By far the easiest way to begin designing a user interface, however, is to look at other examples which implement processes relevant to your own project. You should consider what makes a particular website or application user-friendly and how it supports complex input. 
+\fs24 \
+
+ The technicalities of building the interface are beyond the scope of this handbook, but a certain amount of knowledge can also be gained from existing interfaces. Most research sites will describe how the site is built and additional information can be gleaned from looking at the source code, which will normally reveal what frameworks and libraries are used by the site to structure the interface and create interactive elements. 
+
